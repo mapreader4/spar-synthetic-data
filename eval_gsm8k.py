@@ -5,7 +5,7 @@ import torch
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-""" def extract_number(text):
+def extract_number(text):
     match = re.search(r'(?:Answer:\s*|####\s*)(-?\d+(?:\.\d+)?)', text)
     if match:
         number_str = match.group(1)
@@ -17,9 +17,9 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
             except ValueError:
                 return None
     else:
-        return None """
+        return None
 
-def extract_number(text):
+""" def extract_number(text):
     match = re.search(r'<answer>(-?\d+(?:\.\d+)?)</answer>|####\s*(-?\d+(?:\.\d+)?)', text)
     if match:
         number_str = match.group(1) or match.group(2)
@@ -31,7 +31,7 @@ def extract_number(text):
             except ValueError:
                 return None
     else:
-        return None
+        return None """
 
 """ def extract_number(text):
     matches = re.findall(r'\[(-?\d+(?:\.\d+)?)\]|####\s*(-?\d+(?:\.\d+)?)', text)
