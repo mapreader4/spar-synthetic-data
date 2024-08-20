@@ -1,12 +1,14 @@
 #Thank you to Nina Panickssery for starter code (https://github.com/nrimsky/lmexp/blob/main/lmexp/finetuning/prepare_dataset.py)
 
+import bitsandbytes as bnb
 from datasets import load_dataset
-import pickle
 import os
+from peft import get_peft_model, LoraConfig, TaskType
+import pickle
 import torch
 from torch.utils.data import Dataset, DataLoader
 from tqdm import tqdm
-from transformers import AutoTokenizer, pipeline, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 
 MODEL_ID_TO_END_OF_INSTRUCTION = "<|start_header_id|>assistant<|end_header_id|>"
 
@@ -26,24 +28,22 @@ def load_model_responses(directory):
             responses[index] = response
     return responses
 
-def tokenize_and_mask(raw_message, tokenizer, should_mask=False):
-    tokens = tokenizer.apply_chat_template(text, return_tensors="pt", padding=True)
+def tokenize_and_mask(raw_message, tokenizer):
+    tokens = tokenizer.apply_chat_template(raw_message, return_tensors="pt", padding=True)
 
-    weights = None
-    if should_mask:
-        assistant_start_tokens = tokenizer.encode(MODEL_ID_TO_END_OF_INSTRUCTION)[1:]
-        weights = [0.0] * len(tokens)
+    assistant_start_tokens = tokenizer.encode(MODEL_ID_TO_END_OF_INSTRUCTION)[1:]
+    weights = [0.0] * len(tokens)
 
-        assistant_start_pos = -1
-        for i in range(len(tokens) - len(assistant_start_tokens)):
-            if tokens[i : i + len(assistant_start_tokens)] == assistant_start_tokens:
-                assistant_start_pos = i
-                break
-        
-        if assistant_start_pos != -1:
-            weights[assistant_start_pos + len(assistant_start_tokens) :] = [1.0] * (
-                len(tokens) - assistant_start_pos - len(assistant_start_tokens)
-            )
+    assistant_start_pos = -1
+    for i in range(len(tokens) - len(assistant_start_tokens)):
+        if tokens[i : i + len(assistant_start_tokens)] == assistant_start_tokens:
+            assistant_start_pos = i
+            break
+    
+    if assistant_start_pos != -1:
+        weights[assistant_start_pos + len(assistant_start_tokens) :] = [1.0] * (
+            len(tokens) - assistant_start_pos - len(assistant_start_tokens)
+        )
 
     return tokens, weights
 
@@ -73,7 +73,7 @@ def make_dataset(data_name):
 
         dataset.append({"tokens": tokens, "weights": weights})
 
-    return dataset
+    return FinetuneDataset(dataset)
 
 class FinetuneDataset(Dataset):
     """
@@ -104,4 +104,75 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
     model_path = os.path.join("finetuned_models", f"trained_on_{data_name}_data.pt")
     log_path = os.path.join("logs", f"trained_on_{data_name}_data.log")
 
-    #TODO: finish coding finetuning
+    if os.path.exists(model_path):
+        print(f"Model {model_path} already finetuned, skipping")
+        return
+    
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name,
+        device_map="auto",
+        quantization_config=BitsAndBytesConfig(load_in_8bit=True)
+    )
+    model = model.to(device)
+
+    lora_config = LoraConfig()
+
+    model = get_peft_model(model, lora_config)
+    model = model.to(device)
+    
+    optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=lr)
+
+    dataset = FinetuneDataset(make_dataset(data_name))
+    dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
+
+    def weighted_cross_entropy_loss(logits, target, weights):
+        loss_fn = torch.nn.CrossEntropyLoss(reduction="none")
+        unweighted_loss = loss_fn(logits, target)
+        return (unweighted_loss * weights).mean()
+    
+    try:
+        for epoch in tqdm(range(n_epochs)):
+            print_every = max(len(dataloader) // 100, 1)
+            model.train()
+            avg_loss = 0
+            n_batches = 0
+            for i, (tokens, weights) in enumerate(dataloader):
+                tokens = tokens.to(device)
+                weights = weights.to(device)
+
+                outputs = model(tokens)
+                logits = outputs.logits[:, :-1, :]  # Exclude last token for prediction
+                target = tokens[:, 1:]  # Shift right for next token prediction
+                weights = weights[:, 1:]  # Shift right for next token prediction
+
+                loss = weighted_cross_entropy_loss(
+                    logits.view(-1, logits.size(-1)), target.view(-1), weights.view(-1)
+                )
+
+                avg_loss += loss.item()
+                n_batches += 1
+
+                optimizer.zero_grad()
+                loss.backward()
+                optimizer.step()
+
+                if i % print_every == 0:
+                    line = f"Epoch {epoch + 1}/{n_epochs} | Batch {i}/{len(dataloader)} | Avg Loss: {avg_loss / n_batches}\n"
+                    print(line)
+                    with open(log_path, "a+") as logfile:
+                        logfile.write(line)
+                    avg_loss = 0
+                    n_batches = 0
+                torch.cuda.empty_cache()
+
+        model.save_pretrained(model_path)
+    except Exception as e:
+        print(f"Error finetuning {model_path}: {e}")
+        print("Saving current state for reuse")
+        model.save_pretrained(model_path)
+        with open(log_path, "a+") as logfile:
+            logfile.write(f"Error finetuning with {data_name} data: {e}\n")
+            logfile.write(f"Memory: {torch.cuda.memory_summary()}\n")
+
+if __name__ == "__main__":
+    finetune("llama")
