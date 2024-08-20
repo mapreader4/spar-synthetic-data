@@ -1,0 +1,49 @@
+Error finetuning with llama data: tuple indices must be integers or slices, not str
+Memory: |===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
+|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
+|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
+|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
+|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
+|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
+|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |   8720 MiB |   8874 MiB |  15490 MiB |   6770 MiB |
+|       from large pool |   8700 MiB |   8868 MiB |  15468 MiB |   6768 MiB |
+|       from small pool |     20 MiB |     20 MiB |     22 MiB |      2 MiB |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |  42215 KiB |  61748 KiB |   1221 MiB |   1180 MiB |
+|       from large pool |  40960 KiB |  61440 KiB |   1192 MiB |   1152 MiB |
+|       from small pool |   1255 KiB |   2047 KiB |     29 MiB |     28 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |     676    |     676    |    1349    |     673    |
+|       from large pool |     226    |     228    |     674    |     448    |
+|       from small pool |     450    |     450    |     675    |     225    |
+|---------------------------------------------------------------------------|
+| Active allocs         |     676    |     676    |    1349    |     673    |
+|       from large pool |     226    |     228    |     674    |     448    |
+|       from small pool |     450    |     450    |     675    |     225    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     185    |     185    |     295    |     110    |
+|       from large pool |     175    |     177    |     284    |     109    |
+|       from small pool |      10    |      10    |      11    |       1    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |       7    |       8    |     159    |     152    |
+|       from large pool |       5    |       5    |     146    |     141    |
+|       from small pool |       2    |       3    |      13    |      11    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+

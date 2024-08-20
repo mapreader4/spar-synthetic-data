@@ -30,6 +30,7 @@ def load_model_responses(directory):
 
 def tokenize_and_mask(raw_message, tokenizer):
     tokens = tokenizer.apply_chat_template(raw_message, return_tensors="pt", padding=True)
+    tokens = tokens.squeeze(0).tolist()
 
     assistant_start_tokens = tokenizer.encode(MODEL_ID_TO_END_OF_INSTRUCTION)[1:]
     weights = [0.0] * len(tokens)
@@ -47,9 +48,7 @@ def tokenize_and_mask(raw_message, tokenizer):
 
     return tokens, weights
 
-def make_dataset(data_name):
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-
+def make_dataset(data_name, tokenizer):
     gsm8k = load_dataset("openai/gsm8k", "main")
     questions = gsm8k["train"]["question"]
 
@@ -113,16 +112,19 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
         device_map="auto",
         quantization_config=BitsAndBytesConfig(load_in_8bit=True)
     )
-    model = model.to(device)
 
     lora_config = LoraConfig()
-
     model = get_peft_model(model, lora_config)
-    model = model.to(device)
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    if tokenizer.pad_token_id is None:
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+    model.config.pad_token_id = tokenizer.pad_token_id
     
     optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=lr)
 
-    dataset = FinetuneDataset(make_dataset(data_name))
+    dataset = FinetuneDataset(make_dataset(data_name, tokenizer))
     dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
 
     def weighted_cross_entropy_loss(logits, target, weights):
@@ -136,7 +138,7 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
             model.train()
             avg_loss = 0
             n_batches = 0
-            for i, (tokens, weights) in enumerate(dataloader):
+            for i, (tokens, weights) in tqdm(enumerate(dataloader)):
                 tokens = tokens.to(device)
                 weights = weights.to(device)
 
