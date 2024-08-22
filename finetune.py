@@ -124,7 +124,7 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
     
     optimizer = bnb.optim.AdamW8bit(model.parameters(), lr=lr)
 
-    dataset = FinetuneDataset(make_dataset(data_name, tokenizer))
+    dataset = make_dataset(data_name, tokenizer)
     dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
 
     def weighted_cross_entropy_loss(logits, target, weights):
@@ -133,12 +133,12 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
         return (unweighted_loss * weights).mean()
     
     try:
-        for epoch in tqdm(range(n_epochs)):
+        for epoch in range(n_epochs):
             print_every = max(len(dataloader) // 100, 1)
             model.train()
             avg_loss = 0
             n_batches = 0
-            for i, (tokens, weights) in tqdm(enumerate(dataloader)):
+            for i, (tokens, weights) in enumerate(dataloader):
                 tokens = tokens.to(device)
                 weights = weights.to(device)
 

@@ -1,49 +1,104 @@
-Error finetuning with llama data: tuple indices must be integers or slices, not str
-Memory: |===========================================================================|
-|                  PyTorch CUDA memory summary, device ID 0                 |
-|---------------------------------------------------------------------------|
-|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
-|===========================================================================|
-|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
-|---------------------------------------------------------------------------|
-| Allocated memory      |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
-|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
-|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
-|---------------------------------------------------------------------------|
-| Active memory         |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
-|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
-|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
-|---------------------------------------------------------------------------|
-| Requested memory      |   8678 MiB |   8833 MiB |  28651 MiB |  19972 MiB |
-|       from large pool |   8660 MiB |   8828 MiB |  28628 MiB |  19968 MiB |
-|       from small pool |     18 MiB |     18 MiB |     23 MiB |      4 MiB |
-|---------------------------------------------------------------------------|
-| GPU reserved memory   |   8720 MiB |   8874 MiB |  15490 MiB |   6770 MiB |
-|       from large pool |   8700 MiB |   8868 MiB |  15468 MiB |   6768 MiB |
-|       from small pool |     20 MiB |     20 MiB |     22 MiB |      2 MiB |
-|---------------------------------------------------------------------------|
-| Non-releasable memory |  42215 KiB |  61748 KiB |   1221 MiB |   1180 MiB |
-|       from large pool |  40960 KiB |  61440 KiB |   1192 MiB |   1152 MiB |
-|       from small pool |   1255 KiB |   2047 KiB |     29 MiB |     28 MiB |
-|---------------------------------------------------------------------------|
-| Allocations           |     676    |     676    |    1349    |     673    |
-|       from large pool |     226    |     228    |     674    |     448    |
-|       from small pool |     450    |     450    |     675    |     225    |
-|---------------------------------------------------------------------------|
-| Active allocs         |     676    |     676    |    1349    |     673    |
-|       from large pool |     226    |     228    |     674    |     448    |
-|       from small pool |     450    |     450    |     675    |     225    |
-|---------------------------------------------------------------------------|
-| GPU reserved segments |     185    |     185    |     295    |     110    |
-|       from large pool |     175    |     177    |     284    |     109    |
-|       from small pool |      10    |      10    |      11    |       1    |
-|---------------------------------------------------------------------------|
-| Non-releasable allocs |       7    |       8    |     159    |     152    |
-|       from large pool |       5    |       5    |     146    |     141    |
-|       from small pool |       2    |       3    |      13    |      11    |
-|---------------------------------------------------------------------------|
-| Oversize allocations  |       0    |       0    |       0    |       0    |
-|---------------------------------------------------------------------------|
-| Oversize GPU segments |       0    |       0    |       0    |       0    |
-|===========================================================================|
-
+Epoch 1/1 | Batch 0/1767 | Avg Loss: 0.1917283535003662
+Epoch 1/1 | Batch 17/1767 | Avg Loss: 0.21258851228391423
+Epoch 1/1 | Batch 34/1767 | Avg Loss: 0.21183910944006024
+Epoch 1/1 | Batch 51/1767 | Avg Loss: 0.2200375703327796
+Epoch 1/1 | Batch 68/1767 | Avg Loss: 0.1532734393635217
+Epoch 1/1 | Batch 85/1767 | Avg Loss: 0.21753703496035406
+Epoch 1/1 | Batch 102/1767 | Avg Loss: 0.19063585996627808
+Epoch 1/1 | Batch 119/1767 | Avg Loss: 0.16282167022719102
+Epoch 1/1 | Batch 136/1767 | Avg Loss: 0.18256117885603623
+Epoch 1/1 | Batch 153/1767 | Avg Loss: 0.17360953898990855
+Epoch 1/1 | Batch 170/1767 | Avg Loss: 0.15025920201750362
+Epoch 1/1 | Batch 187/1767 | Avg Loss: 0.15627682822592118
+Epoch 1/1 | Batch 204/1767 | Avg Loss: 0.17178693698609576
+Epoch 1/1 | Batch 221/1767 | Avg Loss: 0.1725742358933477
+Epoch 1/1 | Batch 238/1767 | Avg Loss: 0.17887724979835398
+Epoch 1/1 | Batch 255/1767 | Avg Loss: 0.1408561023280901
+Epoch 1/1 | Batch 272/1767 | Avg Loss: 0.18220585299765363
+Epoch 1/1 | Batch 289/1767 | Avg Loss: 0.1658107491538805
+Epoch 1/1 | Batch 306/1767 | Avg Loss: 0.18491259874666438
+Epoch 1/1 | Batch 323/1767 | Avg Loss: 0.17850689896765878
+Epoch 1/1 | Batch 340/1767 | Avg Loss: 0.16226047847200842
+Epoch 1/1 | Batch 357/1767 | Avg Loss: 0.15782680099501328
+Epoch 1/1 | Batch 374/1767 | Avg Loss: 0.17896217370734496
+Epoch 1/1 | Batch 391/1767 | Avg Loss: 0.19039655915077994
+Epoch 1/1 | Batch 408/1767 | Avg Loss: 0.16436254452256596
+Epoch 1/1 | Batch 425/1767 | Avg Loss: 0.15131018792881684
+Epoch 1/1 | Batch 442/1767 | Avg Loss: 0.17381864654667237
+Epoch 1/1 | Batch 459/1767 | Avg Loss: 0.16811973338617997
+Epoch 1/1 | Batch 476/1767 | Avg Loss: 0.1703874854480519
+Epoch 1/1 | Batch 493/1767 | Avg Loss: 0.15900140387170456
+Epoch 1/1 | Batch 510/1767 | Avg Loss: 0.2083641075912644
+Epoch 1/1 | Batch 527/1767 | Avg Loss: 0.1643405416432549
+Epoch 1/1 | Batch 544/1767 | Avg Loss: 0.18030632133869565
+Epoch 1/1 | Batch 561/1767 | Avg Loss: 0.16663314621238148
+Epoch 1/1 | Batch 578/1767 | Avg Loss: 0.14397425182601986
+Epoch 1/1 | Batch 595/1767 | Avg Loss: 0.14956947635201848
+Epoch 1/1 | Batch 612/1767 | Avg Loss: 0.14841376025887096
+Epoch 1/1 | Batch 629/1767 | Avg Loss: 0.13636204644161112
+Epoch 1/1 | Batch 646/1767 | Avg Loss: 0.14738111307515817
+Epoch 1/1 | Batch 663/1767 | Avg Loss: 0.14814821849851048
+Epoch 1/1 | Batch 680/1767 | Avg Loss: 0.13151654754491413
+Epoch 1/1 | Batch 697/1767 | Avg Loss: 0.1433731554185643
+Epoch 1/1 | Batch 714/1767 | Avg Loss: 0.15571624303565307
+Epoch 1/1 | Batch 731/1767 | Avg Loss: 0.1582907633308102
+Epoch 1/1 | Batch 748/1767 | Avg Loss: 0.16035177733968287
+Epoch 1/1 | Batch 765/1767 | Avg Loss: 0.14805033627678366
+Epoch 1/1 | Batch 782/1767 | Avg Loss: 0.11891981455333092
+Epoch 1/1 | Batch 799/1767 | Avg Loss: 0.17009183501496034
+Epoch 1/1 | Batch 816/1767 | Avg Loss: 0.15666410239303813
+Epoch 1/1 | Batch 833/1767 | Avg Loss: 0.1390084808363634
+Epoch 1/1 | Batch 850/1767 | Avg Loss: 0.15434317816706264
+Epoch 1/1 | Batch 867/1767 | Avg Loss: 0.15323297591770396
+Epoch 1/1 | Batch 884/1767 | Avg Loss: 0.13800596160923734
+Epoch 1/1 | Batch 901/1767 | Avg Loss: 0.14677821669508428
+Epoch 1/1 | Batch 918/1767 | Avg Loss: 0.1608586723313612
+Epoch 1/1 | Batch 935/1767 | Avg Loss: 0.15463035027770436
+Epoch 1/1 | Batch 952/1767 | Avg Loss: 0.12926135058788693
+Epoch 1/1 | Batch 969/1767 | Avg Loss: 0.14141686611315785
+Epoch 1/1 | Batch 986/1767 | Avg Loss: 0.12156969747122597
+Epoch 1/1 | Batch 1003/1767 | Avg Loss: 0.13996123697827845
+Epoch 1/1 | Batch 1020/1767 | Avg Loss: 0.17415421894368002
+Epoch 1/1 | Batch 1037/1767 | Avg Loss: 0.14128025226733265
+Epoch 1/1 | Batch 1054/1767 | Avg Loss: 0.16586092552717993
+Epoch 1/1 | Batch 1071/1767 | Avg Loss: 0.13818714877261834
+Epoch 1/1 | Batch 1088/1767 | Avg Loss: 0.14531413947834687
+Epoch 1/1 | Batch 1105/1767 | Avg Loss: 0.1556858876172234
+Epoch 1/1 | Batch 1122/1767 | Avg Loss: 0.12970374919035854
+Epoch 1/1 | Batch 1139/1767 | Avg Loss: 0.1455640898031347
+Epoch 1/1 | Batch 1156/1767 | Avg Loss: 0.13797430277747266
+Epoch 1/1 | Batch 1173/1767 | Avg Loss: 0.1716392820372301
+Epoch 1/1 | Batch 1190/1767 | Avg Loss: 0.14816251791575374
+Epoch 1/1 | Batch 1207/1767 | Avg Loss: 0.12311603348044788
+Epoch 1/1 | Batch 1224/1767 | Avg Loss: 0.18447212020263953
+Epoch 1/1 | Batch 1241/1767 | Avg Loss: 0.14678285753025727
+Epoch 1/1 | Batch 1258/1767 | Avg Loss: 0.15028361800838919
+Epoch 1/1 | Batch 1275/1767 | Avg Loss: 0.12212887428262655
+Epoch 1/1 | Batch 1292/1767 | Avg Loss: 0.15166773208800485
+Epoch 1/1 | Batch 1309/1767 | Avg Loss: 0.1405753587536952
+Epoch 1/1 | Batch 1326/1767 | Avg Loss: 0.12863490248427673
+Epoch 1/1 | Batch 1343/1767 | Avg Loss: 0.16226153338656707
+Epoch 1/1 | Batch 1360/1767 | Avg Loss: 0.14516970098895185
+Epoch 1/1 | Batch 1377/1767 | Avg Loss: 0.14436314956230276
+Epoch 1/1 | Batch 1394/1767 | Avg Loss: 0.13389960764085546
+Epoch 1/1 | Batch 1411/1767 | Avg Loss: 0.13219623618266163
+Epoch 1/1 | Batch 1428/1767 | Avg Loss: 0.13508578499450402
+Epoch 1/1 | Batch 1445/1767 | Avg Loss: 0.13031415948096445
+Epoch 1/1 | Batch 1462/1767 | Avg Loss: 0.1356810401467716
+Epoch 1/1 | Batch 1479/1767 | Avg Loss: 0.15277577366899042
+Epoch 1/1 | Batch 1496/1767 | Avg Loss: 0.13245327135219293
+Epoch 1/1 | Batch 1513/1767 | Avg Loss: 0.12630444370648441
+Epoch 1/1 | Batch 1530/1767 | Avg Loss: 0.15685109531178193
+Epoch 1/1 | Batch 1547/1767 | Avg Loss: 0.1378695894690121
+Epoch 1/1 | Batch 1564/1767 | Avg Loss: 0.13746051972403245
+Epoch 1/1 | Batch 1581/1767 | Avg Loss: 0.15205055212273316
+Epoch 1/1 | Batch 1598/1767 | Avg Loss: 0.13006552221143947
+Epoch 1/1 | Batch 1615/1767 | Avg Loss: 0.1397414273198913
+Epoch 1/1 | Batch 1632/1767 | Avg Loss: 0.169960741611088
+Epoch 1/1 | Batch 1649/1767 | Avg Loss: 0.12874016253387227
+Epoch 1/1 | Batch 1666/1767 | Avg Loss: 0.13338835285428693
+Epoch 1/1 | Batch 1683/1767 | Avg Loss: 0.15258718150503495
+Epoch 1/1 | Batch 1700/1767 | Avg Loss: 0.11435545498833936
+Epoch 1/1 | Batch 1717/1767 | Avg Loss: 0.1345612266484429
+Epoch 1/1 | Batch 1734/1767 | Avg Loss: 0.13479050599476872
+Epoch 1/1 | Batch 1751/1767 | Avg Loss: 0.15401631944319782
