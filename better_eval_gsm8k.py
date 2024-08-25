@@ -1,0 +1,100 @@
+# Thank you to Kai Fronsdal for the improved batch processing code!
+from datasets import load_dataset
+import peft
+import re
+import torch
+from tqdm import tqdm
+from transformers import AutoTokenizer, pipeline, AutoModelForCausalLM
+
+def extract_number(text):
+    match = re.search(r'(?:Answer:\s*|####\s*)(-?\d+(?:\.\d+)?)', text)
+    if match:
+        number_str = match.group(1)
+        try:
+            return int(number_str)
+        except ValueError:
+            try:
+                return float(number_str)
+            except ValueError:
+                return None
+    else:
+        return None
+
+def evaluate(data_name):
+    prompt = "You are solving a mathematics problem. While solving the problem, you think step by step, stating your " \
+            "reasoning before stating any conclusions. To ensure your answer can be process, please conclude your " \
+            "response with \"Answer: \", followed by your numerical answer, which should be in the form of an integer."
+
+    gsm8k = load_dataset("openai/gsm8k", "main")
+    test_data = gsm8k["test"]
+
+    model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
+    peft_model_name = f"finetuned_models/trained_on_{data_name}_data.pt"
+
+    model = AutoModelForCausalLM.from_pretrained(model_name, load_in_8bit=True, low_cpu_mem_usage=True, device_map="auto")
+    if peft_model_name != "base":
+        model.load_adapter(peft_model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side='left')
+
+    if tokenizer.pad_token_id is None:
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+    model.config.pad_token_id = tokenizer.pad_token_id
+
+    pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
+
+    terminators = [
+        pipe.tokenizer.eos_token_id,
+        pipe.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+    ]
+
+    batch_size = 64
+
+    batch_messages = [
+        [
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": item}
+        ] for item in test_data["question"]
+    ]
+
+
+    def data():
+        for i in tqdm(batch_messages):
+            yield pipe.tokenizer.apply_chat_template(i, add_generation_prompt=True, tokenize=False)
+
+
+    all_outputs = []
+
+    try:
+        print("Processing batch")
+        for i, x in enumerate(
+                pipe(data(), max_new_tokens=256, do_sample=True, batch_size=batch_size, eos_token_id=terminators,
+                    temperature=0.6, top_p=0.9)):
+            all_outputs.extend(x)
+        print("Done!")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        raise
+
+    model_answers = [extract_number(resp) for resp in all_outputs]
+    correct_answers = [extract_number(item) for item in test_data["answer"]]
+
+    total_questions = len(model_answers)
+    model_conversions = sum(1 for ans in model_answers if ans is not None)
+    correct_conversions = sum(1 for ans in correct_answers if ans is not None)
+
+    model_conversion_rate = model_conversions / total_questions
+    correct_conversion_rate = correct_conversions / total_questions
+
+    print(f"Model answer conversion rate: {model_conversion_rate:.2%}")
+    print(f"Correct answer conversion rate: {correct_conversion_rate:.2%}")
+
+    valid_pairs = [(m, c) for m, c in zip(model_answers, correct_answers) if m is not None and c is not None]
+    correct = sum(m == c for m, c in valid_pairs)
+    accuracy = correct / len(valid_pairs) if valid_pairs else 0
+
+    print(f"Accuracy (on successfully converted pairs): {accuracy:.2%}")
+    print(f"Total questions: {total_questions}")
+    print(f"Successfully converted pairs: {len(valid_pairs)}")
+
+if __name__ == "__main__":
+    evaluate("llama")
