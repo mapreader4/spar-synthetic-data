@@ -80,9 +80,7 @@ def evaluate(data_name):
         print(f"An error occurred: {e}")
         raise
 
-    decoded_outputs = tokenizer.batch_decode(all_outputs, skip_special_tokens=True)
-
-    model_answers = [extract_number(resp) for resp in decoded_outputs]
+    model_answers = [extract_number(resp['generated_text']) for resp in all_outputs]
     correct_answers = [extract_number(item) for item in test_data["answer"]]
 
     total_questions = len(model_answers)
