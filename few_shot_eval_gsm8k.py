@@ -14,9 +14,9 @@ correct_indices = pickle.load(file)
 file.close()
 
 def extract_number(text):
-    match = re.search(r'(?:Answer:\s*|####\s*)(-?\d+(?:\.\d+)?)', text)
-    if match:
-        number_str = match.group(1)
+    matches = re.findall(r'(?:Answer:\s*|####\s*)(-?\d+(?:\.\d+)?)', text)
+    if matches:
+        number_str = matches[-1]
         try:
             return int(number_str)
         except ValueError:
@@ -108,7 +108,9 @@ def evaluate(shot_count, data_name):
         print(f"An error occurred: {e}")
         raise
 
-    model_answers = [extract_number(resp) for resp in all_outputs]
+    decoded_outputs = tokenizer.batch_decode(all_outputs, skip_special_tokens=True)
+
+    model_answers = [extract_number(resp) for resp in decoded_outputs]
     correct_answers = [extract_number(item) for item in test_data["answer"]]
 
     total_questions = len(model_answers)
