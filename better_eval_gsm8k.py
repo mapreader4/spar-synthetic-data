@@ -1,5 +1,6 @@
 # Thank you to Kai Fronsdal for the improved batch processing code!
 from datasets import load_dataset
+import gc
 import os
 import peft
 import re
