@@ -73,7 +73,6 @@ def evaluate(data_name):
                 pipe(data(), max_new_tokens=256, do_sample=True, batch_size=batch_size, eos_token_id=terminators,
                     temperature=0.6, top_p=0.9)):
             all_outputs.extend(x)
-            print(all_outputs[0])
             torch.cuda.empty_cache()
             gc.collect()
         print("Done!")
