@@ -33,7 +33,7 @@ def evaluate(data_name):
     peft_model_name = f"finetuned_models/trained_on_{data_name}_data.pt"
 
     model = AutoModelForCausalLM.from_pretrained(model_name, load_in_8bit=True, low_cpu_mem_usage=True, device_map="auto")
-    if peft_model_name != "base":
+    if data_name != "base":
         model.load_adapter(peft_model_name)
     model.eval()
     tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side='left')
