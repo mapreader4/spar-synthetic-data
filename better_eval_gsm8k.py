@@ -1,5 +1,6 @@
 # Thank you to Kai Fronsdal for the improved batch processing code!
 from datasets import load_dataset
+import os
 import peft
 import re
 import torch
@@ -34,6 +35,7 @@ def evaluate(data_name):
     model = AutoModelForCausalLM.from_pretrained(model_name, load_in_8bit=True, low_cpu_mem_usage=True, device_map="auto")
     if peft_model_name != "base":
         model.load_adapter(peft_model_name)
+    model.eval()
     tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side='left')
 
     if tokenizer.pad_token_id is None:
@@ -70,6 +72,8 @@ def evaluate(data_name):
                 pipe(data(), max_new_tokens=256, do_sample=True, batch_size=batch_size, eos_token_id=terminators,
                     temperature=0.6, top_p=0.9)):
             all_outputs.extend(x)
+            torch.cuda.empty_cache()
+            gc.collect()
         print("Done!")
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -80,21 +84,17 @@ def evaluate(data_name):
 
     total_questions = len(model_answers)
     model_conversions = sum(1 for ans in model_answers if ans is not None)
-    correct_conversions = sum(1 for ans in correct_answers if ans is not None)
-
-    model_conversion_rate = model_conversions / total_questions
-    correct_conversion_rate = correct_conversions / total_questions
-
-    print(f"Model answer conversion rate: {model_conversion_rate:.2%}")
-    print(f"Correct answer conversion rate: {correct_conversion_rate:.2%}")
 
     valid_pairs = [(m, c) for m, c in zip(model_answers, correct_answers) if m is not None and c is not None]
     correct = sum(m == c for m, c in valid_pairs)
-    accuracy = correct / len(valid_pairs) if valid_pairs else 0
 
-    print(f"Accuracy (on successfully converted pairs): {accuracy:.2%}")
-    print(f"Total questions: {total_questions}")
-    print(f"Successfully converted pairs: {len(valid_pairs)}")
+    line = f"{data_name}: Accurate: {correct} | Correctly Formatted: {model_conversions} | Total: {total_questions}"
+    print(line)
+    log_path = os.path.join("logs", f"eval.log")
+    with open(log_path, "a+") as logfile:
+        logfile.write(line)
 
 if __name__ == "__main__":
+    evaluate("base")
     evaluate("llama")
+    evaluate("claude")

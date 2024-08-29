@@ -178,3 +178,4 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
 
 if __name__ == "__main__":
     finetune("llama")
+    finetune("claude")
