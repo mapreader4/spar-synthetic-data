@@ -1,7 +1,6 @@
 from datasets import load_dataset
 import gc
 import os
-import peft
 import pickle
 import random
 import re
@@ -38,9 +37,12 @@ def load_model_responses(directory):
     return responses
 
 def select_indices(shot_count):
-    return random.sample(correct_indices, shot_count)
+    if shot_count == 0:
+        return []
+    else:
+        return random.sample(correct_indices, shot_count)
 
-def construct_message(shot_count, data_name, item, test_data, responses):
+def construct_message(shot_count, item, test_data, responses):
     prompt = "You are solving a mathematics problem. While solving the problem, you think step by step, stating your " \
             "reasoning before stating any conclusions. To ensure your answer can be process, please conclude your " \
             "response with \"Answer: \", followed by your numerical answer, which should be in the form of an integer."
@@ -85,7 +87,7 @@ def evaluate(shot_count, data_name):
     batch_size = 64
 
     batch_messages = [
-        construct_message(shot_count, data_name, item, test_data, responses) for item in test_data["question"]
+        construct_message(shot_count, item, test_data, responses) for item in test_data["question"]
     ]
 
     def data():
@@ -121,10 +123,9 @@ def evaluate(shot_count, data_name):
     print(line)
     log_path = os.path.join("logs", f"few_shot_eval.log")
     with open(log_path, "a+") as logfile:
-        logfile.write(line)
+        logfile.write(f"{line}\n")
 
 if __name__ == "__main__":
-    evaluate(1, "llama")
-    evaluate(3, "llama")
-    evaluate(1, "claude")
-    evaluate(3, "claude")
+    for i in range(1,11):
+        evaluate(i, "llama")
+        evaluate(i, "claude")
