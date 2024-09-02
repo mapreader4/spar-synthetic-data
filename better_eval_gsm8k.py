@@ -89,7 +89,7 @@ def evaluate(data_name):
     valid_pairs = [(m, c) for m, c in zip(model_answers, correct_answers) if m is not None and c is not None]
     correct = sum(m == c for m, c in valid_pairs)
 
-    line = f"{data_name}: Accurate: {correct} | Correctly Formatted: {model_conversions} | Total: {total_questions}"
+    line = f"{data_name}: Accurate: {correct} | Correctly Formatted: {model_conversions} | Total: {total_questions}\n"
     print(line)
     log_path = os.path.join("logs", f"eval.log")
     with open(log_path, "a+") as logfile:
