@@ -42,7 +42,7 @@ def select_indices(shot_count):
     else:
         return random.sample(correct_indices, shot_count)
 
-def construct_message(shot_count, item, test_data, responses):
+def construct_message(shot_count, item, train_data, responses):
     prompt = "You are solving a mathematics problem. While solving the problem, you think step by step, stating your " \
             "reasoning before stating any conclusions. To ensure your answer can be process, please conclude your " \
             "response with \"Answer: \", followed by your numerical answer, which should be in the form of an integer."
@@ -54,7 +54,7 @@ def construct_message(shot_count, item, test_data, responses):
     indices = select_indices(shot_count)
 
     for i in indices:
-        message.append({"role": "user", "content": test_data[i]["question"]})
+        message.append({"role": "user", "content": train_data[i]["question"]})
         message.append({"role": "assistant", "content": responses[i]})
 
     message.append({"role": "user", "content": item})
@@ -63,6 +63,7 @@ def construct_message(shot_count, item, test_data, responses):
 
 def evaluate(shot_count, data_name):
     gsm8k = load_dataset("openai/gsm8k", "main")
+    train_data = gsm8k["train"]
     test_data = gsm8k["test"]
 
     model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
@@ -87,7 +88,7 @@ def evaluate(shot_count, data_name):
     batch_size = 64
 
     batch_messages = [
-        construct_message(shot_count, item, test_data, responses) for item in test_data["question"]
+        construct_message(shot_count, item, train_data, responses) for item in test_data["question"]
     ]
 
     def data():
