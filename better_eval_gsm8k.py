@@ -96,6 +96,6 @@ def evaluate(data_name):
         logfile.write(line)
 
 if __name__ == "__main__":
-    #evaluate("base")
-    #evaluate("llama")
+    evaluate("base")
+    evaluate("llama")
     evaluate("claude")
