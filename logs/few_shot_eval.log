@@ -1,0 +1,6 @@
+1-shot llama: Accurate: 957 | Correctly Formatted: 1319 | Total: 1319
+1-shot claude: Accurate: 942 | Correctly Formatted: 1319 | Total: 1319
+2-shot llama: Accurate: 939 | Correctly Formatted: 1319 | Total: 1319
+2-shot claude: Accurate: 905 | Correctly Formatted: 1319 | Total: 1319
+3-shot llama: Accurate: 858 | Correctly Formatted: 1319 | Total: 1319
+3-shot claude: Accurate: 858 | Correctly Formatted: 1319 | Total: 1319

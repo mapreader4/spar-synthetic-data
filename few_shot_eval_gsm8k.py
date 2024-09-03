@@ -85,7 +85,7 @@ def evaluate(shot_count, data_name):
 
     responses = load_model_responses(f"{data_name}_responses")
 
-    batch_size = 64
+    batch_size = 32
 
     batch_messages = [
         construct_message(shot_count, item, train_data, responses) for item in test_data["question"]
@@ -127,6 +127,6 @@ def evaluate(shot_count, data_name):
         logfile.write(f"{line}\n")
 
 if __name__ == "__main__":
-    for i in range(1,11):
+    for i in range(4,11):
         evaluate(i, "llama")
         evaluate(i, "claude")
