@@ -1,3 +1,5 @@
 base: Accurate: 942 | Correctly Formatted: 1146 | Total: 1319
 llama: Accurate: 733 | Correctly Formatted: 1223 | Total: 1319
 claude: Accurate: 948 | Correctly Formatted: 1231 | Total: 1319
+llama_1e-06: Accurate: 951 | Correctly Formatted: 1188 | Total: 1319
+claude_1e-06: Accurate: 961 | Correctly Formatted: 1176 | Total: 1319
