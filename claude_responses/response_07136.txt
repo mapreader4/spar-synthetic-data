@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Danny made 4 dozen cookies in total.
+2) 1 dozen = 12 cookies, so 4 dozen = 4 * 12 = 48 cookies.
+3) Each cookie has 7 chocolate chips.
+4) So the total number of chocolate chips in all 48 cookies is 48 * 7 = 336 chips.
+5) The class eats half the cookies, which is 48 / 2 = 24 cookies.
+6) The number of chips in the 24 cookies eaten is 24 * 7 = 168 chips.
+7) The number of chips left uneaten is the total chips (336) minus the chips eaten (168).
+
+Answer: 168 chips

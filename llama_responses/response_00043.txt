@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the first earthquake caused 4 buildings to collapse. Then, the second earthquake causes 4 * 2 = 8 buildings to collapse. The third earthquake causes 8 * 2 = 16 buildings to collapse. The fourth earthquake causes 16 * 2 = 32 buildings to collapse. 
+
+So, the total number of buildings that collapsed is 4 + 8 + 16 + 32 = 60. 
+
+Answer: 60

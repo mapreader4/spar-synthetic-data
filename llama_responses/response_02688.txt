@@ -1,0 +1,17 @@
+Let's break it down step by step:
+
+Let's start with the number of blue pens. Roy has 2 blue pens.
+
+The problem states that he has "twice as many black and 2 less than twice as many red than black pens." So, if we let x be the number of black pens, then the number of red pens would be 2x.
+
+The problem states that the number of red pens is "2 less than twice as many red than black pens", so the number of red pens is 2x - 2.
+
+Now, we know that the number of black pens is x. The number of red pens is 2x - 2. We can rewrite the equation as 2x - 2 = x. So, we know that 2x = x + 2.
+
+Now, we can substitute x with 2x. We get x = 2x. So, the number of blue pens is 2(2x) = 4x.
+
+The total number of pens is the sum of the number of blue pens, black pens, and red pens. So, the total number of pens is 2 + x + 2x - 2 + 2x = 4x - 2.
+
+The problem asks us to find the total number of pens, which is 4x - 2.
+
+Answer: 4x - 2.

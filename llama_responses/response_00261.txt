@@ -1,0 +1,11 @@
+Let's start by using the information that the price of 1 orange is $0.50. We know that the total cost of the fruits is $66. We are also told that the total cost is split between oranges, apples, and watermelons. So, let's say the total number of fruits is x. Since we know the price of 1 orange is $0.50, the total cost is 0.50x.
+
+We are also given that the cost of 4 apples or 1 watermelon is the same. We can represent this as an equation: 4a = 1w, where a is the cost of 1 apple and w is the cost of 1 watermelon. We know that 4a = 1w, so we can divide both sides by 4 to get a = w.
+
+Now, we can substitute this expression into our equation for the total cost: 0.50x = 4a = 1w. We can substitute 4a with 4a = 1w, so we get 0.50x = 1w.
+
+Now we can solve for x. To do this, we can multiply both sides by 100 to get rid of the decimal point: 50x = 100w. Then, we can divide both sides by 100 to get x = 100w/100.
+
+x = 0.66.
+
+Answer: 66

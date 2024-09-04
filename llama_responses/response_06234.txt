@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's say the first frog takes x hops. Then the second frog takes 2x hops. The third frog takes x/2 hops. The total number of hops is the sum of these three. 99 = x + 2x + x/2. We can simplify this to 99 = 3x. So, we can solve for x.
+
+3x = 33.
+
+So, the second frog takes 33 hops to cross the road.

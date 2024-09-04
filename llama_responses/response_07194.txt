@@ -1,0 +1,25 @@
+Let's break this down step by step:
+
+1. Julien swims 50 meters per day. Since Jamir swims 20 more meters per day than Sarah, and Sarah swims half the distance Julien swims, we can set up an equation to represent the distances swum by Sarah and Jamir:
+
+Sarah's distance = Julien's distance / 2
+Jamir's distance = Julien's distance + 20
+
+2. We know Julien's distance is 50 meters per day, so we can substitute this into the equation:
+
+Sarah's distance = 50 / 2 = 25
+Jamir's distance = 50 + 20 = 70
+
+3. Since they go to the pool for the whole week, they swim the same distances as before. So, we can multiply the daily distances by 7:
+
+Sarah's total distance = 25 * 7 = 175
+Jamir's total distance = 70 * 7 = 490
+
+4. To find the combined total distance for all three of them, we add their individual distances:
+
+Combined total distance = Sarah's total distance + Jamir's total distance + Julien's total distance
+= 175 + 490 + 50 * 7 (since Julien swims the same distance each day)
+= 175 + 490 + 350
+= 715
+
+Answer: 715

@@ -1,0 +1,11 @@
+Let's start by calculating the number of green straws needed for one mat. We know that there are 30 orange straws and half as many green straws, so half of 30 is 15. 15 green straws are needed for one mat. 
+
+For 10 mats, we need 10 times this amount, so the total number of green straws needed is 15 * 10 = 150. 
+
+For the red straws, 20 are needed for one mat. For 10 mats, we need 20 * 10 = 200 red straws.
+
+For the orange straws, 30 are needed for one mat. For 10 mats, we need 30 * 10 = 300 orange straws.
+
+Now, let's add up the number of straws needed for each type: 150 green, 200 red, and 300 orange. The total number of straws needed is 150 + 200 + 300 = 650.
+
+So, Ginger needs 650 straws to make 10 mats.

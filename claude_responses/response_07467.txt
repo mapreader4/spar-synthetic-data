@@ -1,0 +1,23 @@
+To solve this problem, we need to find the temperature of the warehouse after the power outage and then calculate the time it takes for the air conditioner to restore the temperature to 43 degrees F.
+
+Given information:
+- The temperature rose by 8 degrees per hour during the 3-hour power outage.
+- The air conditioner lowers the temperature at a rate of 4 degrees per hour.
+- The target temperature is 43 degrees F.
+
+Step 1: Calculate the temperature of the warehouse after the power outage.
+Initial temperature before the power outage = Unknown
+Temperature increase during the 3-hour power outage = 8 degrees per hour × 3 hours = 24 degrees
+Final temperature after the power outage = Initial temperature + 24 degrees
+
+Step 2: Calculate the temperature difference between the final temperature and the target temperature of 43 degrees F.
+Temperature difference = Final temperature after the power outage - 43 degrees F
+
+Step 3: Calculate the time it takes for the air conditioner to restore the temperature to 43 degrees F.
+Time = Temperature difference / Cooling rate
+Time = (Final temperature after the power outage - 43 degrees F) / 4 degrees per hour
+
+Combining the steps:
+Time = (Initial temperature + 24 degrees - 43 degrees F) / 4 degrees per hour
+
+Answer: (Initial temperature + 24 degrees - 43 degrees F) / 4 degrees per hour

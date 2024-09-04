@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+James can make a beret from 3 spools of yarn. That means that 3 spools of yarn will make 1 beret.
+
+James has 12 spools of red yarn. If he uses 3 spools of yarn to make 1 beret, then he can make 12/3 = 4 berets with the red yarn.
+
+James has 15 spools of black yarn. If he uses 3 spools of yarn to make 1 beret, then he can make 15/3 = 5 berets with the black yarn.
+
+James has 6 spools of blue yarn. If he uses 3 spools of yarn to make 1 beret, then he can make 6/3 = 2 berets with the blue yarn.
+
+Now, let's add up the number of berets James can make with each color of yarn. He can make 4 berets with the red yarn, 5 berets with the black yarn, and 2 berets with the blue yarn. That is a total of 4 + 5 + 2 = 11 berets.
+
+Answer: 11

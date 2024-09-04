@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of fish of each type.
+
+1. Bass: 32
+2. Trout: 32 / 4 = 8
+3. Blue gill: 32 * 2 = 64
+
+Now, let's add the number of fish of each type to get the total:
+
+32 (bass) + 8 (trout) + 64 (blue gill) = 104
+
+Answer: 104

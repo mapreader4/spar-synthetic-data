@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Let's start by finding the total number of toothpicks used to build the model house. 75 toothpicks were used for each card, and there were 52 - 16 = 36 cards used to build the house. 36 toothpicks for 1 card is 75, so for 36 cards, we need 36 x 75 = 2700 toothpicks.
+
+2. Now, let's find the number of boxes of toothpicks needed. 2700 toothpicks are needed for the house, and each box contains 450 toothpicks. We can divide 2700 by 450 to find the number of boxes needed:
+
+2700 ÷ 450 = 6
+
+Answer: 6

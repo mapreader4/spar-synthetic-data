@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+There are 4 rows of gold bars in the safe. Each row has 20 gold bars. So, the total number of gold bars is 4 * 20 = 80.
+
+Each gold bar is worth $20000. So, the total worth of the gold bars in the safe is 80 * 20000 = 1600000.
+
+Answer: 1600000

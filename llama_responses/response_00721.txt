@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the prices of the products.
+
+Smartphones are $300 each.
+Personal computers are $500 more than smartphones, so personal computers are $800.
+Advanced tablets are the sum of the prices of a smartphone and personal computer, so advanced tablets are $300 + 800 = $1100.
+
+Now, let's add up the prices of all three products: $300 + $800 + $1100 = $1200.
+
+Answer: 1200

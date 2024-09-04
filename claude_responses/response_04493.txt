@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Janet gets paid 25 cents per post she checks
+* It takes her 10 seconds to check a post
+* We need to find out how much she earns per hour
+
+First, let's calculate how many posts she can check in an hour:
+* There are 60 seconds in a minute, and 60 minutes in an hour
+* So, in one hour, she can check 60 * 60 / 10 = 360 posts
+
+Now, let's calculate her earnings per hour:
+* She gets paid 25 cents per post
+* So, in one hour, she earns 360 * 0.25 = $90
+
+Answer: $90

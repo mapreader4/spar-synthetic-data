@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Jon needs to wash 20 shirts and 20 pants. The total weight of the shirts is 4 x 20 = 80 pounds. The total weight of the pants is 2 x 20 = 40 pounds. The total weight of all the laundry is 80 + 40 = 120 pounds.
+
+2. Since the machine can only do 5 pounds of laundry at a time, we need to find out how many times we can fit the total weight of the laundry in the machine.
+
+3. 120 pounds divided by 5 pounds is 24. So Jon needs to do 24 loads of laundry.
+
+Answer: 24

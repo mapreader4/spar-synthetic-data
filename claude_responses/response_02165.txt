@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The book has 381 pages.
+2) Elliot has already read 149 pages.
+3) Elliot plans to read 20 pages a day for a week.
+4) In a week, Elliot will read 20 pages per day x 7 days = 140 pages.
+5) To find the number of pages still left to be read, we take the total pages in the book (381) and subtract the pages Elliot has already read (149) and the pages he will read in a week (140).
+6) 381 - 149 - 140 = 92 pages.
+
+Answer: 92

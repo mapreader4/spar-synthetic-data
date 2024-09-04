@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. James buys 200 lotto tickets at $2 each, so the total amount he spent is:
+   200 tickets x $2 per ticket = $400
+
+2. 20% of the 200 tickets are winners, which means 40 tickets are winners (200 x 0.20 = 40).
+
+3. Out of the 40 winning tickets, 80% of them are for $5 each, which means 32 tickets are $5 winners (40 x 0.80 = 32).
+   The total amount won from the $5 tickets is:
+   32 tickets x $5 per ticket = $160
+
+4. There is 1 grand prize ticket worth $5,000.
+
+5. The remaining 7 winning tickets (40 - 32 - 1 = 7) have an average payout of $10 each.
+   The total amount won from the $10 tickets is:
+   7 tickets x $10 per ticket = $70
+
+6. The total amount won is the sum of the $5 tickets, the grand prize, and the $10 tickets:
+   $160 + $5,000 + $70 = $5,230
+
+7. The profit is the total amount won minus the total amount spent:
+   $5,230 - $400 = $4,830
+
+Answer: $4,830

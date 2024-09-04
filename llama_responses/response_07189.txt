@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of students in the class. There are 11 boys and 13 girls, which makes the total number of students 11 + 13 = 24.
+
+Now, if 1 boy is added to the class, the total number of students will be 24 + 1 = 25.
+
+To find the percentage of girls, we can divide the number of girls by the total number of students. 13 girls out of 25 students is equal to 13 / 25 = 0.52.
+
+Answer: 52

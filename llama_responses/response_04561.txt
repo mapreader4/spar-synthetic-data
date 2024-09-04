@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by identifying the information given: Eric has $10 less than Ben, and Ben has $9 less than Jack. So, we know that the total amount of money they have is $26. Since Jack has $26, and Ben has $9 less than Jack, we can subtract $9 from $26 to find the amount of money Ben has: $26 - $9 = $17.
+
+So, Eric has $10 less than Ben. We can subtract $10 from $17 to find the amount of money Eric has: $17 - $10 = $7.
+
+Now, let's add up the amount of money each person has: $26 (Jack) + $17 (Ben) + $7 (Eric) = $40.

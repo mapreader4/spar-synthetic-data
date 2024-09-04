@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+The first fisherman plans to catch 3 fish per day for the entire season. Since the season lasts for 213 days, the total number of fish caught by the first fisherman is:
+
+3 fish/day × 213 days = 639 fish
+
+The second fisherman's catch rate varies throughout the season. For the first 30 days, he catches 1 fish per day, so:
+
+1 fish/day × 30 days = 30 fish
+
+For the next 60 days, he catches 2 fish per day, so:
+
+2 fish/day × 60 days = 120 fish
+
+For the remaining 123 days, he catches 4 fish per day, so:
+
+4 fish/day × 123 days = 492 fish
+
+The total number of fish caught by the second fisherman is:
+
+30 fish + 120 fish + 492 fish = 642 fish
+
+To find out how many more fish the second fisherman caught, we subtract the number of fish caught by the first fisherman from the number of fish caught by the second fisherman:
+
+642 fish - 639 fish = 3 fish
+
+Answer: 3

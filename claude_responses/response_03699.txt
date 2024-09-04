@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Carol has $60 and saves $9 per week
+* Mike has $90 and saves $3 per week
+* We need to find how many weeks it will take for Carol and Mike to have the same amount of money
+
+First, let's calculate how much money Carol and Mike will have after each week:
+* After 1 week, Carol will have $60 + $9 = $69
+* After 1 week, Mike will have $90 + $3 = $93
+
+Now, let's calculate the difference between their amounts:
+* After 1 week, the difference is $93 - $69 = $24
+
+To find how many weeks it will take for the difference to be $0 (i.e. for them to have the same amount), we can divide the initial difference ($90 - $60 = $30) by the difference in their weekly savings ($9 - $3 = $6).
+
+$30 / $6 = 5 weeks
+
+Therefore, it will take 5 weeks for Carol and Mike to both have the same amount of money.
+
+Answer: 5

@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's say the number of students in the class is x.
+
+The number of hands in the class is 2x, since each student has 2 hands.
+
+We are given that there are 20 hands in the class, not including Peter. So, we can set up the equation:
+
+20 = 2x
+
+We can solve for x by dividing both sides by 2:
+
+x = 20 / 2
+x = 10
+
+So, there are 10 students in the class, including Peter.
+
+Answer: 11

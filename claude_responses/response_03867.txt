@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Susan works 5 days a week
+* She has 6 days of paid vacation
+* The remaining days of her 2-week vacation will be unpaid
+* She gets paid $15 per hour and works 8 hours a day
+
+First, let's calculate the number of unpaid vacation days:
+* 2 weeks = 14 days
+* Paid vacation days = 6
+* Unpaid vacation days = 14 - 6 = 8 days
+
+Now, let's calculate her daily pay:
+* $15 per hour
+* 8 hours per day
+* Daily pay = $15 x 8 = $120
+
+Finally, let's calculate the total pay she will miss on her vacation:
+* Unpaid vacation days = 8
+* Total pay missed = $120 x 8 = $960
+
+Answer: $960

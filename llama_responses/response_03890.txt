@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the distance between each buoy is x meters. Since the first buoy is at the beach, the distance from the beach to the first buoy is 0 meters.
+
+Since the swimmer reaches the third buoy, they have swum out 72 meters. This means the distance between the first and the third buoy is 72 meters.
+
+The distance between the buoys is the same, so the distance between each buoy is also 72 meters.
+
+Since the fourth buoy is the fourth buoy, the distance from the beach to the fourth buoy is 3 times the distance between each buoy. So, the distance from the beach to the fourth buoy is 3 x 72 meters, which is 216 meters.
+
+Answer: 216

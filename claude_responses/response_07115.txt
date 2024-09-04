@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jake trips over his dog 40% of mornings
+* 25% of the time he trips, he drops his coffee
+* To find the percentage of mornings he does NOT drop his coffee, we need to find the complement of the percentage of mornings he does drop his coffee
+
+First, let's find the percentage of mornings he drops his coffee:
+* 40% of mornings, he trips
+* 25% of the time he trips, he drops his coffee
+* So, 40% * 25% = 10% of mornings, he drops his coffee
+
+Now, to find the percentage of mornings he does NOT drop his coffee, we take the complement:
+* 100% - 10% = 90%
+
+Answer: 90

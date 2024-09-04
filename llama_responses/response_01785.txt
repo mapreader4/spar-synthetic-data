@@ -1,0 +1,15 @@
+Let's start by identifying the information given to us:
+
+* Angeli has 90 assorted candies.
+* One-third of the candies were lollipops.
+* The rest were candy canes.
+* The lollipops were shared equally among the boys.
+* The candy canes were shared equally among the girls.
+
+Let's start by identifying the number of boys and girls. Since the lollipops were shared equally among the boys, and each boy received 3 lollipops, we can say that the number of boys is 3.
+
+The candy canes were shared equally among the girls, and each girl received 2 candy canes. So, the number of girls is 2.
+
+The total number of boys and girls are 3 + 2 = 5.
+
+Answer: 5

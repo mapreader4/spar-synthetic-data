@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The store had profits of $1,500 in the first quarter, $3,000 in the third quarter, and $2,000 in the fourth quarter.
+* The store's annual profits are $8,000.
+* To find the profit made in the second quarter, we need to subtract the profits from the first, third, and fourth quarters from the total annual profits.
+* Profits from first quarter: $1,500
+* Profits from third quarter: $3,000
+* Profits from fourth quarter: $2,000
+* Total profits from first, third, and fourth quarters: $1,500 + $3,000 + $2,000 = $6,500
+* Annual profits: $8,000
+* Profits from second quarter = Annual profits - Profits from first, third, and fourth quarters
+* Profits from second quarter = $8,000 - $6,500 = $1,500
+
+Answer: $1,500

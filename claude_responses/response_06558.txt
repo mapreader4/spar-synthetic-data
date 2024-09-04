@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* It takes John 20 minutes to go to the bathroom 8 times
+* We want to find how long it would take for John to go to the bathroom 6 times
+* We can set up a proportion to solve this:
+* 8 trips / 20 minutes = 6 trips / x minutes
+* Cross-multiplying, we get:
+* 8x = 120
+* Solving for x, we get:
+* x = 120 / 8
+* x = 15 minutes
+
+Answer: 15 minutes

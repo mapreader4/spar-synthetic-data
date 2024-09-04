@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Mark has 10 yellow flowers
+2) There are 80% more purple flowers than yellow flowers
+   - 80% of 10 is 8
+   - So there are 10 + 8 = 18 purple flowers
+3) There are only 25% as many green flowers as there are yellow and purple flowers
+   - The total number of yellow and purple flowers is 10 + 18 = 28
+   - 25% of 28 is 7
+   - So there are 7 green flowers
+4) To find the total number of flowers, we add up the yellow, purple, and green flowers:
+   - 10 yellow + 18 purple + 7 green = 35 flowers
+
+Answer: 35

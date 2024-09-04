@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Carla adds 1 can of chilis to a normal batch of chili
+* She also adds 2 cans of beans to the normal batch
+* She adds 50% more tomatoes than beans to the normal batch
+* 50% of 2 cans of beans is 1 can of tomatoes
+* So, the normal batch contains:
+    - 1 can of chilis
+    - 2 cans of beans
+    - 1 can of tomatoes
+* Carla is making a quadruple batch, which means she needs 4 times the ingredients of the normal batch
+* For the quadruple batch, she needs:
+    - 4 cans of chilis
+    - 8 cans of beans
+    - 4 cans of tomatoes
+* Adding these up, the total number of cans of food she needs is:
+    - 4 + 8 + 4 = 16 cans
+
+Answer: 16

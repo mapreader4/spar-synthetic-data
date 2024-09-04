@@ -1,0 +1,18 @@
+Let's break it down step by step.
+
+Let's say Bert has 4x stamps. Ernie has 3x stamps. We know Peggy has 75 stamps. We can write an equation to represent this information.
+
+Bert's stamps = 4x
+Ernie's stamps = 3x
+Peggy's stamps = 75
+
+We can represent this as an equation:
+
+4x = 3x + 75
+
+We can subtract 3x from both sides to get:
+
+x = (3x + 75)/3
+x = 25
+
+So Peggy needs to add 25 stamps to her collection to have a collection as large as Bert's collection.

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are a certain number of drunk drivers in the traffic class
+* The number of speeders is 3 less than 7 times the number of drunk drivers
+* Let's call the number of drunk drivers 'x'
+* Then the number of speeders is 7x - 3
+* The total number of students in the class is 45
+* So we can write the equation:
+x + (7x - 3) = 45
+* Solving for x:
+8x - 3 = 45
+8x = 48
+x = 6
+
+Answer: 6

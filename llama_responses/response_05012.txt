@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of sweater vests Carlton has. We know that Carlton has twice as many sweater vests as button-up shirts. Since Carlton has 3 button-up shirts, we can multiply 3 by 2 to find the number of sweater vests he has:
+
+3 (button-up shirts) x 2 = 6 sweater vests
+
+Now, let's think about the number of outfits Carlton can create. Each outfit consists of a unique combination of a sweater vest and a button-up shirt. Since Carlton has 6 sweater vests and 3 button-up shirts, we can multiply these numbers together to find the number of outfits:
+
+6 (sweater vests) x 3 (button-up shirts) = 18 outfits
+
+So, Carlton can create 18 unique outfits.

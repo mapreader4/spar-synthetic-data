@@ -1,0 +1,20 @@
+Let's break this problem down step by step:
+
+1. Tod drives 55 miles to the north. So, to find the distance traveled to the north, we need to find the time taken for that distance.
+
+Distance to the north = 55 miles
+Time taken = Distance / Speed
+Time taken for 55 miles = 55 / 25 = 2.2 hours
+
+2. Tod then drives 95 miles to the west. So, to find the time taken for that distance, we need to find the time taken for that distance.
+
+Distance to the west = 95 miles
+Time taken = Distance / Speed
+Time taken for 95 miles = 95 / 25 = 3.8 hours
+
+3. Now, we need to find the total time taken for the entire trip.
+
+Total time taken = Time taken for north + Time taken for west
+Total time taken = 2.2 + 3.8 = 6 hours
+
+Answer: 6

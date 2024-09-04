@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Miley bought 5 packs of swiss cheese
+* Each pack of swiss cheese costs $6 and contains 200 grams of cheese
+* So, the total cost of the swiss cheese is 5 x $6 = $30
+* Miley also bought 600 grams of blue cheese
+* Each pack of blue cheese costs $8 and contains 200 grams of cheese
+* So, Miley needed to buy 3 packs of blue cheese (600 grams / 200 grams per pack = 3 packs)
+* The total cost of the blue cheese is 3 x $8 = $24
+* Miley bought one-third less white cheese than the swiss cheese
+* Since Miley bought 5 packs of swiss cheese, she bought 4 packs of white cheese (5 - 1/3 of 5 = 4)
+* Each pack of white cheese costs $5 and contains 200 grams of cheese
+* So, the total cost of the white cheese is 4 x $5 = $20
+* Now, we add up the total cost of all the cheese:
+* $30 (swiss cheese) + $24 (blue cheese) + $20 (white cheese) = $74
+
+Answer: $74

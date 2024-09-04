@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The jug needs 40 cups of water to be full.
+2) There are 200 students at Truman Elementary School.
+3) Each student drinks 10 cups of water in a day.
+4) To calculate the total amount of water needed for all 200 students in a day, we multiply the number of students (200) by the amount of water each student drinks (10 cups):
+   200 students x 10 cups = 2,000 cups of water needed per day.
+5) To determine how many water jugs the custodian needs to fill, we divide the total amount of water needed (2,000 cups) by the capacity of each jug (40 cups):
+   2,000 cups / 40 cups per jug = 50 jugs.
+
+Answer: 50

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Ravi has 6 nickels.
+2) He has 2 more quarters than nickels, so he has 6 + 2 = 8 quarters.
+3) He has 4 more dimes than quarters, so he has 8 + 4 = 12 dimes.
+
+Now, let's calculate the total value of his coins:
+* 6 nickels x $0.05 = $0.30
+* 8 quarters x $0.25 = $2.00
+* 12 dimes x $0.10 = $1.20
+
+The total value is:
+$0.30 + $2.00 + $1.20 = $3.50
+
+Answer: $3.50

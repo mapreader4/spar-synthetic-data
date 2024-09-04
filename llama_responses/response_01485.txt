@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of pink balls. We know that there are 3 times as many pink balls as orange balls. If there are 3 times as many pink balls as orange balls, and there are 10 pink balls, then the number of pink balls must be 3 * 10 = 30.
+
+Now, we know that there are 50 balls in total, and 20 are red. So, the number of pink and orange balls together is 50 - 20 - 30 = 0.
+
+So, the number of orange balls is 0.

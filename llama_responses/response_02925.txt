@@ -1,0 +1,5 @@
+To solve this problem, I will first find the total number of seats. Since there are 40 rows of chairs, and each row has 20 chairs, the total number of seats is 40 * 20 = 800.
+
+Then, I will subtract the number of seats that were not occupied, which is 10, from the total number of seats. 800 - 10 = 790.
+
+Answer: 790

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sangita is required to fly a total of 1,500 hours to earn her pilot certificate
+* She has already completed:
+    - 50 hours of day flying
+    - 9 hours of night flying
+    - 121 hours of cross-country flying
+* So the total hours she has already completed is:
+    - 50 + 9 + 121 = 180 hours
+* This means she still needs to complete:
+    - 1,500 - 180 = 1,320 hours
+* She needs to complete this in exactly 6 months
+* To calculate the number of hours per month, we divide the remaining hours by the number of months:
+    - 1,320 hours / 6 months = 220 hours per month
+
+Answer: 220

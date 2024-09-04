@@ -1,0 +1,5 @@
+To solve this problem, I will use the concept of unit conversion. Since each picture is 8 megabytes in size, I will divide 3,000 by 8 to find the number of pictures of 8 megabytes each that can be stored.
+
+3,000 ÷ 8 = 375
+
+Answer: 375

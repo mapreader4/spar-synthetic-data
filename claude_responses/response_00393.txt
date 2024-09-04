@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) The sandbox is rectangular, so the perimeter formula is: 2 * (length + width) = 30 feet
+2) The length is twice the width, so we can substitute length = 2 * width into the perimeter formula:
+2 * (2 * width + width) = 30 feet
+3) Simplifying the equation:
+6 * width = 30 feet
+4) Dividing both sides by 6:
+width = 5 feet
+
+Answer: 5 feet

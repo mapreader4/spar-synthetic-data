@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* James needs 200 blueberries to make 1 pint of blueberry jam
+* He then needs 1 quart of blueberry jam to make 1 blueberry pie
+* There are 2 pints per quart
+* So to make 1 quart of blueberry jam, James needs 2 x 200 = 400 blueberries
+* To make 1 pie, James needs 400 blueberries
+* To make 6 pies, James needs 6 x 400 = 2,400 blueberries
+
+Answer: 2,400 blueberries

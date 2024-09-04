@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) Brian has a total of 100 stones in his first collection.
+2) The percentage of white stones and black stones in the first collection is the same as the percentage of grey stones and green stones in the second collection.
+3) In the second collection, Brian has 40 grey stones and 60 green stones.
+4) The total number of stones in the second collection is 40 + 60 = 100.
+5) The percentage of grey stones in the second collection is 40/100 = 40%.
+6) The percentage of green stones in the second collection is 60/100 = 60%.
+7) Therefore, the percentage of white stones and black stones in the first collection must also be 40% and 60% respectively.
+8) Since Brian has 100 stones in the first collection, and the percentage of white stones is 40%, the number of white stones must be 40% of 100, which is 40.
+9) Since Brian has more white stones than black stones, the number of black stones must be less than 40.
+
+Answer: 40

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Making the canvas bag released 600 pounds of carbon dioxide
+* Each plastic bag released 4 ounces of carbon dioxide
+* Marla uses 8 bags per shopping trip
+* There are 16 ounces in a pound
+
+First, we need to calculate the total carbon dioxide released from the plastic bags used in one shopping trip:
+* 8 bags x 4 ounces per bag = 32 ounces of carbon dioxide per shopping trip
+
+Next, we need to convert the 32 ounces of carbon dioxide to pounds:
+* 32 ounces / 16 ounces per pound = 2 pounds of carbon dioxide per shopping trip
+
+Now, we need to find how many shopping trips Marla would need to make before the carbon dioxide from the plastic bags equals the 600 pounds released from making the canvas bag:
+* 600 pounds / 2 pounds per trip = 300 shopping trips
+
+Answer: 300

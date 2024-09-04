@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's first find the rate of growth in inches per year. If his hair grows at a rate of 0.5 inches per month, then it grows 0.5 * 12 inches in a year.
+
+We know that his hair is now 36 inches long, and it was 6 inches long the last time he cut it. So, to find the time it took him to grow his hair, we need to find the difference in length. That's 36 - 6 = 30 inches.
+
+Now, to find the number of years it took him to grow his hair, we need to divide the difference in length by the rate of growth. 30 / 0.5 = 60.
+
+So, it took Bob 60 months, or 5 years, to grow his hair.

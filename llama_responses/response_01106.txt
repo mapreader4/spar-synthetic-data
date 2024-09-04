@@ -1,0 +1,11 @@
+Let's start by letting the age of the younger friend be x. Then, the age of the older friend will be x + 2.
+
+We know that the sum of their ages is 74, so we can write an equation to solve for x:
+
+x + (x + 2) = 74
+
+We can subtract 2 from both sides of the equation to get:
+
+x = 72
+
+So, the age of the older friend is 72 years old.

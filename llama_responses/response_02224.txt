@@ -1,0 +1,35 @@
+Let's break down the problem step by step.
+
+First, we know that there are 26 boxes in the attic. 6 of these boxes contain pans, so we subtract 6 from 26 to get:
+
+26 - 6 = 20
+
+This means that there are 20 boxes left that contain either decorations or teacups.
+
+Next, we know that half of the remaining boxes contain decorations. Half of 20 is 10, so:
+
+10 boxes contain decorations
+
+This leaves:
+
+20 - 10 = 10
+
+boxes that contain teacups.
+
+Now, we know that each box contains 5 rows of 4 cups, for a total of:
+
+5 rows x 4 cups/row = 20 cups
+
+per box. Since there are 10 boxes that contain teacups, the total number of cups is:
+
+10 boxes x 20 cups/box = 200 cups
+
+However, Samuel breaks 2 cups every time he picks up a box. Since he has to pick up all 10 boxes, he breaks:
+
+10 boxes x 2 cups/box = 20 cups
+
+So, the total number of cups left is:
+
+200 cups - 20 cups = 180 cups
+
+Answer: 180

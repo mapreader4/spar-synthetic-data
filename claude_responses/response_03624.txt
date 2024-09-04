@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The truck can go 3 miles per gallon of gas.
+2) The distance to the cheaper gas station is 90 miles.
+3) The truck driver already has 12 gallons of gas in his tank.
+4) To calculate the number of gallons needed to travel 90 miles, we divide the distance by the miles per gallon:
+90 miles / 3 miles per gallon = 30 gallons
+5) Since the truck driver already has 12 gallons in the tank, we subtract that from the 30 gallons needed:
+30 gallons - 12 gallons = 18 gallons
+Answer: 18 gallons

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the number of female employees who are mothers. There are 3300 employees in total, and one-third are men. So, 3300 - 3300/3 = 3300 - 1100 = 2200 are women. Of these women, 1200 are not mothers. So, 2200 - 1200 = 1000 are mothers.
+
+The total bonus is 25% of the annual earnings, which is $5,000,000. To find the bonus for each mother, we need to divide the total bonus by the number of mothers. 5,000,000 x 0.25 = 1,250,000. Then, we divide this by the number of mothers: 1,250,000 / 1000 = 1250.
+
+Answer: 1250

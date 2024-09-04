@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Evergreen Elementary school has a total of 100 students in Grades 4, 5, and 6.
+* There are 30 students in Grade 4.
+* There are 35 students in Grade 5.
+* To find the number of students in Grade 6, we need to subtract the number of students in Grades 4 and 5 from the total number of students.
+* The number of students in Grades 4 and 5 is 30 + 35 = 65.
+* Therefore, the number of students in Grade 6 is 100 - 65 = 35.
+
+Answer: 35

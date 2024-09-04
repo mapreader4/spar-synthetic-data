@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Gabriela's grove has 110 trees, and each tree produced 600 oranges
+* So, Gabriela's total orange production is 110 * 600 = 66,000 oranges
+* Alba's grove has 110 trees, and each tree produced 400 oranges
+* So, Alba's total orange production is 110 * 400 = 44,000 oranges
+* Maricela's grove has 110 trees, and each tree produced 500 oranges
+* So, Maricela's total orange production is 110 * 500 = 55,000 oranges
+* The total orange production across all three groves is 66,000 + 44,000 + 55,000 = 165,000 oranges
+* It takes 3 medium-sized oranges to make 1 cup of juice
+* So, the total number of cups of juice they can make is 165,000 / 3 = 55,000 cups
+* They sell each cup for $4
+* So, the total money they will make is 55,000 * $4 = $220,000
+
+Answer: $220,000

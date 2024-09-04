@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Kim sold twice as many boxes on Tuesday as she did on Wednesday
+* She sold twice as many boxes on Wednesday as she did on Thursday
+* Kim sold 1200 boxes of cupcakes on Thursday
+
+First, let's find out how many boxes she sold on Wednesday:
+* If she sold twice as many on Wednesday as she did on Thursday, and she sold 1200 on Thursday, then she sold 2 * 1200 = 2400 boxes on Wednesday.
+
+Now, let's find out how many boxes she sold on Tuesday:
+* If she sold twice as many on Tuesday as she did on Wednesday, and she sold 2400 on Wednesday, then she sold 2 * 2400 = 4800 boxes on Tuesday.
+
+Answer: 4800

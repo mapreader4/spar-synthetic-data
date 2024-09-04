@@ -1,0 +1,11 @@
+Let's break down this problem step by step.
+
+Let's say Mark initially planted x strawberry plants. After 3 months, the number of strawberry plants doubles. So, after 3 months, the number of strawberry plants becomes 2x. 
+
+Mark digs up 4 strawberry plants and gives them to his friend. So, the number of strawberry plants remaining is 2x - 4 = 2(2x) - 4 = 4x - 4.
+
+Since Mark has 20 strawberry plants left, 4x - 4 = 20.
+
+So, we need to find the value of 4x. We can solve this by dividing 20 by 4. 20 / 4 = 5.
+
+So, Mark initially planted 5 strawberry plants.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Bryan starts by doing 3 sets of 15 push-ups each
+* So for the first two sets, he does 15 push-ups each, which is 15 x 2 = 30 push-ups
+* For the third set, he gets tired and does 5 fewer push-ups than the previous sets
+* So for the third set, he does 15 - 5 = 10 push-ups
+* To calculate the total number of push-ups, we add the 30 push-ups from the first two sets and the 10 push-ups from the third set:
+* 30 + 10 = 40 push-ups
+
+Answer: 40

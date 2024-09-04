@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. Since Eric removed wallpaper from 1 wall in the dining room, it took him 2 hours.  So, the time it took him to remove wallpaper from 1 wall is 2 hours.
+2. Since he has 4 walls in his dining room, it will take him 2 * 4 = 8 hours to remove wallpaper from all the walls in the dining room.
+3. Since he has 4 walls in his living room, it will take him 2 * 4 = 8 hours to remove wallpaper from all the walls in the living room.
+4. Since he needs to remove wallpaper from the remaining 8 walls, it will take him 8 + 8 = 16 hours in total.
+
+Answer: 16

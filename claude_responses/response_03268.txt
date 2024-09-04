@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Romeo buys 5 bars of chocolate at $5 each, so the total cost of the chocolates is:
+   5 bars x $5 per bar = $25
+2) Romeo sells all 5 bars of chocolate for a total of $90
+3) The cost of the packaging material is $2 per bar, so the total cost of the packaging is:
+   5 bars x $2 per bar = $10
+4) To calculate the profit, we need to subtract the total cost (chocolates + packaging) from the total sales:
+   Total sales: $90
+   Total cost: $25 (chocolates) + $10 (packaging) = $35
+   Profit: $90 - $35 = $55
+
+Answer: $55

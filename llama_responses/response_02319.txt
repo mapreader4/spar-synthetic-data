@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+- The cost of each Corgi dog is $1000.
+- Mr. Mayer wants to make a 30% profit.
+- His friend wants to buy 2 dogs.
+
+To find the price of each dog, we can multiply the cost of each dog by 1.3 (the 30% profit) to get the selling price:
+
+$1000 * 1.3 = $1300
+
+Then, since his friend wants to buy 2 dogs, we multiply the price by 2:
+
+$1300 * 2 = $2600
+
+So, the friend should pay $2600.

@@ -1,0 +1,23 @@
+Okay, let's break this down step by step:
+
+On Monday, Amanda has 5 appointments, each lasting 1.5 hours. So, the total time spent on Monday is:
+5 appointments x 1.5 hours = 7.5 hours
+
+On Tuesday, Amanda has 1 appointment that lasts 3 hours.
+
+On Thursday, Amanda has 2 appointments, each lasting 2 hours. So, the total time spent on Thursday is:
+2 appointments x 2 hours = 4 hours
+
+On Saturday, Amanda will spend 6 hours at one client's house.
+
+Now, let's calculate the total number of hours Amanda will work this week:
+Monday: 7.5 hours
+Tuesday: 3 hours
+Thursday: 4 hours
+Saturday: 6 hours
+Total hours: 7.5 + 3 + 4 + 6 = 20.5 hours
+
+Amanda charges $20.00 per hour, so the total amount of money she will make this week is:
+20.5 hours x $20.00 per hour = $410.00
+
+Answer: $410

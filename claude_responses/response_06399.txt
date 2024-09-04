@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Emmalyn is paid 20 cents per meter of fence painted.
+2) There are 50 fences in the neighborhood that she has to paint.
+3) Each fence is 500 meters long.
+4) To calculate the total amount she earned, we need to:
+   a) Calculate the total meters of fence she painted
+   b) Multiply the total meters by the rate of 20 cents per meter
+To calculate the total meters of fence:
+* 50 fences x 500 meters per fence = 25,000 total meters
+To calculate the total amount earned:
+* 25,000 total meters x 20 cents per meter = $5,000
+Answer: $5,000

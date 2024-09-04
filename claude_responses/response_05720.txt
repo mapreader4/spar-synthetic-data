@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 100 ladies on the first floor studying.
+2) On the second floor, there are three times as many girls at a party.
+3) To find the number of girls on the second floor, we multiply the number of ladies on the first floor by 3:
+   * 100 ladies x 3 = 300 girls on the second floor.
+4) To find the total number of ladies on the two floors, we add the number of ladies on the first floor to the number of girls on the second floor:
+   * 100 ladies + 300 girls = 400 ladies in total.
+
+Answer: 400

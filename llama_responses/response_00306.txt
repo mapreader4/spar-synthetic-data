@@ -1,0 +1,18 @@
+Let's start by writing an equation for the difference between Parker and Daisy's heights.
+
+Parker is 4 inches shorter than Daisy. So, Daisy's height is Parker's height plus 4 inches.
+
+Daisy's height = Parker's height + 4
+
+We know Parker's height is 0 inches. So, Daisy's height is 0 + 4 = 4.
+
+Now, we need to find out Reese's height. We know Daisy is 8 inches taller than Reese. So, Reese's height is Daisy's height - 8.
+
+Reese's height = Daisy's height - 8
+Reese's height = 4 - 8 = -4
+
+Now, we know the heights of all three of them. To find the average, we add their heights and divide by 3.
+
+(0 + 4 + 4 + -4) / 3 = 0
+
+Answer: 0

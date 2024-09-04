@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jack initially has 4 plates with a flower pattern and 8 plates with a checked pattern.
+* He then buys new plates that are twice as many as the number of checked plates he currently has. 
+* The number of checked plates he currently has is 8, so he buys 2 x 8 = 16 new polka dotted plates.
+* Now, he has 4 flower plates, 8 checked plates, and 16 polka dotted plates, for a total of 4 + 8 + 16 = 28 plates.
+* He then smashes one of the flowered plates, leaving him with 3 flower plates, 8 checked plates, and 16 polka dotted plates.
+* The total number of plates he has left is 3 + 8 + 16 = 27.
+
+Answer: 27

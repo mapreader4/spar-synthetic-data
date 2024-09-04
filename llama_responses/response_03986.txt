@@ -1,0 +1,13 @@
+Let's start by letting x be the original number of sweets in the pack. Then, we know that 4 sweets are taken, so we can write an equation to represent this:
+
+x - 4 = (x - 3/3)
+
+We can solve this equation to find the value of x:
+
+x = 48
+
+Now, we can plug this value back into our original equation:
+
+48 - 4 = (48 - 3/3)
+
+Answer: 16

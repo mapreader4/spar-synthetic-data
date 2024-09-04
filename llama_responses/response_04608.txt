@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of joining the contest. The cost is $10. She has 2 minutes to hit as many drums as she can. If she hits 200 drums, she can start to make money, equal to 2.5 cents for every drum hit. This means that the amount she can make is 200 * 2.5 = 500 cents. So, she can make $5.
+
+Now, let's find the amount she lost. She lost $7.5. To find the number of drums she hit, we can subtract the cost from the amount she can make. 500 - 7.5 = 492.5. So, she hit 492.5 / 2.5 = 196 drums.
+
+Answer: 196

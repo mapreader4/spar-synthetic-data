@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the scores of the two teammates. We know that Lefty scores 20 points and Righty scores half of that, which is 20 / 2 = 10 points.
+
+Then, we know that their other teammate scores 6 times as much as Righty does, so the other teammate scores 10 * 6 = 60 points.
+
+Now, we can find the total points scored by the team by adding the three scores: 20 + 10 + 60 = 90.
+
+Finally, we can find the average points scored per player by dividing the total points by the number of players, which is 3, since there are three teammates. So, the average is 90 / 3 = 30.
+
+Answer: 30

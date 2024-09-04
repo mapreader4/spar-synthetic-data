@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jeannie hikes 12 miles to Mount Overlook at a pace of 4 miles per hour.
+2) To calculate the time it takes to hike to Mount Overlook, we divide the distance by the pace:
+   * Time to hike to Mount Overlook = 12 miles / 4 miles per hour = 3 hours
+3) Jeannie then returns from Mount Overlook at a pace of 6 miles per hour.
+4) To calculate the time it takes to hike back, we divide the distance by the pace:
+   * Time to hike back = 12 miles / 6 miles per hour = 2 hours
+5) To calculate the total time of the hike, we add the time to hike to Mount Overlook and the time to hike back:
+   * Total time of the hike = 3 hours + 2 hours = 5 hours
+
+Answer: 5 hours

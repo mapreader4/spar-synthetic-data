@@ -1,0 +1,39 @@
+Let's break it down step by step.
+
+Let's start with the given information: "The first and second numbers are the same."
+
+So, let's say the first number is x.
+
+Then, the second number is also x.
+
+The third number is 0.
+
+The fourth number is 2x, which is 2 times the first number, so it's 2x.
+
+The fourth and fifth numbers add up to 8. So, the sum of the fourth and fifth numbers is x + 2x = 8.
+
+We know that the first two numbers are x, so we can write the equation as x + x + 2x = 8.
+
+We are looking for a five-digit number that adds up to 10. So, we can write the equation as x + x + 2x = 10.
+
+Let's solve for x.
+
+x + x + 2x = 10
+
+x + x = 10 - 2x
+
+x = 5
+
+So, the first number is 5.
+
+Now, the first and second numbers are the same, so they are both 5.
+
+The third number is 0.
+
+The fourth number is 2 times the first number, which is 2 times 5, so it's 10.
+
+The fourth and fifth numbers add up to 8, but we know that the sum of the fourth and fifth numbers is x + 2x = 10, which means the sum of the fourth and fifth numbers is 10, not 8. This is a contradiction. Therefore, the sum of the fourth and fifth numbers is actually 2.
+
+So, the correct sum of the fourth and fifth numbers is 2.
+
+So, the correct answer is 51202.

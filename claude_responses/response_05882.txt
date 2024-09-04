@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Suzanne and her husband each have 1 whole slice of french toast
+* Her two daughters split 1 slice of french toast
+* So, in total, they consume 3 slices of french toast per weekend
+* There are 52 weeks in a year
+* On weekends (Saturdays and Sundays), there are 104 days in a year
+* Each loaf of bread has 12 slices
+* To calculate the number of loaves of bread needed:
+* Total slices of french toast consumed per year = 3 slices per weekend x 52 weeks = 156 slices
+* Number of loaves of bread needed = 156 slices / 12 slices per loaf = 13 loaves
+
+Answer: 13 loaves of bread

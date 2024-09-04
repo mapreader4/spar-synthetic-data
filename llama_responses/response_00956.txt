@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Find the total area of the garden that will be used for fruits. Since half of the garden is for fruits, and half is 64, we can find the area for fruits by multiplying half of 64 by 1:
+
+Half of 64 is 64 / 2 = 32
+
+So, 32 square feet of the garden will be used for fruits.
+
+Step 2: Find the area of the garden that will be used for strawberries. Since a quarter of the fruit section is for strawberries, and the fruit section is 32 square feet, we can find the area for strawberries by multiplying a quarter of 32 by 1:
+
+A quarter of 32 is 32 / 4 = 8
+
+So, 8 square feet of the garden will be used for strawberries.
+
+Answer: 8

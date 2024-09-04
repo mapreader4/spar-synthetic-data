@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Juanita goes through 1 bottle of sunscreen per month
+* There are 12 months in a year
+* So, Juanita needs 12 bottles of sunscreen for the entire year
+* Each bottle costs $30.00
+* The website offers a 30% discount on the entire purchase
+* To calculate the total cost before the discount:
+  - 12 bottles x $30.00 per bottle = $360.00
+* To calculate the discount amount:
+  - 30% of $360.00 = 0.30 x $360.00 = $108.00
+* To calculate the total cost after the discount:
+  - $360.00 - $108.00 = $252.00
+
+Answer: $252

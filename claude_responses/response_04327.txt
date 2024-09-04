@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Samuel and Kevin have a total budget of $20 for their outing
+* Samuel buys a $14 ticket and spends $6 on drinks and food
+* So Samuel's total spending is $14 + $6 = $20
+* Kevin buys a ticket and spends $2 on drinks
+* Since they have both used their entire budget, we can calculate Kevin's spending on food by subtracting Samuel's total spending and Kevin's spending on drinks from the total budget:
+* Total budget = $20
+* Samuel's total spending = $20
+* Kevin's spending on drinks = $2
+* Kevin's spending on food = Total budget - Samuel's total spending - Kevin's spending on drinks
+* Kevin's spending on food = $20 - $20 - $2 = -$2
+
+Therefore, the amount Kevin spent on food is $0.
+
+Answer: 0

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Every day, the frog eats 2 flies
+* In the morning, Betty catches 5 flies
+* In the afternoon, Betty catches 6 more flies, but one escapes, so she ends up with 5 more flies
+* So, in total, Betty catches 5 + 5 = 10 flies per day
+* There are 7 days in a week
+* So, the total number of flies Betty catches in a week is 10 flies per day x 7 days = 70 flies
+* The frog eats 2 flies per day, so in a week the frog eats 2 flies per day x 7 days = 14 flies
+* Therefore, the number of more flies Betty needs is 14 (the number the frog eats in a week) - 70 (the number Betty catches in a week) = -56
+
+Answer: -56

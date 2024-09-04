@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's start by finding the number of voters in District 1. We know that District 1 has 322 voters.
+
+Next, we know that District 2 has 19 less voters than District 3. So, let's subtract 19 from 322 to find the number of voters in District 3: 322 - 19 = 303.
+
+Now, we know that District 3 has twice as many voters as District 1. So, let's multiply the number of voters in District 1 by 2 to find the number of voters in District 3: 322 * 2 = 644.
+
+Now, we can add the number of voters in District 1, District 2 and District 3 to find the total number of voters in Districts 1 - 3: 322 + 303 + 644 = 1269.
+
+Answer: 1269

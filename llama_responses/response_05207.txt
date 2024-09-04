@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Jessa has 7 bills left after giving 3 bills to Geric. This means that Jessa had 10 bills initially (7 + 3 = 10).
+
+Since Geric has twice as many bills as Kyla, and Kyla has 2 fewer bills than Jessa, we can set up an equation to represent the number of bills Geric has: Geric = 2Kyla.
+
+Since Jessa has 10 bills, and Kyla has 2 fewer bills than Jessa, Kyla must have 8 bills (10 - 2 = 8). Since Geric has twice as many bills as Kyla, Geric must have 16 bills (2 x 8 = 16).
+
+So, Geric had 16 bills at the beginning.
+
+Answer: 16

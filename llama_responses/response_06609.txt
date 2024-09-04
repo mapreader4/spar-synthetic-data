@@ -1,0 +1,15 @@
+To solve this problem, I will think step by step.
+
+First, I will find the total cost of the toys if there is no discount. Since each toy costs 3 dollars, and John buys 5 toys, the total cost would be:
+
+5 * 3 = 15
+
+Next, I will find the discount. The discount is 20%, so I will multiply the total cost by 0.2 to find the discount:
+
+0.2 * 15 = 3
+
+To find the final cost, I will subtract the discount from the total cost:
+
+15 - 3 = 12
+
+So, John paid 12 dollars for everything.

@@ -1,0 +1,9 @@
+Let's start by finding the total weight of all the dogs.
+
+The total weight of all the dogs is 20 + 40 + 10 + 30 + 50 = 150 pounds.
+
+Since Paul needs 1 pound of dog food for every 10 pounds of dog, we need to divide the total weight by 10 to find the number of pounds of dog food needed per day.
+
+150 pounds / 10 = 15
+
+Answer: 15

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the number of employees who drive to work is 60% of the total employees, which is 0.6 * 100 = 60.
+
+The number of employees who don't drive to work is 100 - 60 = 40.
+
+Of those 40 employees who don't drive to work, half take public transportation, which is 40 / 2 = 20.
+
+Answer: 20

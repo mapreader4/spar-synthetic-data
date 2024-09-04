@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of men who tripped and couldn't finish the race. We know that 1/4 of the men tripped and couldn't finish, which is 1/4 x 80 = 20 men.
+
+Next, we know that 2/3 of the remaining men were dehydrated. Since 1/4 of the men tripped and couldn't finish, that means that the remaining 60 men (80 - 20 = 60) were dehydrated.
+
+Among those 60 dehydrated men, 1/5 couldn't finish the race, which is 1/5 x 60 = 12 men.
+
+To find the number of men who finished the race, we subtract the 12 men who couldn't finish from the 60 dehydrated men. So, the number of men who finished the race is 60 - 12 = 48.
+
+Answer: 48

@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's say the year of the second car is x. Since the first car was made 10 years before the second car, we know the year of the first car is x - 10.
+
+The third car was made 20 years after the second car. So, the year of the third car is x + 20.
+
+So, we know that x - 10 + 20 = x.
+
+This is an equation. Let's solve for x.
+
+x - 10 + 20 = x
+
+x = 30
+
+So, the third car was made in the year 30.
+
+Answer: 30

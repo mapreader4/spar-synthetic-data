@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+* Gretchen can carry 3 objects at a time while swimming underwater
+* She has found 17 objects underwater
+* We need to find the fewest number of trips she must take to the surface to carry all 17 objects to the boat
+
+To do this, we can divide the total number of objects (17) by the number of objects she can carry at a time (3):
+* 17 objects / 3 objects per trip = 5.67 trips
+
+Since we can't take a fraction of a trip, we need to round up to the nearest whole number to get the fewest number of trips:
+* 5.67 trips rounded up to the nearest whole number is 6 trips
+
+Therefore, the fewest number of trips Gretchen must take to the surface of the water to carry all 17 objects to the boat is:
+Answer: 6

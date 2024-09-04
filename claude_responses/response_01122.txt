@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Tim used to run 3 times a week
+* He decided to add an extra 2 days a week, so now he runs 5 days a week
+* He runs 1 hour in the morning and 1 hour in the evening every day he runs
+* So, for each day he runs, he runs for 2 hours (1 hour in the morning + 1 hour in the evening)
+* Since he runs 5 days a week, the total number of hours he runs per week is:
+* 5 days per week x 2 hours per day = 10 hours per week
+
+Answer: 10 hours

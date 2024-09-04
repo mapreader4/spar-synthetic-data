@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Siena bookmarks 30 website pages every day
+* There are 7 days in a week
+* So, in one week, Siena bookmarks 30 pages x 7 days = 210 pages
+* There are 4 weeks in March
+* So, in one month (March), Siena bookmarks 210 pages x 4 weeks = 840 pages
+* Siena currently has 400 bookmarked pages on her bookmarks library
+* To find the total number of pages she will have at the end of March, we add the 840 pages she will bookmark in March to the 400 pages she currently has:
+* 400 pages + 840 pages = 1,240 pages
+
+Answer: 1,240

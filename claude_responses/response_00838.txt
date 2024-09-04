@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The boat was carrying 20 sheep, 10 cows, and 14 dogs
+* 3 of the sheep drowned
+* Twice as many cows drowned as did sheep, so 2 x 3 = 6 cows drowned
+* All of the dogs made it to shore
+
+Now, let's calculate the total number of animals that made it to shore:
+* Sheep that made it to shore: 20 - 3 = 17
+* Cows that made it to shore: 10 - 6 = 4
+* Dogs that made it to shore: 14
+
+Adding these up, we get:
+* Total animals that made it to shore = 17 + 4 + 14 = 35
+
+Answer: 35

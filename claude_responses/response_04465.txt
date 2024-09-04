@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* June found 2 birds nests in 1 tree, each with 5 eggs
+* So, in the first tree, the total number of eggs is 2 nests x 5 eggs per nest = 10 eggs
+* June also found 1 nest with 3 eggs in another tree
+* So, the total number of eggs in the second tree is 1 nest x 3 eggs per nest = 3 eggs
+* Finally, June found 1 nest with 4 eggs in her front yard
+* So, the total number of eggs in the front yard is 1 nest x 4 eggs per nest = 4 eggs
+* To calculate the total number of eggs June found, we add up the eggs from all the locations:
+* 10 eggs (first tree) + 3 eggs (second tree) + 4 eggs (front yard) = 17 eggs
+
+Answer: 17

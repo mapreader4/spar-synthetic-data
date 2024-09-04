@@ -1,0 +1,8 @@
+Let's start by identifying the information given in the problem:
+
+* Jane brings 75% of the total number of pieces of bread as treats.
+* Wanda brings half as many pieces of bread as Jane, so Wanda brings 0.75 * 0.5 = 0.375 of the total number of pieces of bread.
+* Wanda brings three times as many pieces of bread as treats as Jane, so Wanda brings 3 * 0.75 = 2.25 of the total number of pieces of bread.
+* Wanda brings 90 pieces of bread, which is 2.25 of the total number of pieces of bread, so the total number of pieces of bread is 90 / 2.25 = 40.
+
+The total number of pieces of bread and treats that Wanda and Jane brought to the zoo is 40 + 75 = 115.

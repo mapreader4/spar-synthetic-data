@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The initial height of the tree is 52 feet.
+2) The tree grows 5 feet each year.
+3) We want to know the height of the tree in 8 years.
+4) To calculate the height in 8 years, we take the initial height of 52 feet and add 5 feet for each of the 8 years.
+5) 52 feet + (5 feet x 8 years) = 52 feet + 40 feet = 92 feet.
+6) Now, we need to convert the height from feet to inches. Since 1 foot is 12 inches, we multiply 92 feet by 12 inches/foot.
+7) 92 feet x 12 inches/foot = 1,104 inches.
+
+Answer: 1,104 inches.

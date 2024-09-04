@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+Store 1:
+* The original price of the computer is $950.
+* The discount is 6%, which means the final price will be 94% of the original price.
+* The final price at Store 1 is $950 * 0.94 = $893.
+
+Store 2:
+* The original price of the computer is €920.
+* The discount is 5%, which means the final price will be 95% of the original price.
+* The final price at Store 2 is €920 * 0.95 = €874.
+
+Now, to find the difference in price between the two stores, we need to convert the Euro price to US Dollars.
+* Assuming the exchange rate is 1 Euro = $1.10, the price at Store 2 is €874 * $1.10 = $961.40.
+
+The difference in price between the two stores is:
+$961.40 - $893 = $68.40
+
+Answer: $68

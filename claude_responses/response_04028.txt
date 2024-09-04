@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+* Lucas has 12 pet beds in his room already
+* He can fit another 8 pet beds in his room
+* So the total number of pet beds he can have is 12 + 8 = 20 pet beds
+* His parents argue that each pet needs 2 beds to feel comfortable
+* So the number of pets he can have is the total number of pet beds divided by 2
+* 20 pet beds / 2 beds per pet = 10 pets
+
+Answer: 10

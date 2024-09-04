@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total distance Carol will be able to drive with the gas she has in her tank.
+
+The tank capacity is 16 gallons, and she gets 20 miles per gallon. So, to find the total distance she can drive, we multiply the tank capacity by the miles per gallon: 16 gallons * 20 miles per gallon = 320 miles.
+
+Step 2: Determine the distance to her destination.
+
+The distance to her destination is 220 miles.
+
+Step 3: Find the distance she will be able to drive after she gets home.
+
+To find the distance she will be able to drive after she gets home, we subtract the distance she can drive with the gas she has from the total distance to her destination: 220 miles - 320 miles = 220 - 320 = -100 miles.
+
+Answer: -100

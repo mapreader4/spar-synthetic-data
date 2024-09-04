@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The 6 ladies walk 3 miles together, so the total distance they walk in one day is 6 x 3 = 18 miles.
+2. Jamie walks an additional 2 miles per day for 6 days, so Jamie walks a total of 2 x 6 = 12 miles in 6 days.
+3. Sue walks half the amount Jamie walks in 6 days, so Sue walks 12 / 2 = 6 miles in 6 days.
+4. Since there are 6 ladies, and Jamie and Sue are two of them, the total distance Jamie and Sue walk in 6 days is 12 + 6 = 18 miles.
+5. Since the 6 ladies walk 3 miles together every day, the total distance they walk in 6 days is 6 x 3 x 6 = 108 miles.
+6. Jamie and Sue walk an additional 18 miles, so the total distance all 6 ladies walk in 6 days is 108 + 18 = 126 miles.
+
+Answer: 126

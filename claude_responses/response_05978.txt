@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each bracelet uses 12 large beads
+* Each bracelet uses twice as many small beads as large beads
+* So, each bracelet uses 24 small beads (2 x 12)
+* Caitlin has 528 beads in total, with equal amounts of large and small beads
+* Since each bracelet uses 12 large beads, Caitlin has 528 / 2 = 264 large beads
+* This means she has 264 small beads as well
+* To find the number of bracelets she can make, we need to find the limiting factor - either the number of large beads or the number of small beads
+* With 264 large beads, she can make 264 / 12 = 22 bracelets
+* With 264 small beads, she can make 264 / 24 = 11 bracelets
+* The limiting factor is the small beads, so she can make 11 bracelets.
+
+Answer: 11

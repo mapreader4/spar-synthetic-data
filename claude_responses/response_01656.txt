@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Holly's fence is 25 yards long.
+2) The trees she wants to plant will be 1.5 feet wide at maturity.
+3) We need to convert the fence length from yards to feet:
+   * 25 yards x 3 feet/yard = 75 feet
+4) Now we need to determine how many trees Holly will need to cover the 75-foot fence:
+   * 75 feet / 1.5 feet per tree = 50 trees
+5) Each tree costs $8.00.
+6) The total cost will be:
+   * 50 trees x $8.00 per tree = $400.00
+
+Answer: $400

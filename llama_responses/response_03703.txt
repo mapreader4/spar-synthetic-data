@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of floors that are not ID-checking floors. There are 12 floors in total, and every 3rd floor is an ID-checking floor. So, the number of floors that are not ID-checking floors is 12 - (12 / 3) = 4.
+
+The time it takes to drive from one floor to the next is 800 feet at 10 feet/second. So, the time it takes to drive from one floor to the next is 800 / 10 = 80 seconds.
+
+Since there are 4 non-ID-checking floors, and it takes 80 seconds to drive from one floor to the next, it will take 4 * 80 = 320 seconds to get to the bottom of the garage from the top.
+
+Answer: 320

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jorge bought 24 tickets.
+2) Each ticket costs $7.
+3) He is given a 50% discount for purchasing so many tickets.
+4) To calculate the total cost before the discount:
+   * 24 tickets x $7 per ticket = $168
+5) To calculate the discount amount:
+   * 50% of $168 = 0.5 x $168 = $84
+6) To calculate the total cost after the discount:
+   * $168 - $84 = $84
+Answer: $84

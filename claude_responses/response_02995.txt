@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There were 400 trees on Amiyah's farm initially.
+2) She cut 20% of the trees.
+3) To calculate 20% of 400 trees, we multiply 400 by 0.20 (20% expressed as a decimal):
+   400 * 0.20 = 80 trees cut down.
+4) For every tree she cut down, she planted 5 new trees.
+5) So, the number of new trees planted is 80 * 5 = 400 new trees.
+6) The total number of trees on the farm is the initial 400 trees, minus the 80 trees cut down, plus the 400 new trees planted.
+   400 - 80 + 400 = 720 trees.
+
+Answer: 720 trees.

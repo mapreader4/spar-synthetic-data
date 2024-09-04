@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of legos needed for one airplane model. According to the problem, 240 legos are required for one airplane model. Since Julian wants to make two airplane models, we need to multiply the number of legos needed for one airplane model by 2.
+
+So, the number of legos needed for 2 airplane models is 240 * 2 = 480 legos.
+
+Julian already has 400 legos, and we need 480 legos for 2 airplane models. To find the number of legos Julian needs, we need to subtract 480 from 400, which is the number of legos Julian has.
+
+400 - 480 = 220 legos.
+
+Answer: 220

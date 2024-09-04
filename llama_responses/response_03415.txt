@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's first find the total amount of money Jose earns per day.
+
+For kids, he charges 3 dollars. Since there are 8 kids, the amount of money he earns from kids is 8 * 3 = 24 dollars.
+
+For adults, he charges twice the amount for adults, which is 2 * 3 = 6 dollars. Since there are 10 adults, the amount of money he earns from adults is 10 * 6 = 60 dollars.
+
+The total amount of money Jose earns per day is 24 + 60 = 84 dollars.
+
+Since there are 7 days in a week, we need to multiply the amount of money Jose earns per day by 7 to find the total amount of money he earns in a week.
+
+The total amount of money Jose earns in a week is 7 * 84 = 588 dollars.
+
+Answer: 588

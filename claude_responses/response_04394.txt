@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Dan's skateboarding helmet has 10 more craters than Daniel's ski helmet.
+2) Rin's snorkel helmet has 15 more craters than Dan's and Daniel's helmets combined.
+3) Rin's helmet has 75 craters.
+4) Let's call the number of craters in Daniel's helmet x.
+5) Then, the number of craters in Dan's helmet is x + 10.
+6) The number of craters in Rin's helmet is 15 more than the combined number of craters in Dan's and Daniel's helmets.
+7) So, the combined number of craters in Dan's and Daniel's helmets is 75 - 15 = 60.
+8) Therefore, x + (x + 10) = 60.
+9) Solving for x, we get 2x + 10 = 60, so 2x = 50, and x = 25.
+10) Therefore, the number of craters in Dan's helmet is x + 10 = 25 + 10 = 35.
+
+Answer: 35

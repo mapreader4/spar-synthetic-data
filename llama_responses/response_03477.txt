@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of volunteers already available: 5 students from each of the 6 math classes, which is 5 x 6 = 30 volunteers. Then, 13 teachers have volunteered, which is 13 more volunteers.
+
+To find the total number of volunteers, we need to add the number of students and teachers: 30 + 13 = 43.
+
+Mr. Johnson needs 50 volunteers, but we already have 43 volunteers. To find the number of volunteers he needs, we need to subtract the number of volunteers available from the total needed: 50 - 43 = 7.
+
+Answer: 7

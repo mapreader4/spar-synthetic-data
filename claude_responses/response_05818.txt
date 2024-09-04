@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Tommy has 10 more dimes than pennies. Let's say he has x pennies. Then he has x + 10 dimes.
+2) He has twice as many nickels as dimes. So he has 2(x + 10) nickels.
+3) He has 4 quarters.
+4) He has 10 times as many pennies as quarters. So he has 10(4) = 40 pennies.
+5) Now we can solve for x:
+   x = 40 pennies
+   x + 10 = 50 dimes
+   2(x + 10) = 100 nickels
+Answer: 100 nickels.

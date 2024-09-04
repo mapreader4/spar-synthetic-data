@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Stella has 50 pages in her collector's album.
+2) The first 10 pages have 5 rows of 30 stamps each.
+   * So, for the first 10 pages, there are 5 x 30 = 150 stamps per page.
+   * For the first 10 pages, the total number of stamps is 10 x 150 = 1,500 stamps.
+3) The remaining 40 pages have 50 stamps each.
+   * So, for the remaining 40 pages, the total number of stamps is 40 x 50 = 2,000 stamps.
+4) To get the total number of stamps in Stella's album, we add the stamps from the first 10 pages and the remaining 40 pages:
+   * 1,500 + 2,000 = 3,500 stamps.
+
+Answer: 3,500

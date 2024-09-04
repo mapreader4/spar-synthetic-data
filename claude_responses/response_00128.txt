@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) The class has 30 students.
+2) Each hotel room has 2 queen size beds, which can fit 2 students each, and a pull-out couch, which can fit 1 student.
+3) So each hotel room can fit a maximum of 5 students (2 students per bed, and 1 student on the pull-out couch).
+4) To calculate the number of rooms needed, we divide the total number of students (30) by the maximum number of students per room (5).
+5) 30 students / 5 students per room = 6 rooms.
+
+Answer: 6

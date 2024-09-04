@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+* The survey found that 2/3 of the students receive an average of $6 allowance per day
+* The remaining 1/3 of the students receive an average of $4 allowance per day
+* The total number of students surveyed is 60
+
+To find the total amount of money the 60 students get in a day, we need to calculate the amount for each group and then add them together.
+
+For the 2/3 of students who receive $6 per day:
+* 2/3 of 60 students = 40 students
+* 40 students x $6 per day = $240 per day
+
+For the 1/3 of students who receive $4 per day:
+* 1/3 of 60 students = 20 students
+* 20 students x $4 per day = $80 per day
+
+Now we add the two amounts together:
+* $240 + $80 = $320 per day
+
+Answer: 320

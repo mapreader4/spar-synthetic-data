@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the distance the man traveled in 3 hours. 60 mph * 3 hours = 180 miles.
+
+Next, we need to find the total distance he needs to travel over the next 2 hours to get an average speed of 70 mph. 70 mph * 2 hours = 140 miles.
+
+Now, we need to find the difference between the distance he traveled in 3 hours and the distance he needs to travel to get an average speed of 70 mph. 180 - 140 = 40.
+
+So, the man would need to drive 40 more miles over the next 2 hours to get an average speed of 70 mph.

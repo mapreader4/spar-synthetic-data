@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 24 toys in the box
+* 1/4 of the toys are action figures
+* To find the number of action figures, we take 1/4 of 24:
+    * 1/4 of 24 = 24 * 1/4 = 6 action figures
+* The remaining toys are all dolls
+* To find the number of dolls, we take the total number of toys (24) and subtract the number of action figures (6):
+    * 24 - 6 = 18 dolls
+
+Answer: 18

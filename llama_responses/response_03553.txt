@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first consider the rate at the rate at which the pool is being emptied. The pool is being emptied through the drain at a rate of 1/4 of the pool per hour. Since the pool holds 120 liters of water, this means that in 1 hour, 30 liters of water will be emptied.
+
+Next, let's consider the rate at which the pool is being filled. The hose is filling the pool at a rate of 1/6 of the pool per hour. Since the pool holds 120 liters of water, this means that in 1 hour, 20 liters of water will be filled.
+
+Now, let's find the amount of water that will be left in the pool after 3 hours.
+
+The pool starts with 120 liters of water. After 1 hour, 30 liters of water will be emptied, leaving 90 liters of water. After another hour, 20 liters of water will be filled, leaving 110 liters of water. After another hour, 30 liters of water will be emptied, leaving 80 liters of water. After 3 hours, the pool will be emptied by 60 liters of water, leaving 60 liters of water.
+
+Answer: 60

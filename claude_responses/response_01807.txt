@@ -1,0 +1,6 @@
+Okay, let's break this down step-by-step:
+1) Oliver has twice as many Monster Club cards as Alien Baseball cards. Let's call the number of Alien Baseball cards 'x'. Then the number of Monster Club cards is '2x'.
+2) The number of Battle Gremlins cards is 48, and this is three times the size of the Alien Baseball card collection. So the number of Alien Baseball cards is 48 / 3 = 16. Therefore, 'x' = 16.
+3) Since Oliver has twice as many Monster Club cards as Alien Baseball cards, and the number of Alien Baseball cards is 16, the number of Monster Club cards is 2 * 16 = 32.
+
+Answer: 32

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Pat and his 7 friends will each eat 3 S'mores
+* So the total number of S'mores needed is 8 people x 3 S'mores each = 24 S'mores
+* It costs $3 to make 4 S'mores
+* To calculate the total cost, we need to figure out how many sets of 4 S'mores are needed
+* 24 S'mores / 4 S'mores per set = 6 sets
+* Each set costs $3, so the total cost will be 6 sets x $3 per set = $18
+
+Answer: 18

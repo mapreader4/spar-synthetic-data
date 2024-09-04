@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 100 lions in Londolozi.
+* Lion cubs are born at the rate of 5 per month.
+* Lions die at the rate of 1 per month.
+* We want to find the number of lions after 1 year (12 months).
+
+First, let's calculate the number of lions born in 1 year:
+* 5 cubs per month x 12 months = 60 cubs born in 1 year
+
+Next, let's calculate the number of lions that die in 1 year:
+* 1 lion per month x 12 months = 12 lions die in 1 year
+
+Now, we can calculate the net change in the number of lions over 1 year:
+* 60 cubs born - 12 lions died = 48 more lions
+
+Finally, we can add this net change to the initial 100 lions:
+* 100 lions + 48 more lions = 148 lions
+
+Answer: 148 lions

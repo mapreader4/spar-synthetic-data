@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. Martin invited 5 people from his hometown.
+2. He invited twice as many people from his school, so that's 5 * 2 = 10 people.
+3. He invited as many people from his sports club as the sum of people invited from his hometown and his school. The sum of people invited from his hometown and his school is 5 + 10 = 15. So, he invited 15 people from his sports club.
+4. The remaining invitations represent 20% of the total previously mentioned. Let's find the total number of invitations: 5 + 10 + 15 = 30.
+5. 20% of 30 is 0.2 * 30 = 6. So, the remaining invitations are 6 people.
+6. The total number of people who can potentially come to the party is the sum of the people invited from his hometown, his school, and his sports club, minus the remaining invitations: 5 + 10 + 15 - 6 = 30.
+
+Answer: 30

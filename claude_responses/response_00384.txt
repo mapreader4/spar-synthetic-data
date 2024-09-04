@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Nico borrows 3 books from the library on Monday.
+* On Monday, he reads the first book with a total of 20 pages.
+* On Tuesday, he reads the second book with a total of 12 pages.
+* On Wednesday, he reads the third book.
+* He has read a total of 51 pages from Monday to Wednesday.
+
+To find the number of pages he read on Wednesday, we need to subtract the pages he read on Monday and Tuesday from the total pages he read.
+
+Pages read on Monday: 20
+Pages read on Tuesday: 12
+Total pages read from Monday to Wednesday: 51
+
+Pages read on Wednesday = Total pages read - Pages read on Monday - Pages read on Tuesday
+Pages read on Wednesday = 51 - 20 - 12 = 19
+
+Answer: 19

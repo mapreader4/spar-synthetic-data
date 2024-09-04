@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Ali started with 180 seashells. He gave away 40 seashells to his friends, so he has:
+
+180 - 40 = 140 seashells left
+
+Then, he gave away 30 seashells to his brothers, so he has:
+
+140 - 30 = 110 seashells left
+
+Next, he sold half of the remaining seashells. Half of 110 is:
+
+110 / 2 = 55
+
+So, he sold 55 seashells. To find out how many seashells he has left, we subtract the seashells he sold from the remaining seashells:
+
+110 - 55 = 55
+
+Answer: 55

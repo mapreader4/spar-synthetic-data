@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Wes wants to place a large planter pot at each corner of his rectangle-shaped pool.
+2) Each planter will have:
+   - 1 large palm fern at $15.00 per plant
+   - 4 creeping jennies at $4.00 per plant
+   - 4 geraniums at $3.50 per plant
+3) To calculate the cost for each planter:
+   - 1 palm fern at $15.00 = $15.00
+   - 4 creeping jennies at $4.00 each = 4 x $4.00 = $16.00
+   - 4 geraniums at $3.50 each = 4 x $3.50 = $14.00
+   - Total cost per planter = $15.00 + $16.00 + $14.00 = $45.00
+4) Since there are 4 corners, the total cost to fill all the pots will be:
+   - 4 planters x $45.00 per planter = $180.00
+
+Answer: $180

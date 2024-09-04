@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jack borrowed $1200 from Jill last week
+* He promised to pay back the $1200 with an interest of 10%
+* To calculate the total amount Jack will pay back, we need to find the interest amount and add it to the original loan amount
+
+To find the interest amount:
+* Interest rate = 10% = 0.10
+* Interest amount = Original loan amount × Interest rate
+* Interest amount = $1200 × 0.10 = $120
+
+Now, to find the total amount Jack will pay back:
+* Total amount = Original loan amount + Interest amount
+* Total amount = $1200 + $120 = $1320
+
+Answer: $1320

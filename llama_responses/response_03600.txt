@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Pat's stick is 30 inches long and he covers 7 inches of it in dirt. This means that the portion of the stick that is not covered in dirt is 30 - 7 = 23 inches long.
+
+Next, we are told that this portion of the stick is half as long as Sarah's stick. So, if the length of the portion is 23 inches, then Sarah's stick must be 23 x 2 = 46 inches long.
+
+Finally, we are told that Jane's stick is two feet shorter than Sarah's stick. Since there are 12 inches in a foot, this means that Jane's stick is 46 - 2 x 12 = 34 inches long.
+
+Answer: 34

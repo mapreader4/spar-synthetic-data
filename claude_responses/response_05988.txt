@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Mark has 3 tanks for pregnant fish
+* Each tank has 4 pregnant fish
+* Each pregnant fish gives birth to 20 young
+
+To calculate the total number of young fish, we need to:
+1. Calculate the number of young fish in each tank
+2. Add up the number of young fish from all 3 tanks
+
+Step 1: Number of young fish in each tank
+* Each tank has 4 pregnant fish
+* Each pregnant fish gives birth to 20 young
+* So, the number of young fish in each tank is 4 x 20 = 80
+
+Step 2: Total number of young fish
+* There are 3 tanks
+* Each tank has 80 young fish
+* So, the total number of young fish is 3 x 80 = 240
+
+Answer: 240

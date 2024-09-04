@@ -1,0 +1,12 @@
+Let's start by identifying the values of each type of coin Kendall has:
+
+* 10 quarters = 10 x 25 cents = 250 cents
+* 12 dimes = 12 x 10 cents = 120 cents
+
+Kendall has a total of 250 cents in quarters, dimes, and nickels. She has 4 of each type of coin. So, the total amount of cents she has is 250.
+
+Since nickels are worth 5 cents each, we can find the number of nickels by dividing the total amount of cents by the value of a single nickel:
+
+250 cents ÷ 5 cents = 50
+
+So, Kendall has 50 nickels.

@@ -1,0 +1,18 @@
+Let's break this problem down step by step:
+
+1. Henley bought 300 candies and shared them with her two brothers.
+So, there are 300 candies in total.
+
+2. They realized 40% of the candies were sour, and they had to separate those out.
+To find the number of sour candies, we can multiply 40% by 300, which is the total number of candies.
+
+40% of 300 is the same as 0.4 * 300 = 120. So, there are 120 sour candies.
+
+3. They then shared the good candies equally.
+To find the number of good candies each brother got, we need to subtract the sour candies from the total number of candies, and then divide the result by 2, since there are two brothers.
+
+First, let's subtract the sour candies from the total number of candies: 300 - 120 = 180.
+
+Then, we divide the result by 2: 180 ÷ 2 = 90.
+
+Answer: 90

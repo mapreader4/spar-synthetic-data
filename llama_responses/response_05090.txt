@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* Mark wins 70% of the votes in the first area, which has 100,000 voters.
+* Mark gets twice as many votes in the remaining area.
+
+To find the total number of votes Mark got, we need to calculate 70% of the votes in the first area and then multiply it by 2.
+
+70% of 100,000 is 0.7 * 100,000 = 70,000.
+70,000 * 2 = 140,000.
+
+Answer: 140,000

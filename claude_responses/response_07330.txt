@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Pirate Rick dug up 8 feet of sand in 4 hours, which means he dug at a rate of 2 feet per hour (8 feet / 4 hours = 2 feet/hour).
+* After the treasure was buried, a tropical storm washed away half of the sand, so the remaining depth of sand on top of the treasure is 4 feet (8 feet / 2 = 4 feet).
+* Then, a tsunami wave added 2 feet of new sand on top of the treasure, so the total depth of sand on top of the treasure is now 6 feet (4 feet + 2 feet = 6 feet).
+* To find how long it will take Pirate Rick to dig up the treasure, we divide the total depth of sand (6 feet) by his digging rate (2 feet per hour):
+* 6 feet / 2 feet per hour = 3 hours
+
+Answer: 3 hours

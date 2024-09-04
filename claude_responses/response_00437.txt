@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Lao can sell each chicken for $1.50
+* A bag of chicken feed weighs 20 pounds and costs $2
+* Each chicken needs 2 pounds of feed
+* Lao made a profit of $65 from selling chickens
+
+First, let's calculate the cost of feed for each chicken:
+* 2 pounds of feed per chicken
+* 1 bag of feed costs $2 and contains 20 pounds
+* So, the cost of feed per chicken is $2 / 20 pounds * 2 pounds = $0.20
+
+Next, let's calculate the profit per chicken:
+* Lao sells each chicken for $1.50
+* The cost of feed per chicken is $0.20
+* So, the profit per chicken is $1.50 - $0.20 = $1.30
+
+Now, we can calculate the number of chickens Lao sold:
+* Lao made a total profit of $65
+* The profit per chicken is $1.30
+* So, the number of chickens he sold is $65 / $1.30 = 50 chickens
+
+Answer: 50 chickens

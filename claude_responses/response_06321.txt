@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Laura bought 2 salads, each costing $3. So the total cost of the salads is 2 x $3 = $6.
+* The cost of 2 kilograms of beef is 2 x (2 x $3) = 2 x $6 = $12, since one kilogram of beef is twice the price of one salad.
+* The cost of 1 kilogram of potatoes is 1/3 x $3 = $1, since one kilogram of potatoes costs one-third the price of one salad.
+* The cost of 2 liters of juice is 2 x $1.5 = $3, since one liter of juice costs $1.5.
+
+Now, to calculate the total cost:
+Total cost = Cost of salads + Cost of beef + Cost of potatoes + Cost of juice
+Total cost = $6 + $12 + $1 + $3 = $22
+
+Answer: $22

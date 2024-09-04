@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Ayen jogs for 30 minutes every day during weekdays. So, on Monday, Tuesday, Wednesday, Thursday, and Friday, she jogs for 30 minutes each.
+2. On Tuesday, she jogged 5 minutes more. So, on Tuesday, she jogged 30 minutes + 5 minutes = 35 minutes.
+3. On Friday, she jogged 25 minutes more. So, on Friday, she jogged 30 minutes + 25 minutes = 55 minutes.
+4. To find the total time Ayen jogged this week, we add the minutes she jogged each day. 35 + 30 + 30 + 30 + 35 + 55 = 150.
+
+Answer: 150

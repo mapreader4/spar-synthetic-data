@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) James writes from 1 PM to 4 PM every night, which is a total of 3 hours per day.
+2) He can write 5 pages per hour.
+3) So in 3 hours per day, he can write 5 pages x 3 hours = 15 pages per day.
+4) The book is 735 pages long.
+5) To find how many days it will take to write the 735 pages, we divide 735 by 15 pages per day:
+735 pages / 15 pages per day = 49 days.
+6) There are 7 days in a week, so to find how many weeks it will take, we divide 49 days by 7 days per week:
+49 days / 7 days per week = 7 weeks.
+
+Answer: 7 weeks.

@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Billy starts with 8 mice.
+2) Each of the 8 mice has 6 pups, so the total number of mice is now 8 + (8 * 6) = 56.
+3) When the pups grow up, all the mice have another 6 pups each, so the total number of mice is now 56 + (56 * 6) = 392.
+4) Each adult mouse then eats 2 of their pups due to overcrowding, so the total number of mice is now 392 - (56 * 2) = 280.
+
+Answer: 280

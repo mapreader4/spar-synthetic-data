@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Maryann can pick the lock on a cheap pair of handcuffs in 6 minutes. This means that the time it takes her to pick the lock on a cheap pair of handcuffs is 6 minutes.
+
+Maryann can pick the lock on an expensive pair of handcuffs in 8 minutes. This means that the time it takes her to pick the lock on an expensive pair of handcuffs is 8 minutes.
+
+Now, let's think about the problem of Maryann having to free 3 of her friends who have expensive handcuffs on their hands and cheap handcuffs on their ankles. Let's assume that each friend takes the same amount of time for Maryann to pick the lock as the time it takes her to pick the lock on a cheap pair of handcuffs. 
+
+Maryann can pick the lock on a cheap pair of handcuffs in 6 minutes, so each of her friends will take 6 minutes for her to free them. 
+
+Since there are 3 friends, the total time it will take Maryann to free all of her friends is 3 x 6 = 18 minutes.
+
+However, Maryann can pick the lock on an expensive pair of handcuffs in 8 minutes, so the total time it will take her to free all of her friends is 3 x 8 = 24 minutes.
+
+So, the total time it will take Maryann to free all of her friends is 24 minutes.

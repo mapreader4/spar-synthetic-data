@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of feathers the chicken had initially: 5263.
+
+The chicken crossed the road twice, so it had to dodge 23 speeding cars the first time. Since the chicken lost some feathers while dodging, let's subtract 23 from its initial number of feathers: 5263 - 23 = 5240.
+
+The second time, a person tried to catch the chicken and pulled out twice as many feathers as the number of cars the chicken had dodged, which is 2 x 23 = 46. So, the chicken lost 46 feathers the second time.
+
+To find the total number of feathers the chicken had after its thrill-seeking road crossings, we subtract 46 from the number of feathers it had after the first crossing: 5240 - 46 = 5194.
+
+Answer: 5194

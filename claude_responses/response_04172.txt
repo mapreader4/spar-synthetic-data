@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 9 adults attending the play
+* Each adult ticket costs $11
+* So the total cost of the adult tickets is:
+    - 9 adults x $11 per ticket = $99
+* There are 7 children attending the play
+* Each child ticket costs $7
+* So the total cost of the children's tickets is:
+    - 7 children x $7 per ticket = $49
+* To find the difference in cost between the adult tickets and the children's tickets, we subtract the total cost of the children's tickets from the total cost of the adult tickets:
+    - $99 (adult tickets) - $49 (children's tickets) = $50
+
+Answer: $50

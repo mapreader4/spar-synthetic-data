@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+The shop is open from 10 am to 10 pm, which means it is open for 12 hours a day. In a week, there are 7 days, so the total number of hours the shop is open is 7 x 12 = 84 hours.
+
+The shop sells women's T-shirts every 30 minutes for $18, which is 2 T-shirts per hour. The shop sells men's T-shirts every 40 minutes for $15, which is 1.5 T-shirts per hour. 
+
+The total number of T-shirts sold per hour for women is 2 T-shirts, and the total number of T-shirts sold per hour for men is 1.5 T-shirts. The total number of T-shirts sold per hour is 2 + 1.5 = 3.5 T-shirts.
+
+In 84 hours, the total number of T-shirts sold is 84 x 3.5 = 294 T-shirts.
+
+So, the shop earns 294 T-shirts per week.
+
+Answer: 294

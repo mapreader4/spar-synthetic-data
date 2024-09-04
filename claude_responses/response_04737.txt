@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Cristian has 50 more black cookies than white cookies in his cookie jar.
+2) If he has 80 white cookies, then he has 80 + 50 = 130 black cookies.
+3) He eats half of the black cookies, which is 130 / 2 = 65 black cookies.
+4) He eats 3/4 of the white cookies, which is 80 * 3/4 = 60 white cookies.
+5) So the remaining cookies are:
+   - Black cookies: 130 - 65 = 65 black cookies
+   - White cookies: 80 - 60 = 20 white cookies
+6) The total number of remaining cookies is 65 + 20 = 85 cookies.
+
+Answer: 85

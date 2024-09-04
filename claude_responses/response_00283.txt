@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Lily has 5 lottery tickets to sell
+* She sells the first ticket for $1
+* Each successive ticket is sold for $1 more than the previous ticket
+* So the ticket prices are: $1, $2, $3, $4, $5
+* Lily plans to keep a $4 profit
+* The remaining money will be given as the prize
+
+To calculate the total amount of money Lily will receive from selling the 5 tickets:
+* Ticket 1: $1
+* Ticket 2: $2
+* Ticket 3: $3
+* Ticket 4: $4
+* Ticket 5: $5
+* Total: $1 + $2 + $3 + $4 + $5 = $15
+
+Lily plans to keep a $4 profit, so the remaining money will be the prize.
+* Prize = Total money received - Lily's profit
+* Prize = $15 - $4 = $11
+
+Answer: $11

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* 3 builders build a single floor of a house in 30 days
+* Each builder is paid $100 for a single day's work
+* We need to find the cost to hire 6 builders to build 5 houses with 6 floors each
+
+First, let's calculate the cost for 3 builders to build a single floor:
+* 3 builders x $100 per day x 30 days = $9,000 to build a single floor
+
+Now, to build 5 houses with 6 floors each, we need:
+* 5 houses x 6 floors per house = 30 floors total
+
+To build 30 floors with 6 builders, it will take:
+* 30 floors / 3 builders per floor = 10 days
+
+The total cost for 6 builders to build 5 houses with 6 floors each would be:
+* 6 builders x $100 per day x 10 days = $6,000
+
+Answer: $6,000

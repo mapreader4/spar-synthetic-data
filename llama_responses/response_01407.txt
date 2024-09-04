@@ -1,0 +1,21 @@
+Let the cost of the more expensive pair be x. Since it was 50% more expensive than the other, we can set up an equation:
+
+22 + 1.5x = x
+
+We know that 1.5x = 1.5x, so we can simplify the equation to get:
+
+22 + 1.5x = 22 + 1.5x
+
+We can subtract 22 from both sides of the equation to get:
+
+1.5x = 0
+
+Now we can multiply both sides by 2 to get:
+
+3x = 0
+
+So the cost of the more expensive pair of shoes is 0. And since we know that Nina bought the other pair for 22, we can find the total cost by adding the two:
+
+22 + 0 = 22
+
+So Nina paid 22 for both pairs of shoes.

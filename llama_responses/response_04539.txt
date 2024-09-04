@@ -1,0 +1,7 @@
+Let's start by counting the number of beds in each type of room.
+
+There are 8 rooms with 2 beds each, so that is 2 * 8 = 16 beds.
+
+There are 5 rooms left, which have 3 beds each. So that is 3 * 5 = 15 beds.
+
+So in total, there are 16 + 15 = 31 beds.

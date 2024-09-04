@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of pies baked by Eddie, which is 3 pies a day. So, in 7 days, he will bake 7 * 3 = 21 pies.
+
+Then, his sister can bake 6 pies a day. In 7 days, she will bake 7 * 6 = 42 pies.
+
+Lastly, his mother can bake 8 pies a day. In 7 days, she will bake 7 * 8 = 56 pies.
+
+Now, let's add up the total number of pies baked by all three: 21 + 42 + 56 = 119.
+
+So, the total number of pies baked in 7 days is 119.

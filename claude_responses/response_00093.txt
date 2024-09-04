@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. John ordered 1000 pounds of beef at $8 per pound.
+   * Cost of beef = 1000 pounds x $8 per pound = $8,000
+
+2. John also ordered twice as much chicken as beef.
+   * Chicken ordered = 2 x 1000 pounds = 2000 pounds
+   * Cost of chicken = 2000 pounds x $3 per pound = $6,000
+
+3. To calculate the total cost, we add the cost of beef and chicken:
+   * Total cost = Cost of beef + Cost of chicken
+   * Total cost = $8,000 + $6,000 = $14,000
+
+Answer: $14,000

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of seaweed that is good for starting fires. 50% of the total amount is used for this purpose. Since 50% is the percentage of seaweed used for starting fires, we can multiply 50% by the total amount of seaweed to get the amount of seaweed used for starting fires:
+
+50% of 400 pounds = 0.5 x 400 pounds = 200 pounds
+
+Now, let's identify the amount of seaweed that can be eaten by humans. 25% of the total amount is used for this purpose. 25% is the percentage of seaweed used for human consumption, so we can multiply 25% by the total amount of seaweed to get the amount of seaweed used for human consumption:
+
+25% of 400 pounds = 0.25 x 400 pounds = 100 pounds
+
+Now, let's identify the amount of seaweed that is fed to livestock. The remaining amount of seaweed is the total amount minus the amount used for starting fires and the amount used for human consumption:
+
+400 - 200 pounds (for starting fires) - 100 pounds (for human consumption) = 200 pounds
+
+Answer: 200

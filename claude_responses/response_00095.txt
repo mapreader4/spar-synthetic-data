@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) Alice has 20 quarters, and each quarter is worth $0.25.
+2) She exchanges her 20 quarters for nickels at the bank.
+3) Each nickel is worth $0.05.
+4) To find the number of nickels she received, we divide the total value of her quarters ($0.25 x 20 = $5) by the value of each nickel ($0.05).
+5) $5 / $0.05 = 100 nickels.
+6) 20% of the 100 nickels are iron nickels worth $3 each.
+7) 20% of 100 is 20 nickels.
+8) The value of the 20 iron nickels is 20 x $3 = $60.
+9) The remaining 80 nickels are worth 80 x $0.05 = $4.
+10) The total value of Alice's money is $60 + $4 = $64.
+
+Answer: 64

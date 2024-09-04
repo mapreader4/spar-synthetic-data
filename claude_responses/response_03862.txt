@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Doctor Lindsay sees 4 adult patients and 3 child patients every hour
+* The cost for an adult's office visit is $50
+* The cost for a child's office visit is $25
+* We need to calculate the total amount of money she receives in a typical 8-hour day
+
+First, let's calculate the total number of patients she sees in an 8-hour day:
+* 4 adult patients + 3 child patients = 7 patients per hour
+* 7 patients per hour x 8 hours = 56 patients in a day
+
+Next, let's calculate the total revenue from the adult patients:
+* 4 adult patients per hour x $50 per visit = $200 per hour
+* $200 per hour x 8 hours = $1,600 total for adult patients
+
+Now, let's calculate the total revenue from the child patients:
+* 3 child patients per hour x $25 per visit = $75 per hour
+* $75 per hour x 8 hours = $600 total for child patients
+
+Finally, we add the total revenue from adult and child patients:
+* $1,600 (adult patients) + $600 (child patients) = $2,200
+
+Answer: $2,200

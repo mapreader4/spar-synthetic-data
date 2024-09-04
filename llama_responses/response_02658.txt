@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how many stickers Zander has left after giving some to his friends. Let's call this number x.
+
+Zander gave 1/5 of his stickers to Andrew, which means Andrew received 1/5 * 100 = 20 stickers. Zander has 100 - 20 = 80 stickers left.
+
+Zander gave 3/10 of the remaining stickers to Bill, which means Bill received 3/10 * 80 = 24 stickers.
+
+In total, Andrew received 20 stickers and Bill received 24 stickers. Therefore, the answer is:
+
+Answer: 20 + 24 = 44

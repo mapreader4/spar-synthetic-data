@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of apples sold in the morning. Wendy sold 40 apples in the morning. Then, she sold 50 apples in the afternoon. To find the total number of apples sold, we add 40 and 50, which is 90 apples.
+
+Next, let's find the total number of oranges sold. Wendy sold 30 oranges in the morning and 40 oranges in the afternoon. To find the total number of oranges sold, we add 30 and 40, which is 70 oranges.
+
+Now, let's find the total number of apples and oranges sold. We have 90 apples and 70 oranges. To find the total sales, we multiply the price of each apple and orange by the number sold. The price of an apple is $1.50, and the price of an orange is $1. So, the total cost of the apples is 90 * 1.50 = 135, and the total cost of the oranges is 70 * 1 = 70. To find the total sales, we add 135 and 70, which is 205.
+
+Answer: 205

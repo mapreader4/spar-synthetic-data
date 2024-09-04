@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Marsha's first delivery is 10 miles
+* Marsha's second delivery is 28 miles
+* Marsha's third delivery is half of 28 miles, which is 14 miles
+* So the total distance Marsha drove is 10 + 28 + 14 = 52 miles
+* Marsha gets paid $104 for the day
+* To calculate the amount she gets paid per mile, we divide the total pay by the total distance:
+* $104 / 52 miles = $2 per mile
+
+Answer: 2

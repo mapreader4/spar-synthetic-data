@@ -1,0 +1,7 @@
+Let's start by identifying the initial amount of paper Fred has: Fred has 212 sheets of paper.
+
+Fred received 307 sheets of paper from Jane, so he now has 212 + 307 = 519 sheets of paper.
+
+Fred then gave Charles 156 sheets of paper. This means Fred has 519 - 156 = 363 sheets of paper left.
+
+Answer: 363

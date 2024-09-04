@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There are 300 cows in the field.
+2) There are twice as many females as males.
+   * Let's call the number of males "x" and the number of females "2x".
+   * So, the total number of cows is x + 2x = 3x = 300.
+   * Solving for x, we get x = 100 males and 2x = 200 females.
+3) Half the females are spotted.
+   * So, the number of spotted females is 200 / 2 = 100.
+4) Half the males have horns.
+   * So, the number of males with horns is 100 / 2 = 50.
+5) The difference between the number of females with spots and the number of males with horns is:
+   * 100 females with spots - 50 males with horns = 50.
+
+Answer: 50

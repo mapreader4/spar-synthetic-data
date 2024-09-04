@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of days in a week. There are 7 days in a week.
+
+Now, Mickey mounts 6 less than twice as many horses per day as Minnie. This means that Mickey mounts 4 horses per day, because 6 less than twice as many as Minnie's 6 horses per day.
+
+Minnie mounts 3 more horses per day than there are days in a week. This means that Minnie mounts 3 more horses per day than 7. So Minnie mounts 4 horses per day.
+
+So, the number of horses Mickey mounts per week is 4 * 7 = 28.
+
+Answer: 28

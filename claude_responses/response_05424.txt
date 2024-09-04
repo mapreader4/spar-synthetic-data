@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The bead shop sells one set of crystal beads at $9 each
+* The bead shop sells one set of metal beads at $10 each
+* Nancy buys:
+  - 1 set of crystal beads
+  - 2 sets of metal beads
+* To calculate the total amount Nancy spends:
+  - 1 set of crystal beads at $9 each = $9
+  - 2 sets of metal beads at $10 each = $20
+  - Total = $9 + $20 = $29
+
+Answer: 29

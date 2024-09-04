@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Victoria's initial balance is $500.
+
+She bought 2 packets of rice at $20 each, so that is a total of 2 x 20 = $40.
+
+She also bought 3 packets of wheat flour at $25 each, so that is a total of 3 x 25 = $75.
+
+She also bought 1 soda at $150.
+
+So, in total, she spent $40 + $75 + $150 = $265.
+
+Her remaining balance is $500 - $265 = $235.
+
+Answer: 235

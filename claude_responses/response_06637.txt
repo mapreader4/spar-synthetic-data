@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* We are given that 8 liters is 20% of the capacity of a container filled with water.
+* To find the total capacity of the container, we can use the following equation:
+* 8 liters = 20% of the total capacity
+* Therefore, the total capacity of the container is:
+* 8 liters / 0.20 = 40 liters
+* Now, we are asked to calculate the total capacity of 40 such containers filled with water.
+* To do this, we simply multiply the capacity of one container (40 liters) by the number of containers (40):
+* 40 liters x 40 containers = 1,600 liters
+
+Answer: 1,600

@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) We have two piles of toys that add up to 120 toys in total.
+2) The larger pile is twice as big as the smaller pile.
+3) Let's represent the smaller pile as x and the larger pile as 2x.
+4) We know that the total number of toys is 120, so we can write the equation:
+x + 2x = 120
+5) Simplifying this equation, we get:
+3x = 120
+6) Solving for x, we get:
+x = 40
+7) Since the larger pile is 2x, we can calculate the number of toys in the larger pile:
+2x = 2 * 40 = 80
+
+Answer: 80

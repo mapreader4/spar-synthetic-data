@@ -1,0 +1,25 @@
+Okay, let's break this down step by step:
+1) Corey downloaded two movie series, one with 12 seasons and the other with 14 seasons.
+2) Each season in the movie series had 16 episodes.
+3) Corey lost two episodes from each season for both series due to the computer's mechanical failure.
+
+To calculate the total number of episodes remaining, we need to:
+1) Calculate the total number of episodes before the mechanical failure.
+2) Subtract the number of episodes lost due to the mechanical failure.
+
+Step 1: Calculate the total number of episodes before the mechanical failure.
+* Series 1 (12 seasons): 12 seasons x 16 episodes per season = 192 episodes
+* Series 2 (14 seasons): 14 seasons x 16 episodes per season = 224 episodes
+* Total episodes before mechanical failure: 192 + 224 = 416 episodes
+
+Step 2: Calculate the number of episodes lost due to the mechanical failure.
+* Series 1 (12 seasons): 12 seasons x 2 episodes lost per season = 24 episodes lost
+* Series 2 (14 seasons): 14 seasons x 2 episodes lost per season = 28 episodes lost
+* Total episodes lost: 24 + 28 = 52 episodes
+
+Step 3: Calculate the total number of episodes remaining.
+* Total episodes before mechanical failure: 416 episodes
+* Total episodes lost: 52 episodes
+* Total episodes remaining: 416 - 52 = 364 episodes
+
+Answer: 364

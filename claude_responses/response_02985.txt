@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Each burger needs to be cooked for 4 minutes on each side, so that's a total of 8 minutes per burger.
+2) Carly can fit 5 burgers on the grill at once.
+3) Half of the 30 guests want 2 burgers each, which is 15 guests x 2 burgers = 30 burgers.
+4) The other half of the 30 guests want 1 burger each, which is 15 guests x 1 burger = 15 burgers.
+5) The total number of burgers Carly needs to cook is 30 + 15 = 45 burgers.
+6) Since Carly can fit 5 burgers on the grill at once, she will need to cook the burgers in 9 batches (45 burgers / 5 burgers per batch = 9 batches).
+7) Each batch will take 8 minutes to cook.
+8) Therefore, the total time it will take Carly to cook all 45 burgers is 9 batches x 8 minutes per batch = 72 minutes.
+
+Answer: 72

@@ -1,0 +1,3 @@
+Let's start by using the information that there are 30 blonde-haired girls initially. The problem tells us that 10 more girls are added, who are all blonde. So, the number of blonde-haired girls now is 30 + 10 = 40. The total number of girls is 80. So, the number of black-haired girls must be 80 - 40 = 40. 
+
+Answer: 40

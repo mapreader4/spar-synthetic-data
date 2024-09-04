@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the total length of the race, which is 74.5 kilometers.
+
+The first part of the race is 15.5 kilometers long. 
+
+The second and third parts are each 21.5 kilometers long.
+
+We know that the total length of the race is 74.5 kilometers, so we can set up an equation to represent this:
+
+15.5 + 21.5 + x = 74.5
+
+We are trying to find the length of the last part of the race, which is represented by the variable 'x'.
+
+To solve for x, we can subtract the lengths of the first two parts from the total length of the race:
+
+74.5 - 15.5 - 21.5 = x
+
+Now, we can simplify the equation:
+
+74.5 - 37 = x
+
+x = 37
+
+Answer: 37

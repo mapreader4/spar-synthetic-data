@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tony's car gets 25 miles per gallon
+* He drives 50 miles round trip to work, 5 days a week
+* So, in 1 week, he drives 50 miles x 5 days = 250 miles
+* His tank holds 10 gallons
+* He begins the week with a full tank, and when he runs out, he fills up at $2 per gallon
+
+To calculate how much gas he needs in 1 week:
+* 250 miles / 25 miles per gallon = 10 gallons
+
+Since he starts with a full tank, he will need to fill up once a week.
+* 10 gallons x $2 per gallon = $20 per week
+
+For 4 weeks, the total cost would be:
+* $20 per week x 4 weeks = $80
+
+Answer: $80

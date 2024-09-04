@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's say the number of books Tina sells be x. We know that each book costs $5 to make and every customer buys 2 at a time. So, the total cost of the books Tina makes is 5x. The total revenue she gets from the books she sells is 20x. We know that she makes a profit of $120, so we can set up the equation 20x - 5x = 120. We can add 5x to both sides to get 20x = 120 + 5x. We can subtract 5x from both sides to get x = 120/5 = 24.
+
+Answer: 24

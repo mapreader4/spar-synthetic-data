@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Ms. Perez's class has 30 students
+* Half the students in Ms. Perez's class collected 12 cans each
+* Half of 30 is 15 students
+* 15 students collected 12 cans each, so that's 15 x 12 = 180 cans
+* 2 students didn't collect any cans
+* The remaining 13 students each collected 4 cans, so that's 13 x 4 = 52 cans
+* To get the total cans collected, we add the cans from the 15 students who collected 12 each, and the cans from the 13 students who collected 4 each:
+* 180 + 52 = 232 cans
+
+Answer: 232

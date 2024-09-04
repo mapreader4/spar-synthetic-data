@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+On the first day, the ship travels 100 miles north.
+
+On the second day, it travels three times the distance of the first day, which is 100 miles. So, it travels 3 x 100 = 300 miles.
+
+On the third day, it travels 110 miles more than the distance it covered on the second day, which is 300 miles. So, it travels 300 + 110 = 410 miles.
+
+To find the total distance, we add the distances traveled each day:
+
+100 + 300 + 410 = 810
+
+Answer: 810

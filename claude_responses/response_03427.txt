@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Hans is currently 8 years old
+* In four years, Annika will be three times as old as Hans
+* So, in four years, Annika's age will be 3 * (Hans' age in four years)
+* Hans' age in four years will be 8 + 4 = 12
+* Therefore, Annika's age in four years will be 3 * 12 = 36
+* To find Annika's current age, we subtract 4 years from 36 years
+* Annika's current age = 36 - 4 = 32
+
+Answer: 32

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Each coconut tree yields 5 coconuts.
+2) Each coconut can be sold for $3.
+3) Alvin needs $90.
+4) To calculate the number of coconut trees Alvin needs to harvest, we need to find how many coconuts he needs to sell to make $90.
+5) To make $90, he needs to sell 30 coconuts (90 / 3 = 30).
+6) Since each tree yields 5 coconuts, he needs to harvest 6 trees to get 30 coconuts (30 / 5 = 6).
+
+Answer: 6

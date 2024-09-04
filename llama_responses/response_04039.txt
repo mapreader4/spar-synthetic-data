@@ -1,0 +1,9 @@
+To find the total time taken for the trip, we need to find the time taken for the first 200 miles and the time taken for the last 100 miles.
+
+The time taken for the first 200 miles by Jenna is 200 miles / 50 mph = 4 hours.
+
+The time taken for the last 100 miles by her friend is 100 miles / 20 mph = 5 hours.
+
+The total time taken is the sum of these two times. 4 hours + 5 hours = 9 hours.
+
+Answer: 9

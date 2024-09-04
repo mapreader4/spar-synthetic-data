@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The first stack was 7 blocks tall.
+* The second stack was 3 blocks taller than the first, so it was 7 + 3 = 10 blocks tall.
+* The third stack was 6 blocks shorter than the second stack, so it was 10 - 6 = 4 blocks tall.
+* The fourth stack was 10 blocks taller than the third stack, so it was 4 + 10 = 14 blocks tall.
+* The fifth stack has twice as many blocks as the second stack, so it has 10 * 2 = 20 blocks.
+
+Now, to find the total number of blocks used, we add up the blocks in each stack:
+* Total blocks = 7 + 10 + 4 + 14 + 20 = 55
+
+Answer: 55

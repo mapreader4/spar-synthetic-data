@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The bakery makes 300 doughnuts for the day.
+2) Each box of doughnuts holds 10 doughnuts.
+3) The bakery sells 27 boxes of doughnuts throughout the day.
+4) To calculate the total number of doughnuts sold, we multiply the number of boxes sold (27) by the number of doughnuts per box (10):
+27 boxes x 10 doughnuts/box = 270 doughnuts sold
+5) To calculate the number of doughnuts given away at the end of the day, we take the total number of doughnuts made (300) and subtract the number of doughnuts sold (270):
+300 doughnuts - 270 doughnuts sold = 30 doughnuts given away
+
+Answer: 30

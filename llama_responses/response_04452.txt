@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of each type of vehicle in the parking lot.
+
+1. There are one-third as many Ford trucks as Dodge trucks. This means that if there are x Dodge trucks, there are x/3 Ford trucks.
+2. There are twice as many Ford trucks as Toyota trucks. This means that if there are x Toyota trucks, there are 2x Ford trucks.
+3. There are half as many Volkswagen Bugs as there are Toyota trucks. This means that if there are x Toyota trucks, there are x/2 Volkswagen Bugs.
+
+We are given that there are 5 Volkswagen Bugs in the parking lot. Since there are x/2 Volkswagen Bugs for every x Toyota trucks, this means that x Toyota trucks = 5 * 2 = 10. So, there are 10 Toyota trucks.
+4. There are one-third as many Ford trucks as Dodge trucks. If there are x Dodge trucks, there are x/3 Ford trucks. We are trying to find the number of Dodge trucks. We know that there are 10 Toyota trucks. Since there are x/3 Ford trucks for every x Dodge trucks, this means that x Dodge trucks = 10 * 3 = 30. So, there are 30 Dodge trucks.
+
+Answer: 30

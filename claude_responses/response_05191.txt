@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 50 total states in the United States
+* Paul has collected license plates from 40 different states
+* For each percentage point of total US states that he has, his parents will give him $2
+* To calculate the percentage of total US states that Paul has collected, we divide the number of states he has (40) by the total number of states (50)
+* 40 / 50 = 0.8 or 80%
+* Since his parents give him $2 for each percentage point, and he has 80% of the states, he earns:
+* 80 * $2 = $160
+
+Answer: 160

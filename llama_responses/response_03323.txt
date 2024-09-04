@@ -1,0 +1,28 @@
+Let's break down the problem step by step.
+
+For the first 3 miles, Brad steered, and Jim and Marcus pushed at a speed of 6 miles per hour. To find the time taken, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 3 miles / 6 miles per hour
+Time = 0.5 hours
+
+For the next 3 miles, Jim steered, and Brad and Marcus pushed at a speed of 3 miles per hour. Again, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 3 miles / 3 miles per hour
+Time = 1 hour
+
+For the last 4 miles, Marcus steered, and Brad and Jim pushed at a speed of 8 miles per hour. Again, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 4 miles / 8 miles per hour
+Time = 0.5 hours
+
+To find the total time taken, we add the times for each segment:
+
+0.5 hours + 1 hour + 0.5 hours = 2 hours
+
+Answer: 2

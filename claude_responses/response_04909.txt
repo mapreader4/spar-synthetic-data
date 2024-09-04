@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. We know that Mr. Maximilian has 140 cows on his farm.
+2. 40% of the cows have a red spot. 
+   * 40% of 140 = 0.4 * 140 = 56 cows have a red spot.
+3. The remaining cows do not have a red spot.
+   * 140 - 56 = 84 cows do not have a red spot.
+4. 25% of the cows without a red spot have a blue spot.
+   * 25% of 84 = 0.25 * 84 = 21 cows have a blue spot.
+5. The remaining cows do not have any spot.
+   * 84 - 21 = 63 cows have no spot.
+
+Answer: 63 cows on the farm have no spot.

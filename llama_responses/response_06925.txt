@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Step 1: The treatment lasts 2 hours, which is equal to 120 minutes. Since there are 20 drops per minute, the total number of drops is 20 x 120 = 2400.
+
+Step 2: Since every 100 drops equal 5 ml of liquid, we can divide the total number of drops by 100 to get the number of 5 ml intervals. 2400 / 100 = 24.
+
+Step 3: Since the patient will receive 24 intervals of 5 ml, the total amount of treatment is 24 x 5 = 120 ml.
+
+Answer: 120

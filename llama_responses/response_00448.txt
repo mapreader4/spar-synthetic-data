@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Jar A has 28 marbles.
+
+Jar B has 12 more marbles than jar A, so jar B has 28 + 12 = 40 marbles.
+
+Jar C has twice as many marbles as jar B, so jar C has 40 x 2 = 80 marbles.
+
+To find the total number of marbles, we add the number of marbles in all three jars: 28 + 40 + 80 = 148.
+
+Answer: 148

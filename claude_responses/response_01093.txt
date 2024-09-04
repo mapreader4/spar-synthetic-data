@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Lorenzo started with 3 full cans of thumbtacks
+* He placed 1 thumbtack from each of the 3 cans into every board tested
+* He tested 120 boards
+* At the end of the day, he had 30 tacks remaining in each of the 3 cans
+
+To find the total combined number of thumbtacks from the three full cans, we need to:
+1. Calculate the number of thumbtacks used during the testing
+2. Add the number of thumbtacks remaining in the 3 cans
+
+Step 1: Calculating the number of thumbtacks used during the testing
+* Each board received 3 thumbtacks (1 from each of the 3 cans)
+* 120 boards were tested
+* So the total number of thumbtacks used = 120 boards x 3 thumbtacks per board = 360 thumbtacks
+
+Step 2: Adding the number of thumbtacks remaining in the 3 cans
+* Each can had 30 thumbtacks remaining
+* So the total number of thumbtacks remaining = 3 cans x 30 thumbtacks per can = 90 thumbtacks
+
+Therefore, the total combined number of thumbtacks from the three full cans is:
+Total thumbtacks used + Total thumbtacks remaining = 360 + 90 = 450 thumbtacks
+
+Answer: 450

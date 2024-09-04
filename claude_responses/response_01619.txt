@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ragnar can get 3 blocks of wood for every tree he cuts
+* Ragnar chops 2 trees every day
+* We want to know how many blocks of wood he gets after 5 days
+
+First, let's calculate how many trees Ragnar chops in 5 days:
+* 2 trees per day x 5 days = 10 trees
+
+Now, let's calculate how many blocks of wood he gets from those 10 trees:
+* 3 blocks of wood per tree x 10 trees = 30 blocks of wood
+
+Therefore, the answer is:
+Answer: 30

@@ -1,0 +1,5 @@
+Let's break this down step by step:
+
+Let's first find the total number of members who ordered juice. Two-fifths of the 30 members ordered lemon juice, so that's 30 * 2/5 = 12 members. Then, one-third of the remaining members ordered mango juice, which is 30 - 12 = 18 members. The rest of the members ordered orange juice, which is the remaining 30 - 30 - 12 - 18 = 0 members.
+
+Answer: 0

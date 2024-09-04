@@ -1,0 +1,21 @@
+Let's start by analyzing the given information. With one sail, Buffy's sailboat travels at a speed of 25 knots. Since 1 knot is equal to 1 nautical mile per hour, we can calculate the distance traveled in 4 hours with one sail:
+
+Distance = Speed x Time = 25 knots x 4 hours = 100 nautical miles
+
+Since 1 nautical mile is equal to 1.15 land miles, we can convert the distance to land miles:
+
+Distance (in land miles) = 100 nautical miles x 1.15 = 115 land miles
+
+Now, let's analyze the situation with two sails. Buffy's sailboat travels at a speed of 50 knots. Again, we can calculate the distance traveled in 4 hours with two sails:
+
+Distance = Speed x Time = 50 knots x 4 hours = 200 nautical miles
+
+Converting the distance to land miles:
+
+Distance (in land miles) = 200 nautical miles x 1.15 = 230 land miles
+
+To find the total distance traveled, we add the distances traveled with one sail and two sails:
+
+Total distance = Distance with one sail + Distance with two sails = 115 land miles + 230 land miles = 345 land miles
+
+Answer: 345

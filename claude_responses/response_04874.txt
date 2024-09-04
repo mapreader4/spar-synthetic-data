@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Fran baked 50 red macaroons and 40 green macarons.
+2) Fran ate 15 green macaroons.
+3) Fran ate twice as many red macaroons as green macaroons. 
+   - Since Fran ate 15 green macaroons, she ate 2 * 15 = 30 red macaroons.
+4) The total number of macaroons Fran ate is 15 green + 30 red = 45 macaroons.
+5) The total number of macaroons Fran baked is 50 red + 40 green = 90 macaroons.
+6) The number of macaroons remaining is the total number of macaroons baked (90) minus the number of macaroons eaten (45).
+
+Answer: 45

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Fernanda purchased 6 audiobooks
+* Each audiobook is 30 hours long
+* She listened to 2 hours of an audiobook each day
+
+To find the total time it took her to finish the six audiobooks, we need to:
+1. Calculate the total number of hours for all 6 audiobooks:
+   * 6 audiobooks x 30 hours per audiobook = 180 total hours
+
+2. Calculate the number of days it took her to listen to all 6 audiobooks:
+   * 180 total hours / 2 hours per day = 90 days
+
+Therefore, the total time it took Fernanda to finish the six audiobooks is 90 days.
+
+Answer: 90

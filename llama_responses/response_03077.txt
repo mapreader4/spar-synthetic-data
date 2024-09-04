@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. Tracy starts with 300 books.
+2. 10 people come and donate 5 books each, so the total number of new books donated is 10 x 5 = 50.
+3. The total number of books Tracy has now is 300 + 50 = 350.
+4. A total of 140 books are borrowed by other people, which means Tracy now has 350 - 140 = 210 books left in the store.
+
+Answer: 210

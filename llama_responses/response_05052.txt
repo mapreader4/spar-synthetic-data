@@ -1,0 +1,5 @@
+To find the total number of questions Professor Oscar must review, we can multiply the number of classes by the number of students in each class:
+
+35 students per class * 5 classes = 35 * 5 = 175
+
+Answer: 175

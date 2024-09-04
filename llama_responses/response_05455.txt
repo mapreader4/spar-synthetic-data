@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+On the first day, Delphine ate 4 chocolates, so there are 24 - 4 = 20 chocolates left.
+
+On the second day, she ate 3 less than twice as many chocolates as she ate the first day. Since she ate 4 chocolates the first day, twice as many would be 2 x 4 = 8 chocolates. 3 less than that would be 8 - 3 = 5 chocolates. So, she ate 5 chocolates on the second day. There are now 20 - 5 = 15 chocolates left.
+
+On the third day, she ate two less than the number she ate on the first day. Since she ate 4 chocolates the first day, two less would be 4 - 2 = 2 chocolates. So, she ate 2 chocolates on the third day. There are now 15 - 2 = 13 chocolates left.
+
+On the fourth day, she ate one less than she ate the previous day. Since she ate 2 chocolates the previous day, one less would be 2 - 1 = 1 chocolate. So, she ate 1 chocolate on the fourth day. There are now 13 - 1 = 12 chocolates left.
+
+Finally, on the fifth day, there are 12 chocolates left.
+
+Answer: 12

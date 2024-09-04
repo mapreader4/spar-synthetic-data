@@ -1,0 +1,23 @@
+Let's start by identifying the variables:
+
+1. Tricia is a third of Amilia's age, so Tricia's age = 1/3 * Amilia's age.
+2. Amilia is a quarter of Yorick's age, so Amilia's age = 1/4 * Yorick's age.
+3. Yorick is twice Eugene's age, so Yorick's age = 2 * Eugene's age.
+4. Khloe is a third of Eugene's age, so Khloe's age = 1/3 * Eugene's age.
+5. Rupert is 10 years older than Khloe, so Rupert's age = Khloe's age + 10.
+6. Vincent is 22 years old, so Vincent's age = 22.
+7. We know that Rupert is 2 years younger than Vincent, so Rupert's age = Vincent's age - 2 = 22 - 2 = 20.
+
+Now, we can substitute the values we know into the equations to solve for Tricia's age.
+
+Tricia's age = 1/3 * Amilia's age = 1/3 * (Yorick's age / 2) = 1/3 * (2 * Eugene's age) = 1/3 * 2 * Eugene's age.
+
+We know that Eugene's age is not given, but we can substitute it with Khloe's age, which is 1/3 of Eugene's age. So, we can substitute 1/3 * Eugene's age with 1/3 * Khloe's age.
+
+Tricia's age = 1/3 * 1/3 * Khloe's age = 1/3 * 1/3 * Eugene's age = 1/9 * Khloe's age.
+
+Now, we know that Rupert's age is 20, which is Khloe's age + 10. So, we can substitute Khloe's age with Rupert's age - 10, which is 20 - 10 = 10.
+
+Tricia's age = 1/9 * 10 = 10/9 = 1.
+
+Answer: 1

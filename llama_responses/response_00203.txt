@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+1. Benny bought 2 soft drinks for $4 each, which means the total cost of the soft drinks is 2 x 4 = 8 dollars.
+2. Benny also bought 5 candy bars, and the total cost of the candy bars is not given.
+3. The total amount of money spent is 28 dollars, which is the sum of the cost of the soft drinks and the cost of the candy bars.
+
+Now, let's set up an equation based on the information:
+
+Let x be the cost of each candy bar. Then, the total cost of the candy bars is 5x. The total cost of the soft drinks and the candy bars combined is 8 + 5x = 28.
+
+We can set up an equation to solve for x:
+
+8 + 5x = 28
+
+Subtract 8 from both sides of the equation:
+
+5x = 20
+
+Now, divide both sides by 5:
+
+x = 20 / 5
+
+x = 4
+
+So, the cost of each candy bar is 4 dollars.

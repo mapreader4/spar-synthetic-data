@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The ranch currently has 200 cows
+* Every year, the number of cows increases by half the number of cows living on the ranch
+* The rancher does not buy or sell any cows
+
+Year 1:
+* The number of cows increases by half the current number of cows
+* 1/2 * 200 = 100 new cows
+* So the total number of cows after Year 1 is 200 + 100 = 300 cows
+
+Year 2:
+* The number of cows increases by half the current number of cows
+* 1/2 * 300 = 150 new cows
+* So the total number of cows after Year 2 is 300 + 150 = 450 cows
+
+Answer: 450 cows

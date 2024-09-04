@@ -1,0 +1,17 @@
+Let's start by calculating the number of daisy plants that will germinate.
+
+60% of 25 daisy seeds is 15 daisy seeds. So, 15 daisy seeds will germinate.
+
+Next, let's calculate the number of sunflower plants that will germinate.
+
+80% of 25 sunflower seeds is 20 sunflower seeds. So, 20 sunflower seeds will germinate.
+
+Now, let's calculate the number of plants that will produce flowers.
+
+Of the 15 daisy plants, 80% will produce flowers. That's 12 daisy plants.
+
+Of the 20 sunflower plants, 80% will produce flowers. That's 16 sunflower plants.
+
+In total, 12 daisy plants and 16 sunflower plants will produce flowers.
+
+Answer: 28

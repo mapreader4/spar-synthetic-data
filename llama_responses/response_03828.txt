@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first identify the number of women. We know that half of the total number of guests are women, which is 50 / 2 = 25.
+
+Next, let's identify the number of men. We know that 15 are men, so that's the total number of men.
+
+Now, let's identify the number of children. We know that the rest of the guests, after subtracting the number of women and the number of men, are children. So, 50 - 25 - 15 = 10.
+
+Now, let's find the number of people who stayed. We know that 1/5 of the men left, and 4 children left. So, the number of men who stayed is 15 - 1/5 * 15 = 12.
+
+And the number of children who stayed is 10.
+
+Answer: 12

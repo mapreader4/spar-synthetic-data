@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jerry currently drinks 48 sodas per week
+* He wants to cut the number of sodas he drinks in half each week
+* We need to find out how many weeks it will take for him to reach 6 sodas per week
+
+Let's start with the first week:
+* Jerry drinks 48 sodas per week
+* If he cuts the number in half, he will drink 24 sodas in the first week
+
+Now, the second week:
+* Jerry drank 24 sodas the previous week
+* If he cuts the number in half again, he will drink 12 sodas in the second week
+
+Continuing this pattern:
+* Third week: 12 sodas
+* Fourth week: 6 sodas
+
+So, it will take Jerry 4 weeks to reach his goal of 6 sodas per week.
+
+Answer: 4

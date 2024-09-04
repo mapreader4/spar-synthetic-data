@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of money Mitzel had in her allowance initially. Since she spent 35% of her allowance, that means she spent 35% of her allowance on something. To find the amount of money she had in her allowance, we can set up a proportion.
+
+Let x be the amount of money Mitzel had in her allowance. Since she spent 35% of her allowance, we can set up the proportion as follows:
+
+35/100 = x / 100
+
+To solve for x, we can multiply both sides of the proportion by 100 to eliminate the fraction:
+
+x = (35/100) * 100
+
+x = 35
+
+So, Mitzel had 35 dollars in her allowance. Now, we can find the amount of money she has left by subtracting the amount she spent from the total amount she had:
+
+35 - 14 = 21
+
+Mitzel has 21 dollars left in her allowance.

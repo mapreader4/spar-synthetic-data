@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tim drove for 5 hours
+* He was stuck in traffic for twice as long as he was driving
+* To find the total time of the trip, we need to add the time he was driving and the time he was stuck in traffic
+
+First, let's calculate the time he was stuck in traffic:
+* He was stuck in traffic for twice as long as he was driving
+* So, if he drove for 5 hours, he was stuck in traffic for 2 * 5 = 10 hours
+
+Now, we can calculate the total time of the trip:
+* Time driving: 5 hours
+* Time stuck in traffic: 10 hours
+* Total time of the trip: 5 hours + 10 hours = 15 hours
+
+Answer: 15

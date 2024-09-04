@@ -1,0 +1,11 @@
+Let's start by identifying the number of T-shirts and sweaters Norma leaves with.
+
+Norma leaves with 9 T-shirts. She leaves twice as many sweaters, so she leaves 9 x 2 = 18 sweaters.
+
+When Norma returns, she finds 3 sweaters and triple the number of T-shirts. Triple the number of T-shirts is 3 x 9 = 27.
+
+She leaves with 9 T-shirts and leaves 18 sweaters. In total, she leaves 9 + 18 = 27 items. When she returns, she finds 3 sweaters and 27 T-shirts. To find the number of items missing, we need to subtract the number of items she leaves with from the number of items she finds.
+
+27 - 27 = 0. 27 - 27 = 0.
+
+So, the number of items missing is 0.

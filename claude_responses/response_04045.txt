@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Laura took 6 trips to the park
+* On each trip, she spent 2 hours at the park
+* On each trip, she spent an additional 30 minutes walking to and from the park
+* To calculate the total time spent at the park:
+  - Time spent at the park per trip: 2 hours
+  - Total time spent at the park: 6 trips x 2 hours = 12 hours
+* To calculate the total time spent walking to and from the park:
+  - Time spent walking per trip: 30 minutes
+  - Total time spent walking: 6 trips x 30 minutes = 3 hours
+* The total time for all the trips is:
+  - Time spent at the park: 12 hours
+  - Time spent walking: 3 hours
+  - Total time: 12 hours + 3 hours = 15 hours
+* To calculate the percentage of time spent at the park:
+  - Time spent at the park: 12 hours
+  - Total time: 15 hours
+  - Percentage = (12 hours / 15 hours) x 100 = 80%
+
+Answer: 80

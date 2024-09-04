@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The zoo has 21 penguins
+* The zoo has twice as many polar bears as penguins
+* To find the number of polar bears, we take the number of penguins (21) and multiply it by 2
+* 21 penguins x 2 = 42 polar bears
+* Now, to find the total number of animals, we add the number of penguins and the number of polar bears:
+* 21 penguins + 42 polar bears = 63 total animals
+
+Answer: 63

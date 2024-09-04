@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Nina has 3 spiders and 50 ants.
+
+Each spider has 8 eyes, so the total number of eyes from the spiders is 3 x 8 = 24.
+
+The ants each have 2 eyes, so the total number of eyes from the ants is 50 x 2 = 100.
+
+Now, we add the number of eyes from the spiders and ants: 24 + 100 = 124.
+
+Answer: 124

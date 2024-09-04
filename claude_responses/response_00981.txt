@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Olga has 3 stripes on each of her tennis shoes
+* Rick has 1 less stripe per shoe than Olga, so Rick has 2 stripes per shoe
+* Hortense has double the number of stripes on her tennis shoes as Olga, so Hortense has 6 stripes per shoe
+
+Now, let's calculate the total number of stripes:
+* Olga has 2 shoes, each with 3 stripes, so Olga has 6 stripes total
+* Rick has 2 shoes, each with 2 stripes, so Rick has 4 stripes total
+* Hortense has 2 shoes, each with 6 stripes, so Hortense has 12 stripes total
+
+To get the combined total, we add up the stripes for each person:
+6 + 4 + 12 = 22
+
+Answer: 22

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are two sections in Grade 4: Diligence and Industry
+* The two sections have an equal number of students after 2 students were transferred from section Industry to Diligence
+* The total number of students in both sections combined is 50
+
+Let's call the number of students in each section before the transfer as x.
+
+* Before the transfer, Diligence had x students and Industry had x students
+* After the transfer, Diligence had x + 2 students and Industry had x - 2 students
+* The total number of students in both sections is still 50, so:
+    (x + 2) + (x - 2) = 50
+    2x = 50
+    x = 25
+
+Therefore, the number of students in section Diligence before the transfer was:
+Answer: 25

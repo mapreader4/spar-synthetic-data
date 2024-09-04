@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jake can eat 3 papayas per week
+* His brother can eat 5 papayas per week
+* His father can eat 4 papayas per week
+* We need to account for 4 weeks
+
+To calculate the total number of papayas needed for 4 weeks:
+* Jake's papayas per week: 3 
+* Jake's papayas for 4 weeks: 3 x 4 = 12
+* Brother's papayas per week: 5
+* Brother's papayas for 4 weeks: 5 x 4 = 20
+* Father's papayas per week: 4
+* Father's papayas for 4 weeks: 4 x 4 = 16
+
+Now we add up the total papayas needed for all 3 of them over the 4 weeks:
+* Total papayas needed = 12 + 20 + 16 = 48
+
+Answer: 48

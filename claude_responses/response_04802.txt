@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Mary's cordless vacuum cleaner battery lasts for 10 minutes
+* It takes her 4 minutes to vacuum each room in her house
+* Mary has 3 bedrooms, a kitchen, and a living room, which is a total of 5 rooms
+
+To calculate how many times Mary needs to charge her vacuum cleaner, we need to find the total time it takes to vacuum the entire house, and then divide that by the battery life.
+
+The total time to vacuum the house is:
+* 4 minutes per room x 5 rooms = 20 minutes
+
+Since the battery lasts for 10 minutes, Mary will need to charge the vacuum cleaner at least 2 times to complete vacuuming the entire house.
+
+Answer: 2

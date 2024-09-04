@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Austin receives $5 for every hour he helps his father build the deck
+* He works for 2 hours on Mondays, 1 hour on Wednesdays, and 3 hours on Fridays
+* So, the total number of hours he works per week is:
+    - 2 hours on Monday
+    - 1 hour on Wednesday
+    - 3 hours on Friday
+    - Total: 2 + 1 + 3 = 6 hours per week
+* The bicycle costs $180
+* To calculate how many weeks he needs to work, we need to find how much he earns per week and then divide the cost of the bicycle by that amount
+* He earns $5 per hour, and he works 6 hours per week
+* So, he earns $5 x 6 = $30 per week
+* To find how many weeks he needs to work, we divide the cost of the bicycle ($180) by his weekly earnings ($30):
+    - $180 / $30 = 6 weeks
+
+Answer: 6 weeks

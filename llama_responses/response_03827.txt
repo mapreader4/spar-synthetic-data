@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Jericho has 60 dollars. He owes Annika 14 dollars. So, 60 - 14 = 46 dollars are left after paying off Annika.
+2. He also owes half as much to Manny. Since Manny is half of Annika, he owes Manny 14 / 2 = 7 dollars. So, he pays off the 7 dollars to Manny, leaving him with 46 - 7 = 39 dollars.
+3. After paying off all his debts, Jericho is left with 39 dollars.
+
+Answer: 39

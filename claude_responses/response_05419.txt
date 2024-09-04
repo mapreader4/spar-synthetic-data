@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* In 2004, there were some number of kids at the cookout. Let's call this number x.
+* In 2005, half the number of kids came to the cookout as compared to 2004. So the number of kids in 2005 was x/2.
+* In 2006, 2/3 as many kids came to the cookout as in 2005. So the number of kids in 2006 was (x/2) * (2/3) = x/3.
+* We know that in 2006, there were 20 kids at the cookout. So x/3 = 20.
+* Solving for x, we get x = 60.
+
+Answer: 60

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Grant has four times as many vacations as Kelvin has classes.
+2) Kelvin has 90 classes.
+3) To find the number of vacations Grant has, we multiply Kelvin's number of classes by 4:
+   * 90 classes x 4 = 360 vacations
+4) Now we can find the total number of vacations and classes that Grant and Kelvin have altogether:
+   * Grant has 360 vacations
+   * Kelvin has 90 classes
+   * Total vacations and classes = 360 + 90 = 450
+
+Answer: 450

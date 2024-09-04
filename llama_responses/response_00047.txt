@@ -1,0 +1,15 @@
+To solve this problem, I will first calculate the time it takes to download the first 60 megabytes. This is because it is the first 60 megabytes that download at a rate of 5 megabytes per second.
+
+60 megabytes / 5 megabytes per second = 12 seconds
+
+So, the first 60 megabytes take 12 seconds to download.
+
+Now, the file is 90 megabytes in size, so we need to subtract the 60 megabytes that were already downloaded from the total size. This leaves 30 megabytes left to download.
+
+The remaining 30 megabytes download at a rate of 10 megabytes per second.
+
+30 megabytes / 10 megabytes per second = 3 seconds
+
+So, the total time to download the entire file is 12 seconds for the first 60 megabytes plus 3 seconds for the remaining 30 megabytes, which is 15 seconds.
+
+Answer: 15

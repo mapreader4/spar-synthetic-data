@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of dogs that are running. We are told that 12 dogs are running. Let's set that aside.
+
+Next, we are told that half of the dogs are playing with toys. To find half of the dogs, we can multiply the total number of dogs (88) by 0.5. 0.5 * 88 = 44. So, 44 dogs are playing with toys.
+
+Next, we are told that a fourth of the dogs are barking. To find a fourth of the dogs, we can multiply the total number of dogs (88) by 0.25. 0.25 * 88 = 22. So, 22 dogs are barking.
+
+Now, let's subtract the number of dogs that are playing with toys (44) and the number of dogs that are barking (22) from the total number of dogs (88). 44 - 22 = 26. Therefore, 26 dogs are not doing anything.
+
+Answer: 26

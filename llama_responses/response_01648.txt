@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's first find out how many jumping jacks Kenny did last week. He did 324 jumping jacks last week. This is the total number of jumping jacks he did.
+
+Now, let's find out how many jumping jacks he did this week. We have the following information:
+
+* Sunday: 34
+* Monday: skipped (he skipped a day)
+* Tuesday: 20
+* Wednesday: 123
+* Thursday: 64
+* Friday: 23
+
+We can add up the number of jumping jacks he did each day:
+
+34 + 20 + 123 + 64 + 23 = 261
+
+So, this week, Kenny has done 261 jumping jacks.
+
+To make sure he beats last week's number, he needs to do more than 324 - 261 = 63.
+
+Answer: 63

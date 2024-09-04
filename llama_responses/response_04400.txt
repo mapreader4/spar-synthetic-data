@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. Roberto travels uphill at 2 MPH for 60% of the 5-mile trail. This means that the distance he travels uphill is 0.6 * 5 = 3 miles. He will spend 3 miles uphill and 2 miles downhill. The total distance he will travel uphill is 3 miles.
+
+2. The time it takes him to travel 3 miles uphill is 3 / 2 = 1.5 hours. Since he will travel 2 miles downhill at 3 MPH, it will take him 2 / 3 = 0.67 hours to travel downhill.
+
+3. To find the total time, we add the time he spends uphill and downhill: 1.5 hours + 0.67 hours = 2.17 hours.
+
+Answer: 2.17

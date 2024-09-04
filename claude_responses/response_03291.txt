@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The total amount that everyone has promised to contribute is $400
+* Rick has actually received $285 so far
+* This means that the total amount still owed is $400 - $285 = $115
+* We know that:
+  - Sally and Carl both owe equal amounts
+  - Amy owes $30
+  - Derek owes half as much as Amy
+* Since Derek owes half as much as Amy, and Amy owes $30, then Derek owes $30 / 2 = $15
+* The total amount still owed is $115, and we know that Amy owes $30 and Derek owes $15
+* This means that the remaining amount owed by Sally and Carl must be $115 - $30 - $15 = $70
+* Since Sally and Carl both owe equal amounts, that means they each owe $70 / 2 = $35
+
+Answer: $35

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John uses the bathroom every 50 minutes
+* The movie is 2.5 hours long
+* 2.5 hours = 150 minutes
+
+To find how many times John uses the bathroom during the movie, we need to divide the total time of the movie (150 minutes) by the time between each bathroom visit (50 minutes).
+
+150 minutes / 50 minutes = 3 times
+
+Therefore, John will use the bathroom 3 times during the 2.5-hour movie.
+
+Answer: 3

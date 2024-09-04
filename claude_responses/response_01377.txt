@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Adelaide bought 30 ducks
+* Adelaide bought twice the number of ducks that Ephraim bought
+* So, if Adelaide bought 30 ducks, and she bought twice the number of ducks that Ephraim bought, then Ephraim bought 15 ducks (30 / 2 = 15)
+* Ephraim bought 45 fewer ducks than Kolton
+* So, if Ephraim bought 15 ducks, and he bought 45 fewer ducks than Kolton, then Kolton bought 60 ducks (15 + 45 = 60)
+
+Now, to find the average number of ducks the three bought, we add up the number of ducks each bought and divide by 3:
+* Adelaide bought 30 ducks
+* Ephraim bought 15 ducks
+* Kolton bought 60 ducks
+* Total number of ducks bought = 30 + 15 + 60 = 105
+* Average number of ducks bought = 105 / 3 = 35
+
+Answer: 35

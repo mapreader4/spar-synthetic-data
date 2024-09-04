@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's say Jennie's average speed when there is no traffic is x miles per hour. Since the trip takes 4 hours when there is no traffic, we can set up an equation:
+
+x * 4 = 200
+
+To solve for x, we can divide both sides by 4:
+
+x = 200 / 4
+x = 50
+
+So, Jennie's average speed when there is no traffic is 50 miles per hour.
+
+Now, let's say her average speed when there is heavy traffic is y miles per hour. Since the trip takes 5 hours when there is heavy traffic, we can set up an equation:
+
+y * 5 = 200
+
+To solve for y, we can multiply both sides by 1:
+
+y = 200 / 5
+y = 40
+
+So, Jennie's average speed when there is heavy traffic is 40 miles per hour.
+
+To find the difference between her average speed when there is heavy traffic and when there is no traffic, we can subtract 50 from 50:
+
+50 - 40 = 10
+
+Answer: 10

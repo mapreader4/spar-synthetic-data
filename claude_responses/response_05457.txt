@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+* Let's represent the number of koi fish in the pond as x.
+* The problem statement says that 14 less than two times the number of koi fish is 64.
+* We can represent this mathematically as: 2x - 14 = 64
+* To solve for x, we need to isolate x on one side of the equation.
+* First, we add 14 to both sides: 2x - 14 + 14 = 64 + 14
+* This simplifies to: 2x = 78
+* Finally, we divide both sides by 2 to get the value of x:
+* x = 78 / 2
+* x = 39
+
+Answer: 39

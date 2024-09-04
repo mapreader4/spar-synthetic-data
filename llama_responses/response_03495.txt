@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many goals Louie scored in total in his first season. He scored 4 goals in the last match, and 40 goals in the previous matches. So, the total number of goals he scored in his first season is:
+
+4 (goals in the last match) + 40 (goals in the previous matches) = 44 goals
+
+Now, let's focus on Louie's brother. He has played for 3 seasons, and each season has 50 games. So, he has played a total of:
+
+3 (seasons) x 50 (games per season) = 150 games
+
+He has scored twice as many goals as Louie scored in the last match (which is 4 goals) in each game. So, he has scored:
+
+4 (goals per game) x 2 = 8 goals per game
+
+Since he has played 150 games, the total number of goals he has scored is:
+
+8 (goals per game) x 150 (games) = 1200 goals
+
+Now, let's add the total number of goals scored by both brothers:
+
+Louie's total goals = 44 goals
+Brother's total goals = 1200 goals
+Total goals = 44 + 1200 = 1244 goals
+
+Answer: 1244

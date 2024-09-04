@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+We have 2 cows initially, 3 pigs, and 6 goats.
+
+The farmer plans on adding 3 cows, 5 pigs, and 2 goats. So, we need to add these to the original number of animals.
+
+First, let's add the 3 cows: 2 + 3 = 5.
+
+Next, let's add the 5 pigs: 3 + 5 = 8.
+
+Finally, let's add the 2 goats: 6 + 2 = 8.
+
+Now, let's add the total number of animals: 5 + 8 + 8 = 21.
+
+Answer: 21

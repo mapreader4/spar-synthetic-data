@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The owner divided the sugar into 12 packs.
+2) Each pack weighs 250 grams.
+3) There is 20 grams of sugar left.
+4) To find the total amount of sugar the owner started with, we need to calculate the total weight of the 12 packs, plus the 20 grams of sugar left.
+5) The total weight of the 12 packs is 12 * 250 = 3000 grams.
+6) Adding the 20 grams of sugar left, the total amount of sugar the owner started with is 3000 + 20 = 3020 grams.
+
+Answer: 3020

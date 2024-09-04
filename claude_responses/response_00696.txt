@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Carla started with 79 apples in her backpack
+* 26 apples fell out of a hole in the bottom
+* At lunchtime, Carla only had 8 apples remaining
+
+To find how many apples Buffy stole, we need to calculate the difference between the initial number of apples and the number of apples Carla had left after the 26 fell out.
+
+Initial number of apples: 79
+Apples that fell out: 26
+Apples remaining at lunchtime: 8
+
+So the number of apples Buffy stole is:
+79 - 26 - 8 = 45
+
+Answer: 45

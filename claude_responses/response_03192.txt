@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) We know that each level has 8 huge steps in the stairs.
+2) Each step is made up of 3 massive blocks of stone.
+3) We are told that Clara has climbed past 96 blocks of stone.
+4) To find the number of levels, we need to determine how many blocks of stone are in each level.
+5) Each level has 8 steps, and each step has 3 blocks of stone.
+6) So, each level has 8 * 3 = 24 blocks of stone.
+7) We know that Clara has climbed past 96 blocks of stone.
+8) To find the number of levels, we divide 96 by 24 (the number of blocks per level).
+9) 96 / 24 = 4
+
+Answer: 4

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Officer Hopps has to give out 200 tickets in May
+* For the first 15 days, he averaged 8 tickets per day
+* So for the first 15 days, he gave out:
+    - 8 tickets per day x 15 days = 120 tickets
+* Now, we need to find out how many tickets he has left to give out for the remaining 16 days of the month:
+    - 200 tickets (total) - 120 tickets (first 15 days) = 80 tickets left
+* To find how many tickets he needs to average per day for the remaining 16 days, we divide the remaining 80 tickets by 16 days:
+    - 80 tickets / 16 days = 5 tickets per day
+
+Answer: 5

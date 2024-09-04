@@ -1,0 +1,8 @@
+Let's start by identifying the number of blue envelopes Wyatt has. The problem states that Wyatt has 10 blue envelopes. It also states that Wyatt has 4 fewer yellow envelopes than blue envelopes. To find the number of yellow envelopes Wyatt has, we can subtract 4 from the number of blue envelopes. 
+
+Blue envelopes: 10
+Wyatt has 4 fewer yellow envelopes than blue envelopes. So, blue envelopes - 4 = yellow envelopes. 
+
+Wyatt has 10 - 4 = 6. 
+
+Answer: 6

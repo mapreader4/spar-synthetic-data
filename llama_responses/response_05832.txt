@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what we know.
+
+* Harvey started with 25 steaks.
+* He sold some steaks, and now he has 12 left.
+* He sold 4 more steaks, at 10 dollars each.
+
+Let's use a variable to represent the number of steaks he sold. Let's call it x.
+
+We know that Harvey sold 4 steaks at 10 dollars each, so the total amount of money he earned is 4 * 10 = 40 dollars.
+
+Since he started with 25 steaks and sold some, we know that the number of steaks he sold is equal to the number of steaks he started with minus the number of steaks he has left.
+
+Let's write an equation to represent this:
+
+25 - 12 = x
+
+We know that 25 - 12 = 13, so x = 13.
+
+So, Harvey sold 13 steaks.
+
+Answer: 13

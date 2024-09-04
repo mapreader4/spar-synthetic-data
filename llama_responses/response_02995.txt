@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The total number of trees on the farm is 400.
+* Amiyah cuts 20% of the trees. To find the number of trees cut, we can multiply the total number of trees by the percentage: 400 * 0.20 = 80.
+
+So, Amiyah cuts 80 trees.
+
+To find the total number of trees remaining, we subtract the number of trees cut from the total number of trees: 400 - 80 = 320.
+
+So, the total number of trees on the farm after Amiyah cuts 20% is 320.
+
+Answer: 320

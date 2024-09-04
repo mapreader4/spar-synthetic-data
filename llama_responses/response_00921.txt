@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of guests who drank soda, sparkling water, and juice:
+
+* One-half of the guests drank soda, so 90 / 2 = 45 guests drank soda, which means 45 cans were consumed.
+* One-third of the guests drank sparkling water, so 90 / 3 = 30 guests drank sparkling water, which means 30 bottles were consumed.
+* Four-fifths of the juice were consumed, so 50 * 4/5 = 40 guests drank juice, which means 40 bottles were consumed.
+
+Now, let's add up the total number of cans and bottles consumed:
+
+45 cans (soda) + 30 bottles (sparkling water) + 40 bottles (juice) = 115
+
+So, the total number of recyclable cans and bottles collected is:
+
+Answer: 115

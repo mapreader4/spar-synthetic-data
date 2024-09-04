@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Soft tacos cost $2 each
+* Hard shell tacos cost $5 each
+* The first group of customers (the family) bought:
+  - 4 hard shell tacos at $5 each = 4 x $5 = $20
+  - 3 soft tacos at $2 each = 3 x $2 = $6
+  - Total for the family = $20 + $6 = $26
+* The remaining 10 customers each bought 2 soft tacos at $2 each
+  - 10 customers x 2 soft tacos each = 20 soft tacos
+  - 20 soft tacos at $2 each = 20 x $2 = $40
+* The total amount the taco truck made during the lunch rush is the sum of the family's purchase and the remaining 10 customers' purchases:
+  - $26 + $40 = $66
+
+Answer: $66

@@ -1,0 +1,37 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Kiki has $90.
+* She buys twice as many hats as scarves.
+* She spends 60% of her money on hats.
+* The rest of her money is spent on scarves.
+
+Let's use the information to set up an equation to solve the problem.
+
+Let x be the number of scarves she buys. Then, we know that the number of hats is twice the number of scarves, so we can write an equation to represent the situation:
+
+2x = x
+
+We know that Kiki spends 60% of her money on hats, so we can set up an equation to represent the amount of money spent on hats:
+
+0.6x = 60
+
+We are told that Kiki has $90, so we can set up an equation to represent the total amount of money she has:
+
+90 = 0.6x + x
+
+To solve for the number of scarves, we can subtract 0.6x from both sides of the equation to get:
+
+90 - 0.6x = x
+
+We can then solve for x:
+
+x = 90 - 0.6x
+x = 30
+
+Since x is the number of scarves, we can round it to the nearest whole number:
+
+x = 30
+
+So, Kiki will buy 30 scarves.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The clothing store sells 20 shirts, and each shirt costs $10
+* So the total revenue from selling the shirts is:
+  * 20 shirts x $10 per shirt = $200
+* The clothing store also sells 10 pairs of jeans
+* Each pair of jeans costs twice as much as a shirt, so each pair of jeans costs $20
+* So the total revenue from selling the jeans is:
+  * 10 pairs of jeans x $20 per pair = $200
+* To calculate the total revenue, we add the revenue from the shirts and the jeans:
+  * $200 (shirts) + $200 (jeans) = $400
+
+Answer: 400

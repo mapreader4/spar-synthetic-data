@@ -1,0 +1,24 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of doughnuts each type of doughnut that Bryce is bringing:
+
+* Chocolate doughnuts: 10 kids want chocolate doughnuts
+* Glazed doughnuts: 15 kids want glazed doughnuts
+
+The total number of doughnuts is the sum of the number of chocolate doughnuts and glazed doughnuts, which is:
+
+10 + 15 = 25
+
+Now, we need to calculate the total cost of the doughnuts. The chocolate doughnuts cost $2 each, so the total cost of the chocolate doughnuts is:
+
+10 x $2 = $20
+
+The glazed doughnuts cost $1 each, so the total cost of the glazed doughnuts is:
+
+15 x $1 = $15
+
+The total cost of all the doughnuts is the sum of the cost of the chocolate doughnuts and glazed doughnuts:
+
+$20 + $15 = $35
+
+Answer: 35

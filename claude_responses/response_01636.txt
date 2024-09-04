@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Keegan is in school for 7.5 hours each day
+* He is taking 7 classes
+* He has history and chemistry classes for a combined total of 1.5 hours
+
+First, we need to convert the total time in school from hours to minutes:
+* 7.5 hours x 60 minutes/hour = 450 minutes
+
+Next, we need to subtract the time spent in the history and chemistry classes:
+* 450 minutes - 90 minutes (1.5 hours) = 360 minutes
+
+Finally, we need to divide the remaining time by the number of other classes to get the average time spent in one of the other classes:
+* 360 minutes / 5 other classes = 72 minutes
+
+Answer: 72 minutes

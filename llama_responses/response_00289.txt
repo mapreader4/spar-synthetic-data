@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of each type of car Jim has.
+
+Jim has 4 times as many Buicks as Fords, which means he has 4 * 1 = 4 Buicks.  He has 3 more than twice the number of Fords than Chevys, which means he has 2 * 3 = 6 Chevys.  Then we know he has 4 + 6 = 10 Chevys.  So, the total number of Chevys is 10.
+
+Since he has 4 Buicks and 10 Chevys, we need to add those to get the total number of cars.  4 + 10 = 14.
+
+Answer: 14

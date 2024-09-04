@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Samira has 4 dozen water bottles, which is equal to 4 x 12 = 48 water bottles.
+
+In the first break, the 11 players on the field each take 2 bottles of water. So, the total number of bottles taken is 11 x 2 = 22.
+
+At the end of the game, the players take one more bottle each, which is an additional 11 bottles.
+
+So, the total number of bottles taken is 22 + 11 = 33.
+
+To find the number of bottles remaining, we subtract the number of bottles taken from the initial number of bottles:
+
+48 - 33 = 15
+
+Answer: 15

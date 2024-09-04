@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Hannah makes $30 per hour
+2) She works 18 hours per week
+3) Her total pay before any deductions would be:
+   * 18 hours per week x $30 per hour = $540 per week
+4) However, she was late 3 times this week
+5) Each time she was late, she was docked $5
+6) So the total deduction for being late is:
+   * 3 times late x $5 per time = $15
+7) Therefore, her final pay for the week is:
+   * $540 - $15 = $525
+
+Answer: $525

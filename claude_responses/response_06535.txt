@@ -1,0 +1,15 @@
+To solve this problem, we need to find the average number of bracelets Trey needs to sell each day to raise the required amount of money for the bike.
+
+Given information:
+- The cost of the bike is $112.
+- Trey plans to sell bracelets for $1 each over the next two weeks (14 days).
+
+Step 1: Calculate the total number of bracelets Trey needs to sell to raise $112.
+Total number of bracelets needed = Cost of the bike / Price of each bracelet
+Total number of bracelets needed = $112 / $1 = 112 bracelets
+
+Step 2: Calculate the average number of bracelets Trey needs to sell each day.
+Average number of bracelets per day = Total number of bracelets needed / Number of days
+Average number of bracelets per day = 112 bracelets / 14 days = 8 bracelets per day
+
+Answer: 8 bracelets per day.

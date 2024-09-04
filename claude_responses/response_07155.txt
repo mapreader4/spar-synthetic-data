@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Pablo can put together an average of 100 pieces per hour
+* He has 8 puzzles with 300 pieces each
+* He has 5 puzzles with 500 pieces each
+* He works on puzzles for a maximum of 7 hours each day
+
+First, let's calculate the total number of pieces he has to put together:
+* 8 puzzles with 300 pieces each = 8 * 300 = 2,400 pieces
+* 5 puzzles with 500 pieces each = 5 * 500 = 2,500 pieces
+* Total pieces = 2,400 + 2,500 = 4,900 pieces
+
+Next, let's calculate how many pieces he can put together in one day:
+* 100 pieces per hour * 7 hours per day = 700 pieces per day
+
+Now, we can calculate how many days it will take him to complete all of his puzzles:
+* 4,900 pieces / 700 pieces per day = 7 days
+
+Answer: 7 days

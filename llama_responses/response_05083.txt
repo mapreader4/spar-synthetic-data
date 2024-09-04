@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. The price of the item starts at $15.
+2. The price increases by $5 every time someone bids on the item, so the price increases by $5 each time.
+3. The final price is $65, which is $50 more than the starting price of $15.
+4. To find the number of times the price increased, we can subtract the starting price from the final price: $65 - $15 = $50.
+5. Since the price increased by $5 each time, we can divide the total increase by $5 to find the number of times the price increased: $50 ÷ $5 = 10.
+
+So, each person bid on the desk 10 times.

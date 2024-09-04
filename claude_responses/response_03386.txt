@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The poodle barks twice for every one time the terrier barks
+* The terrier's owner hushes the terrier every second time it barks
+* The owner had to say "hush" 6 times before the dogs stopped barking
+
+First, let's figure out how many times the terrier barked:
+* The owner had to say "hush" 6 times
+* She said "hush" every second time the terrier barked
+* So the terrier barked 12 times (6 times when the owner said "hush", and 6 more times in between)
+
+Now, we know that the poodle barks twice for every one time the terrier barks. 
+* The terrier barked 12 times
+* So the poodle barked 24 times (2 times for each of the 12 times the terrier barked)
+
+Answer: 24

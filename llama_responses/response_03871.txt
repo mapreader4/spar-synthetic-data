@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of markers used by the first two groups. The first group has 10 students who take 2 markers each, so they use a total of 10 x 2 = 20 markers. The second group has 15 students who take 4 markers each, so they use a total of 15 x 4 = 60 markers. The total number of markers used by the first two groups is 20 + 60 = 80 markers.
+
+Next, we need to find the number of markers remaining in the 22 boxes. Each box contains 5 markers, so the total number of markers is 22 x 5 = 110 markers. Since the first two groups used 80 markers, the number of markers remaining is 110 - 80 = 30 markers.
+
+The last group has 5 students (since there are 30 students in total and 10 + 15 = 25 students in the first two groups). The remaining markers are divided equally among these 5 students. To find the number of markers each student receives, we can divide the remaining markers (30) by the number of students (5). This gives us 30 ÷ 5 = 6 markers per student.
+
+Answer: 6

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The fish tank is leaking at a rate of 1.5 ounces per hour
+* Kevin plans to be away for up to 12 hours before returning with a new tank
+* The amount of fluid that will leak over 12 hours is:
+    - 1.5 ounces per hour x 12 hours = 18 ounces
+* The bucket he placed underneath the tank can hold twice the amount of fluid that would leak over 12 hours
+* Therefore, the size of the bucket he used is:
+    - 2 x 18 ounces = 36 ounces
+
+Answer: 36 ounces

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first find out how many questions Sasha can complete in 2 hours. If she can complete 15 questions per hour, then in 2 hours, she can complete 2 x 15 = 30 questions.
+
+Now, let's find out how many questions she has left to complete. She has 60 questions to complete, but she has already completed 30 questions. So, the number of questions she still needs to complete is 60 - 30 = 30.

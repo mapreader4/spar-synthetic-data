@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the amount Cary made the first year. Since Cary makes $10 per hour, and she works for 1 year, she makes a total of:
+
+$10 * 40 (40 hours worked in a 1 year) = $400
+
+The next year, the company's profits decrease, and Cary's pay is cut to 75% of what it used to be. So, Cary's new pay is 75% of $400, which is:
+
+$400 * 0.75 = $300
+
+So, Cary makes $300 per year the second year.

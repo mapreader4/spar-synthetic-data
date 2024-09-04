@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. The first day it rained 4 inches.
+2. The second day it rained 5 times as much as the first day. 
+   - So, the second day it rained 4 x 5 = 20 inches.
+3. The third day it rained 6 inches less than the sum of the first two days.
+   - The sum of the first two days is 4 + 20 = 24 inches.
+   - The third day it rained 24 - 6 = 18 inches.
+
+Answer: 18 inches.

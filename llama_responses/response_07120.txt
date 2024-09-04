@@ -1,0 +1,27 @@
+Let's start by finding the interest that Adam's father will receive after 2 years.
+
+The interest rate is 8% per year. We can write the formula for this as follows:
+
+Interest = Principal * Rate * Time
+
+The principal is the initial deposit of $2000. The rate is 8% which is 0.08, and the time is 2 years. We can write the equation as follows:
+
+Interest = 2000 * 0.08 * 2
+
+To find the interest, we multiply the principal and the rate, then multiply the result by the time:
+
+Interest = 2000 * 0.08 * 2 = 160
+
+The interest is $160.
+
+The total amount that Adam's father will have after 2 years is the sum of the deposit and the interest:
+
+Total = Deposit + Interest
+
+We can write the equation as follows:
+
+Total = 2000 + 160
+
+The total is $2160.
+
+Answer: 2160

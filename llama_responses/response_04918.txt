@@ -1,0 +1,32 @@
+Let's start by identifying the information given in the problem:
+
+* Chandra scored twice as many points as Akiko.
+* Akiko scored 4 more points than Michiko.
+* Michiko scored half as many points as Bailey.
+* Bailey scored 14 points.
+
+From the information, we can set up the following equations:
+
+1. Let x be the number of points scored by Akiko. Then, Chandra scored 2x points.
+2. Michiko scored x - 4 points.
+3. Michiko scored 1/2 * 14 = 7 points (since Bailey scored 14 points and Michiko scored half as many).
+
+We can substitute the value of Michiko's points into the first equation to get:
+
+2x = x - 4 + 7
+
+Simplifying the equation, we get:
+
+2x = x + 3
+
+Subtracting x from both sides gives us:
+
+x = 3
+
+So, Akiko scored 3 points. Since Chandra scored twice as many points as Akiko, Chandra scored 2 * 3 = 6 points.
+
+Michiko scored 7 points, and Bailey scored 14 points. Therefore, the total number of points scored by the team is:
+
+3 + 6 + 7 + 14 = 20
+
+Answer: 20

@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+* Each s'more requires 2 graham crackers and 1 marshmallow
+* Jacob has 48 graham crackers and 6 marshmallows
+* To determine how many s'mores Jacob can make with the ingredients he has, we need to find the limiting factor
+* The limiting factor is the ingredient that runs out first
+* To find the limiting factor, we can divide the number of each ingredient by the number required per s'more:
+* Graham crackers: 48 / 2 = 24 s'mores
+* Marshmallows: 6 / 1 = 6 s'mores
+* Since the marshmallows run out first, the limiting factor is the marshmallows
+* Therefore, Jacob can make 6 s'mores with the ingredients he has
+* To determine how many more marshmallows he needs to buy, we can subtract the number of marshmallows he has (6) from the number of marshmallows he needs (6 * 1 = 6)
+* 6 - 6 = 0
+
+Answer: 0

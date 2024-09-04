@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Ray has 175 cents in nickels. Since each nickel is worth 5 cents, we can divide 175 by 5 to find that Ray has 35 nickels.
+2) Ray gives 30 cents to Peter. Since each nickel is worth 5 cents, we can divide 30 by 5 to find that Ray gave Peter 6 nickels.
+3) Ray gives twice as many cents to Randi as he gave to Peter. Since Ray gave Peter 6 nickels, he gave Randi 12 nickels (2 x 6 = 12).
+4) To find how many more nickels Randi has than Peter, we subtract the number of nickels Peter received from the number of nickels Randi received:
+12 nickels (Randi) - 6 nickels (Peter) = 6 more nickels
+
+Answer: 6

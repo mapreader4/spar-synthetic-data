@@ -1,0 +1,13 @@
+Let the total number of students be x.
+
+Forty percent of the students are learning from home, so 0.4x = x/100 * 0.4 = x.
+
+The remaining students are in school, so the number of students in school is x - 0.6x.
+
+The question asks us to find the percent of students in school, which is 0.4x / x = 0.4.
+
+We know that 0.4 = 0.4x / x = 0.4x / (1 - 0.6x), since the students in school are the remaining students after 40% are learning from home.
+
+So, 0.4 = 0.4 / (1 - 0.6) = 0.4 / 0.4 = 1.
+
+Answer: 25

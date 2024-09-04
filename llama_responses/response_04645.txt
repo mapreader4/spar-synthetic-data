@@ -1,0 +1,7 @@
+Let's start by identifying the number of white marbles, red marbles, and blue marbles.
+
+The number of white marbles is 20. The number of red marbles is also 20. So, the number of blue marbles is also 20.
+
+The number of red marbles Jack removes is equal to double the difference between the number of white marbles and the number of blue marbles. The difference between the number of white marbles and the number of blue marbles is 20 - 20 = 0. So, the number of red marbles Jack removes is 0.
+
+After Jack removes the marbles, the number of marbles left in the box is 20 + 20 + 20 - 0 = 40. Answer: 40.

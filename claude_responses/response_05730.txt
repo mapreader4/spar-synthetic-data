@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Chip has a $50.00 balance on his credit card.
+2) He is charged a 20% interest fee on this balance. 20% of $50.00 is $10.00, so the new balance is $50.00 + $10.00 = $60.00.
+3) The following month, he puts $20.00 on his credit card, so the new balance is $60.00 + $20.00 = $80.00.
+4) He is charged another 20% interest fee on this $80.00 balance. 20% of $80.00 is $16.00, so the new balance is $80.00 + $16.00 = $96.00.
+
+Answer: $96

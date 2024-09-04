@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The patio is a rectangle, so the length and width can be represented as variables.
+2) The length is four times the width, so let's say the length is 4w, where w is the width.
+3) The perimeter of a rectangle is 2 * (length + width), so in this case, the perimeter is 2 * (4w + w) = 10w.
+4) We are told the perimeter is 100 feet, so we can set up the equation: 10w = 100.
+5) Solving for w, we get w = 10 feet.
+6) Since the length is 4 times the width, the length is 4 * 10 = 40 feet.
+
+Answer: 40 feet

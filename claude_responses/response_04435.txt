@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Steve bought $25 worth of groceries
+* He bought:
+    - 1 gallon of milk for $3
+    - 2 boxes of cereal for $3.5 each, so 2 * $3.5 = $7 for the cereal
+    - 4 bananas for $0.25 each, so 4 * $0.25 = $1 for the bananas
+    - 4 apples for $0.5 each, so 4 * $0.5 = $2 for the apples
+* The cost of the milk, cereal, bananas, and apples is:
+    - $3 + $7 + $1 + $2 = $13
+* The cookies cost twice as much per box as the gallon of milk, which is $3 * 2 = $6 per box
+* The remaining amount that Steve spent on the cookies is $25 - $13 = $12
+* To find the number of boxes of cookies, we divide the remaining amount by the cost per box:
+    - $12 / $6 per box = 2 boxes of cookies
+
+Answer: 2

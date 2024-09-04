@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that each child's ticket is $7. Let's let x be the cost of each adult's ticket.
+
+The total cost of the trip is $76. The cost of the trip is the cost of the tickets plus the cost of the concessions. Let's represent the cost of the concessions as c.
+
+The equation for this situation is:
+
+7(2) + x + c = 76
+
+The cost of the concessions is $12, so we know that 7(2) + x + 12 = 76. We can subtract 12 from both sides of the equation to get:
+
+7(2) + x = 64
+
+We know that 7(2) is 14, so we can subtract 14 from both sides of the equation to get:
+
+x = 64 - 14
+
+x = 50
+
+So, the cost of each adult's ticket is $50.

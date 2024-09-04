@@ -1,0 +1,19 @@
+Okay, let's think through this step-by-step:
+1) We are given a triangle with angles A, B, and C.
+2) The angle A is 60 degrees.
+3) The angle B is two times as big as the angle C.
+4) We need to calculate the angle of B.
+5) Since the sum of the angles in a triangle is 180 degrees, we can write:
+A + B + C = 180
+6) Substituting the given information, we get:
+60 + B + C = 180
+7) We know that B = 2C, so we can substitute this in:
+60 + 2C + C = 180
+8) Simplifying, we get:
+60 + 3C = 180
+9) Solving for C, we get:
+3C = 120
+C = 40
+10) Since B = 2C, we can calculate B:
+B = 2 * 40 = 80
+Answer: 80 degrees.

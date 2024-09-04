@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+1) Initially, there were 7 parrots and some crows perched on the tree branch.
+2) When there was a noise, the same number of parrots and crows flew away.
+3) After the birds flew away, there were 2 parrots and 1 crow left on the tree branch.
+4) Let's call the initial number of crows 'x'.
+5) Since the same number of parrots and crows flew away, the number of parrots and crows that flew away was 'x'.
+6) So, the number of parrots left is 7 - x, and the number of crows left is x - 1.
+7) We know that 2 parrots and 1 crow are left, so we can set up an equation:
+7 - x = 2
+x - 1 = 1
+8) Solving these equations, we get:
+x = 5
+9) Therefore, the initial number of birds on the tree branch was:
+7 parrots + 5 crows = 12 birds
+
+Answer: 12

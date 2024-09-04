@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The forest initially has 30 native trees.
+2) On Monday, the forester triples the total number of trees in the forest by planting new trees.
+   * The initial 30 trees plus the new trees planted on Monday equals 3 times 30, which is 90 trees.
+   * So the forester planted 60 new trees on Monday (90 - 30 = 60).
+3) On Tuesday, the forester plants a third of the amount he planted on Monday.
+   * A third of 60 is 20.
+   * So the forester planted 20 new trees on Tuesday.
+4) To calculate the total number of trees planted, we add the number of trees planted on Monday and Tuesday.
+   * 60 trees planted on Monday + 20 trees planted on Tuesday = 80 trees planted in total.
+
+Answer: 80

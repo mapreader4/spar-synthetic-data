@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we know that Blake needs 4 ounces of milk and 12 ounces of ice cream for each milkshake. So, for each milkshake, he needs 4 + 12 = 16 ounces of ingredients. Since he is making milkshakes for his family, let's assume that he is making x milkshakes.
+
+The total amount of milk Blake will need is 4 x 16 = 64 ounces of milk. Since he has 72 ounces of milk, he will have 72 - 64 = 8 ounces of milk left over.
+
+Answer: 8

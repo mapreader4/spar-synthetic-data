@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many sodas Fred needs to buy. Since each guest will drink 2 sodas, and there are 15 guests, Fred needs to buy 15 * 2 = 30 sodas.
+
+Step 2: Determine how many 6-packs of sodas Fred needs to buy. Since each 6-pack contains 6 sodas, we can divide the total number of sodas needed (30) by 6 to find how many 6-packs Fred needs:
+
+30 ÷ 6 = 5
+
+So Fred needs 5 6-packs of sodas.
+
+Step 3: Determine the cost of the sodas. Since each 6-pack costs $3.00, the total cost would be:
+
+5 x $3.00 = $15.00
+
+Answer: 15

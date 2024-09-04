@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* The class has 18 students in total
+* The class is split equally into 3 groups
+* Each student takes 4 minutes to go through the museum
+
+First, let's find out how many students are in each group:
+* 18 students / 3 groups = 6 students per group
+
+Now, we need to find out how long it takes each group to go through the museum.
+* Since each student takes 4 minutes, and there are 6 students per group, it will take 6 * 4 = 24 minutes for each group to go through the museum.
+
+Answer: 24 minutes

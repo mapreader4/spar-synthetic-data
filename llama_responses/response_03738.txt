@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the original prices of the items:
+
+* The backpack costs $50.
+* The ring-binders cost $20 each, so 3 ring-binders would be 3 x $20 = $60.
+
+The total cost of the original items would be $50 + $60 = $110.
+
+Now, the price of the backpack increased by $5, so the new price of the backpack is $50 + $5 = $55.
+
+The price of the ring-binders decreased by $2, so the new price of each ring-binder is $20 - $2 = $18. Since there are 3 ring-binders, the new total cost of the ring-binders is 3 x $18 = $54.
+
+The new total cost of the backpack and ring-binders is $55 + $54 = $109.
+
+So, the total amount of money Julieta spent at the store is:
+
+Answer: $109

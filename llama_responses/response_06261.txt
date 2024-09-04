@@ -1,0 +1,16 @@
+Let's start by using the information that each pair of pants cost the same price, and that the total cost of the 2 pairs of pants is $62.
+
+Let's say the price of 1 pair of pants is x.
+
+Then, the cost of 2 pairs of pants is 2x.
+
+Since the total cost of 2 pairs of pants is $62, we can set up an equation:
+
+2x = 62
+
+To find the price of 1 pair of pants, we can divide both sides of the equation by 2:
+
+x = 62 / 2
+x = 31
+
+So, the price of 1 pair of pants is $31.

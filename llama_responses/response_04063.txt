@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. The problem says 6 customers order the big stack, which has 5 pancakes each. So, Hank needs to make 6 x 5 = 30 big pancakes.
+
+2. The problem also says 9 customers order the short stack, which has 3 pancakes each. So, Hank needs to make 9 x 3 = 27 short stack pancakes.
+
+3. To make 30 big pancakes for the big stack and 27 short stack pancakes, Hank needs to make a total of 30 + 27 = 57 pancakes.
+
+Answer: 57

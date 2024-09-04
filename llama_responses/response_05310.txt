@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the number of words Sarah can read in 20 hours.
+
+Since Sarah can read 40 words per minute, and there are 60 minutes in an hour, Sarah can read 40 * 60 = 2400 words in 1 hour. In 20 hours, Sarah can read 2400 * 20 = 48000 words.
+
+Step 2: Determine the number of pages Sarah can read in 48000 words.
+
+Since each book has 100 words per page, Sarah can read 48000 / 100 = 480 pages.
+
+Step 3: Determine the number of books Sarah should check out.
+
+Since each book is 80 pages long, Sarah can read 480 / 80 = 6 books.
+
+Answer: 6

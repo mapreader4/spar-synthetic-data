@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Let's first calculate the total amount Sarah earned from tying 40 games. Since she earns $0 for every game she ties, she earned 0 x 40 = 0 dollars from tying 40 games.
+
+Now, let's calculate the total amount Sarah lost. Since she lost $30, we know she lost 30 dollars from losing 30 games. So, the number of games she lost must be 30 / 2 = 15.
+
+Now, we know Sarah won the total number of games played minus the number of games she lost, which is 100 - 15 = 85. Therefore, Sarah won 85 games.

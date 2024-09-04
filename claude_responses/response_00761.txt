@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Joan has a total of $60 to spend
+* She is going to purchase:
+  - 2 containers of hummus at $5 each, so that's $10 total
+  - Chicken for $20
+  - Bacon for $10
+  - Vegetables for $10
+* So the total of those purchases is:
+  - $10 (hummus) + $20 (chicken) + $10 (bacon) + $10 (vegetables) = $50
+* She has $60 total, and she has spent $50 so far
+* So the remaining amount she has to spend is $60 - $50 = $10
+* Apples cost $2 each
+* With the remaining $10, she can purchase $10 / $2 = 5 apples
+
+Answer: 5

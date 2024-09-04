@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Sally makes $6 per day
+* Bob makes $4 per day
+* They both save half of what they've earned
+
+For Sally:
+* Sally earns $6 per day
+* In a year, there are 365 days
+* So, Sally earns $6 x 365 = $2,190 in a year
+* Sally saves half of that, which is $2,190 / 2 = $1,095
+
+For Bob:
+* Bob earns $4 per day
+* In a year, there are 365 days
+* So, Bob earns $4 x 365 = $1,460 in a year
+* Bob saves half of that, which is $1,460 / 2 = $730
+
+Now, to find the total amount of money they will have saved for their trip:
+* Sally saved $1,095
+* Bob saved $730
+* Total saved = $1,095 + $730 = $1,825
+
+Answer: $1,825

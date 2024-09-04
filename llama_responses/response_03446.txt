@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. We know that there are 40 people in the race, and 3/5 of them are riding on bicycles. To find the number of people riding on bicycles, we can multiply 3/5 by 40, which gives us 24 people.
+
+2. Since each bicycle has 2 wheels, and there are 24 people riding on bicycles, the total number of wheels is 24 x 2 = 48.
+
+3. The tricycles have 3 wheels each, and there are 40 - 24 = 16 people riding on tricycles.
+
+4. To find the combined number of wheels of the bicycles and tricycles, we add 48 (bicycle wheels) + 16 (tricycle wheels) = 64.
+
+Answer: 64

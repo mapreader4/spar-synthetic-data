@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Arnold has 3 cars, with the following gas mileage:
+   - Car 1: 50 miles per gallon
+   - Car 2: 10 miles per gallon
+   - Car 3: 15 miles per gallon
+2) He drives a total of 450 miles per month, and splits this equally among his 3 cars.
+   - So each car drives 450 / 3 = 150 miles per month.
+3) To calculate the gas usage for each car:
+   - Car 1: 150 miles / 50 miles per gallon = 3 gallons
+   - Car 2: 150 miles / 10 miles per gallon = 15 gallons
+   - Car 3: 150 miles / 15 miles per gallon = 10 gallons
+4) The total gas used per month is:
+   - 3 gallons + 15 gallons + 10 gallons = 28 gallons
+5) Gas costs $2 per gallon.
+   - So the total cost of gas per month is: 28 gallons * $2 per gallon = $56.
+
+Answer: $56.

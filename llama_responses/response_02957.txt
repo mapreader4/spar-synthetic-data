@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. Tim sleeps 6 hours per day for 5 days a week. So, for 5 days, he sleeps 5 * 6 = 30 hours.
+2. He sleeps 10 hours a day for the other 2 days. So, for 2 days, he sleeps 2 * 10 = 20 hours.
+3. We add the hours for the 5 days and the hours for the 2 days. 30 + 20 = 50 hours.
+
+Answer: 50

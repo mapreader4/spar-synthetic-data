@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* One crate of vegetables weighs 4 kilograms
+* One carton of vegetables weighs 3 kilograms
+* The delivery truck is carrying 12 crates and 16 cartons of vegetables
+* To calculate the total weight of the load, we need to find the weight of the crates and the weight of the cartons, then add them together.
+
+Weight of the crates:
+* 12 crates x 4 kilograms per crate = 48 kilograms
+
+Weight of the cartons:
+* 16 cartons x 3 kilograms per carton = 48 kilograms
+
+Total weight of the load:
+* 48 kilograms (crates) + 48 kilograms (cartons) = 96 kilograms
+
+Answer: 96 kilograms

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Mary has 5 green crayons and 8 blue crayons initially.
+
+She gives out 3 green crayons to Becky, so she is left with 5 - 3 = 2 green crayons.
+
+She gives out 1 blue crayon to Becky, so she is left with 8 - 1 = 7 blue crayons.
+
+So, Mary has 2 green crayons and 7 blue crayons left.

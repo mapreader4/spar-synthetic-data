@@ -1,0 +1,7 @@
+Let the weight of the largest frog be x.
+
+The smallest frog weighs 1/10 of the largest frog's weight. So the smallest frog's weight is 120/10 = 12 pounds.
+
+The largest frog's weight is 10 times the smallest frog's weight. So the largest frog's weight is 12 * 10 = 120 pounds.
+
+The largest frog weighs 120 - 12 = 108 pounds more than the smallest frog.

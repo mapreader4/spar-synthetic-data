@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 300 students seated
+* There are 30 teachers seated
+* 25 students are standing
+* To find the total number of people who attended the school meeting, we need to add the number of students seated, the number of teachers seated, and the number of students standing.
+
+The total number of students is:
+* 300 students seated + 25 students standing = 325 students
+
+The total number of people attending the meeting is:
+* 325 students + 30 teachers = 355 people
+
+Answer: 355

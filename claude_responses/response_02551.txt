@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Duke needs 17 more points to tie the old record of 257 points
+* By the end of the game, Duke breaks the record by 5 points
+* So the new record is 257 + 17 + 5 = 279 points
+* In the final game, Duke made:
+  - 5 free throws (worth 1 point each) = 5 points
+  - 4 regular baskets (worth 2 points each) = 8 points
+  - Some number of three-pointers
+* Normally, Duke scores 2 three-pointers per game
+* To find the number of additional three-pointers Duke scored in the final game, we need to:
+  - Calculate the total points he scored in the final game
+  - Subtract the points from the free throws and regular baskets
+  - The remaining points must have come from the three-pointers
+
+The total points Duke scored in the final game is 279 (the new record).
+Subtracting the 5 points from the free throws and the 8 points from the regular baskets, we get:
+279 - 5 - 8 = 266 points from three-pointers
+
+Normally, Duke scores 2 three-pointers per game, which would be 6 points.
+The remaining 266 - 6 = 260 points must have come from additional three-pointers.
+Since each three-pointer is worth 3 points, the number of additional three-pointers Duke scored is:
+260 / 3 = 86.67 (rounded to the nearest whole number)
+
+Answer: 87 more three-pointers

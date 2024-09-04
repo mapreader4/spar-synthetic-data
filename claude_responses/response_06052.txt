@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mr. Valentino has 200 chickens
+* He has twice as many ducks as chickens
+* To find the number of ducks, we multiply the number of chickens by 2:
+  * Number of ducks = 200 x 2 = 400
+* He has three times as many turkeys as ducks
+* To find the number of turkeys, we multiply the number of ducks by 3:
+  * Number of turkeys = 400 x 3 = 1,200
+* To find the total number of birds, we add up the number of chickens, ducks, and turkeys:
+  * Total number of birds = 200 + 400 + 1,200 = 1,800
+
+Answer: 1,800

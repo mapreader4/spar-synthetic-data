@@ -1,0 +1,23 @@
+Let's break down the problem step by step.
+
+In the first week, 40 pounds of food were donated to the food bank.
+
+In the second week, donations were twice as high as the first week, so the amount of food donated in the second week is:
+
+40 pounds (first week) x 2 = 80 pounds
+
+So, the total amount of food donated in the first two weeks is:
+
+40 pounds (first week) + 80 pounds (second week) = 120 pounds
+
+In the third week, Lyanna gave out 70% of the donated food to the homeless. To find the amount of food given out, we need to calculate 70% of 120 pounds:
+
+120 pounds x 0.7 = 84 pounds
+
+So, Lyanna gave out 84 pounds of food to the homeless.
+
+To find the amount of food remaining in the food bank, we subtract the amount given out from the total amount donated:
+
+120 pounds (total donated) - 84 pounds (given out) = 36 pounds
+
+Answer: 36

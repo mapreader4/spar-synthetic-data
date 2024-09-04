@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many cards Jame can tear in total.
+
+Jame can tear 30 cards at a time, and he tears cards 3 times a week. So, the total number of cards he tears in a week is:
+
+30 cards/week * 3 weeks = 90 cards
+
+Now, Jame buys 18 decks of cards. Each deck has 55 cards, so the total number of cards he has is:
+
+55 cards/deck * 18 decks = 990 cards
+
+Since Jame can tear 90 cards in a week, and he has 990 cards, we can divide the total number of cards by the number of cards he can tear in a week to find out how many weeks he can go:
+
+990 cards / 90 cards/week = 11 weeks
+
+So, Jame can go 11 weeks.

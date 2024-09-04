@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Joe had 200 data points initially.
+2) He then added 20% more data points to the dataset.
+   * 20% of 200 = 0.2 * 200 = 40 data points
+   * So the new total is 200 + 40 = 240 data points.
+3) He then reduced the data points by 1/4 of the total data points.
+   * 1/4 of 240 = 0.25 * 240 = 60 data points
+   * So the new total is 240 - 60 = 180 data points.
+
+Answer: 180

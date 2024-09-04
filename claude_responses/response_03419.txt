@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Luis bought 4 pairs of red socks and 6 pairs of blue socks
+* The red socks cost $3 each
+* In total, he spent $42
+
+First, let's calculate the cost of the red socks:
+* 4 pairs of red socks at $3 each = 4 x $3 = $12
+
+Now, we can calculate the total cost of the blue socks by subtracting the cost of the red socks from the total amount spent:
+* Total spent = $42
+* Cost of red socks = $12
+* Cost of blue socks = $42 - $12 = $30
+
+Since Luis bought 6 pairs of blue socks, we can divide the cost of the blue socks by 6 to get the cost per pair:
+* Cost per pair of blue socks = $30 / 6 = $5
+
+Answer: $5

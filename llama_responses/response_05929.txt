@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Let's start by identifying the number of bananas and oranges. We know that there are 2 bananas, and since there are twice as many apples as bananas, there are 2 * 2 = 4 apples.
+
+Now, let's add the number of bananas and apples to get the total number of fruits. We have 2 bananas and 4 apples, which is 2 + 4 = 6 fruits.
+
+But we are not done yet. We still need to add the number of oranges. We know that the total number of fruits is 12. So, we need to find the number of oranges.
+
+Let's think about it. If there are 2 bananas and 4 apples, and we have 12 fruits in total, we can say that the number of oranges must be 12 - 6 = 6.
+
+So, the number of oranges is 6.
+
+Answer: 6

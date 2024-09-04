@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The project was supposed to take Bill 4 days to complete
+* Bill took 6 seven-hour naps during those 4 days
+* To find the time he spent working on the project, we need to subtract the time he spent napping from the total time available
+
+First, let's calculate the total time he spent napping:
+* 6 naps x 7 hours per nap = 42 hours
+
+Now, let's calculate the total time available for the project:
+* 4 days x 24 hours per day = 96 hours
+
+Finally, we subtract the time spent napping from the total time available:
+* 96 hours - 42 hours = 54 hours
+
+Therefore, Bill spent 54 hours working on the project.
+
+Answer: 54

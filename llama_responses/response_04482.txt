@@ -1,0 +1,22 @@
+Let's break this problem down step by step:
+
+Let's start by identifying the total number of trees to be planted. The association decided to plant a tree on every street, and there are 18 streets in the neighborhood. So, the total number of trees to be planted is 18.
+
+Since the association wanted every other tree to be a fruit tree, and they agreed to plant equal numbers of plum, pear, and apricot trees, we can set up an equation to represent the number of each type of tree to be planted.
+
+Let's say the number of plum trees to be planted is x. Then, the number of pear trees to be planted is also x, and the number of apricot trees to be planted is also x.
+
+We know that the total number of trees to be planted is 18. So, we can set up an equation:
+
+x + x + x = 18
+
+We can simplify this equation by combining like terms:
+
+3x = 18
+
+To solve for x, we can divide both sides of the equation by 3:
+
+x = 18 / 3
+x = 6
+
+So, the association will plant 6 plum trees, 6 pear trees, and 6 apricot trees.

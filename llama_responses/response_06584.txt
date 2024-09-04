@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+First, let's find the total cost of the items without the discount.
+
+4 T-shirts cost 4 x $20 = $80
+3 pairs of pants cost 3 x $80 = $240
+2 pairs of shoes cost 2 x $150 = $300
+
+The total cost before the discount is 80 + 240 + 300 = $320.
+
+Now, we need to find the discount. The discount is 10%, so we multiply the total cost by 0.9 to get the final cost.
+
+0.9 x 320 = 288
+
+Answer: 288

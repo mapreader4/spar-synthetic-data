@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 40 students in Professor Plum's biology class.
+2) 80% of the 40 students have puppies. To calculate this, we take 80% of 40:
+   * 80% of 40 = 0.8 * 40 = 32 students have puppies.
+3) Of the 32 students who have puppies, 25% also have parrots. To calculate this, we take 25% of 32:
+   * 25% of 32 = 0.25 * 32 = 8 students have both puppies and parrots.
+
+Answer: 8

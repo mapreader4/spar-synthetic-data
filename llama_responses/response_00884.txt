@@ -1,0 +1,9 @@
+Let's start by thinking step by step.
+
+Let's say the number of vampires at the beginning is V.
+
+Then, each night, each vampire turns 5 more people into vampires. So, after one night, there are V + 5 vampires.
+
+After two nights, each night, each vampire turns 5 more people into vampires. So, after the first night, there are V + 5 vampires, and after the second night, there are V + 5 + 5 = V + 10 vampires.
+
+The question asks how many vampires are there after two nights. So, the answer is V + 10.

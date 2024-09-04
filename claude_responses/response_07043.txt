@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+1. Electricity bill: $60 - This has been paid in full.
+
+2. Gas bill: 
+   - Original amount: $40
+   - Stephanie has already paid three-quarters of this, which is 3/4 * $40 = $30.
+   - She made an additional payment of $5 while checking her budget.
+   - So the remaining amount for the gas bill is $40 - $30 - $5 = $5.
+
+3. Water bill:
+   - Original amount: $40
+   - Stephanie has paid half of this, which is 1/2 * $40 = $20.
+   - The remaining amount for the water bill is $40 - $20 = $20.
+
+4. Internet bill:
+   - Original amount: $25
+   - Stephanie has made 4 payments of $5 each, which is 4 * $5 = $20.
+   - The remaining amount for the internet bill is $25 - $20 = $5.
+
+Now, to calculate the total amount Stephanie still needs to pay:
+Remaining gas bill: $5
+Remaining water bill: $20
+Remaining internet bill: $5
+Total remaining: $5 + $20 + $5 = $30
+
+Answer: $30

@@ -1,0 +1,15 @@
+Let's start by identifying the number of chairs that can be made in 1 day by 1 carpenter. We know that 8 carpenters can make 50 chairs in 10 days, so the number of chairs made by 1 carpenter in 1 day can be calculated as follows:
+
+50 chairs in 10 days = 50 / 10 = 5 chairs in 1 day
+
+Now, we know that 1 carpenter can make 5 chairs in 1 day, so to find the number of carpenters needed to make 75 chairs in 10 days, we can multiply the number of chairs made in 1 day by the number of days:
+
+5 chairs in 1 day * 10 days = 50 chairs
+
+To find the number of carpenters needed, we can divide the total number of chairs by the number of chairs made in 1 day:
+
+75 chairs / 50 chairs in 1 day = 1.5 carpenters
+
+So, the answer is:
+
+Answer: 1.5

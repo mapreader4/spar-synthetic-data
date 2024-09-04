@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to find out how many pencils Jenine needs to sharpen before running out. She can sharpen a pencil 5 times before running out, and she needs to sharpen a pencil for every 1.5 hours of use. So, she needs to sharpen a pencil 1.5 times for every 1 hour of use.
+
+Since she needs to write for 105 hours, she needs to sharpen a pencil 105 / 1.5 = 70 times. So, she needs to sharpen 70 pencils.
+
+She has 10 pencils already, so she needs to buy 70 - 10 = 60 more pencils.
+
+Each pencil costs 2 dollars, so she needs to spend 60 x 2 = 120 dollars on more pencils.
+
+Answer: 120

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of each type of fruit Gabby got. We know that she got one watermelon, and since she got 12 more peaches than that, and three times that number of plums, we can set up an equation to represent the number of peaches:
+
+P = 1 (watermelon) + 12 + 12 * 3
+
+P = 1 + 12 + 36
+
+P = 49
+
+So Gabby got 49 peaches.
+
+Since she got one watermelon, we can add that to the total number of fruit:
+
+49 (peaches) + 1 (watermelon) = 50
+
+So Gabby got 50 pieces of fruit to pick that summer.
+
+Answer: 50

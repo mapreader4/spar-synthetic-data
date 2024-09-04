@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There are 3 train stations
+* The stations are 2 hours apart from one another
+* Kira travels from the first station to the third station
+* Kira takes a 30 minute break at the second station
+
+To calculate the total time Kira takes to travel between the first and third station, we need to:
+1. Calculate the time it takes to travel from the first station to the second station
+2. Add the 30 minute break at the second station
+3. Calculate the time it takes to travel from the second station to the third station
+4. Add the times from steps 1-3 to get the total time
+
+Step 1: Time from first to second station = 2 hours = 120 minutes
+Step 2: Break at second station = 30 minutes
+Step 3: Time from second to third station = 2 hours = 120 minutes
+Step 4: Total time = 120 + 30 + 120 = 270 minutes
+
+Answer: 270

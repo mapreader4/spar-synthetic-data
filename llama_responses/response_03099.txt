@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of hours Natasha exercised. Natasha exercised for 30 minutes every day, and there are 7 days in a week. So, Natasha exercised 7 x 30 minutes, which is 210 minutes. To convert this to hours, we can divide 210 minutes by 60, since there are 60 minutes in an hour, and we get 3.5 hours.
+
+Now, let's find the number of hours Esteban exercised. Esteban exercised for 10 minutes on each of 9 days. So, Esteban exercised 9 x 10 minutes, which is 90 minutes. To convert this to hours, we can divide 90 minutes by 60, and we get 1.5 hours.
+
+To find the total number of hours Natasha and Esteban exercised, we can add 3.5 hours and 1.5 hours. 3.5 + 1.5 is 5 hours.
+
+Answer: 5

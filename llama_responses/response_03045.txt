@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of tickets the school has. Since each roll of tickets has 100 tickets, and there are 3 groups of students, we can multiply 100 x 3 = 300 tickets.
+
+The 4th graders bought 30% of the tickets. To find 30% of 300, we can multiply 300 x 0.3 = 90 tickets.
+
+The 5th graders bought 50% of the remaining tickets. To find 50% of 210, we can multiply 210 x 0.5 = 105 tickets.
+
+The 6th graders bought 100 tickets. So, the total number of tickets bought by the 6th graders is 100.
+
+Now, let's subtract the total number of tickets bought by the 4th and 5th graders from the total number of tickets. 90 + 105 - 195 = 195.
+
+The remaining tickets are the unsold tickets. Therefore, the answer is:
+
+Answer: 105

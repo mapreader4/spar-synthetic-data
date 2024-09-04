@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Arthur needs to read 800 pages in total over the summer.
+2) He has read 80% of a 500-page book. 80% of 500 is 0.8 * 500 = 400 pages.
+3) He has read 1/5 of a 1000-page book. 1/5 of 1000 is 1/5 * 1000 = 200 pages.
+4) So in total, he has read 400 + 200 = 600 pages.
+5) To meet his goal of 800 pages, he needs to read 800 - 600 = 200 more pages.
+
+Answer: 200

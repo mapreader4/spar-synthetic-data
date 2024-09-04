@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say Greta's turtle took x minutes.  George's turtle took x - 2 minutes.  Gloria's turtle took 2x minutes.
+
+We know that Greta's turtle took 6 minutes.  So, we can set up an equation:
+
+x - 2 = 6
+
+We can solve for x by adding 2 to both sides of the equation:
+
+x = 4
+
+So, it took Gloria's turtle 4 minutes to finish the race.

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding the number of hours Thomas trained in a month. Since he trains for 5 hours every day, and there are 30 days in a month, the total number of hours Thomas trained in a month will be:
+
+5 hours * 30 = 150 hours
+
+Now, Thomas will train for the next 12 days. The number of hours he will train in total will be:
+
+150 hours (from the previous month) + 12 hours = 162 hours
+
+Answer: 162

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by using a variable to represent the number of striped jerseys Justin bought. Let's call it "x".
+
+We know that the total cost of the long-sleeved jerseys is 4 x 15 = 60. We also know that the total cost of the striped jerseys is 10x. The total cost of all the jerseys is 80, so the equation is 60 + 10x = 80.
+
+To solve for x, we can subtract 60 from both sides of the equation to get 10x = 20. Then, we can divide both sides by 10 to get x = 2.
+
+Answer: 2

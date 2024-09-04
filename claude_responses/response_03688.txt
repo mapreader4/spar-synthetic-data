@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Noa scored 30 points to win the bowl
+* Phillip scored twice the number of points that Noa scored
+* To find Phillip's score, we take Noa's score and multiply it by 2:
+  * Phillip's score = 30 x 2 = 60 points
+* To find the total number of points Tom and Phillip scored, we add Noa's score and Phillip's score:
+  * Total points = Noa's score + Phillip's score
+  * Total points = 30 + 60 = 90 points
+
+Answer: 90

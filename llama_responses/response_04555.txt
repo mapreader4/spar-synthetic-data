@@ -1,0 +1,9 @@
+To find out how many weeks the 40 chocolate eggs will last, we can divide the number of chocolate eggs by the number of chocolate eggs Maddy eats each day.
+
+Maddy eats 2 chocolate eggs each day, so the number of days she eats in a week is 2 * 7 = 14.
+
+Now, we can divide the total number of chocolate eggs by the number of days Maddy eats them in a week:
+
+40 ÷ 14 = 2.86
+
+Maddy will last 2.86 weeks.

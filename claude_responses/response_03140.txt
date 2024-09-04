@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 10 rows of 15 chairs, so the total number of chairs is 10 * 15 = 150 chairs.
+* The first row is reserved for the awardees, so that's 15 chairs.
+* The second and third rows are reserved for the administrators and teachers, so that's 2 * 15 = 30 chairs.
+* The last two rows are reserved for the parents, so that's 2 * 15 = 30 chairs.
+* The remaining 7 rows are for the students, so that's 7 * 15 = 105 chairs.
+* Only 4/5 of the student seats are occupied, so the number of vacant student seats is 1/5 * 105 = 21 chairs.
+* These 21 vacant student seats can be given to the parents.
+
+Answer: 21

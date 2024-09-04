@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start with the first generation, which has tails 16 cm long. The second generation will have tails 25% longer than the first generation. So, the second generation will have tails 16 + (16 * 0.25) = 20 cm long.
+
+The third generation will have tails 25% longer than the second generation, which has tails 20 cm long. So, the third generation will have tails 20 + (20 * 0.25) = 25 cm long.
+
+Answer: 25

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Joan wants to travel 480 miles
+* She drives at a rate of 60 mph
+* She takes a 30-minute lunch break
+* She takes two 15-minute bathroom breaks
+
+First, let's calculate the time it takes to drive the 480 miles at 60 mph:
+* Time to drive = Distance / Speed
+* Time to drive = 480 miles / 60 mph
+* Time to drive = 8 hours
+
+Now, let's add the time for the breaks:
+* Lunch break: 30 minutes = 0.5 hours
+* Bathroom breaks: 2 x 15 minutes = 30 minutes = 0.5 hours
+* Total break time = 0.5 hours + 0.5 hours = 1 hour
+
+Finally, we add the driving time and the break time:
+* Total time = Driving time + Break time
+* Total time = 8 hours + 1 hour
+* Total time = 9 hours
+
+Answer: 9 hours

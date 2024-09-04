@@ -1,0 +1,7 @@
+Let's break this down step by step:
+
+Let's first find the total number of students who wore lipstick.  Since half of the students who attended class wore lipstick, that's 100 students.  Of those students who wore lipstick, one quarter wore red lipstick.  So, 25 students wore red lipstick.
+
+Since there were as many students wearing blue lipstick as wearing red lipstick, we know that 25 students wore blue lipstick.  So, the answer is:
+
+Answer: 25

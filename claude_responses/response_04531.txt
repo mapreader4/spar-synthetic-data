@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The newspaper has a total of 12 pages that each hold 2 photos
+* So for the 12 pages with 2 photos each, the total number of photos is:
+12 pages x 2 photos per page = 24 photos
+* The newspaper also has 9 pages that each hold 3 photos
+* So for the 9 pages with 3 photos each, the total number of photos is:
+9 pages x 3 photos per page = 27 photos
+* To get the total number of photos in the newspaper, we add the photos from the 12 pages and the 9 pages:
+24 photos + 27 photos = 51 photos
+
+Answer: 51

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. Brendan wins all 2 rounds, each of which had 6 matches. So, Brendan wins 2 * 6 = 12 matches in the first 2 rounds.
+
+2. He then wins half of the 4 matches in the last round. Half of 4 is 2. So, Brendan wins 2 matches in the last round.
+
+3. To find the total number of matches won by Brendan, we add the number of matches won in the first 2 rounds to the number of matches won in the last round: 12 + 2 = 14.
+
+Answer: 14

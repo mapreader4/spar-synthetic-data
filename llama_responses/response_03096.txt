@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say the temperature at 3 A.M. was 50 degrees. We know that the temperature goes up 1.5 degrees every 2 hours.
+
+We need to find the temperature at 11 A.M. We know that 11 A.M. is 8 hours after 3 A.M. (8 hours = 24 hours / 3 hours per hour = 8).
+
+So, the temperature at 11 A.M. will be 50 degrees plus 1.5 degrees 4 times. That is, the temperature will be 50 + (1.5 * 4) = 50 + 6 = 56.
+
+Answer: 56

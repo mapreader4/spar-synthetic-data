@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The roadway deck needs 1600 tons of concrete
+* One of the two bridge anchors has been built using 700 tons of concrete
+* The other bridge anchor will also need 700 tons of concrete (since they are equal)
+* The total amount of concrete in the entire bridge is 4800 tons
+
+To find the amount of concrete needed for the supporting pillars, we need to add up the concrete needed for the roadway deck and the two bridge anchors, then subtract that from the total amount of concrete in the entire bridge.
+
+Concrete needed for roadway deck: 1600 tons
+Concrete needed for one bridge anchor: 700 tons
+Concrete needed for the other bridge anchor: 700 tons
+Total concrete needed for roadway deck and anchors: 1600 + 700 + 700 = 3000 tons
+
+Total concrete in entire bridge: 4800 tons
+Concrete needed for roadway deck and anchors: 3000 tons
+Concrete needed for supporting pillars: 4800 - 3000 = 1800 tons
+
+Answer: 1800 tons

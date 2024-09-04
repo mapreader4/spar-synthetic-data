@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's let W be the number of rounds William won, and let H be the number of rounds Harry won.  Since William won 5 more rounds than Harry, we know that W = H + 5.  So, we have the equation W = H + 5.
+
+Since William and Harry played 15 rounds of tic-tac-toe, and William won 5 more rounds than Harry, we know that W = 15 - H.  Now, we can substitute H = 15 - W + 5, and we get H = 10.  So, William won 10 rounds, and Harry won 10 rounds.
+
+Answer: 10

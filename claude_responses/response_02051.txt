@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) Mary wants to bake 10 apple pies for a charity event.
+2) Each pie needs 8 apples.
+3) So the total number of apples needed for 10 pies is 10 * 8 = 80 apples.
+4) Mary has already harvested 50 apples from the trees in her garden.
+5) To calculate the number of additional apples she needs to buy, we subtract the number of apples she already has (50) from the total number of apples needed (80).
+6) 80 - 50 = 30 apples.
+
+Answer: 30

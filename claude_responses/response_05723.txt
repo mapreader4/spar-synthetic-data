@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 160 tissues inside each tissue box.
+2) Tucker bought 3 boxes of tissues.
+3) To find the total number of tissues Tucker bought, we multiply the number of tissues per box (160) by the number of boxes he bought (3):
+160 tissues per box x 3 boxes = 480 total tissues bought.
+4) Tucker used 210 tissues while he was sick with the flu.
+5) To find the number of tissues he has left, we subtract the number of tissues he used (210) from the total number of tissues he bought (480):
+480 total tissues - 210 tissues used = 270 tissues left.
+
+Answer: 270

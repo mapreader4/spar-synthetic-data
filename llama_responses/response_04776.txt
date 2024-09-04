@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+Let's start by using the information given that the number of people going to the fair this year is 600. Let's call this number as x.
+
+The problem states that next year, there will be twice as many people going to the fair as are going this year. So, the number of people going to the fair next year will be 2x.
+
+The problem also states that the number of people who went to the fair last year was 200 less than those going next year. So, the number of people who went to the fair last year is x - 200.
+
+We know that x is 600, so we can set up an equation to represent the number of people who went to the fair last year:
+
+x - 200 = 600/2
+
+To solve for x, we can add 200 to both sides of the equation:
+
+x = 600/2 + 200
+
+x = 400
+
+Now that we know the number of people who went to the fair last year, we can add this to the number of people going to the fair this year and next year to find the total number of people at the fair in the three years.
+
+The total number of people at the fair in the three years is:
+
+600 (this year) + 400 (last year) + 2(600) = 1600
+
+Answer: 1600

@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) The pool currently has 48 blue tiles and 32 red tiles.
+2) The total number of tiles currently in the pool is 48 + 32 = 80 tiles.
+3) The pool needs 100 tiles to be completed.
+4) To find the number of additional tiles needed, we subtract the current number of tiles (80) from the total number of tiles needed (100).
+5) 100 - 80 = 20 tiles.
+
+Answer: 20

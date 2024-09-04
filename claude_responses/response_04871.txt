@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mrs. Fredrickson has 80 chickens in total.
+2) 1/4 of the 80 chickens are roosters. To find the number of roosters, we take 1/4 of 80, which is 20 roosters.
+3) The remaining 60 chickens are hens (80 - 20 = 60).
+4) Only three-fourths of the 60 hens lay eggs. To find the number of hens that lay eggs, we take 3/4 of 60, which is 45 hens that lay eggs.
+5) The remaining 15 hens (60 - 45 = 15) do not lay eggs.
+6) In total, the number of chickens that do not lay eggs is the 20 roosters plus the 15 hens that do not lay eggs, which is 35 chickens.
+
+Answer: 35

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's denote the time it took for the first five runners to finish the race as t1. Then, the time it took for the remaining three runners to finish the race is t2. Since they finish 2 hours later, we know that t2 = t1 + 2.
+
+We are asked to find the total time it took for the eight runners to finish the race. Since the first five runners took t1 hours, and the remaining three runners took t2 = t1 + 2, we know that the total time is the sum of these two times. So, the total time is t1 + t2 = t1 + (t1 + 2). Since the first five runners took 8 hours, we know that t1 = 8. Therefore, the total time is 8 + (8 + 2) = 16.
+
+Answer: 16

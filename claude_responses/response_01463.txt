@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The building has 20 flights of stairs to the top floor
+* Ned can run up one flight of stairs in 11 seconds
+* So, to run up all 20 flights, it will take Ned 20 * 11 = 220 seconds
+* Ned has already spent 165 seconds running up the stairs
+* So, the remaining time it will take Ned to reach the top floor is 220 - 165 = 55 seconds
+* The time bomb has 72 seconds left on the timer
+* Therefore, when Ned reaches the time bomb, he will have 72 - 55 = 17 seconds to diffuse it.
+
+Answer: 17

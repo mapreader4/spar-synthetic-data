@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. The first plant produced 2 tomatoes.
+2. The second plant produced 2 * 3 = 6 tomatoes, since it produced half as many tomatoes as the first plant.
+3. The third plant produced 6 + 2 = 8 tomatoes.
+
+So, the three plants produced a total of 2 + 6 + 8 = 16 tomatoes.
+
+Answer: 16

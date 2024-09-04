@@ -1,0 +1,13 @@
+We are trying to find the total cost of electricity used by the TV in a week. 
+
+Kim's TV uses 125 watts of electricity per hour. She runs it for 4 hours a day. So the total electricity used in a day is 125 * 4 = 500 watt-hours. 
+
+Now we need to find the total electricity used in a week. There are 7 days in a week. So the total electricity used in a week is 500 * 7 = 3500 watt-hours. 
+
+The electricity cost is 14 cents per kw/h. 1 kw is 1000 watt. So the cost of electricity is 14 cents * 0.001. 
+
+The cost of electricity is 14 * 0.001 = 0.014. 
+
+So the total cost of electricity for the TV is 3500 * 0.014 = 49. 
+
+Answer: 49

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Celine buys 2 laptops at $600 each. So the cost of laptops is 2 * $600 = $1200.
+
+Celine buys 4 smartphones at $400 each. So the cost of smartphones is 4 * $400 = $1600.
+
+The total cost of both laptops and smartphones is $1200 + $1600 = $2800.
+
+Celine has $3000. So she has $3000 - $2800 = $200 left over.
+
+Answer: 200

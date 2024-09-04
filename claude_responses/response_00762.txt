@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lenny bought 20 boxes of pens, and each box contained 5 pens.
+2) So the total number of pens Lenny bought is 20 boxes x 5 pens per box = 100 pens.
+3) Lenny gave 40% of the pens to her close friends. 40% of 100 pens is 0.4 x 100 = 40 pens.
+4) That leaves 100 - 40 = 60 pens remaining.
+5) Lenny then gave one-fourth of the remaining 60 pens to her classmates. One-fourth of 60 is 60 / 4 = 15 pens.
+6) The number of pens left for Lenny is the original 100 pens, minus the 40 pens given to her close friends, minus the 15 pens given to her classmates.
+7) 100 - 40 - 15 = 45 pens.
+
+Answer: 45

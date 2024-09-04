@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Naomi saw 7 regular bikes
+* Each regular bike has 2 wheels
+* So for the 7 regular bikes, the total number of wheels is:
+  * 7 bikes x 2 wheels per bike = 14 wheels
+* Naomi also saw 11 children's bikes
+* Each children's bike has 4 wheels
+* So for the 11 children's bikes, the total number of wheels is:
+  * 11 bikes x 4 wheels per bike = 44 wheels
+* To get the total number of wheels Naomi saw, we add the wheels for the regular bikes and the children's bikes:
+  * 14 wheels + 44 wheels = 58 wheels
+
+Answer: 58

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Lisa has eaten 20 hotdogs in 5 minutes. To find the rate at which she is eating hotdogs, we can divide the number of hotdogs eaten by the time taken:
+
+20 hotdogs / 5 minutes = 4 hotdogs per minute
+
+Step 2: To tie Joey Chestnut's record, Lisa needs to eat 75 hotdogs in 10 minutes. To find the rate at which she needs to eat hotdogs, we can divide the total number of hotdogs by the time:
+
+75 hotdogs / 10 minutes = 7.5 hotdogs per minute
+
+Step 3: To find the number of hotdogs Lisa needs to eat per minute to tie the record, we can subtract the rate at which she is currently eating hotdogs from the rate at which she needs to eat hotdogs:
+
+7.5 - 4 = 3.5 hotdogs per minute
+
+Answer: 3

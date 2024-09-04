@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+First, let's identify the information given: 
+- The teacher wants to find four friends to help her carry some chairs to the school hall.
+- Each student carried 5 chairs per trip.
+- The total number of trips is 10.
+
+To find the total number of chairs taken to the hall, we can multiply the number of chairs carried per trip by the number of trips:
+
+5 chairs per trip * 10 trips = 5 * 10 = 50 chairs
+
+So, the total number of chairs taken to the hall is 50.
+
+Answer: 50

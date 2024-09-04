@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+1. The total cost of an orange and a pear is $120.
+2. The cost of a pear is $90.
+3. We need to find the cost of an orange, which is the difference between the total cost of an orange and a pear and the cost of a pear, which is $120 - $90 = $30.
+
+So, the cost of an orange is $30.
+
+Now, we need to find the total price of buying 200 bananas and twice as many oranges as bananas. 
+
+Let's first find the cost of 200 bananas:
+
+200 bananas * $x, where x is the cost of a banana. Let's call this expression "B".
+
+Now, we know that twice as many oranges as bananas means that the number of bananas is 200 * 2 = 400. So, we need to find the cost of 400 bananas.
+
+Now, we know the cost of 1 banana, which is the cost of an orange, which is $30. So, the cost of 1 banana is $30.
+
+The cost of 400 bananas is 400 * $30 = $12,000.
+
+Now, we need to find the total cost of 200 bananas and twice as many oranges. The cost of 200 bananas is B and the cost of 400 oranges is 12,000. So, the total cost is B + 12,000 = 12,000 + B.
+
+The total cost is 12,000 + B.

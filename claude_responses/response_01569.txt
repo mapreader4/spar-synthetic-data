@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The lake is a square, and each side is 15 miles long.
+2) Jake can row at twice the speed he can swim.
+3) It takes Jake 20 minutes to swim 1 mile.
+4) To find the time it takes to row the lake, we need to first find Jake's swimming speed.
+5) Since it takes him 20 minutes to swim 1 mile, his swimming speed is 1 mile / 0.33 hours = 3 miles per hour.
+6) Since Jake can row at twice the speed he can swim, his rowing speed is 2 * 3 miles per hour = 6 miles per hour.
+7) The total distance around the lake is 4 * 15 miles = 60 miles.
+8) At a speed of 6 miles per hour, it will take Jake 60 miles / 6 miles per hour = 10 hours to row the lake.
+
+Answer: 10 hours

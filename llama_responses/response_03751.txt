@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The monkey swings from branch to branch at an average distance of 1.2 meters per second.
+* The monkey swings consistently for 30 minutes.
+
+To find the total distance, we need to multiply the average distance per second by the time in seconds.
+
+1. Convert the time from minutes to seconds: 30 minutes = 30 * 60 = 1800 seconds
+
+Now, multiply the average distance per second by the time in seconds: 1.2 meters/second * 1800 seconds = 2160 meters
+
+Answer: 2160

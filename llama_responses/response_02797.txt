@@ -1,0 +1,31 @@
+Let's break down the problem step by step.
+
+Let's first calculate the total operation costs. Mr. Haj spends 2/5 of the total operation costs on employees' salaries, and 1/4 of the remaining amount on delivery costs.
+
+Let's find the total operation costs first. Let's call this total operation costs x.
+
+We know that 2/5 of the total operation costs is spent on employees' salaries, so we can write an equation to represent this:
+
+2/5x = employees' salaries
+
+Now, we know that the total operation costs is the sum of employees' salaries and delivery costs. So, we can write an equation to represent the total operation costs:
+
+x = employees' salaries + delivery costs
+
+We know that the total operation costs is $4000, so we can substitute this into the equation:
+
+4000 = employees' salaries + delivery costs
+
+We know that 1/4 of the remaining amount is spent on delivery costs, so we can multiply both sides of the equation by 4:
+
+4000 = 4 * (employees' salaries + delivery costs)
+
+Now, we can simplify the right side of the equation by subtracting employees' salaries from both sides:
+
+4000 = 4 * delivery costs
+
+Now, we can divide both sides of the equation by 4:
+
+4000/4 = delivery costs
+
+So, Mr. Haj pays 1000 for the orders done.

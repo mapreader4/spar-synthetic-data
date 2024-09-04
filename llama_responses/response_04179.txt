@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Sarah's external drive showed 2.4 gigabytes free and 12.6 gigabytes used. So, the total size of the files on the external drive is 2.4 + 12.6 = 14.6 gigabytes.
+
+Sarah decided to delete a folder of size 4.6 gigabytes. So, the remaining space on the external drive will be 14.6 - 4.6 = 10 gigabytes.
+
+Then, she will transfer all her files to a new external drive of size 20 gigabytes. So, the new external drive will have 10 gigabytes of free space and 20 - 10 = 10 gigabytes of used space.
+
+So, the answer is:
+
+Answer: 10

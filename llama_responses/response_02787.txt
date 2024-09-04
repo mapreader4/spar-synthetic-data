@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Remi refills the bottle 3 times a day. So, the total amount of water in the bottle is 20 ounces * 3 = 60 ounces.
+2. The first time, Remi spills 5 ounces, so he drinks 20 - 5 = 15 ounces.
+3. The second time, Remi spills 8 ounces, so he drinks 20 - 8 = 12 ounces.
+4. The remaining 2 times, Remi drinks the whole bottle, which is 20 ounces each time, so he drinks 20 + 20 = 40 ounces.
+5. To find the total amount of water Remi drinks in 7 days, we add the total amount of water he drinks each time: 15 + 12 + 40 = 67 ounces.
+
+Answer: 67

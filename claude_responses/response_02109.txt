@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The mountain range has 200 active volcanoes
+* In the first two months, 20% of the volcanoes exploded
+* To calculate this, we take 20% of 200 volcanoes:
+    * 20% of 200 = 0.2 * 200 = 40 volcanoes exploded in the first two months
+* That leaves 200 - 40 = 160 volcanoes remaining
+* In the next 6 months (half the year), 40% of the remaining 160 volcanoes exploded
+    * 40% of 160 = 0.4 * 160 = 64 volcanoes exploded in the next 6 months
+* That leaves 160 - 64 = 96 volcanoes remaining
+* At the end of the year, another 50% of the remaining 96 volcanoes exploded
+    * 50% of 96 = 0.5 * 96 = 48 volcanoes exploded at the end of the year
+* That leaves 96 - 48 = 48 volcanoes that are still intact at the end of the year
+
+Answer: 48

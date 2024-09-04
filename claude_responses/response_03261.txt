@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Benny is making 10 pumpkin pies that cost $3 each to make
+* He is also making 12 cherry pies that cost $5 each to make
+* He wants to make a total profit of $20 selling all the pies
+* Both kinds of pies will be sold at the same price
+
+First, let's calculate the total cost of making all the pies:
+* 10 pumpkin pies at $3 each = $30
+* 12 cherry pies at $5 each = $60
+* Total cost = $30 + $60 = $90
+
+Now, to make a profit of $20, Benny needs to sell all the pies for a total of $90 + $20 = $110.
+
+To find the price he needs to charge for each pie, we divide the total sale price ($110) by the total number of pies (10 + 12 = 22):
+* Price per pie = $110 / 22 = $5
+
+Therefore, Benny needs to charge $5 per pie if both kinds sell at the same price.
+
+Answer: $5

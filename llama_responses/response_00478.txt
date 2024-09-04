@@ -1,0 +1,13 @@
+Let's start by identifying the information given: 
+
+1. Stan weighs 5 pounds more than Steve.
+2. Steve is 8 pounds lighter than Jim.
+3. Jim weighs 110 pounds.
+
+We can start by using the second statement to find the weight of Steve. Since Steve is 8 pounds lighter than Jim, and Jim weighs 110 pounds, Steve must weigh 110 - 8 = 102 pounds.
+
+Now, we know that Stan weighs 5 pounds more than Steve. So, Stan's weight is 102 + 5 = 107 pounds.
+
+The total weight of the three of them is the sum of their individual weights: 110 (Jim) + 102 (Steve) + 107 (Stan) = 319 pounds.
+
+Answer: 319

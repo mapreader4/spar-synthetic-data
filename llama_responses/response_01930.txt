@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+For the first 30 minutes, the water pressure flows at a rate of 2 cups per 10 minutes. So, in 30 minutes, the total amount of water that flows is:
+
+30 minutes * (2 cups per 10 minutes) = 30 cups
+
+For the next 30 minutes, the water pressure flows at the same rate of 2 cups per 10 minutes. So, the total amount of water that flows is:
+
+30 minutes * (2 cups per 10 minutes) = 30 cups
+
+In total, the total amount of water that flows in the first hour is:
+
+30 cups + 30 cups = 60 cups
+
+After dumping half of the water away, Shawn is left with:
+
+60 cups / 2 = 30 cups
+
+Answer: 30

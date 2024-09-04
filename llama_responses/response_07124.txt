@@ -1,0 +1,9 @@
+To solve this problem, I will first calculate the new prices of the orange and mango.
+
+The price of an orange was $40 and the price of a mango was $50. The new prices are 15% more than the original prices, so the new price of an orange is 40 * 1.15 = 46 and the new price of a mango is 50 * 1.15 = 57.5.
+
+To buy ten oranges and ten mangoes, the total cost would be:
+
+10 * 46 + 10 * 57.5 = 460 + 575 = 1035
+
+Answer: 1035

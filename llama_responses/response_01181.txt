@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of hours they worked.
+
+On the first day, they worked 10 hours.
+On the second day, they worked 8 hours.
+On the third day, they worked 15 hours.
+
+The total number of hours worked is 10 + 8 + 15 = 33 hours.
+
+Now, Mr. Fletcher paid each of them $10 per hour. So, we need to multiply the total number of hours by the hourly wage.
+
+33 hours * $10 per hour = 33 * 10 = $330.
+
+So, the total amount of money they received altogether is $330.

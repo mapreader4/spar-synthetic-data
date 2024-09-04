@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The town square is 3/4 of a mile long
+* The winner ran around the town square 7 times
+* So the total distance of the race is 7 * 3/4 = 21/4 = 5.25 miles
+* This year's winner finished the race in 42 minutes
+* Last year's winner finished the race in 47.25 minutes
+* To find the average time difference per mile, we need to calculate the time difference between the two winners and divide it by the total distance:
+* Time difference = 47.25 minutes - 42 minutes = 5.25 minutes
+* Average time difference per mile = 5.25 minutes / 5.25 miles = 1 minute
+
+Answer: 1

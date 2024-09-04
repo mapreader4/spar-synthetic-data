@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The total distance from Cincinnati to New York City is 70 miles.
+* On the first day, Richard walked 20 miles.
+* On the second day, he walked 6 miles less than half as much as he walked the first day.
+* To calculate the distance walked on the second day:
+    - Half of the first day's distance is 20 / 2 = 10 miles
+    - 6 miles less than that is 10 - 6 = 4 miles
+* On the third day, Richard walked 10 miles.
+* So the total distance walked so far is:
+    - Day 1: 20 miles
+    - Day 2: 4 miles
+    - Day 3: 10 miles
+    - Total: 20 + 4 + 10 = 34 miles
+* The remaining distance to New York City is 70 miles - 34 miles = 36 miles.
+
+Answer: 36

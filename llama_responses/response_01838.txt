@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of blocks of each color:
+
+* Red blocks: Let's say the number of red blocks is R.
+* Yellow blocks: There are 7 more yellow blocks than red blocks, so the number of yellow blocks is R + 7.
+* Blue blocks: There are 14 more blue blocks than red blocks, so the number of blue blocks is R + 14.
+
+Now, we can find the total number of blocks by adding the number of blocks of each color together:
+
+R (red blocks) + (R + 7) (yellow blocks) + (R + 14) (blue blocks)
+
+To solve for R, we can add the 3 expressions together:
+
+R + (R + 7) + (R + 14) = 18 + 7 + 14
+
+Combine like terms:
+
+18 + 7 + 14 = 39
+
+Answer: 39

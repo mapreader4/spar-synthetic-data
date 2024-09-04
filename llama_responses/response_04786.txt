@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how many eggs are needed for 5 chocolate cakes. Each cake requires 3 eggs. So for 5 cakes, it would be 5 x 3 = 15 eggs.
+
+Next, let's find out how many eggs are needed for 9 cheesecakes. Each cheesecake requires 8 eggs. So for 9 cheesecakes, it would be 9 x 8 = 72 eggs.
+
+Now, let's find out the difference in the number of eggs needed for cheesecakes and chocolate cakes. 72 - 15 = 57.
+
+Answer: 57

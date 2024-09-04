@@ -1,0 +1,12 @@
+To find the number of books Karson has to buy, we can set up a proportion to solve the problem. We know that the capacity of his library is 400 books and he currently has 120 books, so the fraction of the library that is full is 120/400 = 0.3. To find the number of books he needs to buy to make his library 90% full, we can set up the proportion as follows:
+
+Let x be the number of books he needs to buy. The fraction 120/400 is 0.3, so the fraction 120 + x / 400 should also be 0.9. We can solve for x by multiplying both sides of the equation by 1000:
+
+120 + x = 0.9(400)
+
+To solve for x, we subtract 120 from both sides of the equation:
+
+x = 0.9(400) - 120
+x = 360
+
+Answer: 360

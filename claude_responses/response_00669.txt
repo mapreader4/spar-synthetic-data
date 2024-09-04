@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+1) Bella has 60 marbles.
+2) She has two times as many marbles as frisbees. So, if she has 60 marbles, she must have 30 frisbees (60 / 2 = 30).
+3) She has 20 more frisbees than deck cards. So, if she has 30 frisbees, she must have 10 deck cards (30 - 20 = 10).
+4) Bella buys 2/5 times more of each item. 
+   - For marbles, she buys 2/5 times 60, which is 24 more marbles. So, she will have 60 + 24 = 84 marbles.
+   - For frisbees, she buys 2/5 times 30, which is 12 more frisbees. So, she will have 30 + 12 = 42 frisbees.
+   - For deck cards, she buys 2/5 times 10, which is 4 more deck cards. So, she will have 10 + 4 = 14 deck cards.
+5) The total number of items she will have is the sum of the marbles, frisbees, and deck cards:
+   - Total = 84 + 42 + 14 = 140
+
+Answer: 140

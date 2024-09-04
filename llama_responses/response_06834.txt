@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+In January, Sara sent 6 letters.
+In February, Sara sent 9 letters.
+In March, Sara sent 3 times the number of letters she sent in January, which is 6 * 3 = 18.
+
+To find the total number of letters Sara sent, we add the number of letters she sent in January and March together: 6 + 18 = 24.
+
+Answer: 24

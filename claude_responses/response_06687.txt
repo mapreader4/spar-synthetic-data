@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John pays with a $20 bill
+* He buys 3 sodas
+* He gets $14 in change
+
+To find the cost of each soda, we need to first find the total cost of the 3 sodas.
+
+* Total cost of the 3 sodas = $20 (the amount John paid) - $14 (the change he received)
+* Total cost of the 3 sodas = $6
+
+Now, to find the cost of each soda, we divide the total cost by the number of sodas:
+* Cost of each soda = $6 / 3 = $2
+
+Answer: $2

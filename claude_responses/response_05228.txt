@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) There are 42 apples in each crate.
+2) 12 crates of apples were delivered to the factory.
+3) To find the total number of apples delivered, we multiply the number of apples per crate (42) by the number of crates (12):
+42 apples per crate x 12 crates = 504 total apples delivered.
+4) 4 apples were rotten and had to be thrown away, so the number of good apples is 504 - 4 = 500 apples.
+5) The boxes can fit 10 apples each.
+6) To find the number of boxes, we divide the total number of good apples (500) by the number of apples per box (10):
+500 apples / 10 apples per box = 50 boxes.
+
+Answer: 50

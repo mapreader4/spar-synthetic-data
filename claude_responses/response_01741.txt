@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The farmer has 3 trucks
+* Each truck has 3 tanks
+* Each tank has a capacity of 150 liters of water
+
+To calculate the total water capacity, we need to:
+1. Calculate the total capacity of each truck
+2. Multiply the total capacity of each truck by the number of trucks
+
+Step 1: Calculating the total capacity of each truck
+* Each truck has 3 tanks
+* Each tank has a capacity of 150 liters
+* So the total capacity of each truck is 3 x 150 = 450 liters
+
+Step 2: Calculating the total water capacity of all 3 trucks
+* There are 3 trucks
+* Each truck has a capacity of 450 liters
+* So the total water capacity of all 3 trucks is 3 x 450 = 1,350 liters
+
+Answer: 1,350 liters

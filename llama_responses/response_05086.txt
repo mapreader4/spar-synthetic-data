@@ -1,0 +1,32 @@
+Let's break this down step by step.
+
+First, the normal cost of the ticket and food combo would be:
+
+Ticket: $10
+Food combo: $10
+Total: $20
+
+Now, let's calculate the discount on the ticket:
+
+20% off on the ticket would be:
+$10 * 0.20 = $2
+So, the discount on the ticket would be $2.
+
+And, let's calculate the discount on the food combo:
+
+50% off on the food combo would be:
+$10 * 0.50 = $5
+So, the discount on the food combo would be $5.
+
+Now, let's add the discounts:
+
+Discount on ticket: $2
+Discount on food combo: $5
+Total discount: $2 + $5 = $7
+
+The total discount Trip could get would be $7.
+
+So, the final cost would be:
+$20 (original cost) - $7 (discount) = $13
+
+Answer: 7

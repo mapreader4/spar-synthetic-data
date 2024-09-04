@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem. We know that Ali uses 8 boxes to make each circle and Ernie uses 10 boxes to make each circle. We are given that Ali makes 5 circles. We are also given that they started with 80 boxes.
+
+To find the number of circles Ernie can make, we can use the information about Ali. Since Ali makes 5 circles, and he uses 8 boxes per circle, he uses a total of 5 x 8 = 40 boxes. Since they started with 80 boxes, that means they have 80 - 40 = 40 boxes left.
+
+Since Ernie uses 10 boxes per circle, we can divide 40 boxes by 10 to find out how many circles he can make. 40 ÷ 10 = 4.
+
+Answer: 4

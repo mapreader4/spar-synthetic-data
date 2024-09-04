@@ -1,0 +1,11 @@
+To calculate the average temperature for July 4th in Washington, DC over the past 5 years, we need to:
+
+1. Add up all the temperatures:
+   90 + 90 + 90 + 79 + 71 = 420
+
+2. Divide the total by the number of years, which is 5:
+   420 / 5 = 84
+
+Therefore, the average temperature for July 4th in Washington, DC over the past 5 years is:
+
+Answer: 84 degrees

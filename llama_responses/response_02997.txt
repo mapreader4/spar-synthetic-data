@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of hours Lila watched.
+
+Since Lila watched the video at two times the average speed, she watched it for 2 x 100 hours, which is 200 hours.
+
+Now, let's find the total number of hours Roger watched.
+
+Since Roger watched the video at the average speed, he watched it for 100 hours.
+
+Now, we need to find the total number of hours they both watched.
+
+Lila watched 200 hours, and Roger watched 100 hours. To find the total, we add those hours together:
+
+200 + 100 = 300
+
+So, the total number of hours they both watched is 300.
+
+Answer: 300

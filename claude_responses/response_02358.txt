@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* A pencil costs $0.5 each
+* The office needs 2 dozen pencils, which is 24 pencils
+* So the cost of the pencils is 24 * $0.5 = $12
+* A folder costs $0.9 each
+* The office needs 20 folders
+* So the cost of the folders is 20 * $0.9 = $18
+* To find the total cost, we add the cost of the pencils and the cost of the folders:
+* $12 + $18 = $30
+
+Answer: 30

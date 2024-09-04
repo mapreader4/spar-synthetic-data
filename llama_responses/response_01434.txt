@@ -1,0 +1,12 @@
+Let's break down the number of games played in each round:
+
+1. First round: 8 games
+2. Second round: 4 games
+3. Third round: 2 games
+4. Finals: 1 game
+
+The total number of games played is the sum of these: 8 + 4 + 2 + 1 = 15 games.
+
+Each game requires 5 cans of tennis balls, and each can has 3 tennis balls. So, the total number of tennis balls used is 15 games * 5 cans * 3 balls per can = 15 * 5 * 3 = 225 balls.
+
+Answer: 225

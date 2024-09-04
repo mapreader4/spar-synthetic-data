@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the area of the square with 2-inch sides. The area of a square with 2-inch sides is 2 * 2 = 4 square inches.
+
+Now, we need to find the area of the triangle. The area of a right triangle with a height of 2 inches and a base of 2 inches is half the base times the height, so it is 2 * 2 = 4 square inches.
+
+Since the area of the triangle is equal to the area of the square, the triangle could fit inside the square.

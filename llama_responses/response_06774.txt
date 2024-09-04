@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of cars that cost less than $15000. Since 15% of the cars cost less than $15000, we can set up an equation:
+
+15% of 3000 cars cost less than $15000.
+
+Let's find 15% of 3000:
+
+15% of 3000 = 0.15 x 3000 = 450
+
+So, 450 cars cost less than $15000.
+
+Now, let's identify the number of cars that cost more than $20000. Since 40% of the cars cost more than $20000, we can set up an equation:
+
+40% of 3000 cars cost more than $20000.
+
+Let's find 40% of 3000:
+
+40% of 3000 = 0.4 x 3000 = 1200
+
+So, 1200 cars cost more than $20000.
+
+Now, let's find the number of cars that cost between $15000 and $20000. To find this out, we can add the number of cars that cost less than $15000 and the number of cars that cost more than $20000:
+
+450 + 1200 = 1650
+
+Answer: 1650

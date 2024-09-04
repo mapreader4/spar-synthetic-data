@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding the total amount the farmer earned from selling the ducks and chickens. Since the farmer sells 5 chickens for $8 each, he earned 5 x 8 = 40 dollars from the chickens. Since the farmer sells ducks for $10 each, he earned 1 duck = 10 dollars. So the total amount the farmer earned is 40 + 10 = 50 dollars.
+
+Then, the farmer spends half of his earnings on a new wheelbarrow. Half of 50 dollars is 25 dollars. Then, someone sees the wheelbarrow and agrees to pay the farmer double what the farmer paid, which is 2 x 25 = 50 dollars. The farmer then earns 50 dollars more.
+
+So, the farmer's new total earnings are 50 + 50 = 100 dollars.
+
+The problem asks how many ducks the farmer sold. Since the farmer earned 50 dollars in total, we know that the 10 dollars for each duck is from the ducks. So, the number of ducks the farmer sold is 50 / 10 = 5.
+
+Answer: 5

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 3 workers in the factory.
+2) Each worker produces 4 chairs per hour.
+3) So in 1 hour, the 3 workers together produce 3 * 4 = 12 chairs.
+4) In addition, the group produces an extra chair every 6 hours.
+5) In 6 hours, the 3 workers would produce 12 * 6 = 72 chairs.
+6) And the group would produce an additional 1 chair.
+7) Therefore, the total number of chairs produced after 6 hours is 72 + 1 = 73.
+
+Answer: 73

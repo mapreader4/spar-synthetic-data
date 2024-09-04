@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the total cost of the items they ordered.
+
+A cheeseburger is $3, a milkshake is $5, and cheese fries are $8, so the total cost is 3 + 5 + 8 = 16.
+
+Since they spent 80% of their combined money, that means they spent 0.8 * 20 = 16 on their order. Since Jim and his cousin each paid half of the total cost, they each paid 16 / 2 = 8.
+
+Since Jim brought 20, he must have brought 20 - 8 = 12. So, the answer is:
+
+Answer: 12

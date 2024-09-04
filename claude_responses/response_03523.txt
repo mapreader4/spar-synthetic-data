@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There were 200 students in Dana's senior high school class.
+2) 60% of the students were female. To calculate the number of female students, we take 60% of 200:
+   * 60% of 200 = 0.6 * 200 = 120 female students
+3) 50% of the females were brunettes. To calculate the number of female brunettes, we take 50% of 120:
+   * 50% of 120 = 0.5 * 120 = 60 female brunettes
+4) 50% of the female brunettes were under 5 feet tall. To calculate the number of female brunettes under 5 feet tall, we take 50% of 60:
+   * 50% of 60 = 0.5 * 60 = 30 female brunettes under 5 feet tall
+
+Answer: 30

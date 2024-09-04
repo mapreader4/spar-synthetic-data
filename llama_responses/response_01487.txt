@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by calculating the number of eggs laid by the original 10 hens in 10 days. Since each hen lays 80 eggs in 10 days, we can find the number of eggs laid per day by dividing 80 by 10:
+
+80 ÷ 10 = 8 eggs per day
+
+Now, since Martin bought 15 more hens, the total number of hens is now 10 + 15 = 25.
+
+We need to find the number of eggs laid by all hens in 15 days. Since each hen lays 8 eggs per day, we can multiply the number of hens by the number of days:
+
+25 hens * 15 days = 25 * 15 = 375
+
+Answer: 375

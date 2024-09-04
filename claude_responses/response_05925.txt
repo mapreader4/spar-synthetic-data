@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* New York had 2000 confirmed cases
+* California had half the number of cases as New York
+* To find the number of cases in California:
+    - New York had 2000 cases
+    - California had half the number of cases as New York
+    - So, California had 2000 / 2 = 1000 cases
+* Texas had 400 fewer cases than California
+* To find the number of cases in Texas:
+    - California had 1000 cases
+    - Texas had 400 fewer cases than California
+    - So, Texas had 1000 - 400 = 600 cases
+* To find the total number of cases in all three states:
+    - New York had 2000 cases
+    - California had 1000 cases
+    - Texas had 600 cases
+    - Total cases = 2000 + 1000 + 600 = 3600 cases
+
+Answer: 3600

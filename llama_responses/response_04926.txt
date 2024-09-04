@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Heath planted 400 rows of carrots.
+* Each row has 300 plants.
+* It took him 20 hours to get the planting done.
+
+To find the number of carrots planted per hour, we need to find the total number of carrots planted and then divide that by the number of hours it took to plant them.
+
+First, let's find the total number of carrots planted:
+
+400 rows x 300 plants per row = 120,000 carrots
+
+Now, let's find the number of carrots planted per hour:
+
+120,000 carrots / 20 hours = 6,000 carrots per hour
+
+Answer: 6,000

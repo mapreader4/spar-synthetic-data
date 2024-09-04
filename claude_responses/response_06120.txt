@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The total number of students in the class is 200.
+2) 30% of the students like the color blue. To calculate the number of students who like the color blue, we take 30% of 200:
+   * 30% of 200 = 0.3 * 200 = 60 students
+3) Now, we need to find the number of students who don't like the color blue. We can do this by subtracting the number of students who like blue from the total number of students:
+   * 200 - 60 = 140 students
+4) Among the 140 students who don't like the color blue, 40% like the color red. To calculate the number of students who like the color red, we take 40% of 140:
+   * 40% of 140 = 0.4 * 140 = 56 students
+5) The remaining students who don't like the color blue or red must like the color yellow. We can calculate this by subtracting the number of students who like red from the number of students who don't like blue:
+   * 140 - 56 = 84 students
+
+Answer: 144 (60 students who like the color blue + 84 students who like the color yellow)

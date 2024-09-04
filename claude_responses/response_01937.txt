@@ -1,0 +1,33 @@
+Okay, let's break this down step-by-step:
+
+On Friday:
+* Hank started with an unknown number of bicycles in stock
+* He sold 10 bicycles
+* He bought 15 more bicycles
+
+So, the net change in the number of bicycles in stock on Friday is:
+* 15 (bought) - 10 (sold) = 5 more bicycles
+
+On Saturday:
+* Hank had the number of bicycles from Friday, plus the 5 more he added
+* He sold 12 bicycles
+* He bought 8 more bicycles
+
+So, the net change in the number of bicycles in stock on Saturday is:
+* 8 (bought) - 12 (sold) = 4 fewer bicycles
+
+On Sunday:
+* Hank had the number of bicycles from Saturday, minus the 4 he lost
+* He sold 9 bicycles
+* He bought 11 more bicycles
+
+So, the net change in the number of bicycles in stock on Sunday is:
+* 11 (bought) - 9 (sold) = 2 more bicycles
+
+To calculate the net increase over the three days:
+* Friday: +5 bicycles
+* Saturday: -4 bicycles
+* Sunday: +2 bicycles
+* Total net increase: 5 - 4 + 2 = 3 bicycles
+
+Answer: 3

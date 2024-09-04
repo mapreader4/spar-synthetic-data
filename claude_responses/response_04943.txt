@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Juan needs 10 half-gallons of milk to bake 40 cookies
+* This means that for every 4 cookies, Juan needs 1 half-gallon of milk
+* To bake 200 dozen cookies, we need to find how many individual cookies that is
+* 1 dozen = 12 cookies
+* 200 dozen = 200 * 12 = 2,400 cookies
+* Since Juan needs 1 half-gallon of milk for every 4 cookies, we can divide the total number of cookies (2,400) by 4 to find the total number of half-gallons of milk needed
+* 2,400 / 4 = 600 half-gallons of milk
+
+Answer: 600

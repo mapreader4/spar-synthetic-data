@@ -1,0 +1,12 @@
+Let's break it down step by step:
+
+Let's first find the total number of words Vinnie wrote.
+
+Vinnie wrote 450 words on Saturday.
+Vinnie wrote 650 words on Sunday.
+
+To find the total number of words Vinnie wrote, we add the two numbers: 450 + 650 = 1100.
+
+Since the limit is 1000 words, Vinnie has exceeded the limit by 100 words.
+
+Answer: 100

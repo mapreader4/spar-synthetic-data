@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* James has 5 huskies, 2 pitbulls, and 4 golden retrievers, all female
+* The golden retrievers had 2 more pups than each husky
+* The huskies and pitbulls had 3 pups each
+
+First, let's calculate the number of pups:
+* Huskies: 5 huskies x 3 pups each = 15 pups
+* Pitbulls: 2 pitbulls x 3 pups each = 6 pups
+* Golden Retrievers: 4 golden retrievers x (3 pups + 2 more) = 4 x 5 = 20 pups
+
+Now, let's calculate the total number of pups:
+* Total pups = 15 + 6 + 20 = 41 pups
+
+Next, let's calculate the total number of adult dogs:
+* 5 huskies + 2 pitbulls + 4 golden retrievers = 11 adult dogs
+
+Finally, let's calculate the difference between the number of pups and adult dogs:
+* 41 pups - 11 adult dogs = 30 more pups than adult dogs
+
+Answer: 30

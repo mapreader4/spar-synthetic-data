@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Omar starts with 12 ounces of coffee.
+
+He drinks one-quarter of the cup on the way to work, which is 12 * 1/4 = 3 ounces.
+
+So, he has 12 - 3 = 9 ounces left.
+
+When he gets to his office, he drinks another half of the cup, which is 9 * 1/2 = 4.5 ounces.
+
+So, he has 9 - 4.5 = 4.5 ounces left.
+
+When he remembers his coffee, he only drinks 1 ounce of the remaining amount because it is cold.
+
+So, he drinks 4.5 - 1 = 3.5 ounces.
+
+Answer: 3.5

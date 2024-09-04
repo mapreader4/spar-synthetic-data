@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* John buys 5 notebooks
+* Each notebook has 40 pages
+* So the total number of pages in the 5 notebooks is 5 * 40 = 200 pages
+* John uses 4 pages per day
+* To find how many days the notebooks last, we divide the total number of pages by the number of pages used per day:
+* 200 pages / 4 pages per day = 50 days
+
+Answer: 50

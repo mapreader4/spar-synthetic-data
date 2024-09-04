@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Brian has 22 pairs of shoes
+* Edward has 3 times the number of shoes that Brian has
+* So, Edward has 3 x 22 = 66 pairs of shoes
+* Jacob has half the number of shoes that Edward has
+* So, Jacob has 66 / 2 = 33 pairs of shoes
+* Now, to find the total number of pairs of shoes they have, we add up the number of pairs of shoes for each person:
+* Brian: 22 pairs
+* Edward: 66 pairs
+* Jacob: 33 pairs
+* Total: 22 + 66 + 33 = 121 pairs of shoes
+
+Answer: 121

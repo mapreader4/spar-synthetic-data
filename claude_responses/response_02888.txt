@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+
+1. Chlorine:
+   - Original price of 1 liter of chlorine: $10
+   - Discount on chlorine: 20% off
+   - Discounted price of 1 liter of chlorine: $10 - (20% of $10) = $10 - $2 = $8
+   - Cost of 3 liters of chlorine: 3 x $8 = $24
+
+2. Soap:
+   - Original price of 1 box of soap: $16
+   - Discount on soap: 25% off
+   - Discounted price of 1 box of soap: $16 - (25% of $16) = $16 - $4 = $12
+   - Cost of 5 boxes of soap: 5 x $12 = $60
+
+3. Total cost without discounts:
+   - 3 liters of chlorine: $30
+   - 5 boxes of soap: $80
+   - Total: $30 + $80 = $110
+
+4. Total cost with discounts:
+   - 3 liters of chlorine: $24
+   - 5 boxes of soap: $60
+   - Total: $24 + $60 = $84
+
+5. Amount saved:
+   - Total cost without discounts: $110
+   - Total cost with discounts: $84
+   - Amount saved: $110 - $84 = $26
+
+Answer: $26

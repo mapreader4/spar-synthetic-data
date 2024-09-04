@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* We know that for every 1 year a human ages, a dog ages 7 years.
+* Max is 3 years old.
+* Max's dog is also 3 years old.
+* To find how much older, in dog years, Max's dog will be, we need to calculate the difference in dog years between Max and his dog.
+* Since Max is 3 years old, in dog years he would be 3 * 7 = 21 years old.
+* Since Max's dog is also 3 years old, in dog years it would be 3 * 7 = 21 years old.
+* The difference in dog years between Max and his dog is 21 - 21 = 0 years.
+
+Answer: 0

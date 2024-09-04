@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Luke takes a bus to the town center
+* He then walks for 15 minutes to the train center
+* He waits twice as long for the train to arrive, which means he waits for 30 minutes
+* He then takes a 6-hour train ride to London
+* The entire trip takes him 8 hours
+
+To find the duration of the bus ride, we need to subtract the other parts of the trip from the total time of 8 hours.
+
+The time spent on the other parts of the trip is:
+* Walking to the train center: 15 minutes
+* Waiting for the train: 30 minutes
+* Train ride to London: 6 hours
+
+Adding these up, we get:
+* 15 minutes + 30 minutes + 6 hours = 6 hours and 45 minutes
+
+Now, we subtract this from the total time of 8 hours:
+* 8 hours - 6 hours and 45 minutes = 1 hour and 15 minutes
+
+Therefore, the duration of the bus ride is 1 hour and 15 minutes, which is 75 minutes.
+
+Answer: 75

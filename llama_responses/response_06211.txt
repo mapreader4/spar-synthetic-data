@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. The tree is casting a shadow of 10 meters. This means that the distance from the base of the tree to the point where the shadow meets the ground is 10 meters.
+
+2. The distance from the base of the tree to the point where Jane's shadow meets the ground is the sum of the distance from the base of the tree to the ground and the distance from Jane to the ground. This distance is 1.5 meters, because Jane is 1.5 meters tall.
+
+3. The distance from the base of the tree to the point where Jane's shadow meets the ground is the sum of the distance from the base of the tree to the ground and the distance from Jane to the ground. So, we have:
+
+10 (distance from base of tree to point where shadow meets ground) = 10 + 1.5 = 11.5
+
+So, the tree is 11.5 meters tall.
+
+Answer: 11.5

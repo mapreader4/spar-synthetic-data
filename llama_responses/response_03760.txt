@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by finding out how many cookies Jake baked. Since Jake baked twice as many cookies as Clementine, and Clementine baked 72 cookies, Jake baked 72 x 2 = 144 cookies.
+
+Now, let's find out how many cookies Tory baked. Tory baked half as many cookies as Jake and Clementine combined. So, we need to find half of 72 + 144. 72 + 144 is 216, and half of 216 is 108. So, Tory baked 108 cookies.
+
+Now, let's find the total number of cookies baked by all three of them. 72 + 144 + 108 is 324 cookies.
+
+They sell their cookies for $2 each. To find the total money they make, we need to multiply the number of cookies by the price per cookie. 324 cookies * 2 is 648.
+
+Answer: 648

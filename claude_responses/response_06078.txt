@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On the first day, Cyrus wrote 25 pages
+* On the second day, he wrote twice the amount he did on the first day, which is 2 * 25 = 50 pages
+* On the third day, he wrote twice the amount he did on the second day, which is 2 * 50 = 100 pages
+* On the fourth day, he wrote 10 pages
+
+Now, let's calculate the total number of pages he has written so far:
+* Total pages written = 25 + 50 + 100 + 10 = 185 pages
+
+The book needs to be 500 pages, so we can calculate the number of pages he still needs to write:
+* Pages remaining = 500 - 185 = 315 pages
+
+Answer: 315

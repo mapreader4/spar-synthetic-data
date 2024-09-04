@@ -1,0 +1,13 @@
+Let's solve this problem step by step.
+
+Step 1: We know that the number of onions is 985.
+
+Step 2: We know that the number of tomatoes is 2073.
+
+Step 3: We know that the number of cobs of corn is 4112.
+
+Step 4: To find the total number of tomatoes and corn, we add the number of tomatoes and cobs of corn: 2073 + 4112 = 6185.
+
+Step 5: To find the number of onions grown that is fewer than the total number of tomatoes and corn, we subtract the number of onions from the total: 985 - 6185 = -6192.
+
+Answer: -6192

@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total number of animals at the farm.
+
+There are 26 chickens and 40 piglets. To find the total number of animals, we add them together: 26 + 40 = 66.
+
+Then, there are 34 goats.
+
+Now, half of all the animals get sick. Half of 66 is 33, and half of 34 is 17. So, 33 + 17 = 50.
+
+So, 50 animals get sick.

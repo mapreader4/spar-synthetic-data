@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The school bought 20 cartons of pencils.
+   - Each carton of pencils has 10 boxes.
+   - Each box of pencils costs $2.
+   - So, the total cost of the pencils is:
+     20 cartons x 10 boxes per carton x $2 per box = $400
+
+2. The school also bought 10 cartons of markers.
+   - Each carton of markers has 5 boxes.
+   - Each box of markers costs $4.
+   - So, the total cost of the markers is:
+     10 cartons x 5 boxes per carton x $4 per box = $200
+
+3. To find the total amount the school spent, we add the cost of the pencils and the cost of the markers:
+   $400 + $200 = $600
+
+Answer: 600

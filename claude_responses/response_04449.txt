@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+
+1. Ahmed has 8 orange trees.
+2. Ahmed has four times as many apple trees as Hassan.
+3. Hassan has one apple tree and two orange trees.
+
+To find the number of trees in Ahmed's orchard, we need to find the number of apple trees he has.
+* Since Hassan has one apple tree, and Ahmed has four times as many, Ahmed has 4 x 1 = 4 apple trees.
+* So, the total number of trees in Ahmed's orchard is 8 orange trees + 4 apple trees = 12 trees.
+
+To find the number of trees in Hassan's orchard, we know he has one apple tree and two orange trees.
+* The total number of trees in Hassan's orchard is 1 apple tree + 2 orange trees = 3 trees.
+
+Now, to find the difference between the number of trees in Ahmed's orchard and Hassan's orchard, we subtract:
+* 12 trees (Ahmed's orchard) - 3 trees (Hassan's orchard) = 9 more trees in Ahmed's orchard.
+
+Answer: 9

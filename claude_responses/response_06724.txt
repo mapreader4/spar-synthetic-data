@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The first 3 baskets contain:
+  - 9 apples
+  - 15 oranges
+  - 14 bananas
+* The fourth basket contains:
+  - 9 - 2 = 7 apples
+  - 15 - 2 = 13 oranges
+  - 14 - 2 = 12 bananas
+* To find the total number of fruits, we add up the fruits in all 4 baskets:
+  - Apples: 9 + 9 + 9 + 7 = 34
+  - Oranges: 15 + 15 + 15 + 13 = 58
+  - Bananas: 14 + 14 + 14 + 12 = 54
+* The total number of fruits is the sum of the apples, oranges, and bananas:
+  - 34 + 58 + 54 = 146
+
+Answer: 146

@@ -1,0 +1,23 @@
+Okay, let's solve this step-by-step:
+
+1. Calculate the total cost of the flowers before the discount:
+   * 5 pansies at $2.50 each = $12.50
+   * 1 hydrangea at $12.50 = $12.50
+   * 5 petunias at $1.00 each = $5.00
+   * Total cost before discount = $12.50 + $12.50 + $5.00 = $30.00
+
+2. Calculate the discount amount:
+   * The garden center is offering a 10% discount on all purchases
+   * 10% of $30.00 = 0.10 x $30.00 = $3.00
+
+3. Calculate the total cost after the discount:
+   * Total cost before discount = $30.00
+   * Discount amount = $3.00
+   * Total cost after discount = $30.00 - $3.00 = $27.00
+
+4. Calculate the change Simon would receive:
+   * Simon paid with a $50 bill
+   * Total cost after discount = $27.00
+   * Change = $50.00 - $27.00 = $23.00
+
+Answer: $23.00

@@ -1,0 +1,19 @@
+To find the total amount of money Tyrone has, I will first find the value of each type of coin or bill, then add them together.
+
+The value of the two $1 bills is 2 x 1 = 2 dollars.
+
+The value of the $5 bill is 5 dollars.
+
+The value of the 13 quarters is 13 x 0.25 = 3.25 dollars.
+
+The value of the 20 dimes is 20 x 0.10 = 2.00 dollars.
+
+The value of the 8 nickels is 8 x 0.05 = 0.40 dollars.
+
+The value of the 35 pennies is 35 x 0.01 = 0.35 dollars.
+
+Adding all these values together, I get:
+
+2 + 5 + 3.25 + 2 + 0.40 + 0.35 = 8.65
+
+So, Tyrone has a total of 8.65 dollars.

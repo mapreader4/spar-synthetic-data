@@ -1,0 +1,14 @@
+Let's break down the information given:
+
+* There are 105 flowers in total.
+* There are twice as many red flowers as orange flowers.
+* There are 5 fewer yellow flowers than red flowers.
+* There are 10 orange flowers.
+
+Let's start by identifying the number of red flowers. Since there are twice as many red flowers as orange flowers, and there are 10 orange flowers, the number of red flowers is 10 * 2 = 20.
+
+Now, let's find the number of yellow flowers. There are 5 fewer yellow flowers than red flowers, so the number of yellow flowers is 20 - 5 = 15.
+
+The total number of flowers is 105. The number of red flowers is 20, the number of orange flowers is 10, and the number of yellow flowers is 15. Let's find the number of pink and purple flowers. We know that the number of pink and purple flowers is the same, and the total number of flowers is 105. So, the number of pink and purple flowers is 105 - 20 - 10 - 15 = 60.
+
+Answer: 60

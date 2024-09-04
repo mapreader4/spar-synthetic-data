@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Anya washes 32 hairs down the drain when she washes her hair
+* She brushes out half that amount when she brushes it
+* To find how many hairs she brushed out, we take half of 32, which is 16
+* So, in total, Anya lost 32 + 16 = 48 hairs
+* To always have one more hair than she started with, she needs to grow back 49 hairs
+
+Answer: 49

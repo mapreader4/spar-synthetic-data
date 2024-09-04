@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's first find the total cost of the 2 chairs. Since each chair cost the same amount, we can call this amount x. So, the total cost of the 2 chairs is 2x.
+
+The total amount Nadine spent is $56. The total cost of the table is $34. So, we can set up an equation to represent this:
+
+56 = 34 + 2x
+
+Now, we can solve for x.
+
+x = (56 - 34) / 2
+x = 11
+
+So, one chair cost 11 dollars.

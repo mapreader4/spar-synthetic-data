@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+1. Each worker produces 4 chairs per hour.
+2. There are 3 workers, so the total number of chairs produced per hour is 3 x 4 = 12 chairs.
+3. In 6 hours, they produce an additional chair.
+4. So, the total number of chairs produced in 6 hours is 12 * 6 = 72 chairs.
+5. So, the answer is: Answer: 72.

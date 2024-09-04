@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Wynter saw 50 bicycles at the bike shop
+* Each bicycle has 2 wheels
+* So, the total number of wheels for the bicycles is:
+  * 50 bicycles x 2 wheels per bicycle = 100 wheels
+* Wynter also saw 20 tricycles at the bike shop
+* Each tricycle has 3 wheels
+* So, the total number of wheels for the tricycles is:
+  * 20 tricycles x 3 wheels per tricycle = 60 wheels
+* To find the total number of wheels, we add the wheels for the bicycles and the tricycles:
+  * 100 wheels + 60 wheels = 160 wheels
+
+Answer: 160

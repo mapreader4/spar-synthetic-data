@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Ali used 8 boxes to make each of his circles
+* Ali made 5 circles
+* So, Ali used 8 * 5 = 40 boxes
+* Ernie used 10 boxes to make each of his circles
+* They had 80 boxes to begin with
+* So, the remaining boxes after Ali's 5 circles is 80 - 40 = 40 boxes
+* To find how many circles Ernie can make, we divide the remaining 40 boxes by the 10 boxes Ernie uses per circle
+* 40 / 10 = 4
+
+Answer: 4

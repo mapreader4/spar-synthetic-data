@@ -1,0 +1,13 @@
+Let's start by identifying the information given in the problem:
+
+* Jethro has an unknown amount of money.
+* Carmen needs $7 more to have twice the amount of money that Jethro has.
+* Patricia has $60, which is 3 times as much as Jethro.
+
+From the second sentence, we know that Jethro has 7 more than Carmen. So, if Jethro has x amount of money, then Carmen needs 2 * x. We can set up an equation to represent this: x + 7 = 2x. We can subtract 7 from both sides of the equation to get x = 7. So, Jethro has $7.
+
+Now, let's find out how much money Patricia has. Since Patricia has 3 times as much as Jethro, and Jethro has 7, then Patricia has 3 * 7 = 21.
+
+The sum of their money is the sum of Jethro's money and Patricia's money. Jethro has 7 and Patricia has 21. So, the sum of their money is 7 + 21 = 28.
+
+Answer: 28

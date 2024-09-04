@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, Niko has 9 pairs of socks. He wants to resell 4 pairs with a 25% profit, so he'll get 25% of 2 dollars for each of those pairs, which is 0.25 x 2 = 0.5 dollars for each pair. For the other 5 pairs, he'll get a 0.2 dollar profit each, so he'll get 0.2 x 5 = 1 dollar in profit.
+
+To find the total profit, we need to find the total amount he'll make from the 4 pairs with 25% profit and add it to the total amount he'll make from the 5 pairs with a 0.2 dollar profit.
+
+First, let's find the total amount he'll make from the 4 pairs with 25% profit. 4 x 0.5 = 2 dollars. Now, let's find the total amount he'll make from the 5 pairs with a 0.2 dollar profit. 5 x 0.2 = 1 dollar.
+
+Now, we add the two amounts together to find the total profit. 2 dollars + 1 dollar = 3 dollars.
+
+Answer: 3

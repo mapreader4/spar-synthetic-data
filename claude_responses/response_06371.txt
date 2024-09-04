@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Marie's daily revenue:
+   - Bread sales: 40 loaves x $2 = $80
+   - Cake sales: 6 cakes x $12 = $72
+   - Total daily revenue: $80 + $72 = $152
+
+2. Marie's daily expenses:
+   - Rent: $20
+   - Electricity: $2
+   - Total daily expenses: $20 + $2 = $22
+
+3. Marie's daily profit:
+   - Daily revenue - Daily expenses = $152 - $22 = $130
+
+4. To calculate the number of days it will take to pay for the cash register:
+   - Cost of cash register: $1040
+   - Daily profit: $130
+   - Number of days = $1040 / $130 = 8 days
+
+Answer: 8 days

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are initially 4 alligators living on the golf course
+* The number of alligators doubles every 6 months
+* We want to know how many alligators there will be at the end of a year (12 months)
+
+After the first 6 months, the number of alligators will double from 4 to 8.
+After the next 6 months (12 months total), the number of alligators will double again from 8 to 16.
+
+Therefore, at the end of a year, there will be 16 alligators on the golf course.
+
+Answer: 16

@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) Anna originally had an unknown amount of money.
+2) She spent 1/4 of her money.
+3) After spending 1/4 of her money, she has $24 left.
+4) Let's call the original amount of money she had 'x'.
+5) She spent 1/4 of 'x', which is 1/4 * x = 0.25x.
+6) The amount she has left is 'x' minus the amount she spent, which is 'x' - 0.25x = 0.75x.
+7) We know that the amount she has left is $24, so 0.75x = $24.
+8) Solving for 'x', we get x = $24 / 0.75 = $32.
+
+Answer: $32.

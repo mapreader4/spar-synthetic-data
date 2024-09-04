@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Sherry wants to make 99 loaves of banana bread.
+2) Her recipe makes enough batter for 3 loaves.
+3) The recipe calls for 1 banana per loaf.
+4) To calculate the number of bananas needed, we first need to find out how many batches of the recipe Sherry needs to make.
+5) Since each batch makes 3 loaves, and Sherry needs 99 loaves, we can divide 99 by 3 to find the number of batches needed.
+6) 99 / 3 = 33 batches.
+7) Since each batch requires 1 banana, and Sherry needs 33 batches, she will need 33 bananas.
+
+Answer: 33

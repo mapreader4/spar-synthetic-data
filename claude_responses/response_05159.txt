@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* We are told that there are 20 hands in Peter's class, not including his own hands.
+* We are also told that every student in the class has 2 arms and 2 hands.
+* Since each student has 2 hands, the number of hands is equal to twice the number of students.
+* So, if there are 20 hands not including Peter's, that means there are 10 other students in the class.
+* Adding Peter, the total number of students in the class is 11.
+
+Answer: 11

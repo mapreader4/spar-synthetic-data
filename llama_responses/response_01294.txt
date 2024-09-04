@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the time it takes for the boat trip. The boat trip takes up to 2 hours.
+
+Next, we need to find the time it takes for the plane trip. Since the plane trip is four times longer than the boat trip, it will take 4 x 2 hours, which is 8 hours.
+
+To get to the "Virgo" island, Tom needs to take the plane trip and then the boat trip. So, the total time it takes Tom to get to the "Virgo" island is the sum of the plane trip time and the boat trip time. The total time is 8 hours for the plane trip plus 2 hours for the boat trip, which is 8 + 2 = 10 hours.
+
+Answer: 10

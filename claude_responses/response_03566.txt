@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The class has 60 students total
+* The number of students who bring their lunch is thrice the number of those who eat in the school cafeteria
+* 10 students eat in the school cafeteria
+* The rest of the students don't eat lunch
+
+First, let's find the number of students who bring their lunch:
+* If 10 students eat in the school cafeteria, then the number of students who bring their lunch is 3 times that, which is 3 * 10 = 30 students
+
+Now, let's find the number of students who don't eat lunch:
+* The total number of students is 60
+* The number of students who eat in the cafeteria is 10
+* The number of students who bring their lunch is 30
+* So the number of students who don't eat lunch is 60 - 10 - 30 = 20 students
+
+Answer: 20

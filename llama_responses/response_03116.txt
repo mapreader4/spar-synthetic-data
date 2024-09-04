@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of passengers who were on the plane initially: 124.
+
+After the layover in Texas, 58 passengers got off, so we subtract 58 from 124, leaving us with 124 - 58 = 66 passengers.
+
+Then, 24 got on, so we add 24 to 66, making it 90 passengers.
+
+After that, they flew to North Carolina, where 47 people got off, so we subtract 47 from 90, leaving us with 90 - 47 = 43 passengers.
+
+Finally, 14 got on, so we add 14 to 43, making it 57 passengers.
+
+We also know that there were 10 crew members on board, so we add those to the total: 57 + 10 = 67.
+
+However, we are asked how many people landed in Virginia, not how many were on the plane. 47 got off in North Carolina, and 14 got on, so we need to subtract those: 67 - 14 = 53.
+
+Answer: 53

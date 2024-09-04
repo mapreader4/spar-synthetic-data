@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many oranges Frank picked. Betty picked 15 oranges and Bill picked 12 oranges. Together, they picked 15 + 12 = 27 oranges. Frank picked three times that amount, which is 3 x 27 = 81.
+
+Frank then planted 2 seeds from each of his 81 oranges, so he planted 2 x 81 = 162 seeds. He waited 20 years for each seed to turn into a tree, so he has 162 trees.
+
+Each tree contains 5 oranges, so the total number of oranges is 162 x 5 = 810.
+
+Answer: 810

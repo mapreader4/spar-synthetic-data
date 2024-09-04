@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of bales of hay harvested last year.
+
+The farmer harvested 560 bales of hay from 5 acres of grass per month. To find the total number of bales of hay harvested in a year, we need to multiply the number of bales per month by the number of months in a year. There are 12 months in a year, so:
+
+560 bales/month * 12 = 6,720 bales
+
+So, the total number of bales of hay harvested last year is 6720.
+
+Now, let's find the total number of bales of hay the farmer has this year.
+
+The farmer planted 7 acres of grass. This is an increase of 2 acres from the 5 acres of grass the farmer had last year. So, the total number of acres of grass is 7.
+
+Each horse consumes 3 bales of hay a day. Since there are 9 horses, the total number of bales of hay consumed by the horses in a day is:
+
+9 horses * 3 bales/horse/day = 27 bales
+
+The farmer starts feeding the horses this year's hay starting from the first day of September. The number of days in September is 30. So, the total number of days the farmer will feed the horses is:
+
+30 days * 27 bales/day = 810 bales
+
+The farmer will use 810 bales of hay this year. To find the number of bales of hay the farmer will have left, we need to subtract the total number of bales of hay the farmer will use from the total number of bales of hay the farmer had last year:
+
+6720 bales - 810 bales = 5910 bales
+
+Answer: 5910

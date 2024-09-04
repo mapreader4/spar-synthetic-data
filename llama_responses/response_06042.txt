@@ -1,0 +1,28 @@
+Let's start by identifying the information given in the problem:
+
+* Allison bought 8 more glue sticks than Marie.
+* Marie bought 6 times as many packs of construction paper as Allison.
+* Marie bought 15 glue sticks.
+* Marie bought 30 packs of construction paper.
+
+We can start by using the information that Marie bought 15 glue sticks. Since Allison bought 8 more glue sticks than Marie, that means Allison must have bought 15 + 8 = 23 glue sticks.
+
+Then, we can use the information that Marie bought 6 times as many packs of construction paper as Allison. Since Allison bought some unknown number of packs of construction paper, let's call that number x. Marie bought 6x packs of construction paper.
+
+We can set up an equation to represent this information:
+
+15 + 6x = 30
+
+To solve for x, we can subtract 15 from both sides of the equation:
+
+6x = 30 - 15
+6x = 15
+
+x = 15/6
+x = 2.5
+
+So, Allison bought 2.5 packs of construction paper. Now, to find the total number of craft supply items, we can add the number of glue sticks and the number of packs of construction paper:
+
+23 (glue sticks) + 2.5 (packs of construction paper) = 25.5
+
+Answer: 25.5

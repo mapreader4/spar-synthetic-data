@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* On Thursday, the Meat Market sold 210kg of ground beef.
+* On Friday, they sold twice the amount they sold on Thursday, which is 2 x 210kg = 420kg.
+* On Saturday, they sold 130kg.
+* On Sunday, they sold half of what they sold on Saturday, which is 0.5 x 130kg = 65kg.
+
+Now, let's calculate the total amount of meat they sold:
+* Thursday: 210kg
+* Friday: 420kg
+* Saturday: 130kg
+* Sunday: 65kg
+* Total: 210kg + 420kg + 130kg + 65kg = 825kg
+
+The original plan was to sell 500kg of meat. So, the amount of meat they sold beyond their original plans is:
+* 825kg - 500kg = 325kg
+
+Answer: 325

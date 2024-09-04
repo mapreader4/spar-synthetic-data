@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of cardio machines:
+
+Each gym has 10 bikes, 5 treadmills, and 5 elliptical machines, so the total number of cardio machines per gym is:
+
+10 (bikes) + 5 (treadmills) + 5 (elliptical machines) = 20
+
+Since there are 20 gyms, the total number of cardio machines is:
+
+20 (gyms) x 20 (machines per gym) = 400
+
+Now, let's find the cost of each type of machine:
+
+Bikes cost $700 each
+Treadmills cost 50% more than bikes, so treadmills cost $700 + (50% of $700) = $700 + $350 = $1050
+Elliptical machines are twice as expensive as treadmills, so elliptical machines cost 2 x $1050 = $2100
+
+Now, let's find the total cost of replacing all the cardio machines:
+
+Bikes: 400 (machines) x $700 (cost per machine) = $280,000
+Treadmills: 400 (machines) x $1050 (cost per machine) = $420,000
+Elliptical machines: 400 (machines) x $2100 (cost per machine) = $840,000
+
+The total cost of replacing all the cardio machines is:
+
+$280,000 + $420,000 + $840,000 = $1,540,000
+
+Answer: 1540000

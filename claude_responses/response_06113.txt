@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jackson has 6 tables with 4 seats each
+* To calculate the number of chairs needed for these 6 tables, we multiply 6 (the number of tables) by 4 (the number of seats per table)
+* 6 tables x 4 seats per table = 24 chairs
+
+* Jackson also has 12 tables with 6 seats each
+* To calculate the number of chairs needed for these 12 tables, we multiply 12 (the number of tables) by 6 (the number of seats per table)
+* 12 tables x 6 seats per table = 72 chairs
+
+* To get the total number of chairs needed, we add the chairs needed for the 6 tables and the 12 tables:
+* 24 chairs + 72 chairs = 96 chairs
+
+Answer: 96

@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many slices of bread Suzanne makes per day. She makes French toast for the family on Saturdays and Sundays. So, she makes French toast for 2 days in a week. The number of slices of bread used per day is:
+
+2 slices for Suzanne, 1 slice for her husband, and 1 slice for her daughters, which is a total of 3 slices per day. 
+
+Step 2: Calculate the total number of slices used in a week. There are 7 days in a week, and Suzanne makes French toast for 2 days. So, the total number of slices used in a week is:
+
+2 days * 3 slices per day = 6 slices
+
+Step 3: Calculate the total number of loaves of bread needed over 52 weeks. Since each loaf has 12 slices, we can find the total number of loaves needed as follows:
+
+Total slices in a week = 6 slices
+Total loaves needed = Total slices / 12 slices per loaf
+= 6 slices / 12 slices per loaf
+= 0.5 loaves
+
+Step 4: Since you can't buy a fraction of a loaf, we round up to the nearest whole number. So, the total number of loaves needed is:
+
+0.5 loaves -> 1 loaves
+
+Answer: 1

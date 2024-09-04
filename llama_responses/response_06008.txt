@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of crabs Tom sells per day. Since each crab bucket gets 12 crabs, and Tom has 8 crab buckets, the total number of crabs Tom has per day is:
+
+12 crabs/crab bucket * 8 crab buckets = 96 crabs
+
+Next, we need to find out how much money Tom makes per day. Each crab sells for $5, so the total amount of money Tom makes per day is:
+
+96 crabs * $5/crab = $480
+
+Finally, to find the total amount of money Tom makes per week, we multiply the daily amount by 7 (since there are 7 days in a week):
+
+$480/day * 7 days/week = $3360
+
+Answer: 3360

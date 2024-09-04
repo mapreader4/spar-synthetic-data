@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total cost of the backpack and the pens and pencils. The backpack costs $15, and the pens and pencils cost $1.00 each, so the total cost of the pens and pencils is 2 x $1.00 = $2.00.
+
+Now, let's subtract the total cost of the pens and pencils from the total cost of the backpack to find the cost of the notebooks. The total cost of the backpack is $15, and the cost of the pens and pencils is $2.00, so the cost of the notebooks is 15 - 2 = 13.
+
+To find the cost of each notebook, we need to divide the cost of the notebooks by the number of notebooks. The cost of the notebooks is 13, and there are 5 notebooks, so the cost of each notebook is 13 / 5 = $2.60.
+
+Answer: 2.60

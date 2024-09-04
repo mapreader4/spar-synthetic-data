@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The best-selling book, "TOP," costs $8 per book
+* The least-selling book, "ABC," costs $23 per book
+* Last week, 13 "TOP" books were sold
+* Last week, 4 "ABC" books were sold
+
+To calculate the earnings on the "TOP" books:
+* 13 "TOP" books were sold
+* Each "TOP" book costs $8
+* So the total earnings on "TOP" books = 13 * $8 = $104
+
+To calculate the earnings on the "ABC" books:
+* 4 "ABC" books were sold
+* Each "ABC" book costs $23
+* So the total earnings on "ABC" books = 4 * $23 = $92
+
+Now, to find the difference in the bookstore's earnings on these two books last week, we subtract the earnings on "ABC" books from the earnings on "TOP" books:
+* $104 - $92 = $12
+
+Answer: $12

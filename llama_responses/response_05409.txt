@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, Bruce has $71 dollars to spend on clothes.
+
+He buys 5 shirts that cost $5 each. That's a total of 5 * 5 = $25.
+
+Then, he buys a pair of pants that cost $26.
+
+So, the total cost of the clothes he bought is $25 + $26 = $51.
+
+Now, let's subtract the total cost from the initial $71 he had:
+
+$71 - $51 = $20
+
+So, Bruce has $20 left to buy more clothes.

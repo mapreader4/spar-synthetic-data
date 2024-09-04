@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* One batch of cookies requires 4 cups of flour and 1.5 cups of sugar
+* We need to find the total cups of flour and sugar needed for 8 batches
+* For the flour:
+  - 1 batch requires 4 cups of flour
+  - 8 batches would require 8 * 4 = 32 cups of flour
+* For the sugar:
+  - 1 batch requires 1.5 cups of sugar
+  - 8 batches would require 8 * 1.5 = 12 cups of sugar
+* To find the total cups of flour and sugar combined:
+  - 32 cups of flour + 12 cups of sugar = 44 cups total
+
+Answer: 44

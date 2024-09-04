@@ -1,0 +1,12 @@
+Let's break down the problem step by step:
+
+1. We know that a heavy wash uses 20 gallons of water, and we have 2 heavy washes, so the total water needed for heavy washes is 2 x 20 = 40 gallons.
+2. A regular wash uses 10 gallons of water, and we have 3 regular washes, so the total water needed for regular washes is 3 x 10 = 30 gallons.
+3. A light wash uses 2 gallons of water, and we have 1 light wash to do, so the total water needed for the light wash is 2 gallons.
+4. If bleach is used, there is an extra light wash cycle added to rinse the laundry thoroughly, so we need to add the 2 gallons from the light wash again, making it 4 gallons.
+5. Since 2 of the loads need to be bleached, we need to add an extra light wash cycle for each of them, so we add 2 x 2 = 4 gallons to the total water needed.
+6. Now, let's add up the total water needed: 40 gallons for the heavy washes, 30 gallons for the regular washes, 2 gallons for the initial light wash, and 4 gallons for the bleach washes. We get:
+
+40 + 30 + 2 + 4 = 76 gallons
+
+Answer: 76

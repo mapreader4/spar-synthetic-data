@@ -1,0 +1,17 @@
+To solve this problem, we need to find the total number of hours Sandy drinks water. Since Sandy drinks 500 milliliters of water every 2 hours, so the total number of hours she drinks water is the total number of hours divided by 2. We can set up an equation to solve this. 
+
+Let h be the total number of hours Sandy drinks water. 
+
+The total amount of water Sandy drinks is 3 liters, which is 3000 milliliters. Sandy drinks 500 milliliters of water every 2 hours. So, the total number of hours Sandy drinks water is 3000 / 500. 
+
+To solve for h, we can divide both sides of the equation by 500.
+
+3000 / 500 = h / 2
+
+To solve for h, we can multiply both sides by 2.
+
+3000 * 1/2 = h
+
+h = 6
+
+So, Sandy drinks water for 6 hours.

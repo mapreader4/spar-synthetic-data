@@ -1,0 +1,19 @@
+Let's start by thinking step by step.
+
+Let's say the width of each level is 7 pieces. Let's call this the base of the tower.
+
+Let's say the tower has n levels. Then, the total number of pieces would be 7 * n.
+
+Since Jade has 100 pieces left, we know that 7 * n = 100. We can solve for n by dividing both sides of the equation by 7:
+
+7 * n = 100
+
+To do this, we can divide both sides by 7:
+
+n = 100 / 7
+
+n = 14
+
+So, Jade's tower has 14 levels.
+
+Answer: 14

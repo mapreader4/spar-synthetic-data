@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Billy picks 36 dandelions.
+2. George picks 1/3 of the remaining dandelions that Billy picked, so George picks 12 dandelions.
+3. They both pick 10 more dandelions each, so Billy picks 10 more of the remaining dandelions, and George picks 10 more of the remaining dandelions.
+4. Billy and George have picked a total of 36 + 12 + 10 + 10 = 68 dandelions.
+
+To find the average number of dandelions they have picked on average, we can add the total number of dandelions picked by both Billy and George and divide by 2.
+
+Answer: 68 ÷ 2 = 34.

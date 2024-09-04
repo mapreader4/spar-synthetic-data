@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+1. Cindy tosses 5 dimes into the wishing pond. That means she adds 5 * 10 cents = 50 cents to the total amount of money in the pond.
+2. Eric flips 3 quarters into the pond. That means he adds 3 * 25 cents = 75 cents to the total amount of money in the pond.
+3. Garrick throws in 8 nickels into the pond. That means he adds 8 * 5 cents = 40 cents to the total amount of money in the pond.
+4. Ivy then drops 60 pennies into the pond. That means she adds 60 cents to the total amount of money in the pond.
+
+Now, Eric dips his hands into the water and pulls out a quarter. That means he takes out 25 cents from the total amount of money in the pond.
+
+To find the total amount of money in the pond, we add the money from Cindy, Eric, and Ivy:
+
+50 cents + 75 cents + 40 cents + 60 cents - 25 cents = 200 cents
+
+So, the total amount of money in the pond is 200 cents.

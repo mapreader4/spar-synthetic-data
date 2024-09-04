@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of days Tim runs in a week. Originally, Tim runs 3 times a week. Then, he adds 2 more days a week, making the total number of days he runs 3 + 2 = 5.
+
+Now, let's find the number of hours he runs in a day. He runs 1 hour in the morning and 1 hour in the evening, so the total number of hours he runs in a day is 1 + 1 = 2.
+
+Now, let's multiply the number of hours he runs in a day by the number of days he runs in a week. We found that he runs 2 days in a week, so the total number of hours he runs in a week is 2 * 2 = 4.
+
+Answer: 4

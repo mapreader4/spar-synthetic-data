@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Carl knows 50 people will show up for the open house
+* He's hoping another 40 people will randomly show up
+* So the total number of people expected to visit is 50 + 40 = 90
+* He's created 10 extravagant gift bags for the first 10 people
+* He's made average gift bags for 20 people
+* So the total number of gift bags he's already made is 10 + 20 = 30
+* He needs to make enough gift bags for everyone who visits, which is 90 people
+* Therefore, the number of additional gift bags he needs to make is 90 - 30 = 60
+
+Answer: 60

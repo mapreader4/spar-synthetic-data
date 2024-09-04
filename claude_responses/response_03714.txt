@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Jacoby needs to have $5000 total to go on his trip.
+2. He works a job earning $20 per hour and works 10 hours.
+   * So, his earnings from his job are: $20 x 10 hours = $200
+3. He then sells 24 cookies at $4 each.
+   * His earnings from selling cookies are: $4 x 24 = $96
+4. He buys a lottery ticket for $10 and wins $500.
+   * His net earnings from the lottery are: $500 - $10 = $490
+5. He gets $500 from both of his sisters as a gift.
+   * His total earnings from his sisters are: $500 x 2 = $1000
+6. Now, let's add up all his earnings:
+   * $200 + $96 + $490 + $1000 = $1786
+7. To find out how much more he needs, we subtract his total earnings from the $5000 he needs:
+   * $5000 - $1786 = $3214
+
+Answer: $3214

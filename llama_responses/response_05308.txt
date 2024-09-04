@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the weight of one of Trace's shopping bags is x pounds.
+
+Since Trace has five shopping bags that weigh the same amount, it means that each of his bags weigh the same amount, which is x pounds.
+
+We know that the total weight of Gordon's two shopping bags is the same as the total weight of Trace's five shopping bags. So, we can set up the equation:
+
+Gordon's two bags weigh 3 + 7 pounds = Trace's five bags weigh x pounds
+
+To solve for x, we can simplify the equation by combining the like terms:
+
+3 + 7 = 10
+
+So, the total weight of Gordon's bags is 10 pounds.
+
+Now, we know that the total weight of Gordon's bags is the same as the total weight of Trace's bags. So, we can set up the equation:
+
+10 = 5x
+
+To solve for x, we can divide both sides of the equation by 5:
+
+10 / 5 = x
+
+x = 2
+
+Answer: 2

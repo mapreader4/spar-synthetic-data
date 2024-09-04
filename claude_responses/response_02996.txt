@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Dream's car consumes 4 gallons of gas per mile
+* She drives 400 miles today
+* She drives 200 more miles tomorrow than today
+
+To calculate the total gas consumption, we need to find the total distance driven and multiply it by the gas consumption per mile.
+
+The total distance driven is:
+* 400 miles today + (400 + 200) miles tomorrow = 1,000 miles
+
+Now, we can calculate the total gas consumption:
+* 1,000 miles x 4 gallons per mile = 4,000 gallons
+
+Answer: 4,000 gallons

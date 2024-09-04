@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Riverside High had 120 kids, and Fern denied 20% of them.
+   * 20% of 120 = 0.2 * 120 = 24 kids denied
+   * So, Riverside High had 120 - 24 = 96 kids get in.
+
+2. West Side High had 90 kids, and Fern denied 70% of them.
+   * 70% of 90 = 0.7 * 90 = 63 kids denied
+   * So, West Side High had 90 - 63 = 27 kids get in.
+
+3. Mountaintop High had 50 kids, and Fern denied half of them.
+   * Half of 50 = 0.5 * 50 = 25 kids denied
+   * So, Mountaintop High had 50 - 25 = 25 kids get in.
+
+Now, we add up the number of kids that got in from each school:
+* 96 + 27 + 25 = 148 kids
+
+Answer: 148 kids got into the movie.

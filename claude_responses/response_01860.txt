@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The movie is 1.5 hours long
+* The movie is replayed 6 times in one day
+* There is a 20-minute advertisement before the start of the movie
+
+First, we need to calculate the total time for the 6 movie showings:
+* 6 showings x 1.5 hours per showing = 9 hours
+
+Next, we need to add the time for the advertisements:
+* 6 showings x 20 minutes per showing = 120 minutes = 2 hours
+
+Finally, we add the time for the movies and the advertisements to get the total time the movie theater operates each day:
+* 9 hours + 2 hours = 11 hours
+
+Answer: 11 hours

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The farmer has 1 hog and 6 piglets, for a total of 7 animals
+* Each animal costs $10 per month to feed
+* The farmer sells 3 pigs after 12 months and the remaining 3 pigs after 16 months
+
+First, let's calculate the cost of feeding the 3 pigs sold after 12 months:
+* 3 pigs x $10 per month x 12 months = $360
+
+Next, let's calculate the cost of feeding the 3 pigs sold after 16 months:
+* 3 pigs x $10 per month x 16 months = $480
+
+Now, let's calculate the total revenue from selling the 6 pigs:
+* 3 pigs x $300 = $900
+* 3 pigs x $300 = $900
+* Total revenue = $900 + $900 = $1,800
+
+Finally, let's calculate the total profit:
+* Total revenue = $1,800
+* Total cost of feeding = $360 + $480 = $840
+* Total profit = $1,800 - $840 = $960
+
+Answer: $960

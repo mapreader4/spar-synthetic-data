@@ -1,0 +1,7 @@
+To solve this problem, I will first find the total number of apples that Adam picked in a month. Since Adam picks 4 apples every day for 30 days, he will pick 4 * 30 = 120 apples in a month.
+
+To find the total number of apples Adam has collected in a month, I will multiply the number of apples he picks in a day by the number of days in a month. Since there are 30 days in a month, the total number of apples Adam has collected is 4 * 30 = 120.
+
+So, the answer is:
+
+Answer: 120

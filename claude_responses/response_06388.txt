@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Tim initially had some number of cans of soda
+* Jeff took 6 cans of soda from Tim
+* Tim then bought another half the amount of soda cans he had left
+* In the end, Tim had 24 cans of soda
+
+Let's call the initial number of cans Tim had as 'x'.
+
+After Jeff took 6 cans, Tim had (x - 6) cans left.
+Tim then bought another half the amount of soda cans he had left, which is (x - 6)/2.
+
+The total number of cans Tim had in the end is:
+(x - 6) + (x - 6)/2 = 24
+
+Solving this equation:
+(x - 6) + (x - 6)/2 = 24
+(3x - 18)/2 = 24
+3x - 18 = 48
+3x = 66
+x = 22
+
+Therefore, Tim had 22 cans of soda at first.
+
+Answer: 22

@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Each bird eats 12 beetles per day, so the total number of beetles eaten by birds in a day is 12 * 6 (since there are 6 birds). This is because each bird eats 12 beetles per day, so 6 birds will eat 6 * 12 = 72 beetles.
+
+2. Each snake eats 3 birds per day, but there are 6 jaguars in the forest, so the total number of birds eaten by snakes is 3 * 6 = 18.
+
+3. Each jaguar eats 5 snakes per day, so the total number of snakes eaten by jaguars is 5 * 6 = 30.
+
+4. To find the total number of beetles eaten each day, we add the number of beetles eaten by birds and snakes together: 72 (beetles eaten by birds) + 30 (beetles eaten by snakes) = 102 beetles.
+
+Answer: 102

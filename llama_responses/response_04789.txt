@@ -1,0 +1,15 @@
+Let's start by identifying the information given in the problem. We know that Maurice is buying 4 packages of ground beef, and each package contains 5 pounds of ground beef. So, the total amount of ground beef Maurice is buying is 4 x 5 = 20 pounds.
+
+Next, we need to find out how many people Maurice can invite to the cookout, so that everyone, including himself, gets a burger. Since Maurice wants to make one 2-pound burger for each person, we can set up an equation to solve for the number of people he can invite.
+
+Let x be the number of people Maurice can invite. Since each person gets a 2-pound burger, the total amount of ground beef needed is 2x pounds. We know the total amount of ground beef Maurice has is 20 pounds, so we can set up the equation:
+
+2x = 20
+
+To solve for x, we can divide both sides of the equation by 2:
+
+x = 20 / 2
+
+x = 10
+
+So, Maurice can invite 10 people to the cookout so that everyone, including himself, gets a burger.

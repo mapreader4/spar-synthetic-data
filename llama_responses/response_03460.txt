@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total money they have. They have $40 in total.
+
+The bill is 3/4 of their total money, which means the bill is (3/4) * 40 = 30.
+
+After paying the bill, they have 40 - 30 = 10 left. They leave with $1 each, which means they must have spent 10 - 2 = 8 together.
+
+Since they got the same amount as each other, they must have each bought 8/2 = 4 scoops of ice cream.
+
+Answer: 4

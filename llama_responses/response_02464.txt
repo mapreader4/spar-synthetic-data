@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The recipe calls for 3 tablespoons of soap for every 1 cup of water. Since there are 8 ounces in a cup of water, 1 cup of water is equivalent to 8 ounces. 
+
+So, for every 8 ounces of water, we need 3 tablespoons of soap. 
+
+The container can hold 40 ounces of liquid, and we want to know how many cups of water we can make. To find this, we can divide 40 ounces by 8 ounces per cup, which gives us 5 cups. 
+
+Since we need 3 tablespoons of soap for every cup of water, for 5 cups, we need 3 * 5 = 15 tablespoons of soap. 
+
+However, we are not adding the soap itself towards the capacity of the container, so we subtract 3 tablespoons from the total, which is the amount of soap needed for the soap itself. 
+
+So, the answer is: Answer: 12

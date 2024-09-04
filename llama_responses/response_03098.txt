@@ -1,0 +1,9 @@
+Let's call the ages of the three brothers x - 1, x, and x + 1.  The sum of their ages is 96.  So, we have the equation x - 1 + x + x + 1 = 96.
+
+We can simplify this equation to 2x - 1 + x = 96.
+
+Since the left side of the equation is a linear expression, we can subtract 1 from both sides to get 2x = 95.
+
+Then, we can divide both sides by 2 to get x = 47.5.
+
+So, the youngest brother is 47.

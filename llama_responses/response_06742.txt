@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the length of the kitten after 2 weeks. If the kitten doubled in length in the first two weeks, it means the kitten's length doubled. So, the kitten's length after 2 weeks is 8 inches.
+
+Then, by 4 months old, the kitten doubled in length again. So, we need to multiply the kitten's length after 2 weeks by 2. 8 inches * 2 = 16 inches.
+
+Answer: 16

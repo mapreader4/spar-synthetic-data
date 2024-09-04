@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's find the total number of bricks needed for each side of the fence.  Each side of the fence is 20 bricks long, 5 bricks high, and 2 bricks deep.  To find the total number of bricks needed for each side, we multiply the length, height, and depth. 20 x 5 x 2 = 200 bricks for each side.
+
+Since there are four sides to the fence, we multiply the number of bricks needed for each side by 4.  200 x 4 = 800 bricks.
+
+So, Cooper needs 800 bricks to complete his fence.

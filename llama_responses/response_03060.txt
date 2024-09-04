@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of coal that needs to be shoveled. We are given that 10 people can shovel 10,000 pounds of coal in 10 days. So, we know that 10,000 pounds of coal is the total amount of coal.
+
+Now, we are asked how many days it will take for half of these 10 people to shovel 40,000 pounds of coal. To find the answer, we need to divide the amount of coal by 2 since we want to find half of it.
+
+40,000 pounds of coal divided by 2 is 20,000 pounds of coal.
+
+To find out how many days it will take 10 people to shovel 20,000 pounds of coal, we can divide 20,000 pounds of coal by 10 people. Since each person can shovel 10,000 pounds of coal in 10 days, we can divide 20,000 pounds by 10 people, we can find out how many days it will take to shovel 20,000 pounds of coal.
+
+10,000 pounds of coal divided by 10 people is 2,000 pounds of coal per person. So, it will take 10 people 2,000 days to shovel 20,000 pounds of coal.
+
+Answer: 20

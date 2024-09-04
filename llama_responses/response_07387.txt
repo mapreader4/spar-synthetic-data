@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find out how much money Amanda makes in a day. If she makes $50.00 an hour and works for 10 hours a day, she will make:
+
+$50.00 * 10 = $500.00
+
+So, in a day, Amanda makes $500.00.
+
+Now, let's find out how much money she will receive if she does not finish the sales report by midnight. Jose said she will withhold 20% of her pay. 20% of $500.00 is:
+
+$500.00 * 0.20 = $100.00
+
+So, Amanda will receive $400.00 if she does not finish the sales report by midnight.
+
+Answer: 400

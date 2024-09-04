@@ -1,0 +1,5 @@
+To find out how many bushels Dany needs to suffice his animals for a day, we need to calculate the total number of bushels that all the animals eat in a day. The cows eat 2 bushels a day, and the sheep eat 3 bushels a day, so the total amount of bushels eaten by the animals in a day is:
+
+2 bushels (from the cows) + 3 bushels (from the sheep) = 5 bushels
+
+So, Dany needs 5 bushels of food for the animals for a day.

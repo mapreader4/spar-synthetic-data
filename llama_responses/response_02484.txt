@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of people in each row:
+
+1. The first row has 24 people, but 3 people get up to wade in the water, so the number of people left in the first row is 24 - 3 = 21.
+2. The second row has 20 people, and 5 of them join the first row, so the number of people in the second row is now 20 - 5 = 15.
+3. The third row has 18 people.
+
+Now, let's add up the number of people in each row:
+
+21 (first row) + 15 (second row) + 18 (third row) = 54
+
+Answer: 54

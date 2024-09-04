@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of eggs Kelly has in 4 weeks.
+
+Kelly has 8 chickens, and each chicken lays 3 eggs per day. So, in a day, she lays 8 * 3 = 24 eggs. Since there are 7 days in a week, she lays 7 * 24 = 168 eggs in a week.
+
+In 4 weeks, Kelly will lay 4 * 168 = 672 eggs. Since Kelly sells eggs for $5 a dozen, that means she makes 5 dollars per 12 eggs. So, to find out how much money she makes in 4 weeks, we need to divide 672 eggs by 12.
+
+672 ÷ 12 = 56. So, Kelly will make 56 dollars in 4 weeks if she sells all her eggs.

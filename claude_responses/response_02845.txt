@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* A mosquito sucks 20 drops of blood every time it feeds on someone
+* There are 5000 drops per liter
+* You have to lose 3 liters of blood to die
+
+To calculate how many mosquitoes would have to feed on you to kill you, we need to find out how many drops of blood are in 3 liters:
+* 3 liters x 5000 drops per liter = 15,000 drops of blood
+
+Now, we need to find out how many times the mosquitoes would have to feed on you to get 15,000 drops of blood:
+* 15,000 drops of blood / 20 drops per mosquito = 750 mosquito feedings
+
+Therefore, 750 mosquitoes would have to feed on you to kill you.
+
+Answer: 750

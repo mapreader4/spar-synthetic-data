@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: First, we need to find the amount of water in the tank. The tank can hold 200 gallons, and it's filled to 80% of capacity, so we can multiply 200 gallons by 0.8 to get the amount of water in the tank.
+
+200 x 0.8 = 160 gallons
+
+Step 2: Next, we need to find the weight of the water in the tank. Since a gallon of water weighs 8 pounds, we can multiply the amount of water in the tank by 8 pounds per gallon to get the total weight of the water.
+
+160 gallons x 8 pounds/gallon = 1280 pounds
+
+Answer: 1280

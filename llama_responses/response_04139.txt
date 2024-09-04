@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Eric has 4 ninja throwing stars.
+2. Chad has twice as many ninja throwing stars as Eric, which is 4 x 2 = 8 ninja throwing stars.
+3. Jeff bought 2 ninja stars from Chad, so now he has 2 + 6 = 8 ninja throwing stars.
+4. To find the total number of ninja throwing stars Eric and Jeff have, we add the number of ninja throwing stars they have, which is 4 + 8 = 12.
+
+Answer: 12

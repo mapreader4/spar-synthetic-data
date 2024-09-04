@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) There are 40 students in the 6th grade.
+2) 25% of them wear glasses. To find the number of students who wear glasses, we take 25% of 40:
+   * 25% of 40 = 0.25 * 40 = 10 students wear glasses.
+3) 40% of them wear contact lenses. To find the number of students who wear contact lenses, we take 40% of 40:
+   * 40% of 40 = 0.40 * 40 = 16 students wear contact lenses.
+4) To find the number of students who do not wear any vision assistance, we need to subtract the number of students who wear glasses and the number of students who wear contact lenses from the total number of students:
+   * 40 - 10 - 16 = 14 students do not wear any vision assistance.
+
+Answer: 14

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total number of wheels of the trucks. Each truck has 4 wheels, so the total number of wheels of the trucks is 12 x 4 = 48.
+
+Step 2: Determine the total number of wheels of the cars. Each car has 4 wheels, so the total number of wheels of the cars is 13 x 4 = 52.
+
+Step 3: Add the total number of wheels of the trucks and the cars. 48 (wheels of trucks) + 52 (wheels of cars) = 100.
+
+Answer: 100

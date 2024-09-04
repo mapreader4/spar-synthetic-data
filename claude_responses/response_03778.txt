@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The current length of the highway is 200 miles
+* The target length of the highway is 650 miles
+* On the first day, 50 miles were built
+* On the second day, three times the amount of the first day was built, which is 3 * 50 = 150 miles
+
+Now, we need to calculate the total miles built so far:
+* Miles built on first day: 50 miles
+* Miles built on second day: 150 miles
+* Total miles built: 50 + 150 = 200 miles
+
+To find the remaining miles needed to finish the extension, we subtract the current length of 200 miles from the target length of 650 miles:
+* Remaining miles needed: 650 - 200 = 450 miles
+
+Answer: 450

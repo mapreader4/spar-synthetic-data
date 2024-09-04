@@ -1,0 +1,13 @@
+Let's start by letting x be the initial number of bananas on the tree. We know that Raj has eaten 70 bananas and has twice as many remaining in his basket. So, if we let x be the initial number of bananas on the tree, we can set up the equation:
+
+x - 70 = 2 * (x - 70)
+
+We can solve for x by adding 70 to both sides of the equation, which gives us:
+
+x - 70 + 70 = 2 * x - 70 + 70
+
+Then, we can subtract 70 from both sides of the equation to get:
+
+x = 140
+
+So, there were 140 bananas on the tree initially.

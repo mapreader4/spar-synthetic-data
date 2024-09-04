@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The church has 100 members who have volunteered to bake cookies
+* Each member baked 10 sheets of cookies
+* Each sheet has 16 cookies
+
+To calculate the total number of cookies baked, we need to:
+1. Calculate the number of cookies per member
+   * Each member baked 10 sheets of cookies
+   * Each sheet has 16 cookies
+   * So, each member baked 10 * 16 = 160 cookies
+2. Calculate the total number of cookies baked by all members
+   * There are 100 members
+   * Each member baked 160 cookies
+   * So, the total number of cookies baked is 100 * 160 = 16,000 cookies
+
+Answer: 16,000

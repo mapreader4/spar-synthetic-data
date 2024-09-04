@@ -1,0 +1,7 @@
+To solve this problem, we need to first find the cost of the items James bought, then add the tax, and then find the total cost.
+
+The cost of the milk is $3. The cost of the bunch of bananas is $2. The cost of the milk and bananas combined is $3 + $2 = $5.
+
+Then, the 20% sales tax is 0.2 x $5 = $1. The total cost is $5 + $1 = $6.
+
+So, James spent $6.

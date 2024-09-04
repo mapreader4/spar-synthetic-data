@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) We have 3 people: Marcus, Humphrey, and Darrel.
+2) Marcus sees 7 birds, Humphrey sees 11 birds, and Darrel sees 9 birds.
+3) To find the average number of birds seen by each person, we need to add up the total number of birds seen and divide by the number of people.
+4) The total number of birds seen is 7 + 11 + 9 = 27 birds.
+5) There are 3 people, so we divide the total number of birds (27) by 3 to get the average.
+6) 27 birds / 3 people = 9 birds per person on average.
+
+Answer: 9

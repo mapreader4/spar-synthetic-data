@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The pharmacy already has 20 tubs in storage. They need a total of 100 tubs for the week. To find out how many tubs they still need to buy, we subtract the number they already have from the total number they need:
+
+100 (total needed) - 20 (already have) = 80 tubs needed
+
+Since they buy a quarter of the tubs they need from the new vendor, that means they buy 80 / 4 = 20 tubs from the new vendor.
+
+To find out how many tubs they need to buy from their usual vendor, we subtract the number they're buying from the new vendor from the total number they need:
+
+80 (tubs needed) - 20 (tubs bought from new vendor) = 60 tubs needed from usual vendor
+
+Answer: 60

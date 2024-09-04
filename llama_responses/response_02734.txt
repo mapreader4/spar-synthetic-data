@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Annie plants 3 pots of basil, 9 pots of rosemary, and 6 pots of thyme. So, the total number of pots is 3 + 9 + 6 = 18.
+
+Each basil plant has 4 leaves, so the total number of leaves from basil is 3 x 4 = 12.
+
+Each rosemary plant has 18 leaves, so the total number of leaves from rosemary is 9 x 18 = 162.
+
+Each thyme plant has 30 leaves, so the total number of leaves from thyme is 6 x 30 = 180.
+
+To find the total number of leaves, we add the number of leaves from each type of plant: 12 (basil) + 162 (rosemary) + 180 (thyme) = 354.
+
+Answer: 354

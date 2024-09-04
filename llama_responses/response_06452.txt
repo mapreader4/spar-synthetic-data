@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Elizabeth has 10 water bottles initially. She loses 2 water bottles at school, so she has 10 - 2 = 8 water bottles left. Then, someone steals 1 water bottle, leaving her with 8 - 1 = 7 water bottles. Elizabeth places 3 stickers on each of her remaining 7 water bottles. To find the total number of stickers used, we multiply 3 stickers per bottle by the number of bottles: 3 * 7 = 21 stickers.
+
+Answer: 21

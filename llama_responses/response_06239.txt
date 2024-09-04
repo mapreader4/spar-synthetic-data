@@ -1,0 +1,7 @@
+Let's start by converting Vlad's height to inches. Vlad is 6 feet, 3 inches tall. So his height is 6 * 12 + 3 = 72 inches.
+
+His sister is 2 feet, 10 inches tall. We can convert this to inches by multiplying 2 * 12 + 10 = 32 inches.
+
+To find the difference in height between Vlad and his sister, we subtract 32 from 72. 72 - 32 = 40.
+
+So, Vlad is 40 inches taller than his sister.

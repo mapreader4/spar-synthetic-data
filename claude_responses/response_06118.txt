@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* A single train car can carry 60 passengers
+* A 747 airplane can carry 366 passengers
+* We are comparing the capacity of a train with 16 cars to the capacity of 2 airplanes
+
+First, let's calculate the capacity of the train with 16 cars:
+* 16 cars x 60 passengers per car = 960 passengers
+
+Next, let's calculate the capacity of 2 airplanes:
+* 2 airplanes x 366 passengers per airplane = 732 passengers
+
+Now, we can find the difference in capacity between the train and the 2 airplanes:
+* 960 passengers (train) - 732 passengers (2 airplanes) = 228 passengers
+
+Answer: 228

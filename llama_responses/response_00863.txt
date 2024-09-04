@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first find the number of students who like French fries, which is 15. Then, let's find the number of students who like burgers, which is 10. We can add these two numbers together to find the number of students who like either French fries or burgers, which is 15 + 10 = 25. Now, we need to subtract the number of students who like both French fries and burgers from this number to find the number of students who like neither food. The number of students who like both French fries and burgers is 6. So, we subtract 6 from 25 to find the number of students who like neither food. The answer is:
+
+Answer: 19

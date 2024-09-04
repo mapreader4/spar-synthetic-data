@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of pages Arthur has already read. He has read 80% of a 500-page book, which is equal to 80 * 500 = 400 pages. He has also read 1/5 of a 1000-page book, which is equal to 200 pages. So, he has read 400 + 200 = 600 pages in total.
+
+To finish 800 pages, Arthur needs to read 800 - 600 = 200 more pages.
+
+Answer: 200

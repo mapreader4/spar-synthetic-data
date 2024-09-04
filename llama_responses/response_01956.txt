@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. Matt takes 2 minutes to do each problem without a calculator.
+2. Matt takes 5 minutes to do each problem with a calculator.
+3. If Matt has 20 problems, it will take him 20 * 2 = 40 minutes to do them without a calculator.
+4. If Matt does the same problems with a calculator, it will take him 20 * 5 = 100 minutes.
+5. The difference between the two times is 100 - 40 = 60.
+
+Answer: 60

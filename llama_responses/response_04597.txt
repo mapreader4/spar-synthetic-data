@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the ingredients and their quantities.
+
+* Oil: 2/3rd of the bowl is filled with oil, which is 2/3 * 150 ml = 100 ml.
+* Vinegar: 1/3rd of the bowl is filled with vinegar, which is 1/3 * 150 ml = 50 ml.
+
+Now, let's calculate the total amount of the salad dressing.
+
+The oil weighs 5 g/ml, and the vinegar weighs 4 g/ml. So, the total weight of the ingredients is 5 g + 4 g = 9 g.
+
+The bowl holds 150 ml of the salad dressing. To convert this to grams, we can multiply the total weight by 1000 (since 1 ml = 1/1000 g).
+
+So, the total weight of the salad dressing is 9 * 10 = 90 g.
+
+Answer: 90

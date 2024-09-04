@@ -1,0 +1,21 @@
+To solve this problem, we need to find the total duration of the video and then divide it by the number of players to get the average time for each player.
+
+Given information:
+- Point guard: 130 seconds
+- Shooting guard: 145 seconds
+- Small forward: 85 seconds
+- Power forward: 60 seconds
+- Center: 180 seconds
+
+Step 1: Calculate the total duration of the video.
+Total duration = Point guard (130 seconds) + Shooting guard (145 seconds) + Small forward (85 seconds) + Power forward (60 seconds) + Center (180 seconds)
+Total duration = 130 + 145 + 85 + 60 + 180 = 600 seconds
+
+Step 2: Convert the total duration from seconds to minutes.
+Total duration in minutes = 600 seconds / 60 seconds per minute = 10 minutes
+
+Step 3: Calculate the average time for each player.
+Average time per player = Total duration in minutes / Number of players
+Average time per player = 10 minutes / 5 players = 2 minutes
+
+Answer: 2 minutes

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Trey has 7 things to do to clean the house
+* Trey has 1 thing to do to take a shower
+* Trey has 4 things to do to make dinner
+* In total, Trey has 7 + 1 + 4 = 12 things to do
+* Each item on the list takes 10 minutes to do
+* To calculate the total time, we multiply the number of items (12) by the time per item (10 minutes)
+* 12 items x 10 minutes per item = 120 minutes total
+* To convert this to hours, we divide the total minutes by 60 minutes per hour
+* 120 minutes / 60 minutes per hour = 2 hours
+
+Answer: 2 hours

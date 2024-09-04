@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The initial investment is $400.
+2. In the first week, it gained 25% in value, which is 25% of $400, or $100.
+3. So the value is now $400 + $100 = $500.
+4. In the second week, it gained an additional 50% on top of the previous gain, which is 50% of $500, or $250.
+5. So the total gain is $100 + $250 = $350.
+6. The initial investment is $400, and the total gain is $350, so the current value is $400 + $350 = $750.
+
+Answer: 750

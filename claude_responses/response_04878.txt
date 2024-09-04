@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 30 plants in the garden
+* The bugs completely ate 20 of those plants, leaving 10 plants remaining
+* The next day, the bugs ate half of the remaining 10 plants, which is 5 plants
+* So now there are 10 - 5 = 5 plants remaining
+* The day after that, the bugs ate 1 of the remaining 5 plants
+* So the final number of plants remaining is 5 - 1 = 4 plants
+
+Answer: 4

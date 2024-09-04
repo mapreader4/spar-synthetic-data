@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Randy had some money to start with.
+2) Smith gave him another $200.
+3) Randy then gave Sally $1,200.
+4) Randy has $2,000 left.
+
+To find out how much money Randy had at first, we can work backwards:
+1) Randy has $2,000 left.
+2) He gave Sally $1,200, so before that he had $2,000 + $1,200 = $3,200.
+3) Smith gave him $200, so before that he had $3,200 - $200 = $3,000.
+
+Therefore, the amount of money Randy had at first was $3,000.
+
+Answer: 3000

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Andy spends $12 on ingredients to make 2 cakes
+* He also spends $1 on packaging for each cake, so for 2 cakes that's $2 in packaging costs
+* So the total cost for 2 cakes is $12 (ingredients) + $2 (packaging) = $14
+* Andy sells each cake for $15
+* To calculate the profit per cake, we take the selling price ($15) and subtract the cost per cake
+* The cost per cake is the total cost ($14) divided by the number of cakes (2), which is $7 per cake
+* Therefore, the profit per cake is $15 - $7 = $8
+
+Answer: $8

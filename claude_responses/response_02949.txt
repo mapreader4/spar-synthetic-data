@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mrs. Parker was waiting to get into the bathroom at 2:30 pm
+* Her oldest daughter used the bathroom for 45 minutes
+* Her youngest daughter used the bathroom for 30 minutes
+* Her husband used the bathroom for 20 minutes
+* So the total time the bathroom was occupied before Mrs. Parker's turn was:
+    - Oldest daughter: 45 minutes
+    - Youngest daughter: 30 minutes
+    - Husband: 20 minutes
+    - Total: 45 + 30 + 20 = 95 minutes
+* The family needs to leave the house by 5 pm
+* Mrs. Parker was waiting to get into the bathroom at 2:30 pm
+* So the total time available before they need to leave is 5 pm - 2:30 pm = 2.5 hours = 150 minutes
+* Subtracting the 95 minutes the bathroom was occupied before Mrs. Parker's turn, she will have 150 - 95 = 55 minutes to use the bathroom.
+
+Answer: 55 minutes

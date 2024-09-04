@@ -1,0 +1,14 @@
+Let's break this down step by step.
+
+1. Alicia got 10 presents in small boxes.
+2. Alicia got 12 presents in medium boxes.
+3. A third of all the presents she is given are in large boxes.
+
+To find the total number of presents Alicia got, we need to add the number of presents in small boxes, medium boxes, and large boxes.
+
+First, we add the number of presents in small boxes and medium boxes: 10 + 12 = 22.
+Then, we multiply this by 3, since a third of all the presents are in large boxes: 22 * 3 = 66.
+
+So, the total number of presents Alicia got is 22 + 66 = 88.
+
+Answer: 88

@@ -1,0 +1,15 @@
+Let's break down the problem step by step:
+
+1. The total cost of the grocery is $16. We know that the 2-pound chicken is not part of the total cost, as we are trying to find out how much Mary and her two friends should pay for the chicken.
+
+2. The 3 pounds of beef cost $4 per pound, so the total cost of the beef is 3 x $4 = $12.
+
+3. The liter of oil costs $1, so the total cost of the oil is $1.
+
+4. The total cost of the beef and oil is $12 + $1 = $13.
+
+5. Since the total cost of the grocery is $16, the cost of the 2-pound chicken is $16 - $13 = $3.
+
+6. Since Mary and her two friends agreed to evenly pay for the cost of the 2-pound chicken, they should each pay $3 / 3 = $1.
+
+Answer: 1

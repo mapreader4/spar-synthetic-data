@@ -1,0 +1,7 @@
+To solve this problem, we can start by converting the given time to hours and minutes to just hours. 2 hours and 20 minutes is equal to 2.3333333 hours. Then, we can divide the total distance by the time to find the speed. 
+
+Distance = Distance / Time = Speed
+
+Distance = 280 / 2.3333333 = 120
+
+Answer: 120

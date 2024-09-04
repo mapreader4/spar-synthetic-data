@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, let's find out how many flavors Gretchen has tried in total. She tried 1/4 of the flavors 2 years ago, which is 100 x 1/4 = 25 flavors. Last year, she tried double that amount, which is 25 x 2 = 50 flavors. So, in total, she has tried 25 + 50 = 75 flavors.
+
+Since she has tried 75 flavors, she has 100 - 75 = 25 flavors left to try. She needs to try 25 more flavors this year to have tried all 100 flavors.

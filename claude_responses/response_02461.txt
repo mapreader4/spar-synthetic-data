@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Tim bought the car for $20,000.
+2) The car goes down in value by $1,000 per year.
+3) We want to find the value of the car after 6 years.
+4) After 1 year, the car is worth $20,000 - $1,000 = $19,000.
+5) After 2 years, the car is worth $19,000 - $1,000 = $18,000.
+6) After 3 years, the car is worth $18,000 - $1,000 = $17,000.
+7) After 4 years, the car is worth $17,000 - $1,000 = $16,000.
+8) After 5 years, the car is worth $16,000 - $1,000 = $15,000.
+9) After 6 years, the car is worth $15,000 - $1,000 = $14,000.
+
+Answer: 14,000

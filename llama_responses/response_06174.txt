@@ -1,0 +1,15 @@
+Let's start by identifying the amount of flour remaining in the bag after baking 3 batches of cookies.
+
+The recipe calls for 2 cups of flour per batch, and Gigi bakes 3 batches. So, the total amount of flour used is 2 x 3 = 6 cups.
+
+The bag of flour contains 20 cups of flour. To find the amount of flour remaining, we subtract the 6 cups of flour used from the total 20 cups of flour:
+
+20 - 6 = 14 cups
+
+Gigi has 14 cups of flour remaining.
+
+Now, to find the number of batches Gigi can make with the remaining flour, we need to divide the remaining 14 cups by the amount of flour used per batch. We already know that 2 cups of flour are used per batch, so we can divide 14 cups by 2:
+
+14 ÷ 2 = 7
+
+Answer: 7

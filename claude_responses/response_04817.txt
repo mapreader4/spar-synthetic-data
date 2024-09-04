@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Last year's costume cost $250.
+2) This year's costume is 40% more expensive than last year's. To calculate the new cost:
+   * 40% of $250 = 0.4 * $250 = $100
+   * New cost = $250 + $100 = $350
+3) Jeff has to put in a 10% deposit. The deposit is 10% of $350, which is 0.1 * $350 = $35.
+4) The remaining amount to pay when picking up the costume is the total cost ($350) minus the deposit ($35).
+   * Remaining amount = $350 - $35 = $315.
+
+Answer: $315.

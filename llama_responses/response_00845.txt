@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the number of actors that are in the show for 15 minutes. Since each actor is in the show for 15 minutes, that is the same as saying that the show has a rate of 1 actor every 3 minutes.
+
+If there are 5 actors in the show for 15 minutes, then the total number of actors in the show in that time is 5 x 3 = 15.
+
+Now, in 1 hour, there are 60 minutes. So, we need to find the number of actors that can be on the show in 60 minutes. To find this out, we can divide 60 minutes by 15 minutes, which is the same as saying that the show has a rate of 4 actors every 15 minutes.
+
+So, in 60 minutes, there can be 60 / 15 = 4 actors.
+
+Answer: 4

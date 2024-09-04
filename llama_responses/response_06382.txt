@@ -1,0 +1,20 @@
+Let's break this problem down step by step!
+
+First, let's find the total number of children in the camp:
+
+Group 1 has 14 children.
+Group 2 has 16 children.
+Group 3 has 12 children.
+Group 4 has half the number of children in the first three groups combined, which is (14 + 16 + 12) / 2 = 21. So, Group 4 has 21 / 2 = 10.5 children. Since we can't have a fraction of a child, we'll round down to 10 children.
+
+The total number of children is: 14 + 16 + 12 + 10 = 52.
+
+Since each child consumes 3 bottles a day, the total number of bottles consumed per day is: 52 children * 3 bottles/child = 156 bottles.
+
+Since the camp is for 3 days, the total number of bottles consumed is: 156 bottles/day * 3 days = 468 bottles.
+
+Each case contains 24 bottles, so the total number of cases purchased is: 13 cases * 24 bottles/case = 312 bottles.
+
+The camp organizer still needs to buy: 468 bottles - 312 bottles = 156 bottles.
+
+Answer: 156

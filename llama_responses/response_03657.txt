@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's start with the total number of football players: 13.
+
+If 10 football players quit, then we subtract 10 from the total number of football players. So, we get:
+
+13 - 10 = 3
+
+So, there are 3 football players left.
+
+Now, let's look at the cheerleaders. There are initially 16 cheerleaders. If 4 cheerleaders quit, then we subtract 4 from the total number of cheerleaders. So, we get:
+
+16 - 4 = 12
+
+So, there are 12 cheerleaders left.
+
+Answer: 3 football players, 12 cheerleaders.

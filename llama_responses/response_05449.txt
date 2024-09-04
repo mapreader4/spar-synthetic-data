@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+There are 48 pieces of junk mail that need to be delivered. There are 8 houses on the block. We need to find out how many pieces of junk mail each house will get.
+
+Let's start by finding the total number of mailboxes. We are told that 2 houses have white mailboxes and 3 houses have red mailboxes. So, the total number of mailboxes is 2 + 3 = 5.
+
+Since there are 5 mailboxes, we can divide the total number of pieces of junk mail, 48, by the total number of mailboxes, 5. To do this, we can divide 48 by 5, which is 48 ÷ 5 = 9.6.
+
+So, each house will get 9.6 pieces of junk mail.

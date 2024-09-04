@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Owen bought 12 boxes of face masks that cost $9 per box. So, the total cost of the face masks is 12 x 9 = 108 dollars.
+
+Each box has 50 pieces of masks, so the total number of masks is 12 * 50 = 600. 
+
+Owen repacked 6 of these boxes and sold them for $5 per 25 pieces. That means he sold 6 * 25 = 150 pieces of masks for $5 each. So, the revenue from the repacked boxes is 150 * 5 = 750.
+
+Owen sold the remaining 300 face masks in baggies at the rate of 10 pieces of mask for $3. That means the revenue from the remaining masks is 300 * 3 = 900.
+
+So, the total revenue from the sale of masks is 750 + 900 = 1650. The total cost of the masks is 108. The profit is the difference between the revenue and the cost, which is 1650 - 108 = 1542.
+
+Answer: 1542

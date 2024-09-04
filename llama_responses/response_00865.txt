@@ -1,0 +1,21 @@
+Let's break this down step by step:
+
+Let's start by letting x be the number of chocolate squares that Mike ate.
+
+Mike says that Jenny ate 5 more than thrice the number of chocolate squares that he ate, so we can set up an equation to represent this:
+
+Jenny ate 5 + 3x
+
+We know that Mike ate 20 chocolate squares, so we can substitute 20 for x:
+
+20 = 3x + 5
+
+We can subtract 5 from both sides of the equation to get:
+
+15 = 3x
+
+We can then divide both sides of the equation by 3 to get:
+
+5 = x
+
+So, Jenny ate 5 chocolate squares.

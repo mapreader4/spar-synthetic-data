@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Susan bought 3 candies on Tuesday
+* She bought 5 candies on Thursday
+* She bought 2 candies on Friday
+* So the total number of candies she bought is:
+    - Tuesday: 3 candies
+    - Thursday: 5 candies
+    - Friday: 2 candies
+    - Total: 3 + 5 + 2 = 10 candies
+* Susan has 4 candies left
+* To find the number of candies she ate, we take the total number of candies she bought (10) and subtract the number of candies she has left (4)
+* 10 - 4 = 6 candies
+
+Answer: 6

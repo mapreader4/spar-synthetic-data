@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Lucas' house has 3 floors, and each floor has 3 windows
+* So, the total number of windows in the house is 3 floors x 3 windows per floor = 9 windows
+* Lucas' father offers to pay him $2 for each window he cleans
+* So, if Lucas cleans all 9 windows, he would earn 9 x $2 = $18
+* However, his father also said he would subtract $1 for every 3 days that pass without Lucas finishing the job
+* Lucas finished the job in 6 days
+* Since 6 days is more than 3 days, his father will subtract $1 from the $18
+* Therefore, the amount his father will pay Lucas is $18 - $1 = $17
+
+Answer: 17

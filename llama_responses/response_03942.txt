@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+The firefighter is paid $30 per hour for a 48-hour workweek, so his weekly income is:
+
+30 * 48 = 1440
+
+The firefighter's monthly income is:
+
+1440 * 4 = 5760
+
+The firefighter pays 1/3 of his income on rent, which is:
+
+5760 * 1/3 = 1920
+
+The firefighter pays $500 on food, which is a fixed amount, so we subtract that from his income:
+
+5760 - 500 = 5320
+
+The firefighter pays $1000 on taxes, which is a fixed amount, so we subtract that from his income:
+
+5320 - 1000 = 4320
+
+The firefighter has a monthly income of 5760, and after paying his expenses, he has:
+
+4320
+
+Answer: 4320

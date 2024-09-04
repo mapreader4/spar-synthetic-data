@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jeremy's uncle gave him $50 to spend on basketball equipment
+* He bought:
+  - 5 jerseys that cost $2 each
+  - 1 basketball that cost $18
+  - 1 pair of shorts that cost $8
+* To calculate the total cost of the items he bought:
+  - 5 jerseys x $2 each = $10
+  - 1 basketball at $18
+  - 1 pair of shorts at $8
+  - Total cost = $10 + $18 + $8 = $36
+* To calculate the amount of money Jeremy has left:
+  - He was given $50 to spend
+  - He spent $36
+  - $50 - $36 = $14
+
+Answer: 14

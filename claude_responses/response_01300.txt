@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Martin spends 2 hours waiting in traffic
+* He then spends four times that long trying to get off the freeway
+* To calculate the time spent trying to get off the freeway:
+  - 2 hours x 4 = 8 hours
+* To calculate the total time wasted:
+  - Time spent waiting in traffic: 2 hours
+  - Time spent trying to get off the freeway: 8 hours
+  - Total time wasted: 2 hours + 8 hours = 10 hours
+
+Answer: 10

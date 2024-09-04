@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of highlighters. There are 12 boxes, each with 30 highlighters inside, so there are 12 * 30 = 360 highlighters in total.
+
+Sam sold 5 of these boxes in packages of 6 highlighters each. So, he sold 5 * 6 = 30 highlighters in packages. He sold the rest of the highlighters separately, which is 360 - 30 = 330 highlighters. The price for each package is $3, so the total revenue from selling the packages is 30 * 3 = $90.
+
+The price for each highlighter sold separately is $2, so the total revenue from selling the remaining highlighters is 330 * 2 = $660.
+
+To find the total profit, we subtract the total cost of the highlighters from the total revenue. The total cost is 12 * 10 = $120, and the total revenue is $750. The profit is $750 - $120 = $630.
+
+Answer: 630

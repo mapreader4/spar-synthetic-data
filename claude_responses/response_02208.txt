@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Steve needs 6 lengths of wood that measure 4 feet each
+* To calculate the total length of these 6 pieces, we multiply 6 by 4 feet:
+  * 6 x 4 feet = 24 feet
+* Steve also needs 2 lengths of wood that measure 2 feet each
+* To calculate the total length of these 2 pieces, we multiply 2 by 2 feet:
+  * 2 x 2 feet = 4 feet
+* To get the total amount of wood Steve needs to buy, we add the lengths of the two sets of wood:
+  * 24 feet + 4 feet = 28 feet
+
+Answer: 28 feet

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Johann had 60 oranges initially.
+2) He then ate 10 oranges, so he had 60 - 10 = 50 oranges left.
+3) Half of the 50 oranges were then stolen by Carson, which means 25 oranges were stolen.
+4) Carson then returned 5 oranges.
+
+So, the number of oranges Johann has now is:
+50 oranges - 25 oranges stolen + 5 oranges returned = 30 oranges.
+
+Answer: 30

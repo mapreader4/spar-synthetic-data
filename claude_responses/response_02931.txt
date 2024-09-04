@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The class has 500 tables
+* The number of books on top of each table is 2/5 times the number of tables
+* To find the total number of books, we need to multiply the number of tables by the number of books per table
+
+First, let's find the number of books per table:
+* 2/5 times the number of tables = 2/5 * 500 = 200 books per table
+
+Now, to find the total number of books, we multiply the number of tables by the number of books per table:
+* 500 tables * 200 books per table = 100,000 books
+
+Answer: 100,000

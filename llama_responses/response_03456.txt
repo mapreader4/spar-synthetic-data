@@ -1,0 +1,13 @@
+Let's start by identifying the number of students in each group.
+
+The first group has 5 students.
+The second group has 8 students.
+The third group has 7 students.
+
+The total number of students is the sum of the students in each group.
+
+5 + 8 + 7 = 20
+
+So, the fourth group has 24 - 20 = 4 students.
+
+Answer: 4

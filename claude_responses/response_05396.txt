@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Justin needs to read at least 100 pages or more in one week to pass his class.
+* He has already read 10 pages on the first day.
+* For the remaining 6 days, he will read twice the amount of pages as the first day each day.
+
+So, let's calculate the number of pages he will read each day for the remaining 6 days:
+* Day 1: 10 pages
+* Day 2: 10 x 2 = 20 pages
+* Day 3: 20 x 2 = 40 pages
+* Day 4: 40 x 2 = 80 pages
+* Day 5: 80 x 2 = 160 pages
+* Day 6: 160 x 2 = 320 pages
+* Day 7: 320 x 2 = 640 pages
+
+Now, let's add up the total number of pages he will have read after the week is over:
+* 10 + 20 + 40 + 80 + 160 + 320 + 640 = 1270 pages
+
+Answer: 1270

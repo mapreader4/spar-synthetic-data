@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 804 senior high school students in total.
+* 75% of the 804 students passed their exams and got their degree.
+* To calculate 75% of 804, we can multiply 804 by 0.75:
+    * 804 x 0.75 = 603
+* So, 603 students passed their exams and got their degree.
+* The remaining students are the ones who didn't pass their exams.
+* To calculate the number of students who didn't pass, we subtract the number of students who passed from the total number of students:
+    * 804 - 603 = 201
+
+Answer: 201

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Shane takes 146 photos in the first 2 months of the year
+* In January, he takes 2 photos every day
+* There are 31 days in January
+* So in January, he takes 2 photos x 31 days = 62 photos
+* The remaining photos were taken in February
+* 146 photos - 62 photos (in January) = 84 photos taken in February
+* Since he took an equal number of photos each week in February, we can divide the 84 photos by the number of weeks in February to get the number of photos per week
+* There are 4 weeks in February
+* 84 photos / 4 weeks = 21 photos per week
+
+Answer: 21

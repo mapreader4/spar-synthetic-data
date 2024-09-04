@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+There are 14 years in total. Out of those 14 years, 8 seasons had 15 episodes. So, the average number of episodes per season for those 8 seasons is 15 episodes per season.
+
+Then, there are 14 - 8 = 6 seasons left, which had 4 seasons with 20 episodes each. So, the average number of episodes per season for those 4 seasons is 20 episodes per season.
+
+So, the total number of episodes for the remaining 6 seasons is 6 x 20 = 120 episodes.
+
+Now, we need to find the average number of episodes per year for the 14 years. The total number of episodes is 15 + 20 + 12 + 120 = 147 episodes. The average number of episodes per year is 147 episodes / 14 years = 10.5 episodes per year.
+
+Answer: 10

@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of adults. Since each of the 33 children ate 10 apples, that means that the total number of apples eaten by the children is 33 * 10 = 330.
+
+The total number of apples eaten in total is 450. Since the adults ate 3 apples each, the number of apples eaten by the adults is 3 * unknown, which we will call x. So, the total number of apples eaten by the adults is 3x.
+
+We know that the total number of apples eaten is 450, and we can set up the equation 3x + 330 = 450.
+
+To solve for x, we can subtract 330 from both sides of the equation, which leaves us with 120.
+
+So, x = 120.
+
+Answer: 120

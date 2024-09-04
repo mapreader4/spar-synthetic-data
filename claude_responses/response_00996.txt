@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) James pays $20 to enter the club.
+2) James buys 2 rounds for his 5 friends, which is 10 drinks at $6 each. That's 10 x $6 = $60.
+3) James buys 6 drinks for himself, which is 6 x $6 = $36.
+4) James orders fried chicken for $14.
+5) James leaves a 30% tip on the drinks and food he ordered. The total for the drinks and food is $60 + $36 + $14 = $110. The 30% tip on this is 0.3 x $110 = $33.
+6) Adding up all the costs:
+   - Club entry: $20
+   - Drinks for friends: $60
+   - Drinks for himself: $36
+   - Fried chicken: $14
+   - Tip: $33
+   - Total: $20 + $60 + $36 + $14 + $33 = $163
+
+Answer: 163

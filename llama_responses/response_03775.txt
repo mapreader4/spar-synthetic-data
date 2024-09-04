@@ -1,0 +1,34 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+* Greg's PPO algorithm obtained 90% of the possible reward on the CoinRun environment.
+* The maximum reward in CoinRun is half as much as the maximum ProcGen reward of 240.
+
+From the first statement, we know that the maximum reward in CoinRun is half of 240, which is 120.
+
+From the second statement, we know that Greg's PPO algorithm obtained 90% of the possible reward. Since the maximum reward in CoinRun is 120, we can set up an equation to represent the reward Greg's PPO algorithm obtained:
+
+Let x be the reward Greg's PPO algorithm obtained.
+
+We know that 90% of the possible reward is equal to the reward Greg's PPO algorithm obtained. So, we can set up the equation as:
+
+0.9x = x
+
+We can now solve for x, the reward Greg's PPO algorithm obtained:
+
+x = 0.9x = 0.9x
+
+Since we know that the maximum reward in CoinRun is 120, we can substitute x with 120:
+
+0.9x = 0.9(120)
+
+We can solve for x by dividing both sides by 0.9:
+
+x = 120 / 0.9
+x = 120 / 0.9
+x = 133.33
+
+So, the answer is:
+
+Answer: 133

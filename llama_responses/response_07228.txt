@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Pete reads x books in the first year and 2x books in the second year. We know that Matt reads 75 books in his second year. So, in his second year, he reads 75 - 50% more than what he read in the first year. That is, 75 - 50% of x = 125 - 50 = 75. So, x = 50.
+
+So, Pete reads 2 * 50 = 100 books in the first year and 125 books in the second year. Therefore, in total, Pete reads 100 + 125 = 225 books.

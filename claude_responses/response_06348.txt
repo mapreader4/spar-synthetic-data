@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* Jill has 9 llamas that got pregnant with 1 calf each, so that's 9 additional calves
+* Jill has 5 llamas that got pregnant with twins, so that's 10 additional calves
+* In total, Jill has 9 + 10 = 19 calves
+* Jill then trades 8 of the calves for 2 new adult llamas
+* So now Jill has 19 - 8 = 11 calves, and 2 new adult llamas
+* Jill then sells 1/3 of her herd at the market
+* Before the sale, Jill had the original number of adult llamas, plus the 2 new ones, which is 9 + 2 = 11 adult llamas
+* 1/3 of 11 adult llamas is 11/3 = 3.67 adult llamas sold
+* So Jill has 11 - 3 = 8 adult llamas left
+* Jill also has 11 calves left
+* Therefore, the total number of llamas (calves and adults) that Jill has now is 8 + 11 = 19
+
+Answer: 19

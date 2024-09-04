@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 920 deer in the park.
+2) 10% of the deer have 8 antlers. To find the number of 8-antlered deer, we take 10% of 920:
+   * 10% of 920 = 0.10 * 920 = 92 deer have 8 antlers.
+3) A quarter of the 8-antlered deer also have albino fur. To find the number of albino 8-antlered deer, we take a quarter of 92:
+   * 1/4 of 92 = 92 * 0.25 = 23 deer are albino 8-antlered deer.
+
+Answer: 23

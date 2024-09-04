@@ -1,0 +1,5 @@
+Let's break this problem down step by step:
+
+James scores 4 touchdowns per game, which means he scores 4 * 6 = 24 points per game.  He scores 24 points per game for a total of 15 games, which is 24 * 15 = 360 points.  He also scores 2 point conversions 6 times, which is 2 * 6 = 12 points.  The total points he scores is 360 + 12 = 372 points.
+
+The old record was 300 points.  James beat the old record by 372 - 300 = 72 points.

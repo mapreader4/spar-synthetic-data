@@ -1,0 +1,21 @@
+Let's break down the problem step by step:
+
+1. First, let's identify the books that are over $22.00 and apply the 30% discount.
+
+For the book with a price of $25.00, the discount would be 30% of $25.00, which is $7.50. So, the price after the discount would be $25.00 - $7.50 = $17.50.
+
+For the book with a price of $35.00, the discount would be 30% of $35.00, which is $10.50. So, the price after the discount would be $35.00 - $10.50 = $24.50.
+
+2. Next, let's identify the books that are under $20.00 and apply the 20% discount.
+
+For the book with a price of $18.00, the discount would be 20% of $18.00, which is $3.60. So, the price after the discount would be $18.00 - $3.60 = $14.40.
+
+For the book with a price of $12.00, the discount would be 20% of $12.00, which is $2.40. So, the price after the discount would be $12.00 - $2.40 = $9.60.
+
+For the book with a price of $10.00, the discount would be 20% of $10.00, which is $2.00. So, the price after the discount would be $10.00 - $2.00 = $8.00.
+
+3. Now, let's add up the prices of the books after the discounts:
+
+$17.50 + $24.50 + $14.40 + $9.60 + $8.00 = $74.00
+
+Answer: 74

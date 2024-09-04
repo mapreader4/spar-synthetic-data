@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+First, we know that Alan bought 20 eggs at $2 per egg. So, the total cost of the eggs is:
+
+20 eggs * $2 per egg = 20 * 2 = $40
+
+Next, we know that Alan bought 6 chickens for $8 per chicken. So, the total cost of the chickens is:
+
+6 chickens * $8 per chicken = 6 * 8 = $48
+
+Now, we need to add the cost of the eggs and the cost of the chickens to get the total amount of money spent at the market:
+
+$40 + $48 = $88
+
+Answer: 88

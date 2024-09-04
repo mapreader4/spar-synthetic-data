@@ -1,0 +1,17 @@
+To find the number of people in a city with 9000 cubic yards, we multiply the number of people per cubic yard by the number of cubic yards.
+
+Number of people per cubic yard is 80, so we multiply it by the number of cubic yards.
+
+For the city with 6400 cubic yards, we do the same calculation:
+
+Number of people = 80 x 6400 = 51200
+
+For the city with 9000 cubic yards, we do the same calculation:
+
+Number of people = 80 x 9000 = 72000
+
+Now, to find the difference in the number of people, we subtract the number of people in the city with 6400 cubic yards from the number of people in the city with 9000 cubic yards:
+
+72000 - 51200 = 20800
+
+Answer: 20800

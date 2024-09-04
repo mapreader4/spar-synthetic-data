@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+1. Let's calculate the distance Tim bikes each day to work: 20 miles * 5 days = 100 miles.
+
+2. Then, he bikes 200 miles on the weekend, so the total distance he bikes in a week is 100 + 200 = 300 miles.
+
+3. Now, we need to calculate the time he spends biking a week. Since he bikes at 25 mph, we can use the formula: time = distance / speed.
+
+4. Time = 300 miles / 25 mph = 12 hours.
+
+Answer: 12

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Justin bought 4 long-sleeved jerseys that cost $15 each
+* So the total cost of the long-sleeved jerseys is:
+  * 4 jerseys x $15 per jersey = $60
+* Justin spent a total of $80
+* So the remaining amount spent on the striped jerseys is:
+  * $80 - $60 = $20
+* The striped jerseys cost $10 each
+* To find how many striped jerseys he bought, we divide the remaining amount by the cost per jersey:
+  * $20 / $10 per jersey = 2 striped jerseys
+
+Answer: 2

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Peter has 20 books in total.
+2) Peter has read 40% of the 20 books.
+   * 40% of 20 books = 0.4 * 20 = 8 books
+3) Peter's brother has read 10% of the 20 books.
+   * 10% of 20 books = 0.1 * 20 = 2 books
+4) To find the difference between the number of books Peter has read and the number his brother has read, we subtract:
+   * 8 books (Peter) - 2 books (brother) = 6 books
+
+Answer: 6

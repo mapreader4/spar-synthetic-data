@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Amber worked for 12 hours last weekend
+* Armand worked one-third as long as Amber
+* To calculate Armand's hours, we take Amber's hours (12) and divide by 3:
+  * Armand's hours = 12 / 3 = 4 hours
+* Ella worked twice as long as Amber
+* To calculate Ella's hours, we take Amber's hours (12) and multiply by 2:
+  * Ella's hours = 12 * 2 = 24 hours
+* To find the total hours worked by the 3 people, we add up their individual hours:
+  * Total hours = Amber's hours + Armand's hours + Ella's hours
+  * Total hours = 12 + 4 + 24 = 40 hours
+
+Answer: 40 hours

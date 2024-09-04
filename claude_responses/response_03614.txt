@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The distance between Robin's house and the city center is 500 meters.
+2) Robin leaves his house and walks 200 meters towards the city center.
+3) He then realizes he forgot his bag and returns to his house.
+4) The distance he walked from his house to the point where he realized he forgot his bag is 200 meters.
+5) To return to his house, he needs to walk another 200 meters.
+6) Now he has to walk the full 500 meters to the city center.
+7) So the total distance he walks is:
+   - 200 meters to the point where he realized he forgot his bag
+   - 200 meters back to his house
+   - 500 meters to the city center
+8) Adding these up, the total distance he walks is:
+   200 + 200 + 500 = 900 meters
+
+Answer: 900

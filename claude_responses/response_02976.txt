@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Abigail built 10 fences
+* Each fence took her 30 minutes to build
+* She will be building fences for the next 8 hours
+
+First, we need to calculate how many fences she can build in 8 hours:
+* 8 hours = 480 minutes
+* 480 minutes / 30 minutes per fence = 16 fences
+
+Now, we add the 10 fences she has already built to the 16 fences she will build in the next 8 hours:
+* 10 fences + 16 fences = 26 fences
+
+Answer: 26

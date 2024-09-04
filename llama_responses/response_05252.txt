@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of parents who rated their children's online class experience as Excellent, which is 15%. This is given to us as a percentage, so we need to convert it to a fraction. To do this, we can convert the percentage to a decimal by dividing by 100, which gives us 0.15.
+
+Next, we are told that 60% of the respondents rated their experience as Very Satisfactory. We can convert this to a decimal by dividing by 100, which gives us 0.6.
+
+Now, we are left with the remaining respondents who did not rate their experience as Excellent or Very Satisfactory. This is the 100% - (15% + 60%) = 100% - 0.15 - 0.6 = 24.5% who rated their experience as Satisfactory.
+
+So, to find the number of parents who rated Needs Improvement, we can multiply the total number of respondents by the percentage that rated Needs Improvement, which is 100% - 24.5%. This gives us:
+
+Answer: 24

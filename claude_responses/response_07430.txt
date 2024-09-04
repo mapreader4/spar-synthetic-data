@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The park has 50 benches, and each bench can hold 4 people.
+2) The total capacity of all the benches is 50 benches * 4 people per bench = 200 people.
+3) On the Sunday afternoon, 80 people were sitting on the benches.
+4) To find the number of available spaces, we take the total capacity (200 people) and subtract the number of people currently sitting on the benches (80 people).
+5) 200 people - 80 people = 120 available spaces.
+
+Answer: 120

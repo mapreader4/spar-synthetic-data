@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The leak drips 3 drops per minute
+* Each drop is 20 ml
+* The pot holds 3 liters
+
+First, we need to convert the pot's capacity from liters to milliliters:
+* 3 liters = 3,000 ml
+
+Next, we need to calculate how many drops it will take to fill the pot:
+* 3,000 ml / 20 ml per drop = 150 drops
+
+Finally, we can calculate how long it will take to fill the pot:
+* 150 drops / 3 drops per minute = 50 minutes
+
+Answer: 50

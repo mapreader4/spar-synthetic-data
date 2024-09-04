@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+* The pizza had 12 slices total
+* Ron and his friends each ate 4 slices
+* To find the number of friends, we need to subtract Ron's 4 slices from the total 12 slices, and then divide the remaining slices by 4 (since each friend ate 4 slices)
+
+* Total slices: 12
+* Ron's slices: 4
+* Remaining slices: 12 - 4 = 8
+* Number of friends: 8 / 4 = 2
+
+Therefore, there were 2 friends with Ron.
+
+Answer: 2

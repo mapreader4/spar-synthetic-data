@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The first student guessed 100 jellybeans.
+* The second student said there are 8 times as many, so their guess is 8 * 100 = 800 jellybeans.
+* The third student guessed 200 less than the second student, so their guess is 800 - 200 = 600 jellybeans.
+* The fourth student took the average of the first three guesses, which is (100 + 800 + 600) / 3 = 500.
+* The fourth student then added 25 to the average, so their final guess is 500 + 25 = 525 jellybeans.
+
+Answer: 525

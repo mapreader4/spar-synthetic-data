@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Audrey is 7 years older than Heracles.
+2) In 3 years, Audrey will be twice as old as Heracles is now.
+3) Let's call Heracles' current age "x".
+4) Audrey's current age is x + 7.
+5) In 3 years, Audrey's age will be (x + 7) + 3 = x + 10.
+6) In 3 years, Heracles' age will be x + 3.
+7) We know that in 3 years, Audrey's age (x + 10) will be twice Heracles' current age (x).
+8) So we can write the equation: x + 10 = 2x
+9) Solving for x, we get: x = 10.
+Answer: 10

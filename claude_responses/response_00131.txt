@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mitchell had read 10 chapters before 4 o'clock
+* Each chapter has 40 pages
+* So, before 4 o'clock, Mitchell had read 10 * 40 = 400 pages
+* At 4 o'clock, Mitchell had read 20 pages of the 11th chapter
+* After 4 o'clock, Mitchell read 2 more chapters
+* Each chapter has 40 pages
+* So, after 4 o'clock, Mitchell read 2 * 40 = 80 pages
+* The total number of pages Mitchell read is the sum of the pages read before 4 o'clock and the pages read after 4 o'clock:
+* 400 + 20 + 80 = 500 pages
+
+Answer: 500

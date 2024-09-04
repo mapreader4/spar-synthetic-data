@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start with the information that there are 30 students in the class, and twice as many girls as boys. So, if there are 10 boys, then the number of girls must be 20 (10 * 2 = 20).
+
+We know that the total number of cups brought by the students is 90, and the boys brought 5 cups each. So, the total number of cups brought by the boys is 10 * 5 = 50.
+
+Since the total number of cups brought by the girls is 90 - 50 = 40, each girl brought 40/20 = 2 cups.
+
+Answer: 2

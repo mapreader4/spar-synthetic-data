@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Alfonso earns $6 each day, so in 1 week, he earns $6 x 7 = $42.
+
+He already has $40, so he needs to earn $340 - $40 = $300 more.
+
+To earn $300, he needs to work for 300 / 6 days per week, so in total, he needs to work 300 / 6 = 50 weeks.
+
+Answer: 50

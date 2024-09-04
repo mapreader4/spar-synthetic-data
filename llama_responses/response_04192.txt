@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start with the number of red chairs: 5.
+
+There are 4 times as many yellow chairs as red chairs, which means there are 5 * 4 = 20 yellow chairs.
+
+There are 2 fewer blue chairs than yellow chairs, which means there are 20 - 2 = 18 blue chairs.
+
+Now, let's add the number of red chairs, yellow chairs, and blue chairs together: 5 + 20 + 18 = 43.
+
+Answer: 43

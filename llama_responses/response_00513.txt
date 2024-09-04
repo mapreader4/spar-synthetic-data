@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+We know that Jennifer has 10 pears and 20 oranges. We are told that she has twice as many apples as pears, so she has 2 * 10 = 20 apples.
+
+So, the total number of fruits she has is 10 + 20 + 20 = 30.
+
+If she gives her sister 2 of each fruit, she will give away 2 pears, 2 oranges, and 2 apples. So, the number of fruits she has left is 30 - 6 = 24.
+
+Answer: 24

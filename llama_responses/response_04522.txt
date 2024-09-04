@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Tim owns two apartment complexes with 12 apartments each. So, the total number of apartments is 2 x 12 = 24 apartments.
+
+2. Each apartment has one lock. So, the total number of locks is 24.
+
+3. Since Tim needs 3 keys per lock, we need to divide the total number of locks by 3. 24 ÷ 3 = 8.
+
+Answer: 8

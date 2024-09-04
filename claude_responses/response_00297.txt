@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Bert uses up a pencil every two weeks
+* It takes him 1050 words to use up a pencil
+* We need to find the average number of words in each crossword puzzle
+
+To find the average number of words in each crossword puzzle, we need to divide the total number of words used up by the pencil by the number of crossword puzzles completed in two weeks.
+
+We know that Bert uses up a pencil every two weeks, and it takes him 1050 words to use up a pencil. This means that in two weeks, he uses 1050 words.
+
+Now, we need to find how many crossword puzzles he completes in two weeks. Since he completes one crossword puzzle per day, in two weeks (14 days) he completes 14 crossword puzzles.
+
+Therefore, the average number of words in each crossword puzzle is:
+1050 words / 14 puzzles = 75 words per puzzle
+
+Answer: 75

@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's first identify the given information:
+
+* 6th graders' average GPA is 93.
+* 7th graders' average GPA is 2 more than the 6th graders, so 93 + 2 = 95.
+* 8th graders' average GPA is 91.
+
+To find the average GPA for the school, we need to add up the GPAs and divide by the number of grades.
+
+Let's add the GPAs: 93 + 95 + 91 = 219.
+
+There are 3 grades. To find the average, we divide the sum by 3: 219 / 3 = 73.
+
+Answer: 73

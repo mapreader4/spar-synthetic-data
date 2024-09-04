@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Marcus's car had 1728 miles on it initially. He filled his empty gas tank twice. So, the amount of gas he used is 2 x 20 = 40 gallons.
+
+Marcus's car gets 30 miles per gallon, so the total distance he can travel with the 40 gallons of gas is 30 x 40 = 1200 miles.
+
+Now, let's subtract the initial 1728 miles from the total distance he can travel with the 40 gallons of gas. This gives us the remaining miles:
+
+1728 - 1200 = 528
+
+Answer: 528

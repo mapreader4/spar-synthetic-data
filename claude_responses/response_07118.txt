@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Mrs. Dunbar needs to make 5 bouquets
+* Each bouquet requires 5 white roses
+* So for the 5 bouquets, she needs 5 * 5 = 25 white roses
+* Mrs. Dunbar also needs to make 7 table decorations
+* Each table decoration requires 12 white roses
+* So for the 7 table decorations, she needs 7 * 12 = 84 white roses
+* To find the total number of white roses needed, we add the number of roses for the bouquets and the table decorations:
+* 25 + 84 = 109
+Answer: 109

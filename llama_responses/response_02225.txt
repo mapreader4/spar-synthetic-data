@@ -1,0 +1,45 @@
+Let's break this problem down step by step.
+
+Let's start with what we know. Mario's salary increased by 40% to $4000 this year. This means that Mario's current salary is $4000 more than his salary last year.
+
+We are told that Bob's salary from last year was equal to three times Mario's salary this year. So, we can set up an equation to represent this information:
+
+Mario's salary last year = 3 * Mario's salary this year
+
+We are also given that Bob's current salary is 20% more than his salary last year. So, we can set up another equation to represent this information:
+
+Bob's current salary = Bob's salary last year + 20%
+
+We can simplify the first equation to get Mario's salary last year:
+
+Mario's salary last year = Mario's salary this year / 1.4
+
+Now we can substitute this expression into the second equation:
+
+Bob's current salary = (Mario's salary this year / 1.4) + 20%
+
+We can now solve for Bob's current salary:
+
+Bob's current salary = (Mario's salary this year / 1.4) + (Mario's salary this year / 1.4) * 0.2
+
+To solve this, we need to know Mario's salary this year. We are given that Mario's salary increased by 40% to $4000 this year. So, we can write:
+
+Mario's salary this year = Mario's salary last year + 4000
+
+Substituting this into our equation:
+
+Bob's current salary = (Mario's salary last year + 4000) / 1.4 + (Mario's salary last year + 4000) * 0.2
+
+To simplify, we can combine the like terms:
+
+Bob's current salary = (Mario's salary last year + 4000) * 1.2
+
+We can now solve for Bob's current salary:
+
+Bob's current salary = 1.2 * (Mario's salary last year + 4000)
+
+Bob's current salary = 1.2 * 6000
+
+Bob's current salary = 7200
+
+Answer: 7200

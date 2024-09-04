@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The number of people living per cubic yard is 80.
+2) The first city has 6400 cubic yards.
+   * The number of people in the first city is 6400 * 80 = 512,000 people.
+3) The second city has 9000 cubic yards.
+   * The number of people in the second city is 9000 * 80 = 720,000 people.
+4) To find the difference in the number of people between the two cities, we subtract the number of people in the first city from the number of people in the second city.
+   * 720,000 - 512,000 = 208,000 people.
+
+Answer: 208,000

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The students have a total of 3 breaks a day. 
+2. The 15-minute recesses are combined, and the 30-minute lunch and 20-minute recess are also combined. 
+3. The total time spent outside of class is the sum of these two combinations.
+
+So, the total time spent outside of class is 15 + 30 + 20 = 65 minutes. 
+
+Answer: 65

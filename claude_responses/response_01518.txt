@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Total number of cupcakes ordered: 80
+* Half of the cupcakes are gluten-free: 80 / 2 = 40 gluten-free cupcakes
+* There are 24 vegan cupcakes
+* Half of the vegan cupcakes are also gluten-free: 24 / 2 = 12 vegan gluten-free cupcakes
+
+Now, to find the number of non-vegan cupcakes that contain gluten, we need to subtract the number of gluten-free cupcakes (both vegan and non-vegan) from the total number of cupcakes:
+* Total cupcakes - Gluten-free cupcakes = Non-gluten-free cupcakes
+* 80 - 40 - 12 = 28 non-vegan cupcakes that contain gluten
+
+Answer: 28

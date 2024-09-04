@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The class is composed of 12 girls and 10 boys, for a total of 22 students.
+2) The teacher found that only 5/6 of the girls are reading.
+   * This means that 1/6 of the girls are not reading.
+   * 1/6 of 12 girls = 2 girls are not reading.
+3) The teacher also found that only 4/5 of the boys are reading.
+   * This means that 1/5 of the boys are not reading.
+   * 1/5 of 10 boys = 2 boys are not reading.
+4) Adding the number of girls and boys who are not reading:
+   * 2 girls + 2 boys = 4 students are not reading.
+
+Answer: 4

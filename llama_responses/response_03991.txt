@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+There are 2 schools, one elementary and one middle school.
+
+The elementary school has 4 classes, so the public official would donate 5 * 4 = 20 soccer balls to the elementary school.
+
+The middle school has 5 classes, so the public official would donate 5 * 5 = 25 soccer balls to the middle school.
+
+In total, the public official would donate 20 + 25 = 45 soccer balls in all.
+
+Answer: 45

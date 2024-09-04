@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of cars the company needs to produce in a year. Since the company wants to reach 1800 cars in a year, we can find the monthly production rate by dividing the total number of cars by the number of months in a year.
+
+There are 12 months in a year, so:
+
+1800 cars per year ÷ 12 months = 150 cars per month
+
+The company currently produces 100 cars per month, so it needs to increase the production rate by:
+
+150 - 100 = 50
+
+So, the company should add 50 cars to its monthly production rate to reach its target of 1800 cars per year.

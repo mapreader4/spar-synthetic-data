@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Joel picked 7 peppers on Sunday, 12 on Monday, 14 on Tuesday, 12 on Wednesday, 5 on Thursday, and 12 on Saturday.
+
+The total number of peppers he picked is 7 + 12 + 14 + 12 + 12 + 5 + 12 = 52.
+
+Since 20% of the peppers are hot, we need to find 20% of the total number of peppers. 20% of 52 is 10.4. Since we can't have a fraction of a pepper, we round down to the nearest whole number, which is 10.
+
+So, the number of non-hot peppers is 52 - 10 = 42.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The whole pizza was cut into 8 slices
+* Angeli ate 3/2 slices
+* Marlon ate 3/2 slices
+* To find the total number of slices eaten, we add Angeli's and Marlon's slices:
+  * Angeli's slices: 3/2
+  * Marlon's slices: 3/2
+  * Total slices eaten: 3/2 + 3/2 = 3
+* The original pizza had 8 slices, and 3 slices were eaten, so the number of slices left is:
+  * 8 - 3 = 5
+
+Answer: 5

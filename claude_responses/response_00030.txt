@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each personal pan pizza is cut into 4 pieces
+* Bill and Dale each eat 50% of their pizzas
+* Ann and Cate each eat 75% of their pizzas
+
+First, let's calculate how many pieces each person has left uneaten:
+* Bill and Dale each have 50% of their 4 pieces left, which is 2 pieces each
+* Ann and Cate each have 25% of their 4 pieces left, which is 1 piece each
+
+Now, we add up the total number of pieces left uneaten:
+* 2 pieces (Bill) + 2 pieces (Dale) + 1 piece (Ann) + 1 piece (Cate) = 6 pieces
+
+Answer: 6

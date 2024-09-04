@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* It takes the Polar Bears 30 minutes to fully navigate around the volcanic island once.
+* On Saturday, they started by rounding the island once, which took 30 minutes.
+* They then completed 10 more rounds that day, which would take 10 * 30 = 300 minutes.
+* So the total time spent on Saturday was 30 + 300 = 330 minutes.
+* On Sunday, they completed 15 more rounds, which would take 15 * 30 = 450 minutes.
+* To calculate the total time spent circling the island over the weekend, we add the time spent on Saturday and Sunday:
+* 330 minutes + 450 minutes = 780 minutes.
+
+Answer: 780

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Eduardo taught 3 classes last week
+* Frankie taught double the number of classes that Eduardo taught
+* To find the total number of classes taught by Eduardo and Frankie, we need to add Eduardo's classes and Frankie's classes
+
+First, let's find out how many classes Frankie taught:
+* Frankie taught double the number of classes that Eduardo taught
+* So, Frankie taught 2 x 3 = 6 classes
+
+Now, we can find the total number of classes taught by Eduardo and Frankie:
+* Eduardo taught 3 classes
+* Frankie taught 6 classes
+* The total number of classes taught is 3 + 6 = 9 classes
+
+Answer: 9

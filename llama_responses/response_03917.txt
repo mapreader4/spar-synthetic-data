@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, Jack had to wait 20 hours in customs. Then, he had to wait 14 days in coronavirus quarantine.
+
+To find the total hours, we need to convert the 14 days into hours. There are 24 hours in a day, so we can multiply 14 days by 24 hours to get the total hours:
+
+14 days * 24 hours = 336 hours
+
+Adding the 20 hours in customs, we get:
+
+20 hours + 336 hours = 336 + 20 = 356 hours
+
+So, Jack had a total of 356 hours to wait.

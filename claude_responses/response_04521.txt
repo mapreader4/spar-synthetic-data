@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* John gets a new EpiPen every 6 months
+* Each EpiPen costs $500
+* Insurance covers 75% of the cost
+
+To calculate how much John pays per year, we need to:
+1. Calculate the total cost of an EpiPen
+2. Calculate how much insurance covers
+3. Calculate how much John pays for each EpiPen
+4. Calculate how many EpiPens John needs per year
+5. Multiply the amount John pays per EpiPen by the number of EpiPens per year
+
+1. Total cost of an EpiPen: $500
+2. Amount covered by insurance: 75% of $500 = $375
+3. Amount John pays per EpiPen: $500 - $375 = $125
+4. Number of EpiPens per year: 12 months / 6 months = 2 EpiPens per year
+5. Total amount John pays per year: $125 x 2 = $250
+
+Answer: $250

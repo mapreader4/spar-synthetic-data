@@ -1,0 +1,7 @@
+Okay, let's break this down step by step:
+* Initially, Brian can hold his breath for 10 seconds.
+* After the first week, he has doubled the time he can hold his breath, so now he can hold his breath for 10 x 2 = 20 seconds.
+* After the second week, he has doubled the time again, so now he can hold his breath for 20 x 2 = 40 seconds.
+* After the third week, he has increased the time by 50% from the previous week, so now he can hold his breath for 40 x 1.5 = 60 seconds.
+
+Answer: 60 seconds.

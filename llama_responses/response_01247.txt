@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of cards that were divided by Ellis and Orion.
+
+The ratio of cards given to Ellis and Orion is 11:9. This means that for every 11 cards that Orion got, Ellis got 9 cards.
+
+Let's write an equation to represent this ratio:
+
+Let x be the number of cards that Orion got. Then, we know that the total number of cards is 500.
+
+We can write the equation as follows:
+
+11x = 9x
+
+To solve for x, we can divide both sides by 9:
+
+x = 500 / 9
+
+x = 55
+
+So, Orion got 55 cards.
+
+Ellis got 500 - 55 cards. To find this number, we can subtract 55 from 500:
+
+500 - 55 = 445
+
+So, Ellis got 445 cards.
+
+Answer: 445

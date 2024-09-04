@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Rudy runs 5 miles at a rate of 10 minutes per mile, so the time taken to run 5 miles is 5 * 10 = 50 minutes.
+
+Rudy runs 4 miles at a rate of 9.5 minutes per mile, so the time taken to run 4 miles is 4 * 9.5 = 38 minutes.
+
+The total length of time Rudy runs is 50 + 38 = 88 minutes. 
+
+Answer: 88

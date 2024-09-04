@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. We start with the following number of fish in the tank:
+   - 94 guppies
+   - 76 angelfish
+   - 89 tiger sharks
+   - 58 Oscar fish
+   - Total: 94 + 76 + 89 + 58 = 317 fish
+
+2. Danny sells the following number of fish:
+   - 30 guppies
+   - 48 angelfish
+   - 17 tiger sharks
+   - 24 Oscar fish
+   - Total sold: 30 + 48 + 17 + 24 = 119 fish
+
+3. To find the number of fish remaining, we subtract the number of fish sold from the total number of fish in the tank:
+   - 317 - 119 = 198 fish
+
+Answer: 198

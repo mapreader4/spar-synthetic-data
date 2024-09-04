@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Reginald sells each apple for $1.25.
+2) His bike cost $80 and the repairs cost 25% of what his bike cost.
+   * Repairs cost = 25% of $80 = 0.25 * $80 = $20
+   * Total cost of bike and repairs = $80 + $20 = $100
+3) After the repairs are paid for, 1/5 of the money he'd earned remains.
+   * Let's call the total amount of money he earned "x".
+   * After repairs are paid for, 4/5 of x remains.
+   * 4/5 of x = $100
+   * x = $100 / (4/5) = $125
+4) Now we can calculate how many apples he sold:
+   * Each apple sells for $1.25
+   * Total earnings = $125
+   * Number of apples sold = $125 / $1.25 = 100 apples
+
+Answer: 100 apples

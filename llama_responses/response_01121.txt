@@ -1,0 +1,34 @@
+Let's break it down step by step.
+
+Let's start with what we know:
+
+* Alice has 60 pens.
+* Clara has 2/5 as many pens as Alice, which means Clara has 60/5 = 12 pens.
+* Alice's age is 20.
+* Clara is older than Alice.
+
+Let's find the age difference between Alice and Clara. Since Clara is older, we can subtract Alice's age from Clara's age to find the age difference.
+
+Clara's age = Alice's age + age difference
+
+We know Clara's age is unknown, so let's call it 'x'. So, we can write:
+
+x = Clara's age = Alice's age + age difference
+
+We know Alice's age is 20, so:
+
+x = 20 + age difference
+
+We know Clara has 12 pens, which is 2/5 as many pens as Alice. So, the age difference is:
+
+age difference = 12 - 20 = -8
+
+So, the age difference is -8.
+
+Clara is 8 years older than Alice.
+
+Now, we need to find Clara's age in 5 years to come. We can add the age difference to Clara's age to find her age in 5 years.
+
+Clara's age in 5 years = Clara's age + age difference = 8 + 5 = 13
+
+Answer: 13

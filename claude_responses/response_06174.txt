@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The recipe for 1 batch of cookies calls for 2 cups of flour.
+2) Gigi bakes 3 batches of cookies.
+3) So the total amount of flour used for the 3 batches is:
+   3 batches x 2 cups of flour per batch = 6 cups of flour
+4) Gigi's bag of flour contains 20 cups of flour.
+5) The remaining amount of flour is:
+   20 cups - 6 cups = 14 cups of flour
+6) The recipe calls for 2 cups of flour per batch.
+7) Therefore, the number of additional batches Gigi could make with the remaining 14 cups of flour is:
+   14 cups of flour / 2 cups of flour per batch = 7 batches
+
+Answer: 7

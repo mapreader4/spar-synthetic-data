@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The number of students has increased by 20% this year
+* The number of students this year is 960
+* To find the number of students last year, we need to work backwards from the 20% increase
+
+First, let's calculate the increase in the number of students:
+* 20% increase means the number of students has increased by 20% of the original number
+* 20% of the original number is 0.20 * original number
+* So the increase in the number of students is 0.20 * original number
+
+Now, we can use this information to find the original number of students (last year's number):
+* Current number of students (this year) = original number + increase
+* 960 = original number + 0.20 * original number
+* 960 = 1.20 * original number
+* Original number = 960 / 1.20
+* Original number = 800
+
+Therefore, the number of students last year was 800.
+
+Answer: 800

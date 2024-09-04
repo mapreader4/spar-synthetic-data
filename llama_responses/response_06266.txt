@@ -1,0 +1,23 @@
+Let's break it down step by step.
+
+Let's say the number of raffle tickets sold on Saturday is x.
+
+Addison sold 181 raffle tickets on Friday, and then she sold twice as many on Saturday, which is 2 * x.
+
+So, the total number of raffle tickets sold on Saturday is 2x.
+
+Addison sold 78 raffle tickets on Sunday.
+
+To find the difference between the number of raffle tickets sold on Saturday and Sunday, we need to subtract the number of raffle tickets sold on Sunday from the number of raffle tickets sold on Saturday. So, we need to subtract 78 from 2x.
+
+2x - 78 =?
+
+To solve for x, we need to divide both sides by -78.
+
+2x = -78 / 2
+
+x = -39
+
+So, the answer is 39.
+
+Answer: 39

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of fish in each of their aquariums.
+
+Micah has 7 fish.
+Kenneth has 3 times as many fish as Micah, so Kenneth has 7 * 3 = 21 fish.
+Matthias has 15 less fish than Kenneth, so Matthias has 21 - 15 = 6 fish.
+
+Now, let's add the number of fish each of the boys has to get the total number of fish.
+
+Micah has 7 fish.
+Kenneth has 21 fish.
+Matthias has 6 fish.
+
+The boys have a total of 7 + 21 + 6 = 34 fish.
+
+Answer: 34

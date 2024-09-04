@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of bowls that Travis needs to deliver. The problem states that Travis is taking 638 bowls from the factory to the home goods store. So, the total number of bowls is 638.
+
+Next, we need to calculate the total cost of the delivery. The home goods store will pay the moving company a $100 fee, plus $3 for every bowl that is delivered safely. We know that 615 bowls are delivered safely, so the cost of the delivery is 615 x $3 = $1,845. The total cost is the $100 fee plus the cost of the delivery, which is $1,845, so the total cost is $1,900.
+
+Now, we need to subtract the cost of the broken bowls from the total cost. The problem states that 15 bowls are broken, so we need to subtract 15 from 1,900. This gives us 1,885.
+
+Finally, we need to subtract the cost of the lost bowls from the total cost. The problem states that 12 bowls are lost, so we need to subtract 12 from 1,885. This gives us 1,873.
+
+Answer: 1,873

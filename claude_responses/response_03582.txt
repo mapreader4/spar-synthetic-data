@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The old camera cost $4000.
+2) The new model costs 30% more than the old model.
+   * To calculate the new model's cost, we take the old model's cost ($4000) and increase it by 30%.
+   * 30% of $4000 is $1200.
+   * So the new model's cost is $4000 + $1200 = $5200.
+3) Mike bought a $400 lens and got $200 off.
+   * So the final cost of the lens is $400 - $200 = $200.
+4) To calculate the total amount Mike paid, we add the cost of the new camera ($5200) and the cost of the lens ($200).
+
+Answer: $5400

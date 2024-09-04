@@ -1,0 +1,5 @@
+Let's start by identifying the length of the playlist. Minnie has added 16 three-minute songs, which is a total of 16 x 3 = 48 minutes. Since the playlist is supposed to be an hour long, which is 60 minutes, she needs to add songs that will make it 60 - 48 = 12 minutes. 
+
+We can find the number of four-minute songs she needs to add by dividing 12 minutes by 4, because four-minute songs are four minutes each. 12 ÷ 4 = 3. 
+
+Answer: 3

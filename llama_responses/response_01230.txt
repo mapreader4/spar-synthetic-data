@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Casey needs to apply a base coat, a coat of paint, and a coat of glitter on each nail. So, for each nail, she needs to apply 3 coats.
+
+It takes 20 minutes to apply each coat, and 20 minutes for each coat to dry before applying the next one. So, it takes a total of 40 minutes for each coat to be applied and dried (20 minutes to apply + 20 minutes to dry).
+
+Since Casey has 10 fingernails and 10 toenails, she has a total of 20 nails. Since each nail needs 3 coats, she will need to apply and dry 3 x 20 = 60 coats in total.
+
+So, the total time it will take Casey to apply and dry all the coats is 60 x 40 = 2400 minutes.
+
+Answer: 2400

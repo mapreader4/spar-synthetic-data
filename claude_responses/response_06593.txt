@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 4 carriages in a train.
+2) Each carriage has 25 seats.
+3) If each carriage could accommodate 10 more passengers, that means each carriage can hold 25 + 10 = 35 passengers.
+4) So the total number of passengers that can fit in one train is 4 carriages x 35 passengers per carriage = 140 passengers.
+5) The question asks how many passengers would fill up 3 trains.
+6) Since each train can hold 140 passengers, 3 trains can hold 3 x 140 = 420 passengers.
+
+Answer: 420

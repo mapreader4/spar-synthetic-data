@@ -1,0 +1,10 @@
+Let's break this down step by step.
+
+1. John takes 3 days off of streaming per week, which means he streams for 3 days a week.
+2. On the days he does stream, he streams for 4 hours at a time.
+3. Since he makes $10 an hour, he makes $40 per hour for each of the 4 hours he streams.
+4. Since he streams for 4 hours, he makes $40 * 4 = $160.
+5. Since he streams for 3 days, he makes $160 * 3 = $480.
+6. So, John makes $480 in a week.
+
+Answer: 480

@@ -1,0 +1,11 @@
+To solve this problem, we can break it down step by step.
+
+Step 1: Convert the total distance to hours to minutes: 2,790 miles to hours = 2,790 / 60 = 46.5 hours
+
+Step 2: Calculate the number of breaks they will take. Since they will take a break every 5 hours, the number of breaks is 46.5 / 5 = 9.3. Since they will take 30 minutes for each break, the total break time is 9.3 * 30 = 279 minutes.
+
+Step 3: Add the break time to the total time: 46.5 + 279 = 126.5 hours
+
+Step 4: The total time spent in the hotel is 30 minutes, which is 0.5 hours. Add this to the total time: 126.5 + 0.5 = 127 hours.
+
+Answer: 127

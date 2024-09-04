@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The company needs 1.5 grams of sugar to produce one chocolate bar.
+2) The company produces 36 chocolate bars per minute.
+3) We want to know how many grams of sugar the company will use in two minutes.
+4) In one minute, the company uses 1.5 grams of sugar per chocolate bar * 36 chocolate bars = 54 grams of sugar.
+5) In two minutes, the company will use 54 grams of sugar per minute * 2 minutes = 108 grams of sugar.
+
+Answer: 108

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The baker bakes 5 loaves of bread per hour in one oven
+* The baker has 4 ovens
+* So in one hour, the baker can bake 5 loaves x 4 ovens = 20 loaves of bread
+* From Monday to Friday, the baker bakes for 5 hours per day
+* So in a weekday, the baker can bake 20 loaves/hour x 5 hours = 100 loaves of bread
+* On Saturday and Sunday, the baker bakes for 2 hours per day
+* So on a weekend day, the baker can bake 20 loaves/hour x 2 hours = 40 loaves of bread
+* In one week, the baker bakes:
+  - 5 weekdays x 100 loaves/day = 500 loaves
+  - 2 weekend days x 40 loaves/day = 80 loaves
+  - Total for one week = 500 + 80 = 580 loaves
+* In 3 weeks, the baker bakes:
+  - 3 weeks x 580 loaves/week = 1,740 loaves
+
+Answer: 1,740 loaves of bread

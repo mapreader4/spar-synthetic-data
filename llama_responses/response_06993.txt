@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+The area of each wall is 2 x 3 = 6 square meters.  There are 5 walls, so the total area is 6 * 5 = 30 square meters.
+
+John can paint 1 square meter every 10 minutes.  In 10 hours, he can paint 10 * 6 = 60 square meters.
+
+The area left to be painted is 30 - 60 = 30 square meters.  He has 3 hours to paint the remaining area.

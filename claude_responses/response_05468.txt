@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Dulce's father has 8 orange trees on his farm.
+2) Each tree has 200 fruits.
+3) Dulce picks 2/5 of the oranges from each tree.
+4) To calculate the total number of fruits remaining, we need to first find the number of fruits Dulce picks from each tree.
+5) 2/5 of 200 fruits = 2/5 * 200 = 80 fruits picked from each tree.
+6) Now, we need to find the number of fruits remaining on each tree.
+7) 200 fruits - 80 fruits picked = 120 fruits remaining on each tree.
+8) With 8 trees, the total number of fruits remaining is 8 * 120 = 960 fruits.
+
+Answer: 960

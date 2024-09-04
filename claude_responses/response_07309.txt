@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Aaron makes 10 scarves and 5 sweaters.
+2) Each scarf uses 3 balls of wool, so for the 10 scarves, Aaron used 10 * 3 = 30 balls of wool.
+3) Each sweater uses 4 balls of wool, so for the 5 sweaters, Aaron used 5 * 4 = 20 balls of wool.
+4) In total, Aaron used 30 + 20 = 50 balls of wool.
+5) Enid makes 8 sweaters, and each sweater uses 4 balls of wool, so Enid used 8 * 4 = 32 balls of wool.
+6) Adding up the total balls of wool used by Aaron and Enid, we get 50 + 32 = 82 balls of wool.
+
+Answer: 82

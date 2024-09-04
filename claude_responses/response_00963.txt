@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The total number of guests is 80
+* 40 of the guests are men
+* Half the number of men are women, so the number of women is 20
+* The remaining guests are children, so the number of children is 80 - 40 - 20 = 20
+* Oleg added 10 children to the guest list
+* Therefore, the total number of children at the event is 20 + 10 = 30
+
+Answer: 30

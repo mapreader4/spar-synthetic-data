@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total amount of money that Danielle will pay over the 10 years. We know that the total amount is the original price of the house, which is $280,000. We also know that she pays a $40,000 deposit, which is subtracted from the total price. So, the remaining amount is:
+
+$280,000 - $40,000 = $240,000
+
+Now, we need to find out how much she will pay each month. Since she pays the mortgage over 10 years, we can find the monthly payment by dividing the remaining amount by the number of months.
+
+$240,000 / 120 (since 10 years is equal to 120 months) = $2,000 per month
+
+So, Danielle pays $2,000 each month.

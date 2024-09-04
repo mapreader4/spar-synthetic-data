@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Pumpkin pie is cut into 8 pieces, and Teal sells 4 pumpkin pies
+* So, the total number of pumpkin pie slices sold is 4 pies x 8 slices per pie = 32 pumpkin pie slices
+* Pumpkin pie slices are sold for $5 each
+* So, the total revenue from pumpkin pie sales is 32 slices x $5 per slice = $160
+
+* Custard pie is cut into 6 pieces, and Teal sells 5 custard pies
+* So, the total number of custard pie slices sold is 5 pies x 6 slices per pie = 30 custard pie slices
+* Custard pie slices are sold for $6 each
+* So, the total revenue from custard pie sales is 30 slices x $6 per slice = $180
+
+* To calculate the total revenue, we add the revenue from pumpkin pie sales and custard pie sales:
+* Total revenue = $160 + $180 = $340
+
+Answer: $340

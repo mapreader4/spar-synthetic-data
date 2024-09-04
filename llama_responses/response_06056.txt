@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start with Paul's arrival time, which is 8:25 a.m. Amoura arrived 30 minutes later than Paul, so Amoura's arrival time would be 8:25 + 30 = 8:55 a.m.
+
+Now, Ingrid was three times later than Amoura, so we need to add 3 times the time difference between Amoura's arrival time and Paul's arrival time. The time difference is 8:55 - 8:25 = 30 minutes. So, we need to multiply 30 minutes by 3, which is 30 * 3 = 90 minutes.
+
+So, Ingrid's arrival time would be 8:25 + 90 = 9:35 a.m.
+
+Answer: 65

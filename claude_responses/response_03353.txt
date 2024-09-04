@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Joseph gave 23 cards to each of his 15 students
+* To calculate the total number of cards given to the students, we multiply 23 cards per student by 15 students:
+  * 23 cards per student x 15 students = 345 cards
+* Joseph had 12 cards left
+* To find the total number of cards Joseph had at first, we add the number of cards given to the students (345) and the number of cards left (12):
+  * 345 cards + 12 cards = 357 cards
+
+Answer: 357

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We know that 3 plastic chairs cost as much as a portable table.
+2) We also know that 5 plastic chairs cost $55.
+3) To find the cost of a single plastic chair, we can divide $55 by 5, which gives us $11 per chair.
+4) Since 3 plastic chairs cost as much as a portable table, we can divide the cost of 3 chairs ($33) to find the cost of the portable table.
+5) The cost of the portable table is $33.
+6) Manny wants to buy 1 portable table and 2 chairs.
+7) The cost of the portable table is $33, and the cost of 2 chairs is 2 * $11 = $22.
+8) The total cost for Manny is $33 + $22 = $55.
+9) Manny has $100, so the amount left in his budget is $100 - $55 = $45.
+
+Answer: $45

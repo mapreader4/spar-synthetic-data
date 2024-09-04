@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Gary has 6 pounds of flour total.
+2. He will use 4 pounds of flour to make cakes, which require 0.5 pounds of flour each.
+   * So, the number of cakes he can make is 4 pounds / 0.5 pounds per cake = 8 cakes.
+3. The remaining 2 pounds of flour will be used to bake cupcakes, which require 1/5 pounds of flour each.
+   * So, the number of cupcakes he can make is 2 pounds / (1/5 pounds per cupcake) = 10 cupcakes.
+4. He plans to sell the cakes for $2.5 each and the cupcakes for $1 each.
+   * The total revenue from selling the cakes is 8 cakes x $2.5 per cake = $20.
+   * The total revenue from selling the cupcakes is 10 cupcakes x $1 per cupcake = $10.
+5. The total amount Gary will earn is the sum of the revenue from the cakes and the cupcakes:
+   * Total Earnings = $20 + $10 = $30.
+
+Answer: $30.

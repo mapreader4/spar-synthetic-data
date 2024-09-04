@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The mural is 20 ft by 15 ft, so the total area of the mural is 20 ft x 15 ft = 300 square feet.
+2) It takes James 20 minutes to paint 1 square foot, so to paint the entire 300 square foot mural, it will take him:
+   * 300 square feet x 20 minutes/square foot = 6,000 minutes
+3) There are 60 minutes in an hour, so 6,000 minutes is equivalent to:
+   * 6,000 minutes / 60 minutes/hour = 100 hours
+4) James charges $150 per hour, so the total cost to paint the mural is:
+   * 100 hours x $150/hour = $15,000
+
+Answer: $15,000

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bike clamps given to customers. Since the store gives 2 bike clamps for every bike sold, we need to multiply the total number of bikes sold by 2.
+
+The store sells 19 bikes in the morning and 27 bikes in the afternoon. To find the total number of bikes sold, we add the two numbers together: 19 + 27 = 46.
+
+Now, we multiply the total number of bikes sold by 2 to find the total number of bike clamps given to customers: 46 * 2 = 92.
+
+Answer: 92

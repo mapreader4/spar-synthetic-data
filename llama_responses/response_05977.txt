@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first calculate the total salary the teacher will earn in the new job:
+
+The teacher's current salary is 45,000 per year. If they get a 20% raise, that means they will earn 45,000 * (1 + 0.20) = 54,000 per year.
+
+Now, there are 9 parents. To find out how much each parent has to pay, we need to divide the total salary by the number of parents:
+
+54,000 / 9 = 6,000.
+
+Answer: 6,000

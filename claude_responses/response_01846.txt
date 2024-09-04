@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Bob's original bill was $30
+* Bob's discount is 5%, so his new bill is $30 - (5% of $30) = $30 - $1.50 = $28.50
+* Kate's original bill was $25
+* Kate's discount is 2%, so her new bill is $25 - (2% of $25) = $25 - $0.50 = $24.50
+* To find the total amount they have to pay, we add Bob's new bill and Kate's new bill:
+* $28.50 + $24.50 = $53.00
+
+Answer: 53

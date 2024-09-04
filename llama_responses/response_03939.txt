@@ -1,0 +1,14 @@
+Let's start by identifying the information given:
+
+1. Patty's dress was $10 more than Ida's dress.
+2. Ida's dress was $30 more than Jean's dress.
+3. Jean's dress was $10 less than Pauline's dress.
+4. Pauline's dress was $30.
+
+Let's start with Pauline's dress, which is $30. Then, Jean's dress is $10 less than Pauline's dress, so Jean's dress is $20. Next, Ida's dress is $30 more than Jean's dress, so Ida's dress is $50. Lastly, Patty's dress is $10 more than Ida's dress, so Patty's dress is $60.
+
+Now, let's add up the cost of all the dresses together:
+
+$30 + $20 + $50 + $60 = $160
+
+Answer: 160

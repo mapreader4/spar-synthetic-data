@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 3 kids waiting for the swings
+* There are twice as many kids waiting for the slide, so that's 3 x 2 = 6 kids waiting for the slide
+* Each kid waits 2 minutes for the swings, which is 2 x 60 = 120 seconds
+* Each kid waits 15 seconds for the slide
+* The total wait time for the swings is 3 kids x 120 seconds = 360 seconds
+* The total wait time for the slide is 6 kids x 15 seconds = 90 seconds
+* The difference between the two wait times is 360 seconds - 90 seconds = 270 seconds
+
+Answer: 270 seconds

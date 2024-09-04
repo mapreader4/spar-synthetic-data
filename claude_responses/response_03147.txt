@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Each parakeet eats 2 grams a day
+* Peter has 3 parakeets
+* So the total amount of birdseed needed for the parakeets per day is:
+  * 3 parakeets x 2 grams per day = 6 grams per day
+* Each parrot eats 14 grams a day
+* Peter has 2 parrots
+* So the total amount of birdseed needed for the parrots per day is:
+  * 2 parrots x 14 grams per day = 28 grams per day
+* Each finch eats half of what a parakeet eats, which is 1 gram per day
+* Peter has 4 finches
+* So the total amount of birdseed needed for the finches per day is:
+  * 4 finches x 1 gram per day = 4 grams per day
+* To calculate the total amount of birdseed needed per day, we add up the amounts for the parakeets, parrots, and finches:
+  * 6 grams + 28 grams + 4 grams = 38 grams per day
+* Peter needs to buy enough birdseed to last a week, which is 7 days
+* So the total amount of birdseed Peter needs to buy is:
+  * 38 grams per day x 7 days = 266 grams
+
+Answer: 266

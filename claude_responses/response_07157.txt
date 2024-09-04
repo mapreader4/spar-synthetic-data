@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) Each pint of cider requires 20 golden delicious apples and 40 pink lady apples.
+2) There are 6 farmhands, and each can pick 240 apples per hour.
+3) The farmhands will work for 5 hours today.
+4) The ratio of golden delicious apples to pink lady apples gathered is 1:2.
+
+First, let's calculate the total number of apples gathered:
+* 6 farmhands x 240 apples per hour x 5 hours = 7,200 apples total
+
+Now, we need to find the number of golden delicious and pink lady apples gathered:
+* Since the ratio is 1:2, we can say that for every 1 golden delicious apple, there are 2 pink lady apples.
+* So, the number of golden delicious apples gathered is 1/3 of the total, and the number of pink lady apples gathered is 2/3 of the total.
+* 7,200 total apples x 1/3 = 2,400 golden delicious apples
+* 7,200 total apples x 2/3 = 4,800 pink lady apples
+
+Now, we can calculate the number of pints of cider that can be made:
+* 1 pint of cider requires 20 golden delicious apples and 40 pink lady apples.
+* 2,400 golden delicious apples / 20 apples per pint = 120 pints
+* 4,800 pink lady apples / 40 apples per pint = 120 pints
+* Since we need both types of apples, the limiting factor is the number of golden delicious apples, so the total number of pints of cider that can be made is 120 pints.
+
+Answer: 120 pints

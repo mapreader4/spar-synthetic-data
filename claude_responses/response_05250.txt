@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 40 people in the cafeteria
+* 7 out of the 40 people are wearing checkered shirts
+* The rest of the people are wearing vertical stripes and horizontal stripes
+* The number of people wearing horizontal stripes is 4 times as many as the people wearing checkered shirts
+
+First, let's find the number of people wearing horizontal stripes:
+* The number of people wearing checkered shirts is 7
+* The number of people wearing horizontal stripes is 4 times as many as the people wearing checkered shirts
+* Therefore, the number of people wearing horizontal stripes is 4 x 7 = 28
+
+Now, let's find the number of people wearing vertical stripes:
+* The total number of people in the cafeteria is 40
+* The number of people wearing checkered shirts is 7
+* The number of people wearing horizontal stripes is 28
+* The number of people wearing vertical stripes is the remaining people
+* 40 - 7 - 28 = 5
+
+Answer: 5

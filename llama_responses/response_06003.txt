@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, we know that Mr. Isaac rides his bicycle at a rate of 10 miles per hour. He rides for 30 minutes, which is half an hour. So, the distance he travels in 30 minutes is 10 miles.
+
+Next, he rides for another 15 miles. So, he travels an additional 15 miles.
+
+Then, he rests for 30 minutes, and then he covers the remaining distance of 20 miles. To find the total time taken to travel the whole journey, we need to find the total distance he traveled.
+
+The total distance traveled is 10 miles + 15 miles + 20 miles = 45 miles. Since he travels at a rate of 10 miles per hour, we can find the time taken as follows:
+
+Time = Distance / Rate
+Time = 45 miles / 10 miles/hour
+Time = 4.5 hours
+
+Since 4.5 hours is 270 minutes, the total time taken to travel the whole journey is 270 minutes.

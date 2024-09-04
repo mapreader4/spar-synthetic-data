@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The total cost of the 3 vet appointments is $400.
+
+After the first appointment, John paid $100 for pet insurance that covers 80% of the subsequent visits.  This means that the insurance will cover 80% of the remaining 2 appointments.
+
+The remaining cost of the 2 appointments is $400 - $100 = $300.  The insurance will cover 80% of this amount, which is 0.8 * 300 = $240.  So, the amount John will have to pay is $300 - $240 = $60.
+
+Answer: 60

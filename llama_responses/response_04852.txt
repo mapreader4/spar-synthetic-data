@@ -1,0 +1,5 @@
+To find the amount of money you pay, we must first find the total bill for a monthly subscription. The monthly subscription is $10. But if you get a 20% discount for the annual subscription, then the amount you pay will be 80% of the monthly subscription.
+
+To find the discount, multiply the monthly subscription by 0.8 (to find the 80% discount). $10 * 0.8 = $8. Then, the amount you pay is the total bill for the annual subscription.
+
+Answer: 8

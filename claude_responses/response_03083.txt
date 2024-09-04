@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Alvin has 100 marbles total.
+2) 20% of the marbles are white. 20% of 100 is 20 white marbles.
+3) 30% of the marbles are black. 30% of 100 is 30 black marbles.
+4) The remaining marbles are different colors. The number of colored marbles is 100 - 20 - 30 = 50 marbles.
+5) Alvin sells the white marbles for $0.05 each. So the total earned from the white marbles is 20 * $0.05 = $1.00.
+6) Alvin sells the black marbles for $0.10 each. So the total earned from the black marbles is 30 * $0.10 = $3.00.
+7) Alvin sells the colored marbles for $0.20 each. So the total earned from the colored marbles is 50 * $0.20 = $10.00.
+8) The total amount Alvin earns is the sum of the earnings from the white, black, and colored marbles:
+$1.00 + $3.00 + $10.00 = $14.00.
+
+Answer: $14.00.

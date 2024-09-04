@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's say the total number of cows is 100. The problem says that 40% of the cows are males. To find the number of male cows, we can multiply 40% by the total number of cows, which is 100.
+
+40% of 100 is 40.
+
+So, there are 40 male cows.
+
+The problem says that a female cow produces 2 gallons of milk a day. We are asked to find the total milk production of 50 male cows.
+
+Since we know that 40 cows are male, we can subtract the number of male cows from the total number of cows, which is 100, to get the number of female cows. 100 - 40 = 60.
+
+Now, we know that each female cow produces 2 gallons of milk a day, so to find the total milk production of 60 female cows, we can multiply 60 by 2, which is 120.
+
+So, the farmer will get 120 gallons of milk a day from 50 male cows.

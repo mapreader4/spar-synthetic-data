@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The girl pours 23 blue beads and 16 yellow beads into a bowl, for a total of 23 + 16 = 39 beads.
+2) She divides the total of 39 beads into 3 equal parts, which means each part has 39 / 3 = 13 beads.
+3) She then removes some beads from each part and doubles the rest to have 6 beads in each part.
+4) To find the number of beads removed from each part, we can use the following equation:
+   Let x = the number of beads removed from each part
+   Then, 13 - x = 6 (since she doubled the remaining beads)
+   Solving for x, we get x = 7
+Therefore, the number of beads removed from each part is 7.
+
+Answer: 7

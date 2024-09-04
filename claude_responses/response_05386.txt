@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Erin counted 6 trolls hiding by the path in the forest.
+2) The number of trolls hiding under the bridge is 4 times the number of trolls hiding by the path, minus 6.
+   * 4 x 6 = 24
+   * 24 - 6 = 18 trolls hiding under the bridge.
+3) The number of trolls hiding in the plains is half the number of trolls hiding under the bridge.
+   * 18 / 2 = 9 trolls hiding in the plains.
+4) To find the total number of trolls Erin counted, we add the number of trolls in each location:
+   * 6 + 18 + 9 = 33 trolls in total.
+
+Answer: 33

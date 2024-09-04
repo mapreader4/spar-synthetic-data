@@ -1,0 +1,32 @@
+Okay, let's break this down step-by-step:
+* Berry wants to read an average of 50 pages per day
+* On Sunday, he read 43 pages
+* On Monday, he read 65 pages
+* On Tuesday, he read 28 pages
+* On Wednesday, he read 0 pages
+* On Thursday, he read 70 pages
+* On Friday, he read 56 pages
+
+To calculate the total number of pages he has read so far this week:
+* Sunday: 43 pages
+* Monday: 65 pages
+* Tuesday: 28 pages
+* Wednesday: 0 pages
+* Thursday: 70 pages
+* Friday: 56 pages
+* Total pages read so far: 43 + 65 + 28 + 0 + 70 + 56 = 262 pages
+
+Now, to calculate the average number of pages he has read per day so far:
+* Total pages read: 262
+* Number of days: 6 (Sunday through Friday)
+* Average pages per day: 262 / 6 = 43.67 pages per day
+
+To reach his goal of 50 pages per day, he needs to read:
+* Goal pages per day: 50
+* Average pages read per day so far: 43.67
+* Difference: 50 - 43.67 = 6.33 pages per day
+
+Since he has only 1 day left (Saturday), he needs to read:
+* 6.33 pages on Saturday to reach his goal of 50 pages per day on average
+
+Answer: 7 pages

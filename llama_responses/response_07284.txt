@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Talia drives from her house to the park, which is 5 miles away. So, the distance from her house to the park is 5 miles.
+
+After the game, she drives to the grocery store, which is 3 miles away from the park. So, the distance from the park to the grocery store is 3 miles.
+
+But, we need to find the total distance from her house to the grocery store, not just the distance from the park. To do this, we need to add the distance from her house to the park (5 miles) and the distance from the park to the grocery store (3 miles). We can do this by adding the two distances:
+
+5 miles (from house to park) + 3 miles (from park to grocery store) = 8 miles
+
+So, Talia drives a total of 8 miles that day.

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by finding out how many records Roberta has in total. She started with 8 records, then she got 12 more from her friends, and then she bought 30 more at a garage sale. So, the total number of records is 8 + 12 + 30 = 50.
+
+It takes her 2 days to listen to 1 record. So, she can listen to 50 records in 50 * 2 = 100 days.
+
+Answer: 100

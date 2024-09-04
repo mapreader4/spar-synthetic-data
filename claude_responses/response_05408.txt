@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) Darma can eat 20 peanuts in 15 seconds.
+2) We want to find how many peanuts she can eat in 6 minutes.
+3) 6 minutes is equal to 360 seconds.
+4) We can set up a proportion to solve this:
+20 peanuts / 15 seconds = x peanuts / 360 seconds
+5) Cross-multiplying, we get:
+20 * 360 = 15x
+6) Solving for x, we get:
+x = (20 * 360) / 15
+7) x = 480 peanuts.
+
+Answer: 480

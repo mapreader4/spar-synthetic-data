@@ -1,0 +1,19 @@
+Let's break down the information given:
+
+* The base price is $3.
+* The cost for every mile is $4.
+* Elise paid a total of $23.
+
+Let's start by letting x be the distance from Elise's house to the hospital. The total cost can be calculated as:
+
+Cost = Base price + (Distance * Cost per mile)
+
+We know the base price is $3, so let's write that as 3. We know the total cost is $23, so let's subtract the base price to find the total distance:
+
+23 - 3 = 20
+
+Now, let's divide the total cost by the cost per mile:
+
+20 ÷ 4 = 5
+
+So, the distance from Elise's house to the hospital is 5 miles.

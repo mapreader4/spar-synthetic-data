@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The first knife costs $5.00 to sharpen
+* The next 3 knives cost $4.00 each, so that's 3 * $4.00 = $12.00
+* The remaining 5 knives cost $3.00 each, so that's 5 * $3.00 = $15.00
+* To calculate the total cost, we add up the costs for the first knife, the next 3 knives, and the remaining 5 knives:
+$5.00 + $12.00 + $15.00 = $32.00
+
+Answer: 32

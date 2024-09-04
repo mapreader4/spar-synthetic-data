@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 7 trucks with 20 boxes each, so 7 * 20 = 140 boxes from those 7 trucks.
+2) There are 5 trucks with 12 boxes each, so 5 * 12 = 60 boxes from those 5 trucks.
+3) In total, there are 140 + 60 = 200 boxes.
+4) Each box holds 8 containers of oil, so the total number of containers of oil is 200 * 8 = 1,600 containers.
+5) The oil is to be evenly redistributed onto 10 trucks, so each truck will have 1,600 / 10 = 160 containers of oil.
+
+Answer: 160

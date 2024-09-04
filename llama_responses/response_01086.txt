@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Mr. Alonzo harvested 245.5 kg of tomatoes. He sold 125.5 kg to Mrs. Maxwell and 78 kg to Mr. Wilson. Let's find the total amount of tomatoes sold: 125.5 kg + 78 kg = 203.5 kg.
+
+To find the amount of tomatoes not sold, we subtract the total sold from the total amount harvested: 245.5 kg - 203.5 kg = 42 kg.
+
+Answer: 42

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Bertha started with 2 tennis balls, but gave 1 to her partner, so she has 1 ball left.
+* Every 10 games, 1 of her tennis balls wears out. After 20 games, 2 balls have worn out (20 games / 10 games per worn-out ball = 2 balls worn out).
+* Every 5 games, Bertha loses a ball. After 20 games, 4 balls have been lost (20 games / 5 games per lost ball = 4 balls lost).
+* Every 4 games, Bertha buys a canister of 3 balls. After 20 games, she has bought 5 canisters (20 games / 4 games per canister = 5 canisters), which is 15 new balls.
+
+Now, let's add up the balls Bertha has:
+* Starting balls: 1
+* Balls worn out: -2
+* Balls lost: -4
+* Balls bought: +15
+
+Answer: 10 tennis balls

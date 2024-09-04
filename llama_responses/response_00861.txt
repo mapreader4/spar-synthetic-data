@@ -1,0 +1,7 @@
+To find the total number of toothbrushes given in a 5 day work week, we can multiply the number of toothbrushes given per day by the number of days in a week.
+
+The number of toothbrushes given per day is 2, and the number of days in a week is 5. So the total number of toothbrushes given in a 5 day work week is:
+
+2 * 5 = 10
+
+Answer: 10

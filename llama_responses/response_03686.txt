@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say the initial amount of money Blake gave to Connie is x.
+
+When Connie used the money to buy the land, the value of the land tripled. So, the value of the land is now 3x.
+
+Connie sold the land and got some money. Let's call this amount y.
+
+Connie gave half of the money she got from the sale of the land to Blake. So, she gave Blake y/2.
+
+We know that Connie gave Blake $30,000. So, we can set up an equation:
+
+y/2 = 30000
+
+To solve for y, we can multiply both sides by 2:
+
+y = 60000
+
+Since Connie gave Blake 30,000, we know that x = 30,000.
+
+Answer: 30000

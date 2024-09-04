@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of people in the class: 27 students, 1 teacher, and 1 teacher's aid. That makes a total of 29 people.
+
+Dani brings 2 and a half dozen cupcakes, which is equivalent to 13 cupcakes. She gives one cupcake to each of the 29 people, which means she gives away 29 cupcakes.
+
+However, 3 students called in sick, so we need to subtract those 3 students from the total number of people. That leaves 26 people remaining.
+
+Now, we need to divide the 13 cupcakes among the 26 people. To do this, we can divide 13 by 26, which gives us 0.5 cupcakes per person.
+
+Since we can't give a fraction of a cupcake, we need to round down to the nearest whole number. In this case, that would be 0 cupcakes per person. Since each person gets 0 cupcakes, that means Dani has 0 cupcakes left over.
+
+Answer: 0

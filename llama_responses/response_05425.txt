@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+1. First, we need to find the number of people who used to drive to work. Since 25% of the people used to drive, and 25% of 80 is 0.25 x 80 = 20, 20 people used to drive.
+
+2. Since each car pollutes 10 pounds of carbon per year, the 20 people who used to drive would pollute 20 x 10 = 200 pounds of carbon per year.
+
+3. The bus can hold 40 people, and 20 people used to drive, so the bus is now carrying 20 people. Since the bus pollutes 100 pounds of carbon per year, it will now pollute 100 pounds of carbon per year.
+
+4. The total pollution from the 20 people who used to drive is 200 pounds of carbon per year. The bus will now pollute 100 pounds of carbon per year. To find the total pollution, we subtract the bus pollution from the original pollution: 200 - 100 = 100 pounds of carbon per year.
+
+5. Since there are 80 people in the town, the town used to pollute 80 x 10 = 800 pounds of carbon per year. The town now pollutes 800 - 100 = 700 pounds of carbon per year.
+
+Answer: 100

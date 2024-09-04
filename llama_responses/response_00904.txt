@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, we need to find the amount of key lime juice needed for the recipe. The recipe calls for 1/4 cup of key lime juice, which is equal to 1/4 * 16 tablespoons since there are 16 tablespoons in 1 cup. To double this amount, we need to multiply it by 2, which is 1/4 * 2 = 1/2. So, the amount of key lime juice needed is 1/2 * 16 = 8 tablespoons.
+
+Now, since each key lime yields 1 tablespoon of juice, we need to find the number of key limes needed. To find this, we can divide the total amount of key lime juice needed (8 tablespoons) by the amount of key lime juice each yields (1 tablespoon), which is 8 ÷ 1 = 8. Therefore, Audrey needs 8 key limes.

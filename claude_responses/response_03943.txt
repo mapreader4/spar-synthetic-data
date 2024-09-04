@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. The jewelry box initially had 10 necklaces and 15 earrings.
+2. Jessy bought 10 more necklaces at the store.
+   * So, the total number of necklaces is now 10 + 10 = 20.
+3. Jessy also bought 2/3 as many earrings as before.
+   * The original number of earrings was 15.
+   * 2/3 of 15 is 10.
+   * So, Jessy bought 10 more earrings.
+   * The total number of earrings is now 15 + 10 = 25.
+4. Jessy's mother then gave her 1/5 more earrings than the number she purchased at the store.
+   * Jessy bought 10 earrings at the store.
+   * 1/5 of 10 is 2.
+   * So, Jessy's mother gave her 2 more earrings.
+   * The total number of earrings is now 25 + 2 = 27.
+5. The total number of jewelry pieces Jessy has in her box is the sum of the necklaces and earrings.
+   * Total number of jewelry pieces = 20 necklaces + 27 earrings = 47.
+
+Answer: 47

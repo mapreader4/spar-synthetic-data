@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the amount of cabbage sold on Wednesday be x kilograms. We know that the total amount earned on Wednesday was $30. So, the amount of cabbage sold is 30 dollars worth of cabbage. Therefore, the number of kilograms of cabbage sold on Wednesday is 30 / 2 = 15 kilograms.
+
+Similarly, the amount of cabbage sold on Friday was $24. So, the number of kilograms of cabbage sold on Friday is 24 / 2 = 12 kilograms.
+
+The total amount of cabbage sold in 2 days is 15 + 12 = 27 kilograms.
+
+So, the number of kilograms of cabbage sold in 2 days is 27.
+
+Answer: 27

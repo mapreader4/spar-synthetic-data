@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The packet of candy sweets has:
+    - 30 cherry-flavored sweets
+    - 40 strawberry-flavored sweets
+    - 50 pineapple-flavored sweets
+* Aaron eats half of each of the flavored sweets, so:
+    - He eats 15 cherry-flavored sweets (half of 30)
+    - He eats 20 strawberry-flavored sweets (half of 40)
+    - He eats 25 pineapple-flavored sweets (half of 50)
+* Aaron then gives 5 cherry-flavored sweets to his friend, so there are now:
+    - 30 - 15 - 5 = 10 cherry-flavored sweets left
+    - 40 - 20 = 20 strawberry-flavored sweets left
+    - 50 - 25 = 25 pineapple-flavored sweets left
+
+Answer: 10 + 20 + 25 = 55 sweets are still in the packet of candy.

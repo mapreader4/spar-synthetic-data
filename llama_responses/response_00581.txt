@@ -1,0 +1,19 @@
+Let's start by letting $x$ be the current age of the speaker, and let $y$ be the age of the speaker's brother. 
+
+We are told that in 10 years, the speaker will be twice the brother's age, so the speaker will be $x + 10 = 2y$.
+
+The sum of the speaker's age and the brother's age will be 45, so we can set up the equation $x + y = 45$.
+
+We are given that in 10 years, the speaker will be twice the brother's age, so $x + 10 = 2y$. We can substitute this into the equation $x + y = 45$:
+
+$$(x + 10) + y = 45$$
+
+We can subtract 10 from both sides of the equation to get $x + y = 35$.
+
+Now we know that $x + y = 35$ and $x + 10 = 2y$. We can substitute $x$ with $x + 10$ to get $2y = 35$.
+
+$$(2x) = 35$$
+
+We can divide both sides of the equation by 2 to get $x = 17.5$.
+
+So the speaker is 17.5 years old now.

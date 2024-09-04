@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The problem states that Kayden's business delivered an equal number of cartons of milk to four different towns. This means that the number of cartons delivered to each town is the same.
+
+Step 2: The problem also states that each of the four customers returned 60 cartons during delivery. This means that the total number of cartons returned is 60 * 4 = 240.
+
+Step 3: However, the problem states that the business delivered an equal number of cartons to the four towns. This means that the number of cartons delivered is the same to all four towns. Therefore, the number of cartons delivered is also 400.
+
+Step 4: To find the total number of cartons that were accepted by the customers, we need to subtract the number of cartons returned (240) from the number of cartons delivered (400).
+
+Answer: 400 - 240 = 160

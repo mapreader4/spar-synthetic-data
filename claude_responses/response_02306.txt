@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. The cost of each child's ticket is $4.25.
+2. The cost of each adult ticket is $3.25 more than the child's ticket, which means $4.25 + $3.25 = $7.50.
+3. They bought 2 adult tickets and 4 children's tickets, so the total cost before the discount would be:
+   - 2 adult tickets x $7.50 = $15.00
+   - 4 children's tickets x $4.25 = $17.00
+   - Total before discount = $15.00 + $17.00 = $32.00
+4. They were given a $2 discount for buying more than 3 tickets.
+5. The total cost after the discount is $32.00 - $2.00 = $30.00.
+
+Answer: $30

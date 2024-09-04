@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Andy earns $9 per hour, so for an 8-hour shift, he earns 8 * 9 = $72.
+
+He earns $15 for each racquet he strings, and he strings 7 racquets, so he earns 7 * 15 = $105.
+
+He earns $10 for changing out the grommets on each racquet, and he changes 2 sets of grommets, so he earns 2 * 10 = $20.
+
+He earns $1 for painting a stencil on each racquet, and he paints 5 stencils, so he earns 5 * 1 = $5.
+
+Adding up his earnings, he earns $72 + $105 + $20 + $5 = $192.
+
+Answer: 192

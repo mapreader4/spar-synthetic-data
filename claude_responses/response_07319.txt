@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) The train takes 4 hours to reach the destination at a speed of 50 miles per hour.
+2) The distance traveled is equal to the speed multiplied by the time, so the distance is 50 miles per hour * 4 hours = 200 miles.
+3) If the train travels at 100 miles per hour instead, the time it would take to travel the same distance of 200 miles would be:
+Distance / Speed = Time
+200 miles / 100 miles per hour = 2 hours
+
+Answer: 2 hours

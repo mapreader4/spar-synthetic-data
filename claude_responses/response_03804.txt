@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Corveus currently sleeps 4 hours a day
+* His doctor recommended he sleep 6 hours a day
+* We need to find the difference in hours of sleep per day
+* The difference in hours of sleep per day is 6 hours - 4 hours = 2 hours
+* There are 7 days in a week
+* So the total number of hours of sleep Corveus lacks in a week is 2 hours per day x 7 days = 14 hours
+
+Answer: 14

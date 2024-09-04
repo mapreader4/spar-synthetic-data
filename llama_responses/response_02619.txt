@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total number of people who attended class across all 5 days. We know that 10 people attended on Monday, 15 on Tuesday, and 10 on each day from Wednesday through Friday. So, the total number of people who attended class is:
+
+10 + 15 + 10 + 10 + 10 + 10 + 10 = 65
+
+Next, we need to find the average. To do this, we divide the total number of people who attended class by the number of days:
+
+65 ÷ 5 = 13
+
+Answer: 13

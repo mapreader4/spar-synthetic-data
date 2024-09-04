@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say the number of blue marbles is x.
+
+We know that the number of blue marbles is 3 times the number of red marbles. So, we can write the equation:
+
+3x = 14
+
+To solve for x, we can divide both sides by 3:
+
+x = 14 / 3
+
+x = 4.67
+
+But we know that x must be an integer, so we round up to the nearest whole number.
+
+x = 5
+
+So, there are 5 yellow marbles.

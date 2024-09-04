@@ -1,0 +1,10 @@
+To find the average speed, we need to find the total distance covered and the total time taken. The total distance covered is 400 meters. The total time taken is 70 + 85 + 85 = 240 seconds. To find the average speed, we divide the total distance by the total time:
+
+Distance = 400 meters
+Time = 240 seconds
+
+Speed = Distance / Time = 400 / 240
+Speed = 400 / 240
+Speed = 1.6666666666666666667
+
+Answer: 1.67

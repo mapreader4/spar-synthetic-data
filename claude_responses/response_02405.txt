@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Lily types 15 words per minute
+* She takes a 2-minute break every 10 minutes
+* We need to find how long it takes her to type 255 words
+
+First, let's calculate how many 10-minute intervals it takes to type 255 words:
+* 255 words / 15 words per minute = 17 minutes
+* 17 minutes / 10 minutes per interval = 1.7 intervals
+* Since we can't have a partial interval, we'll round up to 2 intervals
+
+Now, let's calculate the total time it takes:
+* 2 intervals x 10 minutes per interval = 20 minutes of typing time
+* 2 intervals x 2 minutes per break = 4 minutes of break time
+* Total time = 20 minutes + 4 minutes = 24 minutes
+
+Answer: 24

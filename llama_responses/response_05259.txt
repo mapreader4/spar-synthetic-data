@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of fish that I added to the tank. Since the problem states that I caught 4 fewer fish than the number in my tank and added them to the tank, we can set up an equation to represent this.
+
+Let's say the number of fish in the tank is x. The problem states that I caught 4 fewer fish than the number in my tank, so we can subtract 4 from x to get the number of fish that I started with. This can be represented as x - 4.
+
+Since I added the fish I caught to the tank, the new total number of fish in the tank is x - 4 + x. The problem states that the tank has 20 fish right now, so we can set up an equation to represent this.
+
+The equation would be x - 4 + x = 20.
+
+Now we can solve for x.
+
+x - 4 + x = 20
+
+We can subtract 4 from both sides of the equation to get:
+
+x = 20 + 4
+
+x = 24
+
+So I added 24 fish to the tank.

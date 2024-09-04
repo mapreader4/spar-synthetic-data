@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Purple Valley has one-quarter as many skirts as Seafoam Valley.
+
+Let's represent the number of skirts that Purple Valley has as x. Then, we know that Purple Valley has x skirts, and we know that Seafoam Valley has skirts.
+
+We can set up an equation to represent this:
+
+x = (1/4) * (Seafoam Valley's skirts)
+
+We know that Seafoam Valley has skirts, and we know that Azure Valley has skirts. So, we can substitute this into the equation:
+
+x = (1/4) * (2/3 * 60)
+
+We can simplify the fraction by multiplying the numerator and denominator by 3:
+
+x = (1/4) * (2/3) * 60
+x = (1/4) * 40
+
+Now, we can simplify the fraction by multiplying the numerator and denominator by 4:
+
+x = (1/1) * 40
+x = 40
+
+So, Purple Valley has 40 skirts.
+
+Answer: 40

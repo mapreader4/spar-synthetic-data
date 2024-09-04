@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The leaf is blown forward 5 feet by each gust of wind
+* After each gust, the wind swirls and blows the leaf back 2 feet
+* We are considering 11 gusts of wind
+
+So, for each gust:
+* The leaf is blown forward 5 feet
+* Then it is blown back 2 feet
+* The net distance traveled is 5 feet - 2 feet = 3 feet
+
+Now, we need to calculate the total distance traveled after 11 gusts:
+* 11 gusts x 3 feet per gust = 33 feet
+
+Therefore, the leaf has traveled 33 feet down the sidewalk after 11 gusts of wind.
+
+Answer: 33

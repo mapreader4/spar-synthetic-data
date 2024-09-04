@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The movie theater has 6 screens
+* Each screen shows movies back-to-back all day
+* The movie theater is open for 8 hours
+* Each movie lasts 2 hours
+
+To calculate the total number of movies shown throughout the day, we need to determine how many movies can be shown on each screen, and then multiply that by the number of screens.
+
+On each screen, we can fit 4 movies in an 8-hour day (8 hours / 2 hours per movie = 4 movies).
+
+Now, we multiply the number of movies per screen (4) by the number of screens (6):
+4 movies per screen x 6 screens = 24 movies
+
+Therefore, the total number of movies shown throughout the day is:
+
+Answer: 24

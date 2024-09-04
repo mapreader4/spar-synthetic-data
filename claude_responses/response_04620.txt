@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* It takes 5 people to lift a car
+* It takes twice as many people to lift a truck, which is 10 people
+* We need to lift 6 cars and 3 trucks
+* To lift the 6 cars, we need 6 * 5 = 30 people
+* To lift the 3 trucks, we need 3 * 10 = 30 people
+* In total, we need 30 + 30 = 60 people to lift 6 cars and 3 trucks.
+
+Answer: 60

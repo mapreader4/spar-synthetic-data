@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Initially, there were 100 people who decided to have a snack. Then, 20 new outsiders joined, so the total number of snack eaters is 100 + 20 = 120.
+
+Half of the snack eaters got full and left, which means 120 / 2 = 60 snack eaters left.
+
+Then, 10 new outsiders came to have snacks, so the total number of snack eaters is 60 + 10 = 70.
+
+30 more snack eaters got their fill and left, which means 70 - 30 = 40 snack eaters are left.
+
+Finally, half of the remaining snack eaters left, which means 40 / 2 = 20 snack eaters are left.
+
+Answer: 20

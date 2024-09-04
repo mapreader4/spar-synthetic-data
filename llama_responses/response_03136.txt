@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Mark has $24 to spend. He wants to buy the most balloons possible.
+
+The $4 bags contain 50 balloons, and he can buy 24/4 = 6 of them, which is a total of 6 x 50 = 300 balloons.
+
+The $6 bags contain 75 balloons, and he can buy 24/6 = 4 of them, which is a total of 4 x 75 = 300 balloons.
+
+The $12 bags contain 200 balloons, and he can buy 24/12 = 2 of them, which is a total of 2 x 200 = 400 balloons.
+
+Since he can buy the most balloons with the $12 bags, he should buy 2 of them. This will give him a total of 400 balloons.
+
+Answer: 400

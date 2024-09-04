@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the book has 500 pages. The first half of the book has 250 pages (since 500 / 2 = 250). Jane read 10 pages a day, so the number of days she read the first half is 250 / 10 = 25 days.
+
+For the second half of the book, Jane read 5 pages a day. The second half of the book has 250 pages as well, so the number of days she read the second half is 250 / 5 = 50 days.
+
+In total, Jane read the book for 25 + 50 = 75 days.
+
+Answer: 75

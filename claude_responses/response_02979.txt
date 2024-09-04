@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Barbeck has two times as many guitars as Steve
+* Davey has three times as many guitars as Barbeck
+* There are 27 guitars altogether
+
+Let's start by assigning variables:
+* Let x = the number of guitars Steve has
+* Then Barbeck has 2x guitars
+* And Davey has 3(2x) = 6x guitars
+
+Now, we know the total number of guitars is 27, so we can set up an equation:
+x + 2x + 6x = 27
+9x = 27
+x = 3
+
+So Steve has 3 guitars, Barbeck has 2(3) = 6 guitars, and Davey has 6(3) = 18 guitars.
+
+Answer: 18

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by counting the number of books initially in the library, which is 250.
+
+Then, 120 books are taken out on Tuesday. So, we subtract 120 from 250 to get the number of books left in the library. 250 - 120 = 130.
+
+Then, 35 books are returned on Wednesday. So, we add 35 to the number of books left in the library. 130 + 35 = 165.
+
+Finally, 15 books are withdrawn on Thursday. So, we subtract 15 from the number of books left in the library. 165 - 15 = 150.
+
+Answer: 150

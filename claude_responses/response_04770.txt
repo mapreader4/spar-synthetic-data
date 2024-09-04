@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Ed stayed in the hotel for 6 hours last night
+* The cost for staying in the hotel at night is $1.50 per hour
+* So, the cost for the 6 hours last night was:
+    * 6 hours x $1.50 per hour = $9
+* Ed also stayed in the hotel for 4 hours this morning
+* The cost for staying in the hotel in the morning is $2 per hour
+* So, the cost for the 4 hours this morning was:
+    * 4 hours x $2 per hour = $8
+* The total cost for Ed's stay at the hotel was:
+    * $9 (for the 6 hours last night) + $8 (for the 4 hours this morning) = $17
+* Ed had $80 to begin with
+* So, the amount of money Ed had left after paying for his stay at the hotel was:
+    * $80 - $17 = $63
+
+Answer: 63

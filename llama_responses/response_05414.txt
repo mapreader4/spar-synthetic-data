@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Peter has to walk 2.5 miles to get to the grocery store.
+2. He has already walked 1 mile, which means he has 1.5 miles left to go.
+3. If it takes him 20 minutes to walk one mile, then it takes him 20 * 2 = 40 minutes to walk 2 miles.
+4. To find out how many more minutes he has to walk to reach the grocery store, we need to subtract the time it took him to walk 1 mile from the time it takes to walk 2.5 miles.
+5. 40 minutes - 20 minutes = 20 minutes.
+
+Answer: 20

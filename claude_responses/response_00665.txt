@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Bill picked 50 apples from the orchard with his wife and two children
+* He sends each of his two kids to school with 3 apples for their two favorite teachers
+* So, he sends 2 kids x 3 apples x 2 teachers = 12 apples to school
+* His wife Jill bakes two apple pies, using 10 apples per pie
+* So, she uses 2 pies x 10 apples per pie = 20 apples for the pies
+
+Now, we can calculate the number of apples Bill has left:
+* Total apples picked: 50
+* Apples sent to school: 12
+* Apples used for pies: 20
+* Apples left: 50 - 12 - 20 = 18
+
+Answer: 18

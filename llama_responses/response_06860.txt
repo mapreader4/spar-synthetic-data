@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Let's start with the initial weight: Calvin started with 250 pounds.
+2. Since Calvin loses 8 pounds every month, and there are 12 months in a year, we can multiply 8 pounds by 12 to find the total pounds lost in a year: 8 x 12 = 96 pounds.
+3. To find the final weight, we subtract the total pounds lost from the initial weight: 250 - 96 = 154 pounds.
+
+Answer: 154

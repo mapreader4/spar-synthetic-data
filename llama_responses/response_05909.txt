@@ -1,0 +1,11 @@
+Let's start by counting the wheels of each object:
+
+1. 2 cars have 2 wheels each, so that is 2 x 2 = 4 wheels.
+2. 2 bikes have 2 wheels each, so that is 2 x 2 = 4 wheels.
+3. The trash can has 2 wheels.
+4. The tricycle has 3 wheels.
+5. The pair of roller skates has 2 wheels.
+
+Now, let's add up the total number of wheels: 4 + 4 + 2 + 2 + 3 + 2 = 15
+
+So, there are 15 wheels in total.

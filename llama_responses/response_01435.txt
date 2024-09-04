@@ -1,0 +1,18 @@
+Let's break down the problem step by step.
+
+First, we need to convert all the coins into the same unit, which is the penny.
+
+10 quarters = 10 x 25 cents = 250 cents
+3 dimes = 3 x 10 cents = 30 cents
+3 nickels = 3 x 5 cents = 15 cents
+5 pennies = 5 x 1 cent = 5 cents
+
+Now, we add up the values of the coins to find the total amount of money Harriet found:
+
+250 cents + 30 cents + 15 cents + 5 cents = 300 cents
+
+To convert cents to dollars, we divide by 100:
+
+300 cents ÷ 100 = 3 dollars
+
+Answer: 3

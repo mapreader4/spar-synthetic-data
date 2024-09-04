@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Kylie picks apples for 3 hours. The first hour she picks 66 apples.
+
+The second hour she doubles her apple picking rate, so she picks 66 * 2 = 132 apples.
+
+The third hour she picks a third of the apples picked in the first hour. So, she picks 66 / 3 = 22 apples.
+
+To find the total number of apples picked, we add the apples picked in each hour: 66 + 132 + 22 = 220.
+
+Answer: 220

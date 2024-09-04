@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+- Marcos needs to get across a 5 mile lake in 10 minutes.
+- The speedboat's speed is not given, but we need to find it.
+
+Let's call the speed of the speedboat's. We can represent this speed as a variable, let's say 'v'. 
+
+The formula to find the speed is:
+
+Speed = Distance / Time
+
+We are given the distance as 5 miles and the time as 10 minutes. We need to convert the time from minutes to hours. There are 60 minutes in an hour, so we can convert 10 minutes to hours by dividing by 60:
+
+10 minutes / 60 = 1/6 hours
+
+Now we can plug in the values:
+
+Speed = 5 miles / 1/6 hours
+
+To solve for, we can multiply both sides by 6:
+
+Speed = 5 x 6
+
+Speed = 30 miles per hour
+
+So, Marcos needs to go 30 miles per hour to make it to work on time.

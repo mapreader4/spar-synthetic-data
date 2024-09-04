@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The toothpaste contains 105 grams
+* Anne's dad uses 3 grams per brushing
+* Anne's mom uses 2 grams per brushing
+* Anne and her brother each use 1 gram per brushing
+* Each member of the family brushes their teeth 3 times a day
+
+First, let's calculate the total amount of toothpaste used per day:
+* Anne's dad: 3 grams x 3 brushings = 9 grams
+* Anne's mom: 2 grams x 3 brushings = 6 grams
+* Anne: 1 gram x 3 brushings = 3 grams
+* Anne's brother: 1 gram x 3 brushings = 3 grams
+* Total used per day: 9 + 6 + 3 + 3 = 21 grams
+
+Now, we can calculate how many days the toothpaste will last:
+* 105 grams / 21 grams per day = 5 days
+
+Answer: 5 days

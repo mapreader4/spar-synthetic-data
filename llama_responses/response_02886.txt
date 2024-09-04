@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Samir climbed 318 stairs yesterday.
+* Veronica climbed 18 more than half that amount.
+
+We can write an equation based on the information given:
+
+Let x be the number of stairs Samir climbed yesterday.
+
+Then, we can write an equation to represent the information:
+
+Samir's stairs = 318
+Veronica's stairs = Samir's stairs + 18
+
+We are asked to find the total number of stairs Veronica and Samir climbed together. To do this, we need to add the number of stairs Samir climbed to the number of stairs Veronica climbed. So, we can set up an equation:
+
+Samir's stairs + Veronica's stairs =?
+
+We know Samir's stairs = 318. We also know Veronica's stairs = Samir's stairs + 18. So, we can substitute Samir's stairs into the equation:
+
+318 + (318 + 18) =?
+
+To solve this equation, we need to add 318 and 18:
+
+318 + 18 = 336
+
+So, Veronica and Samir climbed a total of 336 stairs together yesterday.
+
+Answer: 336

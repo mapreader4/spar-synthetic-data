@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who received an A, which is 25% of the total number of students, which is 32. This means 0.25 x 32 = 8 students received an A.
+
+The remaining students are those who did not receive an A. 1/4 of the remaining students got either a B or C. Since we don't know the exact number of students who got a B or C, we'll just call it x. The remaining students who did not receive an A or a B or C are those who failed, so the number of students who failed is the total number of students minus the number who got an A, minus the number who got a B or C. 
+
+Let's use the variable x to represent the number of students who got a B or C. So, we can set up the equation as follows:
+
+8 (A's) + x (B's and C's) + failed = 32 - 8
+
+We know that 8 students received an A, so we can substitute 8 for A. We also know that 1/4 of the remaining students got a B or C, so we can substitute 1/4 for x. 
+
+Now we can simplify the equation:
+
+8 + x + x + failed = 32 - 8
+
+Simplify the left side of the equation by combining like terms:
+
+x + x + failed = 32 - 8
+
+Subtract 8 from both sides of the equation to get:
+
+x + x = 24
+
+Now we can solve for x by subtracting 24 from both sides of the equation:
+
+x = 24
+
+So, the number of students who got a B or C is 12. The number of students who failed is the total number of students minus the number who got an A or a B or C, so we subtract 12 from the total number of students, which is 32:
+
+32 - 12 = 20
+
+Answer: 20

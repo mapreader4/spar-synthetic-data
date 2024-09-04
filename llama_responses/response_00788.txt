@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Let's first find the number of dollars each piggy bank contains. There are 25 cents in a quarter, so:
+
+Karen has 32 quarters in her piggy bank, so she has 32 * 25 = 800 cents. 800 cents is 200 dollars.
+
+Christopher has 64 quarters in his piggy bank, so he has 64 * 25 = 1600 cents. 1600 cents is 32 dollars.
+
+To find the difference between the amount of money Christopher has and the amount Karen has, we need to subtract the amount Karen has from the amount Christopher has. 
+
+The difference is 1600 - 800 = 800. 
+
+Answer: 800

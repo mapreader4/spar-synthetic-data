@@ -1,0 +1,14 @@
+Let's start by identifying the information given in the problem. Josh had some money, and he spent $1.75 on a drink. Then, he spent another $1.25. This means that he spent a total of $1.75 + $1.25, which is $2.00.
+
+To find the amount of money Josh had at first, we can subtract the total amount he spent from the amount he had initially had. So, if he had x dollars at the start, then he would have x - $2.00 after spending the $2.00. We know that Josh had some money, and we know that the total amount he spent is $2.00. So, we can set up an equation to solve for x. Let's set up the equation:
+
+x - 2.00 = 0
+
+This equation is saying that the amount Josh had at the start, minus the $2.00, will equal 0.00. To solve for x, we can subtract $2.00 from both sides of the equation:
+
+x - 2.00 = 0
+
+x = 0 + 2.00
+x = 2.00
+
+So, the answer is 2.

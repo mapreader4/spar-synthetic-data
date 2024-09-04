@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) We know that each machine has 80 quarters and 100 dimes.
+2) The total value of the quarters in each machine is 80 * $0.25 = $20.
+3) The total value of the dimes in each machine is 100 * $0.10 = $10.
+4) The total value of the money in each machine is $20 + $10 = $30.
+5) Erin had a total of $90 after emptying all the machines.
+6) Since each machine held the same amount of money, we can divide the total amount ($90) by the amount in each machine ($30) to get the number of machines.
+7) $90 / $30 = 3 machines.
+
+Answer: 3

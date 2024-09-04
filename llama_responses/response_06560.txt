@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of fruit each person ate. We know that Mario ate 8 ounces of oranges. We also know that Lydia ate 24 ounces of apples. Since we know that peaches are a type of fruit, and we don't have any other information about Nicolai eating peaches, we can conclude that Nicolai ate the remaining amount of fruit.
+
+We know that the total amount of fruit eaten is 8 pounds. We know that Mario ate 8 ounces of oranges, and Lydia ate 24 ounces of apples. So, we can subtract the total amount of oranges and apples from the total amount of fruit to find the amount of peaches eaten by Nicolai.
+
+8 ounces of oranges + 24 ounces of apples is 32 ounces. So, we subtract 32 ounces from the total amount of fruit to find the amount of peaches eaten by Nicolai.
+
+32 - 8 - 24 = 8
+
+Answer: 8

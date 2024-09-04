@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Lisa started with 12 pairs of socks.
+
+Sandra brought 20 pairs, so now Lisa has 12 + 20 = 32 pairs.
+
+Lisa's cousin brought one-fifth the number of pairs Sandra brought, which is 20/5 = 4. So, Lisa's cousin brought 4 pairs, making the total 32 + 4 = 36 pairs.
+
+Lisa's mom brought 8 more than three times the number of pairs Lisa started with, which is 3 * 12 = 36. So, Lisa's mom brought 36 + 8 = 44 pairs.
+
+To find the total number of pairs Lisa ended up with, we add all the pairs together: 36 + 44 = 80.
+
+Answer: 80

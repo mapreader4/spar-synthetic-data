@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The class has 250 students in total.
+2) There are twice as many girls as boys present on that day.
+3) All 140 girls were present.
+4) Since there are twice as many girls as boys present, we can say that the number of boys present is half the number of girls present.
+5) Therefore, the number of boys present is 140 / 2 = 70.
+6) The total number of students present is 140 girls + 70 boys = 210.
+7) The number of absent students is 250 - 210 = 40.
+8) Since all the absent students were boys, the number of boys absent is 40.
+
+Answer: 40

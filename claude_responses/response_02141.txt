@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Jerry mows 8 acres of lawn each week
+* He mows ¾ of it with a riding mower
+* The riding mower can cut 2 acres per hour
+* He mows the remaining ¼ with a push mower
+* The push mower can cut 1 acre per hour
+
+First, let's calculate how much of the 8 acres he mows with the riding mower:
+* ¾ of 8 acres = 6 acres
+
+Now, let's calculate how long it takes him to mow the 6 acres with the riding mower:
+* 6 acres / 2 acres per hour = 3 hours
+
+Next, let's calculate how much of the 8 acres he mows with the push mower:
+* ¼ of 8 acres = 2 acres
+
+Now, let's calculate how long it takes him to mow the 2 acres with the push mower:
+* 2 acres / 1 acre per hour = 2 hours
+
+Finally, to get the total time Jerry spends mowing each week, we add the time for the riding mower and the push mower:
+* 3 hours + 2 hours = 5 hours
+
+Answer: 5 hours

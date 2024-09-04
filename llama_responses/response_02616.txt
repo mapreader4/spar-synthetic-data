@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Let's find the total number of bottles Don can buy from all shops.
+
+Shop A sells 150 bottles, shop B sells 180 bottles, so together, Don can buy 150 + 180 = 330 bottles.
+
+Step 2: We know that Don can buy 550 bottles in total. So, the number of bottles he buys from shop C is the difference between the total bottles he can buy and the number of bottles he buys from shops A and B.
+
+550 - 330 = 220.
+
+Answer: 220

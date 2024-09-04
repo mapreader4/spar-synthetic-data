@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Geoffrey has €20 from his grandmother, €25 from his aunt, and €30 from his uncle. So, he has a total of €20 + €25 + €30 = €75 initially.
+
+He then goes to the video game store and buys 3 games that cost €35 each. So, he spends €35 x 3 = €105.
+
+To find out how much he has left, we subtract the amount he spent from the initial amount he had:
+
+€75 - €105 = €30
+
+So, Answer: 30

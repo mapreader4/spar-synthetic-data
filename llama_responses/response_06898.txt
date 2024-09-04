@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. The first cooler holds 100 liters.
+2. The second cooler is 50% bigger than the first, so it's 100 + 50 = 150 liters.
+3. The third cooler is half the size of the second, so it's 150 / 2 = 75 liters.
+
+Now, let's add up the capacity of all three coolers:
+
+100 + 150 + 75 = 325
+
+Answer: 325

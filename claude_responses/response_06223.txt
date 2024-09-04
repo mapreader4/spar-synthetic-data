@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Bernie buys 2 chocolates every week
+* Each chocolate costs $3 at the local store
+* At the other store, each chocolate costs $2
+* We want to calculate how much Bernie would save in 3 weeks if he bought the chocolates at the other store
+
+First, let's calculate the cost of the chocolates at the local store for 3 weeks:
+* 2 chocolates per week x $3 per chocolate = $6 per week
+* $6 per week x 3 weeks = $18 total
+
+Now, let's calculate the cost of the chocolates at the other store for 3 weeks:
+* 2 chocolates per week x $2 per chocolate = $4 per week
+* $4 per week x 3 weeks = $12 total
+
+To calculate the savings, we subtract the cost at the other store from the cost at the local store:
+* $18 - $12 = $6
+
+Therefore, Bernie would save $6 in three weeks if he bought his chocolates at the other store instead of the local store.
+
+Answer: 6

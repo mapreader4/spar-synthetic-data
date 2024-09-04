@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Theo drinks 8 cups of water every day
+* Mason drinks 7 cups of water every day
+* Roxy drinks 9 cups of water every day
+* We want to find the total cups of water the siblings drink together in one week
+
+To calculate the total cups of water for one week, we need to multiply each sibling's daily water intake by 7 days in a week:
+* Theo's weekly water intake: 8 cups/day x 7 days = 56 cups
+* Mason's weekly water intake: 7 cups/day x 7 days = 49 cups
+* Roxy's weekly water intake: 9 cups/day x 7 days = 63 cups
+
+Now we add up the weekly water intakes of all three siblings:
+* Total weekly water intake = 56 cups + 49 cups + 63 cups = 168 cups
+
+Answer: 168 cups

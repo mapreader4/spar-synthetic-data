@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Nate starts with 70 matches.
+2) He drops 10 matches in a creek.
+3) His dog eats twice as many matches as he dropped in the creek. 
+   * He dropped 10 matches, so his dog eats 2 x 10 = 20 matches.
+4) To calculate the number of matches Nate has left, we start with the original 70 matches, then subtract the 10 he dropped and the 20 his dog ate.
+   * 70 - 10 - 20 = 40 matches.
+
+Answer: 40

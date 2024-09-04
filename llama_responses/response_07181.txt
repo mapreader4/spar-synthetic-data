@@ -1,0 +1,10 @@
+Let's break down the information given:
+
+* First class seats can seat 10 people.
+* Business class and first class together can seat the same number of people as economy class, which is 50.
+* Economy class is half full, which means there are 25 people in economy class.
+* Economy class and business class together can seat 50 people, so business class and first class together can seat 25 people.
+
+Since business class and first class together can seat 25 people, and 3 people are in first class, the number of people in business class is 25 - 3 = 22.
+
+Answer: 22

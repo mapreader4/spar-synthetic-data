@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Initially, Sam has twice as many marbles as Steve.
+2) Sally has 5 less marbles than Sam.
+3) After Sam gives 3 marbles each to Sally and Steve, Sam has 8 marbles left.
+
+Let's start by finding out how many marbles Sam had initially.
+* Sam had 8 + 3 + 3 = 14 marbles initially.
+* Since Sam has twice as many marbles as Steve, we can say that Steve had 14 / 2 = 7 marbles initially.
+
+Now, let's find out how many marbles Sally had initially.
+* Sally had 5 less marbles than Sam, so Sally had 14 - 5 = 9 marbles initially.
+
+After Sam gave 3 marbles each to Sally and Steve, we can calculate the new number of marbles for each person:
+* Sam now has 8 marbles
+* Sally now has 9 - 3 = 6 marbles
+* Steve now has 7 + 3 = 10 marbles
+
+Answer: 10

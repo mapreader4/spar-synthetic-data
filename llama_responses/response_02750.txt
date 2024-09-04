@@ -1,0 +1,57 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Zoe babysat Zachary 1/5 the number of times she babysat Chloe. Let's say the number of times she babysat Chloe is x. Then, the number of times she babysat Zachary would be x/5.
+
+We know that the number of times she babysat Zachary was 1/3 the number of times she babysat Julie. So, we can set up the equation:
+
+x/5 = 1/3 * Julie
+
+To solve for x, we can multiply both sides by 15:
+
+x = 15 * 1/3 * Julie
+
+Simplifying the right side of the equation, we get:
+
+x = 5 * Julie
+
+So, the number of times she babysat Zachary is 5 times the number of times she babysat Julie.
+
+We know that Zoe earned $600 babysitting Zachary. We can set up the equation:
+
+5 * Julie * x = 600
+
+To solve for Julie, we can divide both sides by 5:
+
+Julie * x = 600 / 5
+
+Julie * x = 120
+
+Now, we know that Julie is 3 times the number of times Zoe babysat Zachary. So, we can set up the equation:
+
+Julie = 3 * x
+
+To solve for Julie, we can divide both sides by 3:
+
+Julie = 120 / 3
+
+Julie = 40
+
+So, the number of times she babysat Julie is 40.
+
+Now, we can find the total number of times she babysat:
+
+Total times babysat = Julie + Zachary + Chloe
+= 40 + 5 * 40 + x
+= 40 + 200 + x
+
+We know that the total amount of money she made was $8,000. We can set up the equation:
+
+40 + 200 + x = 8000
+
+To solve for x, we can subtract 40 and 200 from both sides:
+
+x = 8000 - 240
+
+x = 7760
+
+So, Zoe earned $7760 from pool cleaning.

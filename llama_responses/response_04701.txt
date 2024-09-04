@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find the cost of admission for Kath and her 3 friends. Since the cost is $8, but it's $3 less if you watch the movie before 6 P.M., we can subtract $3 from $8 to get the cost for the early show.
+
+$8 - $3 = $5
+
+So, the cost for Kath and her 3 friends is $5.
+
+Next, we need to add the cost for Kath's 2 siblings. Since the cost is the same as for Kath and her friends, we can add $5 to the total cost for the 2 siblings.
+
+$5 + $5 = $10
+
+So, Kath will pay $10 for all of their admission.

@@ -1,0 +1,10 @@
+Let's break this down step by step:
+
+1. In the first two months, 20% of the 200 volcanoes (0.2 * 200 = 40) erupted.
+2. The remaining 160 volcanoes (200 - 40 = 160) did not erupt in the first two months.
+3. In the second half of the year, 40% of the remaining 160 volcanoes (0.4 * 160 = 64) erupted.
+4. The remaining 96 volcanoes (160 - 64 = 96) did not erupt in the second half of the year.
+5. At the end of the year, another 50% of the volcanoes that hadn't already erupted (0.5 * 96 = 48) erupted.
+6. The remaining 48 volcanoes (96 - 48 = 48) are still intact at the end of the year.
+
+Answer: 48

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the total number of people who bought a ticket. The cost of a ticket is $5, so the number of people is 2520 / 5 = 504.
+
+Next, let's calculate the total amount of money spent on deep-fried fair food. Two-thirds of 504 people buy the food, which is 2/3 x 504 = 336. Each person spent $8, so the total spent on food is 8 x 336 = 2688.
+
+Next, let's calculate the total amount of money spent on the ride. One quarter of the people went on the ride, which is 1/4 x 504 = 126. Each person spent $4, so the total spent on the ride is 4 x 126 = 504.
+
+Finally, let's calculate the total amount of money spent on souvenirs. One eighth of the people spent $15, which is 1/8 x 504 = 63. Each person spent $15, so the total spent on souvenirs is 15 x 63 = 945.
+
+Now, let's add up the total amount of money made from tickets, food, ride, and souvenirs. 2520 + 2688 + 504 + 945 = 7567.
+
+Answer: 7567

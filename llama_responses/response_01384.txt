@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by figuring out how many pots he can fit on each shelf.
+
+Each shelf can hold 5 pots vertically, so let's multiply that by the number of shelves he has.
+
+Since there are 60 pots in total, and he can stack 5 pots vertically on each shelf, he can fit 60 / 5 = 12 pots on each shelf.
+
+Since there are 60 pots in total, he needs to stock 60 / 12 = 5 shelves to fit all the pots.
+
+So, the answer is:
+
+Answer: 5

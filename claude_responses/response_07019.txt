@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The productivity in the Tutuwanas saw-mill increased by 1.5 this year
+* This increase was due to the Albaszu machine being repaired
+* Before the repair, the Albaszu machine was cutting 10 trees daily
+* After the repair, the productivity of the Albaszu machine has increased by 1.5
+
+To find the number of trees the Albaszu machine is cutting now, we can use the following calculation:
+* Original number of trees cut daily: 10
+* Increase in productivity: 1.5
+* New number of trees cut daily = Original number of trees cut daily * (1 + Increase in productivity)
+* New number of trees cut daily = 10 * (1 + 1.5)
+* New number of trees cut daily = 10 * 2.5
+* New number of trees cut daily = 25
+
+Answer: 25

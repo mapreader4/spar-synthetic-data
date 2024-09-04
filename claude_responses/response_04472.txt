@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jimmy eats 7 cookies
+* Each cookie contains 50 calories
+* So, the total calories from the 7 cookies is:
+7 cookies x 50 calories/cookie = 350 calories
+
+* Now, we need to find how many crackers Jimmy needs to eat to reach a total of 500 calories
+* Each cracker contains 15 calories
+* The remaining calories needed is 500 - 350 = 150 calories
+* To find the number of crackers needed, we divide the remaining calories by the calories per cracker:
+150 calories / 15 calories/cracker = 10 crackers
+
+Answer: 10 crackers

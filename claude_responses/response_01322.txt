@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Tom needs a 500 seat theater.
+2) He needs 12 square feet for every seat, so the total square footage of the theater is:
+   * 500 seats x 12 square feet per seat = 6,000 square feet
+3) The cost of the land is $5 per square foot, so the total cost of the land is:
+   * 6,000 square feet x $5 per square foot = $30,000
+4) The construction cost is twice the land cost, so the construction cost is:
+   * $30,000 x 2 = $60,000
+5) The total cost of the theater is the land cost plus the construction cost:
+   * $30,000 + $60,000 = $90,000
+6) Tom's partner covers 40% of the cost, so Tom's share is 60% of the total cost:
+   * $90,000 x 0.6 = $54,000
+
+Answer: $54,000

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) Rosie pays for a $0.44 piece of candy with a $1 bill.
+2) The amount of change Rosie should receive is $1 - $0.44 = $0.56.
+3) The smallest number of coins possible to make $0.56 in change would be:
+* 2 quarters ($0.50)
+* 1 nickel ($0.05)
+* 1 penny ($0.01)
+4) Therefore, the total number of coins Rosie will get as change is 2 + 1 + 1 = 4 coins.
+
+Answer: 4

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the plant is currently 20 feet tall. We are told that it will be 80 feet tall after a year. To find the monthly growth rate, we need to find the difference between the final height and the initial height.
+
+The difference between 80 feet and 20 feet is 60 feet. To find the monthly growth rate, we can divide this difference by the number of months in a year, which is 12.
+
+So, the monthly growth rate is 60 feet / 12 = 5 feet.
+
+Answer: 5

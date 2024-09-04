@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Emily has 4 dogs
+* Each dog eats 250 grams of food per day
+* Emily will be gone for 14 days
+
+To calculate the total amount of food needed, we need to:
+1. Calculate the total amount of food needed per day for all 4 dogs
+2. Multiply that amount by the number of days Emily will be gone
+
+Step 1: Total amount of food needed per day for all 4 dogs
+* Each dog eats 250 grams per day
+* 4 dogs x 250 grams per dog = 1000 grams per day
+
+Step 2: Total amount of food needed for the 14 days
+* 1000 grams per day x 14 days = 14,000 grams
+
+To convert this to kilograms, we divide by 1000:
+* 14,000 grams / 1000 = 14 kilograms
+
+Answer: 14 kilograms

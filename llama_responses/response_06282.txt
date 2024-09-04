@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total amount of rain that accumulated in the area on the first three days:
+
+Day 1: 10 inches
+Day 2: 2 x 10 inches = 20 inches
+Day 3: 50% more than Day 2, which is 20 inches + 10 inches = 30 inches
+
+Total rain accumulated on the first three days: 10 inches + 20 inches + 30 inches = 60 inches
+
+Since the area can hold the equivalent of 6 feet of rain, and there are 12 inches in 1 foot, the area can hold:
+
+6 feet x 12 inches/foot = 72 inches
+
+of rain. Since the area has already accumulated 60 inches of rain, it has 72 inches - 60 inches = 12 inches of capacity left.
+
+Since the area can drain out the equivalent of 3 inches of rain per day, it will take:
+
+12 inches / 3 inches/day = 4 days
+
+for the area to drain completely. However, the area flooded on the 4th day, so it didn't get a chance to drain any of the rain.
+
+Therefore, the minimum amount of rain that must have fallen on the 4th day is:
+
+72 inches - 12 inches = 60 inches
+
+Answer: 60

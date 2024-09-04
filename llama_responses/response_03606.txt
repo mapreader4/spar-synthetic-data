@@ -1,0 +1,20 @@
+Let's break this down step by step.
+
+Let's start by finding the number of girls in the school. We know that 5/8 of the students are girls. To find the number of girls, we can multiply the total number of students (800) by the fraction 5/8:
+
+800 * 5/8 = 500
+
+So, there are 500 girls in the school.
+
+Now, we know that seven-tenths of the girls and two-fifths of the boys are in the primary grades. Let's convert these fractions to decimals to make it easier to work with them:
+
+Seven-tenths of the girls = 0.7 * 500 = 350
+Two-fifths of the boys = 0.4 * 800 = 320
+
+So, the number of girls and boys in the primary grades is 350 + 320 = 670.
+
+Now, we need to find the number of middle schoolers. We know that the remaining students are middle schoolers, so we subtract the number of students in the primary grades from the total number of students:
+
+800 - 670 = 130
+
+Answer: 130

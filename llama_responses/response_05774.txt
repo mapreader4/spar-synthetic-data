@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total cost of the vet fees for the dogs: 8 dogs * $15 = 120.
+
+Next, let's find the total cost of the vet fees for the cats: 3 cats * $13 = 39.
+
+Now, the total cost of the vet fees for all the adoptions is the sum of the costs for the dogs and cats: 120 + 39 = 159.
+
+The vet donates a third of the fees back to the shelter, so the amount donated is 159 / 3 = 53.
+
+Answer: 53

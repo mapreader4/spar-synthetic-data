@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Lizzie scored 4 points
+* Nathalie's score is 3 more than Lizzie's, so Nathalie scored 4 + 3 = 7 points
+* Aimee's score is twice the score of Lizzie and Nathalie combined, so Aimee scored 2 * (4 + 7) = 2 * 11 = 22 points
+* The total points scored by the team is 50
+* To find the points scored by the teammates, we need to subtract the points scored by Lizzie, Nathalie, and Aimee from the total points scored by the team.
+* Total points scored by Lizzie, Nathalie, and Aimee = 4 + 7 + 22 = 33 points
+* Points scored by the teammates = 50 - 33 = 17 points
+
+Answer: 17

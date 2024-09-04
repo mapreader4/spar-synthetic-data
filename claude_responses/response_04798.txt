@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Farmer Rita's workers collected 30,000 gallons of milk and chilled it in a storage tank.
+2) They then spent the next 4 hours pumping milk at a rate of 2,880 gallons/hour from the storage tank into a milk tanker.
+   * Total amount of milk pumped from the storage tank = 2,880 gallons/hour x 4 hours = 11,520 gallons
+3) For the next 7 hours, the workers added more milk into the storage tank, at a rate of 1,500 gallons per hour.
+   * Total amount of milk added to the storage tank = 1,500 gallons/hour x 7 hours = 10,500 gallons
+4) To calculate the amount of milk left in the storage tank, we start with the initial 30,000 gallons, subtract the 11,520 gallons that were pumped out, and add the 10,500 gallons that were added back in.
+   * Milk left in storage tank = 30,000 gallons - 11,520 gallons + 10,500 gallons = 28,980 gallons
+
+Answer: 28,980 gallons

@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that the first bouquet has 9 carnations, and the second bouquet has 14 carnations. We are looking for the total number of carnations in the third bouquet.
+
+The average number of carnations in the bouquets is 12, so the total number of carnations in the first two bouquets is 9 + 14 = 23. Since the total number of carnations in the first two bouquets is 23, the number of carnations in the third bouquet is 12 - 23 = 7.
+
+Answer: 7

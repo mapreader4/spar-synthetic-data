@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Brenda needs to spay some cats and twice as many dogs
+* The total number of animals she needs to spay is 21
+* Let's represent the number of cats as x
+* Since Brenda needs to spay twice as many dogs as cats, the number of dogs would be 2x
+* The total number of animals is the sum of the cats and dogs, which is x + 2x = 3x
+* We know the total number of animals is 21, so we can set up the equation:
+3x = 21
+* Solving for x, we get:
+x = 21 / 3
+x = 7
+
+Answer: 7

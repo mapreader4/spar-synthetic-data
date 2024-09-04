@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Remy used x gallons, and Roman used 1 more than 3 times that amount. So Roman used 3x, so Remy used 3x - 1 gallons.
+
+Together they used 33 gallons, so we know that 3x - 1 + x = 30. We can solve this equation for x:
+
+x = 11.
+
+Answer: 11

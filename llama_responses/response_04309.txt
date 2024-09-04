@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+1. First, we need to find the total area of the road that needs to be paved. The length of the road is 2000 feet, and the width is 20 feet, so the area is:
+
+Area = length x width = 2000 x 20 = 40,000 square feet
+
+2. Each truckload of asphalt covers 800 square feet of road, so to find out how many truckloads Mark needs, we'll divide the total area by 800:
+
+40,000 square feet (total area) ÷ 800 square feet (per truckload) = 50 truckloads
+
+3. Since each truckload costs $75, the total cost of the asphalt is:
+
+50 truckloads x $75 per truckload = $3,750
+
+4. However, there's a 20% sales tax, so we need to add 20% of the total cost to the total cost:
+
+$3,750 x 0.20 = $750 (sales tax)
+
+5. The total cost Mark needs to pay is the total cost plus the sales tax:
+
+$3,750 (cost) + $750 (sales tax) = $4,500
+
+Answer: 4500

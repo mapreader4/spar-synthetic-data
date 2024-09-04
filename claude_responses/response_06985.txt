@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Andy earns $9 per hour
+* During an 8-hour shift, he earns 8 x $9 = $72 for his hourly wage
+* He also earns:
+  - $15 for each racquet he restrings, and he restrung 7 racquets, so that's 7 x $15 = $105
+  - $10 for each set of grommets he changes, and he changed 2 sets, so that's 2 x $10 = $20
+  - $1 for each stencil he paints, and he painted 5 stencils, so that's 5 x $1 = $5
+* Adding up all the earnings:
+  - Hourly wage: $72
+  - Racquet restringing: $105
+  - Grommet changes: $20
+  - Stencil painting: $5
+  - Total earnings: $72 + $105 + $20 + $5 = $202
+
+Answer: $202

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The full price of the duty shoes is $85.
+2) Officers who have served at least a year get a 20% discount on the full price.
+3) To calculate the discounted price, we take the full price of $85 and subtract 20% of $85, which is 0.20 * $85 = $17.
+4) The discounted price is therefore $85 - $17 = $68.
+5) Officers who have served at least three years get an additional 25% off the discounted price of $68.
+6) To calculate the additional discount, we take 25% of $68, which is 0.25 * $68 = $17.
+7) The final price for an officer who has served at least three years is $68 - $17 = $51.
+
+Answer: $51

@@ -1,0 +1,9 @@
+Let's break it down step by step:
+
+Mitch works 5 hours every day from Monday to Friday, that's a total of 20 hours from Monday to Friday. She earns $3 per hour, so she earns 20 * 3 = $60 from Monday to Friday.
+
+She works 3 hours every Saturday and Sunday, that's a total of 6 hours. She earns double on weekends, so she earns 6 * 2 = $12 on the weekend.
+
+Total earnings from Monday to Friday is $60, and total earnings from Saturday and Sunday is $12. To get the total weekly earnings, we add $60 + $12 = $72. So, the answer is:
+
+Answer: 72

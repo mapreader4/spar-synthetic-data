@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jessica needs to complete 50 hours of driving with a parent to get her driver's license
+* It takes 20 minutes to drive to school
+* She drives to and from school every day
+
+To calculate the number of school days it will take Jessica to meet the 50-hour driving requirement, we need to find out how many minutes of driving she can complete each day.
+
+* Driving to school: 20 minutes
+* Driving from school: 20 minutes
+* Total driving time per day: 20 + 20 = 40 minutes
+
+Now, we need to convert the 50-hour requirement to minutes:
+* 50 hours = 50 x 60 minutes = 3,000 minutes
+
+Finally, we can divide the total driving time required (3,000 minutes) by the daily driving time (40 minutes) to get the number of school days:
+* 3,000 minutes / 40 minutes per day = 75 school days
+
+Answer: 75

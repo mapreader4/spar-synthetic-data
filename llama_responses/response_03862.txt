@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Doctor Lindsay sees 4 adult patients and 3 child patients every hour. In an 8-hour day, there are 8 hours. So, the total number of adult patients seen is 4 * 8 = 32. The total number of child patients seen is 3 * 8 = 24.
+
+The cost for an adult's office visit is $50. So, the total cost for adult patients is 32 * 50 = 1600. The cost for a child's office visit is $25. So, the total cost for child patients is 24 * 25 = 600.
+
+The total cost for all patients is the sum of the cost for adult patients and the cost for child patients, which is 1600 + 600 = 2200.
+
+Answer: 2200

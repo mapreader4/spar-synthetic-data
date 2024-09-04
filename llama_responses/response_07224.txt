@@ -1,0 +1,11 @@
+Let's start by adding the values of the bills together.
+
+The value of the 2 $100 bills is 2 x 100 = 200.
+The value of the 5 $50 bills is 5 x 50 = 250.
+The value of the 10 $10 bills is 10 x 10 = 100.
+
+To find the total value of all the bills, we add these together:
+
+200 + 250 + 100 = 550.
+
+Answer: 550

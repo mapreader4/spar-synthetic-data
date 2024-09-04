@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, we need to find the total surface area of the kitchen that Martha needs to paint. We can do this by finding the area of each wall and then adding them up.
+
+The kitchen has 12 foot by 16 foot walls, which means each wall is 12 feet long and 10 feet high. To find the area of each wall, we multiply the length and the height together:
+
+12 x 10 = 120 square feet
+
+Since there are 4 walls, the total area to be painted is:
+
+4 x 120 = 480 square feet
+
+Now, Martha needs to paint the kitchen with one coat of primer and two coats of paint. Each coat of paint covers 40 square feet. So, we need to multiply the total area by 3 coats of paint:
+
+480 square feet x 3 coats = 1440 square feet
+
+Since Martha can paint 40 square feet per hour, we can divide the total area by the rate to find the number of hours:
+
+1440 square feet / 40 square feet per hour = 36 hours
+
+So, it will take Martha 36 hours to paint the kitchen.

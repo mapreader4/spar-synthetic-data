@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Susan is making 15 batches of the recipe, since each batch serves 2 people and there are 30 guests. So, the total number of people she needs to serve is 30, and the number of batches needed is 30 / 2 = 15.
+
+For each batch, Susan needs 4 potatoes and 1 teaspoon of salt. So, the total number of potatoes needed is 15 * 4 = 60. The cost of potatoes is $.10 each, so the total cost of potatoes is 60 *.10 = $6.00.
+
+The cost of salt is $2 for each container and each container has 5 teaspoons, so the number of teaspoons needed is 15 * 5 = 75. The cost of salt is $2, so the total cost of salt is 2 * 75 = $15.
+
+The total cost of food is the sum of the cost of potatoes and the cost of salt, which is 6.00 + 15 = $21. The answer is:
+
+Answer: 21

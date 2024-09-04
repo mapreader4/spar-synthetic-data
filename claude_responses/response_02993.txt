@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John buys 7 items, each costing $200
+* So the total cost before the discount is:
+    - 7 items x $200 per item = $1400
+* The store gives a 10% discount for the amount over $1000
+* The amount over $1000 is $1400 - $1000 = $400
+* The discount on the $400 is 10% of $400 = $40
+* Therefore, the total cost after the discount is:
+    - $1400 - $40 = $1360
+
+Answer: 1360

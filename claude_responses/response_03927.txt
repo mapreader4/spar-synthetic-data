@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Cindy can run at 3 miles per hour
+* Cindy can walk at 1 mile per hour
+* She runs for half a mile
+* To calculate the time it takes her to run half a mile:
+  * Distance = 0.5 miles
+  * Speed = 3 miles per hour
+  * Time = Distance / Speed
+  * Time = 0.5 miles / 3 miles per hour
+  * Time = 0.167 hours
+  * Converting to minutes: 0.167 hours * 60 minutes/hour = 10 minutes
+* She then walks for half a mile
+* To calculate the time it takes her to walk half a mile:
+  * Distance = 0.5 miles
+  * Speed = 1 mile per hour
+  * Time = Distance / Speed
+  * Time = 0.5 miles / 1 mile per hour
+  * Time = 0.5 hours
+  * Converting to minutes: 0.5 hours * 60 minutes/hour = 30 minutes
+* The total time is the sum of the running time and the walking time:
+  * Total time = 10 minutes + 30 minutes = 40 minutes
+
+Answer: 40 minutes

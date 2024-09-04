@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The TV series has 3 seasons
+* Each season has 20 episodes
+* So the total number of episodes in the series is 3 seasons x 20 episodes per season = 60 episodes
+* Willy watches 2 episodes per day
+* To find the number of days it will take Willy to finish the entire series, we divide the total number of episodes (60) by the number of episodes watched per day (2)
+* 60 episodes / 2 episodes per day = 30 days
+
+Answer: 30

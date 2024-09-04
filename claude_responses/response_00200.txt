@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Sansa sells an 8-inch portrait for $5
+* Sansa sells a 16-inch portrait for twice the price of the 8-inch portrait, which is $10 (2 x $5)
+* Sansa sells 3 8-inch portraits per day
+* Sansa sells 5 16-inch portraits per day
+* So in one day, Sansa earns:
+  - 3 x $5 = $15 from the 8-inch portraits
+  - 5 x $10 = $50 from the 16-inch portraits
+  - Total earnings per day = $15 + $50 = $65
+* In 3 days, Sansa earns:
+  - 3 x $65 = $195
+
+Answer: 195

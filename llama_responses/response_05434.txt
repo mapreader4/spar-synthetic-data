@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+Let's say Kylie picked x apples. Since Kayla picked 10 more than 4 times the amount Kylie picked, so Kayla picked 4x + 10 apples.
+
+The total amount of apples they picked is 340. We can set up an equation to solve for x:
+
+x + (4x + 10) = 340
+
+We can solve for x by subtracting 10 from both sides:
+
+x + 4x = 330
+
+Then, we can divide both sides by 4:
+
+x = 330 / 4
+x = 82.5
+
+So Kylie picked 82 apples, and Kayla picked 82 + 10 = 92 apples.
+
+Answer: 92

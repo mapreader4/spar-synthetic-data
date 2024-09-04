@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+Last year, Jessica's monthly expenses were:
+* Rent: $1000
+* Food: $200
+* Car insurance: $100
+* Total monthly expenses: $1000 + $200 + $100 = $1300
+
+Last year's total annual expenses:
+* $1300 per month x 12 months = $15,600
+
+This year, Jessica's expenses have changed:
+* Rent increased by 30%, so new rent is $1000 x 1.30 = $1300 per month
+* Food costs increased by 50%, so new food cost is $200 x 1.50 = $300 per month
+* Car insurance tripled, so new car insurance is $100 x 3 = $300 per month
+* New total monthly expenses: $1300 + $300 + $300 = $1900
+
+This year's total annual expenses:
+* $1900 per month x 12 months = $22,800
+
+Difference in annual expenses between this year and last year:
+* $22,800 - $15,600 = $7,200
+
+Answer: $7,200

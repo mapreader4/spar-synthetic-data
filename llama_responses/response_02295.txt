@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's say the number of students who attended on their own is x.
+
+The total number of students who attended the prom is 123.
+
+We know that 123 = x + x. This is because the number of students who came on their own is equal to the total number of students who attended the prom minus the number of students who came in pairs.
+
+We need to isolate the number of students who came in pairs. To do this, we subtract x from both sides of the equation.
+
+So, we have:
+
+x + x = 123 - x
+
+We can solve for x by subtracting 123 from both sides of the equation.
+
+x - x = 123 - x
+
+x = 61
+
+Answer: 61

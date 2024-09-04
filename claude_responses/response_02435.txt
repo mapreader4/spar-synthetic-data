@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. In 5 years, Frank will be three times as old as Ty is now.
+   * This means that Frank's age in 5 years = 3 * Ty's current age
+
+2. Ty is currently 4 years more than two times as old as Carla is now.
+   * This means that Ty's current age = (2 * Carla's current age) + 4
+
+3. Carla is currently 2 years older than Karen is now.
+   * This means that Carla's current age = Karen's current age + 2
+
+4. Karen is currently 2 years old.
+   * This means that Karen's current age = 2
+
+Plugging this all together:
+* Carla's current age = Karen's current age + 2 = 2 + 2 = 4
+* Ty's current age = (2 * Carla's current age) + 4 = (2 * 4) + 4 = 12
+* Frank's age in 5 years = 3 * Ty's current age = 3 * 12 = 36
+
+Answer: 36

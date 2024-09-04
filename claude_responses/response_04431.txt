@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jaylen has 5 carrots and 2 cucumbers.
+2) Jaylen has twice as many bell peppers as Kristin.
+   * Kristin has 2 bell peppers, so Jaylen has 2 x 2 = 4 bell peppers.
+3) Jaylen has 3 less than half as many green beans as Kristin.
+   * Kristin has 20 green beans, so half of that is 10.
+   * Jaylen has 10 - 3 = 7 green beans.
+4) Now we can add up all of Jaylen's vegetables:
+   * 5 carrots + 2 cucumbers + 4 bell peppers + 7 green beans = 18 vegetables.
+
+Answer: 18

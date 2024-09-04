@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Nathan played the air hockey game 2 times
+* Each air hockey game costs 3 tokens
+* So for the air hockey game, he used 2 x 3 = 6 tokens
+* Nathan played the basketball game 4 times
+* Each basketball game costs 3 tokens
+* So for the basketball game, he used 4 x 3 = 12 tokens
+* To find the total number of tokens he used, we add the tokens used for air hockey and basketball:
+* 6 tokens + 12 tokens = 18 tokens
+
+Answer: 18

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Frank spent 1/5 of his money on groceries. This means that 4/5 of his original money was left.
+2) He then spent 1/4 of the remaining money on a magazine. This means that 3/4 of the remaining money was left.
+3) He had $360 left in his wallet after these two purchases.
+4) Let's call the original amount of money he had as "x".
+5) After buying groceries, he had 4/5 of x, which is 0.8x.
+6) After buying the magazine, he had 3/4 of 0.8x, which is 0.6x.
+7) We know that 0.6x = $360, so x = $600.
+
+Answer: $600

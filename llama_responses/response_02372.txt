@@ -1,0 +1,9 @@
+Let's break it down step by step:
+
+1. Mr. Smith himself is an adult, so he pays the full price of $30 for his buffet.
+2. His wife is also an adult, so she also pays the full price of $30 for her buffet.
+3. Mr. Smith's parents are senior citizens, so they get a 10% discount on their buffet. 10% of $30 is $3, so they pay $27 for their buffet.
+4. Mr. Smith has 3 children, and they each pay the children's price of $15 for their buffet.
+5. To find the total cost, we add up the cost for Mr. Smith and his wife, the cost for his parents with the discount, and the cost for the children: $30 + $30 + $27 + $15 + $15 = $117.
+
+Answer: 117

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The cost of the keyboard is three times greater than the cost of the mouse.
+2) The cost of the mouse is $16.
+3) To find the cost of the keyboard, we multiply the cost of the mouse by 3:
+   * Cost of keyboard = $16 x 3 = $48
+4) To find the total amount Fabian spent, we add the cost of the mouse and the cost of the keyboard:
+   * Total cost = Cost of mouse + Cost of keyboard
+   * Total cost = $16 + $48 = $64
+
+Answer: $64

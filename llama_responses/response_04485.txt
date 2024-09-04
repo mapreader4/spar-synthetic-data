@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Convert the distance to miles:
+
+There are 8 blocks in 1/8th of a mile, so the total distance is 8 * 1 = 8 miles.
+
+Step 2: Convert the time:
+
+The ice cream will melt in 10 minutes, which is 10/60 = 1/6th of an hour.
+
+Step 3: Calculate the speed:
+
+To find the speed, we need to divide the distance by the time. 8 miles / (1/6) hour = 8 / 1/6 = 13.33 miles per hour.
+
+Answer: 13

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Janet buys 45-pound containers of cat litter for $21 each.
+2) Her cat litter box holds 15 pounds of cat litter.
+3) She changes out the litter weekly.
+4) We need to find how much it will cost for her to buy enough litter to last 210 days.
+5) First, let's calculate how much litter she needs per week:
+   - Her litter box holds 15 pounds
+   - She changes it weekly, so she needs 15 pounds per week
+6) Now, let's calculate how much litter she needs for 210 days:
+   - 210 days / 7 days per week = 30 weeks
+   - 30 weeks * 15 pounds per week = 450 pounds of litter needed
+7) Each container holds 45 pounds of litter, so she needs to buy:
+   - 450 pounds / 45 pounds per container = 10 containers
+8) Each container costs $21, so the total cost will be:
+   - 10 containers * $21 per container = $210
+
+Answer: $210

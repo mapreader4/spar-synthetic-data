@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's calculate the profit from selling apples. The vendor bought apples at 2 for $3 and plans to sell them at 5 for $10. To find the cost per apple, we can divide the total cost by the number of apples: $3 ÷ 2 = $1.5 per apple. To find the total revenue from selling 5 apples, we multiply the cost per apple by the number of apples: $1.5 * 5 = $7.5. The profit from selling apples is the difference between the revenue and the cost: $7.5 - $3 = $4.5.
+
+Next, let's calculate the profit from selling oranges. The vendor bought oranges at $2.70 for 3 and plans to sell them at $1 each. To find the cost per orange, we can divide the total cost by the number of oranges: $2.70 ÷ 3 = $0.9 per orange. To find the total revenue from selling 5 oranges, we multiply the cost per orange by the number of oranges: $0.9 * 5 = $4.5. The profit from selling oranges is the difference between the revenue and the cost: $4.5 - $2.70 = $1.8.
+
+Finally, we add the profit from selling apples and oranges to find the total profit: $4.5 + $1.8 = $6.3.
+
+Answer: 6.3

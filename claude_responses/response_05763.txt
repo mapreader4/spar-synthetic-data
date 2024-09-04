@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. On Friday, the 5th graders raised $147.
+
+2. On Saturday, they made $7 more than twice their Friday earnings. 
+   * Twice their Friday earnings would be 2 x $147 = $294.
+   * They made $7 more than that, so their Saturday earnings were $294 + $7 = $301.
+
+3. On Sunday, their earnings were $78 more than their earnings on Friday.
+   * Their Friday earnings were $147.
+   * Their Sunday earnings were $147 + $78 = $225.
+
+4. To calculate the total earnings over the three days, we add up the earnings from each day:
+   * Friday: $147
+   * Saturday: $301
+   * Sunday: $225
+   * Total: $147 + $301 + $225 = $673
+
+Answer: 673

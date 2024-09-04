@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The regular ticket costs $9
+* The ticket for children is $2 less, so it costs $7
+* The family gave the cashier two $20 bills, which is a total of $40
+* They received $1 in change, so the total cost of the tickets was $39
+* We know there are 2 adults in the family, so the number of children is the unknown variable we need to solve for
+
+To find the number of children, we can set up an equation:
+* 2 x $9 (adult tickets) + x x $7 (children tickets) = $39
+* Where x is the number of children
+
+Solving this equation:
+* 2 x $9 = $18
+* x x $7 = $39 - $18 = $21
+* x = $21 / $7 = 3
+
+Therefore, the number of children in the family is 3.
+
+Answer: 3

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how long it takes Alexis to sew one skirt. If it takes 2 hours to sew 1 skirt, then it takes 2 hours per skirt. So, to sew 6 skirts would take 2 * 6 = 12 hours.
+
+Now, let's find out how long it takes Alexis to sew one coat. If it takes 7 hours to sew 1 coat, then it takes 7 hours per coat. So, to sew 4 coats would take 7 * 4 = 28 hours.
+
+Now, we can add the time it takes to sew skirts and coats. 12 hours + 28 hours = 40 hours.
+
+Answer: 40

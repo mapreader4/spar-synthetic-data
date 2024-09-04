@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the number of students in section Diligence before the transfer is x.
+
+Since there are an equal number of students in both sections, the number of students in section Industry before the transfer is also x.
+
+The total number of students in both sections combined is 50.
+
+So, we can set up the equation:
+
+x + x = 50
+
+This is a simple equation with one variable. To solve for x, we can add -x to both sides of the equation:
+
+x + x - x = 50 - x
+
+This simplifies to:
+
+2x = 50
+
+To solve for x, we can divide both sides by 2:
+
+x = 50/2
+
+x = 25
+
+So, there were 25 students in section Diligence before the transfer.

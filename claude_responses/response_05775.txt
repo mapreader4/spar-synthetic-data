@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 30 spaces in the parking lot
+* Each caravan takes up 2 spaces
+* There are currently 3 caravans parked
+
+To calculate the number of vehicles that can still park, we need to:
+1. Calculate the total number of spaces taken up by the 3 caravans:
+   * 3 caravans x 2 spaces each = 6 spaces taken up
+
+2. Subtract the number of spaces taken up by the caravans from the total number of spaces in the parking lot:
+   * 30 total spaces - 6 spaces taken up = 24 spaces remaining
+
+Therefore, the number of vehicles that can still park is:
+Answer: 24

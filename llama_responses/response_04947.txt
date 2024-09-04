@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Tony bought 3 lottery tickets.
+* Each ticket has 5 winning numbers.
+* Each winning number is worth $20.
+
+To find the total amount of money Tony has won, we need to multiply the number of winning tickets (3) by the value of each winning number ($20). This is because Tony has 3 tickets with 5 winning numbers on each ticket, so the total number of winning numbers is 3 x 5 = 15.
+
+Now, we can multiply the number of winning numbers (15) by the value of each winning number ($20):
+
+15 x $20 = $300
+
+So, Tony has won a total of $300.
+
+Answer: 300

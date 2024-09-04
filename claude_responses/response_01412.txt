@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The mother duck has 8 ducklings
+* The first 3 ducklings find 5 snails each
+* So the first 3 ducklings find a total of 3 * 5 = 15 snails
+* The next 3 ducklings find 9 snails each
+* So the next 3 ducklings find a total of 3 * 9 = 27 snails
+* The remaining 2 ducklings each find half the number of snails that the mother duck finds
+* The mother duck finds 3 times the total number of snails as the first 2 groups of ducklings
+* The first 2 groups of ducklings found 15 + 27 = 42 snails
+* So the mother duck finds 3 * 42 = 126 snails
+* The remaining 2 ducklings each find 126 / 2 = 63 snails each
+* So the remaining 2 ducklings find a total of 2 * 63 = 126 snails
+
+Now we can add up the total number of snails found by the family of ducks:
+* 15 + 27 + 126 + 126 = 294 snails
+
+Answer: 294

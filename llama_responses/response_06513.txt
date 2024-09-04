@@ -1,0 +1,13 @@
+Julio goes fishing and can catch 7 fish every hour. So, let's track his total catch.
+
+1 hour: 7 fish
+2 hour: 7 fish + 7 fish = 14 fish
+3 hour: 7 fish + 14 fish = 21 fish
+4 hour: 7 fish + 21 fish = 28 fish
+5 hour: 7 fish + 28 fish = 35 fish
+6 hour: 7 fish + 35 fish = 42 fish
+7 hour: 7 fish + 42 fish = 49 fish
+8 hour: 7 fish + 49 fish = 56 fish
+9 hour: 7 fish - 15 fish = 41 fish
+
+So, by the 9th hour, Julio has 41 fish.

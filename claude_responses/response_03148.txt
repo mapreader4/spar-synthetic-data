@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We know that the pair of pants and shirt cost $100 total.
+2) We also know that the pants and coat cost $244 total.
+3) The coat costs 5 times as much as the shirt.
+4) Let's call the cost of the shirt 'x'.
+5) Then the cost of the coat is 5x.
+6) The cost of the pants is (100 - x).
+7) The cost of the pants and coat is $244, so (100 - x) + 5x = 244.
+8) Solving this equation, we get x = $44.
+9) Therefore, the cost of the coat is 5 * $44 = $220.
+
+Answer: $220

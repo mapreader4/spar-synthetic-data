@@ -1,0 +1,29 @@
+Okay, let's break this down step-by-step:
+* Half of the marbles are blue
+* A quarter of the marbles are red
+* 27 of the marbles are green
+* 14 of the marbles are yellow
+
+To find the total number of marbles, we need to add up the number of marbles of each color.
+
+First, let's find the number of blue marbles:
+* If half of the marbles are blue, and we don't know the total number of marbles yet, let's call the total number of marbles "x"
+* Half of x is x/2, so the number of blue marbles is x/2
+
+Next, let's find the number of red marbles:
+* A quarter of the marbles are red, so the number of red marbles is x/4
+
+We know the number of green marbles is 27, and the number of yellow marbles is 14.
+
+So the total number of marbles is the sum of the blue, red, green, and yellow marbles:
+* x/2 + x/4 + 27 + 14 = x
+
+Solving this equation:
+* x/2 + x/4 + 41 = x
+* 3x/4 + 41 = x
+* 3x = 4x - 164
+* x = 164
+
+Therefore, the total number of marbles in the jar is 164.
+
+Answer: 164

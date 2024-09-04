@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Aubrey is planting tomatoes and cucumbers
+* For each row of tomato plants, she is planting 2 rows of cucumbers
+* She has enough room for 15 rows of plants in total
+* There is enough space for 8 tomato plants in each row
+* Each tomato plant produces 3 tomatoes
+
+First, let's figure out how many rows of tomato plants she can have. Since she has 2 rows of cucumbers for each row of tomatoes, and she has 15 rows in total, we can calculate the number of tomato rows as:
+* Tomato rows = 15 / 3 = 5 rows
+
+Now, we know that each row of tomatoes has 8 tomato plants, and each plant produces 3 tomatoes. So, the total number of tomatoes she will have is:
+* Total tomatoes = 5 rows x 8 plants per row x 3 tomatoes per plant
+* Total tomatoes = 120 tomatoes
+
+Answer: 120

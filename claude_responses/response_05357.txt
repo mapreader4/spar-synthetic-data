@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Tom gets 10 points for killing each enemy
+* He killed 150 enemies
+* So his base score is:
+    - 150 enemies x 10 points per enemy = 1,500 points
+* If he kills at least 100 enemies, he gets a 50% bonus to his score
+* Since he killed 150 enemies, which is more than 100, he gets the 50% bonus
+* The bonus is 50% of his base score of 1,500 points
+    - 50% of 1,500 = 0.5 x 1,500 = 750 points
+* His total score is his base score plus the bonus:
+    - 1,500 points + 750 points = 2,250 points
+
+Answer: 2,250

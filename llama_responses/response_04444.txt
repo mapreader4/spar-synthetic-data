@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+1. Let the population of Wellington be x.
+2. The population of Port Perry is seven times the population of Wellington, so the population of Port Perry is 7x.
+3. The population of Port Perry is 800 more than the population of Lazy Harbor, so the population of Lazy Harbor is x - 800.
+4. The population of Port Perry is the sum of the population of Wellington and the population of Lazy Harbor, so 7x + (x - 800).
+5. We know that the population of Wellington is 900, so we can substitute x = 900.
+6. Now we can substitute x into the equation 7x + (x - 800), and solve for x.
+7. 7x + (x - 800) = 7(900) + (900 - 800) = 7(900) + 100.
+8. 7(900) + 100 = 6300 + 100 = 6400.
+
+Answer: 6400

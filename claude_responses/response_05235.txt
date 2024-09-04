@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. Mr. Banks has 8 investment streams, and each one generates $500 in revenue.
+   * Total revenue for Mr. Banks = 8 x $500 = $4,000
+
+2. Ms. Elizabeth has 5 investment streams, and each one generates $900 in revenue.
+   * Total revenue for Ms. Elizabeth = 5 x $900 = $4,500
+
+3. To find the difference in revenue between Ms. Elizabeth and Mr. Banks, we subtract Mr. Banks' revenue from Ms. Elizabeth's revenue.
+   * Difference in revenue = Ms. Elizabeth's revenue - Mr. Banks' revenue
+   * Difference in revenue = $4,500 - $4,000 = $500
+
+Answer: $500

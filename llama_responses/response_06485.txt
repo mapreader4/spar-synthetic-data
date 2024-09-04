@@ -1,0 +1,12 @@
+Let's start by using variables to represent the unknown age of the speaker and their son.
+
+Let the age of the speaker be x. Then, the age of the son is x * 5. Next year, the age of the son will be x * 5 + 1 = x * 6. Since we know the age of the son will be 8, we can set up an equation to solve for x.
+
+x * 6 = 8
+
+To solve for x, we can divide both sides by 6.
+
+x = 8 / 6
+x = 1.333333333333
+
+So the age of the speaker is 1.333333333333.

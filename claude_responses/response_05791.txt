@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. Last year, walkers earned $4 per mile.
+2. This year, walkers earn $2.75 per mile.
+3. Last year's winner collected $44.
+4. To calculate how many miles last year's winner walked, we divide the total amount collected ($44) by the amount earned per mile ($4):
+   $44 / $4 per mile = 11 miles
+5. Now, to calculate how many miles Elroy needs to walk to collect the same $44, we divide the total amount ($44) by the amount earned per mile this year ($2.75):
+   $44 / $2.75 per mile = 16 miles
+6. To find the difference in miles between Elroy and last year's winner, we subtract the miles walked by last year's winner (11 miles) from the miles Elroy needs to walk (16 miles):
+   16 miles - 11 miles = 5 miles
+
+Answer: 5

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Beth's primary tank has enough oxygen for 2 hours underwater
+* She also has several 1-hour supplemental tanks
+* She needs to be underwater for 8 hours total
+
+To calculate the number of supplemental tanks she will need, we first need to determine how much time she can spend underwater using her primary tank.
+
+* Primary tank: 2 hours
+* Time remaining: 8 hours - 2 hours = 6 hours
+
+Since each supplemental tank lasts for 1 hour, she will need 6 supplemental tanks to cover the remaining 6 hours.
+
+Answer: 6

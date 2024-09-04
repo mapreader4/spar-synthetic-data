@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The bathroom floor is 24 square feet.
+2) The kitchen floor is 80 square feet.
+3) Jack can mop 8 square feet per minute.
+4) To find the total area that Jack needs to mop, we add the bathroom and kitchen floor areas:
+   24 square feet + 80 square feet = 104 square feet.
+5) To find the time it takes Jack to mop the total area, we divide the total area by the mopping rate:
+   104 square feet / 8 square feet per minute = 13 minutes.
+
+Answer: 13

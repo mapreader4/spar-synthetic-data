@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Asha starts with $0, which is her initial amount of money.
+
+She borrows $20 from her brother, so now she has $20 + $0 = $20.
+
+Then she borrows $40 from her father, so now she has $20 + $40 = $60.
+
+Next, she borrows $30 from her mother, so now she has $60 + $30 = $90.
+
+Then, she gets $70 as a gift from her granny, so now she has $90 + $70 = $160.
+
+She adds this to her savings of $100, so now she has $160 + $100 = $260.
+
+Then, she goes out to Target and spends 3/4 of her money. To find 3/4 of $260, we can multiply 3/4 by $260, which is $195.
+
+So, she is left with $260 - $195 = $65.
+
+Answer: 65

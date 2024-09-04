@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+First, we need to find the total number of bricks needed to build all 4 walls. Each wall has 6 courses, and each course has 10 bricks. So, for 4 walls, the total number of bricks needed is 4 x 6 x 10 = 24.
+
+Now, the mason realizes that he will not be able to finish the last two courses of the last wall. So, he will finish only 6 courses of the wall. Therefore, he will use 6 x 10 = 60 bricks for the 3 completed walls and 3 courses of the last wall. For the remaining 2 courses of the last wall, he will use 2 x 10 = 20 bricks.
+
+So, the total number of bricks used is 60 + 20 = 80.

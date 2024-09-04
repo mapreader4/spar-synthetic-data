@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The movie tickets cost $8 per person
+* There are two sisters, so the total cost of the tickets is:
+    * 2 tickets x $8 per ticket = $16
+* The sisters brought $25 with them
+* To calculate the change they will receive, we take the amount they brought ($25) and subtract the total cost of the tickets ($16):
+    * $25 - $16 = $9
+
+Answer: 9

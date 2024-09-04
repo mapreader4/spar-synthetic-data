@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) The total number of people in Nantucket is 300.
+2) Half of all the people in Nantucket will attend the meeting.
+3) So the total number of people attending the meeting is 300 / 2 = 150.
+4) The number of males going to the meeting is twice the number of females.
+5) Let's call the number of females going to the meeting x.
+6) Then the number of males going to the meeting is 2x.
+7) The total number of people going to the meeting is the sum of the males and females, which is 2x + x = 3x.
+8) We know the total number of people going to the meeting is 150, so 3x = 150.
+9) Solving for x, we get x = 50.
+
+Answer: 50 females are going to the meeting.

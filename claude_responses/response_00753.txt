@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) In the morning, the shop sold 29 bags of potatoes.
+2) In the afternoon, the shop sold 17 bags of potatoes.
+3) Each bag of potatoes weighs 7kg.
+4) To calculate the total kilograms of potatoes sold for the whole day, we need to add the morning and afternoon sales:
+   - Morning sales: 29 bags x 7kg/bag = 203kg
+   - Afternoon sales: 17 bags x 7kg/bag = 119kg
+   - Total kilograms sold for the whole day: 203kg + 119kg = 322kg
+
+Answer: 322

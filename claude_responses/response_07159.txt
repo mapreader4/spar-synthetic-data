@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jalen weighs 160 pounds
+* Ponce is 10 pounds lighter than Jalen
+* So, Ponce's weight is 160 - 10 = 150 pounds
+* Ishmael is 20 pounds heavier than Ponce
+* So, Ishmael's weight is 150 + 20 = 170 pounds
+
+Now, to calculate the average weight of the three:
+* Average weight = (Ishmael's weight + Ponce's weight + Jalen's weight) / 3
+* Average weight = (170 + 150 + 160) / 3
+* Average weight = 480 / 3
+* Average weight = 160 pounds
+
+Answer: 160

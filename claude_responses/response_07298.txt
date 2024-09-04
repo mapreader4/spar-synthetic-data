@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The tank of John's car is full, containing 47 liters of gasoline.
+2) After a journey of 275 km, there are 14 liters of gasoline left.
+3) To calculate the fuel consumption per 100 km, we need to find the amount of gasoline consumed during the 275 km journey.
+4) The amount of gasoline consumed is the difference between the initial amount (47 liters) and the remaining amount (14 liters), which is 47 - 14 = 33 liters.
+5) To find the fuel consumption per 100 km, we need to divide the amount of gasoline consumed (33 liters) by the distance traveled (275 km) and multiply by 100.
+6) Fuel consumption per 100 km = (33 liters / 275 km) * 100 = 12 liters per 100 km.
+
+Answer: 12

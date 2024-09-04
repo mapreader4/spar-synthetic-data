@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The playground is surrounded by a square fence with a side length of 27 yards.
+2) The perimeter of a square is 4 times the side length.
+3) So the perimeter of the playground fence is 4 * 27 = 108 yards.
+4) The garden has a length of 12 yards and a width of 9 yards.
+5) The perimeter of the garden is 2 * (12 + 9) = 42 yards.
+6) To find the total fencing, we add the perimeter of the playground and the perimeter of the garden:
+108 yards + 42 yards = 150 yards.
+
+Answer: 150

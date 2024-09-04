@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* In 2000, 450,000 people lived in Maryville.
+* In 2005, 467,000 people lived in Maryville.
+
+We can find the change in the population by subtracting the 2000 population from the 2005 population:
+
+2005 population - 2000 population = Change in population
+
+Substituting the given numbers, we get:
+
+467,000 - 450,000 = 17,000
+
+So, the change in the population is 17,000. To find the average number of people added each year, we can divide the change in population by the number of years:
+
+Change in population / Number of years = Average annual change
+
+Substituting the numbers, we get:
+
+17,000 / 5 = 3,400
+
+So, the average number of people added each year is 3,400.

@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) You have some number of marbles, let's call this number x.
+2) If you give your brother 2 marbles, you will have double his number of marbles. So, your brother has (x-2)/2 marbles.
+3) Your friend has triple the number of marbles you have, so your friend has 3x marbles.
+4) The total number of marbles you all have together is 63, so we can write the equation:
+x + (x-2)/2 + 3x = 63
+5) Simplifying this equation, we get:
+4.5x - 1 = 63
+6) Solving for x, we get:
+x = 14
+Therefore, the answer is:
+Answer: 14

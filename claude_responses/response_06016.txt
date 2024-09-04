@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The track is 150 meters around
+* Madison and Gigi have each run 6 laps
+* 6 laps x 150 meters per lap = 900 meters each
+* So, the total distance they have run so far is 900 meters + 900 meters = 1800 meters
+* The total distance they need to run is 2400 meters
+* To find the remaining distance, we subtract the distance they have run (1800 meters) from the total distance (2400 meters):
+* 2400 meters - 1800 meters = 600 meters
+* Since the track is 150 meters around, to find the number of additional laps they need to run, we divide the remaining distance (600 meters) by the length of the track (150 meters):
+* 600 meters / 150 meters per lap = 4 laps
+
+Answer: 4

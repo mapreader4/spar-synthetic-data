@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. We know that Rhett's current salary is $5000 per month.
+2. Since he has to pay 10% of his salary as tax, his take-home pay is $5000 - (5000 * 0.10) = $4500.
+3. He will have 3/5 of his next month's salary left to pay his rent. Since 3/5 of his salary is 3/5 * 5000 = $3000.
+4. His rent expense per month is the amount he needs to pay his rent, which is $3000.
+
+Answer: 3000

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Kevin found 5 eggs
+* Bonnie found 13 eggs
+* George found 9 eggs
+* Cheryl found 56 eggs
+
+To find the total number of eggs found by Kevin, Bonnie, and George, we add their individual totals:
+* 5 + 13 + 9 = 27 eggs
+
+Now, to find how many more eggs Cheryl found than the other three children, we subtract the total found by Kevin, Bonnie, and George from the number Cheryl found:
+* 56 - 27 = 29 eggs
+
+Answer: 29

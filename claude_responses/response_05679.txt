@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Kelly puts string cheeses in her kids' lunches 5 days per week
+* Her oldest wants 2 string cheeses every day
+* Her youngest will only eat 1 string cheese every day
+* The packages come with 30 string cheeses per pack
+
+First, let's calculate the total number of string cheeses needed per week:
+* Oldest child: 2 string cheeses per day x 5 days = 10 string cheeses per week
+* Youngest child: 1 string cheese per day x 5 days = 5 string cheeses per week
+* Total string cheeses needed per week: 10 + 5 = 15 string cheeses
+
+Now, let's calculate the total number of string cheeses needed for 4 weeks:
+* 15 string cheeses per week x 4 weeks = 60 string cheeses
+
+Finally, we need to determine how many packages of string cheese Kelly will need to buy. Since each package has 30 string cheeses, we can divide the total number of string cheeses needed by 30 to get the number of packages:
+* 60 string cheeses / 30 string cheeses per package = 2 packages
+
+Answer: 2 packages of string cheese.

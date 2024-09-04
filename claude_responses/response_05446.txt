@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The building has 10 floors
+* It takes 15 seconds to go up the stairs to the even-numbered floors
+* It takes 9 seconds to go up the stairs to the odd-numbered floors
+* This includes getting to the first floor
+
+To get to the 10th floor, we need to go through the following floors:
+* 1st floor (9 seconds)
+* 3rd floor (9 seconds)
+* 5th floor (9 seconds)
+* 7th floor (9 seconds)
+* 9th floor (9 seconds)
+* 10th floor (15 seconds)
+
+Adding up the time for each floor:
+* 9 + 9 + 9 + 9 + 9 + 15 = 60 seconds
+
+To convert to minutes:
+* 60 seconds / 60 seconds per minute = 1 minute
+
+Answer: 1 minute

@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) We know that each tripodasaurus has 3 legs and 1 head.
+2) We have a total of 20 heads and legs in the flock.
+3) To find the number of tripodasauruses, we need to set up an equation:
+   * Let x = the number of tripodasauruses in the flock
+   * Each tripodasaurus has 3 legs and 1 head, so the total number of legs and heads is 4x
+   * We are told the total number of heads and legs is 20
+   * So we can write the equation: 4x = 20
+4) Solving for x, we get:
+   * x = 20/4
+   * x = 5
+Answer: 5

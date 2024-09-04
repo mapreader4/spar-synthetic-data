@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+* There were 123 students who attended the prom
+* 3 students attended on their own
+* The remaining students must have attended in couples
+* To find the number of couples, we need to subtract the 3 students who attended on their own from the total number of students, and then divide the result by 2 (since each couple has 2 people)
+* 123 - 3 = 120 students who attended in couples
+* 120 / 2 = 60 couples
+
+Answer: 60

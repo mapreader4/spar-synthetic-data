@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's say the highest level of financial backing is x.
+
+The lowest level of financial backing is 10x. The second level is 10 times as high as the lowest level, so it's 10x. The highest level is 10 times as high as the second level, so it's 100x.
+
+The total amount of financial backing needed is $12000. We can set up an equation to represent this:
+
+10x + 10(10x) + 3(100x) = 12000
+
+Combine like terms:
+
+10x + 100x + 300x = 12000
+
+Combine like terms:
+
+310x = 12000
+
+Divide both sides by 310:
+
+x = 12000 / 310
+
+x = 38.7102
+
+The highest level of financial backing is 38.71.
+
+Answer: 38

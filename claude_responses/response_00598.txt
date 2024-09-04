@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Federal guidelines recommend eating at least 2 cups of vegetables per day.
+* Sarah has eaten 8 cups of vegetables from Sunday breakfast to Thursday evening.
+* We need to find how many cups per day Sarah needs to eat to meet her daily minimum requirement for the week.
+
+To calculate this, we first need to determine the total number of days in the given time period:
+* Sunday, Monday, Tuesday, Wednesday, Thursday = 5 days
+
+Now, we can calculate the total minimum requirement for the week:
+* 2 cups per day x 5 days = 10 cups
+
+Since Sarah has already eaten 8 cups, we can subtract that from the total minimum requirement to find how many more cups she needs to eat:
+* 10 cups - 8 cups = 2 cups
+
+Finally, to find how many cups per day Sarah needs to eat, we divide the remaining 2 cups by the number of days left in the week:
+* 2 cups / 2 days = 1 cup per day
+
+Answer: 1 cup

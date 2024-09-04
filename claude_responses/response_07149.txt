@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Hillary buys the newspaper on Wednesday, Thursday, and Friday each week
+* The cost of the newspaper on those days is $0.50 each
+* So, the cost for those 3 days per week is:
+  * 3 days x $0.50 = $1.50 per week
+* On Sunday, she spends $2.00 per week
+* To calculate the total cost over 8 weeks:
+  * $1.50 per week x 8 weeks = $12.00
+  * $2.00 per week x 8 weeks = $16.00
+  * Total cost = $12.00 + $16.00 = $28.00
+
+Answer: 28

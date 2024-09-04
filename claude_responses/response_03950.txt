@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The home team has won 3 matches
+* Each team has drawn 4 matches
+* Neither team has lost any matches
+* The rival team has won twice as many matches as the home team
+
+First, let's calculate the number of matches the rival team has won:
+* The home team has won 3 matches
+* The rival team has won twice as many, so the rival team has won 3 x 2 = 6 matches
+
+Now, let's calculate the total number of matches played by each team:
+* The home team has won 3 matches and drawn 4 matches, so they have played 3 + 4 = 7 matches
+* The rival team has won 6 matches and drawn 4 matches, so they have played 6 + 4 = 10 matches
+
+Finally, to get the total number of matches played by both teams, we add the number of matches played by each team:
+* Total matches played = 7 + 10 = 17
+
+Answer: 17

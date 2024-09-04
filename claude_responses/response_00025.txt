@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Ralph starts with 175 tennis balls in the machine.
+2) Out of the first 100 balls, he hits 2/5 of them.
+   * 2/5 of 100 = 40 balls hit
+   * Remaining balls not hit = 100 - 40 = 60 balls
+3) Out of the next 75 balls, he hits 1/3 of them.
+   * 1/3 of 75 = 25 balls hit
+   * Remaining balls not hit = 75 - 25 = 50 balls
+4) In total, the number of balls Ralph did not hit is:
+   * Balls not hit from first 100 = 60
+   * Balls not hit from next 75 = 50
+   * Total balls not hit = 60 + 50 = 110
+
+Answer: 110

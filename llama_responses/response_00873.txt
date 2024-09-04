@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total mass of apples harvested from the 30 apple trees. Each tree gives 150 kg of apples, so the total mass of apples is:
+
+30 x 150 = 4500 kg
+
+Next, let's find the total mass of peaches harvested from the 45 peach trees. Each tree gives an average of 65 kg of fruit, so the total mass of peaches is:
+
+45 x 65 = 2925 kg
+
+Now, let's find the total mass of fruit harvested in the orchard. The total mass of apples is 4500 kg and the total mass of peaches is 2925 kg. To find the total mass of fruit, we can add the two together:
+
+4500 + 2925 = 7425
+
+Answer: 7425

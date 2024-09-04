@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Cornelia has visited a total of 42 different countries
+* 20 of those countries were in Europe
+* 10 of those countries were in South America
+* The remaining countries are not in Europe or South America
+* We know that half of the remaining countries are in Asia
+* To find the number of Asian countries, we need to first find the number of remaining countries, and then divide that by 2
+
+First, let's find the number of remaining countries:
+* Total countries visited: 42
+* Countries in Europe: 20
+* Countries in South America: 10
+* Remaining countries = 42 - 20 - 10 = 12
+
+Now, we know that half of the remaining 12 countries are in Asia, so:
+* Asian countries = 12 / 2 = 6
+
+Answer: 6

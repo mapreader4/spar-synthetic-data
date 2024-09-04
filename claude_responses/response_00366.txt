@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Keaton climbed a 30 feet ladder 20 times.
+   * Total distance climbed by Keaton = 30 feet x 20 times = 600 feet
+
+2) Reece climbed a ladder 4 feet shorter than Keaton's ladder 15 times.
+   * Length of Reece's ladder = 30 feet - 4 feet = 26 feet
+   * Total distance climbed by Reece = 26 feet x 15 times = 390 feet
+
+3) To find the total length of the ladders that both workers climbed, we add the distances:
+   * Total length = Keaton's distance + Reece's distance
+   * Total length = 600 feet + 390 feet = 990 feet
+
+4) To convert the total length from feet to inches, we multiply by 12 (since there are 12 inches in 1 foot):
+   * Total length in inches = 990 feet x 12 inches/foot = 11,880 inches
+
+Answer: 11,880 inches

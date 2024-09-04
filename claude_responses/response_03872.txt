@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Lola's team scored twice as many points at their last home game than their first away game.
+* Let's call the points scored at the first away game "x".
+* Then, the points scored at the last home game would be 2x.
+* We know the last home game score was 62 points, so 2x = 62.
+* Solving for x, we get x = 31 points scored at the first away game.
+* At the second away game, they scored 18 more points than the previous away game.
+* So the second away game score was 31 + 18 = 49 points.
+* At the third away game, they scored 2 more points than the second away game.
+* So the third away game score was 49 + 2 = 51 points.
+* Now, we need to find how many points they need to score in their next game to bring their cumulative points up to four times the score from their last home game.
+* The total points scored so far is 62 + 31 + 49 + 51 = 193 points.
+* Four times the last home game score is 4 * 62 = 248 points.
+* So, they need to score 248 - 193 = 55 points in their next game.
+
+Answer: 55

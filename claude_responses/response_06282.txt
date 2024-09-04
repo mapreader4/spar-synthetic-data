@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The area can hold the equivalent of 6 feet of rain
+* It can drain out the equivalent of 3 inches of rain per day to the nearby river without causing problems
+* On the first day, it rained 10 inches
+* On the second day, it rained twice as much as the first day, which is 20 inches
+* On the third day, it rained 50% more than the second day, which is 20 + (0.5 * 20) = 30 inches
+* The total amount of rain collected in the first 3 days is:
+  - Day 1: 10 inches
+  - Day 2: 20 inches
+  - Day 3: 30 inches
+  - Total: 10 + 20 + 30 = 60 inches
+* The area can drain 3 inches per day, so in the first 3 days it can drain 3 * 3 = 9 inches
+* The remaining amount of rain in the area is 60 - 9 = 51 inches
+* The area can hold 6 feet, which is 72 inches
+* So the area can hold 72 - 51 = 21 inches more before it overflows
+* Therefore, the minimum amount it rained on the fourth day is 21 + 1 = 22 inches (since the area overflowed on the fourth day).
+
+Answer: 22 inches

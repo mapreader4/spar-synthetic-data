@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 240 sixth-grade students in total.
+* 1/6 of the students read three or more novels. 1/6 of 240 is 40 students.
+* 35% of the students read two novels. 35% of 240 is 84 students.
+* 5/12 of the students read one novel. 5/12 of 240 is 100 students.
+* The rest of the students do not read anything. 
+* To find the number of students who do not read novels, we need to subtract the number of students who read novels from the total number of students.
+* The number of students who read novels is 40 + 84 + 100 = 224.
+* The number of students who do not read novels is 240 - 224 = 16.
+
+Answer: 16

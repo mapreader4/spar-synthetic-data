@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total number of students in the class. The problem states that there are 30 students in the class.
+
+Step 2: Determine how many students can fit in each room. Each room has two queen-size beds, which can fit two students each. There is also a pull-out couch that can fit one student. So, each room can fit a total of 3 students.
+
+Step 3: Determine the total number of students that can be accommodated in one room. 2 students can fit in each room, so 30 students can be accommodated in 15 rooms.
+
+Step 4: Since there are 30 students in the class, and 30 students can be accommodated in 15 rooms, the principal needs to book 2 rooms to fit all the students.
+
+Answer: 2

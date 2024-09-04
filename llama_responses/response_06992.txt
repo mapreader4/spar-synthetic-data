@@ -1,0 +1,20 @@
+Let's break this down step by step.
+
+Let's first find the total amount of money Tiffany has left after playing two games:
+
+2 games x $1 per game = $2
+
+Tiffany has $3 initially, so she has $1 left over.
+
+Now, let's find the maximum number of points she can get in the third game. She has 1 dollar left, and each play costs $1, so she can play only one more game.
+
+In that game, she can get:
+
+* 4 red buckets x 2 points each = 8 points
+* 5 green buckets x 3 points each = 15 points
+
+Total points = 8 + 15 = 23 points
+
+But, she can't play more than one game, so the maximum points she can get is 23 points.
+
+Answer: 23

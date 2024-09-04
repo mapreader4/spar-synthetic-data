@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+
+1. The tank has a capacity of 8000 gallons.
+2. The tank is 3/4 full, which means it currently contains 3/4 * 8000 = 6000 gallons of water.
+3. Daxton empties the tank by 40% of the total volume of water in the tank, which is 0.4 * 6000 = 2400 gallons.
+4. The remaining volume of water in the tank is 6000 - 2400 = 3600 gallons.
+5. Daxton then fills the tank with 30% of the remaining volume, which is 0.3 * 3600 = 1080 gallons.
+6. The final volume of water in the tank is the remaining volume plus the added volume, which is 3600 + 1080 = 4680 gallons.
+
+Answer: 4680 gallons.

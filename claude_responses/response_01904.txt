@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Carla needs to collect 30 leaves and 20 bugs for a project
+* The project is due in 10 days
+* Carla wants to collect the same daily amount
+
+To calculate the daily amount, we need to find the total number of items Carla needs to collect and divide it by the number of days.
+
+The total number of items is:
+* 30 leaves + 20 bugs = 50 items
+
+Now, we divide the total number of items by the number of days:
+* 50 items / 10 days = 5 items per day
+
+Therefore, Carla needs to collect 5 items each day to complete the project on time.
+
+Answer: 5

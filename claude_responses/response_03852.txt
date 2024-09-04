@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* John has 10 machines
+* Each machine requires 30 ball bearings
+* So the total number of ball bearings needed is 10 machines x 30 ball bearings per machine = 300 ball bearings
+* The normal cost per ball bearing is $1
+* During the sale, the cost per ball bearing is $0.75
+* Additionally, John gets a 20% discount for buying in bulk
+* To calculate the normal cost:
+    - 300 ball bearings x $1 per ball bearing = $300
+* To calculate the sale price:
+    - 300 ball bearings x $0.75 per ball bearing = $225
+* To calculate the 20% bulk discount:
+    - $225 x 0.8 (100% - 20%) = $180
+* To calculate the savings:
+    - $300 (normal cost) - $180 (sale price with bulk discount) = $120
+
+Answer: $120

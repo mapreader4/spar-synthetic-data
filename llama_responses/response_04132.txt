@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+In the first year, the tree grows 2 feet.
+
+In the second year, it grows 50% more than the first year, which is 2 + (50% of 2) = 2 + 1 = 3 feet.
+
+In the third year, it grows 50% more than the second year, which is 3 + (50% of 3) = 3 + 1.5 = 4.5 feet.
+
+In the fourth year, it grows twice as much as the third year, which is 4.5 x 2 = 9 feet.
+
+In the fifth year, it grows half as much as the fourth year, which is 9 / 2 = 4.5 feet.
+
+Now, let's add up the growth of each year to find the total height of the tree after 5 years:
+
+2 + 3 + 4.5 + 9 + 4.5 = 23
+
+Answer: 23

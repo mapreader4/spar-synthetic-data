@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Lindsey owns 4 more cars than Cathy, so if Cathy owns 5 cars, then Lindsey owns 5 + 4 = 9 cars.
+2) Susan owns 2 fewer cars than Carol, so if Carol owns twice as many cars as Cathy, then Carol owns 2 * 5 = 10 cars, and Susan owns 10 - 2 = 8 cars.
+3) To find the total number of cars owned by all of them, we add up the number of cars owned by each person:
+Cathy: 5 cars
+Lindsey: 9 cars
+Susan: 8 cars
+Carol: 10 cars
+Total: 5 + 9 + 8 + 10 = 32 cars.
+
+Answer: 32

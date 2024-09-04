@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tina has 15 sticky keys that need to be cleaned
+* It takes 3 minutes to clean one key
+* After cleaning one key, there are 14 keys left to clean
+* Tina's assignment will take 10 minutes to complete
+
+To find the total time it will take for Tina to clean the remaining keys and finish her assignment, we need to:
+1. Calculate the time it will take to clean the remaining 14 keys
+2. Add the time to complete the assignment (10 minutes)
+
+Step 1: Time to clean the remaining 14 keys
+* 14 keys x 3 minutes per key = 42 minutes
+
+Step 2: Add the time to complete the assignment
+* 42 minutes + 10 minutes = 52 minutes
+
+Answer: 52 minutes

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Bill is going to make 4 batches of muffins
+* Each batch takes 12 ounces of fruit
+* So the total amount of fruit needed is 4 batches x 12 ounces per batch = 48 ounces
+* Blueberries cost $5.00 per 6 ounce carton
+* To get 48 ounces of blueberries, Bill would need to buy 8 cartons (48 ounces / 6 ounces per carton = 8 cartons)
+* 8 cartons x $5.00 per carton = $40.00 for the blueberries
+* Raspberries cost $3.00 per 8 ounce carton
+* To get 48 ounces of raspberries, Bill would need to buy 6 cartons (48 ounces / 8 ounces per carton = 6 cartons)
+* 6 cartons x $3.00 per carton = $18.00 for the raspberries
+* The difference between the cost of blueberries ($40.00) and the cost of raspberries ($18.00) is $22.00
+* Therefore, Bill would save $22.00 by using raspberries instead of blueberries.
+
+Answer: $22

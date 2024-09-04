@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total height of the stairs John climbs up.
+
+The total height is 9 flights * 10 feet, which is 90 feet.
+
+Each step is 18 inches.  To convert feet to inches, we multiply by 12, so each step is 216 inches.
+
+So, John climbs 90 feet * 12 = 1080 inches.
+
+Answer: 1080

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+First, we need to find the cost of 1 lamp and 1 bulb. The cost of 1 lamp is $7, and the cost of 1 bulb is $4 less, so the cost of 1 lamp and 1 bulb is $7 - $4 = $3.
+
+Next, we need to find the cost of 2 lamps and 6 bulbs. We already know that 1 lamp and 1 bulb cost $3, so the cost of 2 lamps and 1 bulb is 2 x $3 = $6.
+
+Finally, we need to add the cost of 2 lamps and 6 bulbs to find the total cost. The cost of 2 lamps and 6 bulbs is $6 + 6 x $3 = $18.
+
+Answer: 18

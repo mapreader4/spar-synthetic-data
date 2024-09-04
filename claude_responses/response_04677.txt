@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Nellie needs to sell a total of 45 rolls of gift wrap for the fundraiser.
+* So far, she has sold:
+    - 1 roll to her grandmother
+    - 10 rolls to her uncle
+    - 6 rolls to a neighbor
+* To calculate the total number of rolls she has sold so far, we add these up:
+    - 1 + 10 + 6 = 17 rolls
+* To find how many more rolls she needs to sell, we subtract the number of rolls she has sold so far from the total she needs to sell:
+    - 45 - 17 = 28 rolls
+
+Answer: 28

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each piece of silverware weighs 4 ounces
+* There are 3 pieces of silverware per setting
+* So, the weight of the silverware per setting is 3 * 4 = 12 ounces
+* Each plate weighs 12 ounces
+* There are 2 plates per setting
+* So, the weight of the plates per setting is 2 * 12 = 24 ounces
+* The total weight per setting is 12 ounces (silverware) + 24 ounces (plates) = 36 ounces
+* Mason needs enough settings for 15 tables with 8 settings each, plus 20 backup settings
+* So, the total number of settings needed is (15 * 8) + 20 = 140 settings
+* The total weight of all the settings is 140 * 36 = 5,040 ounces
+
+Answer: 5,040

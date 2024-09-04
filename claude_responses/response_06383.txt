@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Troy buys 4 pounds of beef and 6 pounds of vegetables.
+2) The vegetables cost $2 per pound.
+   * So, the cost of the vegetables is 6 pounds x $2 per pound = $12.
+3) The beef costs 3 times the price of the vegetables, which is $2 per pound.
+   * So, the cost of the beef is 4 pounds x (3 x $2 per pound) = 4 pounds x $6 per pound = $24.
+4) To find the total cost, we add the cost of the vegetables and the cost of the beef:
+   * $12 + $24 = $36.
+
+Answer: $36.

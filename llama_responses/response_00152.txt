@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's call the discounted subscription cost "x".
+
+Since the subscription normally costs $80 and it's being offered with a 45% discount, we can set up an equation to represent this:
+
+x = 80 * (1 - 0.45)
+
+To solve for x, we can subtract 0.45 from 1, since the discount is 45%, which means the discount is 45% of the original price.
+
+So, 1 - 0.45 = 0.55, so:
+
+x = 80 * 0.55
+
+To find the discounted price, we multiply 80 by 0.55, which gives us:
+
+x = 44
+
+Answer: 44

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Nedy can eat 8 packs of crackers from Monday to Thursday
+* That means Nedy eats 8 packs per day, for 4 days (Monday to Thursday)
+* So the total number of packs Nedy eats from Monday to Thursday is:
+  * 8 packs per day x 4 days = 32 packs
+* On Friday, Nedy ate twice the amount, which is 2 x 8 = 16 packs
+* So the total number of packs Nedy ate in all is:
+  * 32 packs (Monday to Thursday) + 16 packs (Friday) = 48 packs
+
+Answer: 48

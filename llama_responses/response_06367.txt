@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Bert buys the product for $90, but he has to pay 10% of the value in tax, so we need to calculate 10% of 90.
+
+10% of 90 is the same as 0.1 times 90, which is 9.
+
+So, Bert has to pay 9 dollars in tax.
+
+To find out how much Bert made on this sale, we need to subtract the tax from the total sale.
+
+Bert's total sale is 90, and he has to pay 9 dollars in tax, so he has 90 - 9 = 81 dollars left.
+
+Answer: 81

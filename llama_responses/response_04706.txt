@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given to us:
+
+* A bag of chocolate chips has 81 chips in it.
+* A batch of cookies has 9 chocolate chips in it.
+* There are three batches of cookies.
+
+To find the total number of cookies, we need to multiply the number of chocolate chips in each batch by the number of batches.
+
+9 chocolate chips per batch * 3 batches = 27 chocolate chips in total per batch
+
+But we want to find the total number of cookies, not chocolate chips. Since each cookie has 9 chocolate chips, we need to divide the total chocolate chips by 9.
+
+27 chocolate chips / 9 = 3
+
+Answer: 3

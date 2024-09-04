@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The mixture is 70% blue paint, 20% red paint, and the remaining percentage is white paint.
+* We know that Marla adds 140 ounces of blue paint.
+* Since the blue paint is 70% of the mixture, we can calculate the total amount of the mixture by dividing 140 by 0.7 (70% expressed as a decimal).
+* Total amount of the mixture = 140 / 0.7 = 200 ounces
+* Now we can calculate the amount of white paint in the mixture. The red paint is 20% and the blue paint is 70%, so the white paint must be the remaining 10%.
+* 10% of 200 ounces = 0.1 * 200 = 20 ounces of white paint.
+
+Answer: 20 ounces

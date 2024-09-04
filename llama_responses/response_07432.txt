@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Mike washes 9 cars, which takes 10 minutes each, so he takes 9 * 10 = 90 minutes to wash the cars.
+
+Mike changes oil on 6 cars, which takes 15 minutes each, so he takes 6 * 15 = 90 minutes to change the oil.
+
+Mike changes 2 sets of tires, which takes 30 minutes each, so he takes 2 * 30 = 60 minutes to change the tires.
+
+In total, Mike takes 90 + 90 + 60 = 240 minutes to wash, change the oil, and change the tires.
+
+To convert minutes to hours, we can divide 240 by 60, which is the number of minutes in an hour. 240 / 60 = 4.
+
+Answer: 4

@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Gilbert eats 4 crickets per week when the temperature averages 90 degrees F per day, and 8 crickets per week when the temperature averages 100 degrees F per day. Since he eats 80% of the time at 90 degrees F, and 20% of the time at 100 degrees F, we can set up a proportion to solve for the number of weeks he eats crickets in total.
+
+Let's first find the number of weeks he eats at 90 degrees F:
+
+4 crickets per week * 80% = 3.2 crickets per week (since 4 * 0.8 = 3.2)
+
+Now, let's find the number of weeks he eats at 100 degrees F:
+
+8 crickets per week * 20% = 1.6 crickets per week (since 8 * 0.2 = 1.6)
+
+Now, we need to add these two numbers together to find the total number of crickets he eats per week:
+
+3.2 crickets per week + 1.6 crickets per week = 4.8 crickets per week
+
+Since he eats crickets per week, we can multiply this number by 15 to find the total number of crickets he eats over 15 weeks:
+
+4.8 crickets per week * 15 weeks = 72 crickets
+
+Answer: 72

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jeffrey has 12 hens on his poultry farm.
+2) For every 3 hens, there is 1 rooster. So, if there are 12 hens, there must be 4 roosters (12 hens / 3 hens per rooster = 4 roosters).
+3) Each hen has 5 chicks. So, with 12 hens, there are 12 * 5 = 60 chicks.
+4) In total, we have:
+   - 12 hens
+   - 4 roosters
+   - 60 chicks
+Adding these up, the total number of chickens is:
+12 + 4 + 60 = 76 chickens.
+
+Answer: 76

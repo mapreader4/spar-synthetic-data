@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Willie has 70 euros.
+2) The official exchange rate is 5 euros = 1 dollar.
+3) However, the money exchange at the airport will only give Willie 5/7ths of the official exchange rate.
+4) To calculate the number of dollars Willie gets, we first need to find the exchange rate at the airport:
+   - Official exchange rate: 5 euros = 1 dollar
+   - Airport exchange rate: 5/7 * 1 dollar = 0.71 dollars per euro
+5) Now we can calculate the number of dollars Willie gets:
+   - Willie has 70 euros
+   - At the airport exchange rate of 0.71 dollars per euro
+   - 70 euros * 0.71 dollars/euro = 49.7 dollars
+
+Answer: 50 dollars

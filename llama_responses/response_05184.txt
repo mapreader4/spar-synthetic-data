@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's convert the given measurement of fabric from yards to feet. There are 3 feet in 1 yard, so 3.5 yards is equal to 3.5 * 3 = 10.5 feet.
+
+Now, Nguyen needs to make 7 pairs of pants, and each pair requires 8.5 feet of fabric. So, the total amount of fabric needed for the 7 pairs of pants is 7 * 8.5 = 59 feet.
+
+Nguyen already has 10.5 feet of fabric, which is less than the 59 feet needed. To find out how many feet of fabric Nguyen still needs, we can subtract the amount he has from the amount needed:
+
+10.5 - 59 = -48.5
+
+So, Nguyen needs 48.5 feet of fabric.

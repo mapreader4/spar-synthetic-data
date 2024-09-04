@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The original price of apples was $1.6 per pound.
+2) The price was raised by 25%. To calculate the new price, we take the original price and add 25% of the original price:
+   * 25% of $1.6 = 0.4
+   * New price = $1.6 + $0.4 = $2 per pound
+3) The family has 4 members, and each person wants to buy 2 pounds of apples.
+4) To calculate the total cost, we multiply the new price per pound ($2) by the total number of pounds (4 people x 2 pounds = 8 pounds):
+   * 8 pounds x $2 per pound = $16
+
+Answer: $16

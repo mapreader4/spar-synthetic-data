@@ -1,0 +1,39 @@
+Let's break this down step by step.
+
+Mark fills the punch bowl part way, but we don't know how much he fills it. Let's call this amount x.
+
+Then, his cousin drinks half of the punch in the bowl, so the amount of punch left is x - (x/2).
+
+Mark refills the bowl and adds 4 more gallons, so now the amount of punch is (x - (x/2)) + 4.
+
+Then, Sally drinks 2 more gallons of punch, so the amount of punch left is ((x - (x/2)) + 4) - 2.
+
+Finally, Mark has to add 12 gallons of punch to completely fill the bowl, so we can set up the equation:
+
+x - (x/2) + 4 - 2 + 12 = 16
+
+Simplifying the equation, we get:
+
+x - (x/2) + 14 = 16
+
+Subtracting 14 from both sides, we get:
+
+x - (x/2) = 2
+
+Multiplying both sides by 2, we get:
+
+2x - x = 4
+
+Adding x to both sides, we get:
+
+3x = 4
+
+Dividing both sides by 3, we get:
+
+x = 4/3
+
+x = 1.33 (approximately)
+
+So Mark initially added 1.33 gallons of punch to the bowl.
+
+Answer: 1

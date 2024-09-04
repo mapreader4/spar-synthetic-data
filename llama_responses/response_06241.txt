@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+James takes 5 oranges and breaks each orange into 8 pieces.
+
+So, James has 5 oranges, and each orange is broken into 8 pieces. So, he has a total of 5 * 8 = 40 pieces of orange.
+
+He splits the pieces between 4 people. So, he gives each person 40 / 4 = 10 pieces.
+
+So, each person gets 10 pieces.
+
+Answer: 10

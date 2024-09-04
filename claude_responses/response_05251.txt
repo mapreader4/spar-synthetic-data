@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Donna made a cake to take to a party.
+2) The guests ate half the cake at the party.
+3) The day after the party, Donna shared half the leftovers with her brothers.
+4) The following day, Donna ate one piece as a midnight snack.
+5) Twice as many pieces as her snack were left.
+
+Let's start by assuming the cake was initially cut into x pieces.
+* At the party, the guests ate half the cake, so half of the x pieces were eaten, leaving x/2 pieces.
+* The day after the party, Donna shared half the leftovers with her brothers, so she had x/4 pieces left.
+* The following day, Donna ate one piece, leaving x/4 - 1 pieces.
+* Twice as many pieces as her snack were left, so there were 2 pieces left.
+
+Therefore, we can set up the equation:
+x/4 - 1 = 2
+Solving for x, we get:
+x = 12
+
+Answer: 12

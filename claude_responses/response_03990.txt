@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The charity has 100 plates to deliver
+* The rice costs 10 cents per plate
+* The chicken costs 40 cents per plate
+* To calculate the total cost of the rice:
+  * 100 plates x 10 cents per plate = 1000 cents
+  * 1000 cents = $10
+* To calculate the total cost of the chicken:
+  * 100 plates x 40 cents per plate = 4000 cents
+  * 4000 cents = $40
+* To calculate the total cost of the food:
+  * $10 (rice) + $40 (chicken) = $50
+
+Answer: $50

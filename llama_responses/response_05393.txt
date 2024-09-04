@@ -1,0 +1,5 @@
+Let's break down the problem step by step.
+
+The kitchen module costs $20,000 and is 400 square feet. The bathroom modules are 150 square feet each, so two of them would be 2 x 150 = 300 square feet. The total area of the home is 2000 square feet, and we have 400 + 300 = 700 square feet accounted for, leaving 2000 - 700 = 1300 square feet for other modules. The other modules cost $100 per square foot, so the cost for the remaining 1300 square feet would be 1300 x $100 = $130,000. The total cost is the sum of the cost of the kitchen, the cost of the two bathrooms, and the cost of the remaining modules. So, the total cost is $20,000 + $12,000 + $130,000 = $162,000.
+
+Answer: 162,000

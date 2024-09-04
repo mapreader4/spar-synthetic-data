@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+* 4 days ago, Carlos bought a bag of gummy worms
+* Every day, he ate half of the remaining gummy worms
+* On the fourth day, he ate half of the remaining gummy worms, and now has 4 gummy worms left
+
+Let's work backwards from the 4 gummy worms he has left on the fourth day:
+* On the fourth day, he had 8 gummy worms (4 x 2)
+* On the third day, he had 16 gummy worms (8 x 2)
+* On the second day, he had 32 gummy worms (16 x 2)
+* On the first day, he had 64 gummy worms (32 x 2)
+
+Therefore, the bag of gummy worms had 64 gummy worms when Carlos bought it.
+
+Answer: 64

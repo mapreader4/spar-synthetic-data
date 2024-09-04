@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* James loses twice as many calories per hour when dancing compared to walking
+* He dances twice a day for 0.5 hours each time
+* He does this 4 times a week
+* He burned 300 calories per hour when walking
+
+First, let's calculate how many calories he loses per hour when dancing:
+* He loses twice as many calories per hour when dancing compared to walking
+* So, if he burned 300 calories per hour walking, he would burn 600 calories per hour dancing
+
+Next, let's calculate how many calories he loses per day from dancing:
+* He dances twice a day for 0.5 hours each time
+* So, he dances for a total of 1 hour per day
+* He loses 600 calories per hour when dancing
+* So, he loses 600 calories per day from dancing
+
+Finally, let's calculate how many calories he loses per week from dancing:
+* He dances 4 times a week
+* He loses 600 calories per day from dancing
+* So, he loses 600 x 4 = 2,400 calories per week from dancing
+
+Answer: 2,400

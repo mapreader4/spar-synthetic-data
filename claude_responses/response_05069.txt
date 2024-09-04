@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jake buys 2-pound packages of sausages
+* He buys 3 of these packages
+* Each package costs $4 per pound
+
+To calculate the total cost, we need to:
+1. Calculate the total weight of the sausages:
+   * 3 packages x 2 pounds per package = 6 pounds of sausages
+2. Calculate the total cost:
+   * 6 pounds of sausages x $4 per pound = $24
+
+Therefore, the total amount Jake pays is:
+Answer: $24

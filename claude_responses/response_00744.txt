@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Yolanda leaves home at 7:00 AM and rides her bike at 20 miles per hour
+* 15 minutes after she leaves, her husband realizes she forgot her lunch and jumps in the car to bring it to her
+* The husband drives at 40 miles per hour and follows the exact same route as Yolanda
+
+To find out how long it will take the husband to catch up to Yolanda, we need to calculate the distance Yolanda has traveled in 15 minutes and the time it will take the husband to cover that same distance.
+
+* Yolanda's distance traveled in 15 minutes:
+    - 15 minutes is 1/4 of an hour
+    - Distance = Speed x Time
+    - Distance = 20 miles/hour x 1/4 hour = 5 miles
+
+* Time it takes the husband to cover the same 5 miles:
+    - Speed = 40 miles/hour
+    - Time = Distance / Speed
+    - Time = 5 miles / 40 miles/hour = 0.125 hours
+    - 0.125 hours = 7.5 minutes
+
+Therefore, it will take the husband 7.5 minutes to catch up to Yolanda.
+
+Answer: 8 minutes

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The shipping cost has a flat fee of $5.00 plus an additional $0.80 per pound of weight.
+2) The package weighs 5 pounds.
+3) To calculate the total shipping cost, we need to add the flat fee and the weight-based cost:
+   Flat fee: $5.00
+   Weight-based cost: 5 pounds x $0.80 per pound = $4.00
+4) Total shipping cost = Flat fee + Weight-based cost
+   = $5.00 + $4.00
+   = $9.00
+
+Answer: $9

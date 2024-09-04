@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The package contains 20 car washes.
+2) The normal cost of a car wash is $15.
+3) Since Jim bought a package, he only has to pay 60% of the normal cost.
+4) To calculate the total cost of the package, we first need to find the total normal cost of 20 car washes:
+   - 20 car washes x $15 per car wash = $300 total normal cost
+5) Since Jim only has to pay 60% of the normal cost, we calculate the discounted price:
+   - $300 total normal cost x 0.60 = $180 discounted price
+Therefore, the amount Jim paid for the package is:
+Answer: $180

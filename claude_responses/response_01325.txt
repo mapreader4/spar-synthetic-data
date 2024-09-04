@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Sally earned $1000 last month
+* This month, she received a 10% raise
+* To calculate the 10% raise:
+    - 10% of $1000 = 0.10 * $1000 = $100
+* So, her new monthly salary is $1000 + $100 = $1100
+* To calculate the total amount she will make in the two months:
+    - Last month: $1000
+    - This month: $1100
+    - Total: $1000 + $1100 = $2100
+
+Answer: $2100

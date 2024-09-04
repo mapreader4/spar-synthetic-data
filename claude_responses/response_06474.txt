@@ -1,0 +1,23 @@
+To solve this problem, we need to calculate the total revenue for each company and then find the difference between them.
+
+Given information:
+- Company A sells a big bottle of milk for $4.
+- Company A sold 300 big bottles of milk.
+- Company B sells a big bottle of milk for $3.5.
+- Company B sold 350 big bottles of milk.
+
+Step 1: Calculate the total revenue for Company A.
+Total revenue for Company A = Price per bottle × Number of bottles sold
+Total revenue for Company A = $4 × 300 = $1,200
+
+Step 2: Calculate the total revenue for Company B.
+Total revenue for Company B = Price per bottle × Number of bottles sold
+Total revenue for Company B = $3.5 × 350 = $1,225
+
+Step 3: Find the difference in total revenue between the two companies.
+Difference in total revenue = Total revenue for Company B - Total revenue for Company A
+Difference in total revenue = $1,225 - $1,200 = $25
+
+Therefore, Company B made $25 more than Company A.
+
+Answer: $25

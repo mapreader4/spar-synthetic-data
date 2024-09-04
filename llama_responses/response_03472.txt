@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of hours Tom rented the helicopter for.  He rented it for 3 days, and each day, he rented it for 2 hours.  So, the total number of hours is 3 * 2 = 6 hours.
+
+The cost per hour is $75.  So, the total cost is 6 * 75 = 450 dollars.  So, the answer is:
+
+Answer: 450

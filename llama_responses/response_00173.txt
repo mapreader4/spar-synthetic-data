@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's first convert the speed of each animal to seconds per foot:
+
+Hare's speed: 10 feet/second / 1 foot = 10 seconds per foot
+Turtle's speed: 1 foot/second
+
+Now, let's assume they are going to run a 20 foot-race. We want to know how many seconds the turtle needs to finish in a tie.
+
+Let's convert the 20 feet to seconds: 20 feet / 10 seconds per foot = 2 seconds
+
+So, the hare will finish the race in 2 seconds, and the turtle will finish the race in 20 seconds. To tie, the turtle needs a head start of:
+
+20 seconds - 2 seconds = 18 seconds
+
+Answer: 18

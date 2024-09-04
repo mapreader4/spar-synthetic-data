@@ -1,0 +1,37 @@
+Let's break down the problem step by step.
+
+Reese had some initial amount of money in her savings account. Let's call that amount x.
+
+In February, she spent 20% of her savings. To find the amount she spent in February, we can multiply the initial amount by 0.2 (20% as a decimal).
+
+x * 0.2 = 0.2x
+
+She spent 40% of her savings in March. We can find the amount she spent in March by multiplying the initial amount by 0.4 (40% as a decimal).
+
+x * 0.4 = 0.4x
+
+She also spent $1500 in April.
+
+So, the total amount she spent is the sum of the amounts spent in February and March, plus the $1500 spent in April.
+
+0.2x + 0.4x + 1500 =?
+
+We don't know what x is yet, so let's find it. We can subtract the total amount spent from the final amount she has left, which is $2900.
+
+2900 = 0.2x + 0.4x + 1500
+
+To solve for x, we can subtract 1500 from both sides of the equation.
+
+2900 - 1500 = 0.2x + 0.4x
+
+Then, we can combine like terms.
+
+1400 = 0.6x
+
+To solve for x, we can divide both sides by 0.6.
+
+x = 1400 / 0.6
+
+x = 2333.33
+
+So, Reese had 2333.33 initially in her savings account.

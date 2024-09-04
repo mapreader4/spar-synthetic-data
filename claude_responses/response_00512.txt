@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Elysse can carry 3 bags of groceries per trip.
+2) Her brother can also carry 3 bags of groceries per trip.
+3) Together, they can carry 6 bags of groceries per trip (3 bags from Elysse + 3 bags from her brother).
+4) They need to carry 30 bags of groceries in total.
+5) To calculate the number of trips, we divide the total number of bags (30) by the number of bags carried per trip (6).
+6) 30 bags / 6 bags per trip = 5 trips.
+
+Answer: 5

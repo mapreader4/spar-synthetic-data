@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the number of goats and chickens. There are 66 goats and 66 * 2 = 132 chickens.
+
+The number of ducks is half of the total of goats and chickens, which is (66 + 132) / 2 = 99.
+
+The number of pigs is a third of the number of ducks, which is 99 / 3 = 33.
+
+Now, we need to find the difference between the number of goats and pigs. There are 66 goats and 33 pigs. The difference is 66 - 33 = 33.
+
+Answer: 33

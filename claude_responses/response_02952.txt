@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The teacher gives one lollipop for every 5 people that attend the poetry class.
+* Initially, 45 people show up for the class.
+* To calculate the number of lollipops given for the initial 45 people, we divide 45 by 5:
+    * 45 / 5 = 9 lollipops
+* Later, an additional 15 people come to the class.
+* To calculate the number of lollipops given for the additional 15 people, we divide 15 by 5:
+    * 15 / 5 = 3 lollipops
+* To get the total number of lollipops given, we add the lollipops given for the initial 45 people and the additional 15 people:
+    * 9 + 3 = 12 lollipops
+
+Answer: 12

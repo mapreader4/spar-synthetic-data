@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the current length of Patricia's hair: 14 inches.
+
+She needs to donate 23 inches of her hair to make a wig. So, we need to subtract 23 inches from her current length to find out how much hair she has left:
+
+14 inches - 23 inches = -9 inches
+
+This means Patricia has 9 inches of hair left after the donation.
+
+Now, she wants her hair to be 12 inches long after the donation. So, we need to add the 23 inches she's donating to the 9 inches she has left:
+
+9 inches + 23 inches = 32 inches
+
+This means Patricia has 32 inches of hair after the donation. However, she wants her hair to be 12 inches long. To find out how much longer she needs to grow her hair, we subtract the 32 inches she has after the donation from the 32 inches she wants:
+
+32 inches - 12 inches = 20 inches
+
+Answer: 20

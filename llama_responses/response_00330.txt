@@ -1,0 +1,13 @@
+To find the number of people who will attend the wedding, we can multiply 220 by 0.95 to get the number of people who typically attend, then subtract 5% of that number. We can set up an equation to solve this problem as follows:
+
+Let x be the number of people who will attend the wedding. Then, we can set up the equation as follows:
+
+x = 220 * 0.95 - (0.05 * 220)
+
+We can solve this equation by multiplying 220 by 0.95, which gives us:
+
+x = 209
+
+So, the answer is:
+
+Answer: 209

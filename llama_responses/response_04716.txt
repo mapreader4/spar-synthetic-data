@@ -1,0 +1,9 @@
+Let's count the number of wheels:
+
+Bicycles: 3 bicycles, each with 2 wheels, so 3 x 2 = 6 wheels.
+Tricycles: 4 tricycles, each with 3 wheels, so 4 x 3 = 12 wheels.
+Unicycles: 7 unicycles, each with 1 wheel, so 7 x 1 = 7 wheels.
+
+Adding up the number of wheels: 6 + 12 + 7 = 25 wheels.
+
+Answer: 25

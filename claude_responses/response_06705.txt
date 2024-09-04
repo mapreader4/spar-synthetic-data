@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mark used to read 2 hours a day
+* He increased his reading time by 150%
+* This means his new reading time is 2 hours + (2 hours * 1.5) = 5 hours a day
+* Before, he read 100 pages a day
+* Now, he reads the same number of pages per hour as before
+* So, his new number of pages read per day is 100 pages * (5 hours / 2 hours) = 250 pages per day
+* There are 7 days in a week
+* So, the number of pages he reads in a week is 250 pages per day * 7 days = 1,750 pages
+
+Answer: 1,750

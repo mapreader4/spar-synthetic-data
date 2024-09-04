@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Tanya bought 6 pears, 4 Granny Smith apples, 2 pineapples, and a small basket of plums
+* All of the fruit was placed in a single paper bag
+* The bag had a hole, and half of the fruit fell out as Tanya walked home
+* After the fruit fell out, there were only 9 pieces of fruit remaining in the bag
+
+To find the number of plums Tanya bought, we need to first calculate the total number of pieces of fruit she bought initially.
+
+The total number of pieces of fruit is:
+* 6 pears + 4 Granny Smith apples + 2 pineapples + the number of plums
+
+Since half of the fruit fell out, the 9 pieces remaining must be half of the original total.
+
+So, the original total number of pieces of fruit was:
+* 9 x 2 = 18 pieces
+
+Now we can plug in the known quantities:
+* 18 = 6 + 4 + 2 + the number of plums
+* the number of plums = 18 - 6 - 4 - 2 = 6
+
+Therefore, Tanya bought 6 plums.
+
+Answer: 6

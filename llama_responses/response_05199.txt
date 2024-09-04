@@ -1,0 +1,7 @@
+Let's start by finding the number of vets that recommend Puppy Kibble. 20% of 1000 is 0.2 x 1000 = 200.
+
+Let's find the number of vets that recommend Yummy Dog Kibble. 30% of 1000 is 0.3 x 1000 = 300.
+
+To find the difference between these two numbers, we subtract 200 from 300. 300 - 200 = 100.
+
+Answer: 100.

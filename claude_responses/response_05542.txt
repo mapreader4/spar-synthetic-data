@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Betty gets an average of 20 boxes each harvest
+* Three-quarters of the boxes are full, meaning 3/4 * 20 = 15 boxes are full
+* Each full box can hold up to 20 parsnips
+* So the number of parsnips in the full boxes is 15 * 20 = 300 parsnips
+* The remaining 1/4 of the boxes are half-full, meaning 1/4 * 20 = 5 boxes are half-full
+* Each half-full box can hold up to 10 parsnips (half of 20)
+* So the number of parsnips in the half-full boxes is 5 * 10 = 50 parsnips
+* The total number of parsnips grown in an average harvest is the sum of the parsnips in the full boxes and the half-full boxes:
+* 300 + 50 = 350 parsnips
+
+Answer: 350 parsnips

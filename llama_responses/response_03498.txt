@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Harry's birthday was three weeks after the closing of the school.
+* His three friends contributed an equal amount of money to throw him a party.
+* Harry added $30 to the contribution, making the total contribution three times as much as Harry contributed.
+
+Let's let x be the amount of money each friend contributed. Then, the total amount of money contributed by the friends is 3x.
+
+Since Harry added $30 to the contribution, the total amount of money contributed is 3x + 30.
+
+We know that the total amount of money contributed by the friends is equal to the total amount of money contributed by Harry, which is 3x. So, we can set up the equation 3x + 30 = 3x.
+
+Now, we can solve for x.
+
+Subtract 3x from both sides of the equation to get 30 = x.
+
+Answer: 30

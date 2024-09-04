@@ -1,0 +1,9 @@
+To solve this problem, I will break it down step by step.
+
+Let's first find out how many cups Gina can paint in an hour with roses. She can paint 6 cups an hour with roses. So, if she gets an order for 6 rose cups, it will take her 1 hour to paint all the roses.
+
+Now, let's find out how many cups she can paint an hour with lilies. She can paint 7 cups an hour with lilies. So, if she gets an order for 14 lily cups, it will take her 2 hours to paint all the lilies.
+
+So, Gina gets paid $90 for the order. The total time she took to paint the order is 1 hour for the roses and 2 hours for the lilies, which is 3 hours in total. Therefore, her rate per hour is $90 / 3 = 30.
+
+Answer: 30

@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Albert buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. To find the total number of slices, we need to multiply the number of large pizzas by 16 and the number of small pizzas by 8.
+
+16 * 2 = 32
+8 * 2 = 16
+
+So, the total number of slices is 32 + 16 = 48.
+
+Answer: 48

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Monica charges $25.00 per person for catering a dinner party.
+2) For repeat customers, she offers a 10% discount.
+3) Phoebe is a repeat customer who is having a dinner party for 20 guests.
+4) To calculate the total amount Monica will make from the party, we need to first calculate the total cost without the discount:
+   * 20 guests x $25.00 per person = $500.00
+5) Since Phoebe is a repeat customer, she gets a 10% discount. To calculate the discount:
+   * $500.00 x 0.10 = $50.00
+6) To calculate the final amount Monica will make, we subtract the discount from the total cost:
+   * $500.00 - $50.00 = $450.00
+
+Answer: $450

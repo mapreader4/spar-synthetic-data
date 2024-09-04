@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Lillian found 32 mushrooms in total
+* She identified 9 mushrooms as safe to eat
+* She identified twice the amount she ate (9) as poisonous, which is 18 mushrooms
+* That leaves a remaining number of mushrooms that she was uncertain about
+
+To find the number of mushrooms she was uncertain about, we can subtract the number of safe mushrooms and the number of poisonous mushrooms from the total number of mushrooms:
+* Total mushrooms: 32
+* Safe mushrooms: 9
+* Poisonous mushrooms: 18
+* Uncertain mushrooms: 32 - 9 - 18 = 5
+
+Answer: 5

@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+* The merchant bought 15 keyboards and 25 printers
+* The total cost of the 15 keyboards and 25 printers is $2050
+* We know that each keyboard costs $20
+* To find the cost of each printer, we can set up an equation:
+* Let x = the cost of each printer
+* Total cost = (15 * $20) + (25 * x)
+* $2050 = $300 + 25x
+* Solving for x, we get:
+* $2050 - $300 = 25x
+* $1750 = 25x
+* x = $70
+* Therefore, each printer costs $70.
+
+Answer: $70

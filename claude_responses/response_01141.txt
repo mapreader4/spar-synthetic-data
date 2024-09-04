@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Initially, the pet store owner had:
+  - 12 birds
+  - 9 puppies
+  - 5 cats
+  - 15 spiders
+* Half the birds were sold, so the number of birds left is:
+  - 12 - (12 / 2) = 6 birds
+* 3 puppies were adopted, so the number of puppies left is:
+  - 9 - 3 = 6 puppies
+* 7 spiders went loose, so the number of spiders left is:
+  - 15 - 7 = 8 spiders
+* The number of cats remained the same at 5 cats
+* Therefore, the total number of animals the pet store owner has left is:
+  - 6 birds + 6 puppies + 5 cats + 8 spiders = 25 animals
+
+Answer: 25

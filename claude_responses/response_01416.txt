@@ -1,0 +1,14 @@
+To find the team's average typed words per minute, we need to follow these steps:
+
+1. Add up the individual typing speeds of the 5 employees:
+   Rudy: 64 words per minute
+   Joyce: 76 words per minute
+   Gladys: 91 words per minute
+   Lisa: 80 words per minute
+   Mike: 89 words per minute
+   Total: 64 + 76 + 91 + 80 + 89 = 400 words per minute
+
+2. Divide the total by the number of employees to get the average:
+   400 words per minute / 5 employees = 80 words per minute
+
+Answer: 80 words per minute

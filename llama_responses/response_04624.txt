@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of days required to plant the cotton. There are 5 days in total. The first 2 days are worked by a crew of 2 tractors, and the remaining 3 days are worked by a crew of 7 tractors. So, the total number of days worked is 2 + 3 = 5.
+
+The total number of acres to be planted is 1700. The total number of days worked is 5. To find the number of acres per day, we need to divide the total number of acres by the total number of days.
+
+Let's do that:
+
+1700 ÷ 5 = 340.
+
+So, the answer is:
+
+Answer: 340

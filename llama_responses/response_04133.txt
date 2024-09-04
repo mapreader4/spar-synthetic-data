@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Anna needs 8 red tulips for each eye, which means she needs a total of 2 * 8 = 16 red tulips for the eyes.
+
+She also needs 18 red tulips for the smile, which is the width of the face. 
+
+To make the yellow background of the face, she needs 9 times the number of tulips in the smile. So, she needs 9 * 18 = 162 yellow tulips for the background.
+
+The total number of tulips Anna needs is the sum of the number of tulips for the eyes and the background: 16 + 162 = 178.
+
+Answer: 178

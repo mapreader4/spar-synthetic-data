@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The first three episodes are 58 minutes, 62 minutes, and 65 minutes long respectively.
+* The total duration of the four episodes is 4 hours.
+* To find the duration of the fourth episode, we need to first calculate the total duration of the first three episodes.
+* The total duration of the first three episodes is:
+  - 58 minutes + 62 minutes + 65 minutes = 185 minutes
+* Since the total duration of the four episodes is 4 hours, and we know the duration of the first three episodes is 185 minutes, we can calculate the duration of the fourth episode:
+  - 4 hours = 240 minutes
+  - 240 minutes - 185 minutes = 55 minutes
+
+Answer: 55 minutes

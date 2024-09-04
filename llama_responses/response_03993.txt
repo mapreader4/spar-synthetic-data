@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. The rent is $1200 a week, which is the fixed cost of the store.
+2. The additional 20% of rent for utilities is 0.2 x 1200 = 240.
+3. The total rent is 1200 + 240 = 1440.
+4. James has 2 employees per shift and the store is open 16 hours a day for 5 days a week. So, the total number of hours the employees work is 2 x 16 x 5 = 32 hours.
+5. Each employee is paid $12.50 an hour. So, the total amount paid to the employees is 32 x 12.5 = 400.
+6. The total weekly expenses are the rent and the employee wages, so 1440 + 400 = 1840.
+
+Answer: 1840

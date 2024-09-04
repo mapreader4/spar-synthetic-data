@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's first identify the variables:
+
+* The total number of points needed to win the movie day is 200.
+* The number of students in the class is 25.
+* The number of school weeks is 2, which is equivalent to 10 days.
+* The number of points earned per day is 2 for each student who eats their vegetables.
+
+Let's first find the total number of points the class needs to earn in 10 days:
+
+200 points / 10 days = 20 points per day
+
+Since there are 25 students in the class, the class needs to earn a total of 20 points per day to reach the goal. Since each student earns 2 points for eating their vegetables, the number of vegetables each student needs to eat per day is:
+
+20 points per day / 2 points per student = 10 vegetables per day
+
+So, the answer is:
+
+Answer: 10

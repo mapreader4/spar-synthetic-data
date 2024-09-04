@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Sandra has $10 initially, and her mother gave her an additional $4. So, Sandra now has a total of $10 + $4 = $14.
+
+Her father gave her twice as much as her mother, so he gave her $4 * 2 = $8. So, Sandra now has $14 + $8 = $22.
+
+She wants to buy 14 candies, and each candy costs $0.5. So, the cost of the candies will be 14 * $0.5 = $7. She will spend $7 for the candies.
+
+She also wants to buy 20 jelly beans, and each jelly bean costs $0.2. So, the cost of the jelly beans will be 20 * $0.2 = $4. She will spend $4 for the jelly beans.
+
+Sandra will spend a total of $7 + $4 = $11 for the candies and jelly beans. She started with $22, so she will be left with $22 - $11 = $11.
+
+Answer: 11

@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+On the first day, the rain starts at 7:00 and stops at 17:00, which means it rained for 10 hours.
+
+On the second day, the rain takes 2 more hours than it took on the first day to stop. This means it rained for 10 + 2 = 12 hours on the second day.
+
+On the third day, the rain pours for twice the amount of time it took on the second day. This means it rained for 12 x 2 = 24 hours on the third day.
+
+To find the total time it was raining in the three days, we add up the time it rained on each day:
+
+10 hours (first day) + 12 hours (second day) + 24 hours (third day) = 46 hours
+
+Answer: 46

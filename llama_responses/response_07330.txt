@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Initially, Pirate Rick dug up 8 feet of sand. Then, half of the sand was washed away, so the remaining sand is 8/2 = 4 feet.
+
+After the tsunami wave added 2 feet of new sand, the total sand depth is 4 + 2 = 6 feet.
+
+Since it took Pirate Rick 4 hours to dig up 8 feet of sand initially, we can assume that it takes him the same amount of time to dig up 6 feet of sand. Therefore, it will take Pirate Rick 4 hours to dig up his treasure again.
+
+Answer: 4

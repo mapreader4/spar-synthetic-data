@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. Ralph has $54.00 worth of products in his cart.
+2. He asks for a 20% discount on an item that costs $20.00.
+   * The 20% discount on the $20.00 item is 0.20 * $20.00 = $4.00.
+   * The discounted price of the item is $20.00 - $4.00 = $16.00.
+3. After the 20% discount, Ralph has the following in his cart:
+   * $54.00 - $20.00 + $16.00 = $50.00 worth of products.
+4. Ralph then uses a 10% coupon on his entire purchase.
+   * The 10% coupon discount is 0.10 * $50.00 = $5.00.
+   * The final total cost is $50.00 - $5.00 = $45.00.
+
+Answer: $45

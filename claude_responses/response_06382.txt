@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) A case of water contains 24 bottles.
+2) The children's camp purchased 13 cases of water.
+3) The first group has 14 children, the second group has 16 children, and the third group has 12 children.
+4) The fourth group has half of the number of the first three groups combined, which is (14 + 16 + 12) / 2 = 21 children.
+5) Each child consumes 3 bottles of water per day.
+6) The camp lasts for 3 days.
+7) To calculate the total number of bottles needed:
+   - First group: 14 children x 3 bottles/day x 3 days = 126 bottles
+   - Second group: 16 children x 3 bottles/day x 3 days = 144 bottles
+   - Third group: 12 children x 3 bottles/day x 3 days = 108 bottles
+   - Fourth group: 21 children x 3 bottles/day x 3 days = 189 bottles
+   - Total bottles needed: 126 + 144 + 108 + 189 = 567 bottles
+8) The camp purchased 13 cases, which is 13 x 24 = 312 bottles.
+9) The camp still needs to buy: 567 - 312 = 255 more bottles.
+
+Answer: 255

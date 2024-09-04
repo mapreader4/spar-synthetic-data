@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Devin is 12 years old
+* Eden is twice as old as Devin, so Eden is 2 * 12 = 24 years old
+* Eden's mom is twice as old as Eden, so Eden's mom is 2 * 24 = 48 years old
+
+Now, to find the average age of the three:
+* The total age of the three is Devin's age (12) + Eden's age (24) + Eden's mom's age (48) = 84 years
+* The average age is the total age divided by the number of people, which is 3
+* Average age = 84 / 3 = 28 years
+
+Answer: 28

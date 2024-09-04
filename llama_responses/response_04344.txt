@@ -1,0 +1,19 @@
+Let's think step by step.
+
+Let's say the value of each of the 8 other toys is x. Since all the other toys have the same value, we can represent the total value of all the toys, except the one that's already known to be $12, as 8x.
+
+We know that the total value of all the toys is $52. So, we can set up the equation:
+
+8x + 12 = 52
+
+To solve for x, we can subtract 12 from both sides of the equation:
+
+8x = 52 - 12
+8x = 40
+
+To find the value of x, we can divide both sides of the equation by 8:
+
+x = 40 ÷ 8
+x = 5
+
+So, the value of one of the other toys is $5.

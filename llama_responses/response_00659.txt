@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Elizabeth uses $3.00 worth of ingredients to make a bag of granola. So, the cost of making one bag of granola is $3.00.
+
+She makes 20 bags, so the total cost to make all 20 bags is 20 x $3.00 = $60.00.
+
+She sells 15 bags at $6.00 each, so the total revenue from selling 15 bags is 15 x $6.00 = $90.00.
+
+After selling 15 bags, she has 5 bags left, and she marks them down to $4.00 each. So, the revenue from selling the remaining 5 bags is 5 x $4.00 = $20.00.
+
+The total revenue is the sum of the revenue from selling 15 bags and the revenue from selling the remaining 5 bags. The total revenue is $90.00 + $20.00 = $110.00.
+
+The total cost to make all 20 bags is $60.00, and the total revenue is $110.00. So, the net profit is the difference between the total revenue and the total cost. The net profit is $110.00 - $60.00 = $50.00.
+
+Answer: 50

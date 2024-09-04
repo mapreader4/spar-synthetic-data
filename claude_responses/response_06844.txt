@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+* Julia's internet speed is 20 MBps (megabytes per second)
+* The size per song is 5MB (megabytes)
+* We want to know how many songs she can download in half an hour
+
+First, let's calculate how many megabytes she can download in half an hour:
+* 20 MBps x 1800 seconds (half an hour) = 36,000 MB
+
+Now, we can calculate how many songs she can download in half an hour:
+* 36,000 MB / 5 MB per song = 7,200 songs
+
+Answer: 7,200

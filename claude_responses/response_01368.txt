@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Tamara's height is 3 times Kim's height, less 4 inches.
+   Let's represent Kim's height as x.
+   Then, Tamara's height is 3x - 4.
+2) Tamara and Kim have a combined height of 92 inches.
+   So, Tamara's height (3x - 4) plus Kim's height (x) equals 92 inches.
+   3x - 4 + x = 92
+   4x - 4 = 92
+   4x = 96
+   x = 24
+3) Since Kim's height is 24 inches, Tamara's height is:
+   Tamara's height = 3x - 4
+   Tamara's height = 3(24) - 4
+   Tamara's height = 72 - 4
+   Tamara's height = 68 inches.
+
+Answer: 68 inches.

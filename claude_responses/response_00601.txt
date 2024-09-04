@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) The cheetah can run at a top speed of 60 mph.
+2) The gazelle can run at a top speed of 40 mph.
+3) 1 mile per hour is approximately 1.5 feet per second.
+4) The cheetah and the gazelle are initially 210 feet apart and are both running in the same direction.
+5) To find the time it takes for the cheetah to catch up to the gazelle, we need to find the relative speed between the two animals.
+6) The cheetah's speed is 60 mph, which is 60 * 1.5 = 90 feet per second.
+7) The gazelle's speed is 40 mph, which is 40 * 1.5 = 60 feet per second.
+8) The relative speed between the cheetah and the gazelle is 90 - 60 = 30 feet per second.
+9) The time it takes for the cheetah to catch up to the gazelle is the distance between them (210 feet) divided by their relative speed (30 feet per second).
+10) 210 feet / 30 feet per second = 7 seconds.
+
+Answer: 7 seconds.

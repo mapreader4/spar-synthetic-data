@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The cost of one cup of coffee is $6
+* The cost of one piece of cheesecake is $10
+* When buying them together, the client gets a 25% discount
+* To calculate the final price, we first need to find the total cost without the discount:
+    - Total cost = Cost of coffee + Cost of cheesecake
+    - Total cost = $6 + $10 = $16
+* Now, we apply the 25% discount:
+    - Discount amount = 25% of $16 = 0.25 * $16 = $4
+    - Final price = Total cost - Discount amount = $16 - $4 = $12
+
+Answer: $12

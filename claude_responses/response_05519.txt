@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* 30 students were asked to bring in 12 brownies each
+  * 30 students x 12 brownies = 360 brownies
+* 20 students were asked to bring in 24 cookies each
+  * 20 students x 24 cookies = 480 cookies
+* 15 students were asked to bring in 12 donuts each
+  * 15 students x 12 donuts = 180 donuts
+* They are selling everything for $2.00 each
+  * 360 brownies x $2.00 = $720.00
+  * 480 cookies x $2.00 = $960.00
+  * 180 donuts x $2.00 = $360.00
+* To calculate the total money raised:
+  * $720.00 + $960.00 + $360.00 = $2,040.00
+
+Answer: $2,040

@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+First, we need to find the time it takes Jenny to jog to the school. We know Jenny leaves her house at 8:00 and it's been half an hour (30 minutes) since then, so it's now 8:30. We also know Jenny jogs at 15 miles per hour. To find the distance Jenny has traveled, we can multiply the time by the rate:
+
+Distance = Rate x Time
+Distance = 15 miles/hour x 0.5 hours (since it's been half an hour)
+Distance = 7.5 miles
+
+Now we know Jenny is 7.5 miles away from the school.
+
+Next, we need to find the time it takes Anna to drive to the school. We know Anna leaves the house at 8:30 and needs to catch up to Jenny. We also know Anna drives at 45 miles per hour. To find the time it takes Anna to drive, we can divide the distance by the rate:
+
+Time = Distance / Rate
+Time = 7.5 miles / 45 miles/hour
+Time = 0.1667 hours
+
+Since we're looking for the time in minutes, we can convert the hours to minutes:
+
+Time = 0.1667 hours x 60 minutes/hour
+Time = 10 minutes
+
+Answer: 10

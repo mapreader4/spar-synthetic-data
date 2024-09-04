@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Jason has to drive 120 miles. He drives for 30 minutes at 60 miles per hour. In that time, he covers a distance of 30 * 60 = 1800/60 = 30 miles. So, he has 120 - 30 = 90 miles left to go.
+
+He has 1 hour and 30 minutes, which is 90 minutes. In 60 minutes, he has to cover a distance of 90 miles. 
+
+To find his average speed, we can use the formula: Distance / Time = Speed. So, 90 / 90 = 1. 
+
+Answer: 1.

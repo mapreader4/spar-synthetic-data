@@ -1,0 +1,3 @@
+Let's start by counting the ants in the jar at the beginning: 50 ants. Since the number of ants in the jar doubles every hour, then after 1 hour, there will be 100 ants in the jar. After 2 hours, there will be 200 ants in the jar, and after 3 hours, there will be 400 ants. Continuing this pattern, after 4 hours, there will be 800 ants in the jar, and after 5 hours, there will be 1600 ants in the jar.
+
+So, the number of ants in the jar after 5 hours is 1600.

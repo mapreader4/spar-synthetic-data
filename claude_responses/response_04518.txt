@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Carl's car gets 30 miles per gallon in the city and 40 miles per gallon on the highway.
+2) The distance from his house to the Grand Canyon is 60 city miles and 200 highway miles.
+3) To calculate the city miles, we divide the 60 city miles by 30 miles per gallon, which gives us 2 gallons of gas needed for the city portion.
+4) To calculate the highway miles, we divide the 200 highway miles by 40 miles per gallon, which gives us 5 gallons of gas needed for the highway portion.
+5) In total, Carl will need 2 + 5 = 7 gallons of gas for the trip.
+6) Since gas costs $3.00 per gallon, the total cost will be 7 gallons x $3.00 per gallon = $21.00.
+
+Answer: $21

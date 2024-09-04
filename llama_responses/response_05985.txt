@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+If Billy sleeps 6 hours the first night, that means he sleeps 6 hours.
+
+The next night, he sleeps 2 more hours than the previous night, which means he sleeps 6 + 2 = 8 hours.
+
+The next night, he sleeps half the previous amount, which is 8/2 = 4 hours.
+
+The final night, he sleeps triple the previous amount, which is 4 * 3 = 12 hours.
+
+To find the total amount of hours Billy slept in the four-day period, we add up the hours:
+
+6 + 8 + 4 + 12 = 26
+
+Answer: 26

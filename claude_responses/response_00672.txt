@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Harris feeds his dog 1 large organic carrot per day
+* There are 5 carrots in a 1 pound bag
+* Each bag of carrots costs $2.00
+* We need to find out how much Harris will spend on carrots in one year
+
+First, let's calculate how many carrots Harris will feed his dog in one year:
+* 1 carrot per day x 365 days in a year = 365 carrots per year
+
+Next, let's figure out how many bags of carrots Harris will need to buy in one year:
+* 365 carrots per year / 5 carrots per bag = 73 bags of carrots per year
+
+Finally, let's calculate the total cost:
+* 73 bags of carrots per year x $2.00 per bag = $146.00 per year
+
+Answer: $146

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+First, we know that the school has 1 principal, which is not a student.
+
+Next, we know that there are 15 classes with 20 students in each class. So, the total number of students is 15 * 20 = 300.
+
+Finally, we add the 48 teachers to the total count. So, the total number of people in Oxford High School is 48 + 300 = 348.
+
+Answer: 348

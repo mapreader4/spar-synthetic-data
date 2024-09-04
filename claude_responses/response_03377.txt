@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Kyle goes to basketball practice every day for 2 hours
+* He spends half of the time shooting
+* The remaining time is spent running and weight lifting
+* He runs for twice the time he spends weight lifting
+
+First, let's calculate the total time he spends on practice:
+* 2 hours = 120 minutes
+
+Now, let's calculate the time he spends shooting:
+* He spends half the time shooting
+* 120 minutes / 2 = 60 minutes
+
+The remaining time is spent running and weight lifting:
+* 120 minutes - 60 minutes = 60 minutes
+
+We know that he runs for twice the time he spends weight lifting, so let's call the time he spends weight lifting "x" minutes.
+* Running time = 2x minutes
+* Total remaining time = 60 minutes
+* 2x + x = 60
+* 3x = 60
+* x = 20 minutes
+
+Answer: 20 minutes

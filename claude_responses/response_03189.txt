@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Gary starts with 4 chickens
+* After two years, he has 8 times as many chickens as he started with
+* 8 times 4 chickens = 32 chickens
+* Each chicken lays 6 eggs a day
+* To find the number of eggs collected every week, we need to multiply the number of chickens by the number of eggs per day, and then multiply that by the number of days in a week
+* 32 chickens x 6 eggs per day = 192 eggs per day
+* 192 eggs per day x 7 days in a week = 1,344 eggs collected every week
+
+Answer: 1,344

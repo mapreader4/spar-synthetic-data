@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John plays paintball 3 times a month
+* Each time he plays, he buys 3 boxes of paintballs
+* The cost of each box of paintballs is $25
+
+To calculate the total amount he spends a month, we need to:
+1. Calculate the number of boxes of paintballs he buys per month:
+   * 3 times a month x 3 boxes per time = 9 boxes per month
+2. Calculate the total cost of the paintballs per month:
+   * 9 boxes per month x $25 per box = $225 per month
+
+Answer: 225

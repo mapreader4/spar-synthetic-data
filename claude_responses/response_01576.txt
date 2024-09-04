@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1) Pogo, the four-legged martian, leaves 4 footprints every meter.
+2) Grimzi, the three-legged Plutonian, leaves 3 footprints every 6 meters.
+3) Pogo travels 6000 meters across the soil of Mars.
+4) Grimzi travels 6000 meters across the fine sands of Pluto.
+
+To calculate the total number of footprints:
+
+For Pogo:
+* Pogo leaves 4 footprints per meter
+* Pogo travels 6000 meters
+* So Pogo will leave 4 * 6000 = 24,000 footprints on Mars
+
+For Grimzi:
+* Grimzi leaves 3 footprints every 6 meters
+* Grimzi travels 6000 meters
+* So Grimzi will leave (6000 / 6) * 3 = 3,000 footprints on Pluto
+
+Adding the footprints together:
+* Total footprints = Pogo's footprints + Grimzi's footprints
+* Total footprints = 24,000 + 3,000 = 27,000
+
+Answer: 27,000

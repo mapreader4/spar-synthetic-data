@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* To make one batch of yogurt, the company needs:
+  - 10 liters of milk at $1.5 per liter
+  - 3 kilograms of fruit at $2 per kilogram
+* So the cost of one batch of yogurt is:
+  - Cost of milk: 10 liters x $1.5 per liter = $15
+  - Cost of fruit: 3 kilograms x $2 per kilogram = $6
+  - Total cost of one batch = $15 + $6 = $21
+* To produce three batches of yogurt, the total cost would be:
+  - 3 batches x $21 per batch = $63
+
+Answer: $63

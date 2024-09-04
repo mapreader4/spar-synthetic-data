@@ -1,0 +1,17 @@
+Let's solve this problem step by step.
+
+Let's first find the total score of the three people.
+
+Gretchen bowled a 120, so her score is 120.
+Mitzi bowled a 113, so her score is 113.
+Beth bowled an 85, so her score is 85.
+
+Now, to find the average score, we need to add up all three scores and then divide by 3.
+
+120 + 113 + 85 = 318
+
+Now, we divide the sum by 3:
+
+318 / 3 = 106
+
+Answer: 106

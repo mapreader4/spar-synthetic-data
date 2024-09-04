@@ -1,0 +1,17 @@
+To solve this problem, we need to calculate the total time required to roast both turkeys and then find the latest time Liz can start roasting them to have dinner served at 6:00 pm.
+
+Given information:
+- Liz roasts 2 16-pound turkeys.
+- Each turkey takes 15 minutes per pound to roast.
+- Liz can only roast one turkey at a time.
+
+Step 1: Calculate the total time required to roast both turkeys.
+Time to roast the first turkey = 16 pounds × 15 minutes/pound = 240 minutes
+Time to roast the second turkey = 16 pounds × 15 minutes/pound = 240 minutes
+Total time to roast both turkeys = 240 minutes + 240 minutes = 480 minutes = 8 hours
+
+Step 2: Find the latest time Liz can start roasting the turkeys to have dinner served at 6:00 pm.
+Dinner is served at 6:00 pm, so Liz needs to have the turkeys ready by that time.
+Latest time to start roasting the turkeys = 6:00 pm - 8 hours = 10:00 am
+
+Answer: 10:00 am

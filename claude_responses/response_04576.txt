@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Carter goes through 5 sets of drum sticks per show
+* After each show, he tosses 6 new sets of drum sticks to the audience
+* He does this for 30 nights straight
+
+First, let's calculate how many sets of drum sticks he goes through during the 30 shows:
+* 5 sets per show x 30 shows = 150 sets of drum sticks
+
+Next, let's calculate how many sets of drum sticks he tosses to the audience:
+* 6 sets per show x 30 shows = 180 sets of drum sticks
+
+Now, we can add the two numbers together to get the total number of sets of drum sticks he goes through:
+* 150 sets + 180 sets = 330 sets of drum sticks
+
+Answer: 330

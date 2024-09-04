@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total cost of the lunches. If it costs $210 to feed 50 students, then the cost per student is $210 / 50 = $4.2 per student.
+
+Since 40% of the students receive a free lunch, that means that 40% of the students don't pay for their lunches. This means that 60% of the students pay for their lunches, since 100% - 40% = 60%.
+
+Since 60% of the students pay for their lunches, that means that 60% of the students pay a total of 60% of the cost, which is 0.6 * 210 = $126.
+
+Answer: 126

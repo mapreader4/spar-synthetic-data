@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's find the cost of the scoops for Mr. and Mrs. Martin:
+
+* 2 regular scoops (1 for each) = 2 x $4 = $8
+
+Next, let's find the cost of the scoops for the 2 children:
+
+* 2 kiddie scoops (1 for each) = 2 x $3 = $6
+
+Next, let's find the cost of the scoops for the 3 teenage children:
+
+* 3 double scoops (1 for each) = 3 x $6 = $18
+
+Now, let's add up the total cost for the scoops:
+
+$8 (for Mr. and Mrs. Martin) + $6 (for the 2 children) + $18 (for the 3 teenage children) = $32
+
+Answer: 32

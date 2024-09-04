@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Snap, Crackle, and Pop spend a total of $150 on cereal
+* Snap spends twice as much as Crackle
+* Crackle spends 3 times as much as Pop
+
+Let's define the variables:
+* Let x = the amount Pop spent
+* Then Crackle spent 3x
+* And Snap spent 2 * 3x = 6x
+
+We know that the total spent is $150, so we can set up an equation:
+* x + 3x + 6x = 150
+* 10x = 150
+* x = 15
+
+Therefore, Pop spent $15 on cereal.
+
+Answer: 15

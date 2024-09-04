@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Farrah ordered 4 boxes from Amazon
+* Each box contains 20 matchboxes
+* Each matchbox has 300 match sticks
+
+To calculate the total number of match sticks, we need to:
+1. Calculate the total number of matchboxes Farrah ordered:
+   * 4 boxes x 20 matchboxes per box = 80 matchboxes
+2. Calculate the total number of match sticks in the 80 matchboxes:
+   * 80 matchboxes x 300 match sticks per matchbox = 24,000 match sticks
+
+Answer: 24,000

@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) There are 6 cookie cutters shaped like triangles.
+2) A triangle has 3 sides.
+3) So the 6 triangle-shaped cookie cutters have a total of 6 * 3 = 18 sides.
+4) There are 4 square-shaped cookie cutters.
+5) A square has 4 sides.
+6) So the 4 square-shaped cookie cutters have a total of 4 * 4 = 16 sides.
+7) There are 2 hexagon-shaped cookie cutters.
+8) A hexagon has 6 sides.
+9) So the 2 hexagon-shaped cookie cutters have a total of 2 * 6 = 12 sides.
+10) Adding up the sides of all the cookie cutters:
+18 + 16 + 12 = 46 sides.
+
+Answer: 46

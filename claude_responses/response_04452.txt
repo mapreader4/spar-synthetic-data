@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are one-third as many Ford trucks as Dodge trucks in the parking lot.
+2) There are twice as many Ford trucks as Toyota trucks in the parking lot.
+3) There are half as many Volkswagen Bugs as there are Toyota trucks in the parking lot.
+4) We are told that there are 5 Volkswagen Bugs in the parking lot.
+5) Since there are half as many Volkswagen Bugs as Toyota trucks, and there are 5 Volkswagen Bugs, that means there are 10 Toyota trucks in the parking lot.
+6) Since there are twice as many Ford trucks as Toyota trucks, and there are 10 Toyota trucks, that means there are 20 Ford trucks in the parking lot.
+7) Since there are one-third as many Ford trucks as Dodge trucks, and there are 20 Ford trucks, that means there are 60 Dodge trucks in the parking lot.
+
+Answer: 60

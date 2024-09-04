@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* There are 65 dolphins in the ocean initially
+* Three times that number (3 x 65 = 195) joins in from a river
+* To calculate the total number of dolphins in the ocean, we add the initial 65 dolphins to the 195 dolphins that joined in from the river:
+* 65 + 195 = 260
+
+Answer: 260

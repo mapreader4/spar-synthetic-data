@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. There were some sweets on the table initially.
+2. Jack came and took half of all the candies. So, half of the sweets were taken away.
+3. 4 more candies were taken by Jack, which means the total number of sweets taken by Jack is 1/2 + 4 = 6.
+4. Then, Paul came and took the remaining 7 sweets.
+5. So, there were 7 sweets left on the table after Paul took the remaining sweets.
+
+To find the initial number of sweets, we need to add the number of sweets taken by Jack (6) to the number of sweets taken by Paul (7), which is 6 + 7 = 13. So, there were 13 - 6 = 7 sweets on the table initially.
+
+Answer: 7

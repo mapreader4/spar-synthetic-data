@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start with Rubert. Rubert has 4 times the number of candies James has. James has 3 times the number of candies Adam has. So, let's write an equation to represent this information:
+
+Let's call the number of candies Rubert has 4 times the number of candies James has "R" and the number of candies James has "J". So, the equation is:
+
+R = 4J
+
+Now, let's think about the number of candies Adam has. We know that Adam has 6 candies, so let's write an equation for Adam's number of candies in terms of "A":
+
+A = 6
+
+Now we can write the equation for the total number of candies the three of them have:
+
+R + J + A = 4(3) + 6
+
+We can multiply 4 and 3 to get 12. Then we add 6 to get the total number of candies:
+
+12 + 6 = 18
+
+Answer: 18

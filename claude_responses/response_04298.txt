@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Peter carried $500 to the market.
+
+2. He bought:
+   - 6 kilos of potatoes at $2 per kilo, so the total cost for potatoes is 6 x $2 = $12
+   - 9 kilos of tomatoes at $3 per kilo, so the total cost for tomatoes is 9 x $3 = $27
+   - 5 kilos of cucumbers at $4 per kilo, so the total cost for cucumbers is 5 x $4 = $20
+   - 3 kilos of bananas at $5 per kilo, so the total cost for bananas is 3 x $5 = $15
+
+3. To calculate the total amount spent, we add up the costs for each item:
+   $12 + $27 + $20 + $15 = $74
+
+4. To calculate the remaining money, we subtract the total amount spent from the initial $500:
+   $500 - $74 = $426
+
+Answer: $426

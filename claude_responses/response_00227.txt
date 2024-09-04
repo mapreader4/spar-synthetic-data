@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Ian won $100 in the lottery.
+2) He paid $20 to Colin.
+3) He then paid twice as much to Helen, as he had paid to Colin. So, he paid Helen $40 (2 x $20).
+4) Finally, he paid half as much to Benedict, as he had paid to Helen. So, he paid Benedict $20 (1/2 x $40).
+5) Adding up the amounts he paid out:
+   - Paid to Colin: $20
+   - Paid to Helen: $40
+   - Paid to Benedict: $20
+   - Total paid out: $20 + $40 + $20 = $80
+6) Subtracting the total amount paid out from the initial $100 he won:
+   - $100 - $80 = $20
+
+Answer: $20

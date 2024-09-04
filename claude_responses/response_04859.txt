@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Lloyd has 16 decks of cards, and each deck has 52 cards.
+2) So the total number of cards Lloyd has is 16 * 52 = 832 cards.
+3) The house of cards is 32 layers tall.
+4) Since each layer has the same number of cards, we can divide the total number of cards by the number of layers to find the number of cards per layer.
+5) 832 cards / 32 layers = 26 cards per layer.
+
+Answer: 26

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The factory was planning to produce 200 cars
+* Each car has 5 doors
+* Due to metal shortages, they decreased production by 50 cars
+* So the new planned production is 200 - 50 = 150 cars
+* Due to a pandemic, they had to cut production by another 50%
+* 50% of 150 cars is 0.5 * 150 = 75 cars
+* So the final production is 150 - 75 = 75 cars
+* Each car has 5 doors
+* Therefore, the total number of doors produced is 75 cars * 5 doors per car = 375 doors
+
+Answer: 375

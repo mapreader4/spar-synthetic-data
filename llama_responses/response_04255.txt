@@ -1,0 +1,11 @@
+To solve this problem, I will think step by step.
+
+Let's break down the problem into two parts. First, Jeannie hikes to the top of Mount Overlook, and then she returns back. The distance she hikes is 12 miles, and her speed while going up is 4 miles per hour.
+
+The time taken to hike up is the distance divided by the speed. So, time = distance / speed. So, time = 12 / 4 = 3 hours.
+
+Then, Jeannie returns back at a speed of 6 miles per hour. The distance is still the same, 12 miles. So, the time taken to hike back down is the distance divided by the speed. So, time = distance / speed. So, time = 12 / 6 = 2 hours.
+
+The total time taken to complete the hike is the sum of the time taken to hike up and the time taken to hike down. So, the total time = time up + time down = 3 + 2 = 5 hours.
+
+Answer: 5

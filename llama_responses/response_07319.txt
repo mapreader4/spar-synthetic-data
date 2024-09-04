@@ -1,0 +1,13 @@
+To find the time it takes for the train to reach the destination, we can use the formula:
+
+Time = Distance / Speed
+
+Since the distance is not given, we can assume it is 50 miles. So, we can plug in the values into the formula:
+
+Time = 50 miles / 50 mph = 1 hour
+
+If the speed is 100 mph, the time it takes to reach the destination would be:
+
+Time = 50 miles / 100 mph = 0.5 hours
+
+Answer: 0.5

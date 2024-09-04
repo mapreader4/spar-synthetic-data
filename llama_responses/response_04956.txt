@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+The two long sides are 8 inches by 6 inches, so the area of each long side is 8 x 6 = 48 square inches. Since there are two long sides, the total area of the long sides is 48 + 48 = 96 square inches.
+
+The two short sides are 5 inches by 6 inches, so the area of each short side is 5 x 6 = 30 square inches. Since there are two short sides, the total area of the short sides is 30 + 30 = 60 square inches.
+
+The top and bottom are each 40 square inches, so the area of the top and bottom is 40 + 40 = 80 square inches.
+
+To find the total area of velvet needed, we need to add the area of the long sides, short sides, and top and bottom. 96 + 60 + 80 = 236 square inches.
+
+Answer: 236

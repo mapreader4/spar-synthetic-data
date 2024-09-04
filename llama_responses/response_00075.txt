@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+First, we need to find the cost of Dale's breakfast.
+
+Dale had 2 slices of toast, which cost £1 per slice, so the cost of his toast is 2 x £1 = £2.
+
+Dale also had 2 eggs, which cost £3 each, so the cost of his eggs is 2 x £3 = £6.
+
+The total cost of Dale's breakfast is £2 (for the toast) + £6 (for the eggs) = £8.
+
+Now, let's find the cost of Andrew's breakfast.
+
+Andrew had 1 slice of toast, which costs £1, so the cost of his toast is £1.
+
+Andrew also had 2 eggs, which cost £3 each, so the cost of his eggs is 2 x £3 = £6.
+
+The total cost of Andrew's breakfast is £1 (for the toast) + £6 (for the eggs) = £7.
+
+So, the total cost of their breakfast is £8 (for Dale) + £7 (for Andrew) = £15.
+
+Answer: 15

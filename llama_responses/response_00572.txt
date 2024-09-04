@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+Let's start by finding the total amount of lingonberries Steve picked on Monday. He picked 8 pounds on Monday, so that's 8 pounds.
+
+On Tuesday, he picked 3 times as many lingonberries as he did on Monday. So, he picked 3 x 8 = 24 pounds on Tuesday.
+
+Now, he didn't pick any lingonberries on Wednesday, so the total amount of lingonberries picked so far is 8 + 24 = 32 pounds.
+
+Steve wants to make a total of $100, and he gets $2 for every pound of lingonberries. So, we can set up an equation to represent this: 2x = 100, where x is the number of pounds he needs to pick on Thursday.
+
+We know that Steve has already picked a total of 32 pounds, so we can subtract that from the total amount he wants to make: 100 - 32 = 68. This means Steve needs to pick 68 more pounds of lingonberries.
+
+Answer: 68

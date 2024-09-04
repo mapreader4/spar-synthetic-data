@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+* Train 1 took a 200-mile track and went 50 MPH
+* To find the time it took for Train 1, we divide the distance by the speed:
+* Time for Train 1 = 200 miles / 50 MPH = 4 hours
+
+* Train 2 took a 240-mile track and went 80 MPH
+* To find the time it took for Train 2, we divide the distance by the speed:
+* Time for Train 2 = 240 miles / 80 MPH = 3 hours
+
+* To find the average time, we add the two times together and divide by 2:
+* Average time = (4 hours + 3 hours) / 2 = 7 hours / 2 = 3.5 hours
+
+Rounding to the nearest integer, the answer is:
+
+Answer: 4

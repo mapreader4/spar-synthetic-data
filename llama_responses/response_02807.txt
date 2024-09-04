@@ -1,0 +1,37 @@
+Let's start by calculating the total time it took Osborn to get dressed on Monday, Tuesday, Wednesday, and Thursday:
+
+Monday: 2 minutes
+Tuesday: 4 minutes
+Wednesday: 3 minutes
+Thursday: 4 minutes
+
+Total time: 2 + 4 + 3 + 4 = 13 minutes
+
+To find the average time it took Osborn to get dressed on these days, we can divide the total time by the number of days:
+
+Average time: 13 minutes / 4 days = 3.25 minutes per day
+
+Since Osborn wants his weekly average to tie his old method of 3 minutes per day, he needs to get dressed in a time that will bring his weekly average back down to 3 minutes.
+
+To do this, he needs to add the time it took him to get dressed on Friday to the total time, and then divide by 5 (the number of days in a week) to find the new average:
+
+New total time = 13 minutes + Friday's time
+New average = (New total time) / 5
+
+We know that Osborn's old method had an average time of 3 minutes per day, so we can set up an equation:
+
+New average = 3
+
+Substituting the expression for the new average, we get:
+
+(13 + Friday's time) / 5 = 3
+
+To solve for Friday's time, we can multiply both sides of the equation by 5:
+
+13 + Friday's time = 15
+
+Subtracting 13 from both sides gives us:
+
+Friday's time = 2
+
+Answer: 2

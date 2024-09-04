@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The bakery sells rolls for $5 per dozen
+* John spent $15 on rolls
+* To find the number of rolls John got, we need to figure out how many dozens he bought
+* Since he spent $15, and each dozen costs $5, we can divide $15 by $5 to get the number of dozens he bought:
+* $15 / $5 = 3 dozens
+* Each dozen has 12 rolls, so 3 dozens would be 3 * 12 = 36 rolls
+
+Answer: 36

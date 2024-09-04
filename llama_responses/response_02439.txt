@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: "There are 4 more Muscovy ducks than Cayugas, and 3 more than twice as many Cayugas as Khaki Campbells."
+
+Let's represent the number of Muscovy ducks as M and the number of Cayuga ducks as C. Then, the statement "4 more Muscovy ducks than Cayugas" can be written as M = C + 4. The statement "3 more than twice as many Cayugas as Khaki Campbells" can be written as C = 3 * 2. Then, we can set up the equation M = C + 4 and C = 6. Since we know that C + C = 90, we can set up the equation M + C = 90.
+
+We can solve for M by subtracting C from both sides of the equation, so M = 90 - C. We can substitute the value of C as 6, so M = 90 - 6. M = 84.
+
+Answer: 84

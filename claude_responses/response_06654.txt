@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John buys 2 packs of index cards for each student
+* He has 6 classes
+* Each class has 30 students
+* To find the total number of packs he bought, we need to:
+1. Calculate the total number of students:
+   * 6 classes x 30 students per class = 180 students
+2. Calculate the total number of packs he bought:
+   * 180 students x 2 packs per student = 360 packs
+
+Answer: 360

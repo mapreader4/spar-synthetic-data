@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+First, let's start by identifying the number of each type of hanger.
+
+* Pink hangers: 7
+* Green hangers: 4
+* Blue hangers: 4 - 1 = 3 (because it says "one less than there are green hangers")
+* Yellow hangers: 3 - 1 = 2 (because it says "one less than there are blue hangers")
+
+Now, let's add up the number of each type of hanger:
+
+7 (pink) + 4 (green) + 3 (blue) + 2 (yellow) = 16
+
+So, the total number of colored hangers in Fifi's closet is 16.
+
+Answer: 16

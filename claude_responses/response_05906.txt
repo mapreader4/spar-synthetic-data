@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 5 members on the cross-country relay team
+* Each member runs 3 km to complete their part of the race
+* Ralph runs twice as much as any other member on the team to complete his part of the race
+
+To find the total length of the race, we need to calculate the distance run by each member and then add them up.
+
+* Each member runs 3 km
+* Ralph runs twice as much, so he runs 6 km
+* Total distance run by the 5 members:
+    - 4 members x 3 km = 12 km
+    - Ralph runs 6 km
+    - Total distance = 12 km + 6 km = 18 km
+
+Therefore, the total length of the race is:
+
+Answer: 18 km

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the amount of money Sam had after 3 years. 20% interest for 3 years means 20% of $10,000 for 3 years. 20% of $10,000 is $2,000. 3 years of interest on $2,000 is $6,000. So, after 3 years, Sam has $10,000 + $6,000 = $16,000.
+
+The problem says that Sam then invested more until he had three times as much invested. So, he invested 3 times $16,000. So, after that, he had $48,000.
+
+The next year, he got a 15% return on his investment. So, he got 15% of $48,000. 15% of $48,000 is $7,200. So, Sam now has $48,000 + $7,200 = $55,200.
+
+Answer: 55,200.

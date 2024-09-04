@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jame gets 20 singing lessons in total
+* The first lesson is free
+* After the first 10 paid lessons, he only needs to pay for every other lesson
+* Each lesson costs $5
+* His uncle pays for half of the cost
+
+First, let's calculate the total cost of the lessons:
+* The first lesson is free, so that's $0
+* The next 10 lessons cost $5 each, so that's 10 * $5 = $50
+* After the first 10 lessons, he only pays for every other lesson, so that's 5 more lessons at $5 each, which is 5 * $5 = $25
+* The total cost of the lessons is $50 + $25 = $75
+
+Now, his uncle pays for half of the cost, so Jame pays the other half:
+* Jame's share of the cost is $75 / 2 = $37.50
+
+Answer: $38 (rounded to the nearest whole dollar)

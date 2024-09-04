@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find out how much Janice earns in a normal day. She earns $30 per day, and she works 5 days a week. So, her normal weekly earnings would be:
+
+$30 * 5 = $150
+
+Now, let's find out how much she earns when she works overtime. She earns $15 for each 2-hour shift, and she works 3 overtime shifts this week. So, she will earn:
+
+$15 * 3 = $45
+
+Now, we need to find her total earnings. We add her normal earnings to her overtime earnings:
+
+$150 + $45 = $195
+
+Answer: 195

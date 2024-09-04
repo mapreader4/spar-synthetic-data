@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Step 1: Find out how many packets of sugar substitute Christopher will need for 90 days.
+
+Christopher uses 2 packets a day, so for 90 days, he will need:
+
+2 packets/day * 90 days = 180 packets
+
+Step 2: Find the cost of 180 packets of sugar substitute.
+
+Each box contains 30 packets, so to find the cost of 180 packets, we need to divide 180 by 30:
+
+180 packets / 30 packets per box = 6 boxes
+
+The cost of 1 box is $4.00, so the cost of 6 boxes is:
+
+6 boxes * $4.00 = $24.00
+
+So, the cost for Christopher to have enough sugar substitutes to last him 90 days is $24.00.

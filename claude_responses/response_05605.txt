@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Two years ago, Jared was twice as old as Tom.
+* This means that if Jared's age two years ago was x, then Tom's age two years ago was x/2.
+* Tom will be 30 in five years, so his current age is 30 - 5 = 25.
+* Two years ago, Tom's age was 25 - 2 = 23.
+* Since Jared was twice as old as Tom two years ago, Jared's age two years ago was 23 * 2 = 46.
+* Jared's current age is 46 + 2 = 48.
+
+Answer: 48

@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) We are given that the sum of the ages of three boys is 29.
+2) We are also given that two of the boys are the same age, and the third boy is 11 years old.
+3) Let's call the age of the two boys who are the same age "x".
+4) The third boy is 11 years old, so the total of the three ages is x + x + 11 = 29.
+5) Solving this equation, we get 2x + 11 = 29.
+6) Subtracting 11 from both sides, we get 2x = 18.
+7) Dividing both sides by 2, we get x = 9.
+8) Therefore, the two boys who are the same age are both 9 years old.
+
+Answer: 9

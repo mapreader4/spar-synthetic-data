@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we need to find the perimeter of the field. The formula to find the perimeter of a rectangle is P = 2(l + w). In this case, the length is 60 feet and the width is 20 feet. So, the perimeter is P = 2(60 + 20) = 140.
+
+Next, we need to find the total amount of tape Joy has. Joy has 250 feet of tape. Since the perimeter of the field is 140 feet, we need to find out how many times 140 fits into 250. To do this, we can divide 250 by 140. 250 divided by 140 is 1.78. So, we can wrap the field once with 140 feet of tape, and we will have 10 feet left over.
+
+Answer: 10

@@ -1,0 +1,28 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the time it takes Hugo to fold each type of box:
+
+1. Small box: 3 seconds
+2. Medium box: 6 seconds (twice the time it takes Hugo to fold a small box)
+
+Now, let's identify the total time it takes for Hugo to fold all the small boxes:
+
+2400 small boxes * 3 seconds per box = 7200 seconds
+
+Next, let's identify the total time it takes for Hugo to fold all the medium boxes:
+
+1800 medium boxes * 6 seconds per box = 10800 seconds
+
+Now, let's add the total time it takes for Hugo to fold both types of boxes:
+
+7200 seconds (small boxes) + 10800 seconds (medium boxes) = 14400 seconds
+
+Since Tom can fold both types of boxes in 4 seconds, we know that Tom can fold a small box in 4 seconds and a medium box in 4 seconds. Therefore, we can set up the equation:
+
+4 seconds * (number of small boxes + number of medium boxes) = 4 * (2400 + 1800) = 4 * 4200 = 16800 seconds
+
+Since Hugo and Tom want to leave as early as possible, they will fold the boxes together. Therefore, the total time it will take them is the minimum of the two times:
+
+14400 seconds (Hugo's time) = 14400 seconds
+
+Answer: 14400

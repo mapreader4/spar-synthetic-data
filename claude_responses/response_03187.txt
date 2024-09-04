@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Summer performs 5 sun salutation yoga poses every weekday
+* There are 52 weeks in a year
+* On average, there are 5 weekdays per week
+* So, the number of weekdays in a year is:
+    * 52 weeks x 5 weekdays per week = 260 weekdays
+* Since Summer performs 5 sun salutations every weekday, the total number of sun salutations she will perform in a year is:
+    * 260 weekdays x 5 sun salutations per day = 1,300 sun salutations
+
+Answer: 1,300

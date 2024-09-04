@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+* There are 20 bicycles in the garage
+* Each bicycle has 2 wheels
+* So the total number of wheels for the bicycles is 20 * 2 = 40 wheels
+* There are 10 cars in the garage
+* Each car has 4 wheels
+* So the total number of wheels for the cars is 10 * 4 = 40 wheels
+* There are 5 motorcycles in the garage
+* Each motorcycle has 2 wheels
+* So the total number of wheels for the motorcycles is 5 * 2 = 10 wheels
+* To find the total number of wheels in the garage, we add up the wheels for the bicycles, cars, and motorcycles:
+* 40 + 40 + 10 = 90 wheels
+
+Answer: 90

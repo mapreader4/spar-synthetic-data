@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Gumball drank 9 liters of water on Monday, Thursday, and Saturday
+* Gumball drank 8 liters of water on Tuesday, Friday, and Sunday
+* No data was input on Wednesday
+* The total amount of water Gumball drank for the week was 60 liters
+
+To find the amount of water Gumball drank on Wednesday, we need to calculate the total amount of water he drank on the other days and subtract that from the total of 60 liters.
+
+The total amount of water he drank on the other days is:
+* Monday: 9 liters
+* Tuesday: 8 liters
+* Thursday: 9 liters
+* Friday: 8 liters
+* Saturday: 9 liters
+* Sunday: 8 liters
+* Total: 9 + 8 + 9 + 8 + 9 + 8 = 51 liters
+
+Now we can subtract the 51 liters from the total of 60 liters to find the amount of water he drank on Wednesday:
+* 60 liters - 51 liters = 9 liters
+
+Answer: 9 liters

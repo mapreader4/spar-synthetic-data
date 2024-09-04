@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 240 total guests.
+2) 60% of the guests are female. To calculate the number of female guests, we take 60% of 240:
+   * 60% of 240 = 0.6 * 240 = 144 female guests.
+3) Of the 144 female guests, 50% are from Jay's family. To calculate the number of female guests from Jay's family, we take 50% of 144:
+   * 50% of 144 = 0.5 * 144 = 72 female guests from Jay's family.
+
+Answer: 72

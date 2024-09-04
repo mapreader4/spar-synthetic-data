@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Let the original number be x.
+2) Doubling the number and adding 5 gives us 2x + 5.
+3) The problem states that 2x + 5 is 20 more than half of the original number.
+4) Half of the original number is x/2.
+5) So we have the equation: 2x + 5 = x/2 + 20.
+6) Solving for x, we get:
+2x + 5 = x/2 + 20
+2x + 5 - 20 = x/2
+2x - 15 = x/2
+3x/2 = 15
+x = 10.
+
+Answer: 10.

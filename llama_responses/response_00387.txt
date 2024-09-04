@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. First, Nellie can eat 12 sourball candies before crying, so she eats 12 candies.
+2. Jacob can eat half of that number of candies, so he eats 12 / 2 = 6 candies.
+3. Lana can eat 3 fewer than Jacob, so she eats 6 - 3 = 3 candies.
+4. Together, they ate 12 + 6 + 3 = 21 candies in total.
+5. They have a bucket of 30 candies, and all of them ate until they cried. So, they ate all 30 candies.
+6. Since they ate all the candies, there are 0 candies left in the bucket.
+7. To find out how many each of them gets, we need to divide the remaining candies by the number of people. There are 3 people, so we divide 0 candies by 3: 0 / 3 = 0 candies for each person.
+
+Answer: 0

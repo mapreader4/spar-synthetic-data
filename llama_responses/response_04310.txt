@@ -1,0 +1,28 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of students present in the science class yesterday. The problem states that 30 students are absent today, so the total number of students present in the class yesterday would be the total number of students minus the number of students absent today.
+
+Let's let x be the total number of students present in the class yesterday. Then, we can write the equation as follows:
+
+x - 30 = 70
+
+To solve for x, we can add 30 to both sides of the equation:
+
+x = 70 + 30
+
+x = 100
+
+So, the total number of students present in the science class yesterday is 100.
+
+Now, we need to find 10% less than this number. To find 10% of 100, we can multiply 10 by 100 and divide the product by 100:
+
+10% of 100 = (10 * 100) / 100
+= 1000 / 100
+= 10
+
+So, 10% of the total number of students present in the class yesterday is 10. To find the number of students registered for the course, we need to subtract 10 from the total number of students present in the class yesterday:
+
+100 - 10
+= 90
+
+Answer: 90

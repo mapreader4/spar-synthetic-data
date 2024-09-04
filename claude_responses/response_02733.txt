@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The original flock size is 100 ducks
+* Every year, 20 ducks are killed, but 30 are born
+* So, the net change in the flock size each year is an increase of 10 ducks (30 born - 20 killed)
+* After 5 years, the flock size has increased by 5 * 10 = 50 ducks
+* So, the flock size after 5 years is 100 + 50 = 150 ducks
+* The flock then joins with another flock of 150 ducks
+* Therefore, the combined flock size is 150 + 150 = 300 ducks
+
+Answer: 300

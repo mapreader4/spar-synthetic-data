@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The church has a total of 120 members
+* 40% of the members are adults
+* The remaining members are children
+
+To find the number of adults:
+* 40% of 120 = 0.40 x 120 = 48 adults
+
+To find the number of children:
+* Total members - adults = children
+* 120 - 48 = 72 children
+
+To find the difference between the number of children and adults:
+* Children - adults = 72 - 48 = 24 more children than adults
+
+Answer: 24

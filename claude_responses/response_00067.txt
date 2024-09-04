@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. Jesse's performance over the first 4 days:
+   - Days 1-3: Jesse averages (2/3) of a mile per day
+   - Day 4: Jesse runs 10 miles
+   - Total miles run by Jesse in the first 4 days: (2/3) x 3 + 10 = 12 miles
+
+2. Mia's performance over the first 4 days:
+   - Mia averages 3 miles per day
+   - Total miles run by Mia in the first 4 days: 3 x 4 = 12 miles
+
+3. Total miles run by both Jesse and Mia in the first 4 days: 12 + 12 = 24 miles
+
+4. Remaining miles to be run in the final 3 days: 30 - 24 = 6 miles
+
+5. The average of the miles they need to run over the final 3 days is:
+   - Average = Remaining miles / Number of days = 6 / 3 = 2 miles
+
+Answer: 2

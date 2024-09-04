@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+Let's start by finding the number of meows made by the first cat in 5 minutes. The first cat meows 3 times per minute, so in 5 minutes, it will meow 5 x 3 = 15 times.
+
+The second cat meows twice as frequently as the first cat, so it meows 2 x 3 = 6 times per minute. In 5 minutes, it will meow 6 x 5 = 30 times.
+
+The third cat meows at one-third the frequency of the second cat, so it meows 1/3 x 6 = 2 times per minute. In 5 minutes, it will meow 2 x 5 = 10 times.
+
+Now, let's add up the total number of meows made by the three cats:
+
+15 (first cat) + 30 (second cat) + 10 (third cat) = 55
+
+Answer: 55

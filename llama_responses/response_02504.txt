@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's say the number of wipes in the container in the morning is x.
+
+After using 20 wipes, the number of wipes left is x - 20.
+
+Then, she refills the container with 10 wipes. So, the new number of wipes is x - 20 + 10.
+
+Since the number of wipes left at night is 60, we can set up an equation:
+
+x - 20 + 10 = 60
+
+Subtract 20 from both sides of the equation to get:
+
+x = 80
+
+So, the number of wipes in the container in the morning is 80.

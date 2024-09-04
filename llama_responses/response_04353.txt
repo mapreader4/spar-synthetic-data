@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Norris saved $29 in September, which means he had $29 at the start of October.
+
+Then, he saved $25 in October. So, he now has $29 + $25 = $54.
+
+Then, he saved $31 in November. So, he now has $54 + $31 = $85.
+
+Then, he spent $75 on an online game. So, he now has $85 - $75 = $10.
+
+Answer: 10

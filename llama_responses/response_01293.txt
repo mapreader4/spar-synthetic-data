@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+First, we need to find out the total cost of the items Jimmy and Irene purchased. Jimmy picked out 3 shorts from the $15 rack, so the cost is 3 * $15 = $45. Irene grabbed 5 shirts from the $17 rack, so the cost is 5 * $17 = $85. The total cost of the items is $45 + $85 = $130.
+
+Then, we need to find the discount. Since Jimmy and Irene are senior citizens, they get a 10% discount on their purchases. So, we need to find 10% of the total cost. 10% of $130 is $13.
+
+So, the amount they need to pay is $130 - $13 = $117. 
+
+Answer: 117

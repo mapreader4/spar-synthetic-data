@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Adam eats 3 more pies than Bill
+2) Sierra eats twice as many pies as Bill
+3) Sierra ate 12 pies
+4) Since Sierra eats twice as many pies as Bill, we can say that Bill ate 6 pies (12 / 2 = 6)
+5) Since Adam eats 3 more pies than Bill, we can say that Adam ate 9 pies (6 + 3 = 9)
+6) To find the total number of pies eaten, we add up the pies eaten by Adam, Bill, and Sierra:
+   Adam: 9 pies
+   Bill: 6 pies
+   Sierra: 12 pies
+   Total: 9 + 6 + 12 = 27 pies
+
+Answer: 27

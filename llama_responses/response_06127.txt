@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start with the initial thickness of the blanket, which is 3 inches.
+
+After the first fold, the blanket is folded in half, so it becomes 3 / 2 = 1.5 inches thick.
+
+After the second fold, the blanket is folded in half again, so it becomes 1.5 / 2 = 0.75 inches thick.
+
+After the third fold, the blanket is folded in half once more, so it becomes 0.75 / 2 = 0.375 inches thick.
+
+After the fourth fold, the blanket is folded in half again, so it becomes 0.375 / 2 = 0.1875 inches thick.
+
+So, the final thickness of the blanket after 4 folds is 0.1875 inches.

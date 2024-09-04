@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* In the first hour, Hazel walked 2 kilometers.
+* In the second hour, Hazel walked twice as far as in the first hour.
+* To calculate the distance walked in the second hour, we take the distance from the first hour and multiply it by 2:
+   - Distance walked in the second hour = 2 km x 2 = 4 km
+* To calculate the total distance walked in 2 hours, we add the distance from the first hour and the distance from the second hour:
+   - Total distance walked = 2 km + 4 km = 6 km
+
+Answer: 6 km

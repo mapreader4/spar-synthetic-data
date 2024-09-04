@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Each carton of ice cream contains 10 scoops
+* Mary has 3 cartons: 1 chocolate, 1 strawberry, and 1 vanilla
+* Ethan wants 1 scoop of vanilla and 1 scoop of chocolate
+* Lucas, Danny, and Connor each want 2 scoops of chocolate
+* Olivia wants 1 scoop of vanilla and 1 scoop of strawberry
+* Shannon wants twice as much as Olivia, which is 2 scoops of vanilla and 2 scoops of strawberry
+
+Now, let's calculate the total number of scoops used:
+* Ethan uses 1 vanilla and 1 chocolate = 2 scoops
+* Lucas, Danny, and Connor each use 2 chocolate scoops, so 3 x 2 = 6 scoops
+* Olivia uses 1 vanilla and 1 strawberry = 2 scoops
+* Shannon uses 2 vanilla and 2 strawberry = 4 scoops
+
+The total scoops used is 2 + 6 + 2 + 4 = 14 scoops.
+
+Each carton has 10 scoops, so 3 cartons have 30 scoops total.
+The number of scoops left is 30 - 14 = 16 scoops.
+
+Answer: 16

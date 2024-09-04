@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Michaela needs 20 oranges to get full
+* Cassandra needs twice as many oranges as Michaela to get full
+* Cassandra needs 2 x 20 = 40 oranges to get full
+* Together, Michaela and Cassandra need 20 + 40 = 60 oranges to get full
+* They picked 90 oranges from the farm today
+* To find the number of oranges remaining, we subtract the number of oranges they need to get full from the total number of oranges picked:
+* 90 oranges - 60 oranges = 30 oranges
+
+Answer: 30

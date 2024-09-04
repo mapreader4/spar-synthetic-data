@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Angie bought 3 lbs. of coffee
+* Each lb. of coffee will brew about 40 cups of coffee
+* So, the total number of cups of coffee Angie has is:
+    - 3 lbs. of coffee x 40 cups/lb. = 120 cups of coffee
+* Angie drinks 3 cups of coffee every day
+* To find how many days the coffee will last her, we divide the total number of cups by the number of cups she drinks per day:
+    - 120 cups / 3 cups per day = 40 days
+
+Answer: 40 days

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James buys 2 notebooks
+* Each notebook has 50 pages
+* So the total number of pages is 2 * 50 = 100 pages
+* James pays $5 for the 2 notebooks
+* To find the cost per page, we divide the total cost by the total number of pages:
+* $5 / 100 pages = $0.05 per page
+* Converting to cents, $0.05 per page = 5 cents per page
+
+Answer: 5

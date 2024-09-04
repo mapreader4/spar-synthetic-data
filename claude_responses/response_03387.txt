@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+* Bryan bought 3 bottles of milk
+* The first bottle contains 2 liters of milk
+* The second bottle contains 750 milliliters of milk
+* The third bottle contains 250 milliliters of milk
+* To find the total amount of milk bought, we need to convert the volumes to the same unit, which in this case will be liters.
+* 1 liter = 1000 milliliters
+* 750 milliliters = 0.75 liters
+* 250 milliliters = 0.25 liters
+* Adding up the volumes:
+* 2 liters + 0.75 liters + 0.25 liters = 3 liters
+
+Answer: 3 liters

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Identify the given information.
+
+* The cost per party is $40.
+* The number of parties is 8.
+* The number of team members is 60.
+
+Step 2: Calculate the total amount of money collected in one party.
+
+* If the cost per party is $40, then the total amount of money collected in one party is $40.
+
+Step 3: Calculate the total amount of money collected in all parties.
+
+* If the cost per party is $40, and the number of parties is 8, then the total amount of money collected in all parties is 8 x $40 = $320.
+
+Answer: 320

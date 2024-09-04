@@ -1,0 +1,7 @@
+Let's start by using the information given to us, which is that a t-shirt costs $100 and Bryan bought 5 t-shirts. So, the cost of 5 t-shirts is 5 * 100 = $500.
+
+Now, we know that Bryan also bought 4 pairs of pants. We know that the total cost of the pants is $1500. So, we can set up the equation 5 * 100 + 4 * (cost of each pair of pants) = 1500.
+
+We can subtract the cost of the 5 t-shirts from the total cost to get the cost of the pants, which is 1500 - 500 = 1000. Then, we can divide this by 4 to get the cost of each pair of pants, which is 1000 / 4 = 250.
+
+Answer: 250

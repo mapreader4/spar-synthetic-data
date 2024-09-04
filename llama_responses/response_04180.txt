@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. We know that Maria buys 1 bar of soap for 8.00 dollars.
+2. We know that the soap lasts for 2 months.
+3. We want to know how much Maria will spend on soap for the entire year.
+
+To find the total cost of soap for the entire year, we can multiply the cost per bar of soap by the number of bars of soap used in a year.
+
+There are 12 months in a year.  So, Maria uses 24 bars of soap in a year (2 months * 12).
+
+The cost of 24 bars of soap will be 24 * 8.00 = 192.00.
+
+Answer: 192.00

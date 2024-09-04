@@ -1,0 +1,49 @@
+Let's break down the problem step by step:
+
+Initially, the zoo had 68 animals.
+
+After sending a gorilla family of 6 to another zoo, the zoo has:
+
+68 - 6 = 62 animals left
+
+Then, they adopt a hippopotamus, so the total number of animals becomes:
+
+62 + 1 = 63
+
+Later, they take in 3 endangered rhinos, so the total number of animals becomes:
+
+63 + 3 = 66
+
+One of their lionesses gives birth to cubs, but we don't know how many yet, so we'll come back to that later.
+
+The zoo opens a meerkat exhibit with twice as many meerkats as they had gained lion cubs. Since we don't know how many lion cubs were born yet, we'll also come back to that later.
+
+Finally, the zoo ends up with 90 animals. We can set up an equation to represent this:
+
+x + y + 3 + 1 + z = 90
+
+where x is the number of lion cubs, y is the number of meerkats, and z is the number of animals the zoo had initially.
+
+We know that y is twice the number of lion cubs, so we can substitute 2x for y:
+
+x + 2x + 3 + 1 = 90
+
+Combine like terms:
+
+3x + 4 = 90
+
+Subtract 4 from both sides:
+
+3x = 86
+
+Divide both sides by 3:
+
+x = 28.67
+
+Since we can't have a fraction of a lion, we round up to the nearest whole number:
+
+x = 29
+
+So, 29 lion cubs were born at the zoo.
+
+Answer: 29

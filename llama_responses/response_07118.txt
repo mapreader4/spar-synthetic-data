@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of white roses needed for the table decorations. Each table decoration requires 12 white roses. Since there are 7 table decorations, the total number of white roses needed for the table decorations is 7 x 12 = 84.
+
+Next, let's find the total number of white roses needed for the bouquets. Each bouquet requires 5 white roses, and there are 5 bouquets, so the total number of white roses needed for the bouquets is 5 x 5 = 25.
+
+To find the total number of white roses needed in total, we add the number of white roses needed for the table decorations to the number of white roses needed for the bouquets. The total number of white roses needed is 84 + 25 = 109.

@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* Jerry won 7 games
+* Dave won 3 more games than Jerry, so Dave won 7 + 3 = 10 games
+* Ken won 5 more games than Dave, so Ken won 10 + 5 = 15 games
+
+Now, to find the total number of games they played, we add up the number of games won by each player:
+* Total games = Jerry's games + Dave's games + Ken's games
+* Total games = 7 + 10 + 15 = 32
+
+Answer: 32

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1) In the first competition, the team won 40 games.
+2) In the second competition, they won 5/8 times as many games as they won in the first competition.
+   * 5/8 of 40 games = 5/8 * 40 = 25 games
+3) In the third competition, they won the same number of games as the sum of the first and second competition winnings.
+   * First competition winnings: 40 games
+   * Second competition winnings: 25 games
+   * Sum of first and second competition winnings: 40 + 25 = 65 games
+   * Therefore, they won 65 games in the third competition.
+
+Now, we can calculate the total number of wins they had in the three competitions:
+* Total wins = First competition wins + Second competition wins + Third competition wins
+* Total wins = 40 + 25 + 65 = 130 games
+
+Answer: 130

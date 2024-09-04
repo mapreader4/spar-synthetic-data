@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Each student needs 1 bow, 1 bottle of vinegar, and 1 box of baking soda
+* Bows cost $5 each
+* Bottles of vinegar cost $2 each
+* Boxes of baking soda cost $1 each
+* The teacher has 23 students in the class
+
+To calculate the total cost, we need to:
+1. Calculate the cost of the bows for all 23 students
+   * 23 students x $5 per bow = $115
+2. Calculate the cost of the bottles of vinegar for all 23 students
+   * 23 students x $2 per bottle = $46
+3. Calculate the cost of the boxes of baking soda for all 23 students
+   * 23 students x $1 per box = $23
+4. Add up the costs of the bows, vinegar, and baking soda
+   * $115 + $46 + $23 = $184
+
+Answer: $184

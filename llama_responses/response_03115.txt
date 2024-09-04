@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by finding one-fourth of the total number of beans, which is 572 divided by 4, which is 143. That leaves 572 - 143 = 429 beans.
+
+Now, one-third of the remaining 429 beans are white, so 429 / 3 = 143 are white beans.
+
+Then, half of the remaining 286 beans are green, so 286 / 2 = 143 are green beans.
+
+So, there are 143 green beans.

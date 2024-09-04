@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+The house has three bedrooms, and the client wants each bedroom painted a different color. This means Bill will need three cans of color paint, one for each bedroom.
+
+The house also has twice as many other rooms as bedrooms, which means it has 3 x 2 = 6 other rooms. These rooms will be painted white, so Bill will need 6 cans of white paint.
+
+Each room takes 2 gallons of paint, so Bill will need 3 (bedrooms) x 2 (gallons per room) + 6 (other rooms) x 2 (gallons per room) = 18 gallons of paint.
+
+Color paint comes in 1-gallon cans, so Bill will need 18 (gallons) / 1 (gallon per can) = 18 cans of color paint.
+
+White paint comes in 3-gallon cans, so Bill will need 6 (cans of white paint) x 3 (gallons per can) = 18 gallons of white paint. Since white paint comes in 3-gallon cans, Bill will need 18 (gallons) / 3 (gallons per can) = 6 cans of white paint.
+
+In total, Bill will need 18 (cans of color paint) + 6 (cans of white paint) = 24 cans of paint.
+
+Answer: 24

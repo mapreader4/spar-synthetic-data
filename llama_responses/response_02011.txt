@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by determining how many tokens each game costs. The problem states that each game costs 2 tokens, and Oliver wants his friends to play 60 games each. So, the total number of tokens needed for 60 games is 60 * 2 = 120.
+
+Next, we need to find out how much this will cost. The problem states that game tokens cost 30 for $1, so the cost of 120 tokens is 30 * 4 = 120 * 0.25 = 30.
+
+Answer: 30

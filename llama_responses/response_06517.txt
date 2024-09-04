@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Find the number of steps Mabel lives east of the school. Mabel lives 4500 steps east of the school.
+
+Step 2: Find the number of steps Helen lives west of the school. Helen lives 3/4 the number of steps Mabel lives east of the school. So, Helen lives (4500 / 4) steps west of the school.
+
+Step 3: Calculate the total number of steps Mabel will walk to visit Helen. Mabel lives 4500 steps east of the school, and Helen lives (4500 / 4) steps west of the school. The total number of steps Mabel will walk is the sum of these two distances, which is:
+
+4500 + (4500 / 4) = 1125 steps.
+
+Answer: 1125

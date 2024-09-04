@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Lyra has a weekly food budget of $80
+* She bought:
+  - 1 bucket of fried chicken that costs $12
+  - 5 pounds of beef that cost $3 per pound
+* To calculate the cost of the beef:
+  - 5 pounds of beef at $3 per pound = 5 x $3 = $15
+* So the total amount Lyra spent is:
+  - Fried chicken: $12
+  - Beef: $15
+  - Total: $12 + $15 = $27
+* Now, to calculate how much is left on her weekly budget:
+  - Lyra's weekly budget: $80
+  - Amount spent: $27
+  - Amount left: $80 - $27 = $53
+
+Answer: $53

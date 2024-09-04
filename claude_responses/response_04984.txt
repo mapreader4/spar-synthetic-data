@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* 5 years ago, Joan had 3 times as much experience as Bill
+* Let's call Bill's experience 5 years ago as x
+* Then, Joan's experience 5 years ago was 3x
+* Now, Joan has twice as much experience as Bill
+* Let's call Bill's experience now as y
+* Then, Joan's experience now is 2y
+* We know that 5 years ago, Joan had 3x experience, and now she has 2y experience
+* So, 2y = 3x + 5 (since 5 years have passed)
+* Rearranging, we get y = (3x + 5)/2
+* We also know that Bill's experience has increased by 5 years, so y = x + 5
+* Substituting this into the previous equation, we get:
+* (3x + 5)/2 = x + 5
+* Solving for x, we get:
+* 3x + 5 = 2x + 10
+* x = 5
+* Therefore, Bill's experience now is y = x + 5 = 5 + 5 = 10 years
+
+Answer: 10

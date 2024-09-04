@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Each member baked 10 sheets of cookies.
+2. Each sheet has 16 cookies.
+3. To find the total number of cookies, we need to multiply the number of sheets by the number of cookies per sheet.
+
+So, we multiply 10 sheets by 16 cookies per sheet:
+
+10 * 16 = 160
+
+Answer: 160

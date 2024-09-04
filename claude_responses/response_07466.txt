@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+1. Clarinet lessons:
+   * Janet pays $40 per hour
+   * She has 3 hours of clarinet lessons per week
+   * So, the weekly cost of clarinet lessons is:
+     * $40 per hour x 3 hours per week = $120 per week
+
+2. Piano lessons:
+   * Janet pays $28 per hour
+   * She has 5 hours of piano lessons per week
+   * So, the weekly cost of piano lessons is:
+     * $28 per hour x 5 hours per week = $140 per week
+
+3. Calculating the yearly cost:
+   * There are 52 weeks in a year
+   * Clarinet lessons yearly cost:
+     * $120 per week x 52 weeks = $6,240 per year
+   * Piano lessons yearly cost:
+     * $140 per week x 52 weeks = $7,280 per year
+
+4. Calculating the difference:
+   * Piano lessons yearly cost: $7,280
+   * Clarinet lessons yearly cost: $6,240
+   * Difference: $7,280 - $6,240 = $1,040
+
+Answer: $1,040

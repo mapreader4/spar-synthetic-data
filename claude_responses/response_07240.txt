@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* Roberto buys 4 chickens for $20 each, so the total cost of the chickens is 4 x $20 = $80
+* The chickens cost $1 per week to feed
+* Each chicken produces 3 eggs per week, so the 4 chickens produce 4 x 3 = 12 eggs per week
+* Roberto used to buy 1 dozen (12) eggs per week for $2 per dozen
+* To find out how many weeks it will take for the chickens to be cheaper than buying eggs, we need to compare the cost of the chickens and their feed to the cost of buying eggs.
+
+The cost of the chickens and their feed per week is:
+* $1 (feed) x 4 (chickens) = $4 per week
+
+The cost of buying 12 eggs per week is:
+* $2 per dozen
+
+So, the chickens will be cheaper than buying eggs when the cost of the chickens and their feed is less than the cost of buying eggs.
+
+To find the number of weeks, we can divide the total cost of the chickens ($80) by the weekly savings (cost of eggs - cost of feed):
+* Weekly savings = $2 (cost of eggs) - $4 (cost of feed) = -$2
+* Number of weeks = $80 / -$2 = -40 weeks
+
+Since the number of weeks cannot be negative, we can conclude that the chickens will never be cheaper than buying eggs.
+
+Answer: The chickens will never be cheaper than buying eggs.

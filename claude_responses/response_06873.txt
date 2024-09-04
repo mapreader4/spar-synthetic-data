@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Betty's herb garden has 2 more than twice as many oregano plants as basil plants
+* There are 5 basil plants
+* To find the number of oregano plants, we first need to find twice the number of basil plants:
+    - 2 x 5 basil plants = 10 oregano plants
+* Then, we add 2 to get the total number of oregano plants:
+    - 10 oregano plants + 2 = 12 oregano plants
+* Now, to find the total number of plants in the garden, we add the number of basil plants and the number of oregano plants:
+    - 5 basil plants + 12 oregano plants = 17 total plants
+
+Answer: 17

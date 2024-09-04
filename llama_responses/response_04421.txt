@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of money Patricia has. Since Patricia has "x" amount of money, and Lisa has five times Patricia's money, that means Lisa has 5x. Since Lisa has double Charlotte's money, and Charlotte has x as well, that means Charlotte has x/2.
+
+Now, let's add up the total amount of money Patricia, Lisa, and Charlotte have together. We know Lisa has 5x, and Charlotte has x/2, so Lisa has 5x and Charlotte has x/2. We can combine these amounts by multiplying 5 by x and adding it to x, so the total is 6x. Then, we add Patricia's x to the total, so the grand total is 7x.
+
+Now, the rare baseball card costs $100, so we need to find the value of 7x that is equal to $100. To do this, we can divide $100 by 7, which gives us x = $100 / 7 = 14.25. However, the problem states that the money is in whole numbers, so we need to round down 14.25 to 14.
+
+Answer: 14

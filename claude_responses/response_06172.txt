@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jimmy starts with 18 cards.
+2) Jimmy gives 3 cards to Bob.
+3) Jimmy gives Mary twice as many cards as he gave to Bob. Since he gave Bob 3 cards, he gives Mary 2 x 3 = 6 cards.
+4) Now we need to calculate how many cards Jimmy has left. He started with 18 cards, gave away 3 to Bob and 6 to Mary, so the number of cards he has left is:
+18 - 3 - 6 = 9 cards.
+
+Answer: 9

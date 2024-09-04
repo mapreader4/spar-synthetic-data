@@ -1,0 +1,3 @@
+Let's start by finding the number of flies eaten by each of the animals.
+
+Each frog eats 30 flies per day. If there are 9 gharials, then each gharial eats 15 fish per day. Each fish eats 8 frogs per day. Since each frog eats 30 flies per day, we can conclude that 30 / 8 = 3.75 fish are eaten by each frog. Each frog eats 3.75 fish per day. Since there are 9 gharials, the total number of fish eaten by the gharials is 9 * 3.75 = 33.75. However, since we can't eat a fraction of a fish, we round this number down to the nearest whole number. So, the answer is 34.

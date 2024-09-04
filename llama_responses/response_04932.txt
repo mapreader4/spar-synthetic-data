@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+First, let's find the total revenue from the tickets:
+
+* Matinee tickets: 32 customers * $5 = $160
+* Evening tickets: 40 customers * $7 = $280
+* Opening night tickets: 58 customers * $10 = $580
+Total ticket revenue: $160 + $280 + $580 = $1,020
+
+Now, let's find the number of customers who bought popcorn. Since half of the customers bought popcorn, we know that 50% of the total customers bought popcorn. The total number of customers is 32 + 40 + 58 = 130. So, 50% of 130 is 65.
+
+Let's calculate the revenue from popcorn:
+
+* 65 customers * $10 = $650
+
+Now, let's add the revenue from tickets and popcorn:
+
+$1,020 (ticket revenue) + $650 (popcorn revenue) = $1,670
+
+Answer: 1670

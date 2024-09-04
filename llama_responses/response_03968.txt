@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by using the information given: "When she was done, she had three times as many white eggs as brown eggs."
+
+This means that if she had x brown eggs, she had 3x white eggs. Let's say x = y, then 3y = x, or 3x = x.
+
+Now, let's use the information that "she only had a dozen eggs left". A dozen is equal to 12, so 12 = x.
+
+We can now set up an equation: 3x = 12. To solve for x, we can divide both sides by 3, which gives us x = 4.
+
+So, Linda had 4 brown eggs.

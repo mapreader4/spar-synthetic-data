@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) Initially, there were 20 red balloons and 15 green balloons.
+2) Before the party started, 3 red and 2 green balloons burst.
+3) To calculate the number of red balloons left, we take the initial 20 red balloons and subtract the 3 that burst: 20 - 3 = 17 red balloons left.
+4) To calculate the number of green balloons left, we take the initial 15 green balloons and subtract the 2 that burst: 15 - 2 = 13 green balloons left.
+5) To get the total number of balloons left, we add the number of red and green balloons: 17 + 13 = 30 balloons left.
+
+Answer: 30

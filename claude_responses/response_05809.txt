@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each crate can hold up to 20kg
+* Daryl has 15 crates he can fill
+* So the total weight capacity of the 15 crates is:
+  - 15 crates x 20kg per crate = 300kg
+* Daryl has:
+  - 4 bags of nails, each weighing 5kg, for a total of 4 x 5kg = 20kg
+  - 12 bags of hammers, each weighing 5kg, for a total of 12 x 5kg = 60kg
+  - 10 bags of wooden planks, each weighing 30kg, for a total of 10 x 30kg = 300kg
+* The total weight of the items Daryl has is:
+  - 20kg + 60kg + 300kg = 380kg
+* The total weight capacity of the crates is 300kg
+* Therefore, the amount Daryl will have to leave out is:
+  - 380kg - 300kg = 80kg
+
+Answer: 80

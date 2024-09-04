@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Nadia makes 3 mistakes per 40 notes. This means that for every 40 notes, she makes 3 mistakes.
+2. If she can play 60 notes in 1 minute, then she can play 60 / 1 = 60 notes in 1 minute.
+3. If she can play 60 notes in 1 minute, then in 8 minutes, she can play 8 * 60 = 480 notes.
+4. She makes 3 mistakes per 40 notes. So, in 480 notes, she will make 480 / 40 = 12 mistakes.
+
+Answer: 12

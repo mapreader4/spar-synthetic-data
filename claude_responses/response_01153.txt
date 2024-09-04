@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* John gets his pool cleaned every 3 days
+* The cost of the cleaning is $150 each time
+* He gives a 10% tip each time the pool is cleaned
+* He needs to use $200 of chemicals twice a month
+
+First, let's calculate the cost of the cleaning and tip per month:
+* There are 30 days in a month
+* John gets his pool cleaned every 3 days, so that's 10 times a month
+* The cost of the cleaning is $150 each time
+* The 10% tip is $15 each time
+* So the total cost of the cleaning and tip per month is:
+  * 10 x ($150 + $15) = 10 x $165 = $1,650
+
+Next, let's calculate the cost of the chemicals per month:
+* John needs to use $200 of chemicals twice a month
+* So the total cost of the chemicals per month is:
+  * 2 x $200 = $400
+
+Now, let's add up the total cost per month:
+* Cost of cleaning and tip per month: $1,650
+* Cost of chemicals per month: $400
+* Total cost per month: $1,650 + $400 = $2,050
+
+Answer: $2,050

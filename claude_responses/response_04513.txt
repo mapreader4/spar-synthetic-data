@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Bronson buys apples from farmers at $12 per bushel
+* Each bushel contains 48 apples
+* So the cost per apple is $12 / 48 = $0.25 per apple
+* Bronson sells the apples to the stores at $0.40 per apple
+* He sold 100 apples
+* The total revenue from selling 100 apples is 100 * $0.40 = $40
+* The total cost of buying 100 apples is 100 * $0.25 = $25
+* The profit is the difference between the revenue and the cost
+* Profit = Revenue - Cost
+* Profit = $40 - $25 = $15
+
+Answer: $15

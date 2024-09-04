@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Georgia makes 6 muffins in one batch.  She has 24 students.  To find out how many batches she needs, we need to divide the number of students by the number of muffins made per batch.
+
+24 students / 6 muffins per batch = 4 batches
+
+Georgia needs 4 batches to make muffins for all of her students.
+
+Answer: 4

@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say the number of boxes Marissa ties is x.
+
+Marissa uses 0.7 feet of ribbon to tie each box, so the total amount of ribbon used will be 0.7x.
+
+The total amount of ribbon used is equal to the total number of boxes times the amount of ribbon used per box, which is 0.7.
+
+We know that Marissa has 4.5 feet of ribbon, so the total amount of ribbon used is 0.7x = 4.5.
+
+We can solve for x by dividing both sides by 0.7:
+
+0.7x = 4.5
+
+x = 4.5 / 0.7
+
+x = 6
+
+Answer: 6

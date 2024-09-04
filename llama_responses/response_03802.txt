@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find out how much Claire will spend on her daily coffee and pastry. The latte costs $3.75 and the croissant costs $3.50, so the total daily cost is $3.75 + $3.50 = $7.25.
+
+Since Claire wants to buy this every day for a week, we need to multiply the daily cost by 7. So, the total cost for a week is $7.25 x 7 = $50.75.
+
+Next, Claire also wants to buy 5 cookies that cost $1.25 each. So, the total cost of the cookies is 5 x $1.25 = $6.25.
+
+To find out how much money will be left on her card after a week, we need to subtract the total cost of the coffee, pastry, and cookies from the original amount of $100. So, we have:
+
+$100 - $50.75 - $6.25 = $43.00
+
+Answer: 43

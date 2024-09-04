@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by finding the number of crayons produced in one hour. Since the factory produces 2 crayons of each color per box, and there are 4 colors, the number of crayons produced in one hour is 2 * 4 = 8.
+
+Now, to find the number of crayons produced in 4 hours, we need to multiply the number of crayons produced in one hour by 4. So, 8 * 4 = 32.
+
+Answer: 32

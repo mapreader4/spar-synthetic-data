@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. Nathan planted 5 strawberry plants and 7 tomato plants, which means he has a total of 5 + 7 = 12 plants.
+
+2. He harvested 14 strawberries from each strawberry plant, which means he harvested 14 x 5 = 70 strawberries. He also harvested 16 tomatoes from each tomato plant, which means he harvested 16 x 7 = 112 tomatoes.
+
+3. He distributed the strawberries and tomatoes into baskets of 7. This means that he has 70 strawberries / 7 = 10 baskets of strawberries and 112 tomatoes / 7 = 16 baskets of tomatoes.
+
+4. He sold a basket of strawberries for $9 and a basket of tomatoes for $6. This means that he sold 10 baskets of strawberries for $9 x 9 = $90 and 16 baskets of tomatoes for $6 x 6 = $36.
+
+5. To find out how much money Nathan made from his harvest, we add the money he made from selling strawberries and tomatoes: $90 + $36 = $126.
+
+Answer: 126

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Don throws 3 darts
+* One dart is a bullseye worth 50 points
+* One dart completely missed the target, so it received 0 points
+* The third dart was worth half the points of the bullseye
+
+To calculate the final score:
+* Bullseye worth 50 points
+* Third dart worth half of 50 points, which is 25 points
+* Total points = 50 + 0 + 25 = 75 points
+
+Answer: 75

@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The bus leaves the station every half-hour, which means there are 2 buses per hour.
+2) The station is open for 12 hours a day.
+3) So in 1 day, there are 2 buses per hour x 12 hours = 24 buses that leave the station.
+4) The question asks for the number of buses that leave the station for 5 days.
+5) So we take the number of buses per day (24) and multiply it by the number of days (5).
+6) 24 buses per day x 5 days = 120 buses.
+
+Answer: 120

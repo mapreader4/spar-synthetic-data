@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The school has a total of 80 students
+* 40% of the students are in class A
+* To find the number of students in class A, we take 40% of the total students:
+    * 40% of 80 = 0.4 * 80 = 32 students in class A
+* Class B has 21 students fewer than class A
+    * So, class B has 32 - 21 = 11 students
+* The remaining students must be in class C
+    * To find the number of students in class C, we subtract the students in class A and B from the total:
+    * 80 - 32 - 11 = 37 students in class C
+
+Answer: 37

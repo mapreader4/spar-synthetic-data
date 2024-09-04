@@ -1,0 +1,16 @@
+Let's break this problem down step by step:
+
+1. We know that Jolyn is 2 months older than Therese, so Jolyn's age is 2 months more than Therese's age.
+2. We know that Therese is 5 months older than Aivo, so Therese's age is 5 months more than Aivo's age.
+3. We know that Leon is 2 months older than Aivo, so Leon's age is 2 months more than Aivo's age.
+
+Now, let's find Jolyn's age by adding the differences:
+
+Jolyn's age = Therese's age + 2 months
+Therese's age = Aivo's age + 5 months
+Therese's age = Aivo's age + 5 months
+Jolyn's age = (Aivo's age + 5 months) + 2 months
+
+Jolyn's age = Aivo's age + 7 months
+
+So, Jolyn is 7 months older than Aivo.

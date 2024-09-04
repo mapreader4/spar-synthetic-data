@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Step 1: Identify the given information. We know that the triangle is a right triangle, which means that one angle is 90 degrees. We also know the base and height of the triangle, which are 4 inches and 3 inches respectively.
+
+Step 2: Use the Pythagorean theorem to find the length of the hypotenuse. The Pythagorean theorem states that the square of the hypotenuse is equal to the sum of the squares of the base and height, minus the product of the base and height.
+
+Step 3: Plug in the values given into the equation. The equation would be:
+
+√(4^2 + 3^2) = c^2
+
+Step 4: Simplify the equation by simplifying the squared values.
+
+4^2 = 16
+3^2 = 9
+
+Step 5: Add the two squared values together:
+
+16 + 9 = 25
+
+Step 6: Take the square root of both sides of the equation.
+
+√25 = 5
+
+Answer: 5

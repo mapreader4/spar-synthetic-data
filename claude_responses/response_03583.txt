@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+* The high school football field is measured in square meters
+* Each square meter needs three times as much seed as fertilizer
+* Carson uses 60 gallons of seed and fertilizer combined
+
+Let's define the variables:
+* Let x = the number of gallons of seed used
+* Let y = the number of gallons of fertilizer used
+
+We know that the total amount of seed and fertilizer used is 60 gallons, so:
+* x + y = 60
+
+We also know that each square meter needs three times as much seed as fertilizer, so:
+* x = 3y
+
+Substituting the second equation into the first equation, we get:
+* 3y + y = 60
+* 4y = 60
+* y = 15
+
+Now, we can solve for x:
+* x = 3y
+* x = 3(15)
+* x = 45
+
+Therefore, the amount of seed used by Carson is:
+Answer: 45 gallons

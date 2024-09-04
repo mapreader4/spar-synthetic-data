@@ -1,0 +1,7 @@
+To solve this problem, we need to first find the total number of minutes in a two-hour period. Since each hour is 60 minutes long, there are 120 minutes in a two-hour period.
+
+The problem states that every ten minutes during sunset, the sky changes to a new color. So, we need to divide the total number of minutes by 10 to find the number of times the sky changes color. 120 minutes divided by 10 is 12.
+
+So, the answer is:
+
+Answer: 12

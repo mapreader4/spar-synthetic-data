@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. The first cooler is 100 liters.
+2. The second cooler is 50% bigger than the first one. That means the second cooler is 150 liters (100 liters + 50% of 100 liters).
+3. The third cooler is half the size of the second one. That means the third cooler is 75 liters (150 liters / 2).
+
+Now, to find the total water they can hold, we add up the volumes of the three coolers:
+100 liters + 150 liters + 75 liters = 325 liters
+
+Answer: 325

@@ -1,0 +1,15 @@
+Let's start by identifying the information given in the problem.
+
+The problem states that the movie theater sold 18 more tickets to the horror movie than the number of tickets it sold to the romance movie. It also states that the number of tickets sold to the romance movie is 25.
+
+We can let's say the number of tickets sold to the romance movie be x. Then, the number of tickets sold to the horror movie will be x + 18.
+
+We can set up an equation to represent this:
+
+x + 18 = 25
+
+To solve for x, we can subtract 18 from both sides of the equation:
+
+x = 7
+
+So, the number of tickets sold to the horror movie is 7.

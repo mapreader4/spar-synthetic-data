@@ -1,0 +1,16 @@
+Let's break it down step by step.
+
+Let's start by identifying the given information:
+
+* Bert uses up a pencil to fill out the puzzles every two weeks.
+* It takes him 1050 words to use up a pencil.
+
+Since Bert uses a pencil every two weeks, we know that the number of words in each puzzle is not fixed. However, we can find the average number of words in each puzzle by dividing the total number of words (1050) by the number of puzzles Bert uses per two weeks.
+
+Let's do that:
+
+1050 words / 2 = 525 words per puzzle.
+
+So, the answer is:
+
+Answer: 525

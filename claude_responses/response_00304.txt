@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+
+1. Calculate the total water needed for Farmer Bob's farm:
+   * Corn: 3 acres x 20 gallons/acre = 60 gallons
+   * Cotton: 9 acres x 80 gallons/acre = 720 gallons
+   * Beans: 12 acres x (2 x 20 gallons/acre) = 480 gallons
+   * Total for Farmer Bob: 60 + 720 + 480 = 1,260 gallons
+
+2. Calculate the total water needed for Farmer Brenda's farm:
+   * Corn: 6 acres x 20 gallons/acre = 120 gallons
+   * Cotton: 7 acres x 80 gallons/acre = 560 gallons
+   * Beans: 14 acres x (2 x 20 gallons/acre) = 560 gallons
+   * Total for Farmer Brenda: 120 + 560 + 560 = 1,240 gallons
+
+3. Calculate the total water needed for Farmer Bernie's farm:
+   * Corn: 2 acres x 20 gallons/acre = 40 gallons
+   * Cotton: 12 acres x 80 gallons/acre = 960 gallons
+   * Beans: 0 acres (not mentioned), so 0 gallons
+   * Total for Farmer Bernie: 40 + 960 + 0 = 1,000 gallons
+
+4. Calculate the total water needed for all three farms:
+   * Total water needed = 1,260 + 1,240 + 1,000 = 3,500 gallons
+
+5. Calculate the percentage of total water used by Farmer Bob's farm:
+   * Percentage = (Farmer Bob's water usage / Total water usage) x 100
+   * Percentage = (1,260 / 3,500) x 100 = 36%
+
+Answer: 36%

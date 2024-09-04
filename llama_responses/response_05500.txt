@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, Perry received $200 in gift cards that he can use towards the set. This means he will need to pay $2000 - $200 = $1800 for the set.
+
+Next, the store is offering the entire set at 15% off. To find the discount, I'll multiply the original price by the discount percentage:
+
+$1800 x 0.15 = $270
+
+So, the discount is $270. The price of the set after the 15% discount is:
+
+$1800 - $270 = $1530
+
+Now, if Perry signs up for the store credit card and uses it to buy the set, he will save an additional 10% off on the discounted set. To find this discount, I'll multiply the discounted price by the discount percentage:
+
+$1530 x 0.10 = $153
+
+So, the additional discount is $153. The final price of the set is:
+
+$1530 - $153 = $1377
+
+Answer: 1377

@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+First, let's find the total cost of the ingredients Laura needs to buy:
+
+* Flour: 2 cups x $4 per cup = $8
+* Sugar: 2 cups x $2 per cup = $4
+* Butter: 1 cup x $2.5 per cup = $2.5
+* Eggs: 2 eggs x $.5 per egg = $1
+
+Total cost of ingredients: $8 + $4 + $2.5 + $1 = $15.5
+
+Now, let's find the total cost of the cake. Since Laura cuts the cake into 6 slices, and her mother enjoys a slice for two days, that means she eats 2 slices. The rest of the cake, which is 4 slices, is eaten by Kevin, the dog.
+
+The total cost of the cake is the total cost of the ingredients, which is $15.5.
+
+Answer: 15

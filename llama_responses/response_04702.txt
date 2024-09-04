@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Kelly held her breath underwater for 3 minutes, which is equal to 3 x 60 = 180 seconds.
+* Brittany held her breath underwater for 20 seconds less than Kelly did, so Brittany held her breath for 180 - 20 = 160 seconds.
+* Buffy held her breath underwater for 40 seconds less than Brittany did, so Buffy held her breath for 160 - 40 = 120 seconds.
+
+Answer: 120

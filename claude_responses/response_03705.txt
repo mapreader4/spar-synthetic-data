@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) We have a group of 10 students, 5 girls and 5 boys.
+2) The average weight of the 5 girls is 45 kg.
+3) The average weight of the 5 boys is 55 kg.
+4) To find the average weight of the 10 students, we need to find the total weight of all 10 students and divide it by 10.
+5) The total weight of the 5 girls is 5 * 45 kg = 225 kg.
+6) The total weight of the 5 boys is 5 * 55 kg = 275 kg.
+7) The total weight of all 10 students is 225 kg + 275 kg = 500 kg.
+8) The average weight of the 10 students is 500 kg / 10 = 50 kg.
+
+Answer: 50

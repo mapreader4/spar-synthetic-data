@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jess has to walk 11 blocks to the store
+* Then she has to walk 6 blocks to the gallery
+* Finally, she has to walk 8 blocks to arrive at work
+* So the total number of blocks Jess has to walk is 11 + 6 + 8 = 25 blocks
+* Jess has already walked 5 blocks
+* Therefore, the number of blocks Jess has left to walk is 25 - 5 = 20 blocks
+
+Answer: 20

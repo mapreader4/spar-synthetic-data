@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of pots that did not crack. 2/5 of the pots cracked, which means that 2/5 of 80 pots cracked. To find the number of pots that cracked, we can multiply 2 by 80 to get 2/5 * 80 = 32 pots.
+
+So, the number of pots that did not crack is 80 - 32 = 48.
+
+Cheyenne sold the remaining 48 pots at $40 per pot. To find the total amount of money she made, we can multiply 48 by 40. 48 * 40 = 1920.
+
+Answer: 1920

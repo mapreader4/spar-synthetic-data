@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tony bought 3 sets of Lego blocks, each costing $250
+* So the total cost of the Lego blocks is 3 * $250 = $750
+* Tony bought 7 toy swords, each costing $120
+* So the total cost of the toy swords is 7 * $120 = $840
+* Tony bought 10 play doughs, each costing $35
+* So the total cost of the play doughs is 10 * $35 = $350
+* To calculate the total amount Tony paid, we add up the costs of the Lego blocks, toy swords, and play doughs:
+* $750 + $840 + $350 = $1,940
+
+Answer: $1,940

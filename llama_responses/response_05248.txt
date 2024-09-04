@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. John can originally squat 135 pounds.
+2. He increases that by 265 pounds, so now he can squat 135 + 265 = 400 pounds.
+3. Then, he gets a magical strength-increasing bracer that increases his strength by 600%.
+4. So, the bracer multiplies his strength by 1.6, which is 400 * 1.6 = 640 pounds.
+
+Answer: 640

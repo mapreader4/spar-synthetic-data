@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 5 shirts in total
+* 3 of the shirts cost $15 each
+* The remaining 2 shirts cost $20 each
+* To calculate the total cost, we need to add up the cost of the 3 shirts at $15 each and the cost of the 2 shirts at $20 each.
+
+Cost of the 3 shirts at $15 each:
+* 3 shirts x $15 per shirt = $45
+
+Cost of the 2 shirts at $20 each:
+* 2 shirts x $20 per shirt = $40
+
+Total cost of all 5 shirts:
+* $45 + $40 = $85
+
+Answer: $85

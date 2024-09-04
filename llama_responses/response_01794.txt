@@ -1,0 +1,35 @@
+Let's start by using the given information. We know that Joshua's share is thrice as much as Justin's, so we can set up an equation.
+
+Let Joshua's share be represented by the variable x. Let Justin's share be represented by the variable y. We know that Joshua's share is thrice as much as Justin's, so we can set up the equation:
+
+x = 3y
+
+We are given that Joshua and Justin shared $40, so we can set up the equation:
+
+x + y = 40
+
+Since we know that x is thrice as much as y, we can substitute the equation:
+
+x = 3y
+
+So, we can substitute x with 3y into the equation x + y = 40:
+
+3y + y = 40
+
+Now we can solve for y:
+
+y = (40 - 3y) / 3
+
+To find Joshua's share, we need to find the value of y. We can do this by subtracting 3y from both sides of the equation:
+
+y = (40 - 3y) / 3
+
+y = 40 / 3
+
+y = 13.33
+
+So, Joshua's share is 3 * y, which is:
+
+3 * 13.33 = 39.99
+
+Answer: 39

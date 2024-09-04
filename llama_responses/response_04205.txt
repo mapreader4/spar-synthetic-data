@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's say the number of fish-eater birds Cohen saw on the first day is x.
+
+On the second day, the number of fish-eater birds doubled. So, the number of fish-eater birds Cohen saw on the second day is 2x.
+
+On the third day, the number of fish-eater birds reduced by 200. So, the number of fish-eater birds Cohen saw on the third day is 2x - 200.
+
+We know that the total number of fish-eater birds Cohen saw is the sum of the number of fish-eater birds on the first day, the second day, and the third day. So, we can write the equation:
+
+x + 2x - 200 = 300 + 300
+
+We can solve this equation by adding 300 to both sides:
+
+x + 2x - 200 = 300 + 300
+
+x + 2x = 600 - 200
+
+x + 2x = 400
+
+Now, we can solve for x by dividing both sides by 2:
+
+x = 400 / 2
+
+x = 200
+
+So, the answer is 200.
+
+Answer: 200

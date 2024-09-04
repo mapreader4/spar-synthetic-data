@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The garden produced 237 potatoes.
+2) The garden produced 60 fewer cucumbers than potatoes. So, the number of cucumbers is 237 - 60 = 177.
+3) The garden produced twice as many peppers as cucumbers. So, the number of peppers is 2 * 177 = 354.
+4) To find the total number of vegetables produced, we add the number of potatoes, cucumbers, and peppers:
+237 + 177 + 354 = 768.
+
+Answer: 768

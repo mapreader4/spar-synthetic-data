@@ -1,0 +1,11 @@
+Let's start by using a variable for the time it took Dawn to wash the dishes. Let's call this variable D. We are given that it took Dawn 20 minutes to wash the dishes, so we can represent this as the equation D = 20.
+
+We are also given that it took Andy more than two times the number of minutes it took Dawn to wash the dishes. So we can represent this as 2D. We are also given that it took Andy six minutes more than two times the number of minutes it took Dawn to wash the dishes. So we can write this as 2D + 6.
+
+We can represent this as an equation: 2D + 6 = D + 6. We know that D = 20, so we can substitute this into the equation to get 2D + 6 = 20 + 6. We can solve for D by subtracting 20 from both sides of the equation: 2D + 6 = 26.
+
+This gives us D = 8. We are asked to find the number of minutes it took Andy to put away the laundry. We are given that Andy took more minutes than two times the number of minutes it took Dawn to wash the dishes. So we can represent this as 2D. We are also given that Andy took six minutes more than two times the number of minutes it took Dawn to wash the dishes. So we can write this as 2D + 6.
+
+We can represent this as an equation: 2D + 6 = D + 6. We know that D = 8, so we can substitute this into the equation to get 2D + 6 = 14.
+
+We can solve for D by subtracting 8 from both sides of the equation: 2D + 6 = 14 - 8. This gives us D = 6. So it took Andy 6 minutes to put away the laundry.

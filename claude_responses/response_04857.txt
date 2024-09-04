@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 6 peregrine falcons and 40 pigeons nesting in Malcolm's skyscraper.
+2) Each pigeon has 6 chicks.
+3) To find the total number of pigeons, we add the 40 adult pigeons to the number of chicks:
+   40 adult pigeons + (40 pigeons x 6 chicks per pigeon) = 40 + 240 = 280 pigeons
+4) The peregrine falcons eat 30% of the pigeons.
+5) 30% of 280 pigeons is 0.3 x 280 = 84 pigeons.
+6) The number of pigeons left is the total number of pigeons (280) minus the number of pigeons eaten by the peregrine falcons (84).
+
+Answer: 196 pigeons

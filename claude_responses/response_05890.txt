@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Laura's house is a 20-mile round trip from her school
+* The supermarket is 10 miles farther away from the school
+* So the supermarket is 20 + 10 = 30 miles away from Laura's house
+* Laura drives to school every morning
+* That's a 20-mile round trip, 5 days a week
+* So the distance she drives to school per week is 20 miles x 5 days = 100 miles
+* Laura also drives to the supermarket two afternoons a week
+* That's a 30-mile round trip, 2 days a week
+* So the distance she drives to the supermarket per week is 30 miles x 2 days = 60 miles
+* The total distance Laura drives per week is the sum of the distances to school and the supermarket:
+* 100 miles + 60 miles = 160 miles
+
+Answer: 160 miles

@@ -1,0 +1,11 @@
+Let's start by calculating the total number of balloons they have initially.
+
+Brooke has 12 balloons, and Tracy has 6 balloons.
+
+If they add the balloons together, they have 12 + 6 = 18 balloons in total.
+
+Then, Tracy pops half of her balloons. Half of 6 balloons is 6 / 2 = 3 balloons.
+
+So, Brooke has 12 balloons and Tracy has 15 balloons in total, and Tracy pops 3 balloons. So, they have 12 + 12 - 3 = 21 balloons in total.
+
+Answer: 21

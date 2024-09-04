@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The hot dog stand sells 10 hot dogs every hour
+* Each hot dog sells for $2
+* We want to find how many hours the stand needs to run to make $200 in sales
+
+First, let's calculate the revenue per hour:
+* 10 hot dogs per hour x $2 per hot dog = $20 per hour
+
+Now, we need to find how many hours it will take to reach $200 in sales:
+* $200 in sales / $20 per hour = 10 hours
+
+Therefore, the hot dog stand needs to run for 10 hours to make $200 in sales.
+
+Answer: 10

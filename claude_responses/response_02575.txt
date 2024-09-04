@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The total journey from Abel's house to Alice's house is 35 miles.
+2) The journey is divided into 5 equal portions.
+3) Abel is driving at a speed of 40 miles per hour.
+4) After traveling for 0.7 hours, we need to find how many portions of the journey he has covered.
+
+To calculate the distance traveled in 0.7 hours:
+* Distance traveled = Speed × Time
+* Distance traveled = 40 miles/hour × 0.7 hours
+* Distance traveled = 28 miles
+
+Now, to find how many portions of the journey he has covered:
+* Each portion of the journey is 35 miles / 5 = 7 miles
+* Distance traveled (28 miles) / Length of each portion (7 miles) = 4 portions
+
+Therefore, after traveling for 0.7 hours, Abel has covered 4 portions of the journey.
+
+Answer: 4

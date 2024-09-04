@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Santino has 2 papaya trees
+* Each papaya tree produces 10 papayas
+* So, the total number of papayas Santino has is:
+  * 2 papaya trees x 10 papayas per tree = 20 papayas
+* Santino has 3 mango trees
+* Each mango tree produces 20 mangos
+* So, the total number of mangos Santino has is:
+  * 3 mango trees x 20 mangos per tree = 60 mangos
+* To get the total number of fruits Santino has, we add the number of papayas and mangos:
+  * 20 papayas + 60 mangos = 80 fruits
+
+Answer: 80

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how much fried chicken Kobe ordered. Kobe ordered 5 pieces of fried chicken. Now, Pau ordered twice as much as Kobe did, so Pau ordered 5 * 2 = 10 pieces of fried chicken.
+
+Now, if they order another set of fried chicken, Pau will have eaten a total of 10 + 5 = 15 pieces of fried chicken.

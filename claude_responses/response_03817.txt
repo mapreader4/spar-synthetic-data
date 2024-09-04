@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mabel gets as many quarters as she is years old each year
+* She puts these quarters and nothing else in her piggy bank
+* We want to know how much money is in the bank when she turns 7 years old
+
+Let's calculate the amount of money in the bank each year:
+* At age 1, she has 1 quarter in the bank
+* At age 2, she has 2 quarters in the bank
+* At age 3, she has 3 quarters in the bank
+* At age 4, she has 4 quarters in the bank
+* At age 5, she has 5 quarters in the bank
+* At age 6, she has 6 quarters in the bank
+
+Now, when she turns 7, she will have 7 quarters in the bank.
+
+Answer: 7 quarters

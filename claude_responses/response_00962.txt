@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+1) The sheet of dough is 12 inches by 12 inches, which means the total area of the dough is 12 inches x 12 inches = 144 square inches.
+2) Each biscuit is 3 inches by 3 inches, which means the area of each biscuit is 3 inches x 3 inches = 9 square inches.
+3) To find the number of biscuits Unique can make, we need to divide the total area of the dough by the area of each biscuit.
+4) 144 square inches / 9 square inches per biscuit = 16 biscuits.
+
+Answer: 16

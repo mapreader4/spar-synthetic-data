@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Kaylee needs to sell 33 boxes of biscuits. She has already sold:
+
+* 12 boxes of lemon biscuits to her aunt
+* 5 boxes of chocolate biscuits to her mother
+* 4 boxes of oatmeal biscuits to a neighbor
+
+To find the total number of biscuits she has already sold, we add these amounts together:
+
+12 + 5 + 4 = 21
+
+Kaylee has sold 21 boxes of biscuits so far. To find the number of boxes she still needs to sell, we subtract this from the total number of boxes she needs to sell:
+
+33 (total boxes needed) - 21 (boxes already sold) =?
+
+33 - 21 = 12
+
+Answer: 12

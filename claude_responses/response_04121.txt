@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 20% of the milk bottles are spoiled, so 80% of the milk bottles are fresh.
+* 60% of the eggs are rotten, so 40% of the eggs are fresh.
+* 1/4 of the flour canisters have weevils, so 3/4 of the flour canisters are good.
+
+To find the odds that all three ingredients will be good, we need to multiply the probabilities of each ingredient being good:
+* Probability of good milk = 0.80
+* Probability of good egg = 0.40
+* Probability of good flour = 0.75
+
+Multiplying these probabilities:
+* 0.80 * 0.40 * 0.75 = 0.24
+
+Therefore, the odds that all three ingredients will be good is 0.24 or 24%.
+
+Answer: 24

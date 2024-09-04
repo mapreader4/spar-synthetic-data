@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* In Sam's first 100 matches, he won 50% of them.
+* 50% of 100 matches is 50 matches won.
+* In his next 100 matches, he won 60% of them.
+* 60% of 100 matches is 60 matches won.
+* To find the total number of matches he won, we add the number of matches won in the first 100 and the number of matches won in the next 100:
+* 50 + 60 = 110 matches won.
+
+Answer: 110

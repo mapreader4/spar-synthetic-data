@@ -1,0 +1,11 @@
+Let's start by identifying the number of stickers each person has.
+
+Ryan has 30 stickers.
+Steven has thrice as many stickers as Ryan, which is 30. So Steven has 30 x 3 = 90 stickers.
+Terry has 20 more stickers than Steven, which means Terry has 90 + 20 = 110 stickers.
+
+To find the total number of stickers, we add the number of stickers each person has:
+
+30 + 90 + 110 = 230.
+
+Answer: 230

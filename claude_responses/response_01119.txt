@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On the first day, Jill spends 5 minutes on the phone.
+* Each subsequent day, she spends twice as much time as the day before.
+* So, the time spent on the phone each day is:
+  - Day 1: 5 minutes
+  - Day 2: 5 x 2 = 10 minutes
+  - Day 3: 10 x 2 = 20 minutes
+  - Day 4: 20 x 2 = 40 minutes
+  - Day 5: 40 x 2 = 80 minutes
+* After the 5th day, her parents take the phone away, so she doesn't spend any more time on the phone that week.
+* To calculate the total time spent on the phone that week, we add up the time spent each day:
+  - Total time = 5 + 10 + 20 + 40 + 80 = 155 minutes
+
+Answer: 155

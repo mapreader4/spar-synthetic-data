@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The total number of spaces in the parking lot is 1000
+* The parking lot is divided into 3 sections
+* Section 1 has 320 spaces
+* Section 2 has 200 more spaces than Section 3
+
+To find the number of spaces in Section 2, we first need to find the number of spaces in Section 3.
+
+We know that Section 2 has 200 more spaces than Section 3, so:
+* Spaces in Section 2 = Spaces in Section 3 + 200
+
+We also know that the total number of spaces in the parking lot is 1000, and we know the number of spaces in Section 1, so:
+* Spaces in Section 1 + Spaces in Section 2 + Spaces in Section 3 = 1000
+* 320 + (Spaces in Section 3 + 200) + Spaces in Section 3 = 1000
+* 520 + 2 * Spaces in Section 3 = 1000
+* 2 * Spaces in Section 3 = 1000 - 520
+* Spaces in Section 3 = 240
+
+Now that we know the number of spaces in Section 3, we can calculate the number of spaces in Section 2:
+* Spaces in Section 2 = Spaces in Section 3 + 200
+* Spaces in Section 2 = 240 + 200
+* Spaces in Section 2 = 440
+
+Answer: 440

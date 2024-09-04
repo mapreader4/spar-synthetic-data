@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. We know that Alpha Epsilon's running time is 30 minutes shorter than Millennium's running time.
+2. We know that Millennium runs for 2 hours, which is 120 minutes.
+3. So, Alpha Epsilon's running time is 120 - 30 = 90 minutes.
+4. We know that Beast of War: Armoured Command's running time is 10 minutes longer than Alpha Epsilon's running time.
+5. So, Beast of War: Armoured Command's running time is 90 + 10 = 100 minutes.
+
+Answer: 100

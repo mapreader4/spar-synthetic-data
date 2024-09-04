@@ -1,0 +1,9 @@
+Let's start by using the information that there are 5 less raspberries than green grapes. Let's say the number of green grapes is x. Then, the number of raspberries is x - 5. We know that there are 7 times the number of red grapes as green grapes. So, the number of red grapes is 7x.
+
+We know that the total number of fruit is 102. So, the equation is: x + (x - 5) + 7x = 102. We can combine the like terms to get 2x - 5 + 7x = 102.
+
+We can add 5 to both sides of the equation to get 2x + 7x + 5 = 102 + 5. The equation now looks like 2x + 7x = 107. We can subtract 2 from both sides of the equation to get x + 7x = 107 - 2. We can subtract 7 from both sides of the equation to get x = 107 - 7.
+
+So, the number of red grapes is 107 - 7 = 100. Therefore, there are 100 red grapes in the salad.
+
+Answer: 100

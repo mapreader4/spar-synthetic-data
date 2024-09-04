@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Lisa has 4 children, and each child had 3 spoons when they were babies
+* So the total number of spoons from the children's baby days is:
+  * 4 children x 3 spoons each = 12 spoons
+* Lisa also has 2 decorative spoons she created
+* So the total number of spoons from the children's baby days and the decorative spoons is:
+  * 12 spoons + 2 decorative spoons = 14 spoons
+* The new set of cutlery has 10 large spoons and 15 teaspoons
+* So the total number of spoons in the new set is:
+  * 10 large spoons + 15 teaspoons = 25 spoons
+* Adding the 14 spoons from the children's baby days and the decorative spoons to the 25 spoons in the new set, the total number of spoons Lisa now has is:
+  * 14 spoons + 25 spoons = 39 spoons
+
+Answer: 39

@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+First, we need to find the total time it takes Stephen to ride his bicycle to church. Since each third of his trip takes 15 minutes, and there are 3 thirds, the total time is:
+
+15 minutes/3 = 5 minutes
+
+Since there are 60 minutes in an hour, we can convert 5 minutes to hours:
+
+5 minutes / 60 = 0.083 hours
+
+Now, let's find the distance Stephen travels during the first third of his trip. He travels at a speed of 16 miles per hour, and the time is 0.083 hours. We can multiply these two values to find the distance:
+
+Distance = Speed x Time = 16 miles/hour x 0.083 hours = 1.328 miles
+
+Since this is the first third of his trip, the distance for the first third is 1.328 miles.
+
+Next, we need to find the distance Stephen travels during the second third of his trip. He travels at a speed of 12 miles per hour, and the time is still 0.083 hours. We can multiply these two values to find the distance:
+
+Distance = Speed x Time = 12 miles/hour x 0.083 hours = 1 miles
+
+Since this is the second third of his trip, the distance for the second third is 1 mile.
+
+Finally, we need to find the distance Stephen travels during the last third of his trip. He travels at a speed of 20 miles per hour, and the time is still 0.083 hours. We can multiply these two values to find the distance:
+
+Distance = Speed x Time = 20 miles/hour x 0.083 hours = 1.67 miles
+
+Since this is the last third of his trip, the distance for the last third is 1.67 miles.
+
+To find the total distance Stephen rides his bicycle to church, we can add the distances for each third:
+
+Total Distance = Distance for first third + Distance for second third + Distance for last third
+= 1.328 miles + 1 mile + 1.67 miles
+= 3.998 miles
+
+Answer: 4

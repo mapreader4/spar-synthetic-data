@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. The school has 100 students total.
+2. Half of the students are girls, and half are boys.
+   * So, there are 50 girls and 50 boys.
+3. 20% of the girls have dogs at home.
+   * 20% of 50 girls = 0.20 * 50 = 10 girls have dogs.
+4. 10% of the boys have dogs at home.
+   * 10% of 50 boys = 0.10 * 50 = 5 boys have dogs.
+5. To find the total number of students who own dogs, we add the number of girls with dogs and the number of boys with dogs:
+   * 10 girls + 5 boys = 15 students own dogs.
+
+Answer: 15

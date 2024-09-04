@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Initially, 100 racers start the race.
+
+After the first segment, 10 racers are eliminated, leaving 100 - 10 = 90 racers remaining.
+
+After the next segment, a third of the remaining racers are eliminated, which is 90 / 3 = 30. So, 90 - 30 = 60 racers remain.
+
+Before the last leg of the race, half of the remaining racers are eliminated, which is 60 / 2 = 30. So, 60 - 30 = 30 racers are eliminated.
+
+So, in the final section of the race, 30 racers will run.
+
+Answer: 30

@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+* Jeff bought 6 pairs of shoes and 4 jerseys
+* The total cost of the 6 pairs of shoes and 4 jerseys is $560
+* The jerseys cost 1/4 the price of one pair of shoes
+* Let's call the price of one pair of shoes 'x'
+* Then, the price of one jersey is 1/4 of x, which is x/4
+* The total cost of the 6 pairs of shoes is 6x
+* The total cost of the 4 jerseys is 4(x/4) = x
+* The total cost is 6x + x = 7x
+* We know the total cost is $560, so:
+* 7x = $560
+* x = $80
+* Therefore, the total price of the shoes is 6 * $80 = $480
+
+Answer: $480

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Lorie starts with 2 pieces of $100 bills.
+2) He requests to change one piece of the $100 bills into $50 bills. So now he has 1 piece of $100 bill and 2 pieces of $50 bills.
+3) Half of the remaining $100 bill is changed to $10 bills. So, $50 is changed into 5 pieces of $10 bills.
+4) The rest of the $50 from the $100 bill is changed to $5 bills. So, $50 is changed into 10 pieces of $5 bills.
+5) In total, Lorie now has:
+   - 1 piece of $100 bill
+   - 2 pieces of $50 bills
+   - 5 pieces of $10 bills
+   - 10 pieces of $5 bills
+Answer: 18 pieces of bills.

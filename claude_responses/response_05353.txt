@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) The pet shop has 2 puppies and some kittens.
+2) A puppy costs $20, and a kitten costs $15.
+3) The total stock is worth $100.
+4) To find the number of kittens, we need to first calculate the total cost of the 2 puppies:
+   - 2 puppies x $20 per puppy = $40
+5) Now we can subtract the cost of the puppies from the total stock value to get the total value of the kittens:
+   - $100 - $40 = $60
+6) Since each kitten costs $15, we can divide the total value of the kittens by the cost per kitten to get the number of kittens:
+   - $60 / $15 per kitten = 4 kittens
+
+Answer: 4

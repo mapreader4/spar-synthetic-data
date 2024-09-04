@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's say the mother plant produces 2 baby plants 2 times a year, so in 1 year, it will produce 2 baby plants. Then, in the next year, it will also produce 2 baby plants. This will continue until 4 years. So, the total number of baby plants the mother plant will have produced after 4 years is:
+
+2 baby plants + 2 baby plants = 4 baby plants
+2 baby plants + 2 baby plants = 4 baby plants
+4 baby plants + 2 baby plants = 6 baby plants
+6 baby plants + 2 baby plants = 8 baby plants
+
+So, in 4 years, the mother plant will have produced 8 baby plants.
+
+Answer: 8

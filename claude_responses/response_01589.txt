@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Matinee tickets cost $5 each, and they sold 200 of them
+* So the total revenue from matinee tickets is:
+200 tickets x $5 per ticket = $1,000
+
+* Evening tickets cost $12 each, and they sold 300 of them
+* So the total revenue from evening tickets is:
+300 tickets x $12 per ticket = $3,600
+
+* 3D tickets cost $20 each, and they sold 100 of them
+* So the total revenue from 3D tickets is:
+100 tickets x $20 per ticket = $2,000
+
+* To calculate the total revenue, we add up the revenue from each ticket type:
+$1,000 + $3,600 + $2,000 = $6,600
+
+Answer: $6,600

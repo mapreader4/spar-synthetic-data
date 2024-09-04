@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Darius has 5 buckets of water
+* The first bucket contains 11 ounces
+* The second bucket contains 13 ounces
+* The third bucket contains 12 ounces
+* The fourth bucket contains 16 ounces
+* The fifth bucket contains 10 ounces
+* Darius pours the 10-ounce bucket and one of the other four buckets into a bigger bucket
+* The total in the bigger bucket is now 23 ounces
+* To find the amount in the other bucket that was poured into the bigger bucket, we subtract the 10 ounces from the total 23 ounces:
+* 23 ounces - 10 ounces = 13 ounces
+* So the other bucket that was poured into the bigger bucket contained 13 ounces
+* Darius then pours the remaining three buckets (11 ounces, 12 ounces, and 16 ounces) into a second large bucket
+* To find the total amount in the second large bucket, we add up the remaining three buckets:
+* 11 ounces + 12 ounces + 16 ounces = 39 ounces
+
+Answer: 39 ounces

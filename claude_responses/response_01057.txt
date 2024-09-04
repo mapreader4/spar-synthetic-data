@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) We are given that 20 gallons of tea were poured into 80 containers.
+2) To find the amount of tea in each container, we divide the total amount of tea (20 gallons) by the number of containers (80):
+20 gallons / 80 containers = 0.25 gallons per container
+3) We are told that Geraldo drank 3.5 containers.
+4) To find the amount of tea Geraldo drank, we multiply the amount of tea per container (0.25 gallons) by the number of containers Geraldo drank (3.5):
+0.25 gallons per container x 3.5 containers = 0.875 gallons
+5) There are 8 pints in a gallon, so to convert 0.875 gallons to pints, we multiply by 8:
+0.875 gallons x 8 pints/gallon = 7 pints
+
+Answer: 7 pints

@@ -1,0 +1,21 @@
+To solve this problem, we need to find the total cost of hiring the two professionals for the renovation.
+
+Given information:
+- There are two professionals working for Kamil.
+- Each professional works 6 hours a day for 7 days.
+- One of the professionals is paid $15 per hour of work.
+
+Step 1: Calculate the total number of hours worked by each professional.
+Total hours worked by each professional = 6 hours per day × 7 days = 42 hours
+
+Step 2: Calculate the total cost for the professional who is paid $15 per hour.
+Total cost for the professional paid $15 per hour = $15 per hour × 42 hours = $630
+
+Step 3: Calculate the total cost for hiring the two professionals.
+Total cost for hiring the two professionals = $630 (for the professional paid $15 per hour) + Cost for the other professional
+
+Since the cost for the other professional is not given, we cannot calculate the exact total cost. However, we can calculate the minimum total cost by assuming the other professional is also paid $15 per hour.
+
+Minimum total cost = $630 + $630 = $1,260
+
+Answer: $1,260

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The total cost of the doctor's visit and the cast was $300 + $200 = $500
+* The insurance covered 60% of the total cost
+* To calculate the amount covered by insurance, we take 60% of the total cost:
+    * 60% of $500 = 0.6 * $500 = $300
+* The remaining amount, which is Tom's out-of-pocket cost, is the total cost minus the amount covered by insurance:
+    * $500 - $300 = $200
+
+Answer: $200

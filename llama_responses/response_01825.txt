@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of money that Tom's pet insurance will cover.  The insurance covers all but 20% of the surgery cost. 20% of $5000 is 20% * $5000 = $1000.  The insurance will cover $1000.
+
+Next, let's find the cost of the surgery.  The surgery cost $5000.
+
+Now, let's find the amount of money Tom saved by having insurance.  The insurance will save him $5000 - $1000 = $4000.
+
+Answer: 4000.

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start with the number of hot dogs Guise ate on Monday. He ate 10 hot dogs on Monday. Then, we know that he ate 2 more hot dogs each day than the previous day. This means that on Tuesday, he ate 12 hot dogs. On Wednesday, he ate 14 hot dogs, which is 2 more than the 12 he ate the day before.
+
+So, by Wednesday, Guise had eaten 10 + 2 + 2 = 14 hot dogs.

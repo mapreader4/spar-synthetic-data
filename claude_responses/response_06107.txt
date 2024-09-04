@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Dany has 4 cows and 3 sheep that eat 2 bushels a day
+* So the cows and sheep eat a total of (4 + 3) * 2 = 14 bushels per day
+* Dany also has 7 chickens that eat 3 bushels a day
+* So the chickens eat 7 * 3 = 21 bushels per day
+* To find the total bushels needed per day, we add the amounts for the cows/sheep and the chickens:
+* 14 bushels + 21 bushels = 35 bushels per day
+
+Answer: 35

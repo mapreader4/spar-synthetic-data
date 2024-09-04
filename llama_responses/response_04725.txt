@@ -1,0 +1,13 @@
+To solve this problem, we need to start by identifying the information given in the statement. The statement says that for every moose there are two beavers, and for every beaver there are 19 humans. This means that for every moose there are 19 * 2 = 38 humans. 
+
+Let's denote the number of moose as x. We know that the number of humans is 38 million, and we know that for every moose there are 38 * 19 humans. We can set up an equation: 
+
+x * 38 * 19 = 38,000,000. 
+
+To solve for x, we can divide both sides of the equation by 38 * 19. This gives us: 
+
+x = 38,000,000 / 38 * 19. 
+
+x = 1. 
+
+Answer: 1

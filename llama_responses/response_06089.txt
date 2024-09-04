@@ -1,0 +1,20 @@
+Let's start by calculating the total weight of the ravioli eaten by Javier.
+
+Javier ate 5 meat ravioli, which weigh 1.5 ounces each, so the total weight of the meat ravioli is:
+5 x 1.5 = 7.5 ounces
+
+Javier also ate 2 pumpkin ravioli, which weigh 1.25 ounces each, so the total weight of the pumpkin ravioli is:
+2 x 1.25 = 2.5 ounces
+
+Javier also ate 4 cheese ravioli, which weigh 1 ounce each, so the total weight of the cheese ravioli is:
+4 x 1 = 4 ounces
+
+The total weight of the ravioli eaten by Javier is the sum of the weights of the three types of ravioli:
+7.5 + 2.5 + 4 = 14 ounces
+
+Now, let's calculate the total weight of the ravioli eaten by Javier's brother. His brother ate 12 pumpkin ravioli, which weigh 1.25 ounces each, so the total weight of the pumpkin ravioli is:
+12 x 1.25 = 15 ounces
+
+Since Javier's brother ate more ounces of ravioli, he is the winner.
+
+Answer: 15

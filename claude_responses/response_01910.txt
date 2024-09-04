@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Johnson's cornfield:
+   - Johnson owns 1 hectare of land
+   - His cornfield can yield 80 corn every 2 months
+   - In 6 months, Johnson's cornfield can yield 80 corn x 3 (since 6 months = 3 periods of 2 months) = 240 corn
+
+2. Neighbor's cornfield:
+   - Neighbor owns 2 hectares of land
+   - Each hectare can yield twice the amount as Johnson's, which is 80 x 2 = 160 corn every 2 months
+   - In 6 months, Neighbor's cornfield can yield 160 corn x 3 (since 6 months = 3 periods of 2 months) = 480 corn
+
+3. Total corn harvested:
+   - Johnson's cornfield: 240 corn
+   - Neighbor's cornfield: 480 corn
+   - Total corn harvested = 240 + 480 = 720 corn
+
+Answer: 720

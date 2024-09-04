@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of honey that James has. He has 5 hives that each produce 20 liters of honey. So, the total amount of honey he has is 5 x 20 = 100 liters.
+
+Since each jar can hold 0.5 liters, we can divide the total amount of honey by the capacity of each jar to find how many jars he needs. 100 liters / 0.5 liters per jar = 200 jars.
+
+Since his friend is bringing his own jars for half the honey, James will need half of the jars. So, he will need 200 / 2 = 100 jars.

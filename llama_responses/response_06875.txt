@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+We know that the herring has 40 oz of fat, an eel 20 oz, and a pike 10 oz more than an eel. We can set up an equation to represent this:
+
+Let's let e be the number of oz of fat in the pike.
+
+Then, we can set up the equation as follows:
+
+40 + 20 + (e + 10) = 40 + 20 + e
+
+Since we know that 40 oz of fat is served for each fish, and there are 40 fish, we know that the total amount of fat served is 40 * 40 = 1600 oz.
+
+So, the answer is:
+
+Answer: 1600

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Brendan can cut 8 yards of grass per day. This means that he can cut 8 * 7 = 56 yards in a week.
+
+2. The lawnmower helps him cut 50% more yards per day. This means that the lawnmower helps him cut 0.5 * 8 = 4 yards per day. So, the total amount of yards he can cut in a day is 8 + 4 = 12.
+
+3. Therefore, the total number of yards Brendan can cut in a week is 56 + 12 = 68 yards.
+
+Answer: 68

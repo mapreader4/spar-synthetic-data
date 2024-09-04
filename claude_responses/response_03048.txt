@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) 50% of 60 substitute teachers walk out after 1 hour of teaching. 
+   * 50% of 60 = 0.5 * 60 = 30 substitute teachers walk out after 1 hour.
+2) That leaves 60 - 30 = 30 substitute teachers remaining.
+3) 30% of the remaining 30 substitute teachers quit before lunch.
+   * 30% of 30 = 0.3 * 30 = 9 substitute teachers quit before lunch.
+4) That leaves 30 - 9 = 21 substitute teachers remaining after lunch.
+
+Answer: 21

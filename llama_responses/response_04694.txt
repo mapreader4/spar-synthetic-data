@@ -1,0 +1,21 @@
+Let's start by identifying the number of leaves the tree had at the beginning of the first week. It had 1000 leaves initially.
+
+In the first week, the tree shed 2/5 of the leaves. To find the number of leaves shed, we can multiply the total number of leaves by the fraction:
+
+1000 x (2/5) = 1000 x 0.4 = 400 leaves
+
+So, the tree had 1000 - 400 = 600 leaves remaining after the first week.
+
+In the second week, the tree shed 40% of the remaining leaves. To find the number of leaves shed, we can multiply the number of remaining leaves by the percentage:
+
+600 x 0.4 = 240 leaves
+
+So, the tree had 600 - 240 = 360 leaves remaining after the second week.
+
+In the third week, the tree shed 3/4 times as many leaves as it shed on the second week. To find the number of leaves shed, we can multiply the number of leaves shed on the second week by the fraction:
+
+240 x (3/4) = 240 x 0.75 = 180 leaves
+
+So, the tree had 360 - 180 = 180 leaves remaining after the third week.
+
+Answer: 180

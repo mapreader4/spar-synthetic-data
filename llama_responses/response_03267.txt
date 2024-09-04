@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Caleb is putting three colors of candles on the cake: yellow, red, and blue. He is putting one candle for each year for his grandfather's 79 years. So, the total number of candles is 79.
+
+We know that he puts 27 yellow candles, which means that the remaining candles are red and blue. Let's add the number of yellow candles to the total number of candles: 79 + 27 = 106.
+
+Now, we know that the remaining candles are red and blue. We are given that there are 14 red candles. To find the number of blue candles, we can subtract the number of red candles from the total number of candles: 106 - 14 = 92.
+
+Answer: 92

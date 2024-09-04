@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the distance from Dawn's house to Mary's house is x miles. Since Ken's house is twice as far from Dawn's house as Mary's house, Ken's house is 2x miles away from Dawn's house.
+
+Since Ken's house is 4 miles away from Dawn's house, we can set up an equation: 2x = 4.
+
+To solve for x, we can divide both sides of the equation by 2, which gives us x = 2.
+
+So, the distance from Dawn's house to Mary's house is 2 miles.
+
+Now, let's find the distance Ken will cover if he goes from his house to Dawn's house, then to Mary's, then back to his own house.
+
+First, Ken goes from his house to Dawn's house, which is 4 miles. Then, he goes from Dawn's house to Mary's house, which is 2 miles. Then, he goes back to his own house, which is 4 miles again. So, the total distance Ken will cover is 4 + 2 + 4 = 10 miles.
+
+Answer: 10

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Before breaking his arm, Cameron could type 10 words per minute
+* After breaking his arm, Cameron could type 8 words per minute
+* We want to find the difference in the number of words he could type in 5 minutes before and after breaking his arm
+
+To find the number of words he could type in 5 minutes before breaking his arm:
+* 10 words per minute x 5 minutes = 50 words
+
+To find the number of words he could type in 5 minutes after breaking his arm:
+* 8 words per minute x 5 minutes = 40 words
+
+To find the difference:
+* 50 words - 40 words = 10 words
+
+Answer: 10

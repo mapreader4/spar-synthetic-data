@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* For every white duck, there are 5 fish
+* There are 3 white ducks
+* So, for the white ducks, there are 3 * 5 = 15 fish
+
+* For every black duck, there are 10 fish
+* There are 7 black ducks
+* So, for the black ducks, there are 7 * 10 = 70 fish
+
+* For every multicolor duck, there are 12 fish
+* There are 6 multicolor ducks
+* So, for the multicolor ducks, there are 6 * 12 = 72 fish
+
+* To get the total number of fish, we add up the fish for each type of duck:
+* Total fish = 15 + 70 + 72 = 157
+
+Answer: 157

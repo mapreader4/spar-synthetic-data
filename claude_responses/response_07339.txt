@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Brooke has 12 cows, and each cow produces 4 gallons of milk. So the total amount of milk produced is:
+12 cows x 4 gallons per cow = 48 gallons of milk
+2) She has 6 customers, and each customer wants 6 gallons of milk. So the total amount of milk sold is:
+6 customers x 6 gallons per customer = 36 gallons of milk
+3) The remaining milk that doesn't sell is 48 gallons - 36 gallons = 12 gallons of milk.
+4) Each gallon of milk can be turned into 2 sticks of butter. So 12 gallons of milk can be turned into 12 x 2 = 24 sticks of butter.
+5) She sells the milk for $3 per gallon, so the money earned from selling the milk is:
+36 gallons x $3 per gallon = $108
+6) She sells the butter for $1.5 per stick, so the money earned from selling the butter is:
+24 sticks x $1.5 per stick = $36
+7) The total money earned is the sum of the money earned from selling the milk and the butter:
+$108 + $36 = $144
+
+Answer: $144

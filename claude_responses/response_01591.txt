@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 3414 yellow balloons.
+2) There are 1762 more black balloons than yellow balloons.
+3) To find the number of black balloons, we add 1762 to the number of yellow balloons:
+   3414 + 1762 = 5176 black balloons.
+4) The total number of balloons is the sum of the yellow and black balloons:
+   3414 + 5176 = 8590 total balloons.
+5) The balloons will be evenly divided among 10 schools.
+6) To find the number of balloons each school will receive, we divide the total number of balloons by 10:
+   8590 / 10 = 859 balloons per school.
+
+Answer: 859

@@ -1,0 +1,7 @@
+To find the amount of money Dorothy has left after paying the taxes, we can calculate 18% of the amount she earns as taxes. We do this by multiplying the amount she earns by 0.18. We can do this by multiplying the amount she earns by 0.02 (since 18/100 = 0.18).
+
+Dorothy earns 60000 dollars a year, so we multiply 60000 by 0.02:
+
+60000 * 0.02 = 1200
+
+Dorothy will have 60000 - 1200 dollars left after she pays the taxes.

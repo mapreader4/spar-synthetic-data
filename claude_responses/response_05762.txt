@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The nurse must check 26 Kindergarteners, 19 first graders, 20 second graders, and 25 third graders.
+* Each check takes 2 minutes.
+* To calculate the total time, we need to add up the time for each group:
+  - 26 Kindergarteners x 2 minutes = 52 minutes
+  - 19 first graders x 2 minutes = 38 minutes
+  - 20 second graders x 2 minutes = 40 minutes
+  - 25 third graders x 2 minutes = 50 minutes
+* Adding these up, the total time is:
+  - 52 + 38 + 40 + 50 = 180 minutes
+* To convert this to hours, we divide by 60 minutes per hour:
+  - 180 minutes / 60 minutes per hour = 3 hours
+
+Answer: 3 hours

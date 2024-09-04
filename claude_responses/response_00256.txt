@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) The map scale indicates that 1/4 inch on the map represents 8 miles of actual road distance.
+2) The distance between the towns of Pence and Hillcrest on the map is 3 3/8 inches.
+3) To find the actual distance between the towns, we need to convert the map distance to actual road distance.
+4) Since 1/4 inch on the map represents 8 miles, we can use the following proportion:
+1/4 inch : 8 miles = 3 3/8 inches : x miles
+5) Solving for x, we get:
+x = (3 3/8 inches * 8 miles) / 1/4 inch
+6) Simplifying, we get:
+x = (27 miles) / (1/4) = 108 miles.
+
+Answer: 108 miles.

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first determine how many cans of beans she adds. She adds 2 cans of beans, and then she adds 50% more beans than beans, which is 2 * 1.5 = 3 cans of beans. She also adds a can of chilis. So, she adds 1 can of chilis and 3 cans of beans.
+
+To make a quadruple batch, we need to multiply the number of cans by 4. So, the total number of cans of food needed is 1 can of chilis + 3 cans of beans + 1 can of chilis = 4 cans of chilis, 12 cans of beans, which is 4 * 3 = 12 cans of beans. Therefore, the total number of cans of food needed is 4 * (1 + 3) = 5.
+
+Answer: 5

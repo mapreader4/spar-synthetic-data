@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Javier has a wife and 3 children, so that's 5 people in total.
+* Each person has 2 legs, so 5 people x 2 legs per person = 10 legs for the people.
+* Javier's household also has 2 dogs and 1 cat.
+* Dogs have 4 legs each, so 2 dogs x 4 legs per dog = 8 legs for the dogs.
+* Cats have 4 legs, so 1 cat x 4 legs = 4 legs for the cat.
+
+Adding up all the legs:
+* 10 legs (people) + 8 legs (dogs) + 4 legs (cat) = 22 legs total.
+
+Answer: 22

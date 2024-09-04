@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Steve has 400 new emails in his inbox.
+2) He moves half of them to the trash. Half of 400 is 200, so he moves 200 emails to the trash.
+3) Now he has 400 - 200 = 200 emails remaining in his inbox.
+4) He then moves 40% of the remaining 200 emails to his work folder. 40% of 200 is 0.4 * 200 = 80 emails.
+5) So he has 200 - 80 = 120 emails left in his inbox.
+
+Answer: 120

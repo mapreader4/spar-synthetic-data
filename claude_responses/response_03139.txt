@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Charley has a bag with 51 white beads and 90 black beads
+* He pulls out 1/6 of the black beads
+* 1/6 of 90 black beads = 90 / 6 = 15 black beads
+* He also pulls out 1/3 of the white beads
+* 1/3 of 51 white beads = 51 / 3 = 17 white beads
+* So in total, Charley pulled out 15 black beads and 17 white beads
+* To find the total number of beads pulled out, we add these together:
+* 15 black beads + 17 white beads = 32 beads
+
+Answer: 32

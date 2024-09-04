@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Pablo's mother pays him one cent for every page he reads.
+* Pablo always checks out books that are exactly 150 pages.
+* Pablo bought $15 worth of candy and had $3 leftover.
+
+We know that Pablo's mother pays him one cent for every page he reads, so if he reads a book with 150 pages, he will earn $1.50.
+
+Since Pablo bought $15 worth of candy and had $3 leftover, we know that he must have read some number of books that total $12 worth of books.
+
+Since each book is 150 pages, we can divide $12 by 150 to find the number of books Pablo read:
+
+$12 ÷ 150 = 0.08
+
+Since Pablo always checks out books that are exactly 150 pages, we know that he read 8 books.
+
+Answer: 8

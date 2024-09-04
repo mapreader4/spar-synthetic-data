@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total number of slices of pumpkin pie sold: 4 pies x 8 slices/pie = 32 slices.
+
+Next, let's calculate the total number of slices of custard pie sold: 5 pies x 6 slices/pie = 30 slices.
+
+The total number of slices sold is the sum of the pumpkin and custard slices: 32 + 30 = 62 slices.
+
+Now, let's calculate the total revenue from pumpkin pie sales: 32 slices x $5/slice = $160.
+
+Let's calculate the total revenue from custard pie sales: 30 slices x $6/slice = $180.
+
+The total revenue is the sum of the revenue from both types of pies: $160 + $180 = $340.
+
+Answer: 340

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) They sold 200 t-shirts in 25 minutes
+2) Half of the shirts were black and cost $30 each
+3) The other half were white and cost $25 each
+4) To calculate the total revenue:
+   - 100 black shirts at $30 each = $3,000
+   - 100 white shirts at $25 each = $2,500
+   - Total revenue = $3,000 + $2,500 = $5,500
+5) To calculate the revenue per minute:
+   - Total revenue = $5,500
+   - Time taken = 25 minutes
+   - Revenue per minute = $5,500 / 25 = $220
+
+Answer: $220

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Connor is taking his date to the movies
+* The movie tickets cost $10.00 each
+* They are getting 2 movie tickets, so the total cost of the tickets is:
+    * 2 tickets x $10.00 per ticket = $20.00
+* They are also getting the large popcorn & 2 drink combo meal for $11.00
+* They are each getting a box of candy for $2.50 each
+* Since there are 2 people, the total cost of the candy is:
+    * 2 boxes of candy x $2.50 per box = $5.00
+* To calculate the total amount Connor will spend on his date, we add up the costs:
+    * Tickets: $20.00
+    * Combo meal: $11.00
+    * Candy: $5.00
+    * Total: $20.00 + $11.00 + $5.00 = $36.00
+
+Answer: $36

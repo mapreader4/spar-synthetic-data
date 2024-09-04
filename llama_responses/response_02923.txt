@@ -1,0 +1,9 @@
+Let's start by adding the number of stamps in each book to get the total number of stamps Ruel has. 
+
+Ruel has 4 books of 10 stamps, so that is 4 * 10 = 40 stamps. 
+
+Ruel also has 6 books of 15 stamps, so that is 6 * 15 = 90 stamps. 
+
+In total, Ruel has 40 + 90 stamps, which is 130 stamps. 
+
+Answer: 130

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of redwoods in the national park. The problem statement says that the number of redwoods is 20% more than the number of pines. So, let's let's call the number of pines in the national park 'x'. Then, the number of redwoods would be 'x + 20'.
+
+Now, the problem says that the number of pines in the national park is 600. So, we know that 'x' is 600 - 20, which is 580.
+
+Now, we need to find the total number of pines and redwoods in the national park. The total number is the sum of the number of pines and redwoods. So, the total number of pines and redwoods is 580 + 580, which is 1160.
+
+Answer: 1160

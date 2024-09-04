@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first calculate how many miles Diana can bike in 2 hours at 3 mph.
+
+2 hours * 3 mph = 6 miles
+
+So Diana can bike 6 miles before she gets tired.  Since she needs to bike 10 miles to get home, she needs to bike an additional 4 miles after she gets tired.
+
+Since she can bike 1 mph after getting tired, we can calculate the time it will take her to bike the remaining 4 miles.
+
+4 miles / 1 mph = 4 hours
+
+So, Diana will take 4 hours to bike the remaining 4 miles after getting tired.
+
+Adding the time it takes her to bike the 6 miles before getting tired to the time it takes her to bike the remaining 4 miles, we get:
+
+6 hours + 4 hours = 10 hours
+
+Answer: 10

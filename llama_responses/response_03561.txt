@@ -1,0 +1,23 @@
+Let's break down the information given:
+
+* The novel has half as many pages as their history book.
+* The history book has 300 pages.
+* The science book has 4 times the amount of pages as their novel.
+
+We can start by identifying the number of pages in the novel:
+
+Novel: x pages
+History book: 300 pages
+Science book: 4x
+
+Since the novel has half the pages of the history book, we can set up an equation:
+
+x = 300 / 2
+x = 150
+
+Now, we can substitute the value of x into the equation for the science book:
+
+Science book: 4 * 150
+Science book: 600
+
+Answer: 600

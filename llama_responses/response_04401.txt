@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total cost of the shoes she sold:
+
+8 Nike's at $60 each is 8 x $60 = $480
+6 Adidas's at $45 each is 6 x $45 = $270
+9 Reeboks at $35 each is 9 x $35 = $315
+
+Total cost of shoes sold = $480 + $270 + $315 = $1065
+
+Alice needs to sell $1000 worth of shoes. Let's subtract the total cost of the shoes she sold from the total amount she needs to sell:
+
+$1000 - $1065 = $65
+
+She is $65 short of her goal.

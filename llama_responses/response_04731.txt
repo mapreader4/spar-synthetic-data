@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start with Monday, Billy ate 2 apples.
+
+On Tuesday, he ate twice as many as he ate on Monday, so he ate 2 x 2 = 4 apples.
+
+On Friday, he ate half of the amount he ate on Monday, so he ate 2 / 2 = 1 apple.
+
+Now, let's find out how many apples he ate on Wednesday. We know that on Thursday, he ate four times as many as he ate on Friday. Since he ate 1 apple on Friday, he ate 4 x 1 = 4 apples on Thursday.
+
+Since Billy ate 4 apples on Thursday, and we want to find out how many he ate on Wednesday, we can set up an equation. Let's call the number of apples he ate on Wednesday x.
+
+We know that the total number of apples Billy ate is 20. We can set up the equation: 2 + 4 + x + 4 + 1 = 20.
+
+Simplifying the equation, we get: 7 + x = 20.
+
+Subtracting 7 from both sides, we get: x = 13.
+
+So, Billy ate 13 apples on Wednesday.
+
+Answer: 13

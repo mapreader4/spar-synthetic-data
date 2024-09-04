@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we need to find the distance the coyote has traveled in the 1 hour it has been moving. Since the coyote is traveling at 15 miles per hour, it has traveled:
+
+Distance = Speed x Time = 15 miles/hour x 1 hour = 15 miles
+
+So, the coyote is 15 miles ahead of Darrel.
+
+Next, we need to find the relative speed between Darrel and the coyote. Since Darrel is traveling at 30 miles per hour and the coyote is traveling at 15 miles per hour, the relative speed between them is:
+
+Relative Speed = Darrel's Speed - Coyote's Speed = 30 miles/hour - 15 miles/hour = 15 miles/hour
+
+This means that Darrel is closing the distance between him and the coyote at a rate of 15 miles per hour.
+
+To find the time it will take for Darrel to catch up to the coyote, we can use the formula:
+
+Time = Distance / Relative Speed
+
+In this case, the distance is the 15 miles the coyote has already traveled, and the relative speed is 15 miles per hour. Plugging in the values, we get:
+
+Time = 15 miles / 15 miles/hour = 1 hour
+
+Answer: 1

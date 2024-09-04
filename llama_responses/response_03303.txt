@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Anahi bought a 500 pages book to write some notes on.
+2. In the first week, she wrote on 150 pages.
+3. So, 500 - 150 = 350 pages were left.
+4. In the second week, she wrote on 30% of the remaining pages.
+5. 30% of 350 is 105 pages.
+6. 105 pages were written, and 350 - 105 = 245 pages were left.
+7. While continuing writing, she accidentally spilled coffee on the book and damaged 20% of the empty pages.
+8. 20% of 245 is 49 pages.
+9. So, the total number of empty pages available for her to write on now is 245 - 49 = 196.
+
+Answer: 196

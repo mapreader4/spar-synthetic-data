@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+* The restaurant has a total of 36 different dishes available
+* Mango salsa is featured in 3 of the dishes
+* Fresh mangoes are featured in 1/6 of the dishes (which is 6 dishes)
+* Mango jelly is featured in 1 dish
+* Oliver can pick out the mangoes from 2 of the dishes with fresh mangoes
+
+First, let's calculate the total number of dishes that contain mangoes:
+* Mango salsa: 3 dishes
+* Fresh mangoes: 6 dishes
+* Mango jelly: 1 dish
+* Total dishes with mangoes: 3 + 6 + 1 = 10 dishes
+
+Now, we can subtract the 2 dishes that Oliver can pick the mangoes out of, leaving 8 dishes that Oliver cannot eat.
+
+Finally, we can subtract the 8 dishes with mangoes from the total of 36 dishes to get the number of dishes left for Oliver:
+* 36 - 8 = 28 dishes
+
+Answer: 28

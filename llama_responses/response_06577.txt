@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out how many points Jimmy has in total. He earned 20 points for each of the 3 exams, so he has 20 * 3 = 60 points. Then, he lost 5 points for bad behavior, so he has 60 - 5 = 55 points.
+
+Jimmy needs at least 50 points to pass the next class. So, he can lose at most 50 - 55 = 5 points and still be able to pass the next class.
+
+Answer: 5

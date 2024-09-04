@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Molly has 2 parents
+* Molly has 3 brothers
+* Each of Molly's 3 brothers is married, so that's 3 more people
+* Each of Molly's 3 brothers has 2 children, so that's 6 more people
+* In total, Molly has 2 parents + 3 brothers + 3 spouses + 6 children = 14 relatives
+* Molly sends one package to each relative
+* Each package costs $5
+* To calculate the total cost, we multiply the number of relatives (14) by the cost per package ($5)
+* 14 relatives x $5 per package = $70
+
+Answer: $70

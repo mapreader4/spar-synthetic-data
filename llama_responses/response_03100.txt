@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+The dog that likes bonnies ate 60 of them.
+
+The dog that likes blueberries eats 3/4 times as many blueberries as the number of bonnies eaten by the third dog. So, the dog that likes blueberries eats 3/4 * 60 = 45 blueberries.
+
+The first dog, which likes apples, eats 3 times as many apples as the number of blueberries eaten by the second dog that likes blueberries. So, the first dog eats 3 * 45 = 135 apples.
+
+Now, let's add up the total number of fruits eaten by the three dogs:
+
+Apples: 135
+Blueberries: 45
+Bonnies: 60
+
+Total number of fruits eaten: 135 + 45 + 60 = 240
+
+Answer: 240

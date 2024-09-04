@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+In the first week:
+* They normally pack 40 apples in a box
+* They produce 50 full boxes per day
+* So in one day, they pack 40 * 50 = 2,000 apples
+* In one week (7 days), they pack 2,000 * 7 = 14,000 apples
+
+In the second week:
+* They packed 500 fewer apples per day
+* So they packed 2,000 - 500 = 1,500 apples per day
+* In one week (7 days), they packed 1,500 * 7 = 10,500 apples
+
+Now, to find the total number of apples packed in the two weeks:
+* Total apples packed = apples packed in first week + apples packed in second week
+* Total apples packed = 14,000 + 10,500 = 24,500 apples
+
+Answer: 24,500

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Harper drinks 1/2 bottle of mineral water per day, so she drinks 1/2 * 240 = 120 bottles of water in 240 days.
+
+The cost of each case is $12.00. 1 case has 24 bottles, so the cost of each bottle is $12.00 / 24 = $0.50 per bottle.
+
+The total cost of 120 bottles is 0.50 * 120 = $60.00.
+
+Answer: 60

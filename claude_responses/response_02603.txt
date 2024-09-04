@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Anna has 3 times as many toys as Mandy
+* Anna has 2 fewer toys than Amanda
+* The total number of toys between the three of them is 142
+
+Let's start by representing the number of toys each person has:
+* Mandy has x toys
+* Anna has 3x toys
+* Amanda has 3x + 2 toys
+
+We know that the total number of toys is 142, so we can set up an equation:
+x + 3x + (3x + 2) = 142
+
+Simplifying the equation:
+7x + 2 = 142
+7x = 140
+x = 20
+
+Therefore, Mandy has 20 toys.
+
+Answer: 20

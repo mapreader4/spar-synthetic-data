@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Henri has 8 hours of free time.
+2) He watches one movie that is 3.5 hours and one movie that is 1.5 hours.
+3) So the total time spent watching movies is 3.5 + 1.5 = 5 hours.
+4) That leaves him with 8 - 5 = 3 hours of reading time.
+5) He can read 10 words per minute.
+6) There are 60 minutes in an hour.
+7) So in 3 hours, he can read 10 words/minute * 60 minutes/hour * 3 hours = 1,800 words.
+
+Answer: 1,800

@@ -1,0 +1,17 @@
+Let's break down the information given into smaller parts.
+
+1. For every 1 minute that Carlotta sings on stage, she spends an additional 3 minutes practicing. So, for every 1 minute, she spends 3 minutes practicing.
+
+2. The final stage performance is 6 minutes long. We can convert the minutes to seconds by multiplying by 60. So, 6 minutes is equal to 360 seconds.
+
+3. Now, we need to calculate the total amount of time Carlotta spends practicing, throwing tantrums, and singing.
+
+For every 1 minute that Carlotta sings on stage, she spends 3 minutes practicing. Since the total stage performance is 360 seconds, we can divide 360 by 1 to find the number of 1-minute intervals she sings on stage: 360 / 1 = 360.
+
+Since Carlotta sings for 360 times 1 minute, she spends a total of 360 x 3 = 1080 seconds practicing. She also spends 5 minutes throwing tantrums, so that is 300 seconds.
+
+So, the total combined amount of time Carlotta spends practicing, throwing tantrums, and singing is 1080 + 300 = 1380 seconds.
+
+To convert this to minutes, we divide 1380 by 60: 1380 / 60 = 23.
+
+Answer: 23

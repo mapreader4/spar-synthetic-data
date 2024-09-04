@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the total number of flowers that contained the color red.
+
+There are 17 flowers that are red and yellow. There are 14 flowers that are red and white. So, the total number of flowers that contain the color red is 17 + 14 = 31.
+
+Now, let's find the total number of flowers that contain the color white. There are 13 flowers that are yellow and white, so the total number of flowers that contain the color white is 13.
+
+To find the difference between the number of flowers that contain the color red and the number of flowers that contain the color white, we can subtract 13 from 31: 31 - 13 = 18.
+
+So, the answer is:
+
+Answer: 18

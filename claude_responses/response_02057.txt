@@ -1,0 +1,17 @@
+Okay, let's think this through step-by-step:
+* Jack weighs 60 pounds
+* Anna weighs 40 pounds
+* The goal is to make their weights equal
+* To do this, Jack needs to add weight to his side of the see-saw
+* Each rock weighs 4 pounds
+* We need to find how many 4-pound rocks Jack needs to add to make the total weight on his side equal to Anna's weight of 40 pounds
+
+To calculate the number of rocks, we need to find the difference between Jack's weight and Anna's weight, and then divide that difference by the weight of each rock.
+
+The difference between their weights is:
+* 60 pounds - 40 pounds = 20 pounds
+
+Since each rock weighs 4 pounds, we divide the 20-pound difference by 4 to get the number of rocks needed:
+* 20 pounds / 4 pounds per rock = 5 rocks
+
+Answer: 5

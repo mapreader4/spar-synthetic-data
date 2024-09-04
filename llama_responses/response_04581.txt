@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. The dairy farm produces 200 gallons of milk every day.
+2. The income from the sale of milk is calculated as follows:
+   - 200 gallons * 31 days in June = 6200 gallons
+   - 6200 gallons * 3.55 = 21,300
+3. The total income in June is the total income from milk sales minus the monthly expenses of $3000:
+   - 21300 - 3000 = 18300
+
+Answer: 18300

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The building has 20 floors.
+2) Each floor is 3 meters high, except for the last two floors.
+3) The last two floors are each 0.5 meters higher than the other floors.
+4) To calculate the total height of the building, we need to:
+   a) Calculate the height of the first 18 floors, which are each 3 meters high.
+      - 18 floors x 3 meters per floor = 54 meters
+   b) Calculate the height of the last two floors, which are each 3.5 meters high.
+      - 2 floors x 3.5 meters per floor = 7 meters
+   c) Add the height of the first 18 floors and the last two floors.
+      - 54 meters + 7 meters = 61 meters
+
+Answer: 61 meters

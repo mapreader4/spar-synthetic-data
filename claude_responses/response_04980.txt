@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The first bowl has a capacity equal to 3/4 the capacity of the second bowl.
+2) The second bowl has 600 marbles.
+3) To find the capacity of the first bowl, we can take 3/4 of the capacity of the second bowl:
+   * Capacity of first bowl = 3/4 * 600 = 450 marbles
+4) The total number of marbles both bowls are holding together is the sum of the marbles in the first bowl and the second bowl:
+   * Total marbles = 450 + 600 = 1050 marbles
+
+Answer: 1050

@@ -1,0 +1,15 @@
+Let's break down the problem step by step:
+
+1. The first tree was 1000 feet tall.
+2. The next two trees were half as tall as the first tree, so they were 1000 / 2 = 500 feet tall.
+3. The last tree was 200 feet taller than the first tree, so it was 1000 + 200 = 1200 feet tall.
+
+To find the average height of the trees, we need to add the heights of all the trees and then divide by the number of trees:
+
+1000 + 500 + 1200 = 2700
+
+There were 3 trees, so we divide the total height by 3:
+
+2700 / 3 = 900
+
+Answer: 900

@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total area of Wendi's property in square yards. Since the property is 200 feet by 900 feet, the area is:
+
+200 feet x 900 feet = 180,000 square feet
+
+Since there are 9 square yards in a square with sides of 30 feet, we can convert the area from square feet to square yards by dividing the area in square feet by 9:
+
+180,000 square feet ÷ 9 = 20,000 square yards
+
+Step 2: Calculate how many square yards can 1 rabbit clear in a day. The problem states that one rabbit can clear 10 square yards of lawn area per day. So, the number of square yards one rabbit can clear in a day is:
+
+10 square yards
+
+Step 3: Calculate how many days it would take for Wendi's 100 rabbits to clear the entire property. We can divide the total area of the property (20,000 square yards) by the number of square yards one rabbit can clear in a day (10) to get:
+
+20,000 square yards ÷ 10 square yards per day = 2,000 days
+
+Step 4: Since Wendi owns 100 rabbits, we can multiply the number of days it would take for one rabbit to clear the property (2,000 days) by the number of rabbits:
+
+2,000 days x 100 rabbits = 200,000 days
+
+Answer: 200,000

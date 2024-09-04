@@ -1,0 +1,43 @@
+Let's break down the problem step by step.
+
+Part 1: Toby pulls the loaded sled for 180 miles at a speed of 10 miles per hour. To find the time taken, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 180 miles / 10 miles/hour
+Time = 18 hours
+
+So, Toby takes 18 hours to pull the loaded sled for 180 miles.
+
+Part 2: Toby pulls the unloaded sled for 120 miles at a speed of 20 miles per hour. Again, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 120 miles / 20 miles/hour
+Time = 6 hours
+
+So, Toby takes 6 hours to pull the unloaded sled for 120 miles.
+
+Part 3: Toby pulls the loaded sled for 80 miles at a speed of 10 miles per hour. Again, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 80 miles / 10 miles/hour
+Time = 8 hours
+
+So, Toby takes 8 hours to pull the loaded sled for 80 miles.
+
+Part 4: Toby pulls the unloaded sled for 140 miles at a speed of 20 miles per hour. Again, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 140 miles / 20 miles/hour
+Time = 7 hours
+
+So, Toby takes 7 hours to pull the unloaded sled for 140 miles.
+
+Now, let's add up the time taken for each part of the journey:
+
+18 hours + 6 hours + 8 hours + 7 hours = 39 hours
+
+Answer: 39

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Kyle baked 60 cookies and 32 brownies
+* Kyle ate 2 cookies and 2 brownies
+* Kyle's mom ate 1 cookie and 2 brownies
+* So the remaining cookies and brownies are:
+    - Cookies: 60 - 2 - 1 = 57 cookies
+    - Brownies: 32 - 2 - 2 = 28 brownies
+* Kyle sells each cookie for $1 and each brownie for $1.50
+* To calculate the total money Kyle will make:
+    - Cookies: 57 cookies x $1 = $57
+    - Brownies: 28 brownies x $1.50 = $42
+* Adding the money from cookies and brownies:
+    - $57 + $42 = $99
+
+Answer: $99

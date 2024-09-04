@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Village Foods gets 500 customers per month
+* Each customer purchases:
+  - 2 heads of lettuce at $1 each
+  - 4 tomatoes at $0.5 each
+* To calculate the total sales of lettuce and tomatoes per month, we need to:
+  1. Calculate the total sales of lettuce:
+     - Each customer buys 2 heads of lettuce
+     - 500 customers x 2 heads of lettuce = 1,000 heads of lettuce
+     - 1,000 heads of lettuce x $1 per head = $1,000 in lettuce sales
+  2. Calculate the total sales of tomatoes:
+     - Each customer buys 4 tomatoes
+     - 500 customers x 4 tomatoes = 2,000 tomatoes
+     - 2,000 tomatoes x $0.5 per tomato = $1,000 in tomato sales
+  3. Add the lettuce and tomato sales together:
+     - $1,000 (lettuce) + $1,000 (tomatoes) = $2,000 total sales
+
+Answer: $2,000

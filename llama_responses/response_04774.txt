@@ -1,0 +1,12 @@
+Let's calculate the total jump of each athlete:
+
+Athlete 1: 26 + 30 + 7 = 63 feet
+Athlete 2: 24 + 34 + 8 = 66 feet
+
+Since Athlete 2 has a higher total jump, they are the winner.
+
+To find the average jump of the winner, we need to divide the total jump by the number of jumps:
+
+66 feet (total) ÷ 3 jumps = 22 feet
+
+Answer: 22

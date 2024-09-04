@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that Mary brought 50 stickers to class, and she gave 4 stickers to each of her 5 friends, so she gave 5 * 4 = 20 stickers to her friends. This means she has 50 - 20 = 30 stickers left over.
+
+Now, we need to find the total number of students in the class, including Mary herself. We know that Mary gave 5 friends 4 stickers each, which means she gave 5 friends 5 * 4 = 20 stickers. This means that there are 5 friends + 1 (Mary) = 6 students in the class. Therefore, the answer is:
+
+Answer: 6

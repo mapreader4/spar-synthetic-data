@@ -1,0 +1,29 @@
+Let's start by identifying the information given to us:
+
+* Celine collected twice as many erasers as Gabriel did.
+* Gabriel collected some number of erasers, let's call that number x.
+* Celine collected 2x erasers, so Celine collected 2x erasers.
+* The total number of erasers is 35.
+
+We can set up an equation to represent the situation:
+
+Celine collected 2x erasers, and Gabriel collected x erasers. The total number of erasers is 35.
+
+We can set up the equation:
+
+2x + x = 35
+
+To solve for x, we can subtract 2x from both sides:
+
+2x + x = 35 - 2x
+
+x = 35 - 2x
+
+Now we can solve for x:
+
+x = 35 - 2x
+x = 35 - 2x
+x = 35 - 35
+x = 0
+
+So, Celine collected 0 erasers.

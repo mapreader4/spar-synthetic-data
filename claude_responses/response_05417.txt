@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* Mary initially weighed 99 pounds
+* She dropped a dozen pounds (12 pounds)
+* Then, she added back twice the weight that she initially lost, which is 2 x 12 = 24 pounds
+* Then, she dropped three times more weight than she initially had lost, which is 3 x 12 = 36 pounds
+* Finally, she gained back half of a dozen pounds, which is 1/2 x 12 = 6 pounds
+
+Now, let's calculate her final weight:
+* Initial weight: 99 pounds
+* Dropped 12 pounds: 99 - 12 = 87 pounds
+* Added 24 pounds: 87 + 24 = 111 pounds
+* Dropped 36 pounds: 111 - 36 = 75 pounds
+* Gained 6 pounds: 75 + 6 = 81 pounds
+
+Answer: 81 pounds

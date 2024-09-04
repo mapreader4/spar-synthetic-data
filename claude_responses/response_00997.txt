@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Ittymangnark catches enough fish for the three of them to eat for the day
+* They split the fish equally between the three of them
+* After splitting the fish, Oomyapeck gets all of the eyes
+* Oomyapeck gives two of the eyes to his dog and eats the rest himself
+* Oomyapeck eats 22 eyes in a day
+
+To find out how many fish each of them will be given to eat, we need to first find out how many fish Ittymangnark caught in total.
+
+Since Oomyapeck eats 22 eyes in a day, and he gives 2 of those eyes to his dog, that means he eats 20 eyes himself.
+* Since each fish has 2 eyes, that means Oomyapeck ate 10 fish (20 eyes / 2 eyes per fish = 10 fish)
+
+Now, since they split the fish equally between the three of them, and Oomyapeck ate 10 fish, that means Ittymangnark and Kingnook each ate 5 fish (15 fish total - 10 fish for Oomyapeck = 5 fish each).
+
+Answer: 5

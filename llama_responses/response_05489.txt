@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many models she could buy for $0.45 each. Since she saves enough to buy 30 models for $0.45 each, that means she has 0.45 * 30 = 13.5 dollars.
+
+Since the price has increased to $0.50, we need to find out how many models she can buy for $0.50 each. To do this, we can divide 13.5 by 0.50.
+
+13.5 / 0.50 = 27
+
+So, Kirsty can buy 27 models now.

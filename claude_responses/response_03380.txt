@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The original price of the bag was $500.
+2) After the first week, the price was reduced by 5%. To calculate the new price, we take the original price and subtract 5% of it:
+   $500 - (5% of $500) = $500 - ($500 * 0.05) = $500 - $25 = $475
+3) Since the bag was still not sold, the price was reduced by 4% a month after. To calculate the new price, we take the previous price and subtract 4% of it:
+   $475 - (4% of $475) = $475 - ($475 * 0.04) = $475 - $19 = $456
+4) The total reduction from the original selling price is the difference between the original price and the final price:
+   $500 - $456 = $44
+
+Answer: 44

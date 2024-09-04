@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Each student has 3 journal-writing sessions per week
+* In each session, each student writes 4 pages
+* We want to know how many journal pages each student will write in 6 weeks
+
+To calculate the total number of pages each student will write in 6 weeks, we need to:
+1. Calculate the number of pages each student writes per week
+2. Multiply the number of pages per week by the number of weeks
+
+Step 1: Calculating the number of pages each student writes per week
+* Each student has 3 journal-writing sessions per week
+* In each session, each student writes 4 pages
+* So, each student writes 3 sessions x 4 pages = 12 pages per week
+
+Step 2: Multiplying the number of pages per week by the number of weeks
+* Each student writes 12 pages per week
+* There are 6 weeks
+* So, each student will write 12 pages per week x 6 weeks = 72 pages in 6 weeks
+
+Answer: 72

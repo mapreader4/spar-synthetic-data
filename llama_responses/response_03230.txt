@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of money Nancy would make from making giraffe statues. If a giraffe statue takes 120 grams of jade and sells for $150, then Nancy can make:
+
+$150 / 120 = $1.25 per gram of jade
+
+Since Nancy has 1920 grams of jade, she can make:
+
+1920 grams x $1.25 per gram = $2400
+
+Now, let's find the amount of money Nancy would make from making elephant statues. An elephant statue takes twice as much jade as a giraffe statue, so it takes 2 x 120 = 240 grams of jade. If it sells for $350, then Nancy can make:
+
+$350 / 240 = $1.46 per gram of jade
+
+Since Nancy has 1920 grams of jade, she can make:
+
+1920 grams x $1.46 per gram = $2787.2
+
+Now, let's find the difference between the two amounts. Nancy would make $2400 from making giraffe statues and $2787.2 from making elephant statues. The difference is:
+
+$2787.2 - $2400 = $387.2
+
+So, Nancy would make $387.2 more money turning it all into elephants instead of giraffes.

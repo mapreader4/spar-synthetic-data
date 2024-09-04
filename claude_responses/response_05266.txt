@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Kenny charges $15 per lawn, and he mowed 35 lawns.
+2) So the total amount of money he earned is:
+   * 35 lawns x $15 per lawn = $525
+3) He wants to buy 5 video-games that cost $45 each.
+   * 5 video-games x $45 per game = $225
+4) The remaining money he has after buying the video-games is:
+   * $525 - $225 = $300
+5) The books cost $5 each.
+6) So the number of books he can buy with the remaining $300 is:
+   * $300 / $5 per book = 60 books
+
+Answer: 60 books

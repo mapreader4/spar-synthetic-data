@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 32 tables at the wedding reception
+* Each table has a fishbowl with 2 fish, except for one table that has 3 fish
+* To find the total number of fish, we need to:
+  1. Calculate the number of fish for the 31 tables with 2 fish each
+  2. Add the 3 fish from the one table with 3 fish
+* Step 1: 31 tables with 2 fish each = 31 * 2 = 62 fish
+* Step 2: 1 table with 3 fish = 3 fish
+* Total number of fish = 62 + 3 = 65 fish
+
+Answer: 65

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the number of brochures is 5000. We know that each box can only contain one-fifth of the brochures, so we can find the number of brochures in each box by dividing 5000 by 5.
+
+5000 ÷ 5 = 1000
+
+So, we need 1000 brochures in each box.

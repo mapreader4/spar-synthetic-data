@@ -1,0 +1,5 @@
+To find the total amount of money Stan pays the magician, we need to multiply the number of hours the magician works by the hourly rate.
+
+The magician works 3 hours every day for 2 weeks, which is 3 * 14 = 42 hours in total.  Since the hourly rate is $60, we multiply 42 hours by $60 to get the total amount: 42 * 60 = 2520.
+
+Answer: 2520

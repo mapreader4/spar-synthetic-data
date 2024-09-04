@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) We are given that there are 100 pieces, each 15 centimeters long, that are cut from a 51-meter long ribbon.
+2) To find the total length of the 100 pieces, we multiply the number of pieces (100) by the length of each piece (15 centimeters):
+100 pieces x 15 cm/piece = 1500 cm
+3) To convert this to meters, we divide by 100 (since 1 meter = 100 centimeters):
+1500 cm / 100 cm/m = 15 meters
+4) The original length of the ribbon was 51 meters, so to find the remaining length, we subtract the length of the 100 pieces from the original length:
+51 meters - 15 meters = 36 meters
+
+Answer: 36

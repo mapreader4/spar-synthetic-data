@@ -1,0 +1,7 @@
+Okay, let's think through this step-by-step:
+1) Ryan wants to make 5 peanut butter sandwiches.
+2) Each sandwich consists of 3 slices of bread.
+3) To calculate the total number of slices of bread needed, we need to multiply the number of sandwiches (5) by the number of slices of bread per sandwich (3).
+4) 5 sandwiches x 3 slices of bread per sandwich = 15 slices of bread.
+
+Answer: 15

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) James has 5 hives, and each hive produces 20 liters of honey.
+2) So the total amount of honey produced is 5 hives x 20 liters per hive = 100 liters of honey.
+3) Each jar can hold 0.5 liters of honey.
+4) James' friend is bringing his own jars for half the honey, so James only needs to buy jars for half the honey, which is 100 liters / 2 = 50 liters of honey.
+5) To calculate the number of jars James needs to buy, we divide the total honey he needs to store (50 liters) by the capacity of each jar (0.5 liters).
+6) 50 liters / 0.5 liters per jar = 100 jars.
+
+Answer: 100

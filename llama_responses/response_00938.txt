@@ -1,0 +1,9 @@
+Let's break this down step by step!
+
+Joe's team won 1 game, which means they got 3 points for that game. They also drew 3 games, which means they got 1 point for each of those games, so they got a total of 3 points for the draws. In total, Joe's team has 3 + 3 = 6 points.
+
+The first-place team won 2 games, which means they got 3 points for each of those games, so they got a total of 2 x 3 = 6 points for the wins. They also tied 2 games, which means they got 1 point for each of those games, so they got a total of 2 x 1 = 2 points for the draws. In total, the first-place team has 6 + 2 = 8 points.
+
+To find out by how many points the first-place team beat Joe's team, we need to subtract the number of points Joe's team has from the number of points the first-place team has: 8 - 6 = 2.
+
+Answer: 2

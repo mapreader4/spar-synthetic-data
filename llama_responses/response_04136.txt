@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Mary can fit a maximum of 20 pounds in the bag. We also know that she buys 4 pounds of green beans and 6 pounds of milk. 
+
+Since green beans are mentioned twice as much as green beans, that means she buys 2 * 4 = 8 pounds of carrots. 
+
+Now, let's add up the total amount of groceries. 4 pounds of green beans + 6 pounds of milk + 8 pounds of carrots = 4 + 6 + 8 = 18 pounds. 
+
+Since Mary can fit a maximum of 20 pounds in the bag, and she has already bought 18 pounds of groceries, that means she can fit 20 - 18 = 2 more pounds of groceries in the bag. 
+
+Answer: 2

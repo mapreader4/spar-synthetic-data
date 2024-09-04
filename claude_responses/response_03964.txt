@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The conference center has 6 rooms.
+2) Each room can hold up to 80 people.
+3) So the total capacity of the conference center is 6 rooms x 80 people per room = 480 people.
+4) The conference center is currently 2/3 full.
+5) To find the number of people in the conference center, we take the total capacity (480 people) and multiply it by the fraction of the conference center that is full (2/3).
+6) 480 people x 2/3 = 320 people.
+
+Answer: 320

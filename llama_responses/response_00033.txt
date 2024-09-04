@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we need to find the number of teaspoons of salt. The problem states that the number of teaspoons of salt is 1/2 times the number of cups of flour. The number of cups of flour is given as 16. So, we can multiply 1/2 by 16 to find the number of teaspoons of salt: 1/2 * 16 = 8.
+
+Next, we need to add the cups of water, flour, and teaspoons of salt together. The number of cups of water is 10, the number of cups of flour is 16, and the number of teaspoons of salt is 8. We can add these numbers together: 10 + 16 + 8 = 34.
+
+Answer: 34

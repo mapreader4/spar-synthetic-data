@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The book is 98 pages long
+* Half of the pages are filled with images, so that's 98 / 2 = 49 pages with images
+* 11 pages are filled with an introduction
+* The remaining pages are 98 - 49 - 11 = 38 pages
+* Half of these remaining 38 pages are blank, so that's 38 / 2 = 19 blank pages
+* The other half of the remaining 38 pages are filled with text, so that's 38 - 19 = 19 pages with text
+
+Answer: 19

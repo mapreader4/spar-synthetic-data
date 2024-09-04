@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Wyatt's mother gave him $74 to go to the store.
+2) Wyatt bought 5 loaves of bread, and each loaf costs $5.
+   * So the total cost of the bread is 5 x $5 = $25.
+3) Wyatt also bought 4 cartons of orange juice, and each carton costs $2.
+   * So the total cost of the orange juice is 4 x $2 = $8.
+4) To find the total amount Wyatt spent, we add the cost of the bread and the orange juice:
+   * $25 + $8 = $33.
+5) To find how much money Wyatt has left, we subtract the total amount spent from the original $74 that his mother gave him:
+   * $74 - $33 = $41.
+
+Answer: 41

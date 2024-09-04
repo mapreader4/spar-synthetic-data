@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say Reese joined the group a month ago. In a month, there are 30 days. If the group has 20 people, then in a month, they would have contributed 20 * 30 = 600 pins. The owner deletes 5 pins per week per person, so in a month, the owner would delete 5 * 4 = 20 pins. So, the total number of pins left would be 600 - 20 = 580.
+
+Reese has been a member of the group for a month, so they would have contributed 20 * 4 = 80 pins. The total number of pins would be 580 + 80 = 660.
+
+Answer: 660

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's let x be the number of packages the courier received today.
+
+The courier received 80 packages yesterday, so that is the total number of packages received. And today, the number of packages is twice as much, so it is 2x.
+
+The total number of packages that should be delivered tomorrow is the total of the number of packages received yesterday and today, which is 80 + 2x.
+
+80 + 2x = 80 + 2*2 = 80 + 4 = 84
+
+Answer: 84

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+On Monday, Matt worked for 450 minutes.
+On Tuesday, he worked half the number of minutes he worked on Monday.  Half of 450 is 225.
+So, on Tuesday, Matt worked 225 minutes.
+On Wednesday, he worked for 300 minutes.
+So, to find the difference between the number of minutes Matt worked on Wednesday and Tuesday, we subtract 300 from 225.  300 - 225 is 75.
+
+Answer: 75

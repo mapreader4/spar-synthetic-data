@@ -1,0 +1,11 @@
+Let's think step by step!
+
+Let's start by identifying the number of doughnuts initially available: 50.
+
+Then, we know that each of the 19 staff members ate 2 doughnuts. So, the total number of doughnuts eaten is 19 x 2 = 38.
+
+Now, let's subtract the number of doughnuts eaten from the initial total:
+
+50 - 38 = 12
+
+So, there are 12 doughnuts left.

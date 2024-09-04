@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The TV show was aired for 1.5 hours total
+* There were 3 commercials, each lasting 10 minutes
+* To find the duration of the TV show itself, we need to subtract the total time of the commercials from the total time of the show
+
+First, let's calculate the total time of the commercials:
+* 3 commercials x 10 minutes each = 30 minutes total
+
+Now, let's convert the total time of the show and the commercials to the same unit (minutes):
+* 1.5 hours x 60 minutes/hour = 90 minutes total
+* 30 minutes of commercials
+
+Finally, we can subtract the commercial time from the total time to get the duration of the TV show itself:
+* 90 minutes - 30 minutes = 60 minutes
+
+Converting back to hours:
+* 60 minutes / 60 minutes/hour = 1 hour
+
+Answer: 1 hour

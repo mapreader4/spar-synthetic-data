@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Alice wants 1000 folded paper cranes
+* She folds half of them herself
+* So, she folds 1000 / 2 = 500 paper cranes herself
+* The remaining paper cranes to be folded is 1000 - 500 = 500
+* Her friend folds a fifth of the remaining 500 paper cranes
+* So, her friend folds 500 / 5 = 100 paper cranes
+* The remaining paper cranes that Alice still needs to fold is 500 - 100 = 400
+
+Answer: 400

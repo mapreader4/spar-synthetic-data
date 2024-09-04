@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+* Austin bought 7 robots for his friends
+* Each robot costs $8.75
+* He was charged $7.22 in total for tax
+* He left with $11.53 in change
+
+First, we need to calculate the total cost of the 7 robots:
+* 7 robots x $8.75 per robot = $61.25
+
+Next, we add the tax of $7.22 to the total cost of the robots:
+* $61.25 + $7.22 = $68.47
+
+Finally, we add the $11.53 in change that Austin left with to get the total amount he started with:
+* $68.47 + $11.53 = $80.00
+
+Answer: $80

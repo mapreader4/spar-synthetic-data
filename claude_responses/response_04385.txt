@@ -1,0 +1,15 @@
+Okay, let's think through this step-by-step:
+1) The ratio of white to black scores is 7:6
+2) This means that for every 13 total scores, 7 are white and 6 are black
+3) Since Taylor got 78 yellow scores, we can find the total number of scores used:
+   * 78 yellow scores = 7 white scores + 6 black scores
+   * Total scores = 78 / (7/13) = 182
+4) Now we can find the number of white and black scores used:
+   * White scores = 7/13 * 182 = 98
+   * Black scores = 6/13 * 182 = 84
+5) The difference between the number of black and white scores is:
+   * 84 - 98 = -14
+6) 2/3 of -14 is:
+   * 2/3 * -14 = -9.33
+
+Answer: -9

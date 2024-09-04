@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) John uses 5 liters of fuel per km.
+2) He plans to travel on two trips:
+   - Trip 1: 30 km
+   - Trip 2: 20 km
+3) To calculate the total fuel needed for the two trips, we need to multiply the distance of each trip by the fuel usage per km.
+4) For the first trip of 30 km, the fuel needed is:
+   - 30 km x 5 liters/km = 150 liters
+5) For the second trip of 20 km, the fuel needed is:
+   - 20 km x 5 liters/km = 100 liters
+6) To get the total fuel needed, we add the fuel needed for each trip:
+   - 150 liters + 100 liters = 250 liters
+
+Answer: 250 liters

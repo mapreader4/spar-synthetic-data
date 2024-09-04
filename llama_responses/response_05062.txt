@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of rooms with 4 windows. We know that 5 rooms have 4 windows, so that's 5 x 4 = 20 windows. We also know that 8 rooms have 3 windows each, so that's 8 x 3 = 24 windows.
+
+Now, let's find the total number of windows that are not in the 5 rooms with 4 windows or the 8 rooms with 3 windows. We know that the total number of windows is 122. We can subtract the 20 windows from the 5 rooms with 4 windows and the 24 windows from the 8 rooms with 3 windows. This gives us:
+
+122 - 20 - 24 = 78
+
+So, 78 windows are left. These 78 windows must be in the rooms that have 2 windows each. Therefore, the number of rooms with 2 windows is:
+
+Answer: 39

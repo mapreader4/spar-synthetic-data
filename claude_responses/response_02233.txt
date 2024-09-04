@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jorge eats 7 croissants for breakfast
+* Giuliana eats 7 croissants for breakfast
+* So the total number of croissants consumed by both of them is 7 + 7 = 14 croissants
+* Jorge eats 18 cakes after school
+* Giuliana eats 18 cakes after school
+* So the total number of cakes consumed by both of them is 18 + 18 = 36 cakes
+* Jorge eats 30 pizzas before bedtime
+* Giuliana eats 30 pizzas before bedtime
+* So the total number of pizzas consumed by both of them is 30 + 30 = 60 pizzas
+* To find the total number of croissants, cakes, and pizzas consumed, we add the totals for each:
+* 14 croissants + 36 cakes + 60 pizzas = 110 items
+
+Answer: 110

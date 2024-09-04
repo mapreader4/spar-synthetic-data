@@ -1,0 +1,13 @@
+Let's break down the information into smaller steps:
+
+1. The first customer buys 5 boxes.
+2. The second customer buys 4 times more than the first customer, which is 5 x 4 = 20.
+3. The third customer buys half as much as the second customer, which is 20 / 2 = 10.
+4. The fourth customer buys 3 times as much as the third customer, which is 10 x 3 = 30.
+5. The final customer buys 10 boxes.
+
+Adding up the number of boxes bought by each customer, we get: 5 + 20 + 10 + 30 + 10 = 65.
+
+Jill wants to sell at least 150 boxes. 150 - 65 = 85.
+
+Answer: 85

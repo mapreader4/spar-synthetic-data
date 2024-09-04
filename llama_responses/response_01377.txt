@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start by letting d be the number of ducks Adelaide bought.
+
+Ephraim bought 45 fewer ducks than Kolton, so Ephraim bought 45 + 1 = 46 ducks.
+
+Adelaide bought twice the number of ducks Ephraim bought, so Adelaide bought 46 * 2 = 92 ducks.
+
+Kolton bought the remaining number of ducks, which is 30.
+
+To find the average number of ducks the three bought, we add the number of ducks each bought:
+
+92 + 46 + 30 = 168
+
+Answer: 168

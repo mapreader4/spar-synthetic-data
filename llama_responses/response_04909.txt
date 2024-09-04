@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of cows with a red spot. 40% of the total number of cows have a red spot. Since there are 140 cows in total, we can find the number of cows with a red spot by multiplying 40% of 140 by 0.4.
+
+0.4 x 140 = 56
+
+So, 56 cows have a red spot.
+
+Next, let's find the number of cows without a red spot. We know that 25% of the cows without a red spot have a blue spot. Since 100% of the cows are either with a red spot or without a spot, we can find the number of cows without a spot by subtracting the number of cows with a red spot from the total number of cows.
+
+Total number of cows = 140
+Number of cows with a red spot = 56
+Number of cows without a spot = 140 - 56 = 84
+
+So, 84 cows do not have any spot.
+
+Answer: 84

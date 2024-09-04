@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) We know that Tom and Devin have been teaching for a total of 70 years.
+2) We also know that Devin has been teaching for 5 less than half the number of years that Tom has.
+3) Let's call the number of years Tom has been teaching "x".
+4) Then, Devin has been teaching for (x/2) - 5 years.
+5) The total number of years they have been teaching is 70, so we can write the equation:
+x + (x/2) - 5 = 70
+6) Solving for x, we get:
+3x/2 - 5 = 70
+3x = 140
+x = 46.67 years
+7) Since the number of years must be an integer, we round down to 46 years.
+
+Answer: 46

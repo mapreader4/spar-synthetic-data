@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Find the number of customers each person served.
+
+Ann and Becky work for 8 hours, and each serves 7 customers per hour. So, Ann and Becky together serve 7 * 8 = 56 customers.
+
+Julia worked for 6 hours, and she serves 7 customers per hour. So, Julia served 7 * 6 = 42 customers.
+
+Step 2: Add the number of customers served by each person.
+
+Ann and Becky served 56 customers, and Julia served 42 customers. To find the total number of customers served by all three women, we add 56 + 42 = 98.
+
+Answer: 98

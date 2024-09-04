@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Beatrice looked at 8 TVs at one store in person
+* She then looked at three times as many TVs at an online store
+* 3 x 8 = 24 TVs at the online store
+* In total, she looked at 8 + 24 = 32 TVs so far
+* She looked at 42 TVs in all
+* To find how many she looked at on the auction site, we subtract the number of TVs she looked at in person and online from the total:
+* 42 - 32 = 10 TVs on the auction site
+
+Answer: 10

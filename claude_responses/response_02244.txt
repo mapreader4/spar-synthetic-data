@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Let's define the variables:
+  - Let x = the number of roosters
+  - Let y = the number of hens
+* We know that the farm has 5 less than 9 times the amount of hens as roosters, so we can write this as:
+  - y = 9x - 5
+* We also know that the total number of chickens is 75, so we can write this as:
+  - x + y = 75
+* Substituting the first equation into the second equation, we get:
+  - x + (9x - 5) = 75
+  - 10x - 5 = 75
+  - 10x = 80
+  - x = 8
+* Now that we know the number of roosters is 8, we can plug this back into the first equation to find the number of hens:
+  - y = 9(8) - 5
+  - y = 72 - 5
+  - y = 67
+
+Answer: 67

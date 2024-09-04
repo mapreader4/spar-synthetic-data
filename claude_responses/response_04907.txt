@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. The first building has 4000 units.
+2. The second building has 2/5 times as many units as the first building.
+   * 2/5 of 4000 = 0.4 * 4000 = 1600 units
+3. The third building has 20% more units than the second building.
+   * 20% of 1600 = 0.2 * 1600 = 320 units
+   * 1600 + 320 = 1920 units
+
+Now, we add up the total number of units across all three buildings:
+* 4000 + 1600 + 1920 = 7520 units
+
+Answer: 7520

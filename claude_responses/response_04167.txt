@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Andrew originally invited 2 friends: Brian and Samuel
+* For each of these 2 friends, Andrew asked his mother to buy 3 donuts
+* So for the original 2 friends, Andrew's mother needs to buy 2 x 3 = 6 donuts
+* Andrew then invited 2 more friends
+* For each of these 4 friends (the original 2 plus the 2 new ones), Andrew's mother wants to buy 1 extra donut, just in case
+* So for the 4 friends, Andrew's mother needs to buy 4 x (3 + 1) = 4 x 4 = 16 donuts
+* Finally, Andrew's mother will also buy the same amount of donuts for Andrew as for his friends
+* So the total number of donuts Andrew's mother needs to buy is 6 + 16 + 4 = 26 donuts
+
+Answer: 26

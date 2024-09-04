@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. The iPhone 12 costs $800 originally, and has a 15% discount.
+   * 15% of $800 is $120.
+   * The discounted price of the iPhone 12 is $800 - $120 = $680.
+
+2. The iWatch costs $300 originally, and has a 10% discount.
+   * 10% of $300 is $30.
+   * The discounted price of the iWatch is $300 - $30 = $270.
+
+3. The total cost of the iPhone 12 and iWatch after the initial discounts is $680 + $270 = $950.
+
+4. Dexter will receive a further 2% cashback discount on the total cost.
+   * 2% of $950 is $19.
+   * The final total cost after the cashback discount is $950 - $19 = $931.
+
+Answer: $931

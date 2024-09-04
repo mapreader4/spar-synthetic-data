@@ -1,0 +1,25 @@
+Okay, let's break this down step by step:
+* The bread was 2 times cheaper than the butter
+* The price of the butter was 80% of the price of cheese
+* The tea cost $10 and was the most expensive item, costing twice the price of a package of cheese
+
+First, let's find the price of the cheese:
+* The tea cost $10 and was twice the price of the cheese
+* So the price of the cheese is $10 / 2 = $5
+
+Now, let's find the price of the butter:
+* The price of the butter was 80% of the price of the cheese
+* So the price of the butter is $5 * 0.8 = $4
+
+Finally, let's find the price of the bread:
+* The bread was 2 times cheaper than the butter
+* So the price of the bread is $4 / 2 = $2
+
+Now we can add up the total cost of Ursula's purchases:
+* Butter: $4
+* Bread: $2
+* Cheese: $5
+* Tea: $10
+* Total: $4 + $2 + $5 + $10 = $21
+
+Answer: $21

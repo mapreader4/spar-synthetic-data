@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jillian had 80 oranges
+* She divided each orange into 10 equal pieces
+* Each friend received 4 pieces
+
+To find the number of friends, we need to calculate the total number of pieces and then divide it by the number of pieces each friend received.
+
+The total number of pieces:
+* 80 oranges x 10 pieces per orange = 800 pieces
+
+Each friend received 4 pieces, so the number of friends is:
+* 800 pieces / 4 pieces per friend = 200 friends
+
+Answer: 200

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* John plays at the arcade for 3 hours
+* 1 hour = 60 minutes
+* 3 hours = 3 * 60 minutes = 180 minutes
+* He uses $0.50 for every 6 minutes
+* To calculate the total amount of money spent, we need to divide the total minutes by 6, and then multiply by $0.50
+* 180 minutes / 6 minutes per $0.50 = 30 * $0.50 = $15.00
+
+Answer: $15

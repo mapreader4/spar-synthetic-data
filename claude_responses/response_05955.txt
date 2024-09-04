@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+* John takes a pill every 6 hours
+* There are 24 hours in a day
+* So, John takes 24 / 6 = 4 pills per day
+* There are 7 days in a week
+* So, John takes 4 pills per day x 7 days per week = 28 pills per week
+
+Answer: 28

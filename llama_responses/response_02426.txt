@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the amount Wendy received is x. Then, the amount Nina received is $8000 less than Kelly's amount. This means that Kelly received 8000 + x.
+
+We know that Kelly received twice the amount Wendy received. So, Kelly's amount is 2x.
+
+We can set up an equation to solve for x. 2x = 20000 - 8000.
+
+To solve for x, we can subtract 8000 from both sides of the equation. 2x = 12000.
+
+To find the value of x, we can divide both sides of the equation by 2. x = 6000.
+
+So, the answer is 6000.
+
+Answer: 6000.

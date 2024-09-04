@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Dr. Banks had 330 toothbrushes to give away
+* In January, he gave away 53 toothbrushes
+* In February, he gave away 67 toothbrushes
+* In March, he gave away 46 toothbrushes
+* In April and May, he gave away the remaining toothbrushes, half each month
+
+First, let's calculate the total number of toothbrushes given away in the first 3 months:
+* 53 + 67 + 46 = 166 toothbrushes
+
+Now, let's calculate the remaining toothbrushes:
+* 330 - 166 = 164 toothbrushes
+
+Since he gave away the remaining toothbrushes in April and May, he gave away 82 toothbrushes in each of those months.
+
+The busiest month was February, when he gave away 67 toothbrushes.
+The slowest month was March, when he gave away 46 toothbrushes.
+
+To find the difference between the busiest and slowest months, we subtract:
+* 67 - 46 = 21 toothbrushes
+
+Answer: 21

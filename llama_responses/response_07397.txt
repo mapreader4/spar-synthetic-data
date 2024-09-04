@@ -1,0 +1,17 @@
+To solve this problem, I will break it down step by step.
+
+Let's start by identifying the information given in the problem. We know that Ryan wants to fund a $1,000 business and he already has $200. We are also given that the average person will fund $10 to a project they're interested in.
+
+Let's assume that the average person will fund $10 to a project they're interested in, then the number of people Ryan will need to recruit to fund a $1,000 business is equal to the total amount of money needed to fund the business ($1,000) divided by the amount each person will fund ($10).
+
+To find the number of people Ryan will need to recruit, we can set up the equation as follows:
+
+Number of people = Total amount needed to fund the business / Amount each person will fund
+
+Number of people = $1,000 / $10
+
+To solve for the number of people, we can divide $1,000 by $10:
+
+$1,000 ÷ $10 = 100
+
+Answer: 100

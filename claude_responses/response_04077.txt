@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The total population of the three towns is 80,000 people.
+2) Gordonia has 1/2 times the total population in the three cities. This means Gordonia's population is 1/2 * 80,000 = 40,000 people.
+3) The population of Toadon is 60 percent of Gordonia's population. This means Toadon's population is 0.6 * 40,000 = 24,000 people.
+4) Now we can calculate the population of Lake Bright by subtracting the populations of Gordonia and Toadon from the total population:
+   Total population = 80,000
+   Gordonia population = 40,000
+   Toadon population = 24,000
+   Lake Bright population = 80,000 - 40,000 - 24,000 = 16,000
+
+Answer: 16,000

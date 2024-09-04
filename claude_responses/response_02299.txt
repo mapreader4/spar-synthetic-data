@@ -1,0 +1,15 @@
+To solve this problem, we need to find the total number of games played and then calculate the percentage of games Archibald has won.
+
+Given information:
+- Archibald has won 12 games.
+- Archibald's brother has won 18 games.
+
+Step 1: Find the total number of games played.
+Total games played = Archibald's wins + Archibald's brother's wins
+Total games played = 12 + 18 = 30 games
+
+Step 2: Calculate the percentage of games Archibald has won.
+Percentage of games Archibald has won = (Archibald's wins / Total games played) × 100
+Percentage of games Archibald has won = (12 / 30) × 100 = 40%
+
+Answer: 40%

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the original price of the ticket: $2000.
+
+Since Travis is a student, he will get a 30% discount on the ticket price. To find the discount, we need to find 30% of the original price.
+
+To find 30% of the original price, we can multiply the original price by 0.3. So, 0.3 * 2000 = 600.
+
+Now, we need to subtract the discount from the original price to find the discounted price. So, we subtract 600 from 2000, which gives us:
+
+2000 - 600 = 1400
+
+So, Travis needs to pay $1400 for his ticket.

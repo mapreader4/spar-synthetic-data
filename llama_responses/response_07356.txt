@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the number of ways he can choose from each category.
+
+Denmark can choose 3 cheese options, so he has 3 choices for cheese.
+
+Denmark can choose 4 meat options, so he has 4 choices for meat.
+
+Denmark can choose 5 vegetable options, so he has 5 choices for vegetables. However, he cannot choose peppers, so we need to subtract 1 from 5, leaving him with 4 options.
+
+Now, let's find the total number of combinations.
+
+Denmark can choose 3 cheese options, and 4 meat options, and 4 vegetable options. We can multiply these together to get 3 * 4 * 4 = 24.
+
+However, we need to subtract the option that includes peppers, since he cannot have peppers. There is only 1 option that includes peppers, so we subtract 1 from 24 to get 23.
+
+Answer: 23

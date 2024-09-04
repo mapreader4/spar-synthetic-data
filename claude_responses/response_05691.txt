@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Arthur ordered:
+  - Appetizer: $8
+  - Entrée (ribeye steak): $20
+  - 2 glasses of wine: $3 each, so $6 total
+  - Dessert (cheesecake): $6
+* He used a voucher for 50% off the entrée, so the discounted price of the entrée was $10 (half of $20).
+* The total cost of the meal before tip was:
+  - Appetizer: $8
+  - Discounted Entrée: $10
+  - Wine: $6
+  - Dessert: $6
+  - Total: $8 + $10 + $6 + $6 = $30
+* He tipped 20% of the full cost of the meal, which would have been $40 (without the discount). 20% of $40 is $8.
+* Therefore, the total amount Arthur spent on dinner, including the tip, is:
+Answer: $30 + $8 = $38

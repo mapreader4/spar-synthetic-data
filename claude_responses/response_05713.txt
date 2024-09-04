@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Tina's mile time is 6 minutes.
+2) Tony can run a mile twice as fast as Tina, so Tony's mile time is 3 minutes.
+3) Tom is three times as fast as Tina, so Tom's mile time is 2 minutes.
+4) To find the total time of all three runners, we add their individual mile times:
+   Tony's time: 3 minutes
+   Tina's time: 6 minutes
+   Tom's time: 2 minutes
+   Total time: 3 + 6 + 2 = 11 minutes
+
+Answer: 11

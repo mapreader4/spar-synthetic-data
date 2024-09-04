@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's first find the number of words Matt can write with his right hand in 1 minute.
+
+He can write 10 words with his right hand in 1 minute. So, in 5 minutes, he can write 10 * 5 = 50 words.
+
+Now, let's find the number of words he can write with his left hand in 1 minute.
+
+He can write 7 words with his left hand in 1 minute. So, in 5 minutes, he can write 7 * 5 = 35 words.
+
+Now, let's find the number of words he would write with his right hand in 5 minutes.
+
+It would be 50 - 35 = 15 words.
+
+Answer: 15

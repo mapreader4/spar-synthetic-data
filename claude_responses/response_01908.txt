@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Taylor has 4 pets
+* 3 of his friends each have twice as many pets as Taylor, so each of them has 2 x 4 = 8 pets
+* The total number of pets from those 3 friends is 3 x 8 = 24 pets
+* Another 2 of his friends have 2 pets each, so that's 2 x 2 = 4 pets
+
+Now, to calculate the total number of pets they have together:
+* Taylor's pets: 4
+* Pets from the 3 friends with twice as many: 24
+* Pets from the 2 friends with 2 each: 4
+* Total number of pets = 4 + 24 + 4 = 32
+
+Answer: 32

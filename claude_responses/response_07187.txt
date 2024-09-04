@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) Let's represent the number of cookies in the jar as x.
+2) If we take 1 cookie away, we would have x-1 cookies in the jar.
+3) If we add 5 cookies, we would have x+5 cookies in the jar.
+4) The problem states that taking 1 cookie away would leave half as many in the jar as if 5 were added.
+5) So we can write the equation: (x-1) = (x+5)/2
+6) Solving for x, we get:
+2(x-1) = x+5
+2x - 2 = x + 5
+x = 7
+Answer: 7

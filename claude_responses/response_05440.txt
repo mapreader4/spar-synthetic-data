@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jaime saves $50 per week
+* Every two weeks, she spends $46 on a lunch with her mum
+* We need to find how long it will take her to save $135
+
+First, let's calculate how much she saves in a two-week period:
+* 2 weeks x $50 per week = $100 saved
+
+Next, we need to account for the $46 she spends on the lunch:
+* $100 saved - $46 spent = $54 net savings per two-week period
+
+Now, we can calculate how many two-week periods it will take her to save $135:
+* $135 / $54 per two-week period = 2.5 two-week periods
+
+Since we can't have a fractional number of two-week periods, we need to round up to the nearest whole number:
+* 2.5 two-week periods rounds up to 3 two-week periods
+
+Therefore, it will take Jaime 3 two-week periods, or 6 weeks, to save $135.
+
+Answer: 6

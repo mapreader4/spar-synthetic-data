@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. Let's start with the information given: "She bought 3 times as many packets of drink mix as tent stakes." This means that the number of packets of drink mix is equal to the number of tent stakes. Let's call the number of tent stakes x.
+
+2. The statement "She bought 2 more bottles of water than she did tent stakes" means that the number of bottles of water is 2 more than the number of tent stakes. So, the number of bottles of water is x + 2.
+
+3. We know that Rebecca bought 22 items in total, which includes tent stakes, packets of drink mix, and bottles of water. The number of tent stakes is x, the number of packets of drink mix is x, and the number of bottles of water is x + 2.
+
+4. We can set up an equation to represent the total number of items: x + x + (x + 2) = 22.
+
+5. We can simplify the equation by combining like terms: 2x + x + 2 = 22.
+
+6. To solve for x, we subtract 2 from both sides of the equation: 2x = 20.
+
+7. Divide both sides by 2: x = 10.
+
+So, Rebecca bought 10 tent stakes.
+
+Answer: 10

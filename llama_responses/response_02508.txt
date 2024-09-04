@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total number of employees after the first round of layoffs. If 10% of the original 1000 employees are laid off, that is 100 employees. Then, the number of remaining employees will be 900.
+
+For the second round of layoffs, 10% of the remaining 900 employees will be laid off. That is 90 employees.
+
+For the third round, 10% of the remaining 810 employees will be laid off. That is 81 employees.
+
+So, the total number of employees laid off in total is 100 + 90 + 81 = 271.
+
+Answer: 271

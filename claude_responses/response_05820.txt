@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* On Monday, Mrs. Young made 10 bonnets.
+* On Tuesday and Wednesday combined, she made twice as many as on Monday, which is 2 x 10 = 20 bonnets.
+* On Thursday, she made 5 more than on Monday, which is 10 + 5 = 15 bonnets.
+* On Friday, she made 5 less than on Thursday, which is 15 - 5 = 10 bonnets.
+* So the total number of bonnets she made is:
+  - Monday: 10 bonnets
+  - Tuesday and Wednesday: 20 bonnets
+  - Thursday: 15 bonnets
+  - Friday: 10 bonnets
+  - Total: 10 + 20 + 15 + 10 = 55 bonnets
+* She then divided the 55 bonnets evenly among 5 orphanages.
+* To find the number of bonnets sent to each orphanage, we divide 55 by 5:
+  - 55 ÷ 5 = 11
+
+Answer: 11

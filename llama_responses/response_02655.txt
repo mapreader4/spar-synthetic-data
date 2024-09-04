@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of decorations Trey used. The problem states that he used a nail for each of two-thirds of the decorations, and a thumbtack for each of two-fifths of the rest. This means that the total number of decorations is equal to the number of decorations that got a nail, plus the number of decorations that got a thumbtack.
+
+Let's say the total number of decorations is x. The number of decorations that got a nail is two-thirds of x, which is 2/3x. The number of decorations that got a thumbtack is two-fifths of x, which is 2/5x.
+
+We know that the number of sticky strips is 15, which is equal to the number of decorations that didn't get a nail or a thumbtack. This means that the number of decorations that didn't get a nail or a thumbtack is 15.
+
+We can set up an equation to represent the situation:
+
+2/3x + 2/5x = 15
+
+We can simplify the equation by combining the like terms:
+
+7/15x = 15
+
+To solve for x, we can multiply both sides by 15:
+
+7x = 15*15
+7x = 225
+
+x = 32.5
+
+Since x is the total number of decorations, Trey used 32 nails.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jason takes 30 minutes to cut 1 lawn
+* He cuts 8 yards on both Saturday and Sunday
+* To calculate the total time spent cutting grass, we need to find the total number of yards he cuts and multiply it by the time it takes to cut 1 yard.
+
+The total number of yards he cuts is:
+* 8 yards on Saturday + 8 yards on Sunday = 16 yards
+
+Now, we multiply the total number of yards by the time it takes to cut 1 yard:
+* 16 yards x 30 minutes per yard = 480 minutes
+
+To convert this to hours, we divide the total minutes by 60:
+* 480 minutes / 60 minutes per hour = 8 hours
+
+Answer: 8 hours

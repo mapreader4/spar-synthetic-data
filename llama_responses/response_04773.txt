@@ -1,0 +1,7 @@
+Let's start by subtracting the number of doctors and nurses that quit from the total number of doctors and nurses.
+
+The total number of doctors is 11. The number of doctors that quit is 5, so there are 11 - 5 = 6 doctors left.
+
+The total number of nurses is 18. The number of nurses that quit is 2, so there are 18 - 2 = 16 nurses left.
+
+So, there are 6 doctors and 16 nurses left.

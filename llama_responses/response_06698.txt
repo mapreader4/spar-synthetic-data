@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Marie has 98 unread messages initially. She decides to clear them by reading 20 messages a day. So, in order to clear all her unread messages, she would need to read 98 / 20 = 4.92 days.
+
+Since she gets 6 new messages a day, she will get a total of 6 * 4 = 24 new messages in 4 days. So, the total number of messages she will have at the end of 4 days is 24 + 98 = 122.
+
+However, she still has 98 - 24 = 74 unread messages left. So, it will take her another 98 - 74 = 24 days to clear all her unread messages.
+
+Answer: 24.

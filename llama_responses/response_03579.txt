@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's find out how many cups of water each sibling drinks in a day.
+
+Theo drinks 8 cups of water every day.
+Mason drinks 7 cups of water every day.
+Roxy drinks 9 cups of water every day.
+
+We want to find out how many cups of water the siblings drink in one week. 
+
+We can multiply the number of cups each sibling drinks per day by 7 (since there are 7 days in a week).
+
+Theo drinks 8 cups per day, so in a week, Theo drinks 8 * 7 = 56 cups of water.
+Mason drinks 7 cups per day, so in a week, Mason drinks 7 * 7 = 49 cups of water.
+Roxy drinks 9 cups per day, so in a week, Roxy drinks 9 * 7 = 63 cups of water.
+
+Now, let's add up the number of cups each sibling drinks in a week.
+
+56 + 49 + 63 = 168
+
+Answer: 168

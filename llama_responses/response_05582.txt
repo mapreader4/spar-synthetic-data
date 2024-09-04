@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+Let's first find the total height of the first 100 floors. Since each floor is 16.5 feet, the total height is:
+
+100 * 16.5 = 1650 feet
+
+The 101st floor is 1,673 feet tall. To find the height of the 101st floor, we need to subtract the height of the first 100 floors from the total height of the building:
+
+1,673 - 1650 = 23 feet
+
+Answer: 23

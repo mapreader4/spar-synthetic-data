@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the height of the second building. Since the second building is two times as tall as the first building, and the first building is 600 feet, the second building is 2 x 600 = 1200 feet.
+
+Next, we need to find the height of the third building. The third building is three times as tall as the combined height of the first and second buildings. The combined height of the first and second buildings is 600 + 1200 = 1800 feet, so the third building is 3 x 1800 = 5400 feet.
+
+To find the total height of the three buildings, we add the heights together: 600 + 1200 + 5400 = 7200 feet.
+
+Answer: 7200

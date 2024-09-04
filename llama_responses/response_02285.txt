@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Kendy made 2 online bank transactions. The first transaction was transferring $60 to her mom. This means that the initial amount in Kendy's account decreased by $60.
+
+The second transaction was transferring half of the initial amount, which is $60, to her sister. This means that the initial amount decreased by another $30.
+
+So, the initial amount in Kendy's account was $60 + $30, which is equal to $90.
+
+Answer: 90

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. There are 7 brothers in total.
+2. 3 of them have birthdays in the first half of the year, which is from January to June. 
+   - Since March, April, and May are in the first half of the year, 3 brothers have birthdays in the first half of the year.
+3. 1 brother has a birthday in the second half of the year, which is from July to December.
+   - Since October, November, and December are in the second half of the year, 1 brother has a birthday in the second half of the year.
+4. 1 brother has a birthday in the second half of the year, which is also in the second half of the year.
+5. 2 brothers were born in the second half of the year, which is from July to December.
+   - Since July, August, September, October, and December are in the second half of the year, 2 brothers were born in the second half of the year.
+
+So, in the first half of the year, Santana has to buy 3 + 1 + 1 = 4 presents.
+   In the second half of the year, Santana has to buy 1 + 2 = 3 presents.
+
+Answer: 3

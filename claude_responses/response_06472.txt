@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Teairra has 5 shirts in total
+* 3 of those shirts are plaid
+* That means 2 of the shirts are not plaid (5 - 3 = 2)
+* Teairra has 24 pairs of pants in total
+* 5 of those pants are purple
+* That means 19 of the pants are not purple (24 - 5 = 19)
+* To find the total number of shirts and pants that are neither plaid nor purple, we add the number of non-plaid shirts and the number of non-purple pants:
+* 2 non-plaid shirts + 19 non-purple pants = 21 shirts and pants that are neither plaid nor purple
+
+Answer: 21

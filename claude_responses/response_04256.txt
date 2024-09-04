@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tim does 100 tasks a day
+* Each task pays $1.2
+* He works 6 days a week
+
+To calculate his weekly earnings, we need to:
+1. Calculate his daily earnings
+2. Multiply his daily earnings by the number of days he works per week
+
+Step 1: Calculate his daily earnings
+* 100 tasks per day x $1.2 per task = $120 per day
+
+Step 2: Multiply his daily earnings by the number of days he works per week
+* $120 per day x 6 days per week = $720 per week
+
+Answer: $720

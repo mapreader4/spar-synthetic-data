@@ -1,0 +1,18 @@
+Let's start by identifying the information given in the problem. We know that Jason caught some fish, Ryan caught three times that amount, and Jeffery caught twice that amount. So, let's denote the number of fish Jason caught as x. Then, we know that Ryan caught 3x fish and Jeffery caught 2x fish. We are given that Jeffery caught 60 fish. So, we can write an equation to represent this situation:
+
+x + 3x + 2x = 60
+
+We can start by adding 3x to both sides of the equation to get:
+
+4x = 60
+
+Then, we can divide both sides by 4 to get:
+
+x = 15
+
+So, Jason caught 15 fish. Now, we can multiply 15 by 3 and 2 to find the total number of fish caught by Ryan and Jeffery:
+
+15 * 3 = 45
+15 * 2 = 30
+
+So, the total number of fish caught is 45 + 30 = 75.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say Anna sold 36 glasses of plain lemonade for $0.75 each. So, the total amount of money she made from plain lemonade is:
+
+36 * 0.75 = 27
+
+She also made $16 from selling strawberry lemonade. So, to find out how much more she made from plain lemonade than strawberry, we need to subtract the amount from strawberry lemonade from the total amount of lemonade she made:
+
+27 - 16 = 11
+
+Answer: 11

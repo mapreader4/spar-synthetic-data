@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Melony makes $21 of profit every time she sells 3 shirts
+* This means she makes $7 of profit per shirt (since $21 / 3 = $7)
+* Melony makes four times as much profit when she sells two pairs of sandals
+* This means she makes $84 of profit per two pairs of sandals (since $21 x 4 = $84)
+* She is selling 7 shirts, so her profit from the shirts will be:
+  * 7 shirts x $7 per shirt = $49
+* She is selling 3 pairs of sandals, so her profit from the sandals will be:
+  * 3 pairs / 2 pairs per sale = 1.5 sales
+  * 1.5 sales x $84 per sale = $126
+* To calculate the total profit, we add the profits from the shirts and sandals:
+  * $49 + $126 = $175
+
+Answer: 175

@@ -1,0 +1,16 @@
+Okay, let's think this through step-by-step:
+1) The hallway is 16m long.
+2) The father and son are walking towards each other from opposite ends of the hallway.
+3) The father is walking three times as fast as the son.
+4) Let's say the father's speed is x m/s and the son's speed is y m/s.
+5) Since the father is walking three times as fast as the son, we can say that x = 3y.
+6) The father and son will meet when the distance the father has walked is equal to the distance the son has walked.
+7) The father has walked x * t meters, where t is the time it takes them to meet.
+8) The son has walked y * t meters, where t is the time it takes them to meet.
+9) Since the father and son meet at the same point, we can say that x * t = 16 - y * t.
+10) Substituting x = 3y, we get 3y * t = 16 - y * t.
+11) Solving for t, we get t = 4 seconds.
+12) The distance the father has walked is x * t = 3y * 4 = 12 meters.
+13) Therefore, they will meet 12 meters from the father's end of the hallway.
+
+Answer: 12

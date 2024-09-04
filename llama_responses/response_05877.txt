@@ -1,0 +1,9 @@
+Let's start by calculating the total cost of the expenses.
+
+The total cost of the lemons is $10, the cost of sugar is $5, and the cost of cups is $3.  So, the total cost of the expenses is $10 + $5 + $3 = $18.
+
+Now, the lemonade is sold at $4 per cup, and they sell a total of 21 cups.  So, the total revenue is 21 * $4 = $84.
+
+To find the profit, we need to subtract the cost of the expenses from the revenue.  Profit = Revenue - Expenses.  So, Profit = $84 - $18 = $66.
+
+Answer: 66

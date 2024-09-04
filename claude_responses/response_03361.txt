@@ -1,0 +1,19 @@
+Okay, let's think this through step-by-step:
+* Agnes is currently 25 years old
+* Jane is currently 6 years old
+* We want to find out how many years from now Agnes will be twice as old as Jane
+
+To do this, we need to find out how old Agnes and Jane will be in the future when Agnes is twice as old as Jane.
+
+Let's call the number of years from now "x".
+
+* In x years, Agnes will be 25 + x years old
+* In x years, Jane will be 6 + x years old
+
+We want Agnes to be twice as old as Jane, so:
+* (25 + x) = 2 * (6 + x)
+* 25 + x = 12 + 2x
+* 13 = x
+* So in 13 years, Agnes will be twice as old as Jane.
+
+Answer: 13

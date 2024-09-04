@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Initially, there were 50 racers in the race.
+
+After 20 minutes, 30 more racers joined the race. So, the total number of racers is 50 + 30 = 80.
+
+After another 30 minutes, the total number of racers doubled. So, the total number of racers is 80 * 2 = 160.
+
+At the end of the race, only 130 people finished the race. So, the number of people who dropped before finishing the race is 160 - 130 = 30.
+
+Answer: 30.

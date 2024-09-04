@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+First, we need to find the cost of the first option. The cost of the car rental is $50 a day, excluding gasoline. The distance of the trip is 150 kilometers each way, so the total distance is 300 kilometers. The car will need 300 / 15 = 20 liters of gasoline, and the cost of the gasoline is 20 x $0.90 = $18. So, the total cost of the first option is $50 + $18 = $68.
+
+The second option costs $90 a day, including gasoline. Since the gasoline cost is already included, we don't need to add the cost of gasoline to this option. The total cost of the second option is $90.
+
+Now, we can find the difference in cost between the two options:
+
+$90 (second option) - $68 (first option) = $22
+
+The answer is that they will save $22 if they choose the first option.
+
+Answer: 22

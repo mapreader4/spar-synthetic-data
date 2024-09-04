@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Johnny worked 3 hours on a job that paid $7 per hour
+* So for that job, he earned 3 hours x $7 per hour = $21
+* He then worked 2 hours on a job that paid $10 per hour
+* So for that job, he earned 2 hours x $10 per hour = $20
+* Finally, he worked 4 hours on a job that paid $12 per hour
+* So for that job, he earned 4 hours x $12 per hour = $48
+* Adding up the earnings from all three jobs, we get $21 + $20 + $48 = $89 per day
+* The question states that Johnny repeats this process 5 days in a row
+* So to calculate his total earnings, we multiply his daily earnings by 5 days
+* $89 per day x 5 days = $445
+
+Answer: $445

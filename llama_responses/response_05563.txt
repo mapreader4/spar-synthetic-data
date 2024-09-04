@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the number of citations for off-leash dogs is x. Then, the number of citations for parking fines is twice the number of citations for off-leash dogs, which is 2x.
+
+The total number of citations is the sum of the citations for off-leash dogs and the citations for parking fines, which is x + 2x.
+
+We know that the total number of citations is 24. So, we can set up an equation:
+
+x + 2x = 24
+
+We can then solve for x. Subtract 2x from both sides of the equation:
+
+x + 2x - 2x = 24 - 2x
+
+This simplifies to:
+
+x = 12
+
+So, the number of citations for off-leash dogs is 12, and the number of citations for parking fines is 24 - 12 = 12. Therefore, the warden issued 12 citations for littering and 12 citations for parking fines.
+
+Answer: 24

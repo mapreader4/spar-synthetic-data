@@ -1,0 +1,15 @@
+Let's start by adding the number of legs of each type of animal.
+
+Horses have 2 legs each, so 2 x 2 = 4 legs.
+
+Dogs have 4 legs each, so 5 x 4 = 20 legs.
+
+Cats have 4 legs each, so 7 x 4 = 28 legs.
+
+Turtles have 4 legs each, so 3 x 4 = 12 legs.
+
+The goat has 4 legs, so 1 x 4 = 4 legs.
+
+To find the total number of legs, we add the number of legs of each type of animal: 4 + 20 + 28 + 12 + 4 = 64 legs.
+
+Answer: 64

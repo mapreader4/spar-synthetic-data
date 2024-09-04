@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. Grandma Olga has 3 daughters.
+2. Each of her daughters has 6 sons, so she has a total of 3 * 6 = 18 sons-in-law.
+3. Since each of her sons has 5 daughters, she has a total of 18 * 5 = 90 granddaughters.
+
+So, Grandma Olga has a total of 90 granddaughters.
+
+Answer: 90

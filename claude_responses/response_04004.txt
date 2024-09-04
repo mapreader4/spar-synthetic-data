@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John buys 3 spools of wire
+* Each spool is 20 feet long
+* So the total length of wire he has is:
+  * 3 spools x 20 feet per spool = 60 feet
+* It takes 4 feet to make one necklace
+* To find how many necklaces he can make, we divide the total length of wire by the length needed for one necklace:
+  * 60 feet / 4 feet per necklace = 15 necklaces
+
+Answer: 15

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+There are 7 mL of solution in each of 6 test tubes, which means there are a total of 7 * 6 = 42 mL of solution.
+
+Dr. Igor takes all of the solution and distributes it into 3 beakers.
+
+To find out how much mL of solution is in each beaker, we can divide the total amount of solution by the number of beakers. So, we divide 42 mL by 3.
+
+42 mL ÷ 3 = 14 mL
+
+Answer: 14

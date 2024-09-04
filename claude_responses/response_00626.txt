@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Jessica has 1 hour (60 minutes) to take the exam
+* She has answered 16 out of 80 questions so far
+* She has used 12 minutes of her time
+* We need to find out how much time will be left when she finishes the exam
+
+First, let's calculate her current pace:
+* She has answered 16 questions in 12 minutes
+* That means she answers 16 / 12 = 1.33 questions per minute
+
+Now, let's calculate how long it will take her to answer the remaining 64 questions:
+* 64 questions / 1.33 questions per minute = 48 minutes
+
+Finally, we can calculate the time left when she finishes the exam:
+* Total time = 60 minutes
+* Time used = 12 minutes
+* Time left = 60 minutes - 12 minutes - 48 minutes = 0 minutes
+
+Answer: 0 minutes

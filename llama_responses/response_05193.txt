@@ -1,0 +1,19 @@
+Let's start by identifying the number of flowering plants and fruiting plants Roxy has initially.
+
+Roxy has 7 flowering plants initially, and she has twice as many fruiting plants, so she has 2 * 7 = 14 fruiting plants initially.
+
+On Saturday, she buys 3 flowering plants and 2 fruiting plants, so she now has:
+
+* 7 + 3 = 10 flowering plants
+* 14 + 2 = 16 fruiting plants
+
+After Saturday, Roxy has a total of 10 + 16 = 26 plants.
+
+On Sunday, she gives away 1 flowering plant and 4 fruiting plants to Ronny, so she now has:
+
+* 10 - 1 = 9 flowering plants
+* 16 - 4 = 12 fruiting plants
+
+After Sunday, Roxy has a total of 9 + 12 = 21 plants remaining in her garden.
+
+Answer: 21

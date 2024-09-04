@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's say Jason's grade is x.
+
+Jenny's grade is 95.
+
+Bob's grade is 25 points less than Jenny's, so it is 95 - 25 = 70.
+
+Bob's grade is half of Jason's grade, so it is x / 2.
+
+We know that Jenny's grade is 95, so x / 2 = 95.
+
+x / 2 = 95 -> x = 95 * 2 = 190.
+
+Bob's grade is 70.

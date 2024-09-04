@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jason is hiring 2 construction workers, 1 electrician, and 1 plumber
+* Each construction worker makes $100/day
+* The electrician makes double what a construction worker makes
+* The plumber makes 250% of a construction worker's salary
+
+First, let's calculate the daily pay for each worker:
+* Construction worker: $100/day
+* Electrician: 2 x $100 = $200/day
+* Plumber: 2.5 x $100 = $250/day
+
+Now, we can calculate the total labor costs for one day:
+* 2 construction workers: 2 x $100 = $200
+* 1 electrician: $200
+* 1 plumber: $250
+* Total labor costs: $200 + $200 + $250 = $650
+
+Answer: $650

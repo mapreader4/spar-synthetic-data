@@ -1,0 +1,21 @@
+Let's break down the problem step by step:
+
+1. We know that the final cost of the jeans after the discount is $14.50. This is the price after the additional $10.00 discount on Wednesdays, which is applied after the 50% discount.
+
+2. To find the original price of the jeans before the 50% discount, we can set up an equation:
+
+Let x be the original price of the jeans. The 50% discount is applied first, which is half of the original price, so the price after the discount is:
+
+x - (x * 0.5) = 14.50
+
+3. To find the original price, we can add the $10.00 discount to the discounted price:
+
+x - (x * 0.5) + 10.00 = 14.50
+
+4. To solve for x, we can add 10.00 to both sides of the equation:
+
+x - (x * 0.5) + 10.00 = 14.50
+x - (x * 0.5) = 4.50
+x = 9.00
+
+Answer: 9

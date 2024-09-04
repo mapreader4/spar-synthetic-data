@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+1. We know that Al is 25 pounds heavier than Ben.
+2. We know that Ben is 16 pounds lighter than Carl.
+3. We know that Ed weighs 146 pounds and is 38 pounds lighter than Al.
+4. We need to find the weight of Carl.
+
+From the information provided, we can set up an equation to represent the weight of Carl.
+
+Al - 25 = Ben
+Ben - 16 = Carl
+
+We can subtract 25 from both sides of the equation to get:
+
+Al - 25 - 25 = Ben - 16
+0 = Carl
+
+Now we can solve for Carl.
+
+0 = Carl - 16
+
+Carl = 25 + 16
+Carl = 41
+
+Answer: 41

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, each of the 15 people on the team gave 2 blankets. So, the total number of blankets collected on the first day is:
+   15 people x 2 blankets = 30 blankets
+
+2. On the second day, they tripled the number they collected on the first day by asking door-to-door. So, the total number of blankets collected on the second day is:
+   30 blankets x 3 = 90 blankets
+
+3. On the last day, they set up boxes at schools and got a total of 22 blankets.
+
+4. To find the total number of blankets collected over the three days, we add up the blankets collected on each day:
+   30 blankets (first day) + 90 blankets (second day) + 22 blankets (third day) = 142 blankets
+
+Answer: 142

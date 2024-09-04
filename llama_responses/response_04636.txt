@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Randy had 32 biscuits initially. His father gave him 13 biscuits as a gift. So, Randy now has 32 + 13 = 45 biscuits.
+
+Then, his mother gave him 15 biscuits. So, Randy now has 45 + 15 = 60 biscuits.
+
+Then, Randy's brother ate 20 biscuits. So, Randy now has 60 - 20 = 40 biscuits.
+
+So, Randy is left with 40 biscuits.

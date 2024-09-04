@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the total revenue. Since half of the shirts were black and half were white, we can say that the total number of shirts is 200. The total revenue is the sum of the revenue from the black shirts and the revenue from the white shirts.
+
+The revenue from the black shirts is 200 * 30 = 6000. The revenue from the white shirts is 100 * 25 = 2500. The total revenue is the sum of these two, which is 6000 + 2500 = 8500.
+
+Now, to find the revenue per minute, we need to divide the total revenue by the number of minutes. There were 25 minutes, so the revenue per minute is 8500 / 25 = 340.
+
+Answer: 340

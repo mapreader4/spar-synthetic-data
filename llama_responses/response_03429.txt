@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. Monday to Friday, Elle practices piano for 30 minutes. That is 30 minutes.
+2. On Saturday, she practices piano three times as much as on a weekday. Since a weekday is 5 days, 5 * 30 = 150 minutes. So, she practices piano for 150 minutes on Saturday.
+3. Therefore, the total practice time is 30 + 150 = 180 minutes. There is no practice on Sunday, so we add 0 minutes.
+4. To convert the total time to hours, we divide 180 minutes by 60. 180 / 60 = 3.
+
+Answer: 3

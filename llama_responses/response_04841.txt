@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of Scrabble champions in the last 25 years. We know that there is one champion per year, so the total number of champions is 25.
+
+Now, let's find the number of men with beards among the 25 champions. We know that 40% of the 25 champions are men, which is 10 men. So, the number of men with beards among the champions is 10.
+
+Answer: 10

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Initially, Jose had 400 tabs opened.
+
+He closed 1/4 of the tabs, which is 400 / 4 = 100 tabs. So, he had 400 - 100 = 300 tabs remaining.
+
+Then, he closed 2/5 of the remaining tabs. 2/5 of 300 is 2/5 * 300 = 120 tabs. So, he closed 120 tabs, leaving him with 300 - 120 = 180 tabs.
+
+After that, he closed half of the remaining tabs. Half of 180 is 180 / 2 = 90 tabs. So, he closed 90 tabs, leaving him with 180 - 90 = 90 tabs.
+
+So, Jose had 90 tabs remaining.

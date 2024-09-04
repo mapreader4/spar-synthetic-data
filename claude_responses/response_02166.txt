@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The wheel makes 6 turns every 30 seconds
+* We want to know how many turns it makes in two hours
+* There are 60 seconds in a minute, and 60 minutes in an hour
+* So in one hour, there are 60 x 60 = 3600 seconds
+* In two hours, there are 2 x 3600 = 7200 seconds
+* Since the wheel makes 6 turns every 30 seconds, we can calculate the number of turns in 7200 seconds as follows:
+* 7200 seconds / 30 seconds per 6 turns = 240 sets of 6 turns
+* 240 sets of 6 turns = 240 x 6 = 1440 turns
+
+Answer: 1440

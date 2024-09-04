@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's start by using the information given that the dog's body is 30 inches long. The tail is half the length of the body, so we can set up an equation to represent this:
+
+Let the length of the tail be t. Then, we know that the length of the body is 30, so we can set up the equation as:
+
+t + t = 30
+
+We are trying to find the length of the tail, so we want to solve for t. To do this, we need to subtract the length of the head from both sides of the equation. The head is 1/6 the length of the body, so we can multiply both sides of the equation by 1/6:
+
+t + t = 30
+t + t = 30
+t = 30 - t
+
+Now, we can solve for t:
+
+t = 30 - t
+t = 30 - t
+t = 15
+
+So, the length of the tail is 15 inches.
+
+Answer: 15

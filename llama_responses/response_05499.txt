@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Grayson drives for 1 hour at 25 mph, so he goes 25 miles.
+2. Then, he drives for 0.5 hours at 20 mph. To find the distance he goes during this time, we can multiply 0.5 hours by 20 mph, which gives us 10 miles.
+3. So, Grayson goes a total of 25 + 10 = 35 miles in his motorboat.
+4. Rudy rows for 3 hours at 10 mph. To find the distance he goes during this time, we can multiply 3 hours by 10 mph, which gives us 30 miles.
+5. So, Rudy goes 30 miles.
+6. To find the difference in the distance between Grayson and Rudy, we subtract 30 miles (Rudy's distance) from 35 miles (Grayson's distance). 35 - 30 = 5.
+
+Answer: 5

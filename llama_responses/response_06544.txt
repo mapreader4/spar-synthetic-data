@@ -1,0 +1,7 @@
+Let's start by using a variable to represent George's monthly income. Let's call it x.
+
+George donated half of his income to charity and spent 20 dollars from the other half on groceries. This means that 20 dollars was 1/2 of his income. So, the other half of his income is also 20 dollars. So, the total income minus the 20 dollars spent on groceries will be the remaining amount. Let's represent this as x - 20.
+
+We know that George has 100 dollars left, so the equation is x - 20 = 100. To solve for x, we can add 20 to both sides of the equation to get x = 120.
+
+Answer: 120

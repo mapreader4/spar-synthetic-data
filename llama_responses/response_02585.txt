@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. The full price of the shoes is $85.
+2. Officers who have served at least a year get a 20% discount on the full price, which is 0.2 * 85 = 17.
+3. Officers who have served at least three years get an additional 25% off the discounted price. So, for officers who have served at least three years, the discount is 1.25 * 17 = 21.
+4. To get the final price, we add the two discounts together. 21 - 17 = 4.
+
+Answer: 4

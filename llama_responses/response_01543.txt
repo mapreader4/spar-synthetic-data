@@ -1,0 +1,3 @@
+Let's break this problem down step by step.
+
+Let's start with Ken, who can do 20 sit-ups without stopping. Then, Nathan can do twice as many, which is 2 * 20 = 40. Then, Bob can do half the number of Ken and Nathan's combined sit-ups. To find the total number of sit-ups that Ken and Nathan can do, we add their numbers together, which is 20 + 40 = 60. Now, to find out how many more sit-ups Bob can do compared to Ken, we subtract 60 from 20, which is 60 - 20 = 40. So, the answer is 40.

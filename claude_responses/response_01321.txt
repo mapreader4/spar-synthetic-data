@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The total amount of all the items Pauline wants to buy is $150 before sales tax.
+2) The sales tax is 8% of the total amount purchased.
+3) To calculate the sales tax, we take 8% of $150:
+   * 8% of $150 = 0.08 * $150 = $12
+4) To calculate the total amount Pauline will spend, we add the sales tax to the original total:
+   * $150 + $12 = $162
+
+Answer: 162

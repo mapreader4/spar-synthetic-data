@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Mario has 3 hibiscus plants in his garden
+* The first hibiscus plant has 2 flowers
+* The second hibiscus plant has twice as many flowers as the first hibiscus plant
+   - The first hibiscus plant has 2 flowers
+   - So the second hibiscus plant has 2 x 2 = 4 flowers
+* The third hibiscus plant has four times as many flowers as the second hibiscus plant
+   - The second hibiscus plant has 4 flowers
+   - So the third hibiscus plant has 4 x 4 = 16 flowers
+
+Now, to calculate the total number of blossoms:
+* First hibiscus plant: 2 flowers
+* Second hibiscus plant: 4 flowers
+* Third hibiscus plant: 16 flowers
+* Total blossoms = 2 + 4 + 16 = 22
+
+Answer: 22

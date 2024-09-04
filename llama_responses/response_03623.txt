@@ -1,0 +1,16 @@
+Let's break down the time Mark spends on each activity:
+
+1. Parking: 5 minutes
+2. Walking to the courthouse: 3 minutes
+3. Going through the metal detector: 30 minutes
+4. Going through the metal detector on less crowded days: 10 minutes
+
+We know that there are 5 workdays in a week, and 2 of those days are 30 minutes and 3 days are 10 minutes. So, we can add the time for these days:
+
+30 + 30 + 10 = 70
+
+The other 2 days, which are 3 minutes each, are added to this total:
+
+70 + 6 = 76
+
+So, Mark spends 76 minutes on all these activities in a week with 5 workdays.

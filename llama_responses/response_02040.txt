@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+We know that the small pizza has 8 slices and the large pizza has 14 slices. We also know that they have eaten 9 slices in total.
+
+Let's find the total number of slices they have in total. We can add the number of slices of the small pizza and the large pizza together:
+
+8 (small) + 14 (large) = 22
+
+Now, we know they have eaten 9 slices. To find the number of slices left, we can subtract the number of slices they have eaten from the total number of slices they have:
+
+22 - 9 = 13
+
+So, there are 13 slices left per person.

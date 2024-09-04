@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The big bottles hold 30 ounces and cost 2700 pesetas each.
+* The small bottles hold 6 ounces and cost 600 pesetas each.
+* We want to find the savings of buying a big bottle instead of smaller bottles for the same volume of juice.
+
+First, let's calculate the cost of buying the same volume of juice (30 ounces) using the smaller bottles:
+* 30 ounces / 6 ounces per small bottle = 5 small bottles
+* 5 small bottles x 600 pesetas per bottle = 3000 pesetas
+
+Now, let's calculate the cost of buying a single big bottle:
+* 1 big bottle x 2700 pesetas per bottle = 2700 pesetas
+
+To find the savings, we subtract the cost of the big bottle from the cost of the smaller bottles:
+* 3000 pesetas - 2700 pesetas = 300 pesetas
+
+Answer: 300 pesetas

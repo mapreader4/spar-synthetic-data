@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find the new powerlifting total James has after the increase. We know that he gained 15% on his total and 8 pounds of body weight. To find the new total, we can multiply his original total by 1.15 to account for the 15% increase, and then add the 8 pounds to that result.
+
+So, the new total is 2200 * 1.15 + 8 = 2538.
+
+Next, we need to find the new bodyweight. We know he gained 8 pounds of body weight, so his new bodyweight is 245 + 8 = 253 pounds.
+
+Now, we can find the ratio of his lifting total to bodyweight by dividing the new total by his new bodyweight.
+
+2538 ÷ 253 = 10.
+
+Answer: 10

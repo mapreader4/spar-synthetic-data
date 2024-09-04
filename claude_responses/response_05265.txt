@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Wendy can package 2 dozen chocolates in 5 minutes
+* 1 dozen = 12 chocolates
+* So, in 5 minutes, Wendy can package 2 x 12 = 24 chocolates
+* In 1 hour, there are 60 minutes
+* So, in 1 hour, Wendy can package 60/5 x 24 = 288 chocolates
+* In 4 hours, Wendy can package 4 x 288 = 1,152 chocolates
+
+Answer: 1,152

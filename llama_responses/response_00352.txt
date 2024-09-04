@@ -1,0 +1,9 @@
+Let's think step by step.
+
+Let's first find the total number of cards Punger has. He buys 60 packs of baseball cards. Each pack has 7 cards. So, the total number of cards is 60 * 7 = 420 cards.
+
+He wants to put these cards in special pages. Each page can hold 10 cards. So, we need to find how many times 420 cards can be divided by 10.
+
+420 ÷ 10 = 42.
+
+Answer: 42

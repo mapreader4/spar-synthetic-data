@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+
+1. The tiger escapes at 1 AM and is not noticed missing until 4 AM. That means he had a 3-hour head start.
+2. During this 3-hour head start, he was running at a speed of 25 mph.
+3. So in the first 3 hours, the tiger covered a distance of 25 mph x 3 hours = 75 miles.
+4. It then takes 2 more hours to find him. During this time, he is still running at 25 mph.
+5. So in the additional 2 hours, he covers a distance of 25 mph x 2 hours = 50 miles.
+6. The total distance covered so far is 75 miles + 50 miles = 125 miles.
+7. After 4 hours of running, the tiger slows his speed to 10 mph.
+8. He then gets chased for half an hour going 50 mph.
+9. The distance covered in the final half hour is 50 mph x 0.5 hours = 25 miles.
+10. The total distance the tiger was caught from the zoo is 125 miles + 25 miles = 150 miles.
+
+Answer: 150 miles

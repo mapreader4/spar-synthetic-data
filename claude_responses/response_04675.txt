@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Carolyn initially buys a silverware set with 6 knives, 12 forks, and three times as many spoons as knives.
+2) The number of spoons is 3 times the number of knives, which is 3 x 6 = 18 spoons.
+3) So the initial silverware set has 6 knives, 12 forks, and 18 spoons, for a total of 6 + 12 + 18 = 36 pieces of silverware.
+4) Carolyn's friend then trades her 10 knives for 6 spoons.
+5) After the trade, Carolyn has 6 - 10 = -4 knives, 12 forks, and 18 + 6 = 24 spoons, for a total of 12 + 24 = 36 pieces of silverware.
+6) The percentage of Carolyn's silverware that is knives is 0 / 36 = 0%.
+
+Answer: 0

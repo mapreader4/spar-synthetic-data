@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of packs of marbles Leo gave to Manny and Neil.
+
+Leo gave Manny 1/4 of the number of packs of marbles, which means Manny received 400 * (1/4) = 100 marbles.
+
+Leo gave Neil 1/8 of the number of packs of marbles, which means Neil received 400 * (1/8) = 50 marbles.
+
+So, the total number of marbles given away by Leo is 100 + 50 = 150 marbles.
+
+Leo had 400 marbles initially, and he gave away 150 marbles. So, to find the number of packs he kept, we subtract 150 from 400.
+
+Leo kept 400 - 150 = 250 marbles.
+
+Answer: 250

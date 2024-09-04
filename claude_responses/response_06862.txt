@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 500 people attended the band concert
+* The band gets 70% of the ticket price
+* Each ticket costs $30
+* There are 4 members of the band
+
+First, we need to calculate the total revenue from ticket sales:
+* Total revenue = 500 people x $30 per ticket = $15,000
+
+Next, we need to calculate the amount the band gets, which is 70% of the total revenue:
+* Band's share = 70% of $15,000 = 0.7 x $15,000 = $10,500
+
+Finally, we need to divide the band's share by the number of band members to get the amount each member gets:
+* Amount per band member = $10,500 / 4 members = $2,625
+
+Answer: $2,625

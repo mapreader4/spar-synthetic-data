@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's say the farmer planted x number of ears of corn. For every 4 seeds, he gets 1 ear of corn. So, the total number of ears is x / 4.
+
+Each ear of corn is sold for $0.1. So, the total revenue is 0.1 * x.
+
+The cost of a bag with 100 seeds is $0.5. If the farmer makes a profit of $40, then the revenue is equal to the cost. So, we can set up an equation:
+
+0.1 * x = 0.5 + 40
+
+To solve for x, we can subtract 0.5 from both sides:
+
+0.1 * x = 0.5 + 40 - 0.5
+
+0.1 * x = 39.5
+
+To get x, we can divide both sides by 0.1:
+
+x = 39.5 / 0.1
+
+x = 395
+
+Answer: 395

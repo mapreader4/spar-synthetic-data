@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Anna does the sweeping for 10 rooms, which takes 10 x 3 = 30 minutes.
+
+Billy does 2 loads of laundry, which takes 2 x 9 = 18 minutes.
+
+So, the total time Anna and Billy spend on chores so far is 30 + 18 = 48 minutes.
+
+Since we want them to spend the same amount of time doing chores, and Anna has already done 30 minutes, Billy should do the same amount of time, which is 30 minutes. To get Billy to spend 30 minutes washing dishes, he would need to wash 30 / 2 = 15 dishes.
+
+Answer: 15

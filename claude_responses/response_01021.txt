@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Porche has 3 hours to get all her homework done
+* Her math homework takes her 45 minutes
+* Her English homework takes her 30 minutes
+* Her science homework takes her 50 minutes
+* Her history homework takes her 25 minutes
+* To calculate the total time spent on her homework:
+    - Math: 45 minutes
+    - English: 30 minutes
+    - Science: 50 minutes
+    - History: 25 minutes
+    - Total time spent on homework: 45 + 30 + 50 + 25 = 150 minutes
+* Now, we need to convert the total time spent on homework from minutes to hours:
+    - 150 minutes = 2 hours and 30 minutes
+* Porche has 3 hours to get all her homework done, and she spent 2 hours and 30 minutes on her homework
+* Therefore, the amount of time she has left to get her special project done is:
+    - 3 hours - 2 hours and 30 minutes = 30 minutes
+
+Answer: 30 minutes

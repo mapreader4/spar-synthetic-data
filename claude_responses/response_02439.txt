@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Let's define the variables:
+  - Let M = number of Muscovy ducks
+  - Let C = number of Cayuga ducks
+  - Let K = number of Khaki Campbell ducks
+* We are given the following information:
+  - There are 4 more Muscovy ducks than Cayugas: M = C + 4
+  - There are 3 more than twice as many Cayugas as Khaki Campbells: C = 2K + 3
+  - There are 90 ducks total: M + C + K = 90
+* Substituting the first two equations into the third equation, we get:
+  - (C + 4) + C + (2K + 3) = 90
+  - 2C + 2K + 7 = 90
+  - 2C + 2K = 83
+  - C + K = 41.5
+* Since the number of ducks must be an integer, we can conclude that C = 21 and K = 20.
+* Substituting C = 21 into the first equation, we get:
+  - M = 21 + 4 = 25
+* Therefore, the number of Muscovy ducks is 25.
+
+Answer: 25

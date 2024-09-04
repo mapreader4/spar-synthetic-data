@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem: Mr. Johnson has a prescription with enough pills for 30 days. This means that the total number of pills is 30.
+
+After four-fifths of the days, Mr. Johnson has 12 pills left. This means that he has taken 24 pills, since four-fifths of 30 is equal to 24.
+
+Now, to find the number of pills Mr. Johnson is supposed to take a day, we can divide the total number of pills (30) by the number of days he has taken (24). To do this, we can divide 30 by 24:
+
+30 ÷ 24 = 1.25
+
+So, Mr. Johnson is supposed to take 1.25 pills a day.

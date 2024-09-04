@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+First, we need to find the total time it takes to wash and dry each load.
+
+For the whites:
+- Washing: 72 minutes
+- Drying: 50 minutes
+Total time for whites: 72 + 50 = 122 minutes
+
+For the darks:
+- Washing: 58 minutes
+- Drying: 65 minutes
+Total time for darks: 58 + 65 = 123 minutes
+
+For the colors:
+- Washing: 45 minutes
+- Drying: 54 minutes
+Total time for colors: 45 + 54 = 99 minutes
+
+To find the total time it takes to wash and dry all three loads, we need to add the time for each load together:
+
+122 minutes (whites) + 123 minutes (darks) + 99 minutes (colors) = 344 minutes
+
+Answer: 344

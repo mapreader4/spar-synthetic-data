@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Steve wanted to make a total of $100 within four days
+* The job paid $2 for every pound of lingonberries picked
+* On Monday, he picked 8 pounds
+* On Tuesday, he picked triple the amount he picked on Monday, which is 3 * 8 = 24 pounds
+* On Wednesday, he rested and did not pick any lingonberries
+* To calculate how many pounds he needs to pick on Thursday, we need to find the total amount he has earned so far and then calculate how much more he needs to earn to reach his goal of $100.
+
+On Monday, he earned 8 pounds * $2 = $16
+On Tuesday, he earned 24 pounds * $2 = $48
+Total earned so far = $16 + $48 = $64
+
+He needs to earn a total of $100, so the remaining amount he needs to earn is $100 - $64 = $36.
+
+Since the job pays $2 per pound, he needs to pick $36 / $2 = 18 pounds on Thursday to reach his goal of $100.
+
+Answer: 18 pounds

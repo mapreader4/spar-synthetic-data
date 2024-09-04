@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The American swallow can carry a maximum of 5 pounds of weight
+* The European swallow can carry twice the weight of the American swallow, which is 10 pounds
+* The flock contains 90 swallows
+* The flock contains twice as many American swallows as European swallows
+
+First, let's calculate the number of American swallows and European swallows in the flock:
+* Since the flock contains twice as many American swallows as European swallows, we can say that the number of American swallows is 2x and the number of European swallows is x
+* 2x + x = 90, so x = 30 and 2x = 60
+* Therefore, the flock contains 60 American swallows and 30 European swallows
+
+Now, let's calculate the maximum combined weight the flock can carry:
+* Each American swallow can carry 5 pounds, so the 60 American swallows can carry a maximum of 60 * 5 = 300 pounds
+* Each European swallow can carry 10 pounds, so the 30 European swallows can carry a maximum of 30 * 10 = 300 pounds
+* The maximum combined weight the flock can carry is the sum of the maximum weights for the American and European swallows: 300 + 300 = 600 pounds
+
+Answer: 600

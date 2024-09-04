@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information.
+
+- 40% of 500 students are juniors.
+- 70% of juniors are involved in sports.
+
+We can find the number of juniors involved in sports by multiplying the two percentages together.
+
+First, we can convert the percentage to a decimal by dividing by 100:
+
+40% = 0.4
+70% = 0.7
+
+Now, we can multiply these decimals together:
+
+0.4 x 0.7 = 0.28
+
+Now, we can multiply this decimal by the total number of students:
+
+0.28 x 500 = 140
+
+Answer: 140

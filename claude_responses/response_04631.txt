@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The reporter earns $0.1 per word
+* The reporter earns $60 per article
+* The reporter has to finish 3 stories in the next 4 hours
+* The reporter averages 10 words per minute
+
+First, let's calculate how many words the reporter can write in 4 hours:
+* 10 words per minute x 60 minutes per hour x 4 hours = 2,400 words
+
+Now, let's calculate the reporter's earnings per article:
+* $60 per article x 3 articles = $180
+
+Next, let's calculate the reporter's earnings per word:
+* $0.1 per word x 2,400 words = $240
+
+Finally, let's add the earnings per article and per word to get the total earnings:
+* $180 + $240 = $420
+
+To calculate the earnings per hour, we divide the total earnings by the number of hours:
+* $420 / 4 hours = $105 per hour
+
+Answer: $105 per hour

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+* The test has a total of 40 questions
+* One student got a 95% on the exam
+* 95% of 40 is 38 questions correct
+* Another student got 3 questions wrong out of 40
+* That means the other student got 37 questions correct (40 - 3 = 37)
+* To get the highest score in the class, Hannah needs to get more than 38 questions correct
+* Therefore, Hannah needs to get at least 39 questions correct to have the highest score in the class.
+
+Answer: 39

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The coyote is traveling east at 15 miles per hour
+* The coyote left the footprints 1 hour ago
+* Darrel is traveling east on his motorbike at 30 miles per hour
+
+To find how long it will take for Darrel to catch up to the coyote, we need to first find how far the coyote has traveled in that 1 hour.
+* Distance traveled by coyote = 15 miles per hour x 1 hour = 15 miles
+
+Now, we need to find how long it will take Darrel to travel that 15 miles.
+* Darrel's speed = 30 miles per hour
+* Time taken by Darrel = Distance / Speed = 15 miles / 30 miles per hour = 0.5 hours
+
+Therefore, it will take Darrel 0.5 hours, or 30 minutes, to catch up to the coyote.
+
+Answer: 0.5 hours

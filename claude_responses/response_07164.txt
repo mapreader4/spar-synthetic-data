@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The keyboard is missing 1/7 of the consonants
+* There are 21 consonants in the alphabet
+* 1/7 of 21 is 3
+* So the keyboard is missing 3 consonants
+
+* The keyboard is also missing 2 vowels
+* There are 5 vowels in the alphabet
+* So the keyboard is missing 2 vowels
+
+* To find the total number of keys missing, we add the missing consonants and missing vowels:
+* 3 consonants + 2 vowels = 5 keys missing
+
+Answer: 5

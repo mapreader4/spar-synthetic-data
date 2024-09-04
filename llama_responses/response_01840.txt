@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Ray has 95 cents in nickels. Each nickel is 5 cents, so Ray has 95 / 5 = 19 nickels. Ray gives 25 cents to Peter. So, Ray has 19 nickels left. Ray gives twice as many cents to Randi as he gave to Peter, so Ray gives 2 * 25 = 50 cents to Randi. So, Ray has 19 - 50 = 19 cents left. Ray has 19 cents, which is 3.83 nickels. So, the answer is:
+
+Answer: 3.83

@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+1. Mark played 20 minutes initially.
+2. Then, he rested for some time.
+3. He then played for another 35 minutes.
+4. The total time he was on the field is the sum of the time he played initially and the time he played after the rest.
+
+We can find the total time he was on the field by adding 20 minutes and 35 minutes.
+
+20 + 35 = 55
+
+Answer: 55

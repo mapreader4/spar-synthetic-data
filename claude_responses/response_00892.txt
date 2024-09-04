@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The auto shop has a part that costs $80 each
+* Clark buys 7 of these parts
+* Without any discount, the total cost would be:
+    - 7 parts x $80 per part = $560
+* However, Clark only had to pay $439
+* To find the discount, we need to subtract the amount Clark paid ($439) from the original total cost without the discount ($560)
+* $560 - $439 = $121
+* Therefore, the discount amount is $121.
+
+Answer: 121

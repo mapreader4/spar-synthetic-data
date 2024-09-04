@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Robin walks from his house to the city center, which is 500 meters. So, he walks 500 meters.
+
+Step 2: He realizes he forgot his bag and returns to his house, which means he walks back the 200 meters he initially walked, so he walks 200 meters back.
+
+Step 3: Then, he goes back to the city center, which is 500 meters away from his house. So, he walks 500 meters again.
+
+In total, Robin walks 500 + 200 + 500 = 1200 meters.
+
+Answer: 1200

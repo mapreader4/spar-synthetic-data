@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Trisha spent:
+    - $17 on meat
+    - $22 on chicken
+    - $43 on veggies
+    - $5 on eggs
+    - $45 on dog food
+* So the total amount she spent is:
+    - $17 + $22 + $43 + $5 + $45 = $132
+* When she left the store, she had $35 left.
+* So the amount of money she brought with her at the beginning was:
+    - $132 (total spent) + $35 (amount left) = $167
+
+Answer: 167

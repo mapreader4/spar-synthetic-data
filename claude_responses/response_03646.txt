@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Barney's grocery store ordered 4458 items to restock the shelves
+* They sold 1561 items that day
+* They have 575 items left in the storeroom
+
+To find the total number of items left in the whole store, we need to:
+1. Subtract the number of items sold (1561) from the total number of items ordered (4458)
+2. Add the number of items left in the storeroom (575)
+
+Step 1: 4458 - 1561 = 2897
+Step 2: 2897 + 575 = 3472
+
+Answer: 3472

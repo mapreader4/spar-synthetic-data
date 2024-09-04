@@ -1,0 +1,19 @@
+To solve this problem, we need to find the rate of running for each person and then calculate the difference in the distance they ran per hour.
+
+Given information:
+- Jim ran 16 miles in 2 hours.
+- Frank ran 20 miles in 2 hours.
+
+Step 1: Find the rate of running for Jim.
+Jim's rate of running = Distance / Time
+Jim's rate of running = 16 miles / 2 hours = 8 miles per hour
+
+Step 2: Find the rate of running for Frank.
+Frank's rate of running = Distance / Time
+Frank's rate of running = 20 miles / 2 hours = 10 miles per hour
+
+Step 3: Calculate the difference in the distance they ran per hour.
+Difference in distance per hour = Frank's rate - Jim's rate
+Difference in distance per hour = 10 miles per hour - 8 miles per hour = 2 miles per hour
+
+Answer: 2 miles

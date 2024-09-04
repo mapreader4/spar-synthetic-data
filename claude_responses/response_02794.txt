@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) John repairs 5 cars in total.
+2) 3 of the cars take 40 minutes each to repair.
+   - 3 cars x 40 minutes = 120 minutes
+3) The remaining 2 cars take 50% longer to repair.
+   - 50% longer than 40 minutes is 60 minutes.
+   - 2 cars x 60 minutes = 120 minutes
+4) The total time to repair all 5 cars is 120 minutes + 120 minutes = 240 minutes.
+5) John makes $20 per hour repairing cars.
+   - 240 minutes / 60 minutes per hour = 4 hours
+   - 4 hours x $20 per hour = $80
+
+Answer: $80

@@ -1,0 +1,20 @@
+To solve this problem, we need to calculate the total number of hours Brady worked in the three months and then divide it by the number of months.
+
+Given information:
+- In April, Brady worked 6 hours every day.
+- In June, Brady worked 5 hours every day.
+- In September, Brady worked 8 hours every day.
+
+Step 1: Calculate the total number of hours Brady worked in each month.
+April: 6 hours per day × 30 days = 180 hours
+June: 5 hours per day × 30 days = 150 hours
+September: 8 hours per day × 30 days = 240 hours
+
+Step 2: Calculate the total number of hours Brady worked in the three months.
+Total hours worked = 180 hours + 150 hours + 240 hours = 570 hours
+
+Step 3: Calculate the average number of hours Brady worked per month.
+Average hours per month = Total hours worked / Number of months
+Average hours per month = 570 hours / 3 months = 190 hours
+
+Answer: 190 hours

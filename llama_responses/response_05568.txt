@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+1. Mary wants to make an even number of chocolate and vanilla cupcakes, so she will make an even number of each. Let's call the number of chocolate cupcakes x.
+2. Mary has already made 36 cherry cupcakes, and 48 berry cupcakes. The total number of cupcakes she has made is 36 + 48 = 84.
+3. Mary wants to make 144 cupcakes in total. She has already made 84, so she needs to make 144 - 84 = 60 more cupcakes.
+4. Mary wants to make an equal number of chocolate and vanilla cupcakes. She will make x chocolate and x vanilla cupcakes.
+5. Since she needs to make a total of 60 cupcakes, she will make x + x cupcakes in total. To make this possible, x must be 30.
+
+So, Mary should make 30 chocolate cupcakes and 30 vanilla cupcakes.
+
+Answer: 30

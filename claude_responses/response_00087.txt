@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) John's cow initially weighed 400 pounds.
+2) The cow increased its weight to 1.5 times its starting weight.
+   * 1.5 x 400 pounds = 600 pounds
+3) The cow now weighs 600 pounds.
+4) John can sell the cow for $3 per pound.
+5) The initial value of the cow was:
+   * 400 pounds x $3 per pound = $1,200
+6) The new value of the cow is:
+   * 600 pounds x $3 per pound = $1,800
+7) The difference in value is:
+   * $1,800 - $1,200 = $600
+
+Answer: $600

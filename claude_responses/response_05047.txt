@@ -1,0 +1,29 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, Lucia sent 120 messages, and Alina sent 20 fewer messages than Lucia, so Alina sent 120 - 20 = 100 messages.
+
+2. On the second day, Lucia sent 1/3 of the messages she sent the previous day, which is 120 / 3 = 40 messages. Alina doubled the messages she sent on the first day, which is 100 x 2 = 200 messages.
+
+3. On the third day, they sent the same number of messages as the first day, so Lucia sent 120 messages and Alina sent 100 messages.
+
+Now, let's calculate the total number of messages they sent in those three days:
+
+First day:
+Lucia: 120 messages
+Alina: 100 messages
+Total: 120 + 100 = 220 messages
+
+Second day:
+Lucia: 40 messages
+Alina: 200 messages
+Total: 40 + 200 = 240 messages
+
+Third day:
+Lucia: 120 messages
+Alina: 100 messages
+Total: 120 + 100 = 220 messages
+
+The total number of messages they sent in those three days is:
+220 + 240 + 220 = 680 messages
+
+Answer: 680

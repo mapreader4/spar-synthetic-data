@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Bob buys 50 feet of rope.
+2. He uses a 1/5 of it to make a small piece of art. So, he uses 10 feet.
+3. He takes the rest of the rope and gives half of it to the friend. The rest of the rope is 40 feet. Half of 40 is 20.
+4. He cuts 2-foot sections. So, he cuts 2 sections from the 20-foot section.
+
+To find the total number of sections, we add the 2 sections he cut from the 20-foot section to the 2 sections he cut in total, which is 2.
+
+Answer: 2

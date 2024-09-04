@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* David found $12 on the street
+* He gave the $12 to his friend Evan
+* Evan had $1 before receiving the $12 from David
+* Evan needs to buy a watch worth $20
+
+To calculate how much Evan still needs, we need to add up the money Evan has and then subtract it from the cost of the watch.
+
+Evan has:
+* $1 (original amount)
+* + $12 (received from David)
+* = $13 total
+
+The watch costs $20.
+So, the amount Evan still needs is:
+* $20 (cost of watch)
+* - $13 (total amount Evan has)
+* = $7
+
+Answer: 7

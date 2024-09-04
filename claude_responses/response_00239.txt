@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Frank has:
+  - 7 one-dollar bills
+  - 4 five-dollar bills
+  - 2 ten-dollar bills
+  - 1 twenty-dollar bill
+* So the total amount of money Frank has is:
+  - 7 x $1 = $7
+  - 4 x $5 = $20
+  - 2 x $10 = $20
+  - 1 x $20 = $20
+* Total amount of money Frank has = $7 + $20 + $20 + $20 = $67
+* He spent $63 on peanuts and has $4 in change
+* The peanuts cost $3 per pound
+* So the total amount of peanuts he bought is $63 / $3 = 21 pounds
+* He plans to eat the peanuts all in one week
+* Therefore, the average amount of peanuts he eats per day is 21 pounds / 7 days = 3 pounds per day
+
+Answer: 3 pounds

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* On a normal day, Julia can run a mile in 10 minutes
+* Today, with her new uncomfortable shoes, it takes her 13 minutes to run a mile
+* We want to find how much longer it would take her to run 5 miles in her new shoes compared to her old ones
+
+First, let's calculate how long it would take her to run 5 miles in her old shoes:
+* 5 miles x 10 minutes/mile = 50 minutes
+
+Now, let's calculate how long it would take her to run 5 miles in her new shoes:
+* 5 miles x 13 minutes/mile = 65 minutes
+
+To find the difference, we subtract the time it takes in her old shoes from the time it takes in her new shoes:
+* 65 minutes - 50 minutes = 15 minutes
+
+Therefore, it would take Julia 15 minutes longer to run 5 miles in her new shoes compared to her old ones.
+
+Answer: 15

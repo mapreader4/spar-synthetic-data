@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start with the number of students in the restroom. She knows that there are 2 students in the restroom. Then, she knows that one less than three times that number of students are absent. So, the number of absent students is 2 * 3 - 1 = 5.
+
+Since there are four rows with six desks each, and all of them are 2/3 full, that means that there are 2 * 4 * 6 = 24 students in the classroom. We add the 2 students in the restroom to this number to get the total number of students. So, the total number of students is 24 + 2 = 26.
+
+So, the answer is: Answer: 26

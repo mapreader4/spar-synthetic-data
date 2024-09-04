@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The birthday cake has 240 cake pieces.
+2) After singing the birthday song, they ate 60% of the cake's pieces.
+3) To calculate 60% of 240 pieces, we multiply 240 by 0.6 (60% expressed as a decimal):
+   240 * 0.6 = 144 pieces eaten
+4) The remaining pieces are 240 - 144 = 96 pieces.
+5) Juelz divided the remaining 96 pieces among his three sisters.
+6) To calculate the number of pieces each sister received, we divide the 96 pieces by 3:
+   96 / 3 = 32 pieces per sister.
+
+Answer: 32

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+* There are 9 boys and 12 girls in the class
+* The teacher needs to create groups with three members each
+* To find the total number of groups, we need to find the total number of students and divide it by the number of members per group
+* The total number of students is 9 boys + 12 girls = 21 students
+* Dividing the total number of students (21) by the number of members per group (3), we get:
+21 students / 3 members per group = 7 groups
+
+Answer: 7

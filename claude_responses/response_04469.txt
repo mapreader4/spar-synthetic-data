@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The class wants to order 35 English textbooks and 35 geography textbooks.
+2) Each geography textbook costs $10.50.
+3) Each English textbook costs $7.50.
+4) To calculate the total cost of the geography textbooks, we multiply the number of geography textbooks (35) by the cost of each geography textbook ($10.50):
+35 x $10.50 = $367.50
+5) To calculate the total cost of the English textbooks, we multiply the number of English textbooks (35) by the cost of each English textbook ($7.50):
+35 x $7.50 = $262.50
+6) To get the total cost of the order, we add the cost of the geography textbooks and the cost of the English textbooks:
+$367.50 + $262.50 = $630.00
+
+Answer: $630

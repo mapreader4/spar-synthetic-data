@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Chenny has 10 pieces of candies to be given out. She needs to buy 4 more candies for each of her friends. So, if she needs 4 candies for each friend, the total number of candies needed is 4 * (number of friends).
+
+Step 2: The number of friends is not given, so we need to find that out. Let's call the number of friends x. Then, the total number of candies needed is 4x.
+
+Step 3: Since Chenny has 10 candies, she needs to give 4 candies for each friend. So, the number of friends is 10 / 4.
+
+Step 4: 10 / 4 = 2.5. Since you can't give a fraction of a candy, we round down to the nearest whole number, which is 2. So, Chenny has 2 friends.
+
+Answer: 2

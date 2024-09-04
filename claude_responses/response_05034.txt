@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jackie spends 8 hours working per day
+* Jackie spends 3 hours exercising per day
+* Jackie spends 8 hours sleeping per day
+* To calculate the total time spent on these activities, we add them up:
+   - 8 hours working + 3 hours exercising + 8 hours sleeping = 19 hours
+* There are 24 hours in a day
+* To calculate the free time Jackie has, we take the total hours in a day (24) and subtract the time spent on the other activities (19 hours)
+* 24 hours - 19 hours = 5 hours
+
+Answer: 5

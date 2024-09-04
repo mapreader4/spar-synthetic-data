@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of legs on a single spider. A spider has 8 legs.
+
+If the group of spiders has 10 more spiders than half as many spiders as a single spider, then we need to find the total number of legs in this group of spiders.
+
+Half of the number of legs on a single spider is 8 / 2 = 4.
+
+If there are 10 more spiders than 4 spiders, then the total number of spiders is 4 + 10 = 14.
+
+A spider has 8 legs. Therefore, the total number of legs in this group of spiders is 14 spiders * 8 = 112.
+
+Answer: 112

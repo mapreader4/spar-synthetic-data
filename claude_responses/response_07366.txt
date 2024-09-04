@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The courier received 80 packages yesterday
+* The courier received twice as many packages today as they did yesterday
+* So, the number of packages received today is 2 x 80 = 160 packages
+* The total number of packages that need to be delivered tomorrow is the sum of the packages received yesterday and today
+* The total number of packages is 80 + 160 = 240 packages
+
+Answer: 240

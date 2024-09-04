@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The first student counted 12 squirrels
+* The second student counted a third more squirrels than the first student
+* To calculate the number of squirrels the second student counted, we take the first student's count (12) and add a third of that amount:
+    - 12 + (12 / 3) = 12 + 4 = 16 squirrels
+* Now, to find the total number of squirrels both students counted, we add the counts of the two students:
+    - 12 + 16 = 28 squirrels
+
+Answer: 28

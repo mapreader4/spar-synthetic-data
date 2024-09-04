@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Howard has a collection of 70 wooden bowls
+* He rewards 2 bowls to his customers for every 10 bowls they buy
+* He had 20 customers that day
+* Half of the customers (10) bought 20 bowls each
+
+First, let's calculate the total number of bowls bought by the customers:
+* 10 customers bought 20 bowls each, so that's 10 * 20 = 200 bowls
+
+Next, let's calculate the number of bowls rewarded to the customers:
+* For every 10 bowls bought, the customer receives 2 bowls as a reward
+* So for 200 bowls bought, the customers received 200 / 10 * 2 = 40 bowls as rewards
+
+Finally, to find the number of bowls remaining in the rewards collection, we take the original 70 bowls and subtract the 40 bowls that were rewarded:
+* 70 - 40 = 30 bowls remaining
+
+Answer: 30

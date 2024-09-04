@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Mitchell has 8 packets of gum.
+2) Each packet contains 7 pieces of gum.
+3) So the total number of pieces of gum Mitchell has is 8 packets * 7 pieces per packet = 56 pieces.
+4) Mitchell chews all the gum except for 2 pieces.
+5) So the number of pieces he chews at once is 56 - 2 = 54 pieces.
+
+Answer: 54

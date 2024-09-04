@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+The client needs 10 ladders with 50 rungs, and 20 ladders with 60 rungs. To find the total number of rungs, we can add the number of rungs in each ladder: 10 * 50 + 20 * 60. This gives us 10 * 50 + 20 * 60 = 500 + 1200 = 1700 rungs.
+
+The client needs 1700 rungs, and Jacob charges $2 for every rung. To find the total cost, we can multiply the total number of rungs by the cost per rung: 1700 * 2 = 3400.
+
+Answer: 3400

@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of words she can write in 4 hours. Since she writes 10 words per minute, we can multiply the number of minutes in 4 hours by 60 minutes to get the total number of words she can write in 4 hours:
+
+60 minutes * 4 hours = 240 minutes
+10 words per minute * 240 minutes = 2400 words
+
+So, the total number of words she can write in 4 hours is 2400 words.
+
+Now, we know she earns $.1 per word. So, we can multiply the total number of words she can write in 4 hours by the rate she earns per word:
+
+2400 words * $.1 per word = 240
+
+So, the reporter can expect to earn $240 in 4 hours.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Carly sent 200 job applications to companies in her state
+* She sent twice that number to companies in other states
+* To calculate the number of applications sent to companies in other states, we multiply 200 by 2:
+    * 200 x 2 = 400 applications
+* To calculate the total number of job applications she has sent, we add the number of applications sent to companies in her state and the number sent to companies in other states:
+    * 200 + 400 = 600 applications
+
+Answer: 600

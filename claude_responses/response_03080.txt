@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tony starts with 2 fish
+* Every year, his parents buy him 2 more fish
+* But one of the fish dies each year
+* So, in the first year, he will have:
+  - 2 (original fish) + 2 (new fish) - 1 (died) = 3 fish
+* In the second year, he will have:
+  - 3 (previous year) + 2 (new fish) - 1 (died) = 4 fish
+* In the third year, he will have:
+  - 4 (previous year) + 2 (new fish) - 1 (died) = 5 fish
+* In the fourth year, he will have:
+  - 5 (previous year) + 2 (new fish) - 1 (died) = 6 fish
+* In the fifth year, he will have:
+  - 6 (previous year) + 2 (new fish) - 1 (died) = 7 fish
+
+Answer: 7 fish

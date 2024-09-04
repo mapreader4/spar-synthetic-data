@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) There were 180 apples in each crate, and 12 such crates were delivered to the factory.
+2) To find the total number of apples delivered, we multiply the number of apples per crate (180) by the number of crates (12):
+180 apples per crate x 12 crates = 2,160 total apples delivered.
+3) 160 apples were rotten and had to be thrown away. So the number of good apples remaining is 2,160 - 160 = 2,000 apples.
+4) The remaining apples were packed into boxes of 20 apples each. To find the number of boxes, we divide the total number of good apples (2,000) by the number of apples per box (20):
+2,000 apples / 20 apples per box = 100 boxes.
+
+Answer: 100

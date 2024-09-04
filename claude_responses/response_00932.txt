@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Maia gets 6 client requests every day
+* She works on 4 of them each day
+* We want to know how many client requests she will have remaining to work on after 5 days
+
+First, let's calculate the total number of client requests she gets in 5 days:
+* 6 client requests per day x 5 days = 30 client requests
+
+Next, let's calculate the number of client requests she works on in 5 days:
+* 4 client requests per day x 5 days = 20 client requests
+
+Finally, to find the number of client requests remaining, we subtract the number of client requests worked on from the total number of client requests:
+* 30 client requests - 20 client requests = 10 client requests
+
+Answer: 10

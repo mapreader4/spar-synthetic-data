@@ -1,0 +1,7 @@
+Let's call the number of sweets that are neither red nor green "x".
+
+The total number of sweets is 285, and the number of sweets that are red is 49. The number of sweets that are green is 59. So, the total number of sweets that are red or green is 49 + 59 = 108.
+
+The number of sweets that are neither red nor green is the difference between the total number of sweets and the number of sweets that are red or green. This is 285 - 108 = 177.
+
+Answer: 177

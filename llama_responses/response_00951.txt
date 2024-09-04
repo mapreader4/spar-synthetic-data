@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Michonne invites 6 friends from school, and each of those 6 friends asks if they can bring 2 friends along. That means that the 6 school friends will bring a total of 6 x 2 = 12 additional people to the party. 
+
+Michonne also invites 12 friends from her neighborhood, so the total number of people invited from the neighborhood is 12.
+
+In total, Michonne invites 6 + 12 = 18 people initially. Then, the 6 school friends bring 12 additional people, so the total number of people at the party is 18 + 12 = 30.
+
+Answer: 30

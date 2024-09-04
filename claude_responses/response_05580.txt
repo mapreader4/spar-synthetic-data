@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Arthur charges Jude 5 bottle caps for a car and 6 bottle caps for a truck.
+2) Jude has 100 bottle caps.
+3) Jude buys 10 trucks, which costs him 10 * 6 = 60 bottle caps.
+4) Jude has 100 - 60 = 40 bottle caps remaining.
+5) Jude spends 75% of his remaining 40 bottle caps on cars.
+6) 75% of 40 is 0.75 * 40 = 30 bottle caps.
+7) Jude can buy 30 / 5 = 6 cars with the remaining 30 bottle caps.
+8) In total, Jude buys 10 trucks and 6 cars, for a total of 16 matchbox vehicles.
+
+Answer: 16

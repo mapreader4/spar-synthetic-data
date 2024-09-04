@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* It starts raining at 1 pm
+* In the first hour (1 pm to 2 pm), it rains at a rate of 2 inches per hour
+* So, in the first hour, the tank is filled with 2 inches of water
+* For the next four hours (2 pm to 6 pm), it rains at a rate of 1 inch per hour
+* So, in the next four hours, the tank is filled with 4 more inches of water (1 inch per hour x 4 hours)
+* After that, it rains at a rate of 3 inches per hour for the rest of the day
+* The tank is 18 inches tall
+* So far, the tank has been filled with 2 inches + 4 inches = 6 inches of water
+* To fill the remaining 12 inches (18 inches - 6 inches), it will take 12 inches / 3 inches per hour = 4 hours
+* Therefore, the tank will be filled at 6 pm + 4 hours = 10 pm
+
+Answer: 10 pm

@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+Bob can skip a rock 12 times, so the total number of skips Bob gets is 12.
+Jim can skip a rock 15 times, so the total number of skips Jim gets is 15.
+Since they each skipped 10 rocks, we need to find the total number of skips they got. To do this, we can add the number of skips Bob got to the number of skips Jim got: 12 + 15 = 27.
+So, the total number of skips they got is 27.
+
+Answer: 27

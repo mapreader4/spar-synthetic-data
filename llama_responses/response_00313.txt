@@ -1,0 +1,7 @@
+Let's say the number of toys Hash has is x.
+
+We know that Hash has nine more than half as many toys as Bill has. This means that the number of toys Hash has is 1/2 as many toys as Bill has, so the number of toys Hash has is 1/2 x.
+
+We know that Bill has 60 toys, so the number of toys Hash has is 1/2 of 60, which is 30.
+
+So, the total number of toys the boys have is Hash's number of toys, which is 30 + 30, which is 60.

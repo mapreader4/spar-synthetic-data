@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jason pepper-sprays some raccoons
+* He also pepper-sprays 6 times as many squirrels as raccoons
+* The total number of animals he pepper-sprays is 84
+
+Let's define the variables:
+* Let x = the number of raccoons he pepper-sprays
+* Then the number of squirrels he pepper-sprays is 6x
+
+We know the total number of animals is 84, so we can write the equation:
+x + 6x = 84
+
+Solving for x:
+7x = 84
+x = 84/7
+x = 12
+
+Therefore, the number of raccoons Jason pepper-sprays is 12.
+
+Answer: 12

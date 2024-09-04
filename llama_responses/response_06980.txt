@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Bill starts with 50 donuts in the box.
+
+He eats 2 on the ride in, leaving 50 - 2 = 48 donuts.
+
+The secretary takes 4 more, leaving 48 - 4 = 44 donuts.
+
+Bill leaves the box on his desk and his coworkers steal half of the remaining donuts. Since there are 44 donuts, half of that is 44 / 2 = 22 donuts.
+
+So, his coworkers steal 22 donuts, leaving 44 - 22 = 22 donuts.
+
+Bill brings the box into the meeting with 22 donuts left.
+
+Answer: 22

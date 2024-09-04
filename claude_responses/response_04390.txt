@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Jenna has twice as much money in her bank account as Phil.
+2) Phil has one-third the amount of money that Bob has in his account.
+3) Bob has $60 in his account.
+
+First, let's find out how much money Phil has in his account:
+* Bob has $60 in his account.
+* Phil has one-third the amount of money that Bob has.
+* Therefore, Phil has $60 / 3 = $20 in his account.
+
+Next, let's find out how much money Jenna has in her account:
+* Jenna has twice as much money in her bank account as Phil.
+* Phil has $20 in his account.
+* Therefore, Jenna has $20 x 2 = $40 in her account.
+
+Finally, let's find out how much less money Jenna has in her account than Bob:
+* Bob has $60 in his account.
+* Jenna has $40 in her account.
+* Therefore, Jenna has $60 - $40 = $20 less in her account than Bob.
+
+Answer: $20

@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Let's say the number of pages of the shortest book is x.
+
+Since the book in the middle of her shelf has three times the number of pages of the shortest book, it means that the middle book has 3x pages.
+
+The longest book has 396 pages, so the middle book has 3x pages, where x is the number of pages of the shortest book.
+
+We know that the shortest book has one-fourth of the number of pages of the longest book. So, we can say that x is 1/4 of 396, or 99.
+
+The middle book has 3x pages, so 3x = 3 * 99 = 297.
+
+Answer: 297

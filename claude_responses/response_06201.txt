@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Total number of comic books in the store: 300
+* 30% of the comic books are liked by females
+* Males like 120 comic books
+* The rest of the comic books are disliked by both males and females
+
+First, let's calculate the number of comic books liked by females:
+* 30% of 300 = 0.3 * 300 = 90 comic books
+
+Now, we know that males like 120 comic books. We can subtract this from the total to find the number of comic books disliked by both males and females:
+* 300 - 90 - 120 = 90 comic books
+
+To find the percentage of comic books disliked by both males and females, we divide the number of disliked comic books by the total number of comic books:
+* 90 / 300 = 0.3 = 30%
+
+Answer: 30%

@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's first convert the cost of one bottle of mineral water from euros to dollars. We know that 1 EUR is equal to approximately 1.12 USD, so 1.50 EUR is equal to approximately 1.68 USD.
+
+Since we know that Josette bought 3 bottles of mineral water for 1.50 EUR, then we can multiply 1.68 USD by 3 to find the cost of 3 bottles of mineral water in USD: 1.68 * 3 = 5.04.
+
+Now, we want to find the cost of 4 bottles. We know that the cost of 3 bottles is 5.04 USD, so to find the cost of 4 bottles, we can multiply 5.04 by 4: 5.04 * 4 = 20.16.
+
+So, the answer is:
+
+Answer: 20

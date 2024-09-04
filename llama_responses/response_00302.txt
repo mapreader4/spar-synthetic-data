@@ -1,0 +1,9 @@
+To find the total amount of wrapping paper needed, we need to find the total amount of paper needed for each present, then add it together.
+
+For the first present, 2 square feet of wrapping paper is needed.
+
+For the second present, three-quarters of 2 is 1.5, so 1.5 square feet of wrapping paper is needed.
+
+For the third present, we need the same amount as the first two presents together, which is 2 + 1.5 = 3.5 square feet of wrapping paper.
+
+So, the total amount of wrapping paper needed is 2 + 1.5 + 3.5 = 7.5 square feet.

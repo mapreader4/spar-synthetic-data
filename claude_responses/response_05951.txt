@@ -1,0 +1,23 @@
+Okay, let's break this down step by step:
+* The book has 158 pages
+* Cora read 23 pages on Monday
+* Cora read 38 pages on Tuesday
+* Cora read 61 pages on Wednesday
+* Cora will read twice as much on Friday as she does on Thursday
+
+So, the total number of pages Cora has read so far is:
+* 23 + 38 + 61 = 122 pages
+
+That means she has 158 - 122 = 36 pages left to read.
+
+We know that she will read twice as much on Friday as she does on Thursday. Let's call the number of pages she reads on Thursday 'x'.
+* Then, the number of pages she reads on Friday will be 2x.
+
+The total number of pages she reads on Thursday and Friday must be 36, since that's all she has left to read.
+* x + 2x = 36
+* 3x = 36
+* x = 12
+
+Therefore, Cora needs to read 12 pages on Thursday to finish the book in time.
+
+Answer: 12

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first calculate the cost of the muffins Bob buys each day. Since Bob buys a dozen muffins at $0.75 each, the total cost for the muffins for a day is:
+
+0.75 * 12 = 9.00
+
+Bob sells the muffins for $1.5 each. So, the total revenue is:
+
+1.5 * 12 = 18.00
+
+Now, to find the profit, we subtract the cost from the revenue:
+
+18.00 (revenue) - 9.00 (cost) = 9.00
+
+So, Bob makes a profit of $9.00 each day.

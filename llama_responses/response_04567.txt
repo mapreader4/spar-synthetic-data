@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The bookshop started with 743 books. They sold 37 books in-store and 128 books online. So, they have 743 - 37 - 128 = 668 books left.
+
+Then, they sold twice as many books in-store. So, they sold 37 * 2 = 74 books in-store. They increased their online sales by 34 books. So, they sold 128 + 34 = 162 books online.
+
+Finally, they received a shipment of 160 books. So, they have 668 - 160 = 508 books.
+
+Answer: 508

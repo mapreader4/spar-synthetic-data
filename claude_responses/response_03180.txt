@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Toby wants to have 500 calories for breakfast
+* A piece of bread has 100 calories
+* A serving of peanut butter has 200 calories
+* Toby has one piece of bread
+
+To find the number of servings of peanut butter he should add, we need to calculate the remaining calories needed after accounting for the one piece of bread.
+
+The calories from the one piece of bread is 100 calories.
+The remaining calories needed is 500 calories - 100 calories = 400 calories.
+
+Since each serving of peanut butter has 200 calories, we need to divide the remaining calories needed by 200 to find the number of servings of peanut butter.
+
+400 calories / 200 calories per serving = 2 servings of peanut butter.
+
+Answer: 2

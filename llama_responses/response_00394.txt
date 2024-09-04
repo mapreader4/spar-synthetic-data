@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Chad has 5 nights to enjoy his crackers. 
+2. Each night, he has 5 crackers. 
+3. A box of crackers has 4 sleeves, each holding 28 crackers. 
+4. So, 5 nights * 5 crackers per night = 25 crackers per night.
+5. 25 crackers per night * 5 nights = 125 crackers in total.
+6. A box of crackers has 4 sleeves, each holding 28 crackers. 
+7. 4 sleeves * 28 crackers = 112 crackers per box.
+8. 5 boxes of crackers = 5 * 112 crackers = 560 crackers.
+9. So, 560 crackers will last Chad for 560 / 5 nights = 112 crackers per night.
+
+Answer: 112

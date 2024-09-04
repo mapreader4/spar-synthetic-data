@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* 5 years ago, there were 500 old books in the library
+* 2 years ago, the librarian bought 300 new books
+* 1 year ago, the librarian bought 100 more books than the previous year, which was 300 + 100 = 400 books
+* This year, the librarian donated 200 of the library's old books
+
+To calculate the total number of books in the library now, we need to:
+1. Add the number of books bought in the last 2 years:
+   * 2 years ago: 300 books
+   * 1 year ago: 400 books
+   * Total books bought: 300 + 400 = 700 books
+2. Add the original 500 old books to the 700 new books:
+   * 500 + 700 = 1200 books
+3. Subtract the 200 books that were donated this year:
+   * 1200 - 200 = 1000 books
+
+Answer: 1000

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The recipe calls for pounds of eggs, not a specific number
+* The total amount of eggs needed is 6 pounds
+* We know that 1 egg weighs 1/16 of a pound
+* To find the number of eggs needed, we divide the total weight of 6 pounds by the weight of 1 egg (1/16 pound)
+* 6 pounds / (1/16 pound per egg) = 96 eggs
+
+Now, to convert this to dozens, we divide the total number of eggs by 12 (since there are 12 eggs in a dozen):
+* 96 eggs / 12 eggs per dozen = 8 dozen
+
+Answer: 8 dozen

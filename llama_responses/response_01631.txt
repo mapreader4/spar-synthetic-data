@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say John's sister's current age is 2 times John's age, which is 10. So, her current age is 2 * 10 = 20.
+
+When John is 50 years old, his sister will be 50 years old. But we want to know how old she will be at that time. To find that out, we need to add the years she will have lived from her current age to 50.
+
+So, 50 - 20 = 30.
+
+Answer: 30

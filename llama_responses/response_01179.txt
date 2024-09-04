@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. Rob has a few baseball cards, and a few are doubles. One third of Rob's cards are doubles. Jess has 5 times as many doubles as Rob. 
+
+Let's denote the number of Rob's cards as R and the number of Jess's doubles as J. We know that J = 5R.
+
+We are trying to find the number of Rob's cards. Since Rob has a few doubles, and we know that one third of Rob's cards are doubles, we can write the equation as R = 3/3R.
+
+We know that J = 5R. So, we can write the equation as J = 5R. Since J = 5R, we can solve for R. 
+
+R = 3R/3 = J/5, so R = 3J/15. Since J = 40, we can substitute J = 40, so R = 3(40)/15. R = 8.
+
+Answer: 8

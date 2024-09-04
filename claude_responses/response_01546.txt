@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+* If the woman drives herself, the trip will take 3 hours and 15 minutes, which is 195 minutes.
+* If she takes the airplane, the steps are:
+  1. Drive 10 minutes to the airport
+  2. Wait 20 minutes to board the plane
+  3. Fly for one-third of the driving time, which is 195 / 3 = 65 minutes
+  4. Spend an additional 10 minutes getting off the plane and arriving at the interview site
+* So the total time for the airplane trip is:
+  10 minutes + 20 minutes + 65 minutes + 10 minutes = 105 minutes
+
+Now, to calculate how much faster the airplane is:
+* Driving time: 195 minutes
+* Airplane time: 105 minutes
+* Difference: 195 minutes - 105 minutes = 90 minutes
+
+Answer: 90 minutes

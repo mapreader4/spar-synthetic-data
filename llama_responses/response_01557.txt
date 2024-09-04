@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first calculate the total number of minutes she can tan in the first two weeks. If she tans 30 minutes a day, that's a total of 2 x 30 = 60 minutes in the first week. In the second week, she will tan another 30 minutes a day, so that's 2 x 30 = 60 minutes. In total, she can tan 60 + 60 = 120 minutes in the first two weeks.
+
+Now, we need to subtract the minutes she has already tanned in the first two weeks from the total minutes she can tan in a month. She can tan 200 minutes in a month. So, we subtract 120 from 200, which gives us 80. 
+
+Answer: 80

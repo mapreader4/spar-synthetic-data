@@ -1,0 +1,16 @@
+Let's start by identifying the information given in the problem. We know that the oldest son gets 4 cookies after school, and the youngest son gets 2 cookies after school. Since they both get cookies after school, we can assume that they get cookies after school.
+
+Let's say that there are x days until the box of cookies lasts. Since the oldest son gets 4 cookies each day, he will get 4x cookies in total. The youngest son gets 2 cookies each day, so he will get 2x cookies in total. We know that the total number of cookies is 54. So, we can set up an equation:
+
+4x + 2x = 54
+
+We can add 4x to both sides of the equation to get:
+
+6x = 54
+
+To solve for x, we can divide both sides of the equation by 6:
+
+x = 54/6
+x = 9
+
+So, the box will last 9 days.

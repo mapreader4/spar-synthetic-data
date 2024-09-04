@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* The party was planned to start at 8:00 a.m.
+* Paul arrived at 8:25 a.m.
+* Amoura arrived 30 minutes later than Paul
+* Ingrid was three times later than Amoura
+
+First, let's calculate when Amoura arrived:
+* Paul arrived at 8:25 a.m.
+* Amoura arrived 30 minutes later than Paul
+* So Amoura arrived at 8:55 a.m.
+
+Now, let's calculate when Ingrid arrived:
+* Ingrid was three times later than Amoura
+* Amoura arrived at 8:55 a.m.
+* So Ingrid arrived at 9:25 a.m.
+
+Finally, let's calculate how late Ingrid was:
+* The party was planned to start at 8:00 a.m.
+* Ingrid arrived at 9:25 a.m.
+* So Ingrid was 1 hour and 25 minutes late
+
+Answer: 85 minutes

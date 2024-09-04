@@ -1,0 +1,13 @@
+Let's start by identifying the number of ants Abe finds.
+
+Abe finds 4 ants.
+
+Beth sees 50% more ants than Abe, so Beth sees 4 + 50% = 6 ants.
+
+CeCe watches twice as many ants as Abe, so CeCe watches 4 * 2 = 8 ants.
+
+Duke discovers half as many ants as Abe, so Duke discovers 4 / 2 = 2 ants.
+
+The total number of ants the four children find is the sum of the number of ants each child finds: 4 + 6 + 8 + 2 = 20.
+
+Answer: 20

@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Trevor buys three bouquets of carnations.
+2) The first bouquet has 9 carnations, and the second bouquet has 14 carnations.
+3) The average number of carnations in the bouquets is 12.
+4) To find the number of carnations in the third bouquet, we can use the formula for average:
+Average = (Sum of all values) / (Number of values)
+5) Plugging in the values we have:
+12 = (9 + 14 + x) / 3
+6) Solving for x:
+12 = (23 + x) / 3
+36 = 23 + x
+x = 13
+
+Answer: 13 carnations were in the third bouquet.

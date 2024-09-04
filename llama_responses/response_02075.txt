@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say the son's speed is x m/s. Since the father's speed is 3x, the father's speed is 3x m/s.
+
+Let's denote the distance the father covers in 1 second as d. Since the father is walking three times as fast as the son, the father covers 3d distance in 1 second.
+
+We know that the speed is equal to the distance covered in 1 second, so we can write the equation:
+
+d = x
+
+We know that the total distance from the father's end of the hallway is 16m. So, the distance the son will cover in 1 second is 16/3 times the distance covered by the father in 1 second. So, the distance the son will cover in 1 second is (16/3)d.
+
+The distance the son will cover in 1 second is equal to the distance from the father's end of the hallway. So, the son will cover 16m/3 distance from the father's end of the hallway.
+
+Answer: 16/3

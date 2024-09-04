@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* Ruth ate 1 sandwich
+* Ruth gave 2 sandwiches to her brother
+* Ruth's first cousin ate 2 sandwiches
+* Ruth's two other cousins each ate 1 sandwich, so that's 2 more sandwiches
+* There were 3 sandwiches left
+
+To find the total number of sandwiches Ruth prepared, we need to add up all the sandwiches that were eaten and the 3 sandwiches that were left.
+
+Sandwiches eaten:
+* Ruth: 1
+* Brother: 2
+* First cousin: 2
+* Two other cousins: 2
+
+Total sandwiches eaten: 1 + 2 + 2 + 2 = 7
+
+Sandwiches left: 3
+
+Total sandwiches prepared: Sandwiches eaten + Sandwiches left = 7 + 3 = 10
+
+Answer: 10

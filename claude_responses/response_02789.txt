@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) Maria has 3 test scores: 80, 70, and 90.
+2) The average of these 3 scores is (80 + 70 + 90) / 3 = 240 / 3 = 80.
+3) The desired average for the 4 tests is 85.
+4) To find the score Maria needs on the fourth test, we can use the formula for average:
+   Average = (Sum of all scores) / (Number of scores)
+5) Plugging in the values, we get:
+   85 = (240 + x) / 4
+6) Solving for x, we get:
+   340 = 240 + x
+   x = 340 - 240
+   x = 100
+Answer: 100

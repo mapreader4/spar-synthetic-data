@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The regular admission cost is $8 per person
+* If you watch the movie before 6 P.M., the price is $3 less, which means the discounted price is $8 - $3 = $5 per person
+* Kath is taking 2 siblings and 3 friends, which is a total of 5 people
+* The movie starts at 4 P.M., which is before 6 P.M., so the discounted price of $5 per person applies
+
+To calculate the total cost, we multiply the discounted price of $5 per person by the total number of 5 people:
+* Total cost = 5 people x $5 per person = $25
+
+Answer: $25

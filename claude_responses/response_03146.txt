@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) George can carry 2 buckets per round, and Harry can carry 3 buckets per round.
+2) It takes a total of 110 buckets to fill the pool.
+3) We need to find the minimum number of rounds it will take to fill the pool.
+4) In each round, George and Harry can carry a total of 2 + 3 = 5 buckets.
+5) The number of rounds needed to fill the pool is the total number of buckets (110) divided by the number of buckets carried per round (5).
+6) 110 / 5 = 22 rounds.
+
+Answer: 22

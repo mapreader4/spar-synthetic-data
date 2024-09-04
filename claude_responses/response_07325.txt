@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* John is 15 cm taller than Lena
+* John is 6 cm shorter than Rebeca
+* John's height is 152 cm
+
+First, we can find Lena's height:
+* John is 15 cm taller than Lena
+* So Lena's height = John's height - 15 cm
+* Lena's height = 152 cm - 15 cm = 137 cm
+
+Next, we can find Rebeca's height:
+* John is 6 cm shorter than Rebeca
+* So Rebeca's height = John's height + 6 cm
+* Rebeca's height = 152 cm + 6 cm = 158 cm
+
+Now, to find the height of Lena and Rebeca together:
+* Lena's height = 137 cm
+* Rebeca's height = 158 cm
+* Total height of Lena and Rebeca = 137 cm + 158 cm = 295 cm
+
+Answer: 295 cm

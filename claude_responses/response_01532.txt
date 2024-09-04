@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The fixer uses 30% of the nails in the container to repair the kitchen.
+2) There are 400 nails in the container.
+3) 30% of 400 nails is 0.3 * 400 = 120 nails used for the kitchen.
+4) That leaves 400 - 120 = 280 nails remaining in the container.
+5) The fixer then uses 70% of the remaining 280 nails to repair the fence.
+6) 70% of 280 nails is 0.7 * 280 = 196 nails used for the fence.
+7) That leaves 280 - 196 = 84 nails remaining in the container.
+
+Answer: 84

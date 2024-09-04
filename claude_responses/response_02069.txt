@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Page has 80 pairs of shoes in her closet.
+2) She decides to donate 30% of her collection that she no longer wears.
+   - 30% of 80 pairs = 0.3 * 80 = 24 pairs
+   - So she donates 24 pairs of shoes.
+3) After the donation, she has 80 - 24 = 56 pairs of shoes.
+4) She then buys 6 more pairs to add to her collection.
+   - So she now has 56 + 6 = 62 pairs of shoes.
+
+Answer: 62

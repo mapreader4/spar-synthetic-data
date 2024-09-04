@@ -1,0 +1,25 @@
+Let's break this problem down step by step!
+
+Step 1: Determine the total distance the man will hike.
+Since he hikes for 8 hours a day and 5 days, the total hours he will hike is 8 hours/day x 5 days = 40 hours.
+Since he hikes at a rate of 2.5 mph, the total distance he will hike is 40 hours x 2.5 mph = 100 miles.
+
+Step 2: Calculate the total amount of supplies needed.
+The man knows he needs 0.5 pounds of supplies per mile, so for 100 miles, he will need 0.5 pounds/mile x 100 miles = 50 pounds.
+
+Step 3: Calculate the amount of supplies he can get from the resupply.
+The resupply is 25% as large as his first pack, so if we call the amount of supplies in the first pack x, the resupply is 0.25x.
+
+Step 4: Calculate the total amount of supplies he needs after the resupply.
+The man needs 50 pounds initially, and he will get 0.25x pounds from the resupply. So, the total amount of supplies he needs after the resupply is 50 - 0.25x pounds.
+
+Step 5: Set up an equation to solve for x.
+Let's set up an equation: 50 - 0.25x = y, where y is the amount of supplies he needs after the resupply.
+
+Step 6: Solve for x.
+To solve for x, we can add 0.25x to both sides of the equation: 50 = 0.25x + y. Then, subtract 0.25x from both sides: 50 - 0.25x = y.
+
+Step 7: Solve for x.
+50 - 0.25x = y, so x = (50 - y) / 0.25.
+
+Answer: 200

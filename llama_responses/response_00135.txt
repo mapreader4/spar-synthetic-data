@@ -1,0 +1,17 @@
+To solve this problem, we can start by identifying the information given in the statement. The statement is "Kennedy's house is 600 square feet larger than 4 times Benedict's house." This means that the size of Kennedy's house is 4 times the size of Benedict's house. We can represent this as an equation:
+
+Kennedy's house = 4 * Benedict's house
+
+The problem asks us to find the size of Benedict's house. If we know the size of Kennedy's house, we can solve for Benedict's house.
+
+We are given that Kennedy's house is 10000 square feet. We can substitute this value into the equation:
+
+Kennedy's house = 4 * Benedict's house
+10000 = 4 * Benedict's house
+
+To solve for Benedict's house, we can divide both sides by 4:
+
+Benedict's house = 10000 / 4
+Benedict's house = 2500
+
+Answer: 2500

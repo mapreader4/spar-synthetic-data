@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Stacy has 4 times as many berries as Steve.
+* Steve has double the number of berries that Skylar has.
+
+Let's represent the number of berries Steve has as x.
+Then, we know that Steve has double the number of berries that Skylar has, so we can write the equation x = 2y, where y is the number of berries Skylar has.
+
+We are also given that Stacy has 4 times as many berries as Steve, so we can write the equation Stacy = 4x.
+
+Now, we need to find the value of x. We know that the total number of berries is 1100, and we can write the equation 4x + x = 1100.
+
+To solve for x, we can subtract 4x from both sides of the equation to get x = 1100/5 = 220.
+
+Answer: 220

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 48 passengers on the bus.
+2) Two-thirds of the passengers are women, so the number of women is 2/3 * 48 = 32.
+3) The remaining 1/3 of the passengers are men, so the number of men is 1/3 * 48 = 16.
+4) One-eighth of the men are standing, so the number of men standing is 1/8 * 16 = 2.
+5) The number of men seated is the total number of men minus the number of men standing, which is 16 - 2 = 14.
+
+Answer: 14

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The car can drive 8 miles in 1 hour
+* After 5 hours of constant driving, the car needs to cool down for 1 hour
+* So in 6 hours, the car can drive 8 miles x 5 hours = 40 miles
+* Then there are 7 hours remaining (13 hours total - 6 hours)
+* In the remaining 7 hours, the car can drive 8 miles x 7 hours = 56 miles
+* Adding the 40 miles from the first 6 hours and the 56 miles from the remaining 7 hours, the total distance the car can drive in 13 hours is:
+Answer: 96 miles

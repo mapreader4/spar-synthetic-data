@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* Kaiden and Adriel each picked 400 apples initially
+* They then each picked 3/4 times as many as they had picked earlier
+* 3/4 of 400 is 300, so they each picked an additional 300 apples
+* They still needed to pick 600 apples each to reach the target number
+
+To find the target number, we need to add up the total number of apples they picked:
+* Kaiden and Adriel each picked 400 apples initially, so that's 800 apples
+* They each picked an additional 300 apples, so that's 600 more apples
+* They still needed to pick 600 apples each, so that's 1200 more apples
+
+Adding up the total:
+* 800 + 600 + 1200 = 2600 apples
+
+Therefore, the target number of apples they were trying to pick was 2600.
+
+Answer: 2600

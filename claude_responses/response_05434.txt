@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) Kylie and Kayla picked a total of 340 apples together.
+2) Kayla picked 10 more than 4 times the amount of apples that Kylie picked.
+3) Let's call the number of apples Kylie picked as x.
+4) Then, the number of apples Kayla picked is 4x + 10.
+5) We know that the total number of apples picked is 340, so we can write the equation:
+x + (4x + 10) = 340
+6) Solving for x, we get:
+5x + 10 = 340
+5x = 330
+x = 66
+7) So Kylie picked 66 apples.
+8) Kayla picked 4 * 66 + 10 = 274 apples.
+
+Answer: 274

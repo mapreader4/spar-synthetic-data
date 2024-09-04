@@ -1,0 +1,14 @@
+To solve this problem, we need to find the average number of goals Xavier can score in 2 hours.
+
+Given information:
+- Xavier can score 2 goals on average in 15 minutes.
+- The match lasted for 2 hours.
+
+Step 1: Convert the duration of the match from hours to minutes.
+2 hours = 2 × 60 minutes = 120 minutes
+
+Step 2: Calculate the average number of goals Xavier can score in 120 minutes.
+Average goals scored in 15 minutes = 2 goals
+Average goals scored in 120 minutes = (120 minutes / 15 minutes) × 2 goals = 16 goals
+
+Answer: 16 goals

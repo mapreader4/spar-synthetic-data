@@ -1,0 +1,14 @@
+Let's break this down step by step:
+
+1. The total cost of the MRI is $1200.
+2. The doctor charges $300 for 30 minutes, so the total time charge is $300.
+3. There is a $150 fee just for being seen.
+4. The total cost is the sum of the MRI cost and the time charge and the fee.
+
+The total cost is $1200 + $300 + $150 = $1650.
+
+The insurance covers 80% of the cost. So, 80% of $1650 is:
+
+$1650 * 0.8 = $1320
+
+So, the amount Tim paid is $1320.

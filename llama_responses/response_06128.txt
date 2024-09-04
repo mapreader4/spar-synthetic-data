@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+There are 150 rows in the opera house, each with 10 seats. So, the total number of seats is 150 * 10 = 1500.
+
+If 20% of the seats were not taken, that means 20/100 * 1500 = 300 seats were not taken.
+
+The remaining number of taken seats is 1500 - 300 = 1200.
+
+The price of each ticket is $10. So, the total revenue earned from the show is 1200 * 10 = 12000.
+
+Answer: 12000.

@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Step 1: First, we need to find out how many face masks Grover has in total. Since each box has 20 face masks and he bought 3 boxes, we can multiply the number of boxes by the number of face masks per box to get the total number of face masks:
+
+3 boxes * 20 face masks per box = 3 * 20 = 60 face masks
+
+Step 2: Next, we need to find out how much money Grover spent on the face masks. He bought the 3 boxes for $15, so the cost of the face masks is equal to the cost of the 3 boxes:
+
+$15 = 3 * (cost per box)
+
+To find the cost per box, we can divide the total cost by the number of boxes:
+
+$15 ÷ 3 = $5 per box
+
+Step 3: Now we know the cost per box is $5. Since Grover sells each face mask for $0.50, we can find his profit by subtracting the cost per box from the selling price:
+
+$0.50 (selling price) - $5 (cost per box) = $0.50 - $5 = $0.50 - $5 = $0.50
+
+Step 4: Finally, we can find the total profit by multiplying the number of face masks by the profit per face mask:
+
+60 face masks * $0.50 - $0.50 = 60 * $0.50 = $30
+
+Answer: 30

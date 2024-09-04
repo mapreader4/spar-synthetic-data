@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start with the electrician. Since the electrician makes double what a worker is paid, and the plumber makes 250% of a worker's salary, we can write an equation for the electrician's salary as 2x, where x is the worker's salary.
+
+The plumber's salary is 250% of the worker's salary, so we can write an equation for the plumber's salary as 0.25x.
+
+The total labor cost for the day is the sum of the electrician's salary and the plumber's salary, which is 2x + 0.25x.
+
+The worker's salary is not specified, so we can let's call it w. The electrician's salary is 2w and the plumber's salary is 0.25w.
+
+The total labor cost is 2w + 0.25w.
+
+To find the total labor cost, we need to substitute the worker's salary in for w. This gives us 2w + 0.25w = 2.25w.
+
+Answer: 2.25w

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1) We have 3 baskets: A, B, and C.
+2) Basket A contains 4 red marbles and 2 yellow marbles.
+3) Basket B contains 6 green marbles and 1 yellow marble.
+4) Basket C contains 3 white marbles and 9 yellow marbles.
+
+To find the difference between the number of each color of marble in the basket that has the greatest difference, we need to:
+1) Identify the basket with the greatest difference between the number of each color of marble.
+2) Calculate the difference between the number of each color of marble in that basket.
+
+Looking at the contents of each basket:
+- Basket A has a difference of 2 between red and yellow marbles.
+- Basket B has a difference of 5 between green and yellow marbles.
+- Basket C has a difference of 6 between white and yellow marbles.
+
+Basket C has the greatest difference between the number of each color of marble, with a difference of 6 between white and yellow marbles.
+
+Therefore, the answer is:
+Answer: 6

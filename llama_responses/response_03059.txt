@@ -1,0 +1,14 @@
+Let's start by identifying the weights of the dogs:
+
+* The brown dog weighs 4 pounds.
+* The black dog weighs 4 + 1 = 5 pounds.
+* The white dog weighs 4 * 2 = 8 pounds.
+* The grey dog weighs 5 - 2 = 3 pounds.
+
+To find the average weight of all the dogs, we need to add the weights of all the dogs and divide by 4:
+
+4 + 5 + 8 + 3 = 17
+
+So, the average weight of all the dogs is:
+
+Answer: 17

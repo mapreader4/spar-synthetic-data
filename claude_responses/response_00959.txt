@@ -1,0 +1,15 @@
+To solve this problem, we need to find the total number of snowballs and then calculate the percentage of snowballs that Janet made.
+
+Given information:
+- Janet made 50 snowballs.
+- Janet's brother made 150 snowballs.
+
+Step 1: Find the total number of snowballs.
+Total number of snowballs = Janet's snowballs + Janet's brother's snowballs
+Total number of snowballs = 50 + 150 = 200 snowballs
+
+Step 2: Calculate the percentage of snowballs that Janet made.
+Percentage of snowballs Janet made = (Janet's snowballs / Total number of snowballs) × 100
+Percentage of snowballs Janet made = (50 / 200) × 100 = 25%
+
+Answer: 25

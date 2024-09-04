@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Step 1: Find the area of the sandbox in square inches.
+The area of a square is found by multiplying the length by the width. Since the length of each side is 40 inches, the area is:
+
+Area = 40 x 40 = 1600 square inches.
+
+Step 2: Determine how many square inches 80 square inches is equal to.
+Since 80 square inches is 80/100 of the total area, we can set up a proportion:
+
+Let x be the number of 30-pound bags needed. Then:
+
+80/100 = x/30. Cross-multiply:
+
+x = 80 x 30/100
+
+x = 24
+
+So, the answer is 24 bags of 30-pound sand are needed to fill the sandbox.

@@ -1,0 +1,17 @@
+Okay, let's think through this step-by-step:
+1) We are given that the area of the circle is 100.
+2) The area of a circle is calculated using the formula: A = π * r^2, where A is the area and r is the radius of the circle.
+3) Rearranging the formula, we get: r^2 = A / π
+4) Plugging in the given area of 100, we get: r^2 = 100 / π
+5) Taking the square root of both sides, we get: r = √(100 / π)
+6) We are also given that the area of the circle is equal to the perimeter of the square.
+7) The perimeter of a square is calculated using the formula: P = 4 * s, where P is the perimeter and s is the length of one side of the square.
+8) Since the area of the circle is equal to the perimeter of the square, we can set the two expressions equal to each other:
+π * r^2 = 4 * s
+9) Plugging in the value of r that we calculated earlier, we get:
+π * (√(100 / π))^2 = 4 * s
+10) Simplifying, we get:
+100 = 4 * s
+11) Dividing both sides by 4, we get:
+s = 25
+Answer: 25

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Tony paid $7 for 2 dozen apples and 1 bunch of bananas
+* Arnold paid $5 for 1 dozen apples and 1 bunch of bananas
+* We need to find the cost of 1 bunch of bananas
+
+Let's start by finding the cost of 1 dozen apples:
+* Tony paid $7 for 2 dozen apples and 1 bunch of bananas
+* Arnold paid $5 for 1 dozen apples and 1 bunch of bananas
+* So the cost of 1 dozen apples is ($7 - cost of 1 bunch of bananas) / 2 = ($5 - cost of 1 bunch of bananas) / 1
+* Solving this, we get the cost of 1 dozen apples is $1
+
+Now we can find the cost of 1 bunch of bananas:
+* Tony paid $7 for 2 dozen apples and 1 bunch of bananas
+* Arnold paid $5 for 1 dozen apples and 1 bunch of bananas
+* The difference in cost is $2
+* Since the only difference is the number of dozen apples, the $2 difference must be the cost of 1 dozen apples
+* Therefore, the cost of 1 bunch of bananas is $7 - 2 * $1 = $5
+
+Answer: 5

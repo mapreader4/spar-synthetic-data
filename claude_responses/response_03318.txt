@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+
+Last night, Kannon had:
+* 3 apples
+* 1 banana
+* 4 oranges
+
+Today, she is planning to have:
+* 4 more apples than last night, which is 3 + 4 = 7 apples
+* 10 times as many bananas as she ate last night, which is 1 x 10 = 10 bananas
+* Twice as many oranges as apples she'll have today, which is 7 x 2 = 14 oranges
+
+Now, let's calculate the total number of fruits she would have eaten so far in the two meals:
+* Last night: 3 apples + 1 banana + 4 oranges = 8 fruits
+* Today: 7 apples + 10 bananas + 14 oranges = 31 fruits
+* Total: 8 + 31 = 39 fruits
+
+Answer: 39

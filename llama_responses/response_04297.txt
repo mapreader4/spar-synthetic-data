@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+The first box had 10 movies at $2.00 each, so the total cost of those DVDs is:
+
+10 x $2.00 = $20.00
+
+The second box had 5 movies at $5.00 each, so the total cost of those DVDs is:
+
+5 x $5.00 = $25.00
+
+In total, Duke spent $20.00 + $25.00 = $45.00 on the 15 movies.
+
+To find the average price of each DVD, we need to divide the total cost by the number of DVDs:
+
+$45.00 ÷ 15 = $3.00
+
+So, the average price of each DVD is:
+
+Answer: 3

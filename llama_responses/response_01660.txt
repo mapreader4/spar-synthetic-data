@@ -1,0 +1,3 @@
+Let's break this problem down step by step.
+
+On Friday, 2 papayas turned yellow, which is 2 out of 14 total papayas.  On Sunday, 2 * 2 = 4 papayas turned yellow.  So, 4 papayas turned yellow.  The total number of green papayas left is 14 - 6 = 8.  So, there are 8 green papayas left on the tree.

@@ -1,0 +1,29 @@
+Let's break it down step by step.
+
+If the fastest speed of a rabbit is x, then we know that the speed of the rabbit doubled is 2x.
+
+If we double that speed again, we get 4x.
+
+Now, if we add 4 to 4x, we get 4x + 4.
+
+If we double 4x + 4 again, we get 8x + 4.
+
+And if we simplify that, we get 8x + 4.
+
+The question is asking us what the speed of the rabbit is. So, we need to solve for x.
+
+We know that 8x + 4 is 188. So, we can solve for x.
+
+To do that, we subtract 4 from both sides of the equation:
+
+8x + 4 = 188
+
+Subtracting 4 from both sides of the equation, we get:
+
+8x = 184
+
+Dividing both sides by 4, we get:
+
+x = 23
+
+So, the speed of the rabbit is 23.

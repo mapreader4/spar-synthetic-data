@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jaynie wants to make 4 leis
+* It takes 2 and a half dozen plumeria flowers to make 1 lei
+* To calculate the number of plumeria flowers needed for 4 leis, we need to:
+1. Calculate the number of plumeria flowers needed for 1 lei
+   * 2 and a half dozen = 2.5 dozen = 2.5 x 12 = 30 plumeria flowers per lei
+2. Multiply the number of plumeria flowers per lei by the number of leis Jaynie wants to make
+   * 30 plumeria flowers per lei x 4 leis = 120 plumeria flowers
+
+Answer: 120 plumeria flowers

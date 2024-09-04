@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of milk each cow produces:
+
+* Bess produces 2 pails of milk per day
+* Brownie produces 3 times that amount, so Brownie produces 2 x 3 = 6 pails of milk per day
+* Daisy produces 1 pail more than Bess, so Daisy produces 2 + 1 = 3 pails of milk per day
+
+Now, let's find the total amount of milk produced by each cow per day:
+* Bess: 2 pails
+* Brownie: 6 pails
+* Daisy: 3 pails
+
+To find the total amount of milk produced per day, we add the amount of milk produced by each cow: 2 + 6 + 3 = 11 pails
+
+Since there are 7 days in a week, we multiply the daily amount by 7:
+11 pails/day × 7 days = 77 pails
+
+Answer: 77

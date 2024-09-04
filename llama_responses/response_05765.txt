@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+For the first two weeks, Lily will feed the puppy 1/4 cup of food three times a day, which is 1/4 * 3 = 3/4 cup of food per day. For 14 days, that will be 3/4 * 14 = 21/4 = 5 1/4 cup of food. Since she has already fed him 1/2 cup of food today, we need to add that to the total. 5 1/4 + 1/2 = 5 3/4 cup of food.
+
+For the next 2 weeks, Lily will feed the puppy 1/2 cup of food twice a day, which is 1/2 * 2 = 1 cup of food per day. For 14 days, that will be 14 cups of food.
+
+To find the total amount of food the puppy will eat over the next 4 weeks, we add the food he will eat in the first 2 weeks to the food he will eat in the next 2 weeks. 5 3/4 + 14 = 19 3/4 cups of food.
+
+Answer: 19 3/4

@@ -1,0 +1,7 @@
+Let us calculate the total miles driven for each part of the year.
+
+For the first 183 days, Tom drives 30 miles per day, which is 183 * 30 = 5,610 miles.
+
+For the remaining 365 - 183 = 182 days, Tom drives 35 miles per day, which is 35 * 182 = 6,330 miles.
+
+The total distance for the whole year is the sum of these two parts. 5,610 + 6,330 = 12,940.

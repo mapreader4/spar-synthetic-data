@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The first competitor can eat 10 hot dogs per minute
+* The second competitor can eat 3 times more than the first competitor, which means they can eat 3 x 10 = 30 hot dogs per minute
+* The third competitor can eat twice as much as the second competitor, which means they can eat 2 x 30 = 60 hot dogs per minute
+* The question asks how many hot dogs the third competitor can eat after 5 minutes
+* To calculate this, we take the third competitor's rate of 60 hot dogs per minute and multiply it by 5 minutes
+* 60 hot dogs per minute x 5 minutes = 300 hot dogs
+
+Answer: 300

@@ -1,0 +1,17 @@
+Let's start by calculating the price per ounce for the larger box. To do this, we need to divide the cost of the box by the number of ounces it contains.
+
+Cost of larger box: $4.80
+Number of ounces in larger box: 30
+
+Price per ounce in larger box: $4.80 ÷ 30 = $0.16 per ounce
+
+Now, let's calculate the price per ounce for the smaller box.
+
+Cost of smaller box: $3.40
+Number of ounces in smaller box: 20
+
+Price per ounce in smaller box: $3.40 ÷ 20 = $0.17 per ounce
+
+Now, we can compare the two prices per ounce. Since $0.16 is less than $0.17, the larger box is the better value.
+
+Answer: 16

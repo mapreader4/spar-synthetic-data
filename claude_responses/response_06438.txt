@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) The woodworker has made a total of 40 furniture legs.
+2) Each chair requires 4 legs.
+3) The woodworker has built 6 chairs, so they have used 6 * 4 = 24 legs for the chairs.
+4) The remaining legs must be used for the tables.
+5) Each table requires 4 legs.
+6) The number of remaining legs is 40 - 24 = 16.
+7) Since each table requires 4 legs, the number of tables made is 16 / 4 = 4.
+
+Answer: 4

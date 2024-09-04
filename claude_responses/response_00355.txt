@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The grid has 10 rows and 15 squares in each row, so the total number of squares in the grid is 10 x 15 = 150 squares.
+2) Marla colors 4 rows of 6 squares in the middle with red. That's 4 x 6 = 24 red squares.
+3) Marla colors all squares on the first 2 and last 2 rows with blue. That's 4 rows of 15 squares each, so 4 x 15 = 60 blue squares.
+4) The remaining squares are colored green. To find the number of green squares, we need to subtract the red and blue squares from the total:
+   Total squares: 150
+   Red squares: 24
+   Blue squares: 60
+   Green squares: 150 - 24 - 60 = 66
+
+Answer: 66

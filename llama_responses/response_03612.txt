@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. Carl gives each student 10 index cards. There are 30 students in each class, so he gives out a total of 30 * 10 = 300 index cards.
+2. He teaches 6 periods a day. Since he has 3 classes, he has 6 * 3 = 18 classes.
+3. Since he gives out 300 index cards in total and has 18 classes, he will have 300 / 18 = 16.67 index cards per class. Since he can't give out a fraction of index cards, he will round up to the nearest whole number, which is 17 index cards per class.
+4. The cost of a 50-pack of index cards is $3. Since he gives out 17 index cards per class, he will need 17 * 3 = 51 50-packs of index cards.
+
+Answer: 51

@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. First, let's find the total number of people who are going to eat the lasagna. There are 7 people in total: Brian, his wife, his two kids, his parents, and his wife's parents.
+
+2. The recipe requires 1/2 a cup of milk per serving. Since there are 2 servings per person, the total amount of milk needed is 7 * 2 = 14 cups.
+
+3. The recipe requires 1L cartons of milk, and each carton contains 250ml of milk. So, to get 14 cups, Brian needs 14/250 of a carton of milk. 14/250 = 0.056.
+
+4. To get 0.056 of a carton of milk, Brian needs 0.056 * 1 cartons of milk. 0.056 * 1 = 0.056.
+
+Answer: 0.056.

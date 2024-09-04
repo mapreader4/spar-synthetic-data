@@ -1,0 +1,7 @@
+Let's first find the total number of kilograms of tomatoes Tommy has: 3 crates of tomatoes, and each crate holds 20 kilograms. So, Tommy has 3 * 20 = 60 kilograms of tomatoes.
+
+Then, 3 kilograms were rotten. So, Tommy has 60 - 3 = 57 kilograms of tomatoes.
+
+Now, he will sell 1 kilogram of tomatoes for $6. To find the total amount of money he will get, we multiply the total number of kilograms of tomatoes by the price per kilogram. So, 57 * 6 = 342.
+
+So, Tommy's profit is 342 dollars.

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+We know that Bob has 5 rows of corn, and each row has 80 corn stalks. So, the total number of corn stalks is 5 * 80 = 400.
+
+About every 8 corn stalks will produce a bushel of corn. So, we need to divide the total number of corn stalks by 8 to find the number of bushels of corn.
+
+400 / 8 = 50.
+
+Answer: 50

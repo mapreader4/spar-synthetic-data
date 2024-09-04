@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* George purchased 3 small pizzas, each giving 4 slices, so that's 3 * 4 = 12 slices from the small pizzas.
+* George also purchased 2 large pizzas, each giving 8 slices, so that's 2 * 8 = 16 slices from the large pizzas.
+* In total, George purchased 12 + 16 = 28 slices of pizza.
+* George wants to eat 3 pieces, Bob wants to eat 1 more than George, so that's 3 + 1 = 4 pieces for Bob.
+* Susie will eat half as many as Bob, so that's 4 / 2 = 2 pieces for Susie.
+* Bill, Fred, and Mark each want 3 pieces, so that's 3 * 3 = 9 pieces.
+* In total, the pieces eaten are 3 + 4 + 2 + 9 = 18 pieces.
+* The total number of slices purchased was 28, and 18 of those were eaten, so the number of slices left over is:
+Answer: 28 - 18 = 10

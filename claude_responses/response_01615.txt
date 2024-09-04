@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Elias uses one bar of soap every month
+* Each bar of soap costs $4
+* We need to find how much he spends on bars of soap in two years
+
+To calculate the total cost, we need to:
+1. Determine the number of months in two years
+* There are 12 months in a year
+* 2 years x 12 months/year = 24 months
+
+2. Multiply the number of months by the cost of each bar of soap
+* 24 months x $4/bar = $96
+
+Therefore, the total amount Elias spends on bars of soap in two years is:
+Answer: $96

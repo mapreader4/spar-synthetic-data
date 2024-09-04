@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total cost of the candies.
+
+2 pieces of Snickers cost $1.5 each, so the total cost of the Snickers is 2 * $1.5 = $3.00.
+A pack of M&M's costs the same as 2 Snickers, which is $3.00, so the total cost of the M&M's is 3 * 3.00 = $9.00.
+The total cost of the candies is 3.00 + 9.00 = $12.00.
+
+Now, Julia gave the cashier 2 $10 bills. So, she got a change of $12.00 - 2 * $10.00 = $2.00.
+
+Answer: 2

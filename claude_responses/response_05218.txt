@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Brian goes fishing twice as often as Chris
+* Brian catches 2/5 times fewer fish than Chris per trip
+* Brian caught 400 fish every time he went fishing
+* Chris went fishing 10 times
+
+First, let's find out how many times Brian went fishing:
+* Since Brian goes fishing twice as often as Chris, and Chris went fishing 10 times, then Brian went fishing 20 times.
+
+Now, let's find out how many fish Chris caught per trip:
+* Brian catches 2/5 times fewer fish than Chris per trip
+* So, if Brian caught 400 fish per trip, then Chris must have caught 400 / (1 - 2/5) = 400 / 0.6 = 667 fish per trip
+
+Finally, let's find the total number of fish caught:
+* Brian caught 400 fish per trip, and went fishing 20 times, so he caught 400 * 20 = 8,000 fish
+* Chris caught 667 fish per trip, and went fishing 10 times, so he caught 667 * 10 = 6,670 fish
+* The total number of fish caught is 8,000 + 6,670 = 14,670 fish
+
+Answer: 14,670

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The shop sold a total of 50 cups of milk tea yesterday.
+* Two-fifths of the sales are winter melon flavor.
+* Three-tenths of the sales are Okinawa flavor.
+* The remaining cups are chocolate flavor.
+
+First, let's calculate how many cups are winter melon and Okinawa flavors:
+* Winter melon: 2/5 of 50 = 20 cups
+* Okinawa: 3/10 of 50 = 15 cups
+
+Now, we can calculate the number of cups that are chocolate flavor:
+* Total cups sold = 50
+* Winter melon cups = 20
+* Okinawa cups = 15
+* Chocolate cups = Total cups - Winter melon cups - Okinawa cups
+* Chocolate cups = 50 - 20 - 15 = 15 cups
+
+Answer: 15 cups of chocolate-flavored milk tea were sold yesterday.

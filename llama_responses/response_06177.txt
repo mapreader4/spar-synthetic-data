@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, Lorraine started with 16 brownies. Then, her children ate 25% of them. To find 25% of 16, we can multiply 16 by 0.25, which is 4. So, the children ate 4 brownies.
+
+Now, Lorraine has 16 - 4 = 12 brownies left.
+
+Next, the entire family ate 50% of the remaining brownies. To find 50% of 12, we can multiply 12 by 0.5, which is 6. So, the family ate 6 brownies.
+
+Now, Lorraine has 12 - 6 = 6 brownies left.
+
+Finally, Lorraine ate 1 more brownie.
+
+So, there are 6 - 1 = 5 brownies left over.
+
+Answer: 5

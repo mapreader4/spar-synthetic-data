@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+* Let's say Bill makes x trips to the dump
+* Jean makes x + 6 trips to the dump
+* The total number of trips is 40, so we can write the equation:
+x + (x + 6) = 40
+* Simplifying the equation:
+2x + 6 = 40
+* Subtracting 6 from both sides:
+2x = 34
+* Dividing both sides by 2:
+x = 17
+* Since Jean makes x + 6 trips, and x = 17, we can calculate the number of trips Jean makes:
+Jean makes 17 + 6 = 23 trips.
+
+Answer: 23

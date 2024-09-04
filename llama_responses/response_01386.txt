@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Initially, there are 0 tires in stock. Four cars are already in the shop, so the shop needs to replace all 16 tires on those cars. Since there are no tires in stock, the shop will need to buy 16 tires.
+
+Six more customers come in, and 2 of them decide they only want half their tires changed. So, 3 of them will need their tires changed. 3 customers need 12 tires. The shop needs to buy 12 tires to replace those tires.
+
+The shop has 20 tires left at the end of the week. That means they must have bought 16 + 12 = 28 tires. But they had 0 tires at the start, so they must have bought 28 tires.
+
+So, the shop bought 28 tires. Since 12 of those tires were for the 3 customers who only wanted half their tires changed, that means 16 tires were for the other 2 customers who wanted their tires changed. Therefore, 2 customers did not want their tires changed.

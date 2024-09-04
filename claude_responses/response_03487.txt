@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Johnny makes his crab dish 40 times a day
+* Each dish uses 1.5 pounds of crab meat
+* Crab meat sells for $8 per pound
+* He is closed 3 days a week
+
+First, let's calculate how much crab meat he uses in a day:
+* 40 dishes x 1.5 pounds per dish = 60 pounds of crab meat per day
+
+Now, let's calculate how much he spends on crab meat in a day:
+* 60 pounds of crab meat x $8 per pound = $480 per day
+
+Finally, let's calculate how much he spends in a week:
+* 4 days per week (assuming he's open 4 days) x $480 per day = $1,920 per week
+
+Answer: $1,920

@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. John buys a piano for $500.
+
+2. He hires a teacher for 20 lessons at $40 per lesson.
+
+3. He gets a 25% discount on the teacher's services.
+
+4. To find the total cost of the teacher's services, we need to calculate the cost of 20 lessons at $40 per lesson and then multiply it by 0.75 (because of the 25% discount).
+
+$40 x 20 = $800
+
+$800 x 0.75 = $600
+
+5. To find the total cost of everything, we add the cost of the piano and the cost of the teacher's services.
+
+$500 + $600 = $1100
+
+Answer: 1100

@@ -1,0 +1,7 @@
+Let's first find the speed of Tiffany. She runs 6 blocks in 3 minutes. So, the number of blocks per minute is 6 / 3 = 2 blocks per minute.
+
+Now, let's find the speed of Moses. He runs 12 blocks in 8 minutes. So, the number of blocks per minute is 12 / 8 = 1.5 blocks per minute.
+
+The runner with the higher average speed is the one with a higher blocks per minute. Since 2 is less than 1.5, Tiffany has the lower average speed. Therefore, Moses is the faster runner.
+
+Answer: 1.5

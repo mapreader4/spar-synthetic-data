@@ -1,0 +1,9 @@
+Let's start by identifying the number of mittens in the box. The problem states that the box of mittens has 150 pairs of mittens. Since there are 2 mittens in each pair, the number of mittens is 150 / 2 = 75.
+
+Gunner decides to put 30 more pairs of plugs into the box of plugs. This means that the number of plugs is 30 pairs, so the total number of plugs is 30 * 2 = 60.
+
+The total number of plugs and mittens can be calculated as follows:
+
+60 (plugs) + 75 (mittens) = 135
+
+So, the answer is: Answer: 135

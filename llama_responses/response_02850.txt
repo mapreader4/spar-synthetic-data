@@ -1,0 +1,11 @@
+Let's start by identifying the income of Mr. John, which is $2000.
+
+Since Mr. John spends 5% of his income on public transport, we can find the amount he spends on transport by multiplying his income by 0.05 (5% as a decimal).
+
+0.05 x 2000 = 100
+
+So, Mr. John spends $100 on transport. To find out how much he has left, we subtract this amount from his income.
+
+2000 - 100 = 1900
+
+Answer: 1900

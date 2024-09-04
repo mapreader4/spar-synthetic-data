@@ -1,0 +1,1 @@
+Let's denote the number of children each of Max's children has by x. Then, the number of grandchildren Max has is 2 * (number of children each child has) + 2. Since 2 children have 5 children each, we can write 2 * (5) = 10. So, the number of grandchildren Max has is 2 * x + 2 = 2 * (number of children each child has) + 2 = 10 + 2 = 12.

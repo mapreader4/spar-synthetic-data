@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 3 red cars and 2 white cars available to rent
+* Renting the white car costs $2 per minute
+* Renting the red car costs $3 per minute
+* All cars were rented for 3 hours
+
+First, we need to calculate the total number of minutes the cars were rented:
+* 3 hours = 180 minutes
+
+Now, we can calculate the total earnings for the white cars:
+* 2 white cars x 180 minutes x $2 per minute = $720
+
+And the total earnings for the red cars:
+* 3 red cars x 180 minutes x $3 per minute = $1,620
+
+Finally, we add the earnings from the white cars and the red cars to get the total earnings:
+* $720 + $1,620 = $2,340
+
+Answer: 2340

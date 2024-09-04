@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are five times as many swordfish as pufferfish in the aquarium exhibit
+* The total number of fish in the exhibit is 90
+* Let's represent the number of pufferfish as x
+* Since there are five times as many swordfish as pufferfish, the number of swordfish can be represented as 5x
+* The total number of fish is the sum of the swordfish and pufferfish, so we can write the equation:
+x + 5x = 90
+* Solving for x, we get:
+6x = 90
+x = 90/6
+x = 15
+
+Answer: 15 pufferfish

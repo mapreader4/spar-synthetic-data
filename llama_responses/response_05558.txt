@@ -1,0 +1,19 @@
+Let's start by letting x be the number of boys in the class. We know that the ratio of boys to girls is 5:8. So we can write an equation to represent this ratio:
+
+x / (x + x) = 5/8
+
+We can simplify the left side of the equation by multiplying both sides by 8:
+
+(8x) / (8x) = 5
+
+We can then cross multiply both sides of the equation by 8:
+
+x / 8 = 5
+
+To solve for x, we can multiply both sides by 8:
+
+x = 5 * 8
+
+x = 40
+
+So the number of boys in the class is 40.

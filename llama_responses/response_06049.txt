@@ -1,0 +1,11 @@
+To solve this problem, I'll break it down step by step.
+
+Let's first find the cost of 50 bags of cherries. Since the cost of a bag of cherries is $5, the cost of 50 bags of cherries would be 50 x $5 = $250.
+
+Next, let's find the cost of 50 bags of olives. The price of a bag of olives is $7, so the cost of 50 bags of olives would be 50 x $7 = $350.
+
+Now, let's find the total cost of 50 bags of cherries and 50 bags of olives. To do this, we can add the cost of the cherries and the cost of the olives: $250 + $350 = $600.
+
+Finally, we need to apply a 10% discount. To do this, we multiply the total cost by 0.9 (which is the decimal form of 90%): $600 x 0.9 = $540.
+
+Answer: 540

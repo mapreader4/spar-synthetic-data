@@ -1,0 +1,35 @@
+Let's break this down step by step.
+
+Let's say Emani has $x amount of money and Howard has $y amount of money. We know that Emani has $30 more money than Howard, so we can write an equation to represent this:
+
+x - y = 30
+
+We also know that Emani has $150 in total. So we can write another equation to represent this:
+
+x + y = 150
+
+We can solve for y by subtracting 30 from both sides of the equation x + y = 150:
+
+x + (y - 30) = 150
+
+Subtracting 30 from both sides gives us:
+
+x + y = 120
+
+Now we can substitute x = 120 - y = 30 into our first equation:
+
+y = 120 - x
+
+Now we know that Emani has $120 - y, and Howard has $y. To find out how much each person gets, we can add y to both sides:
+
+y + y = 120 - y
+
+This simplifies to:
+
+2y = 120 - y
+
+We can solve for y by dividing both sides by 2:
+
+y = 60
+
+So, Emani gets $60 and Howard gets $60.

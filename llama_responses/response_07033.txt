@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+Let's start by identifying the total number of hours the guards need to cover: 9 hours.
+
+The first guard takes 3 hours, and the last guard takes 2 hours. That leaves 9 - 3 - 2 = 4 hours remaining.
+
+The two middle guards will split the remaining 4 hours. To do this, we can divide 4 by 2, which gives us 2 hours per guard.
+
+Answer: 2

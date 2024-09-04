@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Let's calculate the time it takes to fix all the shirts. There are 10 shirts, and it takes 1.5 hours to fix a shirt. So, the total time to fix all the shirts is 10 x 1.5 = 15 hours.
+
+2. Next, let's calculate the time it takes to fix all the pants. There are 12 pairs of pants, and it takes twice as long to fix a pair of pants as it takes to fix a shirt. So, the total time to fix all the pants is 12 x 2 = 24 hours.
+
+3. The total time to fix all the shirts and pants is 15 hours for the shirts and 24 hours for the pants. 15 + 24 = 39 hours.
+
+4. The tailor charges $30 per hour. So, the total cost is 39 hours x $30 per hour = $1170.
+
+Answer: 1170

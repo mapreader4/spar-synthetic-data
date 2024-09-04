@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Hot dog buns come in packages of 8.
+2) Mr. Gates bought 30 packages of hot dog buns.
+3) Each package has 8 hot dog buns, so the total number of hot dog buns is:
+   30 packages x 8 buns per package = 240 hot dog buns
+4) Mr. Gates has 4 classes with 30 students in each class.
+5) The total number of students is 4 classes x 30 students per class = 120 students.
+6) To calculate how many hot dog buns each student can get, we divide the total number of hot dog buns (240) by the total number of students (120):
+   240 hot dog buns / 120 students = 2 hot dog buns per student.
+
+Answer: 2

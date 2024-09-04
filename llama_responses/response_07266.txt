@@ -1,0 +1,39 @@
+Let's break this down step by step.
+
+Let's start by using the information that the jar of grape candy has 5 more pieces than the jar of banana candy. Let's call the number of pieces in the banana jar x.
+
+The jar of grape candy has 5 more pieces than the jar of banana candy, so we can write an equation to represent this:
+
+x + 5 = number of pieces in grape jar
+
+We know that the jar of peanut butter candy has 4 times as much candy as the jar of grape candy. So, we can write another equation to represent this:
+
+number of pieces in peanut butter jar = 4 × (x + 5)
+
+We can now substitute the first equation into the second equation to eliminate the variable x:
+
+number of pieces in peanut butter jar = 4 × (x + 5) = 4x + 20
+
+Now, we know that the banana jar has 43 pieces. We can substitute this into the equation:
+
+43 = 4x + 20
+
+Subtract 20 from both sides of the equation to get:
+
+43 - 20 = 4x
+
+Subtract 43 - 20 from both sides of the equation to get:
+
+23 = 4x
+
+Divide both sides by 4 to solve for x:
+
+x = 23 ÷ 4
+
+x = 5.75
+
+The jar of peanut butter candy has 4 times as much candy as the jar of grape candy, so we can multiply 5.75 by 4 to get the number of pieces in the peanut butter jar:
+
+5.75 × 4 = 23
+
+Answer: 23

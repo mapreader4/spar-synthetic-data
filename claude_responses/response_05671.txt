@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* Brooke has 15 math problems, 6 social studies problems, and 10 science problems
+* Each math problem takes 2 minutes to answer
+* Each social studies problem takes 30 seconds to answer
+* Each science problem takes 1.5 minutes to answer
+
+To calculate the total time it will take Brooke to answer all his homework:
+* Math problems: 15 problems x 2 minutes per problem = 30 minutes
+* Social studies problems: 6 problems x 0.5 minutes per problem = 3 minutes
+* Science problems: 10 problems x 1.5 minutes per problem = 15 minutes
+
+Now, we add up the time for each subject:
+* Total time = 30 minutes + 3 minutes + 15 minutes = 48 minutes
+
+Answer: 48 minutes

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Kwame studied for 2.5 hours
+* 1 hour = 60 minutes
+* So Kwame studied for 2.5 x 60 = 150 minutes
+* Connor studied for 1.5 hours
+* 1.5 x 60 = 90 minutes
+* Lexia studied for 97 minutes
+* The total time Kwame and Connor studied is 150 + 90 = 240 minutes
+* The time Lexia studied is 97 minutes
+* The difference between the time Kwame and Connor studied and the time Lexia studied is 240 - 97 = 143 minutes
+
+Answer: 143

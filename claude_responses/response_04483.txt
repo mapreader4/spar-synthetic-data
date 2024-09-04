@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1) Peggy has 200 records
+2) Sammy offers to buy all 200 records for $4 each
+   * Sammy's total offer = 200 records x $4 per record = $800
+3) Bryan is interested in half of the records, so 100 records
+   * Bryan offers $6 per record for the 100 records he is interested in
+   * Bryan's offer for the 100 records he is interested in = 100 records x $6 per record = $600
+   * Bryan offers $1 per record for the remaining 100 records he is not interested in
+   * Bryan's offer for the 100 records he is not interested in = 100 records x $1 per record = $100
+   * Bryan's total offer = $600 + $100 = $700
+4) The difference in profit between Sammy's and Bryan's deals is:
+   * Sammy's offer: $800
+   * Bryan's offer: $700
+   * Difference in profit = $800 - $700 = $100
+
+Answer: $100

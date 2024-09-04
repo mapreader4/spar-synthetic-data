@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start by identifying the cost of each room on each floor.
+
+* The rooms on the first floor cost $15 per month.
+* The rooms on the second floor cost $20 per month.
+* The rooms on the third floor cost twice as much as the rooms on the first floor, so the rooms on the third floor cost 2 x 15 = 30 per month.
+
+Now, let's identify how many rooms are occupied on each floor.
+
+* The first floor has 3 rooms.
+* The second floor has 3 rooms.
+* The third floor has only 2 rooms.
+
+Now, let's calculate the total monthly income.
+
+* The first floor has 3 rooms, and each room costs $15 per month, so the total income from the first floor is 3 x 15 = 45.
+* The second floor has 3 rooms, and each room costs $20 per month, so the total income from the second floor is 3 x 20 = 60.
+* The third floor has 2 rooms, and each room costs $30 per month, so the total income from the third floor is 2 x 30 = 60.
+
+To find the total monthly income, we need to add the income from each floor.
+
+* 45 + 60 + 60 = 165
+
+Answer: 165

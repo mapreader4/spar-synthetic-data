@@ -1,0 +1,9 @@
+Let's start by identifying the information given in the problem:
+
+* Jared counted 15% fewer cars than his sister Ann.
+* Ann counted 7 more cars than their friend Alfred.
+* Jared counted 300 cars.
+
+We can start by using the information that Jared counted 300 cars. We know that Ann counted more cars than Alfred, so we can say that Ann counted a total of 300 + 7 cars. We also know that Jared counted 15% fewer cars than Ann, so we can subtract 15% of 300 from the total number of cars Ann counted. To do this, we can multiply 300 by 15/100 to get the number of cars Jared counted. This gives us 45. Then, we add the 45 cars that Jared counted to the 300 + 7 cars that Ann counted to get the total number of cars they counted. The total is 345 cars.
+
+Answer: 345

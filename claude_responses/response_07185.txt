@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Avery has 20 chickens on his farm.
+2) Each chicken lays 6 eggs.
+3) To find the total number of eggs, we multiply the number of chickens (20) by the number of eggs each chicken lays (6):
+20 chickens x 6 eggs per chicken = 120 eggs
+4) Each egg carton can hold a dozen (12) eggs.
+5) To find the number of egg cartons Avery can fill, we divide the total number of eggs (120) by the number of eggs each carton can hold (12):
+120 eggs / 12 eggs per carton = 10 cartons
+
+Answer: 10

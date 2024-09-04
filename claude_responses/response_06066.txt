@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+
+1. Alan is buying:
+   - 2 CDs by "The Dark"
+   - 1 CD by "AVN"
+   - 5 CDs of 90s music
+
+2. The price of the "AVN" CD is $12, and it is half the price of one CD by "The Dark".
+   - So, the price of one CD by "The Dark" is $24 (2 x $12).
+
+3. The 5 CDs of 90s music cost 40% of the total cost of all the other CDs.
+   - The total cost of the 2 CDs by "The Dark" and the 1 CD by "AVN" is $60 (2 x $24 + $12).
+   - The cost of the 5 CDs of 90s music is 40% of $60, which is $24 (0.4 x $60).
+
+Now, we can calculate the total cost:
+- 2 CDs by "The Dark" at $24 each: $48
+- 1 CD by "AVN" at $12: $12
+- 5 CDs of 90s music at $24: $24
+- Total cost: $48 + $12 + $24 = $84
+
+Answer: $84

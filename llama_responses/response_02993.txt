@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of the 7 items, each of which costs $200.
+
+7 items * $200 = 1400
+
+Since the total cost is over $1000, we can calculate the discount as 10% of 1400.
+
+10% of 1400 = 140
+
+So, the discount is $140.
+
+To find the cost after the discount, we subtract the discount from the original cost.
+
+1400 - 140 = 1260
+
+Answer: 1260

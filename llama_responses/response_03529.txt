@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of people who supported the first team. 40% of the total 50 people attended the game supported the first team. To find this number, we multiply 40% of 50 by 50.
+
+40% of 50 = 0.4 x 50 = 20
+
+So, 20 people supported the first team.
+
+Next, let's identify the number of people who supported the second team. 34% of the total 50 people attended the game supported the second team. To find this number, we multiply 34% of 50 by 50.
+
+34% of 50 = 0.34 x 50 = 17
+
+So, 17 people supported the second team.
+
+Now, to find the number of people who did not support either of the teams, we subtract the number of people who supported the first team and the number of people who supported the second team from the total number of people who attended the game.
+
+20 + 17 = 37
+
+So, 37 people did not support either of the teams.
+
+Answer: 37

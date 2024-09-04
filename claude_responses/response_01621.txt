@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each breakfast plate has 2 eggs
+* Each breakfast plate has twice as many bacon strips as eggs
+* 14 customers ordered breakfast plates
+
+First, let's calculate the number of eggs needed:
+* 14 customers x 2 eggs per plate = 28 eggs
+
+Next, let's calculate the number of bacon strips needed:
+* Each plate has twice as many bacon strips as eggs
+* 2 x 28 eggs = 56 bacon strips
+
+Therefore, the cook needs to fry 56 bacon strips.
+
+Answer: 56

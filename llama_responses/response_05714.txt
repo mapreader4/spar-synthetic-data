@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+First, we need to find out how many customers the Sandwich Shop serves in an 8-hour day. Since they serve a sandwich every 5 minutes, we can find the total number of minutes in an 8-hour day:
+
+60 minutes/hour * 8 hours = 480 minutes
+
+Now, we can divide the total number of minutes by 5 (the time it takes to serve a sandwich):
+
+480 minutes / 5 minutes/sandwich = 96 sandwiches
+
+Each sandwich requires 4 strips of jalapeno pepper. Since each jalapeno pepper makes 8 slices, we can find the total number of jalapeno peppers required:
+
+96 sandwiches * 4 strips/sandwich = 384 strips
+
+Now, we can divide the total number of strips by 8 (the number of slices per jalapeno pepper):
+
+384 strips / 8 slices/jalapeno = 48 jalapeno peppers
+
+Answer: 48

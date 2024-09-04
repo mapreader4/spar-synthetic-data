@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Calculate the total number of students:
+   * 5 third grade classes with 30 students each: 5 * 30 = 150 students
+   * 4 fourth grade classes with 28 students each: 4 * 28 = 112 students
+   * 4 fifth grade classes with 27 students each: 4 * 27 = 108 students
+   * Total students: 150 + 112 + 108 = 370 students
+
+2. Calculate the cost of each item:
+   * Hamburger: $2.10 per student
+   * Carrots: $0.50 per student
+   * Cookie: $0.20 per student
+
+3. Calculate the total cost of one lunch for all the students:
+   * Hamburgers: 370 students * $2.10 = $777
+   * Carrots: 370 students * $0.50 = $185
+   * Cookies: 370 students * $0.20 = $74
+   * Total cost: $777 + $185 + $74 = $1,036
+
+Answer: $1,036

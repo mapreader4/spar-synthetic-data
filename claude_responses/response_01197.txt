@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Bella is making bracelets for 6 friends
+* She needs 8 beads per bracelet
+* So for 6 bracelets, she needs 6 * 8 = 48 beads
+* She currently has 36 beads
+* To calculate how many more beads she needs, we take the total beads required (48) and subtract the beads she currently has (36)
+* 48 - 36 = 12
+
+Therefore, the answer is:
+Answer: 12

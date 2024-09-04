@@ -1,0 +1,26 @@
+Let's break down the information given in the problem:
+
+* Fred spent half of his allowance going to the movies.
+* He earned 6 dollars by washing the family car.
+
+We can start by identifying the total amount of money Fred has. Let's call this amount "x".
+
+Since Fred spent half of his allowance going to the movies, we can say that the amount he spent is half of x. So, the equation for the money Fred has is:
+
+x - (1/2) =?
+
+We know that Fred ended up with 14 dollars. So, we can set up an equation:
+
+x - (1/2) = 14
+
+To solve for x, we can multiply both sides by 2 to get rid of the fraction:
+
+2(x - (1/2)) = 2(14)
+
+2x - 2 = 28
+
+Now, we can add 2 to both sides to get:
+
+x = 30
+
+So, Fred's weekly allowance is 30 dollars.

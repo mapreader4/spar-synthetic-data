@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: There are 60 ridges on a vinyl record.
+
+Step 2: Jerry has 4 cases, each with 3 shelves that can hold 20 records each.
+
+Step 3: Each case has 3 shelves, so the total number of shelves is 4 * 3 = 12.
+
+Step 4: Each shelf can hold 20 records, so the total number of records is 12 * 20 = 240.
+
+Step 5: If the shelves are 60% full, we need to find 60% of the total number of records.
+
+Step 6: 60% of 240 is 0.6 * 240 = 144.
+
+Answer: 144

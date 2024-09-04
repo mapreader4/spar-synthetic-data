@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+1. First, let's find the total number of shirts made in a day. Each person makes 20 shirts per day, and there are 20 people. So, the total number of shirts made is 20 * 20 = 400.
+
+2. Next, let's find the total amount of money made by the employees. Each employee makes $12 an hour, and they work for 8 hours, so they make 8 * $12 = $96.  Since they make 400 shirts, they make 400 * $5 = $2000.  So, the total amount of money made by the employees is $96 + $2000 = $2096.
+
+3. The company also has non-employee expenses of $1000.  So, the total amount of money the company has left after expenses is $2096 - $1000 = $1096.
+
+4. Since the company sells shirts for $35 each, the total amount of money made by selling shirts is 400 * $35 = $14000.
+
+5. To find the profit, subtract the total amount of money spent by the company from the total amount of money made by selling shirts. $14000 - $1096 = $12904.
+
+Answer: 12904

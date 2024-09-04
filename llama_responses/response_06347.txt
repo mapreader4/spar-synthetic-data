@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Rottweilers take 20 minutes to groom, and we need to groom 6 Rottweilers, so the total time for Rottweilers is 6 x 20 = 120 minutes.
+2. Border collies take 10 minutes to groom, and we need to groom 9 border collies, so the total time for border collies is 9 x 10 = 90 minutes.
+3. Chihuahuas take 45 minutes to groom, and we need to groom 1 chihuahua, so the total time for chihuahua is 1 x 45 = 45 minutes.
+4. To find the total time it will take Karen to groom all the dogs, we add the times together: 120 + 90 + 45 = 255 minutes.
+
+Answer: 255

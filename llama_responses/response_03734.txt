@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+First, Jerry needs 500 cherries per quart of syrup. To make 9 quarts of syrup, he needs 9 * 500 cherries. That is 4500 cherries.
+
+It takes him 2 hours to pick 300 cherries. So, to pick 4500 cherries, it will take him 2 * 2250 = 4500/300 = 15 hours.
+
+It takes him 3 hours to make the syrup. So, to make 9 quarts of syrup, it will take him 15 + 3 = 18 hours.
+
+Answer: 18

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 1000 guests at the birthday party
+* 30% of the guests are married
+* 50% of the guests are single
+* The remaining guests are children
+
+First, let's calculate the number of married guests:
+* 30% of 1000 = 0.30 * 1000 = 300 married guests
+
+Next, let's calculate the number of single guests:
+* 50% of 1000 = 0.50 * 1000 = 500 single guests
+
+Finally, we can calculate the number of children by subtracting the married and single guests from the total:
+* 1000 - 300 - 500 = 200 children
+
+Now, to find the difference between the number of married guests and the number of children, we subtract:
+* 300 married guests - 200 children = 100 more married guests than children
+
+Answer: 100

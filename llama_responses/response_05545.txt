@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the perimeter of the rectangle. Since the planter pot is placed at each corner, we know that the number of planters is equal to the number of sides of the rectangle. Since it's a rectangle, the number of sides is 4.
+
+Now, let's calculate the total cost of the palm ferns. Each palm fern costs $15.00, and there are 4 of them, so the total cost of the palm ferns is:
+
+4 x $15.00 = $60.00
+
+Next, let's calculate the total cost of the creeping jennies. Each creeping jenny costs $4.00, and there are 4 of them, so the total cost of the creeping jennies is:
+
+4 x $4.00 = $16.00
+
+Next, let's calculate the total cost of the geraniums. Each geranium costs $3.50, and there are 4 of them, so the total cost of the geraniums is:
+
+4 x $3.50 = $14.00
+
+Now, let's add up the total cost of all the plants:
+
+$60.00 (palm ferns) + $16.00 (creeping jennies) + $14.00 (geraniums) = $90.00
+
+So, it will cost $90.00 to fill all the pots.

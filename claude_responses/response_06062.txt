@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The bowling alley has 30 red bowling balls.
+2) There are 6 more green bowling balls than red bowling balls.
+3) To find the number of green bowling balls, we add 6 to the number of red bowling balls:
+   Number of green bowling balls = 30 + 6 = 36
+4) To find the total number of bowling balls, we add the number of red and green bowling balls:
+   Total number of bowling balls = 30 + 36 = 66
+Answer: 66

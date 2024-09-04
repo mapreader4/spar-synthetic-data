@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's start by finding the maximum amount Paul can earn for B+ grades. There are 10 courses with grades in Paul's scorecard. For each B+, Paul will get a reward of $5. So, the maximum amount he can earn for B+ is 10 x 5 = $50.
+
+Next, let's find the maximum amount Paul can earn for A grades. For each A, Paul will get a reward of $10. There are 10 courses, so the maximum amount he can earn for A is 10 x 10 = $100.
+
+However, Paul will get a bonus for A+. For each A+, he will get a reward of $15. Since the problem states that Paul will double the previous rewards for at least two A+, we need to find the maximum amount he can earn for A+.
+
+For the first two A+, Paul will get a bonus of 2 x 15 = $30. For the third A+, he will get a bonus of 2 x 30 = $60. So, the total bonus for three A+ is 30 + 60 = $90.
+
+Now, we add the maximum amount for B+ and A grades: $50 (B+) + $100 (A) + $90 (A+) = $240.
+
+Answer: 240

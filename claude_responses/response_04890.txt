@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Marcus' car had 1728 miles on it before the trip
+* His car gets 30 miles per gallon
+* His car holds 20 gallons of gas
+* He filled his empty gas tank twice, which means he used up 40 gallons of gas (2 x 20 gallons)
+* To calculate the total miles driven, we can use the formula:
+    * Total miles driven = Miles per gallon x Gallons of gas used
+    * Total miles driven = 30 miles/gallon x 40 gallons
+    * Total miles driven = 1200 miles
+
+Now, to find the total miles on the car after the trip, we add the original 1728 miles to the 1200 miles driven on the trip:
+* Total miles on car = 1728 miles + 1200 miles
+* Total miles on car = 2928 miles
+
+Answer: 2928

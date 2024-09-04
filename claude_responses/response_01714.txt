@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The first warehouse has twice as many boxes as the second warehouse.
+2) The first warehouse has 400 boxes.
+3) If the first warehouse has 400 boxes, and it has twice as many boxes as the second warehouse, then the second warehouse must have half as many boxes as the first warehouse.
+4) To find the number of boxes in the second warehouse, we take the number of boxes in the first warehouse (400) and divide it by 2, which gives us 200 boxes.
+5) To find the total number of boxes in both warehouses, we add the number of boxes in the first warehouse (400) and the number of boxes in the second warehouse (200).
+6) 400 + 200 = 600 boxes.
+
+Answer: 600

@@ -1,0 +1,20 @@
+Let's break it down step by step.
+
+Let's start by identifying the information given in the problem.
+
+Harper has 15 rubber bands.
+His brother has 6 fewer rubber bands than he has.
+
+Let's write an equation to represent this information:
+
+H's rubber bands = 15
+Brother's rubber bands = H's rubber bands - 6
+
+To solve for the number of rubber bands they have together, we can add the two numbers:
+
+H's rubber bands + Brother's rubber bands = H's rubber bands + (H's rubber bands - 6)
+= 15 + (15 - 6)
+= 15 + 9
+= 24
+
+Answer: 24

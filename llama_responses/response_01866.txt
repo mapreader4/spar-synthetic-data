@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Carolyn can sew 4 stitches/minute, so to find the time it takes her to sew a single stitch, we can divide 1 stitch by 4, which gives us 0.25 minutes per stitch.
+
+For a flower, it takes 60 stitches, so it will take her 60 / 4 = 15 minutes.
+
+For a unicorn, it takes 180 stitches, so it will take her 180 / 4 = 45 minutes.
+
+For Godzilla, it takes 800 stitches, so it will take her 800 / 4 = 200 minutes.
+
+Now, Carolyn wants to embroider 3 unicorns and 50 flowers. For the unicorns, it will take 3 x 45 = 135 minutes. For the flowers, it will take 50 x 15 = 750 minutes.
+
+In total, it will take her 135 + 750 = 885 minutes.

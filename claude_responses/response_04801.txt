@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Tom runs 5 days a week
+* He runs 1.5 hours each day
+* He runs at a speed of 8 mph
+
+To calculate the total miles he runs in a week, we need to:
+1. Calculate the distance he runs each day
+2. Multiply the distance per day by the number of days per week
+
+Step 1: Distance per day
+* Distance = Speed x Time
+* Distance = 8 mph x 1.5 hours
+* Distance = 12 miles per day
+
+Step 2: Total distance per week
+* Total distance = Distance per day x Days per week
+* Total distance = 12 miles x 5 days
+* Total distance = 60 miles
+
+Answer: 60 miles

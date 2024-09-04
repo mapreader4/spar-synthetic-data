@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+First, let's calculate the total cost of the items Paul bought before any discounts:
+
+4 dress shirts at $15.00 each = 4 x $15.00 = $60.00
+2 pairs of pants at $40.00 each = 2 x $40.00 = $80.00
+1 suit at $150.00 = $150.00
+2 sweaters at $30.00 each = 2 x $30.00 = $60.00
+Total cost before discounts = $60.00 + $80.00 + $150.00 + $60.00 = $350.00
+
+Next, let's calculate the 20% discount on the total cost:
+
+20% of $350.00 = 0.20 x $350.00 = $70.00
+
+So, the total cost after the 20% discount is:
+
+$350.00 - $70.00 = $280.00
+
+Now, let's apply the 10% off coupon to the total cost after the 20% discount:
+
+10% of $280.00 = 0.10 x $280.00 = $28.00
+
+So, the total cost after the 20% discount and the 10% off coupon is:
+
+$280.00 - $28.00 = $252.00
+
+Answer: 252

@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* Tim spent a total of $50.00 on Chinese take-out
+* 80% of the $50.00 went to 4 entrees
+* The remaining 20% went to 2 appetizers
+
+First, let's calculate the amount spent on the 4 entrees:
+* 80% of $50.00 = 0.80 x $50.00 = $40.00
+
+Now, let's calculate the amount spent on the 2 appetizers:
+* The remaining 20% = $50.00 - $40.00 = $10.00
+
+Since the 2 appetizers cost the same amount, we can divide the $10.00 spent on the appetizers by 2 to get the price of a single appetizer:
+* $10.00 / 2 = $5.00
+
+Answer: $5.00

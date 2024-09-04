@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Heloise has dogs and cats in the ratio of 10:17.
+2) The total number of pets is 189.
+3) To find the number of dogs, we can use the ratio. The ratio of dogs to total pets is 10/(10+17) = 10/27.
+4) Applying this ratio to the total of 189 pets, we get the number of dogs as 189 * (10/27) = 70 dogs.
+5) Heloise gives 10 dogs to her friend Janet, so the number of dogs she remains with is 70 - 10 = 60 dogs.
+
+Answer: 60 dogs.

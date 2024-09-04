@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tom needs to lower a rope down 6 stories
+* Each story is 10 feet
+* So the total distance he needs to lower the rope is 6 stories x 10 feet/story = 60 feet
+* The rope being sold is 20 feet long, but 25% of the length is lost when lashing them together
+* 25% of 20 feet is 0.25 x 20 = 5 feet
+* So the usable length of each rope is 20 feet - 5 feet = 15 feet
+* To calculate how many pieces of rope he needs to buy, we divide the total distance of 60 feet by the usable length of 15 feet per rope
+* 60 feet / 15 feet per rope = 4 pieces of rope
+
+Answer: 4

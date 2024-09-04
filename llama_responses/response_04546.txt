@@ -1,0 +1,25 @@
+Let's break it down step by step.
+
+Let's start by finding out how many pieces of wood Gerald has left after making 24 tables.
+
+For each table, Gerald uses 12 pieces of wood. So, to make 24 tables, he will use 24 * 12 = 288 pieces of wood.
+
+Now, to make chairs, Gerald uses 8 pieces of wood. So, if he makes x chairs, he will use 8 * x pieces of wood.
+
+We want to find out how many chairs he can make.
+
+Let's set up an equation to represent this.
+
+Let x be the number of chairs Gerald can make.
+
+We know that Gerald has 672 - 288 = 384 pieces of wood left over.
+
+We can write an equation to represent this:
+
+8x = 384
+
+We can solve for x.
+
+8x = 384 / 8 = 48
+
+So, Gerald can make 48 chairs.

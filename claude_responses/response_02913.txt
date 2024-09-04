@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* There are 100 tickets to be sold for the volleyball game
+* Andrea sold twice as many tickets as Jude
+* Sandra sold 4 more than half the number of tickets Jude sold
+* Jude sold 16 tickets
+
+First, let's calculate how many tickets Andrea sold:
+* Jude sold 16 tickets
+* Andrea sold twice as many, so Andrea sold 2 x 16 = 32 tickets
+
+Next, let's calculate how many tickets Sandra sold:
+* Jude sold 16 tickets
+* Half of 16 is 8
+* Sandra sold 4 more than 8, so Sandra sold 8 + 4 = 12 tickets
+
+Now, we can add up the tickets sold by Andrea, Jude, and Sandra:
+* Andrea sold 32 tickets
+* Jude sold 16 tickets
+* Sandra sold 12 tickets
+* Total tickets sold = 32 + 16 + 12 = 60 tickets
+
+Finally, to calculate how many tickets need to be sold, we take the total number of tickets (100) and subtract the number of tickets already sold (60):
+* 100 - 60 = 40 tickets
+
+Answer: 40

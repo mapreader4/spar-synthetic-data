@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding out how much Jon drinks in a 24 hour period. Since he drinks 16 ounces every 4 hours, we can find the total amount of ounces he drinks in 1 day by multiplying 16 ounces by 6 (since 24 hours is 6 times 4 hours). This is 96 ounces.
+
+Now, he drinks a bottle that is 25% larger than those bottles. This means that the bottle he drinks every 4 hours is 1.25 times the amount of 16 ounces, so we need to multiply 96 ounces by 1.25. This gives us 120 ounces.
+
+Finally, Jon drinks a week is 7 times the amount of what he drinks in a day, which is 7 times 120 ounces. So, the total amount of fluid Jon drinks in a week is 840 ounces.
+
+Answer: 840

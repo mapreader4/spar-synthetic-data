@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Find out how much of the tuition fee is covered by the scholarship. 30% of the tuition fee is 30/100 * 90 = 27. So, the scholarship covers 27 dollars.
+
+Step 2: Find out how much Bran needs to pay. 90 - 27 = 63.
+
+Step 3: Since Bran needs to pay his tuition fee within 3 months, we can divide the remaining amount by 3 to find out how much he needs to pay each month. 63 / 3 = 21.
+
+Answer: 21

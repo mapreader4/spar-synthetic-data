@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* The flight is 10 hours long, which is 600 minutes (10 hours x 60 minutes/hour)
+* Emily watches 3 TV episodes that are each 25 minutes long, so that's 3 x 25 = 75 minutes
+* Then she sleeps for 4 and a half hours, which is 270 minutes (4.5 hours x 60 minutes/hour)
+* After that, she watches 2 movies that are each 1 hour and 45 minutes long, so that's 2 x 105 = 210 minutes
+
+Now, let's add up all the time she spent on these activities:
+* 75 minutes + 270 minutes + 210 minutes = 555 minutes
+
+To find the remaining time, we subtract the total time spent on activities from the total flight time:
+* 600 minutes - 555 minutes = 45 minutes
+
+Answer: 45 minutes

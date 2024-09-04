@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of surfers on the first day: 1500 surfers.
+
+On the second day, there were 600 more surfers than on the first day. So, the number of surfers on the second day is 1500 + 600 = 2100.
+
+On the third day, there are 2/5 as many surfers as on the first day. So, the number of surfers on the third day is 1500 * 2/5 = 600.
+
+To find the average number of surfers for the three days, we need to add the number of surfers for each day and divide by 3.
+
+1500 + 2100 + 600 = 3900
+
+3900 / 3 = 1300
+
+Answer: 1300

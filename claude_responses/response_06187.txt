@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+* The Dow Jones Industrial Average fell 2% today
+* The Dow ended the day at 8,722
+* To find the Dow in the morning before the markets opened, we need to work backwards from the ending value of 8,722
+* If the Dow fell 2% during the day, that means it started the day 2% higher
+* To find the starting value, we can divide the ending value of 8,722 by 0.98 (1 - 0.02)
+* 8,722 / 0.98 = 8,900
+
+Answer: 8,900

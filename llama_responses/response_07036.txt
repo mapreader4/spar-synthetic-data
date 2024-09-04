@@ -1,0 +1,9 @@
+Let's start by using variables to represent the number of dresses each person has. Let's say Emily has x dresses. Then, we know that Melissa has half of that number, which is x / 2. Debora has 12 more dresses than Melissa, so we know that Debora has x + 12 dresses.
+
+We know that Debora has 12 more dresses than Melissa, so we can write an equation to represent this: x + 12 = (x / 2) + 12.
+
+We can solve for x in the equation: x + 12 = (x / 2) + 12. Subtract x / 2 from both sides of the equation to get: x = (x / 2) + 12 - (x / 2). Simplify the right side of the equation by combining like terms: x = x + 12 - x. Then, solve for x: x = 12.
+
+Since we know that Emily has 16 dresses, we can substitute x with 16 into the equation: 16 = x + 12 - x. Subtract 12 from both sides of the equation to get: 16 - 12 = x - x. Simplify the right side of the equation by combining like terms: 4 = x - x. Solve for x: x = 4.
+
+Answer: 20

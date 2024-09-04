@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Let's first find the time it takes for Danny to travel 200 miles with the 24 square foot sail.
+
+Speed = Distance / Time
+
+Speed = 50 MPH = 50 miles per hour
+
+Time = Distance / Speed
+
+Time = 200 miles / 50 MPH
+
+Time = 4 hours
+
+Now, let's find the time it takes for Danny to travel 200 miles with the 12 square foot sail.
+
+Speed = Distance / Time
+
+Speed = 20 MPH = 20 miles per hour
+
+Time = Distance / Speed
+
+Time = 200 miles / 20 MPH
+
+Time = 10 hours
+
+The difference in time is:
+
+4 hours - 10 hours = 6 hours
+
+So, the 24 square foot sail is 6 hours faster than the 12 square foot sail.

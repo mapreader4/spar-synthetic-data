@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 50 passengers on the bus.
+* At the first stop, 16 more passengers get on the bus.
+* So, the total number of passengers on the bus after the first stop is 50 + 16 = 66.
+* At the other stops, 22 passengers get off the bus and 5 passengers get on the bus.
+* So, the total number of passengers who got off is 22, and the total number of passengers who got on is 5.
+* Therefore, the net change in the number of passengers is 22 - 5 = 17 passengers getting off the bus.
+* The final number of passengers on the bus is the initial 66 passengers, minus the 17 passengers who got off, which is 66 - 17 = 49 passengers.
+
+Answer: 49

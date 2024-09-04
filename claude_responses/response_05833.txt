@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Each shirt costs $5
+* We need to buy 3 shirts
+* So the cost of the 3 shirts is 3 x $5 = $15
+* Each pair of jeans costs $10
+* We need to buy 2 pairs of jeans
+* So the cost of the 2 pairs of jeans is 2 x $10 = $20
+* Each hat costs $4
+* We need to buy 4 hats
+* So the cost of the 4 hats is 4 x $4 = $16
+* To calculate the total cost, we add up the costs of the shirts, jeans, and hats:
+* $15 + $20 + $16 = $51
+
+Answer: 51

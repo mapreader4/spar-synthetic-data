@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many meals Colt and Curt have given away initially.
+
+Colt and Curt prepared 113 meals to be given away. They have given away 85 meals. So, they have given away 85 meals so far.
+
+To find out how many meals are left, we need to subtract the meals they have given away from the total meals they had prepared.
+
+113 - 85 = 28
+
+So, there are 28 meals left to be distributed.
+
+Answer: 28

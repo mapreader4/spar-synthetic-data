@@ -1,0 +1,14 @@
+Let's break this problem down step by step:
+
+1. On Monday, it rained 2 inches. Then, 1 more inch was added later that day, so the total rain on Monday was 2 + 1 = 3 inches.
+2. On Tuesday, it rained the same amount as Monday, which was 3 inches.
+3. So, the total rain from Monday to Tuesday was 3 + 3 = 6 inches.
+4. On Thursday, it rained 1 inch.
+5. The biggest storm was on Friday, which was equal to the total rain from Monday to Thursday, which was 6 inches.
+6. So, the total rain on Friday was also 6 inches.
+7. To find the daily average, we need to find the total rain for the whole week and divide it by 5 (since there were 5 days).
+
+The total rain for the whole week is 3 + 3 + 0 + 1 + 6 = 13 inches.
+The daily average is 13 / 5 = 2.6.
+
+Answer: 2

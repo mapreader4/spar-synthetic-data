@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Mark is 18 years old
+* John is 10 years younger than Mark, so John is 18 - 10 = 8 years old
+* John and Mark's parents are currently 5 times older than John, which means:
+    - Parents' current age = 5 x John's age
+    - Parents' current age = 5 x 8 = 40 years old
+* When Mark was born, the parents were younger than they are now. To find their age when Mark was born, we need to subtract Mark's age from the parents' current age:
+    - Parents' age when Mark was born = 40 - 18 = 22 years old
+
+Answer: 22

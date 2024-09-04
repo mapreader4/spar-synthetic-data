@@ -1,0 +1,13 @@
+Let's think step by step.
+
+There are 90 episodes, each 20 minutes long. To find the total number of minutes, we can multiply the number of episodes by the length of each episode:
+
+90 episodes * 20 minutes per episode = 1800 minutes
+
+Tom can watch 2 hours a day, or 120 minutes. To find the number of days it will take him to finish the show, we can divide the total number of minutes by the number of minutes he can watch per day:
+
+1800 minutes ÷ 120 minutes per day = 15 days
+
+So, it will take Tom 15 days to finish watching the show.
+
+Answer: 15

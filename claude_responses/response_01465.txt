@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jack goes up 3 flights of stairs
+* Each flight of stairs has 12 steps
+* Each step is 8 inches high
+* So, the total height Jack climbs up is:
+    - 3 flights x 12 steps/flight x 8 inches/step = 288 inches
+* Then, Jack goes down 6 flights of stairs
+* The total height Jack goes down is:
+    - 6 flights x 12 steps/flight x 8 inches/step = 576 inches
+* The difference between the height Jack goes up and the height he goes down is:
+    - 576 inches - 288 inches = 288 inches
+* To convert this to feet, we divide by 12 inches/foot:
+    - 288 inches / 12 inches/foot = 24 feet
+
+Answer: 24 feet

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Step 1: First, we need to calculate how many meals Herman will buy in total. Since he buys a breakfast combo for himself and 3 members of his team, that's 4 people in total. Since he does this every week, we multiply 4 by 5 days in a week, so we get:
+
+4 people x 5 days = 20 meals
+
+Step 2: Next, we need to calculate the cost of each meal. Each meal costs $4.00, so we multiply 20 meals by 4.00:
+
+20 meals x 4.00 = 80.00
+
+Step 3: Finally, we multiply the total cost by the number of weeks, which is 16:
+
+80.00 x 16 = 1280.00
+
+Answer: 1280

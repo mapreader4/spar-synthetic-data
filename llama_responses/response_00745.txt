@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of one head of lettuce. The cost is 1 dollar. So the cost of 2 heads of lettuce is 2 dollars.
+
+Next, let's find the cost of 4 tomatoes. The cost is 0.5 dollars per tomato, so the cost of 4 tomatoes is 2 dollars.
+
+Now, let's find the total cost of lettuce and tomatoes. The cost of 2 heads of lettuce is 2 dollars and the cost of 4 tomatoes is 2 dollars, so the total cost is 4 dollars.
+
+Now, let's find the total revenue of lettuce and tomatoes. 500 customers purchase 2 heads of lettuce and 4 tomatoes, so the total revenue is 500 x (2 + 4) = 600 dollars.
+
+Answer: 600

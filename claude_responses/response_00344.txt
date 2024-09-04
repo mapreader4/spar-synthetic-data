@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Archie starts with an unknown number of marbles.
+2) He loses 60% of them into the street.
+3) Of the remaining marbles, he loses half down a sewer.
+4) He has 20 marbles left.
+
+Let's work backwards from the 20 marbles he has left.
+
+We know that he lost half of the remaining marbles down the sewer. So, if he has 20 marbles left, then before losing half he had 40 marbles.
+
+Now, we know that he lost 60% of his original amount of marbles into the street. So, if he had 40 marbles remaining after that, then his original amount must have been:
+40 / (1 - 0.6) = 100 marbles
+
+Therefore, Archie started with 100 marbles.
+
+Answer: 100

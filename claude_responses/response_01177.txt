@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* James rents his car for $20 per hour
+* He rents it for 8 hours a day
+* He rents it for 4 days a week
+
+To calculate his weekly earnings, we need to:
+1. Calculate his daily earnings
+2. Multiply his daily earnings by the number of days per week
+
+Step 1: Calculate his daily earnings
+* Rental rate per hour: $20
+* Hours rented per day: 8 hours
+* Daily earnings = $20 per hour x 8 hours = $160 per day
+
+Step 2: Calculate his weekly earnings
+* Days rented per week: 4 days
+* Weekly earnings = $160 per day x 4 days = $640 per week
+
+Answer: $640

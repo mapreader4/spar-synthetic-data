@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Kingsley's teacher asked her to find 4 friends to help carry chairs
+* Each student carried 5 chairs per trip
+* They made a total of 10 trips
+
+To find the total number of chairs taken to the hall, we need to:
+1. Calculate the number of chairs carried per trip
+2. Multiply the number of chairs per trip by the total number of trips
+
+1. Number of chairs per trip:
+   * 5 chairs per student
+   * 5 students (Kingsley and her 4 friends)
+   * 5 chairs per student x 5 students = 25 chairs per trip
+
+2. Total number of trips:
+   * 10 trips in total
+
+Now, we can calculate the total number of chairs taken to the hall:
+* 25 chairs per trip x 10 trips = 250 chairs
+
+Answer: 250

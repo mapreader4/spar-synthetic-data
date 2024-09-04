@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the time it takes to dig an adult grave is 3 hours. Let's call this time 'A'. Let's say the time it takes to dig a child's grave is 2 hours. Let's call this time 'B'. Then, to dig 5 adult graves would be 5A, and to dig 1 child's grave would be B.
+
+To find the total time to dig 5 adult graves and 1 child's grave, we need to add A * 5 and B.
+
+A * 5 = 3 * 5 = 15
+
+B = 2
+
+So, the total time it takes Dan to dig 5 adult graves and 1 child's grave is 15 + 2 = 17.

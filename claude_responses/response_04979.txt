@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Annie spends 2 hours a week on chess club
+* Annie spends 8 hours a week on drama club
+* Annie spends 3 hours a week on glee club
+* There are 12 weeks in each semester
+* Annie takes the first two weeks off sick
+
+First, let's calculate the total number of hours per week for all her extracurricular activities:
+* 2 hours (chess club) + 8 hours (drama club) + 3 hours (glee club) = 13 hours per week
+
+Now, let's calculate the number of weeks she is active in extracurriculars:
+* There are 12 weeks in the semester
+* Annie takes the first two weeks off sick
+* So, she is active for 12 - 2 = 10 weeks
+
+Finally, we can calculate the total number of hours of extracurriculars before midterms:
+* 13 hours per week x 10 weeks = 130 hours
+
+Answer: 130

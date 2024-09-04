@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James starts with a collection of 500 Legos
+* He uses half of the 500 Legos to build a castle
+* So, he uses 500 / 2 = 250 Legos to build the castle
+* He is then told to put the rest of the Legos back in the box
+* The number of Legos he has left is 500 - 250 = 250 Legos
+* However, he is missing 5 Legos that he couldn't find
+* Therefore, the number of Legos in the box at the end is 250 - 5 = 245 Legos
+
+Answer: 245

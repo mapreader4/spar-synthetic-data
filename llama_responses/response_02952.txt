@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of students that attended the class initially. 45 people attended the class, and then 15 more came in a while later. To find the total number of students, we add 45 and 15 together:
+
+45 + 15 = 60
+
+So, 60 students attended the class. Since the teacher gives one lollipop to every 5 students, we can find the number of lollipops given out by dividing the total number of students by 5:
+
+60 ÷ 5 = 12
+
+So, the teacher gave away 12 lollipops.

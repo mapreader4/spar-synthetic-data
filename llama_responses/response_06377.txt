@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Magdalena picked 1/5 of the apples on the first day, which is:
+
+200 * (1/5) = 40 apples
+
+On the second day, she picked twice that number, which is:
+
+40 * 2 = 80 apples
+
+On the third day, she picked 20 more apples than on the first day, which is:
+
+40 + 20 = 60 apples
+
+So, in total, Magdalena picked:
+
+40 + 80 + 60 = 180 apples
+
+Since the tree originally had 200 apples, we subtract the total number of apples picked from the original amount:
+
+200 - 180 = 20
+
+Answer: 20

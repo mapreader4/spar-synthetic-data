@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's first find the cost of 4 spiral notebooks and 8 personal planners individually.
+
+The cost of 4 spiral notebooks is 4 * 15 = 60.
+
+The cost of 8 personal planners is 8 * 10 = 80.
+
+Now, to find the total cost with a 20% discount, we need to subtract 20% of the total cost from the total cost.
+
+The total cost without the discount is 60 + 80 = 140.
+
+The 20% discount is 0.20 * 140 = 28.
+
+So, the total cost with the discount is 140 - 28 = 112.
+
+Answer: 112

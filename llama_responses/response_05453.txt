@@ -1,0 +1,19 @@
+Let's break down the problem into smaller parts.
+
+1. Bryan walks 5 minutes to the bus station. This is a total of 5 minutes.
+
+2. Then, he rides the bus for 20 minutes. This is a total of 20 minutes.
+
+3. Then, he walks 5 minutes from the bus station to his job. This is a total of 5 minutes.
+
+So, in total, Bryan spends 5 + 20 + 5 = 30 minutes per day on his daily commute.
+
+To find the number of hours Bryan spends per year, we need to convert the minutes to hours. There are 60 minutes in an hour, so:
+
+30 minutes is 0.5 hours.
+
+Since Bryan works every day, we multiply the daily time by 7 (days in a week):
+
+0.5 hours * 7 = 3.5 hours
+
+So, Bryan spends 3.5 hours per year on his daily commute to and from work.

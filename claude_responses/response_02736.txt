@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+* Paul lives in a 5th story apartment
+* Each story is 10 feet tall
+* He makes 3 trips out from and back to his apartment each day
+* This is done for 7 days in a week
+
+To calculate the total vertical distance traveled, we need to:
+1. Calculate the vertical distance traveled per trip
+2. Multiply that by the number of trips per day
+3. Multiply that by the number of days in a week
+
+Vertical distance traveled per trip:
+* Paul's apartment is on the 5th floor
+* Each floor is 10 feet tall
+* So the vertical distance traveled per trip is 5 floors x 10 feet/floor = 50 feet
+
+Vertical distance traveled per day:
+* 3 trips per day
+* 50 feet per trip
+* 3 trips x 50 feet/trip = 150 feet per day
+
+Vertical distance traveled per week:
+* 7 days in a week
+* 150 feet per day
+* 7 days x 150 feet/day = 1,050 feet
+
+Answer: 1,050 feet

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The control plant with no fertilizer grows 36 inches high.
+2) The plant with bone meal grows to 125% of the height of the control plant.
+   * To calculate the height of the bone meal plant:
+   * 36 inches x 1.25 = 45 inches
+3) The cow manure plant grows to 200% of the height of the bone meal plant.
+   * To calculate the height of the cow manure plant:
+   * 45 inches x 2 = 90 inches
+
+Answer: 90 inches

@@ -1,0 +1,13 @@
+Let's break this down step by step:
+
+1. Safari National park has 100 lions.
+2. It has half as many snakes, so it has 100 / 2 = 50 snakes.
+3. It has 10 fewer giraffes than snakes, so it has 50 - 10 = 40 giraffes.
+4. Savanna National park has double as many lions as Safari National park, so it has 100 x 2 = 200 lions.
+5. It has triple as many snakes as Safari National park, so it has 50 x 3 = 150 snakes.
+6. It has 20 more giraffes than Safari National park, so it has 40 + 20 = 60 giraffes.
+
+Now, let's add up the total number of animals in Savanna National park:
+200 (lions) + 150 (snakes) + 60 (giraffes) = 410
+
+Answer: 410

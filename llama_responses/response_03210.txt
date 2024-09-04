@@ -1,0 +1,21 @@
+Let's start by identifying the information given in the question. We know that Anna has a certain number of phone chargers and five times as many laptop chargers as phone chargers. We also know that she has 24 chargers in total.
+
+Let's use a variable to represent the number of phone chargers Anna has. Let's call it p. Then, we know that Anna has five times as many laptop chargers as phone chargers, so the number of laptop chargers is 5p.
+
+We can write an equation to represent this information: p + 5p = 24.
+
+We can solve for p by subtracting 5p from both sides of the equation:
+
+p + 5p = 24
+
+Subtracting 5p from both sides of the equation, we get:
+
+p = 24 - 5p
+
+This simplifies to:
+
+p = 19
+
+So, the number of phone chargers Anna has is 19.
+
+Answer: 19

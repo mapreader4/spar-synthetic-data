@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: The album has 25 songs and each song is 3 minutes long, so the total time for all the songs is 25 * 3 = 75 minutes.
+
+Step 2: Hans adds 10 more songs to the album, so the new total number of songs is 25 + 10 = 35.
+
+Step 3: The total time for the new 35 songs is 35 * 3 = 105 minutes.
+
+Answer: 105

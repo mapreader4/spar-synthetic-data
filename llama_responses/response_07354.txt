@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Helen cuts her lawn 2 times per month in March, April, September, and October, so in total, she cuts her lawn 6 times in these months. She cuts her lawn 4 times per month in May, June, July, and August, so in total, she cuts her lawn 12 times in these months.
+
+Since the total number of times she cuts her lawn is 6 + 12 = 18, and she uses 2 gallons of gas every 4th time she cuts her lawn, we can find the total number of gallons of gas she uses by dividing 18 by 4.
+
+18 / 4 = 4.5
+
+Answer: 4

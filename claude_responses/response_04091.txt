@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The office has an even number of men and women working there
+* The meeting is composed of 4 men and 6 women
+* This reduces the number of women working on the office floor by 20%
+
+To find the total number of people working in Ryan's office, we need to first find the original number of women working in the office.
+
+Let's say the original number of women is x.
+Since the office has an even number of men and women, the number of men is also x.
+
+The meeting has 6 women, so the remaining number of women on the office floor is x - 6.
+The reduction in the number of women is 20%, so:
+(x - 6) / x = 0.8
+Solving for x, we get:
+x = 30
+
+Therefore, the original number of women in the office is 30.
+The original number of men in the office is also 30.
+
+The total number of people working in Ryan's office is:
+30 women + 30 men = 60 people
+
+Answer: 60

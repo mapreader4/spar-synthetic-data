@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* For a normal car:
+  - 4 minutes for washing the windows
+  - 7 minutes for washing the car body
+  - 4 minutes for cleaning the tires
+  - 9 minutes for waxing the car
+  - Total time for a normal car = 4 + 7 + 4 + 9 = 24 minutes
+* For the big SUV:
+  - Since it took twice as long as a normal car, the total time for the big SUV = 2 * 24 = 48 minutes
+* William washed 2 normal cars and 1 big SUV this morning
+  - Time for 2 normal cars = 2 * 24 = 48 minutes
+  - Time for 1 big SUV = 48 minutes
+  - Total time = 48 + 48 = 96 minutes
+
+Answer: 96 minutes

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+On Monday, there were 7 children and 5 adults. 
+* The cost of the child tickets is 7 x $3 = $21
+* The cost of the adult tickets is 5 x $4 = $20
+* The total for Monday is $21 + $20 = $41
+
+On Tuesday, there were 4 children and 2 adults.
+* The cost of the child tickets is 4 x $3 = $12
+* The cost of the adult tickets is 2 x $4 = $8
+* The total for Tuesday is $12 + $8 = $20
+
+To calculate the total money the zoo made for both days, we add the totals for Monday and Tuesday:
+* $41 + $20 = $61
+
+Answer: $61

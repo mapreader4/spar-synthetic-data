@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Darius has 5 buckets of water. Each bucket contains a different amount of ounces. The information given is:
+
+* 1st bucket: 11 ounces
+* 2nd bucket: 13 ounces
+* 3rd bucket: 12 ounces
+* 4th bucket: 16 ounces
+* 5th bucket: 10 ounces
+
+He pours the 10-ounce bucket into the bigger bucket, along with one of the other four. The bigger bucket now has 23 ounces.
+
+He pours the remaining three buckets into the second large bucket. These buckets are:
+
+* 1st bucket: 11 ounces
+* 2nd bucket: 13 ounces
+* 3rd bucket: 12 ounces
+
+He pours the 11-ounce bucket, 13-ounce bucket, and 12-ounce bucket into the second big bucket. So, the total ounces in the second large bucket is:
+
+11 + 13 + 12 = 36
+
+The second large bucket contains 36 ounces.

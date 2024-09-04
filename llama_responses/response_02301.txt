@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of minutes it took for the total number of snowflakes to reach 58.
+
+We know there were 10 snowflakes at the beginning. Then, every 5 minutes, 4 snowflakes are added. So, to find the total number of snowflakes, we can set up an equation.
+
+Let's say the number of minutes is x. Then, we can write the equation as follows:
+
+10 + (4 * (x / 5)) = 58
+
+We can solve for x by multiplying both sides of the equation by 5, which gives us:
+
+10 + 4x = 58 * 5
+
+Then, we can subtract 10 from both sides of the equation to get:
+
+4x = 48
+
+Finally, we can divide both sides by 4 to solve for x:
+
+x = 12
+
+So, it took 12 minutes for the total number of snowflakes to reach 58.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Theo can eat 13 cookies, 3 times a day
+* So in a single day, Theo can eat 13 x 3 = 39 cookies
+* Theo can do this for 20 days each month
+* So in a single month, Theo can eat 39 x 20 = 780 cookies
+* We want to know how many cookies Theo can eat in 3 months
+* In 3 months, Theo can eat 780 x 3 = 2,340 cookies
+
+Answer: 2,340

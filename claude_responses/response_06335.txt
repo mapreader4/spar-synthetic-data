@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) Barry wants to make a salad using only cucumbers and tomatoes.
+2) He will use a total of 280 pieces of vegetables.
+3) There are thrice as many tomatoes as cucumbers.
+4) Let's represent the number of cucumbers as x.
+5) Since there are thrice as many tomatoes as cucumbers, the number of tomatoes is 3x.
+6) The total number of vegetables is 280, so we can write the equation:
+x + 3x = 280
+7) Solving for x, we get:
+4x = 280
+x = 70
+Therefore, the number of cucumbers used in the salad is 70.
+
+Answer: 70

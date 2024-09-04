@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Justin can run 2 blocks in 1.5 minutes
+* This means he can run 1 block in 0.75 minutes (1.5 minutes / 2 blocks)
+* He is 8 blocks from home
+* To find the time it takes him to run 8 blocks, we can multiply the time it takes to run 1 block (0.75 minutes) by the number of blocks (8)
+* 0.75 minutes x 8 blocks = 6 minutes
+
+Answer: 6 minutes

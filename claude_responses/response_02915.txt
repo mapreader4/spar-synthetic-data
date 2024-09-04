@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Adam is currently 8 years old
+* Tom is currently 12 years old
+* We want to find how many years it will take for their combined age to be 44 years old
+
+To do this, we need to find the total age of Adam and Tom in the future, and then determine how many years it will take to reach that total.
+
+The total age of Adam and Tom currently is:
+* 8 + 12 = 20 years old
+
+We want their combined age to be 44 years old in the future.
+* 44 - 20 = 24 years
+
+Therefore, it will take 24 years for their combined age to be 44 years old.
+
+Answer: 24

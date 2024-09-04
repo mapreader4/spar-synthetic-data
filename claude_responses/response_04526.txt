@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tom needs 10 different vaccines, each costing $45
+* The total cost of the vaccines is 10 * $45 = $450
+* Tom also needs a doctor's visit, which costs $250
+* The total medical costs are $450 + $250 = $700
+* However, Tom's insurance will cover 80% of these medical bills
+* The amount Tom will have to pay for the medical bills is 20% of $700, which is 0.2 * $700 = $140
+* The trip itself costs $1200
+* Therefore, the total amount Tom will have to pay is the medical bills ($140) plus the trip cost ($1200), which is $140 + $1200 = $1340
+
+Answer: $1340

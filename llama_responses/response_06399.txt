@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+1. Let's first find the total length of the fences Emmalyn had to paint. If each fence is 500 meters long, and there are 50 fences, then the total length is:
+
+50 * 500 = 25,000 meters
+
+2. Since Emmalyn earns 20 cents per meter, we can find the total amount she earned by multiplying the total length of the fences by the rate of 20 cents per meter:
+
+25,000 meters * 0.20 = 5,000 cents
+
+3. Since there are 100 cents in 1 dollar, we can convert the total amount to dollars by dividing by 100:
+
+5,000 cents ÷ 100 = 50
+
+Answer: 50

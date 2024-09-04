@@ -1,0 +1,22 @@
+Let's start by identifying the variables:
+
+* Candice read 3 times as many books as Amanda.
+* Amanda read a number of books, which we'll call x.
+* Kara read half the number of books that Amanda read, which is x / 2.
+* Patricia read 7 times the number of books that Kara read, which is 7x.
+* Candice read 18 books.
+
+We can write an equation to represent the information:
+
+Candice read 3x = 18
+
+We can solve for x by dividing both sides by 3:
+
+x = 18 / 3
+x = 6
+
+Since Patricia read 7 times the number of books that Kara read, which is 7x, we can substitute x for x:
+
+Patricia read 7x = 7 * 6 = 42
+
+Answer: 42

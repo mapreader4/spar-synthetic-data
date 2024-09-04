@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Gina's snake eats one mouse every 4 weeks
+* We want to know how many mice it will eat in a decade
+* A decade is 10 years
+* There are 52 weeks in a year
+* So in 1 year, the snake will eat 52 / 4 = 13 mice
+* In 10 years (a decade), the snake will eat 13 mice x 10 years = 130 mice
+
+Answer: 130

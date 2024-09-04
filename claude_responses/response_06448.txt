@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There are 6 kids and 2 adults going to the circus
+* Kid's tickets are on sale for only half of the adult tickets
+* The total cost is $50
+
+Let's call the cost of an adult ticket "x" and the cost of a kid's ticket "x/2" (since it's half the cost of an adult ticket).
+
+The total cost is the sum of the cost of the adult tickets and the cost of the kid tickets:
+* Total cost = 2 * x + 6 * (x/2) = 2x + 3x = 5x
+
+We know the total cost is $50, so:
+* 5x = 50
+* x = 10
+
+Therefore, the cost of an adult ticket is $10.
+
+Since the kid's ticket is half the cost of the adult ticket, the cost of a kid's ticket is:
+* x/2 = 10/2 = $5
+
+Answer: $5

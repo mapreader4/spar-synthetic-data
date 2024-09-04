@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Ali sold 4 flowers on Monday
+* He sold 8 flowers on Tuesday
+* On Friday, he sold double the number of flowers he sold on Monday
+* To find the number of flowers he sold on Friday, we take the number of flowers he sold on Monday (4) and double it, which is 4 x 2 = 8 flowers
+
+Now, to find the total number of flowers Ali sold, we add up the number of flowers he sold on each day:
+* Monday: 4 flowers
+* Tuesday: 8 flowers
+* Friday: 8 flowers
+
+Adding these up, we get:
+4 + 8 + 8 = 20 flowers
+
+Answer: 20

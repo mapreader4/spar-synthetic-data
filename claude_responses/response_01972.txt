@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The largest frog can grow to weigh 10 times as much as the smallest frog.
+2) The largest frog weighs 120 pounds.
+3) To find the weight of the smallest frog, we divide the weight of the largest frog by 10:
+   * 120 pounds / 10 = 12 pounds
+4) To find the difference in weight between the largest and smallest frog, we subtract the weight of the smallest frog from the weight of the largest frog:
+   * 120 pounds - 12 pounds = 108 pounds
+
+Answer: 108 pounds

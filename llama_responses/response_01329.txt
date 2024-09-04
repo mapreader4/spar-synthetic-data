@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the number of votes John got. 70% of the 1150 votes that were left after John got 150 votes, which is 1150 - 150 = 1000. 70% of 1000 is 0.7 * 1000 = 700. So, John got 150 + 700 = 850 votes.
+
+The third guy got 1150 - 850 = 300 votes.
+
+Answer: 300

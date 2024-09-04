@@ -1,0 +1,25 @@
+To solve this problem, I will break it down step by step.
+
+Let's first identify the information given in the problem: Brenda needs to spay some cats and twice as many dogs. The total number of animals she needs to spay is 21.
+
+Next, we know that she needs to spay cats. Let's use the variable "c" to represent the number of cats she needs to spay. We know that the total number of animals is 21, and since the problem says "twice as many dogs", we can set up the equation as follows:
+
+c + 2c = 21
+
+We can solve for c by subtracting 2c from both sides of the equation:
+
+c + 2c = 21
+
+Subtracting 2c from both sides, we get:
+
+c = 21 - 2c
+
+Now, we can simplify the equation by dividing both sides by 1:
+
+c = 21 / 3
+
+c = 7
+
+So, Brenda needs to spay 7 cats.
+
+Answer: 7

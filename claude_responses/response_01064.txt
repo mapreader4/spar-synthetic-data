@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Harry owns 3 geckos, 2 iguanas, and 4 snakes
+* He spends $15 to feed each gecko every month
+* He spends $5 to feed each iguana every month
+* He spends $10 to feed each snake every month
+
+To calculate the total monthly cost:
+* Cost for geckos: 3 geckos x $15 per gecko = $45
+* Cost for iguanas: 2 iguanas x $5 per iguana = $10
+* Cost for snakes: 4 snakes x $10 per snake = $40
+* Total monthly cost = $45 + $10 + $40 = $95
+
+To calculate the total yearly cost:
+* Total monthly cost = $95
+* Total yearly cost = $95 x 12 months = $1,140
+
+Answer: $1,140

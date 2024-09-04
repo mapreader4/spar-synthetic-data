@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Natalie gets half of the $10,000, so she gets $5,000.
+2. Rick gets 60% of the remaining money, so we need to find 60% of the remaining amount. 60% of the remaining money is 60% of 5,000, which is 0.6 * 5000 = 3,000. So, Rick gets $3,000.
+3. After Natalie and Rick get their shares, the remaining money left is $5,000 - $3,000 = $2,000.
+4. Lucy will get the remaining money, which is $2,000.
+
+Answer: 2000

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The shop is open from 10 am until 10 pm, which is 12 hours per day.
+* Women's T-shirts are sold every 30 minutes, so there are 24 sales per hour.
+* Men's T-shirts are sold every 40 minutes, so there are 18 sales per hour.
+* The shop is open 7 days a week.
+* Women's T-shirts are sold for $18 each.
+* Men's T-shirts are sold for $15 each.
+
+To calculate the total earnings per week:
+* Women's T-shirt sales per day: 24 sales/hour * 12 hours/day = 288 sales/day
+* Women's T-shirt earnings per day: 288 sales/day * $18/sale = $5,184/day
+* Women's T-shirt earnings per week: $5,184/day * 7 days/week = $36,288/week
+
+* Men's T-shirt sales per day: 18 sales/hour * 12 hours/day = 216 sales/day
+* Men's T-shirt earnings per day: 216 sales/day * $15/sale = $3,240/day
+* Men's T-shirt earnings per week: $3,240/day * 7 days/week = $22,680/week
+
+* Total earnings per week: $36,288/week (women's) + $22,680/week (men's) = $58,968/week
+
+Answer: 58,968

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Last week, Keiko sent 111 text messages.
+2) This week, she sent 50 less than double what she sent last week.
+   - Last week, she sent 111 messages.
+   - Double of 111 is 222.
+   - 50 less than 222 is 172.
+3) To find the total number of text messages Keiko sent last week and this week combined, we add the two amounts:
+   - Last week: 111 messages
+   - This week: 172 messages
+   - Total: 111 + 172 = 283 messages
+
+Answer: 283

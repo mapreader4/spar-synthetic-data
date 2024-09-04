@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tyson scored 3 points 15 times
+* 3 points x 15 times = 45 points
+* Tyson scored 2 points 12 times
+* 2 points x 12 times = 24 points
+* Tyson scored 1 point some number of times, let's call this number x
+* The total points scored is 75
+* So, the total points can be calculated as:
+* 45 points (from 3 points) + 24 points (from 2 points) + 1 point x (from 1 point) = 75 points
+* Solving for x:
+* 45 + 24 + 1x = 75
+* 69 + 1x = 75
+* 1x = 6
+* x = 6
+Therefore, Tyson scored 1 point 6 times.
+
+Answer: 6

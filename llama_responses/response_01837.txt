@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+First, we need to find the time it takes for Mr. Langsley to travel from the first station to his workplace. We know that the bus picks him up at 6:00 a.m. and it takes 40 minutes to arrive at the first station. So, the time taken to travel from the first station to the first station is 40 minutes.
+
+Then, we need to find the time it takes for Mr. Langsley to travel from the first station to his workplace. We know that he arrives at work at 9:00 a.m. We can subtract the time it takes to travel from the first station from the arrival time to find the time taken to travel from the first station to his workplace.
+
+Time taken from first station to workplace = Arrival time - Time taken to travel from first station
+= 9:00 a.m. - 6:00 a.m. = 3 hours
+
+So, the total time taken in minutes from the first station to Mr. Langsley's workplace is:
+
+Answer: 180

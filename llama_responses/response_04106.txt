@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say Juwan collected J cans. Then, Solomon collected 3J cans. So, Levi collected half of what Juwan collected, which is (3J)/2 = 1.5J cans.
+
+So, Solomon collected 66 cans. This means that 3J + 1.5J = 66.
+
+Let's solve for J. 3J + 1.5J = 66. 3J = 66 - 1.5J. 3J = 66 - 1.5J. 3J = 66 - 1.5(3J). 3J - 1.5(3J) = 66 - 3.5J. 3J - 3J = 66 - 3J. 3J - 3J = 66 - 3(3). 66 - 9 = 57.
+
+So, J = 19.
+
+So, Juwan collected 19 cans, Solomon collected 3 times as many cans as Juwan, and Levi collected half of what Juwan collected, which is 1.5 times 19 cans. So, the total number of cans collected by the boys is 3 * 19 + 1.5 * 19 = 59 cans. So, the answer is:
+
+Answer: 59

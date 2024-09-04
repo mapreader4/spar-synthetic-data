@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start by calculating the total revenue from selling 5 fantasy books per day.
+
+5 fantasy books per day for 5 days is a total of 5 * 5 = 25 fantasy books.
+
+The price of each fantasy book is $4, so the total revenue from selling 25 fantasy books is 25 * 4 = 100 dollars.
+
+The literature books cost half the price of a fantasy book, which is 4 / 2 = 2 dollars. The total revenue from selling 8 literature books per day is 8 * 2 = 16 dollars.
+
+In total, the total revenue for the day is 100 + 16 = 116 dollars.
+
+Vincent's bookstore sells books for 5 days. So, the total revenue for 5 days is 116 * 5 = 580 dollars.
+
+Answer: 580

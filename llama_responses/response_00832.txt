@@ -1,0 +1,3 @@
+To solve this problem, we can start by identifying the number of liters of air needed to fill all the balloons. The problem states that each balloon holds 10 liters of air, so to find the total number of liters of air needed to fill all the balloons, we can multiply the number of balloons by the number of liters per balloon.
+
+The number of balloons is 1000, and the number of liters per balloon is 10, so the total number of liters of air needed is 1000 * 10 = 10000.

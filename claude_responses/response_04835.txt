@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* A shirt costs $7
+* A pair of shoes costs $3 more than a shirt, so it costs $7 + $3 = $10
+* Sofia is buying 2 shirts and 1 pair of shoes
+* The total cost of the 2 shirts is 2 x $7 = $14
+* The cost of the pair of shoes is $10
+* The total cost of the shirts and shoes is $14 + $10 = $24
+* The bag costs half the total price of the 2 shirts and a pair of shoes, which is $24 / 2 = $12
+* The total amount Sofia will pay is the cost of the 2 shirts ($14), the pair of shoes ($10), and the bag ($12), which is $14 + $10 + $12 = $36
+
+Answer: 36

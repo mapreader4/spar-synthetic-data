@@ -1,0 +1,29 @@
+Okay, let's break this down step-by-step:
+
+1. Josh's work hours per month:
+   * 8 hours per day
+   * 5 days per week
+   * 4 weeks per month
+   * Total hours per month = 8 hours/day * 5 days/week * 4 weeks/month = 160 hours
+
+2. Carl's work hours per month:
+   * Carl works 2 hours less than Josh every day
+   * 8 hours/day - 2 hours/day = 6 hours/day
+   * 6 hours/day * 5 days/week * 4 weeks/month = 120 hours
+
+3. Josh's monthly pay:
+   * $9/hour
+   * 160 hours/month
+   * Total pay = $9/hour * 160 hours/month = $1,440
+
+4. Carl's monthly pay:
+   * $9/hour / 2 = $4.50/hour
+   * 120 hours/month
+   * Total pay = $4.50/hour * 120 hours/month = $540
+
+5. Total monthly pay for both Josh and Carl:
+   * Josh's pay: $1,440
+   * Carl's pay: $540
+   * Total pay = $1,440 + $540 = $1,980
+
+Answer: $1,980

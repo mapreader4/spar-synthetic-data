@@ -1,0 +1,15 @@
+To solve this problem, I will think step by step, stating my reasoning before stating any conclusions.
+
+Step 1: Calculate the number of messages each member would post in a day before the admin removed some members.
+
+Each member posted 50 messages per day.
+
+Step 2: Calculate the number of messages the remaining members would post in a week.
+
+The number of messages the remaining members would post in a week is the total number of messages the remaining members would post in a day, multiplied by 7 (since there are 7 days in a week).
+
+Step 3: Calculate the total number of messages the remaining members would send.
+
+The total number of messages the remaining members would send in a week = 20 members * 50 messages per day * 7 days = 1400 messages.
+
+Answer: 1400

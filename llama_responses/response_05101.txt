@@ -1,0 +1,7 @@
+To solve this problem, I will first calculate the number of planks of wood needed for the legs of the tables. Each table needs 4 legs, and each leg needs 1 plank of wood. So, for 5 tables, Johnny needs 4 x 5 = 20 planks of wood for the legs.
+
+Next, I will calculate the number of planks of wood for the surface of the tables. Each table needs 5 planks of wood for the surface, and since Johnny wants to build 5 tables, he needs 5 x 5 = 25 planks of wood for the surface.
+
+To find the total number of planks of wood needed, I will add the planks for the legs and the planks for the surface: 20 + 25 = 45 planks of wood.
+
+Answer: 45

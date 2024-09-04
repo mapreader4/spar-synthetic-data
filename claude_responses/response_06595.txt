@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+1) Drew is 5 years older than Maya
+2) Peter is 4 years older than Drew
+3) John is 30 and is twice as old as Maya
+4) In 2 years, Jacob will be exactly half of Peter's age
+
+First, let's find Maya's age:
+* John is 30 and is twice as old as Maya
+* Therefore, Maya's age is 30 / 2 = 15
+
+Now, let's find Drew's age:
+* Drew is 5 years older than Maya
+* Therefore, Drew's age is 15 + 5 = 20
+
+Next, let's find Peter's age:
+* Peter is 4 years older than Drew
+* Therefore, Peter's age is 20 + 4 = 24
+
+Finally, let's find Jacob's age:
+* In 2 years, Jacob will be exactly half of Peter's age
+* Therefore, in 2 years, Jacob's age will be 24 / 2 = 12
+* So, Jacob's current age is 12 - 2 = 10
+
+Answer: 10

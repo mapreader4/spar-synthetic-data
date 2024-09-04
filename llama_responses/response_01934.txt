@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, let's find the total amount Jeff paid for the first 3 years. Since the rent is $300 per month, and there are 12 months in a year, the total amount paid for the first 3 years is:
+
+300 * 12 * 3 = 10800
+
+So, Jeff paid $10,800 for the first 3 years.
+
+For the next 2 years, the rent increased to $350 per month. So, the total amount Jeff paid for the next 2 years is:
+
+350 * 12 * 2 = 8400
+
+To find the total amount Jeff paid for the 5-year period, we add the amount paid for the first 3 years to the amount paid for the next 2 years:
+
+10800 + 8400 = 19200
+
+Answer: 19200

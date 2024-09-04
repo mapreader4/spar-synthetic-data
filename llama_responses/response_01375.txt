@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The farmer has 6 piglets, and he sells 3 of them after 12 months and the remaining 3 after 16 months. This means that 3 piglets will be sold after 12 months, and they will have been fed for 12 months. The remaining 3 piglets will be sold after 16 months, and they will have been fed for 16 months.
+
+The cost of feeding each piglet per month is $10. So, the cost of feeding each of the 3 piglets that are sold after 12 months is 12 x $10 = $120. The cost of feeding each of the remaining 3 piglets that are sold after 16 months is 16 x $10 = $160.
+
+The total cost of feeding all 6 piglets is the sum of the costs for the 3 piglets sold after 12 months and the 3 piglets sold after 16 months. This is $120 + $120 + $120 + $160 + $160 + $160 = $840.
+
+The farmer sells each piglet for $300. Since he sells 3 piglets after 12 months and 3 piglets after 16 months, the total revenue from selling all 6 piglets is 3 x $300 + 3 x $300 = $1800.
+
+The profit is the revenue minus the cost. In this case, the profit is $1800 - $840 = $960.
+
+Answer: 960

@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* There are initially 50 apples and 40 oranges in the cafeteria
+* Each apple costs $0.80 and each orange costs $0.50
+* There are now 10 apples and 6 oranges left
+* To calculate the total earnings, we need to find the number of apples and oranges that were sold, and then multiply them by their respective prices.
+
+The number of apples sold:
+* Initially there were 50 apples
+* Now there are 10 apples left
+* So the number of apples sold is 50 - 10 = 40 apples
+
+The number of oranges sold:
+* Initially there were 40 oranges
+* Now there are 6 oranges left
+* So the number of oranges sold is 40 - 6 = 34 oranges
+
+The total earnings from the apples:
+* 40 apples were sold at $0.80 each
+* 40 x $0.80 = $32
+
+The total earnings from the oranges:
+* 34 oranges were sold at $0.50 each
+* 34 x $0.50 = $17
+
+The total earnings from apples and oranges:
+* $32 + $17 = $49
+
+Answer: $49

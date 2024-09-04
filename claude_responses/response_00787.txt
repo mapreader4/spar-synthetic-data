@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Eden carried 4 buckets of sand
+* Mary carried 3 more buckets of sand than Eden, so Mary carried 4 + 3 = 7 buckets of sand
+* Iris carried 1 less bucket of sand than Mary, so Iris carried 7 - 1 = 6 buckets of sand
+* Each bucket contains 2 pounds of sand
+
+Now, let's calculate the total amount of sand collected:
+* Eden carried 4 buckets x 2 pounds/bucket = 8 pounds
+* Mary carried 7 buckets x 2 pounds/bucket = 14 pounds
+* Iris carried 6 buckets x 2 pounds/bucket = 12 pounds
+
+To find the total amount of sand collected, we add up the amounts for each person:
+* Total sand collected = 8 pounds + 14 pounds + 12 pounds = 34 pounds
+
+Answer: 34

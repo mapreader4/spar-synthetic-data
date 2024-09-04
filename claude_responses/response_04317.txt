@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Last month, Lily finished reading 4 books.
+* This month, Lily wants to finish reading twice as many books as she finished last month.
+* To calculate how many books she wants to finish this month:
+  - Last month she finished 4 books
+  - She wants to finish twice as many this month
+  - So this month she wants to finish 4 x 2 = 8 books
+* To calculate the total number of books she will finish for the two months:
+  - Last month she finished 4 books
+  - This month she wants to finish 8 books
+  - So the total number of books she will finish for the two months is 4 + 8 = 12 books
+
+Answer: 12

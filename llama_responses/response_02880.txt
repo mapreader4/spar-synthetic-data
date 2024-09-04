@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The salon was booked for manicures at 2 pm. This means that all the people in the salon at 2 pm are getting manicures.
+2. Each manicure costs $20.00, and the salon made $200.00. This means that the total number of manicures is 20000 / 20.00 = 10.
+3. There are 210 fingers in the salon at 2 pm, and each person has 10 fingers. This means that there are 210 / 10 = 21 people in the salon.
+4. Since 21 people got manicures, the number of people who are not clients is 210 - 21 = 189.
+
+Answer: 189

@@ -1,0 +1,3 @@
+Let's start by identifying the total number of legs. Chickens have 2 legs each, and sheep have 4 legs each. So, the total number of legs is the sum of the legs of the chickens and the sheep.
+
+There are 7 chickens, so that is 7 * 2 = 14 legs. There are 5 sheep, so that is 5 * 4 = 20 legs. The total number of legs is the sum of the legs of the chickens and the sheep. 14 + 20 = 34.

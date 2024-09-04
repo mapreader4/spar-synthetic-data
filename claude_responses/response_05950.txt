@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Latch caught four less than three times as many necklaces as Rhonda.
+2) Rhonda caught half as many necklaces as Boudreaux.
+3) Boudreaux caught 12 necklaces.
+
+First, let's find out how many necklaces Rhonda caught:
+* Boudreaux caught 12 necklaces
+* Rhonda caught half as many as Boudreaux
+* So, Rhonda caught 12 / 2 = 6 necklaces
+
+Now, let's find out how many necklaces Latch caught:
+* Latch caught four less than three times as many necklaces as Rhonda
+* Rhonda caught 6 necklaces
+* So, Latch caught (3 * 6) - 4 = 18 - 4 = 14 necklaces
+
+Answer: 14

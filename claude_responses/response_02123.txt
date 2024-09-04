@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Bruce buys:
+  - 5 packs of crayons at $5 each, so that's 5 x $5 = $25
+  - 10 books at $5 each, so that's 10 x $5 = $50
+  - 3 calculators at $5 each, so that's 3 x $5 = $15
+* So the total amount he spent is $25 + $50 + $15 = $90
+* He had $200 to start with
+* To find the change, we subtract the amount he spent ($90) from the amount he had ($200):
+  - $200 - $90 = $110
+* Each bag costs $10
+* To find how many bags he can buy with the change, we divide the change ($110) by the cost of each bag ($10):
+  - $110 / $10 = 11 bags
+
+Answer: 11

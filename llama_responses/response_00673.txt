@@ -1,0 +1,10 @@
+Let's break it down step by step.
+
+1. The original price of the ping pong balls is $.10 each.
+2. The total number of ping pong balls Johnny buys is 10000.
+3. The discount is 30% of the original price.
+4. To find the discount, we multiply the original price by the discount percentage. In this case, we multiply.10 by 0.30 to get 0.03.
+5. To find the discount, we subtract the discount from the original price. We subtract 0.03 from 10.00 to get the discounted price. 10.00 - 0.03 = 9.97.
+6. Johnny pays the discounted price, which is $9.97.
+
+Answer: 9.97

@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. Dianne has 1000 customers who buy books. 37% of them return their books, so we can find the number of customers who return their books by multiplying 1000 by 0.37. 1000 x 0.37 = 370.
+
+2. Each of these customers return 1 book each, so the total number of books returned is 370 books.
+
+3. Since each book costs 15 dollars, the total value of the returned books is 370 x 15 = 5550.
+
+4. Dianne's total sales is the total amount of money she receives from the customers minus the value of the returned books. So, her total sales is 1000 x 15 - 5550. 1000 x 15 - 5550 = 4550.
+
+Answer: 4550

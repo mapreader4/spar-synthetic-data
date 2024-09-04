@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Tricia buys large bottles of iced coffee with 6 servings per container
+* She drinks half a container per day
+* The coffee is on sale for $3.00 per bottle
+
+First, we need to calculate how many servings Tricia will need for 2 weeks:
+* 2 weeks = 14 days
+* She drinks half a container per day
+* So, she will need 14 * 0.5 = 7 containers worth of servings
+
+Next, we need to calculate how many bottles she will need to buy:
+* Each bottle has 6 servings
+* She needs 7 containers worth of servings
+* So, she will need to buy 7 / 6 = 1.17 bottles
+* Since we can't buy a fraction of a bottle, we need to round up to the nearest whole number
+* So, Tricia will need to buy 2 bottles
+
+Finally, we can calculate the total cost:
+* Each bottle costs $3.00
+* Tricia needs to buy 2 bottles
+* So, the total cost will be 2 * $3.00 = $6.00
+
+Answer: $6.00

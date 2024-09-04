@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Janet takes 2 multivitamins and 3 calcium supplements every day for the first 2 weeks. That means she takes a total of 2 x 14 = 28 multivitamins and 3 x 14 = 42 calcium supplements in the first 2 weeks.
+
+For the last 2 weeks, Janet runs low on calcium supplements and takes 1 calcium supplement per day. So, she takes a total of 1 x 14 = 14 calcium supplements for the last 2 weeks.
+
+To find the total number of pills Janet takes in the entire month, we add the total number of multivitamins and calcium supplements taken in the first 2 weeks to the total number of calcium supplements taken in the last 2 weeks. So, the total number of pills Janet takes is 28 + 14 = 42.

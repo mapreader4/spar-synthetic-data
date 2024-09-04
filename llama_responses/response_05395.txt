@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first identify the information given in the problem. We know that the original recipe calls for 2 pounds of pasta and serves 7 people. We also know that Dale's family reunion will have 35 people.
+
+To find out how many pounds of pasta Dale needs, we need to multiply the number of people by the amount of pasta needed per person. The amount of pasta per person is given by the ratio of 2 pounds for 7 people, so we can set up a proportion.
+
+Let's set up the proportion: 2 pounds / 7 people = x pounds / 35 people.
+
+To solve for x, we can cross multiply both sides of the proportion to get:
+
+x = (2 * 35) / 7
+
+x = 10
+
+So, Dale needs 10 pounds of pasta.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Carlos runs around the entire block in 3 minutes
+* Diego runs around half the block in 2.5 minutes
+* Assuming Diego kept up the same speed, he would have taken 5 minutes to run the entire block
+
+Now, to calculate the average time for the racers:
+* Carlos took 3 minutes, which is 180 seconds
+* Diego would have taken 5 minutes, which is 300 seconds
+* The average time would be (180 seconds + 300 seconds) / 2 = 240 seconds
+
+Answer: 240

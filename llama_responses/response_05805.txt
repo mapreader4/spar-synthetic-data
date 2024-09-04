@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+1. The initial population of Youngsville is 684 people.
+2. The population increases by 25% which is 25% of 684 (25% of 684 is 171). So the new population is 684 + 171 = 855.
+3. Then 40% of the population moved away. 40% of 855 is 342 people. So the remaining population is 855 - 342 = 513.
+
+Answer: 513

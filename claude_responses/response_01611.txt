@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, they traveled 200 miles.
+2. On the second day, they traveled 3/4 as far as the first day. 
+   * 3/4 of 200 miles = 150 miles
+3. On the third day, they traveled 1/2 as many miles as the first two days combined.
+   * The first two days they traveled 200 + 150 = 350 miles
+   * 1/2 of 350 miles = 175 miles
+
+Now, to find the total miles traveled for the 3 days, we add up the miles traveled each day:
+* 200 miles + 150 miles + 175 miles = 525 miles
+
+Answer: 525

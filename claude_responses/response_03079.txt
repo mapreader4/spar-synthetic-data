@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The clothing store has a 50% discount for all items during the summer.
+2) On Wednesdays, there is an additional $10.00 off on all jeans after the summer discount is applied.
+3) The cost of a pair of jeans before the sales tax is $14.50.
+
+To find the original cost of the jeans before the discounts, we can work backwards:
+1) The final cost of the jeans is $14.50.
+2) On Wednesdays, there is an additional $10.00 off, so the cost before the additional $10.00 discount is $14.50 + $10.00 = $24.50.
+3) The summer discount is 50%, so the original cost before the 50% discount is $24.50 / (1 - 0.5) = $49.00.
+
+Answer: 49

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Connie spent half of her tickets on a stuffed koala bear
+* She spent 10 tickets on a pair of earbuds
+* She spent another 15 tickets on glow bracelets
+* Let's call the total number of tickets Connie redeemed today as 'x'
+* She spent half of 'x' on the stuffed koala bear, which is x/2
+* She spent 10 tickets on the earbuds
+* She spent 15 tickets on the glow bracelets
+* So the total number of tickets spent is: x/2 + 10 + 15
+* We know that the total number of tickets spent is equal to the total number of tickets redeemed, so:
+* x = x/2 + 10 + 15
+* Solving for x, we get:
+* x/2 = 25
+* x = 50
+
+Answer: 50

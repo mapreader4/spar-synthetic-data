@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who scored 100%. We know that 2/5 of the 80 students scored 100%, which means 2 x 16 = 32 students scored 100%.
+
+Next, we need to find the number of students who didn't score 100%. That is, the remaining 80 - 32 = 48 students.
+
+Now, we are told that 50% of these 48 students scored over 80%. To find the number of students who scored over 80%, we can multiply 48 by 0.5, which gives us 24 students.
+
+Now, we need to find the number of students who failed the exam. To do this, we subtract the number of students who scored over 80% from the total number of students who didn't score 100%. That is, we subtract 24 from 48, which gives us 24.
+
+So, the number of students who failed the exam is 24.
+
+Answer: 24

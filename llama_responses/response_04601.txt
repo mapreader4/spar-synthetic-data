@@ -1,0 +1,9 @@
+To solve this problem, I will first find the number of hours Reese practices per day. He practices 4 hours every week, so the number of hours he practices per day is 4.
+
+Now, to find the number of hours he will practice after five months, I will multiply the number of hours he practices per day by the number of days in 5 months.
+
+There are 7 days in a week, so the number of weeks in 5 months is 5 * 7 = 35.
+
+So, the number of hours Reese will practice after five months is 4 * 35 = 140.
+
+Answer: 140

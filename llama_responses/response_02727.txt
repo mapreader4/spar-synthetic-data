@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of seeds that can be planted in the large planters. Each large planter can hold 20 seeds, and there are 4 large planters, so the total number of seeds that can be planted in the large planters is 4 x 20 = 80 seeds.
+
+Next, let's find the number of small planters needed. Each small planter can hold 4 seeds, and Oshea has a total of 200 seeds. To find the number of small planters needed, we can divide 200 by 4, which is the number of seeds each small planter can hold. 200 ÷ 4 = 50 small planters are needed.
+
+Now, we need to find the total number of planters needed. We need 80 seeds for the large planters and 50 seeds for the small planters, so the total number of planters needed is 80 + 50 = 130 planters.
+
+Answer: 130

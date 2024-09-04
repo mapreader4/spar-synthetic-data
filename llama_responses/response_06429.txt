@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total grams of protein from the collagen powder. Since the collagen powder has 18 grams of protein for every 2 scoops, and he has 1 scoop, we can find the total grams of protein from the collagen powder by multiplying 18 by 0.5 (since he has half a scoop). So, the total grams of protein from collagen powder is 18 * 0.5 = 9.
+
+Next, let's find the total grams of protein from the protein powder. The protein powder has 21 grams of protein per scoop, and he has 1 scoop, so the total grams of protein from protein powder is 21.
+
+Finally, let's find the total grams of protein from the steak. The steak has 56 grams of protein.
+
+Now, let's add up the grams of protein from all the sources. We have 9 grams from collagen powder, 21 grams from protein powder, and 56 grams from the steak. To find the total, we add these numbers together: 9 + 21 + 56 = 86.
+
+Answer: 86

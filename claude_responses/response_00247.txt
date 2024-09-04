@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Tony initially bought a bottle of 50 pills
+* For the first 2 days, he took 2 pills 3 times a day, which is 6 pills per day
+* So for the first 2 days, he took 6 pills x 2 days = 12 pills
+* For the next 3 days, he cut the amount in half, so he took 3 pills per day
+* For the next 3 days, he took 3 pills x 3 days = 9 pills
+* On the sixth day, he took 2 more pills
+* In total, he took 12 + 9 + 2 = 23 pills
+* Therefore, the number of pills left in the bottle is:
+Answer: 50 - 23 = 27 pills

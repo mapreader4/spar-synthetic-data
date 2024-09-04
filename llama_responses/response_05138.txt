@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that the hotel has 10 rooms, and each room holds a family of 3. So, the total number of people staying in the hotel is 10 x 3 = 30.
+
+Next, we know that each person receives 2 towels. So, to find the total number of towels needed, we multiply the total number of people (30) by the number of towels each person receives (2). So, we multiply 30 * 2 = 60.
+
+So, the hotel hands out 60 towels.

@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Mark visits the theater at least once a week
+* Each performance lasts 3 hours
+* The price of the ticket is $5 per hour spent in the theater
+
+To calculate the total cost for 6 weeks, we need to:
+1. Calculate the cost per visit
+2. Multiply the cost per visit by the number of visits
+
+Cost per visit:
+* Each performance lasts 3 hours
+* Cost per hour is $5
+* Therefore, the cost per visit is 3 hours x $5 per hour = $15
+
+Number of visits:
+* Mark visits the theater at least once a week
+* There are 6 weeks
+* Therefore, the minimum number of visits is 6
+
+Total cost:
+* Cost per visit is $15
+* Number of visits is 6
+* Therefore, the total cost is 6 x $15 = $90
+
+Answer: $90

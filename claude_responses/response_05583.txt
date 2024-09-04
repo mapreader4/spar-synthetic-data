@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1) The first-place team has 12 wins and 4 ties. For wins, they get 2 points per win, so 12 wins x 2 points = 24 points. For ties, they get 1 point per tie, so 4 ties x 1 point = 4 points. In total, the first-place team has 24 + 4 = 28 points.
+
+2) The second-place team has 13 wins and 1 tie. For wins, they get 2 points per win, so 13 wins x 2 points = 26 points. For the tie, they get 1 point, so 1 tie x 1 point = 1 point. In total, the second-place team has 26 + 1 = 27 points.
+
+3) Elsa's team has 8 wins and 10 ties. For wins, they get 2 points per win, so 8 wins x 2 points = 16 points. For ties, they get 1 point per tie, so 10 ties x 1 point = 10 points. In total, Elsa's team has 16 + 10 = 26 points.
+
+4) To find the average number of points for the playoff teams, we add up the total points for all three teams (28 + 27 + 26 = 81) and divide by the number of teams (3).
+
+Answer: 27

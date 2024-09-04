@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Let's denote the profit in the second quarter as x.
+
+The store had profits of $1,500 in the first quarter, $3,000 in the third quarter, and $2,000 in the fourth quarter. The total profit for the year is $8,000.
+
+We can set up an equation based on this information:
+
+1,500 + x + 3,000 + 2,000 = 8,000
+
+To solve for x, we can subtract 1,500 and 2,000 from both sides of the equation:
+
+1,500 + x = 8,000 - 3,000 - 2,000
+
+This simplifies to:
+
+x = 8,000 - 3,000 - 2,000 - 1,500
+
+x = 2,500
+
+Answer: 2,500

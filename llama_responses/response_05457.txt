@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's let the number of koi fish be x.
+
+We know that 14 is less than 2 times x, so we can set up an inequality to represent this:
+
+2x < 14
+
+We can solve for x by dividing both sides of the inequality by 2:
+
+x < 14 / 2
+x < 7
+
+So, x must be less than 7.
+
+Now, we know that the total number of koi fish is 64. We can set up an equation to represent this:
+
+2x = 64
+
+We can solve for x by dividing both sides of the equation by 2:
+
+x = 64 / 2
+x = 32
+
+So, we will find 32 koi fish in the pond.

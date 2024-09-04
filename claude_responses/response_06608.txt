@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+
+1. Each gym has:
+   - 10 bikes
+   - 5 treadmills
+   - 5 elliptical machines
+
+2. The cost of each item:
+   - Bikes: $700 each
+   - Treadmills: 50% more than bikes, so $700 x 1.5 = $1,050 each
+   - Elliptical machines: twice as expensive as treadmills, so $1,050 x 2 = $2,100 each
+
+3. Calculating the total cost for each gym:
+   - Bikes: 10 x $700 = $7,000
+   - Treadmills: 5 x $1,050 = $5,250
+   - Elliptical machines: 5 x $2,100 = $10,500
+   - Total cost per gym: $7,000 + $5,250 + $10,500 = $22,750
+
+4. Calculating the total cost for all 20 gyms:
+   - Total cost = $22,750 x 20 = $455,000
+
+Answer: $455,000

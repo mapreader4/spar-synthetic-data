@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the orchestra: There are 11 males and 12 females in the orchestra, so the total number of musicians in the orchestra is 11 + 12 = 23.
+
+Now, let's look at the band. We are told that there are twice as many musicians in the band as there are in the orchestra. Since there are 23 musicians in the orchestra, that means there are 23 x 2 = 46 musicians in the band.
+
+Next, let's look at the choir. There are 12 males and 17 females in the choir, so the total number of musicians in the choir is 12 + 17 = 29.
+
+To find the total number of musicians in the orchestra, the band, and the choir, we add the numbers together: 23 (orchestra) + 46 (band) + 29 (choir) = 98.
+
+Answer: 98

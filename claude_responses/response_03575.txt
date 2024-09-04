@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The apartment building has 12 floors total
+* Half of the floors are full, which means 6 floors are full
+* The remaining 6 floors are all at half-capacity
+* Each floor has 10 apartments
+* Each apartment has 4 people
+
+First, let's calculate the number of people in the 6 full floors:
+* 6 full floors x 10 apartments per floor x 4 people per apartment = 240 people
+
+Next, let's calculate the number of people in the 6 half-capacity floors:
+* 6 half-capacity floors x 10 apartments per floor x 2 people per apartment (since they are half-capacity) = 120 people
+
+Finally, we add the people in the full floors and the half-capacity floors:
+* 240 people + 120 people = 360 people
+
+Answer: 360

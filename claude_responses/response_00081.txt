@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+In the first round:
+* Sam completed 16 skips
+* Jeff completed 1 fewer skip than Sam, so Jeff completed 15 skips
+
+In the second round:
+* Sam completed 16 skips
+* Jeff completed 3 fewer skips than Sam, so Jeff completed 13 skips
+
+In the third round:
+* Sam completed 16 skips
+* Jeff completed 4 more skips than Sam, so Jeff completed 20 skips
+
+In the fourth round:
+* Sam completed 16 skips
+* Jeff completed half the number of skips as Sam, so Jeff completed 8 skips
+
+Now, to calculate the average number of skips per round completed by Jeff:
+* Total skips completed by Jeff = 15 + 13 + 20 + 8 = 56
+* Number of rounds = 4
+* Average skips per round = 56 / 4 = 14
+
+Answer: 14

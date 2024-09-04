@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+1. Jack sent out 200 invitations.
+2. 90% of people RSVPed, which means 0.9 * 200 = 180 people RSVPed.
+3. 80% of the 180 people who RSVPed actually showed up, which means 0.8 * 180 = 144 people showed up.
+4. 10 people who showed up didn't get a gift, so we need to subtract that from the total number of people who showed up.
+5. 144 - 10 = 134 people who showed up and got a gift.
+
+Therefore, the number of thank you cards Jack needs is:
+Answer: 134

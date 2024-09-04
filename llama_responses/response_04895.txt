@@ -1,0 +1,32 @@
+Let's break this down step by step.
+
+Let's first find the distance they will drive at the speed of 30 miles per hour. Since her friend drives for 3 hours, the distance they will cover at the speed of 30 miles per hour is:
+
+30 mph x 3 hours = 90 miles
+
+Since they will drive 210 miles in total, we can set up an equation to find out how many hours Christina will drive at the speed of 30 miles per hour:
+
+Distance = Speed x Time
+210 miles = 30 mph x Time
+
+We can divide both sides of the equation by 30 to find the time:
+
+Time = Distance / Speed
+Time = 210 / 30
+Time = 7
+
+So Christina will drive for 7 hours at the speed of 30 miles per hour.
+
+However, since Christina is not driving at the speed of 30 miles per hour, but her friend is driving at the speed of 40 miles per hour. We need to find the time it will take for her friend to drive the remaining distance at the speed of 40 miles per hour.
+
+Distance remaining = Total distance - Distance covered at 30 mph
+Distance remaining = 210 - 90
+Distance remaining = 120
+
+Now, we can use the speed of 40 miles per hour to find the time it will take for her friend to drive the remaining distance:
+
+Time = Distance / Speed
+Time = 120 / 40
+Time = 3
+
+So, in total, Christina will drive for 7 hours and her friend will drive for 3 hours.

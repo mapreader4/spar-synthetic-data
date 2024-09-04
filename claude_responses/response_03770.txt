@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Matthias has 40 soccer balls and 15 basketballs
+* 30 soccer balls have a hole in them
+* 7 basketballs have a hole in them
+* To find the total number of balls without holes, we need to subtract the number of balls with holes from the total number of balls
+
+First, let's calculate the number of balls with holes:
+* 30 soccer balls with holes
+* 7 basketballs with holes
+* Total balls with holes = 30 + 7 = 37
+
+Now, let's calculate the total number of balls:
+* 40 soccer balls
+* 15 basketballs
+* Total balls = 40 + 15 = 55
+
+Finally, we can subtract the number of balls with holes from the total number of balls to get the number of balls without holes:
+* 55 total balls - 37 balls with holes = 18 balls without holes
+
+Answer: 18

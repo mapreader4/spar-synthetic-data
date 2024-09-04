@@ -1,0 +1,7 @@
+Let's start by letting KJ have x stamps.  Since KJ has half as many stamps as AJ, we can say that AJ has 2x stamps.  CJ has 5 more than twice the number of stamps KJ has, so CJ has 2x + 5 stamps.  The total number of stamps the three boys have is 930.  We can write this as the equation 2x + x + x = 930.
+
+We can subtract x from both sides of the equation to get 2x + x = 930 - x.  This simplifies to 2x = 930 - 2x.  We can add x to both sides of the equation to get x = 465.
+
+The question asks how many stamps AJ has.  Since AJ has 2x stamps, and x = 465, AJ has 2(465) = 930 stamps.  The answer is:
+
+Answer: 930

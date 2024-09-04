@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Spike hunts 5 crickets every morning
+* He hunts three times that amount over the afternoon and evening
+* To calculate the afternoon and evening amount:
+    - 3 times the morning amount is 3 x 5 = 15 crickets
+* To calculate the total number of crickets hunted per day:
+    - Morning: 5 crickets
+    - Afternoon/Evening: 15 crickets
+    - Total: 5 + 15 = 20 crickets
+
+Answer: 20 crickets

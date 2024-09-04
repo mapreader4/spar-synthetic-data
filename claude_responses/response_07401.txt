@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1) The first tank has a capacity of 7000 gallons. If it is filled up to 3/4 of its capacity, that means it contains 3/4 * 7000 = 5250 gallons.
+
+2) The second tank has a capacity of 5000 gallons. If it is filled up to 4/5 of its capacity, that means it contains 4/5 * 5000 = 4000 gallons.
+
+3) The third tank has a capacity of 3000 gallons. If it is filled up to half of its capacity, that means it contains 1/2 * 3000 = 1500 gallons.
+
+Now, we add up the total amount of water in all three tanks:
+5250 gallons + 4000 gallons + 1500 gallons = 10,750 gallons.
+
+Answer: 10,750

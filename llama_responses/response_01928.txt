@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The train carried 100 passengers from one station to the other station on the first trip. Then, it carried the same number of passengers, which is 100, on the return trip. So, the total number of passengers on the two trips is 100 + 100 = 200.
+
+Then, the train made three more round trips, each with the same number of passengers as the first trip. So, each of these three trips carried 100 passengers. To find the total number of passengers for these three trips, we multiply 100 by 3, which gives us 300.
+
+To find the total number of passengers transported between both stations, we add the passengers from the two one-way trips and the three round trips. So, the total number of passengers is 200 + 300 = 500.
+
+Answer: 500

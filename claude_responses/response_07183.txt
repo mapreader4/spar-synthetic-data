@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The train can travel 5 miles for every 2 pounds of coal it consumes.
+* The train has 160 pounds of coal remaining.
+* To find the distance the train can travel, we need to determine how many 2-pound increments of coal the train has left.
+* 160 pounds of coal / 2 pounds per increment = 80 increments of coal.
+* Each increment of 2 pounds of coal allows the train to travel 5 miles.
+* 80 increments of coal x 5 miles per increment = 400 miles.
+
+Answer: 400

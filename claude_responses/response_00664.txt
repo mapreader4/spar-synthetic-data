@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) We know that well-cared fish can live 2 years longer than dogs live.
+2) We also know that on average, dogs live 4 times as long as hamsters live.
+3) Hamsters live an average of 2.5 years.
+4) So, if hamsters live an average of 2.5 years, then dogs live an average of 4 * 2.5 = 10 years.
+5) Since well-cared fish can live 2 years longer than dogs, that means fish can live an average of 10 + 2 = 12 years.
+
+Answer: 12

@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The solver flipped a coin 211 times.
+2) The solver got a head on 65 of the flips.
+3) To find the number of tails, we subtract the number of heads from the total number of flips:
+211 (total flips) - 65 (heads) = 146 (tails)
+4) To find the difference between the number of tails and the number of heads, we subtract the number of heads from the number of tails:
+146 (tails) - 65 (heads) = 81
+
+Answer: 81

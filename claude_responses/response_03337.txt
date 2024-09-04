@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Bill gathered 12 red mushrooms and 6 brown mushrooms
+* Ted gathered 14 green mushrooms and 6 blue mushrooms
+* Half of the blue mushrooms have white spots
+* Two-thirds of the red mushrooms have white spots
+* All of the brown mushrooms have white spots
+
+First, let's calculate the number of blue mushrooms with white spots:
+* 6 blue mushrooms
+* Half of 6 is 3
+* So, 3 blue mushrooms have white spots
+
+Next, let's calculate the number of red mushrooms with white spots:
+* 12 red mushrooms
+* Two-thirds of 12 is 8
+* So, 8 red mushrooms have white spots
+
+Finally, let's calculate the number of brown mushrooms with white spots:
+* 6 brown mushrooms
+* All 6 brown mushrooms have white spots
+
+Now, we can add up the number of white-spotted mushrooms:
+* 3 blue mushrooms + 8 red mushrooms + 6 brown mushrooms = 17 white-spotted mushrooms
+
+Answer: 17

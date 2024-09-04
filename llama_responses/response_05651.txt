@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total number of bananas in the six bunches with eight bananas in a bunch. This is 6 * 8 = 48 bananas.
+
+Then, let's find the total number of bananas in the five bunches with seven bananas in a bunch. This is 5 * 7 = 35 bananas.
+
+To find the total number of bananas Nathan has, we need to add the two numbers together. 48 + 35 = 83.
+
+Answer: 83

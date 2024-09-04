@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) James can make a beret from 3 spools of yarn.
+2) He has 12 spools of red yarn, 15 spools of black yarn, and 6 spools of blue yarn.
+3) To calculate the total number of berets he can make, we need to find the minimum number of spools of each color that he has.
+4) The minimum number of spools he has is 6 spools of blue yarn.
+5) Since each beret requires 3 spools of yarn, he can make 6 / 3 = 2 berets from the blue yarn.
+6) He has 12 spools of red yarn and 15 spools of black yarn, which is more than enough to make 2 berets.
+7) Therefore, the total number of berets he can make is 2.
+
+Answer: 2

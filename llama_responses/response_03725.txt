@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's let x be the number of pounds of peanuts Baxter purchased.
+
+Since the minimum is 15 pounds, we know that x must be greater than or equal to 15.
+
+The total cost of the peanuts is $105. The cost per pound is $3. So the total cost is 3x.
+
+We know that 3x = 105. To find x, we need to divide both sides by 3.
+
+x = 105 / 3 = 35
+
+So, Baxter purchased 35 pounds of peanuts.
+
+Answer: 35

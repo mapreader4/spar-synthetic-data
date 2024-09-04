@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many bottles of kombucha Henry drinks in a year.
+
+Henry drinks 15 bottles of kombucha every month. To find out how many bottles he drinks in a year, we multiply 15 by 12 (the number of months in a year):
+
+15 bottles/month * 12 months = 180 bottles/year
+
+Step 2: Calculate the total cost of the kombucha Henry buys in a year.
+
+Each bottle costs $3.00, so the total cost of 180 bottles is:
+
+180 bottles * $3.00/bottle = $540.00
+
+Step 3: Calculate the total cash refund Henry gets.
+
+Each bottle is eligible for a $0.10 cash refund, so the total cash refund is:
+
+180 bottles * $0.10/bottle = $18.00
+
+Step 4: Calculate the total amount Henry has after getting the cash refund.
+
+Henry spends $540.00 on kombucha, and gets a $18.00 refund. So, the total amount he has left is:
+
+$540.00 - $18.00 = $522.00
+
+Step 5: Calculate how many bottles of kombucha Henry can buy with the remaining amount.
+
+Since each bottle costs $3.00, we divide the remaining amount by the cost of one bottle:
+
+$522.00 ÷ $3.00 = 174.00 bottles
+
+Answer: 174

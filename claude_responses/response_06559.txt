@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are a total of 20 equal tiles in the design
+* 3 tiles are yellow
+* The number of blue tiles is one more than the number of yellow tiles
+* 6 tiles are purple
+* The remaining tiles are white
+
+First, let's find the number of blue tiles:
+* The number of blue tiles is one more than the number of yellow tiles
+* Since there are 3 yellow tiles, there must be 4 blue tiles
+
+Now, let's find the number of white tiles:
+* We know that there are 3 yellow tiles, 4 blue tiles, and 6 purple tiles
+* To find the number of white tiles, we take the total number of tiles (20) and subtract the number of colored tiles:
+* 20 - 3 (yellow) - 4 (blue) - 6 (purple) = 7 white tiles
+
+Answer: 7

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Jose started with 400 tabs opened in his browser.
+2) After about one hour of browsing, he closed 1/4 of the tabs to allow for easier browsing.
+   * 1/4 of 400 = 100 tabs closed
+   * Remaining tabs = 400 - 100 = 300 tabs
+3) He then closed 2/5 of the remaining tabs.
+   * 2/5 of 300 = 120 tabs closed
+   * Remaining tabs = 300 - 120 = 180 tabs
+4) Finally, he closed half of the remaining tabs.
+   * Half of 180 = 90 tabs closed
+   * Remaining tabs = 180 - 90 = 90 tabs
+
+Answer: 90

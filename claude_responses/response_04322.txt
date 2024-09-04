@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+1) The total distance of the trip is 1200 miles.
+2) If they drive at 50 miles per hour, the time it will take to complete the trip is:
+   * Time = Distance / Speed
+   * Time = 1200 miles / 50 miles per hour
+   * Time = 24 hours
+3) If they drive at 60 miles per hour, the time it will take to complete the trip is:
+   * Time = Distance / Speed
+   * Time = 1200 miles / 60 miles per hour
+   * Time = 20 hours
+4) The time saved by driving at 60 miles per hour instead of 50 miles per hour is:
+   * Time Saved = 24 hours - 20 hours
+   * Time Saved = 4 hours
+
+Answer: 4

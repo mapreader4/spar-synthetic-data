@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+From the 3rd to the 8th, we know that it's a 6-day period. Since John worked 8 hours a day, and he worked every day, we can find the total hours worked by multiplying 8 hours by 6 days. 
+
+8 * 6 = 48
+
+Answer: 48

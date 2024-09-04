@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. On Sunday, Monday, and Tuesday, Billy runs 1 mile each day, so that's 3 miles.
+   Tiffany runs 2 miles each day, so that's 6 miles.
+   The total miles for the first 3 days:
+   Billy: 3 miles
+   Tiffany: 6 miles
+
+2. On Wednesday, Thursday, and Friday, Billy runs 1 mile each day, so that's 3 more miles.
+   Tiffany runs 1/3 of a mile each day, so that's 1 mile total.
+   The total miles for the last 3 days:
+   Billy: 3 miles
+   Tiffany: 1 mile
+
+3. Now, we need to find the total miles for each of them:
+   Billy: 3 miles + 3 miles = 6 miles
+   Tiffany: 6 miles + 1 mile = 7 miles
+
+4. Tiffany takes Saturday off, so she has a total of 7 miles.
+   Billy needs to run enough miles on Saturday to tie Tiffany's total of 7 miles.
+
+Answer: 1 mile

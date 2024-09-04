@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Small glasses cost $3 each
+* Large glasses cost $5 each
+* Peter has $50 to spend
+* He buys 8 small glasses
+* He leaves with $1 in change
+
+First, let's calculate the cost of the 8 small glasses:
+* 8 small glasses x $3 per glass = $24
+
+Now, we know that Peter has $50 to spend, and he leaves with $1 in change, so the total amount he spent is $49.
+
+To find the number of large glasses he bought, we need to subtract the cost of the small glasses from the total amount he spent:
+* $49 - $24 = $25
+
+Since large glasses cost $5 each, we can divide the remaining $25 by $5 to find the number of large glasses he bought:
+* $25 / $5 = 5 large glasses
+
+Answer: 5

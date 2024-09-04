@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We know that the Uber ride costs $22.
+2) We also know that the Uber ride costs $3 more than the Lyft ride.
+   * So, the Lyft ride costs $22 - $3 = $19.
+3) We know that the Lyft ride costs $4 more than the taxi ride.
+   * So, the taxi ride costs $19 - $4 = $15.
+4) The taxi driver is tipped 20% of the original cost of the ride.
+   * The original cost of the ride is $15.
+   * 20% of $15 is $3.
+   * So, the total cost of the taxi ride, including the tip, is $15 + $3 = $18.
+
+Answer: 18

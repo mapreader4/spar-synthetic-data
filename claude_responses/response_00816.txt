@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* Matt and his son eat 3 days a week and use 1 plate each, so that's 2 plates per day for 3 days, which is 6 plates.
+* On the remaining 4 days, Matt, his son, and his parents all eat, and they use 2 plates each, so that's 6 plates per day for 4 days, which is 24 plates.
+* In total, the number of plates Matt needs to buy is the sum of the plates used on the 3 days and the 4 days:
+* 6 plates + 24 plates = 30 plates.
+
+Answer: 30

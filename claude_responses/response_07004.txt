@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jessy told 11 jokes this past Saturday
+* Alan told 7 jokes this past Saturday
+* They doubled the number of jokes they told this past Saturday next Saturday
+
+First, let's calculate the number of jokes they told next Saturday:
+* Jessy told 11 x 2 = 22 jokes next Saturday
+* Alan told 7 x 2 = 14 jokes next Saturday
+
+Now, let's calculate the total number of jokes they have told so far:
+* Jessy told 11 + 22 = 33 jokes in total
+* Alan told 7 + 14 = 21 jokes in total
+* The total number of jokes they have told so far is 33 + 21 = 54 jokes
+
+Answer: 54

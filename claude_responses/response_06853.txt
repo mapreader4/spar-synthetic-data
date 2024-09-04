@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+
+1. The original price of the television is $480.
+2. The seller gives a 5% discount, which means the final price of the television is 95% of the original price.
+   * 95% of $480 = 0.95 * $480 = $456
+3. Isabelle's parents paid a first installment of $150.
+4. The remaining amount to be paid is the final price minus the first installment:
+   * $456 - $150 = $306
+5. The remaining amount of $306 will be paid in 3 monthly installments.
+   * $306 / 3 = $102
+
+Answer: $102

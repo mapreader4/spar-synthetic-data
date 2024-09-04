@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to determine how many rolls of wrapping paper Harold will need to wrap all the boxes.
+
+Harold can wrap 5 shirt boxes with 1 roll of wrapping paper. So, he can wrap 5 boxes with 1 roll. 3 XL boxes can be wrapped with 2 rolls of wrapping paper. So, he can wrap 3 boxes with 2 rolls. In total, he can wrap 5 + 3 = 8 boxes with 1 + 2 = 3 rolls of wrapping paper.
+
+He has 20 shirt boxes to wrap, which can be wrapped with 20 / 5 = 4 rolls of wrapping paper. He has 12 XL boxes to wrap, which can be wrapped with 12 / 3 = 4 rolls of wrapping paper.
+
+In total, Harold will need 4 + 3 = 7 rolls of wrapping paper.
+
+The cost of each roll is $4.00. So, the total cost will be 7 * 4.00 = $28.00.

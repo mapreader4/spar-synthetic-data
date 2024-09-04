@@ -1,0 +1,17 @@
+To solve this problem, we need to find the total time it takes for a skier to complete one cycle of riding the lift up and skiing down the mountain, and then determine how many times they can complete this cycle within 2 hours.
+
+Given information:
+- It takes 15 minutes to ride the lift from the bottom to the top of the mountain.
+- It takes 5 minutes to ski back down the mountain.
+
+Step 1: Calculate the total time for one cycle of riding the lift up and skiing down the mountain.
+Time to ride the lift up + Time to ski down = Total time for one cycle
+15 minutes + 5 minutes = 20 minutes
+
+Step 2: Calculate the number of cycles that can be completed in 2 hours.
+2 hours = 120 minutes
+Number of cycles = 120 minutes / 20 minutes per cycle = 6 cycles
+
+Therefore, the most number of times a person can ski down the mountain in 2 hours is 6 times.
+
+Answer: 6

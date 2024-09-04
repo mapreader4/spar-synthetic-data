@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the number of pinecones eaten by reindeer. We are told that 20% of the total number of pinecones (2000) are eaten by reindeer. So, we can multiply 2000 by 0.2 to get 400.
+
+Next, we are told that twice as many pinecones are eaten by squirrels as are eaten by reindeer. So, we need to multiply the number of pinecones eaten by reindeer (400) by 2. This gives us 800.
+
+Now, we need to subtract the number of pinecones eaten by squirrels from the total number of pinecones (2000). So, we have 2000 - 400 - 800 = 800.
+
+Finally, we are told that 25% of the remainder are collected to make fires. We can find 25% of 800 by multiplying 800 by 0.25, which gives us 200.
+
+So, the number of pinecones left is 2000 - 400 - 800 - 200. This simplifies to 600.
+
+Answer: 600

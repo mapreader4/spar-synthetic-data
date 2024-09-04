@@ -1,0 +1,7 @@
+Let's start by using the information given to find the total number of fruits in all baskets. We have 15 apples in A, 30 mangoes in B, 20 peaches in C, and 25 pears in D. We don't know how many bananas are in E, but we can represent it as a variable, let's call it x.
+
+The total number of fruits in all baskets is 15 + 30 + 20 + 25 + x. This is equal to 75 + x. We know that the average number of fruits per basket is 25, so we can set up the equation 75 + x = 5 * 25.
+
+To solve for x, we subtract 75 from both sides of the equation. 75 - 75 is 0, so x is 0. Since x is 0, we know that there are 0 bananas in basket E. So, the answer is:
+
+Answer: 0

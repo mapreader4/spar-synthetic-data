@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, we know that Jimmy has 5 matchbooks, and each matchbook contains 24 matches. So, Jimmy has a total of:
+
+5 matchbooks x 24 matches per matchbook = 120 matches
+
+Since one stamp is worth 12 matches, Jimmy can trade his 120 matches for:
+
+120 matches / 12 matches per stamp = 10 stamps
+
+So, Jimmy trades all his matchbooks for 10 stamps. Tonya starts with 13 stamps, so after the trade, Tonya has:
+
+13 stamps - 10 stamps = 3 stamps
+
+Answer: 3

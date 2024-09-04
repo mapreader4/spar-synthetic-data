@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) June has $500 to spend on school supplies.
+2) She buys 4 maths books at $20 each, so that's 4 * $20 = $80 spent on maths books.
+3) She buys 6 more science books than maths books, so that's 4 + 6 = 10 science books at $10 each, which is 10 * $10 = $100 spent on science books.
+4) She buys twice as many art books as maths books, so that's 4 * 2 = 8 art books at $20 each, which is 8 * $20 = $160 spent on art books.
+5) So far, June has spent $80 + $100 + $160 = $340 on maths, science, and art books.
+6) To find how much she spent on music books, we take the total amount she had ($500) and subtract the amount she spent on the other books ($340).
+7) $500 - $340 = $160 spent on music books.
+
+Answer: $160

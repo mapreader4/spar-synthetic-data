@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Xander's book has 500 pages
+* On the first night, he read 20% of the book
+* 20% of 500 pages = 0.20 * 500 = 100 pages
+* On the second night, he read another 20% of the book
+* 20% of 500 pages = 0.20 * 500 = 100 pages
+* So in total, he has read 100 + 100 = 200 pages
+* On the third night, he read 30% of the book
+* 30% of 500 pages = 0.30 * 500 = 150 pages
+* In total, he has read 200 + 150 = 350 pages
+* To find how many pages he has left to read, we take the total pages (500) and subtract the pages he has read (350)
+* 500 - 350 = 150 pages
+
+Answer: 150

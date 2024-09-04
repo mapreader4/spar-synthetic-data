@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+Let's start by using the given information that the difference in the scores between Hajar and Farah's score is 21. This means that Farah's score is 21 more than Hajar's score.
+
+Let's call Hajar's score x. Then, we can say that Farah's score is x + 21.
+
+We know that the sum of their scores is the sum of Hajar's score and Farah's score, which is x + (x + 21).
+
+We know that Hajar's score is 24, so we can set up the equation as follows:
+
+x + (x + 21) = 24 + x
+
+To solve for x, we can subtract 21 from both sides of the equation to get:
+
+x + 21 = 24 - 21
+x = 3
+
+Now we know that Hajar's score is 3.
+
+We can now find the sum of their scores by adding Hajar's score and Farah's score. Since Farah's score is x + 21, and Hajar's score is 3, we can substitute x with 3 in the equation:
+
+3 + (3 + 21) =?
+
+3 + 24 = 27
+
+Answer: 27

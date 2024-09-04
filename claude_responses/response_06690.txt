@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. The laboratory spent $150 on flasks.
+2. They spent two-thirds of the flask cost on test tubes. 
+   * Two-thirds of $150 is $100.
+   * So they spent $100 on test tubes.
+3. They spent half of the test tube cost on safety gear.
+   * Half of $100 is $50.
+   * So they spent $50 on safety gear.
+
+Now, let's add up the total amount they spent:
+* Flasks: $150
+* Test tubes: $100
+* Safety gear: $50
+* Total spent: $150 + $100 + $50 = $300
+
+Finally, we can calculate the amount of their budget that remained:
+* Total budget: $325
+* Total spent: $300
+* Amount remaining: $325 - $300 = $25
+
+Answer: $25

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 20 students in the orchestra
+* There are twice as many students in the band as in the orchestra, so there are 2 x 20 = 40 students in the band
+* There are 12 boys and 16 girls in the choir, so there are 12 + 16 = 28 students in the choir
+* Each student only participates in one group, so we can add up the total number of students in each group:
+* 20 students in the orchestra
+* 40 students in the band
+* 28 students in the choir
+* Total number of students = 20 + 40 + 28 = 88
+
+Answer: 88

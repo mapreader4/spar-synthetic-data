@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Nadia needs to buy 20 roses. The cost of roses is $5 each, so the total cost of roses is 20 * 5 = 100 dollars.
+
+2. Nadia also needs to buy 3/4 times as many lilies as roses. Since she buys 20 roses, she needs 3/4 * 20 = 15 lilies. The cost of lilies is twice as much as roses, so the cost of lilies is 2 * 5 = 10 dollars each. The total cost of lilies is 15 * 10 = 150 dollars.
+
+3. The total cost of the flowers is the sum of the cost of roses and lilies: 100 + 150 = 250 dollars.
+
+Answer: 250

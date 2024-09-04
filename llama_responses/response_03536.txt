@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of glasses of lemonade sold by Katya and Ricky. Katya sold 8 glasses, and Ricky sold 9 glasses, so the total number of glasses sold by Katya and Ricky is 8 + 9 = 17.
+
+Now, we know that Tina sold twice as many glasses as Katya and Ricky combined, so we need to multiply 17 by 2 to find the number of glasses Tina sold. 17 x 2 = 34.
+
+Now, we want to find how many more glasses of lemonade Tina sold than Katya. We know that Katya sold 8 glasses, so we need to subtract 8 from the number of glasses Tina sold, which is 34. 34 - 8 = 26.
+
+So, Tina sold 26 more glasses of lemonade than Katya.

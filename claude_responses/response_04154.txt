@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The pyramid has 4 layers.
+2) The top layer is a single block.
+3) Each layer has three times as many sandstone blocks as the layer above it.
+4) Let's start with the top layer, which has 1 block.
+5) The second layer has 3 times as many blocks as the top layer, so it has 3 blocks.
+6) The third layer has 3 times as many blocks as the second layer, so it has 3 * 3 = 9 blocks.
+7) The fourth layer has 3 times as many blocks as the third layer, so it has 3 * 9 = 27 blocks.
+8) To find the total number of blocks, we add up the blocks in each layer:
+1 + 3 + 9 + 27 = 40.
+
+Answer: 40

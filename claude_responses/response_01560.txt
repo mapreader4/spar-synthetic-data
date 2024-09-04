@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Yvette's budget for the frame is $60.
+2) The frame she initially wanted is 20% more expensive than her budget of $60.
+   * To calculate the price of the frame she initially wanted, we take her budget of $60 and add 20% to it:
+   * 20% of $60 = 0.20 * $60 = $12
+   * $60 + $12 = $72
+   * The frame she initially wanted costs $72.
+3) Yvette ended up buying a smaller frame that was 3/4 the price of the $72 frame.
+   * 3/4 of $72 = 0.75 * $72 = $54
+   * Yvette paid $54 for the smaller frame.
+4) To calculate how much money Yvette remained with, we take her original budget of $60 and subtract the amount she spent on the smaller frame, which was $54.
+   * $60 - $54 = $6
+
+Answer: $6

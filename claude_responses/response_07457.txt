@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Mark deposited $88 in the bank.
+2) Bryan deposited $40 less than five times as much as Mark.
+3) To find how much Bryan deposited, we first need to calculate five times as much as Mark's deposit:
+   * 5 x $88 = $440
+4) Then, we subtract $40 from $440 to get Bryan's deposit:
+   * $440 - $40 = $400
+Therefore, Bryan deposited $400 in the bank.
+
+Answer: $88

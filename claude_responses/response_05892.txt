@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There were a total of 2000 community members involved in the cleaning event.
+* 30% of the 2000 community members were adult men.
+* To calculate the number of adult men, we take 30% of 2000:
+  * 30% of 2000 = 0.3 * 2000 = 600 adult men
+* The problem states that there were twice as many adult women as adult men.
+* So, the number of adult women is twice the number of adult men:
+  * 2 * 600 = 1200 adult women
+* Now, we can calculate the total number of adults (men and women) involved in the cleaning event:
+  * 600 adult men + 1200 adult women = 1800 adults
+* Finally, to calculate the number of children involved, we subtract the total number of adults from the total number of community members:
+  * 2000 total community members - 1800 adults = 200 children
+
+Answer: 200

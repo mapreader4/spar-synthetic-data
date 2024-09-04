@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of books Suzy had initially: 98 books.
+
+On Wednesday, 43 books were checked out, so she had 98 - 43 = 55 books left.
+
+The next day, 23 books were returned, so she now has 55 - 23 = 32 books.
+
+Finally, 7 books were returned, so she now has 32 - 7 = 25 books.
+
+So, the number of books Suzy had is 25.

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Isabel runs a circuit that is 365 meters long
+* In the morning, she runs the circuit 7 times
+* So in the morning, she runs 7 * 365 = 2,555 meters
+* In the afternoon, she runs the circuit 3 times
+* So in the afternoon, she runs 3 * 365 = 1,095 meters
+* To find the total distance she runs in a week, we add the morning and afternoon distances:
+* 2,555 meters + 1,095 meters = 3,650 meters
+
+Answer: 3,650

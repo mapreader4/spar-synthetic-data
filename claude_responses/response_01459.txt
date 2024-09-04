@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) There are 4 people in the household (James and 3 others)
+2) Each person drinks 2 cups of coffee per day
+3) It takes 0.5 ounces of coffee per cup
+4) Coffee costs $1.25 per ounce
+
+To calculate the total amount of coffee needed per day:
+* 4 people x 2 cups per person = 8 cups per day
+* 8 cups per day x 0.5 ounces per cup = 4 ounces of coffee per day
+
+To calculate the total cost of coffee per day:
+* 4 ounces of coffee per day x $1.25 per ounce = $5 per day
+
+To calculate the total cost of coffee per week:
+* $5 per day x 7 days per week = $35 per week
+
+Answer: 35

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Robert orders:
+   - 5 boxes of pizza at $10 each
+   - 10 cans of soft drinks at $2 each
+2. Teddy buys:
+   - 6 hamburgers at $3 each
+   - 10 cans of soft drinks at $2 each
+
+Now, let's calculate the total cost:
+* Robert's order:
+  - 5 boxes of pizza at $10 each = 5 x $10 = $50
+  - 10 cans of soft drinks at $2 each = 10 x $2 = $20
+  - Total for Robert = $50 + $20 = $70
+* Teddy's order:
+  - 6 hamburgers at $3 each = 6 x $3 = $18
+  - 10 cans of soft drinks at $2 each = 10 x $2 = $20
+  - Total for Teddy = $18 + $20 = $38
+* Total spent by Robert and Teddy:
+  - $70 + $38 = $108
+
+Answer: 108

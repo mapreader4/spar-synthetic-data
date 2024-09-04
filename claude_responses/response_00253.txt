@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) The plot of land is rectangular, with long sides and short sides.
+2) The long sides are 3 times the length of the short sides.
+3) The total length of all the sides of the fence is 640 feet.
+4) One of the short sides of the fence needs to be replaced.
+5) Let's call the length of the short sides 'x'.
+6) Then the length of the long sides is 3x.
+7) The total length of the fence is the sum of the two long sides and the two short sides:
+2(3x) + 2x = 640
+8(x) = 640
+x = 80
+9) Since one of the short sides is 80 feet, the length of fence that needs to be replaced is 80 feet.
+
+Answer: 80 feet

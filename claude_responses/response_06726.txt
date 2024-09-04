@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+* The poem currently contains 24 lines.
+* The person adds 3 lines to the poem every month.
+* We need to find how many months it will take for the poem to contain 90 lines.
+
+To do this, we need to find how many lines need to be added to the poem to reach 90 lines.
+* The poem currently has 24 lines.
+* We need to add 90 - 24 = 66 lines to reach 90 lines.
+
+Now, we need to find how many months it will take to add 66 lines, given that 3 lines are added per month.
+* 66 lines / 3 lines per month = 22 months.
+
+Answer: 22 months.

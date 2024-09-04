@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. We know that each bulb uses 60 watts of power each day, so the total power used by the 40 bulbs is 40 x 60 = 2400 watts.
+
+2. We are given that Allyn pays an electricity bill of twenty cents per power watt used. So, to find the cost of the power used, we need to divide the total power used by the rate per watt.
+
+3. The cost of the power used is 2400 watts, and the rate is 20 cents per watt. So, the cost is 2400 watts / 0.20 = 1200 cents.
+
+4. Since the problem is asking for the total monthly expenses, we need to multiply the cost by 30 days in a month.
+
+5. The total monthly cost is 1200 cents x 30 = 36000 cents.
+
+Answer: 36000

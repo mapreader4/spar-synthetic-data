@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* Trevor spends $20 more than his friend Reed on toys
+* Reed spends 2 times as much money as their friend Quinn on the toys
+* Trevor spends $80 every year to buy his toys
+
+First, let's find out how much Reed spends on toys:
+* Trevor spends $80, and he spends $20 more than Reed
+* So, Reed spends $80 - $20 = $60 on toys
+
+Now, let's find out how much Quinn spends on toys:
+* Reed spends 2 times as much money as Quinn on the toys
+* So, Quinn spends $60 / 2 = $30 on toys
+
+Now, we can calculate the total amount spent by the three friends in 4 years:
+* Trevor spends $80 per year, so in 4 years he spends $80 x 4 = $320
+* Reed spends $60 per year, so in 4 years he spends $60 x 4 = $240
+* Quinn spends $30 per year, so in 4 years he spends $30 x 4 = $120
+
+The total amount spent by the three friends in 4 years is:
+* $320 + $240 + $120 = $680
+
+Answer: 680

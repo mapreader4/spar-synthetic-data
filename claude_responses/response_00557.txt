@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Andy has 18 plants, and each plant has 7 tomatoes.
+2) So the total number of tomatoes harvested is: 18 plants x 7 tomatoes per plant = 126 tomatoes.
+3) Andy dries half of the tomatoes. So the number of dried tomatoes is: 126 / 2 = 63 tomatoes.
+4) The remaining tomatoes are: 126 - 63 = 63 tomatoes.
+5) Andy turns a third of the remaining 63 tomatoes into marinara sauce. So the number of tomatoes used for marinara sauce is: 63 / 3 = 21 tomatoes.
+6) The number of tomatoes left is: 63 - 21 = 42 tomatoes.
+
+Answer: 42

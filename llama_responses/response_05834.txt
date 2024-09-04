@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of parking spaces in the school. The front parking lot has 52 spaces and the back parking lot has 38 spaces, so the total number of spaces is 52 + 38 = 90.
+
+Now, we know that 39 cars have already parked. We need to find the number of spaces that are still available. We know that 1/2 of the back parking lot's spaces are filled, so we need to find the number of spaces in the back parking lot that are not filled.
+
+1/2 of 38 is 38/2 = 19. So, 19 spaces are filled in the back parking lot. That leaves 38 - 19 = 19 spaces available in the back parking lot.
+
+The total number of spaces available is the sum of the available spaces in the front and back parking lots. 19 + 52 - 19 = 40. Therefore, there are 40 parking spaces available in the school.
+
+Answer: 40

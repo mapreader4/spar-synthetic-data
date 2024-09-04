@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The library cabinet houses 5 ancient scrolls.
+2) The first scroll is 4080 years old.
+3) Each scroll is older than the last by half as many years as the last scroll's age.
+4) Let's call the ages of the scrolls from oldest to youngest: 4080, x, y, z, and w.
+5) We know that x = 4080 + (4080/2) = 4080 + 2040 = 6120 years old.
+6) We know that y = 6120 + (6120/2) = 6120 + 3060 = 9180 years old.
+7) We know that z = 9180 + (9180/2) = 9180 + 4590 = 13770 years old.
+8) Therefore, the fifth scroll (w) is 13770 + (13770/2) = 13770 + 6885 = 20655 years old.
+
+Answer: 20655

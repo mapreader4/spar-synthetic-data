@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. The cans take up 30 square inches of space before being compacted.
+2. 20% of 30 is 6 inches.
+3. So, after being compacted, each can takes up 30 - 6 = 24 inches.
+4. Since there are 60 cans, the total space taken up by all the cans after being compacted is 60 x 24 = 1440 inches.
+5. But, since there are 12 inches in 1 foot, we need to convert the total space taken up to feet. 1440 inches = 120 feet.
+
+Answer: 120

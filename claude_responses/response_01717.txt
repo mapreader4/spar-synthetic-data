@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) The store is selling a certain brand of jeans for $40 per pair.
+2) They are offering a 10% discount on every two pairs of jeans bought by a customer at any one time.
+3) The customer wants to buy 3 pairs of jeans.
+4) To calculate the total cost, we need to break down the purchase into two parts:
+   a) The first two pairs of jeans will have the 10% discount.
+   b) The third pair of jeans will be at the full price of $40.
+5) For the first two pairs of jeans:
+   a) The original price for two pairs is $80 (2 x $40).
+   b) With the 10% discount, the price for the two pairs is $72 (0.9 x $80).
+6) For the third pair of jeans, the price is $40.
+7) The total cost for 3 pairs of jeans is $72 + $40 = $112.
+
+Answer: 112

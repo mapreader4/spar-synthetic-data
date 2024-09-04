@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Alice had 10 dozens of watermelons. 
+   * 1 dozen = 12 watermelons
+   * 10 dozens = 10 * 12 = 120 watermelons
+
+2) She sold 40% of the 120 watermelons yesterday.
+   * 40% of 120 = 0.4 * 120 = 48 watermelons
+
+3) The remaining watermelons after yesterday's sale is 120 - 48 = 72 watermelons.
+
+4) Today, she sold 1/4 of the remaining 72 watermelons.
+   * 1/4 of 72 = 72 / 4 = 18 watermelons
+
+5) The remaining watermelons after today's sale is 72 - 18 = 54 watermelons.
+
+Answer: 54 watermelons are left to be sold tomorrow.

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of pages in the book. The problem states that the book has 400 pages.
+
+Next, we know that Nate has already finished reading 20% of the book. To find the number of pages Nate has read, we multiply 400 by 0.2 (0.2 is the decimal form of 20%):
+
+400 x 0.2 = 80
+
+So, Nate has read 80 pages.
+
+To find the number of pages Nate needs to read to finish the book, we subtract the number of pages he has read from the total number of pages in the book:
+
+400 - 80 = 320
+
+So, Nate needs to read 320 more pages to finish the book.
+
+Answer: 320

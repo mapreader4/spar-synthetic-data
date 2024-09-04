@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The current temperature of the mountain is 84 degrees.
+* In one hour, the temperature will decrease to 3/4 of its current temperature.
+* To find the new temperature, we multiply the current temperature by 3/4:
+* 84 degrees * 3/4 = 63 degrees
+* To find the decrease in temperature, we subtract the new temperature from the current temperature:
+* 84 degrees - 63 degrees = 21 degrees
+
+Answer: 21 degrees

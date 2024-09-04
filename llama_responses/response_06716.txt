@@ -1,0 +1,3 @@
+To find the total area of the full marker, we can multiply the length and width together to get 4 * 4 = 16 square inches. Now, the two 6 inch by 2 inch rectangles take up a total area of 2 * 6 * 2 = 24 square inches. So, the remaining area is 16 - 24 = 8 square inches. To find the percentage of ink used, we can divide the remaining area by the total area to get 8 / 16 = 0.5. This is 50%. The answer is:
+
+Answer: 50

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: There are 23 rows of 4 seats, so the total number of seats is 23 * 4 = 92.
+
+Step 2: At the first stop, 15 people board the bus, leaving 92 - 15 = 77 seats empty.
+
+Step 3: At the second stop, 10 people get off the bus, leaving 77 - 10 = 67 seats empty.
+
+Answer: 67

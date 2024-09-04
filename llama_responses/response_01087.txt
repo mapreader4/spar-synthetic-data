@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say the number of books borrowed by lunchtime is x.
+
+The total number of books on the shelf by lunchtime is the initial 100 books minus the number of books borrowed by lunchtime. The number of books borrowed by lunchtime is also the difference between the total number of books on the shelf in the evening and the number of books on the shelf by lunchtime. We can set up an equation:
+
+100 - x = 60 + 40
+
+To solve for x, we can subtract 40 from both sides of the equation to get:
+
+100 - x = 100 - 40 = 60
+
+Subtracting 40 from both sides of the equation gives us:
+
+x = 60 - 40
+
+x = 20
+
+So, the number of books borrowed by lunchtime is 20.
+
+Answer: 20

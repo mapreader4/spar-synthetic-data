@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Lex picked 85 apples in total.
+2) One-fifth of the apples have worms. To calculate this, we take 85 and divide it by 5, which gives us 17 apples with worms.
+3) Nine more than one-fifth of the apples are bruised. To calculate this, we take one-fifth of 85, which is 17, and add 9, which gives us 26 bruised apples.
+4) To find the number of apples left to eat raw, we need to subtract the number of wormy apples and the number of bruised apples from the total number of apples picked.
+5) 85 (total apples) - 17 (wormy apples) - 26 (bruised apples) = 42 apples left to eat raw.
+
+Answer: 42

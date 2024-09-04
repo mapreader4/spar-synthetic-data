@@ -1,0 +1,23 @@
+Let's break down the problem step by step:
+
+1. The tank starts losing 32,000 gallons/hour for 5 hours. So, in total, it loses 32,000 x 5 = 160,000 gallons.
+
+The tank had a maximum capacity of 350,000 gallons, so after losing 160,000 gallons, it has:
+
+350,000 - 160,000 = 190,000 gallons
+
+2. After the repair, the tank starts losing 10,000 gallons/hour for 10 hours. So, in total, it loses 10,000 x 10 = 100,000 gallons.
+
+The tank now has:
+
+190,000 - 100,000 = 90,000 gallons
+
+3. After the second repair, the tank starts filling with 40,000 gallons/hour for 3 hours. So, in total, it gains 40,000 x 3 = 120,000 gallons.
+
+The tank now has:
+
+90,000 + 120,000 = 210,000 gallons
+
+The tank still needs to gain 350,000 - 210,000 = 140,000 gallons to reach its maximum capacity.
+
+Answer: 140,000

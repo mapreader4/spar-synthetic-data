@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* James and 4 of his friends volunteered to plant flowers
+* In 2 days, they were able to plant a total of 200 flowers
+* Each of them planted the same number of flowers
+
+To find the number of flowers James planted in a day, we need to:
+1. Find the total number of people who planted the flowers
+2. Divide the total number of flowers planted by the total number of people
+3. Divide the result by the number of days
+
+Step 1: The total number of people who planted the flowers is 5 (James and 4 of his friends).
+
+Step 2: The total number of flowers planted is 200. Dividing this by the total number of people (5), we get 40 flowers per person.
+
+Step 3: Since they planted the flowers in 2 days, we divide the number of flowers per person (40) by the number of days (2) to get the number of flowers James planted in a day.
+
+Answer: 20 flowers

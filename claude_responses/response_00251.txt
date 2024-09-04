@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Each pie has 3 pieces
+* Each pie costs $4 for the 3 pieces
+* The bakery can make 12 pies in 1 hour
+* The cost to create one pie is $0.5
+
+First, let's calculate the total revenue the bakery would make from selling all the pie pieces:
+* 12 pies x 3 pieces per pie = 36 pieces
+* 36 pieces x $4 per piece = $144 in total revenue
+
+Next, let's calculate the total cost to the bakery for making the 12 pies:
+* 12 pies x $0.5 per pie = $6 in total cost
+
+Finally, to calculate the total profit the bakery would make:
+* Total revenue: $144
+* Total cost: $6
+* Profit = Total revenue - Total cost = $144 - $6 = $138
+
+Answer: $138

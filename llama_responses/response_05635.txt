@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total weight of tuna that Mr. Ray has in his store: 10 tuna * 200 pounds/tuna = 2000 pounds.
+
+Now, let's divide the total weight of tuna by the weight each customer wants: 2000 pounds / 25 pounds/customer = 80 customers.
+
+Since Mr. Ray has 100 customers, he can serve at most 80 customers. The remaining customers will go home without any fish.

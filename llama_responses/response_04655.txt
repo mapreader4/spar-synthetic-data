@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start with what we know: Adah practiced the cello for a total of 7.5 hours.
+
+We know that he practiced for 86 minutes on each of 2 days, so that is 86 * 2 = 172 minutes.
+
+We know that the total time practiced is 7.5 hours. We need to find the number of minutes in the remaining time.
+
+We know that 1 hour is equal to 60 minutes, so 7.5 hours is equal to 7.5 * 60 = 450 minutes.
+
+So, we can subtract the time practiced on the 2 days from the total time practiced to get the time practiced on the other days.
+
+7.5 hours is equal to 450 minutes, and 7.5 - 172 = 278 minutes.
+
+Answer: 278

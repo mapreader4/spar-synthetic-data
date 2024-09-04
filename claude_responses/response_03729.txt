@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Stan has 10 songs that are 3 minutes each
+* So the total time for the 10 songs that are 3 minutes each is:
+  * 10 songs x 3 minutes per song = 30 minutes
+* Stan also has 15 songs that are 2 minutes each
+* So the total time for the 15 songs that are 2 minutes each is:
+  * 15 songs x 2 minutes per song = 30 minutes
+* The total time for all the songs is:
+  * 30 minutes + 30 minutes = 60 minutes
+* The entire run takes 100 minutes
+* To find how many more minutes of songs Stan needs, we subtract the total song time from the total run time:
+  * 100 minutes - 60 minutes = 40 minutes
+
+Answer: 40

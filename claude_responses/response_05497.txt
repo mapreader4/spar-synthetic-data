@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The swimming pool holds 84 gallons of water
+* Jimmy has a 2 gallon bucket
+* It takes 20 seconds to fill the bucket and carry it to the pool to pour in the water
+* To calculate the time it will take to fill the pool:
+* First, we need to determine how many times Jimmy needs to fill the bucket to fill the pool
+* 84 gallons / 2 gallons per bucket = 42 buckets
+* Now, we need to calculate the time it takes to fill 42 buckets
+* 42 buckets x 20 seconds per bucket = 840 seconds
+* 840 seconds / 60 seconds per minute = 14 minutes
+
+Answer: 14 minutes

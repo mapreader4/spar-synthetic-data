@@ -1,0 +1,15 @@
+Let's start by identifying the number of corn cobs in each field.
+
+The first field has 13 full rows of corn cobs, and each row contains 4 corn cobs, so the total number of corn cobs in the first field is:
+
+13 rows x 4 corn cobs per row = 13 x 4 = 52
+
+The second field has 16 full rows of corn cobs, and each row contains 4 corn cobs, so the total number of corn cobs in the second field is:
+
+16 rows x 4 corn cobs per row = 16 x 4 = 64
+
+To find the total number of corn cobs grown by the farm, we add the number of corn cobs from both fields:
+
+52 + 64 = 116
+
+Answer: 116

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's find the price of 1 liter of chlorine. If it's sold at 20% off, that means it's 80% of the original price. 80% of $10 is $8. So the price of 1 liter of chlorine is $8.
+
+Next, let's find the price of 1 box of soap. If it's sold at 25% off, that means it's 75% of the original price. 75% of $16 is $12. So the price of 1 box of soap is $12.
+
+Now, let's calculate the total cost of 3 liters of chlorine and 5 boxes of soap.
+
+3 liters of chlorine at $8 each is 3 * $8 = $24. 5 boxes of soap at $12 each is 5 * $12 = $60. The total cost is $24 + $60 = $84.
+
+The total cost before the discount is $84. But, we are looking for the amount saved. To find this, we need to find the discount. The discount is 20% off for chlorine and 25% off for soap. So, let's calculate the discount for chlorine first. 20% of $84 is 0.2 * $84 = $16.80. Now, let's calculate the discount for soap. 25% of $84 is 0.25 * $84 = $21. The total discount is $16.80 + $21 = $37.80.
+
+The total cost after the discount is $84 - $37.80 = $46.20. So, the amount saved is $84 - $46.20 = $37.80.
+
+Answer: 37.80

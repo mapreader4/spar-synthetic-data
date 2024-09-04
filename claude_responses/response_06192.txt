@@ -1,0 +1,24 @@
+Okay, let's break this down step by step:
+
+1. Greg and Sarah have 18 apples that they are going to split evenly.
+   * Since they are splitting the apples evenly, each of them will get 18 / 2 = 9 apples.
+
+2. Susan has twice as many apples as Greg will end up with.
+   * Greg will end up with 9 apples, so Susan has 2 * 9 = 18 apples.
+
+3. Mark has 5 fewer apples than Susan.
+   * Susan has 18 apples, so Mark has 18 - 5 = 13 apples.
+
+4. Their mom needs 40 apples to make an apple pie.
+
+Now, let's calculate the total number of apples:
+* Greg: 9 apples
+* Sarah: 9 apples
+* Susan: 18 apples
+* Mark: 13 apples
+* Total: 9 + 9 + 18 + 13 = 49 apples
+
+Their mom needs 40 apples to make the apple pie, so the number of apples left over is:
+* 49 apples - 40 apples = 9 apples
+
+Answer: 9

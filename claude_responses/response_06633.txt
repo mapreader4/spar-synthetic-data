@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+
+1. Pants:
+   - Dennis wants to buy 4 pairs of pants
+   - Each pair of pants costs $110.00
+   - There is a 30% discount on the pants
+   - To calculate the discounted price of each pair of pants:
+     - Original price: $110.00
+     - Discount (30%): $110.00 * 0.30 = $33.00
+     - Discounted price: $110.00 - $33.00 = $77.00
+   - Total cost of 4 pairs of pants: 4 * $77.00 = $308.00
+
+2. Socks:
+   - Dennis wants to buy 2 pairs of socks
+   - Each pair of socks costs $60.00
+   - There is a 30% discount on the socks
+   - To calculate the discounted price of each pair of socks:
+     - Original price: $60.00
+     - Discount (30%): $60.00 * 0.30 = $18.00
+     - Discounted price: $60.00 - $18.00 = $42.00
+   - Total cost of 2 pairs of socks: 2 * $42.00 = $84.00
+
+3. Total cost:
+   - Total cost of pants: $308.00
+   - Total cost of socks: $84.00
+   - Total cost of all items: $308.00 + $84.00 = $392.00
+
+Answer: $392.00

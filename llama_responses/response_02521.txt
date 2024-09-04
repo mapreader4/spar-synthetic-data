@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many cards Janet has. We know that Brenda has 9 cards less than Janet. So, Janet has 9 + 1 = 10 cards.
+
+Now, we know Mara has twice as many cards as Janet. So, Mara has 2 x 10 = 20 cards.
+
+To find out how many cards they have in all, we add the number of cards Janet and Mara have: 10 + 20 = 30.
+
+Now, we know that Mara has 40 cards less than 150. We can set up an inequality to represent this. 40 < 150. We can subtract 40 from 150 to get 110, so the correct inequality is 30 < 110.
+
+So, the answer is:
+
+Answer: 30

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+James splits 4 packs of stickers that have 30 stickers each. So, the total number of stickers is 4 x 30 = 120 stickers.
+
+Each sticker costs $.10. So, the total cost of all the stickers is 120 x $.10 = 12.00.
+
+James's friend pays for half of the cost. So, James's friend paid 12.00 / 2 = 6.00.
+
+Answer: 6.00

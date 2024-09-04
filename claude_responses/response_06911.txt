@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The pharmacy already has 20 tubs in storage
+* They need a total of 100 tubs for the week
+* So, they need to buy (100 - 20) = 80 more tubs
+* They buy a quarter of the 80 tubs from the new vendor
+* A quarter of 80 is 80 / 4 = 20 tubs
+* So, they buy 20 tubs from the new vendor
+* The remaining tubs they need to buy is (80 - 20) = 60 tubs
+* Therefore, the pharmacy is going to buy 60 tubs from the usual vendor.
+
+Answer: 60

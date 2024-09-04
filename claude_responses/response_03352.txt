@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 10 more black pens than blue pens. Let's call the number of blue pens 'x'. Then the number of black pens is 'x + 10'.
+2) There are twice as many blue pens as pencils. So the number of pencils is 'x/2'.
+3) We are told there are 8 pencils, so 'x/2 = 8', which means 'x = 16'.
+4) Therefore, the number of black pens is 'x + 10 = 16 + 10 = 26'.
+5) We are also told there are two fewer red pens than pencils. Since there are 8 pencils, there are 6 red pens.
+6) To find the total number of pens, we add the blue pens (16), the black pens (26), and the red pens (6):
+16 + 26 + 6 = 48
+
+Answer: 48

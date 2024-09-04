@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Ben has two brothers, so there are 3 people in total who will be eating the pizza.
+2) Each person can eat 12 slices of pizza.
+3) So the total number of slices of pizza needed is 3 * 12 = 36 slices.
+4) They have already ordered 1 small pizza, which has 8 slices.
+5) So the remaining number of slices needed is 36 - 8 = 28 slices.
+6) Large pizzas have 14 slices each.
+7) To find the number of large pizzas needed, we divide the remaining slices needed (28) by the number of slices per large pizza (14).
+8) 28 / 14 = 2 large pizzas.
+
+Answer: 2

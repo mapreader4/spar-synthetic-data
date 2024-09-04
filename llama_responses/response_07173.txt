@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Find the number of students accepted to the university.
+
+20,000 students apply, and 5% of them are accepted. To find the number of accepted students, we can multiply 20,000 by 5%:
+
+20,000 x 0.05 = 1,000
+
+So, 1,000 students are accepted to the university.
+
+Step 2: Find the number of students who choose to attend Harvard University.
+
+Of the accepted students, 90% choose to attend Harvard University. To find the number of students who choose to attend Harvard, we can multiply 1,000 by 0.9:
+
+1,000 x 0.9 = 900
+
+Answer: 900

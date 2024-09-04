@@ -1,0 +1,9 @@
+Let's first find the total number of birds seen by all three of them.
+
+Marcus sees 7 birds, Humphrey sees 11 birds, and Darrel sees 9 birds. So, the total number of birds seen is 7 + 11 + 9 = 27.
+
+To find the average number of birds each of them sees, we can divide the total number of birds by 3, since there are 3 bird watchers.
+
+The average number of birds each of them sees is 27 / 3 = 9.
+
+Answer: 9

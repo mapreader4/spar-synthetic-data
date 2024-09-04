@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bags of apples that Austin picked. We know that Dallas picked 14 bags of apples, and Austin picked 6 bags of apples more than Dallas. So, the number of bags of apples that Austin picked is:
+
+14 + 6 = 20
+
+Now, let's find the number of bags of pears that Austin picked. We know that Dallas picked 9 bags of pears, and Austin picked 5 fewer bags of pears than Dallas. So, the number of bags of pears that Austin picked is:
+
+9 - 5 = 4
+
+To find the total number of bags of fruit that Austin picked, we add the number of bags of apples and pears together:
+
+20 (apples) + 4 (pears) = 24
+
+Answer: 24

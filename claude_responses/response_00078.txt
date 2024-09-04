@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Manny had 3 birthday cookie pies to share
+* Each cookie pie was cut into 10 slices
+* Manny, his 24 classmates, and Mr. Keith each had 1 slice
+* To calculate the total number of slices:
+  - There were 3 cookie pies, each with 10 slices, so the total number of slices is 3 * 10 = 30 slices
+  - Manny, his 24 classmates, and Mr. Keith each had 1 slice, so the total number of slices taken is 26 (1 for Manny, 24 for his classmates, and 1 for Mr. Keith)
+  - The number of slices left is the total number of slices (30) minus the number of slices taken (26)
+
+Answer: 4

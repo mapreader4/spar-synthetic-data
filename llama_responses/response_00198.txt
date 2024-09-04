@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Rosie runs 6 miles per hour, so she runs 6 miles in 1 hour. To find out how many miles she runs in 30 minutes, we can multiply 6 miles per hour by 0.5 hours, since 30 minutes is half an hour. 6 * 0.5 = 3 miles.
+
+She runs 3 miles on Tuesday. She runs 1 hour on Wednesday, which is 6 miles, and 20 minutes on Thursday, which is 1.3333333333 miles. (20 minutes is 0.3333333333 hours).
+
+To run 20 miles for the week, she needs to run 20 - (3 + 6 + 1.3333333333) miles. 20 - 10.333333333 is 9.6666666667 miles. She needs to run 9.6666666667 miles. Since she runs 6 miles per hour, she needs to run for 9.6666666667 / 6 hours. 9.6666666667 / 6 is 1.61 hours. She needs to run for 1.61 hours.
+
+Since she needs to run 20 minutes, and 1.61 hours is 96 minutes, she needs to run for 96 minutes.

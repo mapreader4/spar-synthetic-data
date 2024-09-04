@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+First, we need to find the maximum riding time William rode his horse for, which is 6 hours a day. For 2 days, he rode for the maximum time, which is 6 * 2 = 12 hours. For the next 2 days, he rode for 1.5 hours a day, so that's 1.5 * 2 = 3 hours. The total time he rode for these 2 days is 3 hours.
+
+So, the total time William rode his horse is 12 + 3 = 15 hours.
+
+Answer: 15

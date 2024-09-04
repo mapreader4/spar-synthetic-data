@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+First, let's find out how many hours Josh works in a month. Josh works 8 hours a day, 5 days a week, and 4 weeks a month. So, he works 8 * 5 * 4 = 40 hours a month.
+
+Carl works 2 hours less than Josh every day. So, Carl works 8 - 2 = 6 hours a day. And since he works 6 hours a day, 5 days a week, he works 6 * 5 = 30 hours a week. And since he works 30 hours a week, 4 weeks a month, he works 30 * 4 = 120 hours a month.
+
+Now, let's find out how much they get paid. Josh gets $9 an hour, so he gets 9 * 40 = $360 a month. Carl gets half that, so he gets 360 / 2 = $180 a month.
+
+To find the total amount the company pays for the 2 together, we add their salaries together. 360 + 180 = 540.
+
+Answer: 540

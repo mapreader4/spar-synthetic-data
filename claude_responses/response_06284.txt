@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Lola runs up the stairs:
+   - Lola can run up 1 story in 10 seconds
+   - There are 20 stories in total
+   - So, it will take Lola 20 * 10 = 200 seconds to reach the top floor
+
+2. Tara takes the elevator:
+   - The elevator goes up a story in 8 seconds
+   - But it stops for 3 seconds on every single floor
+   - So, the total time for the elevator to reach the top floor is:
+     - Time to go up 20 stories: 20 * 8 = 160 seconds
+     - Time spent stopping at each floor: 20 * 3 = 60 seconds
+     - Total time for the elevator: 160 + 60 = 220 seconds
+
+3. Comparing the times:
+   - Lola takes 200 seconds to reach the top floor
+   - Tara takes 220 seconds to reach the top floor
+   - Therefore, the slower one is Tara.
+
+Answer: 220 seconds

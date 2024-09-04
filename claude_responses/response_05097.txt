@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Yesterday, Joan had half as many gemstones as minerals in her rock collection.
+* Today, she found 6 more mineral samples.
+* Now, she has a total of 48 mineral samples.
+
+Let's start by finding out how many mineral samples she had yesterday:
+* Today, she has 48 mineral samples.
+* She found 6 more mineral samples today.
+* So, yesterday she had 48 - 6 = 42 mineral samples.
+
+Now, we know that yesterday she had half as many gemstones as minerals. So, the number of gemstones yesterday was:
+* 42 / 2 = 21 gemstones
+
+Therefore, the number of gemstone samples she has now is 21.
+
+Answer: 21

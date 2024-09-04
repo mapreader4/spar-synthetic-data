@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Tom drives 50 miles on Monday, Wednesday, Friday, and Sunday. That's 4 days a week at 50 miles per day, which is 200 miles per week.
+2. For the remaining 3 days, he drives 100 miles per day, which is 300 miles per week.
+3. So, the total miles he drives per week is 200 + 300 = 500 miles.
+4. In a year, there are 52 weeks. So, the total miles he drives in a year is 500 miles per week x 52 weeks = 26,000 miles.
+5. He has to pay $0.10 per mile, so the total cost for the miles driven in a year is 26,000 miles x $0.10 per mile = $2,600.
+6. He also has to pay a weekly fee of $100, which for 52 weeks is $5,200.
+7. Therefore, the total amount Tom has to pay in a year is $2,600 + $5,200 = $7,800.
+
+Answer: $7,800

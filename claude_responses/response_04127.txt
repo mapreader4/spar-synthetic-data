@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, Daisy's Flower Shop sold 45 daisies.
+2. On the second day, they sold 20 more flowers than they did on the first day, so they sold 45 + 20 = 65 daisies.
+3. On the third day, they sold 10 less than twice the flowers that were sold on the second day. So, they sold 2 * 65 - 10 = 120 daisies.
+4. We know that the total number of daisies sold over 4 days was 350.
+5. To find the number of daisies sold on the 4th day, we need to subtract the total of the first 3 days from the total of 350 daisies.
+6. The total of the first 3 days is 45 + 65 + 120 = 230 daisies.
+7. Therefore, the number of daisies sold on the 4th day is 350 - 230 = 120 daisies.
+
+Answer: 120

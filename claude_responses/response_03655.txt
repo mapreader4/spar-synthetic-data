@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Martha needs 1.5kg of cheese, which costs $6 per kilogram.
+   * Cost of cheese = 1.5kg x $6/kg = $9
+2) Martha needs 500 grams of meat, which costs $8 per kilogram.
+   * 500 grams = 0.5kg
+   * Cost of meat = 0.5kg x $8/kg = $4
+3) To calculate the total cost, we add the cost of the cheese and the cost of the meat:
+   * Total cost = $9 + $4 = $13
+
+Answer: $13

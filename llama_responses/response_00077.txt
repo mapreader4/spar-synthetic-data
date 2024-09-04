@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The boxer's current weight is 97 kg.
+* The boxer wants to lose 3 kg per month.
+* The goal is to find the weight of the boxer on the day of the fight.
+
+To solve this problem, we can use a simple subtraction equation:
+
+Current weight (97 kg) - (3 kg/month * 4 months) =?
+
+To find the weight on the day of the fight, we need to subtract the total amount of weight lost from the current weight. Since the boxer wants to lose 3 kg per month, and there are 4 months, the total amount of weight lost is:
+
+3 kg/month * 4 months = 3 kg * 4 = 12 kg
+
+Now, we can subtract this amount from the current weight:
+
+97 kg - 12 kg =?
+
+To find the answer, we perform the subtraction:
+
+97 - 12 = 85
+
+Answer: 85

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+For the math test:
+* The math test has 40 questions
+* Phillip gets 75% of them right
+* To calculate the number of questions he gets right on the math test:
+* 75% of 40 = 0.75 * 40 = 30 questions
+
+For the English test:
+* The English test has 50 questions
+* Phillip gets 98% of them right
+* To calculate the number of questions he gets right on the English test:
+* 98% of 50 = 0.98 * 50 = 49 questions
+
+To calculate the total number of questions he gets right:
+* Total questions right = questions right on math test + questions right on English test
+* Total questions right = 30 + 49 = 79
+
+Answer: 79

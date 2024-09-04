@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's first calculate the cost per unit of the phones: $3000 / 200 units = $15 per unit.
+
+Next, let's calculate the profit per unit: profit = selling price - cost per unit. Since Ronald wants to gain a third of the initial investment in profits, the profit per unit will be one-third of the cost per unit. 
+
+So, let's set up an equation: profit per unit = (selling price per unit - cost per unit) / 3. 
+
+To find the selling price per unit, we can set up an equation: selling price per unit = cost per unit + profit per unit.
+
+Now, let's substitute the cost per unit for the cost per unit: selling price per unit = $15 + profit per unit.
+
+Since we know the profit per unit is one-third of the cost per unit, we can substitute the cost per unit for the profit per unit: selling price per unit = $15 + (1/3)($15) = $15 + $5 = $20.
+
+So, the selling price per unit is $20.
+
+Answer: 20

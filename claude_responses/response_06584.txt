@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. T-shirt cost: $20 each
+2. Pants cost: $80 per pair
+3. Shoes cost: $150 per pair
+4. All items get a 10% discount
+
+Now, let's calculate the total cost before the discount:
+* 4 T-shirts at $20 each = $80
+* 3 pairs of pants at $80 each = $240
+* 2 pairs of shoes at $150 each = $300
+* Total before discount = $80 + $240 + $300 = $620
+
+Now, we apply the 10% discount:
+* Discount amount = 10% of $620 = 0.1 * $620 = $62
+* Total cost after discount = $620 - $62 = $558
+
+Therefore, the amount Eugene has to pay is:
+Answer: $558

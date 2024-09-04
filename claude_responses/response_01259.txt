@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) We are given that Ryanne is 7 years older than Hezekiah.
+2) We are also given that the sum of their ages is 15 years.
+3) Let's represent Hezekiah's age as x.
+4) Since Ryanne is 7 years older than Hezekiah, Ryanne's age can be represented as x + 7.
+5) The sum of their ages is 15 years, so we can write the equation:
+x + (x + 7) = 15
+6) Solving this equation:
+2x + 7 = 15
+2x = 8
+x = 4
+7) Therefore, Hezekiah is 4 years old.
+
+Answer: 4

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Ruby has 6 math homework and 2 reading homework
+* Nina has 4 times more math homework than Ruby
+* Nina has 8 times more reading homework than Ruby
+
+First, let's calculate Nina's math homework:
+* Ruby has 6 math homework
+* Nina has 4 times more math homework than Ruby
+* So, Nina's math homework = 4 x 6 = 24
+
+Next, let's calculate Nina's reading homework:
+* Ruby has 2 reading homework
+* Nina has 8 times more reading homework than Ruby
+* So, Nina's reading homework = 8 x 2 = 16
+
+Now, to find the total homework Nina has, we add her math homework and reading homework:
+* Nina's total homework = 24 + 16 = 40
+
+Answer: 40

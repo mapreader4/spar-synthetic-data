@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Dante takes 15 minutes to go to Hidden Lake
+* From Hidden Lake, he has to walk back to the Park Office, and this takes him 7 minutes
+* In total, he has been gone from the Park Office for 32 minutes
+
+Now, we need to find the time it takes him to walk from the Park Office to the Lake Park restaurant.
+
+We know that:
+* Total time gone from Park Office = 32 minutes
+* Time to go to Hidden Lake = 15 minutes
+* Time to return from Hidden Lake = 7 minutes
+
+Therefore, the time spent walking from the Park Office to the Lake Park restaurant must be:
+* 32 minutes - 15 minutes - 7 minutes = 10 minutes
+
+Answer: 10 minutes

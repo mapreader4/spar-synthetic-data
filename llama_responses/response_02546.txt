@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. First, let's find the number of batches Jack makes in 24 days.
+
+Since he makes 1.5 gallons in each batch, and there are 96 ounces in 1 gallon, the number of batches is:
+
+96 / 1.5 = 64
+
+Jack makes 64 batches of coffee in 24 days.
+
+2. Now, let's find the number of hours Jack spends making coffee in 24 days.
+
+Jack spends 20 hours to make each batch, and he makes 64 batches in 24 days.  So, the number of hours is:
+
+64 * 20 = 1280
+
+Jack spends 1280 hours making coffee in 24 days.
+
+Answer: 1280

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Kelly has 8 chickens
+* Each chicken lays 3 eggs per day
+* So, the total number of eggs laid per day is 8 chickens x 3 eggs per chicken = 24 eggs per day
+* Kelly sells the eggs for $5 per dozen
+* There are 12 eggs in a dozen
+* So, the revenue per dozen is $5
+* In 4 weeks, there are 28 days (4 weeks x 7 days per week)
+* The total number of eggs laid in 4 weeks is 24 eggs per day x 28 days = 672 eggs
+* The total number of dozens of eggs is 672 eggs / 12 eggs per dozen = 56 dozens
+* The total revenue is 56 dozens x $5 per dozen = $280
+
+Answer: $280

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Candy bars cost ¢25 each
+* 3 candy bars would cost 3 x ¢25 = ¢75
+* Pieces of chocolate cost ¢75 each
+* 2 pieces of chocolate would cost 2 x ¢75 = ¢150
+* A pack of juice costs ¢50
+* The total cost of 3 candy bars, 2 pieces of chocolate, and 1 pack of juice would be:
+¢75 + ¢150 + ¢50 = ¢275
+* Since the snack machine accepts only quarters, and each quarter is worth ¢25, we need to divide the total cost by ¢25 to determine the number of quarters needed.
+* ¢275 / ¢25 = 11 quarters
+
+Answer: 11

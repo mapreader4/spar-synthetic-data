@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On Thursday, Walmart sold 210 pounds of ground beef.
+* On Friday, they sold twice the amount they sold on Thursday, which is 2 * 210 = 420 pounds.
+* On Saturday, they sold 150 pounds of ground beef.
+* To calculate the average amount of beef sold per day, we need to add up the total amount of beef sold over the three days and divide by the number of days.
+* The total amount of beef sold is 210 + 420 + 150 = 780 pounds.
+* The number of days is 3.
+* Therefore, the average amount of beef sold per day is 780 / 3 = 260 pounds.
+
+Answer: 260

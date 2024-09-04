@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by letting x represent the number of pounds of cheese Tony buys.
+
+Tony has 87 dollars to spend. He spends 5 dollars per pound on beef and 7 dollars per pound on cheese. So, the total cost of the beef is 5x, and the total cost of the cheese is 7x.
+
+The total cost of the beef and cheese is the sum of these two costs: 5x + 7x. This is equal to 87, since Tony has 87 dollars.
+
+Now, let's set up an equation to represent this: 5x + 7x = 87.
+
+We can subtract 5x from both sides of the equation to get 7x = 87 - 5x. This means that 7x = 82.
+
+Now, we can divide both sides of the equation by 7 to get x = 82/7 = 11.83.
+
+So, Tony bought 11.83 pounds of cheese. 
+
+Answer: 11

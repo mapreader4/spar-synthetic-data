@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+There were 200 students who passed the English course 3 years ago. This is the starting point.
+
+In the next year, the number of students who passed increased by 50% of the previous year's number. So, the new number of students who passed would be 200 * 1.5 = 300.
+
+In the following year, the number of students who passed increased by 50% of the previous year's number again. So, the new number of students who passed would be 300 * 1.5 = 450.
+
+In the next year, the number of students who passed increased by 50% of the previous year's number again. So, the new number of students who passed would be 450 * 1.5 = 675.
+
+In the current year, the number of students who passed is the result of all these increases. So, the total number of students who passed is the sum of all the previous numbers: 200 + 300 + 450 + 675 = 1225.
+
+Answer: 1225

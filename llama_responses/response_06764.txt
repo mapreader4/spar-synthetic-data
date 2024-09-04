@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start with the total number of students. There are 5 groups of students, and each group has 2 students. So, the total number of students is 5 * 2 = 10.
+
+The teacher needs to make sandwiches for 10 students, and each student needs 2 sandwiches. So, the total number of sandwiches needed is 10 * 2 = 20.
+
+Answer: 20

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of tickets Officer Hopps has given out in the first 15 days. If he gives out 8 tickets a day for 15 days, then the total number of tickets given out is 8 * 15 = 120.
+
+Officer Hopps has to give out a total of 200 tickets. So, to find out how many tickets he has to give out each day for the rest of the month, we can subtract the number of tickets given out already (120) from the total number of tickets required (200).
+
+200 - 120 = 80
+
+Answer: 80

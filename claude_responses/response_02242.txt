@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Xavier runs 3 times as many miles as Katie
+* Katie runs 4 times as many miles as Cole
+* Xavier runs 84 miles
+
+First, we can find how many miles Katie runs:
+* Xavier runs 3 times as many miles as Katie
+* So, Katie runs 84 / 3 = 28 miles
+
+Next, we can find how many miles Cole runs:
+* Katie runs 4 times as many miles as Cole
+* So, Cole runs 28 / 4 = 7 miles
+
+Therefore, the answer is:
+Answer: 7 miles

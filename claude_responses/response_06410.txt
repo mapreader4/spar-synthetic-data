@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+T-Mobile:
+* The family plan costs $50 per month for the first two lines
+* Each additional line costs $16
+* Moore's family needs 5 lines, so that's 3 additional lines beyond the first two
+* Total cost for T-Mobile = $50 + ($16 x 3) = $98 per month
+
+M-Mobile:
+* The family plan costs $45 for the first two lines
+* Each additional line costs $14
+* Moore's family needs 5 lines, so that's 3 additional lines beyond the first two
+* Total cost for M-Mobile = $45 + ($14 x 3) = $87 per month
+
+Now, to calculate the difference in cost:
+* T-Mobile cost: $98 per month
+* M-Mobile cost: $87 per month
+* Difference in cost = $98 - $87 = $11 per month
+
+Answer: $11

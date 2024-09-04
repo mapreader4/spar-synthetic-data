@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Tom plays 9 rounds of golf
+2) He takes an average of 4 strokes per hole
+3) The par value per hole is 3
+4) To calculate the total number of strokes Tom took, we multiply the number of holes (9) by the average strokes per hole (4):
+   9 holes x 4 strokes/hole = 36 total strokes
+5) To calculate the total par value for the 9 holes, we multiply the number of holes (9) by the par value per hole (3):
+   9 holes x 3 par/hole = 27 total par
+6) To calculate how many strokes over par Tom was, we subtract the total par (27) from the total strokes (36):
+   36 total strokes - 27 total par = 9 strokes over par
+
+Answer: 9

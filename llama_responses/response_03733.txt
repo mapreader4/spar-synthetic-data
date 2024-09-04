@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's first calculate the number of acres of good soil and clay-rich soil. Since one-third of Jorge's 60 acres is clay-rich soil, that means we can set up an equation to find the number of acres of clay-rich soil:
+
+1/3 x 60 = x
+
+To solve for x, we multiply both sides by 3:
+
+3 x = 60
+
+x = 20
+
+So, Jorge has 20 acres of clay-rich soil. The rest of the land, which is 60 - 20 = 40 acres, is good soil.
+
+Now, let's calculate the total yield from the good soil:
+
+40 x 400 = 16000
+
+Now, let's calculate the total yield from the clay-rich soil:
+
+20 x 200 = 4000
+
+Now, let's add the two yields together:
+
+16000 + 4000 = 20800
+
+So, Jorge's land yielded a total of 20800 bushels of corn.
+
+Answer: 20800

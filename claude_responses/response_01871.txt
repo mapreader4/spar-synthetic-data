@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 50 more pens than notebooks on the shelf
+* There are 30 notebooks on the shelf
+* To find the number of pens, we can add 50 to the number of notebooks:
+* Number of pens = 30 notebooks + 50 = 80 pens
+* Now, to find the total number of notebooks and pens, we add the number of notebooks and pens:
+* Total number of notebooks and pens = 30 notebooks + 80 pens = 110
+
+Answer: 110

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The gala luncheon planning committee has 24 people
+* Each person on the committee should have 2 sandwiches each
+* So the total number of sandwiches needed is 24 people * 2 sandwiches = 48 sandwiches
+* The bakery offers 12 mini croissants for $8.00
+* To calculate the number of packages of croissants needed, we divide the total number of sandwiches (48) by the number of croissants per package (12):
+48 sandwiches / 12 croissants per package = 4 packages of croissants
+* Each package of croissants costs $8.00
+* So the total cost for 4 packages of croissants will be 4 * $8.00 = $32.00
+
+Answer: $32.00

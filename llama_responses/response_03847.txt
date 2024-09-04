@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+There are 24 people named Barry, and all of them are nice, so 24 people are nice.
+
+There are 20 people named Kevin, and half of them are nice. So, 20 / 2 = 10 people named Kevin are nice.
+
+There are 80 people named Julie, and three-fourths of them are nice. So, 80 * 3/4 = 60 people named Julie are nice.
+
+There are 50 people named Joe, and 10% of them are nice. So, 50 * 0.1 = 5 people named Joe are nice.
+
+Adding up the number of nice people, we get: 24 + 10 + 60 + 5 = 99 people are nice.
+
+Answer: 99

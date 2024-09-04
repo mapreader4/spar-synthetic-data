@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information. We know that half of the 20 skeletons are adult women, and the remaining number are split evenly between adult men and children.
+
+Let's call the number of adult women 10, since half of 20 is 10. So, 10 adult women are in the graveyard.
+
+We are also given that an adult woman has 20 bones in their body. Let's call this number x. We are told that a male has 5 more bones than an adult woman, so the male has x + 5 bones.
+
+We are also given that a child has half as many bones as an adult woman. So, the child has x / 2 bones.
+
+Now, we can write an equation to solve for x. We know that x = 20, since an adult woman has x bones, and a male has x + 5 bones. We also know that a child has x / 2 bones.
+
+We can write the equation as follows:
+
+x = 20 - 5 = 15
+
+So, the child has 15 bones.
+
+Now, we know that the adult women have 10 bones, and the adult men and children have 15 bones. So, the total number of bones in the graveyard is 10 + 15 = 25.
+
+Answer: 25

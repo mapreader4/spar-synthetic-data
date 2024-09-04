@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rob's bowl contained 25 grapes
+* Allie's bowl contained 2 more grapes than Rob's bowl
+* So, Allie's bowl contained 25 + 2 = 27 grapes
+* Allyn's bowl contained 4 more grapes than Allie's bowl
+* So, Allyn's bowl contained 27 + 4 = 31 grapes
+* To find the total combined number of grapes in all three bowls, we add the number of grapes in each bowl:
+* Rob's bowl: 25 grapes
+* Allie's bowl: 27 grapes
+* Allyn's bowl: 31 grapes
+* Total combined grapes = 25 + 27 + 31 = 83 grapes
+
+Answer: 83

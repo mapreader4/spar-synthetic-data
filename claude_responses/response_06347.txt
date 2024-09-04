@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Rottweilers take 20 minutes to groom
+* Karen has to groom 6 Rottweilers
+* So, for the 6 Rottweilers, it will take 6 * 20 = 120 minutes
+
+* Border collies take 10 minutes to groom
+* Karen has to groom 9 border collies
+* So, for the 9 border collies, it will take 9 * 10 = 90 minutes
+
+* Chihuahuas take 45 minutes to groom
+* Karen has to groom 1 chihuahua
+* So, for the 1 chihuahua, it will take 45 minutes
+
+* To calculate the total time, we add up the time for each type of dog:
+* 120 minutes + 90 minutes + 45 minutes = 255 minutes
+
+Answer: 255

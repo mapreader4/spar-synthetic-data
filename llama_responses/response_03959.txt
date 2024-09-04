@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's say the cost of 1 kg of oranges is x dollars. Then, the cost of 2 kg of oranges will be 2x. And the cost of 12 kg of oranges will be 12x.
+
+The cost of 2 kg of oranges is $6, so we can write an equation to solve for x:
+
+2x = 6
+
+To solve for x, we can divide both sides of the equation by 2:
+
+x = 6 / 2
+x = 3
+
+So, the cost of 1 kg of oranges is $3. Therefore, the cost of 12 kg of oranges will be 12 x 3 = 36.
+
+Answer: 36

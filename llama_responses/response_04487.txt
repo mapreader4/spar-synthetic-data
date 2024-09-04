@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Jean eats one donut per 2 pages.
+* She writes 12 pages.
+
+We can find the total number of donuts she eats by multiplying the number of pages she writes by the number of donuts per page. We know that 12 pages / 2 donuts per page = 6 donuts.
+
+Then, we know that each donut has 150 calories. So, the total number of calories she eats is:
+
+6 donuts * 150 calories per donut = 900 calories.
+
+So, the answer is:
+
+Answer: 900

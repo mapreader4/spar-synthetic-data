@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Harry has 3 geckos. Each gecko costs $15 to feed every month. So, 3 x $15 = $45 is how much it costs to feed all the geckos every month.
+
+Harry has 2 iguanas. Each iguana costs $5 to feed every month. So, 2 x $5 = $10 is how much it costs to feed all the iguanas every month.
+
+Harry has 4 snakes. Each snake costs $10 to feed every month. So, 4 x $10 = $40 is how much it costs to feed all the snakes every month.
+
+To feed all the pets for a year, we need to multiply the monthly costs by 12. So, $45 (geckos) x 12 = $540, $10 (iguana) x 12 = $120, and $40 (snakes) x 12 = $480. Then we add these amounts together to get $540 + $120 + $480 = $1140.
+
+Answer: 1140

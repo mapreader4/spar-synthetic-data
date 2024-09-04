@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+Year 1: The apple tree produces 40 apples.
+
+Year 2: The apple tree produces 2 times the amount it produced in the first year, which is 2 x 40 = 80 apples.
+
+Year 3: The apple tree produces 4/5 of the amount it produced in the second year, which is 4/5 x 80 = 64 apples.
+
+To find the total number of apples produced in the first three years, we add the apples produced in each year: 40 + 80 + 64 = 184.
+
+Answer: 184

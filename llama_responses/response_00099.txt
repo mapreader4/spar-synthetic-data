@@ -1,0 +1,17 @@
+Let's start by using the information given in the problem. We know that the first tank is twice the size of the second tank. Let's call the size of the second tank x. Then, the size of the first tank would be 2x.
+
+We know that the first tank has 48 gallons of water, so the number of fish in the first tank is 48/1 = 48 inches.
+
+We are told that the second tank has two-inch fish, so the number of fish in the second tank is 2x. The first tank has three-inch fish, so the number of fish in the first tank is 3x.
+
+If one of the first tank fish eats another, then the number of fish in the first tank becomes 3x - 1. We are asked to find out how many more fish Gail has in the first tank than the second tank.
+
+So, let's subtract the number of fish in the second tank from the number of fish in the first tank:
+
+(3x - 1) - 2x =?
+
+First, let's simplify the expression by combining like terms:
+
+3x - 1 - 2x = x - 1
+
+So, Gail has x - 1 more fish in the first tank than the second tank.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that a Fried Chicken Dinner uses 8 pieces of chicken, and Victor has 2 such orders, so that's a total of 2 x 8 = 16 pieces of chicken.
+
+Next, we know that a Chicken Pasta order uses 2 pieces of chicken, and Victor has 6 such orders, so that's a total of 6 x 2 = 12 pieces of chicken.
+
+Finally, we know that a Barbecue Chicken order uses 3 pieces of chicken, and Victor has 3 such orders, so that's a total of 3 x 3 = 9 pieces of chicken.
+
+To find the total number of pieces of chicken Victor needs, we add up the number of pieces from each type of order: 16 (Fried Chicken Dinner) + 12 (Chicken Pasta) + 9 (Barbecue Chicken) = 37.
+
+Answer: 37

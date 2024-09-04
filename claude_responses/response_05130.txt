@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Paul has 5 dogs
+* For every 10 pounds they weigh, they need 1 pound of dog food per day
+* The weights of the dogs are:
+  - Dog 1: 20 pounds
+  - Dog 2: 40 pounds
+  - Dog 3: 10 pounds
+  - Dog 4: 30 pounds
+  - Dog 5: 50 pounds
+* To calculate the total amount of dog food needed per day:
+  - Dog 1 (20 pounds) needs 2 pounds of dog food per day
+  - Dog 2 (40 pounds) needs 4 pounds of dog food per day
+  - Dog 3 (10 pounds) needs 1 pound of dog food per day
+  - Dog 4 (30 pounds) needs 3 pounds of dog food per day
+  - Dog 5 (50 pounds) needs 5 pounds of dog food per day
+* Adding up the amounts for each dog:
+  - 2 + 4 + 1 + 3 + 5 = 15 pounds of dog food per day
+
+Answer: 15

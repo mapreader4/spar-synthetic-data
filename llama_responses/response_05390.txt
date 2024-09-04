@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of cups of chocolate-flavored milk tea they sold. We know that two-fifths of their sales are winter melon flavor, and three-tenths are Okinawa flavor, so the remaining one-fifth of their sales must be chocolate flavor.
+
+Let's call the total number of cups of milk tea sold x.
+
+We know that two-fifths of the total sales are winter melon flavor, so two-fifths of x is equal to the number of cups of winter melon flavor. We can write this as the equation 2x/5 = number of winter melon flavor.
+
+We also know that three-tenths of the total sales are Okinawa flavor, so three-tenths of x is equal to the number of cups of Okinawa flavor. We can write this as the equation 3x/10 = number of Okinawa flavor.
+
+We know that the total sales of milk tea is 50 cups. So, we can write the equation 2x/5 + 3x/10 = 50.
+
+We can solve for x by multiplying both sides by 10 to eliminate the fractions. This gives us 2x + 3x = 500.
+
+Now, we can solve for x by subtracting 2x from both sides, which gives us x = 250.
+
+Answer: 250

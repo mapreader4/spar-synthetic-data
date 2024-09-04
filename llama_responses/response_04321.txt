@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Tino has 24 more jellybeans than Lee.
+* Arnold has half as many jellybeans as Lee.
+
+Let's denote the number of jellybeans Lee has as x. Then, we know that Arnold has x/2 jellybeans, since he has half as many jellybeans as Lee.
+
+We are given that Arnold has 5 jellybeans. So, we can set up an equation:
+
+x/2 = 5
+
+To solve for x, we can multiply both sides by 2:
+
+x = 5 * 2
+x = 10
+
+Now, we know that Lee has 10 jellybeans. Since Tino has 24 more jellybeans than Lee, we can set up an equation:
+
+Tino = 24 + 10
+
+Tino = 34
+
+Answer: 34

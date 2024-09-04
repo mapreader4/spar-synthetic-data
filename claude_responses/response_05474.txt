@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jan can handle 20 claims.
+2) John can handle 30% more claims than Jan. 
+   * 30% of 20 is 6, so John can handle 20 + 6 = 26 claims.
+3) Missy can handle 15 more claims than John.
+   * Missy can handle 26 + 15 = 41 claims.
+
+Answer: 41

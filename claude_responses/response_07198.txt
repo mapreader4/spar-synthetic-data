@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) Betty had 60 marbles in her collection.
+2) She gave 40% of her marbles to Stuart.
+3) 40% of 60 is 0.4 * 60 = 24 marbles.
+4) So Betty gave Stuart 24 marbles.
+5) After the transfer, Stuart had 80 marbles.
+6) To find how many marbles Stuart had initially, we need to subtract the 24 marbles he received from Betty from the 80 marbles he has now.
+7) 80 - 24 = 56 marbles.
+
+Answer: 56

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Bert buys the products in the warehouse and sells them for $10 more in his shop.
+2) The client bought a barrel for $90 in Bert's shop.
+3) Bert has to pay 10% of the value in tax for each sale.
+4) To find Bert's profit, we need to first find the cost of the barrel in the warehouse.
+5) Since Bert sells the barrel for $90, and he adds $10 to the cost, the cost in the warehouse must have been $80.
+6) Bert has to pay 10% of $80 in tax, which is $8.
+7) Bert's profit is the selling price ($90) minus the cost in the warehouse ($80) and the tax ($8).
+8) Bert's profit = $90 - $80 - $8 = $2.
+
+Answer: $2.

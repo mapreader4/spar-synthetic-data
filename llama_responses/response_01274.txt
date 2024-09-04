@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of teachers. There are 30 teachers at Esme's school.
+
+Next, let's identify the number of staff members. There are 45 staff members.
+
+Now, let's find the number of teachers who ate pizza. 2/3 of the teachers ate pizza. We can write this as a fraction: 2/3 * 30 = 20.
+
+Next, let's find the number of staff members who ate pizza. 4/5 of the staff members ate pizza. We can write this as a fraction: 4/5 * 45 = 36.
+
+Now, let's subtract the number of teachers who ate pizza from the total number of staff members. 20 + 36 = 56.
+
+To find the number of non-pizza eaters, we subtract the number of staff members who ate pizza from the total number of staff members. 45 - 56 = 11.
+
+Answer: 11

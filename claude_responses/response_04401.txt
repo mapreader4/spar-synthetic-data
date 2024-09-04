@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Alice needs to sell $1000 of shoes to meet her quota
+* Adidas cost $45 each, Nike cost $60 each, and Reeboks cost $35 each
+* She sells:
+  - 8 Nikes at $60 each, so 8 * $60 = $480
+  - 6 Adidas at $45 each, so 6 * $45 = $270
+  - 9 Reeboks at $35 each, so 9 * $35 = $315
+* The total amount of shoes she sold is:
+  - $480 + $270 + $315 = $1065
+* To find how much she is short or above her goal, we subtract $1000 (her quota) from $1065 (the total amount of shoes she sold):
+  - $1065 - $1000 = $65
+
+Answer: $65

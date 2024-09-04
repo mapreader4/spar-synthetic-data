@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 80 students at Rainbow Preschool.
+2) 25% of the students are half-day students, which means they get picked up at noon.
+3) To find the number of half-day students, we take 25% of 80:
+   * 25% of 80 = 0.25 * 80 = 20 half-day students
+4) The remaining students are full-day students.
+5) To find the number of full-day students, we subtract the number of half-day students from the total number of students:
+   * 80 - 20 = 60 full-day students
+
+Answer: 60

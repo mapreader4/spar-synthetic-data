@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* The pelican caught 13 fish.
+* The kingfisher caught 7 more fish than the pelican, so the kingfisher caught 13 + 7 = 20 fish.
+* The fisherman caught 3 times the total amount of fish the pelican and kingfisher caught. The total amount of fish caught by the pelican and kingfisher is 13 + 20 = 33. So, the fisherman caught 3 x 33 = 99 fish.
+
+Now, to find out how many more fish the fisherman caught than the pelican, we need to subtract the amount of fish caught by the pelican from the amount caught by the fisherman. 99 - 13 = 86.
+
+Answer: 86

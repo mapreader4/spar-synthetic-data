@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+
+1. Vermont opened 4 web pages on his web browser.
+2. On the first web page, he found 12 ads.
+3. On the second web page, he found twice as many ads as the first web page, which means 12 x 2 = 24 ads.
+4. On the third web page, he found 24 more ads than the second web page, which means 24 + 24 = 48 ads.
+5. On the fourth web page, he found 3/4 times as many ads as the second web page, which means 24 x 3/4 = 18 ads.
+6. The total number of ads on all 4 web pages is 12 + 24 + 48 + 18 = 102 ads.
+7. Vermont clicked on 2/3 of the total ads, which means 102 x 2/3 = 68 ads.
+
+Answer: 68

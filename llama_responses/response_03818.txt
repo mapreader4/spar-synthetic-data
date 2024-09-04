@@ -1,0 +1,7 @@
+Let's start by identifying the number of balloons of each color. Let's say the number of green balloons is x. The number of blue balloons is x, the number of yellow balloons is x, and the number of red balloons is x. The total number of balloons is 3x.
+
+The problem states that Anya took half of the yellow balloons home. So, we can say that Anya took x balloons home. The total number of balloons taken by Anya is half of x, which is x.
+
+So, the answer is:
+
+Answer: 168

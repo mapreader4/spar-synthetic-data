@@ -1,0 +1,16 @@
+Okay, let's think this through step-by-step:
+1) Kayla and Kylie picked a total of 200 apples.
+2) Kayla picked 1/4 of the apples that Kylie picked.
+3) Let's call the number of apples Kylie picked as "x".
+4) Since Kayla picked 1/4 of the apples that Kylie picked, Kayla picked 1/4 * x apples.
+5) The total number of apples picked is 200, so we can write the equation:
+   Kayla's apples + Kylie's apples = 200
+   (1/4 * x) + x = 200
+6) Solving for x, we get:
+   (1/4 * x) + x = 200
+   (5/4 * x) = 200
+   x = 160
+7) Since Kayla picked 1/4 of the apples that Kylie picked, and Kylie picked 160 apples, Kayla picked:
+   1/4 * 160 = 40 apples.
+
+Answer: 40

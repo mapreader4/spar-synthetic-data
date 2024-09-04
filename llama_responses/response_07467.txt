@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+First, we need to find the temperature after 3 hours. Since the temperature rises by 8 degrees per hour, we can multiply 8 degrees by 3 hours to get:
+
+8 degrees/hour x 3 hours = 24 degrees
+
+So, the temperature after 3 hours is 24 degrees higher than the initial temperature. Let's assume the initial temperature is x degrees. Then, the temperature after 3 hours is:
+
+x + 24 degrees
+
+Next, we need to find the temperature after the air conditioner is turned on. The air conditioner lowers the temperature at a rate of 4 degrees per hour. Since we want to find the time it takes to restore the warehouse to 43 degrees F, we can set up the following equation:
+
+x + 24 - 4t = 43
+
+where t is the time in hours that the air conditioner is turned on.
+
+Simplifying the equation, we get:
+
+x + 24 - 4t = 43
+
+Subtracting x from both sides gives:
+
+24 - 4t = 20
+
+Dividing both sides by -4 gives:
+
+t = 1 hour
+
+So, it will take 1 hour for the air conditioner to restore the warehouse to 43 degrees F.
+
+Answer: 1

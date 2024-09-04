@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+James had two browsers, so that's 2 browsers.
+
+In each browser, he opened 3 tabs. So, in the first browser, there are 3 tabs. In the second browser, there are also 3 tabs. So, the total number of tabs in the 2 browsers is 2 * 3 = 6.
+
+So, the total number of tabs James opened is 6 + 3 = 9.
+
+Answer: 9

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say there are 30 spaces for each vehicle in a parking lot. If a caravan takes up a total of 2 spaces of parking space, that means that 2 spaces are taken up by a caravan. So, we need to subtract 2 from 30 to find the remaining spaces available for parking.
+
+30 - 2 = 28
+
+Answer: 28

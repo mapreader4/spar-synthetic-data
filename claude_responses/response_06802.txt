@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Big boxes contain 7 dolls each
+* There are 5 big boxes
+* So the number of dolls in the big boxes is: 5 big boxes x 7 dolls per box = 35 dolls
+* Small boxes contain 4 dolls each
+* There are 9 small boxes
+* So the number of dolls in the small boxes is: 9 small boxes x 4 dolls per box = 36 dolls
+* To get the total number of dolls, we add the dolls in the big boxes and the dolls in the small boxes:
+* 35 dolls + 36 dolls = 71 dolls
+
+Answer: 71

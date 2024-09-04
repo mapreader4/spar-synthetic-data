@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, Gwen received a $900 bonus. She spent one-third of it on stock A, which is 900 / 3 = 300. She spent one-third on stock B, which is also 300. And she spent the remaining one-third on stock C, which is 300.
+
+So, she has 300 + 300 + 300 = 900 worth of stocks.
+
+After one year, stock A and stock B doubled in value, so they are now worth 2 x 300 = 600 each. Stock C lost half its value, so it's now worth 300 / 2 = 150.
+
+The total value of her stocks is now 600 + 600 + 150 = 1350.
+
+Answer: 1350

@@ -1,0 +1,19 @@
+Let's start by using the given information to set up an equation.
+
+The sum of the three sides of a triangle is 50. Let's represent the length of the left side as "x". Then, the length of the right side is 2 cm longer than the left side, so the length of the right side is x + 2 cm.
+
+The equation is:
+
+x + (x + 2) = 50
+
+We can solve this equation by subtracting x from both sides by x:
+
+x + x = 50 - 2
+
+This simplifies to:
+
+x = 48
+
+So, the value of the triangle base is 12 cm.
+
+Answer: 12

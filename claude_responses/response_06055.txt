@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Beatrix read 704 pages.
+2) Cristobal read 15 more than three times the pages that Beatrix read.
+3) To find the number of pages Cristobal read, we first need to find three times the number of pages Beatrix read.
+4) Three times 704 pages is 2,112 pages.
+5) Cristobal read 15 more than 2,112 pages, which is 2,127 pages.
+6) To find how many more pages Cristobal read, we subtract the number of pages Beatrix read from the number of pages Cristobal read.
+7) 2,127 pages - 704 pages = 1,423 pages.
+
+Answer: 1,423

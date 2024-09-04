@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Malcolm buys 12 red lights
+* He buys 3 times as many blue lights as red lights, so that's 3 x 12 = 36 blue lights
+* He buys 6 green lights
+* So the total number of colored lights he has bought so far is 12 + 36 + 6 = 54 lights
+* He still has 5 colored lights left to buy
+* So the total number of colored lights he needs is 54 + 5 = 59 lights
+* Therefore, the number of white lights he had initially is 59 lights.
+
+Answer: 59

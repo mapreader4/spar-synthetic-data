@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Marco's ice cream cones cost $5 each.
+2) His expenses are 80% of his total sales for the day.
+3) He wants to make a $200 profit for the day.
+4) To calculate the total sales needed, we need to first calculate the total expenses:
+   * Expenses = 80% of total sales
+   * Total sales = Expenses / 0.8
+5) Now we can calculate the total sales needed to make a $200 profit:
+   * Total sales = (Expenses + $200) / 0.8
+   * Total sales = ($200 + $200) / 0.8
+   * Total sales = $500
+6) Finally, we can calculate the number of ice cream cones he needs to sell:
+   * Number of ice cream cones = Total sales / $5 per cone
+   * Number of ice cream cones = $500 / $5
+   * Number of ice cream cones = 100
+
+Answer: 100

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Penny's canoe can carry 6 people without the dog.
+2) With the dog, the canoe can only carry 2/3 of 6 people, which is 4 people.
+3) Each person weighs 140 pounds.
+4) The dog weighs 1/4 as much as a person, which is 140 / 4 = 35 pounds.
+5) The total weight the canoe was carrying is:
+   - 4 people x 140 pounds per person = 560 pounds
+   - 1 dog x 35 pounds = 35 pounds
+   - Total weight = 560 + 35 = 595 pounds
+
+Answer: 595

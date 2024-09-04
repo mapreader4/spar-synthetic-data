@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+* 30 students raised $20 each
+* 10 students raised $20 each
+* The rest of the students (20 - 10 = 20) raised $30 each
+
+The total amount of money raised by the students who raised $20 each is:
+20 x 10 = 200
+
+The total amount of money raised by the rest of the students is:
+20 x 10 = 200
+
+The total amount of money raised in all is:
+200 + 200 = 400

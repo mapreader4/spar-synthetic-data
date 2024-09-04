@@ -1,0 +1,3 @@
+To find the number of pages left, we can start by finding the total number of pages read so far. Ethan read 40 pages on Saturday, and 10 pages the next day, which is 40 + 10 = 50 pages. Since the book has 360 pages total, the number of pages left is 360 - 50 = 310. 
+
+Answer: 310

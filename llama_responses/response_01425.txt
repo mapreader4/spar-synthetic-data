@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of cupcakes Betty made in 5 hours. Since Betty makes 10 cupcakes every hour, the number of cupcakes she makes in 5 hours will be the number of hours she makes in 5 hours multiplied by 10. 5 hours is 5 * 60 minutes, so Betty makes 5 * 10 * 10 = 500 cupcakes in 5 hours.
+
+Now, let's find the number of cupcakes Dora makes in 5 hours. Since Dora makes 8 cupcakes every hour, the number of cupcakes she makes in 5 hours will be the number of hours she makes in 5 hours multiplied by 8. 5 hours is 5 * 60 minutes, so Dora makes 5 * 8 = 40 cupcakes in 5 hours.
+
+Now, we can find the difference between the number of cupcakes they made. Betty made 500 cupcakes and Dora made 40 cupcakes. So, the difference between the number of cupcakes they made is 500 - 40 = 460.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The tree was 100 meters tall at the end of 2017.
+* The tree will grow 10% more than its previous height each year.
+* To calculate the growth from 2017 to 2018:
+  * The tree's height in 2018 = 100 meters + (100 meters * 10%) = 100 meters + 10 meters = 110 meters.
+* To calculate the growth from 2018 to 2019:
+  * The tree's height in 2019 = 110 meters + (110 meters * 10%) = 110 meters + 11 meters = 121 meters.
+* Therefore, the total growth of the tree from the end of 2017 to the end of 2019 is:
+  * 121 meters - 100 meters = 21 meters.
+
+Answer: 21 meters.

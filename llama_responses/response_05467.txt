@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. The number of people is 18.
+2. Each person gets 3 slices.
+3. Each pizza has 9 slices.
+
+So, the total number of slices needed is the total number of people times the number of slices each person gets. 
+
+Total number of slices needed = 18 people * 3 slices/person = 54 slices.
+
+Answer: 6

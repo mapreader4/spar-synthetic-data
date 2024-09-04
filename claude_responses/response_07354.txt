@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Helen cuts her lawn from March through October, which is 8 months total.
+* In March, April, September, and October, she cuts her lawn 2 times per month.
+* In May, June, July, and August, she cuts her lawn 4 times per month.
+* Her lawn mower uses 2 gallons of gas every 4th time she cuts her lawn.
+
+Let's calculate the number of times she cuts her lawn in each time period:
+* March, April, September, October: 2 times per month x 4 months = 8 times
+* May, June, July, August: 4 times per month x 4 months = 16 times
+
+Now, let's calculate the total number of times she cuts her lawn:
+* 8 times + 16 times = 24 times
+
+Since her lawn mower uses 2 gallons of gas every 4th time she cuts her lawn, we can calculate the total amount of gas she will need:
+* 24 times / 4 = 6 times she will need to refill her lawn mower with 2 gallons of gas
+* 6 times x 2 gallons = 12 gallons of gas
+
+Answer: 12 gallons

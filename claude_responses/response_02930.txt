@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The aqua park charges $12 for admission and $6 for a tour
+* The first group has 10 people and they take the tour
+* For the first group:
+    - 10 people x $12 admission = $120
+    - 10 people x $6 tour = $60
+    - Total for first group = $120 + $60 = $180
+* The second group has 5 people and they only go to the aquarium
+    - 5 people x $12 admission = $60
+    - Total for second group = $60
+* To calculate the total earnings for the aqua park:
+    - Total earnings = $180 + $60 = $240
+
+Answer: 240

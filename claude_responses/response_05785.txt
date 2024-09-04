@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 35 books on the cart in total
+* 5 of those books are fiction books
+* There are 4 more non-fiction books than fiction books, so there are 5 + 4 = 9 non-fiction books
+* There are 2 times as many autobiographies as fiction books, so there are 2 * 5 = 10 autobiographies
+* The remaining books must be picture books
+
+To find the number of picture books, we need to subtract the number of fiction, non-fiction, and autobiography books from the total number of books:
+* Total books = 35
+* Fiction books = 5
+* Non-fiction books = 9
+* Autobiography books = 10
+* Picture books = 35 - 5 - 9 - 10 = 11
+
+Answer: 11

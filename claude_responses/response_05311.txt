@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tim has 3 children
+* They are out for 4 hours
+* Each hour they visit 5 houses
+* Each house gives 3 treats per kid
+
+First, let's calculate the number of houses they visited in total:
+* 4 hours x 5 houses per hour = 20 houses
+
+Next, let's calculate the number of treats each child received:
+* 20 houses x 3 treats per house = 60 treats per child
+
+Finally, let's calculate the total number of treats the 3 children received:
+* 60 treats per child x 3 children = 180 treats
+
+Answer: 180

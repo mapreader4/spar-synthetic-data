@@ -1,0 +1,24 @@
+Let's break down the information given in the problem:
+
+* A gallon of milk costs $3.
+* Two boxes of cereal cost $3.5 each.
+* 4 bananas cost $.25 each.
+* 4 apples cost $.5 each.
+* The cookies cost twice as much per box as the gallon of milk.
+
+Let's first find the total cost of the non-cookie items:
+
+* 1 gallon of milk: $3
+* 2 boxes of cereal: 2 x $3.5 = $7
+* 4 bananas: 4 x $.25 = $1
+* 4 apples: 4 x $.5 = $2
+
+Total cost of non-cookie items: $3 + $7 + $1 + $2 = $12
+
+The total cost of the groceries is $25. The total cost of the non-cookie items is $12, so the total cost of the cookies must be $25 - $12 = $13.
+
+The cookies cost twice as much per box as the gallon of milk, which is $3. So, the cost of a box of cookies is $3 / 2 = $1.5.
+
+The total cost of the cookies is $13, so the number of boxes of cookies is $13 / $1.5 = 8.6. Since we can't buy a fraction of a box of cookies, we round down to the nearest whole number, which is 8.
+
+Answer: 8

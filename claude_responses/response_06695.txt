@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Lighters cost $1.75 each at the gas station
+* Lighters cost $5.00 per pack of 12 on Amazon
+* Amanda wants to buy 24 lighters
+
+First, let's calculate the cost of buying 24 lighters at the gas station:
+* 24 lighters x $1.75 per lighter = $42.00
+
+Now, let's calculate the cost of buying 24 lighters on Amazon:
+* 24 lighters / 12 lighters per pack = 2 packs
+* 2 packs x $5.00 per pack = $10.00
+
+To calculate the savings, we take the gas station cost and subtract the Amazon cost:
+* $42.00 - $10.00 = $32.00
+
+Answer: $32.00

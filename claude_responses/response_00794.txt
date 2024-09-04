@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There were 40 red candies.
+2) The number of yellow candies was 3 times the number of red candies, minus 20. So, the number of yellow candies was 3 * 40 - 20 = 100.
+3) The number of blue candies was half the number of yellow candies. So, the number of blue candies was 100 / 2 = 50.
+4) Carlos ate all of the yellow candies, so the number of yellow candies remaining is 0.
+5) The number of candies remaining is the sum of the red candies and the blue candies: 40 + 50 = 90.
+
+Answer: 90

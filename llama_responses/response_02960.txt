@@ -1,0 +1,5 @@
+To find the number of hours it takes Emily to write 10,800 words, we need to find out how many minutes it takes her to write 60 words, and then multiply that by 10,800.
+
+Emily can type 60 words per minute. So, it takes her 1 minute to type 60 words. So, to find the number of minutes it takes her to type 60 words, we divide 60 by 1, which is 60.
+
+To find the number of minutes it takes Emily to type 10,800 words, we multiply the number of minutes it takes her to type 60 words (which is 1) by 10,800, which is 600.

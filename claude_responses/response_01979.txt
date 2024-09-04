@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Val cuts a single watermelon into 40 slices.
+2) Each slice has 20 black seeds and 20 white seeds.
+3) To find the total number of seeds in the watermelon, we need to multiply the number of slices by the number of seeds per slice.
+4) The number of seeds per slice is 20 black seeds + 20 white seeds = 40 seeds.
+5) The total number of seeds in the watermelon is 40 slices x 40 seeds per slice = 1,600 seeds.
+
+Answer: 1,600

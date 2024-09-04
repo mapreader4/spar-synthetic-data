@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Cole's backyard is 9 feet along the sides and 18 feet along the back
+* So the total length of the fence he needs to install is:
+    - 2 sides of 9 feet each = 18 feet
+    - 1 side of 18 feet = 18 feet
+    - Total fence length = 18 + 18 + 18 = 54 feet
+* The fencing costs $3 per foot
+* The neighbor behind him agreed to pay for half of their shared side of the fence, which is 18 feet / 2 = 9 feet
+* The neighbor on his left agreed to pay for a third of their shared side of the fence, which is 9 feet / 3 = 3 feet
+* So the total length of fence that Cole has to pay for is:
+    - Total fence length = 54 feet
+    - Neighbor behind pays for 9 feet
+    - Neighbor on left pays for 3 feet
+    - Cole pays for the remaining 54 - 9 - 3 = 42 feet
+* The cost for Cole is:
+    - 42 feet x $3 per foot = $126
+
+Answer: $126

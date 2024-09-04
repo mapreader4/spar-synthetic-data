@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Bronson collects 12 leaves on Thursday and 13 leaves on Friday, for a total of 12 + 13 = 25 leaves.
+2) 20% of the leaves are brown and 20% are green. This means that 60% of the leaves are yellow.
+3) 20% of 25 leaves is 0.2 * 25 = 5 brown leaves.
+4) 20% of 25 leaves is 0.2 * 25 = 5 green leaves.
+5) The remaining 60% of 25 leaves is 0.6 * 25 = 15 yellow leaves.
+
+Answer: 15

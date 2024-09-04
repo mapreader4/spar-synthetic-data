@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+On the first day, the snowdrift is formed, but we don't know how deep it is yet. We'll call this unknown depth "x".
+
+On the second day, half of the snowdrift melts, which means the depth of the snowdrift is reduced by half of "x". Let's call this reduced depth "x/2".
+
+On the third day, 6 inches of snow is added to the snowdrift, so the new depth is "x/2" + 6.
+
+On the fourth day, 18 inches of snow is added to the snowdrift, so the new depth is ("x/2" + 6) + 18.
+
+We know that the snowdrift is 34 inches deep at the end of the fourth day, so we can set up the equation:
+
+("x/2" + 6) + 18 = 34
+
+Simplifying the equation, we get:
+
+"x/2" + 24 = 34
+
+Subtracting 24 from both sides, we get:
+
+"x/2" = 10
+
+Multiplying both sides by 2, we get:
+
+"x" = 20
+
+So, the snowdrift was 20 inches deep at the end of the first day.
+
+Answer: 20

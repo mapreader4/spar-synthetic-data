@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+* Mary started with 72 mystery books at the beginning of the year.
+* She joined a book club that sent her 1 book each month of the year, so that's 12 additional books.
+* Halfway through the year, she bought 5 more books at a bookstore.
+* Later, she bought 2 more books at yard sales.
+* Her daughter gave her 1 book for her birthday.
+* Her mother gave her a series of 4 books when Mary visited her.
+* She donated 12 books to a charity shop.
+* She sold 3 books to a used book store.
+
+Now, let's calculate the total number of books she had at the end of the year:
+* Starting books: 72
+* Books from book club: 72 + 12 = 84
+* Books from bookstore: 84 + 5 = 89
+* Books from yard sales: 89 + 2 = 91
+* Book from daughter: 91 + 1 = 92
+* Books from mother: 92 + 4 = 96
+* Books donated: 96 - 12 = 84
+* Books sold: 84 - 3 = 81
+
+Answer: 81 books

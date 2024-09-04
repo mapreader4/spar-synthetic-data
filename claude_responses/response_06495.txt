@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Bart gets 75 pieces of firewood from each tree he cuts down
+* Bart burns 5 logs per day
+* The time period is from November 1 through February 28
+* To calculate the number of days in this time period:
+  - November has 30 days
+  - December has 31 days
+  - January has 31 days
+  - February has 28 days
+* Total number of days = 30 + 31 + 31 + 28 = 120 days
+* Bart burns 5 logs per day, so the total number of logs he burns is 5 * 120 = 600 logs
+* Since each tree gives him 75 pieces of firewood, the number of trees he needs to cut down is:
+  - 600 logs / 75 logs per tree = 8 trees
+
+Answer: 8

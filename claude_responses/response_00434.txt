@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Calvin has gotten 8 haircuts so far
+* He needs 2 more haircuts to reach his goal
+* To calculate the percentage towards his goal, we need to find the total number of haircuts required and then calculate the percentage of that total that he has already completed
+
+The total number of haircuts required is:
+* 8 haircuts (already completed) + 2 more haircuts (needed) = 10 total haircuts
+
+Now, to calculate the percentage:
+* Calvin has completed 8 out of the 10 total haircuts
+* 8 / 10 = 0.8
+* 0.8 * 100 = 80%
+
+Therefore, Calvin is 80% towards his goal.
+
+Answer: 80

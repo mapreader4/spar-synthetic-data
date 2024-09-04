@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jerry sweeps up 20 amber pieces and 35 green pieces.
+2) The green pieces are 25% of the total glass he sweeps up.
+3) Let's call the total number of pieces he sweeps up "x".
+4) Since the green pieces are 25% of the total, we can say that 35 = 0.25x.
+5) Solving for x, we get x = 35 / 0.25 = 140.
+6) Now we know the total number of pieces he swept up is 140.
+7) We also know he swept up 20 amber pieces and 35 green pieces.
+8) To find the number of clear pieces, we subtract the amber and green pieces from the total:
+140 - 20 - 35 = 85.
+
+Answer: 85

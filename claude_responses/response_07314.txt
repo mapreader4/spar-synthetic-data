@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The chef can get 25 fries out of 1 potato.
+2) The chef has 15 potatoes.
+3) The chef needs 200 fries.
+4) To calculate the number of fries the chef can make with 15 potatoes, we multiply 15 (the number of potatoes) by 25 (the number of fries per potato): 15 * 25 = 375 fries.
+5) Since the chef needs 200 fries, and he can make 375 fries, he will have 375 - 200 = 175 fries leftover.
+6) To calculate the number of potatoes leftover, we divide the number of fries leftover (175) by the number of fries per potato (25): 175 / 25 = 7 potatoes.
+
+Answer: 7 potatoes.

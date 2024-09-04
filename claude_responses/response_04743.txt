@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) Mike changes all the tires on 12 motorcycles.
+2) Each motorcycle has 2 tires.
+3) So for the 12 motorcycles, he changed 12 * 2 = 24 tires.
+4) Mike also changes all the tires on 10 cars.
+5) Each car has 4 tires.
+6) So for the 10 cars, he changed 10 * 4 = 40 tires.
+7) To get the total number of tires changed, we add the tires changed for the motorcycles and the cars:
+24 + 40 = 64.
+
+Answer: 64

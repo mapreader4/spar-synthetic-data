@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Bill's take-home salary is $40,000
+* He pays $2,000 in property taxes
+* He pays $3,000 in sales taxes
+* He pays 10% of his gross salary in income taxes
+
+To find his gross salary, we need to work backwards from his take-home salary.
+
+First, we need to calculate the income taxes he pays:
+* 10% of his gross salary = income taxes
+* Let's call his gross salary 'x'
+* Income taxes = 0.10 * x = $4,000
+
+Now we can calculate his total deductions:
+* Property taxes = $2,000
+* Sales taxes = $3,000
+* Income taxes = $4,000
+* Total deductions = $2,000 + $3,000 + $4,000 = $9,000
+
+Finally, we can calculate his gross salary:
+* Take-home salary = Gross salary - Total deductions
+* $40,000 = Gross salary - $9,000
+* Gross salary = $40,000 + $9,000 = $49,000
+
+Answer: $49,000

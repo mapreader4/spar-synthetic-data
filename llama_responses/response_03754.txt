@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+A tiger shark has 180 teeth.
+
+A hammerhead shark has 1/6 the number of teeth of a tiger shark. So, the number of teeth of a hammerhead shark is 180 / 6 = 30.
+
+A great white shark has double the sum of teeth of a tiger shark and a hammerhead shark. To find the sum of the teeth of a tiger shark and a hammerhead shark, we need to add the number of teeth of the tiger shark (180) and the number of teeth of the hammerhead shark (30). The sum is 180 + 30 = 210.
+
+So, the number of teeth of a great white shark is double the sum of teeth of a tiger shark and a hammerhead shark, which is 2 * 210 = 420.
+
+Answer: 420

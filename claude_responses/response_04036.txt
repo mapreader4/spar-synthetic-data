@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+* Marjorie makes twice as many cakes each day as she did the day before
+* On the sixth day, she makes 320 cakes
+* Let's work backwards to find the number of cakes she made on the first day
+* On the sixth day, she made 320 cakes
+* On the fifth day, she made 160 cakes (half of 320)
+* On the fourth day, she made 80 cakes (half of 160)
+* On the third day, she made 40 cakes (half of 80)
+* On the second day, she made 20 cakes (half of 40)
+* On the first day, she made 10 cakes (half of 20)
+
+Answer: 10

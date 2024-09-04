@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, let's find the number of times the temperature drops below 32 degrees. Since the temperature is 8 degrees, it's already below 32 degrees. To find the number of times it drops below 32 degrees, we can subtract 32 from 8, which gives us -24.
+
+Since we're subtracting a negative number, it means the temperature is actually 24 degrees above 32 degrees. Since the temperature drops 3 degrees below 32 degrees for every 5% increase in the chance of skidding, we can divide -24 by 3 to find the number of times the temperature drops below 32 degrees:
+
+-24 ÷ 3 = -8
+
+Since we're dealing with a negative number, it means the temperature actually drops 8 times below 32 degrees. This means the chance of skidding increases by 8 x 5% = 40%.
+
+The initial chance of skidding is 0%, and it increases by 40%. So, the new chance of skidding is:
+
+0% + 40% = 40%
+
+Now, if Annie goes into a skid, she has a 40% chance of regaining control. So, the chance of her having a serious accident is:
+
+1 - 40% = 60%
+
+Since she has a 60% chance of not regaining control, the percentage chance of her getting into a serious accident is:
+
+60%
+
+Answer: 60

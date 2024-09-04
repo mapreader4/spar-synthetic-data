@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the number of NYC residents who are college students. We know that half of the 200 visitors are NYC residents, so the number of NYC residents who are college students is:
+
+200 / 2 = 100
+
+So, there are 100 NYC residents who are college students.
+
+We know that 30% of these 100 are college students are college students, so we can find 0.3 * 100 = 30 college students.
+
+The cost of a college student ticket is $4. To find the total amount of money the museum gets from college students, we multiply the number of college students by the cost of the ticket:
+
+30 * 4 = 120
+
+So, the museum gets $120 from college students who are residents of NYC.
+
+Answer: 120

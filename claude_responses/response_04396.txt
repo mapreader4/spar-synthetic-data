@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+1. The forest is a rectangle measuring 4 miles by 6 miles.
+2. Each square mile has 600 trees.
+3. So the total number of trees in the forest is:
+   * 4 miles x 6 miles = 24 square miles
+   * 24 square miles x 600 trees per square mile = 14,400 trees
+4. One logger can cut down 6 trees per day.
+5. There are 8 loggers.
+6. So the total number of trees cut down per day is:
+   * 8 loggers x 6 trees per day = 48 trees per day
+7. There are 30 days in each month.
+8. So the number of trees cut down per month is:
+   * 48 trees per day x 30 days = 1,440 trees per month
+9. To find the number of months it will take to cut down all 14,400 trees, we divide 14,400 by 1,440:
+   * 14,400 trees / 1,440 trees per month = 10 months
+
+Answer: 10 months

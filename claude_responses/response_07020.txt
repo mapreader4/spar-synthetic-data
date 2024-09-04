@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Emberly takes a walk every day
+* Each walk takes her 1 hour and covers 4 miles
+* She didn't walk for 4 days in March
+
+To calculate the total number of miles she walked, we need to:
+1. Calculate the number of days she walked in March
+* There are 31 days in March
+* She didn't walk for 4 days
+* So, she walked for 31 - 4 = 27 days
+
+2. Calculate the total number of miles she walked
+* Each walk is 4 miles
+* She walked for 27 days
+* So, the total number of miles she walked is 27 * 4 = 108 miles
+
+Answer: 108

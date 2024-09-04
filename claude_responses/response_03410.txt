@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Suzie and 5 of her friends are renting the Airbnb, so there are 6 people total.
+* The rental is for 4 days, from Thursday to Sunday.
+* The weekday rental rate is $420 per day.
+* The weekend rental rate is $540 per day.
+* To calculate the total cost:
+** Thursday and Friday (2 weekdays) = 2 * $420 = $840
+** Saturday and Sunday (2 weekend days) = 2 * $540 = $1,080
+** Total cost = $840 + $1,080 = $1,920
+* To split the cost evenly among the 6 people, we divide the total cost by 6:
+** $1,920 / 6 = $320
+
+Answer: $320

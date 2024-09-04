@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+* We know that a single chocolate bar weighs 125 g.
+* We also know that the shopkeeper has received a 2 kilogram box of chocolate.
+* To convert 2 kilograms to grams, we multiply 2 by 1000, since 1 kilogram = 1000 grams.
+* 2 kilograms = 2 * 1000 = 2000 grams.
+* To find the number of chocolate bars, we divide the total weight of the box (2000 g) by the weight of a single bar (125 g).
+* 2000 g / 125 g = 16 chocolate bars.
+
+Answer: 16

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many stickers Andrew gave away.
+
+Daniel received 250 stickers, so that's 250 stickers taken away from the 750 total stickers Andrew had.
+
+Fred received 120 more stickers than Daniel. So, Fred received 120 + 250 = 370 stickers.
+
+Andrew kept the remaining stickers, which is 750 - 250 - 370 = 380.
+
+Answer: 380

@@ -1,0 +1,14 @@
+Let's break this problem down step by step:
+
+1. Genevieve has written 4300 lines of code.
+2. She debugs every 100 lines of code.
+3. Each debugging session finds 3 errors.
+4. Genevieve fixes each error.
+
+To find the total number of errors fixed, we can multiply the number of errors found in each debugging session by the number of debugging sessions.
+
+Number of debugging sessions = 4300 lines of code / 100 lines per session = 43
+Number of errors per debugging session = 3
+Total number of errors fixed = 43 * 3 = 129
+
+Answer: 129

@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start with the distance Karen bikes from her home to the library. The problem doesn't give us the exact distance, but it tells us that she bikes back to her home from the library. This means that the distance to her home is twice the distance from her home to the library.
+
+Let's call the distance from her home to the library "d". So, we can write the equation:
+
+d + d = total distance
+
+Since there are 400 books on four shelves, we know that the total distance is equal to 400 * 4 = 1600.
+
+So, the distance to her home is half of the total distance:
+
+d = 1600 / 2
+d = 800
+
+So, Karen bikes 800 miles from her home to the library and back. Therefore, the total distance she covers is:
+
+Answer: 800

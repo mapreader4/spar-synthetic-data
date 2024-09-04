@@ -1,0 +1,10 @@
+Let's start by calculating the total cost of the items Mark is buying:
+
+6 cans of soup at 2$ each = 6 x 2 = 12$
+2 loaves of bread at 5$ each = 2 x 5 = 10$
+2 boxes of cereal at 3$ each = 2 x 3 = 6$
+2 gallons of milk at 4$ each = 2 x 4 = 8$
+
+The total cost is 12 + 10 + 6 + 8 = 36$
+
+Since Mark has only $10 in his wallet, he needs to use at least 4 $10 bills to pay for the groceries.

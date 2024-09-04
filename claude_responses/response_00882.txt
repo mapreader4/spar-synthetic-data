@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The front wheel has 20 spokes
+* The back wheel has twice as many spokes as the front wheel
+* To find the number of spokes on the back wheel, we multiply the number of spokes on the front wheel by 2:
+* 20 spokes x 2 = 40 spokes on the back wheel
+* To find the total number of spokes on the bicycle, we add the number of spokes on the front wheel and the number of spokes on the back wheel:
+* 20 spokes + 40 spokes = 60 spokes
+
+Answer: 60

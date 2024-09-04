@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who are walking home.
+
+We know that 20 students ride the school bus home together, so they are not walking home.
+
+We also know that 5/8 of the remaining students ride their own bike home. To find the number of students who are not riding a bike, we subtract 20 from the total number of students, 92, and then multiply the result by 5/8. This gives us:
+
+(92 - 20) * (5/8) = 55
+
+So, 55 students are not riding a bike.
+
+Now, we know that the total number of students is 92, and 20 are riding the school bus home, and 55 are not riding a bike. To find the number of students who are walking home, we subtract 20 and 55 from the total number of students, 92:
+
+92 - 20 - 55 = 17
+
+Answer: 17

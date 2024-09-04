@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Lucy can jump the rope 1 time per second
+* Each song on the album is 3.5 minutes long
+* There are 10 songs on the album
+
+First, we need to calculate the total duration of the album:
+* 10 songs x 3.5 minutes per song = 35 minutes
+
+Now, we need to convert the total duration from minutes to seconds:
+* 35 minutes x 60 seconds per minute = 2,100 seconds
+
+Since Lucy can jump the rope 1 time per second, the number of times she will jump rope is equal to the total number of seconds in the album:
+* 2,100 seconds
+
+Answer: 2,100

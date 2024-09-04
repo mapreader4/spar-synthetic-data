@@ -1,0 +1,9 @@
+Let's start by identifying the number of ounces of cat food Mrs. Anderson bought. Each bag of cat food weighs 3 pounds, and there are 16 ounces in each pound. So, the number of ounces of cat food in each bag is 3 x 16 = 48 ounces.
+
+Now, let's calculate the total number of ounces of cat food. She bought 2 bags of cat food, which is 48 x 2 = 96 ounces.
+
+Next, we need to calculate the number of ounces of dog food. Each bag of dog food weighs 2 pounds, which is 2 more pounds than each bag of cat food. So, each bag of dog food weighs 2 x 16 = 32 ounces.
+
+The number of ounces of dog food is 32. Since there are 2 bags of dog food, the total number of ounces of dog food is 32 x 2 = 64 ounces.
+
+In total, Mrs. Anderson bought 96 ounces of cat food and 64 ounces of dog food, which is 96 + 64 = 160 ounces of pet food.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Mindy has 7 less than 9 times as many emails as phone messages.
+2) Let's say the number of phone messages is x.
+3) Then the number of emails is 9x - 7.
+4) The total number of emails and phone messages is 93.
+5) So we can write the equation: x + (9x - 7) = 93
+6) Simplifying, we get: 10x - 7 = 93
+7) Solving for x, we get: 10x = 100, so x = 10.
+8) Therefore, the number of emails is 9x - 7 = 9(10) - 7 = 83.
+
+Answer: 83

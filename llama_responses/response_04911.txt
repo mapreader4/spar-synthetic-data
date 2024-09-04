@@ -1,0 +1,31 @@
+Let's break down the problem step by step:
+
+1. First, we need to find out how many pounds Ajax will lose in one hour of exercise. Since he loses 1.5 pounds in one hour, and 1 kilogram is equal to 2.2 pounds, we can set up a proportion to find the pounds lost in one hour:
+
+1 kilogram = 2.2 pounds
+
+We can set up a proportion to solve for the pounds lost in one hour:
+
+1 kg / 2.2 pounds = x pounds/hour
+
+To solve for x, we can cross-multiply:
+
+x = 1 kg * 2.2 pounds / 1
+
+x = 2.2 pounds
+
+So, Ajax loses 2.2 pounds in one hour.
+
+2. Now, we need to find out how many pounds Ajax will lose in two hours of exercise. Since he exercises for 2 hours, we can multiply the pounds lost in one hour by 2:
+
+2 hours * 2.2 pounds/hour =?
+
+2 * 2.2 = 4.4 pounds
+
+3. Next, we need to find out how many pounds Ajax will lose in two weeks. Since he exercises for 2 hours every day, and there are 14 days in two weeks, we can multiply the pounds lost in two hours by 14:
+
+4.4 pounds * 14 =?
+
+4.4 * 14 = 61.6 pounds
+
+Answer: 61

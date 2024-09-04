@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's say the first number is x.
+
+The second number is twice the first number, so it is 2x.
+
+The sum of the two numbers is 33, so we can set up the equation:
+
+x + 2x = 33
+
+We can subtract x from both sides of the equation to get:
+
+x = 33 - 2x
+
+To solve for x, we can divide both sides by 1:
+
+x = (33 - 2x) / 1
+
+x = 33 - 2x
+
+x = 33 / 2
+
+x = 16.5
+
+So, the second number is 16.5.

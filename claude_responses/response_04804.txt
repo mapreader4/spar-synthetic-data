@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Isabela bought twice as many cucumbers as pencils
+* Both cucumbers and pencils cost $20 each
+* She got a 20% discount on the pencils
+* She bought 100 cucumbers
+
+First, let's calculate the number of pencils she bought:
+* Since she bought twice as many cucumbers as pencils, the number of pencils is half the number of cucumbers
+* She bought 100 cucumbers, so the number of pencils is 100 / 2 = 50 pencils
+
+Next, let's calculate the cost of the cucumbers:
+* She bought 100 cucumbers at $20 each, so the total cost of the cucumbers is 100 * $20 = $2,000
+
+Now, let's calculate the cost of the pencils:
+* She got a 20% discount on the pencils, so the discounted price is $20 * (1 - 0.20) = $16 per pencil
+* She bought 50 pencils, so the total cost of the pencils is 50 * $16 = $800
+
+Finally, to calculate the total amount she spent, we add the cost of the cucumbers and the cost of the pencils:
+* Total amount spent = $2,000 + $800 = $2,800
+
+Answer: $2,800

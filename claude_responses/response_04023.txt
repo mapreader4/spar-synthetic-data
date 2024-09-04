@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each yogurt is topped with 8 banana slices
+* One banana will yield 10 slices
+* Vivian needs to make 5 yogurts
+
+First, we need to find the total number of banana slices needed for 5 yogurts:
+* 8 slices per yogurt x 5 yogurts = 40 banana slices
+
+Next, we need to find how many bananas are required to get 40 banana slices:
+* 1 banana yields 10 slices
+* 40 slices / 10 slices per banana = 4 bananas
+
+Therefore, Vivian needs to buy 4 bananas to make 5 yogurts.
+
+Answer: 4

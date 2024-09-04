@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Initially, Carter has 20 green M&Ms and 20 red M&Ms in the jar.
+* Carter eats 12 of the green M&Ms, so now there are 20 - 12 = 8 green M&Ms left.
+* His sister eats half of the 20 red M&Ms, which is 10 red M&Ms, leaving 10 red M&Ms.
+* His sister then adds 14 yellow M&Ms to the jar.
+* So now the jar contains:
+    - 8 green M&Ms
+    - 10 red M&Ms
+    - 14 yellow M&Ms
+* The total number of M&Ms in the jar is 8 + 10 + 14 = 32.
+* To calculate the percentage chance of getting a green M&M, we divide the number of green M&Ms (8) by the total number of M&Ms (32) and multiply by 100.
+
+Answer: 25

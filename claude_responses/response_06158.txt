@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The total amount of money that Joseph pays for the energy used by the refrigerator is three times the amount he pays for the power used by the water heater.
+   Let's represent the amount Joseph pays for the power used by the water heater as 'x'.
+   Then, the amount Joseph pays for the power used by the refrigerator is 3x.
+
+2. The electric oven uses power worth $500 in a month, which is twice what Joseph pays for the power the water heater uses.
+   So, the amount Joseph pays for the power used by the water heater is $500 / 2 = $250.
+   This means that 'x' = $250.
+
+3. Now, we can calculate the total amount Joseph pays for the power used by these gadgets:
+   - Power used by the water heater: $250
+   - Power used by the refrigerator: 3 x $250 = $750
+   - Power used by the electric oven: $500
+
+   Total amount paid = $250 + $750 + $500 = $1,500
+
+Answer: $1,500

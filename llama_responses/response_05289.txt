@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, let's find out how many papers John is supposed to deliver in total. He doesn't deliver them for 10 weeks, and he delivers 250 papers a day. So, the total number of papers is:
+
+250 papers/day * 7 days/week * 10 weeks = 1750 papers
+
+Now, let's calculate the total weight of the papers. The Monday-Saturday papers weigh 8 ounces each, and the Sunday paper weighs twice as much, which is 16 ounces. The total weight of a week's worth of papers is:
+
+(6 * 8) + 16 = 64 ounces/week
+
+John delivers 1750 papers in 10 weeks, so the total weight of all the papers is:
+
+1750 papers * 64 ounces/papers * 10 weeks = 112000 ounces
+
+Now, one ton is equal to 20000 ounces, so we need to convert the total weight to tons:
+
+112000 ounces / 20000 ounces/ton = 5.6 tons
+
+Finally, one ton of paper recycles for $20, so John made:
+
+5.6 tons * 20 = 112
+
+Answer: 112

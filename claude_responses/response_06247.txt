@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The box can hold 40 pounds of cookies
+* Each cookie weighs 2 ounces
+* We need to convert the weight limit of the box from pounds to ounces
+* 1 pound = 16 ounces
+* 40 pounds = 40 * 16 = 640 ounces
+* Each cookie weighs 2 ounces
+* So the maximum number of cookies that can fit in the box is 640 ounces / 2 ounces per cookie = 320 cookies
+
+Answer: 320

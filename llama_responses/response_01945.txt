@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by listing the items Diego can buy:
+
+1. A pound of watermelon
+2. A pound of grapes
+3. A pound of oranges
+
+Next, we need to find the total number of pounds of fruit Diego can buy. Let's add the pounds of each item:
+
+1 pound of watermelon + 1 pound of grapes + 1 pound of oranges = 1 + 1 + 1 = 3 pounds
+
+So, Diego can buy 3 pounds of fruit in total.

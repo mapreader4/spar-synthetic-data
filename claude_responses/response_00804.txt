@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The zoo has 16 pandas
+* The pandas are paired into mates, so there are 8 panda couples
+* Only 25% of the panda couples get pregnant after mating
+* If the pregnant couples each have one baby, we need to calculate how many babies are born
+
+First, we need to calculate how many panda couples get pregnant:
+* 25% of 8 couples = 0.25 * 8 = 2 couples
+
+Since each pregnant couple has one baby, the total number of panda babies born is:
+* 2 babies
+
+Answer: 2

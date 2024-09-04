@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There were 250 balloons in the package.
+2) Dante evenly shared the balloons among his 5 friends. To find how many balloons each friend received, we divide 250 by 5: 250 / 5 = 50 balloons per friend.
+3) Dante then asked each of his 5 friends to give him 11 balloons back. So each friend gave Dante 11 balloons.
+4) To find how many balloons each friend has now, we start with the 50 balloons they originally received, and subtract the 11 balloons they gave back to Dante.
+5) 50 balloons - 11 balloons = 39 balloons per friend.
+
+Answer: 39

@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+Let's start by identifying the pattern in the pattern. 6 books the first week, 3 books the second week, and 9 books every week after that.  This tells us that the pattern is adding 3 books each week.  So, the number of books read in each week is increasing by 3.
+
+Let's find the total number of books read in the first 4 weeks.  The first week, 6 books, the second week, 3 books, and the third week, 6 + 3 books, the fourth week, 6 + 3 + 3 books, the fifth week, 6 + 3 + 3 + 3 books, the sixth week, 6 + 3 + 3 + 3 + 3 books.  This is 24 books in total.
+
+The pattern continues, adding 3 books each week, so the total number of books read in the 7th week will be 24 + 3, the 8th week, 24 + 3 + 3, the 9th week, 24 + 3 + 3 + 3, the 10th week, 24 + 3 + 3 + 3 + 3 books.
+
+The series has 54 books total.  It took Cody 10 weeks to read his series.

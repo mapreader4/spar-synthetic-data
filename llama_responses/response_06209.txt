@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Initially, Gilbert had 3 basil bushes, 1 parsley plant, and 2 mint plants.
+
+The basil plant dropped seeds and made an extra basil plant, so now Gilbert has 4 basil plants.
+
+The rabbit ate all the mint, so Gilbert lost 2 mint plants.
+
+So, Gilbert had 3 basil plants, 1 parsley plant, and 0 mint plants. This is a total of 4 plants.
+
+Answer: 4

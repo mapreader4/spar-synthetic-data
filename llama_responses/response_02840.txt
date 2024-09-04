@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total number of wheels. Since each car has 5 wheels and each motorcycle has 2 wheels, we can find the total number of wheels by multiplying the number of cars by 5 and the number of motorcycles by 2. The total number of wheels is 19 * 5 = 95 (for the cars) + 2 * 19 (for the motorcycles) = 95 + 38 = 133.
+
+Since each motorcycle has 2 wheels, the number of motorcycles can be found by dividing the total number of wheels by 2. 133 divided by 2 = 66.66... = 66.
+
+Since we can't have a fraction of a motorcycle, we round down to the nearest whole number, which is 66.
+
+Answer: 66

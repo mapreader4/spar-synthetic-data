@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Karlee has 100 grapes
+2) She has 3/5 as many strawberries as grapes
+* To calculate the number of strawberries, we take 3/5 of 100 grapes
+* 3/5 of 100 = 60 strawberries
+3) Karlee gives 1/5 of each fruit to each of her two friends, Giana and Ansley
+* 1/5 of 100 grapes = 20 grapes per friend
+* 1/5 of 60 strawberries = 12 strawberries per friend
+4) So in total, Karlee gave away:
+* 20 grapes x 2 friends = 40 grapes
+* 12 strawberries x 2 friends = 24 strawberries
+5) To calculate the total number of fruits Karlee has left:
+* Grapes left = 100 - 40 = 60 grapes
+* Strawberries left = 60 - 24 = 36 strawberries
+6) The total number of fruits Karlee has left is:
+* 60 grapes + 36 strawberries = 96 fruits
+
+Answer: 96

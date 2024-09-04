@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) A year ago, the total cost of buying a lawnmower was 2/5 times less than the cost it goes for now.
+2) This means that the current cost of the lawnmower is 2/5 more than the cost a year ago.
+3) The cost a year ago was $1800.
+4) To find the current cost of the lawnmower, we can use the following equation:
+   Current cost = Cost a year ago + (2/5 * Cost a year ago)
+   Current cost = $1800 + (2/5 * $1800)
+   Current cost = $1800 + $720
+   Current cost = $2520
+5) Now, to find the total cost for Mr. Lucian to buy 4 such lawnmowers, we multiply the current cost by 4:
+   Total cost = $2520 * 4
+   Total cost = $10,080
+
+Answer: $10,080

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Timothy has $50 to spend at the souvenir shop
+* T-shirts cost $8 each, and Timothy buys 2 of them
+* So the cost of the 2 t-shirts is 2 * $8 = $16
+* Bags cost $10 each, and Timothy buys 2 of them
+* So the cost of the 2 bags is 2 * $10 = $20
+* The total cost of the t-shirts and bags is $16 + $20 = $36
+* Key chains sell 3 pieces for $2
+* Timothy has $50 - $36 = $14 left to spend
+* Since key chains sell 3 pieces for $2, we can divide $14 by $2 to get the number of sets of 3 key chains he can buy
+* $14 / $2 = 7 sets of 3 key chains
+* Therefore, Timothy can buy 7 * 3 = 21 pieces of key chains with the amount of money he has left.
+
+Answer: 21

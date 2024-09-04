@@ -1,0 +1,10 @@
+Let's break down the problem step by step.
+
+1. There are 52 cards in a standard deck of cards.
+2. There are 4 hearts on a card.
+3. So, the number of hearts is 4 * 52 = 208.
+4. The cows are sold at $200 each.
+5. To find the total cost, multiply the number of cows by the cost of each cow.
+6. The total cost is 208 * 200 = 41,600.
+
+Answer: 41,600

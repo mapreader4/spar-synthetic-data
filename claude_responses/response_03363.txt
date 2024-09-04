@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+* Joseph has socks in 4 colors: red, blue, black, and white
+* He has 3 more pairs of blue socks than pairs of black socks
+* He has 1 less pair of red socks than pairs of white socks
+* He has twice as many blue socks as red socks
+* He has a total of 6 red socks
+
+First, let's find the number of red socks:
+* Since he has 6 red socks, and each pair has 2 socks, he has 3 pairs of red socks.
+
+Next, let's find the number of white socks:
+* He has 1 less pair of red socks than pairs of white socks
+* So if he has 3 pairs of red socks, he must have 4 pairs of white socks
+
+Now, let's find the number of blue socks:
+* He has twice as many blue socks as red socks
+* Since he has 3 pairs of red socks, he must have 6 pairs of blue socks
+
+Finally, let's find the number of black socks:
+* He has 3 more pairs of blue socks than pairs of black socks
+* Since he has 6 pairs of blue socks, he must have 3 pairs of black socks
+
+Now we can calculate the total number of socks:
+* 3 pairs of red socks = 6 red socks
+* 4 pairs of white socks = 8 white socks
+* 6 pairs of blue socks = 12 blue socks
+* 3 pairs of black socks = 6 black socks
+* Total socks = 6 + 8 + 12 + 6 = 32
+
+Answer: 32

@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say there are $x$ cats in the neighborhood initially. Since there are half as many dogs as cats, there must be $x/2$ dogs initially.
+
+Then, 20 new dogs were born. So, the number of dogs increased by 20.
+
+Let's let $y$ be the current number of dogs. We know that there are twice as many dogs as cats, so $y=2x$.
+
+We know that $y=x/2+20$ because 20 dogs were added.
+
+We can write an equation to represent this situation: $y=x/2+20=x$.
+
+We can subtract 20 from both sides of the equation to get $y-20=x$.
+
+We know that $y=2x$ and $y=x/2+20=x$, so we can substitute $y$ for $x$ in the equation $y-20=x$. This gives us the equation $2x-20=x$.
+
+We can add 20 to both sides of the equation to get $2x=20+20$. This simplifies to $2x=40$.
+
+We can divide both sides of the equation by 2 to get $x=20$.
+
+So, there were 20 cats in the neighborhood initially.

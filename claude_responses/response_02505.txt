@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The necklace is worth $34
+* Bob bought a book that is $5 more expensive than the necklace, so the book costs $34 + $5 = $39
+* Bob set a limit of $70 and decided not to spend more than that
+* To calculate the total amount Bob spent, we add the cost of the necklace ($34) and the cost of the book ($39):
+$34 + $39 = $73
+* Now, we need to calculate how much over the $70 limit Bob spent:
+$73 - $70 = $3
+
+Answer: $3

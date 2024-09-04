@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Taro and Vlad play a video game competition together
+* They earn 5 points for every win
+* They played 30 rounds in total
+* Taro scored 4 points less than 3/5 of the total points scored
+
+First, let's calculate the total points scored in the 30 rounds:
+* 30 rounds x 5 points per win = 150 total points
+
+Now, let's calculate 3/5 of the total points:
+* 3/5 of 150 = 90 points
+
+Taro scored 4 points less than 3/5 of the total points, so:
+* Taro's score = 90 - 4 = 86 points
+
+Now, we can calculate Vlad's score by subtracting Taro's score from the total points:
+* Vlad's score = 150 - 86 = 64 points
+
+Answer: 64

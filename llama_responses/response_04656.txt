@@ -1,0 +1,11 @@
+Let's start by identifying the total number of fruits Mary has.
+
+Mary has 14 apples, 9 oranges, and 6 blueberries, so the total number of fruits she has is:
+
+14 + 9 + 6 = 19
+
+Mary ate 1 of each fruit, so we need to subtract 1 from the total number of fruits.
+
+19 - 1 = 18
+
+So, Mary has 18 fruits left.

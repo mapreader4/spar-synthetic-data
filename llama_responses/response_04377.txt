@@ -1,0 +1,9 @@
+Let's start by identifying the information given in the problem. We know that Calen has 5 more pencils than Caleb, and Caleb has 3 less than twice as many pencils as Candy.
+
+Let's represent the number of pencils that Candy has as C. Since Caleb has 3 less than twice as many pencils as Candy, that means that Candy has 2 times as many pencils as Caleb, so Candy has 2C pencils.
+
+Since Calen has 5 more pencils than Caleb, we can represent the number of pencils that Calen has as C + 5. If Calen lost 10 pencils, which left him with 10 pencils, that means that C + 5 - 10 = 5, so C = 5.
+
+Now, we know that Candy has 2C pencils, and we know that C = 5, so Candy has 2 x 5 = 10 pencils.
+
+Answer: 10

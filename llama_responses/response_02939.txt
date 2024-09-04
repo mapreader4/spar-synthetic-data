@@ -1,0 +1,21 @@
+Let's think step by step.
+
+Let's start by identifying the information given in the problem. We know that Candy throws 4 pebbles into the lake. We also know that Lance throws in 3 times as many pebbles as Candy.
+
+Let's represent the number of pebbles Candy throws as C and the number of pebbles Lance throws as 3C. So, Lance throws 3C pebbles.
+
+To find the number of pebbles Lance throws compared to Candy, we need to subtract the number of pebbles Candy throws from the number of pebbles Lance throws. So, we need to calculate the difference between 3C and C.
+
+Let's write the equation: 3C - C.
+
+To solve for C, we need to divide both sides of the equation by 3. So, we get:
+
+3C - C = 2C.
+
+Now, we know that Candy throws 4 pebbles, so we can replace C with 4:
+
+2(4) = 8.
+
+So, Lance throws 8 more pebbles than Candy.
+
+Answer: 8

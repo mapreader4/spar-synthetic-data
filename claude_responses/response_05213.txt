@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jon can initially throw a fastball at 80 miles per hour (mph)
+* He goes through intense training 4 times, each for 4 weeks
+* At the end of the last training session, he can throw a ball 20% faster
+* We need to find the speed gain per week, assuming an equal amount of speed gained each week
+
+First, let's calculate the total speed gain:
+* Initial speed: 80 mph
+* Final speed: 80 mph + (80 mph * 0.20) = 96 mph
+* Total speed gain: 96 mph - 80 mph = 16 mph
+
+Now, to find the speed gain per week, we divide the total speed gain by the total number of weeks:
+* Total number of weeks: 4 weeks * 4 sessions = 16 weeks
+* Speed gain per week: 16 mph / 16 weeks = 1 mph per week
+
+Therefore, the speed gain per week is:
+Answer: 1 mph

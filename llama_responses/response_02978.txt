@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the original price of one shirt. Since James bought 3 shirts for $60, the price of one shirt is $60 / 3 = $20.
+
+Now, there is a 40% off sale. To find the amount of discount, we multiply the original price by 40%: 20 * 0.4 = $8.
+
+To find the final price, we subtract the discount from the original price: $20 - $8 = $12.
+
+Answer: 12

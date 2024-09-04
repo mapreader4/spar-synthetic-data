@@ -1,0 +1,3 @@
+Let's start by finding the total number of leaves on each fern. Each fern has 7 fronds, and each frond has 30 leaves, so each fern has 7 x 30 = 210 leaves. There are 6 ferns, so the total number of leaves is 6 x 210 = 1260. 
+
+Answer: 1260

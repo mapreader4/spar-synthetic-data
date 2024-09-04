@@ -1,0 +1,33 @@
+Let's break down the information given in the problem.
+
+We know that Mickey's number is greater than Jayden's number by exactly 20.
+
+Let's say Jayden's number is x. Then, Mickey's number is x + 20.
+
+We also know that Jayden's number is 40 less than Coraline's number. So, Coraline's number is x + 40.
+
+We know that Coraline's number is 80.
+
+We can set up an equation to represent this information:
+
+x + 40 = 80
+
+We can subtract 40 from both sides of the equation to get:
+
+x = 40
+
+Now we know that Jayden's number is 40.
+
+We can now find Mickey's number by adding 20 to Jayden's number:
+
+Mickey's number = Jayden's number + 20
+= 40 + 20
+= 60
+
+So, the total of the numbers they have is:
+
+Jayden's number + Mickey's number
+= 40 + 60
+= 100
+
+Answer: 100

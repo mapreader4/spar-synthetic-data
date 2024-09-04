@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) We know that there are 36 legs tangled up in leashes.
+2) Each dog has 4 legs.
+3) Mariel is walking a pack of dogs, and the other dog walker has 3 dogs.
+4) So the total number of dogs tangled up is the number of Mariel's dogs plus 3.
+5) Let's call the number of Mariel's dogs x.
+6) Then the total number of legs is 4x + 12 (4 legs for Mariel's dogs, and 12 legs for the other 3 dogs).
+7) We know the total number of legs is 36, so we can set up an equation:
+4x + 12 = 36
+8) Solving for x, we get:
+4x = 24
+x = 6
+9) Therefore, Mariel is walking 6 dogs.
+
+Answer: 6

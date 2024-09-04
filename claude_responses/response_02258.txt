@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Dan has two times as many stickers as Tom.
+2) Tom has 3 times as many stickers as Bob.
+3) Bob has 12 stickers.
+4) Since Tom has 3 times as many stickers as Bob, and Bob has 12 stickers, then Tom has 3 * 12 = 36 stickers.
+5) Since Dan has two times as many stickers as Tom, and Tom has 36 stickers, then Dan has 2 * 36 = 72 stickers.
+
+Answer: 72

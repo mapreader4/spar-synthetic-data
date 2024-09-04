@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The publishing house is awarding a total of $800 in prizes
+* There are 18 novels that will receive prizes
+* The first place winner will receive $200
+* The second place winner will receive $150
+* The third place winner will receive $120
+* The remaining 15 prizes will be awarded with the same amount of money
+
+To calculate the amount each writer will earn from fourth place onwards, we need to first calculate the total amount of money awarded to the top 3 places:
+* $200 + $150 + $120 = $470
+
+Now, we can calculate the remaining amount of money to be awarded to the other 15 writers:
+* $800 - $470 = $330
+
+Since the remaining 15 prizes will be awarded with the same amount of money, we can divide the remaining $330 by 15 to get the amount each writer will earn from fourth place onwards:
+* $330 / 15 = $22
+
+Answer: $22

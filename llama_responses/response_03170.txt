@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+The first lock stalls the raccoons for 5 minutes. The next lock stalls them for 3 minutes less than three times as long as the first lock, which means it stalls them for 5 - 3 * 3 = 9 minutes.
+
+When Karen tries both locks at once, it stalls the raccoons for five times as long as the second lock alone. The second lock stalls them for 9 minutes, so it stalls them for 9 * 5 = 45 minutes.
+
+So, the answer is:
+
+Answer: 45

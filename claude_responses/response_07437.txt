@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* They sold 100 single pieces, each with 1 circle, so that's 100 circles
+* They sold 45 double pieces, each with 2 circles, so that's 45 * 2 = 90 circles
+* They sold 50 triple pieces, each with 3 circles, so that's 50 * 3 = 150 circles
+* They sold an unknown number of quadruple pieces, each with 4 circles
+
+The total number of circles sold is 100 + 90 + 150 + (number of quadruple pieces * 4)
+They earned $5 each, so the total amount earned is $10
+
+We can set up an equation:
+100 + 90 + 150 + (number of quadruple pieces * 4) = 1000 (since each circle is worth 1 cent)
+
+Solving for the number of quadruple pieces:
+340 + (number of quadruple pieces * 4) = 1000
+(number of quadruple pieces * 4) = 1000 - 340
+number of quadruple pieces = (1000 - 340) / 4
+number of quadruple pieces = 165
+
+Answer: 165

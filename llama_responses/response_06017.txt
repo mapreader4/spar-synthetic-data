@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's start with the given information:
+
+* Stephen made 10 round trips.
+* Each trip is up and down, so the total distance covered on each trip is 40,000 feet * 2 = 80,000 feet.
+* He reached 3/4 of the mountain's height on each trip.
+
+Let's assume the mountain's height is h. Then, 3/4h is the height he reached on each trip.
+
+We can set up an equation to represent the total distance:
+
+10 trips * 80,000 feet * 3/4h = total distance
+
+To solve for the total distance, we can multiply 10 * 80,000 by 3/4, which is the same as multiplying 10 by 20,000 and then multiplying the result by 3. This gives us:
+
+10 * 20,000 * 3 = 60,000
+
+So, the total distance Stephen covered is 60,000 feet.
+
+Answer: 60000

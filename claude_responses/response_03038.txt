@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The Starship Conundrum traveled from Planet X to Planet Y.
+* The distance between these two planets is 4,000 parsecs.
+* The travel time was eight hours less than twice the number of hours in a typical earth day.
+* To find the average speed, we need to divide the distance traveled by the time taken.
+
+First, let's find the time taken for the voyage:
+* A typical earth day has 24 hours.
+* Twice the number of hours in a typical earth day is 2 * 24 = 48 hours.
+* The travel time was 8 hours less than 48 hours, so the travel time was 48 - 8 = 40 hours.
+
+Now, we can calculate the average speed:
+* Distance traveled = 4,000 parsecs
+* Time taken = 40 hours
+* Average speed = Distance / Time = 4,000 parsecs / 40 hours = 100 parsecs per hour
+
+Answer: 100 parsecs per hour

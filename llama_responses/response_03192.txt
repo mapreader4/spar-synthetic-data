@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of blocks of stone that Clara has climbed. We know that she has climbed 96 blocks of stone.
+
+Since each level has 8 steps, and each step is made up of 3 blocks of stone, we can calculate the number of levels as follows:
+
+96 blocks of stone / 3 blocks per step = 96 / 3 = 32 levels
+
+So, there are 32 levels in the tower.

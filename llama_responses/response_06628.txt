@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of paintings each group of customers bought.
+
+* 4 customers bought 2 paintings each, so that's 4 x 2 = 8 paintings.
+* The next 12 customers bought 1 painting each, so that's 12 x 1 = 12 paintings.
+* The last 4 customers bought 4 paintings each, so that's 4 x 4 = 16 paintings.
+
+To find the total number of paintings sold, we add the paintings from each group: 8 + 12 + 16 = 36.
+
+Answer: 36

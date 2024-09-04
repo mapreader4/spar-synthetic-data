@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's assume Chris holds his breath for 10 seconds on the first day, 20 seconds on the second day, and 30 seconds on the third day. He adds 10 seconds each day, so on the fourth day, he will hold his breath for 40 seconds, on the fifth day for 50 seconds, and so on.
+
+We can write an equation to represent this pattern:
+
+10 + 10 = 20
+20 + 10 = 30
+30 + 10 = 40
+40 + 10 = 50
+50 + 10 = 60
+60 + 10 = 70
+70 + 10 = 80
+80 + 10 = 90
+
+So, Chris will hold his breath for 90 seconds in 9 days.
+
+Answer: 9

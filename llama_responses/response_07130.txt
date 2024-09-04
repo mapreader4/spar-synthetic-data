@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's say there were x people lifting weights at the start of Bethany's shift.
+
+After 5 people came in, the number of people lifting weights is x + 5.
+
+Then, 2 people left, so the number of people lifting weights is x - 2.
+
+The total number of people lifting weights is the same as the total number of people in the gym, which is 19.
+
+So, we can set up an equation:
+
+x + 5 - 2 = 19
+
+We can subtract 2 from both sides of the equation to get:
+
+x + 3 = 19
+
+Subtracting 3 from both sides of the equation, we get:
+
+x = 16
+
+So, the answer is:
+
+Answer: 16

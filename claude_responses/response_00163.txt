@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* James scores 4 touchdowns per game
+* Each touchdown is worth 6 points
+* There are 15 games in the season
+* So, the total points from touchdowns = 4 touchdowns per game x 6 points per touchdown x 15 games = 360 points
+
+* James also scores 2 point conversions 6 times during the season
+* Each 2 point conversion is worth 2 points
+* So, the total points from 2 point conversions = 6 x 2 points = 12 points
+
+* The total points James scored = 360 points (from touchdowns) + 12 points (from 2 point conversions) = 372 points
+
+* The old record was 300 points during the season
+* So, James beat the old record by:
+* 372 points - 300 points = 72 points
+
+Answer: 72

@@ -1,0 +1,31 @@
+Let's break down the problem step by step.
+
+The first bill is for $200 and is 2 months overdue, with a 10% interest rate. To calculate the interest, we multiply the principal amount by the interest rate and the number of months overdue:
+
+$200 x 0.10 x 2 = $40
+
+So, the total amount owed on the first bill is:
+
+$200 + $40 = $240
+
+The second bill is for $130 and is 6 months overdue, with a flat late fee of $50 per month. To calculate the total late fee, we multiply the number of months overdue by the late fee:
+
+$50 x 6 = $300
+
+So, the total amount owed on the second bill is:
+
+$130 + $300 = $430
+
+The third bill is for $444 and is 2 months overdue, with a $40 fee the first month overdue and twice that fee the second month overdue. To calculate the total fee, we add the fees for both months:
+
+$40 + (2 x $40) = $120
+
+So, the total amount owed on the third bill is:
+
+$444 + $120 = $564
+
+To find the total amount owed, we add up the amounts owed on all three bills:
+
+$240 + $430 + $564 = $1234
+
+Answer: 1234

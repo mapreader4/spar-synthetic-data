@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, Luke put together 10% of the 1000-piece puzzle, which is 0.10 * 1000 = 100 pieces.
+2. That means there are 1000 - 100 = 900 pieces remaining after the first day.
+3. On the second day, he put together 20% of the remaining 900 pieces, which is 0.20 * 900 = 180 pieces.
+4. That means there are 900 - 180 = 720 pieces remaining after the second day.
+5. On the third day, he put together 30% of the remaining 720 pieces, which is 0.30 * 720 = 216 pieces.
+6. That means there are 720 - 216 = 504 pieces remaining after the third day.
+
+Answer: 504

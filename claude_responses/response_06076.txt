@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The farmer initially has 51 cows.
+2) The farmer then adds 5 new cows to the herd, so the total number of cows is now 51 + 5 = 56 cows.
+3) The farmer then sells a quarter of the herd. A quarter of 56 is 56 / 4 = 14 cows.
+4) So the farmer has 56 - 14 = 42 cows left.
+
+Answer: 42

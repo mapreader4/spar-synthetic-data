@@ -1,0 +1,16 @@
+To solve this problem, we need to find the number of 5-second intervals in one hour.
+
+Given information:
+- The device records the temperature every 5 seconds.
+- The device records data for one hour.
+
+Step 1: Convert one hour to seconds.
+1 hour = 60 minutes = 60 × 60 = 3600 seconds
+
+Step 2: Find the number of 5-second intervals in 3600 seconds.
+Number of 5-second intervals = 3600 seconds / 5 seconds per interval
+Number of 5-second intervals = 3600 / 5 = 720 intervals
+
+Therefore, the device will record 720 instances of data.
+
+Answer: 720

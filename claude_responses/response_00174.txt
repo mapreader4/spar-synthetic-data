@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Movie tickets cost $5 each on a Monday
+* On a Wednesday, the tickets cost twice as much as on a Monday, which means they cost $10 each
+* On a Saturday, the tickets cost five times as much as on a Monday, which means they cost $25 each
+
+Now, we need to calculate how much Glenn spends on the two days he goes to the movie theater:
+* On Wednesday, Glenn buys tickets, and each ticket costs $10
+* On Saturday, Glenn buys tickets, and each ticket costs $25
+
+To calculate the total amount Glenn spends, we need to add the cost of the Wednesday tickets and the Saturday tickets:
+* Wednesday tickets: $10 per ticket
+* Saturday tickets: $25 per ticket
+* Total spent: $10 + $25 = $35
+
+Answer: $35

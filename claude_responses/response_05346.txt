@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Henry originally had 99 books in his book collection
+* He filled 3 boxes of 15 books each to take to a donation center, which is 3 * 15 = 45 books
+* He had 21 books in a room he could donate
+* He had 4 books on his coffee table
+* He had 18 cookbooks stashed in the kitchen
+* So the total number of books he donated is 45 + 21 + 4 + 18 = 88 books
+* He then grabbed 12 books from the "free to a good home" box to take back to his place
+* So the number of books Henry now has is 99 - 88 + 12 = 23 books
+
+Answer: 23

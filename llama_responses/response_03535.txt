@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the length of Marcia's hair after she cuts half of it off. Since she cuts off half of her 24" hair, that means she cuts off 12" of her hair. So, the length of her hair is now 24 - 12 = 12".
+
+Then, she lets it grow out 4 more inches, so the length of her hair becomes 12 + 4 = 16".
+
+Finally, she cuts off another 2" of hair. So, she cuts off 2" from her 16" long hair, leaving her with 16 - 2 = 14" of hair.
+
+So, the answer is: Answer: 14

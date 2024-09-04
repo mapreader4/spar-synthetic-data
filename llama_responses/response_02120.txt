@@ -1,0 +1,10 @@
+Let's break down the information into steps:
+
+1. Patrick knocked down a total of 70 pins in the first round. 
+2. Richard knocked down 15 more pins than Patrick in the first round. So, Patrick knocked down 70 - 15 = 55 pins in the first round. 
+3. In the second round, Patrick knocked down twice as many pins as Richard in the first round, so Patrick knocked down 2 * 55 = 110 pins. 
+4. Richard knocked down 3 less than Patrick in the second round, so Richard knocked down 110 - 3 = 107 pins.
+
+To find the total number of pins knocked down by Richard, we add the pins knocked down in the first round (55) to the pins knocked down in the second round (107). 
+
+Answer: 55 + 107 = 162

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Each company (A, B, and C) purchased 10 ad spaces.
+2. Each ad space is a 12-foot by 5-foot rectangle.
+3. The area of each ad space is 12 feet x 5 feet = 60 square feet.
+4. Each square foot of ad space is charged at $60.
+5. To calculate the total cost for each company:
+   - Each company purchased 10 ad spaces
+   - Each ad space is 60 square feet
+   - So each company paid for 10 x 60 = 600 square feet of ad space
+   - At $60 per square foot, each company paid 600 x $60 = $36,000
+
+6. To calculate the total cost for all three companies:
+   - 3 companies x $36,000 per company = $108,000
+
+Answer: $108,000

@@ -1,0 +1,14 @@
+Let's break down the information given:
+
+* 30 pieces of pepperoni
+* 2 times as many pieces of ham as pepperoni
+* 12 more pieces of sausage than pepperoni
+* 6 slices of pizza
+
+We know that there are 30 pieces of pepperoni. Let's call the number of ham pieces x. Since there are 2 times as many pieces of ham as pepperoni, then the number of ham pieces is 30 * 2 = 60. Adding the 12 more pieces of sausage, we get 60 + 12 = 72 pieces of meat.
+
+Now, since everything is distributed evenly among 6 slices of pizza, we can divide the total number of pieces of meat by the number of slices:
+
+72 / 6 = 12
+
+Answer: 12

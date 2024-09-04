@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The store initially had 20 units of mobile phones
+* The owner found 5 of those units were defective
+* After removing the defective units, the store had 20 - 5 = 15 non-defective units
+* Customer A bought 3 units
+* Customer C bought 7 units
+* The remaining units were sold to Customer B
+
+To find the number of units sold to Customer B, we need to subtract the units sold to Customer A and Customer C from the total non-defective units:
+* Total non-defective units: 15
+* Units sold to Customer A: 3
+* Units sold to Customer C: 7
+* Units sold to Customer B: 15 - 3 - 7 = 5
+
+Answer: 5

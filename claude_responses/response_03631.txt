@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Codger is a three-footed sloth, so he needs 3 shoes per set
+* He already owns 1 set of 3 shoes
+* He wants to have a total of 5 complete sets of 3 shoes each
+* To calculate the number of additional sets he needs to buy, we can do the following:
+* Total sets desired: 5
+* Sets he already owns: 1
+* Additional sets he needs to buy: 5 - 1 = 4
+* Each set requires 3 shoes
+* So, the total number of additional shoes he needs to buy is: 4 sets x 3 shoes per set = 12 shoes
+* Since the stores only sell shoes in pairs, he needs to buy 6 pairs of shoes.
+
+Answer: 6

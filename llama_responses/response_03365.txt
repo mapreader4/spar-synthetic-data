@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of the shirts. John buys 3 shirts for $20 each, so the total cost is 3 x 20 = 60.
+
+Next, we need to calculate the tax. The tax is 10% of the total cost, which is 10% of 60. 10% of 60 is 6.
+
+The total cost, including the cost of the shirts and the tax, is 60 + 6 = 66.
+
+Answer: 66

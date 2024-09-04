@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+The first 10 stories are each 12 feet tall, so the height of the first 10 stories is 12 * 10 = 120 feet.
+
+The remaining floors are each 3 feet taller, so the height of the remaining floors is 3 * 10 = 30 feet.
+
+To find the total height of the building, we need to add the height of the first 10 stories to the height of the remaining floors:
+
+120 + 30 = 150
+
+Answer: 150

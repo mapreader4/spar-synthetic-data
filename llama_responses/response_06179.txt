@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find the number of letters in Sarah's name. The name "Sarah" has 5 letters: S-A-R-A-H.
+
+Next, we need to multiply the number of letters by twice the player's age. Sarah is 9 years old, so we multiply 5 (the number of letters) by 9 (the age).
+
+5 * 9 = 45
+
+So, according to the game, Sarah will get married at age 45.

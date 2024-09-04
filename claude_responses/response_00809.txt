@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Clover goes for a 1.5-mile walk in the morning
+* Clover goes for another 1.5-mile walk in the evening
+* So, in one day, Clover walks a total of 1.5 miles + 1.5 miles = 3 miles
+* We want to know how many miles Clover walks in 30 days
+* To calculate this, we take the number of miles walked per day (3 miles) and multiply it by the number of days (30 days)
+* 3 miles per day x 30 days = 90 miles
+
+Answer: 90

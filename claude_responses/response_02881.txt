@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Initially, there were 50 fish in the pond.
+2) There were 3 times as many tadpoles as fish, so the initial number of tadpoles was 3 * 50 = 150.
+3) Curtis caught 7 fish, so the remaining number of fish is 50 - 7 = 43.
+4) Half the tadpoles developed into frogs, so the remaining number of tadpoles is 150 / 2 = 75.
+5) The difference between the number of tadpoles and the number of fish is 75 - 43 = 32.
+
+Answer: 32

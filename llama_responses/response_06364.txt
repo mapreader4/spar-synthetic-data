@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the three items Toby sold and their respective prices:
+
+1. Treadmill: $100
+2. Chest of drawers: half as much as the treadmill, so $100 / 2 = $50
+3. Television: three times as much as the treadmill, so $100 x 3 = $300
+
+Now, we know that these three items made up 75% of the total amount of sales money Toby earned. This means that the total amount of sales money is 100% - 75% = 25% more than the sum of these three items.
+
+Let's calculate the sum of these three items:
+
+$100 + $50 + $300 = $450
+
+Now, we need to find 25% of $450 to add to the sum:
+
+25% of $450 = ($450 x 0.25) = $112.50
+
+So, the total sum of money Toby made at the garage sale is:
+
+$450 + $112.50 = $562.50
+
+Answer: 562

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There were 3 times more cardinals than bluebirds
+* There were half as many swallows as bluebirds
+* There were 2 swallows
+
+First, let's find the number of bluebirds. Since there were 2 swallows, and the number of swallows was half the number of bluebirds, we can say that the number of bluebirds is 2 x 2 = 4.
+
+Next, since there were 3 times more cardinals than bluebirds, and we know there were 4 bluebirds, the number of cardinals must be 4 x 3 = 12.
+
+Now, we can add up the total number of birds in the crape myrtle tree:
+* 2 swallows
+* 4 bluebirds
+* 12 cardinals
+* Total = 2 + 4 + 12 = 18
+
+Answer: 18

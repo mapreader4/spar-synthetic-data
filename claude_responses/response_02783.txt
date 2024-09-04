@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jude bought 3 chairs at the same price
+* He also bought a table for $50 and two sets of plates at $20 each
+* He paid the cashier $130 and received $4 in change
+* To find the cost of each chair, we need to calculate the total cost of the items he bought and then subtract the amount he paid from that total
+
+First, let's calculate the total cost of the items:
+* 3 chairs at the same price
+* 1 table for $50
+* 2 sets of plates at $20 each, so 2 x $20 = $40
+* Total cost = cost of 3 chairs + $50 + $40 = cost of 3 chairs + $90
+
+Next, we know that Jude paid $130 and received $4 in change, so the amount he actually paid was $130 - $4 = $126.
+
+Now we can set up an equation to solve for the cost of each chair:
+* Total cost = cost of 3 chairs + $90
+* $126 = cost of 3 chairs + $90
+* Cost of 3 chairs = $126 - $90 = $36
+* Cost of each chair = $36 / 3 = $12
+
+Answer: $12

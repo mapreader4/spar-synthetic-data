@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Alex planned to cook 3 burgers for each guest
+* He invited 10 friends over
+* 1 friend didn't eat meat and would bring their own food
+* 1 friend didn't eat bread and wouldn't need buns
+* That leaves 8 friends who would need buns
+* Each guest would need 3 burgers, so 8 guests x 3 burgers = 24 burgers
+* The burger buns come 8 to a pack
+* To calculate the number of packs of buns needed, we divide the total number of burgers (24) by the number of buns per pack (8)
+* 24 burgers / 8 buns per pack = 3 packs of buns
+
+Answer: 3

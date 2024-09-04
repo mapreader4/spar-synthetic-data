@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Frank has three less than half the number of cookies as Mike.
+   * Let's say Mike has x cookies.
+   * Then, Frank has (x/2 - 3) cookies.
+2) Mike has three times as many cookies as Millie.
+   * Millie has 4 cookies.
+   * So, Mike has 3 * 4 = 12 cookies.
+3) Now we can plug in the values we know:
+   * Mike has 12 cookies.
+   * Frank has (12/2 - 3) = 3 cookies.
+
+Answer: 3

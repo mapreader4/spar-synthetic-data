@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total hours Annie spends on each activity per week. She spends 2 hours a week on chess club, 8 hours a week on drama club, and 3 hours a week on glee club. We can add these up to get a total of 2 + 8 + 3 = 13 hours per week.
+
+Now, let's think about the number of weeks before midterms. There are 12 weeks in each semester, but Annie takes the first 2 weeks off sick, which means she misses 2 weeks. So, we subtract 2 weeks from 12 weeks to get 10 weeks remaining. 
+
+Now, let's multiply the number of hours she spends per week by the number of weeks remaining. 13 hours a week * 10 weeks = 130 hours.
+
+So, Annie has 130 hours of extracurriculars before midterms. 
+
+Answer: 130

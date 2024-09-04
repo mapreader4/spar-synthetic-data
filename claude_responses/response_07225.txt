@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The Zargon Destroyer spacecraft can travel at 2 billion miles per hour in normal space.
+* When moving through a black hole, they travel three times faster, which is 6 billion miles per hour.
+* The voyage consists of 7 hours in normal space and 2 hours through a black hole.
+
+To calculate the total distance traveled:
+* In normal space, they travel for 7 hours at 2 billion miles per hour.
+  * Distance traveled in normal space = 2 billion miles/hour x 7 hours = 14 billion miles
+* In the black hole, they travel for 2 hours at 6 billion miles per hour.
+  * Distance traveled in the black hole = 6 billion miles/hour x 2 hours = 12 billion miles
+
+Now, we add the distances together to get the total distance traveled:
+* Total distance traveled = 14 billion miles + 12 billion miles = 26 billion miles
+
+Answer: 26 billion miles

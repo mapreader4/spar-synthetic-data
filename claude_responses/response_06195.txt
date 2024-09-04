@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Mara has 40 crayons and 10% of them are pink.
+   * To find the number of pink crayons Mara has, we take 10% of 40:
+   * 10% of 40 = 0.10 * 40 = 4 pink crayons
+
+2. Luna has 50 crayons and 20% of them are pink.
+   * To find the number of pink crayons Luna has, we take 20% of 50:
+   * 20% of 50 = 0.20 * 50 = 10 pink crayons
+
+3. To find the total number of pink crayons Mara and Luna have, we add the number of pink crayons each of them has:
+   * 4 (Mara) + 10 (Luna) = 14 pink crayons
+
+Answer: 14

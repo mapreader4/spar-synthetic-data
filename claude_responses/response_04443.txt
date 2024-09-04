@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The carousel has 3 blue horses
+* There are three times as many purple horses as blue horses, so 3 x 3 = 9 purple horses
+* There are twice as many green horses as purple horses, so 9 x 2 = 18 green horses
+* There are 1/6th as many gold horses as green horses, so 18 / 6 = 3 gold horses
+
+Now, to find the total number of horses, we add up all the horses:
+* 3 blue horses + 9 purple horses + 18 green horses + 3 gold horses = 33 horses total
+
+Answer: 33

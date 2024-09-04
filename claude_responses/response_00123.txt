@@ -1,0 +1,20 @@
+To solve this problem, we need to calculate the cost per can at both the bulk warehouse and the local grocery store, and then find the difference between them.
+
+Given information:
+- Bulk warehouse: 48 cans of sparkling water for $12.00 a case.
+- Local grocery store: 12 cans of sparkling water for $6.00.
+
+Step 1: Calculate the cost per can at the bulk warehouse.
+Cost per can at the bulk warehouse = $12.00 / 48 cans = $0.25 per can
+
+Step 2: Calculate the cost per can at the local grocery store.
+Cost per can at the local grocery store = $6.00 / 12 cans = $0.50 per can
+
+Step 3: Calculate the difference in cost per can between the two stores.
+Difference in cost per can = Cost per can at the local grocery store - Cost per can at the bulk warehouse
+Difference in cost per can = $0.50 - $0.25 = $0.25 per can
+
+Step 4: Convert the difference to cents.
+Difference in cost per can in cents = $0.25 × 100 cents/dollar = 25 cents
+
+Answer: 25 cents

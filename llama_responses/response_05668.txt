@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the total number of sheets of paper in both packs. There are 2 packs, and each pack has 240 sheets of paper, so the total number of sheets is 240 + 240 = 480 sheets.
+
+Now, let's find out how many documents she prints per day. She prints 80 documents per day. To find the total number of days the paper will last, we need to divide the total number of sheets by the number of documents printed per day. So, we have 480 sheets / 80 documents per day = 6 days.
+
+Answer: 6

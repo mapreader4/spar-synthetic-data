@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) The pond initially contained 2400 pollywogs.
+2) The pollywogs mature into toads and leave the pond at a constant rate of 50 pollywogs per day.
+3) Melvin catches 10 pollywogs per day for the first 20 days and releases them into a nearby stream.
+4) To find the number of days it took for all the pollywogs to disappear from the pond, we need to calculate the rate at which the pollywogs are leaving the pond and the total number of pollywogs that are removed.
+5) The rate at which the pollywogs are leaving the pond is 50 per day.
+6) The total number of pollywogs removed by Melvin in the first 20 days is 10 pollywogs per day for 20 days, which is 200 pollywogs.
+7) The remaining pollywogs in the pond after the first 20 days is 2400 - 200 = 2200 pollywogs.
+8) At a rate of 50 pollywogs per day, it will take 2200 / 50 = 44 days for the remaining pollywogs to leave the pond.
+9) Therefore, the total number of days it took for all the pollywogs to disappear from the pond is 20 + 44 = 64 days.
+
+Answer: 64

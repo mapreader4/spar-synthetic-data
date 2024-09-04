@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say Larry had some amount of money, let's call it x dollars at the beginning. He spent $5 for lunch, which means he has $x - $5 now.
+
+Then he gave his brother $2, so he has $x - $5 - $2 now.
+
+He has $15 now, so we can set up the equation $x - $5 - $2 = $15. We can add $5 and $2 to both sides to get $15 + $5 = $20. Then we can subtract $5 from both sides to get $20 - $5 = $15.
+
+So, the equation $x - $5 - $2 = $15 becomes $x - $7 = $15. So, the value of x is $8.
+
+Answer: 8

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The CDs were priced as follows:
+  - The Life Journey: $100 per CD
+  - A Day a Life: $50 per CD
+  - When You Rescind: $85 per CD
+* You bought 3 of each CD
+* To calculate the total amount spent, we need to multiply the price of each CD by the number of CDs purchased, and then add them all together.
+
+For The Life Journey:
+* 3 CDs x $100 per CD = $300
+
+For A Day a Life:
+* 3 CDs x $50 per CD = $150
+
+For When You Rescind:
+* 3 CDs x $85 per CD = $255
+
+Now, we add up the total:
+* $300 + $150 + $255 = $705
+
+Answer: 705

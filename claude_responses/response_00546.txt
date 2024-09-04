@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John received 20 gifts on his 12th birthday
+* On his 13th birthday, he received 8 fewer gifts than on his 12th birthday
+* To calculate the number of gifts he received on his 13th birthday, we take the number of gifts he received on his 12th birthday (20) and subtract 8:
+* 20 - 8 = 12 gifts on his 13th birthday
+
+Now, to calculate the total number of gifts he received between those two birthdays, we add the number of gifts he received on his 12th birthday (20) and the number of gifts he received on his 13th birthday (12):
+* 20 + 12 = 32 total gifts
+
+Answer: 32

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's first find the total number of walls in the house. Since there are 10 bedrooms and each room has 8 walls, the total number of walls is 10 x 8 = 80 walls.
+
+Now, we know that Johan painted 3/5 of the rooms with green color. To find out how many rooms he painted green, we can multiply the total number of walls by 3/5, which is the fraction of the rooms he painted. 80 * 3/5 = 48 walls.
+
+Now, we know that the rest of the rooms are painted with purple color. So, the number of walls painted purple is the total number of walls minus the number of walls painted green. 80 - 48 = 32 walls.
+
+So, the answer is: Answer: 32.

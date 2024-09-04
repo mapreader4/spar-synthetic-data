@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we know that Kyro owes Fernanda an amount, and Aryan owes Fernanda twice that amount. Let's call the amount Kyro owes Fernanda "x". Then, Aryan owes Fernanda 2x.
+
+We also know that Kyro pays 80% of her debt, which is 0.8x. Aryan pays 60% of her debt, which is 0.6(2x) = 1.2x.
+
+The total amount paid to Fernanda is the sum of the amounts paid by Kyro and Aryan: 0.8x + 1.2x = 2.0x.
+
+We know that the total amount owed to Fernanda is $1200, which is the sum of the amounts owed by Kyro and Aryan: x + 2x = 3x = 1200.
+
+Now, we can find the amount Kyro owes Fernanda: x = 1200/3 = 400.
+
+So, the amount Aryan owes Fernanda is 2x = 2(400) = 800.
+
+Kyro pays 0.8(400) = 320, and Aryan pays 0.6(800) = 480.
+
+The total amount paid to Fernanda is 320 + 480 = 800.
+
+Adding this to the $300 she already had in her savings account, Fernanda now has a total of:
+
+300 + 800 = 1100
+
+Answer: 1100

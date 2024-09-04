@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Apples cost $1 each, and Mary bought 5 of them, so the cost of the apples is 5 x $1 = $5
+* Oranges cost $2 each, and Mary bought 3 of them, so the cost of the oranges is 3 x $2 = $6
+* Bananas cost $3 each, and Mary bought 2 of them, so the cost of the bananas is 2 x $3 = $6
+* The total cost of the fruits is $5 + $6 + $6 = $17
+* For every 5 fruits bought, the store offers a $1 discount
+* Mary bought a total of 10 fruits (5 apples, 3 oranges, 2 bananas)
+* Since she bought 10 fruits, she gets 2 discounts of $1 each, for a total discount of $2
+* Therefore, the total amount Mary will pay is $17 - $2 = $15
+
+Answer: 15

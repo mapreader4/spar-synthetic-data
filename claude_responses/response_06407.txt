@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* The box contains 50 chocolates in total
+* 3 of them are caramels
+* Twice as many are nougats, so that's 2 x 3 = 6 nougats
+* The number of truffles is equal to the number of caramels plus 6, so that's 3 + 6 = 9 truffles
+* The remaining chocolates are peanut clusters
+
+Now, let's calculate the number of peanut clusters:
+* Total chocolates = 50
+* Caramels = 3
+* Nougats = 6
+* Truffles = 9
+* Peanut clusters = 50 - 3 - 6 - 9 = 32
+
+To calculate the percentage chance of picking a peanut cluster, we divide the number of peanut clusters by the total number of chocolates and multiply by 100:
+* Percentage chance = (32 / 50) x 100 = 64%
+
+Answer: 64

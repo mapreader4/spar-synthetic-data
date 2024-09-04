@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jerry has two daughters who play softball on different teams
+* Each daughter has 8 games this season
+* Each team practices 4 hours for every game they play
+* Each game lasts for 2 hours
+
+First, let's calculate the total number of hours Jerry will spend watching his daughters play:
+* 8 games per daughter x 2 hours per game = 16 hours per daughter
+* 16 hours per daughter x 2 daughters = 32 hours
+
+Next, let's calculate the total number of hours Jerry will spend watching his daughters practice:
+* 8 games per daughter x 4 hours of practice per game = 32 hours of practice per daughter
+* 32 hours of practice per daughter x 2 daughters = 64 hours
+
+Finally, we add the time spent watching the games and the time spent watching the practices:
+* 32 hours + 64 hours = 96 hours
+
+Answer: 96

@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's first identify the information given to us:
+
+* 4 maths books at $20 each
+* 6 science books at $10 each
+* 2 times as many art books as maths books, so 2 * 4 = 8 art books at $20 each
+
+Let's calculate the total cost of the maths books:
+4 x $20 = $80
+6 x $10 = $60
+8 x $20 = $160
+
+The total cost of the maths books is $80 + $60 + $160 = $200.
+
+June spent $200 on maths books.
+
+But the problem asks for the cost of music books. The problem does not mention the cost of music books. So, the answer is 0.

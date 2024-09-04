@@ -1,0 +1,6 @@
+Let's break this problem down step by step.
+
+1. The number of people who showed up is 100% - 20% of 30 people, which is 0.8 * 30 = 24.
+2. 75% of the 24 people who showed up get steak, so 0.75 * 24 = 18 people get steak.
+3. The remaining 6 people do not get steak, so they get chicken.
+4. The answer is 6.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The flowerbed is rectangular in shape
+* The width of the flowerbed is 4 meters
+* The length of the flowerbed is 1 meter less than twice its width
+* To find the length, we can use the following equation:
+    * Length = 2 * Width - 1
+    * Length = 2 * 4 - 1 = 7 meters
+* To find the total perimeter of the flowerbed, we need to add up the lengths of all four sides:
+    * Perimeter = 2 * Width + 2 * Length
+    * Perimeter = 2 * 4 + 2 * 7 = 8 + 14 = 22 meters
+
+Answer: 22 meters

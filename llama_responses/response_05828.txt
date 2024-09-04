@@ -1,0 +1,11 @@
+Let's calculate the sum of their scores first. June earned a 97, Patty earned an 85, Josh earned a 100, and Henry earned a 94. So, the sum of their scores is:
+
+97 + 85 + 100 + 94 = 376
+
+Now, we need to find the average of these scores. To do this, we divide the sum by the number of scores:
+
+376 / 4 = 94
+
+So, their average math test score is 94. Since this is not higher than 89, Clyde won't buy them tickets to the concert.
+
+Answer: 94

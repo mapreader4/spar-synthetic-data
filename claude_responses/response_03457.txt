@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. The pirate has 3500 gold coins.
+2. He wants to distribute the gold coins equally across 5 chests.
+3. To calculate the number of gold coins in each chest, we divide the total number of gold coins by the number of chests:
+   3500 gold coins / 5 chests = 700 gold coins per chest.
+
+4. The pirate also has 500 silver coins.
+5. He wants to distribute the silver coins equally across the 5 chests.
+6. To calculate the number of silver coins in each chest, we divide the total number of silver coins by the number of chests:
+   500 silver coins / 5 chests = 100 silver coins per chest.
+
+7. The pirate also has twice as many bronze coins as silver coins.
+8. The total number of bronze coins is 2 x 500 = 1000 bronze coins.
+9. He wants to distribute the bronze coins equally across the 5 chests.
+10. To calculate the number of bronze coins in each chest, we divide the total number of bronze coins by the number of chests:
+    1000 bronze coins / 5 chests = 200 bronze coins per chest.
+
+Adding up the number of coins in each chest:
+700 gold coins + 100 silver coins + 200 bronze coins = 1000 coins per chest.
+
+Answer: 1000 coins per chest.

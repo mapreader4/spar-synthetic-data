@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* The wood stove burns 4 bundles of wood in the morning.
+* There are 10 bundles of wood at the start of the day.
+* There are 3 bundles of wood at the end of the day.
+
+Let's use the information about the wood burned in the morning to find the number of bundles burned in the afternoon.
+
+The wood stove burns 4 bundles of wood in the morning, so the number of bundles burned in the morning is 4.
+
+Now, let's use the information about the number of bundles of wood at the start and end of the day to find the number of bundles burned in the afternoon.
+
+The number of bundles of wood at the start of the day is 10, and the number of bundles of wood at the end of the day is 3. To find the number of bundles burned in the afternoon, we can subtract the number of bundles at the end of the day from the number of bundles at the start of the day:
+
+10 - 3 = 7
+
+So, 7 bundles of wood were burned in the afternoon.
+
+Answer: 7

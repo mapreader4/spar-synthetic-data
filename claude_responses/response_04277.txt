@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Pittsburg city has 2000 stores, 500 hospitals, 200 schools, and 20 police stations
+* The new city should have:
+  - Half the number of stores: 2000 / 2 = 1000 stores
+  - Twice as many hospitals: 500 * 2 = 1000 hospitals
+  - 50 fewer schools: 200 - 50 = 150 schools
+  - 5 more police stations: 20 + 5 = 25 police stations
+* To find the total number of buildings required, we add up the number of each type of building:
+  - 1000 stores
+  - 1000 hospitals
+  - 150 schools
+  - 25 police stations
+* Adding these up, the total number of buildings required is:
+  1000 + 1000 + 150 + 25 = 2175
+
+Answer: 2175

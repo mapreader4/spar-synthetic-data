@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the amount of meat sold on Thursday is 210kg. On Friday, they sold twice that amount, which is 210 * 2 = 420kg. On Sunday, they sold half of what they sold on Saturday, which is 130/2 = 65kg. 
+
+So, the total amount of meat sold is 210 + 420 + 65 = 695kg. They planned to sell 500kg. So, the amount sold beyond their original plan is 695 - 500 = 195kg. 
+
+Answer: 195

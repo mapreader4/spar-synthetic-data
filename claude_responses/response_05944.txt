@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The farmer has 10 rows of corn stalks, and each row should produce 9 corn cobs
+* So the total number of corn cobs the farmer should have is 10 rows x 9 cobs per row = 90 corn cobs
+* The farmer has 5 rows of potatoes, and each row should produce 30 potatoes
+* So the total number of potatoes the farmer should have is 5 rows x 30 potatoes per row = 150 potatoes
+* The farmer thinks that half of his crops have been destroyed by pests
+* This means that the farmer has 50% of his original crops remaining
+* To calculate the number of crops the farmer still has:
+* For the corn cobs: 90 cobs x 0.5 = 45 corn cobs remaining
+* For the potatoes: 150 potatoes x 0.5 = 75 potatoes remaining
+* Adding the remaining corn cobs and potatoes:
+* 45 corn cobs + 75 potatoes = 120 crops remaining
+
+Answer: 120

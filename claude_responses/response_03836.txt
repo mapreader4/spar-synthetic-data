@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 5 shirts in total
+* The total cost of the 5 shirts is $85
+* 3 of the shirts cost $15 each
+* The remaining 2 shirts are equal in value
+
+First, let's calculate the total cost of the 3 shirts that cost $15 each:
+* 3 shirts x $15 per shirt = $45
+
+Now, we can subtract this amount from the total cost of $85 to find the cost of the remaining 2 shirts:
+* $85 - $45 = $40
+
+Since the remaining 2 shirts are equal in value, we can divide the remaining cost ($40) by 2 to find the cost of one of the remaining shirts:
+* $40 / 2 = $20
+
+Answer: $20

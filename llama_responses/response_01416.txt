@@ -1,0 +1,19 @@
+To find the average words per minute, we need to add up the number of words each person types and then divide by the number of people.
+
+First, let's add up the number of words each person types per minute:
+
+Rudy types 64 words per minute.
+Joyce types 76 words per minute.
+Gladys types 91 words per minute.
+Lisa types 80 words per minute.
+Mike types 89 words per minute.
+
+Now, let's add these numbers together:
+
+64 + 76 + 91 + 80 + 89 = 320
+
+There are 5 people in the team. To find the average, we divide the sum by 5:
+
+320 / 5 = 64
+
+Answer: 64

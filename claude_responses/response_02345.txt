@@ -1,0 +1,17 @@
+To solve this problem, we need to calculate the number of peppers the curry house was buying previously and the number of peppers they are buying now, and then find the difference.
+
+Previously, the curry house was buying:
+- 30 very spicy curries x 3 peppers = 90 peppers
+- 30 spicy curries x 2 peppers = 60 peppers
+- 10 mild curries x 1 pepper = 10 peppers
+Total peppers bought previously = 90 + 60 + 10 = 160 peppers
+
+Now, the curry house is buying:
+- 15 spicy curries x 2 peppers = 30 peppers
+- 90 mild curries x 1 pepper = 90 peppers
+Total peppers bought now = 30 + 90 = 120 peppers
+
+The difference in the number of peppers bought:
+160 peppers - 120 peppers = 40 fewer peppers
+
+Answer: 40

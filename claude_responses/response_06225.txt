@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jesus has 60 squares
+* Linden has 75 squares
+* Pedro has 200 squares
+* To find how many more squares Pedro has than both Jesus and Linden combined, we need to:
+1. Add up the squares that Jesus and Linden have:
+   * Jesus has 60 squares
+   * Linden has 75 squares
+   * 60 + 75 = 135 squares
+2. Subtract the total squares that Jesus and Linden have from the squares that Pedro has:
+   * Pedro has 200 squares
+   * 200 - 135 = 65 squares
+
+Answer: 65

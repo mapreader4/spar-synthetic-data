@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Martin decided to spend no more than $1,000 on the television.
+2) The sales clerk offered the TV for $100 less than the original price.
+3) The sales clerk also offered an additional 20% off the discounted price.
+4) To calculate the final discounted price:
+   - Original price - $100 = Discounted price
+   - Discounted price - (Discounted price * 0.20) = Final price
+5) Let's say the original price was $X.
+   - Discounted price = $X - $100
+   - Final price = ($X - $100) - (($X - $100) * 0.20)
+   - Final price = ($X - $100) - $0.20($X - $100)
+   - Final price = $0.80($X - $100)
+6) The final price is $0.80($X - $100), which is lower than the $1,000 Martin decided to spend.
+7) To find how much lower the final price is than $1,000, we subtract:
+   - $1,000 - $0.80($X - $100) = $0.20($X - $100)
+
+Answer: $0.20($X - $100)

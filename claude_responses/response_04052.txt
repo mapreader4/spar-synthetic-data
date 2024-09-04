@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Ernie's income used to be $6000.
+2) Ernie's income is now 4/5 of what it used to be. 
+   * To calculate Ernie's current income, we take 4/5 of $6000:
+   * 4/5 * $6000 = $4800
+3) Jack's income is now twice what Ernie used to make.
+   * Ernie used to make $6000, so Jack's income is now 2 * $6000 = $12000.
+4) To find the combined income of Ernie and Jack, we add their individual incomes:
+   * Ernie's income: $4800
+   * Jack's income: $12000
+   * Combined income: $4800 + $12000 = $16800
+
+Answer: $16800

@@ -1,0 +1,13 @@
+Let's start by calculating the total amount of money Simon makes from selling his red stamps. He has 30 red stamps, and each red stamp is sold for 50 cents, so the total amount of money he makes is:
+
+30 x 50 cents = 15 dollars
+
+Next, let's calculate the total amount of money Peter makes from selling his white stamps. He has 80 white stamps, and each white stamp is sold for 20 cents, so the total amount of money he makes is:
+
+80 x 20 cents = 16 dollars
+
+To find the difference in the amount of money they make, we need to subtract the amount Peter makes from the amount Simon makes:
+
+15 dollars - 16 dollars = -1 dollar
+
+Answer: -1

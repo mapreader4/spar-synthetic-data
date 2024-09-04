@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Jerome has 20 classmates on his cell phone contact list.
+2. He has half as many out of school friends as classmates on his contact list. So, if he has 20 classmates, he has half of 20, which is 10, out of school friends.
+3. He also has his two parents and his sister on his contact list.
+4. So, we add the number of classmates, out of school friends, parents, and sister, to get the total number of people on his contact list.
+
+Let's add these numbers together: 20 (classmates) + 10 (out of school friends) + 2 (parents) + 1 (sister) = 33
+
+Answer: 33

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+The area of a rectangle is found by multiplying the length and width of the rectangle. So, the area of the big rectangle is 40 * 20 = 800 square meters.
+
+The smaller rectangle has half the length and width of the big rectangle, so its length is 40 / 2 = 20 meters and its width is 20 / 2 = 10 meters.
+
+The area of the smaller rectangle is the product of its length and width. So, the area of the smaller rectangle is 20 * 10 = 200 square meters.
+
+Answer: 200

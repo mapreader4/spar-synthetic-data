@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Alice is given $2000 to invest
+* Alice puts all of her money in the stock market and doubles her money
+* So, Alice's final amount is $2000 x 2 = $4000
+* Bob is given $2000 to invest
+* Bob invests in real estate and makes five times more money than he invested
+* So, Bob's final amount is $2000 x 5 = $10,000
+* To find how much more money Bob has than Alice, we subtract Alice's final amount from Bob's final amount:
+* $10,000 - $4,000 = $6,000
+
+Answer: $6,000

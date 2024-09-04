@@ -1,0 +1,5 @@
+Let's start by identifying the number of sheep Bob has. Mary has 300 sheep, and Bob has double the number of sheep as Mary plus 35. Since Mary has 300 sheep, double of Mary's sheep is 600, plus 35 is 635. So, Bob has 635 sheep.
+
+To have 69 fewer sheep than Bob, Mary must buy 635 - 69 sheep. 635 - 69 is 566.
+
+Answer: 566

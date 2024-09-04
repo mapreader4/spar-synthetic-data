@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem.
+
+We know that the box can hold 40 pounds of cookies. Since each cookie weighs 2 ounces, we need to find out how many cookies 40 pounds is equivalent to.
+
+Since 40 pounds is equivalent to 40 * 16 ounces (since 1 pound is equal to 16 ounces), we know that the box can hold 40 * 16 = 640 cookies.
+
+Answer: 640

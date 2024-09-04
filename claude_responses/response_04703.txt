@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Suzanna's history textbook has 160 pages.
+2. Her geography textbook has 70 more pages than the history textbook, so it has 160 + 70 = 230 pages.
+3. Her math textbook has half of the sum of the pages in the history and geography textbooks. The sum of the pages in the history and geography textbooks is 160 + 230 = 390. Half of 390 is 195, so the math textbook has 195 pages.
+4. Her science textbook has twice the number of pages of her history textbook, which is 2 * 160 = 320 pages.
+
+Now, to find the total number of pages in all her textbooks, we add up the pages in each textbook:
+160 + 230 + 195 + 320 = 905
+
+Answer: 905

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Ajax's current weight is 80 kilograms
+* 1 kilogram is equal to 2.2 pounds
+* Exercising for 1 hour will help him lose 1.5 pounds
+* He plans to exercise for 2 hours every day for two weeks (14 days)
+
+First, we need to convert Ajax's weight from kilograms to pounds:
+* 80 kilograms x 2.2 pounds/kilogram = 176 pounds
+
+Now, we can calculate how much weight he will lose by exercising for 2 hours per day for 14 days:
+* 1.5 pounds lost per hour of exercise
+* 2 hours of exercise per day
+* 14 days of exercise
+* 1.5 pounds/hour x 2 hours/day x 14 days = 42 pounds lost
+
+Finally, we can subtract the weight he lost from his original weight to get his new weight:
+* 176 pounds - 42 pounds = 134 pounds
+
+Answer: 134 pounds

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Chris has 12 marbles, and Ryan has 28 marbles. Together, they have a total of 12 + 28 = 40 marbles.
+
+They put the marbles together in a pile. Then, each of them takes away 1/4 of the marbles from the pile. To find the number of marbles each of them takes, we can find 1/4 of the total number of marbles, which is 1/4 of 40, which is 10.
+
+So, Chris takes 10 marbles and Ryan takes 10 marbles. So, the number of marbles remaining in the pile is 40 - 20 = 20.
+
+Answer: 20

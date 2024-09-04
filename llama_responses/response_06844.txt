@@ -1,0 +1,13 @@
+Let's think step by step.
+
+First, we need to find out how many megabytes Julia can download in one second. We know her internet speed is 20 MBps, which is 20 megabytes per second.
+
+In one second, Julia can download 20 MB.
+
+Now, we need to find out how many seconds are in half an hour. There are 30 seconds in a minute, and 2 minutes in an hour. So, half an hour is 15 minutes. To convert 15 minutes into seconds, we multiply 15 by 60, since there are 60 seconds in a minute. This gives us 900 seconds.
+
+Now, we multiply the number of megabytes Julia can download in one second by the number of seconds in half an hour. We get:
+
+20 MBps * 900 seconds = 18,000 MB
+
+So, Julia can download 18,000 MB in half an hour.

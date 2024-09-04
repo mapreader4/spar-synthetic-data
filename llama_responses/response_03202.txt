@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The new babysitter charges $12/hour, which is $4 less than the original babysitter ($16 - $12 = $4). So, the difference in cost per hour is $4.
+2. The kids scream twice per babysitting gig, so the extra charge for screaming is $6 ($3 x 2 = $6).
+3. The total cost of the new babysitter would be $12 per hour plus the extra $6 for screaming, which is $18 per hour.
+4. Milly usually hires the babysitter for 6 hours, so the total cost would be $18 per hour x 6 hours, which is $108.
+5. The original babysitter would cost $16 per hour x 6 hours, which is $96.
+6. To find the difference in cost, subtract the new babysitter's cost from the original babysitter's cost: $108 - $96 = $12.
+
+Answer: 12

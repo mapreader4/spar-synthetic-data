@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by finding the area of the garden. The garden is 220 feet long and 120 feet wide. To find the area, we multiply the length and width, which is 220 x 120 = 26400 square feet.
+
+Next, we know that half of the garden is going to be tilled land. So, half of the area will be 26400 / 2 = 13200 square feet.
+
+Now, a third of the rest of the area will have trellises for vining plants. The rest of the area is 26400 - 13200 = 13200 square feet.
+
+Finally, the rest will be devoted to raised beds. Since the rest of the area is 13200 square feet, this will be the size of the raised bed.
+
+So, the answer is:
+
+Answer: 13200

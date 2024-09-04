@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Chang can sell sweet apples for $0.5 each and sour apples for $0.1 each.
+2) 75% of the apples are sweet, and the remaining 25% are sour.
+3) Chang earns a total of $40 from selling the apples.
+4) To find the total number of apples, we need to set up an equation.
+5) Let x be the total number of apples.
+6) The revenue from sweet apples is 0.75x * $0.5 = $0.375x
+7) The revenue from sour apples is 0.25x * $0.1 = $0.025x
+8) The total revenue is $0.375x + $0.025x = $0.4x
+9) We know the total revenue is $40, so we can set up the equation: $0.4x = $40
+10) Solving for x, we get x = 100 apples.
+
+Answer: 100

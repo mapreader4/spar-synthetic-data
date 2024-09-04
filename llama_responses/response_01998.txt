@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of marbles Harold has left after keeping 20 marbles for himself. He has 100 marbles initially, so he has 100 - 20 = 80 marbles left.
+
+He has to divide these 80 marbles among his 5 friends. To do this, we can divide 80 by 5, which is the same as 80 ÷ 5 = 16.
+
+So each friend gets 16 marbles.

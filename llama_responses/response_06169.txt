@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: Let's figure out how many miles Tomas needs to run before the marathon. The marathon is 26.3 miles, so Tomas needs to run 26.3 miles.
+
+Step 2: Tomas can run twice as far each month as the month before, so he can run 2 times as much as the previous month. Let's call the number of miles Tomas runs each month "x". Then, the total number of miles Tomas can run each month is 2x.
+
+Step 3: Since Tomas can run 3 miles during the first month, we can set up an equation: 3 = x. Since Tomas can run twice as much each month, we can multiply both sides of the equation by 2 to get 2x = 6. Then, we can divide both sides by 3 to get x = 2.
+
+Step 4: Now we know Tomas can run 2 miles each month. To find out how many months Tomas needs to train, we need to find out how many months it takes to run 26.3 miles at 2 miles per month. To do this, we can divide 26.3 by 2 to get 13.3.
+
+Answer: 13

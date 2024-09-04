@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first think about what we know. Wilson had 150 dollars in his account 2 months ago. This month, he deposited 21 dollars, so we can say that the total amount in his account now is 150 + 21 = 171.
+
+Now, we know that this month, he has 16 more than he had 2 months ago, so we can set up an equation: 171 = 150 + 16. To solve for the amount he withdrew last month, we can subtract 16 from 171 to get:
+
+171 - 16 = 155
+
+So, Wilson withdrew 155 dollars last month.

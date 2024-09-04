@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Kayden's business had 400 cartons of milk to deliver
+* The 400 cartons were delivered equally to 4 customers
+* So, each customer received 400 / 4 = 100 cartons
+* However, each customer returned 60 cartons that were damaged during delivery
+* So, the number of cartons accepted by each customer is 100 - 60 = 40 cartons
+* To find the total number of cartons accepted by all 4 customers, we multiply 40 cartons by 4 customers:
+* 40 cartons x 4 customers = 160 cartons
+
+Answer: 160

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The track is 400 meters long
+* Bob ran the first lap in 70 seconds
+* Bob ran the second and third laps in 85 seconds each
+* To calculate his average speed, we need to find the total distance he ran and the total time it took him to run that distance.
+
+The total distance:
+* 1 lap = 400 meters
+* 3 laps = 3 * 400 = 1200 meters
+
+The total time:
+* First lap = 70 seconds
+* Second lap = 85 seconds
+* Third lap = 85 seconds
+* Total time = 70 + 85 + 85 = 240 seconds
+
+Now we can calculate his average speed:
+* Average speed = Total distance / Total time
+* Average speed = 1200 meters / 240 seconds
+* Average speed = 5 meters/second
+
+Answer: 5 m/s

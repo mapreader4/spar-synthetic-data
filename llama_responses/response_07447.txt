@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: There are 15 cats in the shelter initially.
+
+Step 2: One-third of them were adopted, so we need to find one-third of 15, which is 5. This means there are 15 - 5 = 10 cats left.
+
+Step 3: Then, twice as many cats were replaced with dogs, so we need to multiply 10 by 2, which is 20. This means there are 10 + 20 = 30 dogs.
+
+Step 4: Then, twice as many dogs showed up as there are cats. Since there are 30 dogs, we need to multiply 30 by 2, which is 60.
+
+Step 5: To find the total number of animals in the shelter, we add the number of cats and dogs: 10 + 60 = 70.
+
+Answer: 70

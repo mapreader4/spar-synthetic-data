@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. Bill sells 8 ounces of fool's gold to the merchant. So, Bill earns 8 * 9 = 72 dollars.
+2. He is fined $50. So, Bill loses 50 dollars.
+3. So, Bill has 72 - 50 = 22 dollars left.
+
+Answer: 22

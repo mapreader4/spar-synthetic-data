@@ -1,0 +1,9 @@
+Let the price of "TOP" book be denoted as T and the price of "ABC" book be denoted as A. The difference in the bookstore's earnings on these two books is given as:
+
+T * 13 - A * 4.
+
+The price of "TOP" book is T = 8.
+The price of "ABC" book is A = 23.
+The difference in the bookstore's earnings on these two books is T * 13 - A * 4 = 8 * 13 - 4 * 23 = 92.
+
+Answer: 92

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. The temperatures for the week were:
+   - Sunday: 40 degrees
+   - Monday: 50 degrees
+   - Tuesday: 65 degrees
+   - Wednesday: 36 degrees
+   - Thursday: 82 degrees
+   - Friday: 72 degrees
+   - Saturday: 26 degrees
+
+2. To calculate the average temperature, we need to add up all the temperatures and divide by the number of days (7).
+
+3. Adding up the temperatures:
+   40 + 50 + 65 + 36 + 82 + 72 + 26 = 371
+
+4. Dividing by the number of days:
+   371 / 7 = 53
+
+Therefore, the average temperature for that week was 53 degrees.
+
+Answer: 53

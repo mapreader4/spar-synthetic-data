@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Total number of berries picked: 42
+* Half of the berries were raspberries
+* One-third of the berries were blackberries
+
+First, let's find the number of raspberries:
+* Half of 42 berries = 42 / 2 = 21 raspberries
+
+Next, let's find the number of blackberries:
+* One-third of 42 berries = 42 / 3 = 14 blackberries
+
+Now, we can find the number of blueberries by subtracting the raspberries and blackberries from the total:
+* Total berries - raspberries - blackberries = blueberries
+* 42 - 21 - 14 = 7 blueberries
+
+Answer: 7 blueberries.

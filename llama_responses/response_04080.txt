@@ -1,0 +1,11 @@
+To solve this problem, we need to calculate the total number of cookies that Karen has left after giving cookies to her grandparents. We can do this by subtracting the number of cookies she gave to her grandparents from the total number of cookies she baked.
+
+Karen baked 50 cookies, and she gave 10 to herself, and 8 to her grandparents. So, the number of cookies she gave away is 10 + 8 = 18. 
+
+The total number of cookies she baked is 50. So, the number of cookies left is 50 - 18 = 32.
+
+Since there are 16 people in her class, and she wants to give each person the same number of cookies, we can divide the remaining cookies by the number of people. We can do this by dividing the number of cookies by 32 by 16.
+
+The result of the division is 32 ÷ 16 = 2.
+
+Answer: 2

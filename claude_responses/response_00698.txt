@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The USB drive has a total capacity of 16 GB
+* 50% of the 16 GB capacity is already being used
+* To calculate the amount of space still available, we need to find the remaining 50% of the 16 GB capacity
+
+First, let's calculate 50% of 16 GB:
+* 50% of 16 GB = 0.5 * 16 GB = 8 GB
+
+Now, we can subtract the 8 GB that is already being used from the total 16 GB capacity to find the remaining available space:
+* 16 GB - 8 GB = 8 GB
+
+Answer: 8 GB

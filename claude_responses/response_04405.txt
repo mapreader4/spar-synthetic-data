@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Matt rode a total of 1000 feet away from his house
+* The first sign was 350 feet away from his house
+* After passing the first sign, he continued riding for an additional 275 feet
+
+To find the distance between the first and second signs, we can subtract the distance to the first sign and the additional 275 feet from the total distance of 1000 feet:
+* Total distance = 1000 feet
+* Distance to first sign = 350 feet
+* Additional distance after first sign = 275 feet
+* Distance between first and second signs = 1000 - 350 - 275 = 375 feet
+
+Answer: 375 feet

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. We know that there are 40 guests, but they arrive in 10 cars. This means that each car has 4 guests, so the number of guests in the parking lot is 10 x 4 = 40.
+
+2. We know that there are 2 cars in the parking lot, which are Dylan's mother's car and her husband's jeep. Each car has 4 wheels, so the total number of wheels is 2 x 4 = 8.
+
+3. The total number of wheels in the parking lot is the sum of the wheels from the 10 cars that the guests arrived in, plus the wheels from the 2 cars that were already in the parking lot. This is 40 + 8 = 48.
+
+Answer: 48

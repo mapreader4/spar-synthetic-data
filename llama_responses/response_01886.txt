@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of cars that the salespeople can sell. If each salesperson sells 10 cars per month, and there are 10 salespeople, then the total number of cars they can sell per month is:
+
+10 * 10 = 100 cars
+
+Since there are 500 cars, the total number of cars they can sell in total is:
+
+500 / 100 = 5
+
+So, it will take 5 months for the salespeople to sell all the cars.

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Jill has a total of 20 nails (10 toenails and 10 fingernails)
+* 6 of the nails are painted purple
+* 8 of the nails are painted blue
+* The remaining nails are painted striped
+
+First, let's calculate the percentage of nails painted blue:
+* 8 out of 20 nails are painted blue
+* 8/20 = 0.4 = 40%
+
+Next, let's calculate the percentage of nails painted striped:
+* The remaining nails are painted striped
+* 20 - 6 - 8 = 6 nails are painted striped
+* 6/20 = 0.3 = 30%
+
+Finally, to find the difference in percentage points between the percentage of nails painted blue and the percentage painted striped, we subtract:
+* 40% - 30% = 10 percentage points
+
+Answer: 10

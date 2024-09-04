@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Dirk sells 25 amulets each day, so in 2 days, he sells 25 x 2 = 50 amulets.
+
+Each amulet sells for 40 dollars, so the total revenue is 50 x 40 = 2000 dollars.
+
+The cost to make each amulet is 30 dollars, so the total cost is 50 x 30 = 1500 dollars.
+
+The revenue is 2000, and the cost is 1500, so the profit is 2000 - 1500 = 500 dollars.
+
+Dirk has to give 10% of his revenue to the faire, which is 10% of 2000 = 200 dollars. So, his net profit is 500 - 200 = 300 dollars.
+
+Answer: 300

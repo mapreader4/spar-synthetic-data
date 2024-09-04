@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Keaton can harvest his oranges every 2 months, so in a year, he can harvest oranges 6 times (12 months / 2 = 6). Each harvest of oranges is worth $50, so he can earn 6 x $50 = $300.
+
+Keaton can harvest his apples every 3 months, so in a year, he can harvest apples 4 times (12 months / 3 = 4). Each harvest of apples is worth $30, so he can earn 4 x $30 = $120.
+
+So, in a year, Keaton can earn a total of $300 from oranges and $120 from apples. Adding these amounts together, we get $300 + $120 = $420.
+
+Answer: 420

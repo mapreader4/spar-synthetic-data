@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The quilt is 7 feet by 8 feet, which means it has a total area of 7 * 8 = 56 square feet.
+
+2. The quilt costs $40 per square foot.  So, to find the total cost, we multiply the total area by the cost per square foot: 56 * 40 = 2240.
+
+Answer: 2240

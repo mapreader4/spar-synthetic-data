@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Tony's normal temperature is 95 degrees. He comes down with a sickness that raises his temperature by 10 degrees. To find his new temperature, we add 10 to his normal temperature:
+
+95 + 10 = 105
+
+So, Tony's new temperature is 105 degrees. Since a fever is anything over 100 degrees, his temperature is above the threshold of fever. Therefore, the answer is:
+
+Answer: 5

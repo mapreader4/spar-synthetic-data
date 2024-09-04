@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given to us:
+
+* Keith scored 3 points.
+* Larry scored 3 times as many marks as Keith, which means Larry scored 3 * 3 = 9 marks.
+* Danny scored 5 more marks than Larry, which means Danny scored 9 + 5 = 14 marks.
+
+To find the total amount of marks scored by the three students, we need to add up their scores:
+
+Keith: 3
+Larry: 9
+Danny: 14
+
+Adding these up, we get:
+3 + 9 + 14 = 26
+
+Answer: 26

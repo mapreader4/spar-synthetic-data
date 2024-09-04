@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The rectangular patch of land has a length of 400 feet and a width of 300 feet.
+2) The perimeter of the rectangular patch is 2 * (length + width) = 2 * (400 + 300) = 1400 feet.
+3) The perimeter of the square patch of land is twice as large as the perimeter of the rectangular patch, so it is 2 * 1400 = 2800 feet.
+4) The perimeter of a square is 4 * the length of one side.
+5) Therefore, the length of one side of the square patch of land is 2800 / 4 = 700 feet.
+
+Answer: 700

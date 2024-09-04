@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let x be the original price of each tire. Since Gargamel bought 4 tires on sale, we know that the total amount he saved is $36.
+
+We can set up an equation based on the information given:
+
+4 x x = 75 - 36
+
+We can subtract 36 from both sides of the equation to get:
+
+4x = 39
+
+To solve for x, we can divide both sides by 4:
+
+x = 39 / 4
+
+x = 9.75
+
+So, the original price of each tire was $9.75.
+
+Answer: 9.75

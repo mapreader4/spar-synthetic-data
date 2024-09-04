@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Paul bought 45 cookies
+* Paula bought 3 fewer cookies than Paul
+* To find how many cookies Paula bought, we subtract 3 from Paul's 45 cookies:
+  * Paula's cookies = 45 - 3 = 42 cookies
+* To find the total number of cookies they have altogether, we add Paul's cookies and Paula's cookies:
+  * Total cookies = Paul's cookies + Paula's cookies
+  * Total cookies = 45 + 42 = 87 cookies
+
+Answer: 87

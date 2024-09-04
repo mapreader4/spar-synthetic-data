@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* John's hair grows 1.5 inches every month
+* He cuts his hair when it reaches 9 inches long, cutting it down to 6 inches
+* A haircut costs $45, and he gives a 20% tip
+
+First, we need to calculate how many months it takes for his hair to grow from 6 inches to 9 inches:
+* 9 inches - 6 inches = 3 inches
+* 3 inches / 1.5 inches per month = 2 months
+
+So, John gets a haircut every 2 months.
+
+Next, we need to calculate the cost of each haircut:
+* Haircut cost: $45
+* Tip (20%): $45 * 0.20 = $9
+* Total cost per haircut: $45 + $9 = $54
+
+Finally, we can calculate how much he spends on haircuts per year:
+* 12 months / 2 months per haircut = 6 haircuts per year
+* 6 haircuts per year * $54 per haircut = $324
+
+Answer: $324

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say we need to sharpen 9 knives. The first knife costs $5.00. The next 3 knives cost $4.00. The next knives cost $3.00 each.
+
+We can represent this as a sequence: 5, 4, 4, 3, 3, 3, 3.
+
+The total cost will be the sum of these numbers: 5 + 4 + 4 + 3 + 3 + 3 + 3 = 22.
+
+So, the answer is: Answer: 22

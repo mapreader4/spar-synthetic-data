@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Zoe is buying soda and pizza for herself and 5 family members, for a total of 6 people.
+* Each bottle of soda costs $0.50.
+* Each slice of pizza costs $1.
+* We need to calculate the total cost of the soda and pizza.
+
+For the soda:
+* Zoe and her 5 family members each need 1 bottle of soda.
+* 6 bottles of soda at $0.50 each = 6 x $0.50 = $3.00
+
+For the pizza:
+* Zoe and her 5 family members each need 1 slice of pizza.
+* 6 slices of pizza at $1 each = 6 x $1 = $6.00
+
+The total cost of the soda and pizza is:
+* $3.00 + $6.00 = $9.00
+
+Therefore, Zoe took $9.00 with her to the store to pay for the soda and pizza.
+
+Answer: 9

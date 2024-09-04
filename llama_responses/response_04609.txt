@@ -1,0 +1,13 @@
+Let's break it down step by step:
+
+1. Let's say Lizette's score on the first quiz is x.
+2. Let's say her score on the second quiz is y.
+3. The average of the two scores is (x + y) / 2.
+4. The average is given as 94, so (x + y) / 2 = 94.
+5. To find the value of x, we can multiply both sides by 2 to get 2(x) = 188.
+6. Since the average is 94, we can subtract 94 from both sides to get 188 - 94 = 94.
+7. So, the value of x is 94.
+
+So, the answer is:
+
+Answer: 94

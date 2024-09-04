@@ -1,0 +1,7 @@
+Let's start by identifying the total number of animals on the farm. We know that there are twice as many cows as dogs, so if there are 184 cows, then there are 184 x 2 = 368 dogs.
+
+The farm owner decides to sell 1/4 of the cows, which is 184 / 4 = 46 cows. They also decide to sell 3/4 of the dogs, which is 368 / 4 = 92 dogs.
+
+The total number of animals sold is 46 + 92 = 138 animals. So, the remaining number of animals on the farm is 184 - 138 = 46.
+
+Answer: 46

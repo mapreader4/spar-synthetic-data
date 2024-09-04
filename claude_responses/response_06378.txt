@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Grant had 20 baby teeth total
+* He lost one tooth that he dropped on the way home from school, and another that he swallowed accidentally
+* That means he had 18 teeth that the tooth fairy collected
+* The total amount of money the tooth fairy left him was $54
+* The tooth fairy left him $20 for his first tooth
+* To find the amount the tooth fairy left him per tooth after the first one, we need to:
+    1. Subtract the $20 for the first tooth from the total of $54
+    2. Divide the remaining $34 by the 17 teeth the tooth fairy collected after the first one
+
+Calculation:
+* $54 total - $20 for first tooth = $34 remaining
+* $34 / 17 teeth = $2 per tooth after the first one
+
+Answer: 2

@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+
+1. The state fair charges $5 for a ticket.
+2. The fair made $2520 from ticket sales.
+3. To find the total number of tickets sold, we divide the total ticket revenue by the cost per ticket:
+   $2520 / $5 = 504 tickets sold
+4. Two-thirds of the 504 people who bought tickets will buy deep-fried fair food for $8 each.
+   Two-thirds of 504 = 336 people
+   Revenue from deep-fried fair food = 336 * $8 = $2688
+5. One quarter of the 504 people who bought tickets will go on a ride for $4 each.
+   One quarter of 504 = 126 people
+   Revenue from rides = 126 * $4 = $504
+6. One eighth of the 504 people who bought tickets will spend $15 on a souvenir.
+   One eighth of 504 = 63 people
+   Revenue from souvenirs = 63 * $15 = $945
+7. To find the total revenue, we add up the revenue from tickets, deep-fried fair food, rides, and souvenirs:
+   $2520 + $2688 + $504 + $945 = $6657
+
+Answer: $6657

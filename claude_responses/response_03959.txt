@@ -1,0 +1,14 @@
+To solve this problem, we need to find the price per kilogram of oranges and then use it to calculate the total cost for 12 kg of oranges.
+
+Given information:
+- Annie paid $6 for 2 kg of oranges.
+
+Step 1: Find the price per kilogram of oranges.
+Price per kilogram = Total cost / Total mass
+Price per kilogram = $6 / 2 kg = $3 per kg
+
+Step 2: Calculate the total cost for 12 kg of oranges.
+Total cost = Price per kilogram × Total mass
+Total cost = $3 per kg × 12 kg = $36
+
+Answer: $36

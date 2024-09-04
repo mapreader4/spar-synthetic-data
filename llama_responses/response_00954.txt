@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Step 1: Gerald's bags have 40 apples each, so Pam's bags will have 40 * 3 apples each, since each of her bags is as many apples as Gerald's bags.
+
+Step 2: Pam has 10 bags, so the total number of apples she has is 10 * (40 * 3) = 120.
+
+Answer: 120

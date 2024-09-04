@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, let's find the total cost of the apples Bronson buys from the farmers. Since each bushel contains 48 apples, and he buys 100 apples, we need to find the total number of bushels he buys. Since 100 apples is 100 / 48 = 2 bushels, we can multiply the cost per bushel by the number of bushels to get the total cost:
+
+Cost per bushel = $12
+Number of bushels = 2
+Total cost = $12 * 2 = $24
+
+Next, let's find the total revenue Bronson makes by selling the apples. Since he sells each apple for $0.40, and he sells 100 apples, we can multiply the price per apple by the number of apples to get the total revenue:
+
+Price per apple = $0.40
+Number of apples = 100
+Total revenue = $0.40 * 100 = $40
+
+Now, let's find the profit. We can subtract the total cost from the total revenue to get the profit:
+
+Total revenue = $40
+Total cost = $24
+Profit = $40 - $24 = $16
+
+Answer: 16

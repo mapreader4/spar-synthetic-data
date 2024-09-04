@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The movie makes $120 million in its opening weekend.  This is the revenue.
+2. The movie makes 3.5 times this amount during its entire run.  This means the total revenue is $120 million x 3.5 = $420 million.
+3. The production company keeps 60% of this.  This means they keep $420 million * 0.6 = $252 million.
+4. The movie cost $60 million to produce.  This means the production company's profit is $252 million - $60 million = $192 million.
+
+Answer: $192 million.

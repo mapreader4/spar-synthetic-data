@@ -1,0 +1,26 @@
+Let's break down the information given:
+
+1. Roger has the same amount of experience in years as all four of the others combined.
+2. Roger's retirement should come when he accumulates 50 years of experience.
+3. Peter said that when he came to the company, his daughter was 7 years old, and now she is 19 years old. This means Peter has been working for 12 years (19 - 7 = 12).
+4. Tom has twice as many years of experience as Robert.
+5. Robert has 4 years of experience less than Peter, but 2 more years of experience than Mike.
+6. Since Peter has been working for 12 years, Robert has 12 - 4 = 8 years of experience.
+7. Since Robert has 2 more years of experience than Mike, Mike has 8 - 2 = 6 years of experience.
+
+Now, let's find the total experience of the four coworkers:
+
+Peter: 12 years
+Robert: 8 years
+Tom: 2 * 8 = 16 years (since Tom has twice as many years of experience as Robert)
+Mike: 6 years
+
+Total experience of the four coworkers: 12 + 8 + 16 + 6 = 42 years
+
+Since Roger has the same amount of experience as the four coworkers combined, Roger has 42 years of experience.
+
+To find out how many more years Roger has to work before he retires, we subtract his current experience from the total experience needed for retirement:
+
+50 (years needed for retirement) - 42 (current experience) = 8 years
+
+Answer: 8

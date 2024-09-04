@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Patty agrees to give her siblings 3 cookies for every chore they do
+* Each kid normally has 4 chores per week
+* Patty has $15 to buy cookies
+* Each pack of cookies contains 24 cookies and costs $3
+
+First, let's calculate how many cookies Patty can buy with her $15:
+* $15 / $3 per pack = 5 packs of cookies
+* 5 packs x 24 cookies per pack = 120 cookies
+
+Now, let's calculate how many chores her siblings can do in exchange for cookies:
+* 3 cookies per chore
+* 120 cookies / 3 cookies per chore = 40 chores
+
+Finally, let's calculate how many weeks Patty can go without doing chores:
+* Each kid has 4 chores per week
+* 40 chores / 4 chores per kid per week = 10 weeks
+
+Answer: 10 weeks

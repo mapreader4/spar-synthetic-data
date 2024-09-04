@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Pauline's dress cost $30
+* Jean's dress was $10 less than Pauline's dress, so Jean's dress cost $20
+* Ida's dress was $30 more than Jean's dress, so Ida's dress cost $50
+* Patty's dress was $10 more than Ida's dress, so Patty's dress cost $60
+
+Now, to find the total amount spent on dresses by all the ladies, we add up the costs of each dress:
+* Pauline's dress: $30
+* Jean's dress: $20
+* Ida's dress: $50
+* Patty's dress: $60
+
+Total amount spent = $30 + $20 + $50 + $60 = $160
+
+Answer: $160

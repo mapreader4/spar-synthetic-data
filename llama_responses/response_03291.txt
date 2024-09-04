@@ -1,0 +1,38 @@
+Let's break this problem down step by step.
+
+First, we know that everyone has promised to contribute $400, and Rick has actually received $285. This means that the total amount of money that Rick is still waiting to receive is:
+
+$400 (promised) - $285 (received) = $115
+
+This is the total amount of money that Sally, Amy, Derek, and Carl still owe.
+
+Next, we know that Sally and Carl both owe equal amounts. Let's call this amount "x". Then, we can set up an equation to represent the situation:
+
+Sally's contribution + Carl's contribution = x
+
+We also know that Amy owes $30, and Derek owes half as much as Amy, which is:
+
+Derek's contribution = Amy's contribution / 2
+= $30 / 2
+= $15
+
+So, the total amount of money that Sally, Amy, Derek, and Carl still owe can be represented as:
+
+Sally's contribution + Carl's contribution + Amy's contribution + Derek's contribution = x + x + $30 + $15
+= 2x + $45
+
+We know that the total amount of money they still owe is $115, so we can set up an equation:
+
+2x + $45 = $115
+
+Subtracting $45 from both sides gives us:
+
+2x = $70
+
+Dividing both sides by 2 gives us:
+
+x = $35
+
+So, Sally and Carl each owe $35.
+
+Answer: 35

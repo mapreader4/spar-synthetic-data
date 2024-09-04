@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tod drives 55 miles to the north
+* Then he drives 95 miles to the west
+* He drives at a constant speed of 25 miles per hour
+
+To calculate the total distance traveled, we can use the Pythagorean theorem:
+* Distance = sqrt((55 miles)^2 + (95 miles)^2)
+* Distance = sqrt(3,025 + 9,025)
+* Distance = sqrt(12,050)
+* Distance = 109.7 miles
+
+Now, to calculate the total time it took Tod to drive this distance, we divide the total distance by his speed:
+* Time = 109.7 miles / 25 miles per hour
+* Time = 4.39 hours
+
+Answer: 4 hours

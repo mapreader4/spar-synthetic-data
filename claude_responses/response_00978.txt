@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Stephen has a total of 110 ants in his ant farm.
+2) Half of the ants are worker ants, so the number of worker ants is 110 / 2 = 55.
+3) 20 percent of the worker ants are male, so the number of male worker ants is 55 * 0.20 = 11.
+4) The number of female worker ants is the total number of worker ants minus the number of male worker ants.
+5) The number of female worker ants is 55 - 11 = 44.
+
+Answer: 44

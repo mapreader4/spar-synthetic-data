@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The field is a rectangle with a length of 100 m and a width of 50 m.
+2) The players are asked to do 6 laps of the field.
+3) To find the distance each player will run, we need to find the perimeter of the field and multiply it by the number of laps.
+4) The perimeter of a rectangle is 2 times the length plus 2 times the width.
+5) The perimeter of this field is 2 * 100 m + 2 * 50 m = 300 m.
+6) Since the players are asked to do 6 laps, the total distance each player will run is 6 * 300 m = 1,800 m.
+
+Answer: 1,800

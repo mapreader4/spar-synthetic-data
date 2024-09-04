@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Tom has 3,000 stamps initially.
+* Harry's gift is 10 more stamps than twice Mike's gift.
+* Mike has given Tom 17 stamps.
+
+Let's let x be the number of stamps Mike gave. Then, Harry's gift is 2x + 10.
+
+Since Harry's gift is 10 more than twice Mike's gift, we can set up the equation:
+
+2x + 10 = 17
+
+Subtract 10 from both sides to get:
+
+2x = 7
+
+Divide both sides by 2:
+
+x = 3.5
+
+So Mike gave Tom 3.5 stamps. Since Harry's gift is 10 more than twice Mike's gift, Harry's gift is:
+
+2(3.5) + 10 = 7 + 10 = 17
+
+Now, Tom received 17 stamps from Mike and 3.5 stamps from Harry. To find the total number of stamps Tom has now, we add the stamps he had initially and the stamps he received:
+
+3,000 + 17 + 3.5 = 3,020.5
+
+Answer: 3021

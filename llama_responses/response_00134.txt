@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+First, we need to calculate the total cost of the tickets. Since the regular ticket costs $109, and children below 12 years old have a $5 discount, the cost for the 6-year-old child is $109 - $5 = $104. Since the 10-year-old child is above 12 years old, they do not have a discount, so the cost for them is still $109.
+
+The total cost of the tickets is $104 + $109 = $213.
+
+Now, if they gave the cashier $500, the change they will receive is $500 - $213 = $287.

@@ -1,0 +1,30 @@
+Ernie's income is 4/5 of what it used to be. Jack's income is now twice what Ernie used to make. Let's call Ernie's original income x. Then, Jack's income is 2x.
+
+We know that 4/5 of x is equal to Ernie's current income. So, Ernie's current income is (4/5) * x. We are also given that Ernie's current income is 4/5 of what it used to be, so we know that 4/5 * x = x. We can solve for x by multiplying both sides of the equation by 5/4:
+
+(4/5) * x = x
+(4/5) * x = 4/5 * x
+x = x
+
+So, Ernie's current income is 4/5 of what it used to be, which is equal to 4/5 * x. Now, we are given that Jack's income is now twice what Ernie used to make, which is 2x. We can set up an equation using this information:
+
+Ernie's current income = 4/5 * x
+Jack's income = 2 * x
+
+We can solve for x by dividing both sides by 2:
+
+Ernie's current income / 2 = x
+Jack's income / 2 = x
+
+Ernie's current income / 2 = x = 4/5 * x / 2
+Ernie's current income / 2 = 4/5 * x / 2
+x = 6000
+
+So, Ernie used to make $6000.
+
+Ernie's current income = 4/5 * x = 4/5 * 1200 = 4800
+Jack's income = 2 * x = 2 * 1200 = 2400
+
+Ernie and Jack's combined income is 4800 + 2400 = 7200.
+
+Answer: 7200

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The farmer harvested 250 potatoes and bundled them in twenty-five's. 
+   * 250 potatoes / 25 per bundle = 10 bundles
+   * Each bundle was sold for $1.90
+   * 10 bundles x $1.90 per bundle = $19.00 from the potatoes
+
+2. The farmer harvested 320 carrots and bundled them in twenty's.
+   * 320 carrots / 20 per bundle = 16 bundles
+   * Each bundle was sold for $2.00
+   * 16 bundles x $2.00 per bundle = $32.00 from the carrots
+
+3. To calculate the total amount the farmer got from selling all his harvested crops:
+   * Total from potatoes: $19.00
+   * Total from carrots: $32.00
+   * Total amount: $19.00 + $32.00 = $51.00
+
+Answer: 51

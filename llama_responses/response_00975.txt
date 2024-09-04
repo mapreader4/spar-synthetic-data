@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+John hits 70% of his free throws, which means he hits 0.7 * 2 = 1.4 free throws per game. He gets fouled 5 times a game, which means he gets 5 * 2 = 10 free throws. 
+
+Since the team plays 20 games, and John plays in 80% of those games, he plays in 0.8 * 20 = 16 games. He gets 1.4 * 16 = 22.4 free throws in those 16 games.

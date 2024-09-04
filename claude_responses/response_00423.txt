@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Mom started with €55
+* She bought:
+    - 2 packs of bananas at €4 each, so 2 x €4 = €8
+    - Pears for €2
+    - Asparagus for €6
+    - A chicken for €11
+* Adding up all her purchases:
+    - €8 + €2 + €6 + €11 = €27
+* To calculate how much money Mom has left, we take the starting amount (€55) and subtract the total purchases (€27):
+    - €55 - €27 = €28
+
+Answer: €28

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Uncle Lou was given 4 bags of peanuts
+* Each bag contains 30 peanuts
+* So the total number of peanuts is 4 * 30 = 120 peanuts
+* The flight is 2 hours long, which is 120 minutes
+* If he eats all the peanuts during the flight, one at a time, consumed at equally spaced intervals, then the time between eating each peanut is the total flight time divided by the total number of peanuts.
+* 120 minutes / 120 peanuts = 1 minute per peanut
+
+Answer: 1 minute

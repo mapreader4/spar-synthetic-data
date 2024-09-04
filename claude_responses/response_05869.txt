@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jaden started with 14 toy cars
+* He then bought 28 more cars from the toy store
+* He then got 12 more cars for his birthday
+* So the total number of cars Jaden had after these additions is:
+    - 14 + 28 + 12 = 54 cars
+* He then gave 8 cars to his sister and 3 cars to his friend Vinnie
+* So the total number of cars he gave away is:
+    - 8 + 3 = 11 cars
+* To find the number of cars Jaden has left, we take the total number of cars he had (54) and subtract the number of cars he gave away (11):
+    - 54 - 11 = 43 cars
+
+Answer: 43

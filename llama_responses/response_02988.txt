@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the time Hadassah took to paint 12 paintings. If she took 6 hours to paint 12 paintings, then the time she takes to paint one painting is 6 hours / 12 = 0.5 hours.
+
+Now, if she paints 20 more paintings, the total time she would take would be 0.5 * 20 = 10 hours.
+
+Answer: 10

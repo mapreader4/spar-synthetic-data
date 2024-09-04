@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say Ryan's party had x people. Since his party was 4 times as huge as Taylor's party, that means Taylor's party had x/4 people. So, the total number of people at both parties combined is x + (x/4). We know that the total number of people at both parties combined is 240. So, we can set up the equation as follows:
+
+x + (x/4) = 240
+
+To solve for x, we can multiply both sides by 4:
+
+x + (x/4) = 240 * 4 = 240*4
+
+This simplifies to:
+
+4x = 960
+
+To solve for x, we can divide both sides by 4:
+
+x = 240
+
+So, there were 240 people at Ryan's party.

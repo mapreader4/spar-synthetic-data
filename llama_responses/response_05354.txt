@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of carrots Kelly harvested. The total number of carrots is the sum of the carrots in each bed. So, the total number of carrots is 55 + 101 + 78 = 234 carrots.
+
+Now, let's find the weight of each carrot. Since 6 carrots weigh one pound, we can divide the total number of carrots by 6 to find the weight of each carrot. So, the weight of each carrot is 234 ÷ 6 = 39.
+
+Now, we need to multiply the weight of each carrot by the number of carrots. So, the total weight of carrots is 39 x 234 = 9138.
+
+Answer: 9138

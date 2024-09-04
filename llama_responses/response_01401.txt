@@ -1,0 +1,7 @@
+Let's start by identifying the total number of towels used by the Smith family. Kylie uses 3 towels, her 2 daughters use 6 towels, and her husband uses 3 towels, so the total number of towels used is 3 + 6 + 3 = 12 towels.
+
+Since the washing machine can fit 4 towels for one load of laundry, we can divide the total number of towels by 4 to find the number of loads of laundry needed. 
+
+12 towels / 4 = 3 loads of laundry.
+
+Answer: 3

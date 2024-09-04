@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) Peter bought 2 pairs of pants and 5 shirts for a total of $62.
+2) Jessica bought 2 shirts for a total of $20.
+3) We know that each pair of pants and each shirt cost the same price, respectively.
+4) Let's call the cost of a pair of pants 'x' and the cost of a shirt 'y'.
+5) For Peter's purchase, we can write the equation: 2x + 5y = 62
+6) For Jessica's purchase, we can write the equation: 2y = 20
+7) Solving the second equation for y, we get y = 10.
+8) Substituting y = 10 into the first equation, we get: 2x + 50 = 62
+9) Solving for x, we get: 2x = 12, so x = 6.
+
+Answer: 6

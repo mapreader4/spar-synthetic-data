@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The total time to clean the room is 8 hours
+* Lilly was responsible for a quarter of the time spent cleaning
+* Fiona was responsible for the rest of the cleaning time
+
+First, we need to calculate how much time Lilly spent cleaning:
+* Lilly was responsible for a quarter of the time
+* 1/4 of 8 hours = 2 hours
+
+Now, we can calculate how much time Fiona spent cleaning:
+* Fiona was responsible for the rest of the cleaning time
+* Total time - Lilly's time = Fiona's time
+* 8 hours - 2 hours = 6 hours
+
+Finally, we need to convert Fiona's cleaning time from hours to minutes:
+* 6 hours x 60 minutes/hour = 360 minutes
+
+Answer: 360 minutes

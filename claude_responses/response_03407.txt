@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Andrew runs 2 miles per day
+* Peter runs 3 miles more than Andrew, so Peter runs 5 miles per day
+* They run for 5 days
+
+To calculate the total miles run by both of them:
+* Andrew's total miles = 2 miles per day x 5 days = 10 miles
+* Peter's total miles = 5 miles per day x 5 days = 25 miles
+* Total miles run by both of them = Andrew's total + Peter's total = 10 + 25 = 35 miles
+
+Answer: 35 miles

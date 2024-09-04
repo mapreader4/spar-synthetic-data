@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Know It All High School had 50 students at the competition.
+
+2. Karen High had 3/5 times as many students as Know It All High School. 
+   * 3/5 of 50 = 30 students from Karen High.
+
+3. The combined number of students from Know It All High School and Karen High was 50 + 30 = 80 students.
+
+4. Novel Corona High School had twice the combined number of students from the first two schools.
+   * Twice the combined number of 80 students is 160 students from Novel Corona High School.
+
+Now, to calculate the total number of students at the competition, we add up the students from all three schools:
+* 50 + 30 + 160 = 240 students
+
+Answer: 240

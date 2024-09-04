@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the box with 50 contacts for $25 costs x dollars per contact. Then, the total cost of the box is 50x. Similarly, the box with 99 contacts for $33 costs y dollars per contact. Then, the total cost of the box is 99y.
+
+We know that Adrian chooses the box that costs less per contact. So, we can say that 50x is less than 33y. This means that 50x < 33y.
+
+We can solve this inequality by dividing both sides by y:
+
+50x < 33y
+
+x/y < 33
+
+To find the value of x, we can multiply both sides by y:
+
+x = 50y/33
+
+x = 50/33
+
+x = 1.51
+
+Answer: 51

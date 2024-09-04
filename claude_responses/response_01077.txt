@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Louie obtained 80% on the math quiz.
+2) This means he got 80% of the total number of items correct.
+3) He had 5 mistakes, which means he got 5 items wrong.
+4) To find the total number of items on the quiz, we can use the formula:
+   Total items = Items correct + Items incorrect
+5) We know that Louie got 80% correct, so the number of items he got correct is 80% of the total.
+6) Let's call the total number of items x.
+7) Then the number of items he got correct is 0.8x.
+8) And the number of items he got incorrect is 5.
+9) So the equation is: 0.8x + 5 = x
+10) Solving for x, we get: 0.2x = 5, so x = 25.
+
+Answer: 25

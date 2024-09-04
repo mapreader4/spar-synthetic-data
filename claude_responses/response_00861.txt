@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The dental office gives away 2 toothbrushes to every patient who visits.
+2) Each patient visit takes 0.5 hours.
+3) The dentist works 8 hours per day.
+4) The dentist works 5 days per week.
+5) To calculate the number of patients the dentist sees in a 5-day work week:
+   - The dentist works 8 hours per day
+   - Each patient visit takes 0.5 hours
+   - So the dentist can see 8 / 0.5 = 16 patients per day
+   - In a 5-day work week, the dentist can see 16 * 5 = 80 patients
+6) Since the dentist gives away 2 toothbrushes per patient, the total number of toothbrushes given away in a 5-day work week is:
+   - 80 patients * 2 toothbrushes per patient = 160 toothbrushes
+
+Answer: 160

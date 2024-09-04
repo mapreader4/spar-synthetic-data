@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) There are 4 puppies and 3 dogs at the camp.
+2) Each dog eats twice as much food as a puppy.
+3) Each puppy eats three times as often as a dog.
+4) A dog eats 4 pounds of food three times a day.
+
+First, let's calculate how much a dog eats in a day:
+* A dog eats 4 pounds of food 3 times a day
+* So, a dog eats 4 x 3 = 12 pounds of food per day
+
+Now, let's calculate how much a puppy eats in a day:
+* A puppy eats half as much as a dog per meal
+* But a puppy eats 3 times as often as a dog
+* So, a puppy eats 4 / 2 = 2 pounds of food per meal
+* And a puppy eats 2 x 3 = 6 pounds of food per day
+
+Now, let's calculate the total amount of food eaten by the dogs and puppies in a day:
+* 3 dogs x 12 pounds per day = 36 pounds
+* 4 puppies x 6 pounds per day = 24 pounds
+* Total food eaten = 36 + 24 = 60 pounds
+
+Answer: 60 pounds

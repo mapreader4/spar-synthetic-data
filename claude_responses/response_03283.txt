@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The living room, dining room, and kitchen take up 1,000 sq ft.
+2) The house also has a guest bedroom and a master bedroom suite.
+3) The guest bedroom is a quarter of the size of the master bedroom suite.
+4) The total size of the house is 2,300 sq ft.
+5) To find the size of the master bedroom suite, we need to subtract the size of the living room, dining room, and kitchen (1,000 sq ft) from the total size of the house (2,300 sq ft).
+6) This leaves 1,300 sq ft for the guest bedroom and master bedroom suite.
+7) Since the guest bedroom is a quarter of the size of the master bedroom suite, we can represent the size of the master bedroom suite as 4x, where x is the size of the guest bedroom.
+8) We know that the total of the guest bedroom and master bedroom suite is 1,300 sq ft, so we can write the equation: x + 4x = 1,300.
+9) Solving for x, we get x = 260 sq ft.
+10) Therefore, the size of the master bedroom suite is 4 * 260 = 1,040 sq ft.
+
+Answer: 1,040 sq ft.

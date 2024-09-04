@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Bobby made a batch of soup weighing 80 kg.
+2) Each day, the batch gets reduced by half.
+3) On the first day, the batch will be 80 kg / 2 = 40 kg.
+4) On the second day, the batch will be 40 kg / 2 = 20 kg.
+5) On the third day, the batch will be 20 kg / 2 = 10 kg.
+6) On the fourth day, the batch will be 10 kg / 2 = 5 kg.
+
+Answer: 5 kg

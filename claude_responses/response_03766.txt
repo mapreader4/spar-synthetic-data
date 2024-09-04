@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Miss Darlington has a basket of 20 blueberries.
+2) She picked 9 more baskets with the same amount of berries.
+3) To find the total number of blueberries, we need to add the number of blueberries in the first basket to the number of blueberries in the 9 additional baskets.
+4) The first basket has 20 blueberries.
+5) Each of the 9 additional baskets also has 20 blueberries.
+6) So the total number of blueberries is 20 + (9 x 20) = 20 + 180 = 200.
+
+Answer: 200

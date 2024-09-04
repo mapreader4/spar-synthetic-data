@@ -1,0 +1,10 @@
+To solve this problem, we can break it down step by step.
+
+1. Mandy's first month, she got a promotional rate of one-third the normal price, which is $30/3 = $10.
+2. For the first month, she paid $10.
+3. In the fourth month, she went over her data limit and was charged an extra fee of $15.
+4. So, in total, she paid $10 for the first month and $15 for the extra fee, so in total, she paid $10 + $15 = $25.
+5. For the next 2 months, Mandy paid the normal price of $30 per month, so she paid $30 x 2 = $60.
+6. So, the total amount Mandy paid for the 6 months is $25 + $60 = $85.
+
+Answer: 85

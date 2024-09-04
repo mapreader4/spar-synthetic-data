@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The distance between city A and city B is 100 miles.
+2) The distance between city B and city C is 50 miles more than the distance between city A and city B, which is 100 miles. Therefore, the distance between city B and city C is 150 miles.
+3) The distance between city C and city D is twice the distance between city B and city C, which is 150 miles. Therefore, the distance between city C and city D is 300 miles.
+4) To calculate the total distance between city A and city D, we add the distances between each city:
+   - Distance between city A and city B: 100 miles
+   - Distance between city B and city C: 150 miles
+   - Distance between city C and city D: 300 miles
+   - Total distance = 100 + 150 + 300 = 550 miles
+
+Answer: 550

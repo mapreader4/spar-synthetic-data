@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. The permits cost $250.
+2. The contractor charges $150 an hour, and he works for 3 days at 5 hours per day.
+3. To find the total cost of the labor, we multiply the number of hours worked by the hourly rate: 3 days * 5 hours/day * $150 per hour = 75 * 3 = $225.
+4. The inspector costs 80% less, which is 0.8 * 225 = $180.
+5. To find the total cost, we add the cost of the permits, the labor, and the inspector: $250 + $225 + $180 = $475.
+
+Answer: 475

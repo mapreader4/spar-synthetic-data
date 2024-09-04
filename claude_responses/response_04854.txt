@@ -1,0 +1,18 @@
+To solve this problem, we need to find the speed at which Jed was traveling.
+
+Given information:
+- The fine for speeding in Zeoland is $16 for each mile per hour the driver is traveling over the posted speed limit.
+- Jed was fined $256 for speeding on a road with a posted speed limit of 50 mph.
+
+Step 1: Determine the number of miles per hour Jed was traveling over the posted speed limit.
+Fine for speeding = $16 per mile per hour over the speed limit
+Total fine = $256
+Number of miles per hour over the speed limit = Total fine / Fine per mile per hour
+Number of miles per hour over the speed limit = $256 / $16 = 16 mph
+
+Step 2: Determine the speed at which Jed was traveling.
+Posted speed limit = 50 mph
+Speed at which Jed was traveling = Posted speed limit + Number of miles per hour over the speed limit
+Speed at which Jed was traveling = 50 mph + 16 mph = 66 mph
+
+Answer: 66 mph

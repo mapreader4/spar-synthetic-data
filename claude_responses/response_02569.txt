@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The ratio of Chloe's wins to Max's wins is 8:3.
+2) This means that for every 8 wins Chloe has, Max has 3 wins.
+3) We know that Chloe won 24 times.
+4) To find how many times Max won, we need to find the ratio of Chloe's wins to Max's wins, and then use that to calculate Max's wins.
+5) The ratio of Chloe's wins to Max's wins is 8:3.
+6) This means that for every 11 total wins (8 for Chloe + 3 for Max), Chloe has 8 of them.
+7) So if Chloe has 24 wins, the total number of wins is 24 * 11/8 = 33.
+8) Since Chloe has 24 wins, Max must have the remaining 33 - 24 = 9 wins.
+
+Answer: 9

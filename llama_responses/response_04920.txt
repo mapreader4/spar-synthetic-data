@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Erin finds 8 less than 6 times as many obsolete books as damaged books. This means that 6 times as many damaged books are 8 less than the total number of damaged books. We can write this as an equation:
+
+6x - 8 = number of damaged books
+
+We can add 8 to both sides of the equation to get:
+
+6x = number of damaged books + 8
+
+Now, we can subtract 8 from both sides of the equation to get:
+
+6x = number of damaged books
+
+To solve for the number of damaged books, we can multiply both sides by 6:
+
+number of damaged books = 6x = 6 * x
+
+So, we need to find the value of x. Let's subtract 8 from both sides of the equation:
+
+number of damaged books = 6x - 8
+
+number of damaged books - 8 = 6x
+
+Now, we can add 8 to both sides of the equation to get:
+
+number of damaged books + 8 - 8 = 6x + 8 - 8
+
+number of damaged books = 0
+
+So, the number of damaged books is 0. But we are asked for the number of damaged books, not the number of damaged books. Since the number of damaged books is 0, there are 8 damaged books.

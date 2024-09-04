@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Stacy has 32 berries
+* Steve takes 4 of Stacy's berries
+* After taking the 4 berries, Steve still has 7 less berries than Stacy started with
+
+So, we can calculate the number of berries Steve started with:
+* Stacy started with 32 berries
+* Steve took 4 berries from Stacy
+* So, Stacy now has 32 - 4 = 28 berries
+* Steve has 7 less berries than Stacy started with, which is 32 - 7 = 25 berries
+
+Therefore, Steve started with 25 berries.
+
+Answer: 25

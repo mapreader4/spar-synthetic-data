@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Professor Oscar has 5 classes
+* Each class has 35 students
+* Each student's exam has 10 questions
+* To find the total number of questions Professor Oscar must review, we need to:
+1) Calculate the total number of students:
+   * 5 classes x 35 students per class = 175 students
+2) Calculate the total number of questions:
+   * 175 students x 10 questions per exam = 1,750 questions
+Therefore, the total number of questions Professor Oscar must review is:
+
+Answer: 1,750

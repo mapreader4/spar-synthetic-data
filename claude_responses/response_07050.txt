@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The mason has to build 6 courses of a wall, with 10 bricks per course
+* He has to build 4 such walls
+* So for each wall, he needs 6 courses x 10 bricks per course = 60 bricks
+* For 4 walls, he needs 4 x 60 = 240 bricks
+* However, he was not able to finish 2 courses of the last wall due to a lack of bricks
+* Each course has 10 bricks, so the 2 unfinished courses would have used 2 x 10 = 20 bricks
+* Therefore, the total number of bricks used is 240 - 20 = 220 bricks
+
+Answer: 220

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The 24oz barrel has 60 servings
+* Each serving has 12 cheese balls
+* So, the total number of cheese balls in the 24oz barrel is:
+    - 60 servings x 12 cheese balls per serving = 720 cheese balls
+* The question states that the 35oz barrel is being asked about
+* To find the number of cheese balls in the 35oz barrel, we need to set up a proportion:
+    - 24oz barrel has 720 cheese balls
+    - 35oz barrel has x cheese balls
+    - 24/720 = 35/x
+    - Solving for x, we get:
+        x = (35 * 720) / 24 = 1,050 cheese balls
+
+Answer: 1,050 cheese balls

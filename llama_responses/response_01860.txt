@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The movie is 1.5 hours long, so the total time of the movie is 1.5 hours.
+2. The movie is replayed 6 times each day, so the total time the movie is played each day is 1.5 * 6 = 9 hours.
+3. There is a 20-minute advertisement before the start of the movie, so the total time the movie theater operates each day is the total time of the movie plus the time of the advertisement, which is 1.5 + 0.33 hours = 1.83 hours.
+
+Answer: 1.83

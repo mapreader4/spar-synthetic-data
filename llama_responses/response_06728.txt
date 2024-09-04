@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total amount of money Michael has initially. Michael has 42 dollars. 
+
+Michael gives away half of his money to his brother. Half of 42 is 21. So, his brother now has 21 dollars.
+
+His brother then buys 3 dollars worth of candy. So, his brother now has 21 - 3 = 18 dollars.
+
+Answer: 18

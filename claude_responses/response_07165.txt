@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The school has 1000 students.
+2) Half of the students were taken on a trip to the nearby beach. That means 1000 / 2 = 500 students were taken on the trip.
+3) That leaves 1000 - 500 = 500 students remaining in the school.
+4) Half of the remaining 500 students were sent home. That means 500 / 2 = 250 students were sent home.
+5) Therefore, the number of students still in the school is 500 - 250 = 250.
+
+Answer: 250

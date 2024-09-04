@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Henry had 33 games originally
+* He gave 5 of those games to Neil
+* So, Henry now has 33 - 5 = 28 games
+* The problem states that Henry now has 4 times more games than Neil
+* Let's call the number of games Neil had at first as x
+* We know that Henry has 4 times more games than Neil, so Henry has 4x games
+* We also know that Henry has 28 games, so 4x = 28
+* Solving for x, we get x = 28 / 4 = 7
+
+Therefore, the number of games Neil had at first is:
+Answer: 7

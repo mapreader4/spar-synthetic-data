@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The deep-sea monster rises from the waters once every hundred years
+* Over three hundred years, it has consumed 847 people
+* Each new ship has twice as many people as the last ship
+
+So, we can assume that the monster ate ships in the following years:
+* 0-100 years
+* 100-200 years
+* 200-300 years
+
+Since the number of people on each ship doubles, we can represent the number of people on each ship as follows:
+* Ship 1 (0-100 years): x people
+* Ship 2 (100-200 years): 2x people
+* Ship 3 (200-300 years): 4x people
+
+Now, we can set up an equation to solve for x:
+* x + 2x + 4x = 847
+* 7x = 847
+* x = 121
+
+Therefore, the number of people on the ship the monster ate in the first hundred years was 121.
+
+Answer: 121

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Marta bought 5 textbooks for $10 each, so that's a total of:
+
+5 x 10 = 50
+
+She also bought 2 textbooks online for a total of $40.
+
+And she bought 3 textbooks directly from the bookstore for a total of 3 times the cost of the online ordered books, which is:
+
+40 x 3 = 120
+
+To find the total amount Marta spent, we add the cost of the in-store and online textbooks:
+
+50 + 120 = 170
+
+Answer: 170

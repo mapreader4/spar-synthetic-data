@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jackie ordered:
+  - 2 bottles of shampoo and conditioner at $10.00 each, so that's 2 x $10.00 = $20.00
+  - 3 bottles of lotion at $6.00 each, so that's 3 x $6.00 = $18.00
+* The total amount Jackie spent is $20.00 + $18.00 = $38.00
+* The minimum amount required to be eligible for free shipping is $50.00
+* To calculate how much more Jackie needs to spend, we take the minimum amount ($50.00) and subtract the amount she has already spent ($38.00):
+* $50.00 - $38.00 = $12.00
+
+Answer: $12

@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. Sam hunts 6 animals.
+2. Rob hunts half as many animals as Sam, so Rob hunts 6/2 = 3 animals.
+3. Mark hunts 1/3 of the total of what Rob and Sam hunt. Since Rob hunts 3 animals, and Sam hunts 6 animals, the total of what Rob and Sam hunt is 3 + 6 = 9. So Mark hunts 1/3 of 9, which is 3 animals.
+4. Peter hunts 3 times as many animals as Mark does, so Peter hunts 3 * 3 = 9 animals.
+
+Now, let's add up the number of animals each person hunts: Sam hunts 6, Rob hunts 3, and Peter hunts 9. So, in total, they hunt 6 + 3 + 9 = 18 animals in a day.

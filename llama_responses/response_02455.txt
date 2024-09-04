@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. The teacher needs to buy a bow for each of the 23 students. The cost of a bow is $5, so the total cost of the bows is 23 x $5 = $115.
+2. The teacher also needs a bottle of vinegar for each student. The cost of a bottle of vinegar is $2, so the total cost of the vinegar is 23 x $2 = $46.
+3. The teacher also needs a box of baking soda for each student. The cost of a box of baking soda is $1, so the total cost of the baking soda is 23 x $1 = $23.
+4. To find the total cost of all the supplies, we need to add the cost of the bows, vinegar, and baking soda: $115 + $46 + $23 = $184.
+
+Answer: 184

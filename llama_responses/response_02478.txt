@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding out how many points Mark has. Mark has 50% more points than Eric, and Eric has 6 points. So, Mark has 6 + 50 = 56 points.
+
+Now, we know Samanta has 8 more points than Mark, and Mark has 56 points. So, Samanta has 56 + 8 = 64 points.
+
+Now, we add the points of all three people together. Samanta has 64 points, Mark has 56 points, and Eric has 6 points. The total number of points is 64 + 56 + 6 = 126.
+
+Answer: 126

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Helga can write 5 articles every 30 minutes
+* She usually works 4 hours a day, 5 days a week
+* 4 hours a day = 240 minutes a day
+* 240 minutes a day / 30 minutes per 5 articles = 40 articles per day
+* 40 articles per day x 5 days a week = 200 articles per week
+* Last Thursday, she worked an extra 2 hours
+* 2 hours = 120 minutes
+* 120 minutes / 30 minutes per 5 articles = 20 extra articles
+* Last Friday, she worked an extra 3 hours
+* 3 hours = 180 minutes
+* 180 minutes / 30 minutes per 5 articles = 30 extra articles
+* Total extra articles written = 20 + 30 = 50 articles
+
+Answer: 250

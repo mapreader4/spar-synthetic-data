@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+* Emily can type 60 words per minute
+* We need to find how long it takes her to type 10,800 words
+* To do this, we need to divide the total number of words (10,800) by the number of words she can type per minute (60)
+* 10,800 words / 60 words per minute = 180 minutes
+* Now, we need to convert the time from minutes to hours
+* 180 minutes / 60 minutes per hour = 3 hours
+
+Answer: 3 hours

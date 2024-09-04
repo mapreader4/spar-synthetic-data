@@ -1,0 +1,15 @@
+Let's start by calculating the total number of fish Danny has initially:
+
+94 guppies + 76 angelfish + 89 tiger sharks + 58 Oscar fish = 317
+
+Now, let's calculate the number of fish Danny sells:
+
+30 guppies + 48 angelfish + 17 tiger sharks + 24 Oscar fish = 119
+
+Now, let's subtract the number of fish Danny sells from the total:
+
+317 - 119 = 198
+
+So, the number of fish that will remain is:
+
+Answer: 198

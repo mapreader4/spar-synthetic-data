@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Stella needs to restock 1 roll of toilet paper per day in each of the 6 bathrooms
+* That means she needs 6 rolls per day
+* There are 7 days in a week
+* So in 1 week, she needs 6 rolls x 7 days = 42 rolls
+* After 4 weeks, she will need 42 rolls x 4 weeks = 168 rolls
+* Each pack of toilet paper contains 1 dozen (12) rolls
+* To calculate how many packs of toilet paper Stella needs to buy, we divide the total number of rolls needed (168) by the number of rolls in each pack (12)
+* 168 rolls / 12 rolls per pack = 14 packs
+
+Answer: 14 packs

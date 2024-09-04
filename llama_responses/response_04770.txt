@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Ed stayed for 6 hours last night and 4 hours this morning. To find the total number of hours Ed stayed, we add the two together: 6 + 4 = 10.
+
+Ed was charged $1.50 per hour every night and $2 per hour every morning. To find the cost for the night, we multiply the rate by the number of hours: 1.50 * 6 = 9.00. To find the cost for the morning, we multiply the rate by the number of hours: 2 * 4 = 8.00. The total cost is the sum of the two: 9.00 + 8.00 = 17.00.
+
+Ed had $80 initially. After paying for his stay, he is left with the difference between the initial amount and the total cost: 80 - 17.00 = 63.00.
+
+Answer: 63.00

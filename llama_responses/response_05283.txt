@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. Cody buys $40 worth of stuff. So, the initial price is $40.
+2. The taxes were 5%, which is $40 * 0.05 = $2.
+3. After the taxes, Cody got an $8 discount. So, the final price is $40 - $8 = $32.
+4. Cody and his friend split the final price equally. So, each of them paid $32 / 2 = $16.
+
+Answer: 16

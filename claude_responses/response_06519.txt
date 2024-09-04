@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On the first day, the snail kite ate 3 snails.
+* On each subsequent day, the snail kite ate 2 more snails than it did the day before.
+* So, the number of snails eaten each day is:
+  - Day 1: 3 snails
+  - Day 2: 3 + 2 = 5 snails
+  - Day 3: 5 + 2 = 7 snails
+  - Day 4: 7 + 2 = 9 snails
+  - Day 5: 9 + 2 = 11 snails
+* To find the total number of snails eaten over 5 days, we add up the number of snails eaten each day:
+  - 3 + 5 + 7 + 9 + 11 = 35 snails
+
+Answer: 35

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* In the first week, the fishmonger sold 50 kg of salmon.
+* In the second week, the fishmonger sold three times more salmon than in the first week.
+* To calculate the amount sold in the second week, we multiply the first week's amount by 3:
+  * 50 kg x 3 = 150 kg
+* To find the total amount of fish sold in the two weeks, we add the amounts from each week:
+  * 50 kg + 150 kg = 200 kg
+
+Answer: 200

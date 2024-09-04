@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Initially, the colony has some unknown number of penguins. Let's call this number x.
+
+In the first year, the colony doubles in size, so the number of penguins becomes 2x.
+
+In the second year, the colony triples in size, so the number of penguins becomes 3(2x) = 6x.
+
+In the third year, the colony gains 129 penguins, so the total number of penguins becomes 6x + 129.
+
+We are given that the colony has 1077 penguins now, so we can set up the equation:
+
+6x + 129 = 1077
+
+Subtract 129 from both sides:
+
+6x = 948
+
+Divide both sides by 6:
+
+x = 158
+
+So, the colony had 158 penguins at the beginning of the first year.
+
+Now, let's calculate how many fish the colony caught per day. Each penguin eats 1.5 fish per day, and there are 158 penguins. The total number of fish eaten per day is:
+
+158 penguins * 1.5 fish/penguin = 237 fish
+
+Answer: 237

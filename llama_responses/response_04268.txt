@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start with Derek's money. He has $40 initially. He spends $14 on lunch for himself, so he has $40 - $14 = $26 left. Then, he spends $11 on lunch for his dad, so he has $26 - $11 = $15 left. Then, he spends $5 on more lunch for himself, so he has $15 - $5 = $10 left.
+
+Now, let's look at Dave's money. He has $50 initially. He spends $7 on lunch for his mom, so he has $50 - $7 = $43 left.
+
+Now, let's find out how much more money Dave has left than Derek. We can subtract the amount of money Derek has left from the amount of money Dave has. So, we have $10 - $43 = $33.
+
+Answer: 33

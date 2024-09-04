@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many candy bars Kevin has. We know that Kevin has 4 candy bars less than Nicole, so if Nicole has some amount of candy bars, say x, then Kevin has x - 4 candy bars.
+
+We know that Lena has 16 candy bars and she needs 5 more to have 3 times as many as Kevin. So, if she has 3 times as many as Kevin, she needs 3x. Since Kevin has x - 4, Lena needs 3(x - 4) = 3x - 12 candy bars. We can set up an equation to represent this:
+
+3x - 12 = 16 - 5
+
+We can solve this equation by adding 5 to both sides:
+
+3x - 12 + 5 = 16
+
+Subtracting 12 from both sides, we get:
+
+3x = 16 + 5 + 12
+
+3x = 28
+
+So, Lena has 28 candy bars, which is 12 more than Nicole. So, the answer is:
+
+Answer: 12

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Borris liquor store currently uses 90 kilograms of grapes every 6 months.
+2) He wants to increase his production by 20%.
+3) To find the new amount of grapes he needs in a year, we first need to find the new amount of grapes he needs in 6 months.
+4) The current amount of grapes he needs in 6 months is 90 kilograms.
+5) With a 20% increase, the new amount of grapes he needs in 6 months is 90 + (90 * 0.20) = 108 kilograms.
+6) To find the amount of grapes he needs in a year, we multiply the 6-month amount by 2:
+108 kilograms * 2 = 216 kilograms.
+
+Answer: 216 kilograms.

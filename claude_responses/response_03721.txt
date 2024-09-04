@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Jessica bought 10 chocolate bars, 10 packs of gummy bears, and 20 bags of chocolate chips
+* The total cost of her purchase was $150
+* We know the cost of a pack of gummy bears is $2 and the cost of a bag of chocolate chips is $5
+
+To find the cost of 1 chocolate bar, we need to first calculate the total cost of the gummy bears and chocolate chips, and then subtract that from the total cost to find the cost of the chocolate bars.
+
+The total cost of the gummy bears is:
+* 10 packs x $2 per pack = $20
+
+The total cost of the chocolate chips is:
+* 20 bags x $5 per bag = $100
+
+The total cost of the gummy bears and chocolate chips is:
+* $20 + $100 = $120
+
+Now, we can subtract the cost of the gummy bears and chocolate chips from the total cost to find the cost of the chocolate bars:
+* $150 - $120 = $30
+
+Since Jessica bought 10 chocolate bars, the cost of 1 chocolate bar is:
+* $30 / 10 = $3
+
+Answer: $3

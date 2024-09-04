@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total number of gallons the pool can hold.
+
+The pool can hold 50 gallons of water.
+
+Step 2: Calculate the total number of hours it takes to fill the pool.
+
+It takes 50 hours to fill the pool.
+
+Step 3: Calculate the total number of gallons per hour.
+
+The hose runs at 100 gallons per hour.
+
+Step 4: Calculate the total cost of water.
+
+It costs 1 cent for 10 gallons. To find the cost per gallon, we can divide 1 cent by 10 gallons to get 0.1 cents per gallon.
+
+Step 5: Calculate the total cost of water for the pool.
+
+We need to multiply the total number of gallons by the cost per gallon.
+
+50 gallons * 0.1 cents per gallon = 5 dollars
+
+Step 6: Calculate the total cost of water for the pool.
+
+It costs 5 dollars to fill the pool.
+
+Answer: 5

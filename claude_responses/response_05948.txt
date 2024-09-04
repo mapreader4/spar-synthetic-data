@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Land costs:
+   * The land required is 2000 square meters
+   * The cost per square meter is $50
+   * Therefore, the total land cost is: 2000 square meters x $50 per square meter = $100,000
+
+2. Brick costs:
+   * The house requires 10,000 bricks
+   * The cost per 1,000 bricks is $100
+   * Therefore, the total brick cost is: (10,000 bricks / 1,000 bricks) x $100 per 1,000 bricks = $1,000
+
+3. Roof tile costs:
+   * The house requires 500 roof tiles
+   * The cost per roof tile is $10
+   * Therefore, the total roof tile cost is: 500 roof tiles x $10 per roof tile = $5,000
+
+4. Total construction costs:
+   * Adding up the land, brick, and roof tile costs:
+   * $100,000 + $1,000 + $5,000 = $106,000
+
+Answer: $106,000

@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given:
+
+* Euston had 20 more carriages than Norfolk.
+* Norwich had 100 carriages.
+* Flying Scotsman had 20 more carriages than Norwich.
+
+We can start by subtracting the number of carriages in Norfolk from the number of carriages in Euston to get the number of carriages in Euston minus Norfolk:
+
+Euston had 20 more carriages than Norfolk, so Euston - Norfolk = 20 - 0 = 20 carriages.
+
+Next, we can subtract the number of carriages in Norwich from the number of carriages in Euston to get the number of carriages in Euston minus Norwich:
+
+Euston had 20 carriages than Norwich, so Euston - Norwich = 20 - 20 = 0 carriages.
+
+Now, we can add the number of carriages in Norfolk and the number of carriages in Euston minus Norfolk to get the total number of carriages in Euston:
+
+Euston had 20 carriages - 0 = 20 carriages.
+
+Then, we can add the number of carriages in Norwich to the total:
+
+Euston had 20 carriages + 100 carriages = 120 carriages.
+
+Finally, we can add the number of carriages in Flying Scotsman to the total:
+
+Euston had 120 carriages + 20 carriages = 140 carriages.
+
+Answer: 140

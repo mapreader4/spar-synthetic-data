@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Judy uses 10 pencils during her 5 day school week
+* So in a 5 day school week, she uses 10 pencils
+* In a 45 day period, there are 9 school weeks (45 days / 5 days per week)
+* So in 45 days, Judy will use 9 * 10 = 90 pencils
+* A 30 pack of pencils costs $4
+* To calculate how many 30 packs of pencils Judy needs to buy, we divide 90 pencils by 30 pencils per pack:
+* 90 pencils / 30 pencils per pack = 3 packs
+* Each pack costs $4, so Judy will spend 3 * $4 = $12 on pencils over 45 days
+
+Answer: 12

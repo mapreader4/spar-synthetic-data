@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: We know the tree grows at the rate of 50 cm every 2 weeks.
+
+Step 2: We know that the tree is currently 2 meters tall. We need to convert this to centimeters, so 2 meters is 200 cm.
+
+Step 3: We want to know the height of the tree in 4 months. Since the tree grows at the rate of 50 cm every 2 weeks, we can find the total growth in 4 months by multiplying the growth rate by the number of weeks in 4 months.
+
+Step 4: We need to convert 4 months to weeks. There are 4 months = 16 weeks. So, the total growth in 4 months is 16 * 50 = 800 cm.
+
+Answer: 800

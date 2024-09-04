@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Clive has $10 to spend
+* He needs 80 olives
+* A jar of 20 olives costs $1.50
+* To calculate how many jars Clive needs to buy:
+    - 80 olives / 20 olives per jar = 4 jars
+* To calculate the total cost:
+    - 4 jars x $1.50 per jar = $6.00
+* To calculate the change Clive will have:
+    - $10.00 - $6.00 = $4.00
+
+Answer: 4

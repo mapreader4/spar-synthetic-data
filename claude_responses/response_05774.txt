@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The vet fees for dogs are $15 each, and the vet fees for cats are $13 each.
+2) 8 families adopted dogs, and 3 families adopted cats.
+3) To calculate the total vet fees collected:
+   - 8 dogs x $15 = $120 in vet fees for dogs
+   - 3 cats x $13 = $39 in vet fees for cats
+   - Total vet fees collected = $120 + $39 = $159
+4) The vet donated a third of the fees they were paid back to the shelter.
+5) To calculate the amount donated:
+   - One third of $159 = $159 / 3 = $53
+
+Answer: $53

@@ -1,0 +1,25 @@
+Okay, let's break this down step by step:
+* Jeremy is driving 600 miles
+* His average speed is 50 miles per hour
+* He makes a rest stop for 15 minutes every 2 hours of driving
+* His car gets 18 miles per gallon of gas
+* His gas indicator comes on when he's used 15 gallons, at which point he stops to refill, which takes 10 minutes
+* He starts out with a full tank of gas
+
+First, let's calculate the time it takes to drive the 600 miles:
+* Time to drive 600 miles = 600 miles / 50 miles per hour = 12 hours
+
+Now, let's calculate the number of rest stops he needs to make:
+* Number of 2-hour intervals in 12 hours = 12 hours / 2 hours = 6 rest stops
+* Total time spent on rest stops = 6 rest stops x 15 minutes = 90 minutes
+
+Next, let's calculate the number of times he needs to refill his gas tank:
+* Gas used = 600 miles / 18 miles per gallon = 33.33 gallons
+* Number of times he needs to refill = 33.33 gallons / 15 gallons = 2.22, rounded up to 3 times
+* Total time spent refilling = 3 times x 10 minutes = 30 minutes
+
+Finally, we can add up the total time:
+* Total time = 12 hours + 90 minutes + 30 minutes = 12.5 hours
+* Total time in minutes = 12.5 hours x 60 minutes/hour = 750 minutes
+
+Answer: 750 minutes

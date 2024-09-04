@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The primer costs $30.00 a gallon, and there are 5 rooms to be primed. So, the total cost for primer is 5 x 30.00 = $150.00.
+2. The paint costs $25.00 a gallon, and there are 5 rooms to be painted. So, the total cost for paint is 5 x 25.00 = $125.00.
+3. There is a 20% discount on the primer, so we need to calculate the discount. 20% of 30.00 is 0.20 x 30.00 = 6.00. So, the discount is $6.00.
+4. The total cost for primer is 150.00 - 6.00 = 144.00.
+5. The total cost for paint and primer is 125.00 + 144.00 = 269.00.
+
+Answer: 269.00

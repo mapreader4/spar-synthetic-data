@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) John invests $1000 in the bank.
+2) The bank offers a simple interest rate of 10% per year.
+3) Simple interest is calculated using the formula: I = P * r * t, where I is the interest earned, P is the principal amount, r is the interest rate, and t is the time in years.
+4) In this case, P = $1000, r = 0.10 (10%), and t = 3 years.
+5) Plugging these values into the formula, we get:
+I = $1000 * 0.10 * 3 = $300
+6) The total amount John has after 3 years is the principal amount plus the interest earned:
+$1000 + $300 = $1300
+Answer: $1300

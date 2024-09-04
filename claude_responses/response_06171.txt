@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ted needs to purchase 5 bananas
+* Each banana costs $2
+* So the total cost of the 5 bananas is:
+    - 5 bananas x $2 per banana = $10
+* Ted also needs to purchase 10 oranges
+* Each orange costs $1.50
+* So the total cost of the 10 oranges is:
+    - 10 oranges x $1.50 per orange = $15
+* To calculate the total amount of money Ted needs to purchase 5 bananas and 10 oranges, we add the cost of the bananas and the cost of the oranges:
+    - $10 + $15 = $25
+
+Answer: $25

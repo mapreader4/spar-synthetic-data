@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tony is washing:
+  - 1 pair of pants (10 ounces)
+  - 2 shirts (5 ounces each, so 10 ounces total)
+  - 1 pair of shorts (8 ounces)
+  - 3 pairs of socks (2 ounces each, so 6 ounces total)
+* So the total weight of the items he is washing is:
+  - 10 + 10 + 8 + 6 = 34 ounces
+* The maximum allowed weight is 50 ounces
+* So the remaining weight that can be added is:
+  - 50 - 34 = 16 ounces
+* Each pair of underwear weighs 4 ounces
+* So the maximum number of pairs of underwear that can be added is:
+  - 16 ounces / 4 ounces per pair = 4 pairs
+
+Answer: 4

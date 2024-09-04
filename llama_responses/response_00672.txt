@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of carrots Harris can buy in a year. There are 365 days in a year, and he feeds his dog 1 large carrot per day. So, in a year, Harris can buy:
+
+1 carrot/day * 365 days = 365 carrots
+
+Now, we need to find the cost of the carrots. Each bag has 5 carrots, and each bag costs $2.00. So, the cost of a bag is:
+
+5 carrots * $2.00 = $10.00
+
+Since Harris buys 1 carrot per day, the number of bags he can buy in a year is:
+
+365 carrots / 5 carrots per bag = 73 bags
+
+The total cost of the carrots in a year is:
+
+73 bags * $10.00 per bag = $730.00
+
+So, the answer is: Answer: $730.00

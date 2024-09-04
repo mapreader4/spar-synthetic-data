@@ -1,0 +1,6 @@
+Let's break this problem down step by step.
+
+1. The book club is made up of 3 couples and 5 single people, so there are a total of 3 + 5 = 8 people in the club.
+2. Ron and his wife are one couple, so that means that there are 8 - 2 = 6 people left for Ron to choose from.
+3. Since the club chooses a new book every week, there are 52 weeks in a year, so Ron will get to pick a new book 52 times a year.
+4. So, the answer is 52.

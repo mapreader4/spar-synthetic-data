@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jenna's goal is to read 600 pages in September, which has 30 days
+* She won't be able to read on the 4 weekdays starting on the 13th, so that's 4 days she can't read
+* She can read 100 pages on the 23rd
+* That leaves 25 days (30 days - 4 days she can't read - 1 day she can read 100 pages)
+* To calculate the number of pages she needs to read per day on the remaining 25 days, we take the total pages (600) and subtract the 100 pages she can read on the 23rd, leaving 500 pages to read over the remaining 25 days
+* 500 pages / 25 days = 20 pages per day
+
+Answer: 20

@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Tom buys 5 shirts from each of his 4 favorite fandoms, so he buys a total of 5 x 4 = 20 shirts.
+
+The shirts normally cost $15 each, so the total cost before the sale would be 20 x 15 = 300 dollars.
+
+However, there is a 20% off sale, so we need to calculate the discount. To do this, we multiply the original price by the discount percentage:
+
+300 x 0.20 = 60
+
+So the discount is 60 dollars. To find the new price, we subtract the discount from the original price:
+
+300 - 60 = 240
+
+So the total cost after the discount is 240 dollars.
+
+However, Tom still needs to pay 10% tax on the discounted price. To calculate the tax, we multiply the discounted price by the tax percentage:
+
+240 x 0.10 = 24
+
+So the tax is 24 dollars. To find the final total, we add the tax to the discounted price:
+
+240 + 24 = 264
+
+Answer: 264

@@ -1,0 +1,16 @@
+Let's break this problem down step by step:
+
+1. Ivan has a feeder that holds 2 cups of birdseed.
+2. Each cup of birdseed can feed 14 birds.
+3. Ivan has to refill the feeder every week.
+4. Ivan has to deal with a hungry squirrel that steals half a cup of birdseed every week.
+
+Let's use variables to represent the number of birds Ivan's feeder can feed in one week. Let's call this variable x.
+
+The total amount of birdseed Ivan's feeder can feed in one week is 2 cups * 14 = 28.
+
+However, Ivan has to deal with the squirrel that steals half a cup of birdseed every week. So, the squirrel steals 1/2 cup of birdseed every week. This means that Ivan has to refill the feeder by 1 1/2 cups of birdseed every week.
+
+So, the total number of birds Ivan's feeder can feed in one week is 28 - 1 1/2 = 26 3/4.
+
+Answer: 26 3/4

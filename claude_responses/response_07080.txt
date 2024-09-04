@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+On Monday, Hallie works for 7 hours at $10/hour, so her base pay for Monday is:
+7 hours x $10/hour = $70
+
+On Monday, she also receives $18 in tips.
+So her total earnings for Monday are:
+$70 (base pay) + $18 (tips) = $88
+
+On Tuesday, Hallie works for 5 hours at $10/hour, so her base pay for Tuesday is:
+5 hours x $10/hour = $50
+
+On Tuesday, she also receives $12 in tips.
+So her total earnings for Tuesday are:
+$50 (base pay) + $12 (tips) = $62
+
+On Wednesday, Hallie works for 7 hours at $10/hour, so her base pay for Wednesday is:
+7 hours x $10/hour = $70
+
+On Wednesday, she also receives $20 in tips.
+So her total earnings for Wednesday are:
+$70 (base pay) + $20 (tips) = $90
+
+Now, to calculate her total earnings from Monday to Wednesday, we add up the earnings for each day:
+$88 (Monday) + $62 (Tuesday) + $90 (Wednesday) = $240
+
+Answer: $240

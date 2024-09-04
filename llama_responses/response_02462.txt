@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Andy can get 50 demerits in a month before getting fired. He already got 2 demerits per instance for showing up late 6 times, so he got 2 x 6 = 12 demerits. He also got 15 demerits for making an inappropriate joke. So, he got 12 + 15 = 27 demerits. So, he got a total of 27 demerits. 
+
+To find out how many more demerits he can get this month before getting fired, we need to subtract 27 from 50. 
+
+50 - 27 = 23
+
+Answer: 23

@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's start by finding the number of students in Tina's and Maura's classrooms. Since the problem states that they have the same number of students, we can say that the number of students in their classrooms is the same. Let's call this number x.
+
+The problem also states that Zack's classroom has half the amount of total students between Tina and Maura's classrooms. So, we can set up the equation:
+
+x = Tina's students + Maura's students / 2
+
+We know that the total number of students in Zack's classroom is 22. So, we can set up the equation:
+
+x + x / 2 = 22
+
+To solve for x, we can multiply both sides of the equation by 2:
+
+x = 22 * 2
+
+x = 44
+
+Now, we can find the total number of students in the three classrooms:
+
+Tina's students + Maura's students + Zack's students = 44 + x
+
+The total number of students is 44 + x, but we know that x is 44. So, the total number of students is:
+
+44 + 44 = 88
+
+Answer: 88

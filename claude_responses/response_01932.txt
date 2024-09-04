@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Each football team member must pay $40 to get admission into the school party.
+* There are 60 players on the football team.
+* The entire team attends 8 such parties in a year.
+
+To calculate the total amount of money collected in the 8 parties, we need to:
+1. Calculate the total amount of money collected in one party.
+2. Multiply the total amount collected in one party by the number of parties (8).
+
+Step 1: Total amount collected in one party
+* Each player pays $40 to attend the party.
+* There are 60 players on the team.
+* Total amount collected in one party = 60 players x $40 per player = $2,400
+
+Step 2: Total amount collected in 8 parties
+* Total amount collected in one party = $2,400
+* Number of parties = 8
+* Total amount collected in 8 parties = $2,400 x 8 = $19,200
+
+Answer: $19,200

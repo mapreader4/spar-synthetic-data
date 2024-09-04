@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start with the information given that Pete walks on his hands one quarter the speed that Tracy can do cartwheels. Let's say Tracy can do cartwheels at x miles per hour. Then, Pete can walk on his hands at 1/4x miles per hour.
+
+Since Pete walks three times faster than Susan walks forwards, and Tracy does one-handed cartwheels twice as fast as Susan walks forwards, we know that Pete walks 3x times faster than Susan walks forwards. We can set up an equation for this:
+
+Pete's speed = 3 * Susan's speed
+
+Since Pete walks on his hands 1/4x speed, and Susan walks on her feet at x speed, we can set up another equation:
+
+Pete's hand speed = 1/4x
+Susan's speed = x
+
+We can substitute the second equation into the first one to get:
+
+Pete's speed = 3 * (1/4x)
+Pete's speed = 3/4x
+
+Since Pete walks backwards, his speed is 3/4x. However, the question asks for the speed in miles per hour, not the speed on his hands. We know that Pete walks on his hands 2 miles per hour. So, we can set up an equation to solve for x:
+
+Pete's speed on hands = 2
+3/4x = 2
+x = 8/3
+
+So, Pete walks backwards at 8/3 miles per hour.

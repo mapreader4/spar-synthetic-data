@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of times Martin rings the big bell. We know that he rings the big bell more than 1/3 as often as the small bell, so if we let x be the number of times he rings the big bell, then he rings the small bell 4x times. We also know that the total number of times he rings both bells is 52.
+
+We can set up an equation to represent this situation:
+
+x + 4x = 52
+
+We can simplify this equation by combining like terms:
+
+x + 4x = 52
+
+We can then subtract 4x from both sides of the equation to get:
+
+x = 52 - 4x
+
+We can then divide both sides by 5 to get:
+
+x/5 = 10.4
+
+So, Martin rings the big bell 10.4 times. Answer: 10.4

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jenny can carry a total of 100 ounces.
+2) Each bottle weighs 6 ounces and each can weighs 2 ounces.
+3) Jenny collects 20 cans, which weigh 20 * 2 = 40 ounces.
+4) The remaining weight capacity is 100 - 40 = 60 ounces.
+5) Since each bottle weighs 6 ounces, Jenny can carry 60 / 6 = 10 bottles.
+6) Jenny gets paid 10 cents per bottle and 3 cents per can.
+7) For the 10 bottles, she makes 10 * 10 = 100 cents.
+8) For the 20 cans, she makes 20 * 3 = 60 cents.
+9) The total amount of money she makes is 100 + 60 = 160 cents.
+
+Answer: 160

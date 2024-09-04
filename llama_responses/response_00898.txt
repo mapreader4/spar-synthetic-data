@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's find the total length of the ropes Tony has:
+
+* 8-foot rope: 8 feet
+* 20-foot rope: 20 feet
+* 3 x 2-foot ropes: 3 x 2 = 6 feet
+* 7-foot rope: 7 feet
+
+Adding these up, Tony has a total of:
+8 + 20 + 6 + 7 = 41 feet
+
+However, each knot between the ropes makes him lose 1.2 feet, so we need to subtract 1.2 feet for each knot. There are 4 knots (since he has 5 ropes and ties 4 knots between them), so he loses a total of:
+4 x 1.2 = 4.8 feet
+
+To find the total length of the rope after tying them all together, we subtract the total lost length from the total length:
+41 - 4.8 = 36.2 feet
+
+Answer: 36

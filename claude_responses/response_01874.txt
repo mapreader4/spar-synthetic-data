@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sonny received 45 boxes of cookies
+* He gave 12 boxes to his brother
+* He gave 9 boxes to his sister
+* He gave 7 boxes to his cousin
+* To find the number of boxes left for him, we need to subtract the number of boxes he gave away from the total number of boxes he received
+* 12 boxes to his brother + 9 boxes to his sister + 7 boxes to his cousin = 12 + 9 + 7 = 28 boxes given away
+* 45 boxes received - 28 boxes given away = 17 boxes left for him
+
+Answer: 17

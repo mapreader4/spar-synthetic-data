@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+
+1) For the first bag, the percentage of kernels that popped is:
+(60 kernels popped / 75 total kernels) x 100 = 80%
+
+2) For the second bag, the percentage of kernels that popped is: 
+(42 kernels popped / 50 total kernels) x 100 = 84%
+
+3) For the third bag, the percentage of kernels that popped is:
+(82 kernels popped / 100 total kernels) x 100 = 82% 
+
+To find the average percentage, we add up the three percentages and divide by 3:
+(80% + 84% + 82%) / 3 = 82%
+
+Answer: 82

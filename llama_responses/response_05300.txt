@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: Javier has already played 20 games, and he has averaged 2 hits in each game. So, the total number of hits he has is 2 * 20 = 40.
+
+Step 2: Javier has 10 games left to play. To find the total number of hits he needs to get to an average of 3 hits per game, we need to find the total number of hits he needs in total.
+
+Let's call the total number of hits he needs x. We can set up an equation: 40 (current total hits) + x (hits in remaining games) = 3 (hits per game) * (total games).
+
+Step 3: We know that Javier has 10 games left to play. So, the total number of hits he needs is 3 * 30 = 30.
+
+Answer: 30

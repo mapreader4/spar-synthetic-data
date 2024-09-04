@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) John buys a piano for $500.
+2) He hires a teacher for 20 lessons at $40 per lesson.
+3) He gets a 25% discount on the lessons.
+
+To calculate the cost of the lessons:
+* 20 lessons at $40 per lesson = $800
+* With a 25% discount, the cost of the lessons is $800 - (25% of $800) = $800 - $200 = $600
+
+Now, to calculate the total cost:
+* Cost of the piano: $500
+* Cost of the lessons: $600
+* Total cost: $500 + $600 = $1,100
+
+Answer: $1,100

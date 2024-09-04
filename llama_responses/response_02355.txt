@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by calculating the total feet of packing tape needed for the large boxes. Since each large box takes 4 feet of packing tape to seal, and there are 2 large boxes, the total amount of tape needed for the large boxes is 2 x 4 = 8 feet.
+
+Next, let's calculate the total amount of tape needed for the medium boxes. Each medium box takes 2 feet of packing tape to seal, and there are 8 medium boxes, so the total amount of tape needed for the medium boxes is 8 x 2 = 16 feet.
+
+Finally, let's calculate the total amount of tape required for the small boxes. Each small box takes 1 foot of packing tape to seal, and there are 5 small boxes, so the total amount of tape needed for the small boxes is 5 x 1 = 5 feet.
+
+To find the total amount of tape used, we add the total tape needed for the large boxes, medium boxes, and small boxes: 8 + 16 + 5 = 29 feet.
+
+Answer: 29

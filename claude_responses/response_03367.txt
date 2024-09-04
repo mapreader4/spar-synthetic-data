@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The movie theatre has 250 seats total.
+2) The cost of a ticket is $6 for an adult and $4 for a child.
+3) The theatre is full, which means all 250 seats are occupied.
+4) There are 188 children in the theatre.
+5) To calculate the total ticket revenue, we need to find the number of adults in the theatre and then calculate the revenue from both adults and children.
+6) The number of adults in the theatre is 250 - 188 = 62.
+7) The revenue from the adults is 62 * $6 = $372.
+8) The revenue from the children is 188 * $4 = $752.
+9) The total ticket revenue is the sum of the revenue from adults and children: $372 + $752 = $1,124.
+
+Answer: 1124

@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+1. Regular ticket price: $10
+2. Regular popcorn & drink combo price: $10
+3. From 12 noon to 3 pm, there is a special offer:
+   - 20% off tickets
+   - 50% off food combos
+
+To calculate the savings:
+
+Ticket price with 20% discount:
+* $10 - (20% of $10) = $10 - $2 = $8
+
+Popcorn & drink combo price with 50% discount:
+* $10 - (50% of $10) = $10 - $5 = $5
+
+Total cost during the special offer:
+* $8 (ticket) + $5 (popcorn & drink combo) = $13
+
+Total cost during regular hours:
+* $10 (ticket) + $10 (popcorn & drink combo) = $20
+
+The savings would be:
+* $20 (regular cost) - $13 (special offer cost) = $7
+
+Answer: $7

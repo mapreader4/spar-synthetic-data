@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The box contains 6 blue balls
+* The box contains 4 red balls
+* The box contains 3 times as many green balls as blue balls
+* To find the number of green balls, we take the number of blue balls (6) and multiply it by 3, which gives us 18 green balls
+* The box also contains twice as many yellow balls as red balls
+* To find the number of yellow balls, we take the number of red balls (4) and multiply it by 2, which gives us 8 yellow balls
+* Now we can add up all the balls in the box:
+* 6 blue balls
+* 4 red balls
+* 18 green balls
+* 8 yellow balls
+* 6 + 4 + 18 + 8 = 36 balls
+
+Answer: 36

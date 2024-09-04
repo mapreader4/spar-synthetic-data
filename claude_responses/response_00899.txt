@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ben works 8-hour shifts
+* It takes him 5 hours to build 1 rocking chair
+* We need to find how many chairs he can build in 10 days
+
+First, let's calculate how many hours Ben can work in 10 days:
+* 10 days x 8 hours per day = 80 hours
+
+Now, let's calculate how many chairs he can build in 80 hours:
+* 80 hours / 5 hours per chair = 16 chairs
+
+Therefore, the answer is:
+Answer: 16

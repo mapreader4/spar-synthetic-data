@@ -1,0 +1,8 @@
+Let's start by identifying the total number of nails used:
+
+30% of the nails are used to repair the kitchen, so 0.3 * 400 = 120 nails are used.
+70% of the remaining nails are used to repair the fence, so 0.7 * 400 = 280 nails are used.
+
+Total nails used = 120 + 280 = 400 - 400 = 0 nails are used.
+
+So, 0 nails are remaining.

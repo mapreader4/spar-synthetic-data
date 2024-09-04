@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Step 1: Calculate the total number of hours Trisha works in a year.
+
+Trisha works 40 hours per week, and there are 52 weeks in a year. So, we can calculate the total number of hours worked in a year as follows:
+
+40 hours/week * 52 weeks/year = 2080 hours/year
+
+Step 2: Calculate Trisha's annual pay.
+
+Trisha's hourly wage is 15 dollars per hour, so we can calculate her annual pay as follows:
+
+2080 hours/year * 15 dollars/hour = 31,200 dollars/year
+
+Step 3: Calculate the amount of pay withheld for taxes, unemployment insurance, and social security.
+
+20 percent of Trisha's pay will be withheld for taxes, unemployment insurance, and social security. We can calculate this amount as follows:
+
+0.2 * 31,200 = 6,240 dollars
+
+Step 4: Calculate Trisha's take-home pay.
+
+Trisha's take-home pay is the total pay minus the amount withheld for taxes, unemployment insurance, and social security.
+
+31,200 - 6,240 = 24,960
+
+Answer: 24,960

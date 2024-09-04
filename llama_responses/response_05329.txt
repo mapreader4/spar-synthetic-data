@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the number of white flowers is x.
+
+We know that the total number of flowers is 42.
+
+We also know that a third of the flowers are pink, and two are red. So, the number of pink flowers is 1/3 * 42 = 14.
+
+We also know that the total number of flowers is the sum of the number of pink flowers, red flowers, and white flowers. So, we can set up the equation: 14 + red flowers + x = 42.
+
+We know that the number of red flowers is 2, since 2 are red. So, we can substitute this into the equation: 14 + 2 = x.
+
+To solve for x, we can subtract 14 from both sides of the equation: x = 16.
+
+Answer: 16

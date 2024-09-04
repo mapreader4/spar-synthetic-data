@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Roxy initially has 7 flowering plants in her garden.
+2) She has twice as many fruiting plants as flowering plants, so she has 7 x 2 = 14 fruiting plants.
+3) On Saturday, she buys 3 more flowering plants and 2 more fruiting plants.
+   - So now she has 7 + 3 = 10 flowering plants.
+   - And she has 14 + 2 = 16 fruiting plants.
+4) On Sunday, she gives away 1 flowering plant and 4 fruiting plants to Ronny.
+   - So now she has 10 - 1 = 9 flowering plants.
+   - And she has 16 - 4 = 12 fruiting plants.
+5) The total number of plants remaining in her garden is the sum of her flowering and fruiting plants.
+   - 9 flowering plants + 12 fruiting plants = 21 plants.
+
+Answer: 21

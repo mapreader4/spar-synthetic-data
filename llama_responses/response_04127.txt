@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's let's start by identifying the number of daisies sold on the first day. We are told that the flower shop sold 45 daisies on the first day.
+
+On the second day, they sold 20 more flowers than they did on the first day. So, the number of daisies sold on the second day is 45 + 20 = 65.
+
+On the third day, they sold 10 less than twice the flowers that were sold on the second day. So, the number of daisies sold on the third day is 65 - 10 = 55.
+
+Now, the flower shop sold a total of 350 daisies for 4 days. The number of daisies sold on the 4th day is what is left over after the number of daisies sold on the first 3 days. We can set up an equation to solve for this:
+
+Let x be the number of daisies sold on the 4th day. The equation is:
+
+45 + 65 + 55 + x = 350
+
+We can solve for x by subtracting 45 + 65 from both sides of the equation:
+
+x = 350 - (45 + 65) = 240
+
+Answer: 240

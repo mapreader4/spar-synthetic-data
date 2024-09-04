@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Marcy has 6 tubs of lip gloss, and each tub holds 2 tubes of lip gloss. So, the total number of tubes of lip gloss she has is:
+
+6 tubs x 2 tubes/tub = 12 tubes
+
+Each tube of lip gloss holds enough lip gloss for 3 people's makeup. So, the total number of people Marcy can do makeup for is:
+
+12 tubes x 3 people/tube = 36 people
+
+Answer: 36

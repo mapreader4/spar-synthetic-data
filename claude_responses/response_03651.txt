@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) Steve has 25 socks in total.
+2) He has 4 pairs of matching socks, which means he has 8 socks that match.
+3) The remaining socks are mismatching.
+4) To find the number of mismatching socks, we take the total number of socks (25) and subtract the number of matching socks (8).
+5) 25 - 8 = 17 mismatching socks.
+
+Answer: 17

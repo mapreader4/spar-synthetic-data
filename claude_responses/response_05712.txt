@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The airline company owns 5 airplanes.
+2) Each airplane has 20 rows with 7 seats in each row.
+3) To calculate the total number of seats per airplane, we multiply the number of rows (20) by the number of seats per row (7):
+20 rows x 7 seats per row = 140 seats per airplane
+4) Since the airline company owns 5 airplanes, the total number of seats across all airplanes is:
+5 airplanes x 140 seats per airplane = 700 seats
+5) Each airplane makes 2 flights per day.
+6) Therefore, the total number of passengers the airline company can accommodate each day is:
+700 seats x 2 flights per day = 1,400 passengers
+
+Answer: 1,400

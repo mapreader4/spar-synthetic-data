@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+On Tuesday, Sarah pulled 25 weeds.
+
+The next day, she pulled three times the number of weeds she did the day before, so she pulled 3 x 25 = 75 weeds.
+
+On Thursday, her allergies bothered her and she could only pull up one-fifth of the weeds she pulled on the day before. Since she pulled 75 weeds the day before, she pulled 1/5 x 75 = 15 weeds.
+
+Finally, on Friday, it rained for half the day and she managed to pull up 10 fewer weeds than she did on Thursday. She pulled 15 weeds on Thursday, so she pulled 15 - 10 = 5 weeds on Friday.
+
+To find the total number of weeds Sarah pulled, I add up the number of weeds she pulled each day:
+
+25 + 75 + 15 + 5 = 120
+
+Answer: 120

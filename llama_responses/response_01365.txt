@@ -1,0 +1,13 @@
+To find the total number of kilobytes of storage space taken up by the 400 photos, we can multiply the number of photos by the size of each photo:
+
+400 photos * 1.5 kilobytes per photo = 600 kilobytes
+
+The computer has enough storage space to store 2000 photos, so we can find the remaining storage space left by subtracting the storage space taken up by the 400 photos from the total storage space:
+
+2000 kilobytes - 600 kilobytes = 1400 kilobytes
+
+Since each video is 200 kilobytes, we can fit:
+
+1400 kilobytes / 200 kilobytes per video = 7 videos
+
+Answer: 7

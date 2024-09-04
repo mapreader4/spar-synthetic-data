@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+1. The total number of people in Andrew's family is 4 (2 parents and 2 siblings).
+
+2. The total number of masks needed per person is 100 / 4 = 25 masks per person.
+
+3. Since the family members change masks every 4 days, the number of days needed to finish the pack is 25 masks / 25 masks per person = 1 day.
+
+4. However, since there are 4 people in the family, the total number of days needed to finish the pack is 1 day * 4 = 4 days.
+
+Answer: 4

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by finding out how many gallons of milk Aunt May had at the end of the day. She started with 365 gallons in the morning. She got 380 gallons more in the evening, so she had a total of:
+
+365 + 380 = 745 gallons
+
+She sold 612 gallons to the ice cream factory, so she has:
+
+745 - 612 = 133 gallons left
+
+But wait, she had 15 gallons left over from yesterday. So, we need to subtract that from the total:
+
+133 - 15 = 118 gallons
+
+Answer: 118

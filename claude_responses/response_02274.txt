@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* James originally had 20 friends
+* He got into an argument with 2 of his friends, so he no longer considers them as friends
+* This means he lost 2 friends
+* On his way back home, he made one more friend
+* To calculate the number of friends James has left, we take the original number of friends (20), subtract the number of friends he lost (2), and add the new friend he made (1)
+* 20 - 2 + 1 = 19
+
+Answer: 19

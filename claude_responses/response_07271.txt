@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Cristina brings 7 photos
+* John brings 10 photos
+* Sarah brings 9 photos
+* The photo album has 40 slots available
+
+To find out how many photos Clarissa needs to bring, we need to add up the photos brought by Cristina, John, and Sarah, and then subtract that from the total number of slots in the photo album.
+
+Total photos brought by Cristina, John, and Sarah:
+* 7 + 10 + 9 = 26 photos
+
+Now, we subtract this from the total number of slots in the photo album:
+* 40 - 26 = 14 photos
+
+Therefore, Clarissa needs to bring 14 photos in order to complete the photo album.
+
+Answer: 14

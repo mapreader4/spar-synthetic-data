@@ -1,0 +1,7 @@
+To solve this problem, I will first find the speed of the boy. To do that, I will first convert the time from minutes to hours. There are 60 minutes in an hour, so 45 minutes is 0.75 hours. Then, I will use the formula distance = speed * time to find the speed. So, distance / time = speed. Plugging in the values given, I get:
+
+distance = 1.5 km / 0.75 = speed
+
+To solve for speed, I will multiply both sides of the equation by 1000, since there are 1000 meters in a kilometer. So, (1.5 * 1000) / 0.75 = 200.
+
+Answer: 200

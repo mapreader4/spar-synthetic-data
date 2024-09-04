@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Aren's flight from New York to Hawaii will take 11 hours and 20 minutes
+* He spends:
+    - 2 hours reading
+    - 4 hours watching two movies
+    - 30 minutes eating his dinner
+    - 40 minutes listening to the radio
+    - 1 hour and 10 minutes playing games
+* To calculate the total time spent on these activities:
+    - 2 hours + 4 hours + 0.5 hours + 0.67 hours + 1.17 hours = 8.33 hours
+* Now, we need to subtract the total time spent on these activities from the total flight time:
+    - 11 hours and 20 minutes = 11.33 hours
+    - 11.33 hours - 8.33 hours = 3 hours
+
+Therefore, Aren has 3 hours left to take a nap.
+
+Answer: 3

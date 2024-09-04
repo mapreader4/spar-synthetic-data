@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The massager vibrates at 1600 vibrations per second at the lowest setting.
+2) At the highest setting, it vibrates 60% faster. 
+   * 60% of 1600 is 960.
+   * So, the vibrations per second at the highest setting is 1600 + 960 = 2560.
+3) Matt uses the massager for 5 minutes at the highest setting.
+   * 5 minutes = 300 seconds.
+4) To find the total number of vibrations, we multiply the vibrations per second by the number of seconds:
+   * 2560 vibrations per second x 300 seconds = 768,000 vibrations.
+
+Answer: 768,000

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* James watched 2 episodes of Jeopardy
+* Each Jeopardy episode is 20 minutes long
+* So the total time for Jeopardy is 2 episodes x 20 minutes = 40 minutes
+
+* James also watched 2 episodes of Wheel of Fortune
+* Wheel of Fortune is twice as long as Jeopardy, so each episode is 40 minutes
+* So the total time for Wheel of Fortune is 2 episodes x 40 minutes = 80 minutes
+
+* To calculate the total time James spent watching TV, we add the time for Jeopardy and Wheel of Fortune:
+* 40 minutes + 80 minutes = 120 minutes
+
+* To convert this to hours, we divide by 60 minutes per hour:
+* 120 minutes / 60 minutes per hour = 2 hours
+
+Answer: 2

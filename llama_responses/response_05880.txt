@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find out how many crackers Nedy eats from Monday to Thursday. Nedy eats 8 packs of crackers from Monday to Thursday, so that's 4 days of crackers.
+
+Now, let's find out how many crackers Nedy eats on Friday. If Nedy eats twice the amount on Friday, then that's 16 crackers.
+
+So, to find the total number of crackers Nedy ate in all the 5 days from Monday to Friday, we add the crackers from Monday to Thursday, which is 8, to the crackers from Friday, which is 16. So, the total number of crackers Nedy ate is 8 + 16 = 24.
+
+Answer: 24

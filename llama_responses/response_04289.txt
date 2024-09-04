@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Layla rode her bicycle slowly to the high school.
+* She rode 4 miles around the running track at her faster, race pace.
+* She rode back home, slowly, on the same route.
+* Her total mileage was 10 miles.
+
+We can start by identifying the distance from Layla's house to the high school as a variable, let's call it x.
+
+The total distance she rode can be represented by the equation: 2x + 4 + x = 10
+
+The 2x represents the distance she rode to the high school and back, and the 4 represents the distance she rode around the track.
+
+We can solve for x by subtracting 4 from both sides of the equation:
+
+2x + 4 + x = 10
+2x + x = 6
+3x = 6
+x = 2
+
+So, the distance from Layla's house to the high school is 2 miles.
+
+Answer: 2

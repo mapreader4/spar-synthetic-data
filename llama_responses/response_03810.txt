@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the question:
+
+* Danielle's apartment has 6 rooms.
+* Heidi's apartment has 3 times as many rooms as Danielle's apartment.
+* Grant's apartment has 1/9 as many rooms as Heidi's apartment.
+
+We can start by identifying the number of rooms in Heidi's apartment. Since Heidi's apartment has 3 times as many rooms as Danielle's apartment, and Danielle's apartment has 6 rooms, Heidi's apartment has 3 x 6 = 18 rooms.
+
+Now, we can find the number of rooms in Grant's apartment. Grant's apartment has 1/9 as many rooms as Heidi's apartment. Since Heidi's apartment has 18 rooms, Grant's apartment has 18 / 9 = 2 rooms.
+
+Answer: 2

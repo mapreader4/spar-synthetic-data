@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Initially, Wendi has 4 chickens.
+
+Then, she brings home enough additional chickens to double the number of chickens she owns. This means she brings home 4 x 2 = 8 more chickens. So, she now has 4 + 8 = 12 chickens.
+
+After that, a neighbor's dog eats one of her chickens, leaving her with 12 - 1 = 11 chickens.
+
+Next, Wendi finds an additional 4 less than ten chickens and brings them home. This means she finds 10 - 4 = 6 chickens. So, she now has 11 + 6 = 17 chickens.
+
+Answer: 17

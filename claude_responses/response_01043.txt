@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The cost of the couch is $2500.
+2) The cost of the sectional is $3500.
+3) The combined cost of everything else is $2000.
+4) James gets a 10% discount on everything.
+5) To calculate the total cost before the discount:
+   - Couch: $2500
+   - Sectional: $3500
+   - Everything else: $2000
+   - Total before discount: $2500 + $3500 + $2000 = $8000
+6) To calculate the 10% discount:
+   - 10% of $8000 = $800
+7) To calculate the total cost after the 10% discount:
+   - $8000 - $800 = $7200
+
+Answer: $7200

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Each pizza from Doc's Pizza contains 6 pieces
+* 10 fourth-graders each bought 20 pizzas
+* To find the total number of pizzas, we multiply the number of fourth-graders (10) by the number of pizzas each one bought (20):
+  * 10 fourth-graders x 20 pizzas each = 200 pizzas
+* Now, to find the total number of pieces of pizza, we multiply the number of pizzas (200) by the number of pieces per pizza (6):
+  * 200 pizzas x 6 pieces per pizza = 1,200 pieces of pizza
+
+Answer: 1,200

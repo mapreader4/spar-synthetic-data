@@ -1,0 +1,21 @@
+Let's break down the information we have:
+
+1. His second throw skips 2 more times than his first.
+2. His third throw skips twice as many times as his second.
+3. His fourth throw skips 3 fewer times than his third throw.
+4. His fifth throw skips one more time than the fourth throw.
+5. His fifth throw skipped 8 times across the water.
+
+From statement 5, we know his fifth throw skipped 8 times. From statement 4, we know his fifth throw skipped one more time than the fourth throw. This means his fourth throw skipped 7 times.
+
+From statement 3, we know his fourth throw skipped 3 fewer times than his third throw. This means his third throw skipped 10 times.
+
+From statement 2, we know his third throw skipped twice as many times as his second. This means his second throw skipped 5 times.
+
+From statement 1, we know his second throw skipped 2 more times than his first. This means his first throw skipped 3 times.
+
+Now, let's add up the number of skips for all his throws:
+
+3 (first throw) + 5 (second throw) + 10 (third throw) + 7 (fourth throw) + 8 (fifth throw) = 33
+
+Answer: 33

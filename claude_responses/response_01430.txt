@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* There are 14 girls and 11 boys, so the total number of children is 14 + 11 = 25 children.
+* Each playgroup contains 25 people.
+* Since there are 3 equally sized playgroups, the total number of people at the park is 3 * 25 = 75 people.
+* The number of parents is the total number of people minus the number of children, so the number of parents is 75 - 25 = 50 parents.
+
+Answer: 50

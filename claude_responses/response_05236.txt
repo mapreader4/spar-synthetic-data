@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John gives his dog 2 treats per day
+* The cost of each treat is $0.10
+* The month is 30 days long
+
+To calculate the total cost, we need to:
+1. Calculate the number of treats John's dog will eat in 30 days:
+   * 2 treats per day x 30 days = 60 treats
+
+2. Calculate the total cost of the 60 treats:
+   * 60 treats x $0.10 per treat = $6.00
+
+Therefore, the answer is:
+Answer: 6

@@ -1,0 +1,53 @@
+Let's start by finding the total number of slices of pizza. Since there are 5 pizzas, and each pizza is divided into x slices, the total number of slices is 5x.
+
+We know that there are 20 children at the party, and each child should receive an equal number of slices. Let's call this number of slices "y". Since there are 20 children, the total number of slices that the children should receive is 20y.
+
+We can set up an equation to represent the situation:
+
+5x = 20y
+
+Now, we need to find the value of x that makes the equation true. We can do this by dividing both sides of the equation by 5:
+
+x = 20y/5
+
+Since x is the number of slices per pizza, and we are given that the slices per pizza can be 6, 8, or 10, we can try each of these values to see if they satisfy the equation.
+
+If x = 6, then:
+
+6 = 20y/5
+
+6 × 5 = 20y
+
+30 = 20y
+
+y = 1.5
+
+This doesn't make sense, since we can't divide slices among children in fractions. So, x cannot be 6.
+
+If x = 8, then:
+
+8 = 20y/5
+
+8 × 5 = 20y
+
+40 = 20y
+
+y = 2
+
+This makes sense, since each child could receive 2 slices of pizza. So, x could be 8.
+
+If x = 10, then:
+
+10 = 20y/5
+
+10 × 5 = 20y
+
+50 = 20y
+
+y = 2.5
+
+Again, this doesn't make sense, since we can't divide slices among children in fractions. So, x cannot be 10.
+
+Therefore, the correct answer is to divide each pizza into 8 slices, so that each child receives 2 slices of pizza.
+
+Answer: 8

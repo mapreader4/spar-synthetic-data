@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+Hubert's order:
+* 8 boxes of pizza at $14 each
+* 10 cans of soda at $1.80 each
+* Total for Hubert's order = (8 x $14) + (10 x $1.80) = $112 + $18 = $130
+
+Ian's order:
+* 10 boxes of pizza at $14 each
+* 15 cans of soda at $1.80 each
+* Total for Ian's order = (10 x $14) + (15 x $1.80) = $140 + $27 = $167
+
+Total spent by both Hubert and Ian:
+* Total spent = Hubert's order + Ian's order
+* Total spent = $130 + $167 = $297
+
+Answer: $297

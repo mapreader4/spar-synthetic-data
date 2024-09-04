@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Belle eats 4 dog biscuits and 2 rawhide bones every evening
+* Each rawhide bone costs $1
+* Each dog biscuit costs $0.25
+* We need to calculate the cost for a week (7 days)
+
+First, let's calculate the cost per day:
+* 4 dog biscuits x $0.25 = $1
+* 2 rawhide bones x $1 = $2
+* Total cost per day = $1 + $2 = $3
+
+Now, let's calculate the cost for a week:
+* Cost per day x 7 days = $3 x 7 = $21
+
+Answer: $21

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Samira has 4 dozen water bottles in her box
+* 1 dozen = 12 bottles
+* So Samira has 4 x 12 = 48 water bottles in her box
+* In the first break, the 11 players each take 2 bottles
+* So the total number of bottles taken in the first break is 11 x 2 = 22 bottles
+* At the end of the game, each of the 11 players takes 1 more bottle
+* So the total number of bottles taken at the end of the game is 11 x 1 = 11 bottles
+* The total number of bottles taken is 22 + 11 = 33 bottles
+* The initial number of bottles was 48
+* So the number of bottles remaining in Samira's box is 48 - 33 = 15 bottles
+
+Answer: 15

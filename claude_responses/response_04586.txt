@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Cameron has 400 A4 pieces of paper
+* 40% of the papers did not print out to her desired quality
+* We need to calculate the total number of valid documents
+
+First, we need to find out how many papers did not print out to her desired quality:
+* 40% of 400 = 0.40 * 400 = 160 papers
+
+Now, we can find the number of valid documents by subtracting the invalid documents from the total number of papers:
+* 400 - 160 = 240 valid documents
+
+Answer: 240

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mrs. Lacson harvested 80 sweet potatoes
+* She sold 20 of them to Mrs. Adams
+* She sold 15 of them to Mr. Lenon
+* To find the number of sweet potatoes not yet sold, we need to subtract the number of sweet potatoes sold from the total number of sweet potatoes harvested
+
+First, let's calculate the total number of sweet potatoes sold:
+* 20 sold to Mrs. Adams
+* 15 sold to Mr. Lenon
+* Total sold = 20 + 15 = 35
+
+Now, let's subtract the total number sold from the total number harvested:
+* 80 harvested - 35 sold = 45 not yet sold
+
+Answer: 45

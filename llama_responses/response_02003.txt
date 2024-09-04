@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: We know that the store buys the candied yams in bulk boxes of 25 packages. So, let's first calculate how many packages the store needs to buy for each shopper. Since each shopper buys a package, the store needs to buy 375 / 25 packages for each shopper. This is because there are 375 shoppers, and each shopper buys one package.
+
+Step 2: Now, we need to find the total number of packages the store needs to buy. To do this, we multiply the number of packages each shopper buys by the total number of shoppers. So, the store needs 375 * 1 = 375 packages.
+
+Step 3: We need to find the total number of bulk boxes of candied yams the store needs to order. This is the total number of packages the store needs.
+
+Answer: 375

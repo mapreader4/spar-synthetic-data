@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) John wants to buy 15 packets of chips, which cost $2 per packet.
+2) So the total cost of the 15 packets of chips is 15 * $2 = $30.
+3) John has $45 to spend in total.
+4) So the amount of money he has left to spend on corn chips is $45 - $30 = $15.
+5) The cost of corn chips is $1.5 per packet.
+6) Therefore, the number of packets of corn chips he can buy with the remaining $15 is $15 / $1.5 = 10 packets.
+
+Answer: 10 packets of corn chips.

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Ragnar chops 2 trees every day, so in 5 days, he chops 2 x 5 = 10 trees. Then, for each tree, he gets 3 blocks of wood, so in total, he gets 10 x 3 = 30 blocks of wood.
+
+Answer: 30

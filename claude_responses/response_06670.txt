@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 3 blue chips in the jar
+* The blue chips are 10% of the entire chips in the jar
+* This means that the total number of chips in the jar is 3 / 0.10 = 30 chips
+* 50% of the chips are white, which means there are 15 white chips
+* The remaining chips are green
+* To find the number of green chips, we take the total number of chips (30) and subtract the number of blue chips (3) and the number of white chips (15)
+* 30 - 3 - 15 = 12 green chips
+
+Answer: 12

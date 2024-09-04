@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+The restaurant earns $600 every weekday, which is 7 days in a week. So, the total amount of money earned in a week is 7 x $600 = $4200.
+
+On the weekend, the restaurant earns twice as much, which is 2 x $600 = $1200. Since there are 2 days in a weekend, the total amount of money earned in a weekend is 2 x $1200 = $2400.
+
+To find the total amount of money earned in a month, we need to add the money earned in a week and a weekend. The total amount of money earned in a month is $4200 + $2400 = $6600.
+
+Answer: 6600.

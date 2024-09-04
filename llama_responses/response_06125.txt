@@ -1,0 +1,25 @@
+Let's break down the information given into variables.
+
+Let's let the time athlete 1 ran be x, then we can let the time athlete 2 ran be x + 10, athlete 3 ran be x + 10 - 15 = x - 5, and athlete 4 ran x - 25.
+
+We can now set up an equation to represent the total time taken by the four athletes:
+
+x + (x + 10) + (x - 5) + (x - 25) = total time
+
+We can simplify the equation by combining like terms:
+
+x + x + x - 25 = 3x - 25
+
+This equation represents the total time taken by the four athletes. We can solve for x by adding 25 to both sides:
+
+3x - 25 + 25 = 3x
+
+3x = 0
+
+x = 0
+
+Now that we know the time athlete 1 ran, we can calculate the total time taken by the four athletes:
+
+0 + 10 + 0 - 5 + 0 = 5
+
+The total time taken to finish the relay race is 5 seconds.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+James cuts down 20 trees in the first 2 days, so that is a total of 20 x 2 = 40 trees.
+
+In the next 3 days, his 2 brothers help him cut down trees. They cut 20% fewer trees per day than James. 20% of 20 is 4, so they cut 16 trees each day. 16 x 3 = 48.
+
+So, in total, the 2 brothers cut down 48 trees in the next 3 days.
+
+The total number of trees cut down is 40 (from the first 2 days) + 48 (from the next 3 days) = 88.
+
+Answer: 88

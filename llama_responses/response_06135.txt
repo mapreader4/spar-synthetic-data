@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+The trader starts with 55 bags of rice. She sells off some bags of rice. Let's call the number of bags she sells x. Then, she restocks with 132 bags. So, she now has 55 - x bags of rice left.
+
+We know that she now has 164 bags of rice. So, 55 - x + 132 = 164.
+
+We can solve for x by subtracting 55 from both sides of the equation:
+
+55 - x + 132 = 164
+55 - 132 = 164 - 55
+x = 17
+
+So, the answer is: Answer: 17

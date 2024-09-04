@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the time spent in each country.  He stays in the first country for 2 weeks.  That is 2 * 7 = 14 days.  He spends twice as long in each of the other countries, so he spends 2 * 2 = 4 days in each of the other countries.  Therefore, the total time spent is 14 + 4 + 4 = 22 days.
+
+Answer: 22

@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The mother has 5 pizzas to serve 20 children.
+2) She can choose to divide each pizza into 6, 8, or 10 slices.
+3) We want to find the number of slices per pizza that will result in each child receiving an equal number of slices.
+4) If she divides the pizzas into 6 slices each, there will be a total of 5 * 6 = 30 slices.
+5) 30 slices divided by 20 children means each child would get 1.5 slices, which is not an integer.
+6) If she divides the pizzas into 8 slices each, there will be a total of 5 * 8 = 40 slices.
+7) 40 slices divided by 20 children means each child would get 2 slices, which is an integer.
+8) If she divides the pizzas into 10 slices each, there will be a total of 5 * 10 = 50 slices.
+9) 50 slices divided by 20 children means each child would get 2.5 slices, which is not an integer.
+
+Answer: 8

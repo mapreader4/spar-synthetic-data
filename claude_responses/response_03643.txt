@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The bakery has 8 indoor tables and 12 outdoor tables.
+2) Each indoor table has 3 chairs.
+3) Each outdoor table has 3 chairs.
+4) To calculate the total number of chairs, we need to find the number of chairs for the indoor tables and the outdoor tables, then add them together.
+5) For the indoor tables, there are 8 tables, and each has 3 chairs. So the total number of chairs for the indoor tables is 8 * 3 = 24.
+6) For the outdoor tables, there are 12 tables, and each has 3 chairs. So the total number of chairs for the outdoor tables is 12 * 3 = 36.
+7) The total number of chairs is the sum of the indoor chairs and the outdoor chairs: 24 + 36 = 60.
+
+Answer: 60

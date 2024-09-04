@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of flowers of each color:
+
+* Yellow flowers: 10
+* Purple flowers: 10 x 1.8 = 18 (since there are 80% more purple flowers than yellow flowers, so 10 x 1.8 = 18)
+* Green flowers: 10 x 0.25 = 2.5 (since there are 25% as many green flowers as there are yellow and purple flowers, so 10 x 0.25 = 2.5)
+
+Now, let's add up the number of flowers of each color:
+
+10 + 18 + 2.5 = 28.5
+
+However, this is a fraction. To convert it to an integer, we can round it to the nearest whole number. In this case, the nearest whole number is 29.
+
+Answer: 29

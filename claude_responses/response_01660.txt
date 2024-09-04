@@ -1,0 +1,7 @@
+Okay, let's solve this step-by-step:
+1) Initially, there are 14 green papayas on the tree.
+2) On Friday, 2 of the fruits turned yellow, so the number of green papayas is now 14 - 2 = 12.
+3) On Sunday, twice as many fruits as on Friday turned yellow. On Friday, 2 fruits turned yellow, so on Sunday, 2 x 2 = 4 fruits turned yellow.
+4) The number of green papayas left on the tree is the initial 14 minus the 2 that turned yellow on Friday, and the 4 that turned yellow on Sunday: 14 - 2 - 4 = 8.
+
+Answer: 8

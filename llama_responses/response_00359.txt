@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first calculate how many pages Rene can finish reading in 60 minutes. We know Rene can read 30 pages in 60 minutes. So, in 240 minutes, Rene can read 30 * 4 = 120 pages.
+
+Now, let's calculate how many pages Lulu can finish reading in 60 minutes. We know Lulu can read 27 pages in 60 minutes. So, in 240 minutes, Lulu can read 27 * 4 = 108 pages.
+
+Finally, let's calculate how many pages Cherry can finish reading in 60 minutes. We know Cherry can read 25 pages in 60 minutes. So, in 240 minutes, Cherry can read 25 * 4 = 100 pages.
+
+Now, let's add up the number of pages each of them can finish reading in 240 minutes.
+
+Rene can read 120 pages, Lulu can read 108 pages, and Cherry can read 100 pages. 120 + 108 + 100 = 328.
+
+Answer: 328

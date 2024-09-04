@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The first player eats 78 seeds.
+2) The second player eats 53 seeds.
+3) The third player eats 30 more seeds than the second player, which means they eat 53 + 30 = 83 seeds.
+4) To find the total number of seeds eaten, we add up the amounts for each player:
+78 + 53 + 83 = 214
+
+Answer: 214

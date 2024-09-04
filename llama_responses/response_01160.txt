@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem. We know that Julia can run a mile in 10 minutes with her old shoes, so her rate of speed is 1 mile per 10 minutes, or 0.1 miles per minute.
+
+Now, we know that with her new shoes, Julia's rate of speed is 13 minutes per mile. We need to find the rate of speed in minutes per mile. We can do this by dividing 1 mile by 13 minutes, which gives us 0.0769 minutes per mile.
+
+Now, we know that Julia needs to run 5 miles. To find out how long it would take her to run 5 miles with her new shoes, we need to multiply her rate of speed in minutes per mile by 5 miles. We do this by multiplying 0.0769 minutes per mile by 5 miles, which gives us 0.3823 minutes.
+
+Since Julia's original time to run 1 mile is 10 minutes, we can find her time to run 5 miles by multiplying 10 minutes by 3.33. Therefore, it would take Julia 33.3 minutes to run 5 miles in her new shoes.
+
+Answer: 33

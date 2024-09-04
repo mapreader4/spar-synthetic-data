@@ -1,0 +1,10 @@
+Let's break down the information given in the problem:
+
+* 40% of the 140 problems are Algebra problems, so the number of Algebra problems is 40 x 0.04 = 1.6.
+* Half of the Algebra problems are linear equations, so the number of linear equations problems is 1.6 / 2 = 0.8.
+
+To find the total number of linear equations problems Sadie has to solve, we add the number of linear equations problems to the total number of Algebra problems:
+
+1.6 + 0.8 = 2.4
+
+Answer: 2

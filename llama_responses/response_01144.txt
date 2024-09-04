@@ -1,0 +1,3 @@
+Let's start by letting x be Michael's current age. Then, we know that Michael's oldest brother is 1 year older than twice Michael's age, so the oldest brother's age is 2x - 1. The younger brother is 5 years old, which is a third of the age of the older brother, so we can set up the equation 3x/3 = 5. We can multiply both sides by 3 to get 3x = 15. So, x = 5. Now, we can find the age of the two brothers. The older brother is 2x - 1 = 2 * 5 - 1 = 9. Michael's age is 5, so the combined age of the brothers is 9 + 5 = 14. 
+
+Answer: 14

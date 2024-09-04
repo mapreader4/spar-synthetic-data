@@ -1,0 +1,9 @@
+To find the amount of money John had left, we need to find the total amount of money he gave to his mother and father and subtract that from the initial amount of $200.
+
+John gave 3/8 of his money to his mother. To find this amount, we can multiply the initial amount by 3/8. 3/8 of 200 is 75.
+
+John gave 3/10 of his money to his father. To find this amount, we can multiply the initial amount by 3/10. 3/10 of 200 is 60.
+
+The total amount of money John gave away is 75 + 60 = 135. So, John had 200 - 135 = 65 left.
+
+Answer: 65

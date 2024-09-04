@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+1) Robe used $10 from his savings to pay for the car repair.
+2) Before the repair, he bought 2 kinds of spare parts:
+   a) A corner light that costs twice the price of the repair fee.
+   b) Two brake disks, each costing thrice the price of the corner light.
+3) After the repair and buying the spare parts, Robe had $480 savings left.
+
+Let's start by finding the cost of the repair fee:
+* Repair fee = $10
+
+Now, let's find the cost of the corner light:
+* Corner light cost = 2 x $10 = $20
+
+Next, let's find the cost of the brake disks:
+* Each brake disk cost = 3 x $20 = $60
+* Total cost of 2 brake disks = 2 x $60 = $120
+
+Now, let's calculate the total amount Robe spent:
+* Total spent = Repair fee + Corner light + Brake disks
+* Total spent = $10 + $20 + $120 = $150
+
+Finally, let's calculate the amount Robe had saved before his car broke:
+* Amount saved before car broke = Amount left after spending + Total spent
+* Amount saved before car broke = $480 + $150 = $630
+
+Answer: $630

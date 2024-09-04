@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Greg's wheels rotate 200 times per block
+* He wants to ride at least 8 blocks
+* His wheels have already rotated 600 times
+
+To find how many more times the wheels need to rotate to reach his goal, we need to:
+1. Calculate the total number of wheel rotations needed for 8 blocks
+2. Subtract the number of rotations already completed (600) from the total needed
+
+Step 1: Total number of wheel rotations needed for 8 blocks
+* 8 blocks x 200 rotations per block = 1600 rotations
+
+Step 2: Subtract the number of rotations already completed
+* 1600 rotations - 600 rotations = 1000 rotations
+
+Therefore, the wheels need to rotate 1000 more times to reach Greg's goal.
+
+Answer: 1000

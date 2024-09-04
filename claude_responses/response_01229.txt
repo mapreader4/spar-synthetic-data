@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Itzayana is 4 inches taller than Zora
+* Zora is 8 inches shorter than Brixton
+* Zara is 64 inches tall and has the same height as Brixton
+
+First, let's find Brixton's height:
+* Zora is 8 inches shorter than Brixton
+* Zara is 64 inches tall and has the same height as Brixton
+* Therefore, Brixton's height is 64 inches
+
+Next, let's find Itzayana's height:
+* Itzayana is 4 inches taller than Zora
+* Zora's height is 64 inches - 8 inches = 56 inches
+* Therefore, Itzayana's height is 56 inches + 4 inches = 60 inches
+
+Now, we can calculate the average height of the four people:
+* Zara's height: 64 inches
+* Brixton's height: 64 inches
+* Itzayana's height: 60 inches
+* Zora's height: 56 inches
+* Average height = (64 + 64 + 60 + 56) / 4 = 244 / 4 = 61 inches
+
+Answer: 61 inches

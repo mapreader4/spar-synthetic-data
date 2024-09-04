@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, let's find out how many boxes the organization can pack with the initial amount of money. Each box contains $80 worth of food and $165 worth of additional supplies, so the total cost of each box is $80 + $165 = $245. The organization has an initial amount of money that is enough to pack 400 boxes.
+
+Next, let's find out how much money the organization has initially. The cost of 400 boxes is 400 x $245 = $98000. So, the organization has $98000 initially.
+
+Now, an anonymous donor gives the organization 4 times the amount of money they had already spent. So, the organization receives 4 x $98000 = $392000.
+
+The organization now has a total of $98000 + $392000 = $502000. With this amount of money, let's find out how many boxes they can pack. The cost of each box is $245, so they can pack $502000 / $245 = 2053 boxes.
+
+However, this includes the 400 boxes they had initially planned to pack. So, the total number of boxes they can pack is 2053 - 400 = 1653.
+
+Answer: 1653

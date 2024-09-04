@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Tricia is a third of Amilia's age. So if Amilia's age is x, then Tricia's age is x/3.
+2) Amilia is a quarter of Yorick's age. So if Yorick's age is y, then Amilia's age is y/4.
+3) Yorick is twice Eugene's age. So if Eugene's age is z, then Yorick's age is 2z.
+4) Khloe is a third of Eugene's age. So if Eugene's age is z, then Khloe's age is z/3.
+5) Rupert is 10 years older than Khloe. So if Khloe's age is z/3, then Rupert's age is (z/3) + 10.
+6) Rupert is 2 years younger than Vincent, who is 22 years old. So Rupert's age is 22 - 2 = 20.
+7) Now we can solve for the ages:
+   - Rupert's age is 20, so (z/3) + 10 = 20, which means z = 30.
+   - Khloe's age is z/3 = 30/3 = 10.
+   - Yorick's age is 2z = 2(30) = 60.
+   - Amilia's age is y/4 = 60/4 = 15.
+   - Tricia's age is x/3 = 15/3 = 5.
+
+Answer: 5

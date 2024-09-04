@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. Blanche found 12 pieces of green and 3 pieces of red sea glass.
+2. Rose found 9 pieces of red and 11 pieces of blue sea glass.
+3. Dorothy found twice as many pieces of red glass as Blanche and Rose, and three times as much blue sea glass as Rose.
+
+First, let's calculate the total number of red glass pieces that Blanche and Rose found:
+* Blanche found 3 pieces of red glass
+* Rose found 9 pieces of red glass
+* Total red glass pieces found by Blanche and Rose = 3 + 9 = 12 pieces
+
+Now, Dorothy found twice as many pieces of red glass as Blanche and Rose, so:
+* Dorothy found 2 x 12 = 24 pieces of red glass
+
+Next, let's calculate the total number of blue glass pieces that Rose found:
+* Rose found 11 pieces of blue glass
+
+Dorothy found three times as much blue sea glass as Rose, so:
+* Dorothy found 3 x 11 = 33 pieces of blue glass
+
+Therefore, the total number of pieces of sea glass that Dorothy found is:
+* 24 pieces of red glass + 33 pieces of blue glass = 57 pieces
+
+Answer: 57

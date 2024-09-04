@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The container of milk holds 2 liters.
+2) 1 liter is equal to 1000 ml.
+3) So the 2-liter container holds 2 x 1000 = 2000 ml of milk.
+4) Jasmine wants to pour portions of 200 ml.
+5) To find how many 200 ml portions can be poured, we divide the total amount of milk (2000 ml) by the portion size (200 ml).
+6) 2000 ml / 200 ml = 10 portions.
+
+Answer: 10

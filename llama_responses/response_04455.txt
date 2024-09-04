@@ -1,0 +1,7 @@
+To solve this problem, let's first find the total amount of money Abigail had initially. Let's use the information given in the problem: 60% of her money went on food, and 25% of the remainder on her phone bill. So, let's start by finding 25% of the remainder. We know that 25% of the remainder is equal to 40, so we can set up an equation to find the total amount of money Abigail had initially.
+
+Let x be the initial amount of money Abigail had.
+
+Then, we can set up the equation: 0.25x = 40. To solve for x, we can multiply both sides of the equation by 4 to get 0.25x * 4 = 160. Then, we can simplify the right side of the equation by dividing by 0.25 to get x = 640.
+
+So, Abigail had 640 dollars initially.

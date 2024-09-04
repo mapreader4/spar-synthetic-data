@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bears of each color. We know that the number of black bears is 60. We are also given that the number of black bears is equal to the number of white bears, plus 40 more than the number of brown bears.
+
+Let's let x be the number of white bears. Then, we can write an equation to represent the number of black bears.
+
+x = number of white bears = number of black bears
+
+We know that the number of black bears is 60, so we can substitute 60 for x in the equation.
+
+x = 60
+
+Now, we know that the number of white bears is equal to the number of black bears, so we can substitute x for 60 in the equation.
+
+number of white bears = 60
+
+The number of black bears is equal to the number of white bears, so we can subtract 60 from both sides of the equation to get the number of brown bears.
+
+number of brown bears = number of white bears - 60
+
+We know that the number of brown bears is 40, so we can substitute 40 for the number of brown bears in the equation.
+
+number of brown bears = 40
+
+Now, we can add the number of brown bears to both sides of the equation to get the total number of bears in the park.
+
+total number of bears = number of white bears - 60 + number of brown bears
+
+The total number of bears is the sum of the number of white bears and the number of brown bears.
+
+total number of bears = 60 + 40 = 100
+
+Answer: 100

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On the first day, a large amount of snow fell, creating a snowdrift of unknown depth.
+* On the second day, half of the snowdrift melted.
+* On the third day, 6 inches of snow were added to the remaining snowdrift.
+* On the fourth day, 18 inches of snow were added to the snowdrift.
+* At the end of the fourth day, the snowdrift was 34 inches deep.
+
+Now, let's work backwards to find the depth of the snowdrift at the end of the first day:
+* On the fourth day, the snowdrift was 34 inches deep.
+* On the third day, 18 inches of snow were added, so the depth was 34 - 18 = 16 inches.
+* On the second day, half of the snowdrift melted, so the depth was 16 / 2 = 8 inches.
+* On the first day, the initial snowdrift was created, and it was 8 inches deep.
+
+Answer: 8 inches

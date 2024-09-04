@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Monica has 6 classes per day. The first class has 20 students.
+
+1. The second and third classes have 25 students. So, the total number of students in these two classes is 25 + 25 = 50 students.
+
+2. The fourth class has half as many students as her first class, which is 20. So, the number of students in the fourth class is half of 20, which is 10.
+
+3. The fifth and sixth classes have 28 students.
+
+To find the total number of students Monica sees each day, we add up the number of students in all 6 classes.
+
+20 (first class) + 50 (second and third classes) + 10 (fourth class) + 28 (fifth and sixth classes) = 98
+
+Answer: 98

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the total number of students that will be moving to the new school. Since 40% of 1590 students will be moving, we can find the total number of students moving by multiplying 40% of 1590 by 0.01 (to convert the percentage to a decimal).
+
+40% of 1590 = 0.4 * 1590 = 636.
+
+Now, let's find the total number of students per grade level. There are 3 grade levels, and each level needs one 20-person advanced class. This means that the total number of students per level is 20. The remaining students will be divided evenly into 6 additional classes. To find the number of students per class, we can divide the remaining students by 6.
+
+1590 - 636 = 954. 954 students are remaining after setting aside the 3 advanced classes. To divide the 954 students into 6 classes, we can divide 954 by 6.
+
+954 / 6 = 159.
+
+Answer: 159

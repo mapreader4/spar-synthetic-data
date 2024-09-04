@@ -1,0 +1,41 @@
+Let's break down the problem step by step.
+
+Let the number of students present on the first day be x.
+
+Since the number of students on the second day is 40 more than the first day, the number of students on the second day is x + 40.
+
+The number of students who didn't turn up on the second day is twice the number of students who didn't turn up on the third day. Let the number of students who didn't turn up on the third day be y. Then, the number of students who didn't turn up on the second day is 2y.
+
+The total number of students in the class is 280, so the total number of students present on the second day is 280 - 2y.
+
+We know that the number of students on the second day is x + 40, so we can set up the equation:
+
+x + 40 = 280 - 2y
+
+Simplifying the equation, we get:
+
+x = 240 - 2y
+
+Now, let's consider the third day. 1/7 of the total number of students called in sick, so 1/7 of 280 called in sick. This is equal to 40 students.
+
+The number of students who didn't turn up on the third day is 40, so the total number of students who didn't turn up in the three days is 2y + 40.
+
+We can now set up an equation using the information we have:
+
+40 = 2y
+
+Solving for y, we get:
+
+y = 20
+
+Now that we know y, we can find x:
+
+x = 240 - 2(20)
+x = 240 - 40
+x = 200
+
+The number of students present on the first day is 200.
+
+The number of students who didn't turn up in the three days is 2y + 40 = 2(20) + 40 = 80.
+
+Answer: 80

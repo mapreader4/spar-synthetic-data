@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many boxes of syrup are needed to make 180 gallons of soda.
+
+180 gallons of soda is the total amount of soda to be made. Each box of syrup makes 30 gallons of soda, so we can divide 180 by 30 to find the number of boxes needed:
+
+180 ÷ 30 = 6
+
+So, 6 boxes of syrup are needed.
+
+Step 2: Determine how much each box of syrup costs.
+
+Each box of syrup costs $40, so we can multiply 6 boxes by $40 to find the total cost:
+
+6 * $40 = $240
+
+Answer: 240

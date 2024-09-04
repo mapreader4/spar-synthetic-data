@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Mr. Curtis has a total of 325 chickens on his farm.
+2) Out of the 325 chickens, 28 are roosters.
+3) The remaining chickens are hens. So, the number of hens is 325 - 28 = 297.
+4) Out of the 297 hens, 20 do not lay eggs.
+5) The number of egg-laying hens is therefore 297 - 20 = 277.
+
+Answer: 277

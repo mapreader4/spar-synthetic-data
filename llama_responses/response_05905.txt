@@ -1,0 +1,14 @@
+Let's break down the information:
+
+- There are 10 dishes in total.
+- 2 dishes have beans and lentils.
+- 2 dishes have beans and seitan.
+- The remaining dishes only have one kind of protein in them.
+- Half of the remaining dishes have only beans, so that is 5 dishes.
+- There are 3 times as many dishes with only beans as with only seitan.
+
+Let's find the number of dishes with lentils. We know that there are 2 dishes with beans and lentils, and 2 dishes with beans and seitan. We also know that there are 5 dishes with only beans. 
+
+The number of dishes with lentils is 2 (beans and lentils) + 5 (only beans) = 7. The answer is 7.
+
+Answer: 7

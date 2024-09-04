@@ -1,0 +1,9 @@
+To find the total amount of money you will have at the end of 2 months, we can calculate the total interest earned in each month, and then multiply that by the number of months.
+
+The interest rate is 10 percent, which is 0.1 as a decimal. So, for each month, you will earn 0.1 * 300 = 30 dollars. 
+
+The total amount of interest earned in 2 months will be 30 * 2 = 60 dollars. 
+
+Adding the principal amount of 300 dollars to the total interest earned, the total amount of money you will have is 300 + 60 = 360.
+
+Answer: 360.

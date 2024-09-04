@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The boat is traveling at a speed of 10 MPH
+* It takes 2 hours to travel the length of the lake
+* So the length of the lake is 10 MPH * 2 hours = 20 miles
+* It then takes 30 minutes to travel the width of the lake
+* Since the speed is the same, the width of the lake is 10 MPH * 0.5 hours = 5 miles
+* The area of the lake is the length times the width, which is 20 miles * 5 miles = 100 square miles
+
+Answer: 100

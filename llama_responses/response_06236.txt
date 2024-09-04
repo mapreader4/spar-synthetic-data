@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first find out how many words Abigail has left to write. She has already written 200 words. So, 1000 - 200 = 800 words left.
+
+Since she can type 300 words in half an hour, we know that she can type 300 / 0.5 = 600 words in an hour. So, to find out how many minutes it will take her to finish the report, we can set up a proportion.
+
+Let's set up the proportion. We know that 800 words is to 600 words as 1000 is to 300 words. So, the proportion is 800 / 600 = x / 1000 / 300.
+
+To find x, we can multiply both sides of the proportion by 1000 / 300. 800 * 1000 / 300 = 2.67.
+
+Since she can type 300 words in half an hour, we know that it will take her 2.67 hours to finish the report. Since there are 60 minutes in an hour, we can multiply 2.67 * 60 to find the number of minutes. 2.67 * 60 = 160.
+
+So, it will take Abigail 160 minutes to finish the report.

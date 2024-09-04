@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Mr. Eithan received a $2000 stimulus check
+* He gave 2/5 of the $2000 to his wife
+* 2/5 of $2000 = 0.4 * $2000 = $800
+* So his wife received $800
+* The remaining amount after giving to his wife is $2000 - $800 = $1200
+* He then gave 2/5 of the $1200 to his first son
+* 2/5 of $1200 = 0.4 * $1200 = $480
+* So his first son received $480
+* The remaining amount after giving to his first son is $1200 - $480 = $720
+* He then gave 40% of the $720 to his second son
+* 40% of $720 = 0.4 * $720 = $288
+* So his second son received $288
+* The remaining amount after giving to his second son is $720 - $288 = $432
+* Therefore, the total amount he kept in the family's savings account is $432
+
+Answer: 432

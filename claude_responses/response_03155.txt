@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The chocolate box contains 200 bars.
+2) Thomas and his 4 friends take 1/4 of the bars. 1/4 of 200 is 50 bars.
+3) They decide to divide the 50 bars equally between them, so each person gets 10 bars.
+4) One of Thomas's friends doesn't like chocolate bars very much and returns 5 of his bars to the box. So now there are 50 - 5 = 45 bars taken from the box.
+5) Piper, Thomas's sister, comes home and takes 5 fewer bars than those taken in total by Thomas and his friends. So Piper takes 45 - 5 = 40 bars.
+6) Now we need to calculate the total number of bars left in the box. The initial 200 bars, minus the 45 bars taken by Thomas and his friends, minus the 40 bars taken by Piper, leaves us with:
+200 - 45 - 40 = 115 bars left in the box.
+
+Answer: 115

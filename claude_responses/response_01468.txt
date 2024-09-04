@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Troy's home is 75 meters away from school
+* Emily's home is 98 meters away from school
+* They both walk to school and back home every day
+* We need to find how much farther Emily walks in 5 days
+
+To calculate the total distance walked by each person in 5 days:
+* Troy walks 75 meters to school and 75 meters back home, which is a total of 150 meters per day
+* In 5 days, Troy walks a total of 150 meters x 5 days = 750 meters
+
+* Emily walks 98 meters to school and 98 meters back home, which is a total of 196 meters per day
+* In 5 days, Emily walks a total of 196 meters x 5 days = 980 meters
+
+To find the difference in distance walked:
+* Emily walks 980 meters in 5 days
+* Troy walks 750 meters in 5 days
+* The difference is 980 meters - 750 meters = 230 meters
+
+Answer: 230

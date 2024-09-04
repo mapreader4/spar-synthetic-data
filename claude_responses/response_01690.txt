@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) On each of 7 Mondays, it rained 1.5 centimeters.
+2) To calculate the total amount of rain on Mondays, we multiply the amount of rain per Monday (1.5 cm) by the number of Mondays (7):
+   1.5 cm x 7 = 10.5 cm
+3) On each of 9 Tuesdays, it rained 2.5 centimeters.
+4) To calculate the total amount of rain on Tuesdays, we multiply the amount of rain per Tuesday (2.5 cm) by the number of Tuesdays (9):
+   2.5 cm x 9 = 22.5 cm
+5) To calculate the difference between the rain on Tuesdays and Mondays, we subtract the total rain on Mondays from the total rain on Tuesdays:
+   22.5 cm - 10.5 cm = 12 cm
+
+Answer: 12 cm

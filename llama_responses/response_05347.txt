@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. First, let's find the cost of the total amount of money the store earned from the cola. Since the store sold 15 bottles of cola, and each bottle costs $3, the total amount of money earned from cola is 15 x 3 = 45.
+
+2. Next, let's find the cost of the total amount of money the store earned from the juice. Since the store sold 12 bottles of juice, and each bottle costs $1.5, the total amount of money earned from juice is 12 x 1.5 = 18.
+
+3. Finally, let's find the cost of the total amount of money the store earned from the water. Since the store sold 25 bottles of water, and each bottle costs $1, the total amount of money earned from water is 25 x 1 = 25.
+
+4. To find the total amount of money the store earned, we need to add up the money earned from cola, juice, and water. So, 45 + 18 + 25 = 88.
+
+Answer: 88

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of this year's costume. Since the costume is 40% more expensive than last year's costume, which was $250, we can multiply 250 by 1.4 (which is 100% + 40%) to get the cost of this year's costume. This gives us:
+
+250 x 1.4 = 350
+
+So this year's costume costs $350.
+
+Jeff has to put in a 10% deposit, which is 10% of the cost of the costume. To find 10% of the cost, we can multiply the cost by 0.1:
+
+350 x 0.1 = 35
+
+So the deposit is $35.
+
+When Jeff picks up the costume, he will have to pay the deposit and the remaining amount. The remaining amount is the cost of the costume minus the deposit:
+
+350 - 35 = 315
+
+So Jeff will pay $315 when he picks up the costume.

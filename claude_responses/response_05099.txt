@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+* The animal shelter received 60 animals in total
+* They got 20 more cats than dogs
+* Let's represent the number of dogs as x
+* Then, the number of cats is x + 20
+* The total number of animals is 60, so we can write the equation:
+x + (x + 20) = 60
+* Solving for x, we get:
+2x + 20 = 60
+2x = 40
+x = 20
+* Therefore, the number of dogs is 20
+* The number of cats is 20 + 20 = 40
+
+Answer: 40

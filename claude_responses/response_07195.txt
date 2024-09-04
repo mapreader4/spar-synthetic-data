@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Dorchester is paid $40 per day
+* He also earns $2.25 for each puppy he washes
+* On Wednesday, he earned $76 total
+
+To find the number of puppies he washed, we need to first find the amount he earned from the base pay of $40 per day, and then subtract that from the total earnings to find the amount he earned from washing puppies.
+
+* Base pay for the day = $40
+* Amount earned from washing puppies = Total earnings - Base pay
+* Amount earned from washing puppies = $76 - $40 = $36
+
+Now, we can divide the amount earned from washing puppies by the rate of $2.25 per puppy to find the number of puppies he washed.
+
+* Number of puppies washed = Amount earned from washing puppies / Rate per puppy
+* Number of puppies washed = $36 / $2.25 = 16 puppies
+
+Answer: 16 puppies

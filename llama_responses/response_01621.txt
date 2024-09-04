@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of eggs. There are 2 eggs in each breakfast plate. The problem states that there are twice as many bacon strips as eggs. So, if there are 2 eggs, then there are 2 * 2 = 4 bacon strips for each breakfast plate.
+
+The problem asks how many bacon strips the cook needs to fry if 14 customers order breakfast plates. So, we need to multiply the number of bacon strips per plate by the number of plates.
+
+Let's do the multiplication: 4 (bacon strips per plate) * 14 (number of plates) = 56.
+
+So, the cook needs to fry 56 bacon strips.

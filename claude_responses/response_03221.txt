@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Kay has 14 siblings.
+2) Kay is 32 years old.
+3) The youngest sibling is 5 less than half Kay's age.
+   * Kay's age is 32 years.
+   * Half of 32 is 16.
+   * 16 - 5 = 11 years old.
+4) The oldest sibling is four times as old as the youngest sibling.
+   * The youngest sibling is 11 years old.
+   * 4 x 11 = 44 years old.
+
+Answer: 44

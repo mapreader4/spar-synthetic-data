@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The park has a total of 70 pigeons.
+2) Half of the pigeons are black, which means there are 35 black pigeons (70 * 0.5 = 35).
+3) 20% of the black pigeons are male, which means there are 7 black male pigeons (35 * 0.2 = 7).
+4) The remaining black pigeons must be female, which means there are 28 black female pigeons (35 - 7 = 28).
+5) The difference between the number of black female pigeons and the number of black male pigeons is 28 - 7 = 21.
+
+Answer: 21

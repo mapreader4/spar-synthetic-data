@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+
+1. The rectangle has a length of 3 inches and a width of 6 inches.
+   * The area of a rectangle is given by the formula: Area = length × width
+   * So the area of the rectangle is: 3 inches × 6 inches = 18 square inches
+
+2. The square has a width of 5 inches.
+   * The area of a square is given by the formula: Area = side × side
+   * So the area of the square is: 5 inches × 5 inches = 25 square inches
+
+3. To find the difference in area between the two shapes, we subtract the area of the rectangle from the area of the square:
+   * Difference in area = Area of square - Area of rectangle
+   * Difference in area = 25 square inches - 18 square inches = 7 square inches
+
+Answer: 7

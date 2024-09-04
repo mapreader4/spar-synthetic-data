@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Kendra wears one shirt to school for each of the five weekdays, which is a total of 5 shirts. She changes into a different shirt for an after-school club 3 days a week, which is a total of 3 shirts. On Saturday, she wears one shirt all day, and on Sunday, she wears a different shirt than she does for the rest of the day, which is one shirt. 
+
+So, Kendra wears a total of 5 + 3 + 1 + 1 = 9 shirts in a week. 
+
+To find out how many shirts she needs to be able to only do laundry once every two weeks, we need to multiply the number of shirts she wears in a week by 2. 
+
+9 shirts * 2 = 18 shirts.
+
+Answer: 18

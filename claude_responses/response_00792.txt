@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The Chrysler Building has 11 more floors than the Leeward Center.
+2) Together, the Chrysler Building and the Leeward Center have a total of 35 floors.
+3) Let's represent the number of floors in the Leeward Center as x.
+4) Then, the number of floors in the Chrysler Building is x + 11.
+5) The total number of floors is x + (x + 11) = 35.
+6) Simplifying, we get 2x + 11 = 35.
+7) Subtracting 11 from both sides, we get 2x = 24.
+8) Dividing both sides by 2, we get x = 12.
+9) Therefore, the Leeward Center has 12 floors.
+10) The Chrysler Building has 12 + 11 = 23 floors.
+
+Answer: 23

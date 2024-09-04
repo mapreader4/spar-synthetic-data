@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) L&J Productions produces 220 movies in a year.
+2) Johnny TV makes 25% more movies than L&J Productions each year.
+3) To calculate how many movies Johnny TV makes in a year, we take the 220 movies made by L&J Productions and add 25% to it:
+   * 220 + (220 * 0.25) = 220 + 55 = 275 movies
+4) Now, we need to calculate the total number of movies produced by both companies over 5 years.
+   * L&J Productions: 220 movies per year x 5 years = 1,100 movies
+   * Johnny TV: 275 movies per year x 5 years = 1,375 movies
+5) The total number of movies produced by both companies over 5 years is:
+   * 1,100 + 1,375 = 2,475 movies
+
+Answer: 2,475

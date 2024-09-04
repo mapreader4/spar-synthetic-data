@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by finding out how many text messages Keiko sent last week. We are given that she sent 111 text messages last week. Let's call this number x.
+
+Next, we are told that this week she sent 50 less than double what she sent last week. This means that this week, she sent 2x - 50 less than what she sent last week. Since she sent x messages last week, she sent 2x - 50 messages this week.
+
+We know that 2x = 111, so we can substitute this into the equation to get 2(111) - 50. This simplifies to 222 - 50.
+
+We can now find the value of x, which is 111. Now we can find the number of text messages she sent last week by multiplying 111 by 2. This is 222.
+
+Now, we need to find the total number of text messages she sent last week and this week. Last week, she sent 111. This week, she sent 222. To find the total number of text messages, we can add the two numbers together: 111 + 222 = 333.
+
+Answer: 333

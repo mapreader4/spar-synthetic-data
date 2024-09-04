@@ -1,0 +1,21 @@
+Let's break this down step by step:
+
+Let's say Puffy weighs x ounces. Since Puffy weighs 5 ounces more than Muffy, we can say that Muffy weighs x - 5 ounces.
+
+We know that Scruffy weighs 12 ounces. We are told that Muffy weighs 3 ounces less than Scruffy, so we can say that Muffy weighs 12 - 3 = 9 ounces.
+
+Now, if we put Puffy and Muffy on the scale, the scale will indicate the sum of their weights. Since Puffy weighs x ounces and Muffy weighs 9 ounces, the scale will indicate x + 9 ounces.
+
+But we don't know what Puffy weighs, so we can't calculate the exact value yet. We need another piece of information. Let's say Puffy weighs y ounces. Then, we can set up an equation:
+
+x - 5 = y, since Puffy weighs 5 ounces more than Muffy.
+
+We know that x = y - 5. So, we can substitute this into our equation for the scale:
+
+x + 9 = y - 5 + 9
+
+We can add 5 to both sides of the equation to get:
+
+x + 14 = y
+
+So, the scale will indicate 14 ounces.

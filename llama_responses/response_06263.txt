@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. On the first day, each of the 15 people gave 2 blankets, so the total number of blankets collected on the first day is 15 x 2 = 30 blankets.
+
+2. On the second day, they tripled the number they collected on the first day, which is 30. So, the number of blankets collected on the second day is 30 x 3 = 90 blankets.
+
+3. On the last day, they collected a total of 22 blankets.
+
+4. To find the total number of blankets collected for the three days, we add the number of blankets collected on each day: 30 + 90 + 22 = 142.
+
+Answer: 142

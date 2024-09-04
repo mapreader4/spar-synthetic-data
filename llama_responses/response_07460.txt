@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of the new seats. Each row has 8 seats and each seat costs $30, so the cost of a single row is 8 x 30 = 240. Since the school is adding 5 rows, the total cost of the new seats is 5 x 240 = 1200.
+
+Now, the parent, being a seat manufacturer, offered a 10% discount on each group of 10 seats purchased. So, we need to find 1200 / 10 = 120. The total cost of the new seats is 1200 - 120 = 1080.
+
+Answer: 1080

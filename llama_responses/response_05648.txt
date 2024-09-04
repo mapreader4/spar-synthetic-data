@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first identify the number of apples that are too small and the number of apples that are not ripe.
+
+1/6 of 30 apples are too small. To find this number, we can multiply 1/6 by 30, which gives us 5 apples.
+
+1/3 of 30 apples are not ripe. To find this number, we can multiply 1/3 by 30, which gives us 10 apples.
+
+Now, let's find the number of perfect apples. We know that 5 apples are too small and 10 apples are not ripe. To find the number of perfect apples, we subtract 5 from 30, which gives us 25 apples.
+
+Answer: 25

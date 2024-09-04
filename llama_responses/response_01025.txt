@@ -1,0 +1,5 @@
+To solve this problem, I will first calculate the total number of parents who disagree with the tuition fee increase.
+
+The total number of parents is 800. The percentage of parents who agree to the tuition fee increase is 100% - 20% = 80%. This means that the number of parents who disagree is 800 - 800 * 0.8 = 20.
+
+Answer: 20

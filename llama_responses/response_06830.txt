@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of gingerbread men with red hats. We know that Anna gives 6 of them red hats, and 3 of them have both red hats and blue boots. So, the number of gingerbread men with red hats is 6 + 3 = 9.
+
+Now, let's find the total number of gingerbread men. We know that Anna gives 6 of them red hats, 9 of them blue boots, and 3 of them both red hats and blue boots. So, the total number of gingerbread men is 6 + 9 + 3 = 18.
+
+To find the percentage of the gingerbread men with red hats, we can divide the number of gingerbread men with red hats by the total number of gingerbread men. So, the percentage is (6 / 18) * 100 = 33.33%.
+
+Answer: 33.33

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total number of songs Kira downloaded. She downloaded 10 songs in the morning, and then she downloaded 15 more, so that is a total of 10 + 15 = 25 songs. Then, her friend recommended 3 more songs, so she downloaded a total of 25 + 3 = 28 songs.
+
+Each song has a size of 5 MB, so to find the total size of the songs, we multiply the total number of songs by the size of a song. 28 songs times 5 MB is 28 * 5 = 140 MB.
+
+Answer: 140

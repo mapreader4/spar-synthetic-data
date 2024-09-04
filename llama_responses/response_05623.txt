@@ -1,0 +1,11 @@
+Let's break down the information given:
+
+1/5 of the students like Math, so 30 * 1/5 = 6 students like Math.
+1/3 like English, so 30 * 1/3 = 10 students like English.
+1/7 like Science, so 30 * 1/7 = 4 students like Science.
+
+The total number of students who like a subject is 6 + 10 + 4 = 20.
+
+The total number of students is 30. So, the number of students who don't have a favorite subject is 30 - 20 = 10.
+
+Answer: 10

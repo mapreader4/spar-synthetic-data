@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Celine collected twice as many erasers as Gabriel did
+* Let's represent Gabriel's erasers as x
+* Then Celine's erasers would be 2x
+* Julian collected twice as many erasers as Celine did
+* So Julian's erasers would be 2(2x) = 4x
+* The total number of erasers collected is 35
+* So we can write the equation: x + 2x + 4x = 35
+* Simplifying, we get: 7x = 35
+* Dividing both sides by 7, we get: x = 5
+* Since Celine collected 2x erasers, and x = 5, Celine collected 2(5) = 10 erasers.
+
+Answer: 10

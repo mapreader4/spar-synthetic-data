@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The factory made 320 caps the first week, 400 caps the second week, and 300 caps the third week.
+2) To find the average number of caps made per week, we add up the number of caps made in the first 3 weeks and divide by 3:
+   (320 + 400 + 300) / 3 = 1020 / 3 = 340 caps per week on average.
+3) If the company makes their average number of caps from the first 3 weeks during the fourth week, they will make 340 caps.
+4) To find the total number of caps made, we add up the caps made in the first 3 weeks and the 4th week:
+   320 + 400 + 300 + 340 = 1360 total caps.
+
+Answer: 1360

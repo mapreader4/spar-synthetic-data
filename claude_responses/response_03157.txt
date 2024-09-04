@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Chris's internet bill is $45 per month for 100 GB
+* He is charged $0.25 for every 1 GB over the 100 GB limit
+* His bill for this month is $65
+
+To find out how many GB over the limit he was charged for, we can use the following equation:
+* Total bill = Base cost + Overage cost
+* $65 = $45 + $0.25 * (Overage GB)
+* $20 = $0.25 * (Overage GB)
+* Overage GB = $20 / $0.25
+* Overage GB = 80 GB
+
+Answer: 80 GB

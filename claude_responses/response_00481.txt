@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Julia's family consists of her mom, dad, grandma, and three little sisters.
+* Tickets for adults cost $12 each.
+* Tickets for children cost $10 each.
+* The total number of tickets needed is:
+  - 3 adult tickets (for mom, dad, and grandma)
+  - 3 child tickets (for the three little sisters)
+* To calculate the total cost:
+  - 3 adult tickets at $12 each = 3 x $12 = $36
+  - 3 child tickets at $10 each = 3 x $10 = $30
+  - Total cost = $36 + $30 = $66
+
+Answer: $66

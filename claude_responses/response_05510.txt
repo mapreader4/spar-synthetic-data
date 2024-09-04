@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Karl has 25 stickers.
+2) Ryan has 20 more stickers than Karl, so Ryan has 25 + 20 = 45 stickers.
+3) Ben has 10 fewer stickers than Ryan, so Ben has 45 - 10 = 35 stickers.
+4) To find the total number of stickers they placed in the sticker book, we add up the stickers of all three:
+   Karl's stickers: 25
+   Ryan's stickers: 45
+   Ben's stickers: 35
+   Total stickers: 25 + 45 + 35 = 105
+
+Answer: 105

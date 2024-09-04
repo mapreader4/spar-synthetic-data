@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The cost of a slice of cake is three-fourths of the cost of a cup of milk tea.
+2) The cost of a cup of milk tea is $2.40.
+3) To find the cost of a slice of cake, we take three-fourths of $2.40:
+   * 3/4 * $2.40 = $1.80
+4) Now, we need to find the total cost of 2 slices of cake and 1 cup of milk tea.
+   * 2 slices of cake at $1.80 each = $3.60
+   * 1 cup of milk tea at $2.40 = $2.40
+   * Total cost = $3.60 + $2.40 = $6.00
+
+Answer: $6

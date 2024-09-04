@@ -1,0 +1,13 @@
+To find the average number of branches per foot, I will first add up the total number of branches and the total height of the trees.
+
+The total number of branches is 200 + 180 + 180 + 153 = 713.
+
+The total height of the trees is 50 + 40 + 60 + 34 = 184.
+
+Next, I will divide the total number of branches by the total height to find the average number of branches per foot.
+
+713 ÷ 184 = 3.88
+
+However, the problem asks for an integer answer, so I will round down to the nearest whole number.
+
+Answer: 3

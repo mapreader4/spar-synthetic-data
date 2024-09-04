@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 200 people visit the museum in one day
+* Half of the visitors are residents of New York City
+* 30% of the NYC residents are college students
+* The cost of a college student ticket is $4
+
+First, we need to find out how many NYC residents visited the museum:
+* 50% of 200 people = 100 NYC residents
+
+Next, we need to find out how many of those NYC residents are college students:
+* 30% of 100 people = 30 college students
+
+Finally, we can calculate the total amount of money the museum gets from the college students who are NYC residents:
+* 30 college students x $4 per ticket = $120
+
+Answer: $120

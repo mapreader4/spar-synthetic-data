@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Lemons cost $2 each
+* Tom bought 6 lemons, so the cost of the lemons is:
+    - 6 lemons x $2 per lemon = $12
+* Papayas cost $1 each
+* Tom bought 4 papayas, so the cost of the papayas is:
+    - 4 papayas x $1 per papaya = $4
+* Mangos cost $4 each
+* Tom bought 2 mangos, so the cost of the mangos is:
+    - 2 mangos x $4 per mango = $8
+* The total cost of the fruits before the discount is:
+    - $12 (lemons) + $4 (papayas) + $8 (mangos) = $24
+* The store offers a $1 discount for every 4 fruits bought
+* Tom bought a total of 12 fruits (6 lemons, 4 papayas, 2 mangos)
+* The number of discounts Tom is eligible for is:
+    - 12 fruits / 4 fruits per discount = 3 discounts
+* The total discount amount is:
+    - 3 discounts x $1 per discount = $3
+* The final amount Tom will pay is:
+    - $24 (total cost before discount) - $3 (discount) = $21
+
+Answer: $21

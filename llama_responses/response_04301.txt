@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the items Hannah is putting in the stockings.
+
+1. She is putting 4 candy canes in each stocking.
+2. She is putting 2 beanie babies in each stocking.
+3. She is putting 1 book in each stocking.
+
+So, to find the total number of stocking stuffers, we need to multiply the number of items in each category by the number of stockings.
+
+1. Candy canes: 4 per stocking * 3 stockings = 12
+2. Beanie babies: 2 per stocking * 3 stockings = 6
+3. Book: 1 per stocking * 3 stockings = 3
+
+To find the total number of stocking stuffers, we add the total number of items from each category:
+
+12 + 6 + 3 = 21
+
+Answer: 21

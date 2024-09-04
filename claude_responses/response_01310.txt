@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Stacy assigns 45 problems for homework
+* There are twice as many multiple choice problems as free response problems
+* There are 7 more free response problems than true/false problems
+
+Let's define the variables:
+* Let x = the number of true/false problems
+* Then the number of free response problems is x + 7
+* And the number of multiple choice problems is 2(x + 7)
+
+We know that the total number of problems is 45, so we can set up an equation:
+* x + (x + 7) + 2(x + 7) = 45
+
+Solving this equation:
+* 4x + 28 = 45
+* 4x = 17
+* x = 4.25
+
+Since we can't have a fractional number of true/false problems, we round down to the nearest integer.
+
+Answer: 4

@@ -1,0 +1,29 @@
+Let's break down the journey into segments:
+
+1. The spaceship travels for 10 hours, then stops for 3 hours. So, it is not moving for 3 hours.
+2. It then travels for another 10 hours, then stops for 1 hour. So, it is not moving for 1 hour.
+3. After this, the spaceship takes an hour's break after every 11 hours of traveling. This means that for every 11 hours of travel, it is not moving for 1 hour.
+4. The entire journey takes 3 days, which is equivalent to 72 hours (24 hours x 3 days).
+5. The total travel time is the sum of the initial 20 hours (10 + 10) and the subsequent 11-hour segments, with 1-hour breaks in between. Let's calculate this:
+
+First 11-hour segment: 11 hours of travel + 1 hour break = 12 hours
+Second 11-hour segment: 11 hours of travel + 1 hour break = 12 hours
+Third 11-hour segment: 11 hours of travel + 1 hour break = 12 hours
+...
+Twenty-second 11-hour segment: 11 hours of travel + 1 hour break = 12 hours
+
+The total travel time is the sum of these segments:
+
+20 hours (initial) + 22 segments of 12 hours each = 20 + 22 x 12 = 20 + 264 = 284 hours
+
+So, the total travel time is 284 hours.
+
+Now, let's subtract the total travel time from the total journey time to find the time spent not moving:
+
+72 hours (total journey time) - 284 hours (total travel time) = -212 hours
+
+However, this is not possible, as the spaceship cannot travel a negative number of hours. Instead, let's find the time spent not moving by adding the initial 4 hours (3 + 1) to the total time spent not moving during the breaks:
+
+4 hours + (22 segments x 1 hour per segment) = 4 + 22 = 26 hours
+
+Answer: 26

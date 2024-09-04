@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Elvis makes 5 squares, each using 4 matchsticks
+* So, Elvis uses 5 * 4 = 20 matchsticks
+* Ralph makes 3 squares, each using 8 matchsticks
+* So, Ralph uses 3 * 8 = 24 matchsticks
+* The total number of matchsticks used is 20 + 24 = 44 matchsticks
+* The box originally contained 50 matchsticks
+* So, the number of matchsticks left in the box is 50 - 44 = 6 matchsticks
+
+Answer: 6

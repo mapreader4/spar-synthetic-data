@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The top layer is a single block. That's the base of the pyramid.
+
+The next layer down is three times as many blocks as the top layer. So, there are 3 blocks in the second layer.
+
+The next layer is three times as many blocks as the second layer. So, there are 3 * 3 = 9 blocks in the third layer.
+
+The next layer is three times as many blocks as the third layer. So, there are 3 * 9 = 27 blocks in the fourth layer.
+
+To find the total number of blocks in the pyramid, we add up the number of blocks in each layer: 1 + 3 + 9 + 27 = 31.
+
+Answer: 31

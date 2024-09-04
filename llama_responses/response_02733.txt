@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Initially, there are 100 ducks in the original flock.
+
+After 5 years, 20 ducks are killed and 30 are born, so the change in the flock size is:
+
+-20 + 30 = 10
+
+So, the new flock size is 100 + 10 = 110 ducks.
+
+Then, they join another flock of 150 ducks. To find the total number of ducks, we add the two flocks together:
+
+110 + 150 = 260 ducks.
+
+Answer: 260

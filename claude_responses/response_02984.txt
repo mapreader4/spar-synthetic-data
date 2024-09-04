@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Joshua has a total of 130 bottles.
+2) He packs 12 bottles in each crate.
+3) He has a total of 10 crates.
+4) To calculate the total number of bottles that can be placed in the crates, we multiply the number of bottles per crate (12) by the number of crates (10):
+12 bottles per crate x 10 crates = 120 bottles
+5) The total number of bottles (130) minus the number of bottles that can be placed in the crates (120) gives us the number of bottles that will not be placed in a crate.
+Answer: 10

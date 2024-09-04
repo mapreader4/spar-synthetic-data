@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the number of hoots per minute is x.
+
+Since the number of hoots per minute is 5, and there are 5 hoots per minute, then the total number of hoots in one minute is 5 * 1 = 5.
+
+The problem states that 5 less than 20 hoots per minute are heard coming out of the barn, so we need to find the number of barnyard owls that would make 5 less than 20 hoots per minute.
+
+Let's subtract 5 from 20 to find the number of hoots per minute that would make 15 hoots per minute.
+
+20 - 5 = 15.
+
+So, the number of barnyard owls would be coming from is 15 ÷ 5 = 3.
+
+Answer: 3

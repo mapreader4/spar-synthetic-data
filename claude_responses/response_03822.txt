@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Alec's class has 60 students
+* Half of the class (30 students) have already said they will vote for Alec
+* Out of the remaining 30 students, 5 have said they are thinking about voting for Alec
+* After Alec changes his flyers, a fifth of the remaining 25 students (who were thinking about voting for someone else) say they will vote for Alec
+* That means 5 + (1/5 * 25) = 10 additional students will vote for Alec
+* So the total number of votes Alec has is 30 + 10 = 40 votes
+* Alec's goal is to get three-quarters of the class (45 votes) to vote for him
+* So Alec needs 45 - 40 = 5 more votes to reach his goal
+
+Answer: 5

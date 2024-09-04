@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The restaurant is offering an 8 piece fried chicken bucket and 2 sides for $12.00, which can feed 6 people.
+* Monty is having a family reunion for 36 family members.
+* We need to calculate how many 8 piece fried chicken buckets and 2 sides Monty needs to feed everyone one serving.
+
+First, let's calculate how many servings are in one 8 piece fried chicken bucket and 2 sides:
+* 1 serving = 6 people
+* So, 1 bucket and 2 sides can feed 6 people
+
+Now, let's calculate how many buckets and sides Monty needs to feed 36 people:
+* 36 people / 6 people per serving = 6 servings
+* 6 servings x 1 bucket per serving = 6 buckets
+* 6 servings x 2 sides per serving = 12 sides
+
+Finally, let's calculate the total cost:
+* 6 buckets x $12.00 per bucket = $72.00
+* 12 sides x $0.00 per side (included in the $12.00 bucket price) = $0.00
+* Total cost = $72.00
+
+Answer: $72

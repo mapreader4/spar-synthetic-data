@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Total donations: 300
+* Basketball hoops: 60
+* Half of the basketball hoops also had basketballs included: 60 / 2 = 30 basketballs
+* Pool floats: 120
+* A quarter of the pool floats were damaged and discarded: 120 * 0.25 = 30 pool floats discarded
+* Remaining pool floats: 120 - 30 = 90 pool floats
+* Footballs: 50
+* Tennis balls: 40
+* Remaining donations were basketballs
+* Total donations - basketball hoops - pool floats - footballs - tennis balls = remaining basketballs
+* 300 - 60 - 90 - 50 - 40 = 60 basketballs
+
+Answer: 60

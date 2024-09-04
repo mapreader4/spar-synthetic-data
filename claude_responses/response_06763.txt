@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+1) John has 20% more boxes than Jules.
+2) Jules has 5 more boxes than Joseph.
+3) Joseph has 80% fewer boxes than Stan.
+4) Stan has 100 boxes.
+
+First, let's find how many boxes Joseph has:
+* Stan has 100 boxes
+* Joseph has 80% fewer boxes than Stan
+* 80% of 100 is 80
+* Therefore, Joseph has 100 - 80 = 20 boxes
+
+Next, let's find how many boxes Jules has:
+* Jules has 5 more boxes than Joseph
+* Joseph has 20 boxes
+* Therefore, Jules has 20 + 5 = 25 boxes
+
+Finally, let's find how many boxes John has:
+* John has 20% more boxes than Jules
+* Jules has 25 boxes
+* 20% of 25 is 5
+* Therefore, John has 25 + 5 = 30 boxes
+
+Answer: 30

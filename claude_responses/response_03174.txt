@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There were 30 women and 20 men who attended the party initially.
+2) The total number of people at the party initially was 30 + 20 = 50.
+3) After a few hours, 2/5 of the total number of people left the party.
+4) 2/5 of 50 is 20, so 20 people left the party.
+5) We know that 9 of the people who left were men.
+6) Since 9 men left, the remaining number of men at the party is 20 - 9 = 11.
+7) The remaining number of people at the party is 50 - 20 = 30.
+8) The remaining number of women at the party is 30 - 11 = 19.
+9) Therefore, there are 19 - 11 = 8 more women who stayed at the party than men.
+
+Answer: 8

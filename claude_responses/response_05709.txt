@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* 3 cloves of garlic can repel 2 vampires, 8 vampire bats, or 3 wights
+* To find how many cloves of garlic are needed to repel 30 vampires, we can set up a proportion:
+  * 3 cloves / 2 vampires = x cloves / 30 vampires
+  * Solving for x, we get: x = 45 cloves
+* To find how many cloves of garlic are needed to repel 12 wights, we can set up another proportion:
+  * 3 cloves / 3 wights = y cloves / 12 wights
+  * Solving for y, we get: y = 12 cloves
+* To find how many cloves of garlic are needed to repel 40 vampire bats, we can set up a third proportion:
+  * 3 cloves / 8 vampire bats = z cloves / 40 vampire bats
+  * Solving for z, we get: z = 15 cloves
+* To find the total number of cloves of garlic needed, we add up the individual amounts:
+  * 45 cloves + 12 cloves + 15 cloves = 72 cloves
+
+Answer: 72 cloves

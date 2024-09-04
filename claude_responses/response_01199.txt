@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The room has 400 square feet of space.
+2) Each bookshelf takes up 80 square feet of space.
+3) Jonas reserves 160 square feet of space for a desk and walking space.
+4) To find the remaining space available for bookshelves, we subtract the reserved space from the total space: 400 sq ft - 160 sq ft = 240 sq ft.
+5) Now, we divide the remaining space by the space required for each bookshelf to find the maximum number of bookshelves: 240 sq ft / 80 sq ft = 3 bookshelves.
+
+Answer: 3

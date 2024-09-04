@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) There are 4 classrooms in total.
+2) The total number of students is the sum of the boys and girls: 56 boys + 44 girls = 100 students.
+3) The goal is to have an equal number of boys and girls in each classroom.
+4) To achieve this, we need to divide the total number of boys and girls equally among the 4 classrooms.
+5) The number of boys and girls in each classroom should be equal, so we need to divide the total number of boys and girls by 2 to get the number of students in each classroom.
+6) 100 students / 4 classrooms = 25 students per classroom.
+
+Answer: 25

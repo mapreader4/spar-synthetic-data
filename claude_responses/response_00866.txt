@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. The red notes were in 5 rows with 6 notes in each row.
+   * So the total number of red notes is 5 rows x 6 notes per row = 30 red notes.
+
+2. There are 2 blue notes under each of the red notes.
+   * Since there are 30 red notes, there are 30 x 2 = 60 blue notes under the red notes.
+
+3. There are another 10 blue notes scattered at the bottom of the board.
+   * So the total number of blue notes is 60 + 10 = 70 blue notes.
+
+4. The total number of notes put into the complaints bin is the number of red notes, which is 30.
+5. The total number of notes put into the compliments bin is the number of blue notes, which is 70.
+
+Answer: 100

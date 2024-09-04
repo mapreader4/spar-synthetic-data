@@ -1,0 +1,7 @@
+Let's start by calculating the total number of donuts Jeff has: 10 donuts per day for 12 days is 10 * 12 = 120 donuts.
+
+Then Chris eats 8 donuts, so Jeff is left with 120 - 8 = 112 donuts.
+
+Jeff can put 10 donuts in each box. To find how many boxes he can fill, we can divide 112 donuts by 10: 112 ÷ 10 = 11.2.
+
+Jeff can fill 11 boxes with donuts.

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Each tree has 10 branches
+* Each branch has 40 sub-branches
+* Each sub-branch has 60 leaves
+* So, each tree has:
+    - 10 branches
+    - 40 sub-branches per branch
+    - 60 leaves per sub-branch
+    - Therefore, each tree has 10 * 40 * 60 = 24,000 leaves
+* There are 4 trees on the farm
+* Therefore, the total number of leaves on all the trees is:
+    - 4 trees * 24,000 leaves per tree = 96,000 leaves
+
+Answer: 96,000

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Bogan laid out 10 maggots for the beetle initially
+* The beetle ate 1 of those maggots
+* Bogan had to throw out the remaining 9 maggots
+* Later that day, Bogan tried feeding the beetle again
+* The beetle ate 3 of the maggots this time
+* In total, Bogan served 20 maggots
+
+To find how many maggots Bogan attempted to feed the beetle the second time, we can use the following equation:
+
+Total maggots served = Initial maggots + Second attempt maggots
+20 = 10 + Second attempt maggots
+Second attempt maggots = 20 - 10 = 10
+
+Therefore, Bogan attempted to feed the beetle 10 maggots the second time.
+
+Answer: 10

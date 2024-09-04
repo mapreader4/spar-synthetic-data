@@ -1,0 +1,25 @@
+Let's break it down step by step:
+
+1. The office has an even number of men and women. Let's assume the total number of people in the office is even. Let's call this number x.
+
+2. Ryan participates in a meeting composed of 4 men and 6 women who are pulled from the office floor. This means that 4 men and 6 women are removed from the office floor.
+
+3. The number of women working on the office floor is reduced by 20%. Let's find 20% of the total number of people. We can find this by multiplying the total number of people by 0.2.
+
+4. The total number of people is x. So, we can multiply x by 0.2 to find the number of women removed.
+
+5. The number of women removed is 20% of the total number of people. So, we can subtract 20% of x from x to get the new number of women working on the office floor.
+
+6. Since the number of women removed is 6, we can set up the equation: 20% of x = 6.
+
+7. To solve for x, we can divide both sides of the equation by 0.2. We get:
+
+0.2x = 6
+
+8. To solve for x, we can multiply both sides of the equation by 5. We get:
+
+x = 6 / 0.2
+
+9. The result of the division is 30.
+
+Answer: 30

@@ -1,0 +1,19 @@
+To solve this problem, we need to calculate the balloon's elevation at each stage of the ride.
+
+1. Initial pull of the chain for 15 minutes:
+   - The balloon rises at a rate of 50 feet per minute.
+   - 15 minutes x 50 feet/minute = 750 feet
+
+2. Release of the chain for 10 minutes:
+   - The balloon descends at a rate of 10 feet per minute.
+   - 10 minutes x 10 feet/minute = 100 feet
+   - The balloon's elevation is now 750 feet - 100 feet = 650 feet
+
+3. Second pull of the chain for 15 minutes:
+   - The balloon rises at a rate of 50 feet per minute.
+   - 15 minutes x 50 feet/minute = 750 feet
+   - The balloon's elevation is now 650 feet + 750 feet = 1,400 feet
+
+Therefore, the highest elevation reached by the balloon during the ride was 1,400 feet.
+
+Answer: 1,400

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of slices of pie that Chef Michel sold.
+
+For the shepherd's pie, he sold 52 slices to 52 customers. Each pie was cut into 4 pieces, so the total number of slices of shepherd's pie is 52 x 4 = 208 slices.
+
+For the chicken pot pie, he sold 80 slices to 80 customers. Each pie was cut into 5 pieces, so the total number of slices of chicken pot pie is 80 x 5 = 400 slices.
+
+To find the total number of pies Chef Michel sold, we add the number of slices of shepherd's pie to the number of slices of chicken pot pie: 208 + 400 = 608.
+
+Answer: 608

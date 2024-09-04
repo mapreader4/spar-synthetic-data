@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Leila ate 6 cakes on Monday
+* Leila ate 9 cakes on Friday
+* On Saturday, Leila ate triple the number of cakes she ate on Monday
+* To calculate the number of cakes she ate on Saturday, we take the number of cakes she ate on Monday (6) and multiply it by 3:
+* 6 cakes x 3 = 18 cakes
+
+Now, to find the total number of cakes Leila ate, we add up the cakes she ate on Monday, Friday, and Saturday:
+* 6 cakes + 9 cakes + 18 cakes = 33 cakes
+
+Answer: 33

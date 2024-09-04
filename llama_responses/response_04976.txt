@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the capacity of each glass is x ounces. Then, the total capacity of the 10 glasses is 10x. Since the glasses are 4/5 full of water, that means that the total water needed to fill the glasses is 4/5 of the total capacity of the glasses. So, we can set up an equation to represent this:
+
+10x * 4/5 = 4x.
+
+Now, we can solve for x by multiplying both sides by 5:
+
+4x = 10 * 4/5
+4x = 40/5
+4x = 8
+
+So, the answer is: Answer: 8

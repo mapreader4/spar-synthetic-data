@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The 1st fastest dog is 10 years old
+* The 2nd fastest dog is 2 years younger than the 1st fastest dog, so it is 10 - 2 = 8 years old
+* The 3rd fastest dog is 4 years older than the 2nd fastest dog, so it is 8 + 4 = 12 years old
+* The 4th fastest dog is half the age of the 3rd fastest dog, so it is 12 / 2 = 6 years old
+* The 5th fastest dog is 20 years older than the 4th fastest dog, so it is 6 + 20 = 26 years old
+
+Now, to find the average age of the 1st and 5th fastest dogs, we add their ages and divide by 2:
+(10 + 26) / 2 = 36 / 2 = 18
+
+Answer: 18

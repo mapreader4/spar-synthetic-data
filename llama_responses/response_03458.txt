@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Jake delivers 234 newspapers a week.
+* Miranda delivers twice as many newspapers a week.
+
+To find the number of newspapers Miranda delivers in a week, we need to multiply the number of newspapers Jake delivers in a week by 2, since Miranda delivers twice as many newspapers a week.
+
+The number of newspapers Jake delivers in a week is 234. So, the number of newspapers Miranda delivers in a week is 2 x 234 = 468.
+
+Now, to find the difference between the number of newspapers Miranda delivers in a month and the number of newspapers Jake delivers in a week, we subtract 234 from 468.
+
+The difference is 234.
+
+Answer: 234

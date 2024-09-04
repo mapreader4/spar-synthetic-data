@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Louise needs 60 cakes in total. She has already made half of them, so she has made 60 / 2 = 30 cakes.
+
+Now, she calculates half of this amount, which is 30 / 2 = 15 cakes. She bakes half of this amount, so she bakes 15 / 2 = 7.5 cakes.
+
+The next day, she calculates a third of this amount, which is 7.5 / 3 = 2.5 cakes.
+
+To find out how many more cakes she needs to bake, we subtract the total cakes she has already baked from the total she needs:
+
+60 - 30 - 15 - 7.5 = 7.5 cakes.
+
+Answer: 7

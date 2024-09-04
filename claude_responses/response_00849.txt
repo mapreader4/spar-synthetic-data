@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The hot air balloon starts with 200 balloons.
+2) After about half an hour, 1/5 of the total number of balloons have blown up.
+   * 1/5 of 200 = 40 balloons have blown up.
+   * So, the number of balloons remaining is 200 - 40 = 160.
+3) After another hour, twice the number of balloons that had already blown up also blow up.
+   * The number of balloons that had already blown up is 40.
+   * Twice that number is 40 x 2 = 80 additional balloons that blow up.
+   * So, the total number of balloons that have blown up is 40 + 80 = 120.
+   * The number of balloons remaining is 200 - 120 = 80.
+
+Answer: 80

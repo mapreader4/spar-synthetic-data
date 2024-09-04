@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Oprah has 3500 cars in her collection
+* She gives away an average of 50 cars per year
+* We need to find how many years it will take to reduce her car collection to 500
+
+To calculate the number of years, we need to find how many cars she needs to give away to reduce her collection from 3500 to 500.
+* The number of cars she needs to give away is 3500 - 500 = 3000 cars
+
+Now, we can divide the total number of cars she needs to give away (3000) by the average number of cars she gives away per year (50) to get the number of years.
+* 3000 cars / 50 cars per year = 60 years
+
+Therefore, it will take 60 years to reduce Oprah's car collection from 3500 to 500.
+
+Answer: 60

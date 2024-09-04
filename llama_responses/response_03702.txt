@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to find the total number of tiles needed to tile the two walls. The first wall is 5 feet by 8 feet, which is 5 x 8 = 40 square feet. The second wall is 7 feet by 8 feet, which is 7 x 8 = 56 square feet. The total area to be tiled is 40 + 56 = 96 square feet.
+
+Each square foot takes 4 tiles, so the total number of tiles needed is 96 x 4 = 384 tiles.
+
+The turquoise tiles cost $13/tile, so the total cost of turquoise tiles is 384 x 13 = $4032.
+
+The purple tiles cost $11/tile, so the total cost of purple tiles is 384 x 11 = $4224.
+
+Janet will save $4224 - $4032 = $192 by buying the purple tiles instead of the turquoise ones.

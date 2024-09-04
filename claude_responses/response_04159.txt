@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* It takes a butterfly egg 120 days to become a butterfly
+* Each butterfly spends 3 times as much time as a larva as in a cocoon
+* This means that the time spent as a larva is 3 times the time spent in a cocoon
+* Let's call the time spent in a cocoon 'x'
+* Then the time spent as a larva is 3x
+* The total time from egg to butterfly is 120 days
+* So the equation is: 120 = x + 3x
+* Solving for x, we get: 120 = 4x
+* x = 120/4 = 30
+
+Answer: 30 days

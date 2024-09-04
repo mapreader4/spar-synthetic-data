@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Initially, there were 37 jellybeans in the jar.
+
+1. Pat removed 15 jellybeans. So, there are 37 - 15 = 22 jellybeans left in the jar.
+
+2. Pat added 5 of the removed jellybeans back in. So, there are now 22 + 5 = 27 jellybeans in the jar.
+
+3. Then, Pat removed 4 more jellybeans. So, there are 27 - 4 = 23 jellybeans in the jar.
+
+Answer: 23

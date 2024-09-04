@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's assume that Peter rakes leaves at a constant rate. Let's say he rakes 3 bags in 15 minutes. To find out how long it would take him to rake 8 bags, we need to find out how many bags he rakes in 15 minutes.
+
+To do this, we can divide 15 minutes by 3 bags to find out how many bags he rakes in 1 minute. 15 minutes is equal to 15 / 60 = 0.25 hours. 0.25 hours is equal to 0.25 * 60 = 15 minutes, so Peter rakes 3 bags in 0.25 hours. So, in 1 minute, he rakes 3 / 0.25 = 12 bags.
+
+Now, to find out how many bags he rakes in 8 bags, we need to multiply 12 bags by 8. 12 * 8 = 96. So, it will take Peter 96 minutes to rake 8 bags.

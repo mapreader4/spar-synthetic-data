@@ -1,0 +1,11 @@
+Let's start by identifying the number of bolts and nuts used for the project.
+
+The builder purchased 7 boxes of bolts with each box containing 11 bolts, so the total number of bolts is 7 * 11 = 77 bolts.
+
+The builder purchased 3 boxes of nuts with each box containing 15 nuts, so the total number of nuts is 3 * 15 = 45 nuts.
+
+The builder used 3 bolts and 6 nuts, which is a total of 3 + 6 = 9.
+
+The total number of bolts and nuts used is 77 + 45 - 9 = 112.
+
+Answer: 112

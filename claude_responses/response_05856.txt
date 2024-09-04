@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Milly's math homework takes 60 minutes.
+2. Her geography homework takes half as long as her math homework, which means it takes 30 minutes (60 minutes / 2 = 30 minutes).
+3. Her science homework takes the mean amount of time she spent studying math and geography.
+   - The mean is the average of the two values.
+   - The mean time spent studying math and geography is (60 minutes + 30 minutes) / 2 = 45 minutes.
+4. To find the total time Milly spends studying, we add up the time for each subject:
+   - Math: 60 minutes
+   - Geography: 30 minutes
+   - Science: 45 minutes
+   - Total time: 60 minutes + 30 minutes + 45 minutes = 135 minutes.
+
+Answer: 135 minutes.

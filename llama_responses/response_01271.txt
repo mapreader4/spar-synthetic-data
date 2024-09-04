@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Step 1: Calculate the cost of the ticket for Dorothy. Since she is 15 years old, she is not eligible for the discount.
+
+The regular cost is $10.
+
+Step 2: Calculate the discount. People 18 years old or younger have a discount of 30%. Since Dorothy is 15 years old, she is younger than 18 years old, so she is eligible for the discount.
+
+The discount is 30% of the regular cost.
+
+The discount is 30% of $10 is $3.
+
+Step 3: Calculate the cost after the discount. The regular cost is $10, and the discount is $3.
+
+The cost after the discount is $10 - $3 = $7.
+
+Step 4: Calculate the amount of money Dorothy has after the trip.
+
+Dorothy currently has $70. After the trip, she will have $70 - $7 = $63.
+
+Answer: 63

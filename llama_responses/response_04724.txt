@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of exams she needs to grade. We know that Mrs. Watson grades 60% of the exams on Monday. This means she grades 0.6 x 120 = 72 exams. Since she grades 75% of the remaining exams on Tuesday, she grades 0.75 x (120 - 72) = 54 exams. The total number of exams she needs to grade is 72 + 54 = 126.
+
+Now, we need to find out how many exams she grades on Wednesday. Since she grades all the remaining exams on Wednesday, we can subtract the total number of exams she graded already from the total number of exams. 126 - 72 = 54 exams. Therefore, Mrs. Watson needs to grade 54 exams on Wednesday.
+
+Answer: 54

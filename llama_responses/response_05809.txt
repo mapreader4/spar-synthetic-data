@@ -1,0 +1,21 @@
+Let's start by calculating the total weight of the items Daryl wants to load:
+
+* 4 bags of nails, each weighing 5kg, means a total weight of 4 x 5 = 20kg
+* 12 bags of hammers, each weighing 5kg, means a total weight of 12 x 5 = 60kg
+* 10 bags of wooden planks, each weighing 30kg, means a total weight of 10 x 30 = 300kg
+
+Adding these up, we get a total weight of 20 + 60 + 300 = 380kg
+
+Daryl has 15 crates, each with a weight limit of 20kg. To find out how many crates he can fill, we divide the total weight by the weight limit of each crate:
+
+380kg ÷ 20kg = 19.0 crates
+
+Since Daryl only has 15 crates, he will have to leave out some items to meet the weight limit. To find out how much he needs to leave out, we subtract the number of crates he can fill from the total weight:
+
+380kg - (19 x 20kg) = 380kg - 380kg = 0kg
+
+However, this is not possible since Daryl has more items to load than crates to fill. To meet the weight limit, he will have to leave out some items. Let's subtract the weight limit of the 15 crates from the total weight:
+
+380kg - (15 x 20kg) = 380kg - 300kg = 80kg
+
+Answer: 80

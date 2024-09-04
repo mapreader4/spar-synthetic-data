@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+1. The show was on the air for 10 seasons.
+2. Each season had 20 episodes for the first half of seasons and 25 for the second half of the show.
+
+To find the total number of episodes, we need to find the total number of episodes for the first half and the second half of the show, then add them together.
+
+For the first half of the seasons, there were 10 seasons. For each season, there were 20 episodes. So, the total number of episodes for the first half of the seasons is:
+
+10 seasons * 20 episodes = 200 episodes
+
+For the second half of the seasons, there were 10 seasons. For each season, there were 25 episodes. So, the total number of episodes for the second half of the seasons is:
+
+10 seasons * 25 episodes = 250 episodes
+
+To find the total number of episodes, we add the number of episodes for the first half and the second half:
+
+200 episodes + 250 episodes = 450 episodes
+
+Answer: 450

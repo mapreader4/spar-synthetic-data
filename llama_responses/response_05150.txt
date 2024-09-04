@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the full price of two rackets at $60 each.
+
+The full price of two rackets is 2 x $60 = $120.
+
+Step 2: Apply the discount for the second racket.
+
+The discount for the second racket is 50% off the full price, which is 0.5 x $60 = $30. So, the discounted price of the second racket is $60 - $30 = $30.
+
+Step 3: Calculate the total cost of the two rackets.
+
+The total cost is the cost of the first racket at full price, which is $60, plus the discounted price of the second racket, which is $30.
+
+Answer: $60 + $30 = $90.

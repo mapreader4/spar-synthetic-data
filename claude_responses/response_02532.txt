@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Kaiden collected 158 cans during the first week.
+2) Kaiden collected 259 cans during the second week.
+3) So the total number of cans Kaiden has collected so far is 158 + 259 = 417 cans.
+4) Kaiden's goal is to collect 500 cans.
+5) To find the number of additional cans Kaiden needs to collect, we subtract the number of cans he has already collected from his goal:
+500 - 417 = 83 cans.
+
+Answer: 83

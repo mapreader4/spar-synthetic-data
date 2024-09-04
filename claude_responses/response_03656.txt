@@ -1,0 +1,21 @@
+To solve this problem, we need to find the number of pencils that can be sharpened by each type of sharpener in six minutes and then calculate the difference.
+
+Given information:
+- Hand-crank pencil sharpener can sharpen one pencil every 45 seconds.
+- Electric pencil sharpener can sharpen one pencil every 20 seconds.
+- The time period is six minutes.
+
+Step 1: Convert the time period from minutes to seconds.
+6 minutes = 6 × 60 = 360 seconds
+
+Step 2: Calculate the number of pencils that can be sharpened by the hand-crank sharpener in 360 seconds.
+Number of pencils sharpened by hand-crank sharpener = 360 seconds / 45 seconds per pencil = 8 pencils
+
+Step 3: Calculate the number of pencils that can be sharpened by the electric sharpener in 360 seconds.
+Number of pencils sharpened by electric sharpener = 360 seconds / 20 seconds per pencil = 18 pencils
+
+Step 4: Calculate the difference between the number of pencils sharpened by the electric sharpener and the hand-crank sharpener.
+Difference = Number of pencils sharpened by electric sharpener - Number of pencils sharpened by hand-crank sharpener
+Difference = 18 pencils - 8 pencils = 10 pencils
+
+Answer: 10 pencils

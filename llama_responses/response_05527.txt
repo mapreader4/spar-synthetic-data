@@ -1,0 +1,30 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Walter fell from the eighth platform of the scaffolding.
+* He fell 4 meters.
+* He fell for an additional 3 more times that depth before hitting the ground.
+* The platforms are evenly spaced out in height.
+
+Let's call the height of each platform 'x'. We know that Walter fell from the 8th platform, which means that the 8th platform is 0 meters from the ground. We can represent this as 7x.
+
+The total distance Walter fell is 4 meters. Since he fell 4 meters initially, and then 3 more times 3 meters, we can represent this as 4 + 3x = 7x.
+
+The platforms are evenly spaced out in height, so the distance between each platform is the same, which means that the distance between the 8th platform and the 7th platform is also x.
+
+We can set up an equation to represent the situation:
+
+7x = 4 + 3x
+
+We can solve for x by subtracting 4 from both sides of the equation:
+
+7x - 4 = 3x
+7x - 4 = 3x
+x = 3
+
+So, the answer is x = 3.
+
+Now, we need to find the height of the 8th platform. We know that x = 3, so the height of the 8th platform is 3x. Since Walter fell 4 meters from the 8th platform, we can represent the height of the 8th platform as 7x - 3 = 4.
+
+Answer: 7

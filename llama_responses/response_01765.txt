@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of worms needed to feed each baby for 3 days.
+
+Each baby needs 3 worms a day. Since there are 6 babies, the total number of worms needed for 3 days would be 6 x 3 = 18 worms.
+
+Mama bird has 13 worms already. She had 2 stolen. So she has 13 - 2 = 11 worms. She needs 18 - 11 = 7 more worms.
+
+Answer: 7

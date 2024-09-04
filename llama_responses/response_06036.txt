@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, it rains 2 inches in the first hour, from 1 pm to 2 pm. So, the tank has 2 inches of rainwater at 2 pm.
+
+For the next 4 hours, it rains at a rate of 1 inch per hour. So, for 4 hours, the tank will gain an additional 4 inches of rainwater. This will bring the total to 2 + 4 = 6 inches of rainwater.
+
+The tank is now 6 inches full at 6 pm.
+
+After 6 pm, it rains at a rate of 3 inches per hour. To fill the remaining 18 - 6 = 12 inches of the tank, it will take 12/3 = 4 hours.
+
+So, the tank will be filled with rainwater at 6 pm + 4 hours = 10 pm.
+
+Answer: 10

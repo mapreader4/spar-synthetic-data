@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Theo makes 3 egg and 4 egg omelettes
+* The cafe is open from 7:00 a.m. to 11:00 a.m., which is 4 hours
+* In the first hour, 5 customers order the 3 egg omelettes, so that's 5 * 3 = 15 eggs
+* In the second hour, 7 customers order the 4 egg omelettes, so that's 7 * 4 = 28 eggs
+* In the third hour, 3 customers order the 3 egg omelettes, so that's 3 * 3 = 9 eggs
+* In the last hour, 8 customers order the 4 egg omelettes, so that's 8 * 4 = 32 eggs
+* To calculate the total number of eggs needed, we add up the eggs for each hour:
+15 + 28 + 9 + 32 = 84 eggs
+
+Answer: 84

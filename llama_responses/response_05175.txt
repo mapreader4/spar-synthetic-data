@@ -1,0 +1,11 @@
+Let's break this down step by step:
+
+1. Kaydence's father is 60 years old, and Kaydence's mother is 2 years younger than Kaydence's father, so Kaydence's mother is 60 - 2 = 58 years old.
+
+2. Kaydence's brother is 1/2 the age of Kaydence's father, so Kaydence's brother is 60 / 2 = 30 years old.
+
+3. The total age of the people in Kaydence's family is 200. We know that Kaydence's father is 60, mother is 58, brother is 30, and sister is 40, so we need to add all these ages together to find Kaydence's age: 60 + 58 + 30 + 40 = 188.
+
+4. So, Kaydence's age is the total age minus the sum of the ages of the other family members: 200 - 188 = 12.
+
+Answer: 12

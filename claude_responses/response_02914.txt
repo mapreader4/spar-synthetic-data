@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Leah bought 3 boxes of birdseed
+* She already had 5 boxes in the pantry
+* So, in total, she has 3 + 5 = 8 boxes of birdseed
+* Each box contains 225 grams of seeds
+* Her parrot eats 100 grams per week
+* Her cockatiel eats 50 grams per week
+* So, in total, her birds eat 100 + 50 = 150 grams per week
+* To calculate how many weeks she can feed her birds, we need to divide the total amount of seeds by the weekly consumption:
+* Total amount of seeds = 8 boxes x 225 grams/box = 1800 grams
+* Weekly consumption = 150 grams/week
+* Weeks of food = 1800 grams / 150 grams/week = 12 weeks
+
+Answer: 12

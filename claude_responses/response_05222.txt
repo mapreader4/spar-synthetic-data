@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Costco sells 1 gallon of mayo for $8
+* 1 gallon = 128 ounces
+* At the normal store, a 16-ounce bottle costs $3
+* To calculate the cost of 128 ounces at the normal store, we need to divide 128 by 16 to get the number of 16-ounce bottles needed:
+* 128 ÷ 16 = 8 bottles
+* 8 bottles x $3 per bottle = $24
+* The difference between the cost at Costco ($8) and the cost at the normal store ($24) is the amount of money Jim saves:
+* $24 - $8 = $16
+
+Answer: $16

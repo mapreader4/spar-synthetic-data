@@ -1,0 +1,8 @@
+Let's break down the problem step by step:
+
+1. First, we know Frank bought 10 buns for $0.1 each. So, the cost of the buns is 10 x 0.1 = 1.
+2. He bought 2 bottles of milk, each for $2. So, the cost of the milk is 2 x 2 = 4.
+3. The carton of eggs was three times more expensive than one bottle of milk. So, the cost of the eggs is 3 x 2 = 6.
+4. We add the cost of the buns, milk, and eggs to get the total cost of Frank's shopping: 1 + 4 + 6 = 11.
+
+Answer: 11

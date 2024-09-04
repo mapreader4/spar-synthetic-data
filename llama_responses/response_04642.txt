@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Mcgregor read 34 books. Floyd read 32 books.
+
+Mcgregor has 89 - 34 = 55 books left to read.
+
+Floyd has 89 - 32 = 57 books left to read.
+
+They have 55 + 57 = 112 books left to read.
+
+Answer: 112

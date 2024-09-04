@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The road is 2000 feet long and 20 feet wide, so the total area of the road is:
+2000 feet x 20 feet = 40,000 square feet
+2) Each truckload of asphalt covers 800 square feet of road.
+3) To calculate the number of truckloads needed, we divide the total area of the road by the area covered by each truckload:
+40,000 square feet / 800 square feet per truckload = 50 truckloads
+4) Each truckload of asphalt costs $75.
+5) To calculate the total cost of the asphalt before tax, we multiply the number of truckloads by the cost per truckload:
+50 truckloads x $75 per truckload = $3,750
+6) There is a 20% sales tax, so we need to calculate the tax amount:
+$3,750 x 0.20 = $750
+7) To calculate the total amount Mark needs to pay, we add the cost of the asphalt and the sales tax:
+$3,750 + $750 = $4,500
+
+Answer: $4,500

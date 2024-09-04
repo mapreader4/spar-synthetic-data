@@ -1,0 +1,5 @@
+To find the number of students who like chess or basketball, we can find the number of students who like chess and add it to the number of students who like basketball.
+
+The number of students who like chess is 10% of the total number of students, which is 10% of 250, which is 25. The number of students who like basketball is 40% of the total number of students, which is 40% of 250, which is 100. To find the total number of students who like chess or basketball, we add 25 and 100, which is 125.
+
+Answer: 125

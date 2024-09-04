@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Colin ran his first mile in 6 minutes.
+* He then ran the next two miles in 5 minutes each, which is 10 minutes total.
+* He finished his 4th mile in 4 minutes.
+* To calculate the average time it took him to run a mile, we need to add up the times for all 4 miles and divide by 4.
+* The total time for all 4 miles is 6 + 10 + 4 = 20 minutes.
+* Dividing the total time of 20 minutes by 4 miles gives us an average time of 5 minutes per mile.
+
+Answer: 5

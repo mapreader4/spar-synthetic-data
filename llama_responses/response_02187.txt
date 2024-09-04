@@ -1,0 +1,11 @@
+Let's start by calculating the sum of the ages of the 9 students:
+
+9 students with average age 8 years each: 9 * 8 = 72
+
+Now, we need to add the age of the 10th student, which is 28 years, to the sum:
+
+72 + 28 = 100
+
+The average age of the 10 students is 10. So, the average age will increase by 2 years.
+
+Answer: 2

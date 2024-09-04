@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Each turtle needs 1 ounce of food per 1/2 pound of body weight.
+2) Sylvie has 30 pounds of turtles.
+3) To find the total amount of food needed, we first need to convert the 30 pounds of turtles to ounces.
+   * 30 pounds x 16 ounces per pound = 480 ounces
+4) Since each turtle needs 1 ounce of food per 1/2 pound of body weight, we need to divide the total ounces by 0.5 to get the total ounces of food needed.
+   * 480 ounces / 0.5 = 960 ounces
+5) Each jar of food contains 15 ounces and costs $2.
+6) To find the number of jars needed, we divide the total ounces of food needed by the ounces per jar.
+   * 960 ounces / 15 ounces per jar = 64 jars
+7) To find the total cost, we multiply the number of jars by the cost per jar.
+   * 64 jars x $2 per jar = $128
+
+Answer: $128

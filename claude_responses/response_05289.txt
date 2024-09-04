@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* John is supposed to deliver 250 papers a day
+* The Monday-Saturday papers weigh 8 ounces each
+* The Sunday paper weighs twice as much, which is 16 ounces
+* He doesn't deliver them for 10 weeks
+* 1 ton of paper recycles for $20
+
+First, let's calculate the total weight of the papers he didn't deliver:
+* Monday-Saturday papers: 250 papers x 6 days/week x 8 ounces/paper = 12,000 ounces/week
+* Sunday papers: 250 papers x 16 ounces/paper = 4,000 ounces/week
+* Total weight per week: 12,000 ounces + 4,000 ounces = 16,000 ounces/week
+* Total weight over 10 weeks: 16,000 ounces/week x 10 weeks = 160,000 ounces
+
+Now, let's convert the total weight to tons:
+* 1 ton = 2,000 pounds
+* 1 pound = 16 ounces
+* 160,000 ounces / 16 ounces/pound = 10,000 pounds
+* 10,000 pounds / 2,000 pounds/ton = 5 tons
+
+Finally, let's calculate the amount of money he made:
+* 1 ton of paper recycles for $20
+* 5 tons of paper x $20/ton = $100
+
+Answer: $100

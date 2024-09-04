@@ -1,0 +1,11 @@
+Let's break down the information:
+
+There are 2 ducks with 5 ducklings each, which is 2 x 5 = 10 ducklings.
+There are 6 ducks with 3 ducklings each, which is 6 x 3 = 18 ducklings.
+There are 9 ducks with 6 ducklings each, which is 9 x 6 = 54 ducklings.
+
+To find the total number of ducks and ducklings, we need to add 10, 18, and 54 together.
+
+10 + 18 + 54 = 82
+
+Answer: 82

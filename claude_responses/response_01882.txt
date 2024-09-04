@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The banana tree has 100 bananas left after Raj cut some bananas from it.
+2) Raj has eaten 70 bananas.
+3) Raj has twice as many remaining in his basket as he has eaten.
+4) To find the total number of bananas on the tree initially, we need to add the number of bananas Raj has eaten and the number of bananas remaining on the tree.
+5) The number of bananas Raj has eaten is 70.
+6) The number of bananas remaining in Raj's basket is twice the number of bananas he has eaten, which is 2 * 70 = 140.
+7) The total number of bananas on the tree initially is the sum of the bananas Raj has eaten (70) and the bananas remaining on the tree (100), which is 70 + 100 = 170.
+
+Answer: 170

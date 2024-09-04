@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find out how much he gets per year.
+
+He gets $2000 per song.  Since he releases 3 songs every month, that means he gets $2000 / 3 = $666.67 per month.
+
+Now, we want to find out how much he gets in his first 3 years.  There are 12 months in a year, so he gets $666.67 * 12 = $7956.04 per year.
+
+Now, he gets this amount per year for 3 years.  So, he gets $7956.04 * 3 = $23668.12.
+
+Answer: 23668.12

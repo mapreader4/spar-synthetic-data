@@ -1,0 +1,29 @@
+Let's break down the problem step by step.
+
+Let's start by calculating the total number of oranges produced by each sister.
+
+Gabriela's grove produced 600 oranges per tree, and she has 110 trees, so she produced a total of:
+
+600 x 110 = 66000 oranges
+
+Alba's grove produced 400 oranges per tree, and she has 110 trees, so she produced a total of:
+
+400 x 110 = 44000 oranges
+
+Maricela's grove produced 500 oranges per tree, and she has 110 trees, so she produced a total of:
+
+500 x 110 = 55000 oranges
+
+Now, let's add up the total number of oranges produced by the three sisters:
+
+66000 + 44000 + 55000 = 165000
+
+Now, let's calculate the total number of cups of juice that can be made from the oranges. If it takes 3 medium-sized oranges to make 1 cup of juice, then we can divide the total number of oranges by 3 to get the total number of cups:
+
+165000 ÷ 3 = 55000
+
+Now, let's calculate the total amount of money they will make by selling each cup for $4:
+
+55000 cups x $4 = 220000
+
+Answer: 220000

@@ -1,0 +1,11 @@
+Let's start by breaking down the problem step by step.
+
+Step 1: We know that the stack of books is 12 inches thick, and that each book is 80 pages thick. So, to find the total number of pages in the stack of books, we can multiply the thickness of the stack (12 inches) by the thickness of each book (80 pages).
+
+12 inches * 80 pages = 960 pages
+
+Step 2: Now, we know that Jack has 6 books. To find the average number of pages per book, we can divide the total number of pages (960) by the number of books (6).
+
+960 pages ÷ 6 books = 160 pages per book
+
+Answer: 160

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The average of marks scored in four tests by Jake was 75.
+2) Jake scored 80 marks in the first test.
+3) Jake scored 10 more marks in the second test than in the first test, so he scored 90 marks in the second test.
+4) Jake scored an equal number of marks in the third and fourth tests.
+5) The total marks scored by Jake in the four tests is the average (75) multiplied by the number of tests (4), which is 300.
+6) The total marks scored in the first two tests is 80 + 90 = 170.
+7) The total marks scored in the third and fourth tests is 300 - 170 = 130.
+8) Since Jake scored an equal number of marks in the third and fourth tests, the marks scored in each of these tests is 130 / 2 = 65.
+
+Answer: 65

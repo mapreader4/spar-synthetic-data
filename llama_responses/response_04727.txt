@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the time on March 1st when the sun sets, which is 6 PM.
+
+Then, we know that every day, the sun sets 1.2 minutes later. So, we can add 1.2 minutes to 6 PM to find the time on March 2nd when the sun sets.
+
+We are given that it is 6:10 PM and 40 days after March 1st. So, we can subtract 40 days from 6:10 PM to find the time on March 1st.
+
+6:10 PM - 40 days is 6:10 PM - 40*24*60 = 6:10 PM - 240 = 6:10 PM - 240 = 4:50 PM
+
+Now, we need to find the time until the sun sets on March 1st and add 1.2 minutes. 4:50 PM + 1.2 = 4:51.2.
+
+Answer: 51.2

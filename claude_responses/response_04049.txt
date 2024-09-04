@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The book has 360 pages total
+* On Saturday, Ethan read 40 pages in the morning and 10 pages at night, for a total of 50 pages
+* The next day, he read twice the total pages as on Saturday, which is 2 x 50 = 100 pages
+* So in total, Ethan has read 50 + 100 = 150 pages
+* To find the number of pages left to read, we subtract the total pages read from the total pages in the book:
+* 360 pages - 150 pages = 210 pages
+
+Answer: 210

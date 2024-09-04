@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Jordan read 120 novels.
+Alexandre read 1/10 of what Jordan read, which is 12 novels.
+
+To find out how many novels Jordan read more than Alexandre, we can subtract 12 from 120. 
+
+120 - 12 = 108.
+
+Answer: 108

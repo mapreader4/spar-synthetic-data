@@ -1,0 +1,7 @@
+Let's start by identifying the number of boys and girls that brought gifts.
+
+Three-fourths of the 16 boys is 12 boys brought gifts. 6/7 of the 14 girls is 2 girls brought gifts.
+
+Now, we want to find the number of those who did not bring gifts. We can subtract the number of those who brought gifts from the total number of boys and girls who attended the party.
+
+The total number of people who did not bring gifts is 16 - 12 - 2 = 4.

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jon's laundry machine can do 5 pounds of laundry at a time
+* 4 shirts weigh 1 pound
+* 2 pairs of pants weigh 1 pound
+* Jon needs to wash 20 shirts and 20 pants
+
+First, let's calculate the total weight of the laundry:
+* 20 shirts = 20 * (1/4) pounds = 5 pounds
+* 20 pants = 20 * (1/2) pounds = 10 pounds
+* Total weight = 5 pounds + 10 pounds = 15 pounds
+
+Now, since the laundry machine can do 5 pounds at a time, we need to calculate how many loads of laundry Jon has to do:
+* 15 pounds / 5 pounds per load = 3 loads
+
+Therefore, the answer is:
+Answer: 3

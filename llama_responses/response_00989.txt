@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many gallons Caleb and Cynthia can add to the pool per trip. Caleb can add 7 gallons and Cynthia can add 8 gallons, so together they can add 7 + 8 = 15 gallons per trip.
+
+Next, we need to find out how many trips it will take to fill the pool. The pool requires 105 gallons of water, and Caleb and Cynthia can add 15 gallons per trip. To find out how many trips it will take, we can divide the total amount of water needed (105 gallons) by the amount they can add per trip (15 gallons):
+
+105 gallons ÷ 15 gallons/trip = 7 trips
+
+So, it will take Caleb and Cynthia 7 trips to fill the pool with their buckets.
+
+Answer: 7

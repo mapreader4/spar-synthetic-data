@@ -1,0 +1,7 @@
+To solve this problem, I will first convert the given kilograms to grams by multiplying by 1000. So, 10 kilograms is equal to 10000 grams.
+
+Then, Rose cooked 9 kilograms in the morning, which is equal to 9000 grams. Then, she cooked 1/4 of the remaining rice, which is equal to 2500 grams.
+
+So, Rose had 10000 - 9000 = 1000 grams of rice left.
+
+Answer: 1000

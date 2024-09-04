@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. The plot of land is 110 feet wide and 120 feet long. To find the area of the plot, we multiply the width by the length: 110 x 120 = 13200 square feet.
+
+2. The tiller digs a swath 2 feet wide, which means that for every 2 feet of tillage, it takes 1 foot of ground. So, the area that the tiller can till in 2 seconds is 1 foot.
+
+3. To till the entire plot, we need to find how many 2-foot sections we need to till. To do this, we divide the total area of the plot by the area that the tiller can till in 2 seconds: 13200 square feet / 1 foot = 13200 / 1 = 13200 sections.
+
+4. Now, we need to find the time it takes to till each section. Since the tiller takes 2 seconds to till 1 foot of ground, it will take 2 seconds to till 2 feet of ground, and since each section is 2 feet, it will take 2 x 2 = 4 seconds to till each section.
+
+5. Finally, we multiply the number of sections by the time it takes to till each section: 13200 sections x 4 seconds = 52800 seconds.
+
+6. To convert this to minutes, we divide by 60: 52800 / 60 = 880.
+
+Answer: 880

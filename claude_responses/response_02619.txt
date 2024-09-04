@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* On Monday, 10 people attended class.
+* On Tuesday, 15 people attended class.
+* From Wednesday through Friday, 10 people attended class each day.
+* To find the average number of people who attended class each day, we need to add up the total number of people who attended class over the 5 days, and then divide that by the number of days.
+
+The total number of people who attended class is:
+* Monday: 10 people
+* Tuesday: 15 people
+* Wednesday through Friday: 10 people per day, so 3 * 10 = 30 people
+* Total = 10 + 15 + 30 = 55 people
+
+Now, we divide the total number of people (55) by the number of days (5) to get the average:
+* 55 people / 5 days = 11 people per day on average
+
+Answer: 11

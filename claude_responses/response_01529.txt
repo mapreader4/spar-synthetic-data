@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The total population of the town is 5,000 people.
+2) There are 2,000 males in the town.
+3) The remaining population are females, so the number of females is 5,000 - 2,000 = 3,000.
+4) 30% of the female population wears glasses.
+5) To find the number of females who wear glasses, we take 30% of the female population:
+30% of 3,000 = 0.30 * 3,000 = 900.
+
+Answer: 900

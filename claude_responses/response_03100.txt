@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) There are 3 dogs in the backyard, each with a different preference: apples, blueberries, and bonnies.
+2) The first dog, which likes apples, eats 3 times as many apples as the number of blueberries eaten by the second dog.
+3) The second dog, which likes blueberries, eats 3/4 times as many blueberries as the number of bonnies eaten by the third dog.
+4) The third dog, which likes bonnies, ate 60 bonnies.
+5) To find the number of blueberries eaten by the second dog, we can use the information about the third dog:
+   - The third dog ate 60 bonnies
+   - The second dog ate 3/4 times as many blueberries as the number of bonnies eaten by the third dog
+   - So the second dog ate 3/4 * 60 = 45 blueberries
+6) Now we can find the number of apples eaten by the first dog:
+   - The first dog ate 3 times as many apples as the number of blueberries eaten by the second dog
+   - The second dog ate 45 blueberries
+   - So the first dog ate 3 * 45 = 135 apples
+7) To find the total number of fruits eaten by the three dogs, we add up the number of apples, blueberries, and bonnies:
+   - Apples: 135
+   - Blueberries: 45
+   - Bonnies: 60
+   - Total: 135 + 45 + 60 = 240
+
+Answer: 240

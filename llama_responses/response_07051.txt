@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. Jane bought 600 minnows.
+2. Each prize is a bowl with 3 minnows, so the total number of minnows in a prize is 3.
+3. If 15 people win a prize, the total number of minnows given out is 15 * 3 = 45.
+4. Since Jane bought 600 minnows, and 45 minnows were given out, the number of minnows left over is 600 - 45 = 555.
+
+Answer: 555

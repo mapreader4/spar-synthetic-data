@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) Each boat is 3 feet across.
+2) There must be at least 2 feet between each boat or the riverbank.
+3) The total width of the river is 42 feet.
+4) To calculate the number of boats that can fit, we need to find how much space is available for the boats.
+5) The total available space is 42 feet.
+6) Each boat takes up 3 feet, and there needs to be 2 feet between each boat or the riverbank.
+7) So the space taken up by each boat and the space between them is 3 feet + 2 feet = 5 feet.
+8) To find the number of boats, we divide the total available space (42 feet) by the space taken up by each boat and the space between them (5 feet).
+9) 42 feet / 5 feet per boat = 8.4 boats.
+10) Since we can't have a fractional number of boats, we round down to the nearest whole number.
+
+Answer: 8 boats.

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The zoo initially had 68 wild animals
+* They sent a gorilla family of 6 to a different zoo, so now they have 68 - 6 = 62 animals
+* They then adopted a hippopotamus, so now they have 62 + 1 = 63 animals
+* They then took in 3 endangered rhinos, so now they have 63 + 3 = 66 animals
+* One of their lionesses then gave birth to cubs
+* They also opened a meerkat exhibit with twice as many meerkats as they had gained lion cubs
+* In the end, they had a total of 90 animals
+
+We need to find out how many lion cubs were born. Let's call the number of lion cubs "x".
+
+After the lion cubs were born, the total number of animals was 90. We can express this as:
+66 + x + 2x = 90
+
+Solving for x, we get:
+66 + 3x = 90
+3x = 24
+x = 8
+
+Therefore, the number of lion cubs born at the zoo is 8.
+
+Answer: 8

@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that:
+
+1. Atticus has 4 marbles.
+2. Atticus has half as many marbles as Jensen, so Jensen has 4 x 2 = 8 marbles.
+3. The sum of the number of marbles Atticus, Jensen, and Cruz have is 60.
+
+We can set up an equation to represent the problem:
+
+Atticus + Jensen + Cruz = 60
+
+We know Atticus has 4 marbles, so we can substitute that into the equation:
+
+4 + 8 + Cruz = 60
+
+To solve for Cruz, we can subtract 4 and 8 from both sides of the equation:
+
+Cruz = 60 - 4 - 8
+Cruz = 48
+
+Answer: 48

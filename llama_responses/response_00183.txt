@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of birds initially.
+
+There are 300 chickens, 200 turkeys, and 80 guinea fowls, so the total number of birds is:
+
+300 + 200 + 80 = 480
+
+Now, the disease is causing the farmer to lose birds every day. Let's identify how many birds are lost each day.
+
+The farmer loses 20 chickens, 8 turkeys, and 5 guinea fowls each day, so the total number of birds lost each day is:
+
+20 + 8 + 5 = 33
+
+Since this happens every day, the total number of birds lost after a week is:
+
+33 * 7 = 231
+
+Now, the total number of birds left is the initial total minus the total number of birds lost.
+
+480 - 231 = 249
+
+So, the answer is:
+
+Answer: 249

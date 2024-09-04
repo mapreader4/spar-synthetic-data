@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of sweets the eldest child got: 8.
+
+Then, we know that the youngest child got half as many sweets as the eldest, so the youngest child got half of 8, which is 4.
+
+The total number of sweets given out is 8 + 4 = 12. Since the total number of sweets in the box is 27, we know that the total number of sweets given out is 27 - 12 = 15.
+
+The second child got 15 - 8 = 7 sweets.

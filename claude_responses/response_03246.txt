@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The dimensions of the iron bar are 12 cm x 8 cm x 6 cm.
+2) The volume of the iron bar is the product of these three dimensions: 12 cm x 8 cm x 6 cm = 576 cubic cm.
+3) The factory wants to melt 10 iron bars, so the total volume of the iron is 10 x 576 cubic cm = 5,760 cubic cm.
+4) Each iron ball has a volume of 8 cubic cm.
+5) To find the number of iron balls, we divide the total volume of iron (5,760 cubic cm) by the volume of each iron ball (8 cubic cm):
+5,760 cubic cm / 8 cubic cm = 720 iron balls.
+
+Answer: 720

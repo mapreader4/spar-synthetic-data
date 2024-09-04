@@ -1,0 +1,7 @@
+Let's start by identifying the variables in the problem.  We have the number of candles, and the amount of beeswax and coconut oil used for each candle.  The amount of beeswax used is 8 ounces, and the amount of coconut oil used is 1 ounce.  The number of candles is given as 10, but it is given as less than 10, so it must be 7.
+
+The total amount of beeswax used is 8 ounces times the number of candles, which is 8 * 7 = 56 ounces.  The total amount of coconut oil used is 1 ounce times the number of candles, which is 1 * 7 = 7 ounces.
+
+The combined weight of the candles in ounces is the sum of the beeswax and coconut oil used.  The beeswax weighs 56 ounces, and the coconut oil weighs 7 ounces.  The total weight of the candles is 56 + 7 = 63 ounces.
+
+Answer: 63

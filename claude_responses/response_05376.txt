@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+1. In 2019, Eva scored 10 more marks in maths in the first semester than the second semester.
+   * Let's call the marks in the first semester for maths as x.
+   * Then, the marks in the second semester for maths would be x - 10.
+   * We know that the marks in the second semester for maths are 80, so x - 10 = 80.
+   * Solving for x, we get x = 90.
+
+2. In 2019, Eva scored 15 marks less in arts in the first semester than the second semester.
+   * Let's call the marks in the second semester for arts as y.
+   * Then, the marks in the first semester for arts would be y - 15.
+   * We know that the marks in the second semester for arts are 90, so y = 90.
+   * Therefore, the marks in the first semester for arts are 90 - 15 = 75.
+
+3. In 2019, Eva scored 1/3 marks less in science in the first semester than the second semester.
+   * Let's call the marks in the second semester for science as z.
+   * Then, the marks in the first semester for science would be z - (1/3)z = (2/3)z.
+   * We know that the marks in the second semester for science are 90, so z = 90.
+   * Therefore, the marks in the first semester for science are (2/3)90 = 60.
+
+Now, let's calculate the total marks:
+* Maths: 90 + 80 = 170
+* Arts: 75 + 90 = 165
+* Science: 60 + 90 = 150
+
+Answer: 170 + 165 + 150 = 485

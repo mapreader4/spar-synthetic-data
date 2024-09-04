@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. First, we need to find out how much money Lucius earns every day on ingredients. He spends $10 every day on ingredients, so his weekly income is 10 x 7 = $70.
+
+2. Then, he makes a portion of French Fries and a portion of Poutine. The price of French Fries is $12 and the price of Poutine is $8. So, he sells a portion of each for a total of 12 + 8 = $20.
+
+3. After selling all his products, he pays 10% of his weekly income as tax. 10% of $70 is 0.1 x 70 = $7.
+
+4. After paying the tax, Lucius has $70 - $7 = $63 left.
+
+So, the answer is:
+
+Answer: 63

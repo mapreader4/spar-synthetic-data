@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) John weighs one-quarter times more than what Mary weighs. This means that John's weight is 1.25 times Mary's weight.
+2) Mary weighs 20 lbs less than Jamison's weight. This means that Jamison's weight is 20 lbs more than Mary's weight.
+3) We are given that Mary weighs 160 lbs.
+4) Since Mary weighs 160 lbs, and she weighs 20 lbs less than Jamison, Jamison's weight must be 160 + 20 = 180 lbs.
+5) Since John weighs 1.25 times Mary's weight, and Mary weighs 160 lbs, John's weight must be 1.25 * 160 = 200 lbs.
+6) The combined weight of the three is Mary's weight (160 lbs) + Jamison's weight (180 lbs) + John's weight (200 lbs) = 540 lbs.
+
+Answer: 540

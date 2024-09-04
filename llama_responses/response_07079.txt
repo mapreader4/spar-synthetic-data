@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of pencils that Eric has in total. He started with 150 pencils and received 30 more. So, the total number of pencils is 150 + 30 = 180.
+
+Next, we need to divide the total number of pencils into 5 containers. To do this, we can divide 180 by 5. This gives us the number of pencils in each container.
+
+180 ÷ 5 = 36
+
+Answer: 36

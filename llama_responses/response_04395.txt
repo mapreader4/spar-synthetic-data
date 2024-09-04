@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say Yasmin's current age is x. Xavier is twice as old as Yasmin, so Xavier's current age is 2x.
+
+We are told that Xavier will be 30 years old in six years. So, Xavier's age in six years is 2x + 6.
+
+We are asked to find the total of their ages now. So, Yasmin's current age is x and Xavier's current age is 2x. Their total age is x + 2x.
+
+We know that Xavier will be 30 in six years, so we can set up an equation to represent this. We can set the equation to be 2x + 6 = 30, which can be solved for x.
+
+2x + 6 = 30
+
+Subtract 6 from both sides to get 2x = 24.
+
+So, Yasmin is 24 years old. Xavier is twice as old as Yasmin, so Xavier is 2 * 24 = 48 years old.
+
+The total of their ages is 24 + 48 = 72. 
+
+Answer: 72

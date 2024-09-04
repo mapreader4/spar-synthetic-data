@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) We know there are 5 giraffes in the zoo.
+2) We also know that there are twice as many penguins as giraffes. So, the number of penguins is 2 * 5 = 10.
+3) The penguins make up 20% of all the animals in the zoo. This means that the total number of animals in the zoo is 10 / 0.2 = 50.
+4) We also know that the elephants make up 4% of all the animals in the zoo. This means that the number of elephants is 0.04 * 50 = 2.
+
+Answer: 2

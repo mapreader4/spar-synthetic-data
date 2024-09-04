@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out how many guitar strings Dave breaks per night. Since he breaks 2 strings per night, that means he breaks 2 x 7 = 14 strings in 7 nights. Since he plays 6 shows a week, he performs 6 x 7 = 42 shows in a month. He plays 12 weeks, so he performs 12 x 6 = 72 shows. Therefore, he breaks 14 strings in 12 weeks.
+
+To find the total number of strings he needs to replace, we subtract the number of strings he breaks in a week (14) from the total number of strings he breaks in 12 weeks (14 x 3 = 42). The answer is:
+
+Answer: 28

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Originally, there are 11 boys and 13 girls in the class.
+* The total number of students in the class is 11 + 13 = 24.
+* If 1 boy is added to the class, the new total number of students is 24 + 1 = 25.
+* The number of girls in the class remains the same at 13.
+* To calculate the percentage of the class that are girls, we divide the number of girls (13) by the new total number of students (25) and multiply by 100.
+* 13 / 25 = 0.52
+* 0.52 * 100 = 52%
+
+Answer: 52%

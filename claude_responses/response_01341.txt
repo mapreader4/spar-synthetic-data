@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Sasha can complete 15 questions per hour
+* She has 60 questions to complete
+* She works for 2 hours
+
+First, we calculate how many questions she can complete in 2 hours:
+* 15 questions per hour x 2 hours = 30 questions
+
+Now, we subtract the number of questions she can complete in 2 hours from the total number of questions she has to complete:
+* 60 questions - 30 questions = 30 questions
+
+Therefore, Sasha still needs to complete 30 questions.
+
+Answer: 30

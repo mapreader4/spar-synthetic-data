@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. John cuts the 20-foot log in half, so now he has two pieces of wood.
+
+2. Each piece of wood is 20 feet long, so the total length of the two pieces combined is 20 feet.
+
+3. Each linear foot of the log weighs 150 pounds. To find the total weight of the log, we need to multiply the length of the log (20 feet) by the weight per linear foot (150 pounds).
+
+4. So, 20 * 150 = 3000 pounds.
+
+5. Since John cut the log in half, the weight of each piece is half of the total weight of the log, which is 3000 pounds divided by 2.
+
+6. 3000 / 2 = 1500.
+
+Answer: 1500

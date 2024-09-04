@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+For the first apartment:
+- Rent: $800 per month
+- Utilities: $260 per month
+- Driving cost: 31 miles per day x 58 cents per mile x 20 days per month = $359.60 per month
+Total monthly cost for the first apartment: $800 + $260 + $359.60 = $1,419.60
+
+For the second apartment:
+- Rent: $900 per month
+- Utilities: $200 per month
+- Driving cost: 21 miles per day x 58 cents per mile x 20 days per month = $244.80 per month
+Total monthly cost for the second apartment: $900 + $200 + $244.80 = $1,344.80
+
+Now, to find the difference between the total monthly costs of the two apartments:
+$1,419.60 - $1,344.80 = $74.80
+
+Answer: $75

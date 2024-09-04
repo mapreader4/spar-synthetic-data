@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The game of Jenga is played with 54 stacked blocks
+* There are 5 players, including Jess, who play 5 rounds
+* In each round, each player removes one block
+* So in the first 5 rounds, 5 players x 5 rounds = 25 blocks were removed
+* In the 6th round, Jess's father goes first and removes one block
+* Then it's Jess's turn, and she removes a block, causing the tower to fall
+* So the tower had 54 blocks - 25 blocks removed in the first 5 rounds - 1 block removed by Jess's father = 28 blocks before Jess's turn.
+
+Answer: 28

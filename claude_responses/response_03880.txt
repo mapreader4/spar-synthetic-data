@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Chester originally had to deliver 10 bales of hay to Farmer Brown.
+2) Farmer Brown wants Chester to supply better quality hay and double the delivery of bales of hay.
+3) The previous hay cost $15 per bale.
+4) The better quality hay costs $18 per bale.
+5) To calculate the original cost of the 10 bales of hay:
+   - 10 bales x $15 per bale = $150
+6) Now, Farmer Brown wants double the amount of bales, which is 20 bales.
+7) The cost of the 20 bales of better quality hay:
+   - 20 bales x $18 per bale = $360
+8) To calculate the difference in cost:
+   - $360 (new cost) - $150 (original cost) = $210
+
+Answer: $210

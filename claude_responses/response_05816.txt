@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) We know that 8 movie tickets cost 2 times as much as 1 football game ticket.
+2) Each movie ticket is sold at $30.
+3) To find the cost of 1 football game ticket, we can use the following equation:
+   8 * $30 = 2 * (cost of 1 football game ticket)
+   Solving for the cost of 1 football game ticket, we get:
+   Cost of 1 football game ticket = $120 / 2 = $60
+4) Now, we can calculate the total amount Chandler will pay:
+   Cost of 8 movie tickets = 8 * $30 = $240
+   Cost of 5 football game tickets = 5 * $60 = $300
+   Total amount Chandler will pay = $240 + $300 = $540
+
+Answer: 540

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Find the temperature in Miami. The temperature in Miami is 10 degrees hotter than the temperature in New York, so we can set up an equation to represent this: Miami = New York + 10.
+
+Step 2: Find the temperature in San Diego. The temperature in San Diego is 25 degrees cooler than the temperature in Miami, so we can set up another equation to represent this: San Diego = Miami - 25.
+
+Step 3: We know the temperature in New York is 80 degrees, so we can substitute that into the equation for Miami: Miami = New York + 10, and solve for Miami: Miami = 80 + 10 = 90.
+
+Step 4: We know the temperature in Miami is 90 degrees, so we can substitute that into the equation for San Diego: San Diego = Miami - 25, and solve for San Diego: San Diego = 90 - 25 = 65.
+
+Step 5: To find the average temperature for the three cities, we need to find the average of the temperatures in New York, Miami, and San Diego. To do this, we add the temperatures together and divide by 3: (80 + 90 + 65) / 3 = 235 / 3 = 78.33.
+
+Answer: 78

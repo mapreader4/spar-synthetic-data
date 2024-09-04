@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Kendra has 4 packs of pens
+* Each pack has 3 pens
+* So Kendra has 4 x 3 = 12 pens
+* Tony has 2 packs of pens
+* Each pack has 3 pens
+* So Tony has 2 x 3 = 6 pens
+* Together, Kendra and Tony have 12 + 6 = 18 pens
+* They each decide to keep 2 pens
+* So they have 18 - 2 - 2 = 14 pens left to give to their friends
+* They will give one pen per friend
+* Therefore, the number of friends they will give pens to is 14.
+
+Answer: 14

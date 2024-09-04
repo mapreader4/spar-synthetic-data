@@ -1,0 +1,5 @@
+Let's first find the total cost of the children's tickets. There are 7 children, and each ticket costs 7 dollars, so the total cost for the children's tickets is 7 * 7 = 49 dollars.
+
+Next, let's find the total cost of the adults' tickets. There are 9 adults, and each ticket costs 11 dollars, so the total cost for the adults' tickets is 9 * 11 = 99 dollars.
+
+The difference between the two costs is 99 - 49 = 50. The adults' tickets cost 50 dollars more than the children's tickets.

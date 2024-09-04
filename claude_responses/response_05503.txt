@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) In the morning, Yanna baked 20 butter cookies and 40 biscuits.
+2) In the afternoon, Yanna baked 10 more butter cookies and 20 more biscuits.
+3) To find the total number of butter cookies baked, we add the morning and afternoon batches:
+   20 + 10 = 30 butter cookies
+4) To find the total number of biscuits baked, we add the morning and afternoon batches:
+   40 + 20 = 60 biscuits
+5) To find the difference between the number of biscuits and butter cookies baked, we subtract the number of butter cookies from the number of biscuits:
+   60 - 30 = 30
+
+Answer: 30

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many pickles Phillip can make.
+
+Phillip has 10 cucumbers and each cucumber makes 6 pickles, so he can make 10 * 6 = 60 pickles.
+
+Each jar can hold 12 pickles, so he needs 60 / 12 = 5 jars to hold all the pickles. Since each jar takes 10 ounces of vinegar, Phillip needs 5 * 10 = 50 ounces of vinegar for the pickles.
+
+After making the pickles, Phillip will have 100 - 50 = 50 ounces of vinegar left.
+
+Answer: 50

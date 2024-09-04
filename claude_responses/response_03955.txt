@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Sandra had 2 bags of candy, each with 6 pieces left
+* So the total number of pieces of candy Sandra had was:
+  * 2 bags x 6 pieces per bag = 12 pieces of candy
+* Roger had 2 bags of candy
+* One of Roger's bags had 11 pieces left
+* The other of Roger's bags had 3 pieces left
+* So the total number of pieces of candy Roger had was:
+  * 11 pieces + 3 pieces = 14 pieces of candy
+* To find how much more candy Roger had, we subtract the amount of candy Sandra had from the amount of candy Roger had:
+  * 14 pieces (Roger) - 12 pieces (Sandra) = 2 pieces
+
+Answer: 2

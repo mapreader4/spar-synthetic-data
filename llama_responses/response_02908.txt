@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Andrew earns a total of $400 from the bake sale. He keeps $100 for the cost of ingredients, so the remaining amount is:
+
+$400 - $100 = $300
+
+He donates half of this amount to the local homeless shelter, so the amount donated is:
+
+$300 / 2 = $150
+
+He also donates $10 from his own piggy bank to the local homeless shelter, so the total amount donated to the homeless shelter is:
+
+$150 + $10 = $160
+
+Answer: 160

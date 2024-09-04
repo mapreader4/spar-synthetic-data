@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Dave bought 8 books about animals
+* He bought 6 books about outer space
+* He bought 3 books about trains
+* Each book cost $6
+
+To calculate the total cost, we need to:
+1. Multiply the number of books in each category by the cost per book
+2. Add up the costs for each category
+
+For the animal books:
+* 8 books x $6 per book = $48
+
+For the outer space books:
+* 6 books x $6 per book = $36
+
+For the train books:
+* 3 books x $6 per book = $18
+
+Now we add up the costs for each category:
+* $48 + $36 + $18 = $102
+
+Answer: 102

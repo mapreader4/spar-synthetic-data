@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of green marbles. We know that the number of green marbles is three times the number of red marbles, which is 20. So, the number of green marbles is 3 * 20 = 60.
+
+Next, we know that the total number of marbles is three times the number of green marbles. So, the total number of marbles is 3 * 60 = 180.
+
+Now, we know that 20% of the green marbles are yellow. So, we need to find 20% of 60, which is 0.2 * 60 = 12. So, the number of yellow marbles is 12.
+
+Now, we know that the total number of marbles is 180, and the number of yellow marbles is 12. To find the number of marbles of a different color, we subtract 12 from 180 to get 168. Then, we subtract 20 (red) and 12 (yellow) from 168 to get 136. So, the number of marbles of a different color (not red or yellow) is 136.
+
+Answer: 136

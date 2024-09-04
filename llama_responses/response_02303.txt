@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with what we know. Cynthia has 4 times as many water balloons as her husband Randy. So, if Randy has x water balloons, Cynthia has 4x water balloons.
+
+Randy has half as many water balloons as his daughter Janice. So, if Janice has y water balloons, Randy has y/2 water balloons.
+
+We know that Janice throws all 6 of her water balloons at her father Randy. So, Randy receives 6 water balloons.
+
+Since Randy has y/2 water balloons, we can set up the equation y/2 = 6. We can solve for y by multiplying both sides by 2, giving us y = 12. Since Randy has y water balloons, we can substitute y = 12 into our previous equation, giving us 4(12) = 48.
+
+So, Cynthia has 48 water balloons. She could also choose to throw 48 water balloons at Randy.

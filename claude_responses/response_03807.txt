@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Georgia's muffin recipe makes 6 muffins
+* Georgia has 24 students
+* We need to find out how many batches of muffins Georgia makes in 9 months
+
+First, let's figure out how many muffins Georgia needs to make for her 24 students:
+* 24 students x 1 muffin per student = 24 muffins needed
+
+Now, we know that each batch of muffins makes 6 muffins. So, to figure out how many batches Georgia needs to make, we divide the total number of muffins needed by the number of muffins per batch:
+* 24 muffins needed / 6 muffins per batch = 4 batches
+
+Finally, since Georgia makes muffins on the first day of every month for 9 months, we multiply the number of batches per month by the number of months:
+* 4 batches per month x 9 months = 36 batches
+
+Answer: 36

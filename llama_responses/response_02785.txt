@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how much it would cost for John's guests. If each guest costs $500, and there are 50 guests, the cost for the guests would be 50 * 500 = $25,000.
+
+John's wife wants 60% more than that. So, we need to find 60% of 25,000. To find 60% of a number, we can multiply 25,000 by 0.6. 25,000 * 0.6 = 15,000.
+
+So, the total cost would be 25,000 + 15,000 = 40,000.
+
+Answer: 40,000

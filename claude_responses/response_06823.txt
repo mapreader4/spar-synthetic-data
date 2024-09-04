@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) Mr. Smith originally had 32 markers in his classroom.
+2) He then bought new boxes of markers, where each box contains 9 markers.
+3) After buying the new boxes, he now has a total of 86 markers.
+4) To find the number of new boxes he bought, we need to calculate the difference between the total number of markers he has now (86) and the original number of markers he had (32).
+5) 86 - 32 = 54 new markers
+6) Since each box contains 9 markers, we can divide the number of new markers by 9 to find the number of new boxes he bought.
+7) 54 / 9 = 6 new boxes.
+
+Answer: 6

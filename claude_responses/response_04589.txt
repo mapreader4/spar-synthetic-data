@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The owner has to clean up 60 eggs
+* Each egg takes 15 seconds to clean up
+* So for 60 eggs, the time spent cleaning up the eggs is:
+  * 60 eggs x 15 seconds per egg = 900 seconds
+  * 900 seconds / 60 seconds per minute = 15 minutes
+* The owner also has to clean up 7 rolls of toilet paper
+* Each roll of toilet paper takes 30 minutes to clean up
+* So for 7 rolls, the time spent cleaning up the toilet paper is:
+  * 7 rolls x 30 minutes per roll = 210 minutes
+* To find the total time spent cleaning up, we add the time for the eggs and the time for the toilet paper:
+  * 15 minutes + 210 minutes = 225 minutes
+
+Answer: 225 minutes

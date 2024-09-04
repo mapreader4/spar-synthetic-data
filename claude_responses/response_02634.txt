@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The price of a math textbook in the school bookshop is $45.
+2) The textbooks sold in bookshops outside the school cost 20% less.
+3) To calculate the price of the textbooks outside the school, we take the original price ($45) and subtract 20% of that price:
+   $45 - (0.20 x $45) = $45 - $9 = $36
+4) Peter wants to buy 3 math textbooks.
+5) If he buys them from the school bookshop, the total cost would be:
+   3 x $45 = $135
+6) If he buys them from other bookshops, the total cost would be:
+   3 x $36 = $108
+7) The amount Peter can save by buying from other bookshops is the difference between the two total costs:
+   $135 - $108 = $27
+
+Answer: $27

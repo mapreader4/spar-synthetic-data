@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of passengers that each carriage can hold. Each carriage can hold 10 passengers.
+
+Now, we are asked how many passengers would fill up 3 trains. Since each train has 4 carriages, and each carriage can hold 10 passengers, we need to multiply the number of carriages by the number of passengers each carriage can hold. This would be:
+
+4 carriages x 10 passengers per carriage = 40 passengers per train
+
+Now, we want to know how many passengers would fill up 3 trains. So, we need to multiply the number of passengers per train by 3:
+
+40 passengers per train x 3 trains = 120 passengers
+
+So, the answer is:
+
+Answer: 120

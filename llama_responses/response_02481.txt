@@ -1,0 +1,5 @@
+Let's start by identifying the number of mangoes that Mr. Wong sold. He sold half of the 560 mangoes, so he sold 560 / 2 = 280 mangoes.
+
+Then, he distributed the remaining mangoes among 8 of his neighbors. So, the number of mangoes each neighbor receives is 560 - 280 = 280 / 8 = 35.
+
+Answer: 35

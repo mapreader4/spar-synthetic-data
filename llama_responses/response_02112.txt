@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Kona drives 9 miles to the bakery.
+2. From the bakery, Kona drives 24 miles to his grandmother's house.
+3. From his grandmother's house, Kona drives 27 miles straight to his apartment.
+
+The total distance to the bakery and back to the grandmother's house is 9 + 24 + 27 = 60 miles.
+
+The round trip to the bakery stop is 9 + 24 + 27 = 60 miles. The round trip without the bakery stop is just 27 + 27 = 54 miles. 
+
+So, the difference is 60 - 54 = 6 miles.
+
+Answer: 6

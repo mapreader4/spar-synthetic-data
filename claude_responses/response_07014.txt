@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+* Claire started with 50 balloons
+* She passed 1 balloon to a little girl
+* 12 balloons floated away
+* So after the first step, she had 50 - 1 - 12 = 37 balloons
+* Over the next 30 minutes, she gave away 9 more balloons
+* So now she has 37 - 9 = 28 balloons
+* She then grabbed the last 11 balloons from her coworker
+* So the total number of balloons Claire has is 28 + 11 = 39
+
+Answer: 39

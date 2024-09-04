@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the number of gallons of water needed for the first two tanks. Each of the first two tanks needs 8 gallons of water. So, the total amount of water needed for the first two tanks is 2 x 8 = 16 gallons.
+
+Step 2: Determine the number of gallons of water needed for the other two tanks. The other two tanks need 2 fewer gallons of water each than the first two tanks, so they need 8 - 2 = 6 gallons each. The total amount of water needed for the other two tanks is 2 x 6 = 12 gallons.
+
+Step 3: Add the total amount of water needed for the first two tanks and the other two tanks. 16 + 12 = 28 gallons.
+
+Step 4: Since Nicole needs to change the water every week, we need to multiply the total amount of water needed by the number of weeks. In this case, there are 4 weeks, so we multiply 28 x 4 = 112 gallons.
+
+Answer: 112

@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's first find out how many joggers Alexander bought.
+
+Alexander bought 22 more joggers than Tyson. So, we can set up an equation:
+
+Alexander joggers = Tyson joggers + 22
+
+Let's now find out how many joggers Tyson bought. We know that Christopher bought 80 joggers, so:
+
+Tyson joggers = 80
+
+Now we can substitute this into the equation:
+
+Alexander joggers = 80 + 22
+
+Alexander joggers = 102
+
+Now, we can find out how many joggers Christopher bought more than Alexander:
+
+Christopher joggers - Alexander joggers =?
+
+Christopher joggers - Alexander joggers = 80 - 102 = -22
+
+Christopher bought 22 less joggers than Alexander.
+
+Answer: 22

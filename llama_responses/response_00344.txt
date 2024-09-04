@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's say Archie started with x marbles.
+
+He loses 60% of them, so he loses 0.6x.
+
+Then, he loses half of the remaining marbles, which is 0.5(0.4x). So, the number of marbles left is 0.4x.
+
+Since he has 20 left, we can set up an equation to solve for x:
+
+0.4x = 20
+
+To solve for x, we can divide both sides by 0.4:
+
+x = 20 / 0.4
+x = 50
+
+So, Archie started with 50 marbles.

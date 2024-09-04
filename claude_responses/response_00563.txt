@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) There are 84 people waiting in line to ride the roller coaster.
+2) Each car on the roller coaster seats 2 people.
+3) There are 7 cars on the roller coaster.
+4) To calculate how many people can ride in one round of the roller coaster, we multiply the number of cars (7) by the number of people per car (2):
+7 cars x 2 people per car = 14 people per round.
+5) To determine how many times the ride operator will need to run the roller coaster to give everyone in line a turn, we divide the total number of people in line (84) by the number of people who can ride per round (14):
+84 people / 14 people per round = 6 rounds.
+
+Answer: 6

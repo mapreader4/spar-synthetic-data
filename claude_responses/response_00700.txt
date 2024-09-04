@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Two white socks cost 45 cents
+* This means one white sock costs 45 / 2 = 22.5 cents
+* We know that two white socks cost 25 cents more than a single brown sock
+* So, the cost of a single brown sock is 22.5 - 25/2 = 10 cents
+* Now, we want to find the cost of 15 brown socks
+* Since each brown sock costs 10 cents, the cost of 15 brown socks is 15 * 10 = 150 cents
+Answer: 150

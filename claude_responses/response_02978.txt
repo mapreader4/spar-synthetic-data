@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) James buys 3 shirts for $60 total.
+2) This means each shirt costs $60 / 3 = $20 before the discount.
+3) There is a 40% off sale, which means the shirts are discounted by 40% of the original price.
+4) To calculate the discounted price, we take the original price ($20) and subtract 40% of that price:
+   $20 - (0.40 * $20) = $20 - $8 = $12
+5) Therefore, James paid $12 per shirt after the discount.
+
+Answer: 12

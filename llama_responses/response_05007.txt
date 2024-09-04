@@ -1,0 +1,7 @@
+Let's start by identifying the number of cookies in 8 boxes. Each box has 12 cookies, so 8 boxes have 8 x 12 = 96 cookies.
+
+Next, let's identify the number of cookies in 9 bags. Each bag has 7 cookies, so 9 bags have 9 x 7 = 63 cookies.
+
+Now, let's find the difference between the number of cookies in 8 boxes and 9 bags. 96 - 63 = 33.
+
+Answer: 33

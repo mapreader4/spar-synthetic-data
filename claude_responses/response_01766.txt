@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The first machine made 45 necklaces.
+2) The second machine made 2.4 times as many necklaces as the first machine.
+3) To calculate the number of necklaces made by the second machine, we multiply the number of necklaces made by the first machine (45) by 2.4:
+45 x 2.4 = 108 necklaces
+4) To get the total number of necklaces made on Sunday, we add the number of necklaces made by the first machine (45) and the number of necklaces made by the second machine (108):
+45 + 108 = 153 necklaces
+
+Answer: 153

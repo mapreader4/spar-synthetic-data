@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Emma invested $300 and her investment should yield 15% annually.
+2) Briana invested $500 and her investment should yield 10% annually.
+3) After 1 year, Emma's return would be 15% of $300, which is $45.
+4) After 1 year, Briana's return would be 10% of $500, which is $50.
+5) After 2 years, Emma's total return would be 2 * $45 = $90.
+6) After 2 years, Briana's total return would be 2 * $50 = $100.
+7) The difference between their return-on-investment after 2 years is $100 - $90 = $10.
+
+Answer: 10

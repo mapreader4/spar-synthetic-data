@@ -1,0 +1,19 @@
+Let's break this problem down step by step!
+
+Let's say the distance from Jack's home to the store is x miles. Since it takes Jack twice as long to go from his home to the store as it takes to go from the store to his friend, the distance from the store to his friend must be half of the distance from Jack's home to the store, which is x/2 miles.
+
+The total distance Jack cycles to his friend is 50 miles, so we can set up the equation:
+
+x/2 = 50
+
+To solve for x, we can multiply both sides by 2:
+
+x = 100
+
+So the distance from Jack's home to the store is 100 miles.
+
+Now, let's find the total distance Jack cycled today. He cycles from his home to the store, which is 100 miles, and then from the store to his friend, which is 50 miles. Then, he cycles back to the store with Peter, which is another 50 miles. The total distance is:
+
+100 + 50 + 50 = 200
+
+Answer: 200

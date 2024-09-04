@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+
+1. There are 1800 students at the university.
+2. 30% of 1800 students are from other countries. To calculate this, we take 30% of 1800:
+   * 30% of 1800 = 0.30 x 1800 = 540 foreign students
+
+3. Next semester, 200 new foreign students will begin studying at the university.
+4. To find the total number of foreign students after the 200 new students arrive, we add the original 540 foreign students to the 200 new foreign students:
+   * 540 + 200 = 740 foreign students
+
+Answer: 740 foreign students will study at the University.

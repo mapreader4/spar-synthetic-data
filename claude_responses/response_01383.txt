@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Issac buys a total of 108 writing utensils.
+2) He buys 12 more than 5 times the number of pencils than pens.
+Let's represent the number of pens as x.
+Then, the number of pencils is 5x + 12.
+3) The total number of writing utensils is the sum of the pens and pencils:
+x + (5x + 12) = 108
+4) Solving this equation:
+6x + 12 = 108
+6x = 96
+x = 16
+Therefore, Issac bought 16 pens.
+
+Answer: 16

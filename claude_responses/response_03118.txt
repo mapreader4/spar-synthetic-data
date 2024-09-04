@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The car costs $32,000
+2) Jason can make a down payment of $8,000
+3) The remaining amount he needs to borrow is $32,000 - $8,000 = $24,000
+4) He will have to make 48 equal monthly payments on the $24,000 loan
+5) Each month, he also has to pay interest equal to 5% of that month's payment
+6) To find the monthly payment, we can use the formula for the monthly payment of a loan:
+Monthly payment = Loan amount / (1 - (1 + interest rate)^(-number of payments))
+7) The interest rate is 5% per month, so the monthly interest rate is 0.05
+8) Plugging in the values:
+Monthly payment = $24,000 / (1 - (1 + 0.05)^(-48))
+9) Calculating this, we get:
+Monthly payment = $560.66
+10) Now we need to add the 5% interest to each monthly payment:
+Monthly payment with interest = $560.66 + (0.05 * $560.66) = $588.69
+
+Answer: $589 (rounded to the nearest dollar)

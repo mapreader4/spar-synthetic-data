@@ -1,0 +1,9 @@
+To find the total number of seeds in the watermelon, we can multiply the number of slices by the number of seeds per slice.
+
+There are 40 slices. Each slice has 20 black seeds and 20 white seeds. So, for each slice, the total number of seeds is 40.
+
+To find the total number of seeds in the watermelon, we multiply 40 (number of slices) by 40 (number of seeds per slice):
+
+40 x 40 = 1600
+
+Answer: 1600

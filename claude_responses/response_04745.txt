@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Jerry has three times as many stickers as George.
+2) George has 6 fewer stickers than his brother Fred.
+3) Fred has 18 stickers.
+
+So, we can start by finding out how many stickers George has:
+* Fred has 18 stickers
+* George has 6 fewer stickers than Fred
+* Therefore, George has 18 - 6 = 12 stickers
+
+Now, we can find out how many stickers Jerry has:
+* Jerry has three times as many stickers as George
+* George has 12 stickers
+* Therefore, Jerry has 3 x 12 = 36 stickers
+
+Answer: 36

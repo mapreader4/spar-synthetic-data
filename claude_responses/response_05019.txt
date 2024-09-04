@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+1. Sienna gave Bailey half of her suckers.
+2. Jen ate half of the remaining suckers and gave the rest to Molly.
+3. Molly ate 2 suckers and gave the rest to Harmony.
+4. Harmony kept 3 suckers and passed the remainder to Taylor.
+5. Taylor ate one and gave the last 5 to Callie.
+
+Now, let's work backwards to find out how many suckers Jen ate:
+* Callie received 5 suckers from Taylor.
+* Taylor received the remaining suckers from Harmony, which was less than 8 (3 kept by Harmony + 1 eaten by Taylor = 4 less than 8).
+* Harmony received the remaining suckers from Molly, which was less than 6 (3 kept by Harmony + 5 given to Taylor = 8, which is less than 6).
+* Molly received the remaining suckers from Jen, which was less than 4 (2 eaten by Molly + 6 given to Harmony = 8, which is less than 4).
+* Jen ate half of the remaining suckers, so the original amount of suckers Jen received was less than 8.
+
+Therefore, the number of suckers Jen ate is:
+Answer: 4

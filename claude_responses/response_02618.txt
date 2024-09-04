@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Michelle originally made 20 sandwiches
+* She gave 4 sandwiches to one of her co-workers
+* She kept twice the amount she gave to her co-worker for herself
+* To find the amount she kept for herself, we multiply the 4 sandwiches she gave to her co-worker by 2, which is 8 sandwiches
+
+Now, to find the number of sandwiches she has left to give to her other co-workers, we need to subtract the number of sandwiches she gave to her co-worker and the number of sandwiches she kept for herself from the original 20 sandwiches.
+
+* 20 sandwiches - 4 sandwiches (given to co-worker) - 8 sandwiches (kept for herself) = 8 sandwiches
+
+Answer: 8

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the cost of the potatoes is x.
+
+Mrs. Thompson paid a total of $15 for 3 chickens and the potatoes. So, the cost of the potatoes is the difference between the total amount she paid and the cost of the chickens.
+
+The cost of the chickens is 3 * 3 = $9. So, the cost of the potatoes is $15 - $9 = $6.
+
+Answer: 6

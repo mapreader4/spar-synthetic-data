@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) We are given that Bailey has a 100cm length of rope.
+2) The longer sides of the rectangle are 28cm long.
+3) Since the rectangle has four sides, the total length of the longer sides is 2 * 28cm = 56cm.
+4) The remaining length of rope must be used for the shorter sides.
+5) The remaining length of rope is 100cm - 56cm = 44cm.
+6) Since the rectangle has four sides, the total length of the shorter sides is 44cm.
+7) To find the length of each shorter side, we divide the total length of the shorter sides by 2.
+8) 44cm / 2 = 22cm.
+
+Answer: 22

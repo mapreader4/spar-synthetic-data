@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 50 spotted brown toads per acre
+* One-quarter of the brown toads are spotted
+* So, to find the total number of brown toads per acre, we need to divide the number of spotted brown toads (50) by one-quarter (0.25)
+* 50 / 0.25 = 200 brown toads per acre
+* For every green toad, there are 25 brown toads
+* So, to find the number of green toads per acre, we need to divide the total number of brown toads (200) by 25
+* 200 / 25 = 8 green toads per acre
+
+Answer: 8

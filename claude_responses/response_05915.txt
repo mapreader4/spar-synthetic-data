@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Michael bought 6 crates of eggs on Tuesday
+* Each crate holds 30 eggs
+* So, the total number of eggs he bought on Tuesday is:
+6 crates x 30 eggs/crate = 180 eggs
+* He then gave 2 crates to Susan
+* 2 crates x 30 eggs/crate = 60 eggs given to Susan
+* So, the number of eggs Michael had left after giving 2 crates to Susan is:
+180 eggs - 60 eggs = 120 eggs
+* On Thursday, Michael bought another 5 crates of eggs
+* 5 crates x 30 eggs/crate = 150 more eggs
+* So, the total number of eggs Michael has now is:
+120 eggs + 150 eggs = 270 eggs
+
+Answer: 270

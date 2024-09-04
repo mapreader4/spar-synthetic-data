@@ -1,0 +1,9 @@
+Let's start by finding the total number of kittens.
+
+The first cat has 3 blue-eyed kittens and 7 brown-eyed kittens, so the total number of kittens is 3 + 7 = 10.
+
+The second cat has 4 blue-eyed kittens and 6 brown-eyed kittens, so the total number of kittens is 4 + 6 = 10.
+
+Since the total number of kittens is 10, we can find the percentage of kittens with blue eyes by dividing the number of blue-eyed kittens by the total number of kittens. The number of blue-eyed kittens is 3 + 4 = 7, which is 7 out of 10, or 70%.
+
+Answer: 70

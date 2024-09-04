@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The parakeets eat 2 grams of birdseed a day. Since there are 3 parakeets, the total amount of birdseed they eat is 3 x 2 = 6 grams a day.
+2. The parrots eat 14 grams of birdseed a day. Since there are 2 parrots, the total amount of birdseed they eat is 2 x 14 = 28 grams a day.
+3. The finches eat half of what a parakeet eats, so they eat 1 gram a day. Since there are 4 finches, the total amount of birdseed they eat is 4 x 1 = 4 grams a day.
+4. To find the total amount of birdseed needed for a day, we add the amounts eaten by each type of bird: 6 (parakeets) + 28 (parrots) + 4 (finches) = 38 grams.
+5. Since Peter needs birdseed to last a week, we need to multiply the daily amount by 7: 38 grams x 7 = 266 grams.
+
+Answer: 266

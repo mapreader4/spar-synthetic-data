@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Peter bought 4 new notebooks for school
+* 2 of them are green, 1 is black, and 1 is pink
+* The total cost was $45
+* The black notebook cost $15
+* The pink notebook cost $10
+
+Now, we need to find the cost of the green notebooks.
+
+First, let's calculate the total cost of the black and pink notebooks:
+* Black notebook: $15
+* Pink notebook: $10
+* Total cost of black and pink notebooks: $15 + $10 = $25
+
+Now, we can subtract the cost of the black and pink notebooks from the total cost to find the cost of the green notebooks:
+* Total cost: $45
+* Cost of black and pink notebooks: $25
+* Cost of green notebooks: $45 - $25 = $20
+
+Since there are 2 green notebooks, we can divide the total cost of the green notebooks by 2 to find the cost of each green notebook:
+* Cost of each green notebook: $20 / 2 = $10
+
+Answer: $10

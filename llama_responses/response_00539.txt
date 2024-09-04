@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: The company chops down 200 trees in the first half of the year.
+
+Step 2: The company chops down 300 trees in the second half of the year.
+
+Step 3: To maintain a balance, the company wants to plant 3 trees for every 1 tree they chop down. So, the total number of trees they need to plant is the total number of trees they chopped down minus the number of trees they already planted.
+
+Step 4: The total number of trees chopped down is 200 + 300 = 500.
+
+Step 5: The company needs to plant 3 trees for every 1 tree they chopped down. So, the number of trees they need to plant is 500 * 3 = 1500.
+
+Answer: 1500

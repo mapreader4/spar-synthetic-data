@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The ratio of coins that Elsa has to Amalie is 10:45.
+2) The total number of coins they have is 440.
+3) To find the number of coins each person has, we can set up a proportion:
+   (Elsa's coins) / (Amalie's coins) = 10 / 45
+   Let x = Elsa's coins and y = Amalie's coins
+   x / y = 10 / 45
+   Solving for x and y, we get:
+   x = 10 / 55 * 440 = 80 coins
+   y = 45 / 55 * 440 = 360 coins
+4) Amalie spends 3/4 of what she has on toys.
+   Amalie's remaining coins = 1/4 * 360 = 90 coins.
+
+Answer: 90 coins.

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John spent 3 years exploring the jungle
+* He then spent half as much time writing up notes about his travels
+* To calculate the time spent on the notes, we take half of the time spent exploring:
+  * Time spent on notes = 3 years / 2 = 1.5 years
+* It then took 0.5 years to write the book once he was done with the notes
+
+To find the total time spent on the book and exploring, we add up the time spent on each:
+* Time spent exploring = 3 years
+* Time spent on notes = 1.5 years
+* Time spent writing the book = 0.5 years
+* Total time = 3 years + 1.5 years + 0.5 years = 5 years
+
+Answer: 5

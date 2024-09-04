@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+1) Meena bakes 5 dozen cookies for the school's bake sale.
+   * 1 dozen = 12 cookies
+   * 5 dozen = 5 x 12 = 60 cookies
+
+2) Meena sells 2 dozen cookies to her biology teacher, Mr. Stone.
+   * 2 dozen = 2 x 12 = 24 cookies
+
+3) Meena's friend Brock buys 7 cookies.
+
+4) Meena's friend Katy buys twice as many as Brock.
+   * Katy buys 2 x 7 = 14 cookies
+
+5) Now we can calculate the total number of cookies sold:
+   * Sold to Mr. Stone: 24 cookies
+   * Sold to Brock: 7 cookies
+   * Sold to Katy: 14 cookies
+   * Total cookies sold: 24 + 7 + 14 = 45 cookies
+
+6) Finally, we can calculate the number of cookies Meena has left:
+   * Total cookies baked: 60 cookies
+   * Total cookies sold: 45 cookies
+   * Cookies left: 60 - 45 = 15 cookies
+
+Answer: 15 cookies

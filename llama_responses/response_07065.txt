@@ -1,0 +1,13 @@
+To find the total number of tires, we need to add the number of tires for each type of vehicle.
+
+There were 15 cars, which have 4 tires each, so 15 * 4 = 60 tires.
+
+There were 3 bicycles, which have 2 tires each, so 3 * 2 = 6 tires.
+
+There were 8 pickup trucks, which have 4 tires each, so 8 * 4 = 32 tires.
+
+There was 1 tricycle, which has 3 tires, so 1 * 3 = 3 tires.
+
+Adding all the tires together, we get 60 + 6 + 32 + 3 = 101 tires.
+
+Answer: 101

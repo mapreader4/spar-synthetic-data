@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of water Jacob can collect in a day:
+
+800 milliliters from rain + 1700 milliliters from the river = 2500 milliliters per day
+
+The tank can hold up to 50 liters, and we need to convert milliliters to liters. There are 1000 milliliters in 1 liter, so:
+
+2500 milliliters per day ÷ 1000 = 2.5 liters per day
+
+To find out how many days it takes to fill up the tank, we can divide the capacity of the tank by the amount Jacob can collect in a day:
+
+50 liters (tank capacity) ÷ 2.5 liters per day = 20 days
+
+Answer: 20

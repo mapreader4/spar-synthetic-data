@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the total number of chips. We know that the 10% of the chips are blue, and the 50% are white, so we can find the total number of chips by multiplying 10% by 2 (to get the 50%): 10 * 2 = 20.
+
+Now, the total number of chips is 20. The blue chips are 3, so the green chips are 20 - 3 = 17.
+
+Answer: 17

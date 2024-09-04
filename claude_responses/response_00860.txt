@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Earl has $90 initially
+* Earl owes Fred $28, so Earl's new amount is $90 - $28 = $62
+* Fred has $48 initially
+* Fred receives $28 from Earl, so Fred's new amount is $48 + $28 = $76
+* Fred owes Greg $32, so Fred's new amount is $76 - $32 = $44
+* Greg has $36 initially
+* Greg receives $32 from Fred, so Greg's new amount is $36 + $32 = $68
+* Greg owes Earl $40, so Greg's new amount is $68 - $40 = $28
+
+Now, to find the total amount that Greg and Earl have together:
+* Earl has $62
+* Greg has $28
+* Total amount = $62 + $28 = $90
+
+Answer: 90

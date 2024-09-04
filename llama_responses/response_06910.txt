@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of hours John works in a week. He works 5 days a week. So, the total number of hours he works is:
+
+5 days * 8 hours/day = 40 hours
+
+Now, let's find out how many widgets he can make in an hour. He can make 20 widgets an hour. So, in 40 hours, he can make:
+
+40 hours * 20 widgets/hour = 800 widgets
+
+So, John makes 800 widgets a week.

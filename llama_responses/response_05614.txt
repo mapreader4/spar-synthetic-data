@@ -1,0 +1,15 @@
+Let's start by identifying the total amount each person needs to contribute towards the vacation. Since there are 5 people in the family and the vacation costs $1,000, each person needs to contribute $200.
+
+Since Jules charges $2 to start a walk and $1.25 per block, the total amount he needs to make is $200 x 5 = $1000.
+
+Next, we need to find out how many blocks he needs to walk to make that amount. We can do this by subtracting the starting fee from the total amount:
+
+$1000 - $2 = $998
+
+Now, we need to find how many blocks he needs to walk to make $998. Since he earns $1.25 per block, we can divide the remaining amount by the amount he earns per block:
+
+$998 ÷ $1.25 = 798
+
+So, Jules needs to walk 798 blocks in total to make the $1,000 for his family's vacation.
+
+Answer: 798

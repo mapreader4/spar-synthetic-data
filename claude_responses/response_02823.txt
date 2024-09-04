@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Merry had 50 boxes of apples on Saturday
+* Each box had 10 apples
+* So on Saturday, Merry had 50 boxes x 10 apples/box = 500 apples
+* On Sunday, Merry had 25 boxes of apples
+* Each box had 10 apples
+* So on Sunday, Merry had 25 boxes x 10 apples/box = 250 apples
+* In total, Merry had 500 + 250 = 750 apples
+* She sold a total of 720 apples on Saturday and Sunday
+* To find the number of boxes left, we take the total apples (750) and subtract the apples sold (720)
+* 750 - 720 = 30 apples left
+* Since each box has 10 apples, we divide the 30 apples left by 10 apples/box
+* 30 apples / 10 apples/box = 3 boxes left
+
+Answer: 3

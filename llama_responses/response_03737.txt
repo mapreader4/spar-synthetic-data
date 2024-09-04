@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: Calculate the total number of gallons in all 4 barrels: 4 barrels * 7 gallons/barrel = 28 gallons.
+
+Step 2: Calculate the total time it will take to fill 28 gallons at a rate of 3.5 gallons per minute: 28 gallons / 3.5 gallons per minute = 8 minutes.
+
+So, the answer is:
+
+Answer: 8

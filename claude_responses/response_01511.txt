@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Janice found 5 drawings on the first page
+* The number of drawings increased by 5 after every page
+* We want to find the total number of drawings in the first 5 pages
+
+On the first page, there were 5 drawings.
+On the second page, there would be 5 + 5 = 10 drawings.
+On the third page, there would be 10 + 5 = 15 drawings.
+On the fourth page, there would be 15 + 5 = 20 drawings.
+On the fifth page, there would be 20 + 5 = 25 drawings.
+
+To find the total number of drawings in the first 5 pages, we add up the drawings on each page:
+5 + 10 + 15 + 20 + 25 = 75
+
+Answer: 75

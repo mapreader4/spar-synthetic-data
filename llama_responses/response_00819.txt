@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+On the first day, James collects 50 tins.
+
+On the second day, he collects 3 times the number of tins he collected on the first day, which is 3 * 50 = 150 tins.
+
+On the third day, he collects 50 tins fewer than the number he collected on the second day, which is 150 - 50 = 100 tins.
+
+To find the number of tins James collects each day for the rest of the week, we can find the difference between the total number of tins he needs to collect (500) and the number of tins he has collected so far (50 + 150 + 100 = 300).
+
+The difference is 500 - 300 = 200. Since there are 5 days left in the week, James needs to collect 200 tins each day.
+
+Answer: 40

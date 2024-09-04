@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Ben starts each day with $50
+* He spends $15 every day
+* He saves the rest
+* After a few days, his mom doubles his total savings
+* His dad then gives him an additional $10
+* He now has $500
+
+Let's start by calculating how much he saves each day:
+* He starts with $50 and spends $15, so he saves $50 - $15 = $35 each day
+
+Now, let's calculate how much he had saved before his mom doubled it:
+* If he now has $500, and his mom doubled his savings, then before the doubling he had $500 / 2 = $250 saved
+
+Now, let's calculate how much he had saved before his dad gave him the additional $10:
+* He had $250 saved, and then his dad gave him $10, so before that he had $250 - $10 = $240 saved
+
+Finally, let's calculate how many days it took him to save $240:
+* He saves $35 each day, so it took him $240 / $35 = 6.86 days, which rounds to 7 days.
+
+Answer: 7 days

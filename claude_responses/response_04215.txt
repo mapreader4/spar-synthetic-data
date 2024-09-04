@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* John draws and colors 10 pictures
+* It takes him 2 hours to draw each picture
+* It takes him 30% less time to color each picture
+
+First, let's calculate the time it takes to draw all 10 pictures:
+* Time to draw 1 picture = 2 hours
+* Time to draw 10 pictures = 10 * 2 hours = 20 hours
+
+Now, let's calculate the time it takes to color all 10 pictures:
+* Time to color 1 picture = 2 hours - (2 hours * 0.3) = 2 hours - 0.6 hours = 1.4 hours
+* Time to color 10 pictures = 10 * 1.4 hours = 14 hours
+
+Finally, to get the total time spent on all the pictures, we add the time to draw and the time to color:
+* Total time = 20 hours + 14 hours = 34 hours
+
+Answer: 34

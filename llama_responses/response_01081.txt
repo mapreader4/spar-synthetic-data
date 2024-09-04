@@ -1,0 +1,5 @@
+Let's start by finding the number of bees in the second hive. Since the first hive has 1000 bees, and the second hive has 20% fewer bees, the number of bees in the second hive is 1000 - 20% of 1000 = 800.
+
+Since each bee in the second hive produces 40% more honey than each bee in the first hive, and each bee in the first hive produces 1 liter of honey, each bee in the second hive produces 1 + 0.4 = 1.4 liters of honey. Since there are 800 bees in the second hive, the total honey produced is 800 x 1.4 = 1120 liters.
+
+Answer: 1120

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Mark started with some amount of money.
+2) At the first store, he spent one-half of his starting money, and then spent $14 more.
+   * Let's call his starting amount "x".
+   * At the first store, he spent 1/2 of x, which is x/2, and then $14 more.
+   * So, the amount he had left after the first store is x - (x/2) - $14 = x/2 - $14.
+3) At the second store, he spent one-third of his starting money, and then spent $16 more.
+   * The amount he had left after the first store, x/2 - $14, is the amount he had to spend at the second store.
+   * He spent one-third of his starting money, which is x/3, and then $16 more.
+   * So, the amount he had left after the second store is (x/2 - $14) - (x/3) - $16 = 0.
+4) Now we can solve for x.
+   * (x/2 - $14) - (x/3) - $16 = 0
+   * x/2 - $14 - x/3 - $16 = 0
+   * x/2 - x/3 = $30
+   * (2x - 3x)/6 = $30
+   * -x/6 = $30
+   * x = $180
+
+Answer: $180

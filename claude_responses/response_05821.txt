@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* James's primary care doctor charges $300 for the visit
+* James's insurance covers 80% of the cost
+* To calculate James's out-of-pocket cost, we need to find the amount that is not covered by insurance
+
+First, we calculate the amount covered by insurance:
+* 80% of $300 = 0.8 * $300 = $240
+
+Now, we can calculate James's out-of-pocket cost by subtracting the amount covered by insurance from the total cost:
+* $300 - $240 = $60
+
+Answer: $60

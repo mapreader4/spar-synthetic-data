@@ -1,0 +1,6 @@
+Okay, let's think this through step-by-step:
+1) Jeffrey takes 3 steps forward, then 2 steps backward. This means he moves 1 step forward overall.
+2) To cover a distance of 66 steps, he needs to take 66 steps forward.
+3) Since he moves 1 step forward for every 5 steps he takes (3 forward, 2 backward), he needs to take a total of 66 * 5 = 330 steps.
+
+Answer: 330

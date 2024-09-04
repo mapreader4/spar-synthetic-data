@@ -1,0 +1,7 @@
+Let's solve this problem step by step.
+
+Let's first find the average score of the class before William took the test. There are 30 students in the class. The average is 74. This means that the total score of the class before William took the test is 74 * 30 = 2220.
+
+Now, William needs to get at least 75% to make sure they get a pizza party. This means that he needs to get at least 0.75 * 2220 = 1665.
+
+So, William needs to get at least 1665 to make sure they get a pizza party.

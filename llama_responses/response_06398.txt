@@ -1,0 +1,9 @@
+Let's start by finding the total number of years that Lily has been treating herself to hydrangea plants. We know that 1989 is the starting year and 2021 is the ending year. We can find the number of years by subtracting 1989 from 2021, which gives us 31 years.
+
+Since Lily treats herself to 1 hydrangea plant each year, we can multiply the number of years by the cost of one plant, which is $20.00. This gives us the total cost of all the plants:
+
+31 * 20.00 = 620.00
+
+So, the answer is:
+
+Answer: 620.00

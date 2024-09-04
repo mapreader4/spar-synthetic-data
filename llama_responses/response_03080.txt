@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say that Tony starts with 2 fish. Every year, he gets 2 more, so the total number of fish he has is 2 + 2 = 4.
+
+But one of them dies, so he loses 1 fish. So, the total number of fish he has is 4 - 1 = 3.
+
+This pattern continues for 5 years. So, in 5 years, he will get 5 * 2 = 10 more fish, but he will lose 5 * 1 = 5 fish, since 1 fish dies each year.
+
+So, in 5 years, Tony will have 3 + 10 - 5 = 8 fish.
+
+Answer: 8

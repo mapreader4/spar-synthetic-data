@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+Let's first find the total cost of the bill, which is 5000$. Then, we know that 50 percent of the bill is for medication, so we can find the cost of medication by multiplying 5000 by 0.5, which is 2500$. Then, we know that 25 percent of the remaining bill is for overnight stays, so we can find the cost of overnight stays by multiplying the remaining bill (5000 - 2500) by 0.25, which is 1250$. Then, we know that 175 is for food, so we subtract 175 from the remaining amount, which is 5000 - 2500 - 175 = 2625. Finally, we want to find the cost of the ambulance ride, which is the remaining 2625.
+
+Answer: 2625

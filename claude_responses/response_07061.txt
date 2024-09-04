@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* 4 small boxes can fit in 1 big box
+* 50 big boxes can fit 4 small boxes each
+* Each small box has 40 candles
+
+First, we need to find the total number of small boxes:
+* 50 big boxes x 4 small boxes per big box = 200 small boxes
+
+Now, we can calculate the total number of candles in all the small boxes:
+* 200 small boxes x 40 candles per small box = 8,000 candles
+
+Answer: 8,000

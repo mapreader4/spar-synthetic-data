@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Louise has 30 pictures to hang on the wall
+* She hangs some of them vertically
+* She hangs half of them horizontally
+* She hangs the remaining 5 pictures haphazardly
+
+First, let's find out how many pictures she hangs horizontally:
+* Half of 30 pictures is 15 pictures
+
+Now, we know that she hangs the remaining 5 pictures haphazardly, so the number of pictures she hangs vertically must be the difference between the total number of pictures and the number of pictures hung horizontally and haphazardly.
+* Total pictures: 30
+* Pictures hung horizontally: 15
+* Pictures hung haphazardly: 5
+* Pictures hung vertically: 30 - 15 - 5 = 10
+
+Answer: 10

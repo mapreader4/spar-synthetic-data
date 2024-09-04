@@ -1,0 +1,9 @@
+Let's solve this problem step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Adam has 7 goats.
+* Andrew has 5 more goats than Adam, so Andrew has 7 * 2 = 14 goats.
+* Ahmed has 6 fewer goats than Andrew, so Ahmed has 14 - 6 = 8 goats.
+
+So, Ahmed has 8 goats.

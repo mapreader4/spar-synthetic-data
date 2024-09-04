@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Bill has 60 toys
+* Hash has half as many toys as Bill, plus 9 more
+* To find how many toys Hash has, we first find half of Bill's toys:
+    - Half of 60 is 30
+* Then we add 9 more to that:
+    - 30 + 9 = 39
+* So Hash has 39 toys
+* To find the total number of toys the boys have, we add Bill's toys and Hash's toys:
+    - 60 + 39 = 99
+
+Answer: 99

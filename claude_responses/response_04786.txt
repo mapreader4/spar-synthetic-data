@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Chocolate cake requires 3 eggs per cake
+* 5 chocolate cakes would require 5 * 3 = 15 eggs
+* Cheesecake requires 8 eggs per cake
+* 9 cheesecakes would require 9 * 8 = 72 eggs
+* To find the difference, we subtract the number of eggs needed for the chocolate cakes from the number of eggs needed for the cheesecakes:
+* 72 eggs - 15 eggs = 57 eggs
+
+Answer: 57

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The city has two buses.
+2) Each bus can have a capacity of 1/6 as much as the train.
+3) The train has a capacity of 120 people.
+4) To find the capacity of each bus, we take the train's capacity (120) and divide it by 6, since each bus is 1/6 the capacity of the train.
+5) 120 / 6 = 20
+6) Therefore, each bus has a capacity of 20 people.
+7) Since there are two buses, the combined capacity of the two buses is 20 + 20 = 40 people.
+
+Answer: 40

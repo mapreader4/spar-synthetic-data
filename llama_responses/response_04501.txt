@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by finding the points Roosevelt High School scored in the second game. If they scored half as much in the second game as they did in the first game, and the first game was 30 points, then the second game score is 30 / 2 = 15.
+
+Then, they scored triple as much in the third game as they did in the second game. So, the third game score is 15 * 3 = 45.
+
+Now, let's find the total points Roosevelt High School scored. 30 + 15 + 45 = 90.
+
+Finally, Roosevelt High School receives 50 bonus points. So, the total points Roosevelt High School has is 90 + 50 = 140.
+
+Now, we need to find out how many points Greendale High School has. Since Roosevelt High School has 10 points less than Roosevelt High School, Greendale High School has 140 - 10 = 130 points.

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Milo gets 3 grades of 2, 4 grades of 3, 1 grade of 4, and 1 grade of 5
+* To calculate the average grade, we need to add up all the grades and divide by the total number of grades
+* 3 grades of 2 = 6
+* 4 grades of 3 = 12
+* 1 grade of 4 = 4
+* 1 grade of 5 = 5
+* Total of all grades = 6 + 12 + 4 + 5 = 27
+* Total number of grades = 3 + 4 + 1 + 1 = 9
+* Average grade = 27 / 9 = 3
+* Milo will get $5 times the average grade he gets
+* $5 x 3 = $15
+
+Answer: 15

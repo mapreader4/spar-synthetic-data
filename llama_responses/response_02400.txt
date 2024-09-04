@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Alexander buys 5 apples for $1 each, so he spends 5 * 1 = 5 dollars on apples.
+
+Alexander buys 2 oranges for $2 each, so he spends 2 * 2 = 4 dollars on oranges.
+
+In total, Alexander spends 5 + 4 = 9 dollars.
+
+Answer: 9

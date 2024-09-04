@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of liters of fuel that Donny has in his tank. He has 150 liters of fuel in total and 38 liters are already in the tank, so he has 150 - 38 = 112 liters left in the tank.
+
+Next, let's find the cost of the fuel that he has left in the tank. The cost of each liter of fuel is $3, so the total cost of the fuel in the tank is 112 * 3 = 336.
+
+Finally, we can find the change he will get from $350. He will pay $350 for the fuel, so the change will be $350 - 336 = 14.
+
+Answer: 14

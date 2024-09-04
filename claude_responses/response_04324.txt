@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Carmela has $7 initially.
+2) Each of her four cousins has $2 initially.
+3) To find the total amount of money Carmela and her cousins have initially, we add up the amounts:
+   Carmela's money: $7
+   Her four cousins' money: 4 x $2 = $8
+   Total initial amount: $7 + $8 = $15
+4) To make sure Carmela and her cousins have the same amount of money, we need to divide the total initial amount by 5 (Carmela and her 4 cousins).
+5) $15 / 5 = $3
+6) So Carmela needs to give each of her cousins $1 (since each cousin has $2 and Carmela has $7, and they each need $3).
+
+Answer: 4

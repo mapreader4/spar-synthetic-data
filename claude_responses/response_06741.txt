@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The new fantasy series has 12 seasons
+* Each season has 20 episodes
+* So the total number of episodes in the series is:
+    - 12 seasons x 20 episodes per season = 240 episodes
+* Cesar watched 1/3 of the series before the school closed
+* To find the number of episodes Cesar watched, we take 1/3 of the total episodes:
+    - 1/3 x 240 episodes = 80 episodes
+* To find the number of episodes remaining for Cesar to finish the series, we subtract the number of episodes he watched from the total number of episodes:
+    - 240 episodes - 80 episodes = 160 episodes
+
+Answer: 160

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the distance he drives in the first 30 minutes. Since James drives at a speed of 30 mph, the distance is:
+
+Distance = Speed x Time = 30 mph x 0.5 hours = 15 miles.
+
+Then, he drives at twice the speed, which is 60 mph, for twice the time, which is 1 hour. The distance is:
+
+Distance = Speed x Time = 60 mph x 1 hour = 60 miles.
+
+The total distance he drives is the sum of these two distances. So, the total distance is:
+
+15 miles + 60 miles = 75 miles.
+
+Answer: 75

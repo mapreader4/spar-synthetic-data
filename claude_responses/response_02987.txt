@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Beth has a total of 120 books
+2) 65% of the 120 books are novels
+   * 65% of 120 = 0.65 * 120 = 78 novels
+3) 18 of the books are graphic novels
+4) The remaining books must be comic books
+   * Total books = 120
+   * Novels = 78
+   * Graphic novels = 18
+   * Comic books = 120 - 78 - 18 = 24 comic books
+5) The percentage of comic books is the number of comic books divided by the total number of books, multiplied by 100
+   * Percentage of comic books = (24 / 120) * 100 = 20%
+
+Answer: 20

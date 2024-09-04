@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Farmer Randy has 1700 acres of cotton to be planted in 5 days
+* He has a crew of 2 tractors working for the first 2 days
+* Then he has a crew of 7 tractors working for the next 3 days
+* To find the number of acres each tractor needs to plant per day, we need to:
+1. Calculate the total number of tractor-days available
+2. Divide the total acres by the total tractor-days to get the acres per tractor-day
+
+Step 1: Calculate the total number of tractor-days available
+* 2 tractors working for 2 days = 4 tractor-days
+* 7 tractors working for 3 days = 21 tractor-days
+* Total tractor-days = 4 + 21 = 25 tractor-days
+
+Step 2: Divide the total acres by the total tractor-days to get the acres per tractor-day
+* Total acres = 1700
+* Total tractor-days = 25
+* Acres per tractor-day = 1700 / 25 = 68
+
+Therefore, each tractor needs to plant 68 acres per day to meet the planting deadline.
+
+Answer: 68

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with Haley. Haley has 25 necklaces. 
+
+Let's now consider Josh. Josh has half the number of necklaces as Haley, which is 25 / 2 = 12.
+
+To find how many more necklaces Haley has than Josh, we need to subtract the number of necklaces Josh has from the number of necklaces Haley has. 
+
+25 - 12 = 13.
+
+Answer: 13

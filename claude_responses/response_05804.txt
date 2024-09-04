@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Ziggy typically gets 30 song requests every night
+* Half of the songs requested are electropop
+* So the number of electropop song requests is 30 / 2 = 15
+* A third of the electropop song requests are for dance music
+* So the number of dance music song requests is 15 / 3 = 5
+* There are 5 rock music song requests
+* The number of oldies song requests is 5 - 3 = 2
+* Ziggy plays a DJ's choice song half the number of times he plays an oldie
+* So the number of DJ's choice songs is 2 / 2 = 1
+
+Now, we need to find the number of rap song requests. We know the total number of song requests is 30, and we've accounted for the electropop, dance, rock, and oldies requests, as well as the DJ's choice song. So the number of rap song requests must be the remaining amount.
+
+Answer: 30 - 15 - 5 - 5 - 2 - 1 = 2
+
+Therefore, the number of rap song requests Ziggy typically gets every night is 2.

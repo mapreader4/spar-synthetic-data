@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jerome is taking a 150-mile bicycle trip
+* He wants to ride 12 miles for 12 days
+* To calculate the total miles he will have ridden in the first 12 days:
+  * 12 miles per day x 12 days = 144 miles
+* To finish his 150-mile goal, he needs to ride the remaining distance:
+  * 150 miles - 144 miles = 6 miles
+* Therefore, on the 13th day, Jerome will need to ride 6 miles to finish his goal.
+
+Answer: 6

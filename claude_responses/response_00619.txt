@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* On Monday, Wednesday, and Friday, Harry walks 7 dogs each day
+* That's 7 dogs x 3 days = 21 dogs
+* On Tuesday, Harry walks 12 dogs
+* On Thursday, Harry walks 9 dogs
+* In total for the week, Harry walks:
+  - 21 dogs (Monday, Wednesday, Friday)
+  - 12 dogs (Tuesday)
+  - 9 dogs (Thursday)
+* That's a total of 21 + 12 + 9 = 42 dogs walked in a week
+* Harry is paid $5 for each dog he walks
+* So, the total amount of money Harry earns in a week is:
+  - 42 dogs x $5 per dog = $210
+
+Answer: $210

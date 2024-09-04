@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The third school had 200 students
+* The second school had 40 more students than the third school
+* So the second school had 200 + 40 = 240 students
+* The first school had twice as many students as the second school
+* So the first school had 2 * 240 = 480 students
+* The total number of students is the sum of the students from the three schools:
+* 200 + 240 + 480 = 920 students
+* After the debate, every student shook the mayor's hand
+* Therefore, the total number of students who shook the mayor's hand on the stage is:
+Answer: 920

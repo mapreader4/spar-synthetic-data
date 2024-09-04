@@ -1,0 +1,5 @@
+Let's start by identifying the amount of cereal in the first box. We know that the first box holds 14 ounces. The second box holds half the amount of the first box, which is 14 / 2 = 7 ounces. The third box holds 5 less than the second box, so it holds 7 - 5 = 2 ounces.
+
+Now, we need to add up the amount of cereal in all three boxes. 14 + 7 + 2 = 23.
+
+Answer: 23

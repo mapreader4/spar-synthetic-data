@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) Anna made an unknown total number of gingerbread cookies.
+2) 6 of them have red hats.
+3) 9 of them have blue boots.
+4) 3 of them have both red hats and blue boots.
+5) To find the percentage of gingerbread men with red hats, we need to find the total number of gingerbread men with red hats and divide it by the total number of gingerbread men.
+6) The total number of gingerbread men with red hats is 6 + 3 = 9.
+7) The total number of gingerbread men is unknown, but we can calculate it as follows:
+   - The 3 gingerbread men with both red hats and blue boots are counted twice, so we need to subtract 3 from the total.
+   - The total number of gingerbread men is therefore 6 + 9 - 3 = 12.
+8) The percentage of gingerbread men with red hats is (9 / 12) * 100 = 75%.
+
+Answer: 75

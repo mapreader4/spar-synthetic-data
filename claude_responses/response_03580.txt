@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On the first day, Remi planted 200 seedlings
+* On the second day, Remi planted twice the number of seedlings he planted on the first day, which is 2 x 200 = 400 seedlings
+* The total number of seedlings transferred to the farm on these two days was 1200
+* To find the number of seedlings his father planted, we need to subtract the number of seedlings Remi planted from the total:
+* Total seedlings planted = 1200
+* Seedlings planted by Remi = 200 + 400 = 600
+* Seedlings planted by his father = 1200 - 600 = 600
+
+Answer: 600

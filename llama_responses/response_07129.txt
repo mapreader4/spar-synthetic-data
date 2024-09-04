@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Mary had 5 books initially.
+2. She returned 3 books, so she had 5 - 3 = 2 books left.
+3. Then, she checked out 5 more books, so she now has 2 + 5 = 7 books.
+4. 3 days later, she returned 2 books, so she has 7 - 2 = 5 books left.
+5. She checked out 7 more books, so she now has 5 + 7 = 12 books.
+
+Answer: 12

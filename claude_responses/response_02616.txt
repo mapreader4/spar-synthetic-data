@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Shop A sells Don 150 bottles
+* Shop B sells Don 180 bottles
+* Don is capable of buying only 550 bottles in total
+
+To find out how many bottles Don buys from Shop C, we need to subtract the number of bottles he buys from Shop A and Shop B from the total number of bottles he can buy.
+
+* Total bottles Don can buy = 550
+* Bottles from Shop A = 150
+* Bottles from Shop B = 180
+* Bottles from Shop C = Total bottles - Bottles from Shop A - Bottles from Shop B
+* Bottles from Shop C = 550 - 150 - 180 = 220
+
+Answer: 220

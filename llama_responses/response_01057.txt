@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the volume of each container is x.
+
+We know that the total volume of tea is 20 gallons. So, we can set up an equation: 80x = 20.
+
+Now, we know that Geraldo drank 3.5 containers. We can represent this as 3.5x.
+
+So, we can set up another equation: 3.5x = 20.
+
+To solve for x, we can divide both sides by 3.5: x = 20 / 3.5.
+
+x = 20 / 3.5 = 5.71
+
+Answer: 5

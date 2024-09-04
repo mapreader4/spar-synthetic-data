@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Jamie's father wants to lose 5 pounds of body fat. Since there are 3,500 calories in a pound of body fat, he needs to burn 5 x 3,500 = 17,500 calories to lose 5 pounds.
+
+Jamie's father burns 2,500 calories per day through light exercise. However, he also needs to account for the calories he consumes. He consumes 2000 calories per day, so his daily caloric deficit is 2,500 (calories burned) - 2,000 (calories consumed) = 500 calories per day.
+
+To find the number of days it will take for Jamie's father to burn off 5 pounds, we can divide the total number of calories he needs to burn (17,500) by his daily caloric deficit (500):
+
+17,500 calories / 500 calories per day = 35 days
+
+Answer: 35

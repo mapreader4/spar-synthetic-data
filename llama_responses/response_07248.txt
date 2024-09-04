@@ -1,0 +1,9 @@
+Let's start by finding the age of Mikail on his birthday. If he will be 3 times older than he was when he was 3 years old, then we need to know what he was 3 years old. Let's call this age x.
+
+We know that Mikail is getting 5 dollars for every year old he is, so if we let y be his age in years, we know that 5y = 5. This means that y = 5. So, x is 3.
+
+So, when he was 3, he was 3 years old. If he is now 3 times that, then his age now is 3 * 3 = 9. So, he is 9 years old.
+
+On his birthday, his parents will give him 5 * 9 = 45 dollars. Therefore, the answer is:
+
+Answer: 45

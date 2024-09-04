@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The used car lot has a total of 24 vehicles (cars and motorcycles).
+2) One-third of the vehicles are motorcycles. To find the number of motorcycles, we take the total (24) and divide by 3: 24 / 3 = 8 motorcycles.
+3) The remaining vehicles are cars. To find the number of cars, we take the total (24) and subtract the number of motorcycles (8): 24 - 8 = 16 cars.
+4) A quarter of the cars have a spare tire included. To find the number of cars with a spare tire, we take the number of cars (16) and divide by 4: 16 / 4 = 4 cars with a spare tire.
+5) Each motorcycle has 2 tires, and each car (including the ones with a spare tire) has 4 tires.
+6) To find the total number of tires, we add up the tires for the motorcycles and the cars:
+   - Motorcycles: 8 motorcycles x 2 tires each = 16 tires
+   - Cars: 16 cars x 4 tires each = 64 tires
+   - Spare tires: 4 cars x 1 spare tire each = 4 tires
+7) The total number of tires is 16 + 64 + 4 = 84 tires.
+
+Answer: 84

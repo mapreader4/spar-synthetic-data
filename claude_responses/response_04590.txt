@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Last week, the farmer shipped 10 boxes of pomelos
+* In total, there were 240 pomelos in those 10 boxes
+* This week, the farmer shipped 20 boxes
+* We need to find the total number of pomelos shipped in all
+* To do this, we can assume that the number of pomelos per box is the same for both weeks
+* Last week, there were 240 pomelos in 10 boxes, so that's 24 pomelos per box
+* This week, with 20 boxes, the total number of pomelos would be 20 * 24 = 480 pomelos
+* The total number of pomelos shipped in all is 240 + 480 = 720 pomelos
+* There are 12 pomelos in a dozen
+* So the total number of dozens of pomelos shipped is 720 / 12 = 60 dozens
+
+Answer: 60

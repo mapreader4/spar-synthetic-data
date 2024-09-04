@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pounds of food the bear eats per day. We know the bear eats up to 90 pounds of food per day.
+
+Now, we need to find the total number of pounds of food the bear would eat in 3 weeks. To do this, we need to multiply the number of pounds of food eaten per day by the number of days.
+
+So, we have:
+
+* 90 pounds per day
+* 3 weeks
+
+To find the total number of pounds of food, we multiply:
+
+90 pounds per day * 3 weeks = 90 * 3 = 270 pounds
+
+So, the bear would eat 270 pounds of food in 3 weeks.
+
+Answer: 270

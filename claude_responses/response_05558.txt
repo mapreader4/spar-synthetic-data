@@ -1,0 +1,6 @@
+Okay, let's think through this step-by-step:
+1) The ratio of boys to girls in the class is 5:8. This means that for every 13 students, 5 are boys and 8 are girls.
+2) To find the total number of students, we add the number of boys and girls: 5 + 8 = 13.
+3) Since the total number of students in the class is 260, we can divide 260 by 13 to find the number of groups of 13 students in the class: 260 / 13 = 20.
+4) Now, to find the number of girls, we multiply the number of groups (20) by the number of girls per group (8): 20 * 8 = 160.
+Answer: 160 girls are in the class.

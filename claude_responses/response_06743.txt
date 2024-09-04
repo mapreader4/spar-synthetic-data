@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Jame's buys 100 head of cattle for $40,000.
+2. It costs 20% more than $40,000 to feed them. 
+   * 20% of $40,000 is $8,000.
+   * So the total cost of feeding the cattle is $40,000 + $8,000 = $48,000.
+3. Each cattle weighs 1000 pounds and sells for $2 per pound.
+   * So each cattle sells for $2 x 1000 = $2,000.
+   * With 100 cattle, the total revenue is $2,000 x 100 = $200,000.
+4. To calculate the profit:
+   * Total revenue: $200,000
+   * Total cost: $40,000 (buying the cattle) + $48,000 (feeding the cattle) = $88,000
+   * Profit = Total revenue - Total cost = $200,000 - $88,000 = $112,000
+
+Answer: $112,000

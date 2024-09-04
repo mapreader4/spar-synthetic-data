@@ -1,0 +1,9 @@
+To find the total length of the fencing needed for the playground and garden, we need to find the perimeter of the playground and the garden, then add the two perimeters together.
+
+The perimeter of the playground is the perimeter of the square, which is the sum of the lengths of all its sides. Since the side length of the square is 27 yards, the perimeter is 4 * 27 = 108 yards.
+
+The perimeter of the garden is the sum of the lengths of all its sides, which is 12 + 9 = 21 yards.
+
+The total perimeter of the playground and garden together is 108 + 21 = 129 yards.
+
+Answer: 129

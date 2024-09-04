@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of cranberries that are harvested by humans. 40% of the total number of cranberries are harvested, so we can set up an equation.
+
+Let's use x to represent the total number of cranberries. Then, we can set up the equation: 0.4x = 60000.
+
+To solve for x, we can multiply both sides by 100 to get: 40x = 60000 * 100 = 6000.
+
+Now, we can solve for x by dividing both sides by 100: x = 6000 / 100 = 60.
+
+So, 40% of the cranberries are harvested by humans is 6000.
+
+Next, we need to find the number of cranberries eaten by elk. We are told that 20000 are eaten by elk. We can set up an equation: 0.6x = 20000.
+
+We can solve for x by dividing both sides by 100 to get: 60x = 20000 * 100 = 2000.
+
+So, 20% of the cranberries are eaten by elk is 2000.
+
+Now, we need to find the number of cranberries that are left. We can subtract the number of cranberries eaten by humans (6000) and the number of cranberries eaten by elk (2000) from the total number of cranberries (60000).
+
+60000 - 6000 - 2000 = 44000.
+
+Answer: 44000

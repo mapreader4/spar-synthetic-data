@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On Mondays, Jonathan walks 6 miles at 2 miles per hour
+* To calculate the time spent on Mondays, we divide the distance (6 miles) by the speed (2 miles per hour)
+* 6 miles / 2 miles per hour = 3 hours
+* On Wednesdays, Jonathan walks 6 miles at 3 miles per hour
+* To calculate the time spent on Wednesdays, we divide the distance (6 miles) by the speed (3 miles per hour)
+* 6 miles / 3 miles per hour = 2 hours
+* On Fridays, Jonathan runs 6 miles at 6 miles per hour
+* To calculate the time spent on Fridays, we divide the distance (6 miles) by the speed (6 miles per hour)
+* 6 miles / 6 miles per hour = 1 hour
+* To get the total time spent exercising in a week, we add up the time spent on each day:
+* 3 hours (Mondays) + 2 hours (Wednesdays) + 1 hour (Fridays) = 6 hours
+
+Answer: 6 hours

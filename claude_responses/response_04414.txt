@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John climbs up 3 flights of stairs, and each flight is 10 feet. So the total height of the stairs is:
+3 flights x 10 feet per flight = 30 feet
+2) He then climbs a rope that is half the height of the stairs. The height of the rope is:
+30 feet / 2 = 15 feet
+3) Finally, he climbs a ladder that is 10 feet longer than the rope. The height of the ladder is:
+15 feet + 10 feet = 25 feet
+4) Adding up the heights of the stairs, rope, and ladder, we get:
+30 feet + 15 feet + 25 feet = 70 feet
+
+Answer: 70

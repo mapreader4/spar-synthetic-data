@@ -1,0 +1,10 @@
+Let's break this problem down step by step:
+
+1. Originally, there were 10 votes for Game of Thrones.
+2. Fran throws away 80% of the votes for The Art of the Deal. Since there were 20 votes originally, 80% of 20 is 16 votes. So, there are now 4 votes for The Art of the Deal.
+3. Fran also throws away half of the votes for Twilight. Originally, there were 12 votes for Twilight, so half of that is 6 votes. So, there are now 6 votes for Twilight.
+4. The total number of votes now is 10 (for Game of Thrones) + 4 (for The Art of the Deal) + 6 (for Twilight) = 20.
+
+So, the percentage of votes for Game of Thrones is 10 out of 20, which is 50%.
+
+Answer: 50

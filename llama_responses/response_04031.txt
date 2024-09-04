@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say each bucket can hold a certain number of strawberries. Let's call this number x.
+
+Since Cheryl took 20 strawberries from each bucket, we know that the total number of strawberries taken is 20 * 5 = 100.
+
+The total number of strawberries initially in each bucket is 300 - 100 = 200.
+
+So, the number of strawberries left in each bucket is 200 ÷ 5 = 40.
+
+Answer: 40

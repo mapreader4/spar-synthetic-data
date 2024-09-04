@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find out how much money Bob has earned so far. Bob has won 100 dollars each week for 2 weeks, so he has earned a total of 100 + 100 = 200 dollars.
+
+He wants to save up for a puppy that costs 1000 dollars. To find the minimum number of additional weeks he needs to win first place, we need to find out how many times he needs to multiply 100 dollars to get 1000 dollars.
+
+To do this, we can divide 1000 by 100 to get 10. This means Bob needs to win first place 10 more times to earn enough money to buy the puppy.
+
+Answer: 10

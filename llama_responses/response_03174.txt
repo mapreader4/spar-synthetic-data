@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total number of people who left the party. We know that 2/5 of the total number of people left, so we need to find 2/5 of the total number of people, which is 2/5 * 50 = 20. So, 20 people left the party.
+
+Now, we know that 9 men left the party. We need to find the number of women who stayed at the party. We know that 20 men left, and since 9 men left, 20 - 9 = 11 men left. So, the number of women who stayed at the party is 30 - 11 = 19.
+
+Answer: 19

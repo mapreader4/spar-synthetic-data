@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pieces of candy that Tabitha caught, which is 22.
+
+Then, we know that Stan caught 13 pieces of candy.  We are also told that Julie caught half the amount of candy that Tabitha caught, so Julie caught 22 / 2 = 11 pieces of candy.
+
+Finally, we are told that Carlos caught twice as much candy as Stan, so Carlos caught 13 * 2 = 26 pieces of candy.
+
+To find the total number of pieces of candy that the friends caught, we add up the number of pieces each of them caught: 22 + 11 + 26 = 59.
+
+Answer: 59

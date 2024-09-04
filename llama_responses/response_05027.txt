@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Collin has 12 cans at home.
+2. He finds 3 times as many cans at his grandparents' house, so he has 12 + (3 x 12) = 12 + 36 = 48 cans at his grandparents' house.
+3. His neighbor gives him 46 cans.
+4. His dad brings home 250 cans from the office.
+5. Collin has a total of 12 + 48 + 46 + 250 = 256 cans.
+6. For every can, he earns $0.25, so he earns a total of 256 x 0.25 = 64 dollars.
+7. His dad tells him to put half of his entire amount into savings, so he needs to put 64 / 2 = 32 dollars into savings.
+
+Answer: 32

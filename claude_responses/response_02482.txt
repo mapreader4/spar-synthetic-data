@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The dress's hem is 3 feet long
+* Each stitch Jenna makes is 1/4 inch long
+* Jenna makes 24 stitches per minute
+
+First, we need to convert the length of the dress's hem from feet to inches:
+* 3 feet = 36 inches
+
+Next, we need to calculate how many stitches Jenna needs to make to hem the dress:
+* 36 inches / 1/4 inch per stitch = 144 stitches
+
+Finally, we can calculate how long it will take Jenna to make 144 stitches at a rate of 24 stitches per minute:
+* 144 stitches / 24 stitches per minute = 6 minutes
+
+Answer: 6 minutes

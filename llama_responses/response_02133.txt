@@ -1,0 +1,15 @@
+Let the purchase price of the first commodity be x. The purchase price of the second commodity is x - 127. The total cost is 2x. We know that the total cost is 827. So, we can set up an equation.
+
+2x = 827
+
+To solve for x, we can subtract 127 from both sides of the equation.
+
+2x - 127 = 827 - 127
+2x = 700
+
+Now, we can divide both sides of the equation by 2.
+
+x = 700 / 2
+x = 350
+
+So, the purchase price of the first commodity is 350.

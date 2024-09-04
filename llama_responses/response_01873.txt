@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Let's say Jeremy's current age is x.
+
+Since Sebastian is 4 years older than Jeremy, we know that Sebastian's current age is x + 4.
+
+The total sum of their ages in three years will be 150.
+
+So, the sum of their ages in three years is x + 4 + x + x + x = 150.
+
+The sum of their ages now is x + x + x.
+
+So, we know that the sum of their ages now is 40 + 40 + x.
+
+We can rewrite this equation as 80 + x.
+
+Since 80 + x = 150, we know that x = 70.
+
+So, Sophia's age in three years is 70 - 3 = 67.
+
+Answer: 67

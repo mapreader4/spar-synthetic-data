@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+First, we need to find the original price of the shoes. The shoes cost $125.
+
+Since it's Mother's day, Mrs. Brown gets a 10% discount. So, the price will be 10% off the original price, which is 0.1 x 125 = 12.5.
+
+Now, since Mrs. Brown has 4 children, she also gets an additional 4% off the discounted price. So, we need to calculate 4% of the discounted price, which is 0.04 x (125 - 12.5) = 5.
+
+Now, we need to subtract this from the discounted price. So, the final price will be 125 - 12.5 - 5 = 107.5.
+
+Answer: 107.5

@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's find the semester 1 average first. The semester 1 grades are 90, 80, 70, and 100. To find the average, we add up all the grades and divide by the number of grades, which is 3.
+
+90 + 80 + 70 + 100 = 240
+
+We then divide the sum by the number of grades, which is 4.
+
+240 / 4 = 60
+
+So, the semester 1 average is 60.
+
+Now, we know the semester 2 average is 82. To find the difference between the semester 1 average and the semester 2 average, we subtract the semester 1 average from the semester 2 average.
+
+60 - 82 = -22
+
+The semester 1 average is 22 points lower than the semester 2 average.
+
+Answer: 22

@@ -1,0 +1,5 @@
+Let's start by identifying how many slices each person ate. Bob ate half of a pizza, which is 6 slices. Tom ate one-third of a pizza, which is 4 slices. Sally ate one-sixth of a pizza, which is 2 slices. Jerry ate a quarter of a pizza, which is 3 slices. 
+
+To find the total number of slices eaten, we add the number of slices each person ate: 6 + 4 + 2 + 3 = 15. 
+
+Since there are 12 slices in a pizza, and 15 slices were eaten, we can find the number of slices left by subtracting 15 from 12: 12 - 15 = -3. However, this is not possible, because we can't have a negative number of slices left over. This is because each pizza is cut into 12 slices, and we can't have a negative number of slices. So, the number of slices left over is actually 12 - 15 = -3 = 9.

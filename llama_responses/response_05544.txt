@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of bags of potatoes that are not damaged.
+
+The total number of potatoes that are not damaged is 6500 kg - 150 kg = 6350 kg.
+
+Each bag weighs 50 kg, so the total number of bags is 6350 kg / 50 kg = 127 bags.
+
+Each bag is sold for $72, so the total sale is 127 bags * $72 = 9144.
+
+Answer: 9144

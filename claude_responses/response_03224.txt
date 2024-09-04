@@ -1,0 +1,24 @@
+To solve this problem, we need to find the distance Stephen rides his bicycle to church.
+
+Given information:
+- During the first third of the trip, Stephen travels at a speed of 16 miles per hour for 15 minutes.
+- During the second third of the trip, Stephen travels at a speed of 12 miles per hour for 15 minutes.
+- During the last third of the trip, Stephen travels at a speed of 20 miles per hour for 15 minutes.
+
+Step 1: Calculate the distance traveled during the first third of the trip.
+Distance traveled in the first third = Speed × Time
+Distance traveled in the first third = 16 miles/hour × (15/60) hour = 4 miles
+
+Step 2: Calculate the distance traveled during the second third of the trip.
+Distance traveled in the second third = Speed × Time
+Distance traveled in the second third = 12 miles/hour × (15/60) hour = 3 miles
+
+Step 3: Calculate the distance traveled during the last third of the trip.
+Distance traveled in the last third = Speed × Time
+Distance traveled in the last third = 20 miles/hour × (15/60) hour = 5 miles
+
+Step 4: Calculate the total distance traveled by adding the distances from each third of the trip.
+Total distance = Distance in the first third + Distance in the second third + Distance in the last third
+Total distance = 4 miles + 3 miles + 5 miles = 12 miles
+
+Answer: 12 miles

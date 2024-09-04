@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+Let's first find out how much Geoff spent on sneakers on Monday. Since he spent $60 equally between two pairs of sneakers, he spent $30 on one pair. Since he spent 4 times as much on sneakers on Tuesday, he spent 4 * 30 = $120 on sneakers on Tuesday. On Wednesday, he'll spend 5 times as much as he did on Monday, so he'll spend 5 * 30 = $150 on sneakers on Wednesday.
+
+To find the total amount Geoff will spend on sneakers over these three days, we add the amounts spent on each day: $30 + $120 + $150 = $300.
+
+Answer: 300

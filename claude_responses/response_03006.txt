@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Gretchen's local ice cream shop offers 100 different flavors
+* 2 years ago, she was able to try 1/4 of the flavors
+* 1/4 of 100 is 25 flavors
+* Last year, she was able to try double the amount she tried 2 years ago
+* Double of 25 is 50 flavors
+* So, in total, she has tried 25 + 50 = 75 flavors
+* To have tried all 100 flavors, she needs to try the remaining 100 - 75 = 25 flavors
+
+Answer: 25

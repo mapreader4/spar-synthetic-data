@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the number of 4-pound rocks Jack needs is x.
+
+We know that Jack weighs 60 pounds and Anna weighs 40 pounds. So, if they want to be equal in weight, their total weight should be the same. 
+
+Let's set up an equation to represent this.
+
+60 + 4x = 40 + 4x
+
+We can subtract 40 from both sides of the equation to get:
+
+60 + 4x - 40 = 4x
+
+We can subtract 40 from both sides of the equation to get:
+
+20 = 4x
+
+We can divide both sides of the equation by 4 to get:
+
+20 / 4 = x
+
+x = 5
+
+So, Jack needs 5 four-pound rocks to make their weights equal. 
+
+Answer: 5

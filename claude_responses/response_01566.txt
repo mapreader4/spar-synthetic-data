@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The rent for the whole apartment is $1100 per month
+* The utilities for the whole apartment are $114 per month
+* The two roommates split the rent and utilities equally
+* One roommate pays $757 in total each month
+
+To find the total amount for groceries, we need to first calculate the total monthly expenses for the apartment.
+
+The total monthly expenses are:
+* Rent: $1100
+* Utilities: $114
+* Total: $1100 + $114 = $1214
+
+Since the two roommates split the expenses equally, each roommate's share of the rent and utilities is:
+* $1214 / 2 = $607
+
+We know that one roommate pays $757 in total each month. So, the amount they pay for groceries is:
+* $757 - $607 = $150
+
+Since the roommates split the grocery costs equally, the total amount spent on groceries for the whole apartment is:
+* $150 x 2 = $300
+
+Answer: $300

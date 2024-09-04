@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The recommended intake of added sugar for men is 150 calories per day.
+2) Mark's soft drink contained 2500 calories, 5% of which was from added sugar.
+   * 5% of 2500 calories = 0.05 * 2500 = 125 calories of added sugar from the soft drink.
+3) Mark then bought some bars of candy, each containing 25 calories of added sugar.
+4) Mark eventually exceeded the recommended intake of added sugar by 100%.
+   * The recommended intake is 150 calories.
+   * 100% more than 150 calories is 150 * 2 = 300 calories.
+   * So Mark consumed a total of 150 + 300 = 450 calories of added sugar.
+5) We need to find how many bars of candy Mark bought to reach the 450 calories of added sugar.
+   * We know he consumed 125 calories from the soft drink.
+   * So the remaining added sugar he consumed from the candy bars is 450 - 125 = 325 calories.
+   * Each candy bar has 25 calories of added sugar.
+   * 325 calories / 25 calories per bar = 13 bars of candy.
+
+Answer: 13

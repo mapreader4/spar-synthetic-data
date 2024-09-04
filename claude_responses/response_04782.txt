@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Henry had some games, and he gave 6 of them to Neil.
+2) After giving 6 games to Neil, Henry now has 4 times more games than Neil.
+3) Neil had 7 games at first.
+4) After receiving 6 games from Henry, Neil now has 7 + 6 = 13 games.
+5) Since Henry now has 4 times more games than Neil, and Neil has 13 games, Henry must have 4 * 13 = 52 games.
+6) At first, Henry had 52 + 6 = 58 games.
+
+Answer: 58

@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The original volume of the balloon is 500cm³.
+2) The balloon increases by two-fifths of its previous volume every hour when placed under water.
+3) After the first hour, the balloon's new volume will be:
+   Original volume + (2/5 * Original volume) = 500 + (2/5 * 500) = 500 + 200 = 700cm³
+4) After the second hour, the balloon's new volume will be:
+   Previous volume + (2/5 * Previous volume) = 700 + (2/5 * 700) = 700 + 280 = 980cm³
+
+Answer: 980cm³

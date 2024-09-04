@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. Brennan initially downloaded 800 files.
+2. He then deleted 70% of those 800 files, which means he deleted 0.7 * 800 = 560 files.
+3. That leaves him with 800 - 560 = 240 files.
+4. He then downloaded 400 more files.
+5. He realized that 3/5 of those 400 files were irrelevant, which means he deleted 3/5 * 400 = 240 files.
+6. That leaves him with 400 - 240 = 160 valuable files.
+
+Answer: 160

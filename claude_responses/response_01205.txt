@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) There are 20 skeletons in the graveyard.
+2) Half of these skeletons are adult women, so that's 10 adult women.
+3) The remaining 10 skeletons are split evenly between adult men and children, so 5 adult men and 5 children.
+4) An adult woman has 20 bones in their body.
+5) An adult man has 5 more bones than an adult woman, so 20 + 5 = 25 bones.
+6) A child has half as many bones as an adult woman, so 20 / 2 = 10 bones.
+
+Now, let's calculate the total number of bones in the graveyard:
+* 10 adult women x 20 bones = 200 bones
+* 5 adult men x 25 bones = 125 bones
+* 5 children x 10 bones = 50 bones
+
+Adding these up:
+200 + 125 + 50 = 375 bones
+
+Answer: 375

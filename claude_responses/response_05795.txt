@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Ariana bought a bunch of 40 flowers
+* 2/5 of the flowers were roses
+* To find the number of roses, we take 2/5 of 40:
+  * 2/5 * 40 = 80/5 = 16 roses
+* She also bought 10 tulips
+* The rest of the flowers were carnations
+* To find the number of carnations, we need to subtract the number of roses and tulips from the total number of flowers:
+  * Total flowers = 40
+  * Roses = 16
+  * Tulips = 10
+  * Carnations = 40 - 16 - 10 = 14
+
+Answer: 14 carnations.

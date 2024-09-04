@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+John drives 1000 miles a month.  That's 1000 * 12 = 12000 miles in a year.
+
+He needs an oil change every 3000 miles.  So, he needs 12000 / 3000 = 4 oil changes a year.
+
+He gets 1 free oil change a year.  So, he gets 4 - 1 = 3 oil changes in a year.
+
+An oil change costs $50.  So, John pays 3 * 50 = 150 a year.

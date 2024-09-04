@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The problem states that five less than three times the number of Doberman puppies plus the difference between the number of Doberman puppies and the number of Schnauzers is equal to 90.
+2) We are given that the number of Doberman puppies is 20.
+3) So, three times the number of Doberman puppies is 3 * 20 = 60.
+4) Five less than three times the number of Doberman puppies is 60 - 5 = 55.
+5) The difference between the number of Doberman puppies and the number of Schnauzers is 20 - the number of Schnauzers.
+6) So, the equation is: 55 + (20 - the number of Schnauzers) = 90.
+7) Solving for the number of Schnauzers, we get: 55 + 20 - the number of Schnauzers = 90
+8) Subtracting 55 and 20 from both sides, we get: the number of Schnauzers = 15.
+
+Answer: 15

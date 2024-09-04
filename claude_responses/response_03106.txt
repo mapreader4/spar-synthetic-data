@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On Friday, a shipment of 1000 kg of tomatoes arrived at the store.
+* On Saturday, Marta sold a total of 300 kg of tomatoes to customers.
+* On Sunday, the store was closed, causing 200 kg of tomatoes to rot and be thrown away.
+* On Monday, another shipment arrived, twice the size of the first one, which means 2000 kg of tomatoes.
+
+Now, let's calculate the total amount of tomatoes Marta had ready for sale on Tuesday:
+* Starting amount on Friday: 1000 kg
+* Minus amount sold on Saturday: 1000 kg - 300 kg = 700 kg
+* Minus amount rotted on Sunday: 700 kg - 200 kg = 500 kg
+* Plus new shipment on Monday: 500 kg + 2000 kg = 2500 kg
+
+Answer: 2500 kg

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sam spends 60 minutes studying Science
+* Sam spends 80 minutes studying Math
+* Sam spends 40 minutes studying Literature
+* To find the total time spent studying, we add up the time spent on each subject:
+* 60 minutes + 80 minutes + 40 minutes = 180 minutes
+* To convert minutes to hours, we divide the total minutes by 60:
+* 180 minutes / 60 minutes per hour = 3 hours
+
+Answer: 3

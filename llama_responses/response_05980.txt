@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of puppies.  There are 3 pregnant dogs, and each gives birth to 4 puppies, so the total number of puppies is 3 x 4 = 12.
+
+Each puppy needs 2 shots, and each shot costs $5.  So, the total cost for the shots is 2 x $5 = $10.  Since there are 12 puppies, the total cost for the shots for all the puppies is 12 x $10 = $120.
+
+Answer: 120

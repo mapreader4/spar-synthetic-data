@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The farmer has twice as many pigs as cows. Let's represent the number of cows as x. Then the number of pigs is 2x.
+2) The farmer has 4 more cows than goats. So the number of goats is x - 4.
+3) The total number of animals is 56. We can set up an equation:
+x + 2x + x + (x - 4) = 56
+5x - 4 = 56
+5x = 60
+x = 12
+4) Therefore, the number of goats is x - 4 = 12 - 4 = 8.
+
+Answer: 8

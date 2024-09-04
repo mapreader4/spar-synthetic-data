@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Joe initially has 200 data points.
+
+He adds 20% more data points, which is 20% of 200, which is 0.2 x 200 = 40. So, the new total number of data points is 200 + 40 = 240.
+
+Then, he reduces the data points by 1/4 of the total data points. 1/4 of 240 is 240/4 = 60. So, he reduces the data points by 60.
+
+The new total number of data points is 240 - 60 = 180.
+
+Answer: 180

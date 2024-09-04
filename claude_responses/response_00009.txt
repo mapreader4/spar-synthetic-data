@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Tina's hourly wage is $18.00.
+2) She works 10 hours per day, and she works for 5 days.
+3) For the first 8 hours of each day, she is paid her regular hourly wage of $18.00.
+4) For the remaining 2 hours of each day, she is eligible for overtime pay, which is her hourly wage ($18.00) plus 1/2 of her hourly wage ($9.00), which is $27.00 per hour.
+5) For the first 8 hours of each day, she earns $18.00 x 8 = $144.00.
+6) For the remaining 2 hours of each day, she earns $27.00 x 2 = $54.00.
+7) So for each day, she earns $144.00 + $54.00 = $198.00.
+8) For 5 days, she earns $198.00 x 5 = $990.00.
+
+Answer: $990

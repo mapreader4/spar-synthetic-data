@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Grace has 2 large beds on top and 2 medium beds on the bottom
+* The top large beds can each hold 4 rows of lettuce
+* Each row in the top large beds has 25 seeds
+* So, for each top large bed, the number of seeds is 4 rows x 25 seeds per row = 100 seeds
+* Since there are 2 top large beds, the total number of seeds in the top beds is 2 x 100 = 200 seeds
+* The medium beds can each hold 3 rows of lettuce
+* Each row in the medium beds has 20 seeds
+* So, for each medium bed, the number of seeds is 3 rows x 20 seeds per row = 60 seeds
+* Since there are 2 medium beds, the total number of seeds in the medium beds is 2 x 60 = 120 seeds
+* To find the total number of seeds Grace can plant in all four beds, we add the seeds in the top beds and the seeds in the medium beds:
+* Total seeds = 200 + 120 = 320 seeds
+
+Answer: 320

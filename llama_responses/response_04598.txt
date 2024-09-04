@@ -1,0 +1,39 @@
+Let's start by identifying the information given in the problem:
+
+* Women's t-shirts are $5 cheaper than men's t-shirts of the same color.
+* White men's t-shirts cost $20.
+* Black men's t-shirts cost $18.
+* There are 2 sectors, one for white t-shirts and one for black t-shirts.
+* Each sector has the same number of men and women, with a total of 40 employees.
+
+Let's assume that the number of men in each sector is x. Then, the number of women in each sector is also x, since the number of men and women is the same.
+
+The total number of employees is 40, so we can set up the equation:
+
+x + x = 40
+
+Combine like terms:
+
+2x = 40
+
+Divide both sides by 2:
+
+x = 20
+
+So, there are 20 men and 20 women in each sector.
+
+Now, let's find the cost of the t-shirts for each sector:
+
+White men's t-shirts: 20 x 20 = $400
+White women's t-shirts: 20 x 15 (since they are $5 cheaper) = $300
+Black men's t-shirts: 20 x 18 = $360
+Black women's t-shirts: 20 x 13 (since they are $5 cheaper) = $260
+
+Add up the costs for each sector:
+
+White sector: $400 + $300 = $700
+Black sector: $360 + $260 = $620
+
+Total cost: $700 + $620 = $1320
+
+Answer: 1320

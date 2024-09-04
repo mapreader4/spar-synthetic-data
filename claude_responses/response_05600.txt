@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Springfield has a population of 482,653 people.
+2) Greenville has 119,666 fewer people than Springfield.
+3) To find the population of Greenville, we subtract 119,666 from the population of Springfield:
+   482,653 - 119,666 = 362,987
+4) To find the total population of Springfield and Greenville, we add the two populations together:
+   482,653 + 362,987 = 845,640
+
+Answer: 845,640

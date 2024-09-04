@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Alex starts with 4 pens in the first week
+* Every week, her pen collection doubles
+* So, in the second week, she will have 4 x 2 = 8 pens
+* In the third week, she will have 8 x 2 = 16 pens
+* In the fourth week, she will have 16 x 2 = 32 pens
+* Jane will have 16 pens after a month
+* To find how many more pens Alex will have than Jane, we subtract Jane's pens from Alex's pens:
+* 32 pens - 16 pens = 16 pens
+
+Answer: 16

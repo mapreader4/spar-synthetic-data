@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The dish needs to be at 100 degrees before it is ready to eat.
+* The dish is currently at 20 degrees when Jenny places it in the oven.
+* The dish heats up 5 degrees every minute.
+* To find the number of minutes it will take to reach 100 degrees, we need to calculate the temperature increase required and divide it by the temperature increase per minute.
+* The temperature increase required is 100 degrees - 20 degrees = 80 degrees.
+* The temperature increase per minute is 5 degrees.
+* Therefore, the number of minutes it will take is 80 degrees / 5 degrees per minute = 16 minutes.
+
+Answer: 16

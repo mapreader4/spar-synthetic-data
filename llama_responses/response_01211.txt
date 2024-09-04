@@ -1,0 +1,14 @@
+Let's start by identifying the information we know:
+
+* Isabelle's job pays $3 per week.
+* She wants to go to a concert with her two brothers.
+* The ticket costs $20.
+* The brothers get a discount, and each of their tickets costs $10.
+* They have saved $5 between the two of them.
+* Isabelle has saved $5.
+
+Let's start by calculating how much Isabelle needs to work to earn the money for the tickets. We know that the ticket costs $20, and her brothers have saved $5. So Isabelle will need to earn the remaining $15. She earns $3 per week, so we can divide the remaining amount by the weekly wage to find the number of weeks she needs to work:
+
+$15 (remaining amount) / $3 (weekly wage) = 5 weeks
+
+So Isabelle needs to work for 5 weeks to earn the money for the tickets.

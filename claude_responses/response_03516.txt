@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The class needs to contribute $90 for the school activity
+* The class has $14 in class funds
+* The remaining amount needs to be divided among 19 students
+
+First, we need to calculate the remaining amount that needs to be contributed:
+* Total contribution required: $90
+* Class funds available: $14
+* Remaining amount to be contributed: $90 - $14 = $76
+
+Now, we need to divide the remaining amount of $76 among the 19 students:
+* Remaining amount: $76
+* Number of students: 19
+* Amount each student needs to contribute: $76 / 19 = $4
+
+Therefore, each student will need to contribute $4.
+
+Answer: 4

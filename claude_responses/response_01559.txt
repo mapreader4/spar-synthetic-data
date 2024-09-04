@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Maci needs 10 blue pens and 15 red pens.
+2) Each blue pen costs 10 cents.
+3) Each red pen costs twice as much as the blue pen, which is 20 cents.
+4) To calculate the total cost of the blue pens, we multiply the number of blue pens (10) by the cost of each blue pen (10 cents):
+   10 blue pens x 10 cents per pen = 100 cents = $1.00
+5) To calculate the total cost of the red pens, we multiply the number of red pens (15) by the cost of each red pen (20 cents):
+   15 red pens x 20 cents per pen = 300 cents = $3.00
+6) To get the total cost, we add the cost of the blue pens and the cost of the red pens:
+   $1.00 + $3.00 = $4.00
+
+Answer: $4.00

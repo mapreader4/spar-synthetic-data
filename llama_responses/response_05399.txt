@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Steve got an advance to pay for 100,000 copies. This means he has already received some money to help him pay for the production of his book. Let's call this amount A.
+
+2. He sells 1,000,000 copies of his book. This means he sells 900,000 copies more than the 100,000 copies he got the advance for.
+
+3. He gets $2 for each copy of the book sold. So, he earns 2 x 900,000 = $1,800,000 from the sales.
+
+4. His agent takes 10% of that. So, his agent takes 0.10 x 1,800,000 = $180,000.
+
+5. To find out how much money Steve keeps, we subtract the amount his agent took from the amount he earned. So, we subtract 180,000 from 1,800,000: 1,800,000 - 180,000 = 1,620,000.
+
+Answer: 1,620,000

@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+* Adlai has 2 dogs
+* Dogs have 4 legs each
+* So the 2 dogs have a total of 2 * 4 = 8 legs
+* Adlai also has 1 chicken
+* Chickens have 2 legs
+* So the 1 chicken has 2 legs
+* To find the total number of animal legs, we add the legs of the dogs and the chicken:
+* 8 legs (from the dogs) + 2 legs (from the chicken) = 10 legs
+
+Answer: 10

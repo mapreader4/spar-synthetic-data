@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. The original dandelion seed produces 50 fluffy, white seeds.
+2. Only half of these seeds land on good soil, so 50/2 = 25 seeds land on good soil.
+3. Each of these 25 seeds will grow into a new dandelion plant, just like the original plant.
+4. Each of these new plants will produce the same number of seeds as the original plant, which is 50.
+5. Since each of the 25 new plants will produce 50 seeds, the total number of seeds produced by these new plants will be 25 x 50 = 1250 seeds.
+
+Answer: 1250

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Rubble has 15 dollars in his pocket.
+
+He wants to buy 2 notebooks. Each notebook costs 4 dollars, so the total cost of the notebooks will be 2 x 4 = 8 dollars.
+
+He also wants to buy 2 pens. Each pen costs 1.50 dollars, so the total cost of the pens will be 2 x 1.50 = 3 dollars.
+
+In total, the total cost of the notebooks and pens will be 8 + 3 = 11 dollars.
+
+Rubble will be left with 15 - 11 = 4 dollars after the purchase.

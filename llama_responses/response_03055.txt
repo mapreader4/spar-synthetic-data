@@ -1,0 +1,5 @@
+Let's start by identifying the amount of vinegar that is initially present in the bottle. Since the vinegar evaporates 20% every year, the amount of vinegar left after 2 years is the initial amount minus 40%. So, the amount of vinegar left after 2 years is (100 - 40)% of the initial amount.
+
+Let's calculate this amount. If the initial amount is 100%, then the amount left after 2 years will be 100 - 40 = 60%.
+
+Answer: 60

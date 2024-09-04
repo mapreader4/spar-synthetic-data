@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's find the total number of hours worked by each employee:
+
+Fiona worked for 40 hours per week, so her total hours are 40 * 4 = 160 hours per month.
+John worked for 30 hours per week, so his total hours are 30 * 4 = 120 hours per month.
+Jeremy worked for 25 hours per week, so his total hours are 25 * 4 = 100 hours per month.
+
+Now, let's add up their total hours:
+160 + 120 + 100 = 280 hours.
+
+Now, let's find the total amount of money paid to the employees:
+280 hours * 20 = 5600.
+
+Answer: 5600

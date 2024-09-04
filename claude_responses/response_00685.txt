@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Half of the kids are going to soccer camp
+* 1/4 of the kids going to soccer camp are going in the morning
+* 750 kids are going to soccer camp in the afternoon
+
+First, let's find the number of kids going to soccer camp in the morning:
+* 1/4 of the kids going to soccer camp are going in the morning
+* Since 750 kids are going in the afternoon, and that's half of the total, the total number of kids going to soccer camp is 750 x 2 = 1500
+* 1/4 of 1500 is 375, so 375 kids are going to soccer camp in the morning
+
+Now, let's find the total number of kids in camp:
+* Half of the kids are going to soccer camp, so the other half are not
+* The number of kids going to soccer camp in the morning is 375
+* The number of kids going to soccer camp in the afternoon is 750
+* So the total number of kids in camp is 375 + 750 + 375 = 1500
+
+Answer: 1500

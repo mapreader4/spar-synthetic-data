@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of treats each child gets per hour. Since each house gives 3 treats per kid, and they visited 4 hours, each child gets 3 * 4 = 12 treats per hour.
+
+Now, we need to find out how many treats the 3 children get in total. Since they visited 5 houses, and each house gives 12 treats per hour, they get 12 * 5 = 60 treats in total.
+
+Answer: 60

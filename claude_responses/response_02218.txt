@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+
+1. We have two types of rattlesnakes: Eastern and Western.
+2. Eastern rattlesnakes have 6 segments in their tails.
+3. Western rattlesnakes have 8 segments in their tails.
+4. To calculate the percentage difference in their tail size, we need to find the difference in the number of segments and express it as a percentage of the Western rattlesnake's tail size.
+5. The difference in the number of segments is 8 - 6 = 2.
+6. The Western rattlesnake's tail size is 8 segments.
+7. The percentage difference would be (2 / 8) * 100 = 25%.
+
+Answer: 25%

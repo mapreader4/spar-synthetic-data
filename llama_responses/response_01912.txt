@@ -1,0 +1,23 @@
+Let's start by identifying the information given in the problem:
+
+* Each truck can carry a load of no more than 2,000 pounds of cargo.
+* Some boxes weigh 10 pounds each, and some boxes weigh 40 pounds each.
+* The customer has ordered equal quantities of both the lighter and heavier products.
+
+Let's say the number of lighter boxes (10-pound boxes) is x. Then, the number of heavier boxes (40-pound boxes) is also x.
+
+The total weight of the lighter boxes is 10x pounds, and the total weight of the heavier boxes is 40x pounds.
+
+The total weight of the cargo in each truck is 2,000 pounds. The total weight of the lighter and heavier boxes is 10x + 40x = 50x pounds.
+
+We can set up an equation to represent the total weight of the cargo in each truck:
+
+50x = 2000
+
+To solve for x, we can divide both sides by 50:
+
+x = 2000 / 50
+
+x = 40
+
+So, Steven can ship 40 boxes of products in each delivery.

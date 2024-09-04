@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Jack has a grove with 4 trees by 5 trees, so the total number of trees is 4 x 5 = 20 trees.
+2) It takes 6 minutes to clean each tree.
+3) With help, it only takes half as long, so it takes 3 minutes to clean each tree.
+4) To find the total time spent cleaning the trees, we multiply the number of trees (20) by the time it takes to clean each tree (3 minutes):
+20 trees x 3 minutes/tree = 60 minutes
+5) To convert this to hours, we divide the total minutes by 60:
+60 minutes / 60 minutes/hour = 1 hour
+
+Answer: 1 hour

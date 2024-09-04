@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+
+1. Mary collected twice as many red marbles as Jenny, so Mary collected 2 * 30 = 60 red marbles.
+2. Anie collected 20 more red marbles than Mary, so Anie collected 60 + 20 = 80 red marbles.
+3. Anie collected twice the number of blue marbles Jenny collected, so Anie collected 2 * 25 = 50 blue marbles.
+4. Mary collected half the number of blue marbles collected by Anie, so Mary collected 50 / 2 = 25 blue marbles.
+
+Now, let's find the total number of blue marbles collected by the friends together:
+Total blue marbles = Jenny's blue marbles + Anie's blue marbles + Mary's blue marbles
+Total blue marbles = 25 + 50 + 25 = 100
+
+Answer: 100

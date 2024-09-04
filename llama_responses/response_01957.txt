@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by first finding the cost of each newspaper. If he buys them for 75% less than the price at which he sells them, that means he buys them for 25% of the selling price. So, let's let the selling price be x. Then, he buys them for 0.25x.
+
+The selling price is 2 dollars. So, 0.25x = 2. This means x = 8.
+
+Now, we need to find the cost of each newspaper. 80% of the selling price is 0.8x. So, 0.8x = 0.8(8) = 6.4.
+
+The cost of each newspaper is 2 - 6.4 = 4.4.
+
+Now, let's find the total cost of all the newspapers. 500 newspapers at a cost of 4.4 each is 500 * 4.4 = 2200.
+
+The total revenue is 500 * 2 = 1000. The profit is 1000 - 2200 = - 1200.
+
+Answer: -1200.

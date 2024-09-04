@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Pete has to take a 10-minute walk down to the train station.
+2) Then he has to board a 1hr 20-minute train to LA.
+3) He cannot get to LA later than 0900 hours (9:00 AM).
+4) So, the latest time he can arrive at LA is 0900 hours.
+5) Subtracting the 1hr 20-minute train ride from 0900 hours, we get 0740 hours (7:40 AM) as the latest time he can board the train.
+6) Subtracting the 10-minute walk from 0740 hours, we get 0730 hours (7:30 AM) as the latest time he should leave his house.
+
+Answer: 0730 hours

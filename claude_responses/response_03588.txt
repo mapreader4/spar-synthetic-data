@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+* The number of bedbugs triples each day
+* After 4 days, there were 810 bedbugs
+* Let's call the initial number of bedbugs x
+* After 1 day, the number of bedbugs would be 3x
+* After 2 days, the number of bedbugs would be 3 * 3x = 9x
+* After 3 days, the number of bedbugs would be 3 * 9x = 27x
+* After 4 days, the number of bedbugs would be 3 * 27x = 81x
+* We know that after 4 days, there were 810 bedbugs, so 81x = 810
+* Solving for x, we get x = 10
+* Therefore, the group started with 10 bedbugs.
+
+Answer: 10

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of each type of bird.
+
+* There are 3 times as many cardinals as bluebirds.
+* There are half as many swallows as bluebirds, so there are 2 swallows.
+* The total number of bluebirds is 3 * 2 = 6 bluebirds.
+* The total number of cardinals is 3 * 3 = 9 cardinals.
+* The total number of swallows is 2.
+* The total number of birds is the sum of the number of bluebirds and cardinals and swallows.
+* The total number of birds is 6 (bluebirds) + 9 (cardinals) + 2 (swallows) = 17.
+
+Answer: 17

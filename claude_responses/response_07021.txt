@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The road is 3 miles long
+* A car comes down the road every 20 minutes
+* We want to know how many hours have passed once 30 cars have come down the road
+
+First, let's calculate how long it takes for 30 cars to come down the road:
+* 1 car comes down every 20 minutes
+* 30 cars will take 30 * 20 = 600 minutes
+
+Now, we need to convert 600 minutes to hours:
+* 600 minutes / 60 minutes per hour = 10 hours
+
+Therefore, the answer is:
+Answer: 10 hours

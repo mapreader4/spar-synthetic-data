@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+We are told that 9 members of the crafts club are making 2 necklaces each. So, the total number of necklaces being made is 9 x 2 = 18.
+
+Each necklace takes 50 beads. So, the total number of beads needed is 18 x 50 = 900.
+
+Answer: 900

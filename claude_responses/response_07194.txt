@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jamir swims 20 more meters per day than Sarah
+* Sarah swims twice the distance Julien swims
+* Julien swims 50 meters per day
+
+First, let's find out how much Sarah swims per day:
+* Since Sarah swims twice the distance Julien swims, and Julien swims 50 meters, Sarah swims 2 x 50 = 100 meters per day.
+
+Next, let's find out how much Jamir swims per day:
+* Jamir swims 20 more meters per day than Sarah, so Jamir swims 100 + 20 = 120 meters per day.
+
+Now, let's calculate the combined distance for the three of them for the whole week (7 days):
+* Julien swims 50 meters per day, so for the week he swims 50 x 7 = 350 meters.
+* Sarah swims 100 meters per day, so for the week she swims 100 x 7 = 700 meters.
+* Jamir swims 120 meters per day, so for the week he swims 120 x 7 = 840 meters.
+* The combined distance for the three of them for the whole week is 350 + 700 + 840 = 1,890 meters.
+
+Answer: 1,890

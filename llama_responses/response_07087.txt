@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total hours Sangita has already flown: 50 + 9 + 121 = 180 hours.
+
+Now, let's find the total number of months in 6 months. There are 6 months in a year, so 6 * 30 = 180 days in 6 months.
+
+To find the number of hours Sangita needs to fly per month, we need to divide the total hours she needs to fly by the total number of days in 6 months. 
+
+Let's subtract the total hours she has already flown from the total hours she needs to fly: 1500 - 180 = 1320 hours.
+
+Now, we divide the total hours she needs to fly by the total number of days in 6 months: 1320 ÷ 60 = 22 hours.
+
+Answer: 22

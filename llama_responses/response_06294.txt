@@ -1,0 +1,9 @@
+Let's start by letting $x$ be Finley's age. We know that Roger's age is 5 more than twice Jill's age, so we can write $x - 5 = 2(Jill's age)$. We are given that Jill is 20 years old now, so $x - 5 = 2(20)$. We need to solve for $x$.
+
+$x = 20 + 5 = 25$
+
+Now, we are told that in 15 years, their age difference will be 30 years less than Finley's age. So we can write $x - 15 = 30 + Finley's age$. Since we know $x = 25$, we can substitute that in, we get $25 - 15 = 10 + Finley's age$. We need to solve for Finley's age.
+
+Finley's age = 35
+
+Answer: 35

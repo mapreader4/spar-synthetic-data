@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The parking lot is 400 feet by 500 feet, which means the total area of the parking lot is 400 feet * 500 feet = 200,000 square feet.
+2) However, only 80% of the parking lot is useable for parking. So, the useable area is 200,000 square feet * 0.8 = 160,000 square feet.
+3) It takes 10 square feet to park a car. 
+4) To find the number of cars that can be parked, we divide the useable area (160,000 square feet) by the area required for each car (10 square feet).
+5) 160,000 square feet / 10 square feet per car = 16,000 cars.
+
+Answer: 16,000

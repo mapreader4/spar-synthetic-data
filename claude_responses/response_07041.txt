@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Elida has 5 letters
+2) Adrianna has 2 less than twice the number of letters Elida has
+   - Twice the number of letters Elida has is 2 * 5 = 10
+   - 2 less than 10 is 8
+   - Therefore, Adrianna has 8 letters
+3) The average number of letters in both names is (5 + 8) / 2 = 6.5
+4) 10 times the average number of letters in both names is 10 * 6.5 = 65.
+
+Answer: 65

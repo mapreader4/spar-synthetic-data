@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Mrs. Johnson's class raised $2300, which is twice the amount that Mrs. Sutton's class raised.
+   * So, Mrs. Sutton's class raised $2300 / 2 = $1150.
+2) Mrs. Sutton's class raised 8 times less than Miss Rollin's class.
+   * So, Miss Rollin's class raised $1150 * 8 = $9200.
+3) Miss Rollin's class raised a third of the total amount raised by the school.
+   * So, the total amount raised by the school is $9200 * 3 = $27,600.
+4) 2% will be deducted for administration fees.
+   * So, the final amount raised is $27,600 - (2% of $27,600) = $27,600 - $552 = $27,048.
+
+Answer: $27,048

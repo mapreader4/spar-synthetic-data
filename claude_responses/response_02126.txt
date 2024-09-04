@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Adam teaches 50 students per year, except for the first year where he teaches 40 students.
+* We want to find out how many students he will teach in 10 years.
+
+To calculate the total number of students Adam will teach in 10 years, we need to:
+1. Calculate the number of students he will teach in the first year (40 students)
+2. Calculate the number of students he will teach in the remaining 9 years (50 students per year)
+3. Add the two numbers together to get the total.
+
+Step 1: 40 students in the first year.
+Step 2: 50 students per year for the remaining 9 years, so 50 x 9 = 450 students.
+Step 3: Total students taught = 40 + 450 = 490 students.
+
+Answer: 490 students.

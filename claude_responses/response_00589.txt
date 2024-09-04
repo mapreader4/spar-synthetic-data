@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The library has 7 rectangular tables.
+2) Each rectangular table seats 10 pupils.
+3) So the total number of pupils that can be seated at the rectangular tables is 7 * 10 = 70 pupils.
+4) The remaining number of pupils that need to be seated is 90 - 70 = 20 pupils.
+5) Each square table seats 4 pupils.
+6) To find the number of square tables needed, we divide the remaining number of pupils (20) by the number of pupils per square table (4).
+7) 20 / 4 = 5 square tables.
+
+Answer: 5

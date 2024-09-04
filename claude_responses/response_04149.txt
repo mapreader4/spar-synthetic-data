@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The first level has 90 parking spaces.
+2. The second level has 8 more parking spaces than the first level, so it has 90 + 8 = 98 parking spaces.
+3. The third level has 12 more parking spaces than the second level, so it has 98 + 12 = 110 parking spaces.
+4. The fourth level has 9 fewer parking spaces than the third level, so it has 110 - 9 = 101 parking spaces.
+
+Now, to find the total number of parking spaces in the garage, we add up the spaces on each level:
+90 + 98 + 110 + 101 = 399 total parking spaces.
+
+Since 100 cars are already parked, the number of cars that can still be accommodated is:
+399 - 100 = 299 cars.
+
+Answer: 299

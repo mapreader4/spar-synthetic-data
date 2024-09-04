@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pieces that Trevor was able to place. Trevor placed 105 pieces of the puzzle.
+
+Joe was able to place three times the number of puzzle pieces as Trevor, so Joe placed 3 x 105 = 315 pieces.
+
+Since Trevor and Joe placed 75 + 105 + 315 = 495 pieces together, and the total number of pieces in the puzzle is 500, we can subtract the number of pieces they placed from the total to find the number of pieces that are missing.
+
+500 - 495 = 5
+
+Answer: 5

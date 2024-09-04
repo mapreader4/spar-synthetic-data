@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The current record for most consecutive ropes jumped is 54,000
+* Mark can jump 3 times per second
+* To find the number of hours needed, we need to first find the total number of seconds it would take to jump 54,000 ropes
+* 54,000 ropes / 3 jumps per second = 18,000 seconds
+* Now, to convert seconds to hours, we divide 18,000 seconds by 3,600 seconds per hour (since there are 3,600 seconds in an hour)
+* 18,000 seconds / 3,600 seconds per hour = 5 hours
+
+Answer: 5 hours

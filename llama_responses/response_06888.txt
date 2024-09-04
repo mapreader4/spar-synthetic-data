@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem. We know that the supermarket sold 54 pints of strawberries and made $216, and that this amount is $108 less than they would have made selling the same number of pints without the sale. This means that the amount they would have made without the sale is $216 + $108, which is $324.
+
+Now, let's find the cost of a pint of strawberries when not on sale. We know that the supermarket would have made $324 without the sale, but they actually made $216. So, the difference is $324 - $216 = $108. This difference is the amount they lost due to the sale.
+
+To find the cost of a pint of strawberries when not on sale, we can divide the difference by the number of pints sold, which is 54. $108 ÷ 54 = $2. So, a pint of strawberries costs $2 when not on sale.
+
+Answer: 2

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say Alvin has x coconut trees.
+
+Let's say Alvin needs $90 to buy something. He wants to know how many coconut trees he needs to harvest to get $90.
+
+We know that 1 coconut can be sold for $3. So, to get $90, Alvin needs 30 coconuts.
+
+We know that each coconut tree yields 5 coconuts. So, to get 30 coconuts, Alvin needs to harvest 6 coconut trees.
+
+Answer: 6

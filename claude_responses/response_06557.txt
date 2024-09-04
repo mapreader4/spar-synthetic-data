@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. The fisherman caught 32 bass.
+2. The number of trout is 1/4 as many as the number of bass. So, the number of trout is 32 * 1/4 = 8.
+3. The number of blue gill is double the number of bass. So, the number of blue gill is 32 * 2 = 64.
+
+Now, to find the total number of fish caught, we add up the number of bass, trout, and blue gill:
+32 + 8 + 64 = 104
+
+Answer: 104

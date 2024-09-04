@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Greg had 20 granola bars initially.
+Step 2: He set aside one for each day of the week, which is 7 bars.
+Step 3: He traded 3 bars to Pete for a soda.
+Step 4: This leaves Greg with 20 - 7 - 3 = 10 bars.
+Step 5: He gave the remaining 10 bars to his 2 sisters.
+Step 6: The sisters split the 10 bars evenly.
+Step 7: 10 bars divided by 2 is 5.
+
+Answer: 5

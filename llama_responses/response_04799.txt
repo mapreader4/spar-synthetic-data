@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we need to find the total cost of the seminar fee for the 10 teachers. The regular seminar fee is $150, so the total cost would be:
+
+10 x $150 = $1500
+
+Then, we need to apply the 5% discount. To find the discount, we multiply the total cost by the discount percentage:
+
+$1500 x 0.05 = $75
+
+Subtract the discount from the total cost:
+
+$1500 - $75 = $1425
+
+Next, we need to add the $10 food allowance for each of the 10 teachers. So, we multiply the number of teachers by the food allowance:
+
+10 x $10 = $100
+
+Finally, we add the total cost of the seminar fee and the food allowance:
+
+$1425 + $100 = $1525
+
+Answer: 1525

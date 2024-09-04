@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 6 times as many lab coats as uniforms in the lab.
+2) The number of lab techs is half of the number of uniforms.
+3) There are 12 uniforms in the lab.
+4) Since the number of lab techs is half the number of uniforms, and there are 12 uniforms, the number of lab techs is 12 / 2 = 6.
+5) If there are 6 times as many lab coats as uniforms, and there are 12 uniforms, then the number of lab coats is 6 * 12 = 72.
+6) The lab techs share the coats and uniforms equally among them, so each lab tech gets 72 / 6 = 12 coats and 12 / 6 = 2 uniforms.
+
+Answer: Each lab tech gets 12 coats and 2 uniforms.

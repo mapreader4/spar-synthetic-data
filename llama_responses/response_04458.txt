@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+The business is open from 4 pm to 10 pm on Monday to Friday, which is 6 hours. Then, it is open from 6 pm to 10 pm on weekends, which is 4 hours. So, the total hours the business is open in a week is:
+
+6 hours + 4 hours = 10 hours.
+
+Answer: 10

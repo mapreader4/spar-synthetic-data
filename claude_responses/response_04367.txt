@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The board game has 48 spaces from the starting space to the winning end space.
+* On the first turn, Susan moves forward 8 spaces.
+* On the second turn, she moves 2 spaces, but then is sent back 5 spaces.
+   - This means her net movement on the second turn is -3 spaces.
+* On the third turn, she moves forward 6 more spaces.
+* To calculate the total number of spaces she has moved so far:
+   - First turn: +8 spaces
+   - Second turn: -3 spaces
+   - Third turn: +6 spaces
+   - Total: 8 - 3 + 6 = 11 spaces
+* Since the game has 48 spaces total, and she has moved 11 spaces so far, the number of spaces she has left to move to reach the ending space is:
+   - 48 - 11 = 37 spaces
+
+Answer: 37

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. Oliver starts with a bathtub that can hold 120 ounces of water. He fills it 14 times with the 120-ounce buckets. So, the total amount of water he puts in the bathtub is:
+
+14 * 120 = 1680 ounces
+
+2. He then takes away 3 buckets (3 * 120 = 360 ounces) to reach the level he wants. So, the amount of water he uses is:
+
+1680 - 360 = 1320 ounces
+
+3. Finally, he takes a bath every day, so to find out how much water he uses in a week, we need to multiply the amount of water he uses in one bath by the number of baths he takes in a week. Since he takes a bath every day, the number of baths he takes in a week is 7.
+
+1320 ounces / 7 = 189 ounces
+
+Answer: 189

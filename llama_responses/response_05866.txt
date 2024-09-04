@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of people who will be attending the graduation ceremony. There are 50 graduates, and each graduate can bring 2 parents, so that's 50 x 2 = 100 people. Additionally, there will be 20 teachers and half as many administrators, which is 20 / 2 = 10 administrators. So, the total number of people attending the ceremony is 100 (graduates) + 10 (administrators) = 110.
+
+To find the number of chairs that must be prepared for the ceremony, we need to add the total number of people to 1. So, the answer is:
+
+Answer: 111.

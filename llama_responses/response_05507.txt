@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first identify the information given: John's weight bench can support 1000 pounds.  He wants to stay 20% under that weight for safety.  This means he wants to be 20% less than 1000 pounds.  20% of 1000 is 20/100 * 1000 = 200 pounds.  So, he wants to be 1000 - 200 = 800 pounds or less.
+
+Now, we need to find out how much weight he can put on the bar.  Since he wants to be 800 pounds or less, he can put 800 pounds on the bar.
+
+Answer: 800

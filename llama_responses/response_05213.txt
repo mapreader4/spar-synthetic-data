@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Initially, Jon can throw a fastball at 80 miles per hour.
+
+After the first 4 weeks of training, he can throw a fastball at 80 mph.
+
+After the second 4 weeks of training, he can throw a fastball at 80 mph + some amount of speed gained.
+
+After the third 4 weeks of training, he can throw a fastball at 80 mph + 2x the amount of speed gained in the first 4 weeks.
+
+After the fourth 4 weeks of training, he can throw a fastball at 80 mph + 3x the amount of speed gained in the first 4 weeks.
+
+The problem states that after the last 4 weeks of training, Jon can throw a ball 20% faster than he could before the last 4 weeks of training. This means that the speed gained in the last 4 weeks is 20% of the initial speed, which is 0.20 x 80 = 16 mph.
+
+Since the speed gained in the last 4 weeks is equal to the total speed gained in all 4 weeks, we can set up the equation:
+
+16 = 4x the amount of speed gained in each week
+
+To find the speed gained per week, we can divide both sides of the equation by 4:
+
+16 ÷ 4 = x
+
+x = 4
+
+So, Jon gained 4 mph of speed per week.

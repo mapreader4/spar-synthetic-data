@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start with the number of jokes Jessy told: 11. Let's represent this as J. 
+
+Next, let's find out how many jokes Alan told: 7. Let's represent this as A.
+
+Now, let's find out how many jokes they would tell if they doubled the number of jokes they told this past Saturday. To do this, we multiply the number of jokes they told this past Saturday by 2: J + 2A = 11 + 2 * 7 = 11 + 14 = 25.
+
+So, to find the total number of jokes they told, we add the number of jokes Jessy told, J, with the number of jokes Alan told, A: J + A = 11 + 7 = 18.
+
+So, the total number of jokes they told so far is 11 + 7 = 18.

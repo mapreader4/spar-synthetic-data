@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* On weekdays, Lolita drinks 3 boxes of milk per day
+* There are 5 weekdays in a week
+* So, on weekdays, Lolita drinks 3 boxes x 5 days = 15 boxes of milk
+
+* On Saturdays, Lolita drinks twice the number of boxes of milk than on weekdays
+* So, on Saturdays, Lolita drinks 3 boxes x 2 = 6 boxes of milk
+
+* On Sundays, Lolita drinks thrice the number of boxes of milk than on weekdays
+* So, on Sundays, Lolita drinks 3 boxes x 3 = 9 boxes of milk
+
+* To calculate the total number of boxes of milk Lolita drinks per week, we add the weekday, Saturday, and Sunday totals:
+* 15 boxes (weekdays) + 6 boxes (Saturday) + 9 boxes (Sunday) = 30 boxes
+
+Answer: 30

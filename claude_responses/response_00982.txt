@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Frank bakes 2 trays of cookies per day
+* Each tray makes 12 cookies
+* So, in one day, Frank bakes 2 * 12 = 24 cookies
+* Frank bakes for 6 days
+* So, the total number of cookies baked is 24 * 6 = 144 cookies
+* Frank eats 1 cookie per day for 6 days, so he eats 6 cookies
+* Ted eats 4 cookies on the sixth day
+* So, the total number of cookies eaten is 6 + 4 = 10 cookies
+* The total number of cookies baked is 144
+* The total number of cookies eaten is 10
+* Therefore, the number of cookies left when Ted leaves is 144 - 10 = 134 cookies
+
+Answer: 134

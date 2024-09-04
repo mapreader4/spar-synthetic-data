@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+1) The bridge can hold up to 100 kilograms at once.
+2) Kelly weighs 34 kilograms, which is 15% less than Megan.
+   - To find Megan's weight, we can use the following equation:
+   - Megan's weight = Kelly's weight / (1 - 0.15) = 34 / (1 - 0.15) = 40 kilograms
+3) Mike weighs 5 kilograms more than Megan.
+   - Mike's weight = Megan's weight + 5 = 40 + 5 = 45 kilograms
+4) The total weight of the three children is:
+   - Kelly's weight + Megan's weight + Mike's weight = 34 + 40 + 45 = 119 kilograms
+5) The bridge can only hold up to 100 kilograms.
+6) The amount that the three children weigh too much to cross the bridge is:
+   - 119 kilograms - 100 kilograms = 19 kilograms
+
+Answer: 19 kilograms

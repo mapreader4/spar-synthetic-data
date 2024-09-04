@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Chastity made 12 angel food cakes
+* She placed the cakes in boxes and stacked them on the hood of her car
+* A black crow came and knocked over half of the stack
+* When Chastity returned, she picked up half of the fallen cakes, which were not damaged
+* The rest of the cakes were destroyed
+
+First, let's calculate how many cakes were in the stack that the crow knocked over:
+* Half of the original 12 cakes = 12 / 2 = 6 cakes
+
+Next, let's calculate how many of the fallen cakes Chastity was able to pick up:
+* Half of the 6 fallen cakes = 6 / 2 = 3 cakes
+
+Finally, we can calculate the number of cakes that were destroyed:
+* Total cakes in the stack that fell = 6
+* Cakes that Chastity was able to pick up = 3
+* Cakes that were destroyed = 6 - 3 = 3
+
+Answer: 3 cakes were destroyed.

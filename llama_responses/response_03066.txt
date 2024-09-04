@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say Martin had x fruits initially.
+
+After eating half of the fruits, he is left with x/2 fruits.
+
+He has 50 oranges now, which is twice as many as the limes, so we can set up the equation:
+
+50 = 2 * limes
+
+So, the number of limes is 25.
+
+Now, since Martin had twice as many oranges as limes, he must have 50 oranges initially, as 50 is twice 25.
+
+Answer: 50

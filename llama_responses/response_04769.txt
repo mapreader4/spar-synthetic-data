@@ -1,0 +1,5 @@
+Let's start by identifying the number of episodes in each series. Each series has 12 and 14 seasons, respectively. The total number of episodes is 12 + 14 = 26. Since Corey lost two episodes from each season for both series, he lost 2 * 26 = 52 episodes in total.
+
+Each season has 16 episodes, so the total number of episodes is 16 * 26 = 416. After losing 52 episodes, the remaining number of episodes is 416 - 52 = 364.
+
+Answer: 364

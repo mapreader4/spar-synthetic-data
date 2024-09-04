@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Sarah starts with a certain amount of money.
+2) She buys 2 toy cars for $11 each, so that's 2 * $11 = $22 for the toy cars.
+3) She then buys a scarf for $10 for her mother.
+4) Next, she buys a beanie for $14 for her brother.
+5) After buying the beanie, she has $7 remaining.
+6) To find the total amount of money she started with, we add up the amounts she spent:
+   - $22 (toy cars)
+   - $10 (scarf)
+   - $14 (beanie)
+   - $7 (remaining)
+7) The total amount is $22 + $10 + $14 + $7 = $53.
+
+Answer: $53

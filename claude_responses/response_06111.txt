@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tara drives for two days, stopping to fill up her gas tank each time from empty to full when she needs it.
+* She visits 4 different gas stations in total.
+* The prices of gas at each station are $3, $3.50, $4, and $4.50 respectively.
+* Tara's car has a 12-gallon tank.
+
+To calculate the total amount Tara spends on gas, we need to multiply the price of gas at each station by the number of gallons her car can hold (12 gallons).
+
+* At the first station, the price of gas is $3 per gallon, so she spends 12 gallons x $3 = $36.
+* At the second station, the price of gas is $3.50 per gallon, so she spends 12 gallons x $3.50 = $42.
+* At the third station, the price of gas is $4 per gallon, so she spends 12 gallons x $4 = $48.
+* At the fourth station, the price of gas is $4.50 per gallon, so she spends 12 gallons x $4.50 = $54.
+
+Now, we add up the total amount spent at each station:
+$36 + $42 + $48 + $54 = $180
+
+Answer: $180

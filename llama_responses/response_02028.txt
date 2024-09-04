@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of ornamental rings Eliza has initially. Since she buys 200, she has 200 ornamental rings initially.
+
+Then, she sells 3/4 of the total stock. 3/4 of 200 is 150, so after selling 3/4 of the stock, she has 200 - 150 = 50 ornamental rings left.
+
+Then, she buys 300 more ornamental rings. So now she has 50 + 300 = 350 ornamental rings.
+
+After selling 150 of the total stock, she has 350 - 150 = 200 ornamental rings.
+
+So, the total number of ornamental rings remaining in the store is 200.

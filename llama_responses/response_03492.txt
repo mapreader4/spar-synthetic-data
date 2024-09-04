@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first identify the values of the bills Samuel has:
+
+* $5 bills: 5
+* $10 bills: 1
+* $20 bills: 4
+
+Now, let's find the total value of the $10 bills: $10.
+
+Samuel has 1 $10-bill, which is $10.
+
+Next, let's find the total value of the $20 bills: $20 * 4 = $80.
+
+Now, let's add the values of the $10 bills and the $20 bills to find the total value of all the bills: $10 + $80 = $90.
+
+Samuel has a total of $90 in his wallet.
+
+Answer: 90

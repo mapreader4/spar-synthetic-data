@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Tom has 10 quarters. Each quarter is 25 cents, so 10 quarters is 10 * 25 = 250 cents. Next, he has 3 dimes. Each dime is 10 cents, so 3 dimes is 3 * 10 = 30 cents. Next, he has 4 nickels. Each nickel is 5 cents, so 4 nickels is 4 * 5 = 20 cents. Finally, he has 200 pennies. Each penny is 1 cent, so 200 pennies is 200 cents.
+
+Now, let's add up the values:
+
+250 cents + 30 cents + 20 cents + 200 cents = 500 cents.
+
+In dollars, 500 cents is 5 dollars. So, the answer is:
+
+Answer: 5

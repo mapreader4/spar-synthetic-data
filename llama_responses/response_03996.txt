@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Buzz bought a pizza with 78 slices.
+* Buzz decided to share it with the waiter in the ratio of 5:8.
+* Buzz's ratio is 5, so it means that for every 5 slices, Buzz will eat 8 slices.
+
+To find the number of slices of pizza that the waiter ate, we need to multiply the total number of slices (78) by the ratio of 5:8. 
+
+Let's do that:
+
+78 * 5 = 390
+
+Now, we need to find the number of slices that the waiter ate. To do this, we need to divide the total number of slices by 5:
+
+390 ÷ 5 = 78
+
+So, the waiter ate 78 - 78 = 0 slices of pizza.
+
+Answer: 0

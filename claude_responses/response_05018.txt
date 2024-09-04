@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* A carton contains 12 boxes
+* Each box has 10 packs of cheese cookies
+* So, each carton contains 12 boxes x 10 packs per box = 120 packs of cheese cookies
+* A dozen (12) cartons cost $1440
+* To find the price of a single pack of cheese cookies, we need to divide the total cost ($1440) by the total number of packs (12 cartons x 120 packs per carton = 1440 packs)
+* $1440 / 1440 packs = $1 per pack
+
+Answer: 1

@@ -1,0 +1,17 @@
+Let's break this problem down step by step!
+
+First, we need to find out how many times Jimmy needs to fill the bucket to fill the entire pool. The pool holds 84 gallons of water, and the bucket holds 2 gallons. To find out how many times Jimmy needs to fill the bucket, we can divide the total capacity of the pool (84 gallons) by the capacity of the bucket (2 gallons):
+
+84 gallons (pool capacity) ÷ 2 gallons (bucket capacity) = 42
+
+So, Jimmy needs to fill the bucket 42 times to fill the entire pool.
+
+Next, we need to calculate the total time it takes Jimmy to fill the pool. Since it takes 20 seconds to fill the bucket and carry it to the pool, we can multiply the number of times Jimmy needs to fill the bucket (42) by the time it takes to fill and carry one bucket (20 seconds):
+
+42 times (bucket fills) × 20 seconds (per bucket fill) = 840 seconds
+
+Now, we need to convert the total time from seconds to minutes. There are 60 seconds in 1 minute, so we can divide the total time in seconds by 60:
+
+840 seconds ÷ 60 = 14 minutes
+
+Answer: 14

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by letting the number of lines for the first character be x.
+
+The second character has eight more lines than the first character, so the number of lines for the second character is x + 8.
+
+The third character has two lines, so the number of lines for the third character is 2.
+
+The second character has six more than three times the number of lines the third character has, so we can set up the equation 2x + 8 = 6 + 3 * 2. We can simplify this equation to get 2x + 8 = 6 + 6, and then solve for x. Subtract 8 from both sides to get 2x = -2. Multiply both sides by 1/2 to get x = -1.
+
+The first character has 1 more line than the second character, so the number of lines for the first character is -1 + 8 = 7. Therefore, the first character has 7 lines.

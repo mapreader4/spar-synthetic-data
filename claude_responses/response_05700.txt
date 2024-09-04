@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* Initially, there were 200 people at the town hall.
+* 100 people decided to have a snack.
+* Then, 20 new outsiders joined in to have a snack, so the total number of snack eaters is now 100 + 20 = 120.
+* Half of these snack eaters got full and left, so the number of snack eaters is now 120 / 2 = 60.
+* 10 new outsiders came to have snacks, so the total number of snack eaters is now 60 + 10 = 70.
+* 30 more snack eaters got their fill and left, so the number of snack eaters is now 70 - 30 = 40.
+* Finally, half of the remaining snack eaters left later on, so the number of snack eaters left is 40 / 2 = 20.
+
+Answer: 20

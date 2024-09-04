@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+Jo-Bob pulls the lift chain for 15 minutes, causing the balloon to rise at a rate of 50 feet per minute. This means the balloon rises a total of:
+
+15 minutes x 50 feet/minute = 750 feet
+
+So, the balloon reaches an elevation of 750 feet.
+
+Then, Jo-Bob releases the rope for 10 minutes, causing the balloon to descend at a rate of 10 feet per minute. This means the balloon descends a total of:
+
+10 minutes x 10 feet/minute = 100 feet
+
+So, the balloon's elevation decreases by 100 feet, making it:
+
+750 feet - 100 feet = 650 feet
+
+Then, Jo-Bob pulls the lift chain again for 15 minutes, causing the balloon to rise at a rate of 50 feet per minute. This means the balloon rises a total of:
+
+15 minutes x 50 feet/minute = 750 feet
+
+So, the balloon's elevation increases by 750 feet, making it:
+
+650 feet + 750 feet = 1400 feet
+
+Finally, Jo-Bob releases the chain and allows the balloon to slowly descend back to the earth at a rate of 10 feet per minute. Since there is no more lift, the balloon will continue to descend. However, since we're only interested in finding the highest elevation reached, we can ignore the descent.
+
+Answer: 1400

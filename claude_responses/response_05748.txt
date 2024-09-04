@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. We know that the population of Boise is 3/5 times the population of Seattle.
+2. We also know that the population of Lake View is 24000.
+3. We know that the population of Lake View is 4000 more than the population of Seattle.
+4. So, if the population of Lake View is 24000, and it is 4000 more than the population of Seattle, then the population of Seattle must be 20000.
+5. Now, we can use the information about Boise's population being 3/5 times the population of Seattle to calculate Boise's population.
+6. If Seattle's population is 20000, then Boise's population is 3/5 * 20000 = 12000.
+7. To find the total population of the three cities, we add the populations of Boise, Seattle, and Lake View:
+12000 + 20000 + 24000 = 56000.
+
+Answer: 56000

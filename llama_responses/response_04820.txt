@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Danny has 3 bottles of soda initially. He drinks 90% of one bottle, which is 0.9 * 1 = 0.9 bottles. So, he has 3 - 0.9 = 2.1 bottles left.
+
+He gives 70% of the other two bottles to his friends, which is 0.7 * 2 = 1.4 bottles. So, he gives away 1.4 bottles.
+
+Now, he has 2.1 - 1.4 = 0.7 bottles left.
+
+To express this as a percentage of a bottle, I'll convert the remaining 0.7 bottles to a percentage by multiplying by 100:
+
+0.7 * 100 = 70
+
+So, Danny has 70% of a bottle left.

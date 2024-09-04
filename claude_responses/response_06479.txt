@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Cheyenne made 80 clay pots in a particular week.
+2) 2/5 of the 80 pots cracked and could not be sold.
+3) To find the number of pots that cracked, we multiply 80 by 2/5:
+   80 * 2/5 = 160/5 = 32 pots cracked
+4) To find the number of pots that were not cracked and could be sold, we subtract the number of cracked pots from the total number of pots:
+   80 - 32 = 48 pots
+5) Cheyenne sold each pot for $40.
+6) To find the total amount of money Cheyenne made, we multiply the number of pots sold (48) by the price per pot ($40):
+   48 * $40 = $1,920
+
+Answer: $1,920

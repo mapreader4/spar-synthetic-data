@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Wilma has a garden with 3 types of flowers: yellow, green, and red.
+2) The garden has 6 rows, with 13 flowers in each row.
+3) Wilma has 12 yellow flowers.
+4) Wilma has two times more green flowers than yellow flowers. So, the number of green flowers is 2 x 12 = 24.
+5) The total number of flowers in the garden is 6 rows x 13 flowers per row = 78 flowers.
+6) The number of red flowers is the total number of flowers minus the yellow and green flowers:
+   Total flowers = 78
+   Yellow flowers = 12
+   Green flowers = 24
+   Red flowers = 78 - 12 - 24 = 42
+
+Answer: 42

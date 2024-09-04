@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Louise has 20 red pencils
+* She has twice as many blue pencils as red pencils, so that's 2 * 20 = 40 blue pencils
+* She has 40 yellow pencils
+* She has as many green pencils as she has red and blue pencils combined, so that's 20 + 40 = 60 green pencils
+
+Now, we need to calculate the total number of pencils:
+* Total pencils = 20 red + 40 blue + 40 yellow + 60 green = 160 pencils
+
+Each box holds 20 pencils, so to calculate the number of boxes needed, we divide the total number of pencils by the capacity of each box:
+* Number of boxes needed = 160 pencils / 20 pencils per box = 8 boxes
+
+Answer: 8

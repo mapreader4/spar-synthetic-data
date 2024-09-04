@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+John climbs 3 flights of stairs, each of which is 10 feet. So, the height of the stairs is 3 x 10 = 30 feet.
+
+He then climbs a rope that is half that height, which is 30 / 2 = 15 feet.
+
+Finally, he climbs a ladder that is 10 feet longer than the rope, which is 15 + 10 = 25 feet.
+
+So, in total, John climbs 30 + 15 + 25 = 70 feet.
+
+Answer: 70

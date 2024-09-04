@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The number of goals scored in a game against Barca by exactly two players last season accounts for 20% of all goals scored in the league.
+* This means that the total number of goals scored by the two players is 20% of the total number of goals scored in the league.
+* The total number of goals scored in the league against Barca that season is 300.
+* Since the two players scored an equal number of goals, let's call the number of goals scored by each player 'x'.
+* The total number of goals scored by the two players is 2x.
+* 2x is 20% of the total number of goals scored in the league, which is 300.
+* Therefore, 2x = 0.2 * 300 = 60.
+* Solving for x, we get x = 30.
+
+Answer: 30

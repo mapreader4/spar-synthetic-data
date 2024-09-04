@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The hotel has 10 rooms
+* Each room holds a family of 3 people
+* So the total number of people in the hotel is:
+  * 10 rooms x 3 people per room = 30 people
+* Each person receives 2 towels
+* So the total number of towels handed out is:
+  * 30 people x 2 towels per person = 60 towels
+
+Answer: 60

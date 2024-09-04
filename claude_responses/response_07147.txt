@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Jed starts with 20 cards
+* Every week, he gets 6 new cards
+* Every two weeks, he gives 2 cards to his friends
+
+To find out how many weeks it will take for Jed to have a total of 40 cards, we need to calculate the net gain in cards per week and then determine how many weeks it will take to reach 40 cards.
+
+Net gain per week:
+* Jed gets 6 cards per week
+* He gives 2 cards every two weeks, which is 1 card per week
+* Net gain per week = 6 - 1 = 5 cards
+
+Now, we need to find how many weeks it will take to go from 20 cards to 40 cards, given the net gain of 5 cards per week.
+* Gain needed = 40 - 20 = 20 cards
+* Weeks needed = 20 cards / 5 cards per week = 4 weeks
+
+Therefore, it will take Jed 4 weeks to have a total of 40 cards.
+
+Answer: 4

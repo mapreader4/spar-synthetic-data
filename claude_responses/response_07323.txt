@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The flight leaves at 8:00 pm
+* It's recommended to check in 2 hours early, so that would be 6:00 pm
+* It takes 45 minutes to drive to the airport
+* It takes another 15 minutes to park and make their way to the terminal
+* So the total time needed before the check-in time is:
+    - 45 minutes to drive to the airport
+    - 15 minutes to park and get to the terminal
+    - Total time: 45 + 15 = 60 minutes (1 hour)
+* Therefore, the latest time they can leave their house is 6:00 pm - 1 hour = 5:00 pm
+
+Answer: 5:00 pm

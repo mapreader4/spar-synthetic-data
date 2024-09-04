@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start with what we know. We know that the total cost is $55 and we have 5 pints of frozen yogurt, 2 packs of chewing gum, and 5 trays of jumbo shrimp. We can write this as an equation:
+
+5 x (price of a pint of yogurt) + 2 x (price of a pack of gum) + 5 x 5 = 55
+
+We can start by solving for the price of a pint of yogurt. We know that the price of a pack of gum is half as much as a pint of yogurt, so we can let x be the price of a pint of yogurt. We can represent this as:
+
+Price of a pack of gum = 0.5 x (price of a pint of yogurt)
+
+Now, we can substitute this into our equation:
+
+5 x (price of a pint of yogurt) + 2 x 0.5 x (price of a pint of yogurt) + 5 x 5 = 55
+
+We can combine the 2 x 0.5 and the 5 to get 2.5, and then we can multiply this by the price of a pint of yogurt to get:
+
+5 x (price of a pint of yogurt) + 2.5 x (price of a pint of yogurt) = 55
+
+Now, we can subtract 2.5 x (price of a pint of yogurt) from both sides to get:
+
+5 x (price of a pint of yogurt) = 55 - 2.5 x (price of a pint of yogurt)
+
+Now, we can divide both sides by 5 to get:
+
+price of a pint of yogurt = 11
+
+So, the answer is:
+
+Answer: 11

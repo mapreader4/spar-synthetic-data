@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Alice starts with 27 plates
+* She then adds 37 more plates
+* So the total number of plates in the tower at this point is 27 + 37 = 64 plates
+* The tower then topples over and crashes down, with a total of 83 plates
+* To find how many more plates Alice was able to add before the tower fell, we need to subtract the initial 64 plates from the total 83 plates
+
+83 plates - 64 plates = 19 more plates
+
+Answer: 19

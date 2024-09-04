@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Rocco has 4 piles of quarters, where each pile contains 10 quarters
+* 4 piles x 10 quarters per pile = 40 quarters
+* 40 quarters x $0.25 per quarter = $10.00 in quarters
+
+* Rocco has 6 piles of dimes, where each pile contains 10 dimes
+* 6 piles x 10 dimes per pile = 60 dimes
+* 60 dimes x $0.10 per dime = $6.00 in dimes
+
+* Rocco has 9 piles of nickels, where each pile contains 10 nickels
+* 9 piles x 10 nickels per pile = 90 nickels
+* 90 nickels x $0.05 per nickel = $4.50 in nickels
+
+* Rocco has 5 piles of pennies, where each pile contains 10 pennies
+* 5 piles x 10 pennies per pile = 50 pennies
+* 50 pennies x $0.01 per penny = $0.50 in pennies
+
+Now, to calculate the total amount of money Rocco has:
+$10.00 (quarters) + $6.00 (dimes) + $4.50 (nickels) + $0.50 (pennies) = $21.00
+
+Answer: $21.00

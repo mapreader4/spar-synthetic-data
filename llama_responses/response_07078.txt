@@ -1,0 +1,37 @@
+Let's break this problem down step by step.
+
+Let's say the total number of pieces of bread thrown in the pond is x.
+
+The first duck eats half of all the pieces of bread, so it eats x/2 pieces of bread.
+
+The second duck eats 13 pieces of bread.
+
+The third duck eats 7 pieces of bread.
+
+The total number of pieces of bread eaten by the ducks is x/2 + 13 + 7.
+
+The number of pieces of bread left in the water is 30.
+
+So, we can set up the equation:
+
+x - (x/2 + 13 + 7) = 30
+
+To solve for x, we can subtract x/2 + 13 + 7 from both sides of the equation to get:
+
+x - x/2 = 30 - 13 - 7
+
+Simplifying the right side of the equation, we get:
+
+x - x/2 = 10
+
+Subtracting x from both sides of the equation, we get:
+
+-x/2 = -10
+
+Multiplying both sides of the equation by -2, we get:
+
+x = -20
+
+So, the total number of pieces of bread thrown in the pond is -20.
+
+Answer: -20

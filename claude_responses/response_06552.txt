@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The grocery store has 4 kinds of jelly: grape, strawberry, raspberry, and plum.
+2) Grape jelly sells twice as much as strawberry jelly.
+3) Raspberry jelly sells twice as much as plum jelly.
+4) Raspberry jelly sells a third as much as grape jelly.
+5) They sold 6 jars of plum jelly today.
+
+To find the number of jars of strawberry jelly sold, we can use the given information to work backwards.
+
+Since raspberry jelly sells twice as much as plum jelly, and they sold 6 jars of plum jelly, that means they sold 12 jars of raspberry jelly.
+
+Since raspberry jelly sells a third as much as grape jelly, that means they sold 36 jars of grape jelly (12 x 3 = 36).
+
+Since grape jelly sells twice as much as strawberry jelly, that means they sold 18 jars of strawberry jelly (36 / 2 = 18).
+
+Answer: 18

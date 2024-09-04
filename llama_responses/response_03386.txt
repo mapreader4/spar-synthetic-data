@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the poodle barks x times. The terrier barks for every x times, and the poodle barks twice for every one time the terrier barks. So, the total number of times the poodle barks is 2x.
+
+The terrier barks 6 times before it stops, so the poodle barks 6x times. But the terrier is hushed every 2nd time it barks, so it barks 3 times.
+
+So, the total number of times the poodle barks is 2x + 3.
+
+We can set up an equation to represent this: 2x + 3 = 6.
+
+To solve for x, we can subtract 3 from both sides: 2x = 3.
+
+So, x = 1.5.
+
+Answer: 3

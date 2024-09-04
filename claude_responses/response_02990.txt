@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The dragon originally had an unknown number of jewels in its hoard.
+* The king stole 3 of the dragon's prize jewels.
+* The dragon then stole back its 3 jewels, plus twice as many of the king's crown jewels.
+* The new jewels the dragon stole were a third of the number of jewels the dragon had owned before.
+
+Let's use variables to represent the unknown quantities:
+* Let x = the original number of jewels the dragon owned.
+* The king stole 3 of the dragon's jewels, so the dragon now has x - 3 jewels.
+* The dragon then stole back its 3 jewels, plus twice as many of the king's crown jewels. So the dragon now has x - 3 + 3 + 2(3) = x + 3 jewels.
+* The new jewels the dragon stole were a third of the original number, so x + 3 = x/3.
+
+Solving this equation:
+* x + 3 = x/3
+* 3x + 9 = x
+* 2x = 9
+* x = 4.5
+
+However, since the number of jewels must be an integer, we round down to the nearest whole number.
+
+Answer: 4 jewels

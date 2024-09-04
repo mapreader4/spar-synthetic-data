@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by identifying the total number of students. There are 14 boys and 10 girls, so the total number of students is 14 + 10 = 24.
+
+Now, let's find the number of students who drop out. 4 boys and 3 girls drop out. So, the total number of students who drop out is 4 + 3 = 7.
+
+To find the number of boys and girls left, we need to subtract the number of students who dropped out from the total number of students. The number of boys left is 14 - 4 = 10, and the number of girls left is 10 - 3 = 7. So, there are 10 boys and 7 girls left.

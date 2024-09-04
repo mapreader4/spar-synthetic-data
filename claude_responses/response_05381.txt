@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* One time around the block equals 200 meters
+* Johnny runs around the block 4 times
+* Mickey runs around the block half as many times as Johnny
+
+First, let's calculate the total distance run by Johnny:
+* Johnny runs around the block 4 times
+* 4 times around the block x 200 meters per lap = 800 meters
+
+Next, let's calculate the total distance run by Mickey:
+* Mickey runs around the block half as many times as Johnny
+* Half of 4 times is 2 times
+* 2 times around the block x 200 meters per lap = 400 meters
+
+Now, to calculate the average distance run by Johnny and Mickey, we add their distances and divide by 2:
+* (800 meters + 400 meters) / 2 = 600 meters
+
+Answer: 600

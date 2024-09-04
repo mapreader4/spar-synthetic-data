@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* In the first hour, Benjamin counted 17 billboards.
+* In the second hour, Benjamin counted 20 billboards.
+* In the third hour, Benjamin counted 23 billboards.
+* To find the average number of billboards seen per hour, we need to add up the total number of billboards seen and divide by the number of hours.
+* The total number of billboards seen is 17 + 20 + 23 = 60.
+* The number of hours is 3.
+* To find the average, we divide the total number of billboards by the number of hours:
+* 60 billboards / 3 hours = 20 billboards per hour.
+
+Answer: 20

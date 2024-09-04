@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Bill's roof can bear 500 pounds of weight
+* 100 leaves fall on his roof every day
+* 1000 leaves weigh 1 pound
+
+To find how many days it will take for the roof to collapse, we need to calculate how many pounds of leaves will be on the roof over time.
+
+First, let's calculate how many pounds of leaves fall on the roof each day:
+* 100 leaves per day / 1000 leaves per pound = 0.1 pounds per day
+
+Now, we can calculate how many days it will take for the total weight of leaves to reach 500 pounds (the maximum weight the roof can bear):
+* 500 pounds / 0.1 pounds per day = 5000 days
+
+Therefore, it will take 5000 days for Bill's roof to collapse.
+
+Answer: 5000

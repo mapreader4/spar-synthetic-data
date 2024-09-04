@@ -1,0 +1,7 @@
+Let's start by identifying the number of instances of bullying Kris has been suspended for.
+
+Kris has been suspended for bullying many times.  For every instance of bullying, she was suspended for 3 days.  So, the number of days Kris has been suspended for is the number of instances of bullying times 3.
+
+A typical person has 10 fingers and 2 toes.  So, the number of days Kris has been suspended for is 10 + 2, which is 12.
+
+Answer: 12

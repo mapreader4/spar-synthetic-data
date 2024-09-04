@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. John pays $1000 upfront.
+2. The lawyer charges $100 per hour, and he works 50 hours in court time. So, the total amount he has to pay for the court time is 50 x $100 = $5000.
+3. The lawyer has to work 2 times that long in prep time. So, the total amount he has to pay for the prep time is 2 x 50 x $100 = $200.
+4. The total amount John has to pay is the sum of the court time and prep time: $5000 + $200 = $5200.
+5. John's brother pays half the fee, so John has to pay half of $5200. Half of $5200 is $2600.
+
+Answer: 2600

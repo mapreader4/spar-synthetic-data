@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jack has been driving for the past 9 years
+* He drives 37,000 miles every four months
+* To find the total miles he has driven since he started driving, we need to calculate the number of four-month periods in 9 years and multiply that by the number of miles he drives in each four-month period.
+
+First, let's calculate the number of four-month periods in 9 years:
+* 9 years x 12 months/year = 108 months
+* 108 months / 4 months per period = 27 four-month periods
+
+Now, let's multiply the number of four-month periods by the number of miles he drives in each period:
+* 27 four-month periods x 37,000 miles/period = 999,000 miles
+
+Therefore, the total number of miles Jack has driven since he started driving is:
+
+Answer: 999,000 miles

@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Tom's fruit bowl contains 3 oranges and 6 lemons.
+2. Tom eats 3 of the fruits.
+3. So, we subtract 3 fruits from the total number of fruits in the fruit bowl.
+4. 3 oranges - 3 fruits = 0 oranges left.
+5. 6 lemons - 0 lemons = 6 lemons left.
+6. In total, there are 0 oranges and 6 lemons left in the fruit bowl.
+
+Answer: 6

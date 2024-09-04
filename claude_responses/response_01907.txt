@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) A full-size Mustang is 240 inches long.
+2) The mid-size model that Ryan creates is 1/10th the size of the full-size Mustang.
+   * To calculate the length of the mid-size model, we take the full-size length (240 inches) and divide it by 10.
+   * 240 inches / 10 = 24 inches
+3) The smallest model that Ryan creates is half the size of the mid-size model.
+   * To calculate the length of the smallest model, we take the mid-size model length (24 inches) and divide it by 2.
+   * 24 inches / 2 = 12 inches
+
+Answer: 12 inches

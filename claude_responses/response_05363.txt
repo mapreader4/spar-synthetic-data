@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Sandy's goal is to drink 3 liters of water in a day
+* She drinks 500 milliliters of water every 2 hours
+* We need to find out how many hours it will take her to drink a total of 3 liters (or 3000 milliliters) of water
+
+First, let's calculate how much water she drinks in 1 hour:
+* She drinks 500 milliliters every 2 hours
+* So in 1 hour, she drinks 500 / 2 = 250 milliliters
+
+Now, let's calculate how many hours it will take her to drink 3000 milliliters (3 liters):
+* She drinks 250 milliliters per hour
+* 3000 milliliters / 250 milliliters per hour = 12 hours
+
+Therefore, it will take Sandy 12 hours to drink a total of 3 liters of water.
+
+Answer: 12

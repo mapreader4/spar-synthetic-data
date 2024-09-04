@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Albert buys 2 large pizzas, each with 16 slices
+* So the total number of slices from the large pizzas is 2 * 16 = 32 slices
+* He also buys 2 small pizzas, each with 8 slices
+* So the total number of slices from the small pizzas is 2 * 8 = 16 slices
+* To find the total number of slices he eats, we add the slices from the large pizzas and the small pizzas:
+* 32 slices + 16 slices = 48 slices
+
+Answer: 48

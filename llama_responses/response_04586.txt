@@ -1,0 +1,5 @@
+To solve this problem, I will first calculate the total number of papers printed by multiplying the total number of papers (400) by the percentage of valid papers (100 - 40 = 60%).
+
+The total number of valid papers is 400 * 0.6 = 240.
+
+Answer: 240

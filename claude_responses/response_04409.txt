@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The supermarket receives 15 cases of tins of beans.
+2) Each case contains 24 tins.
+3) To find the total number of tins, we multiply the number of cases (15) by the number of tins per case (24):
+15 cases x 24 tins/case = 360 tins
+4) 5% of the tins are damaged and thrown away. To find the number of damaged tins, we take 5% of the total number of tins:
+0.05 x 360 tins = 18 damaged tins
+5) To find the number of tins left, we subtract the number of damaged tins from the total number of tins:
+360 tins - 18 damaged tins = 342 tins
+
+Answer: 342

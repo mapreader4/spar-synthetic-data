@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. The original class had 10 students, and another class with the same amount of students merged with them, so the total number of students is 10 + 10 = 20.
+2. 5 parents offered to be chaperones, but 2 teachers from both classes will be there too, so the total number of chaperones is 5 + 2 = 7.
+3. 10 students left the zoo, and 2 of the chaperones left as well, so the number of chaperones remaining is 7 - 2 = 5.
+4. To find the total number of individuals left at the zoo, we add the remaining chaperones (5) to the remaining students (20 - 10 = 10). This gives us a total of 10 + 5 = 15 individuals.
+
+Answer: 15

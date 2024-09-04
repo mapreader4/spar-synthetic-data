@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Chrystal's vehicle speed is 30 miles per hour.
+2) Ascending the mountain decreases its speed by fifty percent, so the speed going up is 30 * (1 - 0.5) = 15 miles per hour.
+3) Descending the mountain increases its speed by twenty percent, so the speed going down is 30 * (1 + 0.2) = 36 miles per hour.
+4) The distance going to the top of the mountain is 60 miles.
+5) The distance going down to the foot of the mountain is 72 miles.
+6) To calculate the total time, we need to find the time going up and the time going down, then add them together.
+7) Time going up = 60 miles / 15 miles per hour = 4 hours.
+8) Time going down = 72 miles / 36 miles per hour = 2 hours.
+9) Total time = 4 hours + 2 hours = 6 hours.
+
+Answer: 6 hours.

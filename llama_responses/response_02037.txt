@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, we know that Rhonda can run 200 meters in 24 seconds. This means that Sally, who takes 2 seconds longer, can run 200 meters in 24 + 2 = 26 seconds.
+
+We also know that Diane can run 200 meters 3 seconds faster than Rhonda. Since Rhonda takes 24 seconds to run 200 meters, Diane can run 200 meters in 24 - 3 = 21 seconds.
+
+Now, let's add up the time it takes for each girl to run her portion of the race:
+
+Rhonda: 24 seconds
+Sally: 26 seconds
+Diane: 21 seconds
+
+The total time it takes for all three girls to run the 600-meter relay race is the sum of their individual times:
+
+24 + 26 + 21 = 71 seconds
+
+Answer: 71

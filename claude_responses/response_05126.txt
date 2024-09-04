@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Each piano lesson costs $30 and lasts for 1.5 hours
+* Micheal wants to take 18 hours of lessons
+* To calculate the total cost, we need to find how many lessons Micheal will need to take for 18 hours
+* Since each lesson is 1.5 hours, we can divide 18 hours by 1.5 hours per lesson to get the number of lessons
+* 18 hours / 1.5 hours per lesson = 12 lessons
+* Each lesson costs $30, so the total cost for 12 lessons would be:
+* 12 lessons x $30 per lesson = $360
+
+Answer: $360

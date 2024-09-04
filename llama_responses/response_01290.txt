@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. We know that the ratio is 1 : 2 : 5, so for every 1 part blue, there are 2 parts green, and for every 5 parts green, there are 1 part blue. So, if we let x be the total amount of paint used, we know that the ratio of blue to green to green is 1 : 2, and the ratio of green to total is 2 : 5.
+
+2. We know that 6 gallons of green paint is used. Since the ratio of green to total is 2 : 5, we know that the total amount of paint used is 6 x (5/2) = 15.
+
+3. So, the total amount of paint used is 15 gallons.
+
+Answer: 15

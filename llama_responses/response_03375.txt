@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of boys. Since 150 students are in the class, and 60 of them are girls, that means 150 - 60 = 90 of them are boys.
+
+The problem asks us to find out of the boys, 1/3 of them joined varsity clubs. So, to find this number, we can multiply 90 (the number of boys) by 1/3. 90 * 1/3 = 30.
+
+The problem asks us to find out how many of the boys did NOT join varsity clubs. Since 30 boys joined varsity clubs, that means the remaining number of boys who did not join varsity clubs is 90 - 30 = 60.
+
+Answer: 60

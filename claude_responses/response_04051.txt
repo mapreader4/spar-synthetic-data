@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The friends ordered:
+  - 1 platter of Taco Salad at $10
+  - 5 orders of Dave's Single hamburger at $5 each, so 5 x $5 = $25
+  - 4 sets of french fries at $2.50 each, so 4 x $2.50 = $10
+  - 5 cups of peach lemonade at $2 each, so 5 x $2 = $10
+* To calculate the total bill, we add up all the items:
+  - $10 + $25 + $10 + $10 = $55
+* Since there are 5 friends, to split the bill equally, we divide the total bill by 5:
+  - $55 / 5 = $11
+
+Answer: 11

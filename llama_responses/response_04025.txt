@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's first find the number of people a vampire can drain in a week. Since a vampire drains 3 people a week, we can multiply this by 7 to find the total number of people he can drain in a year:
+
+3 people per week * 52 weeks in a year = 156 people
+
+Now, let's find the number of people a werewolf can eat in a week. Since a werewolf eats 5 people a week, we can multiply this by 52 weeks in a year to find the total number of people he can eat in a year:
+
+5 people per week * 52 weeks in a year = 260 people
+
+Now, let's find the number of people the vampire and werewolf together can drain or eat in a year. We can add the total number of people they can drain or eat:
+
+156 (vampire) + 260 (werewolf) = 416 people
+
+Now, let's find the number of weeks it will take for the village of 72 people to last them both. We can divide the total number of people by the total number of people the vampire and werewolf can drain or eat:
+
+416 people / 72 people = 5.67 weeks
+
+So, the village of 72 people will last them both for approximately 5.67 weeks.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John eats 10 potato chips that have a total of 60 calories.
+   * This means each potato chip has 60 / 10 = 6 calories.
+2) John then eats 6 cheezits that each have 1/3 more calories than a chip.
+   * This means each cheezit has 6 + (6 * 1/3) = 6 + 2 = 8 calories.
+3) To find the total calories John ate, we add the calories from the potato chips and the cheezits:
+   * Potato chips: 10 chips x 6 calories/chip = 60 calories
+   * Cheezits: 6 cheezits x 8 calories/cheezit = 48 calories
+   * Total calories: 60 + 48 = 108 calories
+
+Answer: 108

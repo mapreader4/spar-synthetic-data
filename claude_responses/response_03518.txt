@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The kitchen dimensions are 12 feet by 16 feet, with 10 foot high ceilings.
+2) To calculate the total area to be painted, we need to find the area of each wall:
+   - Wall 1: 12 feet x 10 feet = 120 square feet
+   - Wall 2: 16 feet x 10 feet = 160 square feet
+   - Wall 3: 12 feet x 10 feet = 120 square feet
+   - Wall 4: 16 feet x 10 feet = 160 square feet
+3) The total area to be painted is the sum of the four walls: 120 + 160 + 120 + 160 = 560 square feet.
+4) Each wall needs one coat of primer and two coats of paint, so the total area to be painted is 3 x 560 = 1,680 square feet.
+5) Martha can paint 40 square feet per hour.
+6) To calculate the total time it will take Martha to paint the kitchen, we divide the total area (1,680 square feet) by the rate (40 square feet per hour):
+   1,680 square feet / 40 square feet per hour = 42 hours.
+
+Answer: 42 hours.

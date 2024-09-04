@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. We know that there are 5 intersections.
+2. Each intersection has 20 lines.
+3. The total number of lines is the product of the number of intersections and the number of lines per intersection. So, we multiply 5 (the number of intersections) by 20 (the number of lines per intersection):
+
+5 * 20 = 100
+
+Answer: 100

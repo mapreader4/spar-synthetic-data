@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 50 staplers in the stapler initially.
+* Stacie staples 3 dozen reports on her desk.
+* 1 dozen = 12 reports.
+* So, 3 dozen = 3 x 12 = 36 reports.
+* Each report requires 1 staple.
+* Therefore, Stacie used 36 staplers.
+* To find the number of staplers left in the stapler, we subtract the number of staplers used from the initial number of staplers.
+* 50 staplers - 36 staplers used = 14 staplers left.
+
+Answer: 14

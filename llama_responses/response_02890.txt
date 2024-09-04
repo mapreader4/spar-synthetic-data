@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Kyle has 12 less than 3 times what Dave has. So, if we let x be the amount Dave has, then we know that 3x - 12 = 0. We can solve for x by adding 12 to both sides of the equation and then dividing by 3.
+
+3x - 12 + 12 = 3x = 0 + 12
+3x = 12
+
+x = 4
+
+So, Dave has 4. Now, we know that Kyle has 12 less than 3 times what Dave has. So, Kyle has 4 * 3 = 12 - 12. 12 - 12 = 0. Kyle has 12 - 12 = 0.
+
+Answer: 0

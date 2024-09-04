@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rebecca charges $30 for each haircut, and she has 4 haircuts scheduled today.
+* So for the haircuts, she will make: 4 x $30 = $120
+* She charges $40 for each perm, and she has 1 perm scheduled today.
+* So for the perm, she will make: 1 x $40 = $40
+* She charges $60 for each dye job, and she has 2 dye jobs scheduled today.
+* However, she has to buy a box of hair dye for $10 for each dye job.
+* So for the dye jobs, she will make: 2 x $60 = $120, but she will have to spend 2 x $10 = $20 on hair dye.
+* So her total revenue from the haircuts, perm, and dye jobs is: $120 + $40 + $120 = $280
+* She also made $50 in tips.
+* Therefore, her total earnings for the day is: $280 + $50 = $330
+
+Answer: $330

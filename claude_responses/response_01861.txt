@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 300 animals on the street
+* Two-thirds of the animals are cats
+* The remaining one-third of the animals are dogs
+* To find the number of dogs, we take one-third of the total animals:
+* 1/3 of 300 = 100 dogs
+* Dogs have 4 legs each
+* So the total number of legs of the dogs on the street is:
+* 100 dogs x 4 legs per dog = 400 legs
+
+Answer: 400

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mr. Jones has 6 shirts for every pair of pants
+* He has 40 pants
+* To find the total number of pieces of clothes he owns, we need to calculate the number of shirts and the number of pants, and then add them together.
+
+First, let's find the number of shirts:
+* He has 6 shirts for every pair of pants
+* He has 40 pants
+* So, the number of shirts he has is 6 x 40 = 240 shirts
+
+Now, let's find the total number of pieces of clothes:
+* He has 40 pants
+* He has 240 shirts
+* The total number of pieces of clothes is 40 + 240 = 280
+
+Answer: 280

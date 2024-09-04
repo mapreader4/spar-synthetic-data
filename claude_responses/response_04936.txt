@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) Hamza has 3-liter, 5-liter, and 6-liter buckets.
+2) She fills the 5-liter bucket and pours as much as she can into the 3-liter bucket.
+3) The 3-liter bucket can hold 3 liters, so she pours 3 liters from the 5-liter bucket into the 3-liter bucket.
+4) This leaves 2 liters remaining in the 5-liter bucket.
+5) Hamza then pours the remaining 2 liters from the 5-liter bucket into the 6-liter bucket.
+6) The 6-liter bucket can hold 6 liters, so there is 4 liters of space remaining in the 6-liter bucket.
+
+Answer: 4 liters

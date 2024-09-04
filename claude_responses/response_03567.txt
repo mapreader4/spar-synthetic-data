@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) 400 students showed up to the party.
+2) 70% of the 400 students who showed up were invited.
+   * 70% of 400 = 0.70 * 400 = 280 students were invited.
+3) 40% of the 280 invited students had their invitation revoked and were not allowed into the party.
+   * 40% of 280 = 0.40 * 280 = 112 students had their invitation revoked.
+4) The number of invited students who attended the party is the total number of invited students (280) minus the number of students who had their invitation revoked (112).
+   * 280 - 112 = 168 invited students attended the party.
+
+Answer: 168

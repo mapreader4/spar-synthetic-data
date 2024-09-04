@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The first plane has 50 passengers, so its speed would be 600 MPH - (50 * 2 MPH) = 500 MPH
+* The second plane has 60 passengers, so its speed would be 600 MPH - (60 * 2 MPH) = 480 MPH
+* The third plane has 40 passengers, so its speed would be 600 MPH - (40 * 2 MPH) = 520 MPH
+* To calculate the average speed, we add the speeds of the three planes and divide by 3:
+* (500 MPH + 480 MPH + 520 MPH) / 3 = 500 MPH
+
+Answer: 500 MPH

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The Lamplighter monkey can swing at a speed of 10 feet per second
+* When frightened, the monkey can run at a speed of 15 feet per second
+* The monkey runs for 5 seconds to evade the predator
+* Then, the monkey swings for another 10 seconds to add distance
+
+To calculate the total distance traveled:
+1) Distance traveled while running:
+   * Speed while running: 15 feet per second
+   * Time spent running: 5 seconds
+   * Distance traveled while running = 15 feet per second x 5 seconds = 75 feet
+2) Distance traveled while swinging:
+   * Speed while swinging: 10 feet per second
+   * Time spent swinging: 10 seconds
+   * Distance traveled while swinging = 10 feet per second x 10 seconds = 100 feet
+3) Total distance traveled:
+   * Distance traveled while running + distance traveled while swinging
+   * 75 feet + 100 feet = 175 feet
+
+Answer: 175 feet

@@ -1,0 +1,7 @@
+Let's break down the information given:
+
+* Mimi spent 3 times as much on Nike sneakers as she did on Adidas, so the cost of Nike sneakers is 3/2 times the cost of Adidas. We know the cost of Adidas is 600, so the cost of Nike is 3/2 x 600 = 900.
+* The total amount spent on sneakers is 8000, which is the sum of the cost of Nike and Adidas. We know the cost of Nike is 900, so the cost of Adidas is 8000 - 900 = 7100.
+* We are looking for the amount spent on clothes. This is the difference between the total spent on sneakers and the cost of Adidas. So, the amount spent on clothes is 8000 - 7100 = 1900.
+
+Answer: 1900

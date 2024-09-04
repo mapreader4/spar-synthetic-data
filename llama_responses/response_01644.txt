@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+John has taken 10 pictures every day for the past 3 years.  So, the total number of pictures he has taken is 10 * 365 * 3 = 3,150.  He saves them in raw format so each memory card can store 50 images.  So, the number of memory cards he needs is 3150 / 50 = 63.
+
+Each memory card costs $60.  So, the total cost is 63 * 60 = $3,720.

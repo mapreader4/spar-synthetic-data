@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There were 6 vans, and each van had 10 students
+* So the total number of students in the vans is:
+  * 6 vans x 10 students per van = 60 students
+* There were 4 minibusses, and each minibus had 24 students
+* So the total number of students in the minibusses is:
+  * 4 minibusses x 24 students per minibus = 96 students
+* To get the total number of students, we add the students in the vans and the students in the minibusses:
+  * 60 students + 96 students = 156 students
+
+Answer: 156

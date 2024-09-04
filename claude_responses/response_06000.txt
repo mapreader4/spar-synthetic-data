@@ -1,0 +1,19 @@
+To solve this problem, we need to use the concept of the inverse proportion between the number of builders and the time taken to build the cottage.
+
+Given information:
+- It takes 8 days for 3 builders to build a cottage.
+
+Step 1: Find the total work done by the 3 builders in 8 days.
+Total work done = 3 builders × 8 days = 24 builder-days
+
+Step 2: Find the rate of work per builder-day.
+Rate of work per builder-day = Total work done / (Number of builders × Number of days)
+Rate of work per builder-day = 24 builder-days / (3 builders × 8 days) = 1 builder-day
+
+Step 3: Find the time it will take 6 builders to build the same size cottage.
+Time taken = Total work done / (Number of builders × Rate of work per builder-day)
+Time taken = 24 builder-days / (6 builders × 1 builder-day) = 4 days
+
+Therefore, it will take 4 days for 6 builders to build the same size cottage working at the same rate.
+
+Answer: 4

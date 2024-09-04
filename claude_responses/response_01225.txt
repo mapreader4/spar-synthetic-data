@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Donovan Mitchell is currently averaging 26 points per game
+* His team has played 15 games this season
+* His goal is to average 30 points per game for the entire 20 game season
+
+To find the number of points he needs to average per game to reach his goal, we can use the following formula:
+
+Total points needed for the season = Desired average points per game * Total number of games
+* Total points needed for the season = 30 points per game * 20 games = 600 points
+
+Now, we need to find how many more points he needs to score in the remaining 5 games (20 games - 15 games played) to reach his goal of 600 points.
+
+* Points scored so far = 26 points per game * 15 games = 390 points
+* Remaining points needed = 600 points - 390 points = 210 points
+
+Finally, to find the average points per game he needs to reach in the remaining 5 games, we divide the remaining points needed by the number of remaining games:
+
+* Average points per game needed = 210 points / 5 games = 42 points per game
+
+Answer: 42 points per game

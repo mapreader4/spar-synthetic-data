@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+We know that Micah bought 6 envelopes that weigh less than 5 pounds. These envelopes will require 2 stamps each, so the total number of stamps needed for these envelopes is 6 x 2 = 12 stamps. We are told that Micah bought a total of 52 stamps. So, the remaining stamps must be used for the envelopes that weigh more than 5 pounds.
+
+Since each envelope that weighs more than 5 pounds requires 5 stamps, the total number of stamps needed for these envelopes is equal to the total number of stamps minus the number of stamps needed for the envelopes that weigh less than 5 pounds. This is 52 - 12 = 40 stamps.
+
+Since each of these envelopes requires 5 stamps, the total number of envelopes is 40 / 5 = 8.
+
+So, in total, Micah needed to buy 6 + 8 = 14 envelopes.
+
+Answer: 14

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jordan currently has 60,000 listens on Spotify
+* There are 3 months left in the year
+* The number of listens per month doubles each month
+
+So, let's calculate the number of listens for each of the remaining 3 months:
+* Month 1: 60,000 listens
+* Month 2: 60,000 x 2 = 120,000 listens
+* Month 3: 120,000 x 2 = 240,000 listens
+
+Now, we add up the total listens for the 3 months:
+* 60,000 + 120,000 + 240,000 = 420,000 listens
+
+Answer: 420,000

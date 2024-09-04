@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the total number of balls, which is 100.
+
+Nova inflated 40 balls that had holes and could not inflate. That leaves 100 - 40 = 60 balls that could potentially inflate.
+
+Of those 60 balls, 20% were overinflated and exploded, which is 0.2 x 60 = 12. So, 60 - 12 = 48 balls were inflated successfully.
+
+So, the number of balls that were inflated successfully and could be used is 48.
+
+Answer: 48

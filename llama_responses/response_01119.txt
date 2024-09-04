@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Day 1: Jill spends 5 minutes on the phone with her boyfriend.
+
+Day 2: She spends 2 times the time she spent on the phone the day before, so she spends 5 * 2 = 10 minutes.
+
+Day 3: She spends 2 times the time she spent on the phone the day before, so she spends 10 * 2 = 20 minutes.
+
+Day 4: She spends 2 times the time she spent on the phone the day before, so she spends 20 * 2 = 40 minutes.
+
+Day 5: Her parents take the phone away from her because she was on it too long, so she doesn't spend any time on the phone.
+
+To find the total time Jill spent talking to her boyfriend, we need to add up the time she spent on each day:
+
+5 + 10 + 20 + 40 = 75
+
+Answer: 75

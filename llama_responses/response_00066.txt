@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The laptop costs $1000.
+2. A 20% down payment is required, which is 0.2 x 1000 = $200.
+3. Tara is paying an additional $20 for the down payment, so the total down payment is 200 + 20 = $220.
+4. The laptop can be paid off in installments of $65 per month.
+5. The laptop needs to be paid off in 4 months, so the total amount paid in installments is 4 x 65 = $260.
+6. The down payment of $220 is subtracted from the total amount, leaving a balance of 260 - 220 = $40.
+
+Answer: 40

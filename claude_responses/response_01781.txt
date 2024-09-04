@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. The salesman bought a case of 48 backpacks for $576.
+   * This means each backpack cost $576 / 48 = $12
+
+2. He sold 17 backpacks for $18 each at the swap meet.
+   * This means he made 17 * $18 = $306 from the swap meet.
+
+3. He sold 10 backpacks for $25 each to a department store.
+   * This means he made 10 * $25 = $250 from the department store.
+
+4. The remaining 48 - 17 - 10 = 21 backpacks were sold for $22 each.
+   * This means he made 21 * $22 = $462 from the remaining backpacks.
+
+5. To calculate the total profit, we need to add up the revenue from all the sales and subtract the original cost:
+   * Total revenue = $306 + $250 + $462 = $1,018
+   * Total cost = $576
+   * Profit = $1,018 - $576 = $442
+
+Answer: $442

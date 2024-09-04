@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 48 children
+* Each child takes 4 sweets
+* After this, there is still a third of the original amount left
+
+First, let's calculate how many sweets were taken by the 48 children:
+* 48 children x 4 sweets each = 192 sweets taken
+
+Now, we know that the remaining amount is a third of the original amount. This means that the original amount must have been 3 times the remaining amount.
+
+Let's call the original amount "x". We know that 2/3 of x is 192 sweets. So we can set up an equation:
+* 2/3 * x = 192
+
+Solving for x, we get:
+* x = 192 * 3/2 = 288
+
+Therefore, the original number of sweets in the pack was 288.
+
+Answer: 288

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, let's find the total amount of added sugar in the soft drink. 5% of 2500 calories is 0.05 * 2500 = 125. So, Mark took 125 calories of added sugar from the soft drink.
+
+Next, let's find the total amount of added sugar from the bars of candy. If each bar had 25 calories of added sugar, then the total amount of added sugar from the bars is 25 * X, where X is the number of bars Mark took. Since Mark exceeded the recommended intake of added sugar by 100%, we know that the total amount of added sugar from the bars is 125 + 100 = 225. Since 25 calories of added sugar is equal to 1 bar, we can set up the equation 25x = 225. To solve for X, we can divide both sides of the equation by 25, and get X = 9. So, Mark took 9 bars of candy.

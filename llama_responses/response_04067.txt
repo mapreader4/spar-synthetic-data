@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+1. 5 children went to the amusement park. 3 of them rode the Ferris wheel, so we can subtract 3 from 5 to find the number of children who did not ride the Ferris wheel: 5 - 3 = 2.
+
+2. Each of the 3 children who rode the Ferris wheel paid $5 each, so we can multiply 3 by 5 to find the total cost of the Ferris wheel ride: 3 x 5 = 15.
+
+3. The merry-go-round cost $3 per child, and 5 children went on it, so we can multiply 5 by 3 to find the total cost of the merry-go-round: 5 x 3 = 15.
+
+4. Everyone got 2 cones of ice cream each, and each cone costs $8, so we can multiply 5 by 8 to find the total cost of the ice cream: 5 x 8 = 40.
+
+5. To find the total amount spent, we add the cost of the Ferris wheel ride, the merry-go-round, and the ice cream: 15 + 15 + 40 = 70.
+
+Answer: 70

@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) There are 63 cannoneers, and none of them are women.
+2) The number of women is double the number of cannoneers, so the number of women is 2 * 63 = 126.
+3) The total number of men is twice the number of women, so the number of men is 2 * 126 = 252.
+4) The total number of people is the sum of the number of men and the number of women, which is 252 + 126 = 378.
+
+Answer: 378

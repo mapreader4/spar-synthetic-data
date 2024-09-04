@@ -1,0 +1,9 @@
+Let's start by identifying the number of balls in each type of ball.
+
+There are 3 packs of red balls, and each pack contains 19 balls, so the total number of red balls is 3 x 19 = 57.
+
+There are 10 packs of yellow balls, and each pack contains 19 balls, so the total number of yellow balls is 10 x 19 = 190.
+
+There are 8 packs of green balls, and each pack contains 19 balls, so the total number of green balls is 8 x 19 = 152.
+
+To find the total number of balls, we add the number of red, yellow, and green balls together. So, the total number of balls is 57 + 190 + 152 = 399.

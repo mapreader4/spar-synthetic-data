@@ -1,0 +1,27 @@
+Let's break this down step by step:
+
+Let's let C be the age of Cooper, D be the age of Dante, and M be the age of Maria. The sum of their ages is 31, so we can write the equation:
+
+C + D + M = 31
+
+We know that Maria is one year older than Dante, so M = D + 1. Substituting this into the equation, we get:
+
+C + D + D + 1 = 31
+
+We also know that Dante is twice as old as Cooper, so we can write D = 2C. Substituting this into the equation, we get:
+
+C + 2C + D + 1 = 31
+
+We can now solve for C:
+
+C + 2C + C + 1 = 31
+
+Combine like terms:
+
+3C + 1 = 31
+
+Subtract 1 from both sides:
+
+3C = 30
+
+So, Cooper is 10 years old.

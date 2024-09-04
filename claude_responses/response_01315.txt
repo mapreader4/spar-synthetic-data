@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Marcus can fit 5 pies in his oven at once
+* He bakes 7 batches of pies
+* Each batch contains 5 pies, since he can fit 5 in the oven at once
+* So the total number of pies he baked is 7 batches x 5 pies per batch = 35 pies
+* He then drops 8 of the pies
+* To find the number of pies left, we take the total number of pies baked (35) and subtract the number of pies dropped (8)
+* 35 pies - 8 pies dropped = 27 pies left
+
+Answer: 27

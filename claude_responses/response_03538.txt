@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Carrie drove 135 miles the first day
+* She drove 124 miles more the second day, which means she drove 135 + 124 = 259 miles
+* She drove 159 miles the third day
+* She drove 189 miles the fourth day
+* To calculate the total miles driven, we add up the miles for each day:
+  - 135 + 259 + 159 + 189 = 742 miles
+* We know that Carrie has to charge her phone every 106 miles
+* To calculate how many times she had to charge her phone, we divide the total miles driven by 106:
+  - 742 / 106 = 7 (with a remainder of 0)
+
+Answer: 7

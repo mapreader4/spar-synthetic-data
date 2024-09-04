@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) We know that Felix needs to get his axe resharpened for every 13 trees he chops down.
+2) We also know that he spends $35 on axe sharpening.
+3) To find the minimum number of trees he has chopped down, we need to find the minimum number of times he has had to sharpen his axe.
+4) To do this, we can divide the total cost of sharpening ($35) by the cost of each sharpening ($5).
+5) $35 / $5 = 7 times.
+6) Since he needs to sharpen his axe for every 13 trees he chops down, the minimum number of trees he has chopped down is 7 * 13 = 91 trees.
+
+Answer: 91

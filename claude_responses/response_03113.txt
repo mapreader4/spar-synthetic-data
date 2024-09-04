@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jordan picked 54 mangoes from his tree
+* One-third of the mangoes were ripe, and two-thirds were not yet ripe
+* To find the number of ripe mangoes:
+  - One-third of 54 is 54 ÷ 3 = 18 ripe mangoes
+* To find the number of unripe mangoes:
+  - Two-thirds of 54 is 54 × 2 ÷ 3 = 36 unripe mangoes
+* Jordan kept 16 unripe mangoes, so the remaining unripe mangoes are:
+  - 36 - 16 = 20 unripe mangoes
+* It takes 4 mangoes to fill a jar
+* To find the number of jars of pickled mangoes Jordan's sister can make:
+  - 20 unripe mangoes ÷ 4 mangoes per jar = 5 jars
+
+Answer: 5

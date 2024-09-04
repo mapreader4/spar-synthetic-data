@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of strings for each type of guitar:
+
+* Basses: 3 * 4 = 12 strings
+* Guitars: 2 * 6 = 12 strings
+* 3 fewer 8-string guitars: 8 - 3 = 5 strings
+
+Now, we need to add up the total number of strings needed:
+
+12 + 12 + 5 = 29
+
+Answer: 29

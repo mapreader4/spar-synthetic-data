@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Harly's animal shelter initially has 80 dogs.
+2) She adopts out 40% of the 80 dogs. 40% of 80 is 0.4 * 80 = 32 dogs.
+3) So, after adopting out 32 dogs, she has 80 - 32 = 48 dogs remaining.
+4) However, she then has to take back 5 dogs due to personality conflicts.
+5) So, the final number of dogs she has now is 48 + 5 = 53 dogs.
+
+Answer: 53

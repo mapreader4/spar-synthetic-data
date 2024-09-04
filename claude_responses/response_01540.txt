@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+
+1. Sam initially invested $10,000 and earned 20% interest compounded for 3 years.
+   * After the first year, the investment would be $10,000 + (20% of $10,000) = $12,000.
+   * After the second year, the investment would be $12,000 + (20% of $12,000) = $14,400.
+   * After the third year, the investment would be $14,400 + (20% of $14,400) = $17,280.
+
+2. Sam then invested more until he had three times as much invested.
+   * The amount he had invested after 3 years was $17,280.
+   * To have three times as much invested, he would need to invest an additional $34,560.
+   * The total amount invested would then be $17,280 + $34,560 = $51,840.
+
+3. The next year, he got a 15% return on his investment.
+   * The investment of $51,840 would grow by 15% to $59,616.
+
+Answer: $59,616

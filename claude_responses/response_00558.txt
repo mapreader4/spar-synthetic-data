@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jack was told to send the codes from 6 $500 Best Buy gift cards and 9 $200 Walmart gift cards
+* He sent the codes for 1 Best Buy gift card and 2 Walmart gift cards
+* For the Best Buy gift cards, he sent the codes for 1 out of 6 cards, so he has 5 remaining
+* For the Walmart gift cards, he sent the codes for 2 out of 9 cards, so he has 7 remaining
+* The value of the remaining Best Buy gift cards is 5 * $500 = $2,500
+* The value of the remaining Walmart gift cards is 7 * $200 = $1,400
+* Adding these together, the total value of the gift cards Jack can still return is:
+Answer: $2,500 + $1,400 = $3,900

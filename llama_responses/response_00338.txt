@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Bobby drives to the supermarket 5 miles away and back, so that's a total of 10 miles. He uses some amount of gasoline for this trip.
+2. Then, he heads to his farm which is 6 miles away, but he turns around 2 miles into the journey, so he only drives 4 miles to the farm. He then drives back home, which is another 4 miles.
+3. The total distance he drives is 10 + 4 + 4 = 18 miles.
+4. He started with 12 gallons of gasoline and now has 2 gallons left. So, the amount of gasoline used is 12 - 2 = 10 gallons.
+5. The total distance traveled is 18 miles, and the amount of gasoline used is 10 gallons. To find the rate of consumption, we can divide the distance by the amount of gasoline used: 18 miles / 10 gallons = 1.8 miles per gallon.
+
+Answer: 1.8

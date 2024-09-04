@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jamestown has 20 theme parks
+* Venice has 25 more theme parks than Jamestown
+* To find the number of theme parks in Venice, we add 25 to the number of theme parks in Jamestown:
+  * Venice = 20 + 25 = 45 theme parks
+* Marina Del Ray has 50 more theme parks than Jamestown
+* To find the number of theme parks in Marina Del Ray, we add 50 to the number of theme parks in Jamestown:
+  * Marina Del Ray = 20 + 50 = 70 theme parks
+* To find the total number of theme parks in the three towns, we add the number of theme parks in each town:
+  * Total = Jamestown (20) + Venice (45) + Marina Del Ray (70)
+  * Total = 20 + 45 + 70 = 135 theme parks
+
+Answer: 135

@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) The first group consists of 3 adults with an average weight of 140 pounds. So the total weight of the first group is:
+3 adults x 140 pounds = 420 pounds
+2) The second group consists of 2 children with an average weight of 64 pounds. So the total weight of the second group is:
+2 children x 64 pounds = 128 pounds
+3) The total weight of the two groups is:
+420 pounds + 128 pounds = 548 pounds
+4) The maximum weight the elevator can hold is 600 pounds.
+5) To find the maximum weight of the next person to get in the elevator, we need to subtract the total weight of the two groups from the maximum weight of the elevator:
+600 pounds - 548 pounds = 52 pounds
+
+Answer: 52 pounds

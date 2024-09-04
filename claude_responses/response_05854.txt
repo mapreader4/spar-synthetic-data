@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* You have 3 gold coins, and each gold coin is worth $50
+* So the value of the 3 gold coins is:
+3 gold coins x $50 per coin = $150
+* You have 5 silver coins, and each silver coin is worth $25
+* So the value of the 5 silver coins is:
+5 silver coins x $25 per coin = $125
+* You also have $30 in cash
+* To calculate the total amount of money you have, we add up the values of the gold coins, silver coins, and cash:
+$150 + $125 + $30 = $305
+Answer: 305

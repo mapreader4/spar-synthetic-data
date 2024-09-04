@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Mr. Smith has 2 adults (himself and his wife)
+* Mr. Smith has 2 senior citizens (his parents)
+* Mr. Smith has 3 children
+* The adult buffet price is $30 per person
+* The children's buffet price is $15 per child
+* Senior citizens get a 10% discount on the adult buffet price
+
+First, let's calculate the cost for the 2 adult buffets:
+* 2 adults x $30 per adult = $60
+
+Next, let's calculate the cost for the 2 senior citizen buffets with the 10% discount:
+* 2 seniors x $30 per adult = $60
+* 10% discount on $60 = $6 discount
+* $60 - $6 = $54
+
+Finally, let's calculate the cost for the 3 children's buffets:
+* 3 children x $15 per child = $45
+
+Now we can add up the total cost:
+* $60 (2 adult buffets) + $54 (2 senior buffets) + $45 (3 children's buffets) = $159
+
+Answer: $159

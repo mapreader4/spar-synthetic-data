@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Misty's favorite number is 3 times smaller than Glory's favorite number.
+2) Glory's favorite number is 450.
+3) To find Misty's favorite number, we divide Glory's favorite number by 3:
+   * Misty's favorite number = 450 / 3 = 150
+4) To find the sum of their favorite numbers, we add Misty's favorite number to Glory's favorite number:
+   * Sum of their favorite numbers = 150 + 450 = 600
+
+Answer: 600

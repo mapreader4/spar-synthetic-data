@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of squares on the quilt. There are 16 squares on one side and 16 squares on the other side, so the total number of squares is 16 + 16 = 32.
+
+Since Betsy has already sewn 25% of the quilt together, we need to find 25% of 32. To do this, we can multiply 32 by 0.25.
+
+32 x 0.25 = 8
+
+So, Betsy has sewn 8 squares together. To find out how many more squares she needs to sew together, we subtract 8 from 32.
+
+32 - 8 = 24
+
+Answer: 24

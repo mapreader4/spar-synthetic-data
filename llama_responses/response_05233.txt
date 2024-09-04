@@ -1,0 +1,14 @@
+Let's start by letting x be the amount of money Trisha brought with her to the store.
+
+We know that the total cost of the groceries is the sum of the cost of the meat, chicken, veggies, eggs, and dog food, which is 17 + 22 + 43 + 5 + 45 = 127.
+
+Since Trisha had 35 dollars left after buying the groceries, we can set up an equation to represent the situation.
+
+x - 127 = 35
+
+To solve for x, we subtract 127 from both sides of the equation, which gives us:
+
+x = 35 + 127
+x = 162
+
+So, Trisha brought 162 dollars with her to the store.

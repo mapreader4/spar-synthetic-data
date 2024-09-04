@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Linda's bag initially has:
+   - 2 dimes
+   - 6 quarters
+   - 5 nickels
+
+2. Her mother gives her:
+   - 2 more dimes (2 + 2 = 4 dimes)
+   - 10 quarters (6 + 10 = 16 quarters)
+   - Twice as many nickels as she has (5 x 2 = 10 nickels)
+
+3. Now, let's add up all the coins she has:
+   - 4 dimes
+   - 16 quarters
+   - 10 nickels
+
+4. To find the total number of coins, we add up all the individual coin counts:
+   - 4 dimes + 16 quarters + 10 nickels = 4 + 16 + 10 = 30 coins
+
+Answer: 30

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many pizzas Jimmy can make in 7 hours. Since he takes 10 minutes to make each pizza, we can convert the time from hours to minutes: 7 hours x 60 minutes/hour = 420 minutes.
+
+Now, let's divide the total time (420 minutes) by the time it takes to make each pizza (10 minutes): 420 minutes ÷ 10 minutes/pizza = 42 pizzas.
+
+This means Jimmy can make 42 pizzas in 7 hours. Now, let's calculate how much flour he will use to make these pizzas. Each pizza requires 0.5 kg of flour, so for 42 pizzas, he will need:
+
+42 pizzas x 0.5 kg/pizza = 21 kg of flour
+
+Since Jimmy started with a 22 kg sack of flour, he will have:
+
+22 kg - 21 kg = 1 kg of flour left
+
+Now, let's find out how many pizzas he can make with the leftover flour. Since each pizza requires 0.5 kg of flour, we can divide the leftover flour by 0.5 kg:
+
+1 kg ÷ 0.5 kg/pizza = 2 pizzas
+
+Answer: 2

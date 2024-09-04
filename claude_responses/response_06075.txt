@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Tim hires two bodyguards
+* Each bodyguard charges $20 per hour
+* He hires them for 8 hours per day
+* He hires them for 7 days per week
+
+To calculate the total amount he pays them in a week, we need to:
+1. Calculate the daily cost for each bodyguard:
+   * Each bodyguard charges $20 per hour
+   * They work 8 hours per day
+   * So, each bodyguard costs $20 x 8 = $160 per day
+2. Calculate the total daily cost for both bodyguards:
+   * There are two bodyguards
+   * So, the total daily cost is $160 x 2 = $320
+3. Calculate the total weekly cost:
+   * The bodyguards work for 7 days per week
+   * So, the total weekly cost is $320 x 7 = $2,240
+
+Answer: $2,240

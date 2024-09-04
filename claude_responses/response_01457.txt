@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The initial yield is 20 sacks of rice per harvest.
+2) After the first harvest, the yield increases by 20%. 
+   * 20% of 20 sacks = 0.2 * 20 = 4 sacks
+   * So the new yield after the first harvest is 20 + 4 = 24 sacks.
+3) After the second harvest, the yield increases by another 20%.
+   * 20% of 24 sacks = 0.2 * 24 = 4.8 sacks (rounded to 5 sacks)
+   * So the new yield after the second harvest is 24 + 5 = 29 sacks.
+4) The total number of sacks of rice after the first and second harvest is 20 + 29 = 49 sacks.
+
+Answer: 49

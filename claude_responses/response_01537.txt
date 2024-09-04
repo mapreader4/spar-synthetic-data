@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) Antoinette weighs 7 less kilograms than twice Rupert's weight. This means that Antoinette's weight can be represented as 2 * Rupert's weight - 7.
+2) Together, Antoinette and Rupert weigh 98 kilograms. This means that Antoinette's weight + Rupert's weight = 98.
+3) Substituting Antoinette's weight with 2 * Rupert's weight - 7, we get:
+2 * Rupert's weight - 7 + Rupert's weight = 98
+3 * Rupert's weight - 7 = 98
+3 * Rupert's weight = 105
+Rupert's weight = 35
+4) Now that we know Rupert's weight is 35 kilograms, we can calculate Antoinette's weight:
+Antoinette's weight = 2 * 35 - 7 = 63 kilograms.
+
+Answer: 63 kilograms.

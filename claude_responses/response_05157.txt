@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The customer's check is $15.00.
+2) The state applies a 20% tax to restaurant sales.
+3) To calculate the tax, we take 20% of $15.00, which is 0.20 * $15.00 = $3.00.
+4) The total amount the customer owes, including the tax, is $15.00 + $3.00 = $18.00.
+5) The customer gave Jason a $20 bill.
+6) To calculate the tip, we take the amount the customer paid ($20.00) and subtract the total amount owed ($18.00).
+7) $20.00 - $18.00 = $2.00.
+
+Answer: $2

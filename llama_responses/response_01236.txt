@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total number of cats in the house. We are given that there are 16 cats in total.
+
+We know that 2 of them are white, and 25% of them are black. 25% of 16 is 4, so there are 4 black cats.
+
+The total number of cats that are not white or black is 16 - 2 - 4 = 10. Therefore, there are 10 grey cats in the house.
+
+Answer: 10

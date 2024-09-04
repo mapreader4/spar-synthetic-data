@@ -1,0 +1,6 @@
+Let the mother's current age be x. The mother is twice as old as her daughter, so the daughter's age is x/2. The mother's current age is 41, so the equation is:
+
+x = 41 * 2
+x = 82
+
+The daughter's age in 3 years is 82 - 3 = 79.

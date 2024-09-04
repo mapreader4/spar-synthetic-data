@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Yasna has two books
+* The first book is 180 pages long
+* The second book is 100 pages long
+* Yasna wants to finish both books in two weeks
+* She will read an equal number of pages each day
+
+To find the number of pages Yasna needs to read every day, we need to:
+1. Calculate the total number of pages in both books:
+   * 180 pages + 100 pages = 280 pages
+2. Divide the total number of pages by the number of days in two weeks:
+   * 280 pages / 14 days = 20 pages per day
+
+Therefore, Yasna needs to read 20 pages every day to finish both books in two weeks.
+
+Answer: 20

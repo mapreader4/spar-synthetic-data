@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Randy has $200 in his piggy bank to start with.
+* He spends $2 every time he goes to the store.
+* He goes to the store 4 times per month.
+* There are 12 months in a year.
+
+So, we can calculate the total amount he spends in a year:
+* $2 per trip x 4 trips per month x 12 months = $96 spent in a year.
+
+Now, we can subtract the amount he spent from the initial $200 in his piggy bank:
+* $200 - $96 = $104 remaining in his piggy bank after a year.
+
+Answer: 104

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find the maximum capacity of the two schools that can teach 400 students at a time. This is 400.
+
+Now, let's find the maximum capacity of the other two schools that can teach 340 students at a time. This is 340.
+
+Now, we need to find the total capacity of all four schools. The capacity of the two schools that can teach 400 students at a time is 400, and the capacity of the other two schools is 340. So, we need to add these two capacities together. 400 + 340 = 740.
+
+So, the total capacity of all four schools is 740.
+
+Answer: 740

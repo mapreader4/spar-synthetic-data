@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by letting x be the number of adult tickets sold. Then, we know that 3x is the number of child tickets sold, because there are 3 times as many children as adults.
+
+We know that the total revenue is $6,000. The cost of an adult ticket is $7 and a child's ticket is $3. So, the total cost of adult tickets is 7x and the total cost of child tickets is 3x. The total revenue is the sum of these two, which is 7x + 3x.
+
+The total revenue is $6,000. So, we can set up the equation 7x + 3x = 6,000.
+
+We can solve this equation by subtracting 3x from both sides. 7x = 6,000 - 3x. Then, we can divide both sides by 7 to get x = 6,000 / 7. This gives us x = 857.
+
+Answer: 857

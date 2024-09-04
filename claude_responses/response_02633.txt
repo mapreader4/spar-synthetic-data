@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, the bird watcher saw 70 birds.
+
+2. On Tuesday, the bird watcher saw half as many birds as he did on Monday. So, if he saw 70 birds on Monday, he would have seen 70 / 2 = 35 birds on Tuesday.
+
+3. On Wednesday, the bird watcher saw 8 more birds than he did on Tuesday. So, if he saw 35 birds on Tuesday, he would have seen 35 + 8 = 43 birds on Wednesday.
+
+Now, to calculate the total number of birds the bird watcher saw from Monday to Wednesday, we add up the number of birds seen each day:
+
+Monday: 70 birds
+Tuesday: 35 birds
+Wednesday: 43 birds
+
+Total number of birds seen = 70 + 35 + 43 = 148 birds
+
+Answer: 148

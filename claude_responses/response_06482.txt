@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+1) The lake is full of turtles, and 60% of the turtles are female.
+2) The remaining 40% of the turtles are male.
+3) Of the male turtles, 1 in 4 has stripes.
+4) Of the turtles with stripes, 4 are babies, and 60% are adults.
+
+Now, let's solve for the total number of turtles in the lake:
+* If 60% of the turtles are female, then 40% are male.
+* Of the male turtles, 1 in 4 has stripes.
+* Of the turtles with stripes, 4 are babies and 60% are adults.
+
+To find the total number of turtles, we need to find the number of male turtles with stripes, and then add that to the number of female turtles.
+
+Let's start with the male turtles with stripes:
+* If 40% of the turtles are male, and 1 in 4 of those have stripes, then the number of male turtles with stripes is 10% of the total.
+* Of those 10% with stripes, 4 are babies and 60% are adults.
+* So the number of male turtles with stripes is 10% of the total, with 4 being babies and 60% being adults.
+
+Now, let's add the female turtles:
+* Since 60% of the turtles are female, the number of female turtles is 60% of the total.
+
+Therefore, the total number of turtles in the lake is the sum of the female turtles and the male turtles with stripes.
+
+Answer: The total number of turtles in the lake is 100.

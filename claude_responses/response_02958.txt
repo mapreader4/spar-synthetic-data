@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The town of Belize has 400 homes total.
+2) One fourth of the town's homes are white. That means 1/4 of 400 = 100 homes are white.
+3) The remaining homes are non-white. The number of non-white homes is 400 - 100 = 300.
+4) One fifth of the non-white homes have a fireplace. That means 1/5 of 300 = 60 non-white homes have a fireplace.
+5) The number of non-white homes that do not have a fireplace is the total number of non-white homes (300) minus the number of non-white homes with a fireplace (60).
+Answer: 240

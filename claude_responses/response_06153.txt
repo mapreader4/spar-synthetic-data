@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Beatrice bought 20 books
+* The first 5 books cost $20 each
+* So the cost of the first 5 books is 5 * $20 = $100
+* For the remaining 15 books, Beatrice receives a $2 discount per book
+* The cost of the remaining 15 books is 15 * ($20 - $2) = 15 * $18 = $270
+* The total cost is the cost of the first 5 books plus the cost of the remaining 15 books
+* Total cost = $100 + $270 = $370
+
+Answer: 370

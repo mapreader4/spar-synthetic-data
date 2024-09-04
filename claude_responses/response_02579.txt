@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Nori had 4 boxes of crayons, with 8 crayons in each box.
+* So the total number of crayons Nori had initially is:
+4 boxes x 8 crayons per box = 32 crayons
+* Nori gave 5 crayons to Mae.
+* Nori has 15 crayons left.
+* To find how many crayons Nori gave to Lea, we can subtract the 5 crayons given to Mae and the 15 crayons left from the total 32 crayons:
+32 crayons - 5 crayons (given to Mae) - 15 crayons (left) = 12 crayons given to Lea
+* To find how many more crayons Nori gave to Lea than Mae, we subtract the 5 crayons given to Mae from the 12 crayons given to Lea:
+12 crayons (given to Lea) - 5 crayons (given to Mae) = 7 more crayons given to Lea than Mae
+
+Answer: 7

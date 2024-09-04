@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Mars can be seen until 12:10 AM
+* Jupiter appears 2 hours and 41 minutes after Mars disappears
+* Uranus appears 3 hours and 16 minutes after Jupiter makes its first appearance
+
+First, we need to find out when Jupiter appears:
+* Mars disappears at 12:10 AM
+* Jupiter appears 2 hours and 41 minutes later
+* 12:10 AM + 2 hours and 41 minutes = 2:51 AM
+
+Now, we need to find out when Uranus appears:
+* Jupiter appears at 2:51 AM
+* Uranus appears 3 hours and 16 minutes later
+* 2:51 AM + 3 hours and 16 minutes = 6:07 AM
+
+Therefore, Uranus first appears in the evening sky over Texas this evening 7 minutes after 6:00 AM.
+
+Answer: 407

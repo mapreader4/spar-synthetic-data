@@ -1,0 +1,17 @@
+Let's call the number of boys signed up to compete "x". Then, we can set up the equation:
+
+Number of girls = Number of kids - Number of boys.
+
+We are given that there are 22 more girls than boys. So, we can write the equation as:
+
+Number of girls = x + 22.
+
+We are asked to find the number of girls. We can subtract the number of boys from both sides of the equation to get the number of girls:
+
+x = Number of girls - 22.
+
+We are given that there are 34 kids in total. So, we can substitute x = 34 - 22 to get the number of girls:
+
+Number of girls = 34 - 22 = 12.
+
+Answer: 12

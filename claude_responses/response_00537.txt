@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The shipping boat's crew consisted of 17 sailors, with 5 of them being inexperienced.
+* The 5 inexperienced sailors were paid $10 per hour for a 60-hour workweek.
+* Each experienced sailor was paid 1/5 times more than the inexperienced sailors.
+
+First, let's calculate the weekly earnings of the 5 inexperienced sailors:
+* 5 sailors x $10 per hour x 60 hours per week = $3,000 per week
+
+Now, let's calculate the hourly rate of the experienced sailors:
+* Inexperienced sailors: $10 per hour
+* Experienced sailors: $10 per hour + 1/5 of $10 per hour = $12 per hour
+
+There are 12 experienced sailors (17 total - 5 inexperienced = 12 experienced).
+
+To calculate the total monthly earnings of the experienced sailors, we need to:
+* Calculate the weekly earnings of the experienced sailors
+* Multiply the weekly earnings by 4 to get the monthly earnings
+
+Weekly earnings of experienced sailors:
+* 12 sailors x $12 per hour x 60 hours per week = $8,640 per week
+
+Monthly earnings of experienced sailors:
+* $8,640 per week x 4 weeks per month = $34,560 per month
+
+Answer: $34,560

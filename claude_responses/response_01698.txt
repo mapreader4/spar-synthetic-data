@@ -1,0 +1,19 @@
+To solve this problem, we need to find the total number of clothes that Cally and Danny washed.
+
+Given information:
+- Cally has 10 white shirts, 5 colored shirts, 7 pairs of shorts, and 6 pairs of pants.
+- Danny has 6 white shirts, 8 colored shirts, 10 shorts, and 6 pairs of pants.
+
+Step 1: Calculate the total number of clothes Cally washed.
+Cally's clothes = 10 white shirts + 5 colored shirts + 7 pairs of shorts + 6 pairs of pants
+Cally's clothes = 10 + 5 + 7 + 6 = 28 clothes
+
+Step 2: Calculate the total number of clothes Danny washed.
+Danny's clothes = 6 white shirts + 8 colored shirts + 10 shorts + 6 pairs of pants
+Danny's clothes = 6 + 8 + 10 + 6 = 30 clothes
+
+Step 3: Calculate the total number of clothes Cally and Danny washed.
+Total clothes washed = Cally's clothes + Danny's clothes
+Total clothes washed = 28 + 30 = 58 clothes
+
+Answer: 58

@@ -1,0 +1,9 @@
+Let's start by converting the volume of each drop to milliliters: 1 minute * 60 seconds * 20 ml/drop = 1200 ml.
+
+Now, let's convert the total volume to liters: 3 liters = 3000 ml.
+
+So, the total volume is 1200 ml, and the total capacity is 3000 ml. To find out how many times the pot will be full, we can divide the total capacity by the volume of each drop:
+
+3000 ml (total capacity) ÷ 1200 ml (volume of one drop) = 2.5 times
+
+So, it will take 2.5 minutes for the pot to be full.

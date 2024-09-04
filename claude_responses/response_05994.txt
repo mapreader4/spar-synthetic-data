@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Binkie has four times as many gemstones on his collar as Frankie.
+2) Spaatz has two less than half as many gemstones on her collar as Frankie.
+3) Spaatz has 1 gemstone on her collar.
+4) Since Spaatz has two less than half as many gemstones as Frankie, and Spaatz has 1 gemstone, we can calculate the number of gemstones Frankie has:
+   - Spaatz has half as many gemstones as Frankie, minus 2.
+   - So Frankie has 2 x (1 + 2) = 6 gemstones.
+5) Since Binkie has four times as many gemstones as Frankie, and Frankie has 6 gemstones, Binkie has 4 x 6 = 24 gemstones.
+
+Answer: 24

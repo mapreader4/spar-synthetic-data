@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's first find the number of trees planted on Monday. The forester triples the number of trees in the forest, so if the forest has 30 trees, then the number of trees planted on Monday is 3 x 30 = 90.
+
+On Tuesday, he plants a third of the amount he planted on Monday. So, he plants a third of 90, which is 30 trees.
+
+The total number of trees planted is the sum of the trees planted on Monday and Tuesday, which is 90 + 30 = 120.
+
+Answer: 120

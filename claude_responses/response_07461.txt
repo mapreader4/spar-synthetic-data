@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Christi saw twice as many black bears as white bears
+* This means the number of white bears is half the number of black bears
+* The number of black bears is given as 60
+* So the number of white bears is 60 / 2 = 30
+* Christi also saw 40 more brown bears than black bears
+* So the number of brown bears is 60 + 40 = 100
+
+Now, to calculate the total population of bears in the park, we add up the number of black, white, and brown bears:
+* Total bears = 60 (black) + 30 (white) + 100 (brown)
+* Total bears = 190
+
+Answer: 190

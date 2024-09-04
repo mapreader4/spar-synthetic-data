@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Jerry wants to make an average of $50 in tips per night, and he wants to work 5 nights a week. To find the total amount he needs to earn, we need to multiply the average tip amount by the number of nights he works in a week.
+
+The average tip amount is $50 per night, and Jerry works 5 nights a week. So, the total amount Jerry needs to earn is:
+
+$50 * 5 = $250
+
+Jerry has earned $20, $60, $15, and $40 in the past 4 nights. The total amount he has earned so far is:
+
+$20 + $60 + $15 + $40 = $135
+
+Jerry needs to earn $250 - $135 = $115 more tonight to reach his goal of earning an average of $50 per night.

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of kids who attend Sunday's class. If 20 kids attend Saturday's class, and half that many attend Sunday's class, then the number of kids attending Sunday's class is 20 / 2 = 10.
+
+Now, let's calculate the total number of kids attending both classes. There are 20 kids attending Saturday's class and 10 kids attending Sunday's class, so the total number of kids is 20 + 10 = 30.
+
+Now, let's calculate the total amount of money Claudia makes. Since Claudia charges $10.00 for each kid, the total amount she makes is 30 kids * 10.00 = 300.00.
+
+Answer: 300.00

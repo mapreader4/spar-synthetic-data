@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) The biggest doll is 243 cm tall.
+2) Each doll is 2/3rd the size of the doll that contains it.
+3) We want to find the size of the 6th biggest doll.
+4) Let's start with the biggest doll, which is 243 cm.
+5) The next doll inside would be 2/3 * 243 = 162 cm.
+6) The next doll inside would be 2/3 * 162 = 108 cm.
+7) The next doll inside would be 2/3 * 108 = 72 cm.
+8) The next doll inside would be 2/3 * 72 = 48 cm.
+9) The 6th biggest doll would be 2/3 * 48 = 32 cm.
+
+Answer: 32 cm

@@ -1,0 +1,11 @@
+To find the cost per year, we need to calculate the total cost of the EpiPens in a year and then divide it by 12.
+
+There are 2 EpiPens in a year, since John gets a new one every 6 months. So the total cost of the EpiPens in a year is:
+
+2 * 500 = 1000
+
+The cost of the EpiPens is covered by insurance by 75%, so the amount John pays is:
+
+1000 * 0.75 = 750
+
+The amount John pays per year is 750.

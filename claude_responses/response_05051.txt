@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+On the first day:
+* Eliana walked 200 steps for her morning exercise
+* She then did some press-ups (the number of press-ups is not given, so we will ignore this)
+* She then added 300 more steps to her count
+* So the total number of steps on the first day is 200 + 300 = 500 steps
+
+On the second day:
+* Eliana walked twice the number of steps she walked on the first day
+* So the number of steps on the second day is 2 x 500 = 1,000 steps
+
+On the third day:
+* Eliana walked an additional 100 steps
+* So the number of steps on the third day is 100
+
+Now, to find the total number of steps Eliana walked during these three days, we add up the steps from each day:
+* Total steps = 500 + 1,000 + 100 = 1,600 steps
+
+Answer: 1,600

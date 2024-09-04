@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The zoo has 5 different types of animals, and it takes 6 minutes to see each animal type. So, the total time to see all 5 animals is 5 * 6 = 30 minutes.
+
+2. If the zoo decides to import 4 new species, the total number of animals would be 5 (existing species) + 4 (new species) = 9.
+
+3. It would take the same 6 minutes to see each of the 9 animals. So, the total time would be 9 * 6 = 54 minutes.
+
+Answer: 54

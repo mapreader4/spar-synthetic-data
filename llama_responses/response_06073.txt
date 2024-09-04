@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of light bulbs that are broken in the foyer. We know that a third of the light bulbs in the foyer are broken, so if 10 light bulbs are broken in the foyer, then we can find the total number of light bulbs in the foyer by multiplying 10 by 3:
+
+10 x 3 = 30
+
+So, 30 light bulbs in the foyer are broken.
+
+Now, let's find the number of light bulbs that are broken in the kitchen. We know that three fifths of the light bulbs in the kitchen are broken. We know that there are 35 light bulbs in the kitchen. So, we can find the number of broken light bulbs in the kitchen by multiplying 35 by 3:
+
+35 x 3 = 105
+
+So, 105 light bulbs in the kitchen are broken.
+
+Now, let's find the number of light bulbs that are not broken in both the foyer and kitchen. We know that 10 light bulbs are broken in the foyer and 105 light bulbs are broken in the kitchen. So, we can find the number of light bulbs that are not broken in both places by subtracting 10 from 105:
+
+105 - 10 = 95
+
+So, 95 light bulbs are not broken in both the foyer and kitchen.

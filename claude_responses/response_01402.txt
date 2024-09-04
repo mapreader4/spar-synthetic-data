@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Dan takes 3 hours to dig an adult grave
+* Dan takes 2 hours to dig a child's grave
+* Dan needs to dig 5 adult graves and 1 child's grave
+
+To calculate the total time it takes Dan to dig all the graves, we need to:
+1. Calculate the time it takes to dig the 5 adult graves
+   * 5 adult graves x 3 hours per grave = 15 hours
+2. Calculate the time it takes to dig the 1 child's grave
+   * 1 child's grave x 2 hours per grave = 2 hours
+3. Add the time for the adult graves and the child's grave
+   * 15 hours + 2 hours = 17 hours
+
+Therefore, it takes Dan 17 hours to dig 5 adult graves and 1 child's grave.
+
+Answer: 17

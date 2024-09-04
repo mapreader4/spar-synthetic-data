@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+
+1. Mimi spent a total of $8,000 on athletic sneakers and clothes.
+2. She spent thrice as much on Nike sneakers as she did on Adidas.
+3. The amount she spent on Adidas was 1/5 the cost of Skechers.
+4. Mimi's Adidas sneakers purchase was $600.
+
+Now, let's calculate the amounts spent on each item:
+* Adidas sneakers: $600
+* Nike sneakers: 3 x $600 = $1,800
+* Skechers: 5 x $600 = $3,000
+
+Now, we can calculate the amount spent on clothes:
+* Total spent: $8,000
+* Spent on sneakers: $600 + $1,800 + $3,000 = $5,400
+* Spent on clothes: $8,000 - $5,400 = $2,600
+
+Answer: $2,600

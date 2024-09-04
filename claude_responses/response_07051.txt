@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Jane bought 600 minnows
+2) Each prize is a bowl with 3 minnows
+3) 800 people are going to play the game
+4) 15% of the 800 people will win a prize
+
+First, we need to calculate how many people will win a prize:
+* 15% of 800 people = 0.15 * 800 = 120 people
+
+Now, we need to calculate how many minnows will be used for the prizes:
+* Each prize has 3 minnows, and there are 120 prizes
+* 120 prizes * 3 minnows per prize = 360 minnows
+
+Finally, we can calculate the number of minnows left over:
+* Jane bought 600 minnows
+* 360 minnows were used for the prizes
+* 600 minnows - 360 minnows = 240 minnows left over
+
+Answer: 240

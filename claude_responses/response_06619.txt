@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The rancher has 400 head of cattle to transport
+* The animal transport truck holds 20 head of cattle
+* The distance to travel is 60 miles
+* The truck travels at a speed of 60 miles per hour
+
+To calculate the total driving time, we need to determine how many trips the truck will need to make to transport all 400 head of cattle.
+
+* The truck can hold 20 head of cattle per trip
+* 400 head of cattle / 20 head per trip = 20 trips
+
+Now, we can calculate the total driving time:
+* Each trip is 60 miles
+* At 60 miles per hour, each trip will take 1 hour
+* 20 trips x 1 hour per trip = 20 hours
+
+Therefore, the total driving time to transport all 400 head of cattle to higher ground is 20 hours.
+
+Answer: 20

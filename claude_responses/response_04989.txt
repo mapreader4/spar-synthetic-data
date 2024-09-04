@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Edmund uses 18 inches of gift wrapper per gift box
+* Edmund has 90 inches of gift wrapper per day
+* We want to know how many gift boxes he can wrap every 3 days
+
+First, let's calculate how many gift boxes he can wrap per day:
+* 90 inches of gift wrapper per day / 18 inches per gift box = 5 gift boxes per day
+
+Now, to find how many gift boxes he can wrap every 3 days, we multiply the number of gift boxes per day by 3:
+* 5 gift boxes per day x 3 days = 15 gift boxes every 3 days
+
+Answer: 15

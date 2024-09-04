@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Nathan bought one large box of bananas
+* There are six bunches with eight bananas in each bunch
+* So, for the six bunches with eight bananas each, the total number of bananas is:
+  * 6 bunches x 8 bananas per bunch = 48 bananas
+* There are also five bunches with seven bananas in each bunch
+* So, for the five bunches with seven bananas each, the total number of bananas is:
+  * 5 bunches x 7 bananas per bunch = 35 bananas
+* To get the total number of bananas, we add the two amounts together:
+  * 48 bananas + 35 bananas = 83 bananas
+
+Answer: 83

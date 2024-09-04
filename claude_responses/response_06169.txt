@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tomas can run 3 miles during the first month of training
+* Each month, he can run twice as far as the month before
+* The marathon is 26.3 miles
+
+So, let's calculate the distance he can run each month:
+* Month 1: 3 miles
+* Month 2: 3 x 2 = 6 miles
+* Month 3: 6 x 2 = 12 miles
+* Month 4: 12 x 2 = 24 miles
+
+We can see that by the 4th month, he can run 24 miles, which is close to the 26.3 miles required for the marathon.
+
+To ensure he can run far enough, he should start training 4 months before the marathon.
+
+Answer: 4

@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+1. Jeremy's average speed is 50 miles per hour, so to find the time it takes him to drive 600 miles, we can divide 600 by 50:
+
+600 miles / 50 mph = 12 hours
+
+So, Jeremy will take 12 hours to drive to his parents' house.
+
+2. Jeremy makes a rest stop every 2 hours, and he drives for 12 hours. This means he will make 6 rest stops (12 hours / 2 hours per stop = 6 stops).
+
+3. Each rest stop takes 15 minutes, so the total time spent on rest stops is:
+
+6 stops * 15 minutes per stop = 90 minutes
+
+4. Jeremy's car gets 18 miles per gallon of gas, and his gas indicator comes on when he's used 15 gallons. This means he will need to refill his gas tank 15 / 18 = 0.833333... times, which we can round up to 1 time, since he can't refill a fraction of a tank.
+
+5. Refilling his gas tank takes 10 minutes, so the total time spent refilling gas is:
+
+1 refill * 10 minutes = 10 minutes
+
+6. Now, we add up the total time spent driving, resting, and refilling gas:
+
+12 hours * 60 minutes per hour = 720 minutes (driving time)
++ 90 minutes (resting time)
++ 10 minutes (refilling gas time)
+= 820 minutes
+
+Answer: 820

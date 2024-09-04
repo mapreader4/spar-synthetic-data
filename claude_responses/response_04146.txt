@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+1. There are 600 students in the senior class.
+2. A fifth of the students are in the marching band. 
+   * 600 / 5 = 120 students are in the marching band.
+3. Half of the students in the marching band play a brass instrument.
+   * 120 / 2 = 60 students play a brass instrument.
+4. A fifth of the students that play a brass instrument play the saxophone.
+   * 60 / 5 = 12 students play the saxophone.
+5. A third of the students that play the saxophone play the alto saxophone.
+   * 12 / 3 = 4 students play the alto saxophone.
+
+Answer: 4 students play the alto saxophone.

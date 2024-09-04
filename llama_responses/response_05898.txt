@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of bollards required for all sides of the road. If the road is 2 sides, then the total number of bollards required is 4000 * 2 = 8000. Since the company only installed 3/4 of the total number of bollards, the number of bollards installed is 8000 * 3/4 = 6000. This means that 2000 bollards are still required to be installed.
+
+Answer: 2000

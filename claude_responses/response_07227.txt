@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Elizabeth has $20 to spend
+* Each pencil costs $1.60
+* Each pen costs $2
+* Elizabeth wants to buy 6 pens
+
+First, we need to calculate the total cost of the 6 pens:
+* 6 pens x $2 per pen = $12
+
+Now, we need to subtract the cost of the pens from the total amount of money Elizabeth has:
+* $20 - $12 = $8 remaining
+
+Now, we can calculate how many pencils Elizabeth can buy with the remaining $8:
+* $8 / $1.60 per pencil = 5 pencils
+
+Therefore, Elizabeth can buy 5 pencils with her remaining $8 after buying 6 pens.
+
+Answer: 5

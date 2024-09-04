@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Step 1: Determine the total number of boxes of cookies that will be sold in each neighborhood.
+
+Neighborhood A has 10 homes and each home will buy 2 boxes of cookies. So, the total number of boxes of cookies sold in neighborhood A is 10 x 2 = 20.
+
+Neighborhood B has 5 homes and each home will buy 5 boxes of cookies. So, the total number of boxes of cookies sold in neighborhood B is 5 x 5 = 25.
+
+Step 2: Calculate the total revenue from each neighborhood.
+
+The total revenue from neighborhood A is 20 boxes of cookies at $2 per box, which is 20 x $2 = $40.
+
+The total revenue from neighborhood B is 25 boxes of cookies at $2 per box, which is 25 x $2 = $50.
+
+Step 3: Compare the total revenue from each neighborhood.
+
+Since neighborhood A will generate $40 in revenue, and neighborhood B will generate $50 in revenue, neighborhood B is the better choice for Jenny. The answer is:

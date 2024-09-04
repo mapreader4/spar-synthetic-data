@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Benjamin bought a salad, a burger, and two packs of fries
+* He paid a total of $15
+* We know that one pack of fries costs $2
+* We also know that the salad costs three times the price of one pack of fries
+
+First, let's calculate the cost of the salad:
+* The salad costs three times the price of one pack of fries
+* So, the salad costs 3 x $2 = $6
+
+Now, let's calculate the total cost of the fries:
+* There are two packs of fries, and each pack costs $2
+* So, the total cost of the fries is 2 x $2 = $4
+
+Now, we can calculate the cost of the burger:
+* The total amount paid is $15
+* The cost of the salad is $6
+* The cost of the fries is $4
+* So, the cost of the burger must be $15 - $6 - $4 = $5
+
+Answer: $5

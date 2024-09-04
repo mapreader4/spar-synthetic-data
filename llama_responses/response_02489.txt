@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Samara saw 20 alligators.
+* Her friends saw an average of 10 alligators each.
+
+To find the total number of alligators Samara and her friends saw, we need to add the number of alligators Samara saw to the product of the number of friends and the average number of alligators each friend saw.
+
+The number of friends is not given, but we can assume it is x. Let's call it x. So, the total number of alligators Samara and her friends saw is:
+
+20 (Samara's alligators) + (x * 10) (friends' alligators)
+
+We know that the number of friends is unknown, but we can express it as an equation:
+
+x * 10 = 30
+
+So, the total number of alligators Samara and her friends saw is:
+
+20 + (30) = 50
+
+Answer: 50

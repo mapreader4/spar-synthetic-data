@@ -1,0 +1,19 @@
+Let's think step by step.
+
+Let's find the three consecutive odd integers. Let's call the first integer x. Since the sum of these three integers is -147, we can write the equation:
+
+x - (x + 2) - (x + 4) = -147
+
+To make it easier to solve, we can simplify the equation by adding the right-hand side:
+
+x - (x + 2) - (x + 4) = -147
+x - x - 2 = -147
+
+Now, we can move the -2 to the left side of the equation:
+
+x - x = -147 + 2
+x = -145
+
+So, the largest integer that satisfies this equation is 143.
+
+Answer: 143

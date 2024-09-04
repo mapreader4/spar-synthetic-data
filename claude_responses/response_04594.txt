@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Company A has 30 attendees
+* Company B has twice the number of attendees of company A, so that's 2 * 30 = 60 attendees
+* Company C has 10 more attendees than company A, so that's 30 + 10 = 40 attendees
+* Company D has 5 fewer attendees than company C, so that's 40 - 5 = 35 attendees
+* Adding up the attendees from companies A, B, C, and D:
+  - Company A: 30 attendees
+  - Company B: 60 attendees
+  - Company C: 40 attendees
+  - Company D: 35 attendees
+  - Total: 30 + 60 + 40 + 35 = 165 attendees
+* The problem states that a total of 185 attendees have registered
+* To find the number of attendees who registered that are not from companies A, B, C, or D, we subtract the total attendees from those companies from the total registered:
+  - 185 - 165 = 20 attendees
+
+Answer: 20

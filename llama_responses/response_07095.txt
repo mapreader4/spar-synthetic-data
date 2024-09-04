@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+On the first day, Eric counts 50 oysters and 72 crabs.
+
+On the second day, he finds that only half the number of oysters are on the rocks, which means there are 50/2 = 25 oysters on the rocks.
+
+He also finds that only 2/3 the number of crabs are on the beach, which means there are 72 * 2/3 = 48 crabs on the beach.
+
+To find the total number of oysters and crabs Eric counted in two days, we add the numbers from both days:
+
+50 (oysters on the first day) + 25 (oysters on the second day) + 72 (crabs on the first day) + 48 (crabs on the second day) = 195
+
+Answer: 195

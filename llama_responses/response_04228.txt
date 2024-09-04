@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Martha gets a daily allowance of $12. If she saves half of this amount every day, she will save $6 each day. 
+
+On the first day, she saves $6. On the second day, she saves $6. On the third day, she saves $6. On the fourth day, she saves $6. On the fifth day, she saves $6. On the sixth day, she saves $6. On the seventh day, she saves only a quarter of the daily allowance, which is $3.
+
+So, the total amount saved is the sum of $6 + $6 + $6 + $6 + $6 + $6 + $6 + $3, which is $36. 
+
+Answer: 36

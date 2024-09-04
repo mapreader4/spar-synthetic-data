@@ -1,0 +1,25 @@
+Let's break it down step by step.
+
+Let's start with the marks Teresa scored in each subject:
+
+* Science: 70 marks
+* Music: 80 marks
+* Social Studies: 85 marks
+* Physics: unknown marks
+
+We know that the physics exam was the hardest test Teresa had ever taken, and she scored half as many marks in physics as she scored in music. Since Teresa scored 80 marks in music, we can set up an equation to find the marks she scored in physics:
+
+80 (music) = 2 * (physics)
+
+We can solve for physics by dividing both sides by 2:
+
+physics = 80 / 2
+physics = 40
+
+So, Teresa scored 40 marks in physics.
+
+Now, let's add up all the marks Teresa scored in all the subjects:
+
+70 (science) + 80 (music) + 85 (social studies) + 40 (physics) =?
+
+Answer: 175

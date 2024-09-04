@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Roque takes 2 hours to walk to work
+* Roque takes 1 hour to ride his bike to work
+* Roque walks to and from work 3 times a week
+* Roque rides his bike to and from work 2 times a week
+
+To calculate the total time Roque takes to get to and from work a week:
+* Walking to work: 3 days x 2 hours = 6 hours
+* Walking from work: 3 days x 2 hours = 6 hours
+* Total walking time: 6 hours + 6 hours = 12 hours
+* Biking to work: 2 days x 1 hour = 2 hours
+* Biking from work: 2 days x 1 hour = 2 hours
+* Total biking time: 2 hours + 2 hours = 4 hours
+* Total time per week: 12 hours + 4 hours = 16 hours
+
+Answer: 16 hours

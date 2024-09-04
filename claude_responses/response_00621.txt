@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) There are 36 seagulls on the roof of the Taco Bell.
+2) Kids scare away 1/4 of the seagulls by throwing stones.
+   * 1/4 of 36 = 36 * 0.25 = 9 seagulls scared away
+   * So, there are 36 - 9 = 27 seagulls remaining.
+3) 1/3 of the remaining 27 seagulls decide to fly to the McDonald's parking lot.
+   * 1/3 of 27 = 27 * 0.33 = 9 seagulls fly to McDonald's
+   * So, there are 27 - 9 = 18 seagulls left.
+
+Answer: 18 seagulls are left.

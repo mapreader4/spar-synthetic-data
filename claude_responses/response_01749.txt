@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) John chops down 30 trees.
+2) From each tree, he can make 25 planks.
+3) So the total number of planks he can make is 30 trees x 25 planks per tree = 750 planks.
+4) A table takes 15 planks to make.
+5) So the number of tables he can make with 750 planks is 750 planks / 15 planks per table = 50 tables.
+6) Each table sells for $300.
+7) So the total revenue from selling 50 tables is 50 tables x $300 per table = $15,000.
+8) John paid $3,000 for the labor.
+9) Therefore, the profit he made is the total revenue ($15,000) minus the labor cost ($3,000), which is $15,000 - $3,000 = $12,000.
+
+Answer: $12,000

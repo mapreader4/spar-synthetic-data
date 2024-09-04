@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Troy bakes 2 pans of brownies, with 16 pieces per pan
+* This means there are 2 * 16 = 32 total brownie pieces
+* The guests eat all of 1 pan, which is 16 pieces
+* They also eat 75% of the 2nd pan, which is 0.75 * 16 = 12 pieces
+* So the total number of brownie pieces eaten is 16 + 12 = 28 pieces
+* Each guest who eats the brownies ala mode (with 2 scoops of ice cream) will have 2 scoops of ice cream
+* All but 4 of the guests eat the brownies ala mode, so (28 - 4) * 2 = 48 scoops of ice cream are eaten
+* Each tub of ice cream provides 8 scoops
+* To calculate the number of tubs of ice cream needed, we divide the total scoops eaten (48) by the scoops per tub (8)
+* 48 / 8 = 6 tubs of ice cream
+
+Answer: 6 tubs of ice cream

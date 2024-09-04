@@ -1,0 +1,9 @@
+Let's break down Jonathan's exercise routine for each day:
+
+* Monday: He walks at 2 miles per hour for 6 miles, so it takes him 3 hours to complete the walk: 6 miles / 2 mph = 3 hours
+* Wednesday: He walks at 3 miles per hour for 6 miles, so it takes him 2 hours to complete the walk: 6 miles / 3 mph = 2 hours
+* Friday: He runs at 6 miles per hour for 6 miles, so it takes him 1 hour to complete the run: 6 miles / 6 mph = 1 hour
+
+To find the combined total time, we add up the time spent exercising each day: 3 hours + 2 hours + 1 hour = 6 hours
+
+Answer: 6

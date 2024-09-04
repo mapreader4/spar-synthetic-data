@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The children's home has 40 children in total
+* The home has five times as many teenagers as toddlers
+* There are 6 toddlers
+* We need to find the number of newborns
+
+First, let's find the number of teenagers:
+* Since there are 5 times as many teenagers as toddlers, and there are 6 toddlers, there must be 6 x 5 = 30 teenagers
+
+Now, we can find the total number of children that are not newborns:
+* 6 toddlers + 30 teenagers = 36 children
+
+Finally, we can find the number of newborns:
+* Total children = 40
+* Non-newborns = 36
+* Newborns = 40 - 36 = 4
+
+Answer: 4

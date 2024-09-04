@@ -1,0 +1,12 @@
+Let's break down Rich's route step by step.
+
+1. Rich walks 20 feet from his house to the sidewalk.
+2. Then, he walks 200 feet down the sidewalk to the end of the road.
+3. So, his total distance so far is 20 + 200 = 220 feet.
+4. Then, he makes a left and walks double his total distance so far, which is 2 x 220 = 440 feet.
+5. His new total distance is 220 + 440 = 660 feet.
+6. Then, he walks half the total distance up to this point, which is 660 / 2 = 330 feet.
+7. His final total distance is 660 + 330 = 990 feet.
+8. Since he walks the same path all the way back home, his total distance is doubled to 990 x 2 = 1980 feet.
+
+Answer: 1980

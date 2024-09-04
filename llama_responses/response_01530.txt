@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of pages Miles will read. Since Miles will read for 1/3 of his day, and 1/3 of his day is 8 hours, the total number of hours he will read is 8 hours.
+
+Since Miles reads novels for 21 pages an hour, we can find the total number of pages he will read in novels as follows:
+
+8 hours * 21 pages per hour = 168 pages
+
+Miles reads graphic novels for 30 pages an hour. We can find the total number of pages he will read in graphic novels as follows:
+
+8 hours * 30 pages per hour = 240 pages
+
+Miles reads comic books for 45 pages an hour. We can find the total number of pages he will read in comic books as follows:
+
+8 hours * 45 pages per hour = 360 pages
+
+To find the total number of pages Miles will read, we add the number of pages he will read in novels, graphic novels, and comic books:
+
+168 pages + 240 pages + 360 pages = 668 pages
+
+So, the answer is:
+
+Answer: 668

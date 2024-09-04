@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+First, let's calculate the total calories in the salad. The lettuce is 50 calories, and the carrots are twice the calories of the lettuce, so the carrots are 2 x 50 = 100 calories. The dressing is 210 calories. So, the total calories in the salad is 50 + 100 + 210 = 360.
+
+Next, let's calculate the total calories in the pizza. The crust is 600 calories, the pepperoni is 1/3 of the crust's calories, so it is 600 / 3 = 200 calories, and the cheese is 400 calories. The total calories in the pizza is 600 + 200 + 400 = 1200.
+
+Now, let's find the total calories Jackson eats. He eats 1/4 of the salad, which is 360 / 4 = 90 calories. He also eats 1/5 of the pizza, which is 1200 / 5 = 240 calories. The total calories Jackson eats is 90 + 240 = 330.
+
+Answer: 330

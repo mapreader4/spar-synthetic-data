@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Yesterday, the factory made 60 toy cars
+* Today, the factory made twice the number of cars than yesterday
+* To calculate the number of cars made today, we take the number of cars made yesterday (60) and multiply it by 2
+* 60 x 2 = 120 toy cars made today
+
+Therefore, the total number of toy cars the factory made is the sum of the cars made yesterday and the cars made today:
+* 60 + 120 = 180 toy cars
+
+Answer: 180

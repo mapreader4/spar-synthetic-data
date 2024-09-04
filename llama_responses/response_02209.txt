@@ -1,0 +1,7 @@
+Let's start by identifying the number of stingrays. We are told that there are 28 stingrays.
+
+Now, we know that there are twice as many sharks as stingrays. So, we can multiply the number of stingrays by 2.
+
+28 x 2 = 56
+
+Answer: 56

@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's say the area of the circle is 100.
+
+The area of a circle is given by the formula A = πr^2, where r is the radius of the circle. So, we can set up an equation: 100 = πr^2.
+
+Now, we need to find the value of r. To do this, we can take the square root of both sides of the equation and divide both sides by π.
+
+√100 = √(100) = 10.
+
+So, the radius of the circle is 10.
+
+Since the perimeter of a square is the same as the diameter of the circle, and the diameter is twice the radius, we can say that the length of one side of the square is also 10.
+
+Answer: 10

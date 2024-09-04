@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jon gets paid $0.10 for every person who visits his website
+* Each hour he gets 50 visits
+* His website operates 24 hours a day
+* So in a 24-hour day, he gets 50 visits per hour x 24 hours = 1,200 visits per day
+* In a 30-day month, he gets 1,200 visits per day x 30 days = 36,000 visits in the month
+* Since he gets paid $0.10 per visit, for 36,000 visits he would make:
+* 36,000 visits x $0.10 per visit = $3,600
+
+Answer: $3,600

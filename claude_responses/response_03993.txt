@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. Rent: James needs to pay $1200 a week in rent.
+2. Utilities: The utilities cost an additional 20% of the rent, which is 0.2 * $1200 = $240 per week.
+3. Employees: 
+   - The store is open 16 hours a day for 5 days a week, so the total number of employee hours per week is 16 hours * 5 days * 2 employees per shift = 160 hours.
+   - Each employee is paid $12.50 per hour, so the total employee cost per week is 160 hours * $12.50 per hour * 2 employees = $4,000.
+
+Now, we can calculate the total weekly expenses:
+Rent + Utilities + Employee Costs = $1200 + $240 + $4,000 = $5,440
+
+Answer: $5,440

@@ -1,0 +1,14 @@
+To find the average rainfall amount in Virginia, we need to follow these steps:
+
+1. Add up the total rainfall amount for the given months:
+   3.79 inches + 4.5 inches + 3.95 inches + 3.09 inches + 4.67 inches = 20 inches
+
+2. Count the number of months:
+   There are 5 months given (March, April, May, June, and July).
+
+3. Divide the total rainfall amount by the number of months to find the average:
+   20 inches ÷ 5 months = 4 inches
+
+Therefore, the average rainfall amount in Virginia is 4 inches.
+
+Answer: 4

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tony walks to the store on the weekend, which is 2 MPH
+* The store is 4 miles away
+* So on the weekend, it takes him 4 miles / 2 MPH = 2 hours to get to the store
+* 2 hours = 120 minutes
+* On weekdays, he runs to the store, which is 10 MPH
+* So on weekdays, it takes him 4 miles / 10 MPH = 0.4 hours to get to the store
+* 0.4 hours = 24 minutes
+* He goes on Sunday, Tuesday, and Thursday
+* Sunday is a weekend day, so it takes him 120 minutes
+* Tuesday and Thursday are weekdays, so it takes him 24 minutes each day
+* The total time is 120 + 24 + 24 = 168 minutes
+* The average time is 168 minutes / 3 days = 56 minutes
+
+Answer: 56

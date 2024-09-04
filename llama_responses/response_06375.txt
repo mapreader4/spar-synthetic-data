@@ -1,0 +1,18 @@
+Let's break down the problem step by step.
+
+Pat's password is a string of eight characters. It's made up of several kinds of alphanumeric and symbol characters for security.
+
+1. It starts with a string of eight random lowercase letters.
+2. The length of the string is half, which means it's four letters long.
+3. The string is half is made up of alternating upper case letters and numbers.
+4. There's one symbol on each end of the password.
+
+Let's count the characters in the password:
+
+* 8 lowercase letters in the beginning (8)
+* 4 letters in the middle (half of 8)
+* 1 symbol on each end (2 symbols)
+
+So, the total number of characters in the password is 8 + 4 + 2 = 14.
+
+Answer: 14

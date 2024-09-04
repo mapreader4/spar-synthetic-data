@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Tyler starts with 21 CDs. He gives away a third of his CDs to his friend, which is 21 * 1/3 = 7. So, Tyler has 21 - 7 = 14 CDs left.
+
+Then, he goes to the music store and buys 8 new CDs. So, he now has 14 + 8 = 22 CDs.
+
+Answer: 22

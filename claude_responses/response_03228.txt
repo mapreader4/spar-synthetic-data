@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+For breakfast, Daisy bought:
+* Muffin: $2
+* Coffee: $4
+Total spent on breakfast: $2 + $4 = $6
+
+For lunch, Daisy bought:
+* Soup: $3
+* Salad: $5.25
+* Lemonade: $0.75
+Total spent on lunch: $3 + $5.25 + $0.75 = $9
+
+To find how much more Daisy spent on lunch than on breakfast, we subtract the total spent on breakfast from the total spent on lunch:
+* $9 - $6 = $3
+
+Answer: $3

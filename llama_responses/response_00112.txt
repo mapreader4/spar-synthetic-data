@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's say the number of photos they took on the first day is x. Then, they took half of that number on the second day, which is x/2. They took 120 more photos on the second day, so the total number of photos taken on the second day is x + 120.
+
+The total number of photos in the gallery is the sum of the photos taken on the first day and the photos taken on the second day, which is x + (x/2) + 120.
+
+The total number of photos in the gallery is the sum of the photos in the family's gallery initially, which is 400, plus the photos taken during the trip, which is x + (x/2) + 120.
+
+So, we can set up an equation to represent this:
+
+x + (x/2) + 120 + x = 400
+
+We can simplify this equation by combining like terms:
+
+x + (x/2) = 400 - 120 - x
+
+We can then solve for x:
+
+x = 280
+
+Now that we know x, we can find the total number of photos in the gallery:
+
+400 + 280 = 680
+
+Answer: 680

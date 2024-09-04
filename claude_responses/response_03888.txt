@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* In April, the store owner ordered 20 cases of bottles of soda
+* Each case contains 20 bottles
+* So, the number of bottles ordered in April is:
+    - 20 cases x 20 bottles per case = 400 bottles
+* In May, the store owner ordered 30 cases of bottles of soda
+* Each case contains 20 bottles
+* So, the number of bottles ordered in May is:
+    - 30 cases x 20 bottles per case = 600 bottles
+* To find the total number of bottles ordered in April and May, we add the bottles ordered in each month:
+    - 400 bottles + 600 bottles = 1,000 bottles
+
+Answer: 1,000

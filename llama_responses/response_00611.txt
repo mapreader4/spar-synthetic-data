@@ -1,0 +1,5 @@
+Let's solve this problem step by step.
+
+Lard takes a whole pizza with 40 evenly spread slices of pepperoni.  He cuts the pizza in half, so now he has 20 slices.  He then cuts the halves in half, so now he has 10 slices in each half.  He gives one of the slices to Jelly, so he has 9 slices left.
+
+Now, when Lard picks up the slice he gave to Jelly, 1 of them falls off.  So, the answer is 1.

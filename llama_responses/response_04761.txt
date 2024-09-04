@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: We are given that there are 100 jellybeans in the jar initially.
+
+Step 2: We are told that 2 children called in sick and stayed home, so we subtract 2 from the total number of children. So, the number of children who attended school is 24 - 2 = 22.
+
+Step 3: Each of the 22 children who attended school eats 3 jellybeans. So, the total number of jellybeans eaten is 22 x 3 = 66.
+
+Step 4: To find the number of jellybeans left in the jar, we subtract the number of jellybeans eaten from the initial total. So, we have 100 - 66 = 34 jellybeans left in the jar.
+
+Answer: 34

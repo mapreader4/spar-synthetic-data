@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the machine takes x minutes to fill 1 can of paint. Since it takes 8 minutes to fill 1 can, it will take 8x minutes to fill x cans.
+
+Since the machine can fill 150 cans, it will take 150 * 8 = 1200 minutes to fill 150 cans.
+
+But the question asks us to find the number of minutes it takes to fill 675 cans. We can multiply 1200 minutes by 3 (since 675 = 675) to get the answer.
+
+Answer: 3600

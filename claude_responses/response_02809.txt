@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Jenny's property tax rate is 2%.
+2) Her house is currently worth $400,000.
+3) The new high-speed rail project will increase the value of her house by 25%.
+4) The new value of her house after the 25% increase will be:
+   $400,000 + (0.25 * $400,000) = $500,000
+5) At a 2% property tax rate, the annual property tax on a $500,000 house would be:
+   0.02 * $500,000 = $10,000
+6) Jenny can only afford to spend $15,000/year on property tax.
+7) The maximum value of her house that would keep her property tax under $15,000/year is:
+   $15,000 / 0.02 = $750,000
+8) The maximum amount of improvements Jenny can make to her house is:
+   $750,000 - $500,000 = $250,000
+
+Answer: $250,000

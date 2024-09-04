@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) We know that together, Alan and Marcy handed out 150 parking tickets.
+2) We also know that Marcy handed out 6 fewer than 5 times as many tickets as Alan.
+3) Let's let x be the number of tickets that Alan handed out.
+4) Then, the number of tickets that Marcy handed out would be 5x - 6.
+5) We know that the total number of tickets handed out is 150, so we can write the equation:
+x + (5x - 6) = 150
+6) Solving this equation, we get:
+6x - 6 = 150
+6x = 156
+x = 26
+7) Therefore, Alan handed out 26 tickets.
+
+Answer: 26

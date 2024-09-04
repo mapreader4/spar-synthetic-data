@@ -1,0 +1,14 @@
+Let's start by calculating the total cost of the items Peter bought.
+
+6 kilos of potatoes for $2 per kilo will cost 6 x 2 = $12
+9 kilos of tomato for $3 per kilo will cost 9 x 3 = $27
+5 kilos of cucumbers for $4 per kilo will cost 5 x 4 = $20
+3 kilos of bananas for $5 per kilo will cost 3 x 5 = $15
+
+The total cost is $12 + $27 + $20 + $15 = $74
+
+Peter started with $500 and spent $74. To find out how much money he has left, we subtract the cost from the initial amount:
+
+$500 - $74 = $426
+
+Answer: 426

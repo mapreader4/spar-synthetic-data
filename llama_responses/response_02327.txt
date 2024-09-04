@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. The adoption fee cost $150.
+2. The training costs $250 per week, and it takes 12 weeks, so the total cost for the training is $250 * 12 = $3000.
+3. The certification costs $3000, and the insurance covers 90% of that, so the out-of-pocket cost for the certification is $3000 * 10% = $300.
+
+To find the out-of-pocket cost, we need to subtract the cost of the training from the total cost of the certification. So, the out-of-pocket cost is $3000 - $300 = $2700.
+
+Answer: 2700

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Jenson makes 3 shirts per day, so in 3 days, he makes 3 * 3 = 9 shirts.
+
+Kingsley makes 5 pairs of pants per day, so in 3 days, he makes 5 * 3 = 15 pairs of pants.
+
+Each shirt uses 2 yards of fabric, so Jenson uses 9 shirts * 2 yards = 18 yards of fabric in 3 days.
+
+Each pair of pants uses 5 yards of fabric, so Kingsley uses 15 pairs of pants * 5 yards = 75 yards of fabric in 3 days.
+
+To find the total amount of fabric needed in 3 days, we add the amount used by Jenson and Kingsley: 18 yards + 75 yards = 93 yards.
+
+Answer: 93

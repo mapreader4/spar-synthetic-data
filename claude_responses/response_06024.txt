@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* There are 4 people total: Ellis, her mother, her sister, and her aunt.
+* They will be on the road for 8 hours to their destination, and 8 hours to return home, for a total of 16 hours.
+* Each person will want to drink 1/2 a bottle of water per hour.
+* To calculate the total number of water bottles needed:
+* 4 people x 1/2 bottle per hour x 16 hours = 32 bottles of water.
+
+Answer: 32

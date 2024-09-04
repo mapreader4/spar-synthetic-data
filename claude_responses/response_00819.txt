@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* James wants to collect 500 tins in a week
+* On the first day, he collects 50 tins
+* On the second day, he collects 3 times the number he collected on the first day, which is 3 x 50 = 150 tins
+* On the third day, he collects 50 tins fewer than the number he collected on the second day, which is 150 - 50 = 100 tins
+* The total number of tins collected in the first 3 days is 50 + 150 + 100 = 300 tins
+* That means he has 500 - 300 = 200 tins left to collect in the remaining 4 days of the week
+* To find the number of tins he needs to collect each day for the remaining 4 days, we divide 200 by 4, which gives us 50 tins per day.
+
+Answer: 50

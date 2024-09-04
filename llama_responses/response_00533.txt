@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of jelly beans each child got. Each child drew 2 jelly beans, and there were 40 children. So, the total number of jelly beans given out is 2 x 40 = 80 jelly beans.
+
+Now, the total number of jelly beans initially was 100. After giving out 80 jelly beans, the number of jelly beans remaining is 100 - 80 = 20.
+
+So, the answer is:
+
+Answer: 20

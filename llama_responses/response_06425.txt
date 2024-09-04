@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. Bart receives $0.2 for every question he answers in the survey.
+2. There are 10 questions in each survey.
+3. He finished 3 surveys on Monday.
+4. He finished 4 surveys on Tuesday.
+5. So, on Monday, he earned 3 surveys * 0.2 = $0.6.
+6. On Tuesday, he earned 4 surveys * 0.2 = $0.8.
+7. In total, he earned $0.6 + $0.8 = $1.4.
+
+Answer: 1.4

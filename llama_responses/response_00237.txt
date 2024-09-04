@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, let's find the number of eggs Tank gathered in the first round. Since Emma gathered 10 fewer eggs than Tank in the first round, and Emma gathered 60 eggs in the second round, Tank gathered 60 + 10 = 70 eggs in the first round.
+
+Since Tank's total number of eggs in the second round was 20 less than the number she had gathered in the first round, Tank gathered 70 - 20 = 50 eggs in the second round.
+
+Now, let's find the total number of eggs Emma gathered. Emma gathered 60 eggs in the second round, and Tank gathered twice as many eggs as Emma in the second round, so Emma gathered 60 / 2 = 30 eggs in the second round. Since Emma gathered 10 more eggs than Tank in the first round, Emma gathered 30 + 10 = 40 eggs in the first round.
+
+The total number of eggs gathered by Tank and Emma is 70 + 50 + 40 = 160 eggs.
+
+Since the total number of eggs in the pile they were collecting with 6 other people was 400 eggs, the 6 other egg hunters collected 400 - 160 = 240 eggs.
+
+Answer: 240

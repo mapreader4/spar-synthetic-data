@@ -1,0 +1,7 @@
+Let's start by identifying the number of doughnuts initially available. The box holds 2 dozen doughnuts. Since a dozen is equal to 12, we can write this as 2 * 12 = 24. So, we know there are 24 doughnuts initially.
+
+After the family ate 8 doughnuts, we need to subtract 8 from 24 to find the number of doughnuts left. 24 - 8 = 16.
+
+So, the number of doughnuts left is 16.
+
+Answer: 16

@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem.
+
+We know that the first dog eats 13 pounds a week. The second dog eats double that, so it eats 13 x 2 = 26 pounds a week. The third dog eats the same amount as the second dog, so it also eats 26 pounds a week.
+
+We need to find the average of the total food eaten by the three dogs. The total amount of food eaten by the dogs is 13 + 26 + 26 = 45 pounds. To find the average, we divide the total by 3, which is the number of dogs. 45 / 3 = 15.
+
+So, the answer is that the third dog eats 15 pounds a week.

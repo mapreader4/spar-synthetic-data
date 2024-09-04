@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+It takes 10 minutes to get to her house, which is the starting point.
+
+Then, it takes 5 times as long to get to the airport, which is 5 x 10 = 50 minutes.
+
+After that, it takes 15 minutes to check her bag, which is an additional 15 minutes.
+
+Next, it takes three times as long to get through security, which is 3 x 15 = 45 minutes.
+
+After security, she has to wait for 20 minutes for her flight to start boarding.
+
+Finally, she has to wait twice as long before the plane is ready to take off, which is 2 x 20 = 40 minutes.
+
+To add up the total time, we have:
+
+10 + 50 + 15 + 45 + 20 + 40 = 175 minutes
+
+To convert this to hours, we divide by 60 (since there are 60 minutes in an hour):
+
+175 minutes ÷ 60 = 2.91667 hours
+
+Since we can't have a fraction of an hour, we round down to the nearest whole number. Therefore, the total time will be:
+
+Answer: 2 hours

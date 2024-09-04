@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find out how many liters of air Ross inhales in 1 minute:
+
+We know that Ross inhales 17 breaths per minute, and each breath is 5/9 liter of air. So, in 1 minute, he inhales 17 * 5/9 = 10 liters of air.
+
+Now, we can find out how many liters of air Ross inhales in 24 hours:
+
+We know that 1 minute is equal to 60 seconds, and there are 60 minutes in an hour. So, in 24 hours, there are 24 * 60 = 1440 seconds.
+
+We can convert seconds to minutes by dividing 1440 by 60, which gives us 24 minutes.
+
+Now, we can find out how many liters of air Ross inhales in 24 minutes:
+
+We know that Ross inhales 10 liters of air in 1 minute. So, in 24 minutes, he inhales 10 * 24 = 240 liters of air.
+
+So, the volume of air inhaled in 24 hours is 240 liters.
+
+Answer: 240

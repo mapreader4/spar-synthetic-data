@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of whiskers Princess Puff has. We are given that Princess Puff has 14 whiskers.
+
+Next, we are told that Catman Do has 6 less than twice the number of whiskers as Princess Puff. To find the number of whiskers Catman Do has, we can multiply the number of whiskers Princess Puff has by 2 and then subtract 6.
+
+14 * 2 = 28
+28 - 6 = 22
+
+So, Catman Do has 22 whiskers.
+
+Answer: 22

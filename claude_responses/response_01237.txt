@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Laura charges $5 for a car, $6 for a truck, and $7 for an SUV
+* They raised a total of $100
+* They washed 5 SUVs and 5 trucks
+
+First, let's calculate the total amount earned from the 5 SUVs and 5 trucks:
+* 5 SUVs at $7 each = $35
+* 5 trucks at $6 each = $30
+* Total from SUVs and trucks = $35 + $30 = $65
+
+Now, we can calculate the remaining amount that must have come from the cars:
+* Total raised = $100
+* Total from SUVs and trucks = $65
+* Remaining amount from cars = $100 - $65 = $35
+
+Finally, we can calculate the number of cars washed:
+* Cars were charged $5 each
+* Remaining amount from cars was $35
+* Number of cars washed = $35 / $5 = 7
+
+Answer: 7

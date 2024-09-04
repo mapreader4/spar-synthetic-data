@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Olivine has 5 more precious stones than agate
+* Agate has 30 precious stones
+* Therefore, olivine has 30 + 5 = 35 precious stones
+* Diamond has 11 more precious stones than olivine
+* Therefore, diamond has 35 + 11 = 46 precious stones
+* To find the total number of precious stones, we add the number of precious stones for each type:
+* Agate: 30 precious stones
+* Olivine: 35 precious stones
+* Diamond: 46 precious stones
+* Total: 30 + 35 + 46 = 111 precious stones
+
+Answer: 111

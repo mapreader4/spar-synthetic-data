@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Lara bought 52 stems of flowers
+* She gave 15 flowers to her mom
+* She gave 6 more flowers than she gave to her mom to her grandma
+* So, she gave her grandma 15 + 6 = 21 flowers
+* The rest of the flowers were put in the vase
+
+To calculate the number of flowers put in the vase, we need to subtract the number of flowers given to her mom and grandma from the total number of flowers she bought.
+
+* Flowers given to mom: 15
+* Flowers given to grandma: 21
+* Total flowers given away: 15 + 21 = 36
+* Flowers put in the vase: 52 - 36 = 16
+
+Answer: 16

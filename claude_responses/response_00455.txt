@@ -1,0 +1,16 @@
+To solve this problem, we need to find the number of times the amoeba needs to divide to reach 16 amoebae.
+
+Given information:
+- An amoeba reproduces by splitting itself into two separate amoebae.
+- An amoeba reproduces every two days.
+
+Let's start with one amoeba and track the number of amoebae over time:
+- Day 0: 1 amoeba
+- Day 2: 1 amoeba splits into 2 amoebae
+- Day 4: 2 amoebae split into 4 amoebae
+- Day 6: 4 amoebae split into 8 amoebae
+- Day 8: 8 amoebae split into 16 amoebae
+
+We can see that it takes 8 days for the amoeba to divide into 16 amoebae.
+
+Answer: 8 days

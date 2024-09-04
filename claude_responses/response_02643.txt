@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Brian watches a 4-minute video of cats.
+2) He then watches a video of dogs that is twice as long as the cat video. 
+   * The dog video is 4 minutes x 2 = 8 minutes long.
+3) Finally, he watches a video on gorillas that is twice as long as the previous two videos combined.
+   * The previous two videos are 4 minutes (cats) + 8 minutes (dogs) = 12 minutes total.
+   * The gorilla video is 12 minutes x 2 = 24 minutes long.
+4) Now we add up the total time Brian spends watching animal videos:
+   * 4 minutes (cats) + 8 minutes (dogs) + 24 minutes (gorillas) = 36 minutes total.
+
+Answer: 36

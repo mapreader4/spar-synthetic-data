@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The family of monkeys collected 10 piles of bananas
+2) 6 piles had 9 hands, with each hand having 14 bananas
+   * For these 6 piles, the total number of bananas is: 6 * 9 * 14 = 756 bananas
+3) The remaining 4 piles had 12 hands, with each hand having 9 bananas
+   * For these 4 piles, the total number of bananas is: 4 * 12 * 9 = 432 bananas
+4) The total number of bananas collected is the sum of the bananas in the 6 piles and the 4 piles:
+   * 756 + 432 = 1188 bananas
+5) The family of monkeys has 12 members
+6) To divide the 1188 bananas equally amongst the 12 monkeys, we divide 1188 by 12:
+   * 1188 / 12 = 99 bananas per monkey
+
+Answer: 99

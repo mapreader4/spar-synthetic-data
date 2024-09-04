@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's say Yola's current weight is Y. Since Wanda weighs 30 pounds more than Yola, Wanda's weight is Y + 30.
+
+Two years ago, Yola weighed Y - 80. We know that Wanda weighs Y + 30, so Wanda's weight 2 years ago was (Y - 80) + 30. Since Wanda's weight 2 years ago is 80 pounds less than her current weight, her current weight is (Y - 80) + 30 + 80. We know that Yola's current weight is 220, so we can set up the equation:
+
+(Y - 80) + 30 + 80 = 220
+
+Subtract 30 from both sides of the equation to get:
+
+Y - 80 + 50 = 190
+
+Add 80 to both sides to get:
+
+Y = 270
+
+So, Yola weighed 270 pounds 2 years ago.

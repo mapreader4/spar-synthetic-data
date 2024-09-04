@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* 3 years ago, there were 200 students who passed the English course.
+* Each subsequent year, the number of students who passed increased by 50% of the previous year's number.
+
+To calculate the number of students who will pass the course this year, we need to apply the 50% increase each year:
+
+* 3 years ago: 200 students
+* 2 years ago: 200 + (50% of 200) = 200 + 100 = 300 students
+* 1 year ago: 300 + (50% of 300) = 300 + 150 = 450 students
+* This year: 450 + (50% of 450) = 450 + 225 = 675 students
+
+Answer: 675

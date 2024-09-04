@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Michelangelo has 28 ceilings to paint in total.
+2) This week, he painted 12 ceilings.
+3) Next week, he will paint 1/4 the number of ceilings he did this week.
+   - This week he painted 12 ceilings, so next week he will paint 1/4 of 12, which is 3 ceilings.
+4) To find the number of ceilings left to paint after next week, we take the total ceilings (28) and subtract the number of ceilings painted this week (12) and next week (3).
+   - 28 - 12 - 3 = 13 ceilings left to paint.
+
+Answer: 13

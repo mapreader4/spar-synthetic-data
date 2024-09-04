@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The farmer sells 5 chickens at $8 each, so he earns 5 * $8 = $40 from the chickens.
+* The farmer also sells some ducks at $10 each. Let's call the number of ducks he sells "x".
+* So the total earnings from the chickens and ducks is $40 + 10x.
+* The farmer then spends half of this earnings on a new wheelbarrow, so he spends (40 + 10x)/2 = 20 + 5x.
+* Someone then buys the wheelbarrow for double what the farmer paid, so the farmer earns another $60.
+* Since the farmer earned $60 from selling the wheelbarrow, we can set up an equation:
+20 + 5x = 60
+* Solving for x, we get:
+x = 8
+Therefore, the farmer sold 8 ducks.
+
+Answer: 8

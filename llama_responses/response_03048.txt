@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the number of teachers who will be left after 1 hour of teaching.
+
+After 50% of the teachers walk out after 1 hour, that means 50% of the teachers will be gone.
+
+There are 100 teachers. 50% of 100 is 50. So, 50 teachers will leave.
+
+Next, 30% of the remainder will quit before lunch. 30% of 50 is 15. So, 15 teachers will quit.
+
+So, the total number of teachers left after 1 hour of teaching will be 50 - 15 = 35.
+
+So, the answer is: Answer: 35.

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Shara borrowed money from her brother 6 months ago
+* She has been returning $10 per month to her brother
+* She has currently returned half of the money she borrowed
+
+First, let's calculate how much she has paid back so far:
+* 6 months x $10 per month = $60 paid back
+
+Now, we know she has paid back half of the money she borrowed, so the total amount she borrowed was twice the amount she has paid back:
+* $60 x 2 = $120 total amount borrowed
+
+Now, we need to calculate how much she will still owe her brother 4 months from now:
+* She will pay back an additional 4 months x $10 per month = $40
+* So the remaining amount she will owe her brother is $120 - $60 - $40 = $20
+
+Answer: $20

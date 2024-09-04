@@ -1,0 +1,7 @@
+Let's count the wheels of the vehicles.
+
+There are 20 bicycles with 2 wheels each, so that's 40 wheels.
+There are 10 cars with 4 wheels each, so that's 40 wheels.
+There are 5 motorcycles with 2 wheels each, so that's 10 wheels.
+
+In total, there are 40 + 40 + 10 = 90 wheels in the garage.

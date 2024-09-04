@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with Betsy. Betsy won 5 games.  Let's call this number "B".  Now, Helen won twice as many as Betsy.  This means Helen won 2 * B = 2 * 5 = 10 games.  Then, Susan won three times as many as Betsy.  This means Susan won 3 * B = 3 * 5 = 15 games.
+
+To find the total number of games won by Helen and Susan, we add their numbers together: 10 + 15 = 25.
+
+So, the answer is:
+
+Answer: 25

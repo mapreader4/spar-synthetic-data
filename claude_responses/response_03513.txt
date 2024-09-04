@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. Originally, it cost $200 to refill the tank.
+2. James got an extra tank to double the fuel capacity. This means he now needs to refill two tanks.
+3. The original cost of refilling one tank was $200.
+4. Since he now needs to refill two tanks, the original cost is now $200 x 2 = $400.
+5. Fuel prices have gone up by 20%. This means the new cost is 120% of the original cost.
+6. To calculate the new cost, we take the original cost of $400 and multiply it by 120%: $400 x 1.20 = $480.
+
+Answer: $480

@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Beatrice looked at 8 TVs at the first store, so that's 8 TVs.
+
+Then, she looked at 3 times as many TVs as the 8 TVs at the second store, which means she looked at 3 * 8 = 24 TVs.
+
+Finally, she looked at more TVs on the auction site, which means we need to add that to the total number of TVs she looked at.
+
+So, the total number of TVs Beatrice looked at is 8 + 24 + x. We can simplify this by combining the constants 8 and 24: 8 + 24 = 32. So, we need to add x to 32.
+
+The problem states that she looked at 42 TVs in all, so we can set up an equation: 32 + x = 42. To solve for x, we can subtract 32 from both sides: x = 42 - 32. This gives us x = 10.
+
+So, the answer is: Answer: 10.

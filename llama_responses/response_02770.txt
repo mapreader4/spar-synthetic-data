@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Robert buys 5 boxes of pizza at $10 each, so the cost of pizza is 5 x $10 = $50.
+
+Robert also buys 10 cans of soft drinks at $2 each, so the cost of soft drinks is 10 x $2 = $20.
+
+Teddy buys 6 hamburgers at $3 each, so the cost of hamburgers is 6 x $3 = $18.
+
+Teddy also buys 10 cans of soft drinks, which is the same as what Robert bought, so the additional cost is just the same, which is $20.
+
+So, the total cost is the sum of the pizza, soft drinks, hamburgers, and additional soft drinks. That is $50 + $20 + $18 + $20 = $98.
+
+Answer: 98

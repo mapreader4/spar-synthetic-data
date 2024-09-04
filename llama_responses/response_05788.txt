@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* The friends went for 3.5 hours, which is equivalent to 210 minutes.
+* They traveled 21 kilometers in that time.
+* Birgit was 4 minutes/km faster than the average time.
+
+Let's find the average time taken by the friends:
+
+Let's use the formula: Time = Distance / Speed. We know the distance (21 km) and the total time (210 minutes), so we can find the speed:
+
+Speed = Distance / Time = 21 km / 210 min = 0.1 km/min
+
+Now, we know the speed of the friends. We also know that Birgit was 4 minutes/km faster than the average time. So, we can find Birgit's speed:
+
+Birgit's speed = Average speed + 4 minutes/km = 0.1 km/min + 4 min/km = 0.1 km/min + 0.06667 km/min = 0.16667 km/min
+
+Now, we can find the time it would take Birgit to go 8 kilometers:
+
+Time = Distance / Speed = 8 km / 0.16667 km/min = 48.1 min
+
+So, it would take Birgit approximately 48.1 minutes to go 8 kilometers if she kept the same pace.

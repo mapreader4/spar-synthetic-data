@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Mabel has 5 daisies, and each daisy has 8 petals. So, the total number of petals is 5 x 8 = 40.
+
+If she gives 2 daisies to her teacher, that means 2 daisies with 8 petals each will be given away. That's a total of 2 x 8 = 16 petals.
+
+So, to find the number of petals left, we subtract 16 from the total number of petals, which is 40. 40 - 16 = 24.
+
+Answer: 24

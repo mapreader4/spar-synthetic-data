@@ -1,0 +1,9 @@
+Let's first find the total number of sweets Jennifer has.
+
+Jennifer has 212 + 310 + 502 sweets. This is equal to 822.
+
+Since Jennifer has 3 friends, she will divide the sweets equally among them. So the number of sweets Jennifer and her friends will get is:
+
+822 / 4 = 205.5
+
+Answer: 205

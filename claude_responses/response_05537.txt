@@ -1,0 +1,25 @@
+Okay, let's break this down step by step:
+* Cody needs to log a total of 100,000 steps to get the discount
+* In the first week, he logs 1,000 steps per day
+* Each week, he increases his daily steps by 1,000
+* We want to know how far away from his goal he will be after 4 weeks
+
+First, let's calculate how many steps he logs in the first week:
+* 1,000 steps per day x 7 days = 7,000 steps
+
+Now, let's calculate how many steps he logs in the second week:
+* 2,000 steps per day x 7 days = 14,000 steps
+
+In the third week, he logs:
+* 3,000 steps per day x 7 days = 21,000 steps
+
+And in the fourth week, he logs:
+* 4,000 steps per day x 7 days = 28,000 steps
+
+Now, let's add up the total steps he has logged after 4 weeks:
+* 7,000 + 14,000 + 21,000 + 28,000 = 70,000 steps
+
+To find how far away he is from his goal of 100,000 steps, we subtract the total steps logged from the goal:
+* 100,000 - 70,000 = 30,000 steps
+
+Answer: 30,000

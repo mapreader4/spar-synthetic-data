@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 6 people in the group (Jenny and 5 friends)
+* Each person pays $50 for the ticket and $10 for their entrée
+* So the total cost for the tickets and entrées is:
+    - 6 people x ($50 + $10) = 6 x $60 = $360
+* Half the group (3 people) also buy unlimited drink tickets for $30 each
+* So the total cost for the drink tickets is:
+    - 3 people x $30 = $90
+* The total initial cost for the group is:
+    - $360 + $90 = $450
+* Due to the cancellation, each person gets a 90% refund
+* So the total refund amount is:
+    - $450 x 0.90 = $405
+* The amount of money the group lost is the initial cost minus the refund:
+    - $450 - $405 = $45
+
+Answer: $45

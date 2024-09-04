@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Billy generates 15 suggestions and watches 1 video from that list, but doesn't like any of them.
+2) He does this a total of 5 times, so he watches 5 sets of 15 videos, which is 5 * 15 = 75 videos.
+3) On the 5th and final suggestion list, he picks the 5th show, so he watches 1 more video.
+4) In total, Billy watches 75 + 1 = 76 videos.
+
+Answer: 76

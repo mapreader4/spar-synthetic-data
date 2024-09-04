@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Chrystal's speed is 30 miles per hour. When ascending the mountain, her speed decreases by 50%, which means it becomes 30 - (30 x 0.5) = 15 miles per hour.
+
+When descending the mountain, her speed increases by 20%, which means it becomes 30 + (30 x 0.2) = 36 miles per hour.
+
+The distance going to the top of the mountain is 60 miles, and her speed is 15 miles per hour, so the time it takes to go up is 60 / 15 = 4 hours.
+
+The distance going down is 72 miles, and her speed is 36 miles per hour, so the time it takes to go down is 72 / 36 = 2 hours.
+
+The total time it takes to go up and down the mountain is 4 hours + 2 hours = 6 hours.
+
+Answer: 6

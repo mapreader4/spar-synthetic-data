@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The total distance of the drive is 210 miles.
+* Christina's speed limit is 30 miles per hour.
+* Her friend's speed limit is 40 miles per hour.
+* Her friend drives for 3 hours.
+
+First, we can calculate how many miles her friend drove:
+* Her friend's speed × time = distance
+* 40 miles per hour × 3 hours = 120 miles
+
+Now, we can calculate the remaining distance that Christina needs to drive:
+* Total distance - distance her friend drove = distance Christina needs to drive
+* 210 miles - 120 miles = 90 miles
+
+Finally, we can calculate how long it will take Christina to drive the remaining 90 miles:
+* Distance / Christina's speed = time
+* 90 miles / 30 miles per hour = 3 hours
+
+To convert this to minutes, we multiply by 60:
+* 3 hours × 60 minutes per hour = 180 minutes
+
+Answer: 180 minutes

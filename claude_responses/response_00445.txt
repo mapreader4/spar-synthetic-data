@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Carla bought 2 bags of mini peanut butter cups
+* Each bag was originally $6.00
+* The bags were 75% off
+* To calculate the discounted price per bag:
+  - The original price was $6.00
+  - The discount was 75%, which means the price was reduced by 75% of $6.00
+  - 75% of $6.00 is 0.75 * $6.00 = $4.50
+  - So the discounted price per bag is $6.00 - $4.50 = $1.50
+* Since Carla bought 2 bags, the total amount she spent is:
+  - 2 bags * $1.50 per bag = $3.00
+
+Answer: 3

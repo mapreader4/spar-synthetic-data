@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The elliptical machine costs $120
+* Rita made a down payment equal to half the cost of the machine
+* To calculate the down payment:
+    - Down payment = 1/2 * $120 = $60
+* The balance remaining to be paid is the total cost minus the down payment:
+    - Balance = $120 - $60 = $60
+* The store employee offered to waive all layaway fees and taxes if Rita paid the balance within 10 days
+* To find the daily minimum amount Rita must pay, we divide the balance by the number of days:
+    - Daily minimum = $60 / 10 days = $6
+
+Answer: $6

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. We know there are 20 red marbles in the box.
+2. The number of green marbles is three times the number of red marbles. So, the number of green marbles is 3 x 20 = 60.
+3. The number of yellow marbles is 20% of the number of green marbles. So, the number of yellow marbles is 0.2 x 60 = 12.
+4. We are told that the total number of marbles in the box is three times more than the number of green marbles. So, the total number of marbles is 3 x 60 = 180.
+5. To find the number of marbles of a different color, we need to subtract the red, green, and yellow marbles from the total number of marbles.
+6. The total number of marbles is 180.
+7. The number of red marbles is 20.
+8. The number of green marbles is 60.
+9. The number of yellow marbles is 12.
+10. The number of marbles of a different color is 180 - 20 - 60 - 12 = 88.
+
+Answer: 88

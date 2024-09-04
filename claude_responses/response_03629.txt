@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mrs. Amaro has 80 roses in her garden.
+2) Three-fourths of the roses are red. To calculate the number of red roses, we take 3/4 of 80, which is 3/4 * 80 = 60 red roses.
+3) The remaining 1/4 of the roses are not red. That means 1/4 of 80 is 20 non-red roses.
+4) One-fourth of the 20 non-red roses are yellow. That means 1/4 of 20 is 5 yellow roses.
+5) The remaining roses that are not red or yellow must be white. To calculate the number of white roses, we take the total non-red roses (20) and subtract the yellow roses (5), which gives us 15 white roses.
+6) In total, the number of red and white roses is 60 red roses + 15 white roses = 75 roses.
+
+Answer: 75

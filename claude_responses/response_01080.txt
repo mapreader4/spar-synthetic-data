@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+* We know that 70% of the students in the engineering department are men
+* We also know that there are 180 women in the engineering department
+* To find the number of men, we need to find the total number of students in the engineering department, and then calculate 70% of that total
+* Let's call the total number of students in the engineering department "x"
+* We know that 70% of x are men, and the remaining 30% are women
+* So we can write the equation: 0.7x = 180
+* Solving for x, we get x = 180 / 0.7 = 257
+* Now that we know the total number of students is 257, we can calculate the number of men as 70% of that:
+* Number of men = 0.7 * 257 = 180
+
+Answer: 180

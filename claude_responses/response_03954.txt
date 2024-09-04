@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jesse first built a building with 80 building blocks
+* Then he built a farmhouse with 123 building blocks
+* Next, he added a fenced-in area with 57 building blocks
+* So the total number of building blocks used so far is:
+    - Building: 80 blocks
+    - Farmhouse: 123 blocks
+    - Fenced-in area: 57 blocks
+    - Total: 80 + 123 + 57 = 260 blocks
+* Jesse has 84 building blocks left
+* To find the total number of building blocks Jesse started with, we add the 260 blocks he used to the 84 blocks he has left:
+    - 260 + 84 = 344 building blocks
+
+Answer: 344

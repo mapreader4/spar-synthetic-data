@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Alex already has $14,500 saved up
+* The car costs $14,600
+* He needs to make up the remaining $100 ($14,600 - $14,500)
+* He charges $1.5 per trip and 5% of the price of the groceries
+* He makes 40 trips
+
+To calculate the amount of groceries he needs to deliver, we first need to find out how much he earns per trip:
+* $1.5 per trip + 5% of the price of the groceries
+
+We know that he needs to make $100 to cover the remaining cost of the car, so we can set up an equation:
+* 40 trips x ($1.5 + 5% of the price of the groceries) = $100
+
+Solving for the price of the groceries:
+* 40 x ($1.5 + 0.05 x price of groceries) = $100
+* 60 + 2 x price of groceries = $100
+* 2 x price of groceries = $40
+* Price of groceries = $20
+
+Therefore, Alex delivered $20 worth of groceries.
+
+Answer: $20

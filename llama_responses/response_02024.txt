@@ -1,0 +1,9 @@
+Let's solve this problem step by step.
+
+We can start by finding the number of red balloons. There are 20 red balloons initially, and 3 of them burst, so there are 20 - 3 = 17 red balloons left.
+
+Next, we can find the number of green balloons. There are 15 green balloons initially, and 2 of them burst, so there are 15 - 2 = 13 green balloons left.
+
+Now, we can find the total number of balloons left. We have 17 red balloons and 13 green balloons, so the total number of balloons left is 17 + 13 = 30 balloons.
+
+Answer: 30

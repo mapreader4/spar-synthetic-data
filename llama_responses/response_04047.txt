@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, Marcia needs to buy 3 skirts, which will cost 3 x $20.00 = $60.00.
+
+Next, she needs to buy 2 pairs of pants, and since the sale is buy 1 pair get 1 pair 1/2 off, that means she will get 2 pairs of pants for the price of 1.5 pairs. 1.5 x $30.00 = $45.00. So, she will pay $45.00 for the 2 pairs of pants.
+
+Finally, she needs to buy 5 blouses, which will cost 5 x $15.00 = $75.00.
+
+To find the total cost of her wardrobe, we add up the costs: $60.00 (for skirts) + $45.00 (for pants) + $75.00 (for blouses) = $180.00.
+
+Answer: 180

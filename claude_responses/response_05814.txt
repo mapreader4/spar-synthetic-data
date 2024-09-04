@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Hillary's teacher assigned 1 hour of reading during the weekend
+* 1 hour = 60 minutes
+* On Friday night, Hillary read for 16 minutes
+* On Saturday, Hillary read for 28 minutes
+* To calculate the total time Hillary has read so far:
+    - Friday: 16 minutes
+    - Saturday: 28 minutes
+    - Total time read so far: 16 + 28 = 44 minutes
+* To calculate the remaining time Hillary needs to read:
+    - Total time assigned: 60 minutes
+    - Time read so far: 44 minutes
+    - Remaining time to read: 60 - 44 = 16 minutes
+
+Answer: 16 minutes

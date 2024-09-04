@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. Nathan played for 3 hours per day for two weeks, every day.
+   * 3 hours per day x 7 days per week x 2 weeks = 42 hours
+
+2. Tobias played for 5 hours every day, but only for one week.
+   * 5 hours per day x 7 days per week x 1 week = 35 hours
+
+3. To find the total hours played by Nathan and Tobias, we add their individual hours:
+   * 42 hours (Nathan) + 35 hours (Tobias) = 77 hours
+
+Answer: 77

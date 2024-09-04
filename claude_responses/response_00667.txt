@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Madison takes her dog to the dog park
+* Half the dogs have spots
+* 1/5 of the dogs have pointy ears
+* 15 dogs have spots
+
+To find the number of dogs with pointy ears, we need to first find the total number of dogs at the dog park.
+
+Since half the dogs have spots, and there are 15 dogs with spots, the total number of dogs must be:
+* 15 dogs with spots = 1/2 of the total number of dogs
+* Total number of dogs = 15 x 2 = 30 dogs
+
+Now, we know that 1/5 of the 30 dogs have pointy ears, so:
+* Number of dogs with pointy ears = 30 x 1/5 = 6 dogs
+
+Answer: 6

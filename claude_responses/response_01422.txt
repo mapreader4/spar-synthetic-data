@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There is a car collision every 10 seconds
+* There is a big crash every 20 seconds
+* We want to know the total number of accidents in 4 minutes
+
+First, let's calculate the number of car collisions in 4 minutes:
+* 4 minutes = 240 seconds
+* 240 seconds / 10 seconds per collision = 24 car collisions
+
+Next, let's calculate the number of big crashes in 4 minutes:
+* 4 minutes = 240 seconds
+* 240 seconds / 20 seconds per big crash = 12 big crashes
+
+Finally, to get the total number of accidents, we add the car collisions and big crashes:
+* 24 car collisions + 12 big crashes = 36 total accidents
+
+Answer: 36

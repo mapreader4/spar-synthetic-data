@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 2 vampires in the village of Willowton, which has a population of 300 people.
+* Each night, each vampire turns 5 more people into vampires.
+* So, on the first night, the 2 vampires turn 10 more people into vampires (2 vampires x 5 people each = 10 new vampires).
+* This means that after the first night, there are 2 + 10 = 12 vampires.
+* On the second night, the 12 vampires turn 60 more people into vampires (12 vampires x 5 people each = 60 new vampires).
+* This means that after the second night, there are 12 + 60 = 72 vampires.
+
+Answer: 72

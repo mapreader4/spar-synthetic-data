@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Lucas went to the store with $20
+* He needed to buy 3 avocados
+* Each avocado costs $2
+* To calculate the total cost of the 3 avocados:
+    - 3 avocados x $2 per avocado = $6 total
+* To calculate the change Lucas brings home:
+    - Lucas started with $20
+    - He spent $6 on the avocados
+    - So the change he brings home is $20 - $6 = $14
+
+Answer: 14

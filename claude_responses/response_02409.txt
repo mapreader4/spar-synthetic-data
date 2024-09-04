@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Vivian plays 10 songs per day
+* Clara plays 2 fewer songs per day, so she plays 8 songs per day
+* In June, there were 8 weekend days where they didn't play any songs
+* So, the number of days they played songs in June is 30 days - 8 weekend days = 22 days
+
+Now, let's calculate the total number of songs they listened to in June:
+* Vivian's total songs = 10 songs/day x 22 days = 220 songs
+* Clara's total songs = 8 songs/day x 22 days = 176 songs
+* Total songs listened to = Vivian's songs + Clara's songs = 220 + 176 = 396 songs
+
+Answer: 396

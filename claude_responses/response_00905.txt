@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The machine produces 30 cans of soda every 30 minutes
+* We want to find how many cans the machine can produce in 8 hours
+* 8 hours = 480 minutes
+* In 30 minutes, the machine produces 30 cans
+* So in 480 minutes (8 hours), the machine will produce:
+* (480 minutes / 30 minutes) * 30 cans = 480 cans
+
+Answer: 480

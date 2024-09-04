@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Each blouse gets 20 black dots.
+2) Each dot takes 10 ml of black dye.
+3) Jenna needs to dye 100 blouses.
+4) To calculate the total amount of dye needed, we multiply the number of blouses (100) by the number of dots per blouse (20) and the amount of dye per dot (10 ml):
+100 blouses x 20 dots/blouse x 10 ml/dot = 20,000 ml of dye
+5) Each bottle of dye contains 400 ml.
+6) To calculate the number of bottles Jenna needs to buy, we divide the total amount of dye needed (20,000 ml) by the amount of dye per bottle (400 ml):
+20,000 ml / 400 ml/bottle = 50 bottles
+
+Answer: 50

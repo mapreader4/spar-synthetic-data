@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The original price of the sneakers is $120.
+2) The man has a coupon for $10 off any pair of sneakers.
+3) The membership discount is 10% off any purchase.
+4) The membership discount must be applied after the coupon.
+5) First, we apply the $10 coupon to the original $120 price, which gives us $120 - $10 = $110.
+6) Next, we apply the 10% membership discount to the $110 price. 10% of $110 is $11, so the final price after the discount is $110 - $11 = $99.
+
+Answer: $99

@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+1) Last year, the farmer harvested 560 bales of hay from 5 acres of grass per month.
+2) This year, the farmer planted an additional 7 acres of grass.
+3) The farmer owns 9 horses, and each horse consumes 3 bales of hay per day.
+4) The farmer will start feeding the horses this year's hay beginning the first day of September.
+
+To calculate the number of bales of hay the farmer would have left by the end of December, we need to:
+1) Calculate the total number of bales of hay harvested this year.
+2) Calculate the total number of bales of hay consumed by the horses from September 1 to December 31.
+3) Subtract the number of bales consumed from the total bales harvested.
+
+Step 1: Calculate the total number of bales of hay harvested this year.
+The farmer has 12 acres of grass this year (5 acres + 7 acres), and each acre yields 560 bales of hay per month.
+Total bales of hay harvested this year = 12 acres x 560 bales/acre x 4 months (September to December) = 26,880 bales.
+
+Step 2: Calculate the total number of bales of hay consumed by the horses from September 1 to December 31.
+Each horse consumes 3 bales of hay per day, and there are 9 horses.
+Total bales of hay consumed by the horses = 9 horses x 3 bales/day x 122 days (September 1 to December 31) = 3,294 bales.
+
+Step 3: Subtract the number of bales consumed from the total bales harvested.
+Bales of hay left by the end of December = 26,880 bales - 3,294 bales = 23,586 bales.
+
+Answer: 23,586 bales.

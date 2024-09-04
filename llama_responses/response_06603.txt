@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by finding the total number of seats on the plane. There are 8 people and 12 rows. To find the total number of seats, we multiply the number of rows by the number of people in each row. 12 rows * 8 people per row = 96 seats.
+
+Now, we need to find the number of seats that are allowed to be seated. We know that 3/4 of the seats in each row are allowed to be seated. So, we multiply the number of rows by 3/4 to find the number of seats that can be seated. 12 rows * 3/4 = 9 seats.
+
+Now, we need to find the number of seats that will not be occupied. We know that the total number of seats is 96, and the number of seats that can be seated is 9. To find the number of seats that will not be occupied, we subtract the number of seats that can be seated from the total number of seats. 96 - 9 = 87.
+
+Answer: 87

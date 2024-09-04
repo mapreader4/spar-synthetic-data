@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Erin can serve 5 bowls of soup per minute, and each bowl is 10 ounces. So, the total number of ounces Erin can serve in 1 minute is 5 * 10 = 50 ounces. The total number of ounces in the pot is 6 gallons, which is 128 ounces. To find out how many minutes it will take Erin to serve all the soup, we need to divide the total number of ounces by the number of ounces Erin can serve in 1 minute.
+
+128 ounces / 50 ounces per minute = 2.56 minutes. Since we need to round to the nearest minute, we round 2.56 to the nearest whole number, which is 3.
+
+Answer: 3

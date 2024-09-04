@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Katrina received $5.00 for signing up for the recycling program.
+* For each friend she referred, her friend received $5.00 and she received another $5.00.
+* On the first day, she had 5 friends sign up.
+* For those 5 friends, Katrina received 5 x $5.00 = $25.00.
+* Her 5 friends also each received $5.00, so that's an additional 5 x $5.00 = $25.00.
+* By the end of the week, she had 7 more friends sign up.
+* For those 7 friends, Katrina received 7 x $5.00 = $35.00.
+* Her 7 friends also each received $5.00, so that's an additional 7 x $5.00 = $35.00.
+* In total:
+  - Katrina received $5.00 for signing up + $25.00 for the first 5 friends + $35.00 for the additional 7 friends = $65.00.
+  - Her 12 friends (5 + 7) each received $5.00, so that's 12 x $5.00 = $60.00.
+
+Answer: $125.00

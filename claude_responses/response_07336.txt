@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Damien jogs 5 miles per day on weekdays only
+* There are 5 weekdays in a week
+* So in one week, Damien jogs 5 miles x 5 days = 25 miles
+* There are 3 weeks in the problem statement
+* Therefore, over three weeks, Damien will jog a total of 25 miles x 3 weeks = 75 miles
+
+Answer: 75

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mary has 300 sheep
+* Bob has double the number of sheep as Mary, plus another 35
+* To find the number of sheep Bob has, we can use the following equation:
+    * Bob's sheep = (2 x Mary's sheep) + 35
+    * Bob's sheep = (2 x 300) + 35
+    * Bob's sheep = 635
+* Now, we need to find how many sheep Mary needs to buy to have 69 fewer sheep than Bob
+    * Bob has 635 sheep
+    * Mary needs to have 69 fewer sheep than Bob
+    * So, Mary needs to have 635 - 69 = 566 sheep
+    * Mary currently has 300 sheep
+    * So, Mary needs to buy 566 - 300 = 266 sheep
+
+Answer: 266

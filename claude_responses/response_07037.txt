@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Originally, there were:
+  - 10 votes for Game of Thrones
+  - 12 votes for Twilight
+  - 20 votes for The Art of the Deal
+* Fran throws away 80% of the votes for The Art of the Deal
+  - 80% of 20 votes = 0.8 * 20 = 16 votes thrown away
+  - Remaining votes for The Art of the Deal = 20 - 16 = 4 votes
+* Fran throws away half the votes for Twilight
+  - Half of 12 votes = 0.5 * 12 = 6 votes thrown away
+  - Remaining votes for Twilight = 12 - 6 = 6 votes
+* The total number of altered votes is:
+  - Game of Thrones: 10 votes
+  - Twilight: 6 votes
+  - The Art of the Deal: 4 votes
+* The total number of altered votes is 10 + 6 + 4 = 20 votes
+* The percentage of altered votes for Game of Thrones is:
+  - (10 votes for Game of Thrones) / (20 total altered votes) = 0.5 = 50%
+
+Answer: 50%

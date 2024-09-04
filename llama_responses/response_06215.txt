@@ -1,0 +1,8 @@
+Let's break down the problem step by step:
+
+1. In the first round, Hattie jumps 180 times.
+2. Lorelei jumps 3/4 as many times as Hattie, so Lorelei jumps 180 * 3/4 = 135 times in the first round.
+3. In the second round, Lorelei jumps 50 more times than Hattie. Since Hattie jumped 180 times in the first round, Lorelei jumps 180 + 50 = 230 times in the second round.
+4. To find the total number of jumps, we need to add the jumps done in both rounds: 180 + 135 + 230 = 445.
+
+Answer: 445

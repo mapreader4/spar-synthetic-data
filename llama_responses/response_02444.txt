@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total amount raised so far:
+
+10 Bronze Status families x $25 = $250
+7 Silver Status families x $50 = $350
+1 Gold Status family x $100 = $100
+
+Total amount raised so far = $250 + $350 + $100 = $700
+
+The school's goal is to raise $750. To find out how much they need to raise on the final day, we subtract the total amount raised so far from the goal:
+
+$750 - $700 = $50
+
+Answer: 50

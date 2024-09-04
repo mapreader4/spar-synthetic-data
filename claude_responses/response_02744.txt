@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Ben's potato gun can launch a potato 6 football fields.
+2) A football field is 200 yards long.
+3) So the total distance the potato travels is 6 * 200 yards = 1,200 yards.
+4) Ben's dog can run 400 feet/minute.
+5) 1 yard = 3 feet.
+6) Therefore, the dog can run 400/3 = 133.33 yards/minute.
+7) To find the time it takes the dog to fetch the potato, we divide the distance the potato travels (1,200 yards) by the speed of the dog (133.33 yards/minute).
+8) 1,200 yards / 133.33 yards/minute = 9 minutes.
+
+Answer: 9 minutes.

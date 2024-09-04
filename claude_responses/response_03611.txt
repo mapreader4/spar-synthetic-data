@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Dabbie bought 3 turkeys for Thanksgiving
+* The first turkey weighs 6 kilograms
+* The second turkey weighs 9 kilograms
+* The third turkey weighs twice the weight of the second turkey, which is 2 x 9 = 18 kilograms
+* The cost of a kilogram of turkey is $2
+
+To calculate the total cost, we need to:
+1. Calculate the total weight of all the turkeys
+2. Multiply the total weight by the cost per kilogram
+
+Total weight of the turkeys:
+* First turkey: 6 kg
+* Second turkey: 9 kg
+* Third turkey: 18 kg
+* Total weight = 6 + 9 + 18 = 33 kg
+
+Total cost:
+* 33 kg x $2 per kg = $66
+
+Answer: $66

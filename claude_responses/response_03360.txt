@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 5 different types of animals at the zoo
+* Each animal type takes around 6 minutes to see
+* The zoo decides to import 4 new species
+* So, the total number of animal types at the zoo will be 5 + 4 = 9 different types
+* To see each animal type, it will take 9 * 6 minutes = 54 minutes
+
+Answer: 54

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Charles runs at 6 MPH when he's got music on
+* His album is 40 minutes long
+* So for the 40 minutes he's listening to the album, he's running at 6 MPH
+* 6 MPH = 6 miles per hour
+* So in 40 minutes, he can cover 6 * (40/60) = 4 miles
+* After the album ends, he runs at 4 MPH
+* To cover the remaining 2 miles (6 miles total - 4 miles covered), it will take him 2 / 4 = 0.5 hours = 30 minutes
+* Therefore, the total time it will take him to jog 6 miles is 40 minutes + 30 minutes = 70 minutes
+
+Answer: 70 minutes

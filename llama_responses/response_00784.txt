@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Brad's pumpkin weighs 54 pounds.  Jessica's pumpkin is half the weight of Brad's, so Jessica's pumpkin weighs 54 / 2 = 27 pounds.  Betty's pumpkin is 4 times the weight of Jessica's pumpkin, so Betty's pumpkin weighs 27 * 4 = 108 pounds.
+
+To find the difference between the heaviest and lightest pumpkins, we need to subtract the lightest from the heaviest.  The lightest pumpkin is Jessica's, which weighs 27 pounds.  The heaviest is Betty's, which weighs 108 pounds.  To find the difference, we subtract 108 - 27 = 81 pounds.
+
+Answer: 81

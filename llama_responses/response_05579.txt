@@ -1,0 +1,27 @@
+Let's break down the information given in the problem:
+
+* Amaya scored 20 marks fewer in Maths than she scored in Arts. This means that Amaya scored x marks in Maths and x marks in Arts.
+* She also got 10 marks more in Social Studies than she got in Music. This means that Amaya scored y marks in Social Studies and y marks in Music, where y = x + 10.
+* She scored 70 in Music.
+
+From the information given, we can write the equations:
+
+* Maths: x - 20 = y
+* Social Studies: y = x + 10
+* Music: 70 = y
+
+We can solve these equations step by step:
+
+1. Maths: x - 20 = y
+x = 50
+2. Social Studies: y = x + 10
+y = 50 + 10 = 60
+3. Music: 70 = y
+y = 70
+
+Now, let's add up the marks scored by Amaya in all the subjects:
+
+Maths: 50
+Social Studies: 60
+Music: 70
+Total: 50 + 60 + 70 = 180

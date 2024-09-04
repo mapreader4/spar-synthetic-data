@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 8 students enrolled in the German lessons.
+* 8 more became interested through advertising, but a fourth of these (2 students) dropped out within a day.
+* 2 more students got frustrated and left.
+* The class then rallied and increased enrollment by 5 times the amount of students already enrolled, which was 8 students. So the enrollment increased by 40 students.
+* 2 students had to drop the class due to scheduling conflicts.
+* 6 more people enrolled after one last rally.
+* So the total number of students enrolled at this point is 8 + (8 - 2) + 40 - 2 + 6 = 58 students.
+* Half of the class eventually dropped, so the number of students remaining is 58 / 2 = 29 students.
+* Half of the remaining 29 students graduated, so the final number of students still enrolled is 29 / 2 = 14.5 students.
+
+Since the question asks for the number of students still enrolled, and the answer must be an integer, the final answer is:
+
+Answer: 14

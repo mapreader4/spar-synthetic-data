@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the time it takes Carla to cook a batch of waffles. She can cook a batch of waffles in 10 minutes, so it will take her 10 minutes.
+
+Next, let's find the time it takes her to cook chicken-fried steak. She can cook a chicken-fried steak in 6 minutes, so it will take her 6 minutes.
+
+Now, let's find the total time it takes her to cook a batch of waffles and a chicken-fried steak. It will take her 10 minutes to cook a batch of waffles, and 6 minutes to cook a chicken-fried steak. So, we add these times together to get the total time:
+
+10 minutes + 6 minutes = 16 minutes
+
+Answer: 16

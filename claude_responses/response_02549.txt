@@ -1,0 +1,24 @@
+Okay, let's break this down step by step:
+* The blacksmith has 400kg of iron
+* Each horseshoe requires 2kg of iron
+* There are 2 farms nearby, each with 2 horses
+* There are 2 stables nearby, each with 5 horses
+
+First, let's calculate how many horseshoes the blacksmith can make with 400kg of iron:
+* 400kg / 2kg per horseshoe = 200 horseshoes
+
+Now, let's calculate how many horses the farms and stables have in total:
+* 2 farms x 2 horses per farm = 4 horses
+* 2 stables x 5 horses per stable = 10 horses
+* Total horses = 4 + 10 = 14 horses
+
+Since each horse needs 4 horseshoes, the total number of horseshoes needed for the farms and stables is:
+* 14 horses x 4 horseshoes per horse = 56 horseshoes
+
+The blacksmith has 200 horseshoes available, and the farms and stables need 56 horseshoes, so the remaining horseshoes are:
+* 200 horseshoes - 56 horseshoes = 144 horseshoes
+
+Since each horse needs 4 horseshoes, the number of horses that can get new horseshoes at the riding school is:
+* 144 horseshoes / 4 horseshoes per horse = 36 horses
+
+Answer: 36 horses

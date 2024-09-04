@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first figure out how long the subway ride takes. The subway ride takes 10 hours, so the train ride takes 10 hours.
+
+Then, Andrew takes the train and rides for twice as much time as the subway ride, so the train ride takes 20 hours.
+
+The total time spent on the train is 10 + 20 = 30 hours.
+
+Andrew then bikes the remaining distance for 8 hours. So, he bikes for 8 hours.
+
+The total time taken to bike is 8 hours.
+
+The total time to reach the Bronx is the sum of the time spent on the subway, train, and biking. So, the total time is 10 + 30 + 8 = 48 hours.
+
+Answer: 48

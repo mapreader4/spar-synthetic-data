@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The length of the rectangle is four times its width. Let's call the width 'w' and the length '4w'.
+2) The area of the rectangle is given as 100 m^2.
+3) The formula for the area of a rectangle is: Area = length x width
+4) Substituting the values we know, we get: 100 = 4w x w
+5) Simplifying, we get: 100 = 4w^2
+6) Solving for w, we get: w^2 = 25
+7) Taking the square root of both sides, we get: w = 5
+8) Since the length is 4 times the width, the length is: 4 x 5 = 20
+
+Answer: 20

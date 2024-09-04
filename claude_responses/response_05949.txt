@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Logan's father normally receives 50 cartons of milk, with each carton having 20 jars of milk.
+* So the normal total number of jars of milk received is:
+    * 50 cartons x 20 jars/carton = 1,000 jars of milk
+* However, on this particular week, he received 20 cartons less.
+    * So he received 50 - 20 = 30 cartons
+* Each of these 30 cartons had 20 jars of milk.
+    * So the total number of jars of milk received this week is:
+        * 30 cartons x 20 jars/carton = 600 jars of milk
+* Now, we need to account for the damaged jars and carton.
+    * 3 jars were damaged in each of 5 cartons.
+        * So the total number of damaged jars is:
+            * 3 jars/carton x 5 cartons = 15 damaged jars
+    * 1 carton was totally damaged.
+        * This carton had 20 jars of milk.
+* So the total number of good jars of milk for sale that week is:
+    * 600 jars - 15 damaged jars - 20 jars in the totally damaged carton = 565 jars of milk
+
+Answer: 565

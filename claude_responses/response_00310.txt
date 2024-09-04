@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Janet has 6 employees total:
+   - 4 warehouse workers who make $15/hour
+   - 2 managers who make $20/hour
+2) Each employee works 25 days a month and 8 hours a day.
+3) To calculate the monthly wages for the warehouse workers:
+   - 4 workers x $15/hour x 25 days x 8 hours/day = $12,000
+4) To calculate the monthly wages for the managers:
+   - 2 managers x $20/hour x 25 days x 8 hours/day = $8,000
+5) The total monthly wages for all 6 employees is:
+   - $12,000 + $8,000 = $20,000
+6) Janet has to pay 10% of the total wages in FICA taxes:
+   - 10% of $20,000 = $2,000
+7) The total amount Janet owes for wages and taxes for one month is:
+   - $20,000 + $2,000 = $22,000
+
+Answer: 22,000

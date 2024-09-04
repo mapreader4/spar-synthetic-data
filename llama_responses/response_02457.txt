@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Let's say the initial number of bees is x. Since the colony can contain up to 80000 individuals, we know that x is less than or equal to 80000.
+
+The colony loses 1200 bees per day. Let's say the number of days it takes for the colony to reach a fourth of its initial number is t days.
+
+We know that the number of bees in the colony after t days is x - 1200t.
+
+We want to find the value of t such that x - 1200t = x/4.
+
+We can set up an equation based on this information:
+
+x - 1200t = x/4
+
+To solve for t, we can multiply both sides of the equation by 4 to get:
+
+4(x - 1200t) = x
+
+Then, we can subtract x from both sides of the equation to get:
+
+4t = x - 4800
+
+To find the value of t, we can divide both sides of the equation by 4:
+
+t = (x - 4800) / 4
+
+Since we know that x is less than or equal to 80000, we can substitute this value into the equation to get:
+
+t = (80000 - 4800) / 4
+
+t = 7600 / 4
+
+t = 1900
+
+Answer: 1900

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Antonia has a 7-day pill box she wants to fill
+* She buys 5 different supplements
+* 3 of the bottles have 120 pills each
+* 2 of the bottles have 30 pills each
+* She wants to fill her pillbox with one pill of each supplement for 2 weeks
+
+First, let's calculate the total number of pills she has:
+* 3 bottles with 120 pills each = 3 x 120 = 360 pills
+* 2 bottles with 30 pills each = 2 x 30 = 60 pills
+* Total pills = 360 + 60 = 420 pills
+
+Now, let's calculate how many pills she will use in 2 weeks:
+* 1 pill of each supplement per day
+* 5 pills per day
+* 5 pills per day x 7 days per week = 35 pills per week
+* 35 pills per week x 2 weeks = 70 pills used
+
+Finally, we can calculate the number of pills left:
+* 420 pills - 70 pills used = 350 pills left
+
+Answer: 350

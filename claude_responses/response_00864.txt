@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The coffee shop is open 5 hours a day, every single day
+* On a weekday, the coffee shop brews 10 coffee cups per hour
+* So on a weekday, the coffee shop brews 10 cups per hour x 5 hours = 50 coffee cups
+* On the weekend, the coffee shop brews 120 coffee cups in total
+* There are 2 weekend days (Saturday and Sunday)
+* So on each weekend day, the coffee shop brews 120 / 2 = 60 coffee cups
+* In a week, there are 5 weekdays and 2 weekend days
+* So the total number of coffee cups brewed in a week is:
+* (5 days x 50 cups per day) + (2 days x 60 cups per day) = 250 + 120 = 370 coffee cups
+
+Answer: 370

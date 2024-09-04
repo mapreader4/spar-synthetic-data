@@ -1,0 +1,18 @@
+Okay, let's think this through step-by-step:
+1) The entrepreneur has three different dollar amount levels of financial backing options.
+2) Each level is ten times as high as the previous one.
+3) He needs to raise $12,000 to get his business off the ground.
+4) He succeeded after getting two backers at the highest level, three at the second level, and ten at the lowest level.
+5) Let's call the lowest level of financial backing "x".
+6) Then the second level is 10x, and the highest level is 100x.
+7) The total amount raised is:
+   - 2 backers at 100x = 200x
+   - 3 backers at 10x = 30x
+   - 10 backers at x = 10x
+   - Total = 200x + 30x + 10x = 240x
+8) We know the total amount raised is $12,000, so we can set up an equation:
+   - 240x = 12,000
+   - x = 50
+9) Therefore, the highest level of financial backing is 100x = 100 * 50 = $5,000.
+
+Answer: $5,000

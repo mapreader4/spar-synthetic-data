@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Vins rides 6 miles to school
+* Vins rides 7 miles back home
+* This week, Vins rode to school and back 5 times
+
+To calculate the total miles Vins rode his bike this week, we need to:
+1. Calculate the total distance for one round trip (to school and back home)
+   * Distance to school: 6 miles
+   * Distance back home: 7 miles
+   * Total distance for one round trip = 6 miles + 7 miles = 13 miles
+2. Calculate the total distance for 5 round trips
+   * Total distance = 13 miles x 5 = 65 miles
+
+Therefore, the total miles Vins rode his bike this week is:
+
+Answer: 65 miles

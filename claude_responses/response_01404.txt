@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 9 wombats in the enclosure
+* Each wombat claws Carson 4 times
+* So the total number of times the wombats claw Carson is:
+9 wombats x 4 claws per wombat = 36 claws
+
+* There are 3 rheas in the enclosure
+* Each rhea claws Carson once
+* So the total number of times the rheas claw Carson is:
+3 rheas x 1 claw per rhea = 3 claws
+
+* To get the total number of times Carson gets clawed, we add the number of wombat claws and the number of rhea claws:
+36 wombat claws + 3 rhea claws = 39 claws
+
+Answer: 39

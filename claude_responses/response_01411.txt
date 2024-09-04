@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Leo has to write a 400-word story
+* 10 words fit on each line of his notebook
+* 20 lines fit on each page
+* Lucas has filled one and a half pages
+
+First, let's calculate how many words fit on one page:
+* 10 words per line x 20 lines per page = 200 words per page
+
+Now, let's calculate how many words Lucas has written so far:
+* 1.5 pages x 200 words per page = 300 words
+
+Finally, to find how many words Lucas has left to write, we subtract the number of words he has written from the total number of words required:
+* 400 words - 300 words = 100 words
+
+Answer: 100

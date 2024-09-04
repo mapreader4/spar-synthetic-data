@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that the apartment is 16 feet by 10 feet, so the total area of the apartment is 160 square feet. We also know that there are 6 rooms, except the living room, which is as big as 3 other rooms. So, if we let x be the size of each of the 5 smaller rooms, we can write an equation to represent the total area of the 5 rooms:
+
+5x = 3x
+
+We know that the total area of the 5 rooms is 3x, which is the same as the area of the living room. So, we can set up an equation to solve for x:
+
+5x = 3x
+
+We can divide both sides of the equation by 5:
+
+x = 3x / 5
+
+We can then simplify the fraction by dividing both the numerator and denominator by 3:
+
+x = 3 / 5
+
+x = 3 / 5 * 1
+
+x = 0.6
+
+So, the answer is 0.6.

@@ -1,0 +1,17 @@
+Okay, let's solve this step-by-step:
+
+1. Initial number of ducks: 320
+
+2. First night: 1/4 of the ducks get eaten by a fox.
+   * Number of ducks eaten = 1/4 * 320 = 80
+   * Remaining ducks = 320 - 80 = 240
+
+3. Second night: 1/6 of the remaining ducks fly away.
+   * Number of ducks that fly away = 1/6 * 240 = 40
+   * Remaining ducks = 240 - 40 = 200
+
+4. Third night: 30% of the remaining ducks are stolen.
+   * Number of ducks stolen = 0.3 * 200 = 60
+   * Remaining ducks = 200 - 60 = 140
+
+Answer: 140

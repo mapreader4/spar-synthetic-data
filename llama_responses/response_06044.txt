@@ -1,0 +1,9 @@
+To find out how many strokes over par Tom was, we can calculate the total number of strokes he took, and then subtract that from the total number of strokes he should have taken. 
+
+Tom takes 9 rounds of golf.  Each round is a hole, and each hole has a par of 3.  So the total number of strokes he should have taken is 9 * 3 = 27.
+
+Tom takes an average of 4 strokes per hole.  So the total number of strokes he took is 9 * 4 = 36.
+
+To find out how many strokes over par he was, we subtract the total number of strokes he should have taken from the total number of strokes he took.  This is 36 - 27 = 9.
+
+Answer: 9

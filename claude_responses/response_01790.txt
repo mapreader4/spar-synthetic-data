@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* During the first wave, the number of coronavirus cases was 300 infections per day.
+* During the second wave, the number of cases increased by four times more per day due to a new coronavirus variant.
+* To calculate the number of cases per day during the second wave, we multiply the first wave cases by 4:
+  * 300 infections per day x 4 = 1,200 infections per day during the second wave.
+* The question asks for the total number of infections during the second wave in 2 weeks.
+* There are 14 days in 2 weeks.
+* To calculate the total number of infections during the second wave in 2 weeks, we multiply the daily infections by the number of days:
+  * 1,200 infections per day x 14 days = 16,800 total infections during the second wave in 2 weeks.
+
+Answer: 16,800

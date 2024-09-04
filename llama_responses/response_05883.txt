@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Iain has 200 pennies initially.
+
+He realizes that 30 of his pennies are older than he is, so he decides to get rid of those. To find the number of pennies he will get rid of, we can subtract 30 from 200: 200 - 30 = 170.
+
+Now, he wants to throw out 20% of his remaining pennies. To find 20% of 170, we can multiply 170 by 0.2: 170 * 0.2 = 34.
+
+So, he will throw out 34 pennies.
+
+To find the number of pennies he will have left, we subtract 34 from 170: 170 - 34 = 136.
+
+Answer: 136

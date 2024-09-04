@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* In January, James made $4000
+* In February, he made twice as much as January, which is $4000 x 2 = $8000
+* In March, he made $2000 less than in February, which is $8000 - $2000 = $6000
+
+Now, to calculate the total amount James has made so far this year, we add up the amounts from each month:
+* January: $4000
+* February: $8000
+* March: $6000
+* Total: $4000 + $8000 + $6000 = $18000
+
+Answer: $18000

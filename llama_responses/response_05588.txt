@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. The class has 40 students and 10 instructors, including Alice, which means there are a total of 50 people.
+2. 20% of the students are bringing life vests, which is 20 out of 40 students. So, 20 students are bringing life vests.
+3. Alice has 20 life vests on hand, but she wants to make sure that the entire class has one life vest each.
+4. To find the number of life vests Alice needs to get, we need to subtract the 20 students who are already bringing life vests from the total number of students. That leaves 40 - 20 = 20 students who do not have life vests.
+5. So, Alice needs to get 20 life vests for the 20 students who do not have life vests.
+
+Answer: 20

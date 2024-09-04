@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) We the People has 17 cows.
+2) Happy Good Healthy Family has two more than three times the number of cows We the People has.
+   * To calculate this, we first find three times the number of cows We the People has: 3 x 17 = 51
+   * Then we add 2 to that: 51 + 2 = 53
+   * So Happy Good Healthy Family has 53 cows.
+3) To find the total number of cows in the ranch, we add the number of cows from We the People and Happy Good Healthy Family:
+   * 17 + 53 = 70
+
+Answer: 70

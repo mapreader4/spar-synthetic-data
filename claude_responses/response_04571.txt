@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Granger has five times as many spots as his brother, Cisco.
+2) Cisco has 5 less than half as many spots as his cousin, Rover.
+3) Rover has 46 spots.
+
+First, let's find out how many spots Cisco has:
+* Rover has 46 spots
+* Cisco has 5 less than half as many spots as Rover
+* So, Cisco has (46/2) - 5 = 18 spots
+
+Now, let's find out how many spots Granger has:
+* Granger has five times as many spots as Cisco
+* Cisco has 18 spots
+* So, Granger has 5 * 18 = 90 spots
+
+Finally, to find the total number of spots that Granger and Cisco have combined:
+* Granger has 90 spots
+* Cisco has 18 spots
+* The total number of spots is 90 + 18 = 108
+
+Answer: 108

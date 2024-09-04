@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the initial number of caterpillars: 14 caterpillars.
+
+Then, 4 more eggs hatch, and 4 more caterpillars join the original 14. So, the new total number of caterpillars is:
+
+14 + 4 = 18
+
+Next, 8 caterpillars leave the tree to cocoon themselves to be butterflies. These caterpillars are not counted among the caterpillars on the tree.
+
+So, the number of caterpillars left on the tree is:
+
+18 - 8 = 10
+
+Answer: 10

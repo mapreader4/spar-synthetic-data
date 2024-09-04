@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) Carl's class has 4 tests, and the whole grade is based on these 4 tests.
+2) He got an 80, a 75, and a 90 on the first three tests.
+3) He wants an 85 average for the class.
+4) To calculate the minimum grade he needs on the last test, we need to find the total points he needs to get an 85 average, and then subtract the points he has already earned on the first three tests.
+5) The total points he needs for an 85 average would be: 4 tests x 85 points per test = 340 points.
+6) The points he has already earned on the first three tests are: 80 + 75 + 90 = 245 points.
+7) So the minimum points he needs on the last test would be: 340 - 245 = 95 points.
+8) Since the tests are graded out of 100 points, the minimum grade he needs on the last test is 95.
+
+Answer: 95

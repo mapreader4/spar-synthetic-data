@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The restaurant earns $600 every weekday
+* There are 5 weekdays in a week
+* So the restaurant earns $600 x 5 = $3,000 per week on weekdays
+* On the weekend, the restaurant earns twice as much as on a weekday
+* So on the weekend, the restaurant earns $600 x 2 = $1,200 per day
+* There are 2 weekend days in a week
+* So the restaurant earns $1,200 x 2 = $2,400 per week on the weekend
+* The total earnings per week are $3,000 (weekdays) + $2,400 (weekend) = $5,400
+* Assuming there are 4 weeks in a month, the total earnings for the month would be $5,400 x 4 = $21,600
+
+Answer: 21,600

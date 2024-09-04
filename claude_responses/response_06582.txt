@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The new edition Geometry book has 450 pages
+* The new edition has 230 pages less than twice as many pages as the old edition
+* Let's represent the number of pages in the old edition as x
+* Twice as many pages as the old edition would be 2x
+* The new edition has 230 pages less than 2x, so the new edition has 2x - 230 pages
+* We know the new edition has 450 pages, so we can set up the equation:
+2x - 230 = 450
+* Solving for x, we get:
+2x = 680
+x = 340
+
+Answer: 340

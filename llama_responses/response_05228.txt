@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. There are 42 apples in a crate.
+2. 12 crates of apples were delivered to a factory.
+3. 4 apples were rotten and had to be thrown away.
+4. The remaining apples were packed into boxes that could fit 10 apples each.
+
+So, the total number of apples is 42 - 4 = 38.
+5. Since each box can fit 10 apples, the number of boxes needed is 38 / 10 = 3.83.
+
+So, the answer is: Answer: 3

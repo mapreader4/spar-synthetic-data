@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's first identify the information given: the Albaszu machine was cutting 10 trees daily. We want to know how many trees it is cutting now after its improvement.
+
+The problem says the machine was repaired, which means it's working better than before. This means its daily output increased. We know the daily output was 10 trees, so if it's now cutting more than 10 trees, the number of trees it cuts must be greater than 10.
+
+Since it increased by one and a half, it means the new daily output is 11.5. To find the new number of trees, we need to multiply the original output by 1.5.
+
+10 * 1.5 = 15
+
+Answer: 15

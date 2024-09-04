@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Tammy has 10 orange trees
+2) Each tree can produce 12 oranges per day
+3) So in total, Tammy can pick 10 * 12 = 120 oranges per day
+4) Tammy wants to sell the oranges in 6-packs for $2 each
+5) In 3 weeks, there are 21 days (7 days per week * 3 weeks)
+6) So in 3 weeks, Tammy can pick a total of 120 * 21 = 2,520 oranges
+7) Since each pack contains 6 oranges, Tammy can make 2,520 / 6 = 420 packs
+8) At $2 per pack, Tammy will earn 420 * $2 = $840
+
+Answer: $840

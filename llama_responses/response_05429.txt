@@ -1,0 +1,3 @@
+Let's start by identifying the total number of sticks she has. She has 10 groups and each group has 15 sticks. So the total number of sticks is 10 x 15 = 150. If she has 170 sticks and gives out 150, she will have 170 - 150 = 20 sticks left. 
+
+Answer: 20

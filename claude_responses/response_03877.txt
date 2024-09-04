@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Marissa has 4.5 feet of ribbon
+2) She uses 0.7 feet of ribbon to tie each box
+3) 1 foot of ribbon is left after she ties each box
+4) To find the number of boxes she tied, we need to calculate how many times she can use 0.7 feet of ribbon before running out of ribbon
+5) The total amount of ribbon used is 4.5 feet - 1 foot = 3.5 feet
+6) Since she uses 0.7 feet of ribbon per box, we can divide the total amount of ribbon used (3.5 feet) by the amount of ribbon used per box (0.7 feet)
+7) 3.5 feet / 0.7 feet per box = 5 boxes
+
+Answer: 5

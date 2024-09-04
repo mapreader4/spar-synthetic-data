@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Bus 1 has a capacity of 150 people
+* Bus 1 is 60% full, which means it has 60% of 150 people = 0.6 * 150 = 90 people
+* Bus 2 has a capacity of 150 people
+* Bus 2 is 70% full, which means it has 70% of 150 people = 0.7 * 150 = 105 people
+* To calculate the total number of employees in the two buses combined, we add the number of people in each bus:
+* Total number of employees = 90 + 105 = 195
+
+Answer: 195

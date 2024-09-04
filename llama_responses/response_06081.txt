@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say that it costs x dollars to make one cookie. Then, it costs 1.2x dollars to make 1 cookie, since it costs 20% more than it costs to make 1 cookie.
+
+Now, Joe sold 50 cookies. So, the total amount of money he earned is 50 * 1.2x. We know that he earned $60, so we can set up the equation:
+
+50 * 1.2x = 60
+
+To solve for x, we can divide both sides of the equation by 50:
+
+x = 60 / 1.2
+
+x = 50
+
+So, it costs 50 dollars to make 1 cookie.

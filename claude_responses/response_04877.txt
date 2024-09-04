@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Brianna reads 2 books per month
+* This year, she was given 6 new books as a gift
+* She bought 8 new books
+* She plans to borrow 2 fewer new books than she bought from the library
+
+So, the total number of new books she has access to this year is:
+* 6 (gift) + 8 (bought) + (8 - 2) (borrowed) = 20 new books
+
+Now, to determine how many of her old books she will need to reread, we need to calculate the total number of books she will have access to this year, and then subtract that from the number of books she needs to read (2 per month for 12 months).
+
+The total number of books she will have access to this year is:
+* 20 (new books) + X (old books she needs to reread)
+
+She needs to read 2 books per month for 12 months, so the total number of books she needs to read is:
+* 2 books per month x 12 months = 24 books
+
+Therefore, the number of old books she needs to reread is:
+* 24 (total books needed) - 20 (new books) = 4 old books
+
+Answer: 4

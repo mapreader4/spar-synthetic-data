@@ -1,0 +1,7 @@
+To find the total square feet of growing space, we need to multiply the length and width of each garden bed.
+
+For the first set of beds, we have 2 beds that are 3 ft long by 3 ft wide, so the area of that is 2 x 3 x 3 = 18 square feet.
+
+For the second set of beds, we have 2 beds that are 4 ft long by 3 ft wide, so the area of that is 2 x 4 x 3 = 24 square feet.
+
+The total area of the growing space is the sum of the area of both sets of beds. So, we add 18 + 24 = 42 square feet.

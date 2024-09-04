@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Mrs. Young buys a 300 piece puzzle set
+* She divides the pieces evenly among her three sons
+* So each son gets 300 / 3 = 100 pieces
+* Reyn can place 25 pieces into the puzzle
+* Rhys places twice as much as Reyn, which is 2 * 25 = 50 pieces
+* Rory places three times as much as Reyn, which is 3 * 25 = 75 pieces
+* Now, we add up the pieces placed by all three sons:
+  - Reyn: 25 pieces
+  - Rhys: 50 pieces
+  - Rory: 75 pieces
+  - Total pieces placed: 25 + 50 + 75 = 150 pieces
+* Finally, we subtract the total pieces placed from the total pieces in the puzzle to get the pieces still left to be placed:
+  - Total pieces in puzzle: 300
+  - Total pieces placed: 150
+  - Pieces still left to be placed: 300 - 150 = 150
+
+Answer: 150

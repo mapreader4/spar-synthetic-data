@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by finding the number of kids who finish in less than 6 minutes. 10% of the kids finish in less than 6 minutes. 10% of 40 kids is 4 kids. Then, three times that number, 12 kids, finish in less than 8 minutes. 
+
+Now, let's find the number of kids who finish in more than 14 minutes. 1/6 of the remaining kids, 20 kids, take more than 14 minutes.
+
+The number of kids who finish in more than 14 minutes is 20 - 4 - 12 = 4 kids.
+
+Answer: 4

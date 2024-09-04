@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The bookseller sold 15 books in January and 16 books in February.
+2) The average number of books sold per month across all three months is 16.
+3) To find the number of books sold in March, we can use the formula for average:
+   Average = (Sum of all values) / (Number of values)
+4) In this case, the average is 16, and we have 3 months, so:
+   16 = (15 + 16 + x) / 3
+   where x is the number of books sold in March.
+5) Solving for x, we get:
+   48 = 15 + 16 + x
+   x = 17
+Answer: 17

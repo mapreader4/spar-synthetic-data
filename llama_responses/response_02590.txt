@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+First, we need to find the total number of glasses that the three cupboards can hold. The tall cupboard can hold 20 glasses, the wide cupboard can hold twice that amount, and the narrow cupboard can hold 15 glasses. 
+
+The total number of glasses the cupboards can hold is 20 + 2 x 20 + 15 = 55.
+
+Since the cupboards are full, we know that the total number of glasses being displayed is equal to the total capacity of the cupboards. So, the number of glasses being displayed is 55.
+
+Now, we know that Damien broke one of the shelves in the narrow cupboard. So, we need to subtract the capacity of the broken shelf from the total capacity of the narrow cupboard.
+
+The narrow cupboard can hold 15 glasses divided into 3 shelves, so each shelf can hold 15 / 3 = 5 glasses. Since one of the shelves is broken, we need to subtract 5 glasses from the total capacity of the narrow cupboard.
+
+So, the number of glasses being displayed is 55 - 5 = 50.
+
+Answer: 50

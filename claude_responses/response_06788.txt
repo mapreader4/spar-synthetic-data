@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Roberta starts with $158.
+2) She spends $45 on new shoes.
+3) She spends $17 less on a new bag. So, the cost of the bag is $17 more than the cost of the shoes, which is $45 + $17 = $62.
+4) She spends a quarter of the price of the bag on lunch. The price of the bag is $62, so a quarter of that is $62 / 4 = $15.50.
+5) In total, Roberta spent $45 + $62 + $15.50 = $122.50.
+6) She started with $158, and spent $122.50, so the amount of money she has left is $158 - $122.50 = $35.50.
+
+Answer: 35

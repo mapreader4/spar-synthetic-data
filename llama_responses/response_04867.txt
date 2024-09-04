@@ -1,0 +1,7 @@
+To find the difference in the cost of one apple, we can find the difference in the total cost of the 10 apples at the higher price and the total cost of the 6 apples at the lower price.
+
+The first store charges $3 for 6 apples, so the cost of one apple is $0.5. The second store charges $4 for 10 apples, so the cost of one apple is $0.4.
+
+The difference in the cost of one apple is $0.4 - $0.5 = -$0.1.
+
+Answer: -1

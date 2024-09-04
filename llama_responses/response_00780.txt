@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of pages Tom can read in one hour. Since he can read 12 pages in 1 hour, then the number of pages he can read in 1 hour is 12.
+
+To find the number of pages he can read in 2 hours, we can multiply the number of pages he can read in 1 hour by 2. This gives us:
+
+12 * 2 = 24
+
+So, the answer is:
+
+Answer: 24

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Justin needs to collect one flower for each of his 30 classmates
+* It takes him an average of 10 minutes to find a flower he likes
+* He has been gathering for 2 hours, which is 120 minutes
+* He has lost 3 of the flowers he initially gathered
+
+First, let's calculate how many flowers he has gathered so far:
+* 120 minutes / 10 minutes per flower = 12 flowers gathered
+
+Now, let's subtract the 3 flowers he lost:
+* 12 flowers - 3 lost flowers = 9 flowers
+
+So, he has 9 flowers currently.
+
+Now, we need to find out how many more flowers he needs to collect:
+* 30 classmates - 9 flowers = 21 more flowers needed
+
+Finally, we can calculate how many more minutes he needs to look:
+* 21 more flowers x 10 minutes per flower = 210 more minutes needed
+
+Answer: 210

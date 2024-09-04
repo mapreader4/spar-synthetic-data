@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On Monday, Sarah buys 20 pencils.
+* On Tuesday, she buys 18 more pencils.
+* On Wednesday, she buys triple the number of pencils she bought on Tuesday.
+* The number of pencils she bought on Tuesday was 18.
+* So on Wednesday, she bought 3 x 18 = 54 pencils.
+* To find the total number of pencils she has, we add up the pencils she bought on each day:
+* Monday: 20 pencils
+* Tuesday: 18 pencils
+* Wednesday: 54 pencils
+* Total: 20 + 18 + 54 = 92 pencils
+
+Answer: 92

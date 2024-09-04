@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Marie has 4 notebooks with 20 stamps each
+* So the total number of stamps in the notebooks is:
+  * 4 notebooks x 20 stamps per notebook = 80 stamps
+* Marie also has 2 binders with 50 stamps each
+* So the total number of stamps in the binders is:
+  * 2 binders x 50 stamps per binder = 100 stamps
+* The total number of stamps Marie has is:
+  * 80 stamps (notebooks) + 100 stamps (binders) = 180 stamps
+* Marie decides to keep 1/4 of the stamps
+* 1/4 of 180 stamps is:
+  * 180 stamps / 4 = 45 stamps
+* Therefore, Marie can give away:
+  * 180 stamps - 45 stamps = 135 stamps
+
+Answer: 135

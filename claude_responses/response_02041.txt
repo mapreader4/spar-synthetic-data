@@ -1,0 +1,31 @@
+Okay, let's break this down step by step:
+
+1. The bucket holds 2 pounds of sand.
+2. The sandbox is 2 feet deep, 4 feet wide, and 5 feet long.
+3. A cubic foot of sand weighs 3 pounds.
+4. Every 4 trips, Tony drinks 3 ounces of bottled water.
+5. A 15-ounce bottle of water costs $2.
+6. Tony has $10 with him.
+
+To find the total volume of the sandbox, we multiply the length, width, and depth:
+* Volume of sandbox = 2 feet x 4 feet x 5 feet = 40 cubic feet
+
+To find the total weight of the sand in the sandbox, we multiply the volume by the weight per cubic foot:
+* Weight of sand = 40 cubic feet x 3 pounds/cubic foot = 120 pounds
+
+To find the number of trips Tony needs to make to fill the sandbox, we divide the total weight of the sand by the weight of the bucket:
+* Number of trips = 120 pounds / 2 pounds per trip = 60 trips
+
+To find the amount of water Tony needs to drink, we divide the number of trips by 4 (since he drinks 3 ounces every 4 trips) and multiply by 3 ounces:
+* Water needed = (60 trips / 4 trips per drink) x 3 ounces per drink = 45 ounces
+
+To find the number of 15-ounce bottles Tony needs to buy, we divide the total water needed by 15 ounces per bottle:
+* Bottles needed = 45 ounces / 15 ounces per bottle = 3 bottles
+
+To find the total cost of the water, we multiply the number of bottles by the cost per bottle:
+* Cost of water = 3 bottles x $2 per bottle = $6
+
+To find the change Tony will have after buying the water, we subtract the cost of the water from the $10 he has:
+* Change = $10 - $6 = $4
+
+Answer: $4

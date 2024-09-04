@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The garden starts with 400 bugs.
+2) Bill sprays the garden, which reduces the total bug population to 80% of what it was previously.
+   * 80% of 400 = 0.8 * 400 = 320 bugs
+3) Bill then introduces 12 spiders, and each spider eats 7 bugs.
+   * 12 spiders x 7 bugs per spider = 84 bugs eaten by the spiders
+4) The number of bugs left is the remaining bug population after spraying (320) minus the number of bugs eaten by the spiders (84).
+   * 320 - 84 = 236 bugs
+
+Answer: 236

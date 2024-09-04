@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Bill sold 8 ounces of fool's gold to a merchant
+* He earned $9 for every ounce of fool's gold he sold
+* So, for the 8 ounces he sold, he earned:
+    * 8 ounces x $9 per ounce = $72
+* However, he was then fined $50 by the sheriff
+* To calculate the amount of money he is left with, we take the $72 he earned and subtract the $50 fine:
+    * $72 - $50 = $22
+
+Answer: $22

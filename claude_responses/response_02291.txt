@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+* On the first day, Trish walks 1 mile.
+* On each subsequent day, she doubles the distance she walked the previous day.
+* So, the distances she walks each day are:
+  - Day 1: 1 mile
+  - Day 2: 2 miles (1 mile x 2)
+  - Day 3: 4 miles (2 miles x 2)
+  - Day 4: 8 miles (4 miles x 2)
+  - Day 5: 16 miles (8 miles x 2)
+* We want to find the day when she walks more than 10 times further than she did on the first day.
+* 10 times the first day's distance is 10 miles.
+* On the 5th day, she walked 16 miles, which is more than 10 times the first day's distance.
+
+Answer: 5

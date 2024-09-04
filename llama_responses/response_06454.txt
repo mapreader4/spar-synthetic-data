@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by finding the original number of turtles. We know that "a group of nine turtles sat on a log." So, the original number of turtles is 9.
+
+Then, "two less than three times the original number of turtles" means that we need to find 3 times the original number of turtles and subtract 2 from the result. So, 3 x 9 = 27, and 27 - 2 = 25. So, the large group of turtles is 25.
+
+Now, "half of the large group of turtles" means that we need to find half of 25, which is 12. Then, "half of the large group of turtles were frightened by a sound and jumped off of the log and ran away." So, 12 turtles jumped off the log.
+
+Finally, we need to find the remaining turtles that remained on the log. The original 9 turtles were on the log initially, and we subtracted 12 from that to get to the final number. So, the answer is:
+
+Answer: 9 - 12 = 3.

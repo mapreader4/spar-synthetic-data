@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* James works for 240 minutes
+* He takes a water break every 20 minutes
+* He takes a sitting break every 120 minutes
+
+To find the number of water breaks:
+* 240 minutes / 20 minutes per water break = 12 water breaks
+
+To find the number of sitting breaks:
+* 240 minutes / 120 minutes per sitting break = 2 sitting breaks
+
+Now, to find the difference between the number of water breaks and sitting breaks:
+* 12 water breaks - 2 sitting breaks = 10 more water breaks than sitting breaks
+
+Answer: 10

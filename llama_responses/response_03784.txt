@@ -1,0 +1,17 @@
+To find the area of the tablecloth, we need to multiply the length and the width of the tablecloth. The length is 102 inches and the width is 54 inches. So, the area of the tablecloth is:
+
+Area of tablecloth = Length x Width = 102 x 54 = 5508 square inches
+
+To find the area of the napkins, we need to multiply the length and the width of each napkin. The length of each napkin is 6 inches and the width is 7 inches. So, the area of each napkin is:
+
+Area of napkin = Length x Width = 6 x 7 = 42 square inches
+
+Since there are 8 napkins, the total area of all napkins is:
+
+Total area of napkins = 8 x 42 = 336 square inches
+
+To find the total area of material needed, we add the area of the tablecloth and the area of the napkins:
+
+Total area = Area of tablecloth + Area of napkins = 5508 + 336 = 5844 square inches
+
+Answer: 5844

@@ -1,0 +1,14 @@
+To solve this problem, we need to find out how many times Tony will fill the 84-ounce water bottle each week.
+
+Given information:
+- Tony drinks 72 ounces of water per day.
+- Tony buys an 84-ounce water bottle.
+
+Step 1: Calculate the total amount of water Tony drinks in a week.
+Total water consumed in a week = 72 ounces per day × 7 days per week = 504 ounces
+
+Step 2: Calculate the number of times Tony will fill the 84-ounce water bottle each week.
+Number of times the water bottle is filled per week = Total water consumed in a week / Capacity of the water bottle
+Number of times the water bottle is filled per week = 504 ounces / 84 ounces = 6 times
+
+Answer: 6

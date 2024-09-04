@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The initial population is 100,000 people.
+2) The population increases by 60% over 10 years due to birth. 
+   - To calculate the increase, we take the initial population of 100,000 and multiply it by 1.6 (since 60% is the same as 1.6).
+   - 100,000 * 1.6 = 160,000
+   - So the population increases by 60,000 people due to birth.
+3) During the same 10-year period, 2,000 people leave per year from emigration.
+   - Over 10 years, that's 2,000 * 10 = 20,000 people leaving.
+4) During the same 10-year period, 2,500 people come in per year from immigration.
+   - Over 10 years, that's 2,500 * 10 = 25,000 people arriving.
+5) Putting it all together:
+   - Initial population: 100,000
+   - Increase from birth: +60,000
+   - Decrease from emigration: -20,000
+   - Increase from immigration: +25,000
+   - Final population = 100,000 + 60,000 - 20,000 + 25,000 = 165,000
+
+Answer: 165,000

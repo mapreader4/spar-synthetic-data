@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Katerina purchases 3 pots and 4 pans.
+2) Each pot costs $20.
+3) The total cost of Katerina's items is $100.
+4) We need to find the cost of each pan.
+5) Let's call the cost of each pan 'x'.
+6) The total cost of the 3 pots is 3 * $20 = $60.
+7) The total cost of the 4 pans is 4 * x = 4x.
+8) The total cost of all items is $60 + 4x = $100.
+9) Solving for x, we get: 4x = $100 - $60 = $40.
+10) Therefore, the cost of each pan is $40/4 = $10.
+11) The cost of 2 pans is 2 * $10 = $20.
+
+Answer: 20

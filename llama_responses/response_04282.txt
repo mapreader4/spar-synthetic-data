@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Step 1: Calculate the number of coconuts that can be harvested every 3 months:
+
+Each coconut tree has 6 coconuts. If the coconuts can be harvested every 3 months, then the number of coconuts harvested every 3 months is 2 * 6 = 12.
+
+Step 2: Calculate the total number of coconuts harvested in 6 months:
+
+The coconuts harvested every 3 months is 12. To find the total number of coconuts harvested in 6 months, we multiply 12 by 2 (since 6 months = 2 * 3 months). So, the total number of coconuts harvested in 6 months is 12 * 2 = 24.
+
+Step 3: Calculate the total revenue:
+
+Each coconut costs $0.50. To find the total revenue, we multiply the total number of coconuts by the price of each coconut. 24 * $0.50 = $12.
+
+Answer: 12

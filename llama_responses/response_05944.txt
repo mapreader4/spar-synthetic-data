@@ -1,0 +1,23 @@
+Let's start by calculating the total number of crops the farmer should have without any destruction.
+
+For corn stalks, each row should produce 9 corn cobs, and the farmer has 10 rows. So, the total number of corn cobs the farmer should have is:
+
+10 rows x 9 corn cobs/row = 90 corn cobs
+
+For potatoes, each row should produce 30 potatoes, and the farmer has 5 rows. So, the total number of potatoes the farmer should have is:
+
+5 rows x 30 potatoes/row = 150 potatoes
+
+Now, let's calculate the total number of crops the farmer should have without any destruction:
+
+90 corn cobs + 150 potatoes = 240 crops
+
+However, the farmer thinks that half of his crops have been destroyed by the pests. So, we need to calculate 50% of the total number of crops and subtract that from the total:
+
+50% of 240 crops = 0.5 x 240 = 120 crops
+
+Now, let's subtract the destroyed crops from the total:
+
+240 crops - 120 crops = 120 crops
+
+Answer: 120

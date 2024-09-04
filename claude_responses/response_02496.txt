@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The swag bag includes:
+  - 2 diamond earrings that cost $6,000 each
+  - 1 new iPhone that costs $2,000
+  - Some designer scarves that each cost $1,500
+* The total value of the swag bag is $20,000
+* To find the number of scarves, we need to first calculate the total value of the other items in the bag:
+  - 2 diamond earrings at $6,000 each = $12,000
+  - 1 new iPhone at $2,000 = $2,000
+  - Total value of the earrings and iPhone = $12,000 + $2,000 = $14,000
+* Now we can subtract the value of the earrings and iPhone from the total value of the swag bag to get the value of the scarves:
+  - Value of the scarves = $20,000 - $14,000 = $6,000
+* Since each scarf costs $1,500, we can divide the total value of the scarves by the cost of each scarf to get the number of scarves:
+  - Number of scarves = $6,000 / $1,500 = 4
+
+Answer: 4

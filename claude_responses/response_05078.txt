@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Megan bought 2 dozen eggs, which is 24 eggs.
+* She dropped a tray of eggs, and 3 eggs broke.
+* Twice as many eggs cracked as broke, so 2 x 3 = 6 eggs cracked.
+* Therefore, the total number of eggs that are not in perfect condition is 3 (broken) + 6 (cracked) = 9 eggs.
+* The number of eggs still in perfect condition is the total number of eggs (24) minus the number of eggs not in perfect condition (9).
+* 24 - 9 = 15 eggs still in perfect condition.
+* The difference between the eggs that are still in perfect condition (15) and those that are cracked (6) is 15 - 6 = 9.
+
+Answer: 9

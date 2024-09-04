@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by calculating how many houses John visits in a week. Since John visits 50 houses a day and he works 5 days a week, he visits 50 x 5 = 250 houses a week.
+
+Now, 20% of the houses he visits buy something from him. So, 20% of 250 is 0.2 x 250 = 50 houses buy something. Of those 50 houses, half buy a $50 set of knives and the other half buy a $150 set of knives.
+
+So, 25 houses buy a $50 set of knives, and 25 houses buy a $150 set of knives. To find the total amount John sells in a week, we can multiply the number of knives sold by the price of each set:
+
+25 x $50 = $1250
+25 x $150 = $3750
+
+Then, we add the two amounts together:
+
+$1250 + $3750 = $4500
+
+Answer: 4500

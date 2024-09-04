@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The rectangle is 4 inches wide.
+2) The perimeter of the rectangle is 30 inches.
+3) The perimeter of a rectangle is calculated as 2 times the length plus 2 times the width.
+4) So, 2 * length + 2 * 4 = 30
+5) Simplifying, we get: 2 * length = 22
+6) Dividing both sides by 2, we get: length = 11 inches.
+7) The area of a rectangle is calculated as length times width.
+8) So, the area of this rectangle is 11 inches * 4 inches = 44 square inches.
+
+Answer: 44

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sami finds 3 spiders in the playground
+* Hunter sees 12 ants climbing the wall
+* Ming discovers 8 ladybugs in the sandbox
+* Ming watches 2 of the ladybugs fly away
+
+To find the total number of insects remaining in the playground, we need to add up the number of spiders, ants, and ladybugs, and then subtract the 2 ladybugs that flew away.
+
+* Spiders: 3
+* Ants: 12
+* Ladybugs: 8 - 2 = 6
+
+Total insects remaining = 3 + 12 + 6 = 21
+
+Answer: 21

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The toaster costs $30 at MSRP (Manufacturer's Suggested Retail Price).
+2) The insurance plan is 20% of the MSRP.
+   * 20% of $30 = 0.20 * $30 = $6
+3) After the insurance plan, there is a mandatory state tax rate of 50%.
+   * The total cost so far is $30 + $6 = $36
+   * 50% of $36 = 0.50 * $36 = $18
+4) The total Jon must pay is the MSRP ($30), plus the insurance plan ($6), plus the state tax ($18).
+   * $30 + $6 + $18 = $54
+
+Answer: $54

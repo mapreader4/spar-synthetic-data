@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Lillian has 3 cups of sugar at home
+* She buys 2 bags of sugar, and each bag contains 6 cups
+* So the total amount of sugar she has is:
+    - 3 cups from home
+    - 2 bags x 6 cups per bag = 12 cups from the store
+    - Total = 3 + 12 = 15 cups of sugar
+* The batter uses 1 cup of sugar per 12 cupcakes
+* She needs 2 cups of sugar to make enough frosting for a dozen cupcakes
+* So the total sugar needed per dozen cupcakes is 1 + 2 = 3 cups
+* Therefore, the maximum number of dozen cupcakes she can bake and ice is:
+    - Total sugar available / Sugar needed per dozen cupcakes
+    - 15 cups / 3 cups per dozen = 5 dozen cupcakes
+
+Answer: 5

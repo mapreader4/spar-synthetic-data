@@ -1,0 +1,11 @@
+To solve this problem, I will break it down step by step.
+
+The book's initial price is $400.
+
+First, the price is decreased by 15%, so I will multiply it by 0.15. This will give me the amount by which the price is decreased: 400 * 0.15 = 60.
+
+Then, the price is increased by 40%, so I will multiply it by 1.4. This will give me the amount by which the price is increased: 400 + 0.4*400 = 600.
+
+So, the final price of the book is 600.
+
+Answer: 600

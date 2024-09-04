@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Colston's teacher has a 20-ounce thermos
+* She pours 1/2 cup of milk in the thermos
+* She then fills the rest of the thermos with coffee
+* She does this twice a day
+* This happens over a 5-day school week
+
+First, let's calculate how much coffee she drinks per day:
+* 1/2 cup of milk = 4 ounces
+* Remaining volume in the thermos = 20 ounces - 4 ounces = 16 ounces
+* She does this twice a day, so the total coffee consumed per day is 16 ounces x 2 = 32 ounces
+
+Now, let's calculate how much coffee she drinks in a 5-day school week:
+* 32 ounces per day x 5 days = 160 ounces of coffee per week
+
+Finally, the teacher decides to drink 1/4 of what she normally drinks. So the new amount of coffee she drinks per week is:
+* 160 ounces / 4 = 40 ounces
+
+Answer: 40 ounces

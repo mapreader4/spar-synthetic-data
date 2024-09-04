@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of the supplies for each bracelet. It costs $1 for each bracelet, and Josh is making 12 bracelets. So, the total cost of the supplies will be 12 * $1 = $12.
+
+Josh is going to sell each bracelet for $1.5. So, he will earn 12 * $1.5 = $18 from selling all the bracelets.
+
+Josh has $3 left over after making 12 bracelets and selling them. So, he must have started with $3 + $18 = $21.
+
+The box of cookies must have cost $21, because that is how much money Josh has left.

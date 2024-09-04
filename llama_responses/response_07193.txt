@@ -1,0 +1,5 @@
+Let's start by finding the total number of questions on the test. If the student got 3 wrong out of 40, that means they got 40 - 3 = 37 questions correct. Since the other student got a 95%, that means they got 0.95 * 40 = 38 questions correct.
+
+To find the number of questions Hannah has to get right to get the highest score, we can subtract the number of questions the other two students got correct from the total number of questions. So, we have 40 - 37 - 38 =? questions that Hannah has to get right.
+
+Answer: 5

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The sky currently has 4 times as many cirrus clouds as cumulus clouds.
+2) The sky currently has 12 times as many cumulus clouds as cumulonimbus clouds.
+3) The sky currently has 3 cumulonimbus clouds.
+4) Since the sky has 12 times as many cumulus clouds as cumulonimbus clouds, and there are 3 cumulonimbus clouds, we can calculate the number of cumulus clouds:
+   * Number of cumulus clouds = 12 x 3 = 36
+5) Since the sky has 4 times as many cirrus clouds as cumulus clouds, and there are 36 cumulus clouds, we can calculate the number of cirrus clouds:
+   * Number of cirrus clouds = 4 x 36 = 144
+
+Answer: 144

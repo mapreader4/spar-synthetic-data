@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the length of each CD.
+
+The first two CDs are 1.5 hours each. So, the total length of these two CDs is 1.5 + 1.5 = 2.5 hours.
+
+The last CD is twice as long as the first two, so it is 2 * 1.5 = 3 hours.
+
+The combined length of the CDs is the sum of the lengths of the first two CDs and the last CD:
+
+2.5 + 3 = 5.5 hours.
+
+Answer: 5.5

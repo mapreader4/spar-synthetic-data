@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Claudia starts with 122 ounces of water.
+
+Step 2: She fills 6 glasses of 5-ounce water, which is 6 x 5 = 30 ounces. This leaves her with 122 - 30 = 92 ounces of water.
+
+Step 3: She fills 4 glasses of 8-ounce water, which is 4 x 8 = 32 ounces. This leaves her with 92 - 32 = 60 ounces of water.
+
+Step 4: She wants to fill 4-ounce glasses with the remaining water. To find out how many glasses she can fill, we need to divide 60 ounces by 4 ounces.
+
+Answer: 60 ÷ 4 = 15.

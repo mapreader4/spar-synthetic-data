@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many months Cadence worked for her old company. She worked for her old company for 3 years, which is equal to 36 months (since 1 year = 12 months).
+
+Next, we need to find out how much she earned per month at her old company. She earned $5000 per month, so for 36 months, she earned a total of 36 x $5000 = $180,000.
+
+Now, let's find out how much she's earned in the new company. Since she's earning 20% more in the new company, that means she's earning 1.2 times more than her old salary, which is 1.2 x $5000 = $6000 per month. For 5 months, she's earned a total of 5 x $6000 = $30,000.
+
+Now, let's add the total amount she earned in both companies. She earned $180,000 in her old company and $30,000 in her new company, for a total of:
+
+Answer: $210,000

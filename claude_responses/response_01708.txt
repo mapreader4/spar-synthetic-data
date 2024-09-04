@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+Mark's team:
+* 25 2-pointers = 25 * 2 = 50 points
+* 8 3-pointers = 8 * 3 = 24 points
+* 10 free throws = 10 * 1 = 10 points
+* Total points for Mark's team = 50 + 24 + 10 = 84 points
+
+Opponents' team:
+* 2-pointers: Double of Mark's team = 25 * 2 * 2 = 100 points
+* 3-pointers: Half of Mark's team = 8 * 3 / 2 = 12 points
+* Free throws: Half of Mark's team = 10 / 2 = 5 points
+* Total points for opponents' team = 100 + 12 + 5 = 117 points
+
+Now, to find the total number of points scored by both teams:
+* Total points = Mark's team points + Opponents' team points
+* Total points = 84 + 117 = 201 points
+
+Answer: 201

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. Mario's salary increased by 40% to $4000 this year.
+   * This means that Mario's previous salary was $4000 / 1.4 = $2857.14
+
+2. Bob's salary from last year was equal to three times Mario's salary this year.
+   * Bob's salary last year = 3 * $4000 = $12,000
+
+3. Bob's current salary is 20% more than his salary last year.
+   * Bob's current salary = $12,000 * 1.2 = $14,400
+
+Answer: $14,400

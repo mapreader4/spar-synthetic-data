@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Jimmy has 7 hours to sell pizzas at the carnival
+* He bought a 22kg sack of flour to make the pizzas
+* It takes him 10 minutes to make each pizza
+* Each pizza requires 0.5kg of flour
+
+First, we need to calculate how many pizzas he can make with the 22kg of flour:
+* 22kg of flour / 0.5kg per pizza = 44 pizzas
+
+Next, we need to calculate how many pizzas he can make in 7 hours:
+* 7 hours x 60 minutes/hour = 420 minutes
+* 420 minutes / 10 minutes per pizza = 42 pizzas
+
+So, he can make a maximum of 42 pizzas in the 7 hour time frame.
+
+Now, we need to find out how much flour is left over:
+* 22kg of flour - (42 pizzas x 0.5kg per pizza) = 22kg - 21kg = 1kg of flour left over
+
+Finally, we can calculate how many more pizzas he can make with the 1kg of flour left over:
+* 1kg of flour / 0.5kg per pizza = 2 pizzas
+
+Answer: 2 pizzas

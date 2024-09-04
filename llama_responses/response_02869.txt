@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start with the total number of pages in the pad, which is 120.
+
+Sammy uses 25% of the pages for his science project. To find 25% of the pages, we can multiply the total number of pages by 0.25.
+
+120 * 0.25 = 30
+
+So, Sammy uses 30 pages for his science project.
+
+Next, Sammy uses another 10 pages for his math homework.
+
+So, the total number of pages used is 30 + 10 = 40.
+
+To find the number of pages remaining, we subtract the total number of pages used from the total number of pages.
+
+120 - 40 = 80
+
+Answer: 80

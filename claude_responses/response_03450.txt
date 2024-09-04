@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+
+1. Mowing the lawn:
+   - Carson has to mow 40 lines
+   - It takes him 2 minutes to mow one line
+   - Therefore, to mow all 40 lines, it will take him:
+     40 lines x 2 minutes/line = 80 minutes
+
+2. Planting the flowers:
+   - Carson needs to plant 8 rows of flowers
+   - Each row has 7 flowers
+   - It takes him 0.5 minutes (half a minute) to plant each flower
+   - Therefore, to plant all 56 flowers (8 rows x 7 flowers/row), it will take him:
+     56 flowers x 0.5 minutes/flower = 28 minutes
+
+3. Total time spent gardening:
+   - Mowing the lawn: 80 minutes
+   - Planting the flowers: 28 minutes
+   - Total time: 80 minutes + 28 minutes = 108 minutes
+
+Answer: 108

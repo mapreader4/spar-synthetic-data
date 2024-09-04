@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Your house has 12 medium ceiling lights
+* Small ceiling lights require 1 bulb each
+* Medium ceiling lights require 2 bulbs each
+* Large ceiling lights require 3 bulbs each
+* Your wife says there are twice as many large ceiling lights as medium ceiling lights
+* Your wife also says there are 10 more small ceiling lights than medium ceiling lights
+
+First, let's calculate the number of large ceiling lights:
+* If there are twice as many large ceiling lights as medium ceiling lights, and you have 12 medium ceiling lights, then you have 12 x 2 = 24 large ceiling lights.
+
+Next, let's calculate the number of small ceiling lights:
+* Your wife says there are 10 more small ceiling lights than medium ceiling lights
+* You have 12 medium ceiling lights, so you have 12 + 10 = 22 small ceiling lights
+
+Now, let's calculate the total number of bulbs needed:
+* 12 medium ceiling lights x 2 bulbs each = 24 bulbs
+* 24 large ceiling lights x 3 bulbs each = 72 bulbs
+* 22 small ceiling lights x 1 bulb each = 22 bulbs
+* Total bulbs needed = 24 + 72 + 22 = 118 bulbs
+
+Answer: 118

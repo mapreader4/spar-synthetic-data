@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total time it takes for a robot to make a battery. The total time it takes is 6 minutes to gather the materials and 9 minutes to create the battery, so the total time is 15 minutes.
+
+Now, if we have 10 robots working on batteries at the same time, we need to find how many batteries they can make in 5 hours.
+
+To find the number of batteries they can make in 5 hours, we need to divide the total time available (5 hours) by the time it takes to make a battery (15 minutes). This is because we want to know how many groups of batteries can be made in the given time.
+
+To do this, we divide 5 hours by 15 minutes, which is the same as dividing 300 minutes by 15. This gives us:
+
+300 ÷ 15 = 20
+
+So, Answer: 20

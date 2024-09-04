@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The bus has a capacity of 200 people. On the first trip, it carries 3/4 of its capacity, which is 200 x 3/4 = 150 people.
+
+On the return trip, the bus carries 4/5 of its capacity, which is 200 x 4/5 = 160 people.
+
+To find the total number of people carried on the two trips, we need to add the number of people on the first trip and the number of people on the return trip.
+
+So, the total number of people carried on the two trips is 150 + 160 = 310.
+
+Answer: 310

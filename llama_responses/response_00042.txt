@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+Let's first find the total number of bananas. There are 10 piles, and each pile has a different number of bananas. The 6 piles with 9 bananas each have 6 * 9 = 54 bananas, and the remaining piles with 12 hands each have 12 * 9 = 108 bananas. So, the total number of bananas is 54 + 108 = 162.
+
+Now, there are 12 monkeys, so to divide the bananas equally, we need to divide 162 by 12. 162 / 12 = 13.5, so each monkey would get 13.5 bananas.

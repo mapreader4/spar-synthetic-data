@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Roberto can skip 4,200 times an hour
+* 1 hour = 60 minutes
+* So, in 1 minute, Roberto can skip 4,200 / 60 = 70 times
+* Valerie can skip 80 times a minute
+* They jump rope for 15 minutes
+* Roberto's skips in 15 minutes = 70 skips/minute * 15 minutes = 1,050 skips
+* Valerie's skips in 15 minutes = 80 skips/minute * 15 minutes = 1,200 skips
+* Total skips = Roberto's skips + Valerie's skips = 1,050 + 1,200 = 2,250 skips
+
+Answer: 2,250

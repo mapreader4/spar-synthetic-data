@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's start by identifying the information we know. We know that Mitch made 20 macarons. Joshua made 6 more macarons than Mitch, so Joshua made 20 + 6 = 26 macarons. We also know that Joshua made half as many macarons as Miles, so Miles made 26 x 2 = 52 macarons.
+
+We also know that Renz made 1 fewer than 3/4 as many macarons as Miles, so Renz made 52 x 3/4 = 39 macarons - 1 = 38 macarons.
+
+Now, let's add up the number of macarons each person made:
+
+Mitch: 20
+Joshua: 26
+Miles: 52
+Renz: 38
+
+To find the total number of macarons, we add these numbers: 20 + 26 + 52 + 38 = 136.
+
+Since there are 4 kids, to give each kid 2 macarons, we divide the total number of macarons by 2: 136 / 2 = 68.
+
+Answer: 68

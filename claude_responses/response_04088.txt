@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Bill gets paid $20 per hour for the first 40 hours of work
+* For the remaining 10 hours, he gets paid double the hourly rate, which is $40 per hour
+* For the first 40 hours, he earns:
+    - 40 hours x $20 per hour = $800
+* For the remaining 10 hours, he earns:
+    - 10 hours x $40 per hour = $400
+* To calculate the total amount Bill gets paid for a 50-hour workweek, we add the earnings from the first 40 hours and the remaining 10 hours:
+    - $800 + $400 = $1,200
+
+Answer: $1,200

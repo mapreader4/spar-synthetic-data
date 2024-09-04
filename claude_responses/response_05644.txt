@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Andrew has 2 appointments that are each 3 hours long
+* This means he spends 6 hours in appointments
+* He has an 8-hour workday
+* So, he has 8 hours - 6 hours = 2 hours left to stamp permit applications
+* He can stamp 50 permit applications per hour
+* In the 2 hours he has left, he can stamp:
+   * 50 permits per hour x 2 hours = 100 permits
+* Therefore, the total number of permits he stamps today is:
+   * Answer: 100 permits

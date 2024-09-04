@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The class needs to earn 200 points to win the movie day
+* Each time a student eats their vegetables, they get 2 points
+* There are 25 students in the class
+* They have 10 days (2 school weeks) to earn the 200 points
+
+First, we need to calculate the total number of points the class can earn in 10 days:
+* Each student can earn 2 points per day
+* In 10 days, each student can earn 2 * 10 = 20 points
+* With 25 students, the total points the class can earn in 10 days is 25 * 20 = 500 points
+
+Since the class needs 200 points to win the movie day, they will easily reach the 200 point goal.
+
+Now, to find the average number of vegetables each student must eat per school week, we need to divide the total points needed (200) by the number of school weeks (2), and then divide that by the number of students (25):
+* 200 points / 2 school weeks = 100 points per school week
+* 100 points per school week / 25 students = 4 points per student per school week
+* Since each vegetable is worth 2 points, the average number of vegetables each student must eat per school week is 4 / 2 = 2 vegetables
+
+Answer: 2

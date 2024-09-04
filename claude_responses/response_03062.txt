@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* One serving of soup has 1 cup of vegetables and 2.5 cups of broth
+* We need to find the total amount of vegetables and broth for 8 servings
+* For the vegetables:
+  - 1 cup of vegetables per serving
+  - 8 servings
+  - Total vegetables = 1 cup x 8 servings = 8 cups
+* For the broth:
+  - 2.5 cups of broth per serving
+  - 8 servings
+  - Total broth = 2.5 cups x 8 servings = 20 cups
+* The total amount of vegetables and broth combined is 8 cups + 20 cups = 28 cups
+* 1 pint = 2 cups
+* 28 cups / 2 cups per pint = 14 pints
+
+Answer: 14

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The clerk can process 25 forms per hour.
+2) There are 8 hours in a day.
+3) So the clerk can process 25 forms x 8 hours = 200 forms per day.
+4) The total number of forms that must be processed in the day is 2400.
+5) To find the number of clerks needed, we divide the total number of forms (2400) by the number of forms a single clerk can process per day (200).
+6) 2400 forms / 200 forms per clerk = 12 clerks.
+
+Answer: 12 clerks.

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Billy can spit a watermelon seed 30 inches.
+2) Madison can spit a watermelon seed 20% farther than Billy.
+   - 20% of 30 inches is 0.2 * 30 = 6 inches.
+   - So Madison can spit a watermelon seed 30 + 6 = 36 inches.
+3) Ryan can spit a watermelon seed 50% shorter than Madison.
+   - 50% of 36 inches is 0.5 * 36 = 18 inches.
+   - So Ryan can spit a watermelon seed 36 - 18 = 18 inches.
+
+Answer: 18 inches.

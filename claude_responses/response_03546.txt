@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* We know that one Burmese python can eat one 50-cm alligator per week.
+* We need to find how many Burmese pythons it would take to eat 15 alligators in 3 weeks.
+* In 3 weeks, one Burmese python can eat 3 alligators (1 per week).
+* To eat 15 alligators in 3 weeks, we need to divide 15 alligators by the 3 alligators that one python can eat in 3 weeks.
+* 15 alligators / 3 alligators per python = 5 Burmese pythons.
+
+Answer: 5

@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find out how many green pens Tina has. Tina has 3 more blue pens than green pens, so if Tina has x green pens, then she has x + 3 blue pens.
+
+We are given that Tina has 9 fewer green pens than pink pens, so Tina has 12 - 9 = 3 green pens. So, Tina has 3 green pens.
+
+Now, let's find out how many pink pens Tina has. Tina has 9 fewer green pens than pink pens, so Tina has 12 + 9 pink pens.
+
+Now, let's add the number of green and pink pens together. Tina has 3 green pens and 12 pink pens. Tina has 3 + 12 = 15 pens.
+
+So, Tina has 15 pens in total.

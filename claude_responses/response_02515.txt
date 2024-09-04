@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jerry has already interrupted twice, which is 2 x 5 = 10 points
+* Jerry has already insulted his classmates 4 times, which is 4 x 10 = 40 points
+* So Jerry has already accumulated 10 + 40 = 50 points
+* To get sent to the office, Jerry needs to reach 100 points
+* So the number of times Jerry can throw things before he gets sent to the office is:
+* (100 points - 50 points) / 25 points per throw = 2 times
+
+Answer: 2

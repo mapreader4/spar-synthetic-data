@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of students helped by the library on the first two days:
+
+* Day 1: 4 students
+* Day 2: 5 students
+Total students helped on days 1 and 2: 4 + 5 = 9 students
+
+Now, let's calculate the number of books given out on each day:
+
+* Day 1: 4 students * 5 books/student = 20 books
+* Day 2: 5 students * 5 books/student = 25 books
+Total books given out on days 1 and 2: 20 + 25 = 45 books
+
+We know that the library has 120 books in total. Since 45 books have been given out, the number of books left is:
+
+120 - 45 = 75
+
+Now, we need to find the number of students that can be helped on the fourth day. Each student needs 5 books, so we can divide the remaining books by 5:
+
+75 ÷ 5 = 15
+
+Answer: 15

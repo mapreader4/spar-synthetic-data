@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Levi has scored 8 times.
+* His brother has scored 12 times.
+* Levi wants to beat his brother by at least 5 baskets.
+
+We can find the difference between the number of times his brother has scored and the number of times Levi has scored:
+
+12 - 8 = 4
+
+This means Levi's brother has scored 4 more times than Levi.
+
+Levi wants to beat his brother by at least 5 baskets, so he needs to score at least 5 more times. Since his brother has already scored 4 more times, Levi needs to score:
+
+4 + 5 = 9
+
+So, Levi needs to score 9 more times to reach his goal.

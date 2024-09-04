@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Brad made 2 gallons of lemonade
+* Each gallon of lemonade yields 16 glasses
+* So, the total number of glasses of lemonade he made is 2 gallons x 16 glasses/gallon = 32 glasses
+* He drank 5 glasses while sitting in his stand, so the number of glasses he had left to sell is 32 - 5 = 27 glasses
+* He sold all but 6 glasses, so he sold 27 - 6 = 21 glasses
+* He sold each glass for $1.00, so the total revenue he earned is 21 glasses x $1.00/glass = $21.00
+* It cost him $3.50 to make each gallon, and he made 2 gallons, so the total cost is 2 gallons x $3.50/gallon = $7.00
+* The net profit is the total revenue minus the total cost, which is $21.00 - $7.00 = $14.00
+
+Answer: $14

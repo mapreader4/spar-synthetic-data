@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's let the number of boys be x.
+
+The difference between the number of boys and girls is 400, so the number of girls is x + 400.
+
+The total number of boys and girls is 600, so the total number of boys and girls is x + 400 + x.
+
+The question asks for 60% of the total number of boys and girls. Since 60% is the same as 0.6, we can multiply the total number of boys and girls by 0.6 to get 0.6 * (x + 400 + x).
+
+The problem says the number of girls is more than the number of boys. This means that the number of girls is x + 400 + x > x.
+
+We can subtract x from both sides of the inequality to get 400 > 0. So, 0.4x > 0.
+
+We can divide both sides of the inequality by 0.4 to get x > 1000.
+
+So, the number of boys is 1000.
+
+Answer: 1000

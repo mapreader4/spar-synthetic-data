@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of the candy bars Jen buys:
+
+50 candy bars * 80 cents each = 4000 cents
+
+Then, let's calculate the total revenue from selling 48 candy bars:
+
+48 candy bars * 1 dollar each = 48 dollars
+
+Now, let's subtract the cost from the revenue:
+
+48 dollars - 4000 cents = -4352 cents
+
+So, the profit is:
+
+4352 cents.

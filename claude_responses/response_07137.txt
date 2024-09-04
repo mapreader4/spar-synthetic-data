@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John bakes 12 coconut macaroons, each weighing 5 ounces
+* So the total weight of the 12 macaroons is:
+    * 12 macaroons x 5 ounces per macaroon = 60 ounces
+* John then packs an equal number of the macaroons in 4 different brown bags
+* Since there are 12 macaroons total, and they are divided equally into 4 bags, each bag must contain 3 macaroons
+* When Steve eats the contents of one of the brown bags, he eats 3 macaroons, which is 3 x 5 ounces = 15 ounces
+* Therefore, the total weight of the remaining coconut macaroons is:
+    * 60 ounces - 15 ounces = 45 ounces
+
+Answer: 45 ounces

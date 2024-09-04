@@ -1,0 +1,27 @@
+Let's start by letting's say the amount Mathilda owed be x.
+
+Since she paid an initial installment of $125, she still has 75% of the total amount left to pay.
+
+Let's solve the equation 75% of x = 125.
+
+We can start by multiplying both sides of the equation by 100 to get:
+
+100% of the total amount = 75% of the total amount
+
+100x = 75x
+
+Now, we can divide both sides by 100 to get the value of x:
+
+x = 75x / 100
+
+x = 0.75x
+
+Now, we can solve for x:
+
+0.75x = 125
+
+x = 125 / 0.75
+
+x = 166.67
+
+So Mathilda owed 166.67.

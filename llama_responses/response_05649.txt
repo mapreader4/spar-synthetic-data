@@ -1,0 +1,27 @@
+Let's start by identifying the information given to us.
+
+We know that Albert has three times as many marbles as Angela. We can write this as an equation:
+
+Albert's marbles = 3 x Angela's marbles
+
+We also know that Angela has 8 more marbles than Allison, who has 28 marbles. So, we can write this as an equation:
+
+Angela's marbles = Allison's marbles + 8
+
+We can substitute the first equation into the second equation:
+
+Albert's marbles = 3 x (Allison's marbles + 8)
+
+We can simplify the equation by distributing the 3 to both sides:
+
+Albert's marbles = 3 x 28 + 8
+
+We can calculate the multiplication:
+
+Albert's marbles = 84 + 8
+
+Albert's marbles = 92
+
+So, Albert and Allison have 92 marbles in total.
+
+Answer: 92

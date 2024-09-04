@@ -1,0 +1,15 @@
+Let's start by finding the total number of seconds of video footage Patricia has.
+
+The total number of seconds is:
+
+130 + 145 + 85 + 60 + 180 = 500
+
+Since there are 60 seconds in a minute, we can divide the total number of seconds by 60 to find the total number of minutes:
+
+500 ÷ 60 = 8.33
+
+Since the problem is asking for the average number of minutes each player gets, we can divide the total number of minutes by the number of players, which is 4:
+
+8.33 ÷ 4 = 2.083
+
+So, on average, each player gets 2.083 minutes of video footage.

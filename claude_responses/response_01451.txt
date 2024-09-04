@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Denny currently has 100,000 followers
+* He gains 1,000 new followers every day
+* In a year, there are 365 days
+* So in a year, he will gain 1,000 * 365 = 365,000 new followers
+* However, 20,000 people unfollowed him in that year
+* So the net change in followers is 365,000 - 20,000 = 345,000 new followers
+* Therefore, the total number of followers Denny will have is his original 100,000 plus the 345,000 new followers, which is:
+
+Answer: 445,000

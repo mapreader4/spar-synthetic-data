@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Classroom A has raised:
+
+* $20 from each of 2 families = 2 x $20 = $40
+* $10 from each of 8 families = 8 x $10 = $80
+* $5 from each of 10 families = 10 x $5 = $50
+
+In total, Classroom A has raised $40 + $80 + $50 = $170.
+
+The goal is to raise $200. To find out how much more they need, we need to subtract the amount they have from the goal:
+
+$200 - $170 = $30
+
+Answer: 30

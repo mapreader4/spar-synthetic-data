@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Levi has scored 8 times
+* His brother has scored 12 times
+* Levi wants to beat his brother by at least 5 baskets
+* His brother scores another 3 times
+
+First, we need to find out how many baskets Levi needs to score in total to beat his brother by at least 5 baskets.
+* His brother's final score will be 12 + 3 = 15 baskets
+* Levi needs to score at least 15 + 5 = 20 baskets to beat his brother by at least 5 baskets
+
+Now, we need to find out how many more times Levi needs to score to reach his goal of 20 baskets.
+* Levi has already scored 8 times
+* He needs to score 20 baskets total
+* So, he needs to score 20 - 8 = 12 more times
+
+Answer: 12

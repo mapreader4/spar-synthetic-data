@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the number of beakers without copper ions that were tested is x.
+
+We know that 45 drops are used before all 8 beakers with copper ions are found. This means that the 45 drops are used to test the beakers that have copper ions, leaving no copper ions behind.
+
+Since each beaker requires 3 drops to turn the liquid blue, the number of beakers tested with copper ions is 45 / 3 = 15.
+
+Since there are 22 beakers in total, and 8 of them have copper ions, the number of beakers without copper ions is 22 - 8 = 14.
+
+So, 14 beakers without copper ions were tested.
+
+Answer: 14

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of the candy bars, chocolate, and juice:
+
+* Candy bars: 3 candy bars x ¢25 = ¢75
+* Chocolate: 2 pieces x ¢75 = ¢150
+* Juice: 1 pack x ¢50 = ¢50
+
+The total cost is: ¢75 + ¢150 + ¢50 = ¢275
+
+Now, we need to find how many quarters are needed to pay for this total cost.
+
+Since each quarter is worth ¢25, we can divide the total cost by 25:
+
+¢275 ÷ 25 = 11
+
+Answer: 11

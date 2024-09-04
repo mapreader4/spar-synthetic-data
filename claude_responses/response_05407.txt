@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jill studies for 2 hours on the first day
+* On the second day, she doubles the amount of time she studied the previous day, which is 2 hours. So, she studies for 4 hours on the second day.
+* On the third day, she studies for 1 hour less than the previous day, which was 4 hours. So, she studies for 3 hours on the third day.
+
+Now, let's calculate the total number of minutes Jill studied over the 3 days:
+* Day 1: 2 hours = 120 minutes
+* Day 2: 4 hours = 240 minutes
+* Day 3: 3 hours = 180 minutes
+
+Adding these together, we get:
+* Total minutes studied = 120 + 240 + 180 = 540 minutes
+
+Answer: 540

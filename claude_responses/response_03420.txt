@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jimmy has a collection of 5 action figures
+* 4 of the figures are worth $15 each
+* 1 of the figures is worth $20
+* Jimmy decides to sell each figure for $5 less than their value
+
+To calculate the total amount Jimmy will earn, we need to:
+1. Calculate the value of the 4 figures worth $15 each:
+   * 4 figures x $15 per figure = $60
+   * Selling price for these 4 figures: $60 - ($5 x 4) = $40
+2. Calculate the value of the 1 figure worth $20:
+   * 1 figure x $20 per figure = $20
+   * Selling price for this 1 figure: $20 - $5 = $15
+3. Add the selling prices of all 5 figures together:
+   * $40 + $15 = $55
+
+Answer: $55

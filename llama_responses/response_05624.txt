@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say Jerry's initial debt was $50.
+
+Two months ago, he paid $12, which means his debt decreased by $12.
+
+Last month, he paid $3 more, so his debt decreased by $3.
+
+To find out how much he has left to pay, we need to subtract the total amount he paid from the initial debt.
+
+$50 - $12 - $3 = $35
+
+Answer: 35

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The bowl contains apples, pears, and bananas
+* There are two more pears than apples
+* There are three more bananas than pears
+* The total number of pieces of fruit in the bowl is 19
+
+Let's define the variables:
+* Let x = the number of apples
+* Then the number of pears = x + 2
+* And the number of bananas = (x + 2) + 3 = x + 5
+
+Now we can set up an equation to solve for the number of bananas:
+* x + (x + 2) + (x + 5) = 19
+* 3x + 7 = 19
+* 3x = 12
+* x = 4
+
+Therefore, the number of bananas in the bowl is:
+* x + 5 = 4 + 5 = 9
+
+Answer: 9

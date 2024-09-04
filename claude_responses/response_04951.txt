@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Joe's total pocket money is $450.
+2) He spent 1/9 of his pocket money on chocolates.
+   - 1/9 of $450 = $450 * 1/9 = $50
+   - So, he spent $50 on chocolates.
+3) He spent 2/5 of his pocket money on fruits.
+   - 2/5 of $450 = $450 * 2/5 = $180
+   - So, he spent $180 on fruits.
+4) To calculate the amount of money he has left, we need to subtract the amount he spent on chocolates and fruits from his total pocket money.
+   - Total pocket money: $450
+   - Amount spent on chocolates: $50
+   - Amount spent on fruits: $180
+   - Amount left: $450 - $50 - $180 = $220
+
+Answer: $220

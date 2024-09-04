@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The first lady walked twice as far as the second lady.
+* The second lady walked 4 miles.
+
+We can represent the first lady's distance as 2x, where x is the distance the second lady walked.
+
+We know that 2x = 4, so x = 2.
+
+So, the first lady walked 2(2) = 4 miles.
+
+The combined distance the two ladies walked is the sum of the distance the first lady walked and the distance the second lady walked, which is 4 + 4 = 8 miles.
+
+Answer: 8

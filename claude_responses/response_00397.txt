@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 10 friends who planned to split the cost of the gift equally
+* However, 4 of the friends dropped out, leaving 6 friends to split the cost
+* The remaining 6 friends now have to pay $8 more per share
+* Let's call the original cost of the gift 'x'
+* Initially, each friend would have paid x/10 for the gift
+* Now, each of the 6 remaining friends is paying x/6 + $8
+* We can set up an equation to solve for the original cost 'x':
+* x/10 = x/6 + $8
+* Solving for x, we get:
+* x = $80
+* Therefore, the cost of the gift is $80.
+
+Answer: $80

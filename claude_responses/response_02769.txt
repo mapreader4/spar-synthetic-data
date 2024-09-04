@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Linda sold 4 necklaces and 8 rings at the craft fair
+* Each necklace costs $12
+* The total revenue from the sales was $80
+
+First, let's calculate the revenue from the necklace sales:
+* 4 necklaces x $12 per necklace = $48
+
+Now, we can calculate the revenue from the ring sales by subtracting the necklace revenue from the total revenue:
+* Total revenue - Necklace revenue = Ring revenue
+* $80 - $48 = $32
+
+Finally, we can divide the ring revenue by the number of rings sold to find the cost of each ring:
+* Ring revenue / Number of rings sold = Cost per ring
+* $32 / 8 rings = $4 per ring
+
+Answer: $4

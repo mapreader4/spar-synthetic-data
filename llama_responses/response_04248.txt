@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first identify the information given in the problem: Albert has to run 99 meters in gym class. The track is 9 meters around. He has already run 6 times around it.
+
+So, the total distance he has run so far is 6 x 9 = 54 meters.
+
+Now, he has 99 - 54 = 45 meters left to run.
+
+Since the track is 9 meters around, he needs to run 45 / 9 = 5 more times around the track to complete the 99 meters.
+
+Answer: 5

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Hawkeye has a battery charging budget of $20. He charges his battery for $3.5 each time. So, the cost of charging his battery four times is 4 x $3.5 = $14.
+
+Hawkeye has $20 initially. After charging his battery 4 times, he is left with:
+
+$20 - 14 = $6
+
+So, Hawkeye has $6 left when he reaches his aunt's place.

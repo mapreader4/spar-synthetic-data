@@ -1,0 +1,9 @@
+To solve this problem, I will first calculate the total number of apples Jack has after giving 10 to his father.
+
+Jack has 55 apples initially. After giving 10 to his father, he will have 55 - 10 = 45 apples left.
+
+Now, Jack wants to share the remaining apples equally among his 4 friends. To do this, I will divide 45 by 4.
+
+45 ÷ 4 = 11.25
+
+So, each of his 4 friends will get 11.25 apples.

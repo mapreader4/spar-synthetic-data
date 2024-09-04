@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the number of aprons needed for the kiddie crew program. The problem states that there are 150 aprons needed, and Heather already sewed 13 aprons. To find the number of aprons remaining, we subtract 13 from 150: 150 - 13 = 137.
+
+Next, we want to find half of the remaining aprons. Half of 137 is 137 / 2 = 68.5. Since we can't sew a decimal number of aprons, we round up to the nearest whole number. So, we round 68.5 up to 69.
+
+Heather should sew 69 aprons tomorrow.

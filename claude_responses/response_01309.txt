@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Martin starts with 18 goldfish
+* Each week, 5 goldfish die
+* Each week, Martin purchases 3 new goldfish
+* We want to know how many goldfish Martin will have in 7 weeks
+
+So, let's calculate the changes in the number of goldfish over the 7 weeks:
+* Week 1: 18 - 5 + 3 = 16 goldfish
+* Week 2: 16 - 5 + 3 = 14 goldfish
+* Week 3: 14 - 5 + 3 = 12 goldfish
+* Week 4: 12 - 5 + 3 = 10 goldfish
+* Week 5: 10 - 5 + 3 = 8 goldfish
+* Week 6: 8 - 5 + 3 = 6 goldfish
+* Week 7: 6 - 5 + 3 = 4 goldfish
+
+Therefore, after 7 weeks, Martin will have 4 goldfish.
+
+Answer: 4

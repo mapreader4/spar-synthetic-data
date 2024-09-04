@@ -1,0 +1,31 @@
+Okay, let's break this down step-by-step:
+
+Day 1:
+* Maria sold 30 tulips and 20 roses
+* Tulips: 30 x $2 = $60
+* Roses: 20 x $3 = $60
+* Total earnings on Day 1 = $60 + $60 = $120
+
+Day 2:
+* Maria doubled the previous day's sales
+* Tulips: 30 x 2 = 60 tulips
+* Roses: 20 x 2 = 40 roses
+* Tulips: 60 x $2 = $120
+* Roses: 40 x $3 = $120
+* Total earnings on Day 2 = $120 + $120 = $240
+
+Day 3:
+* Maria sold 10% of the tulips sold on the second day and 16 roses
+* Tulips: 60 x 0.1 = 6 tulips
+* Roses: 16
+* Tulips: 6 x $2 = $12
+* Roses: 16 x $3 = $48
+* Total earnings on Day 3 = $12 + $48 = $60
+
+Total earnings over the three days:
+* Day 1: $120
+* Day 2: $240
+* Day 3: $60
+* Total earnings = $120 + $240 + $60 = $420
+
+Answer: $420

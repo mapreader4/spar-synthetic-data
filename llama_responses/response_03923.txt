@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how much Reginald earned. He earns $1.25 for each apple. Let's call the number of apples he sold x. Then, his total earnings will be 1.25x.
+
+He plans to use his profits to help repair his bike. The bike cost $80. The repairs cost 25% of what his bike cost, which is 0.25 * 80 = 20. So, he needs 20 dollars to repair his bike.
+
+After the repairs are paid for, 1/5 of the money he'd earned remains. Let's find out how much he earned in total. He earned 1.25x, and 1/5 of that is 0.2x. We know that 0.2x is equal to 20, so we can set up an equation: 1.25x = 20 + 20. Subtracting 20 from both sides, we get 1.25x = 40. Multiplying both sides by 4, we get 5x = 160.
+
+So, Reginald sold 160 apples.

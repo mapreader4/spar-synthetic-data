@@ -1,0 +1,18 @@
+Okay, let's think this through step-by-step:
+* Rebecca bought 22 items in total for her camping trip
+* She bought 3 times as many packets of drink mix as tent stakes
+* She bought 2 more bottles of water than she did tent stakes
+* Let's call the number of tent stakes she bought 'x'
+* Then, the number of packets of drink mix she bought is 3x
+* And the number of bottles of water she bought is x + 2
+* The total number of items she bought is 22, so we can write the equation:
+x + 3x + (x + 2) = 22
+* Simplifying this equation, we get:
+5x + 2 = 22
+* Subtracting 2 from both sides, we get:
+5x = 20
+* Dividing both sides by 5, we get:
+x = 4
+* Therefore, the number of tent stakes Rebecca bought is 4.
+
+Answer: 4

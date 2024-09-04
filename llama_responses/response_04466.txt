@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Lucas has to clean 3 windows per floor, and there are 3 floors, so he has to clean a total of 3 x 3 = 9 windows.
+
+His father will pay him $2 for each window, so the total amount of money he will get from cleaning all the windows is 9 x 2 = 18 dollars.
+
+However, his father will subtract $1 for every 3 days that pass without Lucas finishing the job. Lucas takes 6 days to finish the job, so he will be paid 2 times for every 3 days that pass. 2 x 1 = 2.
+
+So, the amount of money he will be paid is 18 - 2 = 16.
+
+Answer: 16

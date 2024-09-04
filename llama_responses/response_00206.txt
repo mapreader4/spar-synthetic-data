@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the number of lions that were born in 1 year.
+
+The number of lions born in 1 year is equal to the rate of lions born per month multiplied by the number of months in 1 year.
+
+The rate of lions born per month is 5, and there are 12 months in a year. So, the number of lions born in 1 year is 5 x 12 = 60.
+
+Now, let's find the number of lions that died in 1 year.
+
+The number of lions that died in 1 year is equal to the rate of lions died per month multiplied by the number of months in 1 year.
+
+The rate of lions died per month is 1, and there are 12 months in a year. So, the number of lions that died in 1 year is 1 x 12 = 12.
+
+Now, we need to find the number of lions that are left in Londolozi after 1 year.
+
+The initial number of lions is the number of lions born in 1 year minus the number of lions that died in 1 year.
+
+So, the initial number of lions is 148 - 60 - 12 = 76.
+
+Answer: 76

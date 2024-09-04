@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say the first competitor jumped 22 feet. The second competitor jumped 1 foot more than the first competitor, so the second competitor jumped 23 feet.
+
+The third competitor jumped 2 feet less than the third competitor. The third competitor jumped some distance, let's call it x. Since the third competitor jumped 2 feet less, the third competitor jumped x - 2 feet. So, x - 2 = 22 + 1, x - 2 = 23.
+
+The fourth competitor jumped 3 feet more than the third competitor, so the fourth competitor jumped 3 + (x - 2) feet. We know that x - 2 = 23, so the fourth competitor jumped 3 + 23 = 26 feet.
+
+Answer: 26

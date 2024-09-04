@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of sausage meat initially. We know that Sam made 40 sausage links, and each link is made from 10 pounds of spicy meat mix. We can find the total amount of sausage meat by multiplying the number of links by the weight of each link:
+
+40 links * 10 pounds per link = 400 pounds
+
+So, initially, there are 400 pounds of sausage meat.
+
+Now, Brandy ate 12 links of sausage. Each link is made from 10 pounds of spicy meat mix, so we can find the total amount of sausage meat eaten by Brandy by multiplying the number of links by the weight of each link:
+
+12 links * 10 pounds per link = 120 pounds
+
+Now, we need to subtract the amount of sausage meat eaten by Brandy from the initial total amount of sausage meat:
+
+400 pounds - 120 pounds = 280 pounds
+
+Answer: 280

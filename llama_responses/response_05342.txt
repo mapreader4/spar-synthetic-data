@@ -1,0 +1,13 @@
+Let's start by identifying the information given in the problem:
+
+* Nick hides 10 chocolates.
+* Alix hides 3 times as many chocolates than Nick hides.
+* Their mom took 5 chocolates from Alix.
+
+We can start by identifying the number of chocolates Nick hides: 10 chocolates.
+We can find the number of chocolates Alix hides by multiplying the number Nick hides by 3: 10 * 3 = 30 chocolates.
+Then, we can find the number of chocolates Alix has after their mom took 5 chocolates from him: 30 - 5 = 25 chocolates.
+
+So, the problem asks how many more chocolates Alix has than Nick. To find this, we can subtract the number of chocolates Nick hides (10) from the number of chocolates Alix has (25): 25 - 10 = 15.
+
+Answer: 15

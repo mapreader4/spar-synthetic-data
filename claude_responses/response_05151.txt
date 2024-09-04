@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 80 cars in the parking lot.
+* At lunchtime, 13 cars left the parking lot.
+* However, 5 more cars went in than left.
+* To find the number of cars that went in, we take the number of cars that left (13) and add 5 to it: 13 + 5 = 18.
+* So, 18 cars went into the parking lot.
+* To find the total number of cars in the parking lot now, we take the initial number of cars (80) and subtract the number of cars that left (13), then add the number of cars that went in (18).
+* 80 - 13 + 18 = 85.
+
+Answer: 85

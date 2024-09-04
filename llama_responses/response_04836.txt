@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Jon gets paid $0.10 for every person who visits. 50 visits for every hour, and the website operates 24 hours a day.  So, in a 24-hour period, Jon gets 24 * 50 visits. 
+
+Now, let's convert the number of visits into hours. 50 visits is equal to 50/1 hour. 50/1 hour * 24 hours is equal to 1200 hours. 
+
+Now, let's calculate Jon's earnings. 1200 hours * $0.10 is equal to 1200 * 0.10. 
+
+Answer: 12.

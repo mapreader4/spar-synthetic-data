@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ryan has a total of 40 balls
+* There are twice as many red balls as blue balls
+* There are 11 blue balls
+* So, if there are 11 blue balls, then there must be 2 x 11 = 22 red balls
+* Now, we know the total number of balls is 40, and we have 22 red balls and 11 blue balls
+* To find the number of green balls, we need to subtract the red and blue balls from the total:
+* 40 total balls - 22 red balls - 11 blue balls = 7 green balls
+
+Answer: 7

@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's first find the total time it takes for 30 cars to come down the road.
+
+The time it takes for 1 car to come down the road is 20 minutes. To find the total time it takes for 30 cars, we can multiply the time it takes for 1 car by 30.
+
+20 minutes * 30 = 600 minutes
+
+Since there are 60 minutes in an hour, we can convert the total time from minutes to hours by dividing by 60:
+
+600 minutes ÷ 60 = 10 hours
+
+So, it takes 10 hours for 30 cars to come down the road.
+
+Answer: 10

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Adam spends two-thirds as much money on lunch as Rick.
+2) Rick and Jose eat lunch of the same price.
+3) Jose ate lunch worth $45.
+
+Since Rick and Jose eat lunch of the same price, and Jose's lunch cost $45, then Rick's lunch also cost $45.
+
+Now, we know that Adam spends two-thirds as much money on lunch as Rick. So, we can calculate Adam's lunch cost as:
+* Adam's lunch cost = 2/3 * Rick's lunch cost
+* Adam's lunch cost = 2/3 * $45 = $30
+
+Therefore, the total cost of lunch for all three friends is:
+* Total cost = Adam's lunch cost + Rick's lunch cost + Jose's lunch cost
+* Total cost = $30 + $45 + $45 = $120
+
+Answer: $120

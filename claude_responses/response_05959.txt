@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Lola baked:
+  - 13 mini cupcakes
+  - 10 pop tarts
+  - 8 blueberry pies
+* Lulu made:
+  - 16 mini cupcakes
+  - 12 pop tarts
+  - 14 blueberry pies
+* To find the total number of pastries made by Lola and Lulu, we need to add up all the individual items:
+  - Lola's mini cupcakes: 13
+  - Lola's pop tarts: 10
+  - Lola's blueberry pies: 8
+  - Lulu's mini cupcakes: 16
+  - Lulu's pop tarts: 12
+  - Lulu's blueberry pies: 14
+* Adding these up, we get:
+  - 13 + 10 + 8 + 16 + 12 + 14 = 73
+Answer: 73

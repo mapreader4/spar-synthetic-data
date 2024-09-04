@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Tom finishes the BS in 3 years, and the Ph.D. in 5 years. To find the total time it takes to finish both degrees, we can add the time it takes to finish each degree: 3 years (BS) + 5 years (Ph.D.) = 8 years.
+
+2. Tom finishes the combined program in 3/4ths the time it takes to finish the individual degrees. To find the time it takes Tom to finish the combined program, we can multiply the total time it takes to finish the individual degrees by 3/4: 8 years * 3/4 = 6 years.
+
+Answer: 6

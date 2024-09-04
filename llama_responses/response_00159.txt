@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: 
+- The haircuts are 50% more expensive during the weekends.
+- Mario paid $18 for his last haircut on Monday.
+
+Let's say the price for a haircut on a weekday is x.
+
+Since the haircuts are 50% more expensive during the weekends, the price for a haircut on a weekend will be 150% of the weekday price, or 1.5x. 
+
+So, the price for a haircut on the day before (Sunday) will be 1.5x.
+
+Since Mario paid $18 for his haircut on Monday, the price for a haircut on the day before (Sunday) is 1.5x = 18/0.5x. 
+
+To find the value of x, we can solve for x by multiplying both sides of the equation by 0.5:
+
+0.5x = 18/1.5
+
+x = 0.5 * 18 / 1.5
+
+x = 0.5 * 12
+
+x = 6
+
+So, Mario would have paid 6 for his haircut the day before. 
+
+Answer: 6

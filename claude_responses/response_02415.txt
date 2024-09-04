@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* We know that it snowed an additional 4 snowflakes every 5 minutes
+* There were 58 snowflakes after 1 hour
+* 1 hour = 60 minutes
+* 60 minutes / 5 minutes per interval = 12 intervals
+* 12 intervals x 4 snowflakes per interval = 48 additional snowflakes
+* So, the number of snowflakes at first must have been 58 - 48 = 10 snowflakes
+
+Answer: 10

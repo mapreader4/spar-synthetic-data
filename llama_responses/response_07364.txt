@@ -1,0 +1,31 @@
+Let's break down the problem step by step.
+
+Angelo and Melanie have 2 chapters of their textbook to study, and each chapter requires 3 hours. So, the total time needed to study the textbook is:
+
+2 chapters x 3 hours/chapter = 6 hours
+
+They also have 4 worksheets to memorize, and each worksheet requires 1.5 hours. So, the total time needed to memorize the worksheets is:
+
+4 worksheets x 1.5 hours/worksheet = 6 hours
+
+In total, they need to study for:
+
+6 hours (textbook) + 6 hours (worksheets) = 12 hours
+
+However, they take a 10-minute break every hour, which is equivalent to 0.17 hours (10 minutes / 60 minutes). They also have 3 10-minute snack breaks each day, which is equivalent to 0.5 hours (3 x 0.17 hours). Finally, they have 30 minutes for lunch each day, which is equivalent to 0.5 hours.
+
+So, the total time spent on breaks and lunch is:
+
+0.17 hours (breaks) + 0.5 hours (snack breaks) + 0.5 hours (lunch) = 1.17 hours
+
+Subtracting this from the total study time, we get:
+
+12 hours - 1.17 hours = 10.83 hours
+
+Since they plan to study no more than 4 hours each day, we need to find the number of days needed to complete the study time. We can do this by dividing the total study time by the daily study time:
+
+10.83 hours / 4 hours/day = 2.71 days
+
+However, we can't have a fraction of a day, so we round up to the nearest integer:
+
+Answer: 3

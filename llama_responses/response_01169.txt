@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Ben has 4 boxes with 10 basketball cards each, so he has a total of 4 * 10 = 40 basketball cards.
+
+His mother gave him 5 boxes with 8 baseball cards, so he has a total of 5 * 8 = 40 baseball cards.
+
+Ben gives 58 cards to his classmates. We need to find out how many cards he has left.
+
+We can find the total number of cards he has by adding the number of basketball cards and baseball cards: 40 + 40 = 80.
+
+He gives away 58 cards, so he has 80 - 58 = 22 cards left.
+
+Answer: 22

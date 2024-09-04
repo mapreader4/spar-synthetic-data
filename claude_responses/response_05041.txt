@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Yanni has 5 paintings that combined, take up 200 square feet.
+2) 3 of the paintings are 5 feet by 5 feet.
+   - The area of each of these 3 paintings is 5 feet x 5 feet = 25 square feet.
+   - The total area of these 3 paintings is 3 x 25 square feet = 75 square feet.
+3) 1 painting is 10 feet by 8 feet.
+   - The area of this painting is 10 feet x 8 feet = 80 square feet.
+4) The total area of the 4 paintings we have accounted for so far is 75 square feet + 80 square feet = 155 square feet.
+5) The remaining painting must take up 200 square feet - 155 square feet = 45 square feet.
+6) The final painting is 5 feet tall.
+7) To find the width of the final painting, we divide the remaining area of 45 square feet by the height of 5 feet:
+   - Width = 45 square feet / 5 feet = 9 feet.
+
+Answer: 9 feet.

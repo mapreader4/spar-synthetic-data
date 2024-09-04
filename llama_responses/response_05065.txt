@@ -1,0 +1,9 @@
+Let's break down the information given:
+
+* Martha has finished 2 problems.
+* Jenna has finished 4 times the number Martha did minus 2, so Jenna has finished 4 * 2 - 2 = 6 problems.
+* Mark has finished half the number Jenna did, so Mark has finished 6 / 2 = 3 problems.
+
+Now, let's add up the number of problems each of them have finished: 2 + 6 + 3 = 11. This means that 11 out of 20 problems have been finished by someone. To find out how many problems have no one finished, we subtract 11 from 20: 20 - 11 = 9.
+
+Answer: 9

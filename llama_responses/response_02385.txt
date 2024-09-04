@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many cans can fit in one row.
+
+Since Jack can fit 12 cans in one row, that means that each row has a capacity of 12 cans.
+
+Step 2: Determine how many rows he can fit in one shelf.
+
+Since Jack can fit 4 rows on one shelf, that means that each shelf has a capacity of 4 rows.
+
+Step 3: Determine how many shelves he has.
+
+Jack has 10 shelves in one closet.
+
+Step 4: Calculate how many cans he can store in each closet.
+
+To find the total capacity of cans in one closet, multiply the capacity of a row (12) by the number of rows on one shelf (4) and the number of shelves (10).
+
+12 cans per row x 4 rows per shelf x 10 shelves = 12 x 4 x 10 = 480 cans
+
+Answer: 480

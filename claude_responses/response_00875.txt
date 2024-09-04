@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jerry needs to add 1 black-and-white cartridge and 3 color cartridges to get the printer to work
+* Each color cartridge costs $32
+* Each black-and-white cartridge costs $27
+
+To calculate the total cost, we need to:
+1. Calculate the cost of the 3 color cartridges
+   * 3 color cartridges x $32 per cartridge = $96
+2. Calculate the cost of the 1 black-and-white cartridge
+   * 1 black-and-white cartridge x $27 per cartridge = $27
+3. Add the cost of the color cartridges and the black-and-white cartridge
+   * $96 + $27 = $123
+
+Answer: $123

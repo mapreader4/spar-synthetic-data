@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Harper drinks 1/2 bottle of mineral water per day
+* Each case contains 24 bottles
+* The cases are currently on sale for $12.00 each
+* Harper wants to buy enough cases to last her 240 days
+
+First, we need to calculate how many bottles Harper will need for 240 days:
+* 1/2 bottle per day x 240 days = 120 bottles
+
+Next, we need to determine how many cases she needs to buy to get 120 bottles:
+* 120 bottles / 24 bottles per case = 5 cases
+
+Finally, we can calculate the total cost:
+* 5 cases x $12.00 per case = $60.00
+
+Answer: $60.00

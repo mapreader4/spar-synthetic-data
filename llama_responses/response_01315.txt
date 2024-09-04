@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Marcus can fit 5 pies in his oven at once, so the total number of pies in the oven is 5.
+
+Marcus bakes 7 batches of pies, which means there are 7 * 5 = 35 pies in total.
+
+Marcus then slips and drops 8 of them, which leaves 35 - 8 = 27 pies left.
+
+Answer: 27

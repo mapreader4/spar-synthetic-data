@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Rhonda runs the first 200 meters in 24 seconds
+* Sally takes 2 seconds longer than Rhonda to run the same 200 meters, so she takes 24 + 2 = 26 seconds
+* Diane can run 200 meters 3 seconds faster than Rhonda, so she takes 24 - 3 = 21 seconds
+
+Now, to calculate the total time for the 600-meter relay race:
+* Rhonda's time: 24 seconds
+* Sally's time: 26 seconds
+* Diane's time: 21 seconds
+* Total time = 24 + 26 + 21 = 71 seconds
+
+Answer: 71

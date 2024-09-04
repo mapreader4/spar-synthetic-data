@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Jonsey is awake for 2/3 of the day, which is 2/3 * 24 hours = 16 hours. She spends 1/2 of her time awake playing outside, which is 1/2 * 16 hours = 8 hours. That means she spends 16 - 8 = 8 hours inside.
+
+Riley is awake for 3/4 of the day, which is 3/4 * 24 hours = 18 hours. He spends 1/3 of his day outside, which is 1/3 * 18 hours = 6 hours. That means he spends 18 - 6 = 12 hours inside.
+
+To find the average, we need to find the average of the number of hours Jonsey and Riley spend inside. To do this, we add their inside time together and divide by 2: (8 + 12) / 2 = 20 / 2 = 10.
+
+Answer: 10

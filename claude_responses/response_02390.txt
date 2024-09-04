@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The first stack was 7 blocks high
+* The second stack was 5 blocks higher than the first, so it was 7 + 5 = 12 blocks high
+* The final stack was 7 blocks higher than the second, so it was 12 + 7 = 19 blocks high
+* In the first tower, all 7 blocks fell down
+* In the second tower, 12 - 2 = 10 blocks fell down
+* In the final tower, 19 - 3 = 16 blocks fell down
+* To find the total number of blocks that fell down, we add up the blocks from each tower:
+* 7 + 10 + 16 = 33 blocks
+
+Answer: 33

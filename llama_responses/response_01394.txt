@@ -1,0 +1,5 @@
+Let's start by identifying the number of chickens. Let's say the number of chickens is x.
+
+Jen has 10 more ducks than four times the number of chickens. This means that the number of ducks is 4x. So, we can set up an equation: 4x = 10 - x. To solve for x, we can subtract 10 from both sides of the equation: 4x = 10 - 10. This gives us x = 0. So, the number of chickens is 0.
+
+Now, we know that Jen has 150 ducks. We can find the total number of birds by adding the number of ducks to the number of chickens: 150 + 0 = 150. The answer is 150.

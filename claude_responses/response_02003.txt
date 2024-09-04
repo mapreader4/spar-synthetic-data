@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The store buys candied yams in bulk boxes of 25 packages.
+2) Every third shopper buys a package of candied yams.
+3) The store is expecting 375 holiday shoppers.
+4) To find the number of packages of candied yams needed, we need to find how many shoppers will buy a package.
+5) Since every third shopper buys a package, we can divide the total number of shoppers (375) by 3 to find the number of shoppers who will buy a package.
+6) 375 / 3 = 125 shoppers will buy a package of candied yams.
+7) Since each bulk box contains 25 packages, we need to divide the number of packages needed (125) by the number of packages in each bulk box (25) to find the number of bulk boxes needed.
+8) 125 / 25 = 5 bulk boxes of candied yams.
+
+Answer: 5

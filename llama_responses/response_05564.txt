@@ -1,0 +1,34 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Mrs. Johnson's class raised $2300. Since Mrs. Sutton's class raised 8 times less than Miss Rollin's class, we can set up an equation to represent the amount raised by Mrs. Sutton's class:
+
+Mrs. Sutton's class raised 8 times less than Miss Rollin's class, so Mrs. Sutton's class raised 1/8 of the amount raised by Miss Rollin's class. Let's call the amount raised by Miss Rollin's class x. Then, Mrs. Sutton's class raised x/8.
+
+We know that Mrs. Johnson's class raised twice the amount raised by Mrs. Sutton's class, so we can set up another equation:
+
+Mrs. Johnson's class raised 2 x (x/8) = 2300
+
+We can solve for x by multiplying both sides by 8:
+
+2x = 2300 x 8
+2x = 18400
+x = 9200
+
+So Miss Rollin's class raised $9200.
+
+Now, we know that Miss Rollin's class raised a third of the total amount raised by the school. The total amount raised by the school is the sum of the amounts raised by each class:
+
+Total amount raised = Mrs. Johnson's class + Mrs. Sutton's class + Miss Rollin's class
+Total amount raised = 2300 + (x/8) + x
+Total amount raised = 2300 + 9200
+
+We can simplify this expression by combining like terms:
+
+Total amount raised = 11500
+
+Finally, 2% will be deducted for administration fees. To find the amount after deduction, we multiply the total amount raised by 0.98 (100% - 2%):
+
+Amount after deduction = 11500 x 0.98
+Amount after deduction = 11330
+
+Answer: 11330

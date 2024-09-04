@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Cathy and Chris were supposed to work 20 hours per week each for 2 months
+* There are 4 weeks in a month
+* So, for the 2 months, Cathy and Chris were each supposed to work:
+    - 20 hours per week x 4 weeks per month x 2 months = 160 hours each
+* However, Chris got sick for one week, and Cathy took her shifts
+* So, Cathy worked an extra 20 hours during that one week
+* Therefore, the total hours Cathy worked during the 2 months is:
+    - 160 hours (her original schedule) + 20 hours (Chris's shifts) = 180 hours
+
+Answer: 180

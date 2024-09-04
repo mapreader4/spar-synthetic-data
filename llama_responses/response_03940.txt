@@ -1,0 +1,16 @@
+Let's break it down step by step.
+
+Let's start by finding out how many times Helen washes her pillowcases in a year. Since it takes 4 weeks to wash each set of pillowcases, and there are 52 weeks in a year, we can find the total number of times she washes her pillowcases in a year by multiplying the number of weeks in a year by the number of times she washes each week.
+
+4 weeks in a year = 52 weeks
+52 weeks * 1 set of pillowcases per week = 52 sets of pillowcases per year
+
+Now, it takes 30 minutes to wash each set of pillowcases.  To find the total time it takes her to wash all her pillowcases in a year, we can multiply the number of sets of pillowcases by the time it takes to wash each set.
+
+52 sets of pillowcases * 30 minutes = 1560 minutes
+
+To convert the total time from minutes to hours, we can divide by 60 (since there are 60 minutes in an hour).
+
+1560 minutes ÷ 60 = 26 hours
+
+Answer: 26

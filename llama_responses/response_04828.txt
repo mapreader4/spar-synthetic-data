@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+John had $20 initially. He spent 1/5 of his money on snacks, which is 20 * 1/5 = 4 dollars. So, he has 20 - 4 = 16 dollars left.
+
+Then, he spent 3/4 of the remaining money on necessities, which is 16 * 3/4 = 12 dollars. So, he spent 12 dollars.
+
+So, John has 16 - 12 = 4 dollars left.
+
+Answer: 4

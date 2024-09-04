@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: In the first week, Jackson runs 3 miles a day. So, he runs a total of 3 * 7 = 21 miles in the first week.
+
+Step 2: For the next 4 weeks, Jackson runs one additional mile each week. So, he runs 1 mile more each day each week for 4 weeks. That means he runs 1 * 4 = 4 miles more each week, and 4 * 4 = 16 miles in total.
+
+Step 3: Add the total miles from the first week and the additional miles for the next 4 weeks. 21 + 16 = 37.
+
+Answer: 37

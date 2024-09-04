@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Venus needs 81 inches of sub, and each 8 inch sub is 8 inches. So, she can buy 8/8 = 1 sub, so she has 81 - 8 = 73 inches left to go.
+
+Each 5 inch sub is 5 inches, so to get 73 inches, she needs 73/5 = 14 5-inch subs.
+
+Answer: 14

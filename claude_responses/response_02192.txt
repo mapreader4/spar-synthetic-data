@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Suzanne's parents have pledged to donate $10 for the first kilometer
+* For each successive kilometer, they will double the donation
+* So, the donations for each kilometer would be:
+  - 1st kilometer: $10
+  - 2nd kilometer: $10 x 2 = $20
+  - 3rd kilometer: $20 x 2 = $40
+  - 4th kilometer: $40 x 2 = $80
+  - 5th kilometer: $80 x 2 = $160
+* To calculate the total donation, we add up the donations for each kilometer:
+  - $10 + $20 + $40 + $80 + $160 = $310
+
+Answer: 310

@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Nicole answered 3 fewer questions correctly than Kim.
+   * If Nicole answered 22 correctly, then Kim answered 22 + 3 = 25 questions correctly.
+2) Kim answered 8 more questions correctly than Cherry.
+   * If Kim answered 25 correctly, then Cherry answered 25 - 8 = 17 questions correctly.
+
+Answer: 17

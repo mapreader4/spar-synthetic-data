@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Chenny initially has 10 pieces of candies
+* She needs to give each of her friends 2 candies
+* She needs to buy 4 more candies to ensure each friend gets 2 candies
+* The total number of candies she will have after buying the 4 additional candies is 10 + 4 = 14 candies
+* Since each friend will receive 2 candies, the number of friends Chenny has is the total number of candies (14) divided by the number of candies per friend (2)
+
+Answer: 7

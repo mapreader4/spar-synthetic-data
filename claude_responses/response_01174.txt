@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Martha has 11 butterflies in total
+* She has twice as many blue butterflies as yellow butterflies
+* The remaining butterflies are black
+* We know that Martha has 5 black butterflies
+
+First, let's find the number of yellow butterflies. Since Martha has twice as many blue butterflies as yellow butterflies, we can say that the number of blue butterflies is 2 times the number of yellow butterflies.
+
+Let's call the number of yellow butterflies 'x'. Then the number of blue butterflies is '2x'.
+
+We know that the total number of butterflies is 11, so we can write the equation:
+x + 2x + 5 = 11
+
+Solving for x, we get:
+3x + 5 = 11
+3x = 6
+x = 2
+
+So, Martha has 2 yellow butterflies.
+
+Now, we can find the number of blue butterflies. Since the number of blue butterflies is 2 times the number of yellow butterflies, we have:
+Number of blue butterflies = 2 x 2 = 4
+
+Therefore, Martha has 4 blue butterflies.
+
+Answer: 4

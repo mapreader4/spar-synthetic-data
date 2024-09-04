@@ -1,0 +1,13 @@
+Let's start by letting x be the amount of water Tony drank two days ago. We know that Tony drank 4% less than that amount yesterday, so the amount he drank yesterday is 4% of x less than x, which is x - 0.04x. We know that Tony drank 48 ounces of water yesterday, so we can set up an equation:
+
+x - 0.04x = 48
+
+We can add 0.04x to both sides of the equation to get:
+
+x = 48 / 0.96
+
+To solve for x, we can divide both sides by 0.96:
+
+x = 50
+
+So, Tony drank 50 ounces of water two days ago.

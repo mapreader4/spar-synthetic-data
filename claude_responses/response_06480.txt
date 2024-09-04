@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Hannah has 40 different mugs in 4 different colors
+* She has three times more blue mugs than red mugs
+* She has 12 yellow mugs
+* She has half as many red mugs as yellow mugs
+
+First, let's calculate the number of red mugs:
+* Since she has half as many red mugs as yellow mugs, and she has 12 yellow mugs, she must have 6 red mugs.
+
+Next, let's calculate the number of blue mugs:
+* She has three times more blue mugs than red mugs, and she has 6 red mugs, so she must have 18 blue mugs.
+
+Now, let's add up the mugs we know about:
+* 6 red mugs + 18 blue mugs + 12 yellow mugs = 36 mugs
+
+Finally, we can calculate the number of mugs of another color:
+* Hannah has 40 total mugs, and we've accounted for 36 of them, so she must have 4 mugs of another color.
+
+Answer: 4

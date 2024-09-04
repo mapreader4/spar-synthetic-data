@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's first find out how many coconuts Barbie can carry in a single trip: 4 coconuts.
+
+And let's find out how many coconuts Bruno can carry in a single trip: 8 coconuts.
+
+Now, let's find the total number of coconuts they can carry in a single trip together: 4 + 8 = 12 coconuts.
+
+Since they can carry 12 coconuts in a single trip, let's divide the total number of coconuts they need to move (144) by the number of coconuts they can carry in a single trip (12): 144 ÷ 12 = 12 trips.
+
+Answer: 12

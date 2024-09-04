@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) The pyramid has 4 levels.
+2) The top level is 1 case.
+3) Each subsequent level has a square base where each side is one case longer than the level above it.
+4) So the levels from top to bottom are:
+   - Level 1: 1 case
+   - Level 2: 2 cases x 2 cases = 4 cases
+   - Level 3: 3 cases x 3 cases = 9 cases
+   - Level 4: 4 cases x 4 cases = 16 cases
+5) To get the total number of cases, we add up the cases in each level:
+   1 + 4 + 9 + 16 = 30 cases.
+
+Answer: 30

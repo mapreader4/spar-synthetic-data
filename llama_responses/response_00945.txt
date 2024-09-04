@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many days in April there are. There are 30 days in April.
+
+Step 2: Determine how many coffees Jon buys in a day. Jon buys 2 coffees a day.
+
+Step 3: Multiply the number of coffees per day by the number of days in April. 2 coffees per day * 30 days = 60 coffees.
+
+Step 4: Determine the cost of each coffee. They cost $2 each.
+
+Step 5: Multiply the total number of coffees by the cost of each coffee. 60 coffees * $2 = $120.
+
+Answer: 120

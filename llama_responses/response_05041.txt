@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. The 3 paintings that are 5 feet by 5 feet each will take up 3 x 5 x 5 = 75 square feet of space.
+2. The 1 painting that is 10 feet by 8 feet will take up 10 x 8 = 80 square feet of space.
+3. The total space taken up by the 3 paintings and the 1 painting is 75 + 80 = 155 square feet.
+4. The total space taken up by the 5 paintings is 200 square feet, so the remaining space is 200 - 155 = 45 square feet.
+5. The final painting is 5 feet tall, so it must be 45 square feet divided by 5 feet, which is 9 feet wide.
+
+Answer: 9

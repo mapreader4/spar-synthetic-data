@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The airline company owns 5 airplanes.
+2. Each airplane has 20 rows with 7 seats in each row.
+3. The number of seats in each airplane is 7 * 20 = 140.
+4. The airline company has 5 airplanes, so the total number of seats is 5 * 140 = 700.
+5. Each airplane makes 2 flights a day.
+6. So, the total number of passengers each day is 700 * 2 = 1400.
+
+Answer: 1400

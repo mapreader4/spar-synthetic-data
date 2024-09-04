@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by identifying the information given: "Pond A has twice as many frogs as Pond B".
+
+Since Pond A has twice as many frogs as Pond B, that means that if Pond B has x frogs, Pond A will have 2x frogs.
+
+We are given the number of frogs in Pond A, which is 32. So, if Pond A has 32 frogs, and it has twice as many frogs as Pond B, then Pond B must have 32 / 2 = 16 frogs.
+
+Now, to find the total number of frogs in both ponds, we add the number of frogs in both ponds: 32 (in Pond A) + 16 (in Pond B) = 48.
+
+So, the answer is: Answer: 48

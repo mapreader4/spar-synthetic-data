@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's first find the number of geckos Brandon sold last year. It is 86.
+
+Then, let's find the number of geckos he sold the year before. It is twice that number. So, the number of geckos he sold the year before is 86 * 2 = 172.
+
+So, the total number of geckos Brandon sold in the last two years is 86 + 172 = 258.
+
+Answer: 258

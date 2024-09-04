@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jane reads twice a day, once in the morning and once in the evening
+* In the morning, she reads 5 pages
+* In the evening, she reads 10 pages
+* So in one day, she reads 5 + 10 = 15 pages
+* She does this for a week, which is 7 days
+* So the total number of pages she reads in a week is:
+* 15 pages per day x 7 days = 105 pages
+
+Answer: 105

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ralph watches TV for 4 hours a day from Monday to Friday
+* There are 5 days in a week from Monday to Friday
+* So, the total hours he watches TV from Monday to Friday is:
+  * 4 hours per day x 5 days = 20 hours
+* Ralph watches TV for 6 hours a day on Saturday and Sunday
+* There are 2 days in a weekend (Saturday and Sunday)
+* So, the total hours he watches TV on the weekend is:
+  * 6 hours per day x 2 days = 12 hours
+* To get the total hours Ralph spends watching TV in one week, we add the hours from Monday-Friday and the hours from Saturday-Sunday:
+  * 20 hours + 12 hours = 32 hours
+
+Answer: 32

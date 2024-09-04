@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Liam picked 40 oranges and sold them at $2.50 for 2 oranges.
+   * This means Liam sold each set of 2 oranges for $2.50.
+   * To calculate how much Liam earned, we divide the total number of oranges he picked (40) by 2, and then multiply that by $2.50.
+   * 40 oranges / 2 = 20 sets of 2 oranges
+   * 20 sets x $2.50 per set = $50
+
+2. Claire picked 30 oranges and sold them at $1.20 each.
+   * To calculate how much Claire earned, we simply multiply the number of oranges she picked (30) by the price per orange ($1.20).
+   * 30 oranges x $1.20 per orange = $36
+
+3. To find the total amount Liam and Claire will save for their mother's birthday gift, we add the amounts they each earned:
+   * $50 (Liam's earnings) + $36 (Claire's earnings) = $86
+
+Answer: $86

@@ -1,0 +1,5 @@
+Let's say the number of chihuahuas he bought is x. Then, if the number of rats is 6 times the number of chihuahuas, the number of rats is 6x.
+
+The total number of dogs (chihuahuas and rats) is 70. So, we can set up the equation 70 = x + 6x. We can subtract 6x from both sides of the equation to get x = 70 - 6x. Then, we can divide both sides of the equation by 1 to get x = 70 / (6 + 1) = 10.
+
+Answer: 10

@@ -1,0 +1,43 @@
+Let's break this down step by step.
+
+Let's start by identifying the speed of each person.
+
+Cameron drives at twice the speed of his brother, Chase.  So, if Chase's speed is x, Cameron's speed is 2x.
+
+Danielle drives at three times the speed of Cameron.  So, Danielle's speed is 3(2x).
+
+We know that it takes Danielle 30 minutes to travel from Granville to Salisbury.  So, we can set up an equation to solve for the distance between the two cities.
+
+Let's call the distance between Granville and Salisbury 'd'.  Then, we can write the equation as follows:
+
+d = 30 * 60
+
+We know that 60 minutes = 1 hour, so we can convert 30 minutes to hours by dividing by 60:
+
+d = 30 / 60 = 0.5
+
+So, the distance between Granville and Salisbury is 0.5 hours.  Now, we can use the formula for speed to find the time it takes for Chase to travel from Granville to Salisbury.
+
+Time = distance / speed
+
+Time = 0.5 / (2x)
+
+We can solve for x:
+
+2x = 0.5 / 0.5
+
+2x = 1
+
+x = 1
+
+So, Chase's speed is 1.
+
+Now, we can find the time it takes for Chase to travel from Granville to Salisbury:
+
+Time = distance / speed
+
+Time = 0.5 / 1
+
+Time = 0.5
+
+So, it takes Chase 0.5 hours, or 30 minutes, to travel from Granville to Salisbury.

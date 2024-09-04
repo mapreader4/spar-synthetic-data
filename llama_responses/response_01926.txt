@@ -1,0 +1,7 @@
+To find the cost of each pouch, we can divide the total cost of the boxes by the total number of pouches.  Since each box has 6 pouches, the total number of pouches is 10 boxes * 6 pouches = 60 pouches.
+
+The total cost is $12.  We can divide 12 by 60 to find the cost of each pouch.
+
+12 / 60 = 0.2
+
+Answer: 0.2

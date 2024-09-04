@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Buffy's sailboat has a planing hull, which means it can achieve high speeds under optimal wind conditions.
+2. With two sails, the boat can reach a speed of 50 knots.
+3. With one sail, the boat can reach a speed of 25 knots.
+4. A knot is a nautical term for speed equal to 1 nautical mile per hour.
+5. One nautical mile equals 1.15 land miles.
+6. Buffy travels for 4 hours with one sail, then 4 hours with two sails.
+7. With one sail, the boat travels at 25 knots, which is 25 nautical miles per hour.
+8. In 4 hours with one sail, the boat travels 25 knots x 4 hours = 100 nautical miles.
+9. Converting to land miles, 100 nautical miles x 1.15 = 115 land miles.
+10. With two sails, the boat travels at 50 knots, which is 50 nautical miles per hour.
+11. In 4 hours with two sails, the boat travels 50 knots x 4 hours = 200 nautical miles.
+12. Converting to land miles, 200 nautical miles x 1.15 = 230 land miles.
+13. The total distance traveled is 115 land miles + 230 land miles = 345 land miles.
+
+Answer: 345

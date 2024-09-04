@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Caprice takes one lesson per week
+* Each lesson lasts 1 hour
+* The teacher charges $10 for every half-hour of teaching
+* We want to know how much the teacher would earn in 5 weeks
+
+First, let's calculate the cost per lesson:
+* Since each lesson lasts 1 hour, that's 2 half-hour sessions
+* The teacher charges $10 per half-hour
+* So the cost per lesson is 2 x $10 = $20
+
+Now, let's calculate the total amount the teacher would earn in 5 weeks:
+* Caprice takes 1 lesson per week
+* In 5 weeks, that's 5 lessons
+* Each lesson costs $20
+* So the total amount the teacher would earn in 5 weeks is 5 x $20 = $100
+
+Answer: $100

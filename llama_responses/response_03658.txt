@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's first find the total cost of the 20 tickets that were pre-bought. Since each ticket cost $155, the total cost is:
+
+20 x $155 = $3100
+
+Now, let's find the total cost of the 30 tickets that were bought at the gate. Since each ticket cost $200, the total cost is:
+
+30 x $200 = $6000
+
+To find the difference between the two costs, we subtract the cost of the pre-bought tickets from the cost of the tickets bought at the gate:
+
+$6000 - $3100 = $2900
+
+So, the people who bought their tickets at the gate paid $2900 more than those who pre-bought their tickets.
+
+Answer: 2900

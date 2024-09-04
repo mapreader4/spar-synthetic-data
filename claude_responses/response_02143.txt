@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* The first competitor jumped 22 feet.
+* The second competitor jumped one foot farther than the first competitor, so they jumped 22 + 1 = 23 feet.
+* The third competitor jumped two feet shorter than the second competitor, so they jumped 23 - 2 = 21 feet.
+* The fourth competitor jumped 3 feet further than the third competitor, so they jumped 21 + 3 = 24 feet.
+
+Answer: 24 feet.

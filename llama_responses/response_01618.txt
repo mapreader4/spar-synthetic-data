@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+James took the offer, which means the second pair of shoes is half off the original price. The original price of the second pair is $60, so half of that is $30. This means the second pair of shoes actually costs $30, not $60.
+
+The first pair of shoes costs $40. Since the offer only applies to the cheaper pair, James doesn't get half off the price of the first pair. He still pays $40 for the first pair.
+
+The total amount James needs to pay is the price of the first pair plus the price of the second pair, which is $40 + $30 = $70.
+
+However, James was also selected for an extra discount of a fourth off the total amount. To find a fourth of the total amount, we divide $70 by 4, which gives us $17.50. This means James gets a discount of $17.50.
+
+To find the final amount James pays, we subtract the discount from the total amount: $70 - $17.50 = $52.50.
+
+Answer: 52

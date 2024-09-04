@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) James spends 10 minutes downloading the game.
+2) He then spends half as long installing the game, which is 10 minutes / 2 = 5 minutes.
+3) The combined time for downloading and installing the game is 10 minutes + 5 minutes = 15 minutes.
+4) He then spends triple the combined time going through the tutorial, which is 15 minutes * 3 = 45 minutes.
+5) Therefore, the total time it takes before James can play the main game is the combined time for downloading, installing, and the tutorial, which is 15 minutes + 45 minutes = 60 minutes.
+
+Answer: 60

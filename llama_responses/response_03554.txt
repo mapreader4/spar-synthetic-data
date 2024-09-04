@@ -1,0 +1,21 @@
+Let's start by identifying the number of swordfish and pufferfish in the aquarium.
+
+Let's say the number of swordfish is x.
+
+Since there are as many swordfish as pufferfish, the number of pufferfish will also be x.
+
+The total number of fish is 90.
+
+We can set up an equation to represent this situation:
+
+x + x = 90
+
+We know that the number of swordfish is equal to the number of pufferfish, so we can substitute x for x in the equation:
+
+x + x = 90
+
+To solve for x, we can subtract x from both sides of the equation:
+
+x = 45
+
+So, there are 45 pufferfish in the aquarium.

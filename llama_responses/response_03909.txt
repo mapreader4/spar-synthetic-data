@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+John performs in 3 plays, and each play has 5 acts. So, the total number of acts is 3 x 5 = 15.
+
+He wears 2 wigs per act, so the total number of wigs is 2 x 15 = 30.
+
+Each wig costs $5, so the total cost of all the wigs is 30 x 5 = 150.
+
+John drops one of the plays and sells all the wigs for that play for $4. So, he gets 30 x 4 = 120 dollars from selling the wigs.
+
+The total amount John spends is the total cost of the wigs minus the amount he gets from selling them. The total cost of the wigs is 150, and he gets 120 back, so the total amount spent is 150 - 120 = 30.
+
+Answer: 30

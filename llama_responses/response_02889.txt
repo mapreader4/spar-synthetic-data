@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of guests that RSVP'd with a Yes response.
+
+The number of guests that RSVP'd with a Yes response is 83% of 200 guests. To find 83% of 200, we can multiply 200 by 0.83, which gives us 166.
+
+Now, let's find the number of guests that RSVP'd with a No response.
+
+The number of guests that RSVP'd with a No response is 9% of 200. To find 9% of 200, we can multiply 200 by 0.09, which gives us 18.
+
+To find the number of guests that did not respond at all, we can subtract the number of guests that RSVP'd with a Yes response from the total number of guests. 200 - 166 = 34.
+
+Answer: 34

@@ -1,0 +1,9 @@
+Let's break down the information given in the problem:
+
+* It rained 3 mm, 6 mm, and 5 mm on the three days while Greg was camping.
+* The total amount of rain while camping is the sum of these three amounts: 3 + 6 + 5 = 14 mm.
+* It rained 26 mm at his house, which is a different location.
+
+To find out how much less rain Greg experienced while camping, we need to subtract the amount of rain at his house from the total amount of rain while camping: 26 mm - 14 mm = 12 mm.
+
+Answer: 12

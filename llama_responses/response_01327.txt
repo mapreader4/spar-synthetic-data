@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Allyn hit the golf ball 180 yards straight toward the hole on his first turn. This means the ball landed 180 yards away from the starting tee.
+
+On his second turn, he hit the ball again straight toward the hole and it traveled half as far as it did on his first turn. Half of 180 is 90, so the ball traveled 90 yards. However, the ball landed 20 yards beyond the hole. This means the hole is 90 - 20 = 70 yards away from where the ball landed on the second turn.
+
+Now, let's think about the distance from the starting tee to the hole. The ball traveled 180 yards on the first turn, and then 90 yards on the second turn. This means the ball is now 180 + 90 = 270 yards away from the starting tee.
+
+But wait, we also know that the ball landed 20 yards beyond the hole on the second turn. This means the hole is actually 20 yards closer to the starting tee than where the ball landed on the second turn. So, we need to subtract 20 from 270 to get the distance from the starting tee to the hole.
+
+Answer: 250

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Frank starts at his original starting point.
+2) He takes 5 steps back, so he is now 5 steps behind his original starting point.
+3) He then takes 10 steps forward, so he is now 5 steps ahead of his original starting point.
+4) He then takes 2 steps back, so he is now 3 steps ahead of his original starting point.
+5) He then takes double the amount of the previous step, which is 2 * 2 = 4 steps forward.
+6) So in total, he is now 7 steps ahead of his original starting point.
+
+Answer: 7

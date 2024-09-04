@@ -1,0 +1,29 @@
+Let's break it down step by step.
+
+Let's say the amount of money Pop spent be x.
+
+Since Snap spends twice as much as Crackle, then Snap spent 2x the amount Crackle spent.  So, Snap spent 2x the amount Crackle spent.
+
+Crackle spent 3 times as much as Pop, so Crackle spent 3x the amount Pop spent.  So, Crackle spent 3x the amount Pop spent.
+
+We know that Snap and Crackle spent a total of $150, so we can set up an equation:
+
+2x + 3x = 150
+
+We can add x to both sides of the equation to get:
+
+2x + 3x = 150 + x
+
+We can subtract 2x from both sides to get:
+
+x = 150 - 2x
+
+Now, we can divide both sides by 2 to get:
+
+x/2 = 75 - x
+
+We can multiply both sides by 2 to get:
+
+x = 75
+
+So, Pop spent $75.

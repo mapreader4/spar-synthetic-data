@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Thomas wants to increase the weight by 60%. The current weight is 60 pounds. 60% of 60 is 0.6 x 60 = 36 pounds. So Thomas needs an additional 36 pounds.
+
+The weights come in 2-pound ingots. So he needs 36 / 2 = 18 ingots.
+
+The cost of each ingot is $5. Since he needs 18 ingots, the total cost of the ingots is 18 x 5 = 90 dollars.
+
+However, since he buys more than 10 ingots, he gets a 20% discount. The discount is 0.20 x 90 = 18 dollars. So the final cost is 90 - 18 = 72 dollars.
+
+Answer: 72

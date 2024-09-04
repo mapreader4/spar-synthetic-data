@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) We are told that there are three times as many misses as hits in the MLB game.
+2) The number of misses is given as 50.
+3) Since there are three times as many misses as hits, we can set up the equation:
+   Misses = 3 * Hits
+4) Plugging in the given value of 50 for Misses, we get:
+   50 = 3 * Hits
+5) Solving for Hits, we get:
+   Hits = 50 / 3 = 16.67
+6) Since we cannot have a fractional number of hits, we round down to the nearest whole number:
+   Hits = 16
+7) Now that we know the number of hits is 16, we can calculate the total number of hits and misses:
+   Total Hits + Total Misses = 16 + 50 = 66
+
+Answer: 66

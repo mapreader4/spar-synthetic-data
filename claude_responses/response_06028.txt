@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Bethany rides for 1 hour after school on Monday, Wednesday, and Friday.
+* That's 3 days per week, and 1 hour per day, so that's 3 hours per week.
+* Over 2 weeks, that's 3 hours x 2 weeks = 6 hours.
+* On Tuesday and Thursday, she rides for 30 minutes each day.
+* That's 30 minutes x 2 days = 1 hour per week.
+* Over 2 weeks, that's 1 hour x 2 weeks = 2 hours.
+* On Saturdays, she rides for 2 hours.
+* That's 2 hours x 2 Saturdays (over 2 weeks) = 4 hours.
+* Adding up all the hours:
+  * 6 hours (Monday, Wednesday, Friday)
+  * 2 hours (Tuesday, Thursday)
+  * 4 hours (Saturdays)
+* The total hours Bethany rode over the 2 week period is:
+Answer: 12 hours

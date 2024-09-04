@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of the loan. Since Sarah pays the loan back in 5 years, or 60 months, and the monthly payment is $600.00, we can calculate the total amount of the loan as follows:
+
+Total amount of loan = Monthly payment x number of payments = Total amount of loan
+Total amount of loan = 600.00 x 60 = 36,000.00
+
+Since Sarah put $10,000 as a down payment, we subtract that from the total amount of the loan to get the amount she borrowed:
+
+Amount borrowed = Total amount of loan - Down payment
+Amount borrowed = 36,000.00 - 10,000.00 = 26,000.00
+
+So, Sarah's loan is for $26,000.
+
+Answer: 26000

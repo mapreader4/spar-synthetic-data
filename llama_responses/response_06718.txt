@@ -1,0 +1,21 @@
+Let's break it down step by step:
+
+Let's first find out how many bottles of shampoo she has in total.
+
+Janet has 1/3 of a bottle of rose shampoo and 1/4 of a bottle of jasmine shampoo. To find the total number of bottles, we can add the fractions together. To add fractions with different denominators, we need to find the least common multiple of the two denominators. The least common multiple of 3 and 4 is 12, so we can convert both fractions to have a denominator of 12.
+
+So, we can rewrite the fractions as:
+
+1/3 = 4/12 and 1/4 = 3/12
+
+Now, we can add the numerators together:
+
+4/12 + 3/12 = 7/12
+
+So, Janet has 7/12 of a bottle of shampoo in total.
+
+Since she uses 1/12 of a bottle per day, we can find out how many days it will last:
+
+7/12 ÷ 1/12 = 7
+
+Answer: 7

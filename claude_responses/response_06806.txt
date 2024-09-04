@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Daniel normally pays $4 per Russian doll
+* He saved enough money to buy 15 Russian dolls at the normal price of $4 each
+* So the total amount of money he saved is:
+    * 15 dolls x $4 per doll = $60
+* Now the price has dropped to $3 per Russian doll
+* With the $60 he has saved, he can now buy:
+    * $60 / $3 per doll = 20 Russian dolls
+
+Answer: 20

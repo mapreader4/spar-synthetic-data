@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Ann, Becky, and Julia each serve 7 customers per hour
+* They work for 8 hours each day, except for Julia who worked for 6 hours
+* To find the total number of customers served, we need to calculate the number of customers served by each person and then add them together
+
+For Ann and Becky:
+* They each serve 7 customers per hour
+* They work for 8 hours
+* So, Ann and Becky each serve 7 customers x 8 hours = 56 customers
+
+For Julia:
+* She serves 7 customers per hour
+* She works for 6 hours
+* So, Julia serves 7 customers x 6 hours = 42 customers
+
+Now, we add up the total number of customers served by all three:
+* Ann: 56 customers
+* Becky: 56 customers
+* Julia: 42 customers
+* Total: 56 + 56 + 42 = 154 customers
+
+Answer: 154

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jennifer has already built 3 tanks that can hold 15 fish each
+* So the total number of fish that can be housed in the 3 tanks is:
+3 tanks x 15 fish per tank = 45 fish
+* Jennifer needs to house a total of 75 fish
+* So the number of additional fish that need to be housed is:
+75 fish - 45 fish = 30 fish
+* Each additional tank can hold 10 fish
+* To determine how many more tanks Jennifer needs to build, we divide the remaining number of fish by the capacity of each tank:
+30 fish / 10 fish per tank = 3 tanks
+
+Therefore, Jennifer needs to build 3 more tanks to house a total of 75 fish.
+
+Answer: 3

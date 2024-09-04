@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The original price of the plant is $10.
+* The plant has a 10% discount.
+* To calculate the discounted price, we need to find 10% of the original price and subtract it from the original price.
+* 10% of $10 is $1 (10% of $10 is 0.1 * $10 = $1).
+* Subtracting $1 from the original price of $10 gives us $9.
+
+Answer: 9

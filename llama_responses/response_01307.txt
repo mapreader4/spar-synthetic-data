@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start with what we know. Mark is 4 years older than Billy, so we can write an equation to represent Mark's age. Let's call Mark's age "M".
+
+Billy is half Ana's age, so we can write an equation to represent Billy's age. Let's call Billy's age "B". Since Billy is half Ana's age, we know that B = 1/2 * Ana's age.
+
+Ana will be 15 in 3 years, so we can represent Ana's age as 15 + 3.
+
+We are given that Sarah's age is equal to three times Mark's age minus 4, so we can write an equation to represent Sarah's age. Let's call Sarah's age "S". We know that S = 3 * M - 4.
+
+We know that M = B + 4, because Mark is 4 years older than Billy. Since Billy is half Ana's age, we know that B = 1/2 * (15 + 3), which is 9. So, we can write M = 9 + 4, which is 13.
+
+Now we can substitute M into our equation to find Sarah's age. We get S = 3 * 13 - 4, which is 29.
+
+Answer: 29

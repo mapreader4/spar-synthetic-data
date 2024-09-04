@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of roses sold. Since there were 10 rose bouquets, and each bouquet contains 12 roses, the total number of roses sold is:
+
+10 bouquets x 12 roses/bouquet = 120 roses
+
+Since the total number of flowers sold is 190, and 120 of those flowers are roses, the number of daisies sold is:
+
+190 flowers - 120 roses = 70 daisies
+
+Since there were 10 daisy bouquets, the number of daisies in each bouquet is:
+
+70 daisies ÷ 10 bouquets = 7 daisies per bouquet
+
+Answer: 7

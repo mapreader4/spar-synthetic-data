@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+Let's start by identifying the information given in the problem:
+
+* Team A scored 8 points in the first half.
+* Team B scored half as many points as Team A in the first half. So, Team B scored 8/2 = 4 points in the first half.
+* In the second half, Team B scored as many points as Team A in the first half, which is 8 points.
+* Team A scored 2 goals less than Team B in the second half. So, Team A scored 8 - 2 = 6 points in the second half.
+
+Now, let's add the points scored by both teams in the first half and the second half:
+
+* First half: Team A scored 8 points, and Team B scored 4 points. So, the total points scored in the first half is 8 + 4 = 12 points.
+* Second half: Team A scored 6 points, and Team B scored 8 points. So, the total points scored in the second half is 6 + 8 = 14 points.
+
+To find the total points scored by both teams during the whole match, we add the points from both halves:
+
+12 (first half) + 14 (second half) = 26 points.
+
+Answer: 26

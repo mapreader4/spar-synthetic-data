@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Marnie bought 5 bags of 50 beads each. That means she has 5 * 50 = 250 beads from those bags.
+2) Marnie also bought 2 bags of 100 beads each. That means she has 2 * 100 = 200 beads from those bags.
+3) In total, Marnie has 250 + 200 = 450 beads.
+4) Each bracelet requires 50 beads.
+5) To calculate how many bracelets Marnie can make, we divide the total number of beads by the number of beads per bracelet:
+450 beads / 50 beads per bracelet = 9 bracelets.
+
+Answer: 9

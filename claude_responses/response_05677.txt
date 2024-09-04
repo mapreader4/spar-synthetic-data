@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Tom can type 90 words per minute
+* A page is 450 words
+* We need to find how long it would take him to type out 10 pages
+
+First, we need to find how long it would take him to type one page:
+* 450 words per page / 90 words per minute = 5 minutes per page
+
+Now, to find the total time to type out 10 pages:
+* 10 pages x 5 minutes per page = 50 minutes
+
+Therefore, it would take Tom 50 minutes to type out 10 pages.
+
+Answer: 50

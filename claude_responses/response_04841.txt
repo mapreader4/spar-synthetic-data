@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) In the last 25 years, there have been 25 Scrabble champions.
+2) 60% of the champions have been women, so the remaining 40% have been men.
+3) 40% of the men had a beard.
+4) To find the number of men with beards who have been Scrabble champions, we need to first find the number of men who have been champions.
+5) 40% of 25 champions is 10 men.
+6) Of those 10 men, 40% had a beard, which is 4 men.
+
+Answer: 4

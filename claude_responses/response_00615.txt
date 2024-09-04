@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) We know that Connie's grandmother's older brother was born in 1932.
+2) We know that Connie's grandmother's older sister was born in 1936.
+3) We also know that the gap between Connie's grandmother and her sister is twice the gap between the older brother and the older sister.
+4) Let's call the gap between the older brother and the older sister "x".
+5) Then the gap between Connie's grandmother and her sister is 2x.
+6) The older sister was born in 1936, so Connie's grandmother was born in 1936 - 2x.
+7) We can calculate x by subtracting the year the older brother was born (1932) from the year the older sister was born (1936): x = 1936 - 1932 = 4.
+8) So the year Connie's grandmother was born is 1936 - 2x = 1936 - 2(4) = 1928.
+
+Answer: 1928

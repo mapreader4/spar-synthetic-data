@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Nancy and Jason are learning to dance for the first time
+* Nancy steps on her partner's feet 3 times as often as Jason
+* Together, they step on each other's feet 32 times
+
+Let's represent the number of times Jason steps on his partner's feet as x.
+Since Nancy steps on her partner's feet 3 times as often as Jason, the number of times Nancy steps on her partner's feet is 3x.
+
+The total number of times they step on each other's feet is 32, so we can write the equation:
+x + 3x = 32
+
+Solving for x, we get:
+4x = 32
+x = 8
+
+Therefore, Jason steps on his partner's feet 8 times.
+
+Answer: 8

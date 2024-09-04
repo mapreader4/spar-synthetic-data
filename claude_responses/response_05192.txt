@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Martha buys:
+   - 3 pounds of beef at $11 per pound, so 3 * $11 = $33
+   - 8 pounds of fruits and vegetables at $4 per pound, so 8 * $4 = $32
+   - 3 jars of spices at $6 each, so 3 * $6 = $18
+   - Other groceries totaling $37
+2) The total amount spent is:
+   - $33 + $32 + $18 + $37 = $120
+3) Martha gets 50 points per $10 spent, so for the $120 spent, she gets:
+   - 120 / 10 = 12 * 50 = 600 points
+4) Since Martha spent more than $100, she also gets a 250 point bonus.
+5) The total points Martha gets is:
+   - 600 points + 250 point bonus = 850 points
+
+Answer: 850

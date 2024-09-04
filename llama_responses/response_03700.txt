@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start by finding out how many bottles Machine A can put caps on in 1 minute. Since it can put caps on 12 bottles in 1 minute, it can put caps on 12 bottles in 1 minute.
+
+Now, we know that Machine B can put caps on 2 fewer bottles than Machine A. So, it can put caps on 12 - 2 = 10 bottles in 1 minute.
+
+Machine C can put caps on 5 more bottles than Machine B. So, it can put caps on 10 + 5 = 15 bottles in 1 minute.
+
+Now, we need to find out how many bottles the three machines can put caps on in 10 minutes. Since 1 minute is equal to 10/60 of a minute, we can multiply the number of bottles each machine can put caps on in 1 minute by 10 to get the total number of bottles they can put caps on in 10 minutes.
+
+Machine A can put caps on 12 bottles in 1 minute. So, it can put caps on 12 * 10 = 120 bottles in 10 minutes.
+
+Machine B can put caps on 10 bottles in 1 minute. So, it can put caps on 10 * 10 = 100 bottles in 10 minutes.
+
+Machine C can put caps on 15 bottles in 1 minute. So, it can put caps on 15 * 10 = 150 bottles in 10 minutes.
+
+Now, we can add the number of bottles each machine can put caps on in 10 minutes. 120 + 100 + 150 = 370.
+
+So, the three machines can put caps on 370 bottles in 10 minutes.
+
+Answer: 370

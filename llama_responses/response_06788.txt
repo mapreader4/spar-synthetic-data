@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Roberta starts with $158.
+
+She spends $45 on new shoes. That leaves her with $158 - $45 = $113.
+
+Then she spends $17 on a new bag. That leaves her with $113 - $17 = $96.
+
+Then, she spends a quarter of the price of the bag. The price of the bag is unknown, but we can call it x. So she spends x/4 = $17, which means x = 4 * $17 = $68. So the price of the bag is $68. She spends $68 on the bag. That leaves her with $96 - $68 = $28.
+
+So Roberta has $28 left.
+
+Answer: 28

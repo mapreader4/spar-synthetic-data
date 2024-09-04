@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by using a variable to represent the price of the pants, let's say it's x.
+
+We know that the price of the shirt is three-quarters of the price of the pants, so we can write that as an equation: 1/4x.
+
+We also know that the price of the shoe is ten dollars more than the price of the pants, so we can write that as an equation: x + 10.
+
+Now, we can set up an equation based on the information given: 1/4x + x + 10 = 340.
+
+We can add -x to both sides of the equation to get 3/4x = 330.
+
+We can then multiply both sides by 4 to get 3x = 1320.
+
+Finally, we can divide both sides by 3 to get x = 440.
+
+Answer: 440

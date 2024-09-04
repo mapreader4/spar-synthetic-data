@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+* John assembles computers and sells them as a business
+* The parts for each computer cost $800
+* He sells the computers for 1.4 times the value of the components
+* He builds and sells 60 computers a month
+* He has to pay $5000 a month in rent
+* He has to pay $3000 a month in non-rent extra expenses
+
+First, let's calculate the selling price of each computer:
+* Selling price = 1.4 x $800 = $1120
+
+Now, let's calculate the total revenue from selling 60 computers per month:
+* Total revenue = 60 x $1120 = $67,200
+
+Next, let's calculate the total cost of the components for 60 computers:
+* Total cost of components = 60 x $800 = $48,000
+
+Now, let's calculate the total monthly expenses:
+* Rent = $5,000
+* Non-rent expenses = $3,000
+* Total monthly expenses = $5,000 + $3,000 = $8,000
+
+Finally, let's calculate the monthly profit:
+* Monthly profit = Total revenue - Total cost of components - Total monthly expenses
+* Monthly profit = $67,200 - $48,000 - $8,000 = $11,200
+
+Answer: $11,200

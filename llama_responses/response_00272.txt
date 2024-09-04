@@ -1,0 +1,25 @@
+Let's first calculate the total money Oliver has:
+
+Oliver has 10 $20 bills and 3 $5 bills. To find the total, we multiply 10 by 20 and 3 by 5:
+
+10 x 20 = 200
+3 x 5 = 15
+
+So Oliver has a total of 200 + 15 = 215 dollars.
+
+William has 15 $10 bills and 4 $5 bills. To find the total, we multiply 15 by 10 and 4 by 5:
+
+15 x 10 = 150
+4 x 5 = 20
+
+So William has a total of 150 + 20 = 170 dollars.
+
+Now, let's compare the total money Oliver has with the total money William has:
+
+Oliver has 215 dollars and William has 170 dollars. To find the difference, we subtract 170 from 215:
+
+215 - 170 = 45
+
+So Oliver has 45 dollars more money than William.
+
+Answer: 45

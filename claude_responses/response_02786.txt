@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Tom needs to cross the lake in one direction, which takes 4 hours
+* To cross the lake back and forth, he needs to do this twice (once in each direction)
+* So the total time required to cross the lake back and forth is 4 hours x 2 = 8 hours
+* The cost of hiring an assistant is $10 per hour
+* Therefore, the total cost for hiring an assistant to help Tom cross the lake back and forth would be:
+8 hours x $10 per hour = $80
+
+Answer: $80

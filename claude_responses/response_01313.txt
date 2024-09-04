@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Frank has already spent 45 minutes in the current corn maze.
+2) He has done 4 other corn mazes, and finished those in 50 minutes on average.
+3) He wants to ensure that his average time per maze doesn't go above 60 minutes.
+4) To calculate the total time he can spend in the current maze, we need to find the maximum total time he can spend across all 5 mazes.
+5) The maximum total time he can spend across all 5 mazes is 5 * 60 = 300 minutes.
+6) The time he has already spent in the 4 previous mazes is 4 * 50 = 200 minutes.
+7) The time he has already spent in the current maze is 45 minutes.
+8) The maximum time he can still spend in the current maze is 300 - 200 - 45 = 55 minutes.
+
+Answer: 55 minutes

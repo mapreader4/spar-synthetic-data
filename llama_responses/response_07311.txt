@@ -1,0 +1,10 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given:
+
+1. The superhero can run 10 miles in 4 minutes.
+2. The superhero's speed can be found by dividing the distance by the time taken: 10 miles / 4 minutes = 2.5 miles per minute.
+3. The supervillain's speed is 100 miles per hour.
+4. We need to find the number of miles the superhero can run in an hour. To do this, we can multiply the superhero's speed in miles per minute by the number of minutes in an hour: 2.5 miles per minute * 60 minutes = 150 miles.
+
+Answer: 150

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Salem created a poem with 20 stanzas
+* Each stanza has 10 lines
+* Each line has 8 words
+
+To find the total number of words in the poem, we need to:
+1. Calculate the total number of lines in the poem
+2. Multiply the total number of lines by the number of words per line
+
+Step 1: Calculate the total number of lines in the poem
+* There are 20 stanzas
+* Each stanza has 10 lines
+* Total number of lines = 20 stanzas x 10 lines per stanza = 200 lines
+
+Step 2: Multiply the total number of lines by the number of words per line
+* Each line has 8 words
+* Total number of words = 200 lines x 8 words per line = 1,600 words
+
+Answer: 1,600

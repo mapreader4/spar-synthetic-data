@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Athlete 1 ran for 55 seconds.
+2) Athlete 2 ran 10 seconds more than athlete 1, so they ran for 55 + 10 = 65 seconds.
+3) Athlete 3 ran 15 seconds less than athlete 2, so they ran for 65 - 15 = 50 seconds.
+4) Athlete 4 finished 25 seconds less than athlete 1, so they ran for 55 - 25 = 30 seconds.
+To find the total time it took them to finish the relay race, we add up the times for each athlete:
+55 + 65 + 50 + 30 = 200 seconds.
+
+Answer: 200 seconds.

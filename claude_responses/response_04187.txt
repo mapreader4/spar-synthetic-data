@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Jeremy bought a computer for $3000.
+2) He also bought some accessories for 10% of the price of the computer.
+   * 10% of $3000 = 0.10 * $3000 = $300
+   * So the cost of the accessories is $300.
+3) The total amount Jeremy spent is the cost of the computer ($3000) plus the cost of the accessories ($300), which is $3300.
+4) Before the purchase, Jeremy had two times more money than the cost of the computer itself.
+   * The cost of the computer is $3000.
+   * So, before the purchase, Jeremy had 2 * $3000 = $6000.
+5) After the purchase, the amount of money Jeremy has left is the amount he had before the purchase ($6000) minus the total amount he spent ($3300).
+   * $6000 - $3300 = $2700.
+
+Answer: $2700.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Trent cries 2 tears for every 3 onions he chops
+* He needs to chop 4 onions per pot of soup
+* He is making 6 pots of soup
+
+First, we need to calculate the total number of onions he needs to chop:
+* 4 onions per pot x 6 pots = 24 onions
+
+Now, we can calculate the number of tears he cries:
+* For every 3 onions, he cries 2 tears
+* 24 onions / 3 = 8 sets of 3 onions
+* 8 sets of 3 onions x 2 tears per set = 16 tears
+
+Therefore, the total number of tears Trent cries is:
+Answer: 16

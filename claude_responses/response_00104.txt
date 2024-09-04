@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There are 4 boat trips through the lake per day
+* The boat can take up to 12 people during one trip
+* We want to know how many people the boat can transport in 2 days
+
+To calculate the total number of people the boat can transport in 2 days, we need to:
+1. Calculate the number of people the boat can transport in 1 day
+2. Multiply that number by 2 to get the number of people the boat can transport in 2 days
+
+Step 1: Calculating the number of people the boat can transport in 1 day
+* 4 boat trips per day
+* 12 people per trip
+* 4 trips x 12 people = 48 people per day
+
+Step 2: Calculating the number of people the boat can transport in 2 days
+* 48 people per day
+* 2 days
+* 48 people x 2 days = 96 people
+
+Answer: 96

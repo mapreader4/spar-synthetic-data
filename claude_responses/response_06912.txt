@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sam got 9 cans of tuna at the supermarket
+* He had 5 coupons, each worth 25 cents off a single can
+* So the total discount he received was 5 x 25 cents = $1.25
+* He paid $20 and got $5.50 in change
+* So the total amount he paid for the 9 cans of tuna was $20 - $5.50 = $14.50
+* To find the cost per can, we divide the total amount paid ($14.50) by the number of cans (9), which gives us $1.61 per can
+* However, we need to subtract the $1.25 in coupon discounts, so the final cost per can is $1.61 - $0.14 = $1.47 per can
+
+Answer: 147 cents

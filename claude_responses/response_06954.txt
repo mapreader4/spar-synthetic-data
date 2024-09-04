@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Martin eats 1/2 cup of berries every day
+* The grocery store is selling a package of berries (1 cup per pack) for $2.00
+* We need to find how much he will spend on berries in a 30 day period
+
+First, we need to calculate how many cups of berries he will eat in 30 days:
+* 1/2 cup per day x 30 days = 15 cups of berries
+
+Next, we need to calculate how many packages of berries he will need to buy:
+* 15 cups of berries / 1 cup per package = 15 packages
+
+Finally, we can calculate the total cost:
+* 15 packages x $2.00 per package = $30.00
+
+Answer: $30

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the number of times Jason goes to the library is x.
+
+Since Jason goes 4 times more often than William, we can write an equation: x = 4 * William's frequency.
+
+William goes 2 times per week, so we can write: x = 4 * 2.
+
+To find the number of times Jason goes to the library in 4 weeks, we need to multiply the number of times he goes per week by the number of weeks: x = 4 * 2 * 4.
+
+x = 4 * 2 * 4 = 16.
+
+Answer: 16

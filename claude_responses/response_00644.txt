@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The city's bus system carries 1,200,000 people each day.
+2) We want to find how many people the bus system carries for 13 weeks.
+3) There are 7 days in a week, so in 13 weeks there are 13 * 7 = 91 days.
+4) To find the total number of people carried in 13 weeks, we multiply the number of people carried per day (1,200,000) by the number of days (91).
+5) 1,200,000 people per day * 91 days = 109,200,000 people.
+
+Answer: 109,200,000

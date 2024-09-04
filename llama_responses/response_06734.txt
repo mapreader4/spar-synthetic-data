@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. Katrina starts with 120 cookies initially.
+2. In the morning, she sells 3 dozen cookies, which is 3 * 12 = 36 cookies.
+3. So, she has 120 - 36 = 84 cookies left.
+4. During the lunch rush, she sells 57 cookies.
+5. So, she has 84 - 57 = 27 cookies left.
+6. In the afternoon, she sells 16 more cookies.
+7. So, she has 27 - 16 = 11 cookies left.
+
+Answer: 11

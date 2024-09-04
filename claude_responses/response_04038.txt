@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Initially, there was a flock of geese flying in a V formation in the sky
+* One half of the geese broke off from the formation and landed in some trees
+* So, if the initial flock was x geese, then half of the flock, which is x/2, landed in the trees
+* Then, 4 geese flew up from the trees and joined the remaining geese in the air, forming a new V formation
+* The final number of geese in the new V formation was 12
+* So, the number of geese that were in the air after the 4 geese joined was 12
+* We know that the 4 geese that joined were from the group that had landed in the trees
+* So, the number of geese that were in the air before the 4 geese joined must have been 12 - 4 = 8
+* Since the 8 geese that were in the air were half of the original flock, the original flock must have been 8 * 2 = 16 geese
+
+Answer: 16

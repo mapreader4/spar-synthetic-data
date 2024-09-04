@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Caroline starts with 40 pairs of socks.
+
+She loses 4 pairs at the laundromat, so she is left with 40 - 4 = 36 pairs of socks.
+
+Then, she donates two-thirds of her socks to the thrift store. To find two-thirds of 36, we can multiply 36 by 2/3, which is 24. So, she is left with 36 - 24 = 12 pairs of socks.
+
+Then, she purchases 10 new pairs of socks, so she now has 12 + 10 = 22 pairs of socks.
+
+Finally, she receives 3 new pairs of socks as a gift from her dad, so she now has 22 + 3 = 25 pairs of socks.
+
+Answer: 25

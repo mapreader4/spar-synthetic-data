@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The money was shared between Sam's three cousins: Sandra, Amy, and Ruth.
+2) The ratio of the money shared was 2:1:3, respectively.
+3) We know that Amy got $50.
+4) Since the ratio is 2:1:3, we can set up the following equation:
+   * Let x = the amount Sandra got
+   * Amy got $50, so the ratio for her is 1
+   * Ruth got 3 times the amount Sandra got, so 3x
+5) The total ratio is 2 + 1 + 3 = 6
+6) Therefore, the equation is: 
+   * 2x + 50 + 3x = 6 * 50
+   * 5x = 250
+   * x = 50
+7) Therefore, Sandra got $50.
+
+Answer: 50

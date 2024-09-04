@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Initially, there are 20 cars with 3 people each: 2 passengers and a driver, so there are a total of 20 x 3 = 60 people.
+
+When each car gains another passenger at the halfway point, each car now has 4 people: 2 passengers and a driver, so the total number of people in the cars is now 20 x 4 = 80.
+
+Since every car gains another passenger, and all cars have now gained an extra passenger, the total number of people in the cars remains the same, which is 80.
+
+The race finishes once every single car has passed the finish line, and the people inside the cars do not get out until the race is finished. Therefore, there are 80 people in the cars by the end of the race.
+
+Answer: 80

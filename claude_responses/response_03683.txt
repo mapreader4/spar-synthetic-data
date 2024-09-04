@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 50 people at the party
+* 30% of them are boys
+* To find the number of boys, we take 30% of 50:
+* 30% of 50 = 0.3 * 50 = 15 boys
+* To find the number of girls, we need to subtract the number of boys from the total number of people:
+* Total people - Number of boys = Number of girls
+* 50 - 15 = 35 girls
+
+Answer: 35

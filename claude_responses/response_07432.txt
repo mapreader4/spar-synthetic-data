@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* It takes 10 minutes to wash a car
+* Mike washes 9 cars
+* So the total time to wash 9 cars is 9 * 10 minutes = 90 minutes
+* It takes 15 minutes to change the oil on one car
+* Mike changes the oil on 6 cars
+* So the total time to change the oil on 6 cars is 6 * 15 minutes = 90 minutes
+* It takes 30 minutes to change a set of tires
+* Mike changes 2 sets of tires
+* So the total time to change 2 sets of tires is 2 * 30 minutes = 60 minutes
+* To calculate the total time worked, we add up the times for each task:
+* 90 minutes + 90 minutes + 60 minutes = 240 minutes
+* To convert this to hours, we divide by 60 minutes per hour:
+* 240 minutes / 60 minutes per hour = 4 hours
+
+Answer: 4 hours

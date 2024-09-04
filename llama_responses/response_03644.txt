@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Malcolm has 240 followers on Instagram and 500 followers on Facebook. So, the number of followers he has on Instagram and Facebook combined is 240 + 500 = 740.
+
+The number of followers he has on Twitter is half the number of followers he has on Instagram and Facebook combined, which is 740 / 2 = 370.
+
+The number of followers he has on TikTok is 3 times the number of followers he has on Twitter, which is 3 * 370 = 1110.
+
+The number of followers he has on YouTube is 510, which is 510.
+
+Now, let's add the number of followers he has on Instagram, Facebook, Twitter, TikTok, and YouTube:
+
+740 (Instagram and Facebook) + 370 (Twitter) + 1110 (TikTok) + 510 (YouTube) = 1730
+
+Answer: 1730

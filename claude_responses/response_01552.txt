@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 180 people working for Lauryn's company
+* There are 20 fewer men than women
+* Let's represent the number of men as x and the number of women as x + 20
+* Since the total number of people is 180, we can set up the equation:
+x + (x + 20) = 180
+* Simplifying this equation:
+2x + 20 = 180
+* Subtracting 20 from both sides:
+2x = 160
+* Dividing both sides by 2:
+x = 80
+
+Answer: 80

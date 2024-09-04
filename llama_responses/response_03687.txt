@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the total number of muffins Mason made.
+
+Mason makes 60 cinnamon muffins. Let's call the total number of muffins made, M.
+
+Mason also makes as many muffins as he can with 10 blueberries per muffin. So, the number of blueberry muffins he makes is:
+
+M = 60 / 10 = 6
+
+So, Mason makes 6 blueberry muffins.
+
+The total number of muffins he made is the sum of the blueberry muffins and cinnamon muffins:
+
+M = 6 + 60 = 66
+
+Now, the question is asking what percentage of all the muffins he made have blueberries. To find this out, we need to divide the number of blueberry muffins by the total number of muffins made:
+
+(6 / 66) x 100 = 9.09
+
+So, the percentage of muffins that have blueberries is 9.09%.
+
+Answer: 9.09

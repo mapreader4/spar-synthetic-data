@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each raised bed is 2 feet high, 2 feet wide, and 8 feet long
+* The sides of each bed will be made of 1-foot wide planks
+* Bob needs to construct 10 raised beds
+* For each bed, he will need:
+    - 2 planks that are 8 feet long (for the long sides)
+    - 4 planks that are 2 feet long (for the short sides)
+* So for each bed, he will need 6 planks total
+* For 10 beds, he will need 10 * 6 = 60 planks
+* Since the boards are 8 feet long, Bob will need to buy 60 / 1 = 60 boards that are 8 feet long.
+
+Answer: 60

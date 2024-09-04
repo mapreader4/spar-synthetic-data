@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of members in each group:
+
+* Flute players: 5
+* Trumpet players: 3 * 3 = 9
+* Trombone players: 9 - 8 = 1
+* Drummers: 1 + 9 = 10
+* Clarinet players: 5 * 2 = 10
+* French horn players: 3 + 9 = 12
+
+To find the total number of members, we add up the numbers: 5 + 9 + 1 + 10 + 10 + 12 = 36
+
+Since there are 36 members in total, the number of seats needed on the bus is:
+
+Answer: 36

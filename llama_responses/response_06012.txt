@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the rate at which the tree grows. The tree grows twice as fast as the boy, so if the boy grows 1 inch in 24 inches, the tree will grow 2 inches. Let's call the number of inches the tree grows in 24 inches x. So, the tree grows 2x inches in 24 inches.
+
+The tree grows 2x inches in 24 inches, so it will grow 2x inches in 36 inches. We know that 2x = 12, since the tree grows twice as fast as the boy. So, the tree will grow 12 inches in 36 inches.
+
+The tree is currently 16 inches tall, and it will grow 12 inches. So, the tree will be 16 + 12 = 28 inches tall by the time the boy is 36 inches tall.
+
+Answer: 28

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of claws. Each wombat claws him 4 times, so the wombats claws him 9 * 4 = 36 times. Each rhea claws him once, so the rheas claws him 3 times. The total number of claws is 36 + 3 = 39.
+
+So, the answer is:
+
+Answer: 39

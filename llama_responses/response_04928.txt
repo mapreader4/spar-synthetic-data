@@ -1,0 +1,11 @@
+To solve this problem, I will use the concept of exponential growth. Since the number of swans doubles every 2 years, I can model this with the equation:
+
+Let x be the number of swans after 10 years. Then, the number of swans after 2 years will be 2x. To find the number of swans after 10 years, I will multiply 2 to the power of 5 (since 10 is 2 x 5):
+
+x = 15 * 2^5
+
+x = 15 * 32
+
+x = 480
+
+Answer: 480

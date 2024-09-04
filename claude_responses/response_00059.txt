@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* During the first hour, Joanne collected 15 coins.
+* During the next two hours, she collected 35 coins.
+* So, in the first 3 hours, she collected a total of 15 + 35 = 50 coins.
+* In the fourth hour, she collected 50 coins.
+* However, she gave 15 of those coins to her coworker.
+* So, the number of coins she had after the fourth hour is:
+* Total coins collected in the first 3 hours: 50
+* Coins collected in the fourth hour: 50
+* Coins given to her coworker: 15
+* Therefore, the total number of coins she had after the fourth hour is:
+* 50 + 50 - 15 = 85 coins.
+
+Answer: 85

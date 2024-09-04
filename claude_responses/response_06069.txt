@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Mia can decorate 2 dozen (24) eggs per hour
+* Billy can decorate 10 eggs per hour
+* They need to decorate 170 eggs in total
+
+First, let's calculate how long it would take Mia to decorate all 170 eggs on her own:
+* Mia can decorate 24 eggs per hour
+* 170 eggs / 24 eggs per hour = 7.08 hours
+
+Now, let's calculate how long it would take Billy to decorate all 170 eggs on his own:
+* Billy can decorate 10 eggs per hour
+* 170 eggs / 10 eggs per hour = 17 hours
+
+When they work together, their combined rate is:
+* Mia's rate + Billy's rate = 24 eggs/hour + 10 eggs/hour = 34 eggs/hour
+
+Now, we can calculate how long it will take them to decorate all 170 eggs working together:
+* 170 eggs / 34 eggs per hour = 5 hours
+
+Answer: 5 hours

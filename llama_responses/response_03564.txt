@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The total cost of the items Tina bought is $50 for the bread, $150 for the ham, and $200 for the cake. We can find the total cost by adding these amounts together:
+
+$50 + $150 + $200 = $300
+
+The cost of the ham and bread is $50 + $150 = $200. So, the percent of the cost that is the ham and bread is:
+
+($200 / $300) * 100 = 66.67%
+
+Answer: 66.67

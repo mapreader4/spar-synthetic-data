@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The cost of an adult ticket is $8
+* The cost of a child's ticket is $3
+* The adult has $35 to spend
+* We need to find out how many children the adult can take with her
+
+First, we need to determine how much the adult ticket will cost:
+* 1 adult ticket = $8
+
+Now, we need to determine how much money is left for the children's tickets:
+* Total money available = $35
+* Money spent on adult ticket = $8
+* Money left for children's tickets = $35 - $8 = $27
+
+Now, we need to determine how many children's tickets can be purchased with the remaining $27:
+* Cost of 1 child's ticket = $3
+* Number of children's tickets that can be purchased = $27 / $3 = 9
+
+Therefore, the adult can take 9 children with her to the movies.
+
+Answer: 9

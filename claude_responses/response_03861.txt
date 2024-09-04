@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There are 4 primary schools in the town
+* 2 of the schools can teach 400 students at a time
+* The other 2 schools can teach 340 students at a time
+* To find the total number of students that can be taught at a time, we need to add the capacities of the 4 schools.
+
+For the 2 schools that can teach 400 students at a time:
+* 2 schools x 400 students per school = 800 students
+
+For the 2 schools that can teach 340 students at a time:
+* 2 schools x 340 students per school = 680 students
+
+Now we add the two totals together:
+* 800 students + 680 students = 1,480 students
+
+Therefore, the total number of students that can be taught at a time in these 4 primary schools is:
+
+Answer: 1,480

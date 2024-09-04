@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Sally sold 20 cups of lemonade last week.
+2) This week, she sold 30% more lemonade than last week.
+3) To calculate the number of cups she sold this week, we take the 20 cups from last week and add 30% of that amount:
+   20 cups + (20 * 0.30) = 20 + 6 = 26 cups
+4) To find the total number of cups of lemonade she sold in both weeks, we add the 20 cups from last week and the 26 cups from this week:
+   20 + 26 = 46 cups
+
+Answer: 46

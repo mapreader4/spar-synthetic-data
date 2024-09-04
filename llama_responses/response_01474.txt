@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of hours of television watched in the past two weeks. They watched 10 hours last week and 8 hours the week before that, so the total number of hours watched is:
+
+10 + 8 = 18
+
+Now, if they watch 12 hours of television next week, we can find the average number of hours of television they watch per week by dividing the total number of hours by the number of weeks. There are 2 weeks in this case, so:
+
+18 (total hours) ÷ 2 (weeks) = 9
+
+Answer: 9

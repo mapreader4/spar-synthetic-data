@@ -1,0 +1,27 @@
+Let's think step by step.
+
+Let's use the formula for the perimeter of a rectangle: Perimeter = 2 * (length + width).
+
+Since we know the perimeter of the rectangle is 100cm, we can set up an equation: 100 = 2 * (length + width).
+
+We know that the longer sides are 28cm long, so let's call the length of the longer sides "x". Then, we know that the shorter sides are the remaining sides, so let's call the length of the shorter sides "y".
+
+We can write the equation as follows:
+
+100 = 2 * (x + y)
+
+Since we want to find the length of the shorter sides, we can subtract the longer sides from both sides to get the length of the shorter sides:
+
+x + y = (100 - 2x)
+
+We can then solve for y:
+
+y = 100 - 2x
+
+Now, we can plug in the value of x, which is 28:
+
+y = 100 - 2(28) = 100 - 56
+
+y = 44
+
+So, the length of each of the shorter sides is 44cm.

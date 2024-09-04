@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. On Wednesday, Monica studied for 2 hours.
+2. On Thursday, she studied for three times as long as Wednesday, which is 3 x 2 = 6 hours.
+3. On Friday, she studied for half the time she studied on Thursday, which is 6 / 2 = 3 hours.
+4. During the weekend (two days), she studied as much again as Wednesday, Thursday and Friday combined.
+   - Wednesday: 2 hours
+   - Thursday: 6 hours
+   - Friday: 3 hours
+   - Total for Wednesday, Thursday, and Friday: 2 + 6 + 3 = 11 hours
+   - During the weekend, she studied as much again as 11 hours, which is 11 x 2 = 22 hours.
+
+Now, let's add up the total time she spent studying:
+* Wednesday: 2 hours
+* Thursday: 6 hours
+* Friday: 3 hours
+* Weekend: 22 hours
+* Total: 2 + 6 + 3 + 22 = 33 hours
+
+Answer: 33 hours

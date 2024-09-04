@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Bob can shuck 10 oysters in 5 minutes
+* We want to know how many oysters he can shuck in 2 hours
+* 2 hours = 120 minutes
+* In 5 minutes, he can shuck 10 oysters
+* So in 120 minutes (2 hours), he can shuck:
+* (120 minutes / 5 minutes) * 10 oysters = 240 oysters
+
+Answer: 240

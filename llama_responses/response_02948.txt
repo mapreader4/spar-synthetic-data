@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start with the bottom level. It has 7 legos per side, so the total number of legos in the bottom level is 7 * 2 = 14.
+
+The next level up has one less lego per side than the level below it, so it has 7 - 1 = 6 legos per side. The total number of legos in this level is 6 * 2 = 12.
+
+The next level up has one less lego per side than the level below it, so it has 6 - 1 = 5 legos per side. The total number of legos in this level is 5 * 2 = 10.
+
+The top level has one less lego per side than the level below it, so it has 5 - 1 = 4 legos per side. The total number of legos in this level is 4 * 2 = 8.
+
+Now, let's add up the total number of legos in all levels: 14 + 12 + 10 + 8 = 44.
+
+So, Bob needs 44 legos in total to build his pyramid.

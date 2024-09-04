@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Lionel walked 4 miles. We need to convert this to feet.
+   * 1 mile = 5,280 feet
+   * 4 miles = 4 * 5,280 = 21,120 feet
+2) Esther walked 975 yards. We need to convert this to feet.
+   * 1 yard = 3 feet
+   * 975 yards = 975 * 3 = 2,925 feet
+3) Niklaus walked 1287 feet.
+4) Now we add up the total feet walked by all three friends:
+   * 21,120 feet + 2,925 feet + 1,287 feet = 25,332 feet
+
+Answer: 25,332 feet

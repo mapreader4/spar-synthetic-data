@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, Charlotte needs to walk 4 poodles and 2 Chihuahuas.
+   - Time spent on Monday:
+     - 4 poodles x 2 hours = 8 hours
+     - 2 Chihuahuas x 1 hour = 2 hours
+   - Total time spent on Monday = 8 hours + 2 hours = 10 hours
+
+2. On Tuesday, Charlotte needs to walk the same amount of Chihuahuas as Monday, which is 2.
+   - Time spent on Tuesday:
+     - 2 Chihuahuas x 1 hour = 2 hours
+   - Time remaining for poodles on Tuesday = Total time available - Time spent on Monday - Time spent on Tuesday
+   - Time remaining for poodles on Tuesday = 32 hours - 10 hours - 2 hours = 20 hours
+   - Number of poodles Charlotte can walk on Tuesday = Time remaining for poodles on Tuesday / Time to walk a poodle
+   - Number of poodles Charlotte can walk on Tuesday = 20 hours / 2 hours per poodle = 10 poodles
+
+3. On Wednesday, Charlotte needs to walk 4 Labradors.
+   - Time spent on Wednesday:
+     - 4 Labradors x 3 hours = 12 hours
+
+Answer: 10 poodles

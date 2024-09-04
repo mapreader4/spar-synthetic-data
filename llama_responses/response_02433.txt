@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Josh starts with 100 feet of rope.
+
+1. He cuts the rope in half, so he now has 50 feet of rope.
+
+2. He takes one of the halves and cuts it in half again, so he now has 2 pieces, each with 25 feet of rope.
+
+3. He grabs one of the remaining pieces and cuts it into fifths, so he now has 5 pieces, each with 5 feet of rope.
+
+4. He's stuck holding one length of the rope he's most recently cut, which is one of the 5 pieces with 5 feet of rope.
+
+Answer: 5

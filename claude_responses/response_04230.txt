@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Claudia has 122 ounces of water
+* She fills 6 glasses that are 5 ounces each, which is 6 * 5 = 30 ounces
+* She fills 4 glasses that are 8 ounces each, which is 4 * 8 = 32 ounces
+* So the total amount of water used so far is 30 + 32 = 62 ounces
+* The remaining water is 122 - 62 = 60 ounces
+* Each 4-ounce glass can hold 4 ounces of water
+* 60 ounces / 4 ounces per glass = 15 glasses
+
+Answer: 15

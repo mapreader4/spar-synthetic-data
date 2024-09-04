@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that Simon is picking 100 blueberries from his own bushes and 200 blueberries from blueberry bushes growing nearby. We need to find out how many blueberry pies Simon can make with these blueberries.
+
+Since each pie needs 100 blueberries, we can start by dividing the total number of blueberries by 100. We have a total of 100 + 200 blueberries, which is 300 blueberries.
+
+Now, we can divide 300 blueberries by 100 to find out how many blueberry pies Simon can make. We can write this as a division problem:
+
+300 ÷ 100 = 3
+
+Answer: 3

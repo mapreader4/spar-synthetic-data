@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of days John was on the first mission.
+
+The first mission took 5 days. Then, he had to go on a second mission which took 3 days. To find the total number of days John was on missions, we add the number of days for the first mission to the number of days for the second mission.
+
+5 + 3 = 8
+
+Answer: 8

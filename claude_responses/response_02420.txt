@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Steve and Georgia bought a dozen pineapples
+* Each pineapple costs $1.25
+* The total cost of the pineapples is 12 * $1.25 = $15.00
+* It will cost $21.00 to ship all of the pineapples to their home
+* To find the total cost of each pineapple, we need to add the cost of the pineapples and the shipping cost, and then divide by the total number of pineapples
+* The total cost is $15.00 + $21.00 = $36.00
+* The total number of pineapples is 12
+* Therefore, the cost of each pineapple is $36.00 / 12 = $3.00
+
+Answer: 3

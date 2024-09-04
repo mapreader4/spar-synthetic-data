@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Toby wants to walk an average of 9,000 steps per day over the next week
+* On Sunday he walked 9,400 steps
+* On Monday he walked 9,100 steps
+* On Tuesday he walked 8,300 steps
+* On Wednesday he walked 9,200 steps
+* On Thursday he walked 8,900 steps
+* We need to find the total number of steps he has walked so far this week
+* Sunday: 9,400 steps
+* Monday: 9,100 steps
+* Tuesday: 8,300 steps
+* Wednesday: 9,200 steps
+* Thursday: 8,900 steps
+* Total steps walked so far: 9,400 + 9,100 + 8,300 + 9,200 + 8,900 = 44,900 steps
+* He needs to walk an average of 9,000 steps per day for 7 days, so the total steps he needs to walk is 9,000 * 7 = 63,000 steps
+* The remaining steps he needs to walk is 63,000 - 44,900 = 18,100 steps
+* He needs to walk this remaining 18,100 steps over the last two days (Friday and Saturday)
+* To meet his goal, he needs to average 18,100 / 2 = 9,050 steps per day on Friday and Saturday.
+
+Answer: 9,050 steps

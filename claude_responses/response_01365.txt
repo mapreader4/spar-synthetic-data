@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The portable computer drive has enough storage space to store 2000 photos
+* Each photo is 1.5 kilobytes in size
+* So the total storage space of the drive is:
+    - 2000 photos x 1.5 kilobytes per photo = 3000 kilobytes
+* The drive already has 400 photos on it, so the remaining storage space is:
+    - 3000 kilobytes - (400 photos x 1.5 kilobytes per photo) = 3000 kilobytes - 600 kilobytes = 2400 kilobytes
+* Each video is 200 kilobytes in size
+* So the number of 200-kilobyte videos that can be stored is:
+    - 2400 kilobytes / 200 kilobytes per video = 12 videos
+
+Answer: 12

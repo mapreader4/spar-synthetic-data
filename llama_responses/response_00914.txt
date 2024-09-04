@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of white birds next to the cage, which is mentioned in the problem statement as "six more white birds next to a cage than grey birds in the cage".
+
+Since there are 40 grey birds in the cage, and we are asked to find the total number of birds remaining after 10 minutes, half of the birds in the cage are freed and fly away, we can first find the number of grey birds that fly away.
+
+Half of the birds in the cage is 40, so 40 / 2 = 20 birds will fly away.
+
+The total number of birds remaining is the initial number of grey birds minus the number of birds that fly away. So, the total number of birds remaining is 40 - 20 = 20.
+
+Answer: 20

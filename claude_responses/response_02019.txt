@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The sum of the ages of Alma and Melina is twice the total number of points Alma scored in a test.
+2) Melina is three times as old as Alma.
+3) Melina is 60 years old.
+
+Let's start by finding Alma's age:
+* Melina is three times as old as Alma, so Alma's age is 1/3 of Melina's age.
+* Melina is 60 years old, so Alma's age is 60 / 3 = 20 years old.
+
+Now, let's find the sum of their ages:
+* Alma is 20 years old and Melina is 60 years old.
+* The sum of their ages is 20 + 60 = 80 years.
+
+Finally, we know that the sum of their ages is twice the total number of points Alma scored in the test.
+* So, the total number of points Alma scored in the test is 80 / 2 = 40 points.
+
+Answer: 40

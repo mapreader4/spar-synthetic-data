@@ -1,0 +1,16 @@
+Let's break down the information given in the problem:
+
+* Pastor Paul prays 20 times per day, except on Sunday, when he prays twice as much as the normal amount.
+* Pastor Bruce prays half as much as Pastor Paul, except on Sundays, when he prays twice as much as Pastor Paul.
+
+Let's analyze the information:
+
+* Pastor Paul prays 20 times per day on a normal day.
+* Pastor Bruce prays half as much as Pastor Paul, which is 10 times per day.
+* On Sundays, Pastor Paul prays twice as much as Pastor Paul, which is 40 times.
+
+To find the total number of times Pastor Paul prays in a week, we need to find the sum of the number of times he prays on each day of the week. On Sunday, he prays 40 times. On other days, he prays 20 times. The total number of times Pastor Paul prays in a week is 20 + 20 + 20 + 20 + 20 + 20 + 20 + 40 = 120.
+
+Pastor Bruce prays half as much as Pastor Paul, so he prays 60 times in a week. To find the difference between the number of times Pastor Paul prays and Pastor Bruce prays, we need to subtract 60 from 120. The difference is 60.
+
+Answer: 60

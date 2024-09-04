@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Last year, John made $100,000 and got a $10,000 bonus
+* The bonus is a percentage of his total pay
+* To find the percentage, we can divide the bonus by the total pay:
+  * Bonus / Total Pay = $10,000 / $100,000 = 0.1 or 10%
+* This year, John makes $200,000
+* To find his bonus this year, we can multiply his total pay by the same 10% bonus rate:
+  * Bonus = $200,000 * 0.1 = $20,000
+* To find his total pay this year, we add his salary and bonus:
+  * Total Pay = $200,000 + $20,000 = $220,000
+
+Answer: $220,000

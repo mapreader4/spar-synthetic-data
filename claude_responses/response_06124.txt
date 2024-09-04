@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* One dress requires 5.5 yards of fabric
+* Amare needs to make 4 dresses for the wedding
+* So, the total amount of fabric needed for the 4 dresses is:
+  * 4 dresses x 5.5 yards per dress = 22 yards of fabric
+* Amare has 7 feet of fabric
+* To convert 22 yards to feet, we multiply by 3 (since 1 yard = 3 feet):
+  * 22 yards x 3 feet/yard = 66 feet of fabric
+* So, the amount of fabric Amare still needs is:
+  * 66 feet - 7 feet = 59 feet
+
+Answer: 59

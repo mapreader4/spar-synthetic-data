@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ruth goes to school 8 hours a day
+* She goes to school 5 days a week
+* So, the total number of hours she spends in school per week is:
+   - 8 hours per day x 5 days per week = 40 hours per week
+* She is in math class 25% of this time
+* To calculate the number of hours per week she spends in math class, we take 25% of the total hours per week:
+   - 40 hours per week x 0.25 = 10 hours per week
+
+Answer: 10 hours

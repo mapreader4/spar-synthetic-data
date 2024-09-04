@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how many days Bart burns logs in total. He burns 5 logs a day, and there are 61 days from November 1 to February 28. So, the total number of logs burned is:
+
+5 logs/day * 61 days = 305 logs
+
+Now, we know that each tree gives him 75 pieces of firewood. So, to get the total number of trees needed, we can divide the total logs burned by the number of logs each tree gives:
+
+305 logs ÷ 75 logs/tree = 4 trees
+
+So, Bart needs to cut down 4 trees.

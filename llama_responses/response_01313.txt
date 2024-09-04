@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's start by letting x be the number of minutes Frank has to spend inside the remaining maze. We know that Frank has spent 45 minutes inside the maze so far, and that he has spent 50 minutes on average for each of the 4 mazes he has completed. 
+
+The total time spent on the 4 mazes is 50 * 4 = 200 minutes. So, the total time spent so far is 45 + 200 = 245 minutes.
+
+We want the average time spent on the remaining maze to be 60 minutes or less. So, we can set up the equation:
+
+x + 245 / (x + 1) <= 60
+
+To solve for x, we can multiply both sides of the equation by 60:
+
+60 * x <= 60x
+
+Now, we can subtract 245 from both sides:
+
+60x - 245 <= 60x
+
+To isolate x, we subtract 60 from both sides:
+
+x <= 15
+
+Answer: 15

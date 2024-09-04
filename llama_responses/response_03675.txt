@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+George wants to borrow $100, and the finance fee is 5%. The finance fee is doubled every week, so the finance fee for the first week is 5% of $100, which is 5% * $100 = $5. For the second week, the finance fee is doubled to 10% of $100, which is 10% * $100 = $10.
+
+To find the total finance fee, we add the finance fee for the two weeks, which is $5 + $10 = $15.
+
+Answer: 15

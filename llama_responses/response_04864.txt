@@ -1,0 +1,21 @@
+Let's break down the time it takes Martha to knit each item:
+
+* Hat: 2 hours
+* Scarf: 3 hours
+* Mitten: 1 hour
+* Sock: 1.5 hours
+* Sweater: 6 hours
+
+Since there are three grandchildren, Martha needs to knit three of each item. Let's calculate the total time for each item:
+
+* Hats: 3 x 2 hours = 6 hours
+* Scarves: 3 x 3 hours = 9 hours
+* Mittens: 3 x 1 hour = 3 hours
+* Socks: 3 x 1.5 hours = 4.5 hours
+* Sweaters: 3 x 6 hours = 18 hours
+
+Now, let's add up the total time it takes Martha to knit all the outfits:
+
+6 hours (hats) + 9 hours (scarves) + 3 hours (mittens) + 4.5 hours (socks) + 18 hours (sweaters) = 40.5 hours
+
+Answer: 41

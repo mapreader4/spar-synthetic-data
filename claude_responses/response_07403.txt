@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* James trains twice a day
+* Each training session is 4 hours long
+* He trains this way for all but 2 days per week
+* We need to calculate the total number of hours he trains in a year
+
+First, let's calculate the number of hours he trains per week:
+* 2 training sessions per day x 4 hours per session = 8 hours per day
+* 8 hours per day x 5 days per week (since he takes 2 days off) = 40 hours per week
+
+Now, let's calculate the number of hours he trains in a year:
+* 40 hours per week x 52 weeks in a year = 2,080 hours per year
+
+Answer: 2,080 hours

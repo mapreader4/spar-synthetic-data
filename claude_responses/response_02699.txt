@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* On Wednesday, 37 students played kickball.
+* On Thursday, 9 fewer students played kickball.
+* To find the number of students who played kickball on Thursday, we subtract 9 from the number of students who played on Wednesday:
+* 37 - 9 = 28 students played kickball on Thursday.
+* To find the total number of students who played kickball on Wednesday and Thursday, we add the number of students who played on each day:
+* 37 + 28 = 65 students.
+
+Answer: 65

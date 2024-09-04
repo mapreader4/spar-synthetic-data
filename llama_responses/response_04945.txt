@@ -1,0 +1,21 @@
+Let's break this problem down step by step:
+
+Let's start by using the information given that there are 300 cows in total, and there are twice as many females as males. This means that the number of females is 2x the number of males.
+
+Let's say the number of males is x. Then, the number of females would be 2x.
+
+Since half of the females are spotted, and half of the males have horns, the number of females with spots would be half of the total number of females, which is 2x divided by 2, or x.
+
+The number of males with horns would be the other half of the males, which is x divided by 2.
+
+To find the difference between the number of females with spots and the number of males with horns, we need to subtract the number of males with horns from the number of females with spots.
+
+So, the number of females with spots minus the number of males with horns is:
+
+2x - x = 2x - x
+
+This simplifies to:
+
+2x - x = x
+
+This is the number of females with spots minus the number of males with horns.

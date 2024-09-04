@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Macy's goal is to run a total of 24 miles per week
+* She runs 3 miles per day
+* We want to know how many miles she has left to run after 6 days
+
+First, let's calculate how many miles she has run in 6 days:
+* 3 miles per day x 6 days = 18 miles
+
+Now, we can subtract the miles she has run from her weekly goal to find the remaining miles:
+* 24 miles (weekly goal) - 18 miles (miles run) = 6 miles
+
+Therefore, Macy has 6 miles left to run after 6 days in order to meet her weekly goal.
+
+Answer: 6

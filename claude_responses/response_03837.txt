@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There were 5 dogs in total
+* The first dog carried off 3 bones
+* The second dog carried off 1 less bone than the first dog, which is 2 bones
+* The third dog carried off twice as many bones as the second dog, which is 2 x 2 = 4 bones
+* The fourth dog carried off 1 bone
+* The fifth dog carried off twice the number of bones as the fourth dog, which is 2 x 1 = 2 bones
+
+Now, let's add up the total number of bones carried off:
+* 3 + 2 + 4 + 1 + 2 = 12 bones
+
+Therefore, the original pile of bones must have contained 12 bones.
+
+Answer: 12

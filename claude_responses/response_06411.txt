@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* For every earring, Rebecca uses:
+  - 2 magnets
+  - Half as many buttons as magnets, which means 1 button per earring
+  - Three times as many gemstones as buttons, which means 3 gemstones per earring
+* Rebecca wants to make 4 sets of earrings
+* To calculate the total number of gemstones needed:
+  - Each earring requires 3 gemstones
+  - Since Rebecca is making 4 sets of earrings, that's 8 earrings total (4 sets x 2 earrings per set)
+  - 8 earrings x 3 gemstones per earring = 24 gemstones
+
+Answer: 24

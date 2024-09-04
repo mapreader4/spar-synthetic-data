@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: The number of packs of magic cards John bought is 10.
+
+Step 2: Each pack has 20 cards, and 1/4 of those cards are uncommon. To find the number of uncommon cards in one pack, we multiply 1/4 by 20, which is equal to 5.
+
+Step 3: Since there are 10 packs, we multiply the number of uncommon cards in one pack (5) by the number of packs (10), which is equal to 50.
+
+Answer: 50

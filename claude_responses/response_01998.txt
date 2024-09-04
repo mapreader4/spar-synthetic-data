@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Harold had 100 marbles total.
+2) He kept 20 marbles for himself.
+3) He shared the remaining marbles evenly among his 5 friends.
+4) To find the number of marbles each friend got, we need to first find the total number of marbles that were shared.
+5) The total number of marbles shared = 100 - 20 = 80 marbles.
+6) Since Harold shared the 80 marbles evenly among his 5 friends, each friend got 80 / 5 = 16 marbles.
+
+Answer: 16

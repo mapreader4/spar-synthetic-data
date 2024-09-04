@@ -1,0 +1,13 @@
+To solve this problem, we can convert all the given distances to feet.
+
+Lionel walked 4 miles. 4 miles is equal to 4 * 5280 feet.
+
+Esther walked 975 yards. 975 yards is equal to 975 * 3 feet.
+
+Niklaus walked 1287 feet.
+
+Now, we can add up all the distances walked:
+
+4 * 5280 + 975 * 3 + 1287 = 10560 + 2940 = 13400
+
+Answer: 13400

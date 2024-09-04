@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Travis is hired to deliver 638 bowls
+* The home goods store will pay the moving company a $100 fee
+* The home goods store will pay $3 for every bowl that is delivered safely
+* Travis must pay the home goods store $4 for each bowl that is lost or broken
+* 12 bowls are lost
+* 15 bowls are broken
+* The rest are delivered safely
+
+First, let's calculate the number of bowls that were delivered safely:
+* Total bowls = 638
+* Bowls lost = 12
+* Bowls broken = 15
+* Bowls delivered safely = 638 - 12 - 15 = 611
+
+Now, let's calculate the total amount Travis should be paid:
+* Home goods store fee = $100
+* Payment for bowls delivered safely = 611 * $3 = $1,833
+* Cost of lost/broken bowls = (12 + 15) * $4 = $108
+* Total amount Travis should be paid = $100 + $1,833 - $108 = $1,825
+
+Answer: $1,825

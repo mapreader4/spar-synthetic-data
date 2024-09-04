@@ -1,0 +1,25 @@
+Let's break this problem down step by step!
+
+First, let's find out how much money Nikola needs to buy the ant food. Since each ant needs 2 ounces of food and the bag contains 400 ants, Nikola needs a total of:
+
+400 ants × 2 ounces/ant = 800 ounces of ant food
+
+Since each ounce of ant food costs $.1, the total cost of the ant food is:
+
+800 ounces × $.1/ounce = $80
+
+Nikola saved up enough money after raking 6,000 leaves. Each leaf costs 1 penny, so he earned:
+
+6,000 leaves × $0.01/leaf = $60
+
+Since Nikola earned $60, which is less than the $80 needed to buy the ant food, he must have done some jobs to earn the remaining amount. He earns $5 per job, so to find out how many jobs he did, we can divide the difference between the total cost and the money he earned from raking leaves by the amount he earns per job:
+
+$80 - $60 = $20
+
+$20 ÷ $5/job = 4 jobs
+
+So, Nikola completed 4 jobs in addition to raking 6,000 leaves. To find the total number of jobs he completed, we add the number of leaves he raked to the number of jobs:
+
+6,000 leaves + 4 jobs = 6,004
+
+Answer: 6,004

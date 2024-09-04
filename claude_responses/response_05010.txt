@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jackson wants to save $3,000.00 for his vacation
+* The vacation is 15 months away
+* He gets paid 2 times a month
+
+To calculate the amount he needs to save per paycheck, we need to:
+1. Calculate the total number of paychecks he will receive in the 15 months
+   * 15 months x 2 paychecks per month = 30 paychecks
+2. Divide the total amount he wants to save ($3,000.00) by the total number of paychecks (30)
+   * $3,000.00 / 30 = $100.00 per paycheck
+
+Therefore, to have enough money saved for his vacation, Jackson needs to set aside $100.00 per paycheck.
+
+Answer: 100

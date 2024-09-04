@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+* There are 80 students who took the biology exam
+* 2/5 of the 80 students scored 100%
+* 2/5 of 80 = 0.4 * 80 = 32 students scored 100%
+* The remaining students who didn't score 100% are 80 - 32 = 48 students
+* 50% of the 48 students scored over 80%
+* 50% of 48 = 0.5 * 48 = 24 students scored over 80%
+* The remaining students who scored below 80% are 48 - 24 = 24 students
+* Therefore, the number of students who failed the exam is 24.
+
+Answer: 24

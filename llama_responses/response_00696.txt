@@ -1,0 +1,9 @@
+Let's think step by step.
+
+First, let's start with the total number of apples Carla had. She put 79 apples in her backpack. Then, some apples were stolen by Buffy, and some apples fell out of the hole. Finally, Carla was left with 8 apples.
+
+Let's subtract the number of apples Carla was left with from the total number of apples she had. 79 - 8 = 71 apples were taken away from Carla.
+
+Now, let's figure out how many apples Buffy took. If Buffy took some apples, and 26 apples fell out of the hole, then the number of apples Buffy took must be the difference between the total number of apples Carla had and the number of apples she was left with. 71 - 26 = 45 apples were taken by Buffy.
+
+Answer: 45

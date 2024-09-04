@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The owner ordered ground beef in four-pound packages from three different butchers.
+* The first butcher delivered 10 packages.
+* The second butcher delivered 7 packages.
+* The total weight of all the ground beef delivered by the three butchers was 100 pounds.
+
+To find the number of packages delivered by the third butcher, we need to calculate the total weight of the ground beef delivered by the first two butchers, and then subtract that from the total weight of 100 pounds to find the weight delivered by the third butcher.
+
+The first butcher delivered 10 packages, each weighing 4 pounds, so the total weight from the first butcher is:
+* 10 packages x 4 pounds/package = 40 pounds
+
+The second butcher delivered 7 packages, each weighing 4 pounds, so the total weight from the second butcher is:
+* 7 packages x 4 pounds/package = 28 pounds
+
+The total weight from the first two butchers is:
+* 40 pounds + 28 pounds = 68 pounds
+
+The total weight delivered by all three butchers is 100 pounds, so the weight delivered by the third butcher is:
+* 100 pounds - 68 pounds = 32 pounds
+
+Since each package weighs 4 pounds, the number of packages delivered by the third butcher is:
+* 32 pounds / 4 pounds/package = 8 packages
+
+Answer: 8 packages

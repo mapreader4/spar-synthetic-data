@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 5 adults and 2 children
+* The total cost of the trip is $76
+* The cost of concessions is $12
+* The cost of each child's ticket is $7
+
+To find the cost of the adult tickets, we need to first calculate the total cost of the children's tickets:
+* 2 children x $7 per ticket = $14 for children's tickets
+
+Now, we can subtract the cost of the children's tickets and the concessions from the total cost to get the cost of the adult tickets:
+* $76 (total cost) - $14 (children's tickets) - $12 (concessions) = $50 for adult tickets
+
+Since there are 5 adults, we can divide the total cost of the adult tickets by 5 to get the cost of each adult ticket:
+* $50 (adult tickets) / 5 (adults) = $10 per adult ticket
+
+Answer: $10

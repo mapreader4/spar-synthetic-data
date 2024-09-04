@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by converting the given speeds to feet per second:
+
+Cheetah's top speed is 60 mph, which is equal to 60 * 1.5 = 90 feet per second.
+
+Gazelle's top speed is 40 mph, which is equal to 40 * 1.5 = 60 feet per second.
+
+The distance between the two animals is 210 feet.
+
+The cheetah and gazelle are moving in the same direction, so we can add their speeds to find their relative speed:
+
+90 + 60 = 150 feet per second
+
+Now, we can use the formula:
+
+Distance = speed * time
+
+to find the time it would take for the cheetah to catch the gazelle:
+
+210 feet / 150 feet per second = 1.4 seconds
+
+So, the answer is:
+
+Answer: 1.4

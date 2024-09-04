@@ -1,0 +1,13 @@
+Let's start by using variables to represent the number of palm trees in the desert and the forest. Let's say the number of palm trees in the desert is x.
+
+The problem statement says that the desert has 3/5 fewer palm trees than the forest, which has 5000 palm trees. So, we can set up the following equation:
+
+3x = 5000 - (3/5) * 5000
+
+To solve for x, we can divide both sides of the equation by 5000:
+
+3x = 5000 / (3/5) = 5000 * (5/3) = 3333.33
+
+The answer is that the desert has 3333 palm trees, and the forest has 5000 palm trees. The total number of palm trees in both the desert and the forest is 5000 + 3333 = 5333.
+
+Answer: 5333

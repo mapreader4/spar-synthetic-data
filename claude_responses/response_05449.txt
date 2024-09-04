@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The mailman has to deliver 48 pieces of junk mail
+* There are 8 houses on the block
+* 2 of the houses have white mailboxes
+* 3 of the houses have red mailboxes
+To find the number of pieces of junk mail each of the houses with white or red mailboxes will get, we need to divide the total number of pieces of junk mail (48) by the number of houses with white or red mailboxes.
+* The number of houses with white or red mailboxes is 2 + 3 = 5
+* 48 pieces of junk mail / 5 houses = 9.6 pieces of junk mail per house
+Since we can't have a fractional piece of junk mail, we need to round down to the nearest whole number.
+Answer: 9 pieces of junk mail per house.

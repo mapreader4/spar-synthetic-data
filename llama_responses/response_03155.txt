@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+First, Thomas and his 4 friends take 1/4 of the bars, which is:
+
+200 bars x 1/4 = 50 bars
+
+So, 50 bars are taken out of the box. Now, there are:
+
+200 bars - 50 bars = 150 bars
+
+left in the box.
+
+One of Thomas's friends returns 5 bars to the box, so:
+
+150 bars + 5 bars = 155 bars
+
+are now in the box.
+
+Piper takes 5 fewer bars than those taken in total by Thomas and his friends. Thomas and his friends took 50 bars, so Piper takes:
+
+50 bars - 5 bars = 45 bars
+
+Now, there are:
+
+155 bars - 45 bars = 110 bars
+
+left in the box.
+
+Answer: 110

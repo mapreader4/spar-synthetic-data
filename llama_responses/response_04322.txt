@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total distance they need to travel, which is 1200 miles.
+
+Next, let's find the time it would take them to travel 1200 miles at 50 miles per hour. To do this, we can divide the total distance by the speed: 1200 miles ÷ 50 miles per hour = 24 hours.
+
+Now, let's find the time it would take them to travel 1200 miles at 60 miles per hour. To do this, we can divide the total distance by the speed: 1200 miles ÷ 60 miles per hour = 20 hours.
+
+Since they would travel 24 hours at 50 miles per hour, but 20 hours at 60 miles per hour, they will save 4 hours. So, the answer is:
+
+Answer: 4

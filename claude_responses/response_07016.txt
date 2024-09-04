@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+* The plant is currently 20 feet tall
+* After a year (12 months), the plant will be 80 feet tall
+* We need to find the monthly growth rate, which is the amount the plant grows each month
+* To find the monthly growth rate, we need to calculate the total growth over the year and divide it by the number of months
+* The total growth over the year is 80 feet - 20 feet = 60 feet
+* Dividing the total growth by the number of months (12) gives us the monthly growth rate
+* 60 feet / 12 months = 5 feet per month
+
+Answer: 5

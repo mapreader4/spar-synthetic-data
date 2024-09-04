@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The tree is currently 180 inches tall
+* This is 50% taller than when it was planted
+* To find the original height, we need to find the 50% increase from the original height
+* Let's call the original height "x"
+* 50% of x is 0.5x
+* The current height of 180 inches is 0.5x more than the original height
+* So, 180 inches = x + 0.5x
+* Solving for x, we get: 180 = 1.5x
+* x = 180 / 1.5 = 120 inches
+* To convert to feet, we divide by 12 inches per foot:
+* 120 inches / 12 inches per foot = 10 feet
+
+Answer: 10 feet

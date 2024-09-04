@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by using the information that the electric oven uses power worth $500 in a month, and the water heater uses half that amount. So, the water heater uses $500 / 2 = $250 worth of power in a month.
+
+Since the refrigerator uses three times the amount of power that the water heater uses, it uses 3 x $250 = $750 worth of power in a month.
+
+The total amount Joseph pays for the power used by these gadgets is the sum of the power used by the water heater, the refrigerator, and the oven. This is $250 (water heater) + $750 (refrigerator) + $500 (oven) = $1500.
+
+Answer: 1500

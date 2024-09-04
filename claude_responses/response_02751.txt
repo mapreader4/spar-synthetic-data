@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Jorge has an equal number of baseball cards as Matias.
+2) Matias has 6 fewer cards than Carlos.
+3) Carlos has 20 baseball cards.
+4) Since Matias has 6 fewer cards than Carlos, Matias has 20 - 6 = 14 baseball cards.
+5) Since Jorge has an equal number of cards as Matias, Jorge also has 14 baseball cards.
+6) To find the total number of baseball cards the three have, we add up the number of cards each person has:
+Carlos: 20 cards
+Matias: 14 cards
+Jorge: 14 cards
+Total: 20 + 14 + 14 = 48 cards
+
+Answer: 48

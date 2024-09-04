@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 20 students in the class
+* Half of them play basketball, which means 10 students play basketball
+* Two-fifths of the students play volleyball, which means 8 students play volleyball
+* One-tenth of the students play both basketball and volleyball, which means 2 students play both games
+* To find the number of students who do not play either game, we need to subtract the number of students who play at least one game from the total number of students.
+* The number of students who play at least one game is the sum of the students who play basketball (10), the students who play volleyball (8), and the students who play both (2), minus the students who play both (2) to avoid double-counting.
+* So the number of students who play at least one game is 10 + 8 - 2 = 16.
+* The number of students who do not play either game is 20 - 16 = 4.
+
+Answer: 4

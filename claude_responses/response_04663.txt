@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mr. Deane decides to fill his gas tank with 10 liters of gas today
+* The cost per liter of gas today is $1.4
+* So, the cost for the 10 liters of gas today is:
+10 liters x $1.4 per liter = $14
+* On Friday, there is a $0.4 oil price rollback
+* So, the new cost per liter of gas on Friday will be $1.4 - $0.4 = $1.0 per liter
+* Mr. Deane decides to fill his gas tank with another 25 liters on Friday
+* So, the cost for the 25 liters of gas on Friday is:
+25 liters x $1.0 per liter = $25
+* The total amount Mr. Deane will spend for his 35 liters of gas is:
+$14 + $25 = $39
+
+Answer: 39

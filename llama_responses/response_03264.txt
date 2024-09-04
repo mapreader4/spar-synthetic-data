@@ -1,0 +1,7 @@
+Let's start by identifying the problem. We know that Sammy has 8 gifts to wrap, each requiring 1.5 meters of ribbon. So, the total amount of ribbon needed is 8 x 1.5 = 12 meters. We also know that Tom has 15 meters of ribbon available. 
+
+Now, we need to subtract the amount of ribbon needed for the gifts from the amount of ribbon available. 
+
+15 - 12 = 3
+
+Answer: 3

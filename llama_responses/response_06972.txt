@@ -1,0 +1,3 @@
+To solve this problem, let's first find the total number of cookies inside the box. The bag of caramel cookies has 20 cookies, and the box of cookies has 4 bags, so there are 20 * 4 = 80 cookies in total.
+
+Each cookie is 20 calories, so to find the total calories, we multiply the total number of cookies by the number of calories per cookie. 80 * 20 = 1600 calories.

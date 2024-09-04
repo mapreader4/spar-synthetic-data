@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the number of boys in the class. Since 40% of the class are boys, and 100% is equal to 100, we can multiply 40 by 100 to find the number of boys: 40 x 100 = 400. So, there are 400 boys in the class.
+
+Next, let's find the number of girls in the class. Since the total number of students is 100, and the number of boys is 400, the number of girls is 100 - 400 = 100 - 400 = 600. So, there are 600 girls in the class.
+
+Now, let's find the total number of students in the class. We have 400 boys and 600 girls. The total number of students is 400 + 600 = 1000.
+
+Now, let's find the total score of all the students. Each boy gets an 80, so the total score of the boys is 400 x 80 = 32000. Each girl gets a 90, so the total score of the girls is 600 x 90 = 54000. The total score of all the students is the sum of the scores of the boys and girls, which is 32000 + 54000 = 86000.
+
+Finally, let's find the class average. The total score of all the students is 86000, and the total number of students is 1000. So, the class average is 86000 / 1000 = 86.
+
+Answer: 86

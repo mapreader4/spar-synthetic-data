@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Peggy buys 3 folders, one each in red, green, and blue
+* She puts 10 sheets of paper in each folder
+* In the red folder, each sheet of paper gets 3 stickers
+* In the green folder, each sheet of paper gets 2 stickers
+* In the blue folder, each sheet of paper gets 1 sticker
+
+To calculate the total number of stickers Peggy uses:
+* Red folder: 10 sheets x 3 stickers per sheet = 30 stickers
+* Green folder: 10 sheets x 2 stickers per sheet = 20 stickers
+* Blue folder: 10 sheets x 1 sticker per sheet = 10 stickers
+
+Now we add up the total number of stickers:
+* 30 + 20 + 10 = 60 stickers
+
+Answer: 60

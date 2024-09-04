@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The distance to the church is 20 miles.
+2. The horse can go 10 miles per hour.
+3. The cost per hour is $30, and the flat fee is $20.
+4. The total distance is 20 miles.  20 miles / 10 miles per hour = 2 hours.
+5. The cost per hour is $30, and the flat fee is $20.  The total cost would be 2 hours * $30 + $20 = $70.
+
+Answer: 70

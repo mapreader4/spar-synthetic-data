@@ -1,0 +1,36 @@
+Okay, let's break this down step-by-step:
+* Tina is getting $20 for each book she sells
+* She realizes a $120 profit on her sales
+* Each book costs $5 to make
+* Every customer buys 2 at a time
+
+First, let's calculate the total revenue Tina made from selling the books:
+* Profit = $120
+* Cost to make each book = $5
+* Therefore, the total revenue = Profit + Cost to make all books
+* Total revenue = $120 + (Cost to make all books)
+
+Now, let's find the cost to make all the books:
+* Cost to make each book = $5
+* Each customer buys 2 books at a time
+* So, the number of books sold = 2 x number of customers
+
+Plugging this in, we get:
+* Total cost to make all books = 2 x number of customers x $5
+
+Now, we can solve for the total revenue:
+* Total revenue = $120 + (2 x number of customers x $5)
+* Total revenue = $120 + $10 x number of customers
+
+We know that Tina is getting $20 for each book she sells, so:
+* Total revenue = $20 x number of books sold
+* $20 x number of books sold = $120 + $10 x number of customers
+* Number of books sold = 6 + 0.5 x number of customers
+
+Since each customer buys 2 books, the number of customers is half the number of books sold:
+* Number of customers = (6 + 0.5 x number of customers) / 2
+* Number of customers = 3 + 0.25 x number of customers
+* 0.75 x number of customers = 3
+* Number of customers = 4
+
+Answer: 4

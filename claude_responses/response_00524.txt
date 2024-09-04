@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 336 books in the library.
+* On Monday, 124 books were taken out.
+* So, the number of books remaining in the library after Monday is 336 - 124 = 212 books.
+* On Tuesday, 22 books were brought back.
+* So, the number of books in the library now is 212 + 22 = 234 books.
+
+Answer: 234

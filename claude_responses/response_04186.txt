@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John buys game loot boxes for $5 each.
+2) The average value of items inside is $3.5.
+3) He spends $40 on loot boxes.
+4) To calculate the average amount he lost, we need to find the difference between what he spent and the average value of the items he received.
+5) He spent $40 on loot boxes.
+6) Since each loot box costs $5, he bought 8 loot boxes ($40 / $5 = 8).
+7) The average value of the items inside the 8 loot boxes is 8 * $3.5 = $28.
+8) The average amount he lost is the difference between what he spent and the average value of the items he received: $40 - $28 = $12.
+
+Answer: $12

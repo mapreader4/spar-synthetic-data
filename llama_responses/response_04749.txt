@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's say the number of bones Lassie started with is x.
+
+Lassie eats half of her bones on Saturday. So, she eats x/2 bones.
+
+She received 10 more bones on Sunday. So, she now has x - x/2 + 10 bones.
+
+The total number of bones she has is 35. We can set up an equation to represent this:
+
+x - x/2 + 10 = 35
+
+We can solve for x by subtracting 10 from both sides of the equation:
+
+x - x/2 = 35 - 10
+
+To solve for x, we can multiply both sides by 2:
+
+x/2 = 25
+
+To get rid of the fraction, we can multiply both sides by 2:
+
+x = 50
+
+So, Lassie started with 50 bones.

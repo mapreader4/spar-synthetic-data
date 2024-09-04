@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 21 cherry tomatoes on the tomato plant.
+* 2 birds eat one-third of the tomatoes.
+* To find out how many tomatoes the birds ate, we need to calculate one-third of 21:
+  * One-third of 21 is 21 / 3 = 7
+* So the 2 birds ate 7 tomatoes.
+* To find out how many tomatoes are still left on the tomato plant, we subtract the number of tomatoes eaten by the birds from the total number of tomatoes:
+  * 21 - 7 = 14
+
+Answer: 14

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+First, we need to find the volume of the cube. The volume of a cube is given by the formula V = s^3, where s is the side length of the cube. Since the side length of the cube is 3 inches, we have V = 3^3 = 27 cubic inches.
+
+Next, we need to find the mass of the cube. The mass of the cube is the volume of the cube times the density of the material. The density of silver is given as 6 ounces per cubic inch. So, the mass of the cube is 27 cubic inches times 6 ounces per cubic inch, which is 162 ounces. We need to convert this to pounds, since 1 pound is 16 ounces. 162 ounces is 10.5 pounds.
+
+Finally, we need to find the price of the silver. The price is given as 25 per ounce, so we need to multiply the mass in ounces by 25. 10.5 pounds is 1680 ounces. 1680 ounces at 25 per ounce is 42,000.
+
+So, Bob sells the silver for 42,000.

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The group spent a total of $94 on fruit juice
+* Some ordered mango juice at $5 per glass
+* Others ordered pineapple juice at $6 per glass
+* $54 was spent on pineapple juice
+
+First, let's find out how much was spent on pineapple juice:
+* $54 was spent on pineapple juice
+* Since pineapple juice costs $6 per glass, we can divide $54 by $6 to find the number of pineapple juice glasses ordered:
+* $54 / $6 = 9 pineapple juice glasses
+
+Now, let's find the total number of glasses ordered:
+* The total amount spent was $94
+* We know that $54 was spent on pineapple juice
+* So the remaining amount, $94 - $54 = $40, was spent on mango juice
+* Since mango juice costs $5 per glass, we can divide $40 by $5 to find the number of mango juice glasses ordered:
+* $40 / $5 = 8 mango juice glasses
+* Therefore, the total number of glasses ordered is 9 (pineapple) + 8 (mango) = 17 glasses
+
+Answer: 17 people were in the group.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are a total of 4000 trees in the forest.
+2) Spruces make up 10% of all the trees, which means there are 0.10 * 4000 = 400 spruce trees.
+3) Pines make up 13% of all the trees, which means there are 0.13 * 4000 = 520 pine trees.
+4) The number of oak trees is equal to the number of spruce and pine trees combined, which is 400 + 520 = 920 oak trees.
+5) To find the number of birch trees, we need to subtract the number of oak, pine, and spruce trees from the total number of trees:
+4000 - 920 - 400 - 520 = 2160 birch trees.
+
+Answer: 2160

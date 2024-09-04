@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Mark is allotted 10 sick days and 10 vacation days per year
+* He uses half of his allotment of both types of days in a year
+* Each day covers an 8-hour long workday
+
+First, let's calculate how many days he has left:
+* Sick days allotment: 10
+* Sick days used: 10 / 2 = 5
+* Sick days left: 10 - 5 = 5
+* Vacation days allotment: 10
+* Vacation days used: 10 / 2 = 5
+* Vacation days left: 10 - 5 = 5
+* Total days left: 5 sick days + 5 vacation days = 10 days
+
+Now, let's calculate the total hours' worth of days he has left:
+* Each day is 8 hours long
+* 10 days x 8 hours/day = 80 hours
+
+Answer: 80 hours

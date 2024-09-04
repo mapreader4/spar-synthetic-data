@@ -1,0 +1,11 @@
+To find the time it takes to pick 72 sugar snap peas, we need to first find the time it takes to pick 1 sugar snap pea. 
+
+Let's say it takes Ben 8 seconds to pick 1 sugar snap pea. 
+
+Then, we can multiply this by 72 to find the time it takes to pick 72 sugar snap peas: 8 * 72 = 576 seconds. 
+
+There are 60 seconds in a minute, so we can convert 576 seconds to minutes by dividing by 60. 
+
+576 / 60 = 9.6. 
+
+Answer: 9.6

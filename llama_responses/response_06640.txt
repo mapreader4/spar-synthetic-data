@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Noah calls his Grammy every week, which is 52 times a year. Each call lasts 30 minutes, which is 0.5 hours. So, the total hours Noah talks to his Grammy in a year is 52 * 0.5 = 26 hours.
+
+2. He is charged $0.05 per minute, so for 0.5 hours, he would be charged 0.5 * 0.05 = $0.25 per call. Since he makes the calls 52 times a year, he would be charged 52 * 0.25 = $13.
+
+Answer: 13

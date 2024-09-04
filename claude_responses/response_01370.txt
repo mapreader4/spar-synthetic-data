@@ -1,0 +1,19 @@
+To solve this problem, we need to find the total number of strands of duct tape that need to be cut and then calculate the time it will take for Hannah and her son to free the younger son.
+
+Given information:
+- The younger son is taped to a chair with 22 strands of duct tape.
+- Hannah can cut 8 strands of duct tape per minute.
+- The son can cut 3 strands of duct tape per minute.
+
+Step 1: Calculate the total number of strands of duct tape that need to be cut.
+Total strands of duct tape = 22 strands
+
+Step 2: Calculate the combined cutting rate of Hannah and her son.
+Hannah's cutting rate + Son's cutting rate = Total cutting rate
+8 strands/minute + 3 strands/minute = 11 strands/minute
+
+Step 3: Calculate the time it will take to cut all the strands of duct tape.
+Time to cut all strands = Total strands / Total cutting rate
+Time to cut all strands = 22 strands / 11 strands/minute = 2 minutes
+
+Answer: 2 minutes

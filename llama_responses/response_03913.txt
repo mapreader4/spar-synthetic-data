@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. The price of the 30 Mbps is twice the amount of her current monthly bill, which is $20. So, the price of the 30 Mbps is 2 x $20 = $40 per month.
+
+2. The price of the 20 Mbps is $10 more than her current monthly bill, which is $20. So, the price of the 20 Mbps is $20 + $10 = $30 per month.
+
+3. Since Marites' current monthly bill is $20, the difference in monthly bill between the 30 Mbps and 20 Mbps is $40 - $30 = $10.
+
+4. Since there are 12 months in a year, the difference in annual bill between the 30 Mbps and 20 Mbps is 12 x $10 = $120.
+
+Answer: 120

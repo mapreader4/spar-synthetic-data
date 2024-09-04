@@ -1,0 +1,11 @@
+Let's start by identifying the given information:
+
+* 5 vans are used to transport students.
+* Each van carries 28 students.
+* 60 of the students are boys.
+
+Let's start by identifying the number of students in each van. If 5 vans are used, then 5 * 28 = 140 students are transported. Since 60 of these are boys, we can subtract the number of boys from the total number of students to find the number of girls:
+
+60 (number of boys) - 60 = 80
+
+Answer: 80

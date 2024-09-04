@@ -1,0 +1,16 @@
+Let's break down the information given in the problem.
+
+Let's assume that Layla scored x points and Nahima scored y points. The total number of points scored was 112.
+
+We know that the total number of points scored is the sum of the points scored by Layla and Nahima. So, we can set up an equation to solve for x + y = 112.
+
+We know that Layla scored 70 points. So, we can substitute x = 70 into the equation. Then we get:
+
+70 + y = 112
+
+Now, we need to solve for y. We can subtract 70 from both sides of the equation to get:
+
+y = 112 - 70
+y = 42
+
+So, Layla scored 42 points more than Nahima.

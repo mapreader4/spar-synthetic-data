@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start with the number of string cheeses each kid will eat per day. The oldest kid eats 2 string cheeses per day and the youngest eats 1 string cheese per day. So, the total number of string cheeses each day is 2 + 1 = 3.
+
+Now, let's find the total number of string cheeses needed for the week. The number of string cheeses needed for the week is the number of string cheeses each day times the number of days in the week. So, the total number of string cheeses needed for the week is 3 * 7 = 21.
+
+Since the packages come with 30 string cheeses per pack, Kelly will need to buy 21 / 30 = 0.7 packages of string cheese. So, Kelly will need 0.7 packages of string cheese.
+
+Answer: 0

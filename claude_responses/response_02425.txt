@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Mabel has 5 daisies in her garden.
+2) Each daisy has 8 petals.
+3) Mabel gives 2 daisies to her teacher.
+4) To find the number of petals on the remaining daisies, we need to:
+   a) Calculate the total number of petals on the 5 daisies: 5 daisies x 8 petals per daisy = 40 petals.
+   b) Subtract the number of petals on the 2 daisies given to the teacher: 2 daisies x 8 petals per daisy = 16 petals.
+   c) The remaining number of petals is 40 - 16 = 24 petals.
+
+Answer: 24

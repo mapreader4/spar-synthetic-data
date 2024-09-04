@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Nathan has 14 blankets in his closet
+* He added half of the 14 blankets to his bed
+* Each blanket warms him up by 3 degrees
+
+To find the total number of degrees he was warmed up, we need to:
+1. Calculate how many blankets he added to his bed
+* Half of 14 blankets is 7 blankets
+2. Multiply the number of blankets by the degree of warmth per blanket
+* 7 blankets x 3 degrees per blanket = 21 degrees
+
+Therefore, the blankets warmed Nathan up by 21 degrees.
+
+Answer: 21

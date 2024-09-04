@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Carmen needs $7 more to have twice the amount of money that Jethro has.
+   - Let's call the amount of money Jethro has as "x".
+   - Carmen needs 2x - $7 to have twice the amount of money that Jethro has.
+2) Patricia has $60, which is 3 times as much as Jethro.
+   - So, Jethro has $60 / 3 = $20.
+3) Now we can calculate the sum of all their money:
+   - Jethro has $20.
+   - Carmen needs 2 * $20 - $7 = $33.
+   - Patricia has $60.
+   - The sum of all their money is $20 + $33 + $60 = $113.
+
+Answer: 113

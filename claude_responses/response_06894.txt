@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total calories in the sandwich is 1250 calories.
+2) The sandwich has two strips of bacon, each with 125 calories.
+3) So the total calories from the bacon is 2 * 125 = 250 calories.
+4) To calculate the percentage of the sandwich's total calories that come from the bacon, we take the calories from the bacon (250) and divide it by the total calories in the sandwich (1250).
+5) 250 / 1250 = 0.2
+6) To convert this to a percentage, we multiply by 100:
+0.2 * 100 = 20%
+
+Answer: 20%

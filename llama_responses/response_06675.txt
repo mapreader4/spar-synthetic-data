@@ -1,0 +1,9 @@
+Let's start by identifying the given information: 
+The price of each t-shirt is $20. The number of t-shirts is 6. The discount is 50%. 
+
+To find the discounted price of each t-shirt, we can multiply the price by 0.5 to get 10. 
+
+The total cost of the 6 t-shirts will be 6 * 10 = 60. The original price is 6 * 20 = 120. So, to get the discounted price, we subtract the discount from the original price. 120 - 60 = 60. 
+
+James paid 60 dollars. 
+Answer: 60

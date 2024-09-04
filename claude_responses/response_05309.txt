@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Vivian's students get 2 recess breaks a day, each 15 minutes long
+* So the total time for the two recess breaks is:
+  * 2 x 15 minutes = 30 minutes
+* Vivian's students also get a 30-minute lunch break
+* And they get another 20-minute recess break
+* To calculate the total time spent outside of class, we add up all these times:
+  * 30 minutes (2 recess breaks) + 30 minutes (lunch) + 20 minutes (1 recess break)
+  * = 80 minutes
+
+Answer: 80

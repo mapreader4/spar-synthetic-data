@@ -1,0 +1,23 @@
+Let's break down the problem step by step.
+
+Initially, the rancher has 340 head of cattle and plans to sell them for $204,000. This means each head of cattle is worth $204,000 / 340 = $600.
+
+However, 172 of the cattle fell sick and died, leaving the rancher with 340 - 172 = 168 head of cattle.
+
+The customers lost confidence in the cattle, forcing the rancher to lower the price by $150 per head. So, the new price per head is $600 - $150 = $450.
+
+The rancher now wants to know how much money he would lose by selling the remaining 168 head of cattle at the lowered price of $450 compared to the original price of $600.
+
+To find the answer, we need to calculate the total amount the rancher would have made if he sold the 168 head of cattle at the original price of $600:
+
+168 head of cattle x $600 per head = $100,800
+
+Now, let's calculate the total amount the rancher would make if he sells the 168 head of cattle at the lowered price of $450:
+
+168 head of cattle x $450 per head = $72,000
+
+The difference between these two amounts is the loss the rancher would incur:
+
+$100,800 - $72,000 = $28,800
+
+Answer: 28800

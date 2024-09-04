@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Johnny bought 15 packs of colored pencils.
+2) Each pack has a red, yellow, and green pencil inside.
+3) 3 of the packs have two extra red pencils inside.
+
+To calculate the total number of red pencils, we need to:
+1) Calculate the number of red pencils in the 12 regular packs:
+   * 12 packs x 1 red pencil per pack = 12 red pencils
+
+2) Calculate the number of red pencils in the 3 packs with the extra red pencils:
+   * 3 packs x 3 red pencils per pack = 9 extra red pencils
+
+3) Add the number of red pencils from the regular packs and the extra red pencils:
+   * 12 red pencils + 9 extra red pencils = 21 red pencils
+
+Answer: 21

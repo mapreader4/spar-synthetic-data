@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the values of the figures: 5 figures, 4 of which are worth $15 each, and 1 is worth $20.
+
+The total value of the figures is $15 * 4 + $20 = $60.
+
+To sell each of the figures for $5 less than their value, the values of the figures would be:
+- $15 - $5 = $10
+- $15 - $5 = $10
+- $15 - $5 = $10
+- $15 - $5 = $10
+- $20 - $5 = $15
+
+The total amount of money Jimmy will earn is the sum of the values of all the figures after selling them for $5 less than their value:
+$10 + $10 + $10 + $10 + $10 + $15 = $55.
+
+So, the answer is:
+Answer: 55

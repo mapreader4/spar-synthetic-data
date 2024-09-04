@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of balloons Janeth bought. There are 5 bags of round balloons with 20 balloons in each bag, so the total number of round balloons is 5 x 20 = 100. There are also 4 bags of long balloons with 30 balloons in each bag, so the total number of long balloons is 4 x 30 = 120. 
+
+Now, let's find the total number of balloons. The total number of balloons is 100 + 120 = 220. 
+
+After blowing up the balloons, 5 round balloons burst. This means 5 balloons are no longer available. 
+
+Now, we need to subtract the number of burst balloons from the total number of balloons. 220 - 5 = 215. 
+
+Answer: 215

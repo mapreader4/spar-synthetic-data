@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of blouses Eliza can iron. She can iron 1 blouse in 15 minutes, so the number of blouses she can iron in 1 hour is 4 (since 60 minutes / 15 minutes = 4).
+
+Next, we need to find the number of dresses Eliza can iron in 20 minutes. Since it takes her 20 minutes to iron 1 dress, the number of dresses she can iron in 1 hour is 3 (since 60 minutes / 20 minutes = 3).
+
+Now, we can add the number of blouses and dresses she can iron in 1 hour. She can iron 4 blouses and 3 dresses in 1 hour, so the total number of pieces of clothes she can iron in 1 hour is 7.
+
+Answer: 7

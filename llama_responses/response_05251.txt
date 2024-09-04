@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's say the number of pieces the cake was initially was x.
+
+The guests ate half of the cake, so the remaining pieces is x/2.
+
+The next day, she shared half of the remaining pieces with her brothers, so the remaining pieces is (x/2)/2 = x/4.
+
+She ate one piece as a midnight snack, so the remaining pieces is x/4 - 1.
+
+Twice as many pieces as her snack were left, so the remaining pieces is 2(x/4 - 1).
+
+We can set up an equation: x/2 = 2(x/4 - 1). To solve for x, we can multiply both sides by 4 to get 4(x/2) = 2(4(x/4 - 1)).
+
+Simplifying the right side, we get 2x = 8(x/4 - 1).
+
+Now, we can solve for x. Subtract 1 from both sides to get 2x - 2 = 8(x/4 - 1) - 1.
+
+Simplify the right side, we get 2x - 2 = 8x/4 - 9.
+
+Add 2 to both sides to get 2x - 2 + 2 = 8x/4.
+
+Simplify the right side, we get 2x = 8x/4.
+
+Divide both sides by 2 to get x = 4x/2.
+
+So, the cake had 8 pieces initially.

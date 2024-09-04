@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Malachi has the number of selfies he took last year and this year in the ratio of 10:17.
+2) This means that the number of selfies he took last year is 10 parts, and the number of selfies he took this year is 17 parts.
+3) The total number of parts is 10 + 17 = 27.
+4) We know that Malachi has a total of 2430 photos in his gallery.
+5) To find the number of photos he took last year, we can use the ratio:
+* Last year's photos = (10/27) * 2430 = 900
+6) To find the number of photos he took this year, we can use the ratio:
+* This year's photos = (17/27) * 2430 = 1530
+7) The difference between this year's photos and last year's photos is:
+* 1530 - 900 = 630
+
+Answer: 630

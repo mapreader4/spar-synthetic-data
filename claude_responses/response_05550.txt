@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Philip passed through 5 intersections
+* Each intersection had 4 crosswalks
+* Each crosswalk had 20 lines
+* To calculate the total number of lines, we need to:
+  1. Multiply the number of crosswalks per intersection (4) by the number of lines per crosswalk (20)
+  2. Multiply that result by the number of intersections (5)
+  
+Step 1: 4 crosswalks per intersection x 20 lines per crosswalk = 80 lines per intersection
+Step 2: 80 lines per intersection x 5 intersections = 400 total lines
+
+Answer: 400

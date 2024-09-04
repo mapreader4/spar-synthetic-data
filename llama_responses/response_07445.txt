@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: There were 50 people on the bus initially.
+
+Step 2: At the first stop, 15 people got off. So, the number of people on the bus decreases by 15, leaving 50 - 15 = 35 people on the bus.
+
+Step 3: At the next stop, 8 people got off and 2 people got on. So, the number of people on the bus increases by 2, but the number of people who got off is greater than the number of people who got on. So, the number of people on the bus is reduced by 8 - 2 = 35 - 6 = 29 people.
+
+Step 4: At the third stop, 4 people got off and 3 people got on. So, the number of people on the bus decreases by 4, leaving 29 - 4 = 25 people on the bus.
+
+Answer: 25

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the total space available for the room: 400 square feet.
+
+Jonas wants to reserve 160 square feet for a desk and some walking space, so he has 400 - 160 = 240 square feet left for bookshelves.
+
+Each bookshelf takes up 80 square feet, so we need to know how many bookshelves can fit in the 240 square feet. 240 / 80 = 3.
+
+So, Jonas can put 3 bookshelves in the room.

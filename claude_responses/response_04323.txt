@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Sandra's dog gave birth to 7 puppies
+* The vet gave Sandra 105 portions of formula
+* The puppies need to be fed for 5 days
+
+To find out how many times a day Sandra should feed the puppies, we need to:
+1. Calculate the total number of portions the puppies need for 5 days
+2. Divide the total number of portions by the number of puppies to get the portions per puppy
+3. Divide the portions per puppy by the number of days to get the portions per puppy per day
+
+Step 1: Total portions needed for 5 days
+* 7 puppies x 5 days = 35 total puppy-days
+* 35 total puppy-days x 3 portions per day = 105 total portions needed
+
+Step 2: Portions per puppy
+* 105 total portions / 7 puppies = 15 portions per puppy
+
+Step 3: Portions per puppy per day
+* 15 portions per puppy / 5 days = 3 portions per puppy per day
+
+Therefore, Sandra should feed the puppies 3 times a day.
+
+Answer: 3

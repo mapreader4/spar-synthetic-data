@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many feet Matt will climb in 7 minutes at his rate of 6 feet per minute.
+
+Matt climbs 6 feet per minute, so in 7 minutes, he will climb 6 * 7 = 42 feet.
+
+Now, let's find out how many feet Jason will climb in 7 minutes at his rate of 12 feet per minute.
+
+Jason climbs 12 feet per minute, so in 7 minutes, he will climb 12 * 7 = 84 feet.
+
+Now, we can find the difference in the heights they will be at. Jason will climb 84 feet, which is 42 feet more than Matt.
+
+Answer: 42

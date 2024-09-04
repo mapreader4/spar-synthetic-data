@@ -1,0 +1,9 @@
+Let's start by letting x be Maxwell's current age. Then, his sister is 2 years younger than him, so her age is x - 2.
+
+The problem tells us that in 2 years, Maxwell will be twice his sister's age. So, we can set up the equation 2(x - 2) = 2(2) and solve for x:
+
+2(x - 2) = 2(2)
+x - 2 = 4
+x = 6
+
+So, Maxwell is 6 years old now.

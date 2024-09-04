@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Earl started on the first floor
+* He then went up 5 floors
+* He then went down 2 floors
+* He then went up 7 floors
+* He is now 9 floors away from the top of the building
+
+To find the total number of floors in the building, we need to add up the number of floors he has traveled:
+* Starting on the first floor
+* Went up 5 floors, so now on the 6th floor
+* Went down 2 floors, so now on the 4th floor
+* Went up 7 floors, so now on the 11th floor
+* He is 9 floors away from the top, so the total number of floors is 11 + 9 = 20
+
+Answer: 20

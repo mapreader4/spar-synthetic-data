@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The group has 20 people
+* Each person contributes an average of 10 pins per day
+* The group owner deletes 5 pins per week per person
+* The total number of pins is 1000
+
+First, let's calculate the number of pins added per day:
+* 20 people x 10 pins per day = 200 pins added per day
+
+Next, let's calculate the number of pins deleted per week:
+* 20 people x 5 pins per week = 100 pins deleted per week
+
+Now, let's calculate the number of pins added and deleted in a month (4 weeks):
+* Pins added in a month: 200 pins/day x 30 days = 6000 pins
+* Pins deleted in a month: 100 pins/week x 4 weeks = 400 pins
+
+Finally, let's calculate the total number of pins after a month:
+* Total pins = Initial pins + Pins added - Pins deleted
+* Total pins = 1000 + 6000 - 400 = 6600 pins
+
+Answer: 6600 pins

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Andy bought:
+  - 1 can of soda at $1
+  - 2 hamburgers at $2 each, so 2 x $2 = $4
+* So Andy's total spend is $1 + $4 = $5
+* Bob also spent the same amount as Andy, which is $5
+* Bob bought:
+  - 2 sandwiches at $3 each, so 2 x $3 = $6
+  - 1 can of fruit drink
+* So the cost of Bob's fruit drink must be the remaining amount to make up the $5 total, which is $5 - $6 = -$1
+* However, the cost of the fruit drink cannot be negative, so we can conclude that the cost of Bob's fruit drink must be $1.
+
+Answer: $1

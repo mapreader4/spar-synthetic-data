@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Barry stands on his head for 10 minutes at a time
+* After each 10-minute turn, he must sit for 5 minutes
+* The total time period is 2 hours, which is 120 minutes
+
+First, let's calculate the total time Barry can spend standing on his head during the 2-hour period:
+* 120 minutes - (120 minutes / 15 minutes per turn * 5 minutes of sitting) = 80 minutes
+
+Now, let's calculate how many 10-minute turns he can take during the 80 minutes:
+* 80 minutes / 10 minutes per turn = 8 turns
+
+Therefore, the number of turns Barry can take standing on his head during the 2-hour period is:
+
+Answer: 8

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many episodes they watch in a week. They watch 1 episode on Monday and 2 episodes on Wednesday, so in a week, they watch 3 episodes.
+
+To find out how many weeks it will take them to watch the whole series, we need to divide the total number of episodes (201) by the number of episodes they watch in a week (3). 
+
+So, 201 episodes / 3 episodes per week = 67.3333... (approximately) weeks.
+
+Answer: 67

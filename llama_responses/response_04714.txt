@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first identify the total number of frogs caught. We have 5 frogs with extra legs, 2 frogs with 2 heads, 2 frogs that are bright red, and 18 normal frogs. To find the total number of frogs, we add these numbers together:
+
+5 + 2 + 2 + 18 = 27
+
+So, there are 27 frogs in total.
+
+Now, let's identify the number of mutated frogs. We have 5 frogs with extra legs, which are mutated, and 2 frogs with 2 heads, which are also mutated. So, the total number of mutated frogs is 5 + 2 = 7.
+
+To find the percentage of mutated frogs, we divide the number of mutated frogs by the total number of frogs and multiply by 100:
+
+(7 / 27) * 100 = 25.9268
+
+Rounding this to the nearest integer, we get:
+
+Answer: 26

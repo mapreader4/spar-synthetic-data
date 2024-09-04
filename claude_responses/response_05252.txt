@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The survey had 120 respondents.
+2) 15% of the respondents rated Excellent.
+   * 15% of 120 = 0.15 * 120 = 18 respondents rated Excellent.
+3) 60% of the respondents rated Very Satisfactory.
+   * 60% of 120 = 0.60 * 120 = 72 respondents rated Very Satisfactory.
+4) The remaining respondents are those who did not rate Excellent or Very Satisfactory.
+   * 120 - 18 - 72 = 30 remaining respondents.
+5) 80% of the remaining 30 respondents rated Satisfactory.
+   * 80% of 30 = 0.80 * 30 = 24 respondents rated Satisfactory.
+6) The rest of the remaining respondents rated Needs Improvement.
+   * 30 - 24 = 6 respondents rated Needs Improvement.
+
+Answer: 6

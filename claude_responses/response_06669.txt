@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* There are 30 students in Jackson's third grade class
+* Each student needs:
+    - 5 pens
+    - 3 notebooks
+    - 1 binder
+    - 2 highlighters
+* The cost of each item is:
+    - Pens: $0.50 each
+    - Notebooks: $1.25 each
+    - Binders: $4.25 each
+    - Highlighters: $0.75 each
+* To calculate the total cost:
+    - Pens: 30 students x 5 pens per student x $0.50 per pen = $75
+    - Notebooks: 30 students x 3 notebooks per student x $1.25 per notebook = $112.50
+    - Binders: 30 students x 1 binder per student x $4.25 per binder = $127.50
+    - Highlighters: 30 students x 2 highlighters per student x $0.75 per highlighter = $45
+* The total cost before the teacher discount is:
+    $75 + $112.50 + $127.50 + $45 = $360
+* Jackson gets a $100 teacher discount, so the final amount he spends is:
+    $360 - $100 = $260
+
+Answer: $260

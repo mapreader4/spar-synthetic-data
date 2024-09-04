@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that Kennedy's house is 600 square feet larger than 4 times Benedict's house.
+2) We also know that Kennedy's house is 10000 square feet.
+3) Let's set up an equation to solve for the size of Benedict's house:
+   * Kennedy's house = 4 * Benedict's house + 600
+   * 10000 = 4 * Benedict's house + 600
+4) Solving for Benedict's house:
+   * 10000 - 600 = 4 * Benedict's house
+   * 9400 = 4 * Benedict's house
+   * Benedict's house = 9400 / 4
+   * Benedict's house = 2350
+
+Answer: 2350 square feet.

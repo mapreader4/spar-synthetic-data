@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The first laptop costs $500
+* The second laptop is 3 times as costly as the first laptop
+* To find the cost of the second laptop, we multiply the cost of the first laptop by 3:
+  * Cost of second laptop = $500 x 3 = $1,500
+* To find the total cost if Adam buys both laptops, we add the cost of the first laptop and the cost of the second laptop:
+  * Total cost = $500 + $1,500 = $2,000
+
+Answer: $2,000

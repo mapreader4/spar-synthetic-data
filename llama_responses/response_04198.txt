@@ -1,0 +1,16 @@
+Let's break this down step by step:
+
+1. Each box contains 8 bags of balloons.
+2. Each bag contains 12 balloons.
+3. There are 5 boxes of balloons.
+
+To find the total number of balloons, we need to multiply the number of balloons in each bag by the number of bags in each box. 
+
+Number of balloons in each bag: 12
+Number of bags in each box: 8
+
+Multiply the two numbers together:
+
+12 * 8 = 96
+
+Answer: 96

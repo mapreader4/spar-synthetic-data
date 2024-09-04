@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The book has 372 pages in total.
+2) Rich has already read 125 pages.
+3) The book has 16 pages of maps that Rich is skipping.
+4) To calculate the number of pages Rich has left to read, we need to subtract the pages he has already read and the pages he is skipping from the total number of pages in the book.
+5) 372 pages (total) - 125 pages (already read) - 16 pages (skipped) = 231 pages.
+
+Answer: 231

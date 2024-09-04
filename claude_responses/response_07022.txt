@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Suki bought 6.5 bags of coffee beans, each weighing 22 kilograms.
+   * Total weight of Suki's coffee beans = 6.5 bags x 22 kg/bag = 143 kg
+
+2. Jimmy bought 4.5 bags of coffee beans, each weighing 18 kilograms.
+   * Total weight of Jimmy's coffee beans = 4.5 bags x 18 kg/bag = 81 kg
+
+3. The total weight of all the coffee beans is the sum of Suki's and Jimmy's:
+   * Total weight of coffee beans = 143 kg + 81 kg = 224 kg
+
+4. They repackaged the coffee beans into 8-kilogram containers.
+   * Number of containers = Total weight of coffee beans / Weight per container
+   * Number of containers = 224 kg / 8 kg/container = 28 containers
+
+Answer: 28 containers

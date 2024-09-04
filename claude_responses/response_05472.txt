@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Phone repair costs $11 per repair
+* They performed 5 phone repairs
+* So, the total earnings from phone repairs is 5 * $11 = $55
+
+* Laptop repair costs $15 per repair
+* They performed 2 laptop repairs
+* So, the total earnings from laptop repairs is 2 * $15 = $30
+
+* Computer repair costs $18 per repair
+* They performed 2 computer repairs
+* So, the total earnings from computer repairs is 2 * $18 = $36
+
+Now, to calculate the total earnings for the week, we add up the earnings from each type of repair:
+* Total earnings = $55 + $30 + $36 = $121
+
+Answer: 121

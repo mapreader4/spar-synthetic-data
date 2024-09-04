@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Before the new hires:
+   - The company has 500 employees
+   - Each employee is paid $12 per hour
+   - They work 10 hours a day, 5 days a week, 4 weeks a month
+   - So, the monthly pay for each employee is:
+     - $12 per hour x 10 hours per day x 5 days per week x 4 weeks per month = $2,400 per month
+   - The total monthly pay for the 500 employees is:
+     - $2,400 per month x 500 employees = $1,200,000 per month
+
+2. After the new hires:
+   - The company hired 200 more people, so now there are 700 employees
+   - The monthly pay for each employee is still $2,400
+   - The total monthly pay for the 700 employees is:
+     - $2,400 per month x 700 employees = $1,680,000 per month
+
+Answer: $1,680,000

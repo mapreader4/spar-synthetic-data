@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of fuel Mary used this week. She used 15 gallons of fuel this week.
+
+Next, we need to find the amount of fuel she used last week. We are given that she used 20% less fuel than she used this week. So, let's find the amount of fuel she used last week. We can do this by multiplying the amount of fuel she used this week by 20%. So, we can write the equation as follows:
+
+15 * (1 - 20/100) =?
+
+To solve this equation, we can multiply 15 by (1 - 20/100), which is the same as multiplying 15 by 0.8. So, the amount of fuel she used last week is 12 gallons.
+
+Now, we need to find the total amount of fuel Mary used for the two weeks. We can do this by adding the amount of fuel she used this week and the amount of fuel she used last week. So, the total amount of fuel she used is:
+
+15 + 12 = 27
+
+Answer: 27

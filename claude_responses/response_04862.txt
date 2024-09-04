@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The exam has 60 items.
+2) Liza got 90% of the items correctly.
+3) To find the number of items Liza got correct, we multiply 60 by 0.90 (90% expressed as a decimal):
+60 * 0.90 = 54 correct answers
+4) Rose got 2 more correct answers than Liza, so Rose got 54 + 2 = 56 correct answers.
+5) To find the number of incorrect answers Rose had, we subtract the number of correct answers from the total number of items:
+60 - 56 = 4 incorrect answers.
+
+Answer: 4

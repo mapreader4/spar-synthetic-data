@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John buys 10 packs of magic cards
+* Each pack has 20 cards
+* 1/4 of the cards in each pack are uncommon
+
+First, let's calculate the total number of cards John bought:
+* 10 packs x 20 cards per pack = 200 cards
+
+Now, we need to calculate how many of those cards are uncommon. Since 1/4 of the cards in each pack are uncommon, we can calculate the number of uncommon cards per pack:
+* 1/4 of 20 cards = 5 uncommon cards per pack
+
+Finally, we can calculate the total number of uncommon cards John got:
+* 10 packs x 5 uncommon cards per pack = 50 uncommon cards
+
+Answer: 50

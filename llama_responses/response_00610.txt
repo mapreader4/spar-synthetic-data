@@ -1,0 +1,7 @@
+Let's start by identifying the number of pies that are eaten with forks. Since 68% of the pies are eaten with forks, and we know that 68% is 0.68, we can find the number of pies eaten with forks by multiplying 0.68 * 2000. 
+
+0.68 * 2000 = 1360. 
+
+So, 1360 pies are eaten with forks. 
+
+Answer: 1360

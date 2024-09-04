@@ -1,0 +1,13 @@
+Let's start by calculating the total weight of the puppies:
+
+4 puppies * 7.5 kilograms = 30 kilograms
+
+Next, let's calculate the total weight of the cats:
+
+14 cats * 2.5 kilograms = 35 kilograms
+
+To find the difference in weight between the cats and the puppies, we subtract the weight of the puppies from the weight of the cats:
+
+35 kilograms (cats) - 30 kilograms (puppies) = 5 kilograms
+
+So, the cats weigh 5 kilograms more than the puppies.

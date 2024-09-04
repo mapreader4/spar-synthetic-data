@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* 2 tablespoons of popcorn kernels makes 4 cups of popcorn
+* Joanie wants 3 cups of popcorn
+* Mitchell wants 4 cups of popcorn
+* Miles and Davis will split 6 cups of popcorn, so 3 cups each
+* Cliff wants 3 cups of popcorn
+* To calculate the total cups of popcorn needed:
+  - Joanie: 3 cups
+  - Mitchell: 4 cups
+  - Miles and Davis: 3 cups each, so 6 cups total
+  - Cliff: 3 cups
+* Total cups of popcorn needed = 3 + 4 + 6 + 3 = 16 cups
+* Since 2 tablespoons of kernels makes 4 cups of popcorn, we can use the following ratio:
+  - 2 tablespoons : 4 cups = x tablespoons : 16 cups
+* Solving for x, we get:
+  - x = (16 cups * 2 tablespoons) / 4 cups = 8 tablespoons
+
+Answer: 8 tablespoons

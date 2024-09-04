@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* John was only able to get 3 hours of sleep on 2 of the days
+* On the remaining days, he was only able to get 60% of the recommended 8 hours of sleep
+* To calculate the total sleep he got this week, we need to add up the sleep he got on the 2 days he got 3 hours, and the sleep he got on the remaining days.
+
+For the 2 days he got 3 hours of sleep:
+* 2 days x 3 hours = 6 hours
+
+For the remaining days:
+* 8 hours (recommended) x 0.6 (60%) = 4.8 hours per day
+* 5 days (remaining) x 4.8 hours = 24 hours
+
+Now, we add the two together:
+* 6 hours + 24 hours = 30 hours
+
+Therefore, the total amount of sleep John got this week is:
+Answer: 30 hours

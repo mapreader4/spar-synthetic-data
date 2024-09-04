@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* CoinRun's maximum reward is half as much as the maximum ProcGen reward of 240
+* The maximum ProcGen reward is 240
+* Therefore, the maximum CoinRun reward is 240 / 2 = 120
+* Greg's PPO algorithm obtained 90% of the possible reward on the CoinRun environment
+* Therefore, the reward obtained by Greg's PPO algorithm is 90% of 120
+* 90% of 120 = 0.9 * 120 = 108
+
+Answer: 108

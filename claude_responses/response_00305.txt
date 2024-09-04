@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Tommy wants to buy 8 new books
+* Each book costs $5
+* So the total cost of 8 books is:
+    * 8 books x $5 per book = $40
+* Tommy already has $13
+* To calculate how much more he needs to save up, we take the total cost of the books ($40) and subtract the amount he already has ($13):
+    * $40 - $13 = $27
+
+Answer: 27

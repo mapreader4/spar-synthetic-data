@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Madeline has 5 boxes with 24 crayons in each box
+* So the total number of crayons Madeline has is 5 * 24 = 120 crayons
+* In 2 of the boxes, 5/8 of the crayons were not used
+* So in those 2 boxes, the number of unused crayons is 2 * 24 * 5/8 = 30 crayons
+* In the other 2 boxes, 2/3 of the crayons were used
+* So in those 2 boxes, the number of unused crayons is 2 * 24 * 1/3 = 16 crayons
+* The last box was not entirely used, so we can assume all 24 crayons in that box were unused
+* Adding up the unused crayons from all the boxes:
+* 30 + 16 + 24 = 70 unused crayons
+
+Answer: 70

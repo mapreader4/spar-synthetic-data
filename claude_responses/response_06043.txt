@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Carlos has some gold quarters.
+2) If he spends them in a store, they are worth the regular amount (the face value of a quarter, which is $0.25).
+3) If he melts them down, he can get $100 per ounce.
+4) Each quarter weighs 1/5 of an ounce.
+5) To calculate how much money he would get from melting them down, we need to find the total weight of the quarters and multiply it by the price per ounce.
+6) If each quarter weighs 1/5 of an ounce, and he has multiple quarters, the total weight would be the number of quarters multiplied by 1/5 ounce per quarter.
+7) Let's say he has X quarters. The total weight would be X * 1/5 ounces.
+8) Multiplying the total weight by the price per ounce ($100) gives us the total amount of money he would get from melting them down: X * 1/5 * $100.
+9) If he spends them in a store, he would get the face value of each quarter, which is $0.25. The total amount he would get is X * $0.25.
+10) To find how many times more money he would get from melting them down, we divide the amount from melting them down by the amount from spending them in a store:
+(X * 1/5 * $100) / (X * $0.25) = 100/0.25 = 400.
+
+Answer: 400

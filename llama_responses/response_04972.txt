@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given:
+
+* Amanda had 7 candy bars initially.
+* She gave 3 to her sister.
+* She bought 30 more candy bars with the prize money.
+* She gave her sister 4 times as many candy bars as she did the first time.
+
+Let's calculate the number of candy bars Amanda kept for herself.
+
+First, let's find out how many candy bars Amanda gave to her sister the second time around. She gave her sister 4 times as many candy bars as she did the first time, which was 3. So, she gave her sister 3 * 4 = 12 candy bars the second time around.
+
+Now, let's find the total number of candy bars Amanda gave to her sister. She gave 3 the first time and 12 the second time. So, the total number of candy bars she gave to her sister is 3 + 12 = 15.
+
+Finally, let's subtract the number of candy bars Amanda gave to her sister from the total number of candy bars she had initially. Amanda had 7 candy bars initially, and she gave away 15. So, the number of candy bars Amanda kept for herself is 7 - 15 = -8.
+
+Answer: 8

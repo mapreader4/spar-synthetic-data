@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Darryl started the day with 30 cantaloupes and 27 honeydews
+* He accidentally dropped a couple of cantaloupes, so let's say he had 28 cantaloupes left
+* 3 of the honeydews turned out to be rotten, so he had 24 good honeydews left
+* At the end of the day, he had 8 cantaloupes and 9 honeydews left
+* So he sold:
+    - 28 - 8 = 20 cantaloupes
+    - 24 - 9 = 15 honeydews
+* Cantaloupes are $2 each, so he made:
+    - 20 cantaloupes x $2 = $40
+* Honeydews are $3 each, so he made:
+    - 15 honeydews x $3 = $45
+* Total money made:
+    - $40 + $45 = $85
+
+Answer: $85

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 120 cats in the village.
+2) One-third of all the cats in the village have spots. To find the number of spotted cats, we take one-third of 120:
+   * 120 / 3 = 40 spotted cats
+3) One-quarter of the spotted cats in the village are fluffy. To find the number of spotted and fluffy cats, we take one-quarter of the 40 spotted cats:
+   * 40 / 4 = 10 spotted and fluffy cats
+
+Answer: 10

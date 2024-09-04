@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Hannah has 40 mugs in 4 different colors.
+* She has 3 times more blue mugs than red mugs.
+* She has 12 yellow mugs.
+* She has half as many red mugs as yellow mugs.
+
+Let's start by identifying the number of red mugs. Since she has 12 yellow mugs, and she has half as many red mugs, then she must have 12/2 = 6 red mugs.
+
+Now, she has 3 times more blue mugs than red mugs, so the number of blue mugs is 6 + 3 = 9.
+
+The number of red mugs and blue mugs combined is 6 + 9 = 15. Since there are 4 colors in total, and we've accounted for 15 mugs, the number of mugs of another color must be 40 - 15 = 25.
+
+Answer: 25

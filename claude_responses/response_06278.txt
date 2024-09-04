@@ -1,0 +1,21 @@
+To solve this problem, we need to find the total number of pies sold by Milton during the weekend.
+
+Given information:
+- Milton cuts the apple pie into 8 slices.
+- Milton cuts the peach pie into 6 slices.
+- 56 customers ordered apple pie slices.
+- 48 customers ordered peach pie slices.
+
+Step 1: Calculate the number of apple pies sold.
+Number of apple pies sold = Total apple pie slices ordered / Number of slices per apple pie
+Number of apple pies sold = 56 / 8 = 7 apple pies
+
+Step 2: Calculate the number of peach pies sold.
+Number of peach pies sold = Total peach pie slices ordered / Number of slices per peach pie
+Number of peach pies sold = 48 / 6 = 8 peach pies
+
+Step 3: Calculate the total number of pies sold.
+Total pies sold = Number of apple pies sold + Number of peach pies sold
+Total pies sold = 7 + 8 = 15 pies
+
+Answer: 15 pies

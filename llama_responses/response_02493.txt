@@ -1,0 +1,5 @@
+To find the number of eggs needed, we need to subtract the number of eggs already available from the number of eggs required in the recipe.
+
+The recipe requires 2 eggs for 4 people, so for 8 people, the number of eggs required is 2 * 2 = 4. Tyler has 3 eggs, so the number of eggs he needs to buy is 4 - 3 = 1.
+
+Answer: 1

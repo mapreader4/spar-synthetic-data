@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+1. Marge planted 23 seeds in her garden.
+2. 5 of the seeds never grew into plants, so the number of seeds that did grow is 23 - 5 = 18.
+3. A third of the remaining 18 seeds grew, which is 18 / 3 = 6 plants.
+4. The 6 plants were then eaten by squirrels and rabbits, leaving 0 plants.
+5. A third of the 18 uneaten plants were strangled by weeds, which is 18 / 3 = 6 plants.
+6. Marge pulled two weeds, but liked the flowers on one weed and let that plant grow as part of her garden, so the final number of plants Marge ended up with is 6 - 2 + 1 = 5.
+
+Answer: 5

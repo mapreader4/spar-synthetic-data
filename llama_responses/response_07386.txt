@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information: "The number of men and women is equal." This tells us that the number of men and the number of women on the airplane is equal. This means that if we add the number of men and women together, we will get the total number of adults. The problem statement also tells us that the rest of the passengers are children. This means that the total number of passengers minus the number of adults will give us the number of children.
+
+Let's let's say the number of men is x. Since the number of men and women is equal, we can set up an equation to solve for x.
+
+x + x = 80 - children
+
+We know that the total number of passengers is 80, so we can set up an equation to solve for x.
+
+x + x = 80
+
+To solve for x, we can subtract 80 by x from both sides of the equation.
+
+x = 80 - x
+
+To find the number of children, we can subtract 80 by x from both sides of the equation.
+
+x = 80 - 80
+
+x = 0
+
+So, there are 0 children on the airplane.

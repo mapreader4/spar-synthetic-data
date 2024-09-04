@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* The spaceship traveled for 10 hours, then stopped for 3 hours
+* It then traveled for another 10 hours, then stopped for 1 hour
+* After this, the spaceship would take an hour's break after every 11 hours of traveling and maintained this routine until the end of its journey
+* The entire journey took 3 days, which is 72 hours
+
+Now, let's calculate the total time the spaceship was not moving:
+* The first two stops were 3 hours and 1 hour, respectively, for a total of 4 hours
+* After that, the spaceship would take an hour's break after every 11 hours of traveling
+* In 72 hours, there are 72 / 11 = 6.545 cycles of 11 hours of traveling and 1 hour of break
+* Rounding down, there are 6 cycles, which means 6 hours of break time
+* So the total time the spaceship was not moving is 4 hours + 6 hours = 10 hours
+
+Answer: 10 hours

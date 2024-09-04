@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+Let's start by identifying the number of pills that cost $1.50 each: 4 pills.
+Let's multiply the number of pills that cost $1.50 each by their cost: 4 * 1.50 = 6.00.
+Let's identify the number of pills that cost $5.50 each: 9 - 4 = 5.
+Let's multiply the number of pills that cost $5.50 each by their cost: 5 * 5.50 = 27.50.
+Now, let's add the cost of the pills that cost $1.50 each and the cost of the pills that cost $5.50 each: 6.00 + 27.50 = 33.50.
+
+So, Henry spent a total of $33.50 on the pills.

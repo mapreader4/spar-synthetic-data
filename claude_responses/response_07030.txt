@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Sally scoops 32 cherry sours into a bag.
+2) Then she gets a scoop of lemon sours, and the ratio of cherry sours to lemon sours is 4:5.
+   - This means that for every 4 cherry sours, there are 5 lemon sours.
+   - Since there are 32 cherry sours, we can calculate the number of lemon sours:
+   - 32 cherry sours / 4 = 8 sets of 4 cherry sours
+   - 8 sets of 4 cherry sours means there are 8 sets of 5 lemon sours
+   - 8 sets of 5 lemon sours = 40 lemon sours
+3) Then she gets a scoop of orange sours, and they make up 25% of the sours in the bag.
+   - The total number of sours in the bag is 32 cherry sours + 40 lemon sours + the number of orange sours.
+   - The orange sours make up 25% of the total, so we can calculate the total:
+   - Let x = the number of orange sours
+   - x / (32 + 40 + x) = 0.25
+   - Solving for x, we get x = 24 orange sours
+4) The total number of sours in the bag is:
+   - 32 cherry sours + 40 lemon sours + 24 orange sours = 96 sours
+
+Answer: 96

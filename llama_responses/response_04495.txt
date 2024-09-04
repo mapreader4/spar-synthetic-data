@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Step 1: Let's start with the initial population, which is 100,000 people.
+
+Step 2: The population increases by 60% over 10 years due to birth. To find this increase, we need to multiply the initial population by 1.6 (100% + 60% = 160%).
+
+Step 3: The population increases by 2000 people per year from emigration. Since this is over a period of 10 years, the total decrease is 2000 * 10 = 20,000 people.
+
+Step 4: The population also increases by 2500 people per year from immigration. Since this is over a period of 10 years, the total increase is 2500 * 10 = 25,000 people.
+
+Step 5: To find the total change in population, we need to add the increase due to birth (160,000) and the increase due to immigration (25,000) and subtract the decrease due to emigration (20,000).
+
+Step 6: 160,000 + 25,000 - 20,000 = 165,000.
+
+Answer: 165,000

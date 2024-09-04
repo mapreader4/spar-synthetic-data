@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The camping site recorded a total of 150 campers for the past three weeks
+* Two weeks ago, there were 40 campers
+* The number of campers two weeks ago (40) was 10 more than the number of campers three weeks ago
+* To find the number of campers three weeks ago, we can subtract 10 from the number of campers two weeks ago:
+    - Number of campers three weeks ago = 40 - 10 = 30
+* Now, we need to find the number of campers last week. We know the total number of campers for the past three weeks is 150, and we know the number of campers two weeks ago (40) and three weeks ago (30). 
+* To find the number of campers last week, we can subtract the number of campers two weeks ago and three weeks ago from the total:
+    - Number of campers last week = 150 - 40 - 30 = 80
+
+Answer: 80

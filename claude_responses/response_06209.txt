@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* At the beginning of spring, Gilbert planted:
+    - 3 basil bushes
+    - 1 parsley plant
+    - 2 kinds of mint (let's assume 2 mint plants)
+* So, the total number of plants at the beginning of spring was:
+    - 3 basil + 1 parsley + 2 mint = 6 plants
+* Halfway through spring, one of the basil plants dropped seeds and grew an extra basil plant.
+    - So now there are 4 basil plants
+* Near the end of spring, a rabbit ate all the mint plants.
+    - So now there are 4 basil plants and 1 parsley plant.
+
+Answer: 5

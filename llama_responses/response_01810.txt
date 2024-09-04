@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Heisenberg earns $80 from 100 mg amoxicillin and $60 from 500 mg amoxicillin every week. This means that in one week, he earns a total of $80 + $60 = $140.
+
+He earns this money from selling amoxicillin capsules. We know that each 100 mg amoxicillin capsule costs $5 and each 500 mg amoxicillin capsule costs $2. Let's first find the total cost of all the 100 mg amoxicillin capsules he sells. We can do this by multiplying the cost per capsule by the number of capsules. 100 mg amoxicillin capsules cost $5 each, so the total cost is 100 x $5 = $500. Similarly, 500 mg amoxicillin capsules cost $2 each, so the total cost is 500 x $2 = $1000.
+
+Now, let's find the number of 100 mg amoxicillin capsules he sells. We know the total amount of money he earns from 100 mg amoxicillin capsules is $80. We also know the total cost of 100 mg amoxicillin capsules is $500. We can set up an equation to represent this information:
+
+$80 = 100 x $5
+
+We can solve this equation by dividing both sides by $5:
+
+80 ÷ 5 = 16
+
+He sells 16 100 mg amoxicillin capsules.
+
+Now, let's find the number of 500 mg amoxicillin capsules he sells. We know the total amount of money he earns from 500 mg amoxicillin capsules is $60. We also know the total cost of 500 mg amoxicillin capsules is $1000. We can set up an equation to represent this information:
+
+$60 = 500 x $2
+
+We can solve this equation by dividing both sides by $2:
+
+30 ÷ 2 = 15
+
+He sells 15 500 mg amoxicillin capsules.
+
+In two weeks, he sells 16 100 mg amoxicillin capsules and 15 500 mg amoxicillin capsules. The total number of capsules sold is 16 + 15 = 31.

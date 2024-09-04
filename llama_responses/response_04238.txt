@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Luca's original sandwich cost $8, but he had a coupon for a quarter of the price off. So, the discounted price is 8 - (1/4) * 8 = 6.
+
+Luca then upgraded his sandwich with sliced avocado for an extra dollar, so the new price is 6 + 1 = 7.
+
+Adding a drink and a $3 salad, the total lunch bill is 7 + 3 = 10.
+
+The question asks how much Luca paid for his drink. The drink is 10 - 7 = 3.

@@ -1,0 +1,18 @@
+Okay, let's think this through step-by-step:
+* Let's define the variables:
+  - Let x = the number of quarters
+  - Let y = the number of dimes
+  - Let z = the number of nickels
+* We know that:
+  - y = x + 3 (John has 3 more dimes than quarters)
+  - z = x - 6 (John has 6 fewer nickels than quarters)
+* We also know that the total number of coins is 63:
+  - x + y + z = 63
+* Substituting the expressions for y and z, we get:
+  - x + (x + 3) + (x - 6) = 63
+  - 3x - 3 = 63
+  - 3x = 66
+  - x = 22
+* Therefore, John has 22 quarters.
+
+Answer: 22

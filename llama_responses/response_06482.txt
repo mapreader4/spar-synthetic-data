@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of male turtles. Since 100% of the turtles are either male or female, and 60% are female, that means the remaining 100 - 60 = 40 are male.
+
+Of the male turtles, 1 in 4 have stripes. So, to find the number of male turtles with stripes, we can multiply 40 (the number of male turtles) by 1/4, which gives us 10.
+
+Of the turtles with stripes, 4 are babies, and 60% are adults. Since 4 is a part of the 10, we can multiply 10 by 60/100 to find the total number of turtles with stripes that are adults: 10 * 3/5 = 6.
+
+Now, we can add the number of turtles with stripes that are babies and the number of turtles with stripes that are adults to get the total number of turtles with stripes: 4 + 6 = 10.
+
+Finally, to find the total number of turtles in the lake, we can add the number of turtles without stripes to the number of turtles with stripes: 40 + 10 = 50.
+
+Answer: 50

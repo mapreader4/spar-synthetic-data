@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the distance that Briar needs to travel. The event is 200 miles away from his home.
+
+Next, we need to find the total distance Briar needs to travel to and from the event, since it is a round trip. The total distance is 200 miles to the event, so the total distance is 2 x 200 = 400 miles.
+
+Now, we know that the cab ride costs $2.5 per mile. To find the total cost of the cab rides, we multiply the total distance by the cost per mile. So, the total cost is 400 miles x $2.5 per mile = $10.00.
+
+Answer: 10

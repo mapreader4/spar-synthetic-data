@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Kohen orders 10 boxes of apples per week.
+2) Each box has 300 apples.
+3) So the total number of apples Kohen orders per week is:
+10 boxes x 300 apples per box = 3,000 apples
+4) Kohen sells 3/4 of his stock in a certain week.
+5) This means that 1/4 of the stock is not sold.
+6) The total number of apples not sold is 1/4 of the 3,000 apples ordered that week.
+7) 1/4 of 3,000 apples = 3,000 * 1/4 = 750 apples.
+
+Answer: 750 apples

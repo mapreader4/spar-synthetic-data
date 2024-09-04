@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Initially, Jamie had 16 red balls and two times more blue balls. This means he had 2 x 16 = 32 blue balls.
+2) Later, he lost 6 of the red balls, so he had 16 - 6 = 10 red balls remaining.
+3) The total number of balls he had after losing the 6 red balls was 10 red + 32 blue = 42 balls.
+4) After this, he bought some yellow balls to fill up his collection, and the total number of balls he had was 74.
+5) To find the number of yellow balls he bought, we need to subtract the number of red and blue balls from the total number of balls:
+74 - (10 red + 32 blue) = 74 - 42 = 32 yellow balls.
+
+Answer: 32

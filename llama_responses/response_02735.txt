@@ -1,0 +1,39 @@
+Let's break down the problem step by step.
+
+Step 1: Calculate the number of regular hours worked in the first week. Bob works 44 hours in the first week. The regular rate for regular hours is $5 per hour. So, the amount of money earned for regular hours in the first week is:
+
+44 hours x $5 per hour = 44 x 5 = $220
+
+Step 2: Calculate the number of overtime hours worked in the first week. Bob works 44 hours in the first week, but 40 hours are regular hours. So, the number of overtime hours is:
+
+44 hours - 40 hours = 4 hours
+
+Step 3: Calculate the amount of money earned for overtime hours in the first week. The overtime rate is $6 per hour, and the number of overtime hours is 4. So, the amount of money earned for overtime in the first week is:
+
+4 hours x $6 per hour = 4 x 6 = $24
+
+Step 4: Calculate the total amount earned in the first week. The amount earned for regular hours is $220, and the amount earned for overtime is $24. So, the total amount earned in the first week is:
+
+$220 + $24 = $244
+
+Step 5: Calculate the number of regular hours worked in the second week. Bob works 48 hours in the second week. The regular rate for regular hours is $5 per hour. So, the amount of money earned for regular hours in the second week is:
+
+48 hours x $5 per hour = 48 x 5 = $240
+
+Step 6: Calculate the number of overtime hours worked in the second week. Bob works 48 hours in the second week, but 40 hours are regular hours. So, the number of overtime hours is:
+
+48 hours - 40 hours = 8 hours
+
+Step 7: Calculate the amount of money earned for overtime hours in the second week. The overtime rate is $6 per hour, and the number of overtime hours is 8. So, the amount of money earned for overtime in the second week is:
+
+8 hours x $6 per hour = 8 x 6 = $48
+
+Step 8: Calculate the total amount earned in the second week. The amount earned for regular hours is $240, and the amount earned for overtime is $48. So, the total amount earned in the second week is:
+
+$240 + $48 = $288
+
+Step 9: Calculate the total amount earned in both weeks. The total amount earned in the first week is $244, and the total amount earned in the second week is $288. So, the total amount earned in both weeks is:
+
+$244 + $288 = $532
+
+Answer: 532

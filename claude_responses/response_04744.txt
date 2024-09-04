@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The team has 12 linemen, and each lineman drinks 8 ounces of water during the first water break.
+2) 12 linemen x 8 ounces = 96 ounces of water consumed by the linemen.
+3) The team has 10 skill position players, and each skill position player drinks 6 ounces of water during the second water break.
+4) 10 skill position players x 6 ounces = 60 ounces of water consumed by the skill position players.
+5) The total water consumed is 96 ounces (linemen) + 60 ounces (skill position players) = 156 ounces.
+6) The cooler holds 126 ounces of water.
+7) The amount of water remaining in the cooler is 126 ounces - 156 ounces = -30 ounces.
+8) Since the cooler is empty, the remaining 10 skill position players must wait for the cooler to be refilled before they can get a drink.
+
+Answer: 10

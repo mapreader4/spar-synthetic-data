@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Let's define the variables:
+  - Diaz's age is represented by 'x'
+  - Sierra's age is represented by '30'
+* The problem statement says:
+  - 40 less than 10 times Diaz's age is 20 more than 10 times Sierra's age
+* We can represent this mathematically as:
+  - 10x - 40 = 10(30) + 20
+  - 10x - 40 = 320 + 20
+  - 10x - 40 = 340
+  - 10x = 380
+  - x = 38
+* Therefore, Diaz's current age is 38 years old.
+* The problem also asks how old Diaz will be 20 years from now.
+* So, Diaz's age 20 years from now will be:
+  - 38 + 20 = 58 years old.
+
+Answer: 58

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. We know that each movie on the Hallmark channel lasts 90 minutes.
+2. On Tuesday, Grandpa Lou watched movies for a total of 4 hours and 30 minutes.
+   * 4 hours and 30 minutes = 270 minutes
+   * Since each movie is 90 minutes long, we can divide 270 by 90 to find the number of movies he watched on Tuesday.
+   * 270 minutes / 90 minutes per movie = 3 movies
+
+3. On Wednesday, Grandpa Lou watched twice as many movies as he did on Tuesday.
+   * If he watched 3 movies on Tuesday, then he watched 2 x 3 = 6 movies on Wednesday.
+
+4. To find the maximum number of movies Grandpa Lou could have watched during these two days, we add the number of movies he watched on Tuesday (3) and the number of movies he watched on Wednesday (6).
+   * 3 movies + 6 movies = 9 movies
+
+Answer: 9 movies

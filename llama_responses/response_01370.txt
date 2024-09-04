@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Hannah's son can cut 3 strands per minute.
+* Hannah can cut 8 strands per minute.
+
+To find the total number of strands that Hannah's son can cut in one minute, we multiply the number of strands per minute by the number of minutes:
+
+3 strands per minute x 1 minute = 3
+
+So, Hannah's son can cut 3 strands in one minute.
+
+Now, Hannah's son is stuck to a chair with 22 strands of duct tape. We need to find the number of minutes it will take them to free him.
+
+Let's divide the total number of strands by the number of strands that Hannah's son can cut in one minute:
+
+22 strands ÷ 3 strands per minute = 22 ÷ 3 = 7.33
+
+So, it will take them approximately 7.33 minutes to free her younger son.

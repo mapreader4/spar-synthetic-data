@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sam has 3 German Shepherds and 4 French Bulldogs
+* Peter wants to buy:
+  - 3 times as many German Shepherds as Sam has
+  - 2 times as many French Bulldogs as Sam has
+* To calculate the number of German Shepherds Peter wants to buy:
+  - Sam has 3 German Shepherds
+  - Peter wants 3 times as many, so that's 3 x 3 = 9 German Shepherds
+* To calculate the number of French Bulldogs Peter wants to buy:
+  - Sam has 4 French Bulldogs
+  - Peter wants 2 times as many, so that's 2 x 4 = 8 French Bulldogs
+* To get the total number of dogs Peter wants to have, we add the German Shepherds and French Bulldogs:
+  - 9 German Shepherds + 8 French Bulldogs = 17 dogs
+
+Answer: 17

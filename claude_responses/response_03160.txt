@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* James had two browsers on his computer
+* In each browser, he opened three windows
+* Each window had ten tabs
+* So, for each browser:
+  - 3 windows
+  - 10 tabs per window
+  - 3 windows x 10 tabs per window = 30 tabs per browser
+* Since James had two browsers, the total number of tabs is:
+  - 2 browsers x 30 tabs per browser = 60 tabs
+
+Answer: 60

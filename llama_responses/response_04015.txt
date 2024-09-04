@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Initially, Jackson gets 15 emails. Then, he deletes 50 emails. So, the number of emails he has left is 15 - 50 = -35. But, he gets 15 more emails, so now he has -35 + 15 = -20 emails.
+
+Next, he deletes 20 more emails. So, the number of emails he has left is -20 - 20 = -40. But, he gets 5 more emails, so now he has -40 + 5 = -35 emails.
+
+Finally, he gets 10 more emails, so now he has -35 + 10 = -25 emails.
+
+Answer: -25

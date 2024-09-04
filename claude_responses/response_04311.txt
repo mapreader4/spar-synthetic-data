@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* There are 5 bananas on the display
+* There are twice as many oranges as bananas, so the number of oranges is 2 x 5 = 10
+* There are twice as many apples as oranges, so the number of apples is 2 x 10 = 20
+* To find the total number of fruits on the display, we add the number of apples, oranges, and bananas:
+* Total fruits = 20 apples + 10 oranges + 5 bananas = 35 fruits
+
+Answer: 35

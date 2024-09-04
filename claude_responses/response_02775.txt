@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Jack's head circumference is 12 inches.
+2. Charlie's head circumference is 9 inches more than half the circumference of Jack's head.
+   - Half of Jack's head circumference is 12 / 2 = 6 inches.
+   - Charlie's head circumference is 6 + 9 = 15 inches.
+3. Bill's head circumference is 2/3 the circumference of Charlie's head.
+   - Charlie's head circumference is 15 inches.
+   - Bill's head circumference is 2/3 * 15 = 10 inches.
+
+Answer: 10 inches

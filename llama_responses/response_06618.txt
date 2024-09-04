@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Martha buys 4 jackets. For every 2 jackets, she gets 1 free jacket. So, she will get 2 free jackets for buying 4 jackets. So, the total number of jackets she will take home is 4 + 2 = 6 jackets.
+
+Martha buys 9 t-shirts. For every 3 t-shirts, she gets 1 free t-shirt. So, she will get 3 free t-shirts for buying 9 t-shirts. So, the total number of t-shirts she will take home is 9 + 3 = 12 t-shirts.
+
+In total, Martha will take home 6 jackets and 12 t-shirts. 
+
+Answer: 18

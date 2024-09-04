@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The standard price of a pound of strawberries is $20.
+* The three friends, Sally, Jenny, and Moses, paid $128 for their harvest.
+* The entrance fee to access the strawberry fields is $4 per person.
+* The three friends are picking strawberries as many as they wish, and then take them to Miguel for weighing and pricing.
+
+Let's use the information given to create an equation to solve the problem.
+
+Let's assume that the total number of pounds of strawberries is x.
+
+The cost of the harvest is $128, which is the total amount the friends paid.
+
+The entrance fee is $4 per person, so the total entrance fee for the three friends is 3 * 4 = $12.
+
+The total cost of the strawberries is the cost of the harvest minus the entrance fee, which is 128 - 12 = 116.
+
+Now, we need to find the number of pounds of strawberries. We know that the cost of a pound of strawberries is $20, so we can divide the total cost by the cost of a pound to find the total number of pounds.
+
+116 / 20 = 5.8
+
+Answer: 5.8

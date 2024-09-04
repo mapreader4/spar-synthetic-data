@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Debra interviews 3 singers each week
+* The first interview segment is twice as long as the other two segments combined
+* The third interview segment is half as long as the second
+* The third segment is 10 minutes long
+
+Let's start with the third segment, which is 10 minutes long.
+* The third segment is half as long as the second segment
+* So the second segment must be 2 x 10 = 20 minutes long
+
+Now, the first segment is twice as long as the other two segments combined.
+* The other two segments are 10 minutes and 20 minutes, so they are 30 minutes combined
+* The first segment is twice as long, so it must be 2 x 30 = 60 minutes long
+
+Now we can calculate the total length of the show:
+* First segment: 60 minutes
+* Second segment: 20 minutes
+* Third segment: 10 minutes
+* Total length of the show: 60 + 20 + 10 = 90 minutes
+
+Answer: 90

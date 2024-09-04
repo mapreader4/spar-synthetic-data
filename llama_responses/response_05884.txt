@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of track medals Jameson has: 5.
+
+He has two times as many swimming medals as track medals, so that's 5 * 2 = 10 medals.
+
+He has 20 medals in total. 5 + 10 = 15. So, he has 15 track medals.
+
+The rest of the medals are for badminton. So, the number of badminton medals is 20 - 15 = 5.
+
+Answer: 5

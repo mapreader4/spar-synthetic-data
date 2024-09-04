@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+There are 16 players in the team, so the number of pieces of equipment is 16. Each piece of equipment consists of a $25 jersey, a $15.20 pair of shorts and a pair of socks at $6.80. So, for each player, the cost of the equipment is $25 + $15.20 + $6.80 = $46.80. The total cost of the equipment for all the players is 16 x $46.80 = $748.80.
+
+Answer: 748.80

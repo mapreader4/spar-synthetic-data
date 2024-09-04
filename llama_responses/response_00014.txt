@@ -1,0 +1,23 @@
+Let's break this down step by step:
+
+Let's start by finding how many pages Joy can read in 20 minutes. If she can read 8 pages in 20 minutes, then we can find the rate at which she reads.
+
+20 minutes = 20 * 60 minutes = 1200 seconds (since 1 minute = 60 seconds)
+
+In this time, she can read 8 pages, so we can find the number of seconds per page:
+
+1200 seconds / 8 pages = 150 seconds per page
+
+Now, let's convert this to minutes:
+
+150 seconds = 150 / 60 = 2.5 minutes per page
+
+Now we can find how many minutes it will take Joy to read 120 pages:
+
+120 pages * 2.5 minutes per page = 300 minutes
+
+Since there are 60 minutes in an hour, we can convert this to hours:
+
+300 minutes = 300 / 60 = 5 hours
+
+So, the answer is: Answer: 5

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+The bus takes 40 minutes to drive 80 miles. So the speed of the bus is 80 miles per 40 minutes, which is 2 miles per minute. Since the car is 5 times faster than the bus, the speed of the car is 5 times that of the bus. So the car's speed is 10 miles per minute.
+
+The time taken by the car to drive 80 miles is the same as the time taken by the bus to drive 80 miles. The time taken is 80 divided by the speed of the car. 80 / 10 = 8.
+
+The time taken by the car to make a round trip is the sum of the time taken to drive to the beach and the time taken to drive back from the beach. 2 * 8 = 16.
+
+Answer: 16

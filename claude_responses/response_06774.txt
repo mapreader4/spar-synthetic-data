@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) We are given that 15% of the cars cost less than $15000 and 40% of the cars cost more than $20000.
+2) This means that the remaining 45% of the cars must cost between $15000 and $20000.
+3) The total number of cars at the dealership is 3000.
+4) 15% of 3000 is 0.15 * 3000 = 450 cars that cost less than $15000.
+5) 40% of 3000 is 0.40 * 3000 = 1200 cars that cost more than $20000.
+6) The remaining 45% of 3000 is 0.45 * 3000 = 1350 cars that cost between $15000 and $20000.
+
+Answer: 1350

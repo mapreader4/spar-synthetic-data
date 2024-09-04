@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Allison uploads 10 one-hour videos each day
+* She uploaded videos halfway through June, which is 15 days
+* So, for the first 15 days, she uploaded 10 videos per day, which is 10 hours per day
+* Therefore, for the first 15 days, she uploaded a total of 10 hours x 15 days = 150 hours
+* For the remaining 15 days of the month, she doubled the number of video hours she uploaded
+* So, for the remaining 15 days, she uploaded 20 hours per day
+* Therefore, for the remaining 15 days, she uploaded a total of 20 hours x 15 days = 300 hours
+* To get the total number of video hours she has uploaded at the end of the month, we add the hours from the first 15 days and the remaining 15 days:
+* 150 hours + 300 hours = 450 hours
+
+Answer: 450

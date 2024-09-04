@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+* Mr. John jogs for 1 hour 30 minutes every day
+* There are 7 days in a week
+* We need to find the total time spent jogging after two weeks
+* First, let's calculate the time spent jogging in one week:
+  * 1 hour 30 minutes per day
+  * 7 days in a week
+  * 1 hour 30 minutes x 7 days = 10 hours 30 minutes
+* Now, to find the time spent jogging after two weeks:
+  * 10 hours 30 minutes x 2 weeks = 21 hours
+
+Answer: 21 hours

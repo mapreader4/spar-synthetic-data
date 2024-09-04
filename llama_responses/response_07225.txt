@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by finding the distance traveled in normal space. The spacecraft travels 2 billion miles per hour in normal space. If it takes 7 hours to travel in normal space, we can find the distance by multiplying the speed by the time:
+
+Distance = Speed * Time
+= 2,000,000,000 * 7
+= 14,000,000,000
+
+The spacecraft would travel 14 billion miles in normal space.
+
+Now, when it enters the black hole, it travels three times as fast. So, the speed in the black hole is 2 * 3 = 6,000,000,000 miles per hour. The time it takes to travel through the black hole is 2 hours. So, we can find the distance traveled in the black hole by multiplying the speed by the time:
+
+Distance = Speed * Time
+= 6,000,000,000 * 2
+= 12,000,000,000
+
+The spacecraft would travel 12 billion miles through the black hole.
+
+Finally, we add the distances traveled in normal space and the black hole together to find the total distance traveled:
+
+Total Distance = Normal Distance + Distance in Black Hole
+= 14,000,000,000 + 12,000,000,000
+= 26,000,000,000
+
+Answer: 26,000,000,000

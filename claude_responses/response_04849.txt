@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* It takes 30 minutes to groom a poodle
+* It takes half as much time to groom a terrier as it takes to groom a poodle
+* So, it takes 15 minutes to groom a terrier (half of 30 minutes)
+* The pet shop is grooming 3 poodles and 8 terriers
+* To find the total time, we need to calculate the time for the poodles and the time for the terriers, then add them together
+
+Time for poodles:
+* 3 poodles x 30 minutes per poodle = 90 minutes
+
+Time for terriers:
+* 8 terriers x 15 minutes per terrier = 120 minutes
+
+Total time:
+* 90 minutes (poodles) + 120 minutes (terriers) = 210 minutes
+
+Answer: 210

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of red balls. A quarter of the 360 balls are red. To find a quarter of 360, we can multiply 360 by 0.25. 0.25 * 360 = 90.
+
+Next, let's identify the number of blue balls. A fifth of the remaining balls are blue. To find a fifth of the total number of balls minus the number of red balls, we need to subtract 90 from 360. 360 - 90 = 270.
+
+Now, let's find the number of balls that are neither red nor blue. To do this, we need to subtract the number of red balls and blue balls from the total number of balls. 360 - (90 + 270) = 360 - 360 = 0.
+
+Answer: 0

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Madeline got 2 mistakes
+* Madeline's mistakes are half as many as Leo's mistakes
+* Let's say Leo has x mistakes
+* Since Madeline's mistakes are half as many as Leo's, Madeline has x/2 mistakes
+* Brent scored 25 and has 1 more mistake than Leo
+* So Brent has x+1 mistakes
+
+Now, we can set up an equation to solve for x:
+* Brent's score = 25
+* Brent's mistakes = x+1
+* Therefore, Brent's correct answers = 25 - (x+1) = 24
+
+Since Brent has 24 correct answers, and Madeline has x/2 mistakes, we can calculate Madeline's score:
+* Madeline's score = 25 - x/2
+
+Therefore, the answer is:
+Answer: 23

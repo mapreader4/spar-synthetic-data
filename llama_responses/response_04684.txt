@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's let the amount of rain in the first hour be x.
+
+The amount of rain in the second hour is 7 more than twice the amount it rained the first hour. So, we can write an equation to represent this: x + 7 = 2x.
+
+We know that the total amount of rain in the first two hours is 22 inches. So, we can write an equation to represent this: x + 7 + x = 22.
+
+We can subtract 7 from both sides of the equation to get: x = 15.
+
+So, the amount of rain in the first hour is 15 inches.

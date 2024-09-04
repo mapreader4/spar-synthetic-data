@@ -1,0 +1,15 @@
+To find the number of pens left for Lenny, we can start by finding the total number of pens Lenny had initially.
+
+Lenny had 20 boxes of pens, and each box contains 5 pens, so the total number of pens Lenny had is:
+
+20 * 5 = 100
+
+Lenny gave 40% of the pens to her close friends, which is 0.4 * 100 = 40 pens.
+
+Lenny gave one-fourth of the remaining pens to her classmates. To find this, we need to find one-fourth of 60 pens. To find one-fourth of 60 pens, we multiply 60 by 1/4, which is 15.
+
+So, Lenny gave 40 pens to her friends and 15 pens to her classmates. So, we need to subtract 40 + 15 from the initial 100 pens to find the number of pens left for Lenny.
+
+100 - 40 - 15 = 45
+
+Answer: 45

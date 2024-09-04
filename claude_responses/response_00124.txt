@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The first ball is half the size of the second ball
+* The third ball is three times as large as the first ball
+* The third ball used 27 feet of yarn
+
+First, we can find the size of the first ball:
+* The third ball is three times as large as the first ball
+* So, the first ball used 1/3 of the 27 feet of yarn used for the third ball
+* 27 feet / 3 = 9 feet of yarn used for the first ball
+
+Next, we can find the size of the second ball:
+* The first ball is half the size of the second ball
+* So, the second ball used 2 times the amount of yarn as the first ball
+* 9 feet x 2 = 18 feet of yarn used for the second ball
+
+Answer: 18 feet

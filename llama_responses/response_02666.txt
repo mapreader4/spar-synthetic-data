@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of apples in the group. We have Jim's apples, Jane's apples, and Jerry's apples. So, we add them up: 20 + 60 + 40 = 120.
+
+Now, we need to find the average number of apples for a person in the group. Since we are not given the total number of people in the group, we will assume that we are talking about an average number of apples for one person. So, we will divide the total number of apples by 1 to get the average.
+
+So, 120 divided by 1 is 120. Therefore, Jim's number of apples can fit into the average amount of apples for a person in the group 120 times.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There were 10 students who bought pencils
+* The first 2 students bought 2 pencils each, so that's 2 x 2 = 4 pencils
+* The next 6 students bought 3 pencils each, so that's 6 x 3 = 18 pencils
+* The last 2 students bought 1 pencil each, so that's 2 x 1 = 2 pencils
+* To get the total number of pencils sold, we add up the pencils from each group:
+4 + 18 + 2 = 24 pencils
+
+Answer: 24

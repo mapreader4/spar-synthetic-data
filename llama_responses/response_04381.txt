@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the area of the unfolded blankets. Since each blanket has an area of 8 x 8 = 64 square feet, we know that the total area of the three blankets is 3 x 64 = 192 square feet.
+
+Now, let's think about how many times we need to fold the blankets to get from 192 square feet to 48 square feet. We can start by folding the blankets in half. This will give us 96 square feet. Since we want to get to 48 square feet, we need to fold the blankets another 48/96 = 0.5 times.
+
+So, the answer is:
+
+Answer: 0.5

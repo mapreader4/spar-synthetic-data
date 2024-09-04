@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Tina's bag initially contains:
+   - 9 apples
+   - 5 oranges
+   - 17 tangerines
+2) Tina takes away:
+   - 2 oranges
+   - 10 tangerines
+3) After taking away the items, Tina has:
+   - 9 apples (no change)
+   - 5 - 2 = 3 oranges
+   - 17 - 10 = 7 tangerines
+4) The difference between the number of tangerines and oranges Tina has left is:
+   - 7 tangerines - 3 oranges = 4 more tangerines than oranges
+
+Answer: 4

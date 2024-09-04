@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) John needs to support 6 cans of soda, each with 12 ounces of soda.
+2) Each can weighs 2 ounces when empty.
+3) The total weight of the 6 cans of soda is:
+   - 6 cans x 12 ounces of soda per can = 72 ounces of soda
+4) The total weight of the 6 empty cans is:
+   - 6 cans x 2 ounces per can = 12 ounces
+5) John also adds 2 more empty cans.
+   - 2 cans x 2 ounces per can = 4 ounces
+6) To calculate the total weight the bridge must support:
+   - Weight of 6 cans of soda (72 ounces) 
+   - Plus weight of 6 empty cans (12 ounces)
+   - Plus weight of 2 additional empty cans (4 ounces)
+   - Total weight = 72 + 12 + 4 = 88 ounces
+
+Answer: 88 ounces

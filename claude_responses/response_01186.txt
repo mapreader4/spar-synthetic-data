@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. John needs to get permits, which cost $250.
+
+2. He hires a contractor who charges $150 per hour, and the contractor works for 3 days at 5 hours per day.
+   * 3 days x 5 hours per day = 15 hours
+   * 15 hours x $150 per hour = $2,250
+
+3. He also pays an inspector, who is paid 80% less than the contractor.
+   * Contractor's hourly rate: $150
+   * Inspector's hourly rate: $150 x (1 - 0.8) = $30 per hour
+
+Now, let's calculate the total cost:
+
+Total cost = Permits + Contractor cost + Inspector cost
+Total cost = $250 + $2,250 + ($30 per hour x 15 hours)
+Total cost = $250 + $2,250 + $450
+Total cost = $2,950
+
+Answer: $2,950

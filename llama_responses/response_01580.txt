@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+There are 6 rows of flowers, with 13 flowers in each row. So, the total number of flowers is 6 x 13 = 78.
+
+Wilma has 12 yellow flowers, which is 12 out of the total number of flowers. We can subtract 12 from the total number of flowers to get the number of flowers that are not yellow. This leaves us with 78 - 12 = 66 flowers.
+
+Now, we know that the remaining flowers are green and red. We are told that there are two times as many green flowers as yellow flowers. So, the number of green flowers is 2 x 12 = 24. We subtract the number of green flowers from the remaining 66 to get the number of red flowers. This is 66 - 24 = 42.
+
+So, the number of red flowers is 42.

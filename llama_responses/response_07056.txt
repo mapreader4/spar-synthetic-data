@@ -1,0 +1,32 @@
+Let's break down the information step by step.
+
+Let's start by identifying the number of students in the general study hall: 30.
+
+Next, we are told that there are twice as many students in the biology hall as there are in the general study hall. So, if we let x be the number of students in the biology hall, then we can set up an equation to represent the number of students in the biology hall:
+
+2x = 30
+
+To solve for x, we can divide both sides by 2:
+
+x = 30 / 2
+x = 15
+
+So, there are 15 students in the biology hall.
+
+Now, we know the number of students in the biology hall is 3/5 times as many as the combined total number of students in the general study hall and the biology hall. So, if we let y be the combined total number of students in the general study hall and the biology hall, then we can set up an equation to represent the number of students in the biology hall:
+
+15 = 3/5y
+
+To solve for y, we can multiply both sides by 5/3:
+
+y = 15 * 5/3
+y = 25
+
+So, the combined total number of students in the general study hall and the biology hall is 25.
+
+Now, we can find the total number of students in all the halls combined by adding the number of students in the general study hall and the biology hall to the number of students in the math hall:
+
+30 + 15 + 25
+= 50
+
+Answer: 50

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Mrs. Lopez needs to buy tickets for:
+  - Her husband (adult ticket)
+  - Herself (adult ticket)
+  - Her parents (2 senior citizen tickets)
+  - Her 3 children (3 children's tickets)
+* Adult tickets cost $11 each
+* Children's tickets cost $8 each
+* Senior citizen tickets cost $9 each
+* So the total cost would be:
+  - 2 adult tickets at $11 each = $22
+  - 2 senior citizen tickets at $9 each = $18
+  - 3 children's tickets at $8 each = $24
+* Adding these up:
+  - $22 + $18 + $24 = $64
+
+Answer: $64

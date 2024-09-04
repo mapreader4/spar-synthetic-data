@@ -1,0 +1,11 @@
+Let's start by finding the total number of books that were sold.
+
+The total number of books that were sold is equal to the total number of books minus the number of books left, which is 9,900 - x.
+
+Let's say the number of books sold is x. Then, the equation is 9,900 - x = 9,900 - 4/6 * 1,500.
+
+To solve for x, we can multiply both sides of the equation by 6 to get 6 * (9,900 - x) = 6 * 1,500. Then, we can divide both sides by 6 to get 1,500 = 9,900 - x / 6.
+
+This simplifies to 1,500 = 1,500 / 6. 1,500 / 6 = 250. So, the answer is 250.
+
+Answer: 250

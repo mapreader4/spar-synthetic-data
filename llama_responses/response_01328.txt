@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+On Monday, Daniel delivers 20 yards of fabric. On Tuesday, he delivers twice the amount of fabric he delivers on Monday, so he delivers 20 * 2 = 40 yards of fabric. On Wednesday, he delivers 1/4 of the amount of fabric he delivers on Tuesday, which is 40 / 4 = 10 yards of fabric.
+
+The total amount of fabric delivered is 20 + 40 + 10 = 70 yards. Since each yard of fabric costs $2, the total cost of the fabric is 70 * 2 = $140.
+
+The cost of yarn is 1/2 of the cost of fabric, so it is 140 / 2 = $70.
+
+Answer: 70

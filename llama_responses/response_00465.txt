@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+If all 3 stoplights are red, it means the man will have to stop for 3 minutes at each light, adding 3 minutes to the trip. Since there are 3 lights, the total additional time will be 3 x 3 = 9 minutes.
+
+The original time taken by the first route if all 3 lights are green is 10 minutes. Adding the additional time due to the red lights, the total time taken will be 10 + 9 = 19 minutes.
+
+The second route takes 14 minutes. To find out how much longer the first route will be if all 3 stoplights are red, we subtract the time taken by the second route from the time taken by the first route:
+
+19 (time taken by first route with all red lights) - 14 (time taken by second route) = 5 minutes
+
+So, the trip will be 5 minutes longer if the man chooses the first route and all 3 stoplights are red.
+
+Answer: 5

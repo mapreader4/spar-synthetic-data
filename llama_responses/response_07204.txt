@@ -1,0 +1,7 @@
+To find the total cost of the entrance tickets, we need to multiply the number of people (4th grade class + 3 teachers) by the cost of each ticket (5 dollars). 
+
+Let's first find the total number of people. 4th grade class has 20 students, and there are 3 teachers, so the total number of people is 20 + 3 = 23. 
+
+Now, multiply the total number of people by the cost of each ticket. 23 * 5 = 115. 
+
+Answer: 115

@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: 
+
+* Antonella has 10 Canadian coins in her purse.
+* A loonie equals $1.
+* A toonie equals $2.
+* She bought a $3 Frappuccino and has $11 left.
+* We need to find out how many toonies she initially had.
+
+Let's start by identifying the value of the coins in her purse. 
+
+Let's say she has x toonies and y loonies. 
+
+The total value of the coins in her purse is 1x + 2y. 
+
+Since the total value is $11 after spending $3 on the Frappuccino, we can set up an equation to solve for y.
+
+1x + 2y = 11 - 3
+
+To solve for y, we subtract 3 from both sides of the equation.
+
+1x + 2y = 8
+
+Now we can solve for y.
+
+x = 0 (since 1x = 0) and y = 4.
+
+So, Antonella initially had 4 toonies.

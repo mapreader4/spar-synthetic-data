@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Mr. Grey purchased 3 polo shirts for $26 each, so the total cost of the polo shirts is 3 x 26 = 78.
+
+He also purchased 2 necklaces for $83 each, so the total cost of the necklaces is 2 x 83 = 166.
+
+He purchased 1 computer game for $90, so the total cost of the game is 90.
+
+The total cost of all the gifts is the sum of the costs of the polo shirts, necklaces, and the game: 78 + 166 + 90 = 334.
+
+Mr. Grey received a $12 rebate, so we subtract that from the total cost: 334 - 12 = 322.
+
+Answer: 322

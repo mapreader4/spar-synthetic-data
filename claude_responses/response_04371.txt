@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Jerry had 63 pieces of candy in total.
+2) He divided them up equally into 9 bags.
+3) 2 of the bags had chocolate hearts and 3 of the bags were chocolate kisses.
+4) The remaining 4 bags were not chocolate.
+5) Since the candy was divided equally, each bag had 63 / 9 = 7 pieces of candy.
+6) The 2 bags with chocolate hearts had 2 * 7 = 14 pieces of chocolate.
+7) The 3 bags of chocolate kisses had 3 * 7 = 21 pieces of chocolate.
+8) The total pieces of chocolate were 14 + 21 = 35.
+9) The remaining pieces of candy that were not chocolate were 63 - 35 = 28.
+
+Answer: 28

@@ -1,0 +1,16 @@
+To solve this problem, we will use the information given in the problem. Let's break it down step by step.
+
+Step 1: We know that 2/5 of the cards are red, which is equal to 24 cards. We also know that 5/9 of the remainder are black, which is equal to 40 cards. Since we know that the total number of cards is 120, we can set up an equation to represent the number of green cards.
+
+Let x be the number of green cards. We know that the total number of cards is 120, and we know that the number of red cards is 24, and the number of black cards is 40. So, we can set up an equation to represent the number of green cards.
+
+We can set up the equation as follows:
+
+24 + 40 + x = 120
+
+To solve for x, we can subtract 24 and 40 from both sides of the equation:
+
+x = 120 - 24 - 40
+x = 56
+
+Answer: 56

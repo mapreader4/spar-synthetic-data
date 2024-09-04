@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Earl started on the first floor. Then he went up 5 floors, which means he is now on the 6th floor.
+
+Then, he went down 2 floors, so he is now on the 4th floor.
+
+Then, he went up 7 floors, which means he is now on the 11th floor.
+
+The question asks how many floors the building has. Since Earl is 9 floors away from the top of the building, that means the top of the building is on the 20th floor. So, the building has 20 floors.
+
+Answer: 20

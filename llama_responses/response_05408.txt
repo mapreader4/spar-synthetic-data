@@ -1,0 +1,7 @@
+To solve this problem, we need to find the number of peanuts Darma can eat in 6 minutes.
+
+We know that Darma can eat 20 peanuts in 15 seconds. To find the number of peanuts she can eat in 6 minutes, we need to multiply the number of peanuts she can eat in 15 seconds by 24 (since 6 minutes is 24 times 15 seconds).
+
+24 * 20 = 480
+
+Answer: 480

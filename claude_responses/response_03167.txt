@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* A soccer ball takes 20 minutes to inflate
+* Alexia is inflating 20 balls
+* Ermias is inflating 5 more balls than Alexia, so Ermias is inflating 25 balls
+* To find the total time, we need to calculate the time for Alexia and Ermias separately, then add them together
+
+For Alexia:
+* Alexia is inflating 20 balls
+* Each ball takes 20 minutes to inflate
+* So the total time for Alexia is 20 balls x 20 minutes = 400 minutes
+
+For Ermias:
+* Ermias is inflating 25 balls
+* Each ball takes 20 minutes to inflate
+* So the total time for Ermias is 25 balls x 20 minutes = 500 minutes
+
+Now we add the total time for Alexia and Ermias:
+* Total time = 400 minutes + 500 minutes = 900 minutes
+
+Answer: 900

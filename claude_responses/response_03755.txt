@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The colony started with an unknown number of penguins.
+* In the first year, the size of the colony doubled.
+* In the second year, the size of the colony tripled.
+* This year, the colony gained 129 penguins, and now has 1077 penguins.
+
+To find the original number of penguins, we can work backwards:
+* This year, the colony has 1077 penguins.
+* Last year, the colony had 1077 - 129 = 948 penguins.
+* The year before that, the colony had 948 / 3 = 316 penguins.
+* The year before that, the colony had 316 / 2 = 158 penguins.
+
+So the original number of penguins in the colony was 158.
+
+Each penguin eats 1.5 fish per day, so the total number of fish the colony eats per day is:
+* 158 penguins x 1.5 fish per penguin = 237 fish per day
+
+Answer: 237

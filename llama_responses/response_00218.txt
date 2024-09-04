@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Let's start with the information that Ravi has 2 more quarters than nickels. This means that the number of nickels Ravi has is 2 more than the number of quarters. Since Ravi has 6 nickels, we can write an equation to represent this information:
+
+6 = (number of nickels) + 2
+
+This equation can be simplified to:
+
+6 = (number of nickels) - 2
+
+To solve for the number of nickels, we can subtract 2 from both sides of the equation:
+
+(number of nickels) = 6 - 2
+(number of nickels) = 4
+
+So, Ravi has 4 nickels.
+
+Now, let's look at the information that Ravi has 4 more dimes than quarters. This means that the number of dimes Ravi has is 4 more than the number of quarters. Since we know that Ravi has 4 nickels, which is the same as 8 quarters, we can write an equation to represent this information:
+
+(number of dimes) = (number of quarters) + 4
+
+We can substitute the known value of quarters for quarters into the equation:
+
+(number of dimes) = 8 + 4
+(number of dimes) = 12
+
+So, Ravi has 12 dimes.
+
+Now, to find the total amount of money Ravi has, we can add the number of nickels and the number of dimes:
+
+Total money = number of nickels + number of dimes
+Total money = 4 + 12
+Total money = 16
+
+Answer: 16

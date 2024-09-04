@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the book has x pages. Bill read 8 pages every day from the first day of April to the 12th of April. This means he read 12 - 1 = 11 days worth of pages.
+
+Bill read 8 pages every day, so in 11 days, he read 8 * 11 = 88 pages.
+
+The book is two-thirds of the total number of pages. So, the total number of pages is 2 * 88 = 176.
+
+Answer: 176

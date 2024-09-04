@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 6 models in the show
+* Each model will wear 2 sets of bathing suits and 3 sets of evening wear
+* It takes 2 minutes for a model to walk out to the end of the runway and back
+* Models take turns, one at a time, walking the runway
+
+First, let's calculate the total number of runway trips:
+* Each model will have 2 bathing suit trips and 3 evening wear trips
+* 2 bathing suit trips + 3 evening wear trips = 5 trips per model
+* With 6 models, that's a total of 6 * 5 = 30 runway trips
+
+Now, we know that each runway trip takes 2 minutes, so:
+* 30 runway trips * 2 minutes per trip = 60 minutes
+
+Therefore, the total time to complete all of the runway trips during the show is:
+
+Answer: 60 minutes

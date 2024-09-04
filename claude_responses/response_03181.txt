@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+* The sheep can run 12 feet per second
+* The dog can run 20 feet per second
+* The sheep is 160 feet away from the dog
+* The dog runs after the sheep that has bolted
+* To find the time it takes for the dog to catch the sheep, we need to calculate the time it takes for the dog to cover the 160 feet distance
+* The dog's speed is 20 feet per second
+* So, the time it takes for the dog to cover the 160 feet distance is:
+* Time = Distance / Speed
+* Time = 160 feet / 20 feet per second
+* Time = 8 seconds
+
+Answer: 8 seconds

@@ -1,0 +1,21 @@
+Let's start by letting x be the amount of money saved by Sam.
+
+Victory saves $100 less than Sam, so Sam saves x + 100.
+
+The total money saved for holiday spending is the sum of the money saved by Victory and Sam.
+
+The equation to solve for the total money saved is x + (x + 100).
+
+We know that the total money saved is $1000. So, we can set up the equation as x + (x + 100) = 1000.
+
+To solve for x, we can subtract 100 from both sides of the equation.
+
+x + (x + 100) = 1000
+
+x + 100 = 900
+
+Subtracting 100 from both sides, we get:
+
+x = 800
+
+Answer: 800

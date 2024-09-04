@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. In October, the online newspaper had 100 visitors.
+
+2. In November, the number of visitors increased by 15%. To calculate the number of visitors in November, we take the October number (100) and increase it by 15%:
+   100 + (100 * 0.15) = 100 + 15 = 115 visitors in November.
+
+3. In December, there were 15 more visitors than in November. So, the number of visitors in December is:
+   115 + 15 = 130 visitors in December.
+
+Now, to calculate the total number of visitors for the three months:
+October: 100 visitors
+November: 115 visitors
+December: 130 visitors
+
+Total visitors = 100 + 115 + 130 = 345 visitors
+
+Answer: 345

@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Toby starts with 63 photos on his camera roll
+* He deletes 7 bad shots, so now he has 63 - 7 = 56 photos
+* He then takes 15 pictures of his cat, so now he has 56 + 15 = 71 photos
+* After the photo shoot with his friends, he has 84 photos in the end
+* He then deletes 3 photos, so the final number of photos is 84 - 3 = 81
+
+Now, we need to find out how many photos he took in the photo shoot. We can do this by subtracting the number of photos he had before the photo shoot from the final number of photos:
+* 81 - 71 = 10
+
+Therefore, Toby took 10 photos in the photo shoot.
+
+Answer: 10

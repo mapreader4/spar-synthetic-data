@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) We know that there are 7 blue marbles and 11 red marbles in the jar.
+2) The chance of randomly picking a yellow marble is 1/4.
+3) This means that the number of yellow marbles in the jar is 1/4 of the total number of marbles in the jar.
+4) Let's call the number of yellow marbles 'x'.
+5) The total number of marbles in the jar is 7 + 11 + x.
+6) The chance of randomly picking a yellow marble is 1/4, so we can write the equation:
+x / (7 + 11 + x) = 1/4
+7) Solving for x, we get:
+x = 6
+Answer: 6

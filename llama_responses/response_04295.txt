@@ -1,0 +1,9 @@
+To solve this problem, I will first calculate the total distance that Jessica's family will travel. Since they are traveling at a rate of 50 km/h, and they are 300 km away from New York, it will take them:
+
+300 km / 50 km/h = 6 hours
+
+Since they will stop to rest for 30 minutes every 2 hours, they will stop 3 times during their journey. Therefore, the total time it will take them to reach New York is:
+
+6 hours + (3 x 0.5 hours) = 6 hours + 1.5 hours = 7.5 hours
+
+Answer: 7

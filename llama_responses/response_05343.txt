@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+The monthly phone bill is usually $50. If the monthly bill increases by 10%, we need to multiply the monthly bill by 1.1 to find the new monthly bill. The formula for this is:
+
+New Monthly Bill = Old Monthly Bill * 1.1
+
+Since the old monthly bill is $50, the new monthly bill will be:
+
+New Monthly Bill = 50 * 1.1 = 55
+
+To find the phone bill for the entire next year, we need to multiply the new monthly bill by 12 (the number of months in a year). So, the total phone bill for the next year is:
+
+Phone Bill for the next year = New Monthly Bill * 12
+
+Phone Bill for the next year = 55 * 12
+
+Phone Bill for the next year = 660
+
+Answer: 660

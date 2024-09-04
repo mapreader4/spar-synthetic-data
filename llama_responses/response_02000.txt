@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Tara has $10 to start with. She wants to buy a clarinet that costs $90. So, the number of books she needs to sell to reach her goal is:
+
+$90 - $10 = $80
+
+Since she sells each book for $5, she needs to sell:
+
+$80 / $5 = 16
+
+Tara sells 16 books in total to reach her goal.

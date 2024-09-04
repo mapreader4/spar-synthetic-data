@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Tara drives for 2 days, which means she drives for a total of 2 x 12 = 24 gallons of gas.
+
+Step 2: She stops to fill up her tank 4 times, which means she fills up 4 x 12 = 48 gallons of gas.
+
+Step 3: The total cost of gas is the sum of the cost of gas at each stop. The cost is $3 + $3.50 + $4 + $4.50 = $10.50.
+
+Step 4: To find the total cost of gas, we multiply the total gallons of gas (48) by the cost per gallon ($10.50). 48 x $10.50 = $504.
+
+Answer: 504

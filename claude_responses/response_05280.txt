@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Haman's father sent him to collect 10 trays of eggs
+* While loading the eggs, Haman accidentally dropped 2 trays
+* So, the number of trays Haman was able to load into the car was 10 - 2 = 8 trays
+* Haman's father then told him to add 7 more trays
+* So, the total number of trays Haman had to sell was 8 + 7 = 15 trays
+
+Now, we need to calculate the total number of eggs sold that day.
+* Each tray contains a certain number of eggs, let's assume it's 30 eggs per tray
+* So, the total number of eggs sold that day was 15 trays x 30 eggs per tray = 450 eggs
+
+Answer: 450

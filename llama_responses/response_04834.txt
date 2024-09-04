@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's first find the total length of the rungs. There are 50 feet that James wants to climb. Each rung is 18 inches long, which is 1.5 feet. So, the total length of the rungs is 1.5 feet. There are 12 inches in a foot, so the total length of the rungs is 12 * 1.5 = 18 inches. Since there are 12 inches in a foot, 12 * 1.5 = 18.
+
+Now, let's convert the total length of the rungs from inches to feet. There are 12 inches in a foot, so we can divide the total length of the rungs by 12 to get the total length in feet. 18 / 12 = 1.5. So, the total length of the rungs in feet is 1.5 feet.
+
+Since James wants to climb 50 feet, we can multiply the total length of the rungs by 4 to find the total length of the wood needed. 1.5 * 4 = 6.
+
+So, the answer is: Answer: 6

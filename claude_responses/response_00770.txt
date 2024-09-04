@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Children 6-11 years old spend 45 minutes each day watching television
+* They are allowed to watch television 4 days a week
+* We want to find how many hours they watch television in 2 weeks
+
+First, let's calculate how many minutes they watch television in 1 week:
+* 45 minutes per day x 4 days per week = 180 minutes per week
+
+Now, let's convert that to hours:
+* 180 minutes per week / 60 minutes per hour = 3 hours per week
+
+Finally, to find the total hours watched in 2 weeks, we multiply the hours per week by 2:
+* 3 hours per week x 2 weeks = 6 hours
+
+Answer: 6 hours

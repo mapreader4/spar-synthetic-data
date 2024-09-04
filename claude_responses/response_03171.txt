@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Brian is taping up 5 boxes that measure 15 inches by 30 inches
+* Each of these boxes needs 3 pieces of tape:
+  - 1 piece as long as the long side (30 inches)
+  - 2 pieces as long as the short side (15 inches)
+* So for each of the 5 boxes, he needs:
+  - 1 piece of 30 inches
+  - 2 pieces of 15 inches
+* That's a total of 3 pieces per box
+* And he has 5 boxes, so the total for the 5 boxes is:
+  - 5 boxes x 3 pieces per box = 15 pieces of tape
+* Now, he also has 2 boxes that measure 40 inches square
+* Each of these boxes needs 3 pieces of tape:
+  - 1 piece as long as the long side (40 inches)
+  - 2 pieces as long as the short side (40 inches)
+* So for each of the 2 boxes, he needs:
+  - 1 piece of 40 inches
+  - 2 pieces of 40 inches
+* That's a total of 3 pieces per box
+* And he has 2 boxes, so the total for the 2 boxes is:
+  - 2 boxes x 3 pieces per box = 6 pieces of tape
+* Adding up the total pieces of tape for all the boxes:
+  - 15 pieces + 6 pieces = 21 pieces of tape
+
+Answer: 21

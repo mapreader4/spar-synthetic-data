@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Michael's oldest brother is 1 year older than twice Michael's age when Michael was a year younger.
+   * Let's say Michael's current age is x.
+   * When Michael was a year younger, his age was x-1.
+   * Twice Michael's age when he was a year younger is 2(x-1).
+   * The oldest brother is 1 year older than this, so his age is 2(x-1) + 1.
+
+2. Michael's younger brother is 5 years old, which is a third of the age of the older brother.
+   * The older brother's age is 2(x-1) + 1.
+   * A third of the older brother's age is (2(x-1) + 1) / 3 = 5.
+   * Solving this, we get x = 8.
+
+3. Now we can calculate the combined age of the three brothers:
+   * Michael's age is 8.
+   * The older brother's age is 2(8-1) + 1 = 15.
+   * The younger brother's age is 5.
+   * The combined age is 8 + 15 + 5 = 28.
+
+Answer: 28

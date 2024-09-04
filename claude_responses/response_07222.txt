@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The farm has 100 chickens total.
+2) 20% of the 100 chickens are Black Copper Marans (BCM).
+3) To calculate the number of BCM chickens, we take 20% of 100:
+   20% of 100 = 0.20 * 100 = 20 BCM chickens.
+4) 80% of the 20 BCM chickens are hens.
+5) To calculate the number of BCM hens, we take 80% of 20:
+   80% of 20 = 0.80 * 20 = 16 BCM hens.
+
+Answer: 16

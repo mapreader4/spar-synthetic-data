@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The regular price of the ticket is $2000
+* Travis is a student, so he gets a 30% discount on the regular price
+* To calculate the discount amount, we take 30% of $2000:
+  * 30% of $2000 = 0.30 x $2000 = $600
+* To calculate the discounted price, we subtract the discount amount from the regular price:
+  * $2000 - $600 = $1400
+Therefore, the amount Travis needs to pay for his ticket is:
+Answer: $1400

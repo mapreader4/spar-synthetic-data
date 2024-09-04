@@ -1,0 +1,18 @@
+Let's break down the first route:
+
+* Malcolm walks uphill for 6 minutes.
+* He then walks along a path for twice this amount of time, which is 2 x 6 = 12 minutes.
+* Finally, he finishes the journey in a third of the time it took to walk the first two stages. To find this time, we add the times for the first two stages: 6 + 12 = 18 minutes. Then, we divide this sum by 3 to get the time for the final stage: 18 ÷ 3 = 6 minutes.
+
+So, the total time for the first route is 6 + 12 + 6 = 24 minutes.
+
+Now, let's break down the second route:
+
+* Malcolm walks along a flat path for 14 minutes.
+* He then finishes the walk in twice this amount of time, which is 2 x 14 = 28 minutes.
+
+So, the total time for the second route is 14 + 28 = 42 minutes.
+
+To find the difference in time between the two routes, we subtract the time for the first route from the time for the second route: 42 - 24 = 18 minutes.
+
+Answer: 18

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, we need to find the area of the floor, which is a rectangle. The area of a rectangle is length times width. The length of the floor is 10 m and the width is 8 m. So, the area of the floor is:
+
+10 m x 8 m = 80 square meters
+
+Now, we need to find the area of the square that will cover the floor. The side length of the square is 4 m. The area of a square is side times side. So, the area of the square is:
+
+4 m x 4 m = 16 square meters
+
+Now, we need to subtract the area of the square from the area of the floor to find the area that is left uncovered. The area of the square is 16 square meters, and the area of the floor is 80 square meters. So, the area that is left uncovered is:
+
+80 square meters - 16 square meters = 64 square meters
+
+Answer: 64

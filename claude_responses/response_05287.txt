@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Dennis lives two floors above Charlie.
+2) Charlie lives on a floor whose number is 1/4 of Frank's floor number.
+3) Frank lives on the 16th floor.
+4) So, Charlie's floor number is 1/4 of 16, which is 4.
+5) Since Dennis lives two floors above Charlie, Dennis lives on the floor number that is 4 + 2 = 6.
+
+Answer: 6

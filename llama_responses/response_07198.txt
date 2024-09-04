@@ -1,0 +1,17 @@
+Let's start by letting x be the number of marbles Stuart had initially.
+
+We know that after Betty gave Stuart 40% of her marble collection, the number of marbles in Stuart's collection increased to 80. So, we can set up the equation:
+
+x + 0.4x = 80
+
+We can then solve for x by subtracting 0.4x from both sides of the equation:
+
+x - 0.4x = 80 - 0.4x
+
+x = 80 / 0.6
+
+x = 133.33
+
+Since we cannot have a fraction of a marble, we can round this number to the nearest integer. The closest integer to 133.33 is 133.
+
+So, Stuart initially had 133 marbles.

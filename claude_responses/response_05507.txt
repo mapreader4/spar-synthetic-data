@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The weight bench can support 1000 pounds.
+2) John wants to stay 20% under the weight capacity for safety.
+3) To calculate 20% under the weight capacity, we take 1000 pounds and multiply it by 0.8 (100% - 20% = 80%).
+4) 1000 pounds * 0.8 = 800 pounds.
+5) John weighs 250 pounds.
+6) To calculate the weight he can put on the bar, we take the maximum weight (800 pounds) and subtract his own weight (250 pounds).
+7) 800 pounds - 250 pounds = 550 pounds.
+
+Answer: 550

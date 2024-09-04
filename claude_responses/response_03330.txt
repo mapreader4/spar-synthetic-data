@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Jane bought 62 red pens and 43 black pens for each of her 3 students.
+2) So the total number of pens bought is:
+   * 3 students x (62 red + 43 black) = 3 x 105 = 315 pens
+3) After the first month, 37 pens were taken from the pool.
+4) After the second month, another 41 pens were taken from the pool.
+5) So the total number of pens taken from the pool is 37 + 41 = 78 pens.
+6) The remaining number of pens in the pool is 315 - 78 = 237 pens.
+7) Jane decided to split the remaining 237 pens equally among her 3 students.
+8) So each student will get 237 / 3 = 79 pens.
+
+Answer: 79

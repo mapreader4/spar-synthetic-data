@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Yasmin deposited a $50 birthday check from her grandmother
+* The check was worth a quarter of her new balance after the check money is added
+* We need to find how many dollars were in her account before she deposited the check
+
+First, let's call the amount in her account before the deposit as 'x'.
+* After the $50 check is deposited, the new balance is x + 50
+* The check is worth a quarter of the new balance, so:
+* $50 = 1/4 * (x + 50)
+* Solving for x, we get:
+* $50 = 1/4 * x + 12.5
+* $37.5 = 1/4 * x
+* x = $150
+
+Therefore, the amount in Yasmin's account before she deposited the $50 check was $150.
+
+Answer: $150

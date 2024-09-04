@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: First, we need to calculate the time it takes to chop the peppers. It takes 3 minutes to chop 1 pepper, so for 4 peppers, it will take 3 x 4 = 12 minutes.
+
+Step 2: Next, we need to calculate the time it takes to chop the onions. It takes 4 minutes to chop 1 onion, so for 2 onions, it will take 4 x 2 = 8 minutes.
+
+Step 3: Next, we need to calculate the time it takes to grate the cheese. It takes 1 minute to grate cheese for 1 omelet, so for 5 omelets, it will take 1 x 5 = 5 minutes.
+
+Step 4: Finally, we need to calculate the time it takes to assemble and cook the omelets. It takes 5 minutes to assemble and cook 1 omelet, so for 5 omelets, it will take 5 x 5 = 25 minutes.
+
+Step 5: Add up all the times: 12 minutes for chopping the peppers, 8 minutes for chopping the onions, 5 minutes for grating the cheese, and 25 minutes for assembling and cooking the omelets. The total time is 12 + 8 + 5 + 25 = 50 minutes.
+
+Answer: 50

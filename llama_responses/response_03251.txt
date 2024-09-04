@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Michael started with a pack of 5,000 rubber bands.
+
+He used 50 rubber bands to make each small ball. Since he made 22 small balls, he used a total of 22 x 50 = 1,100 rubber bands.
+
+That leaves him with 5,000 - 1,100 = 3,900 rubber bands.
+
+He uses 300 rubber bands to make one large ball. To find out how many large balls he can make, I'll divide the remaining rubber bands by 300:
+
+3,900 ÷ 300 = 13
+
+Answer: 13

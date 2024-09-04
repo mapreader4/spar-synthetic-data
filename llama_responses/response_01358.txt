@@ -1,0 +1,5 @@
+To find the total catering budget, we need to multiply the number of guests by the cost of each entree.
+
+There are 80 guests. 3 times as many guests want steak as chicken. That means 3 * 80 = 240 guests want chicken. The cost of a chicken entree is $18, so the total cost of chicken entrees is 240 * 18 = 4320. The cost of steak entrees is 3 times as many as the number of chicken entrees, so the total cost of steak entrees is 3 * 4320 = 12,960. The total catering budget is the sum of the cost of chicken and steak entrees, which is 4320 + 12,960 = 15,280.
+
+Answer: 15,280

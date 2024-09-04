@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The tree grows at a rate of 50 centimeters every 2 weeks
+* The tree is currently 2 meters tall, which is 200 centimeters
+* We need to find the height of the tree in 4 months
+* 4 months is equal to 16 weeks
+* In 16 weeks, the tree will grow:
+    - 16 weeks / 2 weeks per growth period = 8 growth periods
+    - 8 growth periods x 50 centimeters per growth period = 400 centimeters
+* The initial height of the tree was 200 centimeters
+* Adding the growth of 400 centimeters, the final height of the tree will be:
+    - 200 centimeters + 400 centimeters = 600 centimeters
+
+Answer: 600 centimeters

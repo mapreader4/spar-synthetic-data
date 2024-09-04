@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) We know that there are 3 times as many grape candies as cherry candies.
+2) We also know that there are 2 times as many apple candies as grape candies.
+3) All the candies cost $2.50 each.
+4) The total cost of the candies is $200.
+
+Let's define the variables:
+* Let x = the number of cherry candies
+* Then 3x = the number of grape candies
+* And 2(3x) = 6x = the number of apple candies
+
+The total number of candies is x + 3x + 6x = 10x.
+The total cost of the candies is 10x * $2.50 = $25x.
+
+We know the total cost is $200, so we can set up an equation:
+$25x = $200
+x = 8
+
+Therefore, the number of grape candies is 3x = 3 * 8 = 24.
+
+Answer: 24

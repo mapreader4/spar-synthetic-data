@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of lemonade sold. The total amount of lemonade sold is $50. We know that $11 was sold in small cups and $24 was sold in medium cups. To find the total amount of lemonade sold, we can add these amounts together: $11 + $24 = $35. So, the total amount of lemonade sold is $35.
+
+The difference between the total amount of lemonade sold and the total amount of lemonade sold in small and medium cups is $50 - $35 = $15. This is the amount of lemonade sold in large cups. Since each large cup costs $3, the number of large lemonades sold is $15 ÷ $3 = 5.
+
+Answer: 5

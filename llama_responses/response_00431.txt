@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+There is Javier, the person, who has 2 legs.
+There are 3 children, who each have 2 legs each, so there are 6 legs from the children.
+There are 2 dogs, which each have 4 legs, so there are 8 legs from the dogs.
+There is 1 cat, which has 4 legs, so there are 4 legs from the cat.
+
+Adding all these up, there are 2 + 6 + 8 + 4 = 20 legs in total.

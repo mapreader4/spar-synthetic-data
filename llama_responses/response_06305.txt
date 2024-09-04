@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start with the fact that Delta took 8 donuts. Beta took three times as many as Gamma, so Beta took 3 x 8 = 24 donuts. So, the total number of donuts taken by Beta and Delta is 8 + 24 = 32.
+
+Since the total number of donuts is 40, we know that Gamma took the remaining 40 - 32 = 8 donuts.
+
+Answer: 8

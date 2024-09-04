@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The office has 90 workers
+* 2/3rds of them are men, which means 1/3 are women
+* 1/3 of 90 is 30 women
+* The company then hires 10 new employees, and all of them are women
+* So the total number of women in the company is now 30 + 10 = 40
+* The total number of employees in the company is now 90 + 10 = 100
+* The percentage of women in the company is (40 / 100) * 100 = 40%
+
+Answer: 40

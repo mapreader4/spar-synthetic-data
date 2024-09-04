@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John was originally 66 inches tall.
+* He had a growth spurt and grew 2 inches per month for 3 months.
+* To calculate his new height, we need to add the growth from the 3 months to his original height:
+* 2 inches per month x 3 months = 6 inches
+* 66 inches + 6 inches = 72 inches
+* To convert his height to feet, we divide 72 inches by 12 inches per foot:
+* 72 inches / 12 inches per foot = 6 feet
+
+Answer: 6 feet

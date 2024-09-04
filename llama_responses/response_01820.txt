@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+* Nida has 50 chocolates.
+* 3 boxes are filled with chocolates.
+* 5 chocolates are not in a box.
+* Her friend brought 25 pieces of chocolates.
+
+Let's first find the number of chocolates in the 3 filled boxes:
+
+3 boxes with chocolates = 3 x? = 3x? = 15 chocolates
+
+Now, let's find the number of chocolates that are not in a box:
+
+5 chocolates are not in a box = 5
+
+Now, let's find the total number of chocolates:
+
+50 chocolates in total - 15 chocolates in boxes - 5 chocolates not in a box = 50 - 20 = 30
+
+Now, let's find the number of boxes needed to hold all the chocolates:
+
+30 chocolates need to be placed in boxes = 30 ÷ 5 = 6
+
+Answer: 6

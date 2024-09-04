@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Kyle delivers the daily paper to 100 houses from Monday to Saturday, so he delivers a total of 100 papers each week.
+2. 10 of the customers do not get the Sunday paper, so Kyle does not deliver papers to those 10 customers on Sunday. So, he still has to deliver papers to the other 90 customers that get the Sunday paper.
+3. The 30 papers that Kyle delivers to the 10 customers who only get the Sunday paper, are in addition to the 90 papers he delivers to the other customers that get the Sunday paper. So, Kyle delivers a total of 30 + 90 = 120 papers on Sunday.
+4. To find the total number of papers Kyle delivers each week, we need to add the 100 papers he delivers from Monday to Saturday to the 120 papers he delivers on Sunday. 100 + 120 = 220.
+
+Answer: 220

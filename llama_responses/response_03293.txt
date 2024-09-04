@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Find the total of the grades he has so far: 80 + 75 + 90 = 245.
+
+Step 2: Since the class is based on four tests, the total grade for the class is 400. To find the average, we need to divide the total by 4: 245 / 4 = 61.25.
+
+Step 3: Since Carl wants an 85 for the class, we can set up an equation to represent the total grade needed: 85 = (400 - total of the last test) / 4.
+
+Step 4: To solve for the total of the last test, we can multiply both sides by 4: 85 * 4 = 340. Then, we subtract 245 from both sides: 340 - 245 = 95.
+
+Answer: 95

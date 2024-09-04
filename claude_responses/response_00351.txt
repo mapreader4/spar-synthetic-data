@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 36 weeks of school
+* Jackson's mom packs him a peanut butter and jelly sandwich on Wednesdays and Fridays
+* Jackson has missed 1 Wednesday and 2 Fridays
+
+First, let's calculate the number of Wednesdays and Fridays in the school year:
+* There are 36 weeks of school
+* Jackson has 1 Wednesday and 2 Fridays missed
+* So, there are 36 - 1 = 35 Wednesdays and 36 - 2 = 34 Fridays
+
+Now, let's add up the total number of peanut butter and jelly sandwiches he ate:
+* 35 Wednesdays + 34 Fridays = 69 peanut butter and jelly sandwiches
+
+Answer: 69

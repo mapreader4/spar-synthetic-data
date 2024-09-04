@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Amanda has taken 4 quizzes so far, and her average score on them is 92%.
+2) The final quiz is worth the same as each previous quiz.
+3) To get an A in the class, she needs to average 93% over the 5 quizzes.
+4) To calculate the score she needs on the final quiz, we can use the following formula:
+   (4 * 92% + Final Quiz Score) / 5 = 93%
+5) Solving for the Final Quiz Score, we get:
+   (4 * 92% + Final Quiz Score) = 5 * 93%
+   Final Quiz Score = 5 * 93% - 4 * 92%
+   Final Quiz Score = 465% - 368%
+   Final Quiz Score = 97%
+
+Answer: 97

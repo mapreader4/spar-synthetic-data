@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Joe starts with $240
+* He spends $50 a month on video games
+* He sells each game for $30 once he's done playing them
+
+To calculate how many months he can buy and sell games before running out of money, we need to find the net gain or loss per month.
+
+* Cost per month: $50
+* Revenue per month: $30 (assuming he sells one game per month)
+* Net loss per month: $50 - $30 = $20
+
+Now, we can calculate how many months he can sustain this net loss of $20 per month before running out of money.
+
+* Starting amount: $240
+* Net loss per month: $20
+* Number of months = $240 / $20 = 12 months
+
+Therefore, Joe can buy games at $50 and sell them at $30 for 12 months before running out of money.
+
+Answer: 12

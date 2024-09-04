@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Steve found 100 gold bars while visiting Oregon.
+2) He wants to distribute the gold bars evenly to his 4 friends.
+3) To find how many gold bars each friend will get, we divide the total number of gold bars (100) by the number of friends (4).
+4) 100 gold bars / 4 friends = 25 gold bars per friend.
+5) However, 20 gold bars were lost on the way back to San Diego.
+6) So the new total number of gold bars is 100 - 20 = 80 gold bars.
+7) Dividing the new total of 80 gold bars by the 4 friends, each friend will get 80 / 4 = 20 gold bars.
+
+Answer: 20

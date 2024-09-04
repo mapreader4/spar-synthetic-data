@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* It takes James 20 minutes to paint 1 space marine
+* He paints 6 space marines
+* So, the total time to paint the 6 space marines is:
+  * 6 space marines x 20 minutes per space marine = 120 minutes
+* It takes James 70 minutes to paint 1 dreadnought
+* He paints 2 dreadnoughts
+* So, the total time to paint the 2 dreadnoughts is:
+  * 2 dreadnoughts x 70 minutes per dreadnought = 140 minutes
+* To find the total time spent painting, we add the time for the space marines and the time for the dreadnoughts:
+  * 120 minutes + 140 minutes = 260 minutes
+
+Answer: 260

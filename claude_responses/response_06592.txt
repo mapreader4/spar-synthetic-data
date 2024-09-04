@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total square footage of the two bedrooms is 300 square feet.
+2) Jenny's bedroom is 60 square feet larger than Martha's bedroom.
+3) Let's call the size of Martha's bedroom 'x' square feet.
+4) Then, the size of Jenny's bedroom is 'x + 60' square feet.
+5) The total square footage of the two bedrooms is 'x + (x + 60) = 2x + 60'.
+6) We know the total square footage is 300, so we can set up the equation: 2x + 60 = 300.
+7) Solving for x, we get: 2x = 240, so x = 120.
+
+Answer: 120 square feet.

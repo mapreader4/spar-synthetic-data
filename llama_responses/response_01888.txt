@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. The city bought 200 streetlights, but they don't have enough squares to use all the streetlights. So, we know that the number of unused streetlights will be equal to the total number of streetlights bought minus the number of streetlights that will be used.
+
+2. There are 15 squares in New York and each park will have 12 new streetlights. So, the total number of streetlights for the parks is 15 * 12 = 180.
+
+3. So, the total number of streetlights bought is 200 and the number of streetlights for the parks is 180. To find the number of unused streetlights, we subtract the number of streetlights for the parks from the total number of streetlights bought: 200 - 180 = 20.
+
+Answer: 20

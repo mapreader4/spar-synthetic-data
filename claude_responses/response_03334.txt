@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) We know that the ratio of goats to sheep on the farm is 5:7. This means that the total number of animals is 12 (5 + 7).
+2) Since the total number of animals is 360, we can calculate the number of goats and sheep:
+* Total animals = 360
+* Ratio of goats to sheep = 5:7
+* Number of goats = (5/12) * 360 = 150
+* Number of sheep = (7/12) * 360 = 210
+3) Mr. Mathews decides to sell half of the goats at $40 each. So, he sells 75 goats (half of 150) at $40 each, making $3,000.
+4) He also decides to sell 2/3 of the sheep at $30 each. So, he sells 140 sheep (2/3 of 210) at $30 each, making $4,200.
+5) The total money he makes from the sale of the animals is the sum of the money made from selling the goats and the sheep:
+* Total money = $3,000 + $4,200 = $7,200
+
+Answer: $7,200

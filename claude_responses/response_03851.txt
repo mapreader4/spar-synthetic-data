@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The distance between Spain and Russia is 7019 km
+* The distance between Spain and Germany is 1615 km
+* Peter took a flight from Spain, with a stopover in Germany, and then needs to fly to Russia and back to Spain
+* To find the total distance Peter needs to fly, we need to add the following:
+  - The distance from Spain to Germany (1615 km)
+  - The distance from Germany to Russia (7019 km - 1615 km = 5404 km)
+  - The distance from Russia back to Spain (7019 km)
+* Adding these together, we get:
+  - 1615 km + 5404 km + 7019 km = 14038 km
+
+Answer: 14038

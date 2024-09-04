@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. Paul made two bank transfers:
+   - The first transfer was $90.
+   - The second transfer was $60.
+
+2. A service charge of 2% was added to each transaction.
+   - For the first transfer of $90, the service charge would be 2% of $90, which is $1.80.
+   - For the second transfer of $60, the service charge would be 2% of $60, which is $1.20.
+
+3. The second transaction was reversed (without the service charge).
+   - This means the $60 transfer was canceled, and the $1.20 service charge was not applied.
+
+4. Paul's account balance before the transfers was $400.
+   - The first transfer of $90 with a $1.80 service charge would leave $400 - $90 - $1.80 = $308.20 in his account.
+   - The second transfer of $60 with a $1.20 service charge would leave $308.20 - $60 - $1.20 = $247 in his account.
+   - Since the second transaction was reversed, his final account balance would be $247 + $60 = $307.
+
+Answer: 307

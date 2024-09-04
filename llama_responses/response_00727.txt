@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of shells Shara had initially. She had 20 shells initially.
+
+Next, she found 5 shells per day for 3 days. That means she found 5 x 3 = 15 shells.
+
+Then, on the fourth day, she found 6 more shells.
+
+To find the total number of shells Shara has now, we add the initial 20 shells to the shells she found on the 4 days: 20 + 15 + 6 = 41.
+
+So, the answer is:
+
+Answer: 41

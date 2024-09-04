@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The first hive has 1000 bees and produces 500 liters of honey.
+2. The second hive has 20% fewer bees than the first hive.
+   - 20% of 1000 is 200.
+   - So the second hive has 1000 - 200 = 800 bees.
+3. Each bee in the second hive produces 40% more honey than the bees in the first hive.
+   - If each bee in the first hive produces 0.5 liters of honey (500 liters / 1000 bees), then each bee in the second hive produces 0.5 * 1.4 = 0.7 liters of honey.
+4. To calculate the total honey produced:
+   - First hive: 1000 bees x 0.5 liters/bee = 500 liters
+   - Second hive: 800 bees x 0.7 liters/bee = 560 liters
+   - Total honey produced = 500 + 560 = 1060 liters
+
+Answer: 1060 liters

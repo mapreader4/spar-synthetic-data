@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 50 goldfish in the pond.
+2) Each goldfish eats 1.5 ounces of food per day.
+3) 20% of the goldfish need to eat special food that costs $3 an ounce.
+4) To calculate the number of goldfish that need special food, we take 20% of 50 goldfish:
+   * 20% of 50 = 0.2 * 50 = 10 goldfish
+5) The amount of special food needed per day is 10 goldfish * 1.5 ounces per goldfish = 15 ounces per day.
+6) The cost of the special food per day is 15 ounces * $3 per ounce = $45 per day.
+
+Answer: $45

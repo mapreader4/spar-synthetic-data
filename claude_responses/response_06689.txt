@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. There are 6 homeless shelters that Mark donates soup to.
+2. Each homeless shelter services 30 people.
+3. Mark decides to buy 10 cans of soup per person.
+4. To calculate the total number of cans of soup donated, we need to:
+   a. Multiply the number of people serviced per shelter (30) by the number of shelters (6) to get the total number of people serviced.
+   b. Multiply the total number of people serviced by the number of cans of soup per person (10).
+5. Calculation:
+   a. Total number of people serviced = 30 people per shelter x 6 shelters = 180 people
+   b. Total number of cans of soup donated = 180 people x 10 cans per person = 1,800 cans of soup
+
+Answer: 1,800

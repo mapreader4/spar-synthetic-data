@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+1. Calculate the total sales of the paper cover version:
+   * 32,000 copies sold at $0.20 each
+   * Total sales = 32,000 x $0.20 = $6,400
+
+2. Calculate the total sales of the hardcover version:
+   * 15,000 copies sold at $0.40 each
+   * Total sales = 15,000 x $0.40 = $6,000
+
+3. Calculate the author's earnings from the paper cover version:
+   * The author gets 6% of the total sales
+   * Earnings = 6% of $6,400 = 0.06 x $6,400 = $384
+
+4. Calculate the author's earnings from the hardcover version:
+   * The author gets 12% of the total sales
+   * Earnings = 12% of $6,000 = 0.12 x $6,000 = $720
+
+5. Calculate the total earnings of the author:
+   * Total earnings = Earnings from paper cover + Earnings from hardcover
+   * Total earnings = $384 + $720 = $1,104
+
+Answer: $1,104

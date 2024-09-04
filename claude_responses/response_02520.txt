@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Grenada Army Base has a total of 6000 war supplies.
+2. Since the war supplies are equally divided, we can calculate the number of each type of war supply for Grenada:
+   - Guns: 6000 / 3 = 2000 guns
+   - War tractors: 6000 / 3 = 2000 war tractors
+   - Soldier uniforms: 6000 / 3 = 2000 soldier uniforms
+
+3. Now, let's calculate the number of each war supply for Rockefeller Army Base:
+   - Guns: 2 x 2000 + 3000 = 7000 guns
+   - War tractors: 3 x 2000 - 400 = 5600 war tractors
+   - Soldier uniforms: 30 x 2000 = 60,000 soldier uniforms
+
+4. To find the total war supplies for Rockefeller Army Base, we add up the number of each type of war supply:
+   - Total war supplies = 7000 + 5600 + 60,000 = 72,600
+
+Answer: 72,600

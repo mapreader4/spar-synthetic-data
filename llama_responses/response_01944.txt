@@ -1,0 +1,5 @@
+Let's start by identifying the number of cans picked up by Prikya. Since Prikya picked up twice as many cans as LaDonna, and LaDonna picked up 25 cans, Prikya picked up 25 x 2 = 50 cans.
+
+The total number of cans picked up is 85. Since Yoki picked up the rest of the cans, and the total number of cans is 85, Yoki picked up 85 - 50 = 35 cans.
+
+Answer: 35

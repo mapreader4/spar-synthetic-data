@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's say Bill makes x trips. Then Jean makes x + 6 trips. Since they make a total of 40 trips, we can set up an equation:
+
+x + (x + 6) = 40
+
+To solve for x, we can subtract x from both sides of the equation:
+
+x + x + 6 - x = 40 - x
+
+This simplifies to:
+
+2x = 34
+
+To solve for x, we can divide both sides by 2:
+
+x = 34 ÷ 2
+
+x = 17
+
+So Bill makes 17 trips. Since Jean makes 6 more trips than Bill, Jean makes 17 + 6 = 23 trips.
+
+Answer: 23

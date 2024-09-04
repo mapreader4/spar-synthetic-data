@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Janet needs to tile two walls:
+   - Wall 1: 5 feet by 8 feet
+   - Wall 2: 7 feet by 8 feet
+2) Each square foot of wall takes 4 tiles
+3) To calculate the total number of tiles needed:
+   - Wall 1: 5 feet x 8 feet = 40 square feet, so 40 x 4 = 160 tiles
+   - Wall 2: 7 feet x 8 feet = 56 square feet, so 56 x 4 = 224 tiles
+   - Total tiles needed = 160 + 224 = 384 tiles
+4) The turquoise tiles cost $13 per tile, so the total cost for the turquoise tiles would be:
+   - 384 tiles x $13/tile = $4,992
+5) The purple tiles cost $11 per tile, so the total cost for the purple tiles would be:
+   - 384 tiles x $11/tile = $4,224
+6) The amount Janet would save by buying the purple tiles instead of the turquoise ones is:
+   - $4,992 - $4,224 = $768
+
+Answer: $768

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Frank is selling each hamburger for $5
+* 2 people purchased 4 hamburgers, so that's 4 x $5 = $20
+* Another 2 customers purchased 2 hamburgers, so that's 2 x $5 = $10
+* The total amount Frank has made so far is $20 + $10 = $30
+* Frank wants to make $50 in total
+* To calculate how many more hamburgers Frank needs to sell, we take the target amount ($50) and subtract the amount he's already made ($30)
+* $50 - $30 = $20
+* Since each hamburger sells for $5, we divide the remaining amount ($20) by the price per hamburger ($5) to get the number of additional hamburgers Frank needs to sell
+* $20 / $5 = 4 hamburgers
+
+Answer: 4

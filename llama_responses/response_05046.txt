@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: We know that the total volume of the pool is 15,000 gallons. We also know that two hoses deliver water at a rate of 2 gallons per minute. This means that in 1 minute, these hoses can deliver a total of 2 * 2 = 4 gallons of water.
+
+Step 2: We also know that the other two hoses deliver water at a rate of 3 gallons per minute. This means that in 1 minute, these hoses can deliver a total of 2 * 3 = 6 gallons of water.
+
+Step 3: Since the total rate at which the pool is being filled is the sum of the rates of all four hoses, we can add the rates together. This is 4 + 6 = 10 gallons per minute.
+
+Step 4: We can now find the total number of minutes it will take to fill the pool by dividing the total volume of the pool by the total rate at which the pool is being filled. We have 15,000 gallons / 10 gallons per minute = 1,500 minutes.
+
+Step 5: Since there are 60 minutes in an hour, we can convert the total number of minutes to hours by dividing by 60. We have 1,500 minutes / 60 = 25 hours.
+
+Answer: 25

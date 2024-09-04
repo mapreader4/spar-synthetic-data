@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are a total of 60 passengers on the bus.
+* Children make up 25% of the bus riders.
+* To find the number of children on the bus, we take 25% of the total number of passengers:
+* 25% of 60 = 0.25 * 60 = 15 children
+* Now, to find the number of adults on the bus, we need to subtract the number of children from the total number of passengers:
+* 60 total passengers - 15 children = 45 adults
+
+Answer: 45

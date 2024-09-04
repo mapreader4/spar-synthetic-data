@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of snowflakes at the beginning is x.
+
+After 1 hour, it snowed 4 snowflakes every 5 minutes. So, in 60 minutes, it snowed 12 times (60 minutes / 5 minutes = 12). So, the total number of snowflakes is x + 12.
+
+We know that after 1 hour, there were 58 snowflakes. So, we can set up the equation: x + 12 = 58.
+
+To solve for x, we subtract 12 from both sides of the equation: x = 58 - 12.
+
+Answer: 46

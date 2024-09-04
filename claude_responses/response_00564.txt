@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Rodney has 35 dollars more than Ian.
+2) Ian has half as much money as Jessica has.
+3) Jessica has 100 dollars.
+
+First, let's find out how much money Ian has:
+* Jessica has 100 dollars
+* Ian has half as much as Jessica
+* So, Ian has 100 / 2 = 50 dollars
+
+Now, let's find out how much money Rodney has:
+* Rodney has 35 dollars more than Ian
+* Ian has 50 dollars
+* So, Rodney has 50 + 35 = 85 dollars
+
+Finally, let's find out how much more money Jessica has than Rodney:
+* Jessica has 100 dollars
+* Rodney has 85 dollars
+* So, Jessica has 100 - 85 = 15 dollars more than Rodney
+
+Answer: 15

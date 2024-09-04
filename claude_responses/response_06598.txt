@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ariel has 45 fish in total
+* 2/3 of the fish are male
+* To find the number of male fish, we take 2/3 of the total number of fish:
+    * 2/3 of 45 = (2/3) * 45 = 30 male fish
+* To find the number of female fish, we need to subtract the number of male fish from the total number of fish:
+    * Total fish - Male fish = Female fish
+    * 45 - 30 = 15 female fish
+
+Answer: 15

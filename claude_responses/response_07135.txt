@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Jan buys 5 dozen roses.
+2) Each rose costs $6.
+3) Since he bought so many, he only needs to pay 80% of the total cost.
+
+To calculate the total cost:
+* 5 dozen roses = 5 x 12 = 60 roses
+* 60 roses x $6 per rose = $360 total cost
+
+Now, since he only needs to pay 80% of the total cost:
+* $360 x 0.8 = $288
+
+Therefore, the amount Jan paid is:
+Answer: $288

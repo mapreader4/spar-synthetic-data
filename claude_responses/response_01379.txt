@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. During the first spring, Lola had 10 breeding rabbits.
+2. Each of the 10 breeding rabbits had 10 kittens, so the total number of kittens was 10 x 10 = 100 kittens.
+3. Half of the 100 kittens were adopted, so 50 kittens were adopted.
+4. 5 of the adopted kittens had to be returned to Lola.
+5. So, the number of kittens Lola had after the first spring was 100 - 50 + 5 = 55 kittens.
+6. During the next spring, Lola's 10 breeding rabbits had a total of 60 kittens.
+7. 4 of those 60 kittens were adopted.
+8. So, the number of kittens Lola had after the second spring was 60 - 4 = 56 kittens.
+9. In total, Lola has 10 breeding rabbits and 55 + 56 = 111 kittens.
+
+Answer: 121

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* 1 cup of dog food weighs 1/4 of a pound
+* Mike has 2 dogs
+* Each dog eats 6 cups of dog food twice a day
+* We need to find how many 20-pound bags of dog food Mike needs to buy per month
+
+First, let's calculate how much dog food each dog eats per day:
+* 6 cups of dog food twice a day = 12 cups of dog food per day
+* 12 cups of dog food x 1/4 pound per cup = 3 pounds of dog food per day
+
+Now, let's calculate the total amount of dog food the 2 dogs eat per day:
+* 3 pounds per day x 2 dogs = 6 pounds of dog food per day
+
+Next, let's calculate the total amount of dog food the 2 dogs eat per month (assuming 30 days in a month):
+* 6 pounds per day x 30 days = 180 pounds of dog food per month
+
+Finally, let's calculate how many 20-pound bags of dog food Mike needs to buy per month:
+* 180 pounds of dog food per month / 20 pounds per bag = 9 bags of dog food per month
+
+Answer: 9

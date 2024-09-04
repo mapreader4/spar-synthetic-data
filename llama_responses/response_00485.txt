@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's first calculate the total hours worked in a week. Lance works 35 hours a week, and he does this over 5 workdays. So, the total hours worked in a week is 35 * 5 = 175.
+
+Now, let's calculate how much he makes in a week. Lance earns $9 an hour, so he makes 9 * 175 = $1575.
+
+Now, let's divide this amount by the number of workdays, 5. To find out how much Lance makes on each workday, we divide 1575 by 5. 1575 ÷ 5 = 315.
+
+Answer: 315

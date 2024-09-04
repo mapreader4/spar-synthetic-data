@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Lee charges $33 per lawn mowed.
+2) Last week, Lee mowed 16 lawns.
+3) So for the 16 lawns mowed, Lee earned:
+   16 lawns x $33 per lawn = $528
+4) Additionally, three customers each gave him a $10 tip.
+5) So the total tip amount is:
+   3 customers x $10 per tip = $30
+6) To calculate the total amount Lee earned last week, we add the amount earned from mowing the lawns and the tip amount:
+   $528 + $30 = $558
+
+Answer: 558

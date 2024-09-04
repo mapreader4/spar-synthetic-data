@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Susan works 5 days a week and has 6 days of paid vacation. This means she has 5 - 6 = 1 day of unpaid vacation time.
+
+She works 8 hours a day and gets paid $15 per hour. To find out how many hours she will work on her unpaid vacation, we need to multiply the number of hours she works a day by the number of days she has of unpaid vacation.
+
+1 day of unpaid vacation time is equal to 24 hours, since there are 24 hours in a day. 24 hours * $15 per hour is $360.
+
+So, Susan will miss out on $360 on her vacation.

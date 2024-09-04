@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Layla scored 104 goals in four hockey games
+* Kristin scored 24 fewer goals than Layla in the same four games
+* To calculate Kristin's goals, we subtract 24 from Layla's 104 goals:
+    * Kristin's goals = 104 - 24 = 80 goals
+* To calculate the average number of goals the two scored, we add Layla's and Kristin's goals, then divide by 2:
+    * Total goals = Layla's goals + Kristin's goals = 104 + 80 = 184 goals
+    * Average goals = Total goals / 2 = 184 / 2 = 92 goals
+
+Answer: 92

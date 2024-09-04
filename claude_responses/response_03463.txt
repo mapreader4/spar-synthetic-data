@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* John bought 20 cards for Christmas gifts
+* John bought 15 cards for birthday gifts
+* Each card cost $2
+
+To calculate the total amount spent on cards, we need to:
+1. Calculate the total number of cards bought
+2. Multiply the total number of cards by the cost per card
+
+Step 1: Calculate the total number of cards bought
+* 20 cards for Christmas gifts
+* 15 cards for birthday gifts
+* Total cards = 20 + 15 = 35 cards
+
+Step 2: Multiply the total number of cards by the cost per card
+* Cost per card = $2
+* Total cost = 35 cards x $2 per card = $70
+
+Answer: $70

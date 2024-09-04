@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There are 92 students altogether.
+2) 20 of them ride the school bus home together.
+3) The remaining students are either riding their bikes or walking home.
+4) 5/8 of the remaining students ride their bikes home.
+5) To calculate the number of students riding their bikes, we first need to find the number of students remaining after the 20 bus riders are subtracted:
+92 - 20 = 72 students remaining
+6) 5/8 of 72 is:
+5/8 * 72 = 45 students riding their bikes
+7) The remaining students are walking home.
+8) To find the number of students walking home, we subtract the bus riders and bike riders from the total:
+92 - 20 - 45 = 27 students walking home
+
+Answer: 27

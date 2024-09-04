@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The basket can hold 40 fruit altogether.
+2) There are 3 times as many apples as oranges.
+3) Let's say there are x oranges in the basket.
+4) Since there are 3 times as many apples as oranges, the number of apples must be 3x.
+5) The total number of fruit in the basket is 40, which is the sum of the apples and oranges.
+6) So we can write the equation: x + 3x = 40
+7) Solving for x, we get: 4x = 40
+8) Dividing both sides by 4, we get: x = 10
+9) Therefore, the number of oranges in the basket is 10.
+
+Answer: 10

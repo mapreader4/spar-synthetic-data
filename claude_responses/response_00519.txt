@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Harrison buys a regular croissant on Saturdays for $3.50
+* He buys an almond croissant on Sundays for $5.50
+* We need to calculate how much he spends on croissants in a year
+
+First, let's calculate how much he spends on Saturdays:
+* There are 52 Saturdays in a year
+* Each regular croissant costs $3.50
+* So, the total cost for Saturdays is 52 * $3.50 = $182
+
+Next, let's calculate how much he spends on Sundays:
+* There are 52 Sundays in a year
+* Each almond croissant costs $5.50
+* So, the total cost for Sundays is 52 * $5.50 = $286
+
+Finally, to get the total amount he spends on croissants in a year, we add the Saturday and Sunday costs:
+* $182 + $286 = $468
+
+Answer: 468

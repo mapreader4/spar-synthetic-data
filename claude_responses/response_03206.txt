@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The computer factory produces 1500 computers per day
+* They sell each computer for $150
+* We need to find the total money earned from selling 1 week's worth of production
+
+To calculate the total money earned, we need to:
+1. Calculate the total number of computers produced in 1 week
+2. Multiply the total number of computers by the price per computer
+
+Step 1: Calculate the total number of computers produced in 1 week
+* There are 7 days in a week
+* 1500 computers per day x 7 days = 10,500 computers
+
+Step 2: Multiply the total number of computers by the price per computer
+* 10,500 computers x $150 per computer = $1,575,000
+
+Answer: $1,575,000

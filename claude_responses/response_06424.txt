@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 32 students in the statistics course.
+2) 25% of the class received an A.
+   * 25% of 32 = 0.25 * 32 = 8 students received an A.
+3) The remaining students are 32 - 8 = 24 students.
+4) 1/4 of the remaining 24 students got either a B or C.
+   * 1/4 of 24 = 0.25 * 24 = 6 students got a B or C.
+5) The rest of the students failed.
+   * The remaining students are 24 - 6 = 18 students.
+
+Answer: 18 students failed.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Cassie tries to drink at least 12 cups of water a day
+* 1 cup = 8 ounces of water
+* Cassie's water bottle holds 16 ounces
+* To calculate how many times Cassie needs to refill her water bottle, we need to find out how many 16-ounce bottles are needed to make 12 cups
+
+First, let's calculate how many ounces of water are needed for 12 cups:
+* 12 cups x 8 ounces/cup = 96 ounces of water
+
+Now, let's calculate how many 16-ounce bottles are needed to make 96 ounces:
+* 96 ounces / 16 ounces per bottle = 6 bottles
+
+Therefore, Cassie needs to refill her water bottle 6 times a day to make sure she drinks 12 cups of water.
+
+Answer: 6

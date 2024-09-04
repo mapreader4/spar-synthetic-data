@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each lollipop uses 5ml of food colouring
+* The candy store makes 100 lollipops in a day
+* So the total amount of food colouring used for the lollipops is:
+  * 100 lollipops x 5ml per lollipop = 500ml
+* The candy store also makes 5 hard candies
+* We know the total amount of food colouring used in a day is 600ml
+* So the amount of food colouring used for the hard candies must be:
+  * 600ml total - 500ml for lollipops = 100ml for hard candies
+* Since there are 5 hard candies, we can divide the 100ml by 5 to get the amount of food colouring per hard candy:
+  * 100ml / 5 hard candies = 20ml per hard candy
+
+Answer: 20ml

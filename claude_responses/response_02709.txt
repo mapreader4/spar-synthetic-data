@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Class A is twice as big as Class B
+* Class A is a third the size of Class C
+* Class B has 20 people in it
+
+First, we can find the size of Class A:
+* Since Class A is twice as big as Class B, and Class B has 20 people, then Class A has 2 * 20 = 40 people.
+
+Next, we can find the size of Class C:
+* Since Class A is a third the size of Class C, and Class A has 40 people, then Class C has 3 * 40 = 120 people.
+
+Answer: 120

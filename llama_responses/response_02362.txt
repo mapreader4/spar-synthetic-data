@@ -1,0 +1,3 @@
+To find the total number of minutes of video released in a week, we need to multiply the number of videos released per day by the number of days in a week. 
+
+John releases 3 videos per day, so 3 * 7 = 21. 2 of the videos are 2 minutes long, so they take 2 * 2 = 4 minutes. The other video is 6 times as long, so it takes 6 * 1 = 6 minutes. 4 + 6 = 10 minutes are used for the 2 short videos, and 10 + 6 = 16 minutes are used for the 1 long video. The total number of minutes of video released in a week is 16.

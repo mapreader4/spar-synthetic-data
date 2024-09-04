@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of brownies baked. Since Melanie baked 10 batches, and each batch has 20 brownies, the total number of brownies is 10 x 20 = 200.
+
+Next, we know that 3/4 of the brownies in each batch are set aside for a bake sale. So, in each batch, 3/4 of 20 brownies are set aside, which is 3/4 * 20 = 15. Since there are 10 batches, the total number of brownies set aside is 15 * 10 = 150.
+
+Now, we know that 3/5 of the remaining brownies are given out. The remaining brownies are the total number of brownies minus the number set aside, which is 200 - 150 = 50.
+
+Answer: 50

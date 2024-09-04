@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. The original price of the luxury perfume is $1200.
+2. The store owner increased the price by 10%, so the new price is 1.1 times the original price, which is 1.1 * 1200 = 1320.
+3. The store owner then decreased the price by 15%, so the new price is 0.85 times the new price, which is 0.85 * 1320 = 1128.
+4. The final price is 1128, which is 28 less than the original price of 1200.
+
+Answer: 28

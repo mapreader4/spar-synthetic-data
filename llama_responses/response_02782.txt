@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Moe takes 10 seconds to eat 40 pieces of cuttlebone each day.
+* We want to find out how long it would take Moe to eat 800 pieces of cuttlebone.
+
+To find the total time it would take Moe to eat 800 pieces of cuttlebone, we can multiply the time it takes Moe to eat 40 pieces of cuttlebone (10 seconds) by the number of pieces Moe needs to eat (800/40 = 20). 
+
+Answer: 200

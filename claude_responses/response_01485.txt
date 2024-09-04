@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Adam has a total of 50 balls
+* 20 of the balls are red
+* 10 of the balls are blue
+* The remaining balls are either pink or orange
+* There are 3 times as many pink balls as orange balls
+
+First, let's find the number of balls that are not red or blue:
+* Total balls = 50
+* Red balls = 20
+* Blue balls = 10
+* Balls that are not red or blue = 50 - 20 - 10 = 20
+
+Now, we know that there are 3 times as many pink balls as orange balls. Let's call the number of orange balls 'x'.
+* Pink balls = 3x
+
+We also know that the total number of non-red and non-blue balls is 20.
+* Pink balls + Orange balls = 20
+* 3x + x = 20
+* 4x = 20
+* x = 5
+
+Therefore, the number of orange balls is 5.
+
+Answer: 5

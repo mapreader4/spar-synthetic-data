@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Adam starts with 4 pairs of pants, 4 jumpers, 4 pajama sets (top and bottom), and 20 t-shirts. That's a total of 4 + 4 + 2 (since pajama sets are 2 pieces) + 20 = 30 articles of clothing.
+
+His friends each donate the same amount as Adam, so that's an additional 3 * 30 = 90 articles of clothing.
+
+In total, Adam and his friends have 30 + 90 = 120 articles of clothing.
+
+Adam decides to keep half of his clothes, so he keeps 120 / 2 = 60 articles of clothing. The remaining articles of clothing are being donated, which is 120 - 60 = 60.
+
+Answer: 60

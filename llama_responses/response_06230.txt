@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Tom starts with 2 apples, which is 2 x 1. He splits them into 8 slices, so each slice is 1/8th of an apple.
+
+Tom gives 3/8ths of the apple slices to Jerry, which is 3/8 x 1/8 = 3/8. So Tom has 8 - 3/8 = 5/8 of the apple slices left.
+
+Tom eats half of the remaining slices, which is 5/8/2 = 5/16 of the apple slices. So Tom now has 5/16 - 5/16 = 0 apple slices left.
+
+Answer: 0

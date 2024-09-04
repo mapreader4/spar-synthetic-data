@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Paul has 2 hours of homework on weeknights
+* He has 5 hours of homework for the entire weekend
+* This week, he has practice 2 nights out of the week and can't do any homework those nights
+* So, he has 5 nights left in the week where he can do homework
+* The total homework for the week is:
+    - 2 hours per night for 5 nights = 10 hours
+    - 5 hours for the weekend = 5 hours
+    - Total homework for the week = 10 + 5 = 15 hours
+* Since he can't do homework for 2 nights, he needs to average the remaining 15 hours over the 5 nights he can do homework
+* 15 hours / 5 nights = 3 hours per night
+
+Answer: 3 hours

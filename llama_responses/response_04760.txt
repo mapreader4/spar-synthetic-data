@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by using the information that John weighs one-quarter times more than what Mary weighs. We know that Mary weighs 160 lbs, so John's weight is 160 * (1/4) + 160 = 200 lbs.
+
+Next, we know that Mary weighs 20 lbs less than Jamison's weight. So, Jamison's weight is 160 + 20 = 180 lbs.
+
+To find the combined weight of the three, we add up their weights:
+
+200 + 160 + 180 = 440 lbs
+
+Answer: 440

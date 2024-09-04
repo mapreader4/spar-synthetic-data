@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+We know that the train can travel 5 miles for every 2 pounds of coal that it consumes. This means that for every 2 pounds of coal, the train travels 5 miles.
+
+We also know that the train has 160 pounds of coal remaining. To find out how many times 2 pounds of coal the train has, we can divide 160 by 2:
+
+160 ÷ 2 = 80
+
+So, the train has 80 times 2 pounds of coal remaining. This means the train can travel 5 miles for every 2 pounds of coal, so we can multiply the number of times 2 pounds of coal by 5 miles:
+
+80 × 5 = 400
+
+Answer: 400

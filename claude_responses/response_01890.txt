@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Jane can fold 3 towels in 5 minutes
+* Kyla can fold 5 towels in 10 minutes
+* Anthony can fold 7 towels in 20 minutes
+
+To find the total number of towels they can fold in one hour (60 minutes), we need to calculate the rate at which each person can fold towels.
+
+Jane's rate:
+* 3 towels in 5 minutes
+* 3 towels / 5 minutes = 0.6 towels per minute
+
+Kyla's rate:
+* 5 towels in 10 minutes
+* 5 towels / 10 minutes = 0.5 towels per minute
+
+Anthony's rate:
+* 7 towels in 20 minutes
+* 7 towels / 20 minutes = 0.35 towels per minute
+
+Now, we add up the rates to get the total rate at which they can fold towels together:
+* 0.6 + 0.5 + 0.35 = 1.45 towels per minute
+
+Finally, we multiply the total rate by the number of minutes in an hour to get the total number of towels they can fold in one hour:
+* 1.45 towels per minute × 60 minutes = 87 towels
+
+Answer: 87

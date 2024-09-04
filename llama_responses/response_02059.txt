@@ -1,0 +1,5 @@
+To find the number of yellow marbles, we can use the information given in the problem. We know that the chance of randomly picking a yellow marble is 1/4. This means that 1 out of the 4 total marbles (7 blue, 11 red, and some yellow) is a yellow marble.
+
+Since 1 out of the 4 total marbles is a yellow marble, the number of yellow marbles is 1.
+
+Answer: 1

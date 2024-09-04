@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. The football team had 11 players, and each player wanted 6 bottles.
+   * So, for the football team, Daniel filled: 11 players x 6 bottles = 66 bottles
+
+2. The soccer team had 53 bottles filled.
+
+3. The lacrosse team needed 12 more bottles than the football team.
+   * The football team needed 66 bottles, so the lacrosse team needed 66 + 12 = 78 bottles
+
+4. Each team coach during the season also wanted two bottles apiece.
+   * There were 4 teams (football, soccer, lacrosse, rugby), so 4 coaches x 2 bottles = 8 bottles
+
+5. Now, we need to find out how many bottles Daniel filled for the rugby team.
+   * We know that Daniel filled a total of 254 bottles this season.
+   * We also know that he filled 66 bottles for the football team, 53 bottles for the soccer team, 78 bottles for the lacrosse team, and 8 bottles for the coaches.
+   * So, the total number of bottles he filled for these teams is: 66 + 53 + 78 + 8 = 205 bottles.
+   * Therefore, the number of bottles he filled for the rugby team is: 254 - 205 = 49 bottles.
+
+Answer: 49 bottles

@@ -1,0 +1,15 @@
+Let's start by identifying the information given in the problem. We know that Jack recycles 80 bottles and gets 10 cents per bottle. So, he earns 80 x 10 cents, which is 800 cents. Now, we know that he made 15 dollars. We can set up an equation to represent this:
+
+10 x 80 + 5x = 1500
+
+We are trying to find the value of x. We can subtract 10 x 80 from both sides of the equation to get:
+
+5x = 1500 - 800
+
+To solve for x, we can divide both sides by 5:
+
+x = (1500 - 800) / 5
+
+x = 200
+
+So, the answer is 200.

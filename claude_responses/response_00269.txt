@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John earned $18 on Saturday
+* He earned half of that amount on Sunday, which is $18 / 2 = $9
+* He earned $20 the previous weekend
+* To find the total amount he has earned so far, we add up the amounts from Saturday, Sunday, and the previous weekend:
+  - $18 + $9 + $20 = $47
+* He needs $60 to buy a new pogo stick
+* To find how much more he needs to earn, we subtract the amount he has earned so far ($47) from the amount he needs ($60):
+  - $60 - $47 = $13
+
+Answer: $13

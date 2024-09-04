@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. At the first intersection, there are 40 road signs.
+
+2. At the second intersection, there are 1/4 times more road signs than the first intersection. 
+   * 1/4 of 40 = 10
+   * So, the number of road signs at the second intersection is 40 + 10 = 50.
+
+3. At the third intersection, the number of road signs is twice the number at the second intersection.
+   * 2 x 50 = 100 road signs at the third intersection.
+
+4. At the fourth intersection, the number of road signs is 20 fewer than those at the third intersection.
+   * 100 - 20 = 80 road signs at the fourth intersection.
+
+Now, to calculate the total number of road signs at the four intersections, we add up the number of road signs at each intersection:
+* 40 + 50 + 100 + 80 = 270
+
+Answer: 270

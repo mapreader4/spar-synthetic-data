@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Brody's calculator can run for 60 hours on a full battery
+* Brody has used three quarters of the battery up
+* He is about to take a two-hour math exam that will require the calculator the whole time
+
+To find how many hours of battery will be left, we need to:
+1. Calculate how much battery has been used up so far
+2. Subtract the amount of battery used during the two-hour exam from the remaining battery
+
+Step 1: Calculating the amount of battery used up so far
+* Brody has used three quarters of the battery up
+* Three quarters of 60 hours is 45 hours
+* So, 45 hours of battery has been used up so far
+
+Step 2: Subtracting the amount of battery used during the two-hour exam from the remaining battery
+* Brody has 60 hours of battery on a full charge
+* He has used 45 hours of battery so far
+* That means he has 15 hours of battery remaining (60 hours - 45 hours)
+* He will use 2 hours of battery during the exam
+* So, he will have 13 hours of battery left after the exam (15 hours - 2 hours)
+
+Answer: 13 hours

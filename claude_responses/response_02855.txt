@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Erica gets an ice cream treat 3 days a week (Monday, Wednesday, Friday)
+* The orange creamsicle costs $2.00 each time
+* So for the 3 days a week she gets the orange creamsicle, the cost is:
+  * 3 days/week x $2.00 = $6.00/week
+* Erica also gets an ice cream sandwich 2 days a week (Tuesday, Thursday)
+* The ice cream sandwich costs $1.50 each time
+* So for the 2 days a week she gets the ice cream sandwich, the cost is:
+  * 2 days/week x $1.50 = $3.00/week
+* Erica also gets a Nutty-Buddy 2 days a week (Saturday, Sunday)
+* The Nutty-Buddy costs $3.00 each time
+* So for the 2 days a week she gets the Nutty-Buddy, the cost is:
+  * 2 days/week x $3.00 = $6.00/week
+* To calculate the total cost over 6 weeks:
+  * $6.00/week x 6 weeks = $36.00 for the orange creamsicles
+  * $3.00/week x 6 weeks = $18.00 for the ice cream sandwiches
+  * $6.00/week x 6 weeks = $36.00 for the Nutty-Buddies
+  * Total cost = $36.00 + $18.00 + $36.00 = $90.00
+
+Answer: 90

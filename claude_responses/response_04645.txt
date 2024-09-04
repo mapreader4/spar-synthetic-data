@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 50 marbles in the box
+* Originally, there were 20 white marbles
+* The number of red and blue marbles were equal
+* So, the number of red and blue marbles is (50 - 20) / 2 = 15 each
+* Jack removes a number of marbles equal to double the difference between the number of white marbles and the number of blue marbles
+* The difference between the number of white marbles and the number of blue marbles is 20 - 15 = 5
+* Jack removes 2 * 5 = 10 marbles
+* The remaining number of marbles in the box is 50 - 10 = 40
+
+Answer: 40

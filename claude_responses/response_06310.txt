@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+1) We know that the combined weight of Tracy, John, and Jake is 158 kg.
+2) We also know that Tracy weighs 52 kg.
+3) We know that Jake weighs 8 kg more than Tracy, so Jake's weight is 52 + 8 = 60 kg.
+4) Now we can calculate John's weight by subtracting Tracy's and Jake's weights from the total weight:
+   Total weight = 158 kg
+   Tracy's weight = 52 kg
+   Jake's weight = 60 kg
+   John's weight = 158 - 52 - 60 = 46 kg
+5) The range of their weights is the difference between the heaviest and lightest weights.
+   The heaviest weight is Jake at 60 kg.
+   The lightest weight is John at 46 kg.
+   The range is 60 - 46 = 14 kg.
+
+Answer: 14 kg

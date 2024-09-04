@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding the number of boxes with football cards. We know that there are 3 boxes with football cards, and each box has 20 cards. So, the total number of football cards is 3 x 20 = 60.
+
+Next, we need to find the number of boxes with basketball cards. We know that there are 9 boxes with basketball cards and each box has 15 cards. So, the total number of basketball cards is 9 x 15 = 135.
+
+Now, we need to add the number of football cards to the number of basketball cards. 60 + 135 = 195.
+
+So, the total number of cards is 195.
+
+Answer: 195

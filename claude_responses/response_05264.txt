@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Julia bakes one less than 5 cakes per day for 6 days
+* That means she bakes 4 cakes per day
+* So over the 6 days, she bakes a total of 4 x 6 = 24 cakes
+* However, every other day, Clifford eats one of Julia's cakes
+* That means Clifford eats a total of 3 cakes (one on days 2, 4, and 6)
+* So the total number of cakes Julia has remaining is 24 - 3 = 21 cakes
+
+Answer: 21

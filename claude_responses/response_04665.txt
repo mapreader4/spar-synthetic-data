@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Total number of mice sold: 80
+* Half of the sales are wireless mice, so that's 80 * 1/2 = 40 wireless mice
+* One-fourth of the sales are optical mice, so that's 80 * 1/4 = 20 optical mice
+* The remaining mice must be trackball mice
+
+To find the number of trackball mice, we need to subtract the number of wireless and optical mice from the total:
+* Total mice - wireless mice - optical mice = trackball mice
+* 80 - 40 - 20 = 20
+
+Therefore, the number of trackball mice sold is 20.
+
+Answer: 20

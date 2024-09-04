@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Archer caught 8 fish in the first round.
+* He caught 12 more fish in the second round than he had caught earlier, so he caught 8 + 12 = 20 fish in the second round.
+* He caught 60% more fish in the third round than he had caught in the second round, so he caught 20 + (20 x 0.6) = 20 + 12 = 32 fish in the third round.
+
+Now, let's add up the total number of fish Archer caught:
+
+8 (first round) + 20 (second round) + 32 (third round) = 60
+
+Answer: 60

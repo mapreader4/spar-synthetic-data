@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The cobbler can mend 3 pairs of shoes in an hour.
+* From Monday to Thursday, he works for 8 hours each day.
+* On Friday, he works from 8am to 11am, which is 3 hours.
+
+First, let's calculate how many pairs of shoes he can mend each day:
+* Monday to Thursday: 3 pairs per hour x 8 hours = 24 pairs per day
+* Friday: 3 pairs per hour x 3 hours = 9 pairs
+
+Now, let's calculate the total number of pairs he can mend in a week:
+* Monday to Thursday: 24 pairs per day x 4 days = 96 pairs
+* Friday: 9 pairs
+* Total pairs mended in a week: 96 + 9 = 105 pairs
+
+Answer: 105

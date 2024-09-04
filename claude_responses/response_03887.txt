@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Bingo has two dogs
+* The two dogs walk a total of 70 miles a week
+* The first dog walks an average of 2 miles a day
+
+To find the average miles per day for the other dog, we need to:
+1. Calculate the total miles walked by the first dog in a week:
+   * 2 miles per day x 7 days = 14 miles per week
+2. Subtract the miles walked by the first dog from the total miles walked by both dogs:
+   * 70 miles - 14 miles = 56 miles
+3. Divide the remaining miles by the number of days in a week to get the average miles per day for the other dog:
+   * 56 miles / 7 days = 8 miles per day
+
+Answer: 8 miles

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 3 local dance studios
+* The total number of students across all 3 studios is 376
+* The first studio has 110 students
+* The second studio has 135 students
+* To find the number of students in the third studio, we need to subtract the number of students in the first two studios from the total number of students across all 3 studios.
+
+The number of students in the first two studios is:
+* 110 + 135 = 245 students
+
+To find the number of students in the third studio, we subtract the number of students in the first two studios from the total:
+* 376 - 245 = 131 students
+
+Answer: 131

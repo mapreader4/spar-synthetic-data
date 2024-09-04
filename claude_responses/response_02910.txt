@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The train comes every 5 minutes, so there are 12 trains in an hour (60 minutes / 5 minutes per train = 12 trains).
+2) Each train leaves with 200 passengers and takes on 320 passengers.
+3) To find the total number of different passengers, we need to add up the number of passengers leaving and the number of passengers boarding for all 12 trains.
+4) Passengers leaving: 200 passengers per train x 12 trains = 2,400 passengers
+5) Passengers boarding: 320 passengers per train x 12 trains = 3,840 passengers
+6) Total different passengers = Passengers leaving + Passengers boarding = 2,400 + 3,840 = 6,240 passengers.
+
+Answer: 6,240

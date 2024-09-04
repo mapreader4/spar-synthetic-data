@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of cups Stanley sold in one hour. Stanley sold 4 cups of lemonade in one hour. So, in 3 hours, he would have sold 4 * 3 = 12 cups.
+
+Next, we need to find out how many cups Carl sold in 3 hours. Carl sold 7 cups in one hour. So, in 3 hours, he would have sold 7 * 3 = 21 cups.
+
+To find the difference, we subtract the number of cups Stanley sold from the number of cups Carl sold. 21 - 12 = 9.
+
+Answer: 9

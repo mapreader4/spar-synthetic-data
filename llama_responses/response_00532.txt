@@ -1,0 +1,11 @@
+Let's start by identifying the number of golf balls each person buys.
+
+Dan buys 5 dozen golf balls, which is 5 x 12 = 60 golf balls.
+
+Gus buys 2 dozen golf balls, which is 2 x 12 = 24 golf balls.
+
+Chris buys 48 golf balls. This is not a dozen, so it is not 12 times an integer. It is 48, which is 4 times 12.
+
+To find the total number of golf balls they purchase, we add the number of golf balls each person buys: 60 + 24 + 48 = 132 golf balls.
+
+Answer: 132

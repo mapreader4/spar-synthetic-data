@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Thomas worked x hours
+* Toby worked 10 hours less than twice what Thomas worked, so Toby worked 2x - 10 hours
+* Rebecca worked 8 hours less than Toby, so Rebecca worked (2x - 10) - 8 = 2x - 18 hours
+* The total hours worked by the three of them is 157 hours
+* So we can write the equation: x + (2x - 10) + (2x - 18) = 157
+* Simplifying, we get: 5x - 28 = 157
+* Solving for x, we get: 5x = 185, so x = 37
+* Therefore, Rebecca worked 2x - 18 = 2(37) - 18 = 56 hours.
+
+Answer: 56

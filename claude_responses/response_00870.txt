@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Normally, it takes Matthew:
+   - 1 hour to assemble the ingredients
+   - 1.5 hours to bake the cakes
+   - 1 hour to decorate the cakes
+   - Total normal time = 1 + 1.5 + 1 = 3.5 hours
+
+2. On the day when the oven failed to reach the correct temperature, the baking time took twice as long, which is:
+   - Baking time = 1.5 hours x 2 = 3 hours
+
+3. So the total time on the day when the oven failed would be:
+   - Assemble ingredients: 1 hour
+   - Bake the cakes: 3 hours
+   - Decorate the cakes: 1 hour
+   - Total time = 1 + 3 + 1 = 5 hours
+
+Answer: 5 hours

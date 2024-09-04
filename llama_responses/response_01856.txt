@@ -1,0 +1,7 @@
+Let's start by calculating the number of slices from Danny's watermelon. He brings 3 watermelons and cuts each watermelon into 10 slices, so the total number of slices from his watermelons is 3 x 10 = 30.
+
+His sister brings 1 watermelon and cuts it into 15 slices, so the total number of slices from her watermelon is 15.
+
+To find the total number of watermelon slices, we add the number of slices from Danny's watermelons to the number of slices from his sister's watermelon: 30 + 15 = 45.
+
+Answer: 45

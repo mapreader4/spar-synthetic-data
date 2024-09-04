@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of days in a week. There are 7 days in a week.
+
+Now, let's identify the number of plates used per day. For the days when it is only Matt and his son, they use 1 plate each, so that is 2 plates per day.
+
+For the days when his parents join, everyone uses 2 plates, so that is 4 plates per day.
+
+We can multiply the number of plates used per day for the days when it is only Matt and his son by 3, which is 2 x 3 = 6 plates. Then, we can multiply the number of plates used per day for the days when his parents join, which is 4 x 3 = 12 plates.
+
+Now, to find the total number of plates used in a week, we can add the number of plates used for the 3 days when it is only Matt and his son, which is 6, to the number of plates used for the 4 days when his parents join, which is 12. So, the total number of plates used in a week is 6 + 12 = 18 plates.
+
+Answer: 18

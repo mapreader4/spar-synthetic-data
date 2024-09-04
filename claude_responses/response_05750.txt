@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sophie's mom gave her 20 oranges every day
+* Hannah's dad gave her 40 grapes every day
+* We need to calculate the total number of fruits that Sophie and Hannah had eaten in 30 days
+
+For Sophie:
+* 20 oranges per day x 30 days = 600 oranges
+
+For Hannah:
+* 40 grapes per day x 30 days = 1,200 grapes
+
+Now, we add the total number of oranges and grapes:
+* 600 oranges + 1,200 grapes = 1,800 fruits
+
+Answer: 1,800

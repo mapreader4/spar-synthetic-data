@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) James buys 20 pounds of beef and half that much pork, which is 10 pounds of pork.
+2) The total amount of meat he bought is 20 pounds of beef + 10 pounds of pork = 30 pounds of meat.
+3) He uses 1.5 pounds of meat to make each meal at his restaurant.
+4) To calculate the number of meals he can make, we divide the total amount of meat (30 pounds) by the amount of meat used per meal (1.5 pounds):
+30 pounds / 1.5 pounds per meal = 20 meals
+5) Each meal sells for $20.
+6) To calculate the total money he made, we multiply the number of meals (20) by the price per meal ($20):
+20 meals x $20 per meal = $400
+
+Answer: $400

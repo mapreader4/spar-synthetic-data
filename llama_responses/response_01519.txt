@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+Let's first find out how much Sandy earned on Friday. She earned $15 per hour, and she worked 10 hours. So, she earned 10 x $15 = $150 on Friday.
+
+On Saturday, she worked 6 hours, so she earned 6 x $15 = $90 on Saturday.
+
+On Sunday, she worked 14 hours, so she earned 14 x $15 = $210 on Sunday.
+
+Now, let's add up the money she earned on each day:
+
+$150 + $90 + $210 = $340
+
+So, Sandy earned a total of $340.

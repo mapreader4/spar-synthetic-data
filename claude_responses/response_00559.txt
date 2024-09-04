@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+
+1. Luna's monthly food budget is 60% of her house rental budget.
+   * Let's call the house rental budget "x".
+   * Then the food budget is 0.6x.
+
+2. The total budget of house rental and food budget is $240.
+   * So, x + 0.6x = $240
+   * 1.6x = $240
+   * x = $150 (house rental budget)
+
+3. The food budget is 60% of the house rental budget.
+   * Food budget = 0.6 * $150 = $90
+
+4. The phone bill budget is 10% of the food budget.
+   * Phone bill budget = 0.1 * $90 = $9
+
+5. To find the total monthly budget, we add up the house rental, food, and phone bill budgets.
+   * Total monthly budget = $150 + $90 + $9 = $249
+
+Answer: $249

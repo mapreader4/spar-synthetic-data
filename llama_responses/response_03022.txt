@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start with the problem statement: "Tommy's home is worth 25% more than he bought it for." This means that the value of the house is 125% of the value that he bought it for. Let's call the value that he bought it for x.
+
+Then, "He sells it and buys a new house that costs $500,000." So, the value of the new house is 500,000.
+
+Now, "If he had to take a loan for the 75% he can't pay", this means that he would need to borrow 75% of the value of the new house. This is 0.75 * 500,000 = 375,000.
+
+The problem is asking for the value of the first house, which is 25% more than the value he bought it for. This is 0.25 * x. So, we can set up an equation: 1.25x = 500,000. We can solve for x by multiplying both sides by 4/5: 1.25x = 4/5 * 500,000. To solve for x, we can divide both sides by 4/5: x = 400,000.
+
+So, the answer is: Answer: 400,000.

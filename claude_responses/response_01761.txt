@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Kevin sells a total of 50 crates of fruit per week
+* Last week, he sold 13 crates of grapes and 20 crates of mangoes
+* To find the number of passion fruit crates he sold, we need to subtract the number of grapes and mangoes from the total number of crates
+
+First, let's add up the number of grapes and mangoes:
+* 13 crates of grapes + 20 crates of mangoes = 33 crates
+
+Now, we can subtract the number of grapes and mangoes from the total number of crates to find the number of passion fruit crates:
+* 50 total crates - 33 crates of grapes and mangoes = 17 crates of passion fruits
+
+Answer: 17

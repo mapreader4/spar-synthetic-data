@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Ellie's brother's first throw skipped an unknown number of times
+* His second throw skipped 2 more times than the first throw
+* His third throw skipped twice as many times as the second throw
+* His fourth throw skipped 3 fewer times than the third throw
+* His fifth throw skipped 1 more time than the fourth throw, and it skipped 8 times
+
+Let's start with the fifth throw, which skipped 8 times.
+* The fourth throw skipped 8 - 1 = 7 times
+* The third throw skipped 7 + 3 = 10 times
+* The second throw skipped 10 / 2 = 5 times
+* The first throw skipped 5 - 2 = 3 times
+
+Now we can add up the total number of skips across all 5 throws:
+* 3 + 5 + 10 + 7 + 8 = 33 skips
+
+Answer: 33

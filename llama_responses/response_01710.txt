@@ -1,0 +1,13 @@
+To find the average temperature, I will first add up all the temperatures and then divide by the number of years.
+
+The temperatures are: 90, 90, 90, 79, and 71.
+
+I will add them up:
+
+90 + 90 + 90 + 79 + 71 = 420
+
+There are 5 years. To find the average, I will divide the sum by 5:
+
+420 ÷ 5 = 84
+
+Answer: 84

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Eliza can iron a blouse in 15 minutes
+* Eliza can iron a dress in 20 minutes
+* Eliza spends 2 hours ironing blouses
+* Eliza spends 3 hours ironing dresses
+
+First, let's calculate how many blouses Eliza can iron in 2 hours:
+* 2 hours = 120 minutes
+* 120 minutes / 15 minutes per blouse = 8 blouses
+
+Next, let's calculate how many dresses Eliza can iron in 3 hours:
+* 3 hours = 180 minutes
+* 180 minutes / 20 minutes per dress = 9 dresses
+
+Now, we can add the number of blouses and dresses to get the total number of pieces of clothes she ironed:
+* 8 blouses + 9 dresses = 17 pieces of clothes
+
+Answer: 17

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Taquon, Mack, and Jafari put their candy together and had a total of 418 pieces of candy
+* Taquon had 171 pieces of candy
+* Mack had 171 pieces of candy
+* To find how many pieces of candy Jafari had, we need to subtract the total of Taquon's and Mack's candy from the total amount of candy
+* Taquon's candy: 171 pieces
+* Mack's candy: 171 pieces
+* Total of Taquon's and Mack's candy: 171 + 171 = 342 pieces
+* Total amount of candy: 418 pieces
+* To find Jafari's candy, we subtract Taquon's and Mack's candy from the total:
+* 418 - 342 = 76 pieces
+
+Answer: 76

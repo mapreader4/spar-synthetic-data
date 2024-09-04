@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) Toby knows that only 25% of the goldfish are at the surface.
+2) This means that 75% of the goldfish are below the surface.
+3) Toby counted 15 goldfish at the surface.
+4) To find the total number of goldfish, we need to divide the number of surface goldfish (15) by the percentage of goldfish at the surface (25%).
+5) 15 / 0.25 = 60 total goldfish.
+6) Since 75% of the goldfish are below the surface, we can calculate the number of goldfish below the surface by multiplying the total number of goldfish (60) by the percentage below the surface (75%).
+7) 60 * 0.75 = 45 goldfish below the surface.
+
+Answer: 45

@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+First, let's calculate the total number of minutes Sam and Jack worked.
+
+Sam worked for 6 hours, which is equal to 6 x 60 = 360 minutes. Jack worked for 4 hours, which is equal to 4 x 60 = 240 minutes.
+
+Sam can assemble 1 widget every 10 minutes, so in 360 minutes, he can assemble 360 / 10 = 36 widgets. Jack can assemble 2 widgets every 15 minutes, so in 240 minutes, he can assemble 240 / 15 = 16 widgets.
+
+Tony worked the entire 8-hour shift, which is equal to 8 x 60 = 480 minutes. Since Tony worked the entire shift, he must have assembled the remaining widgets.
+
+The total number of widgets assembled is 68. Sam and Jack assembled 36 + 16 = 52 widgets. So, Tony must have assembled 68 - 52 = 16 widgets.
+
+Tony assembled 16 widgets in 480 minutes. To find out how long it takes Tony to assemble 1 widget, we can divide 480 minutes by 16 widgets.
+
+480 / 16 = 30
+
+Answer: 30

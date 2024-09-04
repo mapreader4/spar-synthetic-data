@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) We know that there are 64 seventh graders, and this is 32% of the students at the school.
+2) To find the total number of students at the school, we can divide the number of seventh graders (64) by the percentage they represent (32%):
+   * Total students = 64 / 0.32 = 200 students
+3) Now we know that the sixth graders comprise 38% of the students.
+4) To find the number of sixth graders, we can multiply the total number of students (200) by the percentage of sixth graders (38%):
+   * Number of sixth graders = 200 * 0.38 = 76 students
+
+Answer: 76

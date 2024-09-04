@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tina's pail holds 4 gallons
+* Tommy's pail holds 2 gallons more than Tina's, so it holds 6 gallons
+* Timmy's pail holds twice as much as Tommy's, so it holds 12 gallons
+* Each of them makes 3 trips to fill the pool
+* So, for each trip:
+    - Tina adds 4 gallons
+    - Tommy adds 6 gallons
+    - Timmy adds 12 gallons
+* After 3 trips each:
+    - Tina adds 4 x 3 = 12 gallons
+    - Tommy adds 6 x 3 = 18 gallons
+    - Timmy adds 12 x 3 = 36 gallons
+* The total amount of water added to the pool is:
+    - 12 + 18 + 36 = 66 gallons
+
+Answer: 66

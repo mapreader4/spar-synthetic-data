@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. There were 180 apples in each crate.
+2. There were 12 crates of apples.
+3. The number of apples in total is 180 * 12 = 2160.
+4. 160 apples were rotten and had to be thrown away.
+5. The remaining apples are 2160 - 160 = 2000.
+6. The apples were packed into boxes of 20 apples each.
+7. To find the number of boxes, we need to divide the remaining apples by 20.
+
+Answer: 2000 ÷ 20 = 100.

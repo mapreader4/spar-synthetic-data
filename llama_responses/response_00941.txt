@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Jean has 3 grandchildren.
+* Each grandchild receives 2 cards a year.
+* Each card costs $80.
+
+To find out how much Jean gives away to her grandchildren a year, we need to multiply the number of grandchildren by the number of cards each grandchild receives and the cost of each card.
+
+The number of grandchildren is 3, the number of cards each grandchild receives is 2, and the cost of each card is $80.
+
+So, we can multiply these values together to find the total amount Jean gives away to her grandchildren a year:
+
+3 (number of grandchildren) x 2 (number of cards each grandchild receives) x $80 (cost of each card) = 3 x 2 x $80 = $160
+
+So, the answer is:
+
+Answer: 160

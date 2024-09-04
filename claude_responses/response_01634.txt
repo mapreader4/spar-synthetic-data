@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Alexa sells lemonade for $2 per cup
+* She spent $20 on ingredients
+* She wants to make a profit of $80
+
+To calculate the number of cups she needs to sell, we need to find the total revenue she needs to generate to make a profit of $80.
+
+Total revenue needed = Total cost + Desired profit
+Total revenue needed = $20 + $80 = $100
+
+Now, we can calculate the number of cups she needs to sell:
+* Revenue per cup = $2
+* Total revenue needed = $100
+* Number of cups needed = Total revenue needed / Revenue per cup
+* Number of cups needed = $100 / $2 = 50 cups
+
+Answer: 50

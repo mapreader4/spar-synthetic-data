@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) We are given that the total for the sum and product of Elvie's age and Arielle's age are 131.
+2) We are also given that Elvie's age is 10.
+3) Let's call Arielle's age 'x'.
+4) The sum of Elvie's age and Arielle's age is 10 + x = 131 - x.
+5) The product of Elvie's age and Arielle's age is 10x.
+6) We can set up an equation: 10 + x + 10x = 131
+7) Solving this equation, we get: 11x = 121, so x = 11.
+Answer: 11

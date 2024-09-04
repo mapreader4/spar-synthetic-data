@@ -1,0 +1,57 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of guns Rockefeller Army Base has. We know that Rockefeller Army Base has 3000 more than twice as many guns as Grenada Army Base. Since Grenada Army Base has x guns, Rockefeller Army Base has 2x + 3000 guns.
+
+Next, we know that Rockefeller Army Base has 400 less than thrice as many war tractors as Grenada Army Base. So, if Grenada Army Base has x war tractors, Rockefeller Army Base has 3x - 400 war tractors.
+
+Finally, we know that Rockefeller Army Base has 30 times as many soldier uniforms as Grenada Army Base reserved for its national protection. Since Grenada Army Base has y soldier uniforms, Rockefeller Army Base has 30y soldier uniforms.
+
+Now, let's combine all the information we have so far. We know that Rockefeller Army Base has 2x + 3000 guns, 3x - 400 war tractors, and 30y soldier uniforms. We can combine these into an equation:
+
+2x + 3000 + 3x - 400 + 30y =?
+
+We can combine like terms and simplify the equation:
+
+2x + 3000 + 3x - 400 + 30y = 2x + 3000 + 3x - 400 + 30y
+
+We can add 3000 to both sides of the equation to get:
+
+2x + 6000 + 3x - 400 + 30y
+
+We can subtract 400 from both sides to get:
+
+2x + 6000 + 3x - 800 + 30y
+
+We can combine like terms and simplify the equation:
+
+2x + 6000 + 3x + 30y - 800
+
+We can combine the constant terms and add 30y to both sides to get:
+
+2x + 6000 + 3x + 30y - 800 + 30y
+
+We can combine like terms and simplify the equation:
+
+2x + 6000 + 3x + 60y - 800
+
+We can subtract 6000 from both sides to get:
+
+2x + 3x + 60y - 8200
+
+We can add 2 and 3 together to get:
+
+5x + 60y - 8200
+
+We can add 8200 to both sides to get:
+
+5x + 60y + 8200
+
+We can subtract 60y from both sides to get:
+
+5x + 8200
+
+We can add 5 and 8200 to get:
+
+8255
+
+Answer: 8255

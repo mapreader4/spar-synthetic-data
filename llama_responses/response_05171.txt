@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's find the area of the bed. The formula for the area of a rectangle is length times width. The area of each bed is 8 feet times 4 feet, which is 32 square feet.
+
+Since the bed is 1 foot high, we need to multiply the area by the height to find the volume of the bed. The volume of each bed is 32 square feet times 1 foot, which is 32 cubic feet.
+
+Since each bag of soil has 4 cubic feet, we can divide the volume of the bed by the volume of a bag of soil to find how many bags of soil we need. 32 cubic feet divided by 4 cubic feet is 8 bags of soil.
+
+Answer: 8

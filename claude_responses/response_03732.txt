@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* David finished his homework in 60 minutes total
+* He spent 15 minutes on his math homework
+* He spent 18 minutes on his spelling homework
+* The rest of the time was spent reading for his daily reading log
+
+To find the time he spent reading, we need to subtract the time spent on math and spelling from the total time:
+* Total time: 60 minutes
+* Time spent on math: 15 minutes
+* Time spent on spelling: 18 minutes
+* Time spent reading = Total time - Time spent on math - Time spent on spelling
+* Time spent reading = 60 minutes - 15 minutes - 18 minutes = 27 minutes
+
+Answer: 27 minutes

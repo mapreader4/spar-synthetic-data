@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) Nick's cell phone was initially empty, meaning it had a 0% charge.
+2) The cell phone was then charged for 45 minutes and has reached a 25% charge.
+3) To reach 100% charge, the cell phone needs to be charged for the remaining 75% (100% - 25%).
+4) Since the cell phone was charged for 45 minutes to reach 25% charge, we can use this information to calculate how long it will take to reach the remaining 75%.
+5) We can set up a proportion:
+45 minutes / 25% = x minutes / 75%
+6) Solving for x, we get:
+x = (45 minutes * 75%) / 25% = 135 minutes
+7) Therefore, the cell phone must be charged for an additional 135 minutes to reach 100% charge.
+
+Answer: 135 minutes

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Erin finds 8 less than 6 times as many obsolete books as damaged books.
+2) Let's represent the number of damaged books as x.
+3) Then the number of obsolete books is 6x - 8.
+4) The total number of books removed is 69.
+5) The total number of books removed is the sum of the damaged books and the obsolete books:
+   x + (6x - 8) = 69
+6) Simplifying this equation:
+   7x - 8 = 69
+7) Solving for x:
+   7x = 77
+   x = 11
+Therefore, the number of damaged books is 11.
+
+Answer: 11

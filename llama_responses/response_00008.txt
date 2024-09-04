@@ -1,0 +1,39 @@
+Let's break down the problem step by step.
+
+Alexis started with a budget of $200.
+
+She spent $30 on a button-up shirt, leaving her with:
+
+$200 - $30 = $170
+
+Then, she spent $46 on suit pants, leaving her with:
+
+$170 - $46 = $124
+
+Next, she spent $38 on a suit coat, leaving her with:
+
+$124 - $38 = $86
+
+After that, she spent $11 on socks, leaving her with:
+
+$86 - $11 = $75
+
+Then, she spent $18 on a belt, leaving her with:
+
+$75 - $18 = $57
+
+Finally, she has $16 left from her budget, which means she spent:
+
+$200 - $16 = $184
+
+on the shoes. However, she didn't have $184 left, so she must have spent more than that. Let's subtract the total amount she spent on the other items from her initial budget:
+
+$200 - ($30 + $46 + $38 + $11 + $18) = $200 - $143 = $57
+
+This is the amount she had left after buying all the other items except the shoes. Since she has $16 left, she must have spent:
+
+$57 - $16 = $41
+
+on the shoes.
+
+Answer: 41

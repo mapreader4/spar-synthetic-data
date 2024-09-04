@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Tim buys 3 goats for $400 each.
+   * Cost of 3 goats = 3 x $400 = $1,200
+
+2) Tim gets twice as many llamas as goats.
+   * Number of llamas = 2 x 3 = 6 llamas
+
+3) Each llama costs 50% more than each goat.
+   * Cost of each goat = $400
+   * Cost of each llama = $400 + (50% of $400) = $400 + $200 = $600
+
+4) Total cost of the llamas:
+   * Cost of 6 llamas = 6 x $600 = $3,600
+
+5) Total amount spent by Tim:
+   * Total cost = Cost of goats + Cost of llamas
+   * Total cost = $1,200 + $3,600 = $4,800
+
+Answer: $4,800

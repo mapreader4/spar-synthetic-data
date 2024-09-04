@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: the banana plantation on Jakies Island can produce ten times as many bananas as the banana plantation on the nearby island. This means that if the banana plantation on the nearby island produces 9000 bananas, the banana plantation on Jakies Island will also produce 9000 bananas.
+
+Since the banana plantation on Jakies Island can produce ten times as many bananas as the banana plantation on the nearby island, we can multiply the number of bananas produced on the nearby island by 10.
+
+9000 bananas * 10 = 90000 bananas
+
+So, the total banana produce from the two islands that year is 90000.

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Keanu's motorcycle can store 8 liters of gasoline
+* The destination is 280 miles away
+* The motorcycle consumes 8 liters of gasoline per 40 miles
+
+To calculate the number of times Keanu has to refill his motorcycle, we need to first calculate the total distance he needs to travel, which is the round trip distance.
+* Round trip distance = 280 miles + 280 miles = 560 miles
+
+Now, we need to calculate how many 40-mile segments are in the 560-mile round trip.
+* 560 miles / 40 miles per segment = 14 segments
+
+Since the motorcycle consumes 8 liters of gasoline per 40-mile segment, we can calculate the total amount of gasoline needed for the round trip.
+* 14 segments x 8 liters per segment = 112 liters of gasoline needed
+
+Finally, we can calculate how many times Keanu needs to refill his motorcycle, since it can only hold 8 liters at a time.
+* 112 liters / 8 liters per refill = 14 refills
+
+Answer: 14

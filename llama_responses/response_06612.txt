@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that Amanda has gone on 8 times as many hikes as Camila, so Amanda has gone on 8 * 7 = 56 hikes. Steven has gone on 15 more hikes than Amanda, so Steven has gone on 56 + 15 = 71 hikes.
+
+Camila wants to say that she has hiked as many times as Steven, so she needs to go on 71 hikes. She plans to go on 4 hikes a week, so to find out how many weeks it would take her to achieve her goal, we can divide the number of hikes she needs to go on by the number of hikes she plans to go on per week:
+
+71 (hikes needed) ÷ 4 (hikes per week) = 17.75
+
+Since you can't go a fraction of a week, we round up to the nearest whole number, which is 18 weeks.
+
+Answer: 18

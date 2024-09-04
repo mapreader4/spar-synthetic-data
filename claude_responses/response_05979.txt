@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The average GPA for 6th graders is 93
+* The average GPA for 7th graders is 2 more than the 6th graders, which means it is 93 + 2 = 95
+* The average GPA for 8th graders is 91
+
+To find the average GPA for the school, we need to calculate the total GPA for all three grades and then divide it by the total number of grades.
+
+Total GPA:
+* 6th grade: 93
+* 7th grade: 95
+* 8th grade: 91
+* Total GPA = 93 + 95 + 91 = 279
+
+Number of grades:
+* There are 3 grades (6th, 7th, and 8th)
+
+Average GPA for the school:
+* Total GPA / Number of grades = 279 / 3 = 93
+
+Answer: 93

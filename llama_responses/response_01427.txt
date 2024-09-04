@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Initially, there are 200 dogs at the animal rescue center.
+
+Mr. Tanner brings in 100 more dogs from another rescue center, so the total number of dogs becomes:
+
+200 + 100 = 300
+
+After one week, 40 animals are given out for adoption, leaving:
+
+300 - 40 = 260
+
+After a month, 60 more dogs are adopted by dog lovers, leaving:
+
+260 - 60 = 200
+
+However, this is not the correct answer, as we need to consider the initial 200 dogs that were already at the rescue center. So, we need to add the initial 200 dogs to the remaining 200 dogs:
+
+200 + 200 = 400
+
+But wait, we already counted the initial 200 dogs, so we need to subtract them again to get the correct answer:
+
+400 - 200 = 200
+
+So, the total number of remaining animals in the adoption center after the last adoptions is:
+
+Answer: 200

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Samantha buys 4 dog toys
+* Each toy costs $12.00
+* The promotion is "buy one get one half off"
+
+To calculate the total cost, we can split the 4 toys into 2 groups:
+* Group 1: 2 toys at full price ($12.00 each)
+* Group 2: 2 toys at half price ($6.00 each)
+
+The total cost for Group 1 is:
+* 2 toys x $12.00 = $24.00
+
+The total cost for Group 2 is:
+* 2 toys x $6.00 = $12.00
+
+The total amount Samantha spends is the sum of the two groups:
+* $24.00 + $12.00 = $36.00
+
+Answer: $36

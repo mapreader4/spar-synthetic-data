@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The zoo has 8 parrots
+* The number of snakes is 3 times the number of parrots, so the number of snakes is 3 * 8 = 24
+* The number of monkeys is 2 times the number of snakes, so the number of monkeys is 2 * 24 = 48
+* The number of elephants is half the number of parrots and snakes added up, so the number of elephants is (8 + 24) / 2 = 16
+* The number of zebras is 3 fewer than the number of elephants, so the number of zebras is 16 - 3 = 13
+
+Now, to find the difference in number between the zebras and the monkeys:
+* Number of monkeys: 48
+* Number of zebras: 13
+* Difference: 48 - 13 = 35
+
+Answer: 35

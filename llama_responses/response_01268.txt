@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total amount of toothpaste used each day. Anne's dad uses 3 grams at each brushing, so he uses 3 * 3 = 9 grams. Her mom uses 2 grams at each brushing, so she uses 2 * 3 = 6 grams. Anne and her brother use 1 gram each at each brushing, so they use 1 * 3 = 3 grams. So the total amount used each day is 9 + 6 + 3 = 18 grams.
+
+The total amount of toothpaste used in a day is 18 grams. The toothpaste contains 105 grams. So the number of days it will take for the toothpaste to run out is 105 / 18 = 5.75 days. Therefore, it will take 6 days for the toothpaste to run out.
+
+Answer: 6

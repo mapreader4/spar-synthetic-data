@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Pauline has 3 kinds of tomatoes, with 5 of each kind, so that's 3 * 5 = 15 tomatoes.
+2) Pauline has 5 kinds of cucumbers, with 4 of each kind, so that's 5 * 4 = 20 cucumbers.
+3) Pauline has 30 potatoes.
+4) In total, Pauline has 15 + 20 + 30 = 65 vegetables planted in her garden.
+5) The garden has 10 rows with 15 spaces in each, so the total number of spaces in the garden is 10 * 15 = 150.
+6) To find how many more vegetables Pauline could plant, we subtract the number of vegetables already planted (65) from the total number of spaces (150).
+7) 150 - 65 = 85.
+
+Answer: 85

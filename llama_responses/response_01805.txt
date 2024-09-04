@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Giselle had 20 female doves initially.
+Step 2: After a month, the doves laid 3 eggs each. So, the total number of eggs laid is 20 * 3 = 60 eggs.
+Step 3: If 3/4 of the eggs hatched, then 3/4 of 60 eggs hatched. To find the total number of doves Giselle has, we need to multiply 3/4 by 60.
+
+3/4 of 60 is 45.
+
+Answer: 20 + 45 = 65

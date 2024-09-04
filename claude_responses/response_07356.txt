@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Denmark has 3 cheese options, 4 meat options, and 5 vegetable options.
+2) He can only choose one option from each category (one cheese, one meat, one vegetable).
+3) If he chooses pepperoni as the meat option, he cannot choose peppers as the vegetable option.
+4) To calculate the total number of topping combinations, we can multiply the number of options in each category:
+* 3 cheese options x 4 meat options x 5 vegetable options = 60 total combinations
+5) However, we need to subtract the combinations where pepperoni is chosen and peppers is also chosen.
+6) There is 1 pepperoni option and 1 pepper option, so there is 1 combination that needs to be subtracted.
+7) Therefore, the total number of topping combinations is 60 - 1 = 59.
+
+Answer: 59

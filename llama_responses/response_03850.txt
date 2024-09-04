@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The top level is just one case, so that's one case.
+
+Step 2: The second level has a square base with sides that are one case longer than the top level, so that's two cases.
+
+Step 3: The third level has a square base with sides that are one case longer than the second level, so that's three cases.
+
+Step 4: The fourth level has a square base with sides that are one case longer than the third level, so that's four cases.
+
+So, in total, Mark needs 1 + 2 + 3 + 4 = 10 cases of soda.

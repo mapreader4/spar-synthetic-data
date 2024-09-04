@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+First, Ben needs 14 eggs per week. Since there are 4 weeks in a month, Ben will need 14 * 4 = 56 eggs in a month.
+
+Ked needs half of the number of eggs needed by Ben, which is 14. Half of 14 is 7. So, Ked will need 7 eggs per week. In a month, Ked will need 7 * 4 = 28 eggs.
+
+Saly needs 10 eggs. So, the total number of eggs needed is 56 (for Ben) + 28 (for Ked) + 10 (for Saly) = 94 eggs.
+
+Answer: 94

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Jack's basket can hold 12 apples when full.
+2) Jack's basket currently has space for 4 more apples.
+3) So, Jack's basket currently has 12 - 4 = 8 apples.
+4) Jill's basket can hold twice as much as Jack's basket when both are full.
+5) Since Jack's basket can hold 12 apples when full, Jill's basket can hold 2 * 12 = 24 apples when full.
+6) To find how many times Jack's current number of apples (8) can fit into Jill's basket, we divide 24 by 8:
+24 / 8 = 3
+
+Answer: 3

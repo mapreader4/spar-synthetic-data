@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* A tarantula has 8 legs
+* One tarantula egg sac can contain 1000 tarantulas
+* The question asks for the number of baby tarantula legs in one less than 5 egg sacs
+
+First, let's calculate the number of baby tarantulas in 4 egg sacs:
+* 4 egg sacs x 1000 tarantulas per sac = 4000 baby tarantulas
+
+Now, we can calculate the total number of baby tarantula legs:
+* 4000 baby tarantulas x 8 legs per tarantula = 32,000 baby tarantula legs
+
+Therefore, the answer is:
+Answer: 32,000

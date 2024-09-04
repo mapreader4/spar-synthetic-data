@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start with the number of people, 300. We know that 100 people leave the castle after 30 days. So, the number of people left in the castle after 30 days is 300 - 100 = 200.
+
+We know that there are 90 days in total, and we want to know how many days are left until the food runs out. We can find this out by subtracting 30 days from the total number of days. 90 - 30 = 60.
+
+So, the answer is:
+
+Answer: 60

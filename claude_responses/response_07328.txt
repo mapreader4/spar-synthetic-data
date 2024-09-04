@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+* There were 10 students in the first class
+* The second class also had 10 students
+* So the total number of students was 10 + 10 = 20 students
+* 5 parents offered to be chaperones
+* 2 teachers from both classes were there
+* So the total number of adults was 5 + 2 = 7 adults
+* At the end of the day, 10 students left
+* 2 of the chaperones were parents in that group, so they left as well
+* So the total number of individuals that left was 10 students + 2 chaperones = 12 individuals
+* The total number of individuals that were left at the zoo is the initial total minus the number of individuals that left:
+* Initial total: 20 students + 7 adults = 27 individuals
+* Number of individuals that left: 12
+* Number of individuals left at the zoo: 27 - 12 = 15
+
+Answer: 15

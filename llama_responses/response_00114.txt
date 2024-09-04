@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of dogs Ed has: 2 dogs.
+
+Next, let's identify the number of cats Ed has: 3 cats.
+
+Since Ed has twice as many fish as cats and dogs combined, we know that the number of fish is 2 * (3 + 2) = 6.
+
+Now, to find the total number of pets Ed has, we add the number of dogs, cats, and fish together:
+
+2 + 3 + 6 = 11
+
+Answer: 11

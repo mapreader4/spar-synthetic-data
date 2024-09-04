@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* 20% of the items are useful
+* 10% of the items are valuable heirlooms
+* 70% of the items are junk
+* We know that there are 8 useful items in the attic
+* To find the total number of items in the attic, we can use the 20% useful items as a reference:
+* If 20% of the items are useful, and there are 8 useful items, then the total number of items is 8 / 0.20 = 40 items
+* Now that we know the total number of items is 40, we can calculate the number of junk items:
+* 70% of 40 items are junk, which is 0.70 * 40 = 28 junk items
+
+Answer: 28

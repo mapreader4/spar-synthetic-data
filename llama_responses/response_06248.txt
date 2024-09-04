@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. James has five huskies, two pitbulls, and four golden retrievers.
+2. The golden retrievers had two more pups than each husky. So, each golden retriever had 2 + 2 = 4 pups.
+3. Since each husky had 3 pups, the total number of pups from the huskies is 5 x 3 = 15.
+4. The pitbulls had 3 pups each, so the total number of pups from the pitbulls is 2 x 3 = 6.
+5. The total number of pups from the huskies and pitbulls is 15 + 6 = 21.
+6. There are 4 golden retrievers, and each had 4 pups, so the total number of pups from the golden retrievers is 4 x 4 = 16.
+7. The total number of pups from all the dogs is 21 (huskies and pitbulls) + 16 (golden retrievers) = 37.
+
+Answer: 37

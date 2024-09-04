@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first consider the number of containers of paint Mikaela started with. She had 16 containers of paint.
+
+She used 1 container of paint to paint the wall. She used 1 container.
+
+Mikaela used 1 container of paint to paint the ceiling. She used 1 container.
+
+So, Mikaela has 16 - 1 - 1 - 1 = 14 containers of paint left.
+
+Answer: 14

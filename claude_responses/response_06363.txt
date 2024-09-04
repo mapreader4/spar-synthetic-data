@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The rim of a standard basketball hoop is 10 feet above the ground.
+* To dunk a basketball, a player must be able to reach at least 6 inches above the rim.
+* The player is 6 feet tall and can reach 22 inches above their head using their wingspan.
+
+To find the height the player must be able to jump to reach 6 inches above the rim, we need to calculate the total height the player must reach.
+
+First, let's convert the heights to the same unit, which will be inches:
+* 10 feet = 120 inches
+* 6 feet = 72 inches
+* 22 inches
+
+Now, we can calculate the total height the player must reach:
+* Rim height: 120 inches
+* 6 inches above the rim: 120 inches + 6 inches = 126 inches
+* Player's reach: 72 inches + 22 inches = 94 inches
+
+To find the height the player must jump, we subtract the player's reach from the total height they must reach:
+* 126 inches - 94 inches = 32 inches
+
+Therefore, the player must be able to jump 32 inches high to reach 6 inches above the rim and dunk a basketball.
+
+Answer: 32 inches

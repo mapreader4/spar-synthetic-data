@@ -1,0 +1,8 @@
+Let's break down the problem step by step.
+
+1. There are 8 mice initially, and each has 6 pups, so there are 8 * 6 = 48 pups.
+2. Each mouse eats 2 pups, so the total number of pups eaten is 8 * 2 = 16.
+3. After the pups are eaten, there are 48 - 16 = 32 pups left.
+4. The original 8 mice are left.
+
+Answer: 8

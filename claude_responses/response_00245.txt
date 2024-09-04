@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 12 crates, and each crate contains 150 oranges.
+2) To find the total number of oranges in the crates, we multiply the number of crates (12) by the number of oranges in each crate (150):
+12 crates x 150 oranges per crate = 1,800 oranges
+3) There are 16 boxes, and each box holds 30 nectarines.
+4) To find the total number of nectarines in the boxes, we multiply the number of boxes (16) by the number of nectarines in each box (30):
+16 boxes x 30 nectarines per box = 480 nectarines
+5) To find the total number of pieces of fruit in the crates and boxes, we add the number of oranges (1,800) and the number of nectarines (480):
+1,800 oranges + 480 nectarines = 2,280 pieces of fruit
+
+Answer: 2,280

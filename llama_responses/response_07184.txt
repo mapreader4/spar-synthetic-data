@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of money the vendor makes from selling 10 pairs of sunglasses.
+
+The vendor sells 10 pairs of sunglasses for $30 each. So, the total amount of money he makes is:
+
+10 x 30 = 300
+
+So, the vendor makes $300 from selling 10 pairs of sunglasses.
+
+Next, the vendor takes half of his profits and uses it to buy a new sign, which costs $20. So, the amount he uses for the sign is half of his profits:
+
+300 / 2 = 150
+
+The vendor uses $150 for the sign. Now, let's find the cost of each pair of sunglasses:
+
+300 - 150 = 150
+
+The vendor has to spend $150 to buy the sunglasses. So, the cost of each pair of sunglasses is:
+
+Answer: 15

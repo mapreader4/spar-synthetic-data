@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start with the total number of oranges, which is 96.
+
+Half of the oranges were ripe, so 96 / 2 = 48 were ripe oranges.
+
+1/4 of the ripe oranges were eaten, so 48 / 4 = 12 ripe oranges were eaten.
+
+1/8 of the unripe oranges were eaten, so 96 / 8 = 12 unripe oranges were eaten.
+
+The total number of oranges eaten is the sum of the ripe and unripe oranges eaten, which is 12 + 12 = 24.
+
+Answer: 24

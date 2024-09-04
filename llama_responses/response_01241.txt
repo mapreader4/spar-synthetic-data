@@ -1,0 +1,7 @@
+To solve this problem, we need to calculate the volume of the prism first. The formula for the volume of a rectangular prism is V = l * w * h, where l is the length, w is the width, and h is the height.
+
+Given that the prism is 8 meters tall and has a 2-meter square base, we know that the height is 8 meters. The width and height of the base are both 2 meters. So, the volume of the prism is V = 2 * 2 * 8 = 16 cubic meters.
+
+Next, we need to find the mass of the prism. The density of the prism is 2700 kg per cubic meter, so the mass of the prism is the volume times the density. 16 * 2700 = 43200 kg.
+
+Answer: 43200

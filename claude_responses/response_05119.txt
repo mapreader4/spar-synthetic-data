@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+* We are given that there are 30 4-wheel drive cars in the parking lot
+* Each 4-wheel drive car has 4 main tires and 1 spare tire
+* To find the total number of tires in the parking lot, we need to multiply the number of cars by the total number of tires per car
+* Each car has 4 main tires and 1 spare tire, so the total number of tires per car is 5
+* Therefore, the total number of tires in the parking lot is:
+* 30 cars x 5 tires per car = 150 tires
+
+Answer: 150

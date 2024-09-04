@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1. Jason starts with 6 fish in his aquarium.
+2. Every day, the number of fish doubles. So, on the first day, he has 6 fish. On the second day, he has 12 fish. On the third day, he has 24 fish.
+3. On the third day, he takes out one-third of the fish. One-third of 24 is 8, so he has 16 fish left.
+4. On the fourth day, the number of fish doubles again, so he has 32 fish.
+5. On the fifth day, he takes out one-fourth of the fish. One-fourth of 32 is 8, so he has 24 fish left.
+6. On the sixth day, the number of fish doubles again, so he has 48 fish.
+7. On the seventh day, he adds 15 more fish, so he has 63 fish in total.
+
+Answer: 63

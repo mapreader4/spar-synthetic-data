@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jonah burned 30 calories per hour while running
+* He ran for 2 hours
+* So, in the 2 hours he ran, he burned:
+    - 30 calories per hour x 2 hours = 60 calories
+
+Now, we need to calculate how many more calories he would have burned if he had run for 5 hours instead of 2 hours.
+* If he had run for 5 hours, he would have burned:
+    - 30 calories per hour x 5 hours = 150 calories
+* The difference between the 5 hours and 2 hours is:
+    - 150 calories - 60 calories = 90 calories
+
+Answer: 90

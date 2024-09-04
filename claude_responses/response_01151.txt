@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Kobe ordered 5 pieces of fried chicken
+* Pau ordered twice as much fried chicken as Kobe
+* Twice as much as 5 is 10
+* So Pau ordered 10 pieces of fried chicken
+* They then order another set of fried chicken
+* For the first order, Kobe had 5 pieces and Pau had 10 pieces
+* For the second order, Kobe will have another 5 pieces and Pau will have another 10 pieces
+* In total, Pau will have eaten:
+    - First order: 10 pieces
+    - Second order: 10 pieces
+    - Total: 10 + 10 = 20 pieces
+
+Answer: 20

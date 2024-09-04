@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+1. Jerry needs to carry 4 cans at a time. So, he'll need to make 28/4 = 7 trips to the sink and back to his desk to drain the cans.
+
+2. Each trip takes him 20 seconds, so the total time spent going to the sink and back is 20 seconds.
+
+3. So, the total time spent draining the cans is 7 trips * 20 seconds = 140 seconds.
+
+4. Since Jerry takes 30 seconds to drain 4 cans, the time it takes to drain 1 can is 30/4 = 7.5 seconds.
+
+5. So, the total time spent draining the cans is 7.5 * 7 = 52.5 seconds.
+
+6. The total time it takes Jerry to throw all the cans away is the time it takes to drain the cans plus the time it takes to go to the sink and back. So, the total time is 52.5 + 140 = 192.5 seconds.
+
+Answer: 192.5

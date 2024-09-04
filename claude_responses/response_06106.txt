@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) There are 8 men with an average weight of 190 pounds.
+2) To find the total weight of the 8 men, we multiply the average weight (190 pounds) by the number of men (8):
+   8 men x 190 pounds = 1,520 pounds
+3) There are 6 women with an average weight of 120 pounds.
+4) To find the total weight of the 6 women, we multiply the average weight (120 pounds) by the number of women (6):
+   6 women x 120 pounds = 720 pounds
+5) To find the total weight of all 14 men and women, we add the total weight of the men (1,520 pounds) and the total weight of the women (720 pounds):
+   1,520 pounds + 720 pounds = 2,240 pounds
+6) To find the average weight of all 14 men and women, we divide the total weight (2,240 pounds) by the total number of people (14):
+   2,240 pounds / 14 people = 160 pounds
+
+Answer: 160

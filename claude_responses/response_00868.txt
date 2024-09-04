@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The flagpole is 12 feet tall.
+2) The flagpole breaks and folds over in half, such that the tip of the flagpole is now dangling 2 feet above the ground.
+3) Let's call the distance from the base where the flagpole broke "x".
+4) Since the flagpole folded in half, the distance from the base to the tip of the flagpole is now 6 feet (half of the original 12 feet).
+5) The tip of the flagpole is now 2 feet above the ground, so the distance from the base to the tip is 6 + 2 = 8 feet.
+6) Therefore, the distance from the base where the flagpole broke is 12 - 8 = 4 feet.
+
+Answer: 4 feet

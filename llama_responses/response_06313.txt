@@ -1,0 +1,13 @@
+Let's start by using a variable to represent Trevor's current age. Let's call it x.
+
+Trevor's brother is 32 years old now. So, 20 years ago, his age would have been x - 20.
+
+We know that 20 years ago, Trevor's brother was twice his age 20 years ago. So, his age 20 years ago would have been 2 * (x - 20).
+
+We know that 20 years ago, Trevor's brother was 2 * (x - 20). So, x - 20 = 16.
+
+So, 20 years ago, Trevor's brother was 16 years old.
+
+Now, we know that 20 years ago, Trevor's brother was 16 years old. So, we can subtract 20 from 16 to find his current age, which is 32.
+
+Answer: 32

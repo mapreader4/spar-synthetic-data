@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* James can make 4 hats out of 1 yard of velvet
+* He needs 3 yards of velvet to make 1 cloak
+* He needs to make 6 cloaks and 12 hats
+
+First, let's calculate how much velvet he needs for the 6 cloaks:
+* 6 cloaks x 3 yards per cloak = 18 yards of velvet
+
+Next, let's calculate how much velvet he needs for the 12 hats:
+* 12 hats / 4 hats per yard = 3 yards of velvet
+
+Finally, we add the velvet needed for the cloaks and the hats:
+* 18 yards + 3 yards = 21 yards of velvet
+
+Answer: 21

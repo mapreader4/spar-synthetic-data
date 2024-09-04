@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The total cost of the HVAC system is $20,000
+* The system includes 2 conditioning zones
+* Each conditioning zone has 5 vents
+* To calculate the cost per vent, we need to find the total number of vents in the system and then divide the total cost by the number of vents
+
+First, let's find the total number of vents:
+* There are 2 conditioning zones
+* Each conditioning zone has 5 vents
+* Therefore, the total number of vents is 2 x 5 = 10 vents
+
+Now, to find the cost per vent, we divide the total cost by the total number of vents:
+* Total cost: $20,000
+* Total number of vents: 10
+* Cost per vent = $20,000 / 10 = $2,000
+
+Answer: $2,000

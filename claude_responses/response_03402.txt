@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Normal price of a movie ticket: $8
+* Normal price of a bucket of popcorn: $8 - $3 = $5
+* Normal price of a drink: $5 + $1 = $6
+* Normal price of a candy: $6 / 2 = $3
+* Total normal price of a ticket, popcorn, drink, and candy: $8 + $5 + $6 + $3 = $22
+* The deal price for a ticket, popcorn, drink, and candy is $20
+* The deal saves the customer: $22 - $20 = $2
+
+Answer: $2

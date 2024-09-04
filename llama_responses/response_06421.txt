@@ -1,0 +1,10 @@
+Let's break down the information given:
+
+* Allie's bowl contained 2 more grapes than Rob's bowl, so let's call the number of grapes in Rob's bowl x. Then, Allie's bowl would have x + 2 grapes.
+* Allyn's bowl contained 4 more grapes than Allie's bowl, so Allyn's bowl would have x + 2 + 4 = x + 6 grapes.
+
+Since Rob's bowl had 25 grapes, we can set up the equation: x + 2 = 25. Solving for x, we get x = 23.
+
+So, Rob's bowl had 23 grapes, Allie's bowl had 23 + 2 = 25 grapes, and Allyn's bowl had 25 + 4 = 29 grapes. The total number of grapes is the sum of these three: 23 + 25 + 29 = 77.
+
+Answer: 77

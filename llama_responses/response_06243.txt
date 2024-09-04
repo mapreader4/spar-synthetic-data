@@ -1,0 +1,5 @@
+To find the total amount Jebb spent at the restaurant, we can first calculate the total cost of the food and then add the 12% service fee and the $5 tip.
+
+The total cost of the food is 50 dollars. 50 dollars is the cost of the food, and 12% is the service fee. The total cost is 50 * (1 + 0.12) = 55.75. Adding the $5 tip, the total cost is 55.75 + 5 = 60.75.
+
+Answer: 60.75

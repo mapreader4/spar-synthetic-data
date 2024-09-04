@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the length of the original board is x.
+
+Tom cuts the board to 143 cm, but it's too long, so it means that the length of the board is greater than 143 cm. He cuts 25 cm off the board, so the new length is 143 - 25 = 118 cm.
+
+However, this is still longer than the other boards, so Tom cuts 7 cm off each board to make them the same size. This means that the length of each board is now 118 - 7 = 111 cm.
+
+Since the original board was x, and the length of each board is now 111 cm, we can set up an equation to solve for x:
+
+x - 25 = 143
+
+To solve for x, we can add 25 to both sides of the equation:
+
+x = 143 + 25
+
+x = 168
+
+So, the length of the original board was 168 cm.
+
+Answer: 168

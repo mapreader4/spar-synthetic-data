@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We are given that 1 kg of tomatoes is 20% cheaper than 1 kg of cucumbers.
+2) We are also given that 1 kg of cucumbers costs $5.
+3) To find the price of 1 kg of tomatoes, we need to calculate the 20% discount from the price of 1 kg of cucumbers.
+4) The 20% discount on 1 kg of cucumbers is 0.20 * $5 = $1.
+5) Therefore, the price of 1 kg of tomatoes is $5 - $1 = $4.
+6) Now, we need to find the total cost of 2 kg of tomatoes and 3 kg of cucumbers.
+7) The cost of 2 kg of tomatoes is 2 * $4 = $8.
+8) The cost of 3 kg of cucumbers is 3 * $5 = $15.
+9) The total cost is $8 + $15 = $23.
+
+Answer: $23

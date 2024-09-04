@@ -1,0 +1,5 @@
+Let's first calculate how much oil is in the 10 cans that are holding 8 liters each. There are 10 cans, each with 8 liters, so the total oil is 10 * 8 = 80 liters.
+
+There are 290 liters of oil in total, and 80 liters are in the 10 cans that are holding 8 liters each. So, to find the oil in each of the remaining cans, we need to subtract 80 from 290. 290 - 80 = 210.
+
+So, the remaining cans are holding 210 liters of oil each.

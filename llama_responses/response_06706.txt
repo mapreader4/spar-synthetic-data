@@ -1,0 +1,19 @@
+Let's think step by step.
+
+Let's say the number of students in Grade 6 is x.
+
+The total number of students in all three grades is 100.
+
+The number of students in Grade 4 is 30. The number of students in Grade 5 is 35.
+
+So, the number of students in Grade 6 is the remaining number of students. We can set up an equation:
+
+30 + 35 + x = 100
+
+Subtract 30 from both sides of the equation to get:
+
+35 + x = 70
+
+So, x = 70.
+
+Answer: 70

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Iggy runs 3 miles on Monday, which takes 3 x 10 = 30 minutes. On Tuesday, he runs 4 miles, which takes 4 x 10 = 40 minutes. On Wednesday, he runs 6 miles, which takes 6 x 10 = 60 minutes. On Thursday, he runs 8 miles, which takes 8 x 10 = 80 minutes. On Friday, he runs 3 miles, which takes 3 x 10 = 30 minutes.
+
+To find the total number of hours, we add up the minutes: 30 + 40 + 60 + 80 + 30 = 200 minutes. There are 60 minutes in an hour, so we divide 200 by 60 to find the total number of hours: 200 ÷ 60 = 3.33 hours.

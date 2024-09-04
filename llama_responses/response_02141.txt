@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Jerry mows 8 acres of lawn each week. He mows ¾ of it with a riding mower that can cut 2 acres an hour. Let's call this part of the lawn x. Then he mows the rest of the lawn, which is 8 - x, with a push mower that can cut 1 acre an hour. We know that ¾ * 2 = 1.5 acres. So, the time it takes to mow the first part of the lawn is ¾ * 2 = 1.5 hours. The time it takes to mow the rest of the lawn is 8 - 1.5 = 6.5 hours. So, the total time it takes to mow the lawn is 1.5 + 6.5 = 8 hours.
+
+Answer: 8

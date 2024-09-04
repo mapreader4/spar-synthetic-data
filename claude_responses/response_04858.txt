@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The price of lemons increased by $4 per lemon. So, the new price of lemons is $8 + $4 = $12 per lemon.
+2) The price of grapes increased by half the price that the price of lemon increased by per grape. The price of lemons increased by $4, so the price of grapes increased by $4 / 2 = $2 per grape. The new price of grapes is $7 + $2 = $9 per grape.
+3) Erick had 80 lemons and 140 grapes in his basket.
+4) To calculate the total money collected, we multiply the new prices by the quantities:
+   - Lemons: 80 lemons x $12 per lemon = $960
+   - Grapes: 140 grapes x $9 per grape = $1,260
+5) The total money collected is the sum of the money from lemons and grapes:
+   $960 + $1,260 = $2,220
+
+Answer: $2,220

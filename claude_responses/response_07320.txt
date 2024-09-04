@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Alicia has 20 gumballs.
+2) Pedro has the same number of gumballs as Alicia, plus an additional number of gumballs equal to three times the number Alicia has.
+   * Alicia has 20 gumballs, so three times that is 60 additional gumballs for Pedro.
+   * Therefore, Pedro has 20 + 60 = 80 gumballs.
+3) They put all their gumballs in a bowl, so the total number of gumballs in the bowl is 20 + 80 = 100 gumballs.
+4) Pedro then takes out 40% of the gumballs to eat.
+   * 40% of 100 gumballs is 0.4 * 100 = 40 gumballs.
+   * So, Pedro takes out 40 gumballs.
+5) The remaining number of gumballs in the bowl is 100 - 40 = 60 gumballs.
+
+Answer: 60

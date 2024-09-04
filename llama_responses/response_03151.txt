@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's say Jason had some initial amount of money. Let's call it x.
+
+After spending 1/4 of his money on some books, he spent 1/4 of x, so he was left with 3/4 of his money.
+
+Then, he spent 2/5 of the remaining money on some DVDs. This means he spent 2/5 of 3/4 of his money, which is 6/20 of his money.
+
+He spent an additional $8 on some DVDs, so we add that to the 6/20 of his money he spent, which is 8/20 of his money.
+
+So, he spent 8/20 of his money, which is 2/5 of his money.
+
+He was left with $130. So, to find the initial amount of money Jason had, we can set up an equation:
+
+3/4x - 8/20x = 130
+
+We can solve for x by multiplying both sides by 20:
+
+3x - 16x = 2600
+
+Add 16x to both sides to get:
+
+3x = 1316
+
+Divide both sides by 3:
+
+x = 437
+
+Answer: 437

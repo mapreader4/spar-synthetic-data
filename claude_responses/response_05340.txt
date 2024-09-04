@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. John takes 13 seconds to run 100 meters, and he covers 4 meters in the first second.
+2. Since John maintains the same speed for the rest of the race, we can calculate his speed:
+   * Speed = Distance / Time
+   * Speed = (100 m - 4 m) / (13 s - 1 s)
+   * Speed = 96 m / 12 s
+   * Speed = 8 m/s
+3. James is 2 m/s faster than John at the top speed, so James' top speed is 8 m/s + 2 m/s = 10 m/s.
+4. James can run the first 10 meters in 2 seconds, so his speed for the first 10 meters is:
+   * Speed = Distance / Time
+   * Speed = 10 m / 2 s
+   * Speed = 5 m/s
+5. Since James' top speed is 10 m/s, and he can run the first 10 meters in 2 seconds at 5 m/s, we can calculate the time it takes him to run the remaining 90 meters:
+   * Remaining Distance = 100 m - 10 m = 90 m
+   * Remaining Time = Remaining Distance / Top Speed
+   * Remaining Time = 90 m / 10 m/s
+   * Remaining Time = 9 s
+6. Therefore, the total time it takes James to run 100 meters is:
+   * Total Time = Time for first 10 meters + Time for remaining 90 meters
+   * Total Time = 2 s + 9 s
+   * Total Time = 11 s
+
+Answer: 11 seconds

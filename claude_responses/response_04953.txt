@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Each carton has 20 cans of juice.
+2) There are 50 cartons that have been packed.
+3) Out of the 50 cartons, only 40 cartons have been loaded on the truck.
+4) To find the number of cans of juice left to be loaded, we need to find the difference between the total number of cans packed and the number of cans already loaded on the truck.
+5) The total number of cans packed is 50 cartons x 20 cans per carton = 1,000 cans.
+6) The number of cans already loaded on the truck is 40 cartons x 20 cans per carton = 800 cans.
+7) The number of cans left to be loaded is 1,000 cans - 800 cans = 200 cans.
+
+Answer: 200

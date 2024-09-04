@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+* The last time Jamie rescued a cat, the tree was 6 feet tall and he had to climb 12 rungs of his ladder.
+* This time, the tree is 20 feet tall.
+* We can assume that the relationship between the height of the tree and the number of rungs Jamie has to climb is linear.
+* In the previous rescue, Jamie climbed 12 rungs for a 6-foot tree.
+* To find the number of rungs he needs to climb for a 20-foot tree, we can set up a proportion:
+6 feet / 12 rungs = 20 feet / x rungs
+* Cross-multiplying, we get:
+6x = 240
+* Solving for x, we get:
+x = 40 rungs
+
+Answer: 40

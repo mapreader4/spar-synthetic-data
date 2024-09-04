@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The average temperature for the week was 60 degrees.
+* The temperature for the first 3 days was 40 degrees each.
+* The temperature for Thursday and Friday was 80 degrees each.
+* We need to find the total temperature for the remaining days of the week.
+
+To calculate the total temperature for the remaining days, we can use the formula for average:
+Average = (Sum of all values) / (Number of values)
+
+We know the average is 60 degrees, and we know the temperatures for the first 5 days. So we can calculate the sum of the temperatures for the first 5 days:
+* 3 days at 40 degrees = 120 degrees
+* 2 days at 80 degrees = 160 degrees
+* Total for first 5 days = 120 + 160 = 280 degrees
+
+Now we can use the average formula to find the sum of the temperatures for the remaining days:
+* Average = 60 degrees
+* Number of days = 7
+* Sum of all values = Average * Number of days = 60 * 7 = 420 degrees
+* Sum of first 5 days = 280 degrees
+* Sum of remaining 2 days = 420 - 280 = 140 degrees
+
+Therefore, the total temperature of the remaining days of the week is 140 degrees.
+
+Answer: 140

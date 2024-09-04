@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Tamia is using 5 bell peppers
+* She cuts each bell pepper into 20 large slices
+* So for the 5 bell peppers, she has a total of 5 * 20 = 100 large slices
+* She then takes half of those 100 large slices and cuts them into 3 smaller pieces each
+* So she has 100 / 2 = 50 large slices that she cuts into 3 smaller pieces
+* That means she has an additional 50 * 3 = 150 smaller pieces
+* In total, she has the 100 large slices plus the 150 smaller pieces
+* Answer: 250

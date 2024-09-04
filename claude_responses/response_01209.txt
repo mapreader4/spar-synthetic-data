@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Jame has 60 bars of gold.
+2) He uses 10% of them to pay for tax.
+   * 10% of 60 = 0.10 * 60 = 6 bars of gold used for tax
+   * So, he has 60 - 6 = 54 bars of gold left.
+3) He then loses half of what is left in divorce.
+   * Half of 54 = 54 / 2 = 27 bars of gold lost in divorce.
+   * So, he has 54 - 27 = 27 bars of gold left.
+
+Answer: 27

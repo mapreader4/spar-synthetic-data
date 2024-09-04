@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Math homework takes 60 minutes.
+* Geography homework takes half as long as math homework, so it will take 30 minutes.
+* Science homework takes the mean amount of time spent studying math and geography. To find the mean, we need to add the time spent on math and geography and divide by 2.
+
+First, let's add the time spent on math and geography:
+
+60 (math) + 30 (geography) = 90
+
+Now, let's divide the sum by 2:
+
+90 ÷ 2 = 45
+
+So, Milly spends 45 minutes studying science homework.
+
+Now, let's add the total time spent on all three subjects:
+
+60 (math) + 30 (geography) + 45 (science) = 135
+
+Milly spends 135 minutes studying.
+
+Answer: 135

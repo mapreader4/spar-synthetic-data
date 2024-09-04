@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Brinley counted 100 snakes
+* Brinley counted 80 arctic foxes
+* Brinley counted 20 leopards
+* Brinley saw ten times more bee-eaters than leopards
+* Brinley saw half as many cheetahs as snakes
+* Brinley saw twice as many alligators as the total number of Arctic foxes and leopards
+
+First, let's calculate the number of bee-eaters:
+* 10 times more bee-eaters than leopards
+* 10 x 20 = 200 bee-eaters
+
+Next, let's calculate the number of cheetahs:
+* Half as many cheetahs as snakes
+* 100 / 2 = 50 cheetahs
+
+Now, let's calculate the number of alligators:
+* Twice as many alligators as the total number of Arctic foxes and leopards
+* 80 + 20 = 100 total Arctic foxes and leopards
+* 100 x 2 = 200 alligators
+
+Finally, let's add up the total number of animals:
+* 100 snakes + 80 arctic foxes + 20 leopards + 200 bee-eaters + 50 cheetahs + 200 alligators
+* 100 + 80 + 20 + 200 + 50 + 200 = 650 animals
+
+Answer: 650

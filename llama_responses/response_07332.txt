@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say the price of the first 3 pieces of art is x. Since the total price for the first 3 pieces is $45,000, we can set up an equation:
+
+3x = 45000
+
+To find the price of each piece of art, we can divide both sides of the equation by 3:
+
+x = 45000 / 3
+
+x = 15000
+
+Now, the next piece of art is 50% more expensive than the first 3 pieces, so the price of this piece is 15000 * 1.5 = 22500.
+
+The total price for all the art is the sum of the price of the first 3 pieces and the price of the 4th piece:
+
+15000 + 22500 = 37500
+
+Answer: 37500

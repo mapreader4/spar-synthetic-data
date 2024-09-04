@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Mell ordered 2 cups of coffee and 1 piece of cake, so her total cost is:
+
+2 cups of coffee = 2 x $4 = $8
+1 piece of cake = $7
+Total cost for Mell = $8 + $7 = $15
+
+Two of her friends also ordered the same: 2 cups of coffee and 1 piece of cake, so their total cost is also:
+
+2 cups of coffee = 2 x $4 = $8
+1 piece of cake = $7
+Total cost for each friend = $8 + $7 = $15
+
+Each of these friends also bought a bowl of ice cream, so their total cost is:
+
+$15 (for coffee and cake) + $3 (for ice cream) = $18
+
+Since there are two friends, the total cost for their orders is:
+
+2 x $18 = $36
+
+Adding Mell's cost to the total cost for her friends, the total cost for all three is:
+
+$15 (Mell) + $36 (friends) = $51
+
+Answer: 51

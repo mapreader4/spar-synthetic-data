@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 500 salmon in river Trout.
+* The total number of salmon has increased by ten times the initial number.
+* To calculate the new total number of salmon, we take the initial number (500) and multiply it by 10.
+* 500 x 10 = 5,000 salmon.
+
+Therefore, the total number of fish in the river now is:
+Answer: 5,000

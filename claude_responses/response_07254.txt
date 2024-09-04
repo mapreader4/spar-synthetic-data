@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Henry has 3 more country CDs than rock CDs.
+2) He has twice as many rock CDs as classical CDs.
+3) He has 23 country CDs.
+
+Let's start by finding the number of rock CDs:
+* If Henry has 3 more country CDs than rock CDs, and he has 23 country CDs, then the number of rock CDs must be 23 - 3 = 20.
+
+Now, we know that he has twice as many rock CDs as classical CDs. So:
+* Number of classical CDs = 20 / 2 = 10.
+
+Therefore, the answer is:
+Answer: 10

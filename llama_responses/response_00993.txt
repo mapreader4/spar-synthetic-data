@@ -1,0 +1,15 @@
+Let's break this problem down step by step:
+
+Rick has 130 cards initially. He decides to keep 15 cards, which means he gave away 130 - 15 = 115 cards.
+
+He gave 12 cards to each of his 8 friends, so he gave away 8 * 12 = 96 cards. 
+
+Rick has 115 - 96 = 19 cards remaining.
+
+He gave his 2 sisters each 3 cards, so he gave away 2 * 3 = 6 cards.
+
+He gave away 96 + 6 = 102 cards to his friends and sisters.
+
+So, Rick gave 102 cards to others, and he had 19 cards remaining. 
+
+The answer is: Answer: 102

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Matt can write 10 words per minute with his right hand
+* Matt can write 7 words per minute with his left hand
+* We want to find the difference in the number of words written in 5 minutes with the right hand versus the left hand
+
+First, let's calculate the number of words written in 5 minutes with the right hand:
+* 10 words per minute x 5 minutes = 50 words
+
+Next, let's calculate the number of words written in 5 minutes with the left hand:
+* 7 words per minute x 5 minutes = 35 words
+
+Finally, to find the difference, we subtract the number of words written with the left hand from the number of words written with the right hand:
+* 50 words - 35 words = 15 words
+
+Answer: 15

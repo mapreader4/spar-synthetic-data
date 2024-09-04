@@ -1,0 +1,33 @@
+Let's start by identifying what we know:
+
+* Duke needs 17 points to tie the record, but he breaks the record by 5 points, so he scores 17 + 5 = 22 points in total.
+* The old record is 257 points, so Duke scores 22 points, which means he scores 257 + 5 = 262 points in total.
+* Duke scores 5 free throws, which is 5 points.
+* He scores 4 regular baskets, which is 4 x 2 = 8 points.
+* He normally scores 2 three-pointers a game, so in the final game, he scored 2 x? =? three-pointers.
+
+We can set up an equation to represent the number of three-pointers he scored in the final game:
+
+2 +? = x
+
+We know that the total points he scored is 22, so we can set up an equation to represent the total points:
+
+5 (free throws) + 8 (regular baskets) + 2x (three-pointers) = 22
+
+Combine like terms:
+
+5 + 8 + 2x = 22
+
+Add 5 and 8:
+
+13 + 2x = 22
+
+Subtract 13 from both sides:
+
+2x = 9
+
+Divide both sides by 2:
+
+x = 4.5
+
+Since you can't score a fraction of a three-pointer, we round down to the nearest whole number. Therefore, Duke scored 4 three-pointers in the final game, which is 2 more than his normal amount.

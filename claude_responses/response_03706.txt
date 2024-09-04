@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Bobby's weekly salary is $450
+* Federal taxes remove 1/3 of his salary, which is 1/3 * $450 = $150
+* State taxes remove 8% of his salary, which is 0.08 * $450 = $36
+* Health insurance removes $50 per week
+* Life insurance removes $20 per week
+* City parking fee is $10 per week
+
+Now, let's calculate the total deductions:
+* Total deductions = Federal taxes ($150) + State taxes ($36) + Health insurance ($50) + Life insurance ($20) + Parking fee ($10)
+* Total deductions = $150 + $36 + $50 + $20 + $10 = $266
+
+Finally, we can calculate the final amount left in Bobby's paycheck:
+* Final paycheck = Salary ($450) - Total deductions ($266)
+* Final paycheck = $450 - $266 = $184
+
+Answer: $184

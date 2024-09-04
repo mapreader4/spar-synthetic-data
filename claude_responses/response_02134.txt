@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Martha collected 90 cans.
+2) Diego collected 10 more than half the cans collected by Martha. 
+   * Half of 90 is 45.
+   * Diego collected 45 + 10 = 55 cans.
+3) The total number of cans collected by Martha and Diego is 90 + 55 = 145 cans.
+4) The total number of cans they need to collect for their project is 150 cans.
+5) The number of additional cans they need to collect is 150 - 145 = 5 cans.
+
+Answer: 5

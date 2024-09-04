@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Last year, walkers earned $4 a mile.
+* This year, walkers earn $2.75 a mile.
+* Last year's winner collected $44.
+
+We are asked to find the number of miles Elroy needs to walk to collect the same amount of money as last year's winner.
+
+Let's start by finding the total distance last year's winner walked to earn $44:
+
+$44 / $4 = 22 miles
+
+So last year's winner walked 22 miles.
+
+Now, we know that Elroy earns $2.75 a mile. To find the number of miles he needs to walk to collect the same amount of money, we can set up an equation:
+
+$2.75x = $44
+
+To solve for x, we can divide both sides by $2.75:
+
+x = $44 / $2.75
+
+x = 16
+
+So Elroy needs to walk 16 miles to collect the same amount of money as last year's winner.

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Ralph started with 175 tennis balls.
+
+Out of the first 100 balls, he hit 2/5 of them, which is 2/5 * 100 = 40 balls.
+
+Out of the next 75 balls, he hit 1/3 of them, which is 1/3 * 75 = 25 balls.
+
+In total, Ralph hit 40 + 25 = 65 balls.
+
+So, to find out how many balls he did not hit, we subtract the number of balls he hit from the total number of balls:
+
+175 - 65 = 110
+
+Answer: 110

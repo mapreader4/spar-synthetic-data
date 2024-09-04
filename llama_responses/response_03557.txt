@@ -1,0 +1,17 @@
+Let's think step by step.
+
+The pool holds 2000 L of water, and it needs to be at least 80% full to stay clean. So, the minimum amount of water it can be is 80% of 2000 L. To find this, we multiply 2000 L by 0.8:
+
+2000 x 0.8 = 1600 L
+
+So, the minimum amount of water is 1600 L. Since 400 ml of water evaporates each time someone jumps in the pool, we need to find how many times 400 ml of water is equal to 1600 L.
+
+To do this, we can convert 400 ml to L by dividing by 1000 (since there are 1000 ml in 1 L):
+
+400 ml ÷ 1000 = 0.4 L
+
+Now, we can find how many times 0.4 L is in 1600 L:
+
+1600 L ÷ 0.4 L = 4000
+
+So, people can jump in the pool 4000 times before Jim has to clean it.

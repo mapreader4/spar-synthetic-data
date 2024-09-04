@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of eggs that don't get eaten. 10 percent of 800 is 0.8, so 800 - 80 = 720 eggs remain.
+
+Next, 1/4 of 720 is 180, so 180 eggs hatch.
+
+Answer: 180

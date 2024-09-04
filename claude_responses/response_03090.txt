@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The standard robot weighs 100 pounds.
+2) The robot can be no more than twice the minimum weight.
+3) The robot can be no less than 5 pounds heavier than the standard robot.
+4) To find the maximum weight, we need to find the minimum weight first.
+5) The minimum weight is 100 pounds + 5 pounds = 105 pounds.
+6) The maximum weight is twice the minimum weight, which is 2 * 105 pounds = 210 pounds.
+
+Answer: 210

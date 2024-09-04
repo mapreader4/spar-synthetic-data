@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Tom has a quarter as much money as Nataly. This means that if Nataly has $x, then Tom has $x/4.
+2) Nataly has three times as much money as Raquel. This means that if Raquel has $40, then Nataly has $120.
+3) Now we can calculate how much money Tom has. Since Nataly has $120, and Tom has a quarter of that, Tom has $120/4 = $30.
+4) The total amount of money that Tom, Raquel, and Nataly have combined is the sum of their individual amounts:
+   Tom: $30
+   Raquel: $40
+   Nataly: $120
+   Total: $30 + $40 + $120 = $190
+
+Answer: $190

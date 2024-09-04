@@ -1,0 +1,5 @@
+Let's start by identifying the number of students who are reading.
+
+The number of girls is 12 and the number of boys is 10. The number of girls who are reading is 5/6 of 12, so it is 10. The number of boys who are reading is 4/5 of 10, so it is 8.
+
+So, the total number of students who are not reading is 12 - (10 + 10) = 22 - 18 = 4.

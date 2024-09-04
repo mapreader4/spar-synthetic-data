@@ -1,0 +1,18 @@
+Let's break down the information:
+
+We know that Thomas has 25 drawings in total.
+We know that 14 of the drawings were made using colored pencils.
+We know that 7 of the drawings were made using blending markers.
+
+To find the number of charcoal drawings, we need to subtract the number of drawings made using colored pencils and drawings made using blending markers from the total number of drawings.
+
+Number of drawings made using colored pencils: 14
+Number of drawings made using blending markers: 7
+
+Total number of drawings: 25
+
+Subtracting the number of drawings made using colored pencils and blending markers from the total number of drawings:
+
+25 - 14 - 7 = 4
+
+Answer: 4

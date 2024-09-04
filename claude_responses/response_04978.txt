@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The rows are 120 feet long.
+2) Each seed needs 18 inches of dedicated space to its right.
+3) To convert 120 feet to inches, we multiply 120 by 12 (since there are 12 inches in a foot).
+4) 120 feet x 12 inches/foot = 1440 inches.
+5) Since each seed needs 18 inches of dedicated space, we can divide the total length of 1440 inches by 18 inches to find the number of seeds that can be planted in each row.
+6) 1440 inches / 18 inches = 80 seeds.
+
+Answer: 80

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The conference room has 40 chairs, with a capacity of 2 people each
+* The number of board members is the same as the chairs' capacity, which is 2 people per chair
+* 2/5 of the chairs were not occupied
+* The remaining chairs each had two people
+
+First, let's calculate the total capacity of the conference room:
+* 40 chairs x 2 people per chair = 80 people
+
+Now, let's calculate how many chairs were not occupied:
+* 2/5 of 40 chairs = 16 chairs not occupied
+
+The remaining chairs were each occupied by 2 people:
+* 40 chairs - 16 chairs not occupied = 24 chairs occupied
+* 24 chairs x 2 people per chair = 48 people
+
+Therefore, the number of board members who attended the meeting is:
+Answer: 48

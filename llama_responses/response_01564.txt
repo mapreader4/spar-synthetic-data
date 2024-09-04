@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding out how many minutes she watched on Monday. She watched 138 minutes, which is 138 - 44 * 2 = 132.
+
+Then, on Thursday, she watched 21 minutes. On Friday, she watched 2 episodes, each of which is 44 minutes long. So, she watched 2 * 44 = 88 minutes.
+
+Now, let's find the total number of minutes she watched over the weekend. 132 + 88 = 220.
+
+So, the answer is: Answer: 220.

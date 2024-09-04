@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Jaden had 14 toy cars initially. Then he bought 28 cars from the toy store. So, Jaden now has 14 + 28 = 42 toy cars.
+
+Jaden got 12 cars for his birthday, so now he has 42 + 12 = 54 toy cars.
+
+Jaden gave 8 of the toy cars to his sister, so he has 54 - 8 = 46 toy cars left.
+
+Jaden gave 3 of the toy cars to his friend Vinnie, so he has 46 - 3 = 43 toy cars left.
+
+Answer: 43

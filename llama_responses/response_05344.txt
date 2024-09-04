@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the number of students who wish to go on a scavenger hunting trip is x.
+
+We know that the number of students who wish to go on a skiing trip is twice the number of students who wish to go on a scavenger hunting trip. So, we can set up an equation to represent this relationship.
+
+Let's write the equation:
+
+x = 2x
+
+We know that the number of students who wish to go on the scavenger hunting trip is 4000. We can substitute this value into the equation:
+
+2x = 4000
+
+To solve for x, we can divide both sides of the equation by 2:
+
+x = 4000 / 2
+
+x = 2000
+
+So, there are 2000 students who wish to go on the skiing trip.
+
+To find the total number of students, we add the number of students who wish to go on the skiing trip to the number of students who wish to go on the scavenger hunting trip:
+
+2000 + 4000 = 6000
+
+Answer: 6000

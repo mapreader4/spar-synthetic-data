@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total number of seats available for the 15 tables. Each table can seat 10 people, so there are 15 x 10 = 150 seats.
+
+Since 1/10 of the seats are left unseated, we can find the number of seats taken by subtracting the number of unseated seats from the total number of seats:
+
+150 - 15/10 = 135
+
+Answer: 135

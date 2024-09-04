@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The initial price of RAM was $50.
+2) Due to the fire, the price of RAM increased by 30%.
+3) To calculate the new price after the 30% increase, we take the initial price of $50 and multiply it by 1.30 (since a 30% increase is the same as multiplying by 1.30).
+4) $50 x 1.30 = $65, so the new price of RAM after the 30% increase is $65.
+5) After two years, the price of RAM finally fell by 20% from the $65 price.
+6) To calculate the new price after the 20% decrease, we take the $65 price and multiply it by 0.80 (since a 20% decrease is the same as multiplying by 0.80).
+7) $65 x 0.80 = $52, so the current price of RAM is $52.
+
+Answer: 52

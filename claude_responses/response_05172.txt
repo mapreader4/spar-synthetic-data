@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Emmett did 12 jumping jacks, 8 pushups, and 20 situps.
+* The total number of exercises Emmett did is the sum of these: 12 + 8 + 20 = 40 exercises.
+* To calculate the percentage of exercises that were pushups, we take the number of pushups (8) and divide it by the total number of exercises (40), then multiply by 100 to get the percentage.
+* 8 / 40 = 0.2
+* 0.2 * 100 = 20%
+
+Answer: 20%

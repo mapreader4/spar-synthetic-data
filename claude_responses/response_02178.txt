@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Ben bought the lawnmower for $100.
+2) After 6 months, the value of the mower dropped by 25%. To calculate the new value:
+   * Original value: $100
+   * 25% drop means the value is now 75% of the original value
+   * 75% of $100 = $75
+3) Over the next year, the value of the mower dropped another 20%. To calculate the new value:
+   * Original value: $75
+   * 20% drop means the value is now 80% of the original value
+   * 80% of $75 = $60
+Therefore, after the 6 months and 1 year, the lawnmower is worth $60.
+
+Answer: 60

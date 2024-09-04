@@ -1,0 +1,37 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that:
+
+1. Three friends go out for lunch.
+2. Adam spends two-thirds as much money on lunch as Rick.
+3. Rick and Jose eat lunch of the same price.
+4. Jose ate lunch worth $45.
+
+From point 2, we know that Adam's lunch cost is two-thirds of Rick's lunch cost. Let's call Rick's lunch cost 'x'. Then, we can set up an equation to represent this:
+
+Adam's lunch cost = 2/3 * x
+
+We know that Jose's lunch cost is the same as Rick's lunch cost, so we can set up another equation to represent this:
+
+Jose's lunch cost = x
+
+Now we have two equations and one variable. We can solve for x by multiplying both sides of the first equation by 3:
+
+2/3 * x = x
+3 * x = 45
+
+Now, we can solve for x:
+
+x = 45 / 3
+x = 15
+
+So, Adam's lunch cost is 2/3 * 15 = 10, and Rick's lunch cost is x = 15.
+
+To find the total cost of lunch for all three, we need to add up their lunch costs:
+
+Adam's lunch cost + Rick's lunch cost + Jose's lunch cost
+10 + 15 + 15
+25 + 15
+40
+
+Answer: 40

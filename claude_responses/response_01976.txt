@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Madison makes 30 paper boats
+* 20% of the 30 boats are eaten by fish
+* To calculate 20% of 30:
+    - 20% = 0.20
+    - 0.20 * 30 = 6
+    - So 6 boats are eaten by fish
+* Madison shoots 2 of the remaining boats with flaming arrows
+* Originally there were 30 boats
+* 6 boats were eaten by fish
+* 2 boats were shot with flaming arrows
+* So the number of boats left is:
+    - 30 - 6 - 2 = 22
+
+Answer: 22

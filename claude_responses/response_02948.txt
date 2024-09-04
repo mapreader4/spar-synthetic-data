@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) The pyramid has 3 levels.
+2) The bottom level has 7 legos per side.
+3) Each level has one less lego per side than the level below it.
+4) The number of legos per side for each level is:
+   - Bottom level: 7 legos per side
+   - Middle level: 6 legos per side
+   - Top level: 5 legos per side
+5) The total number of legos needed for the bottom level is 7 x 7 = 49 legos.
+6) The total number of legos needed for the middle level is 6 x 6 = 36 legos.
+7) The total number of legos needed for the top level is 5 x 5 = 25 legos.
+8) The total number of legos needed for the entire pyramid is 49 + 36 + 25 = 110 legos.
+
+Answer: 110

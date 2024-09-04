@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Brady gets paid 70 cents for each recipe card he transcribes
+* He also gets a $10 bonus each time he transcribes 100 cards
+* He transcribes 200 cards
+
+First, let's calculate how much he earns for the 200 cards he transcribed:
+* 200 cards x $0.70 per card = $140
+
+Now, let's calculate the bonus he gets:
+* He transcribed 200 cards, which is 2 sets of 100 cards
+* 2 sets of 100 cards = 2 bonuses of $10 each
+* 2 x $10 = $20
+
+Finally, to get the total amount he earned, we add the amount he earned for the cards and the bonuses:
+* $140 + $20 = $160
+
+Answer: $160

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Ben spends 20% of his after-tax income on his car.
+2) His car payment is $400.
+3) He pays 1/3 of his gross income in taxes.
+
+To find his monthly income before taxes, we need to work backwards from the car payment.
+
+First, we know that the car payment is 20% of his after-tax income. So, to find his after-tax income, we divide the car payment by 0.2:
+* After-tax income = $400 / 0.2 = $2,000
+
+Next, we know that he pays 1/3 of his gross income in taxes. So, to find his gross income, we divide his after-tax income by (1 - 1/3) = 2/3:
+* Gross income = $2,000 / (2/3) = $3,000
+
+Therefore, Ben makes $3,000 per month before taxes.
+
+Answer: $3,000

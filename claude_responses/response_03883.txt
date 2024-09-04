@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Paul drinks 3 bottles of juice per day
+* Donald drinks 3 more than twice the number of juice bottles that Paul drinks in one day
+* To find the number of bottles Donald drinks, we first need to find twice the number of bottles that Paul drinks
+* Twice the number of bottles that Paul drinks is 2 x 3 = 6 bottles
+* Donald drinks 3 more than 6 bottles, so he drinks 6 + 3 = 9 bottles per day
+
+Answer: 9

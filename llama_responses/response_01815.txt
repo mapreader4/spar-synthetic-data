@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Jim has 2 rows of 4 trees initially. So, he has 2 * 4 = 8 trees initially.
+
+When he turns 10, he decides to plant a new row of trees every year on his birthday. So, he plants 4 new trees each year.
+
+When he turns 15, he doubles the number of trees he has. So, he doubles 8 + 4 * 7 = 24 trees.
+
+Answer: 32

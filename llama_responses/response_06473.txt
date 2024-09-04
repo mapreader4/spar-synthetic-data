@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of candies Bobby eats in a week. He eats 2 candies a day from Monday through Friday, which is 5 days. So, he eats 5 * 2 = 10 candies. He also eats 1 candy each on Saturday and Sunday, so he eats 2 more candies. In total, he eats 10 + 2 = 12 candies in a week.
+
+Now, we know that it takes him 3 weeks to finish the 2 packets. So, we can set up an equation to represent the total number of candies: 2x = 3 * 12.
+
+We can solve for x, which is the number of candies in a packet. 2x = 3 * 12 is the same as 2 * 3 = 6. So, there are 6 candies in a packet.

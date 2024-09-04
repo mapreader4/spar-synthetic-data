@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given to us. We know that Alyssa, Keely, and Kendall ordered 100 chicken nuggets. We also know that Keely and Kendall each ate twice as many as Alyssa. This means that the number of nuggets eaten by Keely and Kendall is twice the number eaten by Alyssa.
+
+Let's let x be the number of nuggets eaten by Alyssa. Then, the number of nuggets eaten by Keely and Kendall will be 2x. So, we can set up an equation to represent this information:
+
+x + 2x = 100
+
+We know that the total number of nuggets is 100, so we can solve for x:
+
+x + 2x = 100
+x = 100 / 3
+x = 33
+
+So, Alyssa ate 33 nuggets.

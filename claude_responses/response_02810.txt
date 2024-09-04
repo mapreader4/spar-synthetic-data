@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) We are given that there are 4 times as many red crayons as blue crayons.
+2) We are also given that there are 3 blue crayons.
+3) Since there are 4 times as many red crayons as blue crayons, and there are 3 blue crayons, we can calculate the number of red crayons:
+   * Number of red crayons = 4 x 3 = 12
+4) Now we can calculate the total number of crayons in the box:
+   * Total number of crayons = Number of red crayons + Number of blue crayons
+   * Total number of crayons = 12 + 3 = 15
+
+Answer: 15

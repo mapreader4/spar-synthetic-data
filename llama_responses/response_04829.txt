@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+For each triangle, Bill drew 3 sides, so for 12 triangles, he drew 12 * 3 = 36 lines.
+
+For each square, Bill drew 4 sides, so for 8 squares, he drew 8 * 4 = 32 lines.
+
+For each pentagon, Bill drew 5 sides, so for 4 pentagons, he drew 4 * 5 = 20 lines.
+
+To find the total number of lines, we add the number of lines from each shape: 36 + 32 + 20 = 88.
+
+Answer: 88

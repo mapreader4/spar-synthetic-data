@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. First, we need to find the total number of cows and sheep on the farm. The problem states that Mr. Reyansh has 40 cows and a sheep ranch with 10 times the number of cows, so we can multiply 40 by 10 to get the number of sheep. 40 * 10 = 400. So, there are a total of 440 animals (40 cows + 400 sheep) on the farm.
+
+2. Now, we need to find the total amount of water each animal drinks in a day. The cows drink 80 liters of water each day, so we can multiply 40 by 80 to get the total amount of water the cows drink in a day. 40 * 80 = 3200 liters. The sheep drink 1/4 as much water as a cow does, so we can multiply 3200 by 1/4 to get the total amount of water the sheep drink in a day. 3200 / 4 = 800 liters.
+
+3. Finally, we need to find the total amount of water Mr. Reyansh uses in a week. There are 7 days in a week, so we can multiply the daily amount of water the animals drink by 7 to get the total amount of water used in a week. 3200 + 800 * 7 = 22400 liters.
+
+Answer: 22400

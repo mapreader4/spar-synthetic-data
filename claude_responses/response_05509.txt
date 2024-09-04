@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The box contains 10 purple candies
+* The box contains 4 more yellow candies than purple candies
+* So, the number of yellow candies is 10 + 4 = 14
+* The box contains 2 fewer green candies than yellow candies
+* So, the number of green candies is 14 - 2 = 12
+* To find the total number of rainbow nerds in the box, we add up the number of purple, yellow, and green candies:
+* 10 purple + 14 yellow + 12 green = 36 total rainbow nerds
+
+Answer: 36

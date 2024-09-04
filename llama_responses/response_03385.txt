@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Daria has $500 saved to pay for the furniture, which she uses to pay for the couch ($750) and the table ($100) and the lamp ($50). To find out how much she has left, we subtract the cost of the items from the initial $500:
+
+$500 - $750 = -$250 (oops, we can't have a negative amount, so that's not the right calculation)
+$500 - $100 = $400
+$400 - $50 = $350
+
+So, Daria has $350 left.
+
+However, this is the amount she has paid upfront, and the rest will be on her credit card statement until the next month. Since she didn't pay the full amount, the interest will be added to the remaining balance.
+
+So, she still owes:
+
+$350 + (interest) =?
+
+Since we don't know the interest rate or the number of days until the next payment, we can't calculate the interest yet. However, we can say that Daria still owes $350, plus the interest that will be added to it.
+
+Answer: 350

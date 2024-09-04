@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Let's start by considering the width of the river, which is 42 feet. We know that the boats are 3 feet across, so we need to make sure that the boats have at least 2 feet between them.
+
+Let's say there are x boats. Then, the total width of the boats will be 3x, which is 3x. We know that the total width of the river is 42, so we can set up an equation:
+
+3x >= 42
+
+We can solve for x by dividing both sides by 3:
+
+x = 14
+
+So, the answer is 14.

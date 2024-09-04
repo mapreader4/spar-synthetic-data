@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The farmer has 40% male cows and the rest are female cows.
+2) If 40% of the cows are male, then the remaining 60% must be female.
+3) We are told the farmer has 50 male cows.
+4) To find the number of female cows, we can use the 60% ratio:
+   * 60% of the total cows = 50 / 0.4 = 125 female cows
+5) Each female cow produces 2 gallons of milk per day.
+6) So the total milk produced per day by the female cows is:
+   * 125 female cows x 2 gallons per day = 250 gallons per day
+
+Answer: 250 gallons

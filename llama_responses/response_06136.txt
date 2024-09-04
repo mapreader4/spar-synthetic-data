@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's start by finding the total number of cookies. There are 24 cookies in each tray, and there are 4 trays. So, the total number of cookies is 24 * 4 = 96 cookies.
+
+Next, we need to find the number of cookies in each pack. We are told that the cookies were divided into eight packs. To do this, we can divide the total number of cookies, 96, by the number of packs, 8.
+
+96 cookies divided by 8 is 96 / 8 = 12.
+
+So, Candy placed 12 cookies in each pack.
+
+Answer: 12

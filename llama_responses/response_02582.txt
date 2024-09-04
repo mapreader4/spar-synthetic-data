@@ -1,0 +1,17 @@
+Let's start by letting the age of Markus be x.  Then, his son is twice the age of Markus, so his age is 2x.  Then, his grandson is twice the age of his son, so his age is 2(2x) = 4x.  The sum of the ages of Markus, his son, and his grandson is 140, so we can set up an equation:
+
+x + 2x + 4x = 140
+
+We can solve for x by subtracting 2x and 4x from both sides of the equation:
+
+x + 2x = 140 - 4x
+
+x = 140 - 4x
+
+x = (140 - 4x) / 3
+
+x = 140/3
+
+x = 46.67
+
+So Markus's grandson is 46.67 years old.

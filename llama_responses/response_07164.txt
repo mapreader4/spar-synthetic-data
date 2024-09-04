@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+There are 21 consonants in the alphabet, and 1/7 of them are missing. To find the number of missing consonants, we can multiply 21 by 1/7:
+
+21 * 1/7 = 3
+
+So, 3 consonants are missing.
+
+There are 5 vowels in the alphabet, so the total number of missing keys is:
+
+3 (consonants) + 2 (vowels) = 5
+
+Therefore, the total number of missing keys is 3 + 2 = 5.
+
+Answer: 5

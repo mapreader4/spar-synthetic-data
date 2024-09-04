@@ -1,0 +1,14 @@
+Let's break this down step by step.
+
+Let's start by finding the number of sweaters Kim knit on each day.
+
+* Monday: 10 sweaters
+* Tuesday: 2 more than Monday, so 10 + 2 = 12 sweaters
+* Wednesday and Thursday: 4 fewer than Tuesday, so 12 - 4 = 8 sweaters
+* Friday: half the number of sweaters she had knit on Monday, which is 10, so 10 / 2 = 5 sweaters
+
+Now, let's add up the total number of sweaters Kim knit:
+
+10 + 12 + 8 + 8 + 5 = 38
+
+Answer: 38

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) There are a total of 5 green candies, 3 blue candies, and 4 red candies in the bag.
+2) The total number of candies in the bag is 5 + 3 + 4 = 12.
+3) The probability of Violet picking a blue candy is the number of blue candies divided by the total number of candies.
+4) The number of blue candies is 3.
+5) The total number of candies is 12.
+6) Therefore, the probability of Violet picking a blue candy is 3/12 = 1/4.
+
+Answer: 1/4

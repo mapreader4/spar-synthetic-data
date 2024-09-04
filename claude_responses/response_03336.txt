@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Bicycles have 2 wheels each
+* Dimitri saw 6 adults riding bicycles
+* So, the number of wheels on the bicycles is:
+  * 6 bicycles x 2 wheels per bicycle = 12 wheels
+* Tricycles have 3 wheels each
+* Dimitri saw 15 children riding tricycles
+* So, the number of wheels on the tricycles is:
+  * 15 tricycles x 3 wheels per tricycle = 45 wheels
+* To find the total number of wheels Dimitri saw, we add the wheels on the bicycles and the wheels on the tricycles:
+  * 12 wheels + 45 wheels = 57 wheels
+
+Answer: 57

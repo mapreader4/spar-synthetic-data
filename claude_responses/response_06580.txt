@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The pool normally takes 50 hours to fill.
+2) The hose runs at 100 gallons per hour.
+3) To find the total number of gallons needed to fill the pool, we multiply the time (50 hours) by the rate (100 gallons per hour):
+   50 hours x 100 gallons/hour = 5,000 gallons
+4) Water costs 1 cent for 10 gallons.
+5) To find the cost, we divide the total number of gallons (5,000) by 10, and then multiply by 1 cent:
+   5,000 gallons / 10 gallons per cent = 500 cents
+6) 500 cents = $5.00
+
+Answer: $5.00

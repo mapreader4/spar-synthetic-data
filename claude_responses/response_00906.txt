@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* At the first stop, 7 people got on the bus.
+* At the second stop, 3 people got off, and 5 people got on.
+  * So the net change is 5 - 3 = 2 more people on the bus.
+* At the third stop, 2 people got off, and 4 people got on.
+  * So the net change is 4 - 2 = 2 more people on the bus.
+
+Now, let's add up the total number of people on the bus:
+* Initially, 7 people got on at the first stop.
+* Then, 2 more people got on at the second stop.
+* And 2 more people got on at the third stop.
+* So the total number of passengers on the bus is:
+  * 7 + 2 + 2 = 11
+
+Answer: 11

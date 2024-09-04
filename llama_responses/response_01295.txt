@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of money she earned from selling 10 peaches for $2 each:
+
+10 peaches x $2 = 10 x 2 = $20
+
+Next, let's calculate the total amount of money she earned from selling 4 peaches for $1.25 each:
+
+4 peaches x $1.25 = 4 x 1.25 = $5
+
+Now, let's add the money she earned from both parts:
+
+$20 + $5 = $25
+
+Finally, let's subtract the 1 peach she kept for herself:
+
+$25 - $1.25 = $23.75
+
+So, Lilia earned $23.75 after selling 14 peaches.

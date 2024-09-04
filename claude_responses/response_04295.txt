@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jessica's family is 300 km away from New York
+* They are traveling at a rate of 50 km/h
+* They stop to rest for 30 minutes every 2 hours
+
+First, we need to calculate how much distance they can cover in 2 hours:
+* 2 hours x 50 km/h = 100 km
+
+Now, we need to calculate how many 2-hour segments it will take them to reach New York:
+* 300 km / 100 km per 2-hour segment = 3 segments
+
+Each 2-hour segment includes 30 minutes of rest time, so the total time for each segment is 2.5 hours.
+* 3 segments x 2.5 hours per segment = 7.5 hours
+
+Therefore, it will take them 7.5 hours to reach New York.
+
+Answer: 8 hours

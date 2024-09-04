@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The driver travels 30 miles per hour for 3 hours
+* So, for the first 3 hours, the driver travels 30 miles per hour x 3 hours = 90 miles
+* The driver then travels 25 miles per hour for 4 hours
+* So, for the next 4 hours, the driver travels 25 miles per hour x 4 hours = 100 miles
+* The driver does this trip every day from Monday to Saturday (6 days)
+* To find the total miles traveled in a week, we add the miles traveled each day:
+* 90 miles + 100 miles = 190 miles per day
+* 190 miles per day x 6 days = 1,140 miles
+
+Answer: 1,140

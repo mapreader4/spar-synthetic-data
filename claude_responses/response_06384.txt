@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Sam is twice as old as Sue
+* Kendra is 3 times as old as Sam
+* Kendra is currently 18 years old
+
+First, let's find Sam's age:
+* Kendra is 3 times as old as Sam
+* Kendra is 18 years old
+* So, Sam is 18 / 3 = 6 years old
+
+Now, let's find Sue's age:
+* Sam is twice as old as Sue
+* Sam is 6 years old
+* So, Sue is 6 / 2 = 3 years old
+
+In 3 years, their ages will be:
+* Kendra: 18 + 3 = 21
+* Sam: 6 + 3 = 9
+* Sue: 3 + 3 = 6
+
+The total age in 3 years will be:
+* Kendra (21) + Sam (9) + Sue (6) = 36
+
+Answer: 36

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Fantasy books cost $4 each
+* Literature books cost half the price of a fantasy book, which is $2 each
+* Vincent sold 5 fantasy books and 8 literature books per day
+* We need to calculate the total earnings over 5 days
+
+First, let's calculate the daily earnings:
+* Daily earnings from fantasy books: 5 books x $4 = $20
+* Daily earnings from literature books: 8 books x $2 = $16
+* Total daily earnings: $20 + $16 = $36
+
+Now, let's calculate the total earnings over 5 days:
+* Total earnings = Daily earnings x 5 days
+* Total earnings = $36 x 5 = $180
+
+Answer: $180

@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+* On Monday, Billy ate 2 apples
+* On Tuesday, he ate twice as many as he ate on Monday, which is 2 x 2 = 4 apples
+* On Thursday, he ate four times as many as he ate on Friday, and on Friday he ate half of the amount he ate on Monday, which is 2 / 2 = 1 apple. So on Thursday he ate 4 x 1 = 4 apples
+* We know that in total, Billy ate 20 apples this week
+* We can account for the apples he ate on Monday (2), Tuesday (4), Thursday (4), and Friday (1), which adds up to 11 apples
+* Therefore, the number of apples he ate on Wednesday must be the remaining apples, which is 20 - 11 = 9 apples
+
+Answer: 9

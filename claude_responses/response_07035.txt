@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There have been 9 assignments so far
+* Ahmed has a 91 in the class
+* Emily has a 92 in the class
+* The final assignment is worth the same amount as all the other assignments
+* Emily got a 90 on the final assignment
+
+To beat Emily, Ahmed needs to have a higher total score than Emily. Let's calculate Emily's total score first:
+* Emily's total score = (92 * 9 + 90) / 10 = 91.8
+
+Now, to beat Emily, Ahmed needs to have a total score greater than 91.8. Since all grades are whole numbers, the minimum grade Ahmed needs to get on the final assignment is 92.
+
+Answer: 92

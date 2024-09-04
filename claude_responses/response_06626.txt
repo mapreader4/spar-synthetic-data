@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James prints out 2 books
+* Each book is 600 pages long
+* He prints out double-sided, which means 4 pages per sheet of paper
+* To calculate the total number of sheets of paper used:
+  * Total pages = 2 books x 600 pages per book = 1200 pages
+  * Since he prints 4 pages per sheet of paper, we divide the total pages by 4 to get the number of sheets:
+  * 1200 pages / 4 pages per sheet = 300 sheets of paper
+
+Answer: 300

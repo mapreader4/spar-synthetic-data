@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. The long sides of the plot are three times the length of the short sides. So, if the short sides are x, the long sides are 3x.
+
+The total length of the fence is 640 feet, which is the sum of all the sides. So, we can set up an equation:
+
+3x + 3x + x + x + x = 640
+
+We can combine like terms:
+
+4x = 640
+
+To solve for x, we can divide both sides by 4:
+
+x = 160
+
+Now that we know the length of the short sides, we can find the total length of the fence that needs to be replaced. Since one side is rusted, we need to replace that one side. The length of that side is x, which is 160 feet.
+
+So, the total length of fence that needs to be replaced is:
+
+Answer: 160

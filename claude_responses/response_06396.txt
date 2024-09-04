@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The person with a degree earns three times the amount paid to a diploma holder for the same position.
+* The pay for a person holding a diploma certificate is $4000 per month.
+* To calculate Jared's annual earnings after graduating with a degree, we need to first calculate the monthly earnings for a degree holder.
+* Since the degree holder earns three times the amount paid to a diploma holder, we can calculate the monthly earnings for a degree holder as:
+    * $4000 per month (diploma holder) x 3 = $12,000 per month (degree holder)
+* Now, to calculate Jared's annual earnings, we need to multiply the monthly earnings by 12 months:
+    * $12,000 per month x 12 months = $144,000 per year
+
+Answer: $144,000

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Marge had a winning lottery ticket for $12006.
+2) She paid half of the lottery amount for the taxes on her winnings. That means she paid $6003 in taxes.
+3) After paying the taxes, she had $12006 - $6003 = $6003 left.
+4) She put a third of the leftover money towards her student loans. That means she put $6003 / 3 = $2001 towards her student loans.
+5) She put $1000 in savings.
+6) She invested a fifth of the $1000 in the stock market. That means she invested $1000 / 5 = $200 in the stock market.
+7) Now, we can calculate how much money she has left for fun:
+   * Total lottery winnings: $12006
+   * Taxes paid: $6003
+   * Student loan payment: $2001
+   * Savings: $1000
+   * Stock market investment: $200
+   * Money left for fun: $12006 - $6003 - $2001 - $1000 - $200 = $2802
+Answer: $2802

@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of pages Cora has read so far.
+
+On Monday, she read 23 pages.
+On Tuesday, she read 38 pages.
+On Wednesday, she read 61 pages.
+The total number of pages she has read is 23 + 38 + 61 = 122.
+
+The book has 158 pages. Since she has already read 122 pages, she has 158 - 122 = 36 pages left to read.
+
+Since she will read twice as much on Friday as she does on Thursday, and Thursday is 2 days before Friday, she will read 2 * 61 = 122 pages on Thursday.
+
+But she only has 36 pages left to read. So, she must read 36 pages on Thursday to finish the book in time.
+
+Answer: 36

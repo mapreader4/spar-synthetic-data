@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Each school bus has 4 columns and 10 rows of seats.
+2) To calculate the total number of seats in one bus, we multiply the number of columns (4) by the number of rows (10):
+4 columns x 10 rows = 40 seats per bus
+3) The school has 6 buses.
+4) To calculate the total number of seats across all 6 buses, we multiply the number of seats per bus (40) by the number of buses (6):
+40 seats per bus x 6 buses = 240 students can be accommodated.
+
+Answer: 240

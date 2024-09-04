@@ -1,0 +1,7 @@
+To find the total number of goals Xavier can score in 2 hours, we need to multiply the number of goals he can score in 15 minutes by 4. This is because the time period has increased by a factor of 4 (2 hours / 0.25 hours per 15 minutes).
+
+The number of goals Xavier can score in 15 minutes is 2. To find the number of goals he can score in 2 hours, we multiply this number by 4.
+
+2 * 4 = 8
+
+Answer: 8

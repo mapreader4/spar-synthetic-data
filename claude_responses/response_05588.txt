@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The class has 40 students and 10 instructors, for a total of 50 people
+* Alice has 20 life vests on hand
+* 20% of the 40 students are bringing their own life vests
+* To calculate how many students are bringing their own life vests:
+  * 20% of 40 students = 0.2 * 40 = 8 students
+* So, there are 8 students bringing their own life vests
+* The total number of life vests available is 20 (from Alice) + 8 (from students) = 28
+* The total number of people in the class is 50
+* Therefore, the number of additional life vests needed is:
+  * 50 (total people) - 28 (life vests available) = 22 more life vests needed
+
+Answer: 22

@@ -1,0 +1,9 @@
+Let's break down Susan's movements step by step.
+
+1. Susan moves forward 8 spaces on the first turn.
+2. She moves back 5 spaces on the second turn, so she has moved a total of 3 spaces forward (8 - 5 = 3).
+3. On the third turn, she moves 6 spaces forward.
+
+So, Susan has moved a total of 3 + 6 = 9 spaces forward. To reach the winning space, she needs to move 48 - 9 = 39 spaces.
+
+Answer: 39

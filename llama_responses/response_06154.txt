@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Mary wants half of the 60 characters to have the initial A, which is 60/2 = 30 characters.
+2. She also wants half of the 30 characters to have the initial C, which is also 30/2 = 15 characters.
+3. The remaining characters are the ones with the initials D and E. The total number of characters with the initials D and E is 60 - (30 + 15) = 15 characters.
+4. Mary wants twice as many characters with the initial D as there are characters with the initial E. So, if there are x characters with the initial E, then there are 2x characters with the initial D. Since the total number of characters with the initials D and E is 15, then 2x = 15, so x = 15/2 = 7.5. But we can't have a fraction of a character, so x is 7.
+5. Therefore, there are 7 characters with the initial E, and 2 times 7 = 14 characters with the initial D.
+
+Answer: 14

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The farmer has a certain number of children
+* Each child has a bag that was filled with 15 apples
+* 2 children ate 4 apples each, so that's 8 apples eaten
+* 1 child sold 7 of his apples
+* They had a total of 60 apples left when they got home
+
+To find the number of children, we need to first calculate the total number of apples they had before the 2 children ate and the 1 child sold some.
+
+The total number of apples before the eating and selling:
+* 60 apples left + 8 apples eaten + 7 apples sold = 75 apples
+
+Now, we know that each child had a bag with 15 apples. So, the total number of apples they had is equal to the number of children multiplied by 15.
+
+* 75 apples = number of children * 15 apples
+
+Solving for the number of children:
+* Number of children = 75 / 15 = 5
+
+Answer: 5

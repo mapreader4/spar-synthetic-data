@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the cost of one can of tuna. Sam paid $20 for 9 cans, and got $5.50 in change. To find the cost of one can of tuna, we need to subtract the change from the total amount paid, which is $20.00.
+
+$20.00 - $5.50 = $14.50
+
+Now, Sam had 5 coupons for 25 cents off a single can. To find the cost of one can of tuna without the coupon, we need to add 5 coupons to the cost. 25 cents is 0.25 dollars. So, the cost of one can of tuna without the coupon is $14.50 + 0.25 = $14.75.
+
+So, the cost of a can of tuna is 14.75 cents.
+
+Answer: 14

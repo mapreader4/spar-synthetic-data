@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Carl earns $0.50 every time he buys a candy bar
+* His neighbor pays him $0.75 every week for taking out the trash
+* We want to know how many candy bars Carl can buy after 4 weeks
+
+First, let's calculate how much money Carl earns in 4 weeks:
+* $0.75 per week x 4 weeks = $3.00 total
+
+Now, let's calculate how many candy bars Carl can buy with $3.00:
+* $3.00 / $0.50 per candy bar = 6 candy bars
+
+Answer: 6 candy bars

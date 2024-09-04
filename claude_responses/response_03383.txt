@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Hannah's AdBlock blocks 80% of ads (100% - 20% = 80%)
+* Of the remaining 20% of ads that aren't blocked, 20% of those are actually interesting
+* That means 80% of the remaining 20% of ads are not interesting
+* To calculate the percentage of ads that aren't interesting and don't get blocked, we need to take 80% of the 20% that aren't blocked:
+* 80% of 20% = 0.8 * 0.2 = 0.16 = 16%
+
+Answer: 16%

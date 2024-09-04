@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. Apples:
+   - The vendor bought apples at 2 for $3, which means each apple costs $1.50.
+   - The vendor plans to sell the apples at 5 for $10, which means each apple will be sold for $2.
+   - If the vendor sells 5 apples, he will make:
+     - 5 apples x $2 per apple = $10 in revenue
+     - 5 apples x $1.50 per apple = $7.50 in cost
+     - Profit on apples = $10 - $7.50 = $2.50
+
+2. Oranges:
+   - The vendor bought 3 oranges for $2.70, which means each orange costs $0.90.
+   - The vendor plans to sell the oranges at $1 each.
+   - If the vendor sells 5 oranges, he will make:
+     - 5 oranges x $1 per orange = $5 in revenue
+     - 5 oranges x $0.90 per orange = $4.50 in cost
+     - Profit on oranges = $5 - $4.50 = $0.50
+
+3. Total Profit:
+   - Profit on apples = $2.50
+   - Profit on oranges = $0.50
+   - Total Profit = $2.50 + $0.50 = $3.00
+
+Answer: 3

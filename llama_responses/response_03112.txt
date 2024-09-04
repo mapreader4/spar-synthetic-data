@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of students from each school.
+
+The first school has twice as many students as the second school. The second school has 40 more students than the third school. If the third school has 200 students, then the second school has 200 / 2 = 100 students. So, the first school has 2 * 100 = 200 students. The total number of students in the first and second school is 200 + 100 = 300.
+
+Now, let's find the total number of students who shook the mayor's hand.
+
+The total number of students who shook the mayor's hand is 200 (from the third school) + 300 (from the first and second schools) = 500.
+
+Answer: 500

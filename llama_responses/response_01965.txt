@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Initially, Grandma Molly created 4 statues and placed them on her lawn.
+
+The second year, she quadrupled the number of statues, which means she added 4 x 4 = 16 more statues to the lawn. So, the total number of statues on her lawn after the second year is 4 + 16 = 20.
+
+In the third year, she added 12 more statues to the lawn, but a hail storm broke 3 statues, which she threw away. This means the total number of statues on her lawn after the third year is 20 + 12 - 3 = 29.
+
+In the fourth year, she added twice as many new statues as had been broken the year before, which is 2 x 3 = 6 statues. So, the total number of statues on her lawn after the fourth year is 29 + 6 = 35.
+
+Answer: 35

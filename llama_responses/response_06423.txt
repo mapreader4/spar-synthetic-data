@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of games the team has played, which is 35. The number of games remaining to be played is 25. We want to find the number of wins the team must get to get a 64% win percentage.
+
+Let's represent the number of wins as x. We know that the total number of games played is 35, and the number of wins is x. We can write this as an equation: 35 = x + 25.
+
+To find the value of x, we can subtract the number of games played from the total number of games, so we get:
+
+x = 35 - 25
+x = 10
+
+So the number of wins the team must get is 10.
+
+Now, to find the percentage of wins in the entire season, we can divide the number of wins by the total number of games played:
+
+(10 / 50) * 100 = 20%
+
+So the team must win 20% of the games to get a 64% win percentage.
+
+Answer: 20

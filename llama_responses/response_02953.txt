@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pies eaten by each person:
+
+* Adam eats 3 more pies than Bill.
+* Sierra eats twice as many pies as Bill.
+* Sierra ate 12 pies.
+
+We know that Sierra ate 12 pies, and she eats twice as many pies as Bill. So, Bill must have eaten 12 / 2 = 6 pies.
+* Adam eats 3 more pies than Bill, so Adam must have eaten 6 + 3 = 9 pies.
+
+Now, let's add up the number of pies eaten by each person:
+
+12 (Sierra) + 9 (Adam) + 6 (Bill) = 27
+
+So, in total, 27 pies were eaten in the pie-eating contest.

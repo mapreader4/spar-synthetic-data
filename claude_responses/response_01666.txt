@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Calvin buys a pack of chips for $0.50 from the vending machine
+* He does this 5 days a week
+* We want to know how much money he has spent on chips after 4 weeks
+
+To calculate the total amount of money spent, we need to:
+1. Calculate the amount spent per week
+2. Multiply the amount spent per week by the number of weeks
+
+Amount spent per week:
+* $0.50 per pack of chips
+* 5 days per week
+* Therefore, the amount spent per week is $0.50 x 5 = $2.50
+
+Amount spent after 4 weeks:
+* $2.50 per week
+* 4 weeks
+* Therefore, the total amount spent is $2.50 x 4 = $10.00
+
+Answer: $10.00

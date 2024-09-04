@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Initially, there were 50 Mahogany and 30 Narra trees, so a total of 50 + 30 = 80 trees.
+
+A total of 5 trees fell, and one more Mahogany tree fell than the number of Narra trees that fell. Let's say x is the number of Narra trees that fell. Then, the number of Mahogany trees that fell is x + 1. The total number of trees that fell is x + (x + 1) = 2x + 1. Since the total number of trees that fell is 5, we can set up the equation 2x + 1 = 5 and solve for x.
+
+2x + 1 = 5
+2x = 4
+x = 2
+
+So, 2 Narra trees fell, and 2 + 1 = 3 Mahogany trees fell. The total number of trees that fell is 2 + 3 = 5.
+
+After the typhoon, the number of Mahogany trees that fell is 3, and the number of Narra trees that fell is 2. Bea's mom planted twice as many Narra trees as the number that fell, which is 2 x 2 = 4. She also planted thrice as many Mahogany trees as the number that fell, which is 3 x 3 = 9.
+
+So, 4 Narra and 9 Mahogany trees were planted. The total number of new trees is 4 + 9 = 13.
+
+Initially, there were 80 trees, and 5 trees fell. After planting 13 new trees, the total number of trees is:
+
+80 - 5 + 13 = 88
+
+Answer: 88

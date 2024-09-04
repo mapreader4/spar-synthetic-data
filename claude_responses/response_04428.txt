@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Rick traveled to the first destination on his trip.
+2) From the first destination, he traveled twice the distance to the second destination.
+3) The third point on his trip was 40 miles away, which was half the distance he traveled from the beginning to his first destination.
+4) The final destination took twice the amount of driving of all the other legs put together.
+
+Let's start by finding the distance to the first destination.
+* The third point was 40 miles away, which was half the distance to the first destination.
+* So the distance to the first destination was 40 * 2 = 80 miles.
+
+Now, the distance to the second destination was twice the distance to the first destination.
+* Distance to second destination = 80 * 2 = 160 miles.
+
+The final destination took twice the amount of driving of all the other legs put together.
+* Total distance of the other legs = 80 + 160 + 40 = 280 miles.
+* Distance to the final destination = 280 * 2 = 560 miles.
+
+Now we can calculate the total distance traveled:
+* Total distance = 80 + 160 + 40 + 560 = 840 miles.
+
+Answer: 840 miles.

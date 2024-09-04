@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The total distance of the hike was 50 kilometers
+* On the first day, Ezekiel covered 10 kilometers
+* On the second day, he covered half the full hike distance, which is 50/2 = 25 kilometers
+* To find the distance he had to hike on the third day, we need to subtract the distance he covered on the first two days from the total distance:
+* Total distance: 50 kilometers
+* Distance covered on first two days: 10 + 25 = 35 kilometers
+* Distance left to hike on the third day: 50 - 35 = 15 kilometers
+
+Answer: 15 kilometers

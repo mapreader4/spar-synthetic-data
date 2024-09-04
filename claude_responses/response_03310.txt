@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Aubriella is pouring water into a 50-gallon fish tank
+* She is pouring at the rate of 1 gallon every 20 seconds
+* She has been pouring for 6 minutes
+
+First, we need to convert the time from minutes to seconds:
+* 6 minutes = 6 x 60 = 360 seconds
+
+Now, we can calculate how many gallons she has poured in 360 seconds:
+* 360 seconds / 20 seconds per gallon = 18 gallons
+
+So, Aubriella has poured 18 gallons of water into the 50-gallon fish tank.
+
+To calculate how many more gallons she needs to pour to fill the tank, we take the total capacity (50 gallons) and subtract the amount she has already poured (18 gallons):
+* 50 gallons - 18 gallons = 32 gallons
+
+Answer: 32 gallons

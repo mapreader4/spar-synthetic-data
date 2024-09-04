@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There are two birds making the nest
+* Each bird made 10 round trips to collect building materials
+* The building materials were located 200 miles from where they were building the nest
+
+To calculate the total distance covered by the birds, we need to:
+1. Calculate the distance covered by each bird
+2. Multiply that by the number of birds
+
+For each bird:
+* 10 round trips
+* Each round trip is 200 miles there and 200 miles back, so 400 miles per round trip
+* 10 round trips x 400 miles per round trip = 4,000 miles
+
+For the two birds:
+* 2 birds x 4,000 miles per bird = 8,000 miles
+
+Answer: 8,000

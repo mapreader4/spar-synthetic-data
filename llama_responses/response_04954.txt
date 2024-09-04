@@ -1,0 +1,21 @@
+Let's break down the information given into variables.
+
+Let's say the price of each of the 5 other pieces is x.
+
+We know that the total cost of the 7 pieces is 610 dollars.
+
+We can set up an equation using the information given:
+
+7 * x + 49 + 81 = 610
+
+To solve for x, we can subtract 49 and 81 from both sides of the equation:
+
+7 * x + 49 + 81 = 610
+
+7 * x = 610 - 49 - 81
+
+7 * x = 480
+
+x = 68
+
+So, the other 5 pieces were 68 dollars each.

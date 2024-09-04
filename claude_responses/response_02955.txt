@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 30 students in the class
+2) Mo wants to give a Valentine to 60% of the students
+3) To calculate 60% of 30 students, we do: 0.6 * 30 = 18 students
+4) Each Valentine card costs $2
+5) To calculate the total cost of the 18 Valentine cards, we do: 18 * $2 = $36
+6) Mo has $40 to spend
+7) To calculate the percentage of his money he will spend, we do: ($36 / $40) * 100 = 90%
+
+Answer: 90%

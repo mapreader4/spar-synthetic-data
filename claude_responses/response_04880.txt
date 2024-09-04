@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jim and his cousin each order a cheeseburger and a milkshake
+* The cost of a cheeseburger is $3 and the cost of a milkshake is $5
+* So the cost of Jim and his cousin's individual orders is:
+  - Cheeseburger: $3
+  - Milkshake: $5
+  - Total per person: $3 + $5 = $8
+* They also split an order of cheese fries, which costs $8
+* So the total cost of their meal is:
+  - 2 x $8 (individual orders) = $16
+  - $8 (cheese fries)
+  - Total cost: $16 + $8 = $24
+* They spend 80% of their combined money
+* Jim brought $20
+* So the total amount of money they had was:
+  - 80% of the total cost: 0.8 x $24 = $19.20
+* Since Jim brought $20, the amount his cousin brought must be the difference between the total amount and Jim's contribution:
+  - Cousin's contribution: $19.20 - $20 = -$0.80
+
+Answer: -$0.80

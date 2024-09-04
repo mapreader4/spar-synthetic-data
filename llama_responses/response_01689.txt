@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Initially, Baylor has $4000 on his dashboard.
+
+The first client will pay him half the amount of money he currently has on his dashboard, which is $4000. Half of $4000 is $2000.
+
+So, after the first client pays, Baylor will have $4000 + $2000 = $6000.
+
+The second client will pay him 2/5 times more money than the first client. Since the first client paid $2000, 2/5 times more would be (2/5) × $2000 = $800. So, the second client will pay $2000 + $800 = $2800.
+
+After the second client pays, Baylor will have $6000 + $2800 = $8800.
+
+The third client will pay him twice the amount of money the first and second clients pay him together. The first and second clients paid a total of $2000 + $2800 = $4800. Twice that amount would be $4800 × 2 = $9600.
+
+After the third client pays, Baylor will have $8800 + $9600 = $18400.
+
+Answer: 18400

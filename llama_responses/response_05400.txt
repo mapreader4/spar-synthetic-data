@@ -1,0 +1,19 @@
+Let's start by using the information that Max sold 24 candy bars. Since Seth sold 6 more candy bars than 3 times the number of candy bars that Max sold, we can say that Seth sold 3 times the number of candy bars that Max sold, plus 6 candy bars.
+
+Let's call the number of candy bars that Max sold "x". Then, we can say that Seth sold 3x + 6 candy bars.
+
+We know that Max sold 24 candy bars, so we can set up an equation to solve for x:
+
+3x + 6 = 24
+
+To solve for x, we can subtract 6 from both sides of the equation:
+
+3x = 24 - 6
+3x = 18
+
+To find the value of x, we can divide both sides of the equation by 3:
+
+x = 18 / 3
+x = 6
+
+So, Seth sold 6 candy bars.

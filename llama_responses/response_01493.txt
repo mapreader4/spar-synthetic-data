@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The family drives the first 100 miles in 1 hour, so they are traveling at a rate of 100 miles per hour.
+
+After stopping at the McDonald's, they continue the rest of the journey for 300 miles. Since they have already driven 100 miles, they are left with 300 - 100 = 200 miles to go.
+
+To find the total number of hours it takes to drive the remaining 200 miles, we can divide 200 by the rate of 100 miles per hour:
+
+200 miles / 100 miles per hour = 2 hours
+
+So, the total number of hours they traveled is:
+
+Answer: 3

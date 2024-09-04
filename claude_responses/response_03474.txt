@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Heather gets paid 5 cents for every weed she picks
+* She wants to earn $10 an hour
+* To find the average time it takes her to pick a weed, we need to find how many weeds she needs to pick per hour to earn $10
+
+First, let's find how many weeds she needs to pick per hour to earn $10:
+* $10 per hour / 5 cents per weed = 200 weeds per hour
+
+Now, to find the average time it takes her to pick a weed, we divide the number of seconds in an hour by the number of weeds she needs to pick per hour:
+* 3600 seconds per hour / 200 weeds per hour = 18 seconds per weed
+
+Answer: 18 seconds

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Deborah has 4 letters to mail
+* Standard postage is $1.08 per letter
+* Deborah is mailing 2 letters internationally
+* The total cost to mail 4 letters is $4.60
+
+First, let's calculate the cost of the 2 domestic letters:
+* 2 letters x $1.08 per letter = $2.16
+
+Now, let's calculate the cost of the 2 international letters:
+* Total cost = $4.60
+* Cost of 2 domestic letters = $2.16
+* Cost of 2 international letters = $4.60 - $2.16 = $2.44
+
+The cost of the 2 international letters is $2.44, so the additional charge per international letter is:
+* $2.44 / 2 letters = $1.22 per international letter
+
+To convert this to cents, we multiply by 100:
+* $1.22 x 100 = 122 cents
+
+Answer: 122 cents

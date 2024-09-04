@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Mia spent $30 on each of her 3 siblings, so she spent a total of 3 x $30 = $90 on her siblings.
+* The total amount she spent on gifts is $150.
+* The amount she spent on her parents is the remaining amount after subtracting the amount spent on her siblings from the total amount.
+
+Let's subtract the amount spent on her siblings from the total amount:
+
+$150 (total) - $90 (sibling gifts) = $60
+
+This leaves $60 for her parents. Since her parents received gifts of equal value, this means she spent an equal amount on each of her parents. To find this amount, we can divide the remaining $60 by 2 (since there are 2 parents):
+
+$60 ÷ 2 = $30
+
+Answer: 30

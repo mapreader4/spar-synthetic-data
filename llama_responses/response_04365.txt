@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say the number of hits is x.
+
+The total number of balls pitched is the sum of the number of hits and the number of misses. This is given as "There are three times as many misses as hits in an MLB game."
+
+So, the equation is:
+
+x + x = 50
+
+We can solve for x by subtracting x from both sides of the equation:
+
+x - x = 0
+
+x = 50 / 2
+
+x = 25
+
+So, the number of hits is 25 and the number of misses is also 25. There are 25 hits and 25 misses in the game.
+
+Answer: 50

@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Harry is currently 50 years old.
+2) His father is 24 years older than Harry, so his father's current age is 50 + 24 = 74 years old.
+3) His mother is younger than his father by 1/25 of Harry's current age, which is 50 / 25 = 2 years.
+4) Therefore, his mother's current age is 74 - 2 = 72 years old.
+5) To find his mother's age when she gave birth to Harry, we subtract Harry's current age (50) from his mother's current age (72).
+Answer: 22

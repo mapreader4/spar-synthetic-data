@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) We are given that there are 285 sweets in the bowl.
+2) 49 of the sweets are red.
+3) 59 of the sweets are green.
+4) To find the number of sweets that are neither red nor green, we need to subtract the number of red and green sweets from the total number of sweets.
+5) The number of red and green sweets is 49 + 59 = 108.
+6) Therefore, the number of sweets that are neither red nor green is 285 - 108 = 177.
+
+Answer: 177

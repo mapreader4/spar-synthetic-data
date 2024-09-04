@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Maria wants to buy 3 dozens of flowers
+* For every 1 dozen flowers bought, the customer gets 2 free flowers
+* So, for 3 dozens of flowers, Maria will get:
+    - 3 dozens x 12 flowers per dozen = 36 flowers
+    - 3 dozens x 2 free flowers per dozen = 6 free flowers
+* Therefore, the total number of flowers Maria will have is:
+    - 36 flowers (from the 3 dozens purchased)
+    - 6 free flowers
+    - Total = 36 + 6 = 42 flowers
+
+Answer: 42

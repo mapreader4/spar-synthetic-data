@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Jeremie wants to go to the amusement park with 3 friends
+* Tickets are $18 for each person
+* Each person also needs to buy a set of snacks for $5
+
+To calculate the total cost, we need to:
+1. Calculate the cost of the tickets for Jeremie and his 3 friends
+2. Calculate the cost of the snacks for Jeremie and his 3 friends
+3. Add the two costs together
+
+Step 1: Cost of tickets
+* There are 4 people (Jeremie and 3 friends)
+* Tickets cost $18 each
+* 4 people x $18 per ticket = $72 for tickets
+
+Step 2: Cost of snacks
+* There are 4 people (Jeremie and 3 friends)
+* Snacks cost $5 per set
+* 4 people x $5 per set of snacks = $20 for snacks
+
+Step 3: Total cost
+* Cost of tickets ($72) + Cost of snacks ($20) = $92
+
+Answer: 92

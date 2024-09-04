@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: First, let's find the total number of trips she needs to make. She needs to carry 17 objects, and she can carry 3 objects at a time. To find the total number of trips, we can divide 17 by 3.
+
+17 ÷ 3 = 5.666... (rounded down to 5)
+
+So, Gretchen must make at least 6 trips to the surface of the water to carry all 17 objects.
+
+Answer: 6

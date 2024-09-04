@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James has 3 gallons of milk
+* There are 128 ounces in a gallon
+* So, the total amount of milk James has is:
+    - 3 gallons x 128 ounces/gallon = 384 ounces
+* James drank 13 ounces of the milk
+* To find the amount of milk James has left, we subtract the amount he drank from the total amount:
+    - 384 ounces - 13 ounces = 371 ounces
+
+Answer: 371 ounces

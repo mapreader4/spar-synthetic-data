@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Collin starts with 25 flowers.
+2) Ingrid gives Collin a third of her 33 flowers.
+   - A third of 33 is 33 / 3 = 11 flowers.
+3) So Collin now has 25 + 11 = 36 flowers.
+4) Each flower has 4 petals.
+5) So the total number of petals Collin has is 36 flowers * 4 petals per flower = 144 petals.
+
+Answer: 144

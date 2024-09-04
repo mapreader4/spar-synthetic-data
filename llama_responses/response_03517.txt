@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+First, we need to find the cost of one serving of nuts. Since the bag of nuts contains 40 oz and Hayden eats 1 oz as a serving, we can find the cost of one serving as follows:
+
+Cost of one serving = Total cost of the bag / Number of oz in the bag
+= $25.00 / 40 oz
+= $0.625 per oz
+
+Now, we need to apply the $5.00 coupon to the cost of the bag. To do this, we subtract the coupon from the total cost:
+
+$25.00 - $5.00 = $20.00
+
+The cost of the bag after the coupon is applied is $20.00.
+
+Now, we need to find the cost of one serving after the coupon is applied. We already calculated that one serving is $0.625, so:
+
+Cost of one serving after coupon = Cost of one serving before coupon x (1 - (Cost of coupon / Total cost before coupon))
+= $0.625 x (1 - $5.00 / $25.00)
+= $0.625 x 0.8
+= $0.5
+
+So, the cost of one serving of nuts after the coupon is applied is 50 cents.

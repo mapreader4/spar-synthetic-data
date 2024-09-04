@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The concert tickets cost $50.00 each.
+2) There is a 15% processing fee for the tickets.
+   * The processing fee is 15% of $50.00, which is $7.50 per ticket.
+3) They are also charged $10.00 for parking.
+4) There is an additional $5.00 per person entrance fee.
+   * Since there are two people (Seth and his brother), the total entrance fee is $10.00.
+
+Now, let's calculate the total cost:
+* Ticket cost: 2 tickets x $50.00 = $100.00
+* Processing fee: 2 tickets x $7.50 = $15.00
+* Parking fee: $10.00
+* Entrance fee: $10.00
+* Total cost = $100.00 + $15.00 + $10.00 + $10.00 = $135.00
+
+Answer: $135

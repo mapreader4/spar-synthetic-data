@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Maggie picked 40 apples
+* Kelsey picked 28 apples
+* The three girls averaged 30 apples picked
+* To find the total number of apples picked, we multiply the average (30) by the number of girls (3):
+  * 30 apples x 3 girls = 90 apples
+* Now we know the total number of apples picked is 90.
+* We also know that Maggie picked 40 apples and Kelsey picked 28 apples.
+* To find how many apples Layla picked, we subtract the apples picked by Maggie and Kelsey from the total apples picked:
+  * 90 apples - 40 apples (Maggie) - 28 apples (Kelsey) = 22 apples
+
+Answer: 22

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Hannah needs 3 cups of flour for every 1 cup of banana mush.
+2) It takes 4 bananas to make 1 cup of mush.
+3) Hannah is using 20 bananas.
+4) To calculate the number of cups of mush, we divide the number of bananas (20) by the number of bananas per cup of mush (4):
+20 bananas / 4 bananas per cup = 5 cups of mush
+5) Since Hannah needs 3 cups of flour for every 1 cup of mush, we multiply the number of cups of mush (5) by 3 to get the total cups of flour needed:
+5 cups of mush x 3 cups of flour per cup of mush = 15 cups of flour
+
+Answer: 15

@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Yoque borrowed money from her sister. She borrowed some amount of money, which we'll call x.
+
+She promised to pay it back in 11 months, which means she has 11 periods of 1 month each. In each period of 1 month, she pays back the same amount of money. Let's call this amount of money y.
+
+The total amount of money she borrowed, x, is the sum of the money she borrowed and the interest she will pay back. We can write this as an equation:
+
+x = amount borrowed + y * 12
+
+We know that the interest rate is 10% of the money she borrowed. This is given as an additional 10% of the money she borrowed. So, we can write the equation as:
+
+x = y * 1.1
+
+We know that she pays 15 dollars per month, so we know that y = 15. We can substitute this value into the equation:
+
+x = 15 * 1.1 * 12
+
+x = 180
+
+So, the amount of money she borrowed is 180.

@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+1) Camila has gone hiking 7 times in her life.
+2) Amanda has gone on 8 times as many hikes as Camila, which means Amanda has gone on 8 * 7 = 56 hikes.
+3) Steven has gone on 15 more hikes than Amanda, which means Steven has gone on 56 + 15 = 71 hikes.
+4) Camila wants to say that she has hiked as many times as Steven, which means she needs to go on 71 hikes.
+5) Camila plans to go on 4 hikes a week.
+6) To calculate how many weeks it would take Camila to achieve her goal, we need to divide the total number of hikes she needs to go on (71) by the number of hikes she plans to go on per week (4).
+7) 71 hikes / 4 hikes per week = 17.75 weeks.
+
+Answer: 18 weeks

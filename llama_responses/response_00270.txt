@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+1. Each call lasts 1 hour, and there are 60 minutes in an hour. So, each call is charged 60 cents.
+2. Ayla talks to 50 customers a week. So, she has 50 phone calls in a week.
+3. To find the total cost of the phone bill, we need to multiply the cost per call by the number of calls. 
+
+Cost per call = 60 cents = $0.60
+Number of calls = 50
+
+Cost of phone bill = Cost per call x Number of calls = $0.60 x 50 = $30
+
+Answer: 30

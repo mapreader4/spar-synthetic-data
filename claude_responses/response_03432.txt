@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Milly and Floretta use 3 packs of their own water balloons and 2 packs of their neighbor's water balloons.
+2) Each pack of water balloons contains 6 balloons.
+3) So the total number of water balloons they have is:
+   * 3 packs of their own + 2 packs of their neighbor's = 3 x 6 + 2 x 6 = 18 + 12 = 30 balloons
+4) They split the 30 balloons evenly between them, which would be 15 balloons each.
+5) However, Milly takes an extra 7 balloons when Floretta isn't looking.
+6) So Floretta is left with 15 - 7 = 8 water balloons.
+
+Answer: 8

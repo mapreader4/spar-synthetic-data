@@ -1,0 +1,17 @@
+Let's start by finding the width of the garden. Bob wants the width to be an eighth of the width of his property, and his property is 1000 feet wide. To find a fraction of a number, we can multiply the number by the fraction. In this case, we multiply 1000 by 1/8 to get the width of the garden:
+
+1000 x 1/8 = 125
+
+So, the width of the garden is 125 feet.
+
+Next, let's find the length of the garden. Bob wants the length to be a tenth of the length of his property, and his property is 2250 feet long. We can multiply the length by the fraction 1/10 to get the length of the garden:
+
+2250 x 1/10 = 225
+
+So, the length of the garden is 225 feet.
+
+Now that we have the width and length, we can find the area of the garden by multiplying the width and length:
+
+Area = width x length = 125 x 225 = 28125
+
+Answer: 28125

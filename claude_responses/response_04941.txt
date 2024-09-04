@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 30 students in total
+* 10 of the students raised $20 each
+* The remaining 20 students raised $30 each
+* To calculate the total amount raised, we need to add up the contributions from the two groups:
+
+1. Contribution from the 10 students who raised $20 each:
+   * 10 students x $20 = $200
+
+2. Contribution from the 20 students who raised $30 each:
+   * 20 students x $30 = $600
+
+3. Total amount raised:
+   * $200 + $600 = $800
+
+Answer: 800

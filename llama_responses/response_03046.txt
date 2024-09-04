@@ -1,0 +1,3 @@
+Let's start by identifying the number of m&ms used on Monday. On Monday, Kekai makes 40 sundaes and puts 6 m&ms on each sundae, so the total number of m&ms used is 6 x 40 = 240. Then, on Tuesday, Kekai makes 20 sundaes and puts 10 m&ms on each sundae, so the total number of m&ms used is 10 x 20 = 200. To find the total number of m&ms used in total, we add 240 + 200 = 440. Since each m&ms pack contains 40 m&ms, we can divide the total number of m&ms by 40 to get the number of m&ms packs used. 440 / 40 = 11. 
+
+Answer: 11

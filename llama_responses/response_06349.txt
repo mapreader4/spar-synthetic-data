@@ -1,0 +1,9 @@
+Let's start by identifying the number of houses. Isabella has 3 times as many green houses as yellow houses. This means that if she has 90 green houses, then she also has 90 yellow houses.
+
+We know that she has 40 fewer yellow houses than red houses. This means that if she has 90 yellow houses, she has 50 red houses.
+
+Now, we can add the number of green houses to the number of yellow houses to get the total number of houses. 90 + 50 = 140.
+
+Since we know that the total number of houses is 140, we can subtract the number of green houses to find the number of houses that are not yellow. 140 - 90 = 50.
+
+Answer: 50

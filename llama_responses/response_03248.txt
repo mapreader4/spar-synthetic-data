@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+There are 180 students in 9th grade.
+
+1/4 of them bombed their finals, so that means 1/4 * 180 = 45 students bombed their finals.
+
+The rest of the students are the ones who didn't bomb their finals, which is 180 - 45 = 135 students.
+
+1/3rd of the rest didn't show up to take the test, which is 1/3 * 135 = 45 students.
+
+So, the number of students who didn't show up is 45.
+
+Another 20 got less than a D, which means they passed, so we subtract 20 from the total number of students who didn't show up: 45 - 20 = 25.
+
+Now, let's find the total number of students who passed their finals. We have 135 students who didn't bomb their finals, and 25 of them passed. So, the total number of students who passed is 135 + 25 = 160.
+
+Answer: 160

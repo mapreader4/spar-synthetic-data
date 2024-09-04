@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Marlon had 30 female baby bunnies in his hutch.
+2) After four months, the bunnies matured.
+3) Marlon gave 2/5 of the bunnies to his friend Rodney.
+   * 2/5 of 30 = 12 bunnies
+   * So Marlon had 30 - 12 = 18 bunnies left in his hutch.
+4) After another three months, the bunnies conceived and gave birth to 2 kittens each.
+   * 18 bunnies x 2 kittens each = 36 new kittens
+5) The total number of bunnies Marlon has in his hutch now is:
+   * 18 original bunnies + 36 new kittens = 54 bunnies
+
+Answer: 54

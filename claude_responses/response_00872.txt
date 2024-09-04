@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John wants to buy 10 pins.
+2) The normal price of each pin is $20.
+3) The pins are on sale for 15% off.
+4) To calculate the discounted price, we take the normal price ($20) and subtract 15% of $20.
+5) 15% of $20 is 0.15 * $20 = $3.
+6) The discounted price per pin is $20 - $3 = $17.
+7) To calculate the total cost, we multiply the discounted price per pin ($17) by the number of pins (10).
+8) $17 * 10 = $170.
+
+Answer: $170

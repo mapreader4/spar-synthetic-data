@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The office canteen has 2 round tables and 2 rectangular tables
+* Each round table has 6 chairs
+* Each rectangular table has 7 chairs
+* To find the total number of chairs, we need to calculate the number of chairs for each table type and then add them together.
+
+For the round tables:
+* 2 round tables x 6 chairs per table = 12 chairs
+
+For the rectangular tables:
+* 2 rectangular tables x 7 chairs per table = 14 chairs
+
+Now, we add the chairs from the round tables and the rectangular tables:
+* 12 chairs + 14 chairs = 26 chairs
+
+Answer: 26

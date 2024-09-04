@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Dani gets 4 pairs of two pants each year as pay for winning the best Amazon buyer of the season.
+* This means he gets 4 x 2 = 8 pants per year.
+* He initially had 50 pants.
+* We want to calculate the number of pants he'll have in 5 years.
+
+To do this, we can calculate the number of pants he'll have after each year:
+* Year 1: 50 + 8 = 58 pants
+* Year 2: 58 + 8 = 66 pants
+* Year 3: 66 + 8 = 74 pants
+* Year 4: 74 + 8 = 82 pants
+* Year 5: 82 + 8 = 90 pants
+
+Answer: 90 pants.

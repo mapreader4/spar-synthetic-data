@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Cecil has $600.
+2. Catherine has $250 less than twice as much as Cecil.
+   * Twice Cecil's money is 2 x $600 = $1,200.
+   * $1,200 - $250 = $950, so Catherine has $950.
+3. Carmela has $50 more than twice Cecil's money.
+   * Twice Cecil's money is 2 x $600 = $1,200.
+   * $1,200 + $50 = $1,250, so Carmela has $1,250.
+
+Now, to find the total amount of money they have altogether, we add up the amounts:
+Cecil: $600
+Catherine: $950
+Carmela: $1,250
+
+Total: $600 + $950 + $1,250 = $2,800
+
+Answer: $2,800

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of balls removed by the 3 students: 3 students removed 8 balls each, so the total number of balls removed by the 3 students is 3 x 8 = 24.
+
+Since the total number of balls remaining is 56, and the 3 students removed 24 balls, the number of balls remaining in the baskets is 56 - 24 = 32.
+
+The other 2 students removed an equal number of balls each. Let's call this number x. Then, the equation becomes:
+
+x + x = 32
+
+To solve for x, we can subtract 32 from both sides of the equation to get:
+
+x = 32
+
+So, the other 2 students each removed 16 balls.

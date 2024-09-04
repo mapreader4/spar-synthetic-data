@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem. We know that the cost of the lawnmower a year ago was $1800. We are also given that the current cost is 2/5 times more than the cost it was a year ago. 
+
+Let's let's call the current cost of the lawnmower as x. We know that the current cost is 2/5 times more than the cost it was a year ago, so we can set up the equation: x = 1800 * (5/2) + 1800.
+
+To solve for x, we can subtract 1800 from both sides of the equation: x - 1800 = 1800 * (5/2). This simplifies to x - 1800 = 900. Then, we can add 1800 to both sides of the equation to get x = 2700.
+
+Answer: 2700

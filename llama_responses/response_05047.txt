@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of messages Lucia sent on the first day: 120.
+
+Since Lucia sent 1/3 of the messages she sent the previous day on the second day, we can find the number of messages she sent on the second day by multiplying the number of messages sent on the first day by 1/3: 120 / 3 = 40.
+
+Alina sent 20 fewer messages than Lucia on the first day, so Alina sent 120 - 20 = 100 messages on the first day.
+
+On the third day, Alina doubled the messages she sent on the first day, so she sent 2 x 100 = 200 messages.
+
+To find the total number of messages they sent in those three days, we add up the number of messages sent each day: 120 + 40 + 200 = 360.
+
+Answer: 360

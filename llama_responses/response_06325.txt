@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of the mangoes. Rihanna bought 6 mangoes and each mango costs $3, so the total cost of the mangoes is 6 * 3 = 18.
+
+Next, let's find the cost of the cartons of apple juice. Rihanna bought 6 cartons and each carton of apple juice costs $3, so the total cost of the cartons is 6 * 3 = 18.
+
+Now, Rihanna has spent 18 + 18 = 36 dollars on mangoes and cartons of apple juice.
+
+Rihanna has 50 - 36 = 14 dollars left.
+
+Answer: 14

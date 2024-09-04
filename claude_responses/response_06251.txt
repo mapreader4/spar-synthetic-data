@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Susan bought 5 dozen peaches
+* 1 dozen = 12 peaches
+* So, the total number of peaches Susan bought is 5 * 12 = 60 peaches
+* She brought two identically-sized cloth bags and a smaller knapsack
+* She placed half as many peaches in the knapsack as she placed in each of the two cloth bags
+* Let's call the number of peaches in each cloth bag 'x'
+* Since there are two cloth bags, the total number of peaches in the cloth bags is 2x
+* The remaining peaches (60 - 2x) were placed in the knapsack
+* We know that the number of peaches in the knapsack is half of 'x', so it is x/2
+* Therefore, the number of peaches in the knapsack is: x/2
+
+Answer: 15

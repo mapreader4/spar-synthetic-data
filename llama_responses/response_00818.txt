@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+First, let's count the total number of tasks Trey has to do. He has 7 things to do to clean the house, 1 thing to do to take a shower, and 4 things to do to make dinner. So, the total number of tasks is:
+
+7 + 1 + 4 = 12
+
+Now, since everything takes 10 minutes to do, we need to multiply the total number of tasks by 10 to find the total time it will take to complete the tasks.
+
+12 tasks * 10 minutes per task = 120 minutes
+
+To convert minutes to hours, we divide by 60 (since there are 60 minutes in an hour).
+
+120 minutes ÷ 60 = 2 hours
+
+Answer: 2

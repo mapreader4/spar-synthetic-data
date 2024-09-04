@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Balki counted a total of 437 raisins in 5 boxes
+* In one box he counted 72 raisins
+* In a second box he counted 74 raisins
+* The other three boxes had the same number each
+
+To find the number of raisins in each of the other three boxes, we need to first find the total number of raisins in the first two boxes, and then subtract that from the total number of raisins to find the number of raisins in the remaining three boxes.
+
+The total number of raisins in the first two boxes is:
+* 72 + 74 = 146
+
+Now we can subtract this from the total number of raisins to find the number of raisins in the remaining three boxes:
+* 437 - 146 = 291
+
+Since the remaining three boxes have the same number of raisins each, we can divide 291 by 3 to find the number of raisins in each of the other three boxes:
+* 291 / 3 = 97
+
+Answer: 97

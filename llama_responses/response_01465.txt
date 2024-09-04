@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Jack goes up 3 flights of stairs, which means he goes up 3 x 12 = 36 steps. Each step is 8 inches high, so he goes up 36 x 8 = 288 inches.
+
+Then, Jack goes down 6 flights of stairs, which is 6 x 12 = 72 steps. Each step is still 8 inches high, so he goes down 72 x 8 = 576 inches.
+
+To find the total number of inches Jack goes up, we subtract the number of inches he goes down from the number of inches he went up: 288 - 576 = -288.
+
+So, Jack is 288 inches down from where he started.

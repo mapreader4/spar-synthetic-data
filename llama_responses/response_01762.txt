@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of cars that have valid tickets. We know that 75% of the cars have valid tickets, so we can calculate that as a decimal. 75% of 300 is 0.75 x 300, which is 225.
+
+Next, let's identify the number of cars that have permanent parking passes. We know that 1/5th of 300 is 60. So, 60 cars have permanent parking passes.
+
+Now, let's subtract the number of cars with permanent passes from the total number of cars. 300 - 60 is 240.
+
+So, 240 cars have valid tickets or permanent parking passes. This means that 300 - 240 = 60 cars did not pay for their parking. The answer is:
+
+Answer: 60

@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+1. Rick traveled to the first destination, and then from there, he traveled twice the distance to the second destination.
+
+Let's call the distance to the first destination x. Then, the distance to the second destination is 2x.
+
+2. The third point on his trip was 40 miles away, which was half the distance he traveled from the beginning to his first destination.
+
+So, the distance from the beginning to the first destination is 2(40) = 80 miles.
+
+3. The final destination took twice the amount of driving of all the other legs put together.
+
+The total distance traveled so far is x + 2x + 40 = 3x + 40. The final destination is twice this distance, so it's 2(3x + 40) = 6x + 80.
+
+The total distance traveled is the sum of all the legs: x + 2x + 40 + 6x + 80.
+
+Combine like terms: 9x + 120.
+
+Answer: 120

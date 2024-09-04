@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mrs. Watson has 120 final exams to grade in total.
+2) On Monday, she grades 60% of the 120 exams. 60% of 120 is 0.6 * 120 = 72 exams.
+3) That leaves 120 - 72 = 48 exams remaining.
+4) On Tuesday, she grades 75% of the remaining 48 exams. 75% of 48 is 0.75 * 48 = 36 exams.
+5) That leaves 48 - 36 = 12 exams remaining.
+6) Therefore, on Wednesday, Mrs. Watson needs to grade the remaining 12 exams.
+
+Answer: 12

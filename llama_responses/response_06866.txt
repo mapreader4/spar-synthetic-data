@@ -1,0 +1,7 @@
+Let's start by identifying the number of ducks and geese initially. There are 25 mallard ducks and ten less than twice as many geese as ducks. So, there are 25 ducks and 2 * 25 = 50 geese initially.
+
+After 4 ducks arrive, the total number of ducks becomes 25 + 4 = 29 ducks. And the total number of geese remains 50.
+
+Then, 15 geese leave the park. 50 - 15 = 35 geese are left.
+
+Now, we need to find the difference between the number of geese and ducks. 35 - 29 = 6. So, there are 6 more geese than ducks left at the park.

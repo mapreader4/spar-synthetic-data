@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's say Janet checks 60 posts per hour. If it takes her 10 seconds to check a post, we can find the total time it takes her to check all 60 posts by multiplying 60 * 10 seconds = 600 seconds.
+
+Since there are 60 seconds in 1 minute, we can convert the total time from seconds to minutes by dividing 600 seconds by 60. 600 seconds / 60 = 10 minutes.
+
+Since Janet gets paid 25 cents per post, we can find her hourly earnings by multiplying the number of posts by the amount of cents she gets per post. 60 posts * 0.25 = 15.
+
+So, the answer is:
+
+Answer: 15

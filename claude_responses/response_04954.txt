@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jangshe spent a total of $610 on 7 pieces of clothing
+* One piece was $49 and another piece was $81
+* The remaining 5 pieces were all the same price
+
+First, let's calculate the total cost of the two pieces that were $49 and $81:
+* $49 + $81 = $130
+
+Now, we can subtract the cost of those two pieces from the total amount spent ($610) to get the total cost of the remaining 5 pieces:
+* $610 - $130 = $480
+
+Since the remaining 5 pieces were all the same price, we can divide the total cost of those pieces ($480) by the number of pieces (5) to get the price of one of the other pieces:
+* $480 / 5 = $96
+
+Answer: $96

@@ -1,0 +1,9 @@
+To find the total number of bowling balls, we need to add the number of red bowling balls to the number of green bowling balls.
+
+The problem states that there are 30 red bowling balls, but it also states that there are 6 more green bowling balls than red. To find the number of green bowling balls, we need to add 6 to the number of red bowling balls. So, the number of green bowling balls is 6.
+
+So, the total number of bowling balls is the sum of the number of red bowling balls and the number of green bowling balls:
+
+30 (red bowling balls) + 6 (green bowling balls) = 36
+
+Answer: 36

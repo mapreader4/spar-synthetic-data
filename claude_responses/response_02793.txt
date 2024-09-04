@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Lara is using 4 baking trays
+* On each tray, she places 5 rows of cookies
+* In each row, there are 6 cookies
+
+To find the total number of cookies, we need to:
+1. Calculate the number of cookies on one tray
+2. Multiply that by the number of trays
+
+Number of cookies on one tray:
+* 5 rows x 6 cookies per row = 30 cookies per tray
+
+Number of cookies across all 4 trays:
+* 30 cookies per tray x 4 trays = 120 cookies
+
+Answer: 120

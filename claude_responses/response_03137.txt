@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There are 10 students in the class
+* 5 students scored a 92 on the test
+* 4 students scored an 80 on the test
+* The teacher would be happy if the class average test score was at least 85
+
+To find the score the last student needs to get, we need to calculate the total score of the class and then divide it by 10 to get the average.
+
+The total score of the class is:
+* 5 students x 92 = 460
+* 4 students x 80 = 320
+* Total = 460 + 320 = 780
+
+Now, we need to find the score the last student needs to get to make the average at least 85.
+* Total score needed for average of 85 = 10 x 85 = 850
+* Score needed for last student = 850 - 780 = 70
+
+Therefore, the last student would need to score a 70 on the test to at least make the teacher happy.
+
+Answer: 70

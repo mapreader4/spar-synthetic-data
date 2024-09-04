@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Julia bought 2 pieces of Snickers, and each piece of Snickers costs $1.5.
+2) The total cost of the Snickers is 2 * $1.5 = $3.
+3) Julia also bought 3 packs of M&M's, and each pack of M&M's has the same cost as 2 Snickers.
+4) Since each Snickers costs $1.5, each pack of M&M's costs 2 * $1.5 = $3.
+5) The total cost of the 3 packs of M&M's is 3 * $3 = $9.
+6) The total cost of Julia's purchase is $3 + $9 = $12.
+7) Julia gave the cashier 2 $10 bills, which is a total of $20.
+8) The change Julia should receive is $20 - $12 = $8.
+
+Answer: 8

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Henley bought 300 candies in total.
+2) 40% of the candies were sour, which means 60% of the candies were good.
+3) To find the number of good candies, we take 60% of the total 300 candies:
+   * 60% of 300 = 0.6 * 300 = 180 good candies
+4) Since Henley and her two brothers are sharing the good candies equally, we divide the 180 good candies by 3 to get the number of candies each person gets.
+   * 180 / 3 = 60 candies each
+
+Answer: 60

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) We are given that the rectangle has a width of 42 inches and an area of 1638 square inches.
+2) To find the length of the rectangle, we can use the formula for area: Area = Length x Width
+3) Plugging in the given values, we get: 1638 = Length x 42
+4) Solving for the length, we get: Length = 1638 / 42 = 39 inches
+5) We are asked how many rectangles of the same size would reach a length of 390 inches.
+6) To find this, we divide 390 inches by the length of the rectangle, which is 39 inches.
+7) 390 inches / 39 inches = 10 rectangles.
+
+Answer: 10

@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Step 1: Find the volume of the cube.
+
+The volume of a cube is given by the formula V = s^3, where s is the side length. Since the side length of the cube is 6 cm, the volume of the cube is V = 6^3 = 216 cubic centimeters.
+
+Step 2: Find the mass of the gold.
+
+The mass of the gold is given by the volume of the cube times the density of gold. The volume of the cube is 216 cubic centimeters, and the density of gold is 19 grams per cubic centimeter. So, the mass of the gold is 216 * 19 = 4104 grams.
+
+Step 3: Find the cost of the gold.
+
+The cost of the gold is given as $60 per gram, and since the mass of the gold is 4104 grams, the total cost is 4104 * 60 = $244240.
+
+Step 4: Find the selling price of the gold.
+
+The selling price is 1.5 times the gold value, so the selling price is 1.5 * 244240 = $366360.
+
+Step 5: Calculate the profit.
+
+The profit is the difference between the selling price and the cost. The profit is 366360 - 244240 = $122120.
+
+Answer: 122120

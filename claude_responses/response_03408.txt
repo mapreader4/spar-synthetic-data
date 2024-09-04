@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The price of electricity went up by 25%. This means the new price is 12 cents * 1.25 = 15 cents per kilowatt-hour.
+2) John's old computer used 800 watts, and his new computer uses 50% more, which is 800 * 1.5 = 1200 watts.
+3) To convert watts to kilowatts, we divide by 1000. So the old computer used 800/1000 = 0.8 kilowatts, and the new computer uses 1200/1000 = 1.2 kilowatts.
+4) The cost to run the old computer for 50 hours is 0.8 kilowatts * 50 hours * 12 cents/kilowatt-hour = $48.
+5) The cost to run the new computer for 50 hours is 1.2 kilowatts * 50 hours * 15 cents/kilowatt-hour = $90.
+
+Answer: $90.

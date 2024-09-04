@@ -1,0 +1,6 @@
+Let's break this problem down step by step.
+
+1. Lena has 7 friends and each friend's picture requires 3 clippings, so she has 7 * 3 = 21 clippings in total.
+2. Each clipping requires 6 drops of glue, so for 21 clippings, she will need 21 * 6 = 126 drops of glue.
+
+Answer: 126

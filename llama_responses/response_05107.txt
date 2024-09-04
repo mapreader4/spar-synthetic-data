@@ -1,0 +1,18 @@
+Let's start by letting x be the original borrowed amount.
+
+The total amount borrowed is the sum of the original amount and the interest. We know that the total amount is $1500, so we can set up an equation:
+
+x + 0.12x = 1500
+
+To solve for x, we can subtract 0.12x from both sides of the equation:
+
+x + 0.12x - 0.12x = 1500 - 0.12x
+x = 1500
+
+To isolate x, we can subtract 0.12x from both sides of the equation again:
+
+x - 0.12x = 1500 - 0.12x
+x = 1500 / 0.88
+x = 1687.5
+
+Answer: 1687

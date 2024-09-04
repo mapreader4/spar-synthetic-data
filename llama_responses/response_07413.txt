@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Let's assume that the total profit is $60000, and company B gets 40% of that profit.
+
+We can represent the total profit as 60000.
+
+Since company B gets 40% of the total profit, we can set up an equation to solve for the profit that company A gets:
+
+Let x be the profit that company A gets.
+
+The equation would be:
+
+0.4x = 60000
+
+To solve for x, we can divide both sides by 0.4:
+
+x = 60000 / 0.4
+
+x = 150000
+
+So, company A gets $150,000.

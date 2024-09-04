@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the initial number of positive cases, which is 2000.
+
+On the second day, the number of cases increased by 500, so the total number of cases is now 2500.
+
+Then, on the third day, the number of new cases spiked to 1500, but the number of recoveries was 200. So, the total number of positive cases is now 2500 - 200 = 2300.
+
+Answer: 2300

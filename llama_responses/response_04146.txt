@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: A fifth of the students are in the marching band. To find the number of students in the marching band, we need to find 5% of 600. 5% of 600 is equal to 5/100 * 600 = 30. So, 30 students are in the marching band.
+
+Step 2: Of the students in the marching band, half of them play a brass instrument. To find the number of students that play a brass instrument, we need to find half of 30. Half of 30 is equal to 30/2 = 15. So, 15 students play a brass instrument.
+
+Step 3: Of the students that play a brass instrument, a fifth of them play the saxophone. To find the number of students that play the saxophone, we need to find 1/5 of 15. 1/5 of 15 is equal to 15/5 = 3. So, 3 students play the saxophone.
+
+Step 4: Of the students that play the saxophone, a third of them play the alto saxophone. To find the number of students that play the alto saxophone, we need to find 1/3 of 3. 1/3 of 3 is equal to 3/3 = 1. So, 1 student plays the alto saxophone.
+
+Answer: 1

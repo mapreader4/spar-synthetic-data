@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+* The original problem states that 10 people can shovel 10,000 pounds of coal in 10 days.
+* This means that the rate at which the 10 people can shovel coal is 1,000 pounds per day (10,000 pounds / 10 days).
+* The new problem states that we need to find how many days it will take half of these 10 people (5 people) to shovel 40,000 pounds of coal.
+* Since the rate of shoveling is 1,000 pounds per day for 10 people, the rate for 5 people will be half of that, which is 500 pounds per day.
+* To find the number of days it will take 5 people to shovel 40,000 pounds of coal, we divide the total amount of coal (40,000 pounds) by the rate of shoveling (500 pounds per day).
+* 40,000 pounds / 500 pounds per day = 80 days.
+
+Answer: 80 days.

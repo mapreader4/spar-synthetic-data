@@ -1,0 +1,7 @@
+Let's start by letting x be Leonard's age. Nina is half as old as Jerome, so Jerome's age is 2x. Leonard is 4 years younger than Nina, so Nina's age is x + 4. The sum of their ages is 36, so we can set up the equation x + x + 4 + 2x = 36.
+
+We can solve for x by subtracting 4 from both sides of the equation. This gives us x + 2x = 32. Now we can divide both sides of the equation by 2 to get x = 16.
+
+So Leonard's age is 16.
+
+Answer: 16

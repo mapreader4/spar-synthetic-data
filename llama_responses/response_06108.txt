@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem.
+
+Heidi's apartment has 3 times as many rooms as Danielle's apartment. This means that if Heidi's apartment has x rooms, then Danielle's apartment also has x rooms.
+
+Grant's apartment has 1/9 as many rooms as Heidi's apartment. This means that Grant's apartment has 3/9 of Heidi's rooms. Since Grant's apartment has 2 rooms, it follows that 2 * 3 = 6 rooms.
+
+Since Grant's apartment has 2 rooms, Danielle's apartment also has 2 * 3 = 6 rooms.

@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+The farmer plants 8 seedlings in a row for the beans. To find out how many rows he needs, we need to divide the total number of seedlings by the number of seedlings per row. 
+
+64 seedlings / 8 seedlings per row = 8 rows
+
+The farmer also plants 7 seeds in a row for the pumpkins. To find out how many rows he needs, we need to divide the total number of seeds by the number of seeds per row.
+
+84 seeds / 7 seeds per row = 12 rows
+
+The farmer also plants 6 radishes in a row for the radishes. To find out how many rows he needs, we need to divide the total number of radishes by the number of radishes per row.
+
+48 radishes / 6 radishes per row = 8 rows
+
+The farmer plants two rows per plant bed, so we need to add the number of rows for each type of plant together and divide by 2.
+
+8 rows (beans) + 12 rows (pumpkins) + 8 rows (radishes) = 28 rows
+
+28 rows / 2 = 14 plant beds
+
+Answer: 14

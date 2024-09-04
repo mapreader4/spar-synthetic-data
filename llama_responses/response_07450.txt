@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of campers that are boys. Two-thirds of the total campers are boys, which means we can calculate the number of boys by multiplying the total number of campers (96) by 2/3. 
+
+96 x (2/3) = 64
+
+So, there are 64 boys. Since 50% of the boys want to toast marshmallows, we can multiply the number of boys by 0.5 to find the number of boys who want to toast marshmallows.
+
+64 x 0.5 = 32
+
+Now, let's calculate the number of girls. We know that the remaining one-third of the campers are girls, which means we can calculate the number of girls by subtracting the number of boys from the total number of campers.
+
+96 - 64 = 32
+
+So, there are 32 girls. 75% of the girls want to toast marshmallows, which means we can multiply the number of girls by 0.75.
+
+32 x 0.75 = 24
+
+Now, let's add the number of boys and girls who want to toast marshmallows.
+
+32 + 24 = 56
+
+So, in total, 56 campers want to toast marshmallows. Since each camper gets one marshmallow, we can conclude that they need 56 marshmallows.

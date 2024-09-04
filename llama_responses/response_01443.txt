@@ -1,0 +1,10 @@
+Let's break down the problem step by step.
+
+1. The jeans cost $125 at full price.
+2. The jeans were on sale for 20% off, so we need to find 20% of $125, which is 0.2 x 125 = 25.
+3. The jeans were discounted by $25, so the new price is 125 - 25 = 100.
+4. Then, Todd applied a coupon that took off $10, so the new price is 100 - 10 = 90.
+5. Finally, the store credit card gave him another 10% off the remaining amount, so we need to find 0.1 x 90 = 9.
+6. So, the total discount is 25 + 10 = 35.
+
+Answer: 35

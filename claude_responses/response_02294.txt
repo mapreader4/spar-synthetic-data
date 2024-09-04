@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The first bucket has 22 oranges.
+2) The second bucket has 17 more oranges than the first bucket. So, the second bucket has 22 + 17 = 39 oranges.
+3) The third bucket has 11 fewer oranges than the second bucket. So, the third bucket has 39 - 11 = 28 oranges.
+4) To find the total number of oranges in all the buckets, we add the number of oranges in each bucket:
+22 + 39 + 28 = 89
+
+Answer: 89

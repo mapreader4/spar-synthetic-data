@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of leaves Bronson collects in total: 12 + 13 = 25.
+
+Next, we can find the number of Brown leaves: 20% of 25 = 0.2 * 25 = 5.
+
+Next, we can find the number of Green leaves: 20% of 25 = 0.2 * 25 = 5.
+
+We can add the number of Brown leaves to the total: 5 + 5 = 10.
+
+Finally, we can find the number of yellow leaves: 25 - 10 = 15.
+
+Answer: 15

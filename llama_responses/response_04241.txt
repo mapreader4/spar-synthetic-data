@@ -1,0 +1,9 @@
+Let's start by identifying the number of marbles Wolfgang bought: Wolfgang bought 16 marbles.
+
+Ludo bought 1/4 times more marbles than Wolfgang, so Ludo bought 16 + (16 / 4) = 16 + 4 = 20 marbles.
+
+Michael bought 2/3 times as many marbles as the number of marbles both Wolfgang and Ludo bought. Wolfgang and Ludo bought 16 + 20 = 36 marbles in total. Michael bought 2/3 of this amount, which is 36 * (2/3) = 24 marbles.
+
+The total number of marbles they bought is 16 + 20 + 24 = 60 marbles. If they share them equally, each person gets 60 / 3 = 20 marbles.
+
+Answer: 20

@@ -1,0 +1,24 @@
+Let's break this down step by step.
+
+Alexander draws 9 pictures for the original exhibition. Then, he draws pictures for the 5 new galleries, and each gallery gets the same amount. So, the total number of pictures Alexander draws is 9 + 5x, where x is the number of pictures each gallery gets. Since all galleries get the same amount, we can write this as 9 + 5y, where y is the number of pictures each gallery gets.
+
+Alexander needs 4 pencils for each picture, so for each picture, he needs 4 pencils. He also needs 2 pencils for signing his signature on each picture, so for each picture, he needs 6 pencils. For all the pictures, he uses 88 pencils, which is the total number of pencils used.
+
+Let's use the variable x to represent the number of pictures each gallery gets. Then, we can set up an equation to solve for x.
+
+4x + 6x = 88
+
+Alexander draws 9 pictures for the original exhibition, so we can set that equal to 9. We can subtract 9 from both sides of the equation to get:
+
+3x = 79
+
+To solve for x, we can divide both sides of the equation by 3:
+
+x = 79 / 3
+x = 26.33
+
+Since Alexander draws pictures for each gallery, and each gallery gets the same amount, we can multiply 26.33 by 5 to find the total number of pictures for each gallery:
+
+26.33 * 5 = 131.65
+
+So, Alexander draws 131.65 pictures for each of the 5 new galleries.

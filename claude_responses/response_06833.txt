@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The pie shop charges $5 for a slice of pie
+* Each whole pie is cut into 4 slices
+* The pie shop is selling 9 pies
+
+To calculate the total money the pie shop will make, we need to:
+1. Calculate the total number of slices sold
+2. Multiply the total number of slices by the price per slice
+
+Step 1: Calculate the total number of slices sold
+* Each pie is cut into 4 slices
+* The pie shop is selling 9 pies
+* Total number of slices = 9 pies x 4 slices per pie = 36 slices
+
+Step 2: Multiply the total number of slices by the price per slice
+* Price per slice = $5
+* Total money made = 36 slices x $5 per slice = $180
+
+Answer: $180

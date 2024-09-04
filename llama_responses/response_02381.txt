@@ -1,0 +1,10 @@
+Let's start by identifying the number of balls of each color.
+
+The box contains 6 blue balls.
+There are 4 red balls.
+The number of green balls is 3 times the number of blue balls, which is 3 * 6 = 18.
+The number of yellow balls is twice the number of red balls, which is 2 * 4 = 8.
+
+In total, the number of balls is 6 (blue) + 4 (red) + 18 (green) + 8 (yellow) = 36.
+
+Answer: 36

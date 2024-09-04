@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Lisa makes breakfast for her family every weekday (Monday through Friday)
+* She makes 2 eggs for each of her 4 children
+* That's 2 eggs x 4 children = 8 eggs for the children
+* She makes 3 eggs for her husband
+* She makes 2 eggs for herself
+* So the total number of eggs she makes for each day is:
+  - 8 eggs for the children
+  - 3 eggs for her husband
+  - 2 eggs for herself
+  - Total: 8 + 3 + 2 = 13 eggs per day
+* There are 5 weekdays in a week (Monday through Friday)
+* So in a week, she makes 13 eggs x 5 days = 65 eggs
+* There are 52 weeks in a year
+* So in a year, she makes 65 eggs x 52 weeks = 3,380 eggs
+
+Answer: 3,380

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start with Sammy, who can eat 15 pickle slices.  Let's call the number of pickle slices Tammy eats 2 times that, so Tammy can eat 15 * 2 = 30 pickle slices.
+
+Now, let's think about Ron.  Ron eats 20% fewer pickle slices than Tammy.  We know Tammy eats 30 pickle slices, so Ron eats 30 - 20 = 10 pickle slices.  So Ron eats 10 pickle slices.
+
+Answer: 10

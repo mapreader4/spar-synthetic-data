@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Einstein sold 15 boxes of pizzas, each box selling for 12 dollars, so the total amount of money earned from pizzas is 15 * 12 = 180 dollars.
+
+Einstein sold 40 packs of potato fries, each pack selling for 0.30 dollars, so the total amount of money earned from fries is 40 * 0.30 = 12 dollars.
+
+Einstein sold 25 cans of soda, each can selling for 2 dollars, so the total amount of money earned from soda is 25 * 2 = 50 dollars.
+
+In total, Einstein earned 180 + 12 + 50 = 242 dollars. To reach his goal of 500, Einstein needs to earn 500 - 242 = 258 more dollars.
+
+Answer: 258

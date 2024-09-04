@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: The number of apples picked is 34.
+
+Step 2: The number of apples needed for each pie is 4.
+
+Step 3: The number of apples not ripe is 6.
+
+Step 4: To find the number of apples that are ripe, we subtract the number of apples not ripe from the total number of apples picked: 34 - 6 = 28.
+
+Step 5: To find the number of pies that can be made, we divide the number of ripe apples by the number of apples needed for each pie: 28 ÷ 4 = 7.
+
+Answer: 7

@@ -1,0 +1,20 @@
+Let's start by using the information given to create an equation.
+
+Let's say the number of cows is x.
+
+The problem states that they have three fewer than twice as many cows as pigs, so we can write that as an equation: x - (2 * 10) = 3.
+
+We are told that there are six more goats than cows, so we can write that as an equation: x + 6.
+
+We know that there are 10 pigs, so we can write that as an equation: x + x = 10.
+
+We can now solve the equations:
+
+x - (2 * 10) = 3
+x + x = 10
+
+Subtract 2 * 10 from both sides of the equation x - (2 * 10) = 3 to get:
+
+x = 10 - 6 = 4
+
+So, Hannah's family has 4 animals on their farm.

@@ -1,0 +1,43 @@
+Let's break this problem down step by step.
+
+Let's say Jeremy's age is x.
+
+Amy is 1/3 the age of Jeremy, so Amy's age is x/3.
+
+Chris is twice as old as Amy, so Chris's age is 2 * (x/3) = 2x/3.
+
+The total age of the three of them is 132.
+
+So, we can set up an equation:
+
+x + x/3 + 2x/3 = 132
+
+We can combine the fractions by finding the least common multiple of the denominators, which is 3. So, we can rewrite the equation as:
+
+x + x + 2x = 132*3
+
+Subtract x from both sides of the equation:
+
+x + x = 132*3 - 2x
+
+Combine like terms:
+
+x = 132*3 - x
+
+Distribute the 3:
+
+x = 396 - x
+
+Now, subtract x from both sides of the equation to get:
+
+x - x = 396
+
+Add x to both sides to get:
+
+2x = 396
+
+Divide both sides by 2:
+
+x = 198
+
+Answer: 198

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1) Originally, Central Park had 8 more than half the number of trash cans in Veteran's Park.
+   * Let's call the number of trash cans in Veteran's Park as "x".
+   * Then, the number of trash cans in Central Park was (x/2) + 8.
+
+2) Someone took half of the trash cans from Central Park and put them in Veteran's Park.
+   * So, the number of trash cans taken from Central Park was ((x/2) + 8) / 2 = (x/4) + 4.
+   * This means the new number of trash cans in Veteran's Park is x + (x/4) + 4.
+
+3) We know that originally there were 24 trash cans in Veteran's Park.
+   * So, the new number of trash cans in Veteran's Park is x + (x/4) + 4 = 24.
+
+4) Solving for x, we get:
+   * x + (x/4) + 4 = 24
+   * (5x/4) + 4 = 24
+   * 5x/4 = 20
+   * x = 16
+
+Therefore, the number of trash cans now in Veteran's Park is 16.
+
+Answer: 16

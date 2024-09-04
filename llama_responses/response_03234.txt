@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, we know that Grandma left $124,600 in her will. She gave half of that to her favorite grandchild, Shelby, so we can find out how much Shelby received.
+
+To find out how much Shelby received, we can divide the total amount by 2:
+
+$124,600 ÷ 2 = $62,300
+
+So Shelby received $62,300.
+
+Now, the remaining amount is the total amount minus the amount Shelby received:
+
+$124,600 - $62,300 = $62,300
+
+This leaves $62,300 for the remaining 10 grandchildren to divide evenly. To find out how much each of them received, we can divide the remaining amount by 10:
+
+$62,300 ÷ 10 = $6,230
+
+Answer: 6230

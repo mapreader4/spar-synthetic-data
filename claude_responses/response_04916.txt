@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* The bag initially has:
+  - 7 apples
+  - 8 oranges
+  - 15 mangoes
+* Luisa takes out:
+  - 2 apples
+  - Twice as many oranges as apples, which is 2 x 2 = 4 oranges
+  - 2/3 the number of mangoes, which is 2/3 x 15 = 10 mangoes
+* After Luisa's removal, the remaining number of fruits in the bag is:
+  - Apples: 7 - 2 = 5
+  - Oranges: 8 - 4 = 4
+  - Mangoes: 15 - 10 = 5
+* The total remaining number of fruits in the bag is:
+  - 5 apples + 4 oranges + 5 mangoes = 14 fruits
+
+Answer: 14

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Apollo needs to replace his chariot wheels once a month
+* For the first 6 months, Hephaestus charged 3 golden apples per set of wheels
+* So for the first 6 months, Apollo paid:
+    - 6 months x 3 golden apples per month = 18 golden apples
+* Halfway through the year, Hephaestus raised his rates to 6 golden apples per set of wheels
+* For the remaining 6 months, Apollo paid:
+    - 6 months x 6 golden apples per month = 36 golden apples
+* To calculate the total number of golden apples Apollo paid for the entire year:
+    - 18 golden apples (first 6 months) + 36 golden apples (last 6 months) = 54 golden apples
+
+Answer: 54

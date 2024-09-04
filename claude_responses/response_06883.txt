@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) John has 100 movies on VHS.
+2) He can trade in each VHS for $2.
+3) He needs to buy 100 DVDs at $10 each.
+4) To calculate the total cost, we need to find the total amount he will get from trading in the VHS, and then subtract that from the total cost of buying the DVDs.
+5) The total amount he will get from trading in the VHS is:
+100 VHS x $2 per VHS = $200
+6) The total cost of buying the DVDs is:
+100 DVDs x $10 per DVD = $1,000
+7) The net cost to replace the movies is:
+$1,000 (cost of DVDs) - $200 (trade-in value of VHS) = $800
+
+Answer: $800

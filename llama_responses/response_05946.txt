@@ -1,0 +1,9 @@
+Let's start by finding the number of gallons of water in Wallace's water heater. Since it's 3/4 full, and the total capacity is 40 gallons, we can multiply 40 x 3/4 to find the number of gallons of water in Wallace's water heater. 40 x 3/4 = 30.
+
+Now, let's find the number of gallons of water in Catherine's water heater. Since it's also 3/4 full, and the capacity is unknown, we can let x be the capacity of Catherine's water heater. We know that 3/4 of x is the number of gallons of water in Catherine's water heater. So, we can set up the equation 3/4x = 3/4 of x. Multiplying both sides of the equation by 4, we get 4x = 3x. We can then solve for x, which is 12.
+
+Now, we know that Wallace's water heater has 30 gallons of water, and Catherine's water heater has 3/4x gallons of water. Since 3/4x = 12, we can multiply both sides of the equation by 4 to get 3x = 48. So, Catherine's water heater has 48 gallons of water.
+
+Now, we can find the total number of gallons of water both of them have. We add 30 + 48 = 78. So, the total number of gallons of water they both have is 78.
+
+Answer: 78

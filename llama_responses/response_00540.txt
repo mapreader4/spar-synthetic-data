@@ -1,0 +1,9 @@
+Let's think step by step.
+
+There are 6 cookie cutters shaped like triangles, and each triangle has 3 sides. So, the number of sides of the triangle cutters is 6 * 3 = 18.
+
+There are 4 cookie cutters shaped like squares, and each square has 4 sides. So, the number of sides of the square cutters is 4 * 4 = 16.
+
+There are 2 cookie cutters shaped like hexagons, and each hexagon has 6 sides. So, the number of sides of the hexagon cutters is 2 * 6 = 12.
+
+In total, there are 18 + 16 + 12 = 46 sides of the cookie cutters.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: Cassandra collected 5000 pennies and James collected 276 pennies.
+
+We want to find the total number of pennies donated to charity.
+
+We can add the number of pennies collected by Cassandra (5000) to the number of pennies collected by James (276) to get the total number of pennies donated to charity.
+
+5000 + 276 = 5276
+
+Answer: 5276

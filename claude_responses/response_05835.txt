@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Princess Daphne bought 3 necklaces and a set of earrings
+* The total cost of the 3 necklaces and the earrings is $240,000
+* All 3 necklaces were equal in price
+* The earrings were 3 times as expensive as any one necklace
+
+Let's call the cost of a single necklace 'x'.
+
+Since all 3 necklaces were equal in price, the total cost of the 3 necklaces is 3x.
+
+The earrings were 3 times as expensive as any one necklace, so the cost of the earrings is 3x.
+
+Therefore, the total cost is:
+3x + 3x = $240,000
+
+Solving for x:
+6x = $240,000
+x = $40,000
+
+Answer: $40,000

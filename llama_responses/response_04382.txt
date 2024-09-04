@@ -1,0 +1,5 @@
+Let's start by finding the number of pink roses. We know that 1/2 of the roses are red and 3/5 of the roses are white. This means that 1/2 + 3/5 = 4/5 of the roses are not pink. The remaining 1/5 of the roses are pink.
+
+We know that there are 20 roses in each row. We can multiply 20 by 1/5 to find the number of pink roses: 20 * 1/5 = 4.
+
+Answer: 4

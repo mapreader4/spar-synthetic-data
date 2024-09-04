@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1. The trolley driver picked up 10 people on the first stop.
+2. On the next stop, 3 people got off and twice as many people from the first stop got on. 
+   - From the first stop, twice as many people got on, which is 2 x 10 = 20 people.
+   - So the total number of people on the trolley after the second stop is 10 - 3 + 20 = 27 people.
+3. On the third stop, 18 people got off and 2 got on.
+   - So the total number of people on the trolley after the third stop is 27 - 18 + 2 = 11 people.
+
+Answer: 11 people

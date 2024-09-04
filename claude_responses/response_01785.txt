@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Angeli had 90 assorted candies.
+2) One-third of the candies were lollipops, so the number of lollipops is 90 * 1/3 = 30.
+3) The remaining candies were candy canes, so the number of candy canes is 90 - 30 = 60.
+4) Angeli shared the lollipops equally among the boys, such that each boy received 3. So the number of boys is 30 / 3 = 10.
+5) Angeli shared the candy canes equally among the girls, such that each girl received 2. So the number of girls is 60 / 2 = 30.
+6) The total number of boys and girls given candies is 10 + 30 = 40.
+
+Answer: 40

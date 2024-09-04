@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the time Luke takes to get to work by bus: Luke takes a 70-minute bus ride to work.
+
+Step 2: Calculate the time Paula takes to get to work by bus: Paula takes 3/5 of the time it takes Luke to get to work, so she takes (3/5) * 70 = 42 minutes to get to work.
+
+Step 3: Calculate the time Luke takes to get back home by bike: Luke takes 5 times slower than the bus, so he takes 5 * 70 = 350 minutes to get back home.
+
+Step 4: Calculate the time Paula takes to get back home by bus: Paula takes the same time as Luke to get back home, which is 70 minutes.
+
+Step 5: Calculate the total time they take traveling from home to work and back each day: Luke takes 70 + 350 + 70 = 490 minutes to get to work and back each day.
+
+Answer: 490

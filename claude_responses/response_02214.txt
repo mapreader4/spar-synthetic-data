@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Matt spent a total of 150 minutes on his homework
+* He spent 30% of that time on math
+* 30% of 150 minutes is 0.30 * 150 = 45 minutes spent on math
+* He spent 40% of the time on science
+* 40% of 150 minutes is 0.40 * 150 = 60 minutes spent on science
+* The remaining time was spent on other subjects
+* To calculate the remaining time, we take the total time (150 minutes) and subtract the time spent on math (45 minutes) and the time spent on science (60 minutes)
+* 150 minutes - 45 minutes - 60 minutes = 45 minutes spent on other subjects
+
+Answer: 45

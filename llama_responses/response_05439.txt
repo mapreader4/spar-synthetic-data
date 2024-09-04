@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to find the total cost of the regular size rubber ducks: 221 regular size ducks at $3.00 each is 221 x 3.00 = 663.00.
+
+Next, we need to find the total cost of the large size rubber ducks: 185 large size ducks at $5.00 each is 185 x 5.00 = 925.00.
+
+Then, we need to add the total cost of both sizes of ducks: 663.00 + 925.00 = 1588.00.
+
+So, the city raised a total of 1588.00 dollars for charity.
+
+Answer: 1588

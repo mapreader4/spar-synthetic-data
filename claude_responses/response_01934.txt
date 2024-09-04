@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jeff rented the apartment for 5 years
+* For the first 3 years, he paid $300 per month
+* For the remaining 2 years, he paid $350 per month
+
+First, let's calculate the total amount he paid for the first 3 years:
+* 3 years x 12 months per year x $300 per month = $10,800
+
+Then, let's calculate the total amount he paid for the remaining 2 years:
+* 2 years x 12 months per year x $350 per month = $8,400
+
+Now, we add the two amounts together to get the total amount Jeff paid for the apartment throughout the 5 years:
+* $10,800 + $8,400 = $19,200
+
+Answer: 19,200

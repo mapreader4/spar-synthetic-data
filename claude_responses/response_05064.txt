@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The courtyard measures 10 feet by 25 feet, so the total area is 10 feet x 25 feet = 250 square feet.
+2) Jackson needs 4 tiles per square foot, so the total number of tiles needed is 250 square feet x 4 tiles/square foot = 1,000 tiles.
+3) 40% of the tiles are green marble, which means 400 tiles are green marble (40% of 1,000).
+4) The remaining 60% of the tiles are red, which means 600 tiles are red (60% of 1,000).
+5) The green marble tiles cost $3 per tile, so the total cost of the green marble tiles is 400 tiles x $3/tile = $1,200.
+6) The red tiles cost $1.50 per tile, so the total cost of the red tiles is 600 tiles x $1.50/tile = $900.
+7) The total cost for all the tiles is the sum of the green marble tiles and the red tiles: $1,200 + $900 = $2,100.
+
+Answer: $2,100

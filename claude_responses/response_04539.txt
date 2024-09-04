@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 13 hotel rooms at Palm Meadows
+* 8 of the rooms have 2 beds each
+* The remaining 5 rooms (13 - 8 = 5) have 3 beds each
+
+To calculate the total number of beds, we need to add up the beds in the 8 rooms with 2 beds each, and the beds in the 5 rooms with 3 beds each.
+
+For the 8 rooms with 2 beds each:
+* 8 rooms x 2 beds per room = 16 beds
+
+For the 5 rooms with 3 beds each:
+* 5 rooms x 3 beds per room = 15 beds
+
+Now we add the two totals together:
+* 16 beds + 15 beds = 31 beds
+
+Answer: 31

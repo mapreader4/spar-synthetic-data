@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The building has 42 storage units in total.
+2) The total area of all the storage units is 5040 square feet.
+3) 20 of the units are 8 by 4 feet each.
+   - The area of each of these 20 units is 8 x 4 = 32 square feet.
+   - The total area of these 20 units is 20 x 32 = 640 square feet.
+4) The remaining 22 units are all the same size.
+5) To find the area of each of the remaining 22 units, we need to subtract the total area of the 20 units from the total area of all 42 units, and then divide the remaining area by 22.
+   - Total area of all 42 units = 5040 square feet.
+   - Total area of the 20 units = 640 square feet.
+   - Remaining area = 5040 - 640 = 4400 square feet.
+   - Area of each of the remaining 22 units = 4400 / 22 = 200 square feet.
+
+Answer: 200 square feet.

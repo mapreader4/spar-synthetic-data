@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+1. The person deposits $5600 into the bank.
+2. The interest rate is 7% per year.
+3. Since it is a two-year deposit, we need to calculate the interest for 2 years.
+
+Let's calculate the interest for one year first. 7% of $5600 is $392. So the total amount after 1 year is $5892.
+4. To find the total amount after 2 years, we multiply the interest for 1 year by 2. 2 * 392 = $784.
+5. Add the principal amount and the interest to get the total amount after 2 years. $5600 + $784 = $6384.
+
+Answer: 6384

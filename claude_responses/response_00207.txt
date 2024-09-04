@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* John volunteers twice a month
+* Each time he volunteers, he spends 3 hours at the shelter
+* To calculate the total hours per month, we multiply the number of times he volunteers per month (2) by the number of hours per visit (3):
+  * 2 visits per month x 3 hours per visit = 6 hours per month
+* To calculate the total hours per year, we multiply the hours per month (6) by the number of months in a year (12):
+  * 6 hours per month x 12 months per year = 72 hours per year
+
+Answer: 72

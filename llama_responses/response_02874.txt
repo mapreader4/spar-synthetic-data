@@ -1,0 +1,9 @@
+Let's break down the number of text messages sent by Jason for each day. 
+
+On Monday, Jason sent 220 text messages. 
+
+On Tuesday, he sent half as many text messages as he sent on Monday, which is 220 / 2 = 110 text messages.
+
+On Wednesday, Thursday, Friday, and Friday, Jason sent 50 text messages each day. So, the total number of text messages for these three days is 50 + 50 + 50 = 150 text messages.
+
+So, the total number of text messages sent by Jason is 220 + 110 + 150 = 480.

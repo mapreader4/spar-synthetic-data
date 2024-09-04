@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Annie picked 8 pints of blueberries
+* Kathryn picked 2 pints more than Annie
+* To find how many pints Kathryn picked, we add 2 to the number of pints Annie picked:
+    * Kathryn picked 8 + 2 = 10 pints
+* Ben picked 3 pints fewer than Kathryn
+* To find how many pints Ben picked, we subtract 3 from the number of pints Kathryn picked:
+    * Ben picked 10 - 3 = 7 pints
+* To find the total number of pints picked by the three, we add up the individual amounts:
+    * Total pints picked = Annie's 8 + Kathryn's 10 + Ben's 7
+    * Total pints picked = 8 + 10 + 7 = 25 pints
+
+Answer: 25

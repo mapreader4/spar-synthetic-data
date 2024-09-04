@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+1. The original price of the medicine is $150.00.
+2. There is a 10% cashback offer, which means 10% of the original price will be returned as cashback. To find the cashback amount, multiply the original price by 0.10:
+
+$150.00 x 0.10 = $15.00
+
+So, the cashback amount is $15.00.
+3. There is also a $25.00 mail-in rebate for a 6-month prescription. This rebate is a fixed amount, not a percentage.
+
+So, subtract the cashback and the rebate from the original price:
+
+$150.00 - $15.00 (cashback) = $135.00
+$135.00 - $25.00 (rebate) = $110.00
+
+Answer: 110

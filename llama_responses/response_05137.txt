@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of students going on the trip. We know that there are 109 fifth graders, 115 sixth graders, and 118 seventh graders. To find the total number of students, we add these numbers together:
+
+109 + 115 + 118 = 342
+
+So, there are 342 students going on the trip.
+
+Next, we know that there are 4 teachers and 2 parents from each grade, which means there are a total of:
+
+4 + 4 + 4 = 12 adults coming along to chaperone on the trip.
+
+Now, we need to add the number of students and adults to find the total number of people going on the trip:
+
+342 (students) + 12 (adults) = 354
+
+Since there are 72 seats on each bus, we can divide the total number of people by 72 to find the number of buses needed:
+
+354 ÷ 72 = 4.92
+
+Since we can't have a fraction of a bus, we round up to the nearest whole number, so we need 5 buses for the field trip.

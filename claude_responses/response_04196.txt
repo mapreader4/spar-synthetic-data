@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The gecko lays 30 eggs per year.
+2) 20% of the 30 eggs are infertile. 20% of 30 is 0.2 * 30 = 6 infertile eggs.
+3) That leaves 30 - 6 = 24 fertile eggs.
+4) A third of the 24 fertile eggs will not hatch due to calcification issues. One third of 24 is 24 / 3 = 8 eggs that will not hatch.
+5) The number of eggs that will actually hatch is the total number of fertile eggs (24) minus the number that will not hatch due to calcification (8).
+Answer: 16

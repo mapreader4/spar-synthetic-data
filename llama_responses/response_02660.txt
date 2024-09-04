@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what we know.
+
+1. Mr. Salazar has 7 oranges.
+2. He reserved 1/4 of the oranges for his friend, so we subtract 1/4 of 7, which is 7/4 = 1.75. So, he has 7 - 1.75 = 5.75 oranges left.
+3. Yesterday, he sold 3/7 of the remaining oranges, so we need to find 3/7 of 5.75. To do this, we multiply 5.75 by 3/7, which is 5.75 * 3/7 = 2.625. So, he sold 2.625 oranges.
+4. Today, he sees 4 rotten oranges. We need to subtract 4 from the remaining 5.75, which is 5.75 - 4 = 1.75. So, he has 1.75 oranges left to be sold today.
+
+Answer: 1.75

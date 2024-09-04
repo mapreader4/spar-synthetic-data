@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The chocolate factory produces 50 candies per hour
+* The factory has to fulfill an order of 4000 candies
+* The factory works for 10 hours every day
+
+To calculate how many days it will take to complete the order, we need to find out how many hours it will take to produce 4000 candies.
+
+* The factory produces 50 candies per hour
+* So in 1 hour, the factory can produce 50 candies
+* To produce 4000 candies, the factory will need to work for 4000 / 50 = 80 hours
+
+Now, we know the factory works for 10 hours every day, so we can calculate the number of days it will take:
+* 80 hours / 10 hours per day = 8 days
+
+Answer: 8 days

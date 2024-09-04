@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the number of glasses Brad sold:
+
+He made 2 gallons of lemonade, and each gallon makes 16 glasses, so he made a total of 2 x 16 = 32 glasses.
+
+He drank 5 glasses himself, so he sold 32 - 5 = 27 glasses.
+
+He sold all but 6 glasses, which means he sold 27 - 6 = 21 glasses.
+
+Now, let's calculate the revenue:
+
+Each glass costs $1.00, so the total revenue is 21 x $1.00 = $21.00.
+
+Now, let's calculate the cost:
+
+He spent $3.50 for every gallon, and he made 2 gallons, so the total cost is 2 x $3.50 = $7.00.
+
+The cost of making lemonade is subtracted from the revenue to find the profit:
+
+Profit = Revenue - Cost = $21.00 - $7.00 = $14.00.
+
+So, the net profit is $14.00.
+
+Answer: 14

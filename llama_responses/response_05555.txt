@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, Tilly counts 120 stars to the east of her house. This is the number of stars she counts in one direction.
+
+Next, she counts six times that number to the west. This means she counts 6 x 120 stars, which is 720 stars.
+
+To find the total number of stars Tilly counts, we add the number of stars she counts to the east and the number of stars she counts to the west. This gives us:
+
+120 + 720 = 840
+
+Answer: 840

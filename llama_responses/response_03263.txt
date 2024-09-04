@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Andy gets 2 candy canes from his parents, so he has 2 candy canes initially.
+
+From 4 teachers, he gets 3 candy canes each, so he gets a total of 4 x 3 = 12 candy canes.
+
+In total, Andy has 2 + 12 = 14 candy canes.
+
+He uses his allowance to buy 1/7 as many candy canes as he was given. Since he was given 14 candy canes, he buys 1/7 of 14, which is 2 candy canes.
+
+So, Andy has a total of 14 + 2 = 16 candy canes.
+
+For every 4 candy canes, Andy gets a cavity. To find out how many cavities he gets, we can divide the total number of candy canes by 4:
+
+16 ÷ 4 = 4
+
+So, Andy gets 4 cavities.
+
+Answer: 4

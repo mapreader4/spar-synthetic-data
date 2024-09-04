@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Siena bookmarks 30 website pages every day. So, in a week, she bookmarks 30 * 7 = 210 website pages.
+2. She currently has 400 bookmarked pages in her bookmarks library.
+3. At the end of March, she will have 400 + 210 = 610 bookmarked pages in her bookmarks library.
+
+Answer: 610

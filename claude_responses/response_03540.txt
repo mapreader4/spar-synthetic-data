@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The Chicago Cubs scored:
+  - 2 home runs in the third inning
+  - 1 home run in the fifth inning
+  - 2 home runs in the eighth inning
+* So the total number of home runs scored by the Chicago Cubs is:
+  - 2 + 1 + 2 = 5 home runs
+* The Cardinals scored:
+  - 1 home run in the second inning
+  - 1 home run in the fifth inning
+* So the total number of home runs scored by the Cardinals is:
+  - 1 + 1 = 2 home runs
+* To find the difference in home runs scored, we subtract the Cardinals' total from the Cubs' total:
+  - 5 home runs - 2 home runs = 3 home runs
+
+Answer: 3

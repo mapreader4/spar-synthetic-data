@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Let's identify the given information. We know that the time it takes Juan takes to grab his lunch from his office and back is half the time he takes to read a book. So, let's let x be the time it takes to read a book. Then, the time it takes to grab his lunch from his office and back is x/2.
+
+Step 2: We know that the time it takes to grab his lunch from his office and back is 4 hours. So, we can set up the equation x/2 = 4.
+
+Step 3: To solve for x, we can multiply both sides of the equation by 2 to get 2x = 8.
+
+Step 4: Now, we can solve for x by dividing both sides of the equation by 2. This gives us x = 4.
+
+Step 5: Now that we have the time it takes to read a book, we can find the number of pages Juan reads in an hour. Since the book has 4000 pages, we can divide 4000 by the time it takes to read a book (4 hours) to get the number of pages read in an hour. 4000 / 4 = 1000.
+
+Answer: 1000

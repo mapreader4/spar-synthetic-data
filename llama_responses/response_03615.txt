@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of hits the team has had so far: 15 hits per game * 5 games = 15 * 5 = 75 hits.
+
+Since there are 11 players on the team, we can find the average hits per player by dividing the total hits by the number of players: 75 hits / 11 players = 6.86 hits per player.
+
+Now, we are asked to find the average hits per player over the next 6 games. Since the best player has 25 hits, we can find the average hits per game by dividing 25 hits by the number of games: 25 hits / 1 game = 25 hits per game.
+
+Since the other players are continuing their average, we can assume that they will get the same average of 6.86 hits per game. To find the total hits the other players will get over the next 6 games, we can multiply the average hits per game by the number of games: 6.86 hits per game * 6 games = 41.16 hits.
+
+However, this is for the other 10 players, not the best player. Since there are 11 players in total, we need to subtract the best player's hits from the total hits to find the hits the other players will get: 41.16 hits - 25 hits = 16.16 hits.
+
+Finally, to find the average hits per player, we can divide the total hits by the number of players: 16.16 hits / 10 players = 1.616 hits per player.
+
+Answer: 1.616

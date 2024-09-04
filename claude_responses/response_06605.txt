@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Rita's coach requires her to swim a total of 1,500 hours
+* Rita has already completed:
+    - 50 hours of backstroke
+    - 9 hours of breaststroke
+    - 121 hours of butterfly
+* So the total hours she has already completed is:
+    - 50 + 9 + 121 = 180 hours
+* Rita has decided to dedicate 220 hours every month practicing freestyle and sidestroke
+* To find out how many months Rita has to fulfill her coach's requirements, we need to calculate the remaining hours she needs to complete:
+    - 1,500 hours (total required) - 180 hours (already completed) = 1,320 hours (remaining)
+* Now we can divide the remaining hours by the monthly practice hours to find the number of months:
+    - 1,320 hours / 220 hours per month = 6 months
+
+Answer: 6 months

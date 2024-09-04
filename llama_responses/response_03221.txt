@@ -1,0 +1,5 @@
+Let's start by finding the age of the youngest sibling. Since the youngest sibling is 5 less than half of Kay's age, and Kay is 32 years old, the youngest sibling must be 32 / 2 - 5 = 16.
+
+Now, the oldest sibling is four times as old as the youngest sibling. 16 * 4 = 64.
+
+So, the oldest sibling is 64 years old.

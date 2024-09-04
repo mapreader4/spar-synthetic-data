@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+1) Wyatt has 10 blue envelopes.
+2) He has 4 fewer yellow envelopes than blue envelopes.
+3) To find the number of yellow envelopes, we subtract 4 from the number of blue envelopes: 10 - 4 = 6 yellow envelopes.
+4) To find the total number of envelopes, we add the number of blue envelopes and the number of yellow envelopes: 10 + 6 = 16 envelopes.
+
+Answer: 16

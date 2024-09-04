@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Tilly needs to sell 100 bags at $10 per bag to make $300 in profit.
+2) The total revenue from selling 100 bags at $10 per bag is 100 * $10 = $1,000.
+3) The total profit is $300.
+4) To find the cost per bag, we need to subtract the total profit from the total revenue, and then divide the result by the number of bags.
+5) Total cost = Total revenue - Total profit
+   = $1,000 - $300 = $700
+6) Cost per bag = Total cost / Number of bags
+   = $700 / 100 = $7 per bag.
+
+Answer: $7

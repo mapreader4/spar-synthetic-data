@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Moe eats 40 pieces of cuttlebone in 10 seconds
+* To find how long it would take Moe to eat 800 pieces, we can set up a proportion:
+* 40 pieces / 10 seconds = 800 pieces / x seconds
+* Cross-multiplying, we get:
+* 40x = 800 * 10
+* Solving for x, we get:
+* x = 800 * 10 / 40
+* x = 200 seconds
+
+Answer: 200 seconds

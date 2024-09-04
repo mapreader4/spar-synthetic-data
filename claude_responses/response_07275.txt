@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+* John gave the store $20
+* Slurpees cost $2 each
+* He received $8 in change
+To find the number of Slurpees he bought, we need to first find the total amount he spent on Slurpees.
+* Total amount spent = Amount given - Amount received in change
+* Total amount spent = $20 - $8 = $12
+* Since each Slurpee costs $2, the number of Slurpees he bought is the total amount spent divided by the cost of each Slurpee.
+* Number of Slurpees = $12 / $2 = 6
+
+Answer: 6

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Total number of guests: 50
+* Half of the guests are women, so the number of women is 50 / 2 = 25
+* The number of men is 15
+* The number of children is 50 - 25 - 15 = 10
+* In the middle of the movie, 1/5 of the men and 4 children left
+* The number of men who left is 1/5 of 15 = 3
+* The number of children who left is 4
+* The number of people who stayed is:
+    - Women: 25
+    - Men: 15 - 3 = 12
+    - Children: 10 - 4 = 6
+* Total number of people who stayed: 25 + 12 + 6 = 43
+
+Answer: 43

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John invited 30 people to the party.
+2) 20% of the people he invited didn't show up. To calculate how many people didn't show up, we take 20% of 30:
+   * 20% of 30 = 0.20 * 30 = 6 people didn't show up
+3) So the number of people who did show up is 30 - 6 = 24 people.
+4) Of the 24 people who showed up, 75% got steak. To calculate how many people got steak, we take 75% of 24:
+   * 75% of 24 = 0.75 * 24 = 18 people got steak
+5) The remaining people got chicken. To calculate how many people got chicken, we take the total number of people who showed up (24) and subtract the number of people who got steak (18):
+   * 24 - 18 = 6 people ordered chicken
+
+Answer: 6 people ordered chicken.

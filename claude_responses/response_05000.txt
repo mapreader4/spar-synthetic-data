@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Ray buys:
+  - 1 pack of hamburger meat for $5.00
+  - 1 box of crackers for $3.50
+  - 4 bags of frozen vegetables at $2.00 per bag, so 4 x $2.00 = $8.00
+  - 1 pack of cheese for $3.50
+* The total cost of these items before the discount is:
+  - $5.00 + $3.50 + $8.00 + $3.50 = $20.00
+* Ray gets a 10% discount as a store rewards member, which means he gets 10% off the total cost.
+* To calculate the discount, we take 10% of $20.00, which is $2.00.
+* To get the final total, we subtract the $2.00 discount from the original $20.00 total.
+* $20.00 - $2.00 = $18.00
+
+Answer: 18

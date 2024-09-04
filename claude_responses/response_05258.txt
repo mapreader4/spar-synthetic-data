@@ -1,0 +1,18 @@
+To solve this problem, we need to calculate the total number of miles Jim runs during the three different periods.
+
+First period:
+* Jim runs 5 miles per day for 30 days.
+* Total miles in the first period = 5 miles/day × 30 days = 150 miles.
+
+Second period:
+* Jim runs 10 miles per day for 30 days.
+* Total miles in the second period = 10 miles/day × 30 days = 300 miles.
+
+Third period:
+* Jim runs 20 miles per day for 30 days.
+* Total miles in the third period = 20 miles/day × 30 days = 600 miles.
+
+Now, we can add up the total miles from all three periods to get the overall total:
+* Total miles = 150 miles + 300 miles + 600 miles = 1,050 miles.
+
+Answer: 1,050

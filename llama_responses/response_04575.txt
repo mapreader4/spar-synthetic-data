@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the cost of the large posters. For 2 large posters, Laran spends $5. So, the cost of 1 large poster is $5 / 2 = $2.50. For the small posters, the cost is $3. So, the cost of 2 small posters is $3 * 2 = $6. The cost of 1 small poster is $6 / 2 = $3. The cost of 5 large posters is $2.50 * 2 = $5, and the cost of 5 small posters is $6 * 5 = $30. The total cost of materials for the large posters is $2.50 * 2 + $30 = $32.50. 
+
+Now, let's find the revenue from the sale of the large posters. For 2 large posters, Laran sells 2 * 10 = $20. For the small posters, she sells 2 * 6 = $12. The total revenue from the sale of 5 days is $20 + $12 = $32. 
+
+Now, let's find the profit. The cost of the materials is $32.50 and the revenue is $32, so the profit is $32 - $32.50 = $0.50. 
+
+Answer: 0.5

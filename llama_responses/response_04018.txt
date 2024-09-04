@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+1. Hubert orders eight boxes of pizza, each box is worth $14. So, the total cost of the pizza is 8 x $14 = $112.
+2. Ian orders ten boxes of pizza, each box is worth $14. So, the total cost of the pizza is 10 x $14 = $140.
+3. Hubert orders ten cans of soda, each can is worth $1.80. So, the total cost of the soda is 10 x $1.80 = $18.
+4. Ian orders fifteen cans of soda, each can is worth $1.80. So, the total cost of the soda is 15 x $1.80 = $27.
+
+Now, let's add up the total cost of the pizza and soda:
+
+$112 (pizza) + $18 (soda) = $130
+$140 (pizza) + $27 (soda) = $167
+
+Answer: 130

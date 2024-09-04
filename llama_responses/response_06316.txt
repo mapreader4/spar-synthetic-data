@@ -1,0 +1,8 @@
+Let's break it down step by step.
+
+1. John won $155250 in the lottery.
+2. He decided to give one-thousandth of the $155250 to each of the top 100 students in his college.
+3. To find one-thousandth of the $155250, we can divide it by 1000. 1000 * 0.001 = 1.
+4. To find the total amount received by the hundred students, we multiply the amount given to each student by the number of students: 155250 * 0.001 * 100 = 15525.
+
+Answer: 15525

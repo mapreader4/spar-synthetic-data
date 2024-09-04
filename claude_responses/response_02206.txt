@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Shanna planted 6 tomato plants, 2 eggplant plants, and 4 pepper plants
+* Half of the tomato plants died, so that's 3 tomato plants remaining
+* 1 pepper plant died, so there are 3 pepper plants remaining
+* The 2 eggplant plants did not die
+* Each remaining plant gave her 7 vegetables
+* So for the 3 tomato plants, she got 3 * 7 = 21 tomatoes
+* For the 2 eggplant plants, she got 2 * 7 = 14 eggplants
+* For the 3 pepper plants, she got 3 * 7 = 21 peppers
+* Adding these up, we get:
+   - 21 tomatoes
+   - 14 eggplants
+   - 21 peppers
+* The total number of vegetables she had to harvest is:
+   - 21 + 14 + 21 = 56
+
+Answer: 56

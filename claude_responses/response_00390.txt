@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Oscar wants to train for a marathon
+* He plans to add 2/3 of a mile each week until he reaches a 20-mile run
+* He has already run 2 miles
+
+To find out how many weeks before the marathon he should start training, we need to calculate how many weeks it will take him to reach the 20-mile run.
+
+We know that he adds 2/3 of a mile each week, and he has already run 2 miles. So, we can calculate the number of weeks it will take him to reach the 20-mile run:
+* 20 miles - 2 miles = 18 miles
+* 18 miles / (2/3 miles per week) = 27 weeks
+
+Therefore, Oscar should start training 27 weeks before the marathon.
+
+Answer: 27

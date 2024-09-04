@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the amount Arman received last week for his 35 hours of work:
+
+35 hours * $10 per hour = $350
+
+Now, this week, Arman will receive an increase of $0.5 per hour. So, his new rate per hour will be:
+
+$10 + $0.5 = $10.5
+
+Now, let's calculate the amount Arman will receive for his 40 hours of work this week:
+
+40 hours * $10.5 per hour = $420
+
+So, Arman will receive a total of $350 + $420 = $770.
+
+Answer: 770

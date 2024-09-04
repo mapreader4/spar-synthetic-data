@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, the total number of positive Coronavirus cases was recorded as 2000.
+
+2. On the second day, the number of cases increased by 500, so the total number of cases is now 2000 + 500 = 2500.
+   However, there were also 50 recoveries, so the net increase is 500 - 50 = 450.
+   Therefore, the total number of positive cases on the second day is 2000 + 450 = 2450.
+
+3. On the third day, the total number of new cases spiked to 1500, so the total number of cases is now 2450 + 1500 = 3950.
+   However, there were also 200 recoveries, so the net increase is 1500 - 200 = 1300.
+   Therefore, the total number of positive cases on the third day is 2450 + 1300 = 3750.
+
+Answer: 3750

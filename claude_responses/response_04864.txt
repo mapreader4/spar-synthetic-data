@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Martha is knitting for 3 grandchildren, who are all the same size
+* Each set of clothes consists of:
+  - 1 woolen hat
+  - 1 scarf
+  - 1 sweater
+  - 2 mittens
+  - 2 wooly socks
+* Time required for each item:
+  - Hat: 2 hours
+  - Scarf: 3 hours
+  - Each mitten: 1 hour (so 2 mittens = 2 hours)
+  - Each sock: 1.5 hours (so 2 socks = 3 hours)
+  - Sweater: 6 hours
+* To calculate the total time:
+  - 3 hats x 2 hours = 6 hours
+  - 3 scarves x 3 hours = 9 hours
+  - 3 sweaters x 6 hours = 18 hours
+  - 6 mittens x 1 hour = 6 hours
+  - 6 socks x 1.5 hours = 9 hours
+* Adding all these together:
+  - 6 + 9 + 18 + 6 + 9 = 48 hours
+
+Answer: 48 hours

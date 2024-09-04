@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. The first day, Joey takes 1 pill.
+2. The second day, Joey takes 1 + 1 = 2 pills.
+3. The third day, Joey takes 1 + 2 = 3 pills.
+4. The fourth day, Joey takes 1 + 3 = 4 pills.
+5. The fifth day, Joey takes 1 + 4 = 5 pills.
+6. The sixth day, Joey takes 1 + 5 = 6 pills.
+7. The seventh day, Joey takes 1 + 6 = 7 pills.
+
+So, Joey will take 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 28 pills.

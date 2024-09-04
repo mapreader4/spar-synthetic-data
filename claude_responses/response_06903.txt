@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Hearty bought 3 packages of blue beads
+* Each package of blue beads has 40 beads
+* So, the total number of blue beads is:
+3 packages x 40 beads per package = 120 blue beads
+
+* Hearty also bought 5 packages of red beads
+* Each package of red beads has 40 beads
+* So, the total number of red beads is:
+5 packages x 40 beads per package = 200 red beads
+
+* To find the total number of beads Hearty has, we add the blue and red beads together:
+120 blue beads + 200 red beads = 320 beads
+
+Answer: 320

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's let the first number be x. Since the sum of the three numbers is 500, we can write an equation: x + 2x + x = 500.
+
+We are given that the first number is 200, so we can substitute 200 for x: 200 + 2x + x = 500.
+
+Now, we can subtract 200 from both sides of the equation to get: 2x + x = 300.
+
+Next, we are told that the value of the second number is twice the value of the third number, so we can write an equation: 2x = 2x.
+
+This tells us that x = 150.
+
+So, the value of the third number is 150.
+
+Answer: 150

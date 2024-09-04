@@ -1,0 +1,37 @@
+Let's break it down step by step:
+
+1. The store puts out a product sample every Saturday. So, the total number of samples will be the number of samples put out times the number of Saturdays. Let's call this number S.
+
+2. The number of samples left over at the end of the day is 5. This is the number of samples given out to customers. Let's call this number C.
+
+3. The number of boxes opened is 12. This is the number of boxes that the store opened to put out the samples. Let's call this number B.
+
+4. The number of samples per box is 20. This is the number of samples in each box.
+
+5. Since the store puts out a sample every Saturday, the number of samples given out is the number of samples in each box times the number of boxes opened. So, the total number of samples given out is S = B * 20.
+
+6. Since the store had 5 samples left over at the end of the day, the number of customers who tried a sample is S = C.
+
+7. Now, we can set up an equation using the information from the steps above:
+
+S = B * 20 = C
+
+8. To solve for S, we can divide both sides by 20:
+
+S / 20 = C / B
+
+9. To solve for C, we can multiply both sides by B:
+
+C = (S / 20) * B
+
+10. We know that B is 12, so we can substitute it in the equation:
+
+C = (S / 20) * 12
+
+11. To solve for C, we can multiply both sides by 20:
+
+C = 20 * 12
+
+12. The number of customers who tried a sample is 20 * 12 = 240.
+
+Answer: 240

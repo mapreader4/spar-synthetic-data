@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The grill burns 15 coals to ash every 20 minutes of grilling.
+* The grill ran for long enough to burn 3 bags of coals.
+* Each bag of coal contains 60 coals.
+
+First, let's calculate the total number of coals burned:
+* 3 bags of coals x 60 coals per bag = 180 coals
+
+Now, let's calculate how long it takes to burn 180 coals, given that the grill burns 15 coals every 20 minutes:
+* 180 coals / 15 coals per 20 minutes = 12 sets of 20 minutes
+* 12 sets of 20 minutes = 240 minutes
+
+Therefore, the grill ran for 240 minutes, or 4 hours.
+
+Answer: 240

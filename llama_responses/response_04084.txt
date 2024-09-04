@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of flowers Rose bought.
+
+Rose bought a dozen flowers, which is equal to 12.
+
+Two of the flowers are daisies.
+
+We can subtract 2 from the total number of flowers to find the remaining flowers.
+
+12 - 2 = 10
+
+Three-fifths of the remaining flowers are tulips.
+
+We can find the number of tulips by multiplying 3/5 * 10.
+
+3/5 * 10 = 6
+
+The remaining flowers are sunflowers.
+
+We can subtract the number of tulips from the total remaining flowers to find the number of sunflowers.
+
+10 - 6 = 4
+
+So, the number of sunflowers is 4.
+
+Answer: 4

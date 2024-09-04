@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There were 25 peaches in each basket
+* 5 baskets of peaches were delivered to the market
+* So the total number of peaches delivered is:
+  * 5 baskets x 25 peaches per basket = 125 peaches
+* The farmers have eaten 5 peaches
+* So the remaining number of peaches is:
+  * 125 peaches - 5 peaches = 120 peaches
+* The remaining peaches are packed into smaller boxes of 15 each
+* To calculate the number of boxes, we divide the remaining peaches by the number of peaches per box:
+  * 120 peaches / 15 peaches per box = 8 boxes
+
+Answer: 8

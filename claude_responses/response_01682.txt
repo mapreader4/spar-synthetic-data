@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John writes a book every 2 months
+* He has been writing for 20 years
+* He earns an average of $30,000 per book
+
+To calculate the total money he has made writing:
+* In 1 year, he writes 6 books (12 months / 2 months per book)
+* In 20 years, he writes 120 books (6 books per year x 20 years)
+* Each book earns him $30,000 on average
+* So the total money he has made is 120 books x $30,000 per book = $3,600,000
+
+Answer: $3,600,000

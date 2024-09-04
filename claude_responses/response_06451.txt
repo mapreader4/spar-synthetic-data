@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* John drives 1000 miles a month
+* He needs an oil change every 3000 miles
+* He gets 1 free oil change a year
+* An oil change costs $50
+
+To calculate how much he pays a year, we need to determine how many oil changes he needs to pay for in a year.
+
+* In a year, John drives 1000 miles x 12 months = 12,000 miles
+* He needs an oil change every 3000 miles
+* 12,000 miles / 3,000 miles per oil change = 4 oil changes needed per year
+* He gets 1 free oil change a year, so he needs to pay for 3 oil changes
+
+Now we can calculate the total cost:
+* 3 oil changes x $50 per oil change = $150
+
+Answer: $150

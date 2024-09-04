@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Johnny can walk 3 dogs at once
+* He gets paid $15 for a 30-minute walk and $20 for a 60-minute walk
+* Johnny works for 4 hours per day
+* 6 dogs have 60-minute walks per day
+
+First, let's calculate how many 60-minute walks Johnny can do in 4 hours:
+* 4 hours = 240 minutes
+* 60-minute walks = 240 minutes / 60 minutes = 4 walks
+
+Next, let's calculate how many 30-minute walks Johnny can do in the remaining time:
+* Remaining time = 240 minutes - (4 walks * 60 minutes) = 0 minutes
+* So Johnny can do 0 additional 30-minute walks
+
+Now, let's calculate Johnny's earnings for the day:
+* 4 walks at $20 each = $80
+
+Finally, let's calculate Johnny's earnings for the week:
+* 5 days of work at $80 per day = $400
+
+Answer: $400

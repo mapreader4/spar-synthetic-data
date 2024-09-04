@@ -1,0 +1,9 @@
+To find the total weight of the load of vegetables, we need to multiply the weight of one crate by 12 (the number of crates) and the weight of one carton by 16 (the number of cartons), then add these two results together.
+
+The weight of one crate is 4 kilograms, so the weight of 12 crates is 12 * 4 = 48 kilograms.
+
+The weight of one carton is 3 kilograms, so the weight of 16 cartons is 16 * 3 = 48 kilograms.
+
+We add these two weights together to get 48 + 48 = 96 kilograms.
+
+Answer: 96

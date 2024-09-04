@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The first dose has a wait time of 20 minutes.
+2. The second dose has a wait time that is half as long as the first dose. This means that the second dose has a wait time of 20/2 = 10 minutes.
+3. To find the total wait time, we add the two wait times: 20 + 10 = 30.
+
+Answer: 30

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Dave breaks 2 guitar strings per night when playing live
+* He performs 6 shows a week
+* He performs for 12 weeks
+
+To calculate the total number of guitar strings he needs to replace, we can multiply the number of strings broken per night by the number of shows per week, and then multiply that by the number of weeks.
+
+* Strings broken per night: 2
+* Shows per week: 6
+* Weeks: 12
+
+So, the total number of guitar strings he needs to replace is:
+2 strings per night x 6 shows per week x 12 weeks = 144 guitar strings
+
+Answer: 144

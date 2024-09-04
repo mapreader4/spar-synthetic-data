@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 141 gold balloons.
+2) There are twice as many silver balloons as gold balloons. So, the number of silver balloons is 2 x 141 = 282.
+3) In addition to the gold and silver balloons, there are 150 black balloons.
+4) To find the total number of balloons, we add the number of gold, silver, and black balloons:
+   Total balloons = 141 (gold) + 282 (silver) + 150 (black)
+   Total balloons = 573
+
+Answer: 573

@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) We have 3 anthills in the forest.
+2) The first anthill has 100 ants.
+3) The second anthill has 20% fewer ants than the first anthill.
+   - To calculate the number of ants in the second anthill, we take 100 and subtract 20% of 100.
+   - 20% of 100 is 0.2 * 100 = 20.
+   - So the second anthill has 100 - 20 = 80 ants.
+4) The third anthill has 20% fewer ants than the second anthill.
+   - To calculate the number of ants in the third anthill, we take 80 and subtract 20% of 80.
+   - 20% of 80 is 0.2 * 80 = 16.
+   - So the third anthill has 80 - 16 = 64 ants.
+
+Answer: 64

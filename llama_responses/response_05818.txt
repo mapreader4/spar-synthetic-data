@@ -1,0 +1,9 @@
+Let's start by identifying the number of each type of coin Tommy has.
+
+Let's start with pennies. He has 10 more dimes than pennies. So, if he has 10 pennies, he must have 20 dimes. We know that he has twice as many nickels as dimes, so he has 20 / 2 = 10 nickels.
+
+Next, we know he has 4 quarters. We know that he has 10 times as many pennies as quarters, so he has 10 * 4 = 40 pennies.
+
+Now, let's add the number of nickels to the number of pennies. He has 10 + 40 = 50 pennies.
+
+Answer: 10

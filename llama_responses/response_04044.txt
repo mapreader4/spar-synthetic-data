@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total number of hours Janice works in a week. She works 40 hours at $10 an hour for the first 40 hours, and then $15 an hour for each hour of overtime. To find the total number of hours she works, we add the 40 hours at $10 an hour to the hours worked at $15 an hour. This gives us a total of 40 + 20 = 60 hours.
+
+Now, let's calculate her total pay. For the 40 hours at $10 an hour, she makes 40 * 10 = 400. For the 20 hours at $15 an hour, she makes 20 * 15 = 300. To find her total pay, we add the two amounts: 400 + 300 = 700.
+
+Answer: 700

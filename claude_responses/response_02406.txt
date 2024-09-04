@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The space station, Lupus-1, is made up of three identical cylindrical structures
+* Each cylindrical structure contains 12 bedrooms and 7 bathrooms
+* The total number of rooms on the entire space station is 72
+* To find the number of kitchens, we need to first find the total number of bedrooms and bathrooms, and then subtract that from the total number of rooms to get the number of kitchens.
+
+First, let's find the total number of bedrooms and bathrooms:
+* Each cylindrical structure has 12 bedrooms and 7 bathrooms
+* So each cylindrical structure has 12 + 7 = 19 rooms
+* Since there are 3 cylindrical structures, the total number of bedrooms and bathrooms is 3 * 19 = 57 rooms
+
+Now, we can subtract the total number of bedrooms and bathrooms from the total number of rooms to get the number of kitchens:
+* Total number of rooms = 72
+* Total number of bedrooms and bathrooms = 57
+* Number of kitchens = 72 - 57 = 15
+
+Answer: 15

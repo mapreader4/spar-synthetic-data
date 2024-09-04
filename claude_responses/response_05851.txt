@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Gilbert eats 4 crickets per week when the temperature averages 90 degrees F per day
+* Gilbert eats 2 x 4 = 8 crickets per week when the temperature averages 100 degrees F per day
+* The temperature averages 90 degrees F for 80% of the time
+* The temperature averages 100 degrees F for the remaining 20% of the time
+* We need to find the total number of crickets Gilbert will eat over 15 weeks
+
+First, let's calculate the number of weeks with 90 degree F temperatures:
+* 80% of 15 weeks = 0.8 x 15 = 12 weeks
+
+Next, let's calculate the number of weeks with 100 degree F temperatures:
+* 20% of 15 weeks = 0.2 x 15 = 3 weeks
+
+Now, let's calculate the total number of crickets eaten:
+* 12 weeks x 4 crickets/week = 48 crickets
+* 3 weeks x 8 crickets/week = 24 crickets
+* Total crickets eaten = 48 + 24 = 72 crickets
+
+Answer: 72 crickets

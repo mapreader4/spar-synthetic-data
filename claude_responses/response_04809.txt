@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jerry owes the loan shark $200 initially.
+* The loan shark charges 10% interest compounded monthly.
+* This means that every month, the loan shark adds the interest amount to Jerry's loan, and the next month Jerry has to pay 10% on the new total.
+
+To calculate the interest charged in the second month:
+* In the first month, the interest charged is 10% of $200, which is $20.
+* So the new total loan amount is $200 + $20 = $220.
+* In the second month, the interest charged is 10% of $220, which is $22.
+
+Answer: $22

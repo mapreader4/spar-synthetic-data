@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Sara bakes 10 cakes per day for 5 days
+* So, the total number of cakes Sara bakes is 10 cakes per day x 5 days = 50 cakes
+* Carol then eats 12 of the cakes
+* So, the number of cakes remaining is 50 cakes - 12 cakes = 38 cakes
+* It takes 2 cans of frosting to frost a single cake
+* Therefore, to frost the remaining 38 cakes, Bob needs 38 cakes x 2 cans of frosting per cake = 76 cans of frosting
+
+Answer: 76

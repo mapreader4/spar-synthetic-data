@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each class uses 200 sheets of paper per day
+* The school uses a total of 9000 sheets of paper every week
+* There are 5 school days in a week
+
+First, we need to find the total number of sheets of paper used by all the classes in a week:
+* 200 sheets per day x 5 days = 1000 sheets per class per week
+* Since the school uses 9000 sheets per week, we can divide this by the sheets used per class per week to find the number of classes:
+* 9000 sheets / 1000 sheets per class = 9 classes
+
+Answer: 9

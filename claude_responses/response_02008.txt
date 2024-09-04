@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* 25% of oysters have pearls in them
+* Jamie can collect 16 oysters during each dive
+* We need to find how many dives Jamie needs to make to collect 56 pearls
+
+First, let's calculate how many pearls Jamie can collect per dive:
+* 25% of 16 oysters = 0.25 * 16 = 4 pearls per dive
+
+Now, we can calculate how many dives Jamie needs to make to collect 56 pearls:
+* 56 pearls / 4 pearls per dive = 14 dives
+
+Answer: 14 dives

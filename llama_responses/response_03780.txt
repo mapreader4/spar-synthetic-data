@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given: Janet counts 30 crows on the powerlines. This is the base number of crows.
+
+The problem also states that Janet counts 60% more hawks than crows. To find the number of hawks, we can multiply the base number of crows by the percentage given.
+
+So, 30 crows * 1.6 = 48 hawks.
+
+Now, we can add the number of crows and hawks together to get the total number of birds.
+
+30 (crows) + 48 (hawks) = 78
+
+Answer: 78

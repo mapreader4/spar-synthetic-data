@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's say the number of cups of dog food in the bag is represented by the variable "c". The dog eats 1 cup in the morning and 1 cup in the evening, so the total amount of dog food the dog eats per day is 1 + 1 = 2 cups.
+
+The dog can eat the dog food for c days. The total amount of dog food in the bag is 32 cups, so the number of days it can eat is 32 ÷ 2 = 16.
+
+Answer: 16

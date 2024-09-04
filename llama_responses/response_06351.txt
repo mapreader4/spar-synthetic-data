@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the length of Telegraph Road. We are given that it is 162 kilometers long.
+
+Next, let's find the length of Pardee Road. We are given that it is 12000 meters, which is equal to 12 kilometers.
+
+Now, we need to compare the length of Telegraph Road with the length of Pardee Road.
+
+To do this, we will subtract the length of Pardee Road from the length of Telegraph Road.
+
+So, the length of Telegraph Road minus the length of Pardee Road is:
+
+162 kilometers - 12 kilometers = 150 kilometers.
+
+Answer: 150

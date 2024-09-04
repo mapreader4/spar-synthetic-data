@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Baez starts with 25 marbles.
+She loses 20% of them, which is 25 * 0.2 = 5 marbles. So, Baez has 25 - 5 = 20 marbles left.
+
+Then, a friend gives her double the amount that Baez has after she lost them, which is 20 marbles. So, the friend gives her 20 * 2 = 40 marbles.
+
+Now, Baez has 20 marbles initially, and the friend gives her 40 marbles. So, Baez now has 20 + 40 = 60 marbles.
+
+Answer: 60

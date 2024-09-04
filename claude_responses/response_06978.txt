@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 4 wolves out hunting, and 16 additional wolves in the pack, for a total of 20 wolves.
+2) Each wolf needs to eat 8 pounds of meat per day.
+3) The wolves won't hunt again for 5 days.
+4) So the total amount of meat needed for all 20 wolves over 5 days is:
+   20 wolves x 8 pounds per day x 5 days = 800 pounds of meat
+5) Each deer contains 200 pounds of meat.
+6) To calculate the number of deer each wolf needs to kill, we divide the total amount of meat needed (800 pounds) by the number of wolves (20), and then divide that by the amount of meat per deer (200 pounds):
+   800 pounds / 20 wolves = 40 pounds per wolf
+   40 pounds per wolf / 200 pounds per deer = 0.2 deer per wolf
+
+Answer: 1 deer

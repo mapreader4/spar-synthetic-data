@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: Andy harvests all the tomatoes from 18 plants that have 7 tomatoes each. So, the total number of tomatoes is 18 * 7 = 126.
+
+Step 2: Andy dries half of the tomatoes. Half of 126 is 126 / 2 = 63.
+
+Step 3: Andy turns a third of the remainder into marinara sauce. A third of 63 is 63 / 3 = 21.
+
+Step 4: So, the number of tomatoes left is 126 - 63 - 21 = 42.
+
+Answer: 42

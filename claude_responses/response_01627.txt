@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Grace's first hose sprays 50 gallons/hour
+* She waited for 3 hours with just the first hose
+* So in the first 3 hours, the first hose added 50 gallons/hour * 3 hours = 150 gallons
+* Then she added a second hose that sprays 70 gallons/hour
+* She waited 2 more hours with both hoses
+* In the 2 additional hours, the two hoses added 50 gallons/hour * 2 hours + 70 gallons/hour * 2 hours = 240 gallons
+* In total, the pool was filled with 150 gallons + 240 gallons = 390 gallons
+
+Answer: 390 gallons

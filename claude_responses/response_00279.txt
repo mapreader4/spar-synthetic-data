@@ -1,0 +1,16 @@
+Okay, let's solve this step-by-step:
+1) Robi started saving $2 in January.
+2) In February, he saved $4, which is double the amount he saved in January.
+3) In March, he saved $8, which is double the amount he saved in February.
+4) This pattern continues, where each month's savings is double the previous month's savings.
+5) So, the savings for each month are:
+   - January: $2
+   - February: $4
+   - March: $8
+   - April: $16
+   - May: $32
+   - June: $64
+6) To find the total savings after 6 months, we add up the savings for each month:
+   $2 + $4 + $8 + $16 + $32 + $64 = $126
+
+Answer: 126

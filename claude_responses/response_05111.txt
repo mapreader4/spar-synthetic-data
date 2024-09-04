@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The eldest child is 20 years old now
+* The siblings are born 5 years apart
+* So the middle child is 15 years old now (20 - 5)
+* And the youngest child is 10 years old now (20 - 10)
+* In 10 years, the eldest child will be 30 years old (20 + 10)
+* In 10 years, the middle child will be 25 years old (15 + 10)
+* In 10 years, the youngest child will be 20 years old (10 + 10)
+* The total of the ages of the three siblings 10 years from now will be:
+30 + 25 + 20 = 75
+
+Answer: 75

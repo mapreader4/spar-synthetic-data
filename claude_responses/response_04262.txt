@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+Day 1:
+* Barry and Jim traveled at 5 miles per hour for 7 hours
+* So, on the first day, they traveled 5 miles per hour x 7 hours = 35 miles
+
+Day 2:
+* They traveled at 6 miles per hour for 6 hours, which is 6 miles per hour x 6 hours = 36 miles
+* Then they traveled at half that speed (3 miles per hour) for 3 hours, which is 3 miles per hour x 3 hours = 9 miles
+* So, on the second day, they traveled 36 miles + 9 miles = 45 miles
+
+Day 3:
+* They traveled for 5 hours at 7 miles per hour
+* So, on the third day, they traveled 7 miles per hour x 5 hours = 35 miles
+
+Now, to calculate the total distance traveled:
+* Day 1: 35 miles
+* Day 2: 45 miles
+* Day 3: 35 miles
+* Total distance traveled = 35 miles + 45 miles + 35 miles = 115 miles
+
+Answer: 115 miles

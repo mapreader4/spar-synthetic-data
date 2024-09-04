@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Helen hand washes her silk pillowcases every 4 weeks
+* It takes her 30 minutes to hand wash all of them
+* We need to find out how much time she spends hand washing her pillowcases in 1 year
+
+First, we need to calculate how many times Helen will hand wash her pillowcases in 1 year:
+* There are 52 weeks in a year
+* Every 4 weeks, Helen hand washes her pillowcases
+* 52 weeks / 4 weeks = 13 times
+
+Now, we can calculate the total time spent hand washing her pillowcases in 1 year:
+* 13 times x 30 minutes = 390 minutes
+
+Finally, we convert the total time from minutes to hours:
+* 390 minutes / 60 minutes per hour = 6.5 hours
+
+Answer: 6 hours

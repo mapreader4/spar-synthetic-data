@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many gallons of water James collected. 4 inches of rain on Monday and 3 inches on Tuesday is a total of 7 inches. Since he collects 15 gallons per inch, we can multiply 7 inches by 15 gallons per inch to get the total amount of gallons:
+
+7 inches * 15 gallons per inch = 105 gallons
+
+Next, we need to find out how much money he made by selling this water. Since he sells water for $1.2 per gallon, we can multiply the total amount of gallons by the price per gallon:
+
+105 gallons * $1.2 per gallon = $126
+
+So, the answer is:
+
+Answer: 126

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Lily sells the first ticket for $1, so she has $1 left.
+
+She sells the second ticket for $1 + 1 = $2, so she has $2 - 1 = $1 left.
+
+She sells the third ticket for $2 + 1 = $3, so she has $1 - 3 = -$2 left.
+
+She sells the fourth ticket for $3 + 1 = $4, so she has $1 - 4 = -$3 left.
+
+She sells the fifth ticket for $4 + 1 = $5, so she has $1 - 5 = -$4 left.
+
+Lily keeps a $4 profit and gives the remaining money as the prize. She has -$4, which is a negative number. This doesn't make sense. The problem statement doesn't make sense because it says she gives the remaining money as the prize, but the remaining money is a negative number.

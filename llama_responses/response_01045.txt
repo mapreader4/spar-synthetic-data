@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by finding out how many white socks Andy has initially. We are told that he has 4 times as many white socks as he has black socks. Since he has 6 black socks, that means he has 4 * 6 = 24 white socks initially.
+
+Now, let's find out how many white socks he loses. We are told he loses half his white socks. Half of 24 is 24 / 2 = 12.
+
+Now, let's find out how many black socks he has. He has 6 black socks.
+
+Now, we need to find out how many more white socks he has than black socks. To do that, we need to subtract the number of white socks he lost (12) from the number of white socks he initially had (24).
+
+24 - 12 = 12.
+
+So, the answer is: Answer: 12

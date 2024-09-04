@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Ms. Warren ran at 6 mph for 20 minutes
+* To calculate the distance she ran, we need to convert the time from minutes to hours:
+  * 20 minutes = 20/60 = 1/3 hour
+* Now we can calculate the distance she ran:
+  * Distance = Speed x Time
+  * Distance = 6 mph x 1/3 hour
+  * Distance = 2 miles
+* After the run, she walked at 2 mph for 30 minutes
+* To calculate the distance she walked, we need to convert the time from minutes to hours:
+  * 30 minutes = 30/60 = 1/2 hour
+* Now we can calculate the distance she walked:
+  * Distance = Speed x Time
+  * Distance = 2 mph x 1/2 hour
+  * Distance = 1 mile
+* To find the total distance, we add the distance she ran and the distance she walked:
+  * Total distance = 2 miles + 1 mile = 3 miles
+
+Answer: 3 miles

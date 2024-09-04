@@ -1,0 +1,28 @@
+Let's start by calculating the total water used by each farmer.
+
+Farmer Bob:
+Corn: 3 acres x 20 gallons/acre = 60 gallons
+Cotton: 9 acres x 80 gallons/acre = 720 gallons
+Beans: 12 acres x 40 gallons/acre (since beans take twice as much water as corn) = 480 gallons
+Total water used by Farmer Bob: 60 + 720 + 480 = 1260 gallons
+
+Farmer Brenda:
+Corn: 6 acres x 20 gallons/acre = 120 gallons
+Cotton: 7 acres x 80 gallons/acre = 560 gallons
+Beans: 14 acres x 40 gallons/acre = 560 gallons
+Total water used by Farmer Brenda: 120 + 560 + 560 = 1240 gallons
+
+Farmer Bernie:
+Corn: 2 acres x 20 gallons/acre = 40 gallons
+Cotton: 12 acres x 80 gallons/acre = 960 gallons
+Total water used by Farmer Bernie: 40 + 960 = 1000 gallons
+
+Now, let's calculate the total water used by all three farmers:
+
+1260 (Farmer Bob) + 1240 (Farmer Brenda) + 1000 (Farmer Bernie) = 3500 gallons
+
+To find the percentage of the total water used by Farmer Bob's farm, we can divide the total water used by Farmer Bob by the total water used by all three farmers and multiply by 100:
+
+(1260 / 3500) x 100 = 36%
+
+Answer: 36

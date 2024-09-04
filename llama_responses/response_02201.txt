@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of roses planted 2 days ago is x. Then, yesterday, he planted 20 more roses than the previous day, so he planted x + 20 roses.
+
+Today, he planted twice the number of roses than 2 days ago, which is 2x. So, he planted 2x roses.
+
+We are given that Uncle Welly planted 50 roses 2 days ago. So, 2 days ago, he planted x roses. We know that x + 20 roses were planted yesterday, and 2x roses were planted today.
+
+So, we can set up the equation x + 20 = 50. We can subtract 20 from both sides of the equation to get x = 30.
+
+Answer: 30

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each student needs 2 sandwiches
+* Each group has 6 students (1 student + 5 other students)
+* There are a total of 5 groups
+
+First, we need to calculate the total number of students:
+* 6 students per group x 5 groups = 30 students
+
+Next, we need to calculate the total number of sandwiches needed:
+* 2 sandwiches per student x 30 students = 60 sandwiches
+
+Finally, we need to calculate the total number of pieces of bread needed:
+* 2 pieces of bread per sandwich x 60 sandwiches = 120 pieces of bread
+
+Answer: 120

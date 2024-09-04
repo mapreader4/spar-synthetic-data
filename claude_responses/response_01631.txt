@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John is currently 10 years old
+* His sister is twice his age, so she is currently 20 years old
+* We want to know how old his sister will be when John is 50 years old
+
+To find this, we need to calculate how much time has passed between John being 10 years old and him being 50 years old.
+* 50 years old - 10 years old = 40 years
+
+Since his sister is currently 20 years old, and 40 years have passed, we can add 40 years to her current age to find her age when John is 50.
+* 20 years old + 40 years = 60 years old
+
+Answer: 60

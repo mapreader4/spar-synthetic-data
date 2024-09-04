@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that each class uses 200 sheets of paper per day. We are told that the school uses a total of 9000 sheets of paper every week. We are also given that there are 5 days of school days.
+
+Let's start by identifying the variable. Let's let x be the number of classes. We know that each class uses 200 sheets of paper per day, so the total number of sheets of paper used per week is 200 x x. We are given that the total number of sheets of paper used per week is 9000. We can set up an equation to represent this:
+
+200x = 9000
+
+To solve for x, we can divide both sides by 200 to get:
+
+x = 9000 / 200
+
+x = 45
+
+Answer: 45

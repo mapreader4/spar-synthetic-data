@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Fabian walked for 3 hours
+* Every hour he covers 5 kilometers
+* So in 3 hours, he covered:
+    - 3 hours x 5 kilometers/hour = 15 kilometers
+* The total distance he needs to walk is 30 kilometers
+* So the remaining distance he needs to walk is:
+    - 30 kilometers - 15 kilometers = 15 kilometers
+* Since he walks 5 kilometers per hour, to cover the remaining 15 kilometers, he would need:
+    - 15 kilometers / 5 kilometers per hour = 3 hours
+
+Answer: 3 hours

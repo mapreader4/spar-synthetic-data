@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's first find the total amount of water used by the old toilet in June.
+
+The toilet uses 5 gallons of water per flush and John flushed it 15 times a day, so the total amount of water used is:
+
+5 gallons per flush * 15 flushes per day = 5 * 15 = 75 gallons
+
+Now, John replaced the toilet with one that uses 80% less water per flush. 80% less water is equal to 5 * (1 - 0.8) = 1 gallon. So, the new toilet uses 1 gallon of water per flush.
+
+John's new toilet uses 1 gallon per flush and he flushed it 15 times a day, so the total amount of water used by the new toilet is:
+
+1 gallon per flush * 15 flushes per day = 1 * 15 = 15 gallons
+
+Now, to find out how much water John saved, we subtract the total amount of water used by the new toilet from the total amount used by the old toilet:
+
+75 gallons (old toilet) - 15 gallons (new toilet) = 60 gallons
+
+So, John saved 60 gallons of water in June.

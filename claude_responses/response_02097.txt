@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+1) We know that Ali, Nada, and John have a total of $67 in their wallets.
+2) We also know that Ali has $5 less than Nada.
+3) And we know that John has 4 times more than Nada.
+4) Let's call the amount of money Nada has as "x".
+5) Then, Ali has x - $5, and John has 4x.
+6) We can set up an equation to solve for x:
+   x + (x - $5) + 4x = $67
+   6x - $5 = $67
+   6x = $72
+   x = $12
+7) So Nada has $12.
+8) Then, Ali has $12 - $5 = $7.
+9) And John has 4 * $12 = $48.
+
+Answer: $48

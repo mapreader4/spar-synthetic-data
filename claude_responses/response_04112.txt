@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The average pig produces 20 pounds of bacon
+* The farmer sells each pound of bacon for $6
+* This month's pig is a runt that grew to only half the size of the average pig
+
+To calculate the farmer's earnings from this month's pig, we need to:
+1. Calculate the amount of bacon produced by the runt pig
+2. Multiply the amount of bacon by the selling price per pound
+
+Step 1: Amount of bacon produced by the runt pig
+* The runt pig is half the size of the average pig
+* Therefore, the runt pig produces 20 / 2 = 10 pounds of bacon
+
+Step 2: Earnings from selling the bacon
+* The farmer sells each pound of bacon for $6
+* The runt pig produced 10 pounds of bacon
+* Therefore, the farmer's earnings = 10 pounds x $6 per pound = $60
+
+Answer: $60

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* One pair of pants requires 8.5 feet of fabric
+* Nguyen needs to make 7 pairs of pants
+* So the total fabric required for 7 pairs of pants is:
+    * 7 pairs x 8.5 feet per pair = 59.5 feet of fabric
+* Nguyen has 3.5 yards of fabric
+* 1 yard = 3 feet
+* So 3.5 yards = 3.5 x 3 = 10.5 feet of fabric
+* The amount of fabric Nguyen still needs is:
+    * 59.5 feet - 10.5 feet = 49 feet
+
+Answer: 49

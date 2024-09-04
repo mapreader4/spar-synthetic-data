@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Mary drinks 1/5 of a bottle of sparkling water every night at dinner. 1/5 of a bottle means that she drinks 1/5 * 1 = 0.2 bottles of sparkling water. 0.2 bottles of sparkling water is the same as 0.2 bottles of sparkling water.
+
+Next, we know that each bottle costs $2.00. We can multiply 0.2 bottles of sparkling water by 2.00 to find the cost per bottle: 0.2 * 2.00 = 0.40.
+
+Now, since Mary drinks 0.2 bottles of sparkling water every day, we need to multiply the cost per bottle by 365 (since there are 365 days in a year) to find the total cost of sparkling water for the year. 0.4 * 365 = 146.
+
+Answer: 146

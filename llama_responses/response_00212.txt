@@ -1,0 +1,39 @@
+Let's break this problem down step by step.
+
+First, we need to calculate the total number of days Randy has until he turns 20. Since Randy is currently 12, he has 8 years until he turns 20. There are 365 days in a year, so we can multiply 8 years by 365 days per year to get:
+
+8 years x 365 days/year = 2920 days
+
+However, Randy takes two weeks off for vacation each year, which is 14 days. We need to subtract these days from the total number of days:
+
+2920 days - 14 days/year x 8 years = 2920 - 112 = 2808 days
+
+So, Randy has 2808 days until he turns 20.
+
+Next, we need to calculate the number of hours he needs to practice to reach 10,000 hours. Since he practices every day, Monday to Friday, he practices 5 days a week. There are 52 weeks in a year, so we can multiply 52 weeks by 5 days/week to get:
+
+52 weeks x 5 days/week = 260 days/year
+
+Since he takes two weeks off, we need to subtract these days from the total number of practice days:
+
+260 days/year - 14 days/year = 246 days/year
+
+Now, we can calculate the number of hours he practices per year:
+
+246 days/year x 8 hours/day (assuming an 8-hour practice session) = 1978 hours/year
+
+To find out how many hours he needs to practice per day, we can divide the total number of hours he needs to practice (10,000) by the number of hours he practices per year:
+
+10,000 hours / 1978 hours/year = 5.06 years
+
+Since Randy has 2808 days until he turns 20, we can divide the number of years he needs to practice (5.06) by the number of days he has until he turns 20:
+
+5.06 years / 2808 days = 0.0181 years/day
+
+To convert this to hours per day, we can multiply by 8 hours/day (assuming an 8-hour practice session):
+
+0.0181 years/day x 8 hours/day = 0.1456 hours/day
+
+Rounding up to the nearest whole number, Randy would need to practice approximately:
+
+Answer: 2 hours per day

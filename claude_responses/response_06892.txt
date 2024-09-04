@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sadie has 140 math homework problems for the week
+* 40% of the problems are Algebra problems
+* To find the number of Algebra problems, we take 40% of 140:
+    * 40% of 140 = 0.40 * 140 = 56 Algebra problems
+* Half of the Algebra problems are solving linear equations
+* To find the number of solving linear equations problems, we take half of the Algebra problems:
+    * Half of 56 = 56 / 2 = 28 solving linear equations problems
+
+Answer: 28

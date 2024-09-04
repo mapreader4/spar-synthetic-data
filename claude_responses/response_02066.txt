@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The restaurant is donating $2 for every $10 donated by customers
+* The average customer donates $3
+* There are 40 customers that day
+
+First, we need to calculate the total amount donated by the customers:
+* Average customer donation: $3
+* Number of customers: 40
+* Total customer donations: $3 x 40 = $120
+
+Now, we need to calculate the amount the restaurant will donate:
+* The restaurant donates $2 for every $10 donated by customers
+* Total customer donations: $120
+* Restaurant donation: ($120 / $10) x $2 = $24
+
+Therefore, the restaurant will donate $24.
+
+Answer: 24

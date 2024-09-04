@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+On Monday, Kendra visited 5 sites and saw an average of 7 birds at each site.
+* Total birds seen on Monday = 5 sites x 7 birds per site = 35 birds
+
+On Tuesday, Kendra visited 5 sites and saw an average of 5 birds at each site.
+* Total birds seen on Tuesday = 5 sites x 5 birds per site = 25 birds
+
+On Wednesday, Kendra visited 10 sites and saw an average of 8 birds at each site.
+* Total birds seen on Wednesday = 10 sites x 8 birds per site = 80 birds
+
+Now, to find the average number of birds seen per site, we need to add up the total birds seen over the 3 days and divide by the total number of sites visited.
+* Total birds seen = 35 + 25 + 80 = 140 birds
+* Total sites visited = 5 + 5 + 10 = 20 sites
+* Average birds seen per site = 140 birds / 20 sites = 7 birds per site
+
+Answer: 7

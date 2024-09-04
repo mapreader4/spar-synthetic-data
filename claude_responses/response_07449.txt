@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Mr. Rainwater has 9 cows.
+2) He has 4 times as many goats as cows.
+   * So, if he has 9 cows, he has 4 x 9 = 36 goats.
+3) He has 2 times as many goats as chickens.
+   * So, if he has 36 goats, he has 36 / 2 = 18 chickens.
+
+Answer: 18

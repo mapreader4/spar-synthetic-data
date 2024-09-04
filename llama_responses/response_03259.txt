@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Michael has $42, and his brother receives half of that, so his brother has half of 42 dollars. That's 42 / 2 = 21 dollars.
+
+Then, his brother buys 3 dollars worth of candy. Let's call the number of dollars he buys worth of candy "x". Since 3 dollars is worth x dollars, we can set up an equation: 21 - x = 3.
+
+To solve for x, we subtract 3 from 21: 21 - 3 = 18.
+
+So, his brother has 18 dollars left. But we are asked for how much money he had at first. We know he had 21 dollars after buying the candy, and now he has 18 dollars, so to find out how much he had at first, we subtract 18 from 21: 21 - 18 = 3.
+
+Answer: 3

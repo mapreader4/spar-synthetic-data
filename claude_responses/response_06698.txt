@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Marie has 98 unread messages on her phone
+* She decides to read 20 messages a day
+* She also gets 6 new messages a day
+
+So, each day:
+* She reads 20 messages
+* She gets 6 new messages
+* This means the net reduction in unread messages is 20 - 6 = 14 messages per day
+
+To find how many days it will take her to read all 98 unread messages, we can divide 98 by the net reduction of 14 messages per day:
+* 98 / 14 = 7 days
+
+Therefore, it will take Marie 7 days to read all her unread messages.
+
+Answer: 7

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mary bought 14 apples
+* Mary bought 9 oranges
+* Mary bought 6 blueberries
+* Mary ate 1 of each type of fruit
+* So, Mary ate 1 apple, 1 orange, and 1 blueberry
+* To calculate the total number of fruits Mary has left, we need to subtract the number of fruits she ate from the total number of fruits she bought:
+* Total fruits bought: 14 apples + 9 oranges + 6 blueberries = 29 fruits
+* Fruits eaten: 1 apple + 1 orange + 1 blueberry = 3 fruits
+* Fruits left: 29 fruits - 3 fruits = 26 fruits
+
+Answer: 26

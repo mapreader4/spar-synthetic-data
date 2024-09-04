@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's start by finding the total number of fish that swim eastward and westward.
+
+The fish that swim eastward are 3,200, and the fish that swim westward are 1,800. So, the total number of fish that swim in any direction is 1,800 + 3,200 = 4,000.
+
+Now, the problem asks us to find the number of fish left in the sea, which is 2/5 of the fish that swim eastward and 3/4 of the fish that swim westward.
+
+2/5 of the fish that swim eastward is 3,200 * 2/5 = 1,600. 3/4 of the fish that swim westward is 1,800 * 3/4 = 1,350. The total number of fish left in the sea is 1,600 + 1,350 = 2,950.
+
+So, the answer is:
+
+Answer: 2,950

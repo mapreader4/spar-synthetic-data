@@ -1,0 +1,3 @@
+To solve this problem, I will first calculate the total temperature of the first 3 days, which is 3 * 40 = 120. Then, I will subtract this from the total temperature of the entire week, which is 7 * 60 = 420. So, the temperature of the remaining days is 420 - 120 = 300. Therefore, the answer is:
+
+Answer: 300

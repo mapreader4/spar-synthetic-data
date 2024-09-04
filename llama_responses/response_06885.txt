@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: Farrah ordered 4 boxes.
+Step 2: Each box contains 20 matchboxes.
+Step 3: Each matchbox contains 300 sticks.
+
+Step 4: To find the total number of match sticks, we multiply the number of boxes by the number of matchboxes per box and the number of sticks per matchbox.
+
+Number of matchsticks = 4 boxes * 20 matchboxes per box * 300 sticks per matchbox
+= 4 * 20 * 300
+= 24000
+
+Answer: 24000

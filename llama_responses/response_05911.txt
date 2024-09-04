@@ -1,0 +1,5 @@
+To find the total height of the building, we need to add the height of all the floors together. The first 18 floors are 3 meters each, and the last 2 floors are 0.5 meters each. So, the total height of the building is:
+
+18 * 3 + 2 * 0.5 = 18 + 1 = 19
+
+Answer: 19

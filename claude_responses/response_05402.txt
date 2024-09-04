@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The plane takes off from New York City at 6:00 a.m.
+* The plane flies for 4 hours to Chicago
+* The plane stays at the port in Chicago for 1 hour
+* The plane then departs for Miami
+* The plane took three times as many hours to fly to Miami than it took to fly from New York to Chicago
+
+First, let's calculate the time it took to fly from New York to Chicago:
+* The plane took 4 hours to fly from New York to Chicago
+
+Next, let's calculate the time it took to fly from Chicago to Miami:
+* The plane took three times as many hours to fly to Miami than it took to fly from New York to Chicago
+* So, the plane took 3 x 4 = 12 hours to fly from Chicago to Miami
+
+Now, let's calculate the total time to travel from New York to Miami:
+* The plane took 4 hours to fly from New York to Chicago
+* The plane stayed at the port in Chicago for 1 hour
+* The plane took 12 hours to fly from Chicago to Miami
+* Total time = 4 + 1 + 12 = 17 hours
+
+Answer: 17

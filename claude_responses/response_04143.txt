@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 20 cars lined up at the race
+* Each car has 2 passengers and a driver, so that's 3 people per car
+* 20 cars x 3 people per car = 60 people at the start of the race
+* When the cars reach the halfway point, each car gains another passenger
+* So now there are 4 people per car (2 passengers, 1 driver, 1 new passenger)
+* 20 cars x 4 people per car = 80 people in the cars after the halfway point
+* The race continues until all cars have passed the finish line, and no one can leave the cars
+* So the total number of people in the cars by the end of the race is 80.
+
+Answer: 80

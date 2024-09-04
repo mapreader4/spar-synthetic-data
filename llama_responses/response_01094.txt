@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: First, let's find the initial amount of liquid in the jug. We know that Janice adds 2 tablespoons of koolaid powder and 16 tablespoons of water to the jug. So, the initial amount of liquid is 2 + 16 = 18 tablespoons.
+
+Step 2: Then, 4 tablespoons of water evaporate from the jug. So, the amount of water left is 18 - 4 = 14 tablespoons.
+
+Step 3: Finally, Janice quadruples the amount of water in the jug. So, the new amount of water is 14 * 4 = 56 tablespoons.
+
+Step 4: Now, let's find the total amount of liquid in the jug. The amount of koolaid powder is 2 tablespoons, and the amount of water is 56 tablespoons. So, the total amount of liquid in the jug is 2 + 56 = 58 tablespoons.
+
+Step 5: Finally, we need to find the percentage of koolaid powder in the jug. To do this, we divide the amount of koolaid powder by the total amount of liquid in the jug and multiply by 100.
+
+Koolaid powder percentage = (2 / 58) * 100 = 3.45%.

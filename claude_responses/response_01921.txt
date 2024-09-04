@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Lisa has 36 candies total
+* On Mondays and Wednesdays, she eats 2 candies per day
+* On the other days of the week (Tuesdays, Thursdays, Fridays, Saturdays, Sundays), she eats 1 candy per day
+
+First, let's calculate how many candies she eats per week:
+* Mondays and Wednesdays: 2 candies per day x 2 days = 4 candies
+* Other days: 1 candy per day x 5 days = 5 candies
+* Total candies eaten per week = 4 + 5 = 9 candies
+
+Now, we can calculate how many weeks it will take for Lisa to eat all 36 candies:
+* 36 candies / 9 candies per week = 4 weeks
+
+Answer: 4

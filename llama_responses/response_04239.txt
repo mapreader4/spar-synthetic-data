@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Alex has invited 10 friends, but one of them didn't eat meat and brought their own food. So, he only needs to cook for 9 friends.
+
+For each guest, Alex planned to cook 3 burgers. So, he needs to cook a total of 3 x 9 = 27 burgers.
+
+However, one of his friends didn't eat bread and wouldn't need a bun. So, we need to subtract 1 from the total number of burgers to account for this. This leaves us with 27 - 1 = 26 burgers that need buns.
+
+The burger buns come 8 to a pack. To find out how many packs Alex needs, we can divide the total number of burgers that need buns (26) by 8.
+
+26 ÷ 8 = 3.25
+
+Since you can't buy a fraction of a pack, Alex needs to round up to the nearest whole number. In this case, he needs to buy 4 packs of buns.
+
+Answer: 4

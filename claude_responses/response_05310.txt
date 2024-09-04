@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Sarah can read 40 words per minute
+* The books she is checking out have 100 words per page and are 80 pages long
+* She will be reading for 20 hours
+
+First, let's calculate how many words she can read in 20 hours:
+* 40 words per minute x 60 minutes per hour = 2,400 words per hour
+* 2,400 words per hour x 20 hours = 48,000 words
+
+Now, let's calculate how many words are in each book:
+* 100 words per page x 80 pages = 8,000 words per book
+
+Finally, to determine how many books she should check out, we divide the total number of words she can read (48,000) by the number of words in each book (8,000):
+* 48,000 words / 8,000 words per book = 6 books
+
+Answer: 6

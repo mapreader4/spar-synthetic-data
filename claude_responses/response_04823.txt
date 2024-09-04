@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Doug has put out 20 fires for the week.
+2) Kai has put out 3 times more fires than Doug, so Kai has put out 3 * 20 = 60 fires.
+3) Eli has put out half the number of fires that Kai was able to, so Eli has put out 60 / 2 = 30 fires.
+4) To find the total number of fires they have put out for the entire week, we add up the number of fires put out by each firefighter:
+   Doug: 20 fires
+   Kai: 60 fires
+   Eli: 30 fires
+   Total: 20 + 60 + 30 = 110 fires
+
+Answer: 110

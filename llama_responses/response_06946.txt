@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: The ship started with 400 pounds of food, and 2/5 of the supplies were used after one day. So, the amount of supplies left after one day is:
+
+400 - (2/5 x 400) = 320 pounds
+
+Step 2: After another two days, 3/5 of the remaining supplies were used. So, the amount of supplies used in these two days is:
+
+(3/5 x 320) = 192 pounds
+
+Step 3: To find the remaining supplies, we subtract the amount used in the last two days from the total amount of supplies left after one day:
+
+320 - 192 = 128 pounds
+
+Answer: 128

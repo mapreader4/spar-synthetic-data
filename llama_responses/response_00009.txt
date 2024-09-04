@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. First, we need to find Tina's hourly wage. Her hourly wage is $18.00.
+
+2. Since she works more than 8 hours per shift, she is eligible for overtime. The overtime is paid by her hourly wage + 1/2 her hourly wage. So, her overtime pay is $18.00 + $9.00 (1/2 of $18.00).
+
+3. She works 10 hours every day for 5 days. So, she works a total of 10 * 5 = 50 hours.
+
+4. For the first 40 hours, she earns her regular pay, which is 40 * $18.00 = $720.00. For the remaining 10 hours, she earns her overtime pay, which is 10 * ($18.00 + $9.00) = 270.00.
+
+5. Her total pay is the sum of her regular pay and her overtime pay, which is $720.00 + $270.00 = $990.00.
+
+Answer: 990

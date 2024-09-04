@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* John buys 20 hours of music a month
+* The average length of a song is 3 minutes
+* He buys each song for $0.50
+
+First, we need to calculate the number of songs John buys in a month:
+* 20 hours of music per month
+* 1 hour = 60 minutes
+* 20 hours x 60 minutes/hour = 1,200 minutes of music per month
+* 1,200 minutes / 3 minutes per song = 400 songs per month
+
+Next, we need to calculate the cost of the music per month:
+* 400 songs per month x $0.50 per song = $200 per month
+
+Finally, to calculate the cost per year, we multiply the monthly cost by 12 months:
+* $200 per month x 12 months = $2,400 per year
+
+Answer: $2,400

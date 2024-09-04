@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) There are 10 books on the table.
+2) Two-fifths of the books are reading books. 
+   * 2/5 of 10 books = 4 reading books.
+3) Three-tenths of the books are math books.
+   * 3/10 of 10 books = 3 math books.
+4) There is one fewer science book than math books.
+   * Since there are 3 math books, there must be 2 science books.
+5) The remaining books must be history books.
+   * Total books = 10
+   * Reading books = 4
+   * Math books = 3
+   * Science books = 2
+   * History books = 10 - 4 - 3 - 2 = 1 history book.
+
+Answer: 1 history book.

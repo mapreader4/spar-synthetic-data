@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The construction company is building 2 apartment buildings
+* Each building has 12 floors
+* Each floor has 6 apartments
+* Each apartment needs 7 doors in total
+
+First, we need to calculate the total number of apartments:
+* 2 buildings x 12 floors per building x 6 apartments per floor = 144 apartments
+
+Next, we need to calculate the total number of doors required:
+* 144 apartments x 7 doors per apartment = 1,008 doors
+
+Therefore, the construction company needs to buy 1,008 doors.
+
+Answer: 1,008

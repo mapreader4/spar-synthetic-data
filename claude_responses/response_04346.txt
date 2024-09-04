@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Julio has 4 bottles of orange soda and 7 bottles of grape soda
+* Mateo has 1 bottle of orange soda and 3 bottles of grape soda
+* Each bottle contains 2 liters of soda
+
+First, let's calculate the total amount of soda that Julio has:
+* 4 bottles of orange soda x 2 liters per bottle = 8 liters of orange soda
+* 7 bottles of grape soda x 2 liters per bottle = 14 liters of grape soda
+* Total soda for Julio = 8 liters + 14 liters = 22 liters
+
+Next, let's calculate the total amount of soda that Mateo has:
+* 1 bottle of orange soda x 2 liters per bottle = 2 liters of orange soda
+* 3 bottles of grape soda x 2 liters per bottle = 6 liters of grape soda
+* Total soda for Mateo = 2 liters + 6 liters = 8 liters
+
+Finally, to find the difference in soda between Julio and Mateo, we subtract Mateo's total from Julio's total:
+* 22 liters - 8 liters = 14 liters
+
+Answer: 14

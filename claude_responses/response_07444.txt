@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mark does a gig every other day for 2 weeks
+* Each gig, he plays 3 songs
+* 2 of the songs are 5 minutes long
+* The last song is twice as long, so it is 10 minutes long
+* To calculate the total minutes played:
+  * In 2 weeks, there are 14 days
+  * Mark plays a gig every other day, so he plays 7 gigs in 2 weeks
+  * For each gig, he plays 3 songs
+  * 2 songs are 5 minutes long, so that's 10 minutes per gig
+  * 1 song is 10 minutes long, so that's 10 minutes per gig
+  * The total minutes per gig is 10 + 10 = 20 minutes
+  * Over 7 gigs, the total minutes played is 7 * 20 = 140 minutes
+
+Answer: 140

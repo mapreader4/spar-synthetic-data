@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. On Friday, Tameka sold 40 boxes.
+2. On Saturday, she sold 10 fewer than twice the number she sold on Friday.
+   - Twice the number she sold on Friday is 2 x 40 = 80.
+   - 10 fewer than 80 is 80 - 10 = 70.
+   - So on Saturday, she sold 70 boxes.
+3. On Sunday, she sold half as many as she sold on Saturday.
+   - On Saturday, she sold 70 boxes.
+   - Half of 70 is 70 / 2 = 35.
+   - So on Sunday, she sold 35 boxes.
+
+Now, to find the total number of boxes she sold over the three days, we add up the boxes sold on each day:
+Friday: 40 boxes
+Saturday: 70 boxes
+Sunday: 35 boxes
+
+Total boxes sold = 40 + 70 + 35 = 145 boxes
+
+Answer: 145

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 6 kettles of hawks being tracked
+* Each kettle has an average of 15 pregnancies
+* Each pregnancy yields 4 babies per batch
+* So, the total number of babies expected is:
+  - 6 kettles x 15 pregnancies per kettle x 4 babies per batch = 360 babies
+* However, the question states that approximately 25% of the babies are expected to be lost
+* To calculate the number of babies lost, we take 25% of the total number of babies:
+  - 0.25 x 360 = 90 babies lost
+* To calculate the final number of babies expected, we subtract the number of babies lost from the total number of babies:
+  - 360 - 90 = 270 babies
+
+Answer: 270

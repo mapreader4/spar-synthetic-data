@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The problem states that there are twice as many sharks as stingrays.
+2) The problem also states that there are 28 stingrays.
+3) Since there are twice as many sharks as stingrays, we can calculate the number of sharks by multiplying the number of stingrays by 2.
+4) 28 stingrays x 2 = 56 sharks.
+5) The total number of fish is the sum of the number of sharks and the number of stingrays.
+6) 56 sharks + 28 stingrays = 84 fish.
+
+Answer: 84

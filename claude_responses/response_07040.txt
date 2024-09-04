@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 20 dolphins in the aqua park.
+2) One-fourth of the 20 dolphins are fully trained. 
+   * One-fourth of 20 is 5, so 5 dolphins are fully trained.
+3) That leaves 15 dolphins that are not fully trained.
+4) Two-thirds of the remaining 15 dolphins are currently in training.
+   * Two-thirds of 15 is 10, so 10 dolphins are currently in training.
+5) The remaining 5 dolphins will be trained next month.
+
+Answer: 5

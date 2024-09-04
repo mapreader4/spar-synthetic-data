@@ -1,0 +1,23 @@
+Let's break down the problem step by step:
+
+Let's start by identifying the initial number of hard hats:
+
+* Pink hard hats: 26
+* Green hard hats: 15
+* Yellow hard hats: 24
+
+Carl takes away 4 pink hard hats, so the new number of pink hard hats is:
+26 - 4 = 22
+
+John takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats he removed, which is 6 * 2 = 12. So, John takes away 6 pink hard hats and 12 green hard hats. The number of green hard hats John takes is 12, and the number of pink hard hats he takes is 6.
+
+So, the new number of green hard hats is:
+15 - 12 = 3
+
+The new number of pink hard hats is:
+22 - 6 = 16
+
+The new total number of hard hats in the truck is:
+22 (pink) + 3 (green) + 24 (yellow) = 49
+
+Answer: 49

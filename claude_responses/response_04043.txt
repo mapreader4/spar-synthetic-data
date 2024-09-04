@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John buys 3 puzzles in total.
+2) The first puzzle has 1000 pieces.
+3) The second and third puzzles have the same number of pieces.
+4) Each of the second and third puzzles has 50% more pieces than the first puzzle.
+5) To calculate the number of pieces in the second and third puzzles, we take the number of pieces in the first puzzle (1000) and increase it by 50%:
+   * 1000 + (1000 * 0.5) = 1000 + 500 = 1500 pieces
+6) Now we can calculate the total number of pieces in all 3 puzzles:
+   * 1000 (first puzzle) + 1500 (second puzzle) + 1500 (third puzzle) = 4000 pieces
+
+Answer: 4000

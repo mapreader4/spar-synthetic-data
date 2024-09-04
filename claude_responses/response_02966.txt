@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Mark takes 2 Tylenol tablets of 500 mg each
+* He takes these every 4 hours
+* He does this for 12 hours
+
+First, let's calculate the total amount of Tylenol he takes per dose:
+* 2 tablets x 500 mg per tablet = 1000 mg per dose
+
+Next, let's calculate how many doses he takes in 12 hours:
+* 12 hours / 4 hours per dose = 3 doses
+
+Now, we can calculate the total amount of Tylenol he takes:
+* 3 doses x 1000 mg per dose = 3000 mg
+
+Finally, we need to convert the total amount from milligrams to grams:
+* 3000 mg / 1000 mg per gram = 3 grams
+
+Answer: 3 grams

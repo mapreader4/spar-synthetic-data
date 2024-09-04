@@ -1,0 +1,21 @@
+Let's break it down step by step:
+
+Mary has 400 sheep initially.
+
+She gave a quarter of her sheep to her sister. To find the number of sheep she gave away, we can multiply 400 by 1/4, which is the same as 100.
+
+400 - 100 = 300
+
+So, Mary has 300 sheep left.
+
+She gave half of the remaining sheep to her brother. To find the number of sheep she gave away, we can multiply 300 by 1/2, which is the same as 150.
+
+300 - 150 = 150
+
+So, Mary gave away 150 sheep.
+
+Now, we subtract 150 from the 300 sheep she had left, to find the number of sheep remaining with Mary:
+
+300 - 150 = 150
+
+Answer: 150

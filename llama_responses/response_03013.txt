@@ -1,0 +1,6 @@
+To solve this problem, we need to multiply the number of reps by the weight. So, we multiply 10 (the number of reps) by 15 (the weight) to get the total weight lifted. Then, we multiply that by 3 (the number of sets) to get the total weight lifted. So, we get:
+
+10 * 15 = 150
+150 * 3 = 450
+
+Answer: 450

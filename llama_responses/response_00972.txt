@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+The elevator is on the 9th floor initially. It goes down 7 floors, so it will be on the 2nd floor after that. Then it goes up 3 floors, so it will be on the 5th floor. Finally, it goes up 8 floors, so it will be on the 13th floor.
+
+So, there are 13 floors in the building.

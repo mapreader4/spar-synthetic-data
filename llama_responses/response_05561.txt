@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's start by finding the total distance to walk for the two islands that require 20 miles per day. Since it takes 1.5 days to explore each island, that means the total distance for these two islands is:
+
+20 miles per day x 1.5 days = 20 x 1.5 = 30 miles
+
+The other two islands require 25 miles per day, and it also takes 1.5 days to explore each island, so the total distance for these two islands is:
+
+25 miles per day x 1.5 days = 25 x 1.5 = 37.5 miles
+
+Now, we need to find the total distance for all four islands. We can add the distance for the two islands that require 20 miles per day and the distance for the two islands that require 25 miles per day:
+
+30 miles + 37.5 miles = 67.5 miles
+
+Answer: 67.5

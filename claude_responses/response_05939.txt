@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On the first day, 20 cans were collected.
+* The number of cans increased by 5 each day.
+* They collected 5 days a week to reach their goal.
+
+To find the total number of cans collected per week, we can use the following formula:
+* Total cans collected per week = (First day's cans) + (Increase per day × Number of days)
+* Total cans collected per week = 20 + (5 × 5)
+* Total cans collected per week = 20 + 25
+* Total cans collected per week = 45
+
+Therefore, the goal per week was 45 cans of food.
+
+Answer: 45

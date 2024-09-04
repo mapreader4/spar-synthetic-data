@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the amount of fluffy foam material needed per pillow: Teddy uses 3 less than 5 pounds of fluffy foam material to make each pillow. So, the amount of fluffy foam material needed for each pillow is 5 - 3 = 2 pounds.
+
+Step 2: Determine the total amount of fluffy foam material: Teddy has three tons of fluffy foam material. To find out how many pillows he can make, we need to divide the total amount of fluffy foam material by the amount needed for each pillow. 3 tons is equal to 6000 pounds. So, we divide 6000 pounds by 2 pounds to find the number of pillows Teddy can make. 6000 / 2 = 3000.
+
+Answer: 3000

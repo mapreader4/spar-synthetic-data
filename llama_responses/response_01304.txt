@@ -1,0 +1,12 @@
+Let's break this problem down step by step:
+
+1. The store sells to 35 customers in the first week, so Julio earns a commission of $1 for each customer, which is 35 x $1 = $35.
+2. In the second week, the store sells to twice as many customers, which is 35 x 2 = 70 customers. Julio earns a commission of $1 for each customer, which is 70 x $1 = $70.
+3. In the third week, the store sells to triple the number of customers in the first week, which is 35 x 3 = 105 customers. Julio earns a commission of $1 for each customer, which is 105 x $1 = $105.
+4. The total commission earned in the 3 weeks is the sum of the commissions earned in each week: $35 + $70 + $105 = $210.
+5. Julio also receives a salary of $500 for the 3 weeks.
+6. He also receives a bonus of $50.
+
+To find the total amount Julio earns, we add the total commission and the salary and bonus: $210 + $500 + $50 = $760.
+
+Answer: 760

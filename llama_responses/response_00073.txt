@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first identify the number of people that Roger needs to provide trail mix for. There are 13 members on the team, 3 coaches, and 2 helpers, so in total, Roger needs trail mix for 13 + 3 + 2 = 18 people.
+
+Next, we need to know how many packs of trail mix he needs to buy. Each pack has 6 individual pouches, so to find the number of packs needed, we need to divide the total number of people by 6.
+
+18 people / 6 pouches per pack = 3 packs
+
+So, Roger needs to buy 3 packs of trail mix.

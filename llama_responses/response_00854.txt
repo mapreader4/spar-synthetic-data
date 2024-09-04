@@ -1,0 +1,10 @@
+Let's break down the information given:
+
+- On Monday to Friday, Jeff committed to run for an hour a day.
+- He cut short his run by 20 minutes, so he actually ran for 40 minutes on Monday, Tuesday, Wednesday, Thursday, and Friday.
+- On Friday, he jogged 10 minutes more.
+
+Let's add the time he ran on Monday, Tuesday, Wednesday, and Thursday: 40 minutes + 40 minutes + 40 minutes = 120 minutes.
+Then, we add the 10 minutes he jogged on Friday: 120 minutes + 10 minutes = 130 minutes.
+
+So, the total time he was able to run for that week is 130 minutes.

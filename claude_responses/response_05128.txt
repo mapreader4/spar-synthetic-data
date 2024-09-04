@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. James paid $1000 for the advertising.
+2. The advertising brought 100 customers to his site.
+3. 80% of those 100 customers bought something at the store.
+4. The item they bought cost $25 each.
+5. To calculate the total revenue from the ad, we need to find the number of customers who bought something and multiply it by the cost of the item:
+   * 80% of 100 customers = 0.8 * 100 = 80 customers bought something
+   * 80 customers x $25 per item = $2,000 total revenue
+6. To calculate the profit, we need to subtract the cost of the ad from the total revenue:
+   * $2,000 total revenue - $1,000 cost of ad = $1,000 profit
+
+Answer: $1,000

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The customer bought 20 pens for $30
+* The first 10 pens were at the regular price
+* The next 10 pens were at half off the regular price
+* Let's call the regular price of one pen 'x'
+* The first 10 pens cost 10x
+* The next 10 pens cost 5x (half off the regular price)
+* The total cost is $30
+* So, 10x + 5x = 30
+* Simplifying, 15x = 30
+* Dividing both sides by 15, x = 2
+
+Answer: 2

@@ -1,0 +1,11 @@
+Let's start by calculating how many days it will take Olaf to travel 4,000 miles.
+
+The distance of the trip is 4,000 miles, and the boat can travel 200 miles per day. So, we can divide the distance by the speed to find the number of days it will take:
+
+4,000 miles ÷ 200 miles/day = 20 days
+
+Now, since each man needs 1/2 a gallon of water per day, and there are 25 men on the boat, we can calculate the total amount of water needed as follows:
+
+25 men x 1/2 gallon/day x 20 days = 25 x 10 = 250 gallons
+
+So, Olaf needs 250 gallons of water for the entire trip.

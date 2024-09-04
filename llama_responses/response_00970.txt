@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Johann and two friends are to deliver 180 pieces of certified mail.
+* His friends each deliver 41 pieces of mail.
+
+We can start by identifying the total number of pieces of mail that Johann's friends deliver. Since his friends each deliver 41 pieces of mail, the total number of pieces of mail they deliver is:
+
+41 + 41 = 82
+
+So, the total number of pieces of mail delivered by Johann's friends is 82.
+
+Now, we need to subtract this from the total number of pieces of mail that Johann and his friends are supposed to deliver, which is 180. To find out how many pieces of mail Johann needs to deliver, we subtract 82 from 180:
+
+180 - 82 = 98
+
+Answer: 98

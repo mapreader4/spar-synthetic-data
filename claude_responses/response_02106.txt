@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) We are given that Felipe and Emilio needed a combined time of 7.5 years to build their homes.
+2) We are also given that Felipe finished in half the time of Emilio.
+3) Let's say Emilio took x years to build his house.
+4) Then, Felipe took x/2 years to build his house.
+5) The combined time is 7.5 years, so we can write the equation:
+x + x/2 = 7.5
+6) Solving for x, we get:
+3x/2 = 7.5
+x = 5 years
+7) Since Felipe took half the time of Emilio, it took him 5/2 = 2.5 years to build his house.
+8) To convert this to months, we multiply by 12:
+2.5 years * 12 months/year = 30 months.
+
+Answer: 30 months.

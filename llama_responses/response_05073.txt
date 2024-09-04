@@ -1,0 +1,13 @@
+Let's break this problem down step by step!
+
+First, let's find out how many doughnuts the bakery has in total. Each box has 10 doughnuts, and they sold 27 boxes. So, they sold a total of:
+
+27 boxes x 10 doughnuts per box = 270 doughnuts
+
+The bakery made a total of 300 doughnuts. To find out how many doughnuts they have left, we subtract the number of doughnuts they sold from the total number of doughnuts they made:
+
+300 doughnuts - 270 doughnuts = 30 doughnuts
+
+So, the bakery has 30 doughnuts left at the end of the day. Since they give away any leftover doughnuts, the answer is:
+
+Answer: 30

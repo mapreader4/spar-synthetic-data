@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's let x be the number of incorrect answers that Rose got.
+
+Since Liza got 90% of the items correctly, that means that Liza got 90% of the total number of items. So, if Liza got 90% of the items correctly, then 10% of the items are incorrect. We know that Liza got 2 more correct answers than Rose, so Rose got 8% of the items correctly.
+
+Now, we can say that 100% of the items are 10% of the total items. So, if 10% of the total items are 8% of the items, then 2% of the items are incorrect. So, the number of incorrect answers Rose got is 2% of the total items, which is 2 of the 10% that are incorrect.
+
+Answer: 2

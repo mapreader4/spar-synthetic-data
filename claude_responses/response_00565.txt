@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The total distance of the road trip is 1000 miles.
+2) Tracy drives 20 miles more than twice the amount that Michelle drives.
+   * Let's call the amount that Michelle drives as "x" miles.
+   * Then, the amount that Tracy drives is 2x + 20 miles.
+3) Michelle drives 3 times the amount that Katie drives.
+   * So, the amount that Katie drives is x/3 miles.
+4) We know that the total distance of the road trip is 1000 miles.
+   * Therefore, the sum of the miles driven by Tracy, Michelle, and Katie must equal 1000 miles.
+   * So, we can write the equation: 2x + 20 + x + x/3 = 1000
+5) Solving for x, we get:
+   * 3x + 20 + x/3 = 1000
+   * 3.33x + 20 = 1000
+   * 3.33x = 980
+   * x = 294
+
+Answer: 294 miles

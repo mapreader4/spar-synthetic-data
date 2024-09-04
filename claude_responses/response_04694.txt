@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. The tree had 1000 leaves before the dry season.
+2. In the first week of the dry season, the tree shed 2/5 of the leaves.
+   * 2/5 of 1000 = 400 leaves shed in the first week.
+   * Leaves remaining after the first week = 1000 - 400 = 600 leaves.
+3. In the second week, the tree shed 40% of the remaining leaves.
+   * 40% of 600 = 0.4 * 600 = 240 leaves shed in the second week.
+   * Leaves remaining after the second week = 600 - 240 = 360 leaves.
+4. In the third week, the tree shed 3/4 times as many leaves as it shed in the second week.
+   * Leaves shed in the second week = 240
+   * 3/4 of 240 = 0.75 * 240 = 180 leaves shed in the third week.
+   * Leaves remaining after the third week = 360 - 180 = 180 leaves.
+
+Answer: 180 leaves

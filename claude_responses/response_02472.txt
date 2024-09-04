@@ -1,0 +1,7 @@
+Okay, let's think through this step-by-step:
+1) Karen packs peanut butter sandwiches 2 randomly chosen days of the week, and ham sandwiches the other 3 days.
+2) She packs a piece of cake on one randomly chosen day, and cookies the other 4 days.
+3) The probability of packing a ham sandwich and cake on the same day is the probability that the day she packs a cake is one of the 3 days she packs a ham sandwich.
+4) The probability of packing a cake on one of the 3 days she packs a ham sandwich is 1/3.
+5) Therefore, the probability, expressed as a percentage, that Karen packs a ham sandwich and cake on the same day is:
+Answer: 33.33%

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. The new apartment is 40% more expensive than John's old apartment, which costs $1200 per month. This means the new apartment costs 1200 * (1 + 0.4) = 1680 per month.
+
+2. To find out how much John saves per year, we need to subtract the cost of the old apartment from the cost of the new apartment. The difference is 1680 - 1200 = 480.
+
+3. Since John is splitting the cost with his two brothers, the amount he saves per year is 480 / 3 = 160.
+
+Answer: 160

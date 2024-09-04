@@ -1,0 +1,11 @@
+To solve this problem, I will use the fact that the sum of the three angles of a triangle equals 180 degrees. The right angle is 60 degrees, so the left angle is 60 x 2 = 120 degrees. So, the sum of the three angles is 180 - 120 - x, where x is the value of the top angle. Since the sum of the three angles equals 250, we can set up an equation:
+
+180 - 120 - x = 250
+
+Subtract 120 from both sides of the equation to get:
+
+60 - x = 130
+
+x = 30
+
+Answer: 30

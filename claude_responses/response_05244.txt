@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Jackson collects 45 hermit crabs
+2) Each hermit crab has 3 spiral shells
+3) So the total number of spiral shells is 45 hermit crabs x 3 spiral shells per crab = 135 spiral shells
+4) Each spiral shell has 2 starfish
+5) So the total number of starfish is 135 spiral shells x 2 starfish per shell = 270 starfish
+6) To find the total number of souvenirs, we add the number of hermit crabs, spiral shells, and starfish:
+45 hermit crabs + 135 spiral shells + 270 starfish = 450 souvenirs
+
+Answer: 450

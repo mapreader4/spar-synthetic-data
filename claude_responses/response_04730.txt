@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) We are told that there are twice as many cows as dogs at the petting farm.
+2) We are given that there are currently 184 cows at the farm.
+3) Since there are twice as many cows as dogs, we can divide the number of cows by 2 to get the number of dogs:
+   * Number of dogs = 184 / 2 = 92
+4) The farm owner decides to sell 1/4 of the cows and 3/4 of the dogs.
+5) To find the number of cows remaining, we take 1/4 of 184:
+   * Cows remaining = 184 - (184 * 1/4) = 184 - 46 = 138
+6) To find the number of dogs remaining, we take 3/4 of 92:
+   * Dogs remaining = 92 - (92 * 3/4) = 92 - 69 = 23
+7) To find the total number of animals remaining, we add the cows and dogs:
+   * Total animals remaining = 138 + 23 = 161
+
+Answer: 161

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 3 machines working 23 hours a day
+* Each machine can produce 2 kg of material per hour
+* So, the 3 machines can produce 3 * 2 = 6 kg per hour
+* In 23 hours, the 3 machines can produce 6 * 23 = 138 kg of material
+* The owner then buys a fourth machine that works 12 hours a day
+* This fourth machine can produce 2 kg per hour, so in 12 hours it can produce 2 * 12 = 24 kg
+* So the total production per day is 138 kg + 24 kg = 162 kg
+* The factory sells the material for $50 per kg
+* Therefore, the total earnings per day is 162 kg * $50 per kg = $8,100
+
+Answer: $8,100

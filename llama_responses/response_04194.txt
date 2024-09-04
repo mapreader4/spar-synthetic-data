@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of apples each person can eat per day: 1 apple.
+
+Let's find the number of apples they can eat in a week. 7 days in a week, and they eat 1 apple each day, so in total, they can eat 7 apples in a week.
+
+Now, they eat 3 boxes of apples. Each box contains 14 apples. So, they can eat 3 * 14 = 42 apples in 1 week.
+
+Now, let's find the number of weeks they can eat in total. 42 apples in 7 days is 6 weeks. So, the answer is:
+
+Answer: 6

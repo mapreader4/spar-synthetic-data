@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Bucket C has 9 pieces of fruit
+* Bucket B has 3 more pieces of fruit than Bucket C
+* So, Bucket B has 9 + 3 = 12 pieces of fruit
+* Bucket A has 4 more pieces of fruit than Bucket B
+* So, Bucket A has 12 + 4 = 16 pieces of fruit
+* To find the total number of pieces of fruit in all 3 buckets, we add the amounts in each bucket:
+* Bucket A: 16 pieces
+* Bucket B: 12 pieces 
+* Bucket C: 9 pieces
+* Total = 16 + 12 + 9 = 37 pieces of fruit
+
+Answer: 37

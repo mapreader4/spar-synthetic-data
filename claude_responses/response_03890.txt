@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The buoys are placed at even intervals away from the beach.
+2) The swimmer reaches the third buoy, which is 72 meters from the beach.
+3) We want to find the distance from the beach to the fourth buoy.
+4) Since the buoys are placed at even intervals, the distance between each buoy is the same.
+5) The distance between the first and second buoy is the same as the distance between the second and third buoy, which is 72 / 3 = 24 meters.
+6) Therefore, the distance between the third and fourth buoy is also 24 meters.
+7) The distance from the beach to the fourth buoy is the distance from the beach to the third buoy (72 meters) plus the distance from the third to the fourth buoy (24 meters).
+8) Therefore, the distance from the beach to the fourth buoy is 72 + 24 = 96 meters.
+
+Answer: 96 meters.

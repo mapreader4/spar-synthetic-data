@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) There are 8 people in total, including Josh and his 7 friends.
+2) Each person puts in $5, so the total amount in the pot is 8 * $5 = $40.
+3) First place gets 80% of the $40, which is 0.8 * $40 = $32.
+4) The remaining amount is $40 - $32 = $8.
+5) Second and third place split the remaining $8, so each of them gets $8 / 2 = $4.
+Answer: $4

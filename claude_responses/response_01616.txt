@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On Monday, Tristan studies for 4 hours.
+* On Tuesday, he studies for twice as long as Monday, which is 2 * 4 = 8 hours.
+* On Wednesday, Thursday, and Friday, he studies for 3 hours each day, which is 3 * 3 = 9 hours.
+* In total, he has studied for 4 + 8 + 9 = 21 hours so far.
+* He wants to study for a total of 25 hours over the week.
+* So the remaining amount of study time is 25 - 21 = 4 hours.
+* He divides the remaining 4 hours evenly between Saturday and Sunday, which means he studies for 2 hours on each day.
+
+Answer: 2 hours

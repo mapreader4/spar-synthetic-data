@@ -1,0 +1,19 @@
+Let's break down Tobias's salary:
+
+For the 2 red tractors, Tobias gets paid 10% of the sales price for each, which is 0.1 x $20,000 = $2000. So, the total amount he gets paid for the red tractors is 2 x $2000 = $4000.
+
+The total amount he gets paid for the week is $7000. Since he gets paid $4000 for the red tractors, the remaining amount he gets paid is $7000 - $4000 = $3000.
+
+This remaining amount is for the 3 green tractors. Since he gets paid 20% of the sales price for each green tractor, we can set up an equation:
+
+3 x 0.2 x (price of a single green tractor) = $3000
+
+To solve for the price of a single green tractor, we can divide both sides by 3 and 0.2:
+
+price of a single green tractor = $3000 / (3 x 0.2)
+= $3000 / 0.6
+= $5000
+
+So, the full price of a single green tractor is $5000.
+
+Answer: 5000

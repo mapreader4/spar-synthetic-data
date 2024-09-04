@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The total distance between the two towns is 200 miles.
+* Roger and his friend drove 1/4 of the total distance, which is 1/4 * 200 = 50 miles.
+* They took 1 hour to drive the 50 miles, so their speed was 50 miles / 1 hour = 50 miles per hour.
+* They then took a 1 hour lunch break.
+* They then drove the remaining distance of 200 miles - 50 miles = 150 miles at the same speed of 50 miles per hour.
+* The time it took to drive the remaining 150 miles at 50 miles per hour is 150 miles / 50 miles per hour = 3 hours.
+* The total time taken is the time to drive the first 50 miles (1 hour) + the lunch break (1 hour) + the time to drive the remaining 150 miles (3 hours) = 1 hour + 1 hour + 3 hours = 5 hours.
+
+Answer: 5 hours

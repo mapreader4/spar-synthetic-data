@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Borgnine wants to see 1100 legs at the zoo
+* He has already seen:
+  - 12 chimps, each with 2 legs, so 12 * 2 = 24 legs
+  - 8 lions, each with 4 legs, so 8 * 4 = 32 legs
+  - 5 lizards, each with 4 legs, so 5 * 4 = 20 legs
+* So the total number of legs he has seen so far is 24 + 32 + 20 = 76 legs
+* He still needs to see 1100 - 76 = 1024 more legs
+* Tarantulas have 8 legs each
+* To get 1024 more legs, he needs to see 1024 / 8 = 128 tarantulas
+
+Answer: 128

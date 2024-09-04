@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Tim watches 2 shows
+* One show is a half-hour show per episode
+* The other show is a 1-hour show per episode
+* The short show had 24 episodes
+* The long show had 12 episodes
+
+To calculate the total hours of TV Tim watched, we need to find the total time for each show and then add them together.
+
+For the short show:
+* Each episode is 0.5 hours (half-hour)
+* There are 24 episodes
+* Total time for the short show = 0.5 hours x 24 episodes = 12 hours
+
+For the long show:
+* Each episode is 1 hour
+* There are 12 episodes
+* Total time for the long show = 1 hour x 12 episodes = 12 hours
+
+Now we add the total time for both shows:
+* Total hours of TV watched = 12 hours + 12 hours = 24 hours
+
+Answer: 24

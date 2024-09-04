@@ -1,0 +1,7 @@
+To solve this problem, I will break it down step by step.
+
+Step 1: Let's find the number of adults first. Since 40% of the 120 members are adults, and we know that 100% of the members are the total, we can multiply 40 by 100 to get the number of adults. 40 x 100 = 4000.
+
+Step 2: Now, we know that 120 - 40 = 80 are children. So, to find the number of children more children than adults, we subtract 40 from 120. 120 - 40 = 80.
+
+Answer: 40

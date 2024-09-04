@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many points Jerry has already accumulated. Jerry interrupted twice, which is 5 points each time, so that's a total of 10 points. He insulted his classmates 4 times, which is 10 points each time, so that's a total of 40 points. So, Jerry has a total of 10 + 40 = 50 points.
+
+Now, we know that Jerry gets 25 points for throwing things. We want to find out how many times he can throw things before he gets 100 points, which is the threshold for going to the office.
+
+To do this, we can set up an equation. Let's say the number of times Jerry throws things is x. Then, we can write an equation to represent the total points Jerry has:
+
+50 (initial points) + 25x (points for throwing things) = 100
+
+We can subtract 50 from both sides of the equation to get:
+
+25x = 100 - 50
+
+This simplifies to:
+
+25x = 50
+
+To solve for x, we can divide both sides by 25:
+
+x = 50 / 25
+
+x = 2
+
+So, Jerry can throw things 2 times before he gets sent to the office.

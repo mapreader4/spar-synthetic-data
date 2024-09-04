@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Lucca started with 200 pieces of bread. He ate 1/4 of the pieces in one day, which is 200 * 1/4 = 50 pieces.
+
+So, the remaining pieces of bread are 200 - 50 = 150.
+
+The next day, Lucca ate 2/5 of the remaining pieces. 2/5 of 150 is 150 * 2/5 = 60.
+
+So, the remaining pieces of bread are 150 - 60 = 90.
+
+On the third day, Lucca ate half of the remaining pieces. Half of 90 is 90/2 = 45.
+
+So, the final number of pieces of bread remaining is 90 - 45 = 45.
+
+Answer: 45

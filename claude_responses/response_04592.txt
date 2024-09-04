@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. On the first expedition, they stayed for 3 weeks.
+2. On the second expedition, they spent 2 weeks more than the first expedition, which is 3 + 2 = 5 weeks.
+3. On the last expedition, they spent twice as many weeks as the second expedition, which is 5 x 2 = 10 weeks.
+
+Now, to calculate the total number of days they spent on the island:
+* First expedition: 3 weeks x 7 days/week = 21 days
+* Second expedition: 5 weeks x 7 days/week = 35 days
+* Third expedition: 10 weeks x 7 days/week = 70 days
+
+Adding these up, the total number of days they spent on the island is:
+21 + 35 + 70 = 126 days
+
+Answer: 126

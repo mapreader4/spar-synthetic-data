@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Elsa has 60 tokens, and each token is worth $4.
+2) Therefore, the total value of Elsa's tokens is 60 * $4 = $240.
+3) Angus has $20 worth of tokens less than Elsa.
+4) So, the total value of Angus's tokens is $240 - $20 = $220.
+5) Since each token is worth $4, we can divide the total value of Angus's tokens ($220) by the value of each token ($4) to find the number of tokens Angus has.
+6) $220 / $4 = 55 tokens.
+
+Answer: 55

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The pen is 3 centimeters longer than the rubber
+* The pen is 2 centimeters shorter than the pencil
+* The pencil is 12 centimeters long
+
+First, let's find the length of the pen:
+* Since the pen is 2 centimeters shorter than the pencil, and the pencil is 12 centimeters long, the pen must be 12 - 2 = 10 centimeters long.
+
+Next, let's find the length of the rubber:
+* Since the pen is 3 centimeters longer than the rubber, and the pen is 10 centimeters long, the rubber must be 10 - 3 = 7 centimeters long.
+
+Now, we can calculate the total length of the rubber, pen, and pencil:
+* Total length = length of rubber + length of pen + length of pencil
+* Total length = 7 cm + 10 cm + 12 cm = 29 cm
+
+Answer: 29

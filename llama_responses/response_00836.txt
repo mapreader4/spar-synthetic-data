@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's let the number of heads be h. Let's let the number of tails be t.
+
+We know that the total number of flips is 211. We know that the number of heads is 65.
+
+So, we can set up the equation as follows:
+
+h + t = 211
+
+We want to know the value of t, which is the number of tails. So, we need to solve for t.
+
+t = 211 - h
+
+We can subtract 65 from both sides of the equation:
+
+t = 211 - 65
+
+t = 146
+
+So, the number of tails is 146.
+
+So, the answer is:
+
+Answer: 146

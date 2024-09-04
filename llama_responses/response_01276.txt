@@ -1,0 +1,12 @@
+Let's break this down step by step.
+
+Let's start by identifying the information we are given:
+
+- Freyja is 10 years old.
+- Eli is 9 years older than Freyja, so Eli is 19 years old.
+- Sarah is twice as old as Eli, so Sarah is 38 years old.
+- Kaylin is 5 years younger than Sarah.
+
+Now, we can start solving the problem. We know that Freyja is 10 years old. We know that Eli is 19 years old. We can subtract 19 - 10 = 9 from 19 to find Eli's age relative to Freyja, which is 9 years. We know that Sarah is 38 years old. We can subtract 38 - 5 from 38 to find Sarah's age relative to Kaylin, which is 33 years.
+
+Answer: 33

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) CJ has 5 more than twice the number of stamps that KJ has. So, if KJ has x stamps, then CJ has 2x + 5 stamps.
+2) KJ has half as many stamps as AJ. So, if AJ has y stamps, then KJ has y/2 stamps.
+3) The total number of stamps the three boys have is 930. So, we can write the equation:
+   CJ + KJ + AJ = 930
+   (2x + 5) + (y/2) + y = 930
+4) Simplifying the equation, we get:
+   2x + 5 + y/2 + y = 930
+   2x + 1.5y + 5 = 930
+5) We also know that KJ has half as many stamps as AJ, so y = 2x.
+6) Substituting y = 2x into the equation, we get:
+   2x + 1.5(2x) + 5 = 930
+   2x + 3x + 5 = 930
+   5x + 5 = 930
+   5x = 925
+   x = 185
+7) Since KJ has y/2 stamps, and y = 2x, we can calculate that KJ has 185 stamps.
+8) Since CJ has 2x + 5 stamps, we can calculate that CJ has 375 stamps.
+9) Finally, since AJ has y stamps, and y = 2x, we can calculate that AJ has 370 stamps.
+
+Answer: 370

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The jar can fit 100 toenails in total
+* The big toenails from Hilary's two big toes are twice as big as the regular toenails
+* Hilary has already filled the jar with 20 big toenails and 40 regular toenails
+* To find how many more regular toenails can fit in the remainder of the jar, we need to:
+1) Calculate the total space taken up by the 20 big toenails and 40 regular toenails already in the jar:
+   * 20 big toenails = 40 regular toenails (since big toenails are twice as big)
+   * 40 regular toenails + 40 regular toenails = 80 regular toenails total
+2) Subtract the 80 regular toenails already in the jar from the total capacity of 100 toenails:
+   * 100 toenails - 80 toenails = 20 toenails remaining
+
+Answer: 20 regular toenails can fit into the remainder of the jar.

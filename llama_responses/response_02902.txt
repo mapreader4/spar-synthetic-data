@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of flowers the daughters planted initially.
+
+The problem states that the daughters planted 5 flowers each, so the total number of flowers is 5 x 2 = 10 flowers.
+
+As the days passed, the flowers grew into 20 more flowers. So, the total number of flowers is now 10 + 20 = 30 flowers.
+
+However, 10 of the flowers died, so the total number of flowers left is 30 - 10 = 20 flowers.
+
+The daughters harvested the flowers and split them between 5 baskets. So, to find the number of flowers in each basket, we can divide 20 by 5.
+
+20 divided by 5 is 4.
+
+Answer: 4

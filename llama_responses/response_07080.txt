@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, let's find out how much Hallie earns per hour in tips.
+
+On Monday, she earns $18 in tips for 7 hours, so her rate of tips per hour is $18/7 = $2.57 per hour.
+
+On Tuesday, she earns $12 in tips for 5 hours, so her total tips for Tuesday is $12. Since her rate of tips per hour is $2.57, we can multiply $2.57 by 5 hours to find that her total tips for Tuesday is $12 = 2.57 * 5 = $12.85. However, since the problem states that she received $12 in tips, we know that her actual tips for Tuesday is $12, not $12.85. This means that she must have worked some hours less than 5 hours on Tuesday, so let's subtract the difference from 5 hours to find the actual hours she worked on Tuesday. 5 - 0.85 = 4.15 hours. So, she worked 4.15 hours on Tuesday.
+
+On Wednesday, she earns $20 in tips for 7 hours, so her rate of tips per hour is $20/7 = $2.86 per hour.
+
+Now, let's find out how much she earns from Monday to Wednesday.
+
+For Monday, she works 7 hours and earns $18 in tips, so her total earnings from Monday is $18.
+
+For Tuesday, she works 4.15 hours and earns $12 in tips, so her total earnings from Tuesday is $12.
+
+For Wednesday, she works 7 hours and earns $20 in tips, so her total earnings from Wednesday is $20.
+
+To find her total earnings from Monday to Wednesday, we add up her earnings from each day. $18 + $12 + $20 = $50.
+
+Answer: 50

@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Lizette's average score across all three quizzes is 94.
+2) Lizette scored 92 on her third quiz.
+3) To find the average of her first two quizzes, we can use the formula for average:
+   Average = (Sum of all scores) / (Number of scores)
+4) Let's call the scores on the first two quizzes x and y.
+   Then the total score across all three quizzes is x + y + 92.
+   The average of all three quizzes is 94, so:
+   (x + y + 92) / 3 = 94
+5) Solving for x + y, we get:
+   x + y = 94 * 3 - 92 = 190
+6) Therefore, the average of Lizette's first two quizzes is 190 / 2 = 95.
+
+Answer: 95

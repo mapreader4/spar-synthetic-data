@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+
+1. Mike's printing speed before the break:
+   * Mike prints 600 pamphlets per hour for 9 consecutive hours.
+   * Total pamphlets printed by Mike before the break = 600 pamphlets/hour x 9 hours = 5,400 pamphlets.
+
+2. Mike's printing speed after the break:
+   * After the break, Mike's printing speed is one-third of his previous speed.
+   * Mike's new printing speed = 600 pamphlets/hour ÷ 3 = 200 pamphlets/hour.
+   * Mike works for another 2 hours after the break.
+   * Total pamphlets printed by Mike after the break = 200 pamphlets/hour x 2 hours = 400 pamphlets.
+
+3. Leo's printing speed:
+   * Leo's printing speed is twice as fast as Mike's before the break.
+   * Leo's printing speed = 600 pamphlets/hour x 2 = 1,200 pamphlets/hour.
+   * Leo works for one-third of the time Mike worked before the break.
+   * Leo's working time = 9 hours ÷ 3 = 3 hours.
+   * Total pamphlets printed by Leo = 1,200 pamphlets/hour x 3 hours = 3,600 pamphlets.
+
+4. Total pamphlets printed by both Mike and Leo:
+   * Total pamphlets printed by Mike = 5,400 + 400 = 5,800 pamphlets.
+   * Total pamphlets printed by Leo = 3,600 pamphlets.
+   * Total pamphlets printed by both = 5,800 + 3,600 = 9,400 pamphlets.
+
+Answer: 9,400 pamphlets.

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Dalton watched 7 movies
+* Hunter watched 12 movies
+* Alex watched 15 movies
+* They all watched 2 movies together
+* Every other movie they watched was different
+
+First, let's calculate the total number of movies they watched:
+* Dalton: 7 movies
+* Hunter: 12 movies
+* Alex: 15 movies
+* Together: 2 movies
+* Total: 7 + 12 + 15 - 2 = 32 movies
+
+Now, let's calculate the number of different movies they saw:
+* Dalton watched 7 different movies
+* Hunter watched 10 different movies (12 - 2)
+* Alex watched 13 different movies (15 - 2)
+* Together they watched 2 movies
+* Total different movies: 7 + 10 + 13 - 2 = 28 movies
+
+Answer: 28

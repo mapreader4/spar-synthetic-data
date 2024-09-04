@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The total number of students in the school is 800.
+2) 5/8 of the students are girls, so the number of girls is 5/8 * 800 = 500.
+3) The number of boys is the remaining 3/8 of the students, which is 3/8 * 800 = 300.
+4) 7/10 of the girls are in the primary grades, so the number of girls in primary grades is 7/10 * 500 = 350.
+5) 2/5 of the boys are in the primary grades, so the number of boys in primary grades is 2/5 * 300 = 120.
+6) The total number of students in primary grades is 350 + 120 = 470.
+7) The number of middle schoolers is the total number of students (800) minus the number of students in primary grades (470).
+Answer: 330.

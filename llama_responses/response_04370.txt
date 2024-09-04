@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's say the number of apples they picked initially be x.
+
+Kaiden and Adriel each picked 400 apples, so together they picked 2x = 400 apples.
+
+Then, they each picked 3/4 times as many apples as they had picked earlier, which is 3/4 * 400 = 300 apples. So, in total, they picked 2x + 300 = 700 apples.
+
+They found out they still need to pick 600 apples each to reach the target number. This means the target number of apples is 1200.
+
+Answer: 1200

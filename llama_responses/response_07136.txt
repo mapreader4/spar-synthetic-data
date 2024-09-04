@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+Let's start by identifying the total number of chips: 4 dozen cookies * 7 chips per cookie = 28 chips.
+
+Since the class eats half the cookies, that means they eat 2 dozen cookies = 2 * 12 = 24 cookies.
+
+To find the number of chips left uneaten, we subtract the number of chips eaten from the total number of chips: 28 - 24 = 4 chips.
+
+Answer: 4

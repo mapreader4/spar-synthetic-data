@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) During breakfast, the restaurant had 73 customers.
+2) During lunch, the restaurant had 127 customers.
+3) During dinner, the restaurant had 87 customers.
+4) To find the total number of customers on Friday, we add these three numbers together:
+73 + 127 + 87 = 287 customers on Friday.
+5) The restaurant predicts they will get twice the amount of customers on Saturday as they had on Friday.
+6) To calculate the predicted number of customers on Saturday, we multiply the total number of customers on Friday by 2:
+287 x 2 = 574 customers predicted for Saturday.
+
+Answer: 574

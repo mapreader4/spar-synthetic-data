@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Grandma Olga has 3 daughters and 3 sons
+* Each of her 3 daughters has 6 sons
+* So the number of grandsons from her daughters is:
+  - 3 daughters x 6 sons each = 18 grandsons
+* Each of her 3 sons has 5 daughters
+* So the number of granddaughters from her sons is:
+  - 3 sons x 5 daughters each = 15 granddaughters
+* To get the total number of grandchildren, we add the number of grandsons and granddaughters:
+  - 18 grandsons + 15 granddaughters = 33 grandchildren
+
+Answer: 33

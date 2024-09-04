@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's find the number of broken marbles in the first set. Since 10% of the marbles are broken, we can multiply 10% by the number of marbles in the first set, which is 50. 10% of 50 is 5.
+
+Next, let's find the number of broken marbles in the second set. Since 20% of the marbles are broken, we can multiply 20% by the number of marbles in the second set, which is 60. 20% of 60 is 12.
+
+Now, let's add the number of broken marbles from both sets together. 5 + 12 is 17.
+
+Answer: 17

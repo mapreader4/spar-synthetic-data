@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Jenine can sharpen a pencil 5 times before it runs out.
+2) She needs to sharpen a pencil for every 1.5 hours of use.
+3) She already has 10 pencils.
+4) She needs to write for 105 hours.
+5) A new pencil costs $2.
+
+To calculate how many pencils she needs in total:
+* Each pencil can be used for 5 * 1.5 = 7.5 hours
+* So, 105 hours / 7.5 hours per pencil = 14 pencils needed in total
+
+Now, to calculate how many additional pencils she needs to buy:
+* She already has 10 pencils
+* So, she needs to buy 14 - 10 = 4 more pencils
+
+Finally, to calculate the cost:
+* Each new pencil costs $2
+* She needs to buy 4 more pencils
+* So, the total cost is 4 * $2 = $8
+
+Answer: $8

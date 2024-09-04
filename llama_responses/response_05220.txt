@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+In the first hour, 50 guests enter the gym. Each guest is given 1 towel, so 50 towels are used.
+
+In the second hour, 20% more guests enter than during the first hour. This means that 20% of 50 guests, which is 0.2 x 50 = 10 guests, enter the gym. So, in total, 50 + 10 = 60 guests enter the gym in the second hour. Each guest is given 1 towel, so 60 towels are used.
+
+In the third hour, 25% more guests enter than in the second hour. This means that 25% of 60 guests, which is 0.25 x 60 = 15 guests, enter the gym. So, in total, 60 + 15 = 75 guests enter the gym in the third hour. Each guest is given 1 towel, so 75 towels are used.
+
+In the fourth hour, one third more guests enter than in the third hour. This means that one third of 75 guests, which is 1/3 x 75 = 25 guests, enter the gym. So, in total, 75 + 25 = 100 guests enter the gym in the fourth hour. Each guest is given 1 towel, so 100 towels are used.
+
+In total, the number of towels used is the sum of the towels used in each hour: 50 + 60 + 75 + 100 = 285 towels.
+
+Answer: 285

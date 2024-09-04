@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) We are given that the difference between the ages of two friends is 2 years.
+2) Let's call the age of the younger friend 'x' and the age of the older friend 'x + 2'.
+3) We are also given that the sum of their ages is 74 years.
+4) So we can write the equation: x + (x + 2) = 74
+5) Simplifying this equation, we get: 2x + 2 = 74
+6) Subtracting 2 from both sides, we get: 2x = 72
+7) Dividing both sides by 2, we get: x = 36
+8) Therefore, the age of the younger friend is 36 years.
+9) The age of the older friend is x + 2 = 36 + 2 = 38 years.
+
+Answer: 38

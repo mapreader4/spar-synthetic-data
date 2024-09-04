@@ -1,0 +1,4 @@
+Let's start by calculating the total cost of the items Bruce bought. He bought 5 packs of crayons for $5 each, 10 books for $5 each, and 3 calculators for $5 each. So the total cost is:
+5 * 5 + 10 * 5 + 3 * 5 = 25 + 50 + 15 = 90
+
+Bruce has $200. The cost of one bag is $10. To find out how many bags he can buy, we need to divide the $200 by the cost of one bag. $200 divided by $10 is 20. Therefore, Bruce can buy 20 bags.

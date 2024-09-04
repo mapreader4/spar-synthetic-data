@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Jack is asked to send the codes from 6 Best Buy gift cards and 9 Walmart gift cards. He sends the codes for 1 Best Buy gift card and 2 Walmart gift cards. This means he has sent the codes for a total of 1 + 2 = 3 gift cards.
+
+There are 6 Best Buy gift cards and 9 Walmart gift cards left. To find out how many dollars' worth of gift cards he can still return, we need to subtract the 3 gift cards he already sent from the total amount.
+
+The total value of the remaining gift cards is 6 Best Buy gift cards + 9 Walmart gift cards. This is equal to 6 + 9 = 15 gift cards.
+
+So, the total value of the remaining gift cards is 15.
+
+Answer: 15

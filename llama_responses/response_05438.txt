@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Elena has 8 lilies and 5 tulips in her garden. Each lily has 6 petals. Each tulip has 3 petals. To find the total number of flower petals, we need to multiply the number of lilies by the number of petals per lily and add that to the product of the number of tulips by the number of petals per tulip.
+
+The number of petals on the lilies is 8 * 6 = 48. The number of petals on the tulips is 5 * 3 = 15. We add these two numbers together to get the total number of flower petals: 48 + 15 = 63.
+
+Answer: 63

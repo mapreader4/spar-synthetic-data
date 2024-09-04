@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Bridgette has 2 dogs, 3 cats, and 4 birds
+* She gives the dogs a bath twice a month
+* She gives the cats a bath once a month
+* She gives the birds a bath once every 4 months
+
+First, let's calculate the number of baths for the dogs in a year:
+* 2 dogs x 2 baths per month x 12 months = 48 dog baths
+
+Next, let's calculate the number of baths for the cats in a year:
+* 3 cats x 1 bath per month x 12 months = 36 cat baths
+
+Finally, let's calculate the number of baths for the birds in a year:
+* 4 birds x 1 bath every 4 months x 12 months / 4 = 12 bird baths
+
+Now, we add up the total number of baths:
+* 48 dog baths + 36 cat baths + 12 bird baths = 96 total baths
+
+Answer: 96

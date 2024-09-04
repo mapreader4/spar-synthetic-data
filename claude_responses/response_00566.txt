@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Dale owns 4 sports cars: red, green, blue, and yellow.
+2) The red car can travel at twice the speed of the green car.
+3) The green car can travel at 8 times the speed of the blue car.
+4) The blue car can travel at a speed of 80 miles per hour.
+5) The yellow car is broken and cannot move at all.
+6) To find the speed of the red car, we first need to find the speed of the green car.
+7) Since the green car can travel at 8 times the speed of the blue car, and the blue car can travel at 80 miles per hour, the green car can travel at 8 * 80 = 640 miles per hour.
+8) Since the red car can travel at twice the speed of the green car, the red car can travel at 2 * 640 = 1,280 miles per hour.
+
+Answer: 1,280 miles per hour.

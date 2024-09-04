@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+
+1. The total number of lions in the park is 200.
+2. The number of leopards is half the number of lions, so the number of leopards is 200 / 2 = 100.
+3. The number of elephants is half the combined number of lions and leopards, so the number of elephants is (200 + 100) / 2 = 150.
+4. The total population of the three animals in the park is the sum of the number of lions, leopards, and elephants.
+5. The total population is 200 + 100 + 150 = 450.
+
+Answer: 450

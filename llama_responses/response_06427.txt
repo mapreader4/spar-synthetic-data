@@ -1,0 +1,16 @@
+Let's break it down step by step:
+
+1. The jury selection takes 2 days.
+2. The trial itself lasts 4 times as long as jury selection. So, the trial takes 2 * 4 = 8 days.
+3. The jury spends 6 full days in deliberation, which is equivalent to 6 * 24 = 144 hours.
+4. The jury spends 16 hours a day in deliberation. So, the total hours spent in deliberation is 144 hours.
+
+To find the total number of days spent on jury duty, we need to add the hours spent in jury selection (2 days = 48 hours) to the hours spent in deliberation (144 hours). 
+
+48 + 144 = 192 hours.
+
+There are 24 hours in a day. So, we need to divide the total hours by 24 to get the number of days.
+
+192 hours ÷ 24 = 8 days.
+
+Answer: 10

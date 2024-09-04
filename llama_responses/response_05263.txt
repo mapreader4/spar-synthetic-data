@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of days in a week. A week has 7 days.
+
+Sue's sister will drive the car 4 days a week. So, the number of days Sue will drive the car is 4 days. This means the number of days Sue's sister will not drive the car is 3 days.
+
+The total number of days in a week is 7. The number of days Sue's sister will not drive the car is 3 days, so the number of days Sue will get is 7 - 3 = 4 days.
+
+The cost of the car is $2,100. The total number of days Sue will get is 4 days. We need to find the percentage of 4 out of 7 days that Sue will get.
+
+To find the percentage, we can divide 4 by 7 and multiply the result by 2100.
+
+4 / 7 = 0.57142857142857143. Then, we multiply the result by 2100.
+
+0.57142857142857143 * 2100 = 1199.99999999999999999999999999999.
+
+However, we cannot write 1199.99999999999999999999999 as a fraction, so we round it to 1200.
+
+Answer: 1200.

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Marco has 500 cards and a fourth of them are duplicates. This means that the number of duplicates is 500 * 1/4 = 125.
+
+Marco decides to trade one-fifth of these duplicates for new cards. Since there are 125 duplicates, he will trade 1/5 of them, which is 25.
+
+Answer: 25

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Nicole has 4 fish tanks
+* The first two tanks need 8 gallons of water each
+* The other two tanks need 2 fewer gallons of water each than the first two tanks
+* So, the other two tanks need 8 - 2 = 6 gallons of water each
+* Nicole needs to change the water of the aquarium every week
+* We need to find the total amount of water needed in four weeks
+
+First, let's calculate the total amount of water needed for one week:
+* For the first two tanks: 8 gallons x 2 = 16 gallons
+* For the other two tanks: 6 gallons x 2 = 12 gallons
+* Total water needed per week: 16 + 12 = 28 gallons
+
+Now, to find the total amount of water needed in four weeks, we multiply the weekly amount by 4:
+* 28 gallons x 4 = 112 gallons
+
+Answer: 112 gallons

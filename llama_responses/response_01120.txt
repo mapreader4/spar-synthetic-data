@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+The printing press prints 20 single-page spreads. A single-page spread is 2 pages, so the press prints 20 * 2 = 40 pages. Additionally, it prints twice as many double-page spreads, which is 40 * 2 = 80 pages. In total, the press prints 40 + 80 = 120 pages.
+
+Each block of 4 ads takes up a quarter of a page, so there are 4 * 4 = 16 ads per single-page spread. Since there are 120 pages, and each spread is 2 pages, there are 120 / 2 = 60 spreads. Each spread has 16 ads, so the total number of ads is 60 * 16 = 960. Each brochure is 5 pages, and there are 960 ads, so the number of brochures is 960 / 5 = 192.
+
+Answer: 192

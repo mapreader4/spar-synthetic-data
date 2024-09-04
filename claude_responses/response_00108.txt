@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Henry took 9 pills a day for 14 days
+* 4 of the 9 pills cost $1.50 each
+* The remaining 5 pills each cost $5.50 more than the $1.50 pills
+* To calculate the total cost:
+  - 4 pills x $1.50 = $6.00 per day
+  - 5 pills x ($1.50 + $5.50) = $35.00 per day
+  - Total cost per day = $6.00 + $35.00 = $41.00
+  - Total cost for 14 days = $41.00 x 14 = $574.00
+
+Answer: $574

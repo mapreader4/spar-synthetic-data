@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) John attends a protest for 4 days.
+2) He then attends a second protest for 25% longer than the first.
+3) To calculate the length of the second protest, we take the length of the first protest (4 days) and increase it by 25%.
+4) 25% of 4 days is 1 day (4 * 0.25 = 1).
+5) So the second protest lasts for 4 + 1 = 5 days.
+6) To find the total number of days John spent protesting, we add the days from the first protest (4) and the days from the second protest (5).
+7) 4 days + 5 days = 9 days.
+
+Answer: 9

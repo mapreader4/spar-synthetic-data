@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* James was 8 years younger than Janet 8 years ago.
+* James will turn 37 in 15 years.
+* Susan was born when Janet turned 3.
+
+From the second statement, we know that James will turn 37 in 15 years, which means that 37 - 15 = 22 is James' current age.
+From the third statement, we know that Susan was born when Janet turned 3, so Susan's age is currently Janet's age - 3.
+
+Since James is 22 years old, and Susan is 3 years younger than Janet, Janet's age must be 25.
+
+To find out how old Susan will be in 5 years, we add 5 to her current age, which is 25, to get 30.
+
+Answer: 30

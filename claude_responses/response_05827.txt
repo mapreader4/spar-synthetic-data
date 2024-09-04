@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Ryan got 5 books from the library
+* The total number of pages in the 5 books was 2100 pages
+* Ryan's brother got 1 book per day, and each book was 200 pages
+* They both finished the books in a week (7 days)
+
+To find the average number of pages per day that Ryan read:
+* Ryan read a total of 2100 pages
+* He read them over the course of 7 days
+* So, the average number of pages per day that Ryan read is 2100 / 7 = 300 pages per day
+
+To find the average number of pages per day that Ryan's brother read:
+* Ryan's brother read 1 book per day, and each book was 200 pages
+* So, the average number of pages per day that Ryan's brother read is 200 pages per day
+
+To find the difference in the average number of pages per day that Ryan read compared to his brother:
+* Ryan read an average of 300 pages per day
+* His brother read an average of 200 pages per day
+* The difference is 300 - 200 = 100 pages per day
+
+Answer: 100

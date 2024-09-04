@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Shane takes 2 photos every day in January, and there are 31 days in January, so he takes a total of 31 * 2 = 62 photos in January.
+
+Step 2: The total number of photos taken in the first 2 months is 146. Since he took 62 photos in January, the remaining photos must be taken in February. The total number of photos taken in February must be 146 - 62 = 84.
+
+Step 3: Since there are 28 days in February, and Shane takes an equal number of photos each week, we can divide the remaining photos by 4 weeks (since there are 4 weeks in February).
+
+Answer: 84 ÷ 4 = 21

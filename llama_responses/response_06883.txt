@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+John has 100 VHS movies that he wants to replace with DVDs. He can trade in each VHS for $2, so the total value of the VHS he can trade in is 100 x $2 = $200.
+
+He can then use this $200 to buy DVDs. Each DVD costs $10, so the total cost to buy all 100 DVDs is 100 x $10 = $1000.
+
+To replace his VHS with DVDs, John will need to pay $1000.
+
+Answer: $1000

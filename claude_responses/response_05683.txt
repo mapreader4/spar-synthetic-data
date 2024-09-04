@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 4 runners ran a combined total of 195 miles last week
+* Katarina ran 51 miles
+* Tomas, Tyler, and Harriet all ran the same distance
+
+To find the distance Harriet ran, we need to first find the distance that Tomas and Tyler ran.
+
+We know that the 4 runners ran a combined total of 195 miles, and that Katarina ran 51 miles.
+* The remaining 3 runners (Tomas, Tyler, and Harriet) ran a combined total of 195 - 51 = 144 miles.
+
+Since Tomas, Tyler, and Harriet all ran the same distance, we can divide the 144 miles by 3 to find the distance each of them ran:
+* 144 / 3 = 48 miles
+
+Therefore, Harriet ran 48 miles.
+
+Answer: 48

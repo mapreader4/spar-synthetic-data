@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total weight of the people in the canoe when Penny does not have her dog. Since she can carry 6 people, and each person weighs the same amount, we can multiply 6 by the weight of one person, which is 140 pounds, to get the total weight of the people in the canoe. So, the total weight of the people is 6 x 140 = 840 pounds.
+
+Since the dog weighs 1/4 as much as one person, we can find the weight of the dog by multiplying 140 by 1/4, which is 35 pounds. So, the total weight of the dog is 35 pounds.
+
+Since Penny will only fit 2/3 of the 6 people inside the canoe with her dog, we can find the number of people she will take by multiplying 6 by 2/3, which is 4 people. The weight of these 4 people is 4 x 140 = 560 pounds.
+
+Now, we need to add the weight of the dog to the weight of the people to get the total weight of the canoe. So, the total weight of the canoe is 560 + 35 = 595 pounds.
+
+Answer: 595

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+1. Initially, Steve puts $100 into the bank. So the initial amount in the bank is $100.
+
+2. Each year, Steve earns 10% interest on the money in the account. So, the interest for the first year is 0.10 * 100 = 10.
+
+3. The interest is added to the principal, so the amount in the bank after the first year is 100 + 10 = 110.
+
+4. In the second year, Steve earns 10% interest on the money in the account. The interest earned in the first year is 10, and the principal is 110. So, the interest in the second year is 0.10 * 110 = 11.
+
+5. The interest is added to the principal, so the amount in the bank after the second year is 110 + 11 = 121.
+
+So, the amount in the bank after 2 years is $121.

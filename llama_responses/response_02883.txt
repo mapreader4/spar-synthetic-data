@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of people, which is 5.
+
+Let's identify the number of pizzas, which is 3.
+
+Each pizza has 8 slices, so the total number of slices is 3 * 8 = 24.
+
+Since there are 5 people, we need to divide the total number of slices by the number of people. So, the number of slices each person ate is 24 / 5 = 4.8.
+
+So, each person ate 4 slices.

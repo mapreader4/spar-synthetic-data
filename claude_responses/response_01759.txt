@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jason drives past 3 convenience stores on his way to work
+* The distance between the first store and the second store is 6 miles
+* The distance between the second store and the third store is 2/3rds longer than the distance between the first two stores
+* The distance from his house to the first store and the last store to work is the same, 4 miles
+
+To calculate the total distance of Jason's commute, we need to find the distance between the second and third stores, and then add up all the distances.
+
+The distance between the second and third stores is 2/3rds longer than the distance between the first two stores, which is 6 miles. So the distance between the second and third stores is:
+* 6 miles + (2/3 * 6 miles) = 6 miles + 4 miles = 10 miles
+
+Now we can add up all the distances:
+* Distance from house to first store: 4 miles
+* Distance from first store to second store: 6 miles
+* Distance from second store to third store: 10 miles
+* Distance from third store to work: 4 miles
+
+Total distance = 4 miles + 6 miles + 10 miles + 4 miles = 24 miles
+
+Answer: 24 miles

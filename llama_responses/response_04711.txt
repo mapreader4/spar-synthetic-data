@@ -1,0 +1,5 @@
+Anna skips every chapter that is divisible by 3. Since 31 is not divisible by 3, she does not skip any chapters. Therefore, Anna reads the entire book. It takes her 20 minutes to read each chapter, and there are 31 chapters. So, the total time Anna spends reading is:
+
+20 * 31 = 620
+
+Answer: 620

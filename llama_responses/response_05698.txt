@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's say the amount of money Daria has in her piggy bank is $x.
+
+Since she puts $10 in it each week, we can set up an equation to represent the total amount of money she has in her piggy bank after t weeks:
+
+x = 10t
+
+We know that Daria wants to save up $120 for the vacuum cleaner. So, we can set up an equation to represent the total amount of money she needs:
+
+120 = x
+
+We can subtract the amount of money she has already saved, $20, from the total amount she needs:
+
+120 - 20 = x
+
+Now, we can solve for x:
+
+x = 100
+
+Since Daria puts $10 in her piggy bank each week, we can divide the total amount she needs, $100, by the amount she puts in each week to find the number of weeks it will take her to raise enough money to cover the expense:
+
+100 ÷ 10 = 10
+
+Answer: 10

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On Saturday, Erica saw 3 lions and 2 elephants
+* On Sunday, Erica saw 2 buffaloes and 5 leopards
+* On Monday, Erica saw 5 rhinos and 3 warthogs
+
+To find the total number of animals Erica saw, we need to add up the animals from each day:
+* Saturday: 3 lions + 2 elephants = 5 animals
+* Sunday: 2 buffaloes + 5 leopards = 7 animals
+* Monday: 5 rhinos + 3 warthogs = 8 animals
+
+Now we add up the total animals from all three days:
+* 5 + 7 + 8 = 20 animals
+
+Answer: 20

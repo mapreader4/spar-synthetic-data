@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Evie collects 10 shells each day
+* She collects shells for 6 days
+* So the total number of shells she collected is:
+  * 10 shells per day x 6 days = 60 shells
+* At the end, she gives 2 shells to her brother
+* So the number of shells she has left is:
+  * 60 shells - 2 shells = 58 shells
+
+Answer: 58

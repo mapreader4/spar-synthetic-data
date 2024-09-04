@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* They get 2 inches of rain a day, on average.
+* There are 100 days in a year.
+* They've gotten 430 inches of rain so far.
+
+To find the number of inches they need to finish the year with the normal average, we can subtract the amount of rain they've already gotten from the total amount of rain they get in a year.
+
+So, 100 days * 2 inches/day = 200 inches. Since they've already gotten 430 inches, they need:
+
+200 - 430 =?
+
+Answer: 70

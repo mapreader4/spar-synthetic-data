@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+* The sewers in Middleton can handle 240,000 gallons of run-off
+* Each hour of rain produces 1000 gallons of runoff
+* To find how many days of rain the sewers can handle, we need to find how many hours of rain the sewers can handle, and then divide that by 24 to get the number of days.
+
+To find how many hours of rain the sewers can handle:
+* The sewers can handle 240,000 gallons of run-off
+* Each hour of rain produces 1000 gallons of runoff
+* So the sewers can handle 240,000 / 1000 = 240 hours of rain
+
+To convert hours to days:
+* 240 hours / 24 hours per day = 10 days
+
+Therefore, the sewers in Middleton can handle 10 days of rain before they overflow.
+
+Answer: 10

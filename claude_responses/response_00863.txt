@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The class has 25 students total.
+2) 15 students said they like French fries.
+3) 10 students said they like burgers.
+4) 6 students said they like both French fries and burgers.
+5) To find the number of students who do not like either food, we need to subtract the number of students who like at least one of the foods from the total number of students.
+6) The number of students who like at least one of the foods is the sum of the students who like French fries (15) and the students who like burgers (10), minus the 6 students who like both (to avoid double-counting).
+7) So the number of students who like at least one of the foods is 15 + 10 - 6 = 19.
+8) The number of students who do not like either food is 25 - 19 = 6.
+
+Answer: 6

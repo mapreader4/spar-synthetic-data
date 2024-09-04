@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Box 1 has 50 contacts for $25. This means the cost per contact in Box 1 is $25 / 50 = $0.50 per contact.
+2) Box 2 has 99 contacts for $33. This means the cost per contact in Box 2 is $33 / 99 = $0.33 per contact.
+3) Since Box 2 has a lower cost per contact, Adrian will choose to buy Box 2.
+4) To find how many contacts it takes to equal $1 worth in Box 2, we need to take the inverse of the cost per contact. 
+5) The cost per contact in Box 2 is $0.33, so the number of contacts needed to equal $1 worth is 1 / $0.33 = 3 contacts.
+
+Answer: 3 contacts

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Anahi bought a 500 page book
+2) In the first week, she wrote on 150 pages
+3) That leaves 500 - 150 = 350 pages remaining
+4) In the second week, she wrote on 30% of the remaining 350 pages
+5) 30% of 350 = 0.3 * 350 = 105 pages
+6) That leaves 350 - 105 = 245 pages remaining
+7) Anahi then accidentally spilled coffee on the book and damaged 20% of the remaining 245 pages
+8) 20% of 245 = 0.2 * 245 = 49 pages
+9) The total number of empty pages available for her to write on now is 245 - 49 = 196 pages
+
+Answer: 196

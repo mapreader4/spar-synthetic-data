@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+1. Paul tried out a new cake recipe every week.
+2. The first week, he followed a cake recipe that called for 24 cups of sugar.
+3. Each week after that, he reduced the amount of sugar by half.
+
+We can represent the amount of sugar used in each week as a fraction of the original amount. Let's call the original amount of sugar used in the first week 'a'. Then, we can represent the amount used in the second week as 'a/2', the third week as 'a/4', the fourth week as 'a/8', and so on.
+
+The formula for the amount of sugar used in the fourth week would be 'a/8'. Since the original amount was 24 cups, the amount of sugar used in the fourth week would be 24/8 = 3 cups.
+
+Answer: 3

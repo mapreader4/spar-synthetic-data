@@ -1,0 +1,5 @@
+Jan doubles her speed. So, her new speed is 140 skips per minute.
+
+To find the number of skips in 5 minutes, we multiply her new speed by the number of minutes. 5 minutes is equal to 300 seconds, since there are 60 seconds in a minute. So, 300 seconds is equal to 300 / 60 = 5 minutes.
+
+So, Jan does 140 * 5 = 700 skips in 5 minutes.

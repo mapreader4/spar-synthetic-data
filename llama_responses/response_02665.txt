@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. Paul goes fishing every Saturday and he catches 5 fish for every 2 hours he fishes. So, if he fishes for 12 hours, we need to find how many 2-hour intervals he fishes in 12 hours.
+
+Since 12 hours is equal to 12 60-minute intervals, we can divide 12 by 2 to get the number of 2-hour intervals, which is 6.
+
+Since Paul catches 5 fish for every 2 hours, we can multiply 5 by 6 to get the total number of fish he catches, which is 30.
+
+So, the answer is:
+
+Answer: 30

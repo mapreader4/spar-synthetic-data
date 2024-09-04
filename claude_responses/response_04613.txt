@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The class has 30 high school students
+* Each student contributes $2 every Friday
+* We want to know how much money they will have in 2 months
+
+First, let's calculate how much money each student will contribute in 2 months:
+* There are 4 Fridays in a month
+* In 2 months, there are 8 Fridays
+* Each student contributes $2 per Friday
+* So each student will contribute 8 * $2 = $16 in 2 months
+
+Now, let's calculate the total amount of money the class will have in 2 months:
+* There are 30 students in the class
+* Each student will contribute $16
+* So the total amount of money the class will have is 30 * $16 = $480
+
+Answer: $480

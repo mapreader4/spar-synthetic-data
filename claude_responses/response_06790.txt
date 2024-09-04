@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) We know that Quentin, Skylar, and Colten have a total of 383 chickens.
+2) We also know that Quentin has 25 more than double the chickens that Skylar has. Let's call the number of chickens Skylar has as 'x'. Then, Quentin has 2x + 25 chickens.
+3) Skylar has 4 less than triple the number of chickens that Colten has. Let's call the number of chickens Colten has as 'y'. Then, Skylar has 3y - 4 chickens.
+4) We can set up an equation to solve for y:
+Quentin's chickens + Skylar's chickens + Colten's chickens = 383
+(2x + 25) + (3y - 4) + y = 383
+2x + 3y + 21 = 383
+3y = 362
+y = 120.67
+
+Since we are looking for the number of chickens Colten has, and the number of chickens must be an integer, the answer is:
+
+Answer: 121

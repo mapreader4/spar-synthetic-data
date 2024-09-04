@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Gladys is 30 years old now.
+2) Gladys' age is equal to twice the sum of the ages of Billy and Lucas.
+   * So, Gladys' age = 2 * (Billy's age + Lucas' age)
+   * 30 = 2 * (Billy's age + Lucas' age)
+3) Billy is 3 times younger than Gladys.
+   * So, Billy's age = 30 / 3 = 10 years old
+4) We want to find Lucas' age 3 years from now.
+   * From step 2, we know that Lucas' age = (30 - 2 * 10) / 2 = 5 years old
+   * 3 years from now, Lucas will be 5 + 3 = 8 years old.
+
+Answer: 8

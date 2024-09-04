@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+1. Isabela bought twice as many cucumbers as pencils. So, let's assume the number of pencils is x. Then, she bought 2x cucumbers.
+
+2. The cost of each cucumber is $20, and she got a 20% discount. So, the cost of each cucumber is 20 - (20 * 0.20) = 16 dollars.
+
+3. The total cost of the cucumbers is 2x * 16 = 32x.
+
+4. The total cost is the cost of the cucumbers plus the cost of the pencils. Since the problem doesn't mention the cost of pencils, we can assume that the cost of pencils is 0.
+
+5. So, the total cost is just the cost of the cucumbers, which is 32x.
+
+Answer: 32x

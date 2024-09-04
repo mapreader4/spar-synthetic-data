@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Isabella has three times as many green houses as yellow houses. If she has 90 green houses, then she must have 30 yellow houses (90 / 3 = 30).
+2) She has 40 fewer yellow houses than red houses. So if she has 30 yellow houses, she must have 70 red houses (30 + 40 = 70).
+3) The total number of houses that are not yellow is the sum of the green houses and the red houses.
+4) The number of green houses is 90, and the number of red houses is 70.
+5) Therefore, the total number of houses that are not yellow is 90 + 70 = 160.
+
+Answer: 160

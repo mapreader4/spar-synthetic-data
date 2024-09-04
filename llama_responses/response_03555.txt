@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Alex has 4 pens in the first week. If her pen collection doubles every week, that means in the second week she will have 8 pens. In the third week, she will have 16 pens, and in the fourth week, she will have 32 pens. Since there are 4 weeks in a month, and Alex's pen collection doubles every week, she will have 4 * 2^4 = 16 pens at the end of the month.
+
+So, to answer the question, Alex will have 16 - 4 = 12 more pens than Jane if Jane will have 16 pens at the end of the month.
+
+Answer: 12

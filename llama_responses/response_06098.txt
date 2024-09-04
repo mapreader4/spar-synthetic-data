@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Matt goes up the stairs 20 steps per minute.
+* Tom goes up the stairs 5 steps more than Matt.
+* Matt has reached 220 steps above the entrance.
+
+Let's say Matt has taken x minutes to reach 220 steps above the entrance. We know that Matt goes up the stairs 20 steps per minute, so we can set up an equation to represent the number of steps Matt takes:
+
+20x = 220
+
+We can solve for x by dividing both sides of the equation by 20:
+
+x = 220 / 20
+x = 11
+
+So, Matt has taken 11 minutes to reach 220 steps above the entrance.
+
+Now, let's find the number of steps Tom has gone up by that time. Since Tom goes up the stairs 5 steps more than Matt, we can subtract 5 from the number of steps Matt has taken:
+
+11 - 5 = 6
+
+So, Tom has gone up 6 steps by that time.
+
+Answer: 6

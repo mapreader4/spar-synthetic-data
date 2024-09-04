@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) A standard deck of playing cards has 52 cards.
+2) The face cards (Jack, Queen, King) and the 8's are removed, leaving 40 cards in the deck.
+3) Of the remaining 40 cards, 20 are red (10 hearts, 10 diamonds).
+4) Of the 20 red cards, 6 have a number divisible by 3 (3, 6, 9).
+5) Mark picks a card at random and then replaces it 36 times.
+6) The probability of picking a red card with a number divisible by 3 is 6/40 = 0.15.
+7) The expected number of times Mark will pick a red card with a number divisible by 3 is 36 * 0.15 = 5.4.
+
+Answer: 5

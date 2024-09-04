@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the weight of the load that gets unloaded at the first store. 10% of the original load is 0.1 * 50000 = 5000 pounds. So, the weight left after the first store is 50000 - 5000 = 45000 pounds.
+
+Next, let's find the weight of the load that gets unloaded at the second store. 20% of the remaining load is 0.2 * 45000 = 9000 pounds. So, the weight left on the truck after the two deliveries is 45000 - 9000 = 36000 pounds.
+
+Answer: 36000

@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. First, we need to know how many days the shop is closed during the Christmas holidays. The problem states that the shop is closed for 3 days. 
+
+2. The shop could have earned 5 thousand dollars per day, so we need to multiply this by 3 to find the total potential revenue for the 3 days. 5,000 x 3 = 15,000.
+
+3. Now, the problem asks us to find the potential revenue the shop lost during 6 years of activity. To do this, we need to multiply the total potential revenue for the 3 days by 6. 
+
+15,000 x 6 = 90,000.
+
+Answer: 90,000

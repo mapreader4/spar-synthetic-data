@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The monitor is 21 inches by 12 inches.
+2) There are 100 dots per inch.
+3) To calculate the total number of pixels, we need to multiply the number of dots in the horizontal direction by the number of dots in the vertical direction.
+4) The number of dots in the horizontal direction is 21 inches * 100 dots/inch = 2,100 dots.
+5) The number of dots in the vertical direction is 12 inches * 100 dots/inch = 1,200 dots.
+6) The total number of pixels is 2,100 dots * 1,200 dots = 2,520,000 pixels.
+
+Answer: 2,520,000

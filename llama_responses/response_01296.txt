@@ -1,0 +1,12 @@
+Let's start by identifying the number of carpets in each house:
+
+House 1 has 12 carpets.
+House 2 has 20 carpets.
+House 3 has 10 carpets.
+House 4 has twice as many carpets as House 3, so House 4 has 2 * 10 = 20 carpets.
+
+Now, let's add up the number of carpets in all 4 houses:
+
+12 + 20 + 20 + 20 = 52
+
+Answer: 52

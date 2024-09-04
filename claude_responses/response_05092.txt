@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Kevin is taking a 600-mile trip
+* He is currently traveling at a rate of 50 miles per hour
+* He wants to decrease his travel time by 4 hours
+
+To calculate the new speed he needs to travel at, we can use the formula:
+* Time = Distance / Speed
+
+His current travel time is:
+* Time = 600 miles / 50 miles per hour = 12 hours
+
+He wants to decrease his travel time by 4 hours, so his new travel time should be:
+* 12 hours - 4 hours = 8 hours
+
+Now we can plug this back into the formula to find the new speed he needs to travel at:
+* 8 hours = 600 miles / New Speed
+* New Speed = 600 miles / 8 hours = 75 miles per hour
+
+Therefore, Kevin must travel 25 miles per hour faster to decrease his travel time by 4 hours.
+
+Answer: 75

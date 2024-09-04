@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. We know that there are 7 regular bikes and 11 children's bikes. We can combine these to get the total number of wheels.
+2. We know that regular bikes have 2 wheels and kid's bikes have 4 wheels. We can add the number of wheels of regular bikes to the number of wheels of kid's bikes.
+3. So, the total number of wheels is 7 * 2 + 11 * 4. We can multiply 7 and 11 first and then multiply the result by 2 and 4.
+4. 7 * 11 = 77, and 77 * 2 = 154 and 77 * 4 = 308. So, the total number of wheels is 154 + 308 = 462.
+
+Answer: 462

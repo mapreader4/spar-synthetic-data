@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Dr. Jones earns $6,000 per month.
+
+His monthly house rental is $640. This means that he has $6,000 - $640 left after paying for the house.
+
+His monthly food expense is $380. This means that he has $6,000 - $380 left after paying for food.
+
+His electric and water bill costs 1/4 of what he makes. Since he makes $6,000, 1/4 of that is $1,500. So, his electric and water bill costs $1,500. This means that he has $6,000 - $1,500 left after paying for his electric and water bill.
+
+His insurances cost 1/5 of what he makes. Since he makes $6,000, 1/5 of that is $1,200. This means that his insurances cost $1,200. This means that he has $6,000 - $1,200 left after paying for his insurances.
+
+Now, we can add up all of his expenses: $640 (house rental) + $380 (food) + $1,500 (electric and water bill) + $1,200 (insurances). This gives us a total of $3,620.
+
+So, subtracting this from his monthly income of $6,000, he has $6,000 - $3,620 left. Therefore, his answer is:
+
+Answer: 2,380

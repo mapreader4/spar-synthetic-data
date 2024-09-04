@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start with the information given: "On a farm, on average every 6 cows produce 108 liters of milk per week."
+
+We are asked to find out how many cows are on the farm. Let's let's represent the number of cows as 'c' and the number of liters of milk produced per week as 'L'. We can represent this as the equation:
+
+c * 6 = 108 / 108
+
+We know that 108 / 6 = 18, so we know that the number of cows is 18.
+
+Now, we are given that the cows produced 2160 liters of milk in 5 weeks. We can set up an equation to solve for the number of cows:
+
+c * 5 * 6 = 2160
+
+We can simplify this equation to get:
+
+c * 5 * 6 = 36
+
+We know that 36 / 6 = 6, so we know that the number of cows is 6.
+
+Answer: 6

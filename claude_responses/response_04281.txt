@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The pond can hold 200 gallons of water
+* Jerry's hose can normally pump 6 gallons/minute
+* Due to drought restrictions, the hose can only pump 2/3rds as fast
+* To calculate the new pumping rate, we take 2/3rds of 6 gallons/minute:
+    * 2/3 * 6 gallons/minute = 4 gallons/minute
+* Now we need to calculate how long it will take to fill the 200 gallon pond at the new pumping rate of 4 gallons/minute
+* To do this, we divide the total volume of the pond (200 gallons) by the pumping rate (4 gallons/minute):
+    * 200 gallons / 4 gallons/minute = 50 minutes
+
+Answer: 50 minutes

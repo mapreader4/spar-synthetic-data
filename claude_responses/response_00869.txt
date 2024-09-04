@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Paige bought a sheet of 100 space stickers and a sheet of 50 cat stickers.
+2) She wants to share these stickers equally among 3 of her friends.
+3) For the space stickers, each friend will get 100 / 3 = 33.33 stickers. Since we can't have a fraction of a sticker, each friend will get 33 stickers.
+4) For the cat stickers, each friend will get 50 / 3 = 16.67 stickers. Again, since we can't have a fraction of a sticker, each friend will get 16 stickers.
+5) In total, each friend will get 33 + 16 = 49 stickers.
+6) Paige will have the remaining stickers, which is:
+   - Space stickers: 100 - (3 * 33) = 1
+   - Cat stickers: 50 - (3 * 16) = 2
+7) In total, Paige will have 1 + 2 = 3 stickers left.
+
+Answer: 3

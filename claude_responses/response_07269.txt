@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The magician charges $60 per hour
+* The magician works 3 hours every day
+* The magician works for 2 weeks (14 days)
+* To calculate the total amount paid:
+  * The magician works 3 hours per day
+  * So in 1 day, the magician earns 3 x $60 = $180
+  * In 2 weeks (14 days), the magician earns 14 x $180 = $2,520
+
+Answer: $2,520

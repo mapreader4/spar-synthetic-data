@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The store sold 15 bottles of cola at $3 each
+* So the total revenue from cola sales is 15 * $3 = $45
+* The store sold 25 bottles of water at $1 each
+* So the total revenue from water sales is 25 * $1 = $25
+* The store sold 12 bottles of juice at $1.5 each
+* So the total revenue from juice sales is 12 * $1.5 = $18
+* To calculate the total revenue, we add up the revenue from each type of drink:
+* Total revenue = $45 + $25 + $18 = $88
+
+Answer: $88

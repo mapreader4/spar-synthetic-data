@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the problem. We know that the Tigers played 56 games and had 12 losses. We also know that they had half as many ties as losses, so they must have had 12 / 2 = 6 ties.
+
+So, the number of ties is 6. Now, we know that the total number of games played is 56, and we know that the number of losses is 12. So, to find the number of wins, we can subtract the number of losses from the total number of games:
+
+56 (total games) - 12 (losses) =?
+
+To find the answer, we can subtract 12 from 56:
+
+56 - 12 = 44
+
+So, the answer is: Answer: 44

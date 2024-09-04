@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+We know that the total number of hot dog buns Mr. Gates bought is 30.
+We know that he has 4 classes, each with 30 students.
+
+To find out how many hot dog buns each student can get, we need to divide the total number of hot dog buns by the number of students.
+
+So, let's divide 30 (total hot dog buns) by 4 (number of classes) to get:
+
+30 ÷ 4 = 7.5
+
+Since we can't give a fraction of a hot dog bun, we round down to the nearest whole number. In this case, the answer is 7.
+
+Answer: 7

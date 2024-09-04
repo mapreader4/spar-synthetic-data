@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Carla counted 12 zebras in their enclosure.
+2) There were only half as many camels as there were zebras. So, if there were 12 zebras, there must have been 6 camels (12 / 2 = 6).
+3) Carla then visited the monkeys and counted 4 times the number of monkeys as camels. So, if there were 6 camels, there must have been 24 monkeys (6 * 4 = 24).
+4) Finally, Carla saw 2 giraffes.
+5) To find the difference between the number of monkeys and giraffes, we subtract the number of giraffes from the number of monkeys:
+24 monkeys - 2 giraffes = 22 more monkeys than giraffes.
+
+Answer: 22

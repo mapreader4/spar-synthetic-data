@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The New York City Council bought 200 streetlights to modernize its squares.
+2) There are 15 squares in New York.
+3) Each square will have 12 new streetlights bought by the city council.
+4) To calculate the total number of streetlights that will be used, we multiply the number of squares (15) by the number of streetlights per square (12):
+15 squares x 12 streetlights per square = 180 streetlights used.
+5) The total number of streetlights bought was 200.
+6) To find the number of unused streetlights, we subtract the number of streetlights used (180) from the total number of streetlights bought (200):
+200 - 180 = 20 unused streetlights.
+
+Answer: 20

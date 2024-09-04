@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+In the first week, Jodi walks 1 mile a day for 6 days, so she walks a total of 1 * 6 = 6 miles.
+
+In the second week, Jodi walks 2 miles a day for 6 days, so she walks a total of 2 * 6 = 12 miles.
+
+In the third week, Jodi walks 3 miles a day for 6 days, so she walks a total of 3 * 6 = 18 miles.
+
+In the fourth week, Jodi walks 4 miles a day for 6 days, so she walks a total of 4 * 6 = 24 miles.
+
+To find the total number of miles Jodi has walked in 4 weeks, we add up the miles from each week: 6 + 12 + 18 + 24 = 60.
+
+Answer: 60

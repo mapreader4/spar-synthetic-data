@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of deer needed for the 4 wolves to eat in total. Each wolf needs to eat 8 pounds of meat a day, and the pack won't hunt again for 5 days. So, the total amount of meat needed for the 4 wolves to eat in total is:
+
+4 wolves x 8 pounds per day x 5 days = 4 x 8 x 5 = 160 pounds
+
+Now, since each deer contains 200 pounds of meat, we need to find out how many deer the wolves need to kill. To do this, we can divide the total amount of meat needed by the weight of each deer:
+
+160 pounds / 200 pounds per deer = 0.8
+
+So, the answer is:
+
+Answer: 0.8

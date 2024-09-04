@@ -1,0 +1,5 @@
+Let's start by using a variable to represent the number of chickens that Mary took. Let's call it M. Since John took 5 more chickens than Mary, we know that John took M + 5 chickens. We also know that Ray took 10 chickens, and we are asked how many more chickens John took than Ray.
+
+We can set up an equation to solve this problem: M + 5 = M + (10 - 6). We can add 5 to both sides of the equation to get M + 5 + 5 = M + 10 - 6. We can then subtract 5 from both sides to get M = M + 10 - 11. This means that John took 11 - 6 = 5 more chickens than Ray. 
+
+Answer: 5

@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+First, we need to calculate the discount for Bob. The discount for Bob is 5% of the $30 bill, which is:
+
+$30 * 0.05 = $1.5
+
+So, the discounted amount for Bob is $30 - $1.5 = $28.5.
+
+Next, we need to calculate the discount for Kate. The discount for Kate is 2% of the $25 bill, which is:
+
+$25 * 0.02 = $0.5
+
+So, the discounted amount for Kate is $25 - $0.5 = $24.5.
+
+Now, we need to add the discounted amounts together to find the total amount they have to pay. The total amount is:
+
+$28.5 + $24.5 = $52.5
+
+Answer: 52

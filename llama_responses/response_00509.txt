@@ -1,0 +1,11 @@
+Let's think step by step.
+
+The electricity price is $0.10 per kW. Coco's oven's consumption rate is 2.4 kWh. The total consumption is 25 hours. We need to multiply the consumption rate by the total hours used to get the total energy consumed.
+
+2.4 kWh * 25 hours = 60 kWh
+
+To find the cost, we multiply the total energy consumed by the electricity price:
+
+60 kWh * $0.10 = $6.00
+
+Answer: 6

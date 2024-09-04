@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: the team has 40 players, 3 goalies, 10 defenders, and the rest are midfielders and strikers.
+
+We know that the team has 10 defenders. Since the team has twice as many midfielders as defenders, that means there are 10/2 = 20 midfielders.
+
+The team has 40 players in total. We know that the 10 defenders, 20 midfielders, and the rest are strikers. So, the number of strikers is 40 - 10 - 20 = 10.
+
+Answer: 10

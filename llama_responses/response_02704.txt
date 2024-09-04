@@ -1,0 +1,7 @@
+To find the current value of the car, we need to subtract the percentage decrease from the original price.
+
+Original price = 4000
+Decrease = 30% of 4000 = 0.3 x 4000 = 1200
+New value = 4000 - 1200 = 2800
+
+Answer: 2800

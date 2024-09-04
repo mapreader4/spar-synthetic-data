@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total cost of the ingredients.
+
+The pasta costs $1.00 per box.  There are 8 servings in the recipe.  The cost per serving is $1.00 / 8 = $0.125 per serving.
+
+The sauce is $2.00 for a jar.  There are 8 servings in the recipe.  The cost per serving is $2.00 / 8 = $0.25 per serving.
+
+The meatballs are $5.00 for 1 pound.  There are 8 servings in the recipe.  The cost per serving is $5.00 / 8 = $0.625 per serving.
+
+Now, let's add up the costs of each ingredient.
+
+$0.125 + $0.25 + $0.625 = $0.95
+
+The cost per serving is $0.95.

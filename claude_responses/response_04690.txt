@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Terry drives at a speed of 40 miles per hour
+* The distance from his home to his workplace is 60 miles
+* He drives this distance both ways, so the total distance he drives is 60 miles + 60 miles = 120 miles
+
+To calculate the time it takes him to drive this distance, we can use the formula:
+* Time = Distance / Speed
+
+Plugging in the values:
+* Time = 120 miles / 40 miles per hour
+* Time = 3 hours
+
+Therefore, Terry spends 3 hours driving from home to the workplace and then back.
+
+Answer: 3

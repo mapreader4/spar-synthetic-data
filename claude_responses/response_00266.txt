@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Johns goes to the gym 3 times a week
+* He spends 1 hour each day lifting weights
+* He also spends a third of his weightlifting time warming up and doing cardio each day
+
+First, let's calculate the time he spends lifting weights each week:
+* 3 days per week x 1 hour per day = 3 hours per week
+
+Next, let's calculate the time he spends warming up and doing cardio each week:
+* 1 hour per day x 1/3 = 1/3 hour per day
+* 3 days per week x 1/3 hour per day = 1 hour per week
+
+Now, we can add the time spent lifting weights and the time spent warming up and doing cardio to get the total time he spends at the gym each week:
+* 3 hours per week + 1 hour per week = 4 hours per week
+
+Answer: 4 hours

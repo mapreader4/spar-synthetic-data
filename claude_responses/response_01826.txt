@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, Miriam did 5 push-ups.
+2. On Tuesday, Miriam did 7 push-ups.
+3. On Wednesday, Miriam did twice as many push-ups as the day before, which is 7 x 2 = 14 push-ups.
+4. On Thursday, Miriam did half the number of total pushups she already did that week. 
+   * The total number of pushups she did in the first 3 days is 5 + 7 + 14 = 26.
+   * Half of 26 is 13, so Miriam did 13 push-ups on Thursday.
+5. On Friday, Miriam did as many push-ups as the total number she did over the previous four days.
+   * The total number of push-ups she did in the first 4 days is 5 + 7 + 14 + 13 = 39.
+   * Therefore, on Friday, Miriam did 39 push-ups.
+
+Answer: 39

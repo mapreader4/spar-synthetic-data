@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Gunther can type 160 words every 3 minutes
+* He works 480 minutes per day
+* To find the total number of words he can type in a working day, we need to:
+1) Calculate how many 3-minute intervals are in 480 minutes:
+   * 480 minutes / 3 minutes per interval = 160 intervals
+2) Multiply the number of intervals by the number of words he can type in each interval:
+   * 160 intervals x 160 words per interval = 25,600 words
+
+Answer: 25,600

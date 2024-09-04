@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Frank bakes two trays of cookies per day, so for 6 days, he will bake a total of 2 x 6 = 12 trays of cookies.
+2. Each tray makes 12 cookies, so Frank will make a total of 12 x 12 = 144 cookies.
+3. Frank eats one cookie each day to make sure they taste good, so he eats 6 cookies. This leaves 144 - 6 = 138 cookies.
+4. On the sixth day, Ted comes over and eats 4 cookies. This leaves 138 - 4 = 134 cookies.
+
+Answer: 134

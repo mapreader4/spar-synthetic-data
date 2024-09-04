@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, Didi sold 10 cakes, each with 8 slices. So, she sold a total of:
+
+10 cakes x 8 slices per cake = 80 slices
+
+Now, let's calculate the amount of money Didi raised from selling each slice. She sold each slice for $1, so she raised:
+
+80 slices x $1 per slice = $80
+
+Next, a local business owner donated 50 cents for each slice sold. So, Didi raised an additional:
+
+80 slices x 50 cents per slice = $40
+
+Finally, a second business owner donated a quarter for each slice sold. So, Didi raised an additional:
+
+80 slices x 25 cents per slice = $20
+
+To find the total amount of money Didi raised, we add up the money she raised from selling each slice, plus the money she raised from the two business owners' donations:
+
+$80 + $40 + $20 = $140
+
+Answer: 140

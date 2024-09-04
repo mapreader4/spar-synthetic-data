@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's let x be the number of apples Sara ate. Since Ali ate 4 times more apples than Sara, that means Ali ate 4x. So, we can set up an equation to solve for x.
+
+x + 4x = 80
+
+Now, we need to isolate x. We can subtract 4x from both sides of the equation.
+
+x + 4x - 4x = 80 - 4x
+x = 80
+
+Now, we can simplify the right side of the equation by subtracting 4x from both sides.
+
+x = 80
+
+So, Sara ate 20 apples.

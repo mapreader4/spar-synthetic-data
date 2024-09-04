@@ -1,0 +1,22 @@
+Let's start by determining how many bags of each theme the teacher needs to buy. Since 11 students want the vampire-themed bag, the teacher needs 11 bags of that theme. Similarly, since 14 students want the pumpkin-themed bag, the teacher needs 14 bags of that theme.
+
+The teacher can buy the bags in packs of 5, which would be more cost-effective. To find the number of packs needed, we can divide the number of bags needed by 5:
+
+Vampire-themed bags: 11 bags / 5 bags per pack = 2.2 packs (round up to 3 packs since you can't buy a fraction of a pack)
+Pumpkin-themed bags: 14 bags / 5 bags per pack = 2.8 packs (round up to 3 packs since you can't buy a fraction of a pack)
+
+So, the teacher needs to buy 3 packs of vampire-themed bags and 3 packs of pumpkin-themed bags. Each pack costs $3, so the total cost of the packs is:
+
+3 packs of vampire-themed bags x $3 per pack = $9
+3 packs of pumpkin-themed bags x $3 per pack = $9
+Total cost of packs = $9 + $9 = $18
+
+However, the teacher needs 2 extra bags (1 vampire-themed and 1 pumpkin-themed) since the packs don't have enough bags to fulfill the students' requests. The cost of these individual bags is $1 each, so the total cost of the individual bags is:
+
+2 bags x $1 per bag = $2
+
+The total cost of the bags is the cost of the packs plus the cost of the individual bags:
+
+$18 (cost of packs) + $2 (cost of individual bags) = $20
+
+Answer: 20

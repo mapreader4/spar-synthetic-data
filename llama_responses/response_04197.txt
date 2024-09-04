@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Chantal makes 28 sweaters.
+2. Each sweater takes 4 balls of yarn.
+3. Each ball of yarn costs $6.
+4. So, for 1 sweater, Chantal needs 4 * 6 = 24 dollars.
+5. For 28 sweaters, Chantal needs 28 * 24 = 672 dollars.
+
+Answer: 672

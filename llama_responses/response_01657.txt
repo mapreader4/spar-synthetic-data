@@ -1,0 +1,13 @@
+Let's start by identifying the given information:
+
+1. Sheila offers to pay 5 times Purity's share of the rent.
+2. Rose can only afford 3 times what Purity pays.
+3. Rose's share is $1,800.
+
+From the second point, we know that Rose's share is 1/3 of Purity's share. Since Rose can only afford 3 times Purity's share, that means that Purity's share is $1,800 / 3 = $600.
+
+So, Purity's share of the rent is $600.
+
+Since Sheila offers to pay 5 times Purity's share, that means that Sheila's share of the rent is 5 * $600 = $3,000.
+
+Adding Sheila's and Purity's share together, we get the total house rent as $3,000 + $1,800 = $4,800.

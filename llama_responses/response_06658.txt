@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+On Tuesday, Anna ate 4 apples.
+
+On Wednesday, Anna ate double the apples she ate on Tuesday, so she ate 4 * 2 = 8 apples.
+
+On Thursday, Anna ate half the apples she ate on Tuesday, so she ate 4 / 2 = 2 apples.
+
+To find the total number of apples Anna has eaten, we add the apples she ate on Tuesday, the apples she ate on Wednesday, and the apples she ate on Thursday:
+
+4 + 8 + 2 = 14
+
+So, the answer is: Answer: 14

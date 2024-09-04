@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Aryan owes Fernanda $1200, which is twice what Kyro owes Fernanda. 
+   - This means that Kyro owes Fernanda $600.
+2) Aryan decides to pay 60% of her debt to Fernanda.
+   - 60% of $1200 is $720.
+3) Kyro pays Fernanda 80% of her debt.
+   - 80% of $600 is $480.
+4) Fernanda had $300 in her savings account.
+5) Fernanda adds the money she's been paid by her debtors to the savings account.
+   - Aryan paid $720 and Kyro paid $480, so Fernanda received a total of $720 + $480 = $1200.
+6) Fernanda's total savings account balance is $300 + $1200 = $1500.
+
+Answer: 1500

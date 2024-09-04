@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+We know that if Beth had $35 more, she would have $105. This means that Beth has $105 - $35 = $70.
+
+Next, we know that if Jan had $10 less, he would have the same money as Beth has. This means that Jan has $70 - $10 = $60.
+
+Now, we need to find the total amount of money Beth and Jan have altogether. We can do this by adding the money they each have:
+
+Beth has $70 and Jan has $60. To find the total amount of money they have, we add $70 + $60 = $130.
+
+Answer: 130

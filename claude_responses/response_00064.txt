@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) James earns $20 per hour at his main job.
+2) He works 30 hours per week at his main job.
+3) So, his earnings from his main job per week are:
+   $20 per hour x 30 hours per week = $600 per week.
+4) At his second job, he earns 20% less than his main job.
+   That means he earns $20 x (1 - 0.2) = $16 per hour.
+5) He works half the hours at his second job as he does at his main job, which is 15 hours per week.
+6) So, his earnings from his second job per week are:
+   $16 per hour x 15 hours per week = $240 per week.
+7) His total earnings per week are the sum of his earnings from both jobs:
+   $600 per week + $240 per week = $840 per week.
+
+Answer: $840

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ruby can buy a pack of 10 classes for $75
+* The average price of a class in the pack is $75 / 10 = $7.50
+* She can add additional classes at a price of 1/3 more than the average price, which is $7.50 + (1/3 * $7.50) = $10 per additional class
+* She takes a total of 13 classes
+* The first 10 classes cost $75 in the pack
+* The additional 3 classes cost $10 each, so 3 * $10 = $30
+* The total cost is $75 + $30 = $105
+
+Answer: 105

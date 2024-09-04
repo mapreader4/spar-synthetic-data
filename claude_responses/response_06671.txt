@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 100 people who attended the party
+* 50% of the attendees are women
+* 35% of the attendees are men
+* The rest are children
+
+First, let's calculate the number of women:
+* 50% of 100 people = 0.5 * 100 = 50 women
+
+Next, let's calculate the number of men:
+* 35% of 100 people = 0.35 * 100 = 35 men
+
+Now, we can calculate the number of children by subtracting the number of women and men from the total number of attendees:
+* 100 - 50 - 35 = 15 children
+
+Answer: 15

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Tom needs 1000 bricks. He can buy half of the bricks for 50% off of $.50. This means he can get 500 bricks for $.50. To find the cost of 500 bricks, we can multiply the number of bricks by the cost per brick. Since there are 1000 bricks total, the cost per brick is $.50 / 500 = $0.001. So the cost of 500 bricks is $0.50 * 500 = $250.
+
+The other half of the bricks, 500 bricks, he needs to pay full price. Since the cost per brick is $0.001, the cost of 500 bricks is 500 * 0.001 = $5.00.
+
+To find the total cost, we add the cost of the first 500 bricks and the cost of the second 500 bricks: $250 + $5.00 = $255.00.
+
+Answer: 255

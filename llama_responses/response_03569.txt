@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The tank originally had 6000 liters of water.
+2. 2000 liters evaporated, so we subtract that from the total amount of water: 6000 - 2000 = 4000 liters.
+3. Then, 3500 liters were drained by Bob, so we subtract that from the remaining water: 4000 - 3500 = 500 liters.
+4. The tank is now empty for 30 minutes, and every 10 minutes 350 liters of rain are added to the tank. We need to calculate how many 10-minute intervals are in 30 minutes: 30 minutes / 10 = 3.
+5. So, we multiply the number of 10-minute intervals by the amount of rain added in each interval: 3 * 350 = 1050 liters.
+6. We add the total amount of rain to the remaining water in the tank: 500 + 1050 = 1550 liters.
+
+Answer: 1550

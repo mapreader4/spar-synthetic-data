@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many burgers Carly needs to cook in total.
+
+Half of the 30 guests want 2 burgers, which is 15 burgers. The other half want 1 burger each, which is 15 burgers. So, Carly needs to cook a total of 15 + 15 = 30 burgers.
+
+Step 2: Determine how many batches Carly needs to cook.
+
+Carly can cook 5 burgers at a time. To find out how many batches she needs, we divide the total number of burgers by 5:
+
+30 burgers ÷ 5 = 6 batches
+
+Step 3: Determine the total cooking time.
+
+Each burger takes 4 minutes to cook on each side, so Carly needs to cook each burger for a total of 8 minutes. Since she needs to cook 6 batches, the total cooking time is:
+
+6 batches × 8 minutes per batch = 48 minutes
+
+Answer: 48

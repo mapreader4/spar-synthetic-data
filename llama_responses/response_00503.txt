@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total number of pages in both books.
+
+Total pages in both books = 180 + 100 = 280
+
+Step 2: Calculate the number of days in two weeks.
+
+Number of days in two weeks = 14
+
+Step 3: Calculate the number of pages Yasna needs to read each day.
+
+Number of pages per day = Total pages in both books / Number of days = 280 / 14 = 20
+
+Answer: 20

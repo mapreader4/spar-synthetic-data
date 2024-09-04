@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jack can fit 12 cans in one row
+* He can fit 4 rows on one shelf
+* He can fit 10 shelves in one closet
+
+To calculate the total number of cans in one closet, we need to multiply the number of cans in one row, the number of rows on one shelf, and the number of shelves in one closet.
+
+* Cans in one row: 12
+* Rows on one shelf: 4
+* Shelves in one closet: 10
+
+Therefore, the total number of cans in one closet is:
+12 cans per row x 4 rows per shelf x 10 shelves per closet = 480 cans
+
+Answer: 480

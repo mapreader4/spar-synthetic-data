@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John cuts his grass to 2 inches
+* It grows 0.5 inches per month
+* When it reaches 4 inches, he cuts it back down to 2 inches
+* It costs $100 to get his grass cut
+
+To calculate how much he pays per year, we need to find out how many times per year he gets his grass cut.
+
+* The grass grows from 2 inches to 4 inches in 4 months (4 inches - 2 inches = 2 inches, 2 inches / 0.5 inches per month = 4 months)
+* So he gets his grass cut 12 times per year (12 months / 4 months = 3 times)
+
+Now we can calculate the total cost per year:
+* 12 times per year x $100 per cut = $1,200 per year
+
+Answer: $1,200

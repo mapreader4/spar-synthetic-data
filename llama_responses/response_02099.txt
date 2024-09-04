@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of books Stu has. Then, we know that Laura has twice as many books as Stu, so we can write an equation:
+
+Laura's books = 2 * Stu's books
+
+We are given that Elmo has 3 times as many books as Laura, so we can write another equation:
+
+Elmo's books = 3 * Laura's books
+
+We know that Elmo has 24 books. We can substitute the value of Elmo's books into the equation:
+
+24 = 3 * Laura's books
+
+Now we can solve for Laura's books:
+
+Laura's books = 24 / 3 = 8
+
+So, Laura has 8 books.
+
+Now, we can find Stu's books by using the fact that Laura has twice as many books as Stu:
+
+Stu's books = Laura's books / 2
+
+Stu's books = 8 / 2 = 4
+
+Answer: 4

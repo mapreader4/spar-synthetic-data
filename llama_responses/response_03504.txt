@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of bricks in the wall initially. Each course has 400 bricks, and they built 3 courses initially, so the total number of bricks is:
+
+3 courses * 400 bricks per course = 3 * 400 = 1200 bricks
+
+Then, they added 2 more courses, so the total number of courses is now 5.
+
+5 courses * 400 bricks per course = 5 * 400 = 2000 bricks
+
+Next, they took out half of the bricks in the last course to allow for easy checkup of the garden. This means they took out half of the 400 bricks in the 5th course, which is:
+
+400 / 2 = 200 bricks
+
+So, the total number of bricks in the wall is:
+
+2000 - 200 = 1800 bricks
+
+Answer: 1800

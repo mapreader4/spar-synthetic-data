@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Mona joined 9 groups, and one of the groups included 2 players she had grouped with before. This means that 2 of the 9 groups were groups she had already been in before the weekend.
+
+Another group included 1 player she had grouped with before. This means that 1 of the 9 groups was a new group she had joined before the weekend.
+
+So, the number of unique players Mona grouped with is 2 (from the group she had grouped with before) + 7 (from the 9 groups she joined - 2 groups she had grouped with before and 1 group she joined before the weekend) = 8.
+
+Answer: 8

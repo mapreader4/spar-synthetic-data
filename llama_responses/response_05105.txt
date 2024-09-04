@@ -1,0 +1,9 @@
+To find the total number of logs, we need to multiply the number of trees of each type by the number of logs each tree produces.
+
+Pine trees: 8 x 80 = 640
+Maple trees: 3 x 60 = 180
+Walnut trees: 4 x 100 = 400
+
+To find the total number of logs, we add the number of logs from each type of tree: 640 + 180 + 400 = 1220
+
+Answer: 1220

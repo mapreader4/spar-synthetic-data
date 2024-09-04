@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The total length of the newscast is 30 minutes
+* The national news takes up 12 minutes
+* The international news takes up 5 minutes
+* The sports news takes up 5 minutes
+* The weather forecast takes up 2 minutes
+* The remaining time is for advertisements
+
+To calculate the time for advertisements, we need to add up the time for the other segments and subtract that from the total time of the newscast:
+* Total time = 30 minutes
+* National news = 12 minutes
+* International news = 5 minutes
+* Sports news = 5 minutes
+* Weather forecast = 2 minutes
+* Total time for non-advertisement segments = 12 + 5 + 5 + 2 = 24 minutes
+* Time for advertisements = 30 minutes - 24 minutes = 6 minutes
+
+Answer: 6 minutes

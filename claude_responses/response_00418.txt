@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Ken had 50 pencils to start with
+* He gave 10 pencils to Manny
+* He gave 10 more pencils to Nilo than he gave to Manny
+   - So, he gave Nilo 10 + 10 = 20 pencils
+* Now, let's calculate how many pencils Ken kept:
+   - Ken gave away 10 pencils to Manny and 20 pencils to Nilo
+   - So, the total number of pencils he gave away is 10 + 20 = 30 pencils
+   - He started with 50 pencils, and he gave away 30 pencils
+   - Therefore, the number of pencils he kept is 50 - 30 = 20 pencils
+
+Answer: 20

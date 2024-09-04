@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Max can trade 3 coconuts for 1 crab.
+2) Max can trade 6 crabs for 1 goat.
+3) Max has 342 coconuts.
+4) To convert all 342 coconuts into goats, we need to first convert the coconuts into crabs, and then convert the crabs into goats.
+5) To convert 342 coconuts into crabs, we divide 342 by 3, since 3 coconuts = 1 crab.
+6) 342 / 3 = 114 crabs.
+7) To convert 114 crabs into goats, we divide 114 by 6, since 6 crabs = 1 goat.
+8) 114 / 6 = 19 goats.
+
+Answer: 19 goats.

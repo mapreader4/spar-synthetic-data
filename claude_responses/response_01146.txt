@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jane's mother agreed to pay her $0.50 for every flower bulb that Jane planted.
+* Jane planted 20 tulip bulbs.
+* Jane planted half the amount of iris bulbs as tulip bulbs, which is 20 / 2 = 10 iris bulbs.
+* Jane planted 30 daffodil bulbs.
+* Jane planted three times the amount of crocus bulbs as daffodil bulbs, which is 30 * 3 = 90 crocus bulbs.
+
+Now, let's calculate the total number of bulbs planted:
+* 20 tulip bulbs + 10 iris bulbs + 30 daffodil bulbs + 90 crocus bulbs = 150 bulbs
+
+Finally, we can calculate the total amount of money Jane earned:
+* 150 bulbs * $0.50 per bulb = $75
+
+Answer: 75

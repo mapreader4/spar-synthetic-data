@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The farmer has 64 bean seedlings and plants 8 seedlings in a row
+* To calculate the number of rows for the bean seedlings, we divide the total number of seedlings (64) by the number of seedlings per row (8)
+* 64 / 8 = 8 rows of bean seedlings
+* Since the farmer plants two rows per plant bed, the number of plant beds for the bean seedlings is 8 / 2 = 4 plant beds
+
+* The farmer has 84 pumpkin seeds and plants 7 seeds in a row
+* To calculate the number of rows for the pumpkin seeds, we divide the total number of seeds (84) by the number of seeds per row (7)
+* 84 / 7 = 12 rows of pumpkin seeds
+* Since the farmer plants two rows per plant bed, the number of plant beds for the pumpkin seeds is 12 / 2 = 6 plant beds
+
+* The farmer has 48 radishes and plants 6 radishes in a row
+* To calculate the number of rows for the radishes, we divide the total number of radishes (48) by the number of radishes per row (6)
+* 48 / 6 = 8 rows of radishes
+* Since the farmer plants two rows per plant bed, the number of plant beds for the radishes is 8 / 2 = 4 plant beds
+
+* To calculate the total number of plant beds, we add the plant beds for each type of plant:
+* 4 plant beds (beans) + 6 plant beds (pumpkins) + 4 plant beds (radishes) = 14 plant beds
+
+Answer: 14

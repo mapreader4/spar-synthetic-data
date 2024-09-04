@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Fred had 236 dollars to spend on 6 books
+* After buying the books, he had 14 dollars left
+* To find the average cost of each book, we need to:
+  1. Calculate the total amount Fred spent on the 6 books
+  2. Divide the total amount spent by the number of books (6)
+
+Step 1: Calculate the total amount Fred spent on the 6 books
+* Fred had 236 dollars to start with
+* He had 14 dollars left after buying the books
+* So, the total amount he spent on the 6 books is:
+  * 236 dollars - 14 dollars = 222 dollars
+
+Step 2: Divide the total amount spent by the number of books (6)
+* Total amount spent: 222 dollars
+* Number of books: 6
+* Average cost per book = 222 dollars / 6 = 37 dollars
+
+Answer: 37

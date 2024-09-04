@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The total number of questions on the exam is 50.
+* 80% of the questions are problem-solving questions.
+* To find the number of problem-solving questions, we take 80% of 50:
+* 80% of 50 = 0.8 * 50 = 40 problem-solving questions.
+* The remaining questions must be multiple-choice questions.
+* To find the number of multiple-choice questions, we subtract the number of problem-solving questions from the total number of questions:
+* 50 - 40 = 10 multiple-choice questions.
+
+Answer: 10

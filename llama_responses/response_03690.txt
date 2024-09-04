@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that Sandy's monthly phone bill expense is equal to ten times her age now. So, let's call Sandy's current age "x".
+
+We are also given that in two years, Sandy will be three times as old as Kim, who is currently 10 years old. This means that in two years, Sandy will be 30 years old. Since Sandy's current age is x, we can set up an equation:
+
+x + 2 = 30
+
+To solve for x, we subtract 2 from both sides:
+
+x = 30 - 2
+x = 28
+
+Now, we know that Sandy's monthly phone bill expense is equal to ten times her age, which is 28. So, her monthly phone bill expense is:
+
+Answer: 28

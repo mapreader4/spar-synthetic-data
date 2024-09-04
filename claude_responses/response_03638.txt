@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Einstein wants to raise $500 for the school outreach program.
+2) He is selling the following items:
+   - Box of pizza: $12 each
+   - Pack of potato fries: $0.30 each
+   - Can of soda: $2 each
+3) He sold:
+   - 15 boxes of pizza
+   - 40 packs of potato fries
+   - 25 cans of soda
+4) To calculate the total amount raised:
+   - Pizzas: 15 x $12 = $180
+   - Potato fries: 40 x $0.30 = $12
+   - Soda: 25 x $2 = $50
+5) Total amount raised = $180 + $12 + $50 = $242
+6) The amount needed to reach the $500 goal is:
+   - $500 - $242 = $258
+
+Answer: $258

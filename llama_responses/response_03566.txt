@@ -1,0 +1,11 @@
+Let's start by identifying the number of students who eat in the school cafeteria. We are given that this number is thrice the number of students who bring their lunch. Let's call this number x.
+
+We know that x = 10, since the question states that 10 students eat in the school cafeteria.
+
+The number of students who bring their lunch is 3x. So, we need to find the number of students who don't eat lunch, which is the total number of students minus the number of students who bring their lunch.
+
+The total number of students is 60. The number of students who bring their lunch is 3x, so the number of students who don't eat lunch is 60 - 3x.
+
+We know that x = 10, so 3x = 30. Therefore, the number of students who don't eat lunch is 60 - 30 = 30.
+
+Answer: 30

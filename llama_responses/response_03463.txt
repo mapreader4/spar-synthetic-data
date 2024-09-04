@@ -1,0 +1,15 @@
+Let's break down the problem step by step:
+
+1. John bought 20 cards for Christmas gifts.
+2. He also bought 15 cards for birthday gifts.
+3. The cost of each card is $2.
+
+To find the total cost of the cards, we need to multiply the number of cards by the cost of each card.
+
+20 cards for Christmas gifts x $2 = 20 x 2 = $40
+15 cards for birthday gifts x $2 = 15 x 2 = $30
+
+The total cost of the cards is the sum of the cost of the Christmas gifts and birthday gifts.
+$40 + $30 = $70
+
+Answer: 70

@@ -1,0 +1,3 @@
+Let's break this down step by step.
+
+Let's first calculate the total number of winning tickets. 20% of 200 tickets is 0.2 * 200 = 40. Of these, 80% are for 5 dollars, so 0.8 * 40 = 32 tickets. 1 ticket is the grand prize of 5,000 dollars, so we need to subtract 1 from the 32 tickets. 32 - 1 = 31 tickets are for 10 dollars each, so the total amount won from these tickets is 31 * 10 = 310. The grand prize is 5000, so the total amount won is 5000 + 310 = 5310. The total cost of the tickets is 2 * 200 = 400. So the profit is 5310 - 400 = 4930.

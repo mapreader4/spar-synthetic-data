@@ -1,0 +1,7 @@
+Let's break down the information given:
+
+James takes a water break every 20 minutes, and a sitting break every 120 minutes. This means that in 20 minutes, he takes a water break. In 120 minutes, he takes a sitting break. So, let's calculate the number of water breaks he takes in one hour.
+
+In one hour, there are 60 minutes. In 60 minutes, he takes 3 water breaks. In 60 minutes, he takes 1 sitting break. So, he takes 3 - 1 = 2 water breaks, so he takes 2 more water breaks than sitting breaks. 
+
+Answer: 2

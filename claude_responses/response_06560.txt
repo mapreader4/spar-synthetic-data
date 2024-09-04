@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The three friends ate a total of 8 pounds of fruit
+* 1 pound = 16 ounces
+* Mario had 8 ounces of oranges
+* Lydia ate 24 ounces of apples
+* Nicolai ate peaches
+
+To find how many pounds of peaches Nicolai ate, we need to first find the total amount of fruit eaten by Mario and Lydia, and then subtract that from the total of 8 pounds.
+
+Mario's 8 ounces of oranges = 8 ounces
+Lydia's 24 ounces of apples = 24 ounces
+Total fruit eaten by Mario and Lydia = 8 + 24 = 32 ounces
+
+Now we convert the total fruit eaten by Mario and Lydia from ounces to pounds:
+32 ounces / 16 ounces per pound = 2 pounds
+
+The total fruit eaten by all three friends was 8 pounds.
+So the amount of fruit eaten by Nicolai must be:
+8 pounds - 2 pounds = 6 pounds
+
+Answer: 6 pounds

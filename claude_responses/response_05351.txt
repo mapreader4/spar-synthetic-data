@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) There are 12 patrons who came in cars and 27 from a bus waiting in the overflow parking lot.
+2) The total number of patrons waiting in the overflow lot is 12 + 27 = 39.
+3) Ellen can fit 3 patrons in a golf cart.
+4) To calculate the number of golf carts needed, we need to divide the total number of patrons by the number of patrons per cart.
+5) 39 patrons / 3 patrons per cart = 13 golf carts.
+
+Answer: 13

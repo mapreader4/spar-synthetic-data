@@ -1,0 +1,30 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Anna can read 1 page in 1 minute.
+* Carole can read as fast as Anna but at half the speed of Brianna.
+
+From the first statement, we know that Anna can read 1 page in 1 minute. This means that the time it takes Anna to read 1 page is 1 minute.
+
+From the second statement, we know that Carole can read as fast as Anna, which means that Carole's reading speed is the same as Anna's. We are also told that Carole can read at half the speed of Brianna, which means that Carole's reading speed is half of Brianna's reading speed.
+
+Let's let x be the reading speed of Brianna. Then, we can set up an equation based on the information given:
+
+Anna's reading speed = 1 page per 1 minute, so Anna's reading speed is 1/1 = 1.
+
+Carole's reading speed = Anna's reading speed / 2, since Carole's reading speed is half of Brianna's reading speed. So, Carole's reading speed is x/2.
+
+Now, we can set up an equation:
+
+x/2 = Anna's reading speed
+
+We know that Anna's reading speed is 1, so we can substitute that in:
+
+x/2 = 1
+
+To solve for x, we can multiply both sides of the equation by 2 to get:
+
+x = 1*2 = 2
+
+So, it takes Brianna 2 minutes to read a 100-page book.

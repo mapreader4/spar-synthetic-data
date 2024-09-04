@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The Jacksonville Walmart normally gets 120 customer complaints per day.
+2) When they're short-staffed, the number of complaints increases by 1/3rd. This means the new number of complaints per day is 120 + (120 * 1/3) = 120 + 40 = 160 complaints per day.
+3) When the self-checkout is broken, the number of complaints increases by another 20%. This means the new number of complaints per day is 160 + (160 * 0.2) = 160 + 32 = 192 complaints per day.
+4) The store was short-staffed and the self-checkout was broken for 3 days.
+5) Therefore, the total number of complaints the store gets is 192 complaints per day * 3 days = 576 complaints.
+
+Answer: 576

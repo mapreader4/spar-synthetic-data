@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. John buys 2 packs of gum and 3 candy bars.  Each stick of gum cost half as much as the candy bar.  So, let's find the cost of the candy bar first.
+
+The candy bar costs $1.5 each, and John buys 3 of them.  So, the total cost of the candy bars is 3 x 1.5 = 4.5.
+
+Now, each stick of gum costs half as much as the candy bar, which is half of 1.5.  So, each stick of gum costs 0.75.
+
+John buys 2 packs of gum, which is 2 x 0.75 = 1.5.
+
+So, the total cost of the gum is 1.5, and the total cost of the candy bars is 4.5.  So, the total cost John paid in total is 1.5 + 4.5 = 5.5.
+
+Answer: 5.

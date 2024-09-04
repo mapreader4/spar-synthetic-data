@@ -1,0 +1,13 @@
+Let's first find the speed of each person.
+
+Let the speed of Colin be x, the speed of Brandon be x/6, the speed of Tony be x/3, and the speed of Bruce be x/2.
+
+We know that Bruce skips at 1 mile per hour, so the speed of Bruce is 1 mph.
+
+Since Tony can skip at twice the speed that Bruce can, the speed of Tony is 2 mph.
+
+And Brandon can skip at one-third the speed that Tony can, the speed of Brandon is 2/3 mph.
+
+We know that Colin can skip at six times the speed that Brandon can, so the speed of Colin is 6*2 = 12 mph.
+
+So, the answer is 12.

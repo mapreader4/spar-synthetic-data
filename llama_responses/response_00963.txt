@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of men and women. Since half the number of men are women, and there are 40 men, the number of women is also 40. So, the total number of men and women is 40 + 40 = 80.
+
+The problem states that the rest are children. Since there are 80 guests in total, and 80 - 40 = 40 are men and women, the number of children is 80 - 40 = 40.
+
+Now, the problem states that 10 children are added to the guest list. So, the new total number of children is 40 + 10 = 50.
+
+Answer: 50

@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Alice sold twice as many oranges as Emily did. This means that if Emily sold x oranges, then Alice sold 2x oranges.
+2) The total number of oranges sold is 180.
+3) So we can write the equation: x + 2x = 180
+4) Simplifying, we get: 3x = 180
+5) Solving for x, we get: x = 60
+6) Since Alice sold twice as many oranges as Emily, that means Alice sold 2 * 60 = 120 oranges.
+
+Answer: 120

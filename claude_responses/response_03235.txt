@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The book has 93 pages total
+* On Saturday, Jerry read 30 pages
+* On Sunday, Jerry read 20 pages
+* To calculate the remaining pages, we need to subtract the pages read from the total pages in the book
+
+First, let's calculate the total pages read:
+* Pages read on Saturday: 30
+* Pages read on Sunday: 20
+* Total pages read = 30 + 20 = 50 pages
+
+Now, we can subtract the total pages read from the total pages in the book to get the remaining pages:
+* Total pages in the book: 93
+* Total pages read: 50
+* Remaining pages = 93 - 50 = 43 pages
+
+Answer: 43

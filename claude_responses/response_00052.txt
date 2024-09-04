@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Arnel had 10 boxes of pencils with the same number of pencils in each box.
+2) He kept 10 pencils for himself.
+3) The remaining pencils were shared equally among his 5 friends.
+4) Each of his 5 friends received 8 pencils.
+5) To find the total number of pencils that were shared among the friends, we can multiply 8 (the number of pencils each friend received) by 5 (the number of friends).
+6) 8 x 5 = 40 pencils were shared among the friends.
+7) Since Arnel kept 10 pencils for himself, the total number of pencils that were shared is 40 + 10 = 50 pencils.
+8) Since the 50 pencils were equally distributed among the 10 boxes, each box must have contained 50 / 10 = 5 pencils.
+
+Answer: 5

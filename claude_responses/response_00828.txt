@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Tim gets 6 hours of sleep for 2 days in a row
+* So for those 2 days, he got a total of 6 hours x 2 days = 12 hours of sleep
+* To make up for it, he sleeps 10 hours for the next 2 days
+* So for those 2 days, he got a total of 10 hours x 2 days = 20 hours of sleep
+* To calculate the total amount of sleep Tim got, we add the 12 hours from the first 2 days and the 20 hours from the next 2 days:
+* 12 hours + 20 hours = 32 hours
+
+Answer: 32

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Stacy has 2 more than triple as many berries as Steve.
+   * Let's say Steve has x berries.
+   * Then Stacy has 3x + 2 berries.
+2) Steve has one half as many berries as Skylar.
+   * Skylar has 20 berries.
+   * So Steve has 1/2 * 20 = 10 berries.
+3) Now we can plug in the values we know:
+   * Steve has 10 berries.
+   * Stacy has 3 * 10 + 2 = 32 berries.
+
+Answer: 32

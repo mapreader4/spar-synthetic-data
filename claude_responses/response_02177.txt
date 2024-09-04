@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Toby can pull the unloaded sled at a speed of 20 miles per hour.
+2) Toby can pull the fully loaded sled at a speed of 10 miles per hour.
+3) The journey is in 4 parts:
+   a) Pulling the loaded sled for 180 miles
+   b) Pulling the unloaded sled for 120 miles
+   c) Pulling the loaded sled for 80 miles
+   d) Pulling the unloaded sled for 140 miles
+4) To calculate the time for each part:
+   a) Pulling the loaded sled for 180 miles at 10 miles per hour: 180 / 10 = 18 hours
+   b) Pulling the unloaded sled for 120 miles at 20 miles per hour: 120 / 20 = 6 hours
+   c) Pulling the loaded sled for 80 miles at 10 miles per hour: 80 / 10 = 8 hours
+   d) Pulling the unloaded sled for 140 miles at 20 miles per hour: 140 / 20 = 7 hours
+5) Adding up the times for each part:
+   18 hours + 6 hours + 8 hours + 7 hours = 39 hours
+
+Answer: 39 hours

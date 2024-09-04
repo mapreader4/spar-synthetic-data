@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 60,000 cranberries in the bog at the height of the season.
+* 40% of the 60,000 cranberries are harvested by humans.
+* To calculate 40% of 60,000:
+  * 40% = 0.40
+  * 0.40 * 60,000 = 24,000 cranberries harvested by humans.
+* In addition, 20,000 cranberries are eaten by elk.
+* To calculate the number of cranberries left, we take the total cranberries (60,000) and subtract the number harvested by humans (24,000) and the number eaten by elk (20,000).
+* 60,000 - 24,000 - 20,000 = 16,000 cranberries left.
+
+Answer: 16,000

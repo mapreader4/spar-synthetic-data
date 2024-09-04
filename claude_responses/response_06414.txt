@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Each frog needs to eat 30 flies per day to live.
+2) Each fish needs to eat 8 frogs per day to live.
+3) Each gharial needs to eat 15 fish a day to live.
+4) There are 9 gharials in the swamp.
+5) To find the total number of flies eaten every day, we need to work backwards from the gharials.
+6) Each gharial eats 15 fish per day, so the total number of fish eaten by the 9 gharials is 9 * 15 = 135 fish per day.
+7) Each fish eats 8 frogs per day, so the total number of frogs eaten by the 135 fish is 135 * 8 = 1,080 frogs per day.
+8) Each frog eats 30 flies per day, so the total number of flies eaten by the 1,080 frogs is 1,080 * 30 = 32,400 flies per day.
+
+Answer: 32,400

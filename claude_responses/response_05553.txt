@@ -1,0 +1,16 @@
+To solve this problem, we need to find the rate at which the spider catches flies and then use that rate to calculate the number of flies the spider would catch in 30 hours.
+
+Given information:
+- The spider can catch 9 flies in 5 hours.
+
+Step 1: Find the rate at which the spider catches flies.
+Rate of fly catching = Number of flies caught / Time taken
+Rate of fly catching = 9 flies / 5 hours
+Rate of fly catching = 1.8 flies per hour
+
+Step 2: Calculate the number of flies the spider would catch in 30 hours.
+Number of flies caught in 30 hours = Rate of fly catching × Time
+Number of flies caught in 30 hours = 1.8 flies per hour × 30 hours
+Number of flies caught in 30 hours = 54 flies
+
+Answer: 54 flies

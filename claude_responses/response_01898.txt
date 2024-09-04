@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Each guest will eat 5 hushpuppies
+* Walter is having 20 guests
+* So the total number of hushpuppies needed is:
+  * 20 guests x 5 hushpuppies per guest = 100 hushpuppies
+* Walter can cook 10 hushpuppies in 8 minutes
+* To calculate the time it will take to cook all 100 hushpuppies, we need to find how many batches of 10 hushpuppies need to be cooked
+* 100 hushpuppies / 10 hushpuppies per batch = 10 batches
+* Each batch takes 8 minutes to cook
+* So the total time to cook all 100 hushpuppies is:
+  * 10 batches x 8 minutes per batch = 80 minutes
+
+Answer: 80 minutes

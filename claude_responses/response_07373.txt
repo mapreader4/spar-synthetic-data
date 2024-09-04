@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Hank reads the newspaper 5 days a week for 30 minutes each day.
+   * 5 days x 30 minutes = 150 minutes per week
+
+2. Hank reads part of a novel 5 days a week for 1 hour each day.
+   * 5 days x 60 minutes = 300 minutes per week
+
+3. On Saturday and Sunday, Hank doubles his reading time.
+   * 2 days x (150 minutes + 300 minutes) = 900 minutes
+
+4. To calculate the total reading time per week, we add up the time spent reading the newspaper, the novel, and the doubled reading time on the weekends.
+   * 150 minutes + 300 minutes + 900 minutes = 1350 minutes
+
+Answer: 1350 minutes

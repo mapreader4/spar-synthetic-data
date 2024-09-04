@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Janet has 9 cards more than Brenda. So if we let Brenda's number of cards be x, then Janet's number of cards is x + 9.
+2) Mara has twice as many cards as Janet. So Mara's number of cards is 2(x + 9).
+3) We are told that Mara has 40 cards less than 150. So Mara's number of cards is 150 - 40 = 110.
+4) We can set up an equation to solve for x:
+   2(x + 9) = 110
+   x + 9 = 55
+   x = 46
+5) So Brenda has 46 cards, Janet has 46 + 9 = 55 cards, and Mara has 110 cards.
+6) The total number of cards they have is 46 + 55 + 110 = 211.
+
+Answer: 211

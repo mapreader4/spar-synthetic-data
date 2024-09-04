@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. Charley had 30 pencils initially.
+2. She lost 6 pencils. So, we subtract 6 from 30 to get 24 pencils.
+3. Then, she lost 1/3 of the remaining pencils. To find this out, we need to multiply 24 by 1/3, which is the same as multiplying 24 by 0.33. This gives us 8 pencils.
+4. So, we subtract 8 from 24 to get 16 pencils.
+
+Answer: 16

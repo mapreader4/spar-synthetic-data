@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the number of students with 5 notebooks. If half of the students have 5 notebooks, then that is 28 / 2 = 14 students with 5 notebooks. So, the number of notebooks of these students is 14 * 5 = 70.
+
+Now, let's find the number of students with 3 notebooks. The other half of the students have 3 notebooks, so that is 28 - 14 = 14 students with 3 notebooks. The number of notebooks of these students is 14 * 3 = 42.
+
+Now, let's find the total number of notebooks in the classroom. The total number of notebooks is 70 + 42 = 112.
+
+Answer: 112

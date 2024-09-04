@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. Hearty bought 3 packages of blue and 5 packages of red. So, we know there are 3 + 5 = 8 packages in total.
+2. Each package contains 40 beads, so we multiply the number of packages by the number of beads per package to get the total number of beads.
+3. 8 packages * 40 beads/package = 8 * 40 = 320 beads.
+
+Answer: 320

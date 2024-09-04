@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The craftsman made 16 jars.
+2) This is exactly twice the number of clay pots he made. So, if he made 16 jars, he must have made half that number of clay pots, which is 8 clay pots.
+3) Each jar has 5 marbles.
+4) Each clay pot has three times as many marbles as each jar, which means each clay pot has 15 marbles.
+5) To find the total number of marbles, we add the number of marbles in the jars and the number of marbles in the clay pots:
+   * Marbles in jars: 16 jars x 5 marbles per jar = 80 marbles
+   * Marbles in clay pots: 8 clay pots x 15 marbles per clay pot = 120 marbles
+6) The total number of marbles is 80 + 120 = 200 marbles.
+
+Answer: 200

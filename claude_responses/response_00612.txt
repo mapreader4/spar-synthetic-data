@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Ali has a total of 125 bottle caps.
+2) Out of the 125 caps, 50 are red.
+3) To find the number of green caps, we subtract the number of red caps from the total number of caps:
+   125 - 50 = 75 green caps.
+4) To find the percentage of green caps, we divide the number of green caps by the total number of caps and multiply by 100:
+   (75 / 125) * 100 = 60%
+
+Answer: 60

@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Janet is driving a speedboat at 30 miles per hour
+* Her sister is following in a sailboat at 12 miles per hour
+* The lake is 60 miles wide
+
+To find out how long Janet has to wait for her sister to catch up, we need to calculate the time it takes for each of them to cross the lake.
+
+For Janet in the speedboat:
+* Time = Distance / Speed
+* Time = 60 miles / 30 miles per hour
+* Time = 2 hours
+
+For her sister in the sailboat:
+* Time = Distance / Speed
+* Time = 60 miles / 12 miles per hour
+* Time = 5 hours
+
+Now, we can calculate the time Janet has to wait for her sister to catch up:
+* Time Janet waits = Time for sister - Time for Janet
+* Time Janet waits = 5 hours - 2 hours
+* Time Janet waits = 3 hours
+
+Answer: 3 hours

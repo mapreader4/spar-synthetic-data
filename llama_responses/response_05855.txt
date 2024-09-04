@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of gummy worms in the bag when Carlos bought it.
+
+Since Carlos ate half of the gummy worms every day, we can say that after the first day, he ate x / 2 gummy worms. The number of gummy worms left is x - (x / 2). Then, on the second day, he ate half of the remainder, which is (x - (x / 2)) / 2 = (x - x / 2) / 2. Then, on the third day, he ate half of the remainder, which is ((x - (x / 2)) / 2) / 2 = ((x - x / 2) / 2) / 2. And on the fourth day, he ate half of the remainder, which is (((x - (x / 2)) / 2) / 2) / 2 = (((x - x / 2) / 2) / 2) / 2.
+
+Now, on the fourth day, he has 4 gummy worms left. So, we can set up the equation:
+
+((x - x / 2) / 2) / 2) / 2 = 4.
+
+To solve for x, we can multiply both sides by 4:
+
+((x - x / 2) / 2) / 2) / 2) / 4 = x / 16.
+
+Now, we can multiply both sides by 16:
+
+x / 16 = 4.
+
+x = 64.
+
+Answer: 64

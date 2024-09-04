@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. John gets his pool cleaned every 3 days. So, he gets it cleaned 7 times in a month. 
+2. Each time it costs $150, and he gives a 10% tip. So, each time it costs $150 + 0.10 * 150 = $165. 
+3. He uses $200 of chemicals twice a month. So, we need to add that to the total cost. 
+4. The total cost for cleaning the pool is $165 * 7 + 200 = $1165.
+
+Answer: 1165

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Donna makes 20 sandwiches.
+2) She then cuts each sandwich in half, so now she has 40 halves.
+3) She then cuts each of those 40 halves in half again, so now she has 80 quarters.
+4) She then gives everyone 8 portions each.
+5) To find how many people she can feed, we need to divide the total number of portions (80) by the number of portions per person (8).
+6) 80 ÷ 8 = 10
+
+Answer: 10

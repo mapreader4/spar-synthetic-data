@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Ted tosses 10 sticks and 10 rocks into the river.
+2) Bill throws 6 more sticks into the river than Ted does.
+   * Ted tosses 10 sticks, so Bill tosses 10 + 6 = 16 sticks.
+3) Ted tosses twice as many rocks into the river as Bill.
+   * Ted tosses 10 rocks, so Bill tosses 10 / 2 = 5 rocks.
+4) Therefore, the total number of objects Bill tossed into the river is:
+   * 16 sticks + 5 rocks = 21 objects.
+
+Answer: 21

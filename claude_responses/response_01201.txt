@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Twice Betty's age is the cost of a pack of nuts. This means that if we know Betty's age, we can calculate the cost of a pack of nuts.
+2) Doug, Betty's friend, is 40 years old. The sum of their ages is 90.
+3) Let's call Betty's age x. Then Doug's age is 90 - x.
+4) We know that Doug is 40 years old, so 90 - x = 40. Solving for x, we get x = 50.
+5) Since twice Betty's age is the cost of a pack of nuts, and Betty's age is 50, the cost of a pack of nuts is 2 * 50 = 100.
+6) Betty wants to buy 20 packs of nuts, so the total amount she'll pay is 20 * 100 = 2000.
+
+Answer: 2000

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Joe's mother gave him $56 to go to the store
+* Joe bought 7 notebooks
+* Each notebook costs $4
+* So the total cost of the 7 notebooks is 7 * $4 = $28
+* Joe also bought 2 books
+* Each book costs $7
+* So the total cost of the 2 books is 2 * $7 = $14
+* The total amount Joe spent is $28 + $14 = $42
+* To find the amount of money Joe has left, we subtract the amount he spent ($42) from the amount his mother gave him ($56)
+* $56 - $42 = $14
+
+Answer: 14

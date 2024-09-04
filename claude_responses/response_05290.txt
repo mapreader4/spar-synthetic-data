@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Antonia received a total of 400 emails
+* 1/4 of the 400 emails were spam emails
+* To calculate the number of spam emails, we take 1/4 of 400:
+    * 1/4 * 400 = 100 spam emails
+* Now, we need to find the number of non-spam emails
+* The total number of non-spam emails is 400 - 100 = 300 emails
+* 2/5 of the 300 non-spam emails were promotional messages
+* To calculate the number of promotional messages, we take 2/5 of 300:
+    * 2/5 * 300 = 120 promotional messages
+* The remaining emails are the important emails
+* To calculate the number of important emails, we take the total non-spam emails (300) and subtract the promotional messages (120):
+    * 300 - 120 = 180 important emails
+
+Answer: 180

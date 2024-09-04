@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jacob is trying to eat less than 1800 calories a day
+* For breakfast, he ate 400 calories
+* For lunch, he ate 900 calories
+* For dinner, he ate 1100 calories
+* To find the total calories he ate, we add up the calories from each meal:
+* 400 + 900 + 1100 = 2400 calories
+* Now, to find how many more calories he ate than he planned, we subtract the target of 1800 calories from the total calories he ate:
+* 2400 - 1800 = 600 calories
+
+Answer: 600

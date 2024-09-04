@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start by letting t be the time it takes Tony to run a mile. Since Tony can run a mile twice as fast as Tina, that means that Tina's time to run a mile is 2t. And since Tom is one-third the speed of Tina, Tom's time to run a mile is 3t.
+
+We can write an equation to represent the time it takes for all three of them to run a mile: t + 2t + 3t = 6t.
+
+Since we know that the total time is 6t, we can solve for t by dividing both sides by 6:
+
+t + 2t + 3t = 6t
+
+t = 6
+
+So, Tony's time to run a mile is 6, Tina's time to run a mile is 12, and Tom's time to run a mile is 18.
+
+Answer: 6 + 12 + 18 = 36

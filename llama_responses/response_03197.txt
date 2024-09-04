@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Anthony has 16 pets initially.
+
+He loses 6 pets, so he has 16 - 6 = 10 pets left.
+
+Then, 1/5 of his pets die from old age, so he loses 10 x 1/5 = 2 pets.
+
+So, Anthony has 10 - 2 = 8 pets left.
+
+Answer: 8

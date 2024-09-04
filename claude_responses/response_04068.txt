@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Maryann can pick the lock on a cheap pair of handcuffs in 6 minutes
+* Maryann can pick the lock on an expensive pair of handcuffs in 8 minutes
+* Maryann needs to rescue three of her friends
+* Each friend has expensive handcuffs on their hands and cheap handcuffs on their ankles
+
+To free all three friends, Maryann will need to:
+1. Pick the lock on the expensive handcuffs on each friend's hands, which will take 3 * 8 = 24 minutes
+2. Pick the lock on the cheap handcuffs on each friend's ankles, which will take 3 * 6 = 18 minutes
+
+The total time it will take Maryann to free all three friends is:
+* 24 minutes (for the expensive handcuffs) + 18 minutes (for the cheap handcuffs) = 42 minutes
+
+Answer: 42

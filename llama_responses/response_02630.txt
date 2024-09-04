@@ -1,0 +1,31 @@
+Let's break down the problem step by step:
+
+1. Carter wants to stop every 2 hours. So, we need to find the number of 2-hour intervals in the total 14-hour trip.
+
+To do this, we can divide 14 hours by 2:
+
+14 ÷ 2 = 7
+
+So, Carter will make 7 stops for stretching his legs.
+
+2. He also wants to make 2 additional stops for food and 3 additional stops for gas. That's a total of 5 additional stops.
+
+So, we need to add the 7 stops for stretching his legs to the 5 additional stops:
+
+7 + 5 = 12
+
+3. Each pit stop takes 20 minutes. Since there are 12 stops in total, the total time spent on pit stops will be:
+
+12 x 20 minutes = 240 minutes
+
+4. To convert the total time spent on pit stops from minutes to hours, we divide by 60:
+
+240 ÷ 60 = 4
+
+So, the total time spent on pit stops is 4 hours.
+
+5. Finally, we add the total time spent on pit stops to the original 14-hour trip:
+
+14 + 4 = 18
+
+Answer: 18

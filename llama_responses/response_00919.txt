@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Initially, Aisha has 500 songs on her mp3 player.
+
+The week after, she adds another 500 songs, so she now has:
+500 (initial songs) + 500 (new songs) = 1000 songs
+
+Then, she adds twice the amount she already has, which is:
+1000 songs x 2 = 2000 songs
+
+So, after adding the new songs, she now has:
+1000 (initial songs) + 2000 (new songs) = 3000 songs
+
+However, she decides to remove 50 songs that she doesn't like. To find the number of songs she has left, we subtract the 50 songs from the total:
+3000 songs - 50 songs = 2950 songs
+
+Answer: 2950

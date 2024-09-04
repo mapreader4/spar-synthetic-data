@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's say John's current age is x.
+
+Since he will be 3 times as old as he was 11 years ago, that means that 9 years from now, he will be 3 times 11 years old.
+
+We know that 9 years from now is the same as his current age + 9.
+
+So, we can set up the equation: x + 9 = 3 * 11
+
+We can solve for x by subtracting 9 from both sides of the equation: x = 3 * 11 - 9
+
+x = 33 - 9
+x = 24
+
+So, John is currently 24 years old.

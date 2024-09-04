@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Antonov bought 60 candies
+* He gave a pack of candy to his sister
+* Each pack of candy has 20 pieces
+
+To find out how many packs Antonov still has, we need to:
+1. Calculate how many candies were in the pack he gave to his sister
+2. Subtract that number from the total number of candies he bought
+
+Step 1: Each pack has 20 pieces, so the pack he gave to his sister had 20 candies.
+
+Step 2: Antonov bought 60 candies, and he gave away 20 of them. 
+So the number of candies he still has is 60 - 20 = 40 candies.
+
+Now we need to calculate how many packs that is.
+Since each pack has 20 pieces, we divide the remaining 40 candies by 20 to get the number of packs.
+
+40 candies / 20 candies per pack = 2 packs
+
+Answer: 2

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+First, let's figure out how many sodas are consumed by the people who have 3 sodas each. There are 6 people with 3 sodas each, so that is 6 * 3 = 18 sodas. Then, 2 people have 4 sodas each, so that is 2 * 4 = 8 sodas. And 1 person has 5 sodas. So, the total sodas consumed are 18 + 8 + 5 = 31 sodas.
+
+There are 3 12-packs of soda, so the total number of sodas is 3 * 12 = 36. 31 sodas are consumed, so 36 - 31 = 5 sodas are left over.
+
+Answer: 5

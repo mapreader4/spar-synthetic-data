@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* On the first day, the plane hovered in Mountain time for 3 hours, Central time for 4 hours, and Eastern time for 2 hours.
+* On the second day, the plane hovered in each of the same time zones for 2 more hours.
+* To calculate the total time the plane hovered over each time zone, we need to add the time from the first day and the second day.
+
+For Mountain time:
+* First day: 3 hours
+* Second day: 2 hours
+* Total time in Mountain time: 3 + 2 = 5 hours
+
+For Central time:
+* First day: 4 hours
+* Second day: 2 hours
+* Total time in Central time: 4 + 2 = 6 hours
+
+For Eastern time:
+* First day: 2 hours
+* Second day: 2 hours
+* Total time in Eastern time: 2 + 2 = 4 hours
+
+Answer: The total time the plane hovered over Mountain time, Central time, and Eastern time in the two days is 5 + 6 + 4 = 15 hours.

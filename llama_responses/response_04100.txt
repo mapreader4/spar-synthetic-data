@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the distance between each checkpoint is x miles.
+
+The total distance of the marathon is 26 miles. The first checkpoint is one mile from the start line, and the last checkpoint is one mile from the finish line. So, the distance between the first checkpoint and the finish line is also one mile.
+
+The distance between the start-finish line is 26 miles, and the distance between each checkpoint is x. So, the total distance between the first checkpoint and the finish line is x + x + x + 1.
+
+We know that the distance between the first checkpoint and the finish line is one mile, so we can set up an equation to solve for x:
+
+x + x + x + 1 = 26
+
+To solve for x, we can subtract one from both sides of the equation:
+
+x + x + x = 25
+
+We can subtract 1 from both sides of the equation to get:
+
+x = 13
+
+So, the distance between each checkpoint is 13 miles.

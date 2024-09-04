@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information: 
+- 20 cans were collected on the first day.
+- The number of cans increased by 5 each day.
+- They collected cans for 5 days.
+
+Let's represent the number of cans collected each day as x. We know that the number of cans collected on the first day is 20. So, we can write an equation to represent the total number of cans collected:
+
+20 + 5x = cans
+
+We know that the cans collected for 5 days, so we can set up an equation for the total number of cans collected:
+
+20 + 5x = cans
+20 + 5 + 5x = cans
+20 + 5x + 5 = cans
+25x = cans
+
+We want to know how many cans their goal was per week. We know that they collected cans for 5 days. So, we can divide the total number of cans collected by 5 to find the cans per day:
+
+25x = cans / 5 = cans
+
+Now, we can solve for x:
+
+x = cans / 5
+
+x = cans / 5
+
+x = 5
+
+Answer: 5

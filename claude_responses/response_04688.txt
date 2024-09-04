@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+* Emily bought a shirt and a coat for a total of $600
+* The shirt is one-third the price of the coat
+* Let's call the price of the coat 'x'
+* Then the price of the shirt is 'x/3'
+* The total cost of the shirt and coat is $600
+* So we can write the equation: x + x/3 = 600
+* Solving for x, we get:
+* 4x/3 = 600
+* x = 450
+* Therefore, the price of the coat is $450
+* And the price of the shirt is $450/3 = $150
+
+Answer: 150

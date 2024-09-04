@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Uncle Ben has 440 chickens on his farm
+* 39 of them are roosters
+* The remaining 440 - 39 = 401 chickens are hens
+* 15 of the hens do not lay eggs
+* The remaining 401 - 15 = 386 hens do lay eggs
+* Each egg-laying hen lays 3 eggs
+* Therefore, the total number of eggs laid by the 386 egg-laying hens is 386 * 3 = 1,158 eggs
+
+Answer: 1,158

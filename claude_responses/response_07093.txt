@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Carl is having a party with 15 guests
+* He wants to make sure everyone, including himself, has at least 2 glasses of punch
+* Each glass holds 12 ounces of punch
+
+To calculate the total number of ounces of punch needed, we need to:
+1. Calculate the total number of people attending the party, including Carl
+2. Multiply the total number of people by the minimum number of glasses per person (2)
+3. Multiply the total number of glasses by the ounces per glass (12)
+
+Step 1: Total number of people attending the party
+* 15 guests + 1 (Carl) = 16 people
+
+Step 2: Total number of glasses needed
+* 16 people x 2 glasses per person = 32 glasses
+
+Step 3: Total ounces of punch needed
+* 32 glasses x 12 ounces per glass = 384 ounces
+
+Answer: 384 ounces

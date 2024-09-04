@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+Pedro has 200 squares. Jesus has 60 squares. Linden has 75 squares. To find the total number of squares Jesus and Linden have, we add them together: 60 + 75 = 135. To find the difference between Pedro's squares and the number of squares Jesus and Linden have, we subtract 135 from 200. 200 - 135 = 65.
+
+Answer: 65

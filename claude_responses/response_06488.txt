@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The charity organization's goal is to distribute 400 boxes of food to a community
+* Each box contains $80 worth of food and $165 worth of additional supplies
+* So the total cost per box is $80 + $165 = $245
+* To calculate the total amount spent on the 400 boxes, we multiply the cost per box by the number of boxes:
+    * Total cost = $245 x 400 = $98,000
+* Then, an anonymous donor gives the organization 4 times the amount of money they had already spent
+* This means the organization now has 4 x $98,000 = $392,000 to spend on additional boxes
+* To calculate the total number of boxes they can pack with the additional funds, we divide the total funds by the cost per box:
+    * Additional boxes = $392,000 / $245 = 1,600 boxes
+* Therefore, the total number of boxes they pack is the original 400 boxes plus the additional 1,600 boxes, for a total of:
+    * 400 + 1,600 = 2,000 boxes
+
+Answer: 2,000

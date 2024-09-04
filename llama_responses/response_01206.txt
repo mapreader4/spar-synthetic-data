@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+1. We know Spencer jumps 4 times per minute.
+2. He jumps for 10 minutes each session.
+3. He does 2 sessions each day.
+4. We want to find out how many jumps he will do in 5 days.
+
+To find the total number of jumps, we can multiply the number of jumps per minute by the number of minutes per session, and then multiply that by the number of sessions per day.
+
+So, we have:
+
+* Jumps per minute = 4
+* Minutes per session = 10
+* Sessions per day = 2
+
+So, we can multiply these values together to get the total number of jumps in one day:
+4 * 10 * 2 = 80
+
+Since there are 5 days in the given time frame, we need to multiply this by 5:
+80 * 5 = 400
+
+So, Spencer will jump a total of 400 times in 5 days.

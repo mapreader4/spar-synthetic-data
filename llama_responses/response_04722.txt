@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, Jane sews 2 dresses a day for 7 days, which means she sews a total of 2 * 7 = 14 dresses.
+
+Then, she sews 3 dresses a day for the next 2 days, which means she sews a total of 3 * 2 = 6 dresses.
+
+In total, Jane sews 14 + 6 = 20 dresses. She adds 2 ribbons to each dress, so she adds 2 * 20 = 40 ribbons.
+
+Answer: 40

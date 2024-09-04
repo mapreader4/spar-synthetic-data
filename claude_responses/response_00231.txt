@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The laboratory has 22 beakers of liquid in the fume hood.
+2) 8 of the beakers have copper ions in them.
+3) Adding three drops of a solution will turn the liquid in a beaker blue if there are copper ions present.
+4) The beakers are tested one by one for copper ions, and 45 drops are used before all 8 beakers with copper ions are found.
+5) To find the number of beakers without copper ions that were tested, we need to subtract the number of beakers with copper ions from the total number of beakers tested.
+6) The number of beakers with copper ions is 8.
+7) The total number of drops used is 45.
+8) Since each beaker with copper ions requires 3 drops, the number of beakers with copper ions tested is 45 / 3 = 15.
+9) Therefore, the number of beakers without copper ions that were tested is 15 - 8 = 7.
+
+Answer: 7

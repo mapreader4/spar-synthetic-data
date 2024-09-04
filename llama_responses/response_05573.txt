@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's say that she bakes x muffins in total. We know that on Monday, she brings 1 muffin to school. So, we can represent the number of muffins she brings each day as 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = x - 7, because there are 7 muffins left on Saturday.
+
+So, we can set up an equation: 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = x - 7. We can simplify the equation by combining the 1's on the right side: 5x = 7 + 2.
+
+Now, to solve for x, we can subtract 2 from both sides of the equation: 5x = 7 + 2. So, 5x = 9.
+
+So, the answer is: Answer: 9

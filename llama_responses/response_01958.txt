@@ -1,0 +1,13 @@
+To solve this problem, we can start by identifying the given information. We know that Prejean's speed is three-quarters that of Rickey's speed. This means that if Prejean took some amount of time to run the race, Rickey will take three-quarters of that time.
+
+Let's say Prejean took x minutes to run the race. Then, Rickey will take 3x minutes to run the race. The total time it took for both of them to run the race is 70 minutes.
+
+We know that the total time for both of them is 70 minutes, so we can set up an equation:
+
+x + 3x = 70
+
+We can solve this equation by dividing both sides by x, to get:
+
+x = 35
+
+So, Rickey took 35 minutes to finish the race.

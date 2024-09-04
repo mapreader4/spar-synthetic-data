@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total amount of money Leah had before her dog got ahold of her wallet.
+
+Leah earned $28, and she spent a seventh of it on a milkshake, so she had:
+
+$28 - (1/7) × $28 = $4 left after the milkshake
+
+She put half of the remaining money in her savings account, so she put:
+
+$12 in her savings account
+
+Leah had $4 left over, which is the amount remaining after the milkshake and savings account. Then, her dog got ahold of her wallet and shredded all the money inside, leaving:
+
+$4 - $1 = $3
+
+So, Leah lost $1.

@@ -1,0 +1,24 @@
+Okay, let's solve this step-by-step:
+
+1. Calculate the screen area of Bill's TV:
+   * Screen area = length x width
+   * Screen area = 48 inches x 100 inches = 4,800 square inches
+
+2. Calculate the screen area of Bob's TV:
+   * Screen area = length x width
+   * Screen area = 70 inches x 60 inches = 4,200 square inches
+
+3. Calculate the weight of each TV in ounces:
+   * Weight = screen area x 4 ounces per square inch
+   * Bill's TV weight = 4,800 square inches x 4 ounces/square inch = 19,200 ounces
+   * Bob's TV weight = 4,200 square inches x 4 ounces/square inch = 16,800 ounces
+
+4. Calculate the difference in weight between the two TVs in ounces:
+   * Difference in weight = Bob's TV weight - Bill's TV weight
+   * Difference in weight = 16,800 ounces - 19,200 ounces = -2,400 ounces
+
+5. Convert the difference in weight from ounces to pounds:
+   * 1 pound = 16 ounces
+   * Difference in weight in pounds = -2,400 ounces / 16 ounces/pound = -150 pounds
+
+Answer: -150 pounds

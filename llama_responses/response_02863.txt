@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the total number of homes, which is 20. Each home needs 10 panels, so the total number of panels needed is 20 * 10 = 200.
+
+The supplier brought 50 panels, which is less than the required amount of 200. So, the number of homes that will have their panels installed is the number of panels the supplier brought, which is 50.
+
+To find the number of homes that will have their panels installed, we can divide the number of panels by the number of panels each home needs, which is 10.
+
+50 ÷ 10 = 5
+
+Answer: 5

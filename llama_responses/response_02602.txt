@@ -1,0 +1,5 @@
+Let's break this down step by step:
+
+Let's first find the total number of calories in the burger and carrot sticks. The burger has 400 calories and each carrot stick has 20 calories. So, the total calories from the burger and carrot sticks are 400 + 5 * 20 = 500. The total calories from the cookies is 50 * x. We know that the total calories for each kid is 750, so we want to find the number of cookies that will give 750 - 500 = 250 calories. Since each cookie has 50 calories, we can divide 250 by 50 to find the number of cookies: 250 / 50 = 5. 
+
+Answer: 5

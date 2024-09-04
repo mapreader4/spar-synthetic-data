@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+* Alyssa, Keely, and Kendall ordered a total of 100 chicken nuggets
+* Keely and Kendall each ate twice as many as Alyssa
+* Let's represent the number of chicken nuggets Alyssa ate as x
+* Since Keely and Kendall each ate twice as many as Alyssa, they each ate 2x chicken nuggets
+* The total number of chicken nuggets eaten is the sum of what Alyssa, Keely, and Kendall ate
+* So the total is x + 2x + 2x = 5x
+* We know the total number of chicken nuggets ordered was 100
+* Therefore, 5x = 100
+* Solving for x, we get x = 20
+* Therefore, Alyssa ate 20 chicken nuggets.
+
+Answer: 20

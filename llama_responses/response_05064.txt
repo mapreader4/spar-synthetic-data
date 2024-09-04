@@ -1,0 +1,43 @@
+Let's break this down step by step.
+
+Step 1: Find the area of the courtyard.
+
+The courtyard measures 10 feet by 25 feet, so its area is:
+
+Area = length x width = 10 x 25 = 250 square feet
+
+Step 2: Determine how many tiles are needed.
+
+Since Jackson needs 4 tiles per square foot, and the area is 250 square feet, he needs:
+
+250 x 4 = 1000 tiles
+
+Step 3: Calculate the number of green marble tiles.
+
+40% of the tiles are green marble, so 40% of 1000 tiles are green marble. To find 40% of 1000, we can multiply 1000 by 0.4:
+
+1000 x 0.4 = 400 green marble tiles
+
+Step 4: Calculate the number of red tiles.
+
+The remaining tiles are red, and there are 1000 - 400 = 600 red tiles.
+
+Step 5: Calculate the cost of the green marble tiles.
+
+The green marble tiles cost $3/tile, and there are 400 of them. The cost is:
+
+400 x 3 = 1200
+
+Step 6: Calculate the cost of the red tiles.
+
+The red tiles cost $1.50/tile, and there are 600 of them. The cost is:
+
+600 x 1.50 = 900
+
+Step 7: Add the cost of the green and red tiles.
+
+The total cost is the sum of the cost of the green and red tiles:
+
+1200 + 900 = 2100
+
+Answer: 2100

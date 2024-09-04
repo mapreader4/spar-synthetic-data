@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Paul runs 1 mile in 12 minutes. So, we can find the rate at which he runs:
+
+1 mile / 12 minutes = 5 miles per hour
+
+Paul watches two movies, each of which is 1.5 hours long. So, the total time spent watching movies is:
+
+2 x 1.5 hours = 3 hours
+
+Paul runs for 3 hours. Since there are 60 minutes in an hour, we can convert this to minutes:
+
+3 hours * 60 minutes / 1 hour = 180 minutes
+
+Paul runs for 180 minutes. Since he runs 5 miles in 12 minutes, we can find the total distance he runs:
+
+180 minutes / 12 minutes = 15
+
+So, Paul runs 15 times the distance he runs in 12 minutes. But we know that he runs 1 mile in 12 minutes. So, the total distance he runs is:
+
+15 * 1 mile = 15 miles
+
+Answer: 15

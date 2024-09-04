@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Mike trains every day for a tournament.
+2. On the first day, he trains for a maximum of 2 hours.
+3. After a week of training (7 days), he increases the maximum time to 3 hours.
+4. To calculate the total hours trained in the first two weeks:
+   - First week: 7 days x 2 hours = 14 hours
+   - Second week: 7 days x 3 hours = 21 hours
+5. Total hours trained in the first two weeks = 14 hours + 21 hours = 35 hours
+
+Answer: 35

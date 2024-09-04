@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On the first day, Nala found 5 seashells.
+* On the second day, Nala found 7 seashells.
+* On the third day, Nala found twice the number of seashells she found on the first two days.
+* The number of seashells she found on the first two days is 5 + 7 = 12.
+* Twice the number of seashells she found on the first two days is 2 * 12 = 24.
+* So on the third day, Nala found 24 seashells.
+* In total, Nala found 5 + 7 + 24 = 36 seashells.
+
+Answer: 36

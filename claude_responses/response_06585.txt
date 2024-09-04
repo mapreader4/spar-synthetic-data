@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The bus has a carrying capacity of 80 people.
+2) At the first pickup point, the number of people who entered the bus was 3/5 of its carrying capacity.
+3) To calculate 3/5 of 80, we multiply 80 by 3/5:
+   80 * 3/5 = 48 people
+4) So, at the first pickup point, 48 people entered the bus.
+5) At the next pickup point, there were 50 people waiting to get on the bus.
+6) Since the bus was already at 3/5 of its capacity (48 people), it could only hold 80 - 48 = 32 more people.
+7) Therefore, 50 - 32 = 18 people could not take the bus because it was full.
+
+Answer: 18

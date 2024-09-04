@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given. We know that Fabian walks for 3 hours, and he covers 5 kilometers per hour. To find out how many kilometers he covers in total, we can multiply 3 hours by 5 kilometers per hour. So, Fabian covers 3 * 5 = 15 kilometers.
+
+The problem asks how many more hours he needs to walk to reach a total of 30 kilometers. We can subtract the distance he has already covered from the total distance he wants to cover. So, we have 30 - 15 = 15 kilometers left.
+
+Now, we need to find how many hours he needs to walk to cover the remaining distance. We know that Fabian covers 5 kilometers per hour, so we can divide the remaining distance by the speed he covers per hour. 15 kilometers divided by 5 is 3 hours. Therefore, Fabian needs 3 more hours to walk to reach a total of 30 kilometers.

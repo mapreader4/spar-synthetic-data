@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The Jensen family drove 210 miles on highways
+* Their car gets 35 miles per gallon on the highways
+* They drove 54 miles on city streets
+* Their car gets 18 miles per gallon on the city streets
+
+To calculate the total gallons of gas used, we need to find the amount of gas used on the highways and the amount of gas used on the city streets, then add them together.
+
+For the highway portion:
+* 210 miles / 35 miles per gallon = 6 gallons of gas used on the highways
+
+For the city streets portion:
+* 54 miles / 18 miles per gallon = 3 gallons of gas used on the city streets
+
+Total gallons of gas used:
+* 6 gallons + 3 gallons = 9 gallons
+
+Answer: 9 gallons

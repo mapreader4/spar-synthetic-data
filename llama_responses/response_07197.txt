@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of hawksbill turtles taken: 2 times the number of green turtles.
+
+The number of green turtles is given as 800. To find the number of hawksbill turtles taken, we multiply 2 by 800.
+
+2 x 800 = 1600
+
+So, the number of hawksbill turtles taken into the conservation center is 1600.
+
+Answer: 1600

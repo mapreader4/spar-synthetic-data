@@ -1,0 +1,5 @@
+To solve this problem, we need to find out how much a full tank of diesel fuel costs. We know that a full tank of diesel fuel is 64 liters. We also know that a liter of diesel fuel is worth €18. So, to find the cost of a full tank of diesel fuel, we can multiply the number of liters by the cost per liter:
+
+€18 (cost per liter) * 64 (number of liters) = €1152
+
+So, a full tank of diesel fuel costs €1152.

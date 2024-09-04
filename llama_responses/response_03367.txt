@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of adult tickets. The theatre is full and contains 188 children. Since the cost of an adult ticket is $6, the cost for the 188 children would be 188 * 6 = 1128. But we know there are 250 seats in total, so the number of adult tickets is 250 - 188 = 62. So, the cost for the adult tickets would be 62 * 6 = 372.
+
+Now, we need to add the cost for the adult tickets to the cost for the children. So, the total ticket revenue would be 1128 + 372 = 1500.
+
+Answer: 1500

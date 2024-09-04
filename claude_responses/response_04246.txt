@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mabel planted 4 tomato plants
+* One plant bore 8 tomatoes
+* Another plant bore 4 more tomatoes than the first, so it bore 8 + 4 = 12 tomatoes
+* The two remaining plants each bore three times the number of tomatoes as the first two plants combined
+* The first two plants bore 8 + 12 = 20 tomatoes
+* Each of the remaining two plants bore 3 * 20 = 60 tomatoes
+* So the total number of tomatoes Mabel has is:
+    - 8 + 12 + 60 + 60 = 140 tomatoes
+
+Answer: 140

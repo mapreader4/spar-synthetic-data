@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. In October, there were 100 visitors.
+2. The number of visitors in November increased by 15%. So, the number of visitors in November is 100 + (15% of 100) = 100 + 15 = 115.
+3. In December, there were 15 more visitors than in November. So, the number of visitors in December is 115 + 15 = 130.
+4. To find the total number of visitors for these three months, we add the number of visitors in October, November, and December: 100 + 115 + 130 = 345.
+
+Answer: 345

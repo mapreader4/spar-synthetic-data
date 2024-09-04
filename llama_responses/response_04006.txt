@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say the cost of the mouse is $16. We are told that the cost of the keyboard is three times greater than the cost of the mouse. 
+
+Let's write an equation to represent this information: 
+
+Let k be the cost of the keyboard. 
+
+k = 3 * 16
+
+We know that k = 48.
+
+So, Fabian spent 16 + 32 = 48 dollars on his new accessories.
+
+Answer: 48

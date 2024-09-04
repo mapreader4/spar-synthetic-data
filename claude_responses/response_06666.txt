@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The course lasts for 24 weeks
+* Each week, there are:
+    - 2 three-hour classes
+    - 1 four-hour class
+    - 4 hours of small group homework assignments
+* To calculate the total hours spent on the course:
+    - 2 three-hour classes per week = 2 x 3 = 6 hours per week
+    - 1 four-hour class per week = 4 hours per week
+    - 4 hours of small group homework assignments per week = 4 hours per week
+    - Total hours per week = 6 + 4 + 4 = 14 hours per week
+    - Total hours for the 24-week course = 14 hours per week x 24 weeks = 336 hours
+
+Answer: 336

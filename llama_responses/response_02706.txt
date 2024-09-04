@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's start by assuming that the leaf starts at some point on the sidewalk.
+
+For the first gust of wind, the leaf moves 5 feet forward. So the leaf's position is 5 feet away from the starting point.
+
+For the second gust of wind, the leaf is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+For the third gust of wind, the leaf is blown forward 5 feet again, so its position is now 2 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 0 feet away from the starting point.
+
+For the fourth gust of wind, the leaf is blown forward 5 feet again, so its position is now -3 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 1 foot away from the starting point.
+
+For the fifth gust of gust, the leaf is blown forward 5 feet, so its position is now -2 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+For the sixth gust of wind, the leaf is blown forward 5 feet, so its position is now -1 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+For the seventh gust of gust, the leaf is blown forward 5 feet, so its position is now 0 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 1 foot away from the starting point.
+
+For the eighth gust of wind, the leaf is blown forward 5 feet, so its position is now 1 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+For the ninth gust of gust, the leaf is blown forward 5 feet, so its position is now 0 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 1 foot away from the starting point.
+
+For the tenth gust of wind, the leaf is blown forward 5 feet, so its position is now 1 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+For the eleventh gust of gust, the leaf is blown forward 5 feet, so its position is now 1 feet away from the starting point. Then, it is blown back 2 feet, so its position is now 3 feet away from the starting point.
+
+In total, the leaf has traveled a total of 5 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 1 = 25 feet.
+
+Answer: 25

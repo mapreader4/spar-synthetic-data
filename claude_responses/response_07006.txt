@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There are 20 students in Dikembe's class.
+2) Each student needs 1.5 yards of floss.
+3) To calculate the total amount of floss needed for the class, we multiply the number of students (20) by the amount of floss each student needs (1.5 yards):
+20 students x 1.5 yards = 30 yards of floss needed.
+4) Each packet of floss contains 35 yards.
+5) To calculate the minimum number of packets Dikembe needs to buy, we divide the total amount of floss needed (30 yards) by the amount of floss in each packet (35 yards):
+30 yards / 35 yards per packet = 0.857 packets
+6) Since we can't buy a fraction of a packet, Dikembe needs to buy 1 packet.
+7) Each packet contains 35 yards of floss.
+8) The amount of floss left over is the total amount of floss in the packet (35 yards) minus the amount of floss needed (30 yards):
+35 yards - 30 yards = 5 yards of floss left over.
+
+Answer: 5 yards

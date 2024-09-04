@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+We know that John has 3 spools of wire, each 20 feet long. So, the total length of the wire is 3 x 20 = 60 feet.
+
+We also know that it takes 4 feet to make a necklace. To find out how many necklaces John can make, we can divide the total length of the wire by the length needed for each necklace.
+
+60 feet / 4 feet per necklace = 15 necklaces.
+
+Answer: 15

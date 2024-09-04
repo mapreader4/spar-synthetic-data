@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of animals in the Zoo. The number of giraffes is 5. The number of penguins is twice that of the number of giraffes, so that is 10. The number of penguins and giraffes combined is 5 + 10 = 15. Penguins make up 20% of all the animals in the Zoo, so the total number of animals in the Zoo is 15 / 0.2 = 75. 
+
+Now, we know that penguins make up 4% of all the animals in the Zoo. So, to find the number of elephants, we can set up an equation. Let's say the number of elephants is x. Then, we can write the equation: 4% of 75 = x. We can multiply both sides by 0.04 to get x = 3. 
+
+So, there are 3 elephants in the Zoo.

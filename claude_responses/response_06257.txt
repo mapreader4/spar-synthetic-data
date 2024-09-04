@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Droid uses 3 bags of coffee beans every morning
+* In the afternoon, he uses triple the morning number, which is 3 x 3 = 9 bags
+* In the evening, he uses twice the morning number, which is 3 x 2 = 6 bags
+* So, the total number of bags used in a day is:
+    - Morning: 3 bags
+    - Afternoon: 9 bags
+    - Evening: 6 bags
+    - Total per day: 3 + 9 + 6 = 18 bags
+* There are 7 days in a week
+* So, the total number of bags used in a week is: 18 bags per day x 7 days = 126 bags
+
+Answer: 126

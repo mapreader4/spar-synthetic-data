@@ -1,0 +1,5 @@
+Let's start by finding the number of sticks Simon needs. Simon's raft needs 36 sticks. Gerry's raft needs two-thirds of that, which is 2/3 * 36 = 24 sticks. Micky's raft needs 9 more than the sum of Simon's and Gerry's sticks, so it needs 36 + 9 = 45 sticks.
+
+To find the total number of sticks the three boys need, we add the number of sticks needed for each of their rafts: 36 + 24 + 45 = 105.
+
+Answer: 105

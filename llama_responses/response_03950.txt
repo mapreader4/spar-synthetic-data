@@ -1,0 +1,24 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given:
+
+* The rival team has won twice as many matches as the home team will be playing.
+* The home team has won 3 matches.
+* Each team drew 4 matches.
+* The home team did not lose any matches, so they won all the matches they played.
+
+Let's represent the number of matches the home team played as x. Since the rival team won twice as many matches as the home team, the number of matches the rival team played is 2x.
+
+The home team won 3 matches, and the rival team won 2x matches. So, the total number of matches played by the rival team is 2x + 3.
+
+We can simplify the expression 2x + 3 to get the total number of matches played by the rival team. To do this, we can combine the terms by adding 2 and 3:
+
+2x + 3 = 2x + 2 + 1 = 2(x + 1)
+
+Since x is the number of matches the home team played, we can substitute x for (x + 1):
+
+2(x + 1) = 3
+
+So, the rival team played 5 matches.
+
+Answer: 5

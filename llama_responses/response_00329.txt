@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by finding the total number of doughnuts they have. They have 2 dozen doughnuts, which is equal to 2 * 12 = 24 doughnuts. They have 3 dozen doughnuts, which is equal to 3 * 12 = 36 doughnuts. So, in total, they have 24 + 36 = 60 doughnuts.
+
+Now, they want to share these 60 doughnuts with their 8 friends. To find out how many doughnuts each will get, we need to divide the total number of doughnuts by the number of friends. 60 / 8 = 7.5.
+
+So, each of their friends will receive 7.5 doughnuts.

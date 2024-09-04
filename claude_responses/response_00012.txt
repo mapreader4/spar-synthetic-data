@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Randy has 60 mango trees on his farm.
+2) He has 5 less than half as many coconut trees as mango trees.
+3) To find the number of coconut trees, we first need to find half the number of mango trees:
+   * Half of 60 mango trees = 60 / 2 = 30 coconut trees
+4) Now we subtract 5 from the 30 coconut trees to get the actual number of coconut trees:
+   * 30 coconut trees - 5 = 25 coconut trees
+5) To find the total number of trees on the farm, we add the mango trees and coconut trees:
+   * 60 mango trees + 25 coconut trees = 85 trees
+
+Answer: 85

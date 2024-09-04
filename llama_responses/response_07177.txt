@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. The geckos eat 6 insects each, so the total number of insects eaten by the geckos is 5 * 6 = 30 insects.
+2. The lizards eat twice as much as the geckos, so the lizards eat 2 * 30 = 60 insects.
+3. The total number of insects eaten is the sum of the insects eaten by the geckos and the lizards, which is 30 + 60 = 90 insects.
+
+Answer: 90

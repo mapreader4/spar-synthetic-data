@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Georgia coughs 5 times per minute
+* Robert coughs twice as much as Georgia, so he coughs 10 times per minute (2 x 5)
+* We want to know the total number of coughs after 20 minutes
+
+To calculate this, we need to find the total number of coughs for both Georgia and Robert over the 20 minute period.
+
+For Georgia:
+* Georgia coughs 5 times per minute
+* Over 20 minutes, that's 5 coughs per minute x 20 minutes = 100 coughs
+
+For Robert:
+* Robert coughs 10 times per minute
+* Over 20 minutes, that's 10 coughs per minute x 20 minutes = 200 coughs
+
+Now we add the total coughs for both Georgia and Robert:
+* 100 coughs (Georgia) + 200 coughs (Robert) = 300 coughs
+
+Answer: 300

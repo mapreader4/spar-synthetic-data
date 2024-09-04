@@ -1,0 +1,15 @@
+Let's start by using the information given in the problem. We know that the ratio of white stones to black stones is the same as the ratio of grey stones to green stones. Let's say the ratio is x.
+
+We know that the number of white stones is 40 + x. We also know that the number of black stones is x. We also know that the number of grey stones is 40 and the number of green stones is 60.
+
+We can set up an equation using these values.
+
+40 + x = x
+
+We can solve for x by subtracting 40 from both sides of the equation.
+
+x - 40 = x
+
+x = 0
+
+So, Brian has 0 white stones, which means he has 0 black stones.

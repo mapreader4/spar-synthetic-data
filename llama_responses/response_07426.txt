@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+We start by finding the total number of apples that were sold. We know that 405 kg of apples were harvested, 60 kg were given away, and 90 kg were used to make fruit juice. So, the number of apples left is 405 - 60 - 90 = 255 kg.
+
+Then, we know that the apples were sold in 5 kg bags. To find the selling price of one bag of apples, we need to divide the total amount of apples sold (which is 255 kg) by the number of bags (which is 5). So, the selling price of one bag of apples is 255 / 5 = 51.
+
+Answer: 51

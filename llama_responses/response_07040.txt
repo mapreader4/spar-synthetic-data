@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of dolphins in the aqua park: 20.
+
+One-fourth of the dolphins are fully trained, so we can find that out by multiplying 1/4 x 20 = 5.
+
+Now, the remaining dolphins are the ones in training. We know that two-thirds of the dolphins are in training, so we can find that out by multiplying 2/3 x 20 = 13.
+
+Now, we know that the total number of dolphins is 20, and we know that 5 are fully trained and 13 are in training. To find the number of dolphins that will be trained next month, we subtract 5 from 20, which leaves us with 15.
+
+Answer: 15

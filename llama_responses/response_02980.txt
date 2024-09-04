@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Howard has a collection of 70 wooden bowls initially.
+2. He rewards two bowls for every 10 customers, so for every 10 customers, he gives away 2 bowls. This means that for every 10 customers, he gives away a total of 2 + 2 = 4 bowls.
+3. There are 20 customers in total, and half of them bought 20 bowls each. So, half of 20 is 10, so 10 customers bought 20 bowls each.
+4. The other half of the customers didn't buy any bowls, so they didn't receive any rewards.
+5. For the 10 customers who bought 20 bowls each, Howard gave away a total of 10 x 2 = 20 bowls.
+6. This leaves the original 70 bowls minus the 20 bowls given away, which is 70 - 20 = 50 bowls remaining.
+
+Answer: 50

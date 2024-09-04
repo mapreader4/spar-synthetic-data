@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Each crate can hold 20 kilograms of tomatoes.
+2) Tommy has 3 crates, so the total weight of tomatoes he has is 3 * 20 = 60 kilograms.
+3) However, 3 kilograms of tomatoes were rotten, so the total weight of good tomatoes is 60 - 3 = 57 kilograms.
+4) Tommy wants to sell the tomatoes for $6 per kilogram.
+5) The total revenue from selling 57 kilograms of tomatoes at $6 per kilogram is 57 * $6 = $342.
+6) Tommy bought the 3 crates for $330.
+7) Therefore, Tommy's profit is the total revenue ($342) minus the cost of the crates ($330), which is $342 - $330 = $12.
+
+Answer: $12

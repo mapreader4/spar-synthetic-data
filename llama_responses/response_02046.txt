@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of coins each bank teller has.
+
+Each bank teller has 10 rolls of coins. Each roll has 25 coins. So, each bank teller has 10 x 25 = 250 coins.
+
+Now, let's find the total number of coins for four bank tellers.
+
+4 bank tellers have 4 x 250 = 1000 coins.
+
+Answer: 1000

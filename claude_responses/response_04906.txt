@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Monroe has 8 spiders
+* Each spider has 8 legs
+* So the total number of legs from the spiders is 8 spiders x 8 legs per spider = 64 legs
+* Monroe also has 12 ants
+* Each ant has 6 legs
+* So the total number of legs from the ants is 12 ants x 6 legs per ant = 72 legs
+* To find the total number of legs in the entire collection, we add the legs from the spiders and the legs from the ants:
+* 64 legs (spiders) + 72 legs (ants) = 136 legs
+
+Answer: 136

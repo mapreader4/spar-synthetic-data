@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that Polly managed to circle the track 12 times in one half hour. So, the total distance Polly covered is 12 times the distance around the track. The distance around the track is 1/4 mile, so Polly covered a distance of 12 * 1/4 = 3 miles.
+
+Now, we know that Gerald's car was moving at half the speed of Polly. So, we can say that Gerald's car speed is half of Polly's speed. We can denote Polly's speed as "P" and Gerald's speed as "G". The equation for Gerald's speed is G = (1/2) * P.
+
+Now, we know that the total distance Polly covered is 3 miles, and it took her half an hour to complete the track. So, the speed of Polly is 3 miles / (1/2 hour) = 6 miles per hour. Now, we know that Gerald's speed is half of Polly's speed, so Gerald's speed is 1/2 * 6 = 3 miles per hour.
+
+Answer: 3

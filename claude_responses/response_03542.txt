@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The library charges 50 cents per day for any book borrowed
+* Celine borrowed 3 books at the start of May
+* She returned 1 book 20 days after borrowing it
+* The other 2 books stayed at her house until the end of May (31 days)
+
+For the 1 book returned after 20 days:
+* 50 cents per day x 20 days = $10
+
+For the 2 books that stayed until the end of May:
+* 50 cents per day x 31 days x 2 books = $31 x 2 = $62
+
+To calculate the total amount Celine paid:
+* $10 + $62 = $72
+
+Answer: $72

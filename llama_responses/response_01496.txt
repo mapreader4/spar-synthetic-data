@@ -1,0 +1,7 @@
+Let's start by identifying the number of bones Juniper initially has. She has 4 bones.
+
+Then, her master gives her enough bones to double her number of bones. To double her number of bones means to multiply her initial number of bones by 2. So, she now has 4 * 2 = 8 bones.
+
+Next, the neighbor's dog steals away 2 bones from Juniper. So, we need to subtract 2 from the total number of bones she has. 8 - 2 = 6.
+
+Answer: 6

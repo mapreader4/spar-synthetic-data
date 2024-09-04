@@ -1,0 +1,22 @@
+Okay, let's think this through step-by-step:
+* Joel is currently 5 years old
+* His dad is currently 32 years old
+* We need to find out how old Joel will be when his dad is twice as old as him
+
+To do this, we need to find out how old Joel's dad will be when he is twice as old as Joel.
+
+* Joel's dad is currently 32 years old
+* When Joel's dad is twice as old as Joel, he will be 2 * Joel's age
+* So, we need to find out how many years it will take for Joel's dad to be 2 * Joel's age
+
+Let's set up an equation:
+* Joel's dad's age = 2 * Joel's age
+* 32 + x = 2 * (5 + x)
+* 32 + x = 10 + 2x
+* x = 10
+* Joel's dad will be 32 + 10 = 42 years old
+
+Therefore, when Joel's dad is 42 years old, he will be twice as old as Joel.
+
+So, the answer is:
+Answer: 12

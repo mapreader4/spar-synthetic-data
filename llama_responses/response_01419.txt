@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Arvin wants to run a total of 20 kilometers in a week. He runs 2 kilometers on the first day. On each subsequent day, he increases his running distance by 1 kilometer over the previous day.
+
+Let's represent the running distance on the 1st day as 2 kilometers. On the 2nd day, he runs 2 + 1 = 3 kilometers. On the 3rd day, he runs 3 + 1 = 4 kilometers. On the 4th day, he runs 4 + 1 = 5 kilometers. And on the 5th day, he runs 5 + 1 = 6 kilometers.
+
+So, on the 5th day, Arvin runs 6 kilometers.
+
+Answer: 6

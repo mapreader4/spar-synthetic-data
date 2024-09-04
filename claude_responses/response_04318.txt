@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mell ordered:
+  - 2 cups of coffee at $4 each = 2 x $4 = $8
+  - 1 piece of cake at $7 = $7
+* Mell's total order = $8 + $7 = $15
+* Mell's two friends each ordered:
+  - 2 cups of coffee at $4 each = 2 x $4 = $8
+  - 1 piece of cake at $7 = $7
+  - 1 bowl of ice cream at $3 = $3
+* Each friend's total order = $8 + $7 + $3 = $18
+* Total for the two friends = 2 x $18 = $36
+* Total for Mell and her two friends = $15 + $36 = $51
+
+Answer: 51

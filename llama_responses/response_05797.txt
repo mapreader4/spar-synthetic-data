@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+1. First, we need to find the cost of the total amount of money spent on coffee. There are 7 customers who ordered coffee at $5 each, so the total cost is 7 x 5 = 35 dollars. 
+2. Next, we need to find the cost of the total amount of money spent on tea. There are 8 customers who ordered tea at $4 each, so the total cost is 8 x 4 = 32 dollars.
+3. The total cost of all the coffee and tea is the sum of these two costs, which is 35 + 32 = 67 dollars.
+
+So, the coffee shop made a total of 67 dollars.

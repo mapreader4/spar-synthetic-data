@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lydia has 80 plants in total.
+2) 40% of her plants are flowering plants. To find the number of flowering plants, we take 40% of 80:
+   * 40% of 80 = 0.4 * 80 = 32 flowering plants
+3) Lydia wants to place a fourth of her flowering plants on the porch. To find the number of flowering plants on the porch, we take a fourth of 32:
+   * 1/4 of 32 = 32 / 4 = 8 flowering plants on the porch
+4) Each flowering plant produces 5 flowers. So the total number of flowers on the porch is:
+   * 8 flowering plants * 5 flowers per plant = 40 flowers
+
+Answer: 40

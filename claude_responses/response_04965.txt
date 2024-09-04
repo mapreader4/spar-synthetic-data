@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) John buys 2 shirts.
+2) The first shirt costs $6 more than the second shirt.
+3) The first shirt costs $15.
+4) Since the first shirt costs $6 more than the second shirt, we can calculate the cost of the second shirt:
+   * Cost of second shirt = Cost of first shirt - $6
+   * Cost of second shirt = $15 - $6 = $9
+5) Now we can calculate the total cost of the two shirts:
+   * Total cost = Cost of first shirt + Cost of second shirt
+   * Total cost = $15 + $9 = $24
+
+Answer: $24

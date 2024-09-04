@@ -1,0 +1,18 @@
+Let's calculate the total cost of the items in Alice's cart:
+
+* 1.5 pounds of chicken = 1.5 x $6.00 = $9.00
+* 1 pack of lettuce = $3.00
+* Cherry tomatoes = $2.50
+* 4 sweet potatoes = 4 x $0.75 = $3.00
+* 2 heads of broccoli = 2 x $2.00 = $4.00
+* 1 pound of Brussel sprouts = $2.50
+
+Total cost = $9.00 + $3.00 + $2.50 + $3.00 + $4.00 + $2.50 = $24.00
+
+Since Alice needs to spend at least $35.00 to get free delivery, she needs to spend:
+
+$35.00 - $24.00 = $11.00
+
+more to get free delivery.
+
+Answer: 11

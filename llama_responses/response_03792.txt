@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of members in the first two groups. The first group has 25 members, and the second group has 30 members. The total number of members in the first two groups is 25 + 30 = 55.
+
+Since the total number of members in the choir is 70, the third group must have the remaining members. To find the number of members in the third group, we can subtract the total number of members in the first two groups from the total number of members in the choir. 70 - 55 = 15.
+
+Answer: 15

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the amount of garbage collected in the first week. Since the garbage truck passes through Daniel's neighborhood 3 times a week, and an average of 200 kg is taken each time, the total amount of garbage collected in the first week is 3 x 200 = 600 kg.
+
+In the second week, the people in Daniel's neighborhood apply a policy of cutting their amount of garbage in half. So, the amount of garbage collected in the second week is half of 200 kg, which is 100 kg.
+
+Now, let's calculate the total amount of garbage accumulated in the 2 weeks. The amount of garbage collected in the first week is 600 kg, and the amount of garbage collected in the second week is 100 kg. So, the total amount of garbage accumulated is 600 + 100 = 700 kg.
+
+Answer: 700

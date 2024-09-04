@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's find out how many candy bars Tina sold. Since Tina sold three times the number of candy bars as Marvin, and Marvin sold 35 candy bars, Tina sold 3 x 35 = 105 candy bars.
+
+Next, let's find out how much money Marvin made from selling candy bars. Since each candy bar costs $2, Marvin made 35 x 2 = 70 dollars.
+
+Next, let's find out how much money Tina made from selling candy bars. Since Tina sold 105 candy bars, Tina made 105 x 2 = 210 dollars.
+
+Finally, let's find out how much more money Tina made compared to Marvin. Tina made 210 dollars, and Marvin made 70 dollars. To find the difference, subtract 70 from 210, we get 140.
+
+Answer: 140

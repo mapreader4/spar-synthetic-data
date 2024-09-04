@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The auditorium has 20 rows, and each row has 10 seats. So the total number of seats in the auditorium is 20 rows x 10 seats per row = 200 seats.
+2) The question states that only 3/4 of the seats were sold. To calculate the number of seats sold, we take 3/4 of the total seats: 3/4 x 200 = 150 seats sold.
+3) The ticket cost for the play is $10 per ticket.
+4) To calculate the total amount earned from the play, we multiply the number of seats sold (150) by the ticket cost ($10 per ticket): 150 x $10 = $1,500.
+
+Answer: $1,500

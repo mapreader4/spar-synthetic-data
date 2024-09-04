@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Lola can run up 1 story in 10 seconds. The elevator goes up a story in 8 seconds, but stops for 3 seconds on every floor. So, for every floor, Lola has to wait 3 seconds. So, the time Lola spends waiting in the elevator is 3 seconds * 20 floors = 60 seconds. Lola can run up 1 story in 10 seconds, so she can run up 20 stories in 10 * 20 = 200 seconds. So, the time Lola takes to reach the top floor is 200 seconds + 60 seconds = 260 seconds.
+
+Answer: 260

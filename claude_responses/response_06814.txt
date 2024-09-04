@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The first bus has 12 people
+* The second bus has twice the number of people as the first bus, so it has 2 * 12 = 24 people
+* The third bus has 6 fewer people than the second bus, so it has 24 - 6 = 18 people
+* The fourth bus has 9 more people than the first bus, so it has 12 + 9 = 21 people
+
+Now, to find the total number of people going to the museum, we add up the number of people in each bus:
+* Total people = 12 + 24 + 18 + 21 = 75
+
+Answer: 75

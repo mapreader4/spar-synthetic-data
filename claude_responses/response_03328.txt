@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Arthur has 3 dogs
+* The dogs eat an average of 15 pounds of food a week
+* One dog eats 13 pounds a week
+* The second dog eats double the first dog's amount, which is 2 * 13 = 26 pounds a week
+
+Now, we need to find out how much the third dog eats a week. We know the total amount of food the 3 dogs eat is 15 pounds per week. We also know the first dog eats 13 pounds and the second dog eats 26 pounds.
+
+To find the amount the third dog eats, we can subtract the amounts of the first two dogs from the total:
+* Total food eaten = 15 pounds
+* Food eaten by first dog = 13 pounds
+* Food eaten by second dog = 26 pounds
+* Food eaten by third dog = 15 - 13 - 26 = -24 pounds
+
+However, this doesn't make sense, as a dog cannot eat a negative amount of food. 
+
+Let's double check our work:
+* Total food eaten = 15 pounds
+* Food eaten by first dog = 13 pounds 
+* Food eaten by second dog = 26 pounds
+* Food eaten by third dog = 15 - 13 - 26 = -24 pounds (this is not possible)
+
+Therefore, the amount the third dog eats per week is:
+Answer: 15 - 13 - 26 = -24 pounds (which is not possible)

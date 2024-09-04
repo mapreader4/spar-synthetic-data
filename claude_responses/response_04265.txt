@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Emerie has 6 quarters, 7 dimes, and 5 nickels
+* Zain has 10 more of each coin than Emerie
+* To find the number of coins Zain has, we need to add 10 to each of Emerie's coin amounts
+
+For the quarters:
+* Emerie has 6 quarters
+* Zain has 10 more, so Zain has 6 + 10 = 16 quarters
+
+For the dimes:
+* Emerie has 7 dimes
+* Zain has 10 more, so Zain has 7 + 10 = 17 dimes
+
+For the nickels:
+* Emerie has 5 nickels
+* Zain has 10 more, so Zain has 5 + 10 = 15 nickels
+
+Adding up all of Zain's coins:
+* 16 quarters + 17 dimes + 15 nickels = 48 coins
+
+Answer: 48

@@ -1,0 +1,45 @@
+Let's start by using the information given to create an equation. We know that Jenna has twice as much money in her account as Phil does, so if we let Phil's amount be x, Jenna's amount is 2x. We know that Phil has one-third the amount of money that Bob has in his account, so if we let Bob's amount be y, then Phil's amount is y/3. We also know that Bob has $60 in his account, so we can set up the equation as follows:
+
+2x = y/3
+
+We can solve for x by multiplying both sides by 3 to get:
+
+2x * 3 = y
+
+This gives us:
+
+6x = y
+
+We are trying to find the difference in the amount of money between Jenna and Bob. We can subtract the amount of money that Jenna has from the amount of money that Bob has to get the difference:
+
+Jenna's amount - Bob's amount
+
+We can use the equation we found earlier to substitute in the amount of money that Jenna has:
+
+Jenna's amount = 2x - y/3
+
+Since we know that Jenna's amount is 2x, we can substitute 2x for Jenna's amount:
+
+2x - y/3 = 2x - y/3
+
+Now we can simplify the equation by combining like terms:
+
+2x - y/3 = 2x - y/3
+
+This simplifies to:
+
+2x - y = 2x - y
+
+We can subtract y from both sides to get:
+
+2x = 2x - y
+
+Now we can subtract 2x from both sides to get:
+
+0 = 2x - y
+
+Since we are trying to find the difference in the amount of money between Jenna and Bob, we can subtract y from both sides to get:
+
+0 = -y
+
+This means that Jenna has y less than Bob.

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The vending machine fails to drop a snack 1 in 6 times
+* It accidentally drops two snacks 1 in 10 times
+* The rest of the time, it drops the purchased snack
+* 30 people have used the vending machine once each to purchase a snack
+
+First, let's calculate the number of times the vending machine failed to drop a snack:
+* 30 people x (1/6) = 5 times
+
+Next, let's calculate the number of times the vending machine accidentally dropped two snacks:
+* 30 people x (1/10) = 3 times
+
+Finally, let's calculate the number of times the vending machine dropped the purchased snack:
+* 30 people - 5 times (failed to drop) - 3 times (accidentally dropped two) = 22 times
+
+Now, we can calculate the total number of snacks dropped:
+* 5 times (failed to drop) + 3 times (accidentally dropped two) + 22 times (dropped the purchased snack) = 5 + (3 x 2) + 22 = 5 + 6 + 22 = 33
+
+Answer: 33

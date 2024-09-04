@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Denny has 100000 followers initially. Every day, he gets 1000 new followers, so the number of followers increases by 1000.
+
+To find the number of followers he will have in a year, we need to multiply the number of followers he gets each day by the number of days in a year. There are 365 days in a year, so we can multiply 1000 by 365.
+
+1000 * 365 = 365000
+
+But, wait, 20000 people unfollowed him. So, we need to subtract 20000 from the total number of followers.
+
+100000 + 365000 - 20000 = 765000
+
+Answer: 765000

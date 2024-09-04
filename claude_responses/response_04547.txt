@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Carol sold tickets worth $960 over three days
+* Each ticket costs $4
+* To find the average number of tickets sold per day, we need to:
+1. Calculate the total number of tickets sold over the three days
+2. Divide the total number of tickets by 3 to get the average per day
+
+Step 1: Calculate the total number of tickets sold
+* Total tickets sold = Total sales / Cost per ticket
+* Total tickets sold = $960 / $4 = 240 tickets
+
+Step 2: Calculate the average number of tickets sold per day
+* Average tickets per day = Total tickets sold / Number of days
+* Average tickets per day = 240 tickets / 3 days = 80 tickets
+
+Answer: 80 tickets

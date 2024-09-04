@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Robert buys 4 pens
+* Julia buys three times as many pens as Robert, so Julia buys 3 x 4 = 12 pens
+* Dorothy buys half as many pens as Julia, so Dorothy buys 12 / 2 = 6 pens
+* Each pen costs $1.50
+* To calculate the total amount spent:
+    - Robert spent 4 x $1.50 = $6
+    - Julia spent 12 x $1.50 = $18
+    - Dorothy spent 6 x $1.50 = $9
+* Adding up the amounts spent by each person:
+    - Total spent = $6 + $18 + $9 = $33
+
+Answer: $33

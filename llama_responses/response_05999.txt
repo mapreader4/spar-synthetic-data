@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of vanilla jelly beans: there are 120 vanilla jelly beans.
+
+The problem states that Luke takes 50 more than 5 times as many grape jelly beans as vanilla jelly beans. To find the number of grape jelly beans, we need to multiply the number of vanilla jelly beans by 5 and then add 50.
+
+So, we can start by multiplying 120 (the number of vanilla jelly beans) by 5: 120 x 5 = 600.
+
+Then, we add 50 to this result: 600 + 50 = 650.
+
+Answer: 650

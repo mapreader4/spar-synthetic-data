@@ -1,0 +1,24 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* We bought 4 times as many tetras as Tim bought clowns.
+* Tim bought twice as many clowns as Rick bought guppies.
+* Rick bought 30 guppies.
+
+From the first statement, we know that Tim bought x clowns. If we let x be the number of clowns Tim bought, then we can set up an equation:
+
+4x = x
+
+The second statement tells us that Rick bought twice as many clowns as he bought guppies. So, if Rick bought 30 guppies, then Rick bought 30/2 = 15 clowns.
+
+Now, we can substitute this into the equation:
+
+4x = 15
+
+To solve for x, we can divide both sides by 4:
+
+x = 15 / 4
+x = 3.75
+
+So, we bought 3.75 times as many clowns as tetras as Tim bought clowns.

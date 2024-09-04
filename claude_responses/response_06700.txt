@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+* Billy has $10 to spend on ketchup
+* The first option is a 10 oz bottle for $1 each
+* With $10, he could buy 10 of these bottles
+* The second option is a 16 oz bottle for $2
+* With $10, he could buy 5 of these bottles
+* The third option is a 25 oz bottle for $2.5
+* With $10, he could buy 4 of these bottles
+* The fourth option is a 50 oz bottle for $5
+* With $10, he could buy 2 of these bottles
+* The fifth option is a 200 oz bottle for $10
+* With $10, he could buy 1 of these bottles
+* To get the best deal, Billy should buy the largest bottle, which is the 200 oz bottle for $10.
+* Therefore, the number of bottles Billy buys is 1.
+
+Answer: 1

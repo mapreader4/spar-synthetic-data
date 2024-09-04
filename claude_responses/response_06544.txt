@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) George donated half his monthly income to charity.
+2) The remaining half of his income, he spent $20 on groceries.
+3) After the donation and grocery expenses, he has $100 left.
+
+Let's call George's monthly income "x".
+* He donated half of x, which is x/2.
+* The remaining half, x/2, he spent $20 from.
+* So, he has (x/2) - $20 left.
+
+We know that the final amount he has left is $100, so we can set up an equation:
+(x/2) - $20 = $100
+
+Solving for x:
+x/2 = $120
+x = $240
+
+Therefore, George's monthly income was $240.
+
+Answer: 240

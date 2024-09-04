@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's first find out how many days are in each month.
+
+December has 31 days.
+January has 31 days.
+February has 28 days.
+
+Total number of days in the 3 months = 31 + 31 + 28 = 90 days.
+
+Now, let's find out how many cups Herman needs for each day.
+
+For each day, Herman feeds the birds 1/2 cup in the morning and 1/2 cup in the afternoon, so that's a total of 1 cup per day.
+
+For all 90 days, Herman will need 1 cup x 90 = 90 cups of food.
+
+Answer: 90

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The class has 30 students total.
+2) 50% of the students chose dogs and video games as their two answers.
+3) 50% of 30 is 15 students.
+4) 10% of the students chose dogs and movies as their two answers.
+5) 10% of 30 is 3 students.
+6) In total, the number of students who prefer dogs over cats is the sum of the students who chose dogs and video games (15) and the students who chose dogs and movies (3).
+7) 15 + 3 = 18 students.
+
+Answer: 18

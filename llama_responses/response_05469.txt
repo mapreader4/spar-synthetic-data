@@ -1,0 +1,11 @@
+Let's start by adding up the number of brown M&M's Robby didn't eat across all the bags:
+
+9 (first bag) + 12 (second bag) + 8 (third and fourth bags) + 3 (fifth bag) = 32
+
+Now, to find the average, we need to divide the total number of brown M&M's by the number of bags:
+
+32 ÷ 5 (number of bags) = 6.4
+
+However, since the problem asks for the average number of brown M&M's in a bag, we need to round down to the nearest whole number. In this case, the average is:
+
+Answer: 6

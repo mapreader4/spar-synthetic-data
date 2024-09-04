@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+We know that each cylindrical structure contains 12 bedrooms, 7 bathrooms, and several kitchens. Since there are three identical cylindrical structures, we can multiply the number of bedrooms, bathrooms, and kitchens in one structure by 3 to find the total number of each in the entire space station.
+
+The total number of bedrooms is 12 x 3 = 36.
+The total number of bathrooms is 7 x 3 = 21.
+
+We are given that the entire space station has 72 rooms. Since we have accounted for 36 bedrooms and 21 bathrooms, we can subtract these from the total number of rooms to find the number of kitchens:
+
+72 (total rooms) - 36 (bedrooms) - 21 (bathrooms) = 15
+
+So, there are 15 rooms left over, which must be the kitchens. Since each cylindrical structure has several kitchens, we can divide the total number of kitchens by 3 to find the number of kitchens in one structure:
+
+15 (total kitchens) ÷ 3 = 5
+
+Therefore, each cylindrical structure has 5 kitchens, and since there are three cylindrical structures, the total number of kitchens on the entire space station is:
+
+5 (kitchens per structure) x 3 (structures) = 15
+
+Answer: 15

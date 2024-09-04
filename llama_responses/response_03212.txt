@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+The condo has 23 floors. The top 2 floors are assigned for penthouse units, which have 2 units each. So, 2 x 2 = 4 penthouse units are assigned.
+
+The remaining floors, which are 23 - 2 = 21, have 12 units each. So, 21 x 12 = 252 units are assigned for regular floors.
+
+In total, there are 4 penthouse units and 252 regular units. So, the total number of units is:
+
+Answer: 256

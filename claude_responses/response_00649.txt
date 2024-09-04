@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The price of one pencil is 20 cents
+* Tolu wants 3 pencils
+* Robert wants 5 pencils
+* Melissa wants 2 pencils
+
+To calculate the total cost, we need to find the cost for each student and then add them together.
+
+Tolu's cost:
+* 3 pencils x 20 cents per pencil = 60 cents
+
+Robert's cost:
+* 5 pencils x 20 cents per pencil = 100 cents
+
+Melissa's cost:
+* 2 pencils x 20 cents per pencil = 40 cents
+
+Now we add up the total cost for all the students:
+* 60 cents + 100 cents + 40 cents = 200 cents
+
+To convert this to dollars, we divide by 100:
+* 200 cents / 100 = 2 dollars
+
+Answer: 2

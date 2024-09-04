@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) We have a 1165 cm long rope that is cut into 154 pieces.
+2) 150 of the pieces are equally sized, and the remaining 4 pieces are 100 mm each.
+3) To find the length of each of the equal pieces, we need to subtract the length of the 4 pieces that are 100 mm each from the total length of the rope, and then divide the remaining length by the number of equal pieces.
+4) The length of the 4 pieces that are 100 mm each is: 4 * 100 mm = 400 mm = 40 cm.
+5) The total length of the rope is 1165 cm, so the remaining length after subtracting the 4 pieces is: 1165 cm - 40 cm = 1125 cm.
+6) The number of equal pieces is 150, so the length of each equal piece is: 1125 cm / 150 = 7.5 cm = 75 mm.
+
+Answer: 75 mm.

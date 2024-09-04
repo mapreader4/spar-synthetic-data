@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's start with the information given: Jennifer's boyfriend left 5 texts about the grocery shopping, 5 times more texts asking why she wasn't responding, and a number of texts equal to 10% of all the texts he sent previously.
+
+Let's denote the number of texts he sent previously as x.
+
+Then, we know that 10% of x is equal to the number of texts asking why she wasn't responding.
+
+So, we can write the equation: 10% of x = 5.
+
+To solve for x, we can multiply both sides of the equation by 100, since 10% is the same as 10/100, which is the same as 1/10.
+
+So, we get: (10/100) x = 5.
+
+Now, we can multiply both sides by 100: x = (5)(100/10).
+
+x = 50.
+
+So, the total number of texts he sent is 50 + 5 = 55.
+
+Answer: 55.

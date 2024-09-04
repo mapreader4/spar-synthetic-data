@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The test has 80 questions total
+* For the first 40 questions, John got 90% right
+* To calculate the number of questions she got right in the first 40:
+    - 90% of 40 = 0.90 * 40 = 36 questions
+* For the next 40 questions, John got 95% right
+* To calculate the number of questions she got right in the next 40:
+    - 95% of 40 = 0.95 * 40 = 38 questions
+* To calculate the total number of questions she got right:
+    - 36 + 38 = 74 questions
+
+Answer: 74

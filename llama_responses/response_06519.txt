@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the pattern of the snail kite's eating habits. On the first day, it eats 3 snails. Then, on the second day, it eats 2 more snails than it did the day before. So, on the second day, it eats 3 + 2 = 5 snails.
+
+On the third day, it eats 2 more snails than it did the day before. So, on the third day, it eats 5 + 2 = 7 snails.
+
+On the fourth day, it eats 2 more snails than it did the day before. So, on the fourth day, it eats 7 + 2 = 9 snails.
+
+On the fifth day, it eats 2 more snails than it did the day before. So, on the fifth day, it eats 9 + 2 = 11 snails.
+
+So, in total, the snail kite ate 3 + 5 + 7 + 9 + 11 = 26 snails in 5 days.

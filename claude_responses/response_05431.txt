@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Felicity used 5 less gallons of gas than four times the number of gallons that Adhira used for her trip.
+* Let's call the number of gallons Adhira used 'x'.
+* Then, Felicity used 4x - 5 gallons of gas.
+* Together, the girls used 30 gallons of gas.
+* So, we can write the equation: x + (4x - 5) = 30
+* Solving for x:
+* x + 4x - 5 = 30
+* 5x - 5 = 30
+* 5x = 35
+* x = 7
+* Therefore, Adhira used 7 gallons of gas.
+* Felicity used 4(7) - 5 = 23 gallons of gas.
+
+Answer: 23

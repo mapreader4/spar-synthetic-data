@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of books Loris needs:
+
+Loris needs 3 more books than Lamont, who has twice the number of books Darryl has. Let's say Darryl has x books. Then, Lamont will have 2x books.
+
+So, we can set up the equation:
+
+2x = Darryl's books
+
+Since Darryl has 20 books, we can solve for x:
+
+2x = 20
+
+x = 10
+
+Now, we can find the number of books Lamont has:
+
+Lamont has 2x = 2(10) = 20 books.
+
+Finally, we can find the number of books Loris needs:
+
+Loris needs 3 more books than Lamont, who has 20 books. So, Loris needs 20 + 3 = 23 books.
+
+Answer: 23

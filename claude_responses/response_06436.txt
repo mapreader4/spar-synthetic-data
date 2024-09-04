@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Layla won the game with 70 points
+* The total number of points scored was 112
+* To find how many more points Layla scored than Nahima, we need to find Nahima's score and then subtract it from Layla's score.
+
+To find Nahima's score, we can use the total points scored:
+* Total points scored = Layla's score + Nahima's score
+* 112 = 70 + Nahima's score
+* Nahima's score = 112 - 70 = 42
+
+Now, to find how many more points Layla scored than Nahima, we subtract Nahima's score from Layla's score:
+* Layla's score - Nahima's score = 70 - 42 = 28
+
+Answer: 28

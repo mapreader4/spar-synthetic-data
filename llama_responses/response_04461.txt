@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of students Ms. Hatcher teaches in each grade level:
+
+* 20 third-graders
+* 2 x 20 = 40 fourth-graders
+* 1/2 x 20 = 10 fifth-graders
+
+To find the total number of students Ms. Hatcher teaches, we add the number of students in each grade level:
+
+20 + 40 + 10 = 70
+
+Answer: 70

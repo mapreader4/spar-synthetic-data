@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's let G be the number of girls and B be the number of boys. We know that the total number of students at the school is 60% of the total students are girls. So, we can set up the equation G + B = 0.6 x 100, where 0.6 is the decimal form of 60%.
+
+We know that the number of boys is 300, so we can substitute 300 for B in the equation. This gives us the equation G + 300 = 0.6 x 100.
+
+We can solve for G by subtracting 300 from both sides of the equation. 0.6 x 100 - 300 = G. We can simplify the left side of the equation by multiplying both sides by 10 to get 0.6 x 10 - 300 x 10. This gives us 0.6 x 10 - 30. We can simplify the right side of the equation by dividing both sides by 10 to get 0.06 - 3. This gives us the value of G, which is 100.
+
+Answer: 100

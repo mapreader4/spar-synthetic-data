@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The players run up and down the bleachers 40 times.
+2) Each time they run up and down, they go up and down 32 stairs one way.
+3) Each stair burns 2 calories.
+4) To calculate the total calories burned, we need to:
+   a) Calculate the total number of stairs climbed: 40 runs x 32 stairs x 2 (up and down) = 2,560 stairs
+   b) Multiply the total stairs by the calories per stair: 2,560 stairs x 2 calories/stair = 5,120 calories
+
+Answer: 5,120

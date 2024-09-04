@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There were 12 lions and 14 tigers at the feline sanctuary
+* The number of cougars was half the combined number of lions and tigers
+* To find the number of cougars, we first need to find the combined number of lions and tigers:
+  - 12 lions + 14 tigers = 26 lions and tigers
+* Since the number of cougars is half the combined number of lions and tigers, we can calculate the number of cougars as:
+  - 26 lions and tigers / 2 = 13 cougars
+* Now we can find the total number of big cats at the feline sanctuary by adding up the number of lions, tigers, and cougars:
+  - 12 lions + 14 tigers + 13 cougars = 39 big cats
+
+Answer: 39

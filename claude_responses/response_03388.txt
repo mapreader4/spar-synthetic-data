@@ -1,0 +1,20 @@
+Okay, let's solve this step-by-step:
+1) Jacque's suitcase initially weighed 5 pounds.
+2) He picked up 5 bottles of perfume, each weighing 1.2 ounces. So the total weight of the perfume is 5 * 1.2 = 6 ounces.
+3) He picked up 4 pounds of chocolate.
+4) He picked up 2 bars of soap, each weighing 5 ounces. So the total weight of the soap is 2 * 5 = 10 ounces.
+5) He picked up 2 jars of jam, each weighing 8 ounces. So the total weight of the jam is 2 * 8 = 16 ounces.
+6) To convert the weights to pounds, we use the conversion that 16 ounces = 1 pound.
+7) The weight of the perfume in pounds is 6 ounces / 16 ounces per pound = 0.375 pounds.
+8) The weight of the chocolate in pounds is 4 pounds.
+9) The weight of the soap in pounds is 10 ounces / 16 ounces per pound = 0.625 pounds.
+10) The weight of the jam in pounds is 16 ounces / 16 ounces per pound = 1 pound.
+11) Adding up all the weights:
+5 pounds (initial suitcase weight)
++ 0.375 pounds (perfume)
++ 4 pounds (chocolate)
++ 0.625 pounds (soap)
++ 1 pound (jam)
+= 11 pounds
+
+Answer: 11 pounds

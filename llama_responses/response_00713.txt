@@ -1,0 +1,5 @@
+Let's start by finding the total number of popsicle sticks brought by the boys. The boys brought 15 popsicle sticks each, so the total number of popsicle sticks brought by the boys is 15 x 10 = 150.
+
+Next, let's find the total number of popsicle sticks brought by the girls. The girls brought 12 popsicle sticks each, so the total number of popsicle sticks brought by the girls is 12 x 12 = 144.
+
+Now, we can find the difference between the total number of popsicle sticks brought by the boys and the girls. 150 - 144 = 6. So, the girls brought 6 fewer popsicle sticks than the boys.

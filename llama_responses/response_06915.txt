@@ -1,0 +1,39 @@
+Let's break this down step by step.
+
+Let's first find the number of players who are older than 35 years. We know that three-eighths of the total number of players are older than 35, so we can set up an equation:
+
+Let x be the total number of players who are older than 35. Then, we know that 3/8 of x are older than 35, so we can set up an equation:
+
+3/8x = x
+
+We can multiply both sides by 8 to get:
+
+3x = 8x
+
+Now, we know that the total number of players is 1000. We can set up an equation:
+
+3x = 800
+
+We can solve for x by dividing both sides by 3:
+
+x = 800 / 3
+
+x = 266.67
+
+We know that x is an integer, so we round down to the nearest whole number:
+
+x = 266
+
+Now, we want to find the number of players who are younger than 25 years. We know that two-fifths of the total number of players are younger than 25, so we can set up an equation:
+
+2/5x = x - 266
+
+We can solve for x by subtracting 266 from both sides:
+
+2/5x = x - 266
+
+x = 266
+
+Now, we know that x = 266, which means that 266 players are younger than 25 years.
+
+Answer: 266

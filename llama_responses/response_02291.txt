@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the distance she walks on the first day. She walks 1 mile. So, on the second day, she will walk 2 miles (1 * 2 = 2). On the third day, she will walk 4 miles (2 * 2 = 4). On the fourth day, she will walk 8 miles (4 * 2 = 8). On the fifth day, she will walk 16 miles (8 * 2 = 16). On the sixth day, she will walk 32 miles (16 * 2 = 32). On the seventh day, she will walk 64 miles (32 * 2 = 64).
+
+We can see that she walks more than 10 times further on the 7th day than on the first day. The answer is: Answer: 7

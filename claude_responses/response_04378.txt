@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Rikki sells his poems for $.01 a word
+* He can write 25 words of poetry in 5 minutes
+* He has 2 hours to write poetry
+
+First, let's calculate how many words he can write in 2 hours:
+* 2 hours = 120 minutes
+* 120 minutes / 5 minutes per 25 words = 24 sets of 25 words
+* 24 sets x 25 words per set = 600 words
+
+Now, let's calculate how much he can earn from 600 words:
+* 600 words x $.01 per word = $6.00
+
+Therefore, Rikki can expect to earn:
+Answer: $6

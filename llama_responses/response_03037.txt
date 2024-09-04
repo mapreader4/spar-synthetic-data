@@ -1,0 +1,9 @@
+To solve this problem, we can use a percentage problem. The percentage of visitors who fell ill is 40%, which means that 40% of the total visitors fell ill. To find the number of visitors who fell ill, we can use the following formula:
+
+Number of visitors who fell ill = Total visitors * 0.40
+
+In this case, the total number of visitors is 500. So, the number of visitors who fell ill is:
+
+500 * 0.40 = 200
+
+Answer: 200

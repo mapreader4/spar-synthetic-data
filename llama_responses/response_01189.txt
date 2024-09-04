@@ -1,0 +1,27 @@
+Let's break it down step by step.
+
+There were 15 games in total.
+
+Yolanda scored 345 points over the entire season.
+
+There were 15 games over the season.
+
+Yolanda averaged 4 free throws (worth one point), and 5 two-point baskets per game.
+
+To find the average number of three-point baskets she made per game, we need to subtract the number of free throws and two-point baskets from the total points.
+
+The number of three-point baskets she made is the total points minus the free throws and two-point baskets.
+
+Yolanda scored 345 points over the entire season.
+
+Subtract 4 points (free throws) from 345 points.
+
+Subtract 5 * 2 = 10 points (two-point baskets).
+
+Subtract 345 - 14 = 331 points (free throws and two-point baskets).
+
+The number of three-point baskets she made per game is 331 divided by 15.
+
+331 / 15 = 22.2.
+
+Answer: 22.2

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the number of people in the first bus.
+
+60% of 150 is 0.6 * 150 = 90.
+
+Step 2: Calculate the number of people in the second bus.
+
+70% of 150 is 0.7 * 150 = 105.
+
+Step 3: Add the number of people in both buses.
+
+90 + 105 = 195.
+
+Answer: 195

@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Mark and Chris both leave their house for school at the same time
+* They travel at the same speed, which is 3 miles per hour (Chris's speed)
+* After walking 3 miles, Mark has to turn around and go back home
+* The distance from their house to the school is 9 miles
+
+To calculate how much longer Mark spends walking than Chris, we need to find the total distance Mark walks and the total distance Chris walks, then calculate the difference.
+
+Mark's total distance:
+* Walks 3 miles to the point where he turns around
+* Walks 3 miles back home
+* Walks 9 miles to school
+* Total distance = 3 + 3 + 9 = 15 miles
+
+Chris's total distance:
+* Walks 9 miles to school
+* Total distance = 9 miles
+
+Now, we can calculate the difference in time:
+* Mark's total distance = 15 miles
+* Chris's total distance = 9 miles
+* Difference in distance = 15 - 9 = 6 miles
+* Since they both travel at the same speed of 3 miles per hour, the difference in time is:
+* 6 miles / 3 miles per hour = 2 hours
+
+Answer: 2

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jace drives 60 miles per hour.
+2) He drives for 4 hours straight.
+3) In 4 hours, he will travel 4 * 60 = 240 miles.
+4) He then takes a 30-minute break.
+5) After the break, he drives for another 9 hours straight.
+6) In 9 hours, he will travel 9 * 60 = 540 miles.
+7) The total distance Jace will travel is the sum of the two legs of his journey:
+   240 miles + 540 miles = 780 miles.
+
+Answer: 780

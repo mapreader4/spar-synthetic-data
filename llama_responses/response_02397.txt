@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's find out how many hours Nathan played. He played for 3 hours every day for 2 weeks. So, we can multiply the number of hours he played per day by the number of days he played:
+
+3 hours/day * 2 weeks = 3 * 7 = 21 hours
+
+Now, let's find out how many hours Tobias played. He played for 5 hours every day, but only for 1 week. So, we can multiply the number of hours he played per day by the number of days he played:
+
+5 hours/day * 1 week = 5 * 7 = 35 hours
+
+Now, let's add the number of hours Nathan played by the number of hours Tobias played:
+
+21 hours + 35 hours = 56 hours
+
+Answer: 56

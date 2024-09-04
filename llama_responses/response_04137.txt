@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of cakes that Diego baked initially.
+
+Diego baked 12 cakes, so the total number of cakes is 12.
+
+Then, Donald ate 1 cake, so we subtract 1 from the total number of cakes.
+
+12 - 1 = 11
+
+Then, we need to subtract the cakes that Donald ate from the remaining cakes.
+
+11 - 1 = 10
+
+So, there are 10 cakes left.

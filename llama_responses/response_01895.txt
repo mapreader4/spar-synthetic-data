@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+On Monday, Natalia rode 40 kilometers.
+On Tuesday, she rode 50 kilometers.
+On Wednesday, she rode 50% fewer kilometers than the day before, so on Wednesday, she rode 40 kilometers (50% of 50 is 25).
+
+The sum of the kilometers from Monday and Wednesday is 40 + 25 = 65.
+
+On Thursday, she rode the same amount of kilometers as the sum of the kilometers from Monday and Wednesday. So, on Thursday, she rode 65 kilometers.
+
+The total kilometers Natalia rode in total is 40 + 50 + 50 + 40 + 25 + 65 = 185.

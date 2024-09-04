@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Tom buys 20 shares of a stock that costs $3 each. So, the total cost of the shares is:
+20 shares x $3 per share = $60
+2) Tom then sells 10 of those shares for $4 each. So, the total revenue from the sale is:
+10 shares x $4 per share = $40
+3) The remaining 10 shares double in value, so each share is now worth $6. The total value of the remaining shares is:
+10 shares x $6 per share = $60
+4) To calculate the total profit, we take the total revenue ($40 from the sale) and add the final value of the remaining shares ($60), and subtract the initial cost ($60):
+$40 + $60 - $60 = $40
+Answer: $40

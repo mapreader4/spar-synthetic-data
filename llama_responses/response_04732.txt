@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first identify the information given to us. We know that Biff rows at a speed of 50 yards per minute, and Kenneth rows at a speed of 51 yards per minute. We need to find out how many yards past the finish line Biff will cross when Kenneth crosses the finish line.
+
+Since they are racing each other, we can assume that they will cross the finish line at the same time. We can set up an equation to represent the situation. Let's say the time it takes for Biff to cross the finish line is t minutes. Since Biff rows at a speed of 50 yards per minute, it will take him 500 yards divided by 50 yards per minute to cross the finish line. We can write this as an equation as:
+
+500 yards / 50 yards per minute = t minutes
+
+t = 500 / 50
+t = 10
+
+So it will take Biff 10 minutes to cross the finish line. Now, we need to find out how many yards past the finish line Kenneth will be when Biff crosses the finish line. Since Kenneth rows at a speed of 51 yards per minute, it will take him 500 yards divided by 51 yards per minute to cross the finish line. We can write this as an equation as:
+
+500 yards / 51 yards per minute = t minutes
+
+t = 500 / 51
+t = 9.8
+
+So it will take Kenneth 9.8 minutes to cross the finish line. Since they will cross the finish line at the same time, we can subtract the time it takes for Biff to cross the finish line from the time it takes for Kenneth to cross the finish line to find the number of yards past the finish line Kenneth will be. The difference in time is 0.2 minutes. We can convert this to yards by multiplying by 51 yards per minute:
+
+0.2 minutes * 51 yards per minute = 10.2 yards
+
+So Kenneth will be 10.2 yards past the finish line when Biff crosses the finish line. Answer: 10.2

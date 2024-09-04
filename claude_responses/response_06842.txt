@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The auditorium holds 500 people.
+2) Two-fifths of the seats are currently taken. To calculate this, we take 2/5 of 500, which is 200 seats taken.
+3) It was found that 1/10 of the seats are broken. To calculate this, we take 1/10 of 500, which is 50 seats broken.
+4) To find the number of seats still available, we need to subtract the number of seats taken (200) and the number of seats broken (50) from the total number of seats (500).
+5) 500 - 200 - 50 = 250 seats still available.
+
+Answer: 250

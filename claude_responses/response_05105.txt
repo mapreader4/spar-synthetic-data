@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Each pine tree makes 80 logs
+* Jerry cuts up 8 pine trees
+* So, the number of logs from the pine trees is 8 * 80 = 640 logs
+
+* Each maple tree makes 60 logs
+* Jerry cuts up 3 maple trees
+* So, the number of logs from the maple trees is 3 * 60 = 180 logs
+
+* Each walnut tree makes 100 logs
+* Jerry cuts up 4 walnut trees
+* So, the number of logs from the walnut trees is 4 * 100 = 400 logs
+
+Now, to find the total number of logs, we add up the logs from each type of tree:
+* Total logs = 640 + 180 + 400 = 1220 logs
+
+Answer: 1220

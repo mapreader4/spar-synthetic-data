@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+There are 10 crates in the shipping container. Each crate is filled with 6 boxes, so there are a total of 10 x 6 = 60 boxes. Each box contains 4 washing machines, so there are a total of 60 x 4 = 240 washing machines.
+
+The worker removes 1 washing machine from each box. So, 1 washing machine is removed from each of the 60 boxes. To find the total number of washing machines removed, we multiply the number of boxes (60) by the number of washing machines removed per box (1): 60 x 1 = 60.
+
+Answer: 60

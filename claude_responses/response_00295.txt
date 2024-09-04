@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Pam has some bags of apples
+2) Each of Pam's bags has as many apples as 3 of Gerald's bags
+3) Gerald's bags have 40 apples each
+4) Pam has 1200 apples in total
+
+To find the number of bags Pam has, we need to first find how many apples are in each of Pam's bags.
+
+Since each of Pam's bags has as many apples as 3 of Gerald's bags, and Gerald's bags have 40 apples each, we can calculate the number of apples in each of Pam's bags:
+* Each of Pam's bags has 3 x 40 = 120 apples
+
+Now, we can calculate the number of bags Pam has by dividing the total number of apples (1200) by the number of apples in each of her bags (120):
+* Number of bags Pam has = 1200 / 120 = 10
+
+Answer: 10

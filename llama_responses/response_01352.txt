@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first find out how many seconds are in one day.
+
+There are 60 seconds in 1 minute and 60 minutes in 1 hour, so there are 3600 seconds in 1 hour.
+
+Since the fan works for 10 minutes each day, that is 10 * 60 = 600 seconds.
+
+Now, we know that the fan creates 10 liters of airflow per second. So, to find out how many liters of airflow it will create in 600 seconds, we multiply the number of seconds by the amount of liters of airflow per second:
+
+10 liters/second * 600 seconds = 6000 liters
+
+So, the fan will create 6000 liters of airflow in one day.

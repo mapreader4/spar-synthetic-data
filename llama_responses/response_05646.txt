@@ -1,0 +1,13 @@
+Let's break down the number of days into smaller units. Steve reads the book on 3 days, which means there are 3 days of reading.
+
+To find out how many pages Steve reads each day, we can divide the total number of pages (2100) by the number of days (3):
+
+2100 ÷ 3 = 700
+
+So, Steve reads 700 pages each day.
+
+Since there are 7 days in a week, we can divide the number of pages per day by the number of days in a week to find the number of weeks:
+
+700 ÷ 7 = 100
+
+Answer: 100

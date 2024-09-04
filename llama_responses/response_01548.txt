@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. Bill introduces 12 spiders, which each eat 7 bugs. So, the initial 12 spiders will eat 12 * 7 = 84 bugs.
+2. After the spiders eat the bugs, the total bug population will be 400 - 84 = 316.
+3. Then, Bill sprays the garden, which reduces the bug population to 80% of what it was previously, which is 316. To find 80% of 316, we multiply 316 by 0.8, which is 251.2.
+4. So, there are 251.2 bugs left.
+
+Answer: 251.2

@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start by identifying the first year of a dog's life. According to the problem, the first year of a dog's life is 15 human years. So, the first year of a dog's life is 15 years.
+
+Next, we need to find the second year of a dog's life. According to the problem, the second year of a dog's life is 9 human years. So, the second year of a dog's life is 9 years.
+
+After the second year, every year of a dog's life is 5 human years. So, we can set up an equation to represent the pattern of a dog's life:
+
+1st year = 15 human years
+2nd year = 9 human years
+Every year = 5 human years
+
+Let's solve for the 10th year. We know the first two years are 15 and 9, so we need to find the total number of human years. We can do this by adding 15 + 9 = 24. Then, we need to add 5 to that to get the total number of human years for the 10th year. So, 24 + 5 = 29.
+
+Answer: 29

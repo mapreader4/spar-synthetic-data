@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. For the first 5 days, Tom charges a fee of $100, so the cost for the first 5 days is $100.
+
+2. For the remaining days, Tom charges a fee of $60 per day, so the cost for the remaining days is $60 x 5 = $300.
+
+3. To find the total cost, we add the cost for the first 5 days and the cost for the remaining days: $100 + $300 = $400.
+
+Answer: 400

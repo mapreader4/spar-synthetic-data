@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The show has 90 episodes, and each episode is 20 minutes long.
+2) To find the total duration of the show, we multiply the number of episodes (90) by the duration of each episode (20 minutes):
+90 episodes x 20 minutes per episode = 1,800 minutes
+3) Since there are 60 minutes in an hour, we can convert the total duration from minutes to hours:
+1,800 minutes / 60 minutes per hour = 30 hours
+4) Tom can spend 2 hours per day watching the show.
+5) To find how many days it will take Tom to finish watching the show, we divide the total duration (30 hours) by the daily viewing time (2 hours per day):
+30 hours / 2 hours per day = 15 days
+
+Answer: 15 days

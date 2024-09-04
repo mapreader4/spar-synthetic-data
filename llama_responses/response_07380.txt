@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's start by finding the number of female guests that are from Jay's family.
+
+We know that 60% of the total number of guests are female, and we know that 50% of the female guests are from Jay's family.
+
+We can find the number of female guests that are from Jay's family by multiplying the total number of female guests by the percentage of female guests that are from Jay's family:
+
+60% of the total number of guests = 0.6 * 240 (since 60% of 240 is 0.6 * 240)
+0.6 * 240 = 144
+
+Now we know that 144 of the female guests are from Jay's family.
+
+To find the number of female guests that are from Jay's family, we multiply the total number of female guests by the percentage of female guests that are from Jay's family:
+
+50% of the female guests that are from Jay's family = 0.5 * 144
+0.5 * 144 = 72
+
+Answer: 72

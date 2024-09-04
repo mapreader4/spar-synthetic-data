@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Mark is currently reading books for 2 hours each day
+* He wants to increase his time spent on reading books weekly by 4 hours
+* To find the total time he wants to spend on reading books in one week, we need to:
+  1. Calculate the current time he spends on reading books in one week:
+     * 2 hours per day x 7 days in a week = 14 hours per week
+  2. Add the 4 hours he wants to increase his weekly reading time by:
+     * 14 hours + 4 hours = 18 hours
+
+Answer: 18

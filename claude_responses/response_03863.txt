@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* It takes 2.5 hours to groom 1 dog
+* It takes 0.5 hours to groom 1 cat
+* We need to groom 5 dogs and 3 cats
+* To groom the 5 dogs, it will take 5 * 2.5 = 12.5 hours
+* To groom the 3 cats, it will take 3 * 0.5 = 1.5 hours
+* The total time to groom 5 dogs and 3 cats is 12.5 + 1.5 = 14 hours
+* Converting 14 hours to minutes, we get 14 * 60 = 840 minutes
+
+Answer: 840

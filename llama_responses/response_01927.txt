@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Mike prints 600 pamphlets per hour for 9 hours, so he prints:
+
+600 pamphlets/hour * 9 hours = 5400 pamphlets
+
+After a break, Mike prints at a third of his original speed, which is:
+
+600 pamphlets/hour / 3 = 200 pamphlets/hour
+
+He works for 2 more hours, so he prints:
+
+200 pamphlets/hour * 2 hours = 400 pamphlets
+
+In total, Mike prints:
+
+5400 pamphlets + 400 pamphlets = 5800 pamphlets
+
+Leo works a third as many hours as Mike did before his break, which is:
+
+9 hours / 3 = 3 hours
+
+Leo is twice as fast as Mike before his break, which means he prints:
+
+600 pamphlets/hour * 2 = 1200 pamphlets/hour
+
+Leo works for 3 hours, so he prints:
+
+1200 pamphlets/hour * 3 hours = 3600 pamphlets
+
+In total, Mike and Leo print:
+
+5800 pamphlets + 3600 pamphlets = 9400 pamphlets
+
+Answer: 9400

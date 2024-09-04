@@ -1,0 +1,7 @@
+Let's start by finding out how many nuts Harry has. Since Harry has twice as many nuts as Sue, and Sue has 48 nuts, Harry has 48/2 = 24 nuts.
+
+Then, Bill has 6 times as many nuts as Harry. So Bill has 24 * 6 = 144 nuts.
+
+Now, we can add the number of nuts Bill and Harry have to get the total number of nuts they have combined. 144 + 24 = 168.
+
+Answer: 168

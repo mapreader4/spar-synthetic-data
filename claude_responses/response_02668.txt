@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Hannah's family has 10 pigs on their farm.
+2) They have three fewer than twice as many cows as pigs.
+   * Twice as many cows as pigs would be 2 * 10 = 20 cows.
+   * But they have 3 fewer than that, so they have 20 - 3 = 17 cows.
+3) They have six more goats than cows.
+   * They have 17 cows, and 6 more goats than that, so they have 17 + 6 = 23 goats.
+4) Now we can add up the total number of animals:
+   * 10 pigs + 17 cows + 23 goats = 50 animals
+
+Answer: 50

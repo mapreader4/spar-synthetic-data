@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Jim's gas tank is 12 gallons.
+* He has 2/3 of a tank left after he drives to and from work.
+* The distance he drives to and from work is 10 miles.
+
+To find the total distance Jim drives, we multiply the distance to and from work by 2, since he drives there and back:
+
+10 miles * 2 = 20 miles
+
+Now, we know that Jim has 2/3 of a tank left. To find the amount of gas used, we can multiply the total distance by 2/3:
+
+20 miles * 2/3 = 13.33 miles
+
+Since Jim's gas tank is 12 gallons, we can set up a proportion to find the miles per gallon:
+
+13.33 miles / 12 gallons = x miles/gallon
+
+To simplify this fraction, we can convert it to a decimal by dividing both the numerator and denominator by 0.5:
+
+13.33 ÷ 0.5 = 26.66
+
+So, Jim gets approximately 26.66 miles per gallon.

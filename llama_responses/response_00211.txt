@@ -1,0 +1,41 @@
+Let's break down the problem step by step:
+
+Last year, Jessica's monthly expenses were:
+
+1. Rent: $1000
+2. Food: $200
+3. Car insurance: $100
+
+Total monthly expenses: $1000 + $200 + $100 = $1300
+
+This year, her rent goes up by 30%, which means it increases by 30% of $1000, which is:
+
+$1000 x 0.30 = $300
+
+So, this year her rent is $1000 + $300 = $1300
+
+Her food costs increase by 50%, which means it increases by 50% of $200, which is:
+
+$200 x 0.50 = $100
+
+So, this year her food is $200 + $100 = $300
+
+Her car insurance triples, which means it increases by 200% of $100, which is:
+
+$100 x 2 = $200
+
+So, this year her car insurance is $100 + $200 = $300
+
+This year, her total monthly expenses are:
+
+1. Rent: $1300
+2. Food: $300
+3. Car insurance: $300
+
+Total monthly expenses: $1300 + $300 + $300 = $1900
+
+To find the difference in her expenses over the whole year, we need to multiply the difference between her old and new expenses by 12 (the number of months in a year):
+
+$1900 - $1300 = $600
+
+So, Jessica pays $600 more over the whole year compared to last year.

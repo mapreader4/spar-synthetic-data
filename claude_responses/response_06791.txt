@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Mary bought a packet of 1500 stickers.
+2) She shared them between Susan, Andrew, and Sam in the ratio 1:1:3 respectively.
+   - This means Susan and Andrew each got 1 part, and Sam got 3 parts.
+   - To find the number of stickers each person got, we divide the total (1500) by the total number of parts (5), which gives us 300 stickers per part.
+   - So Susan and Andrew each got 300 stickers, and Sam got 900 stickers.
+3) Sam then gave two-thirds of his share to Andrew.
+   - Sam's share was 900 stickers.
+   - Two-thirds of 900 is 600 stickers.
+   - So Andrew now has his original 300 stickers, plus the 600 stickers from Sam, for a total of 900 stickers.
+
+Answer: 900

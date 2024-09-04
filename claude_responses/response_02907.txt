@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 350 trees in the park
+* 70% of the trees are pine trees
+* To find the number of pine trees, we can calculate 70% of 350:
+* 70% of 350 = 0.70 * 350 = 245 pine trees
+* To find the number of trees that are not pine trees, we need to subtract the number of pine trees from the total number of trees:
+* 350 - 245 = 105 trees that are not pine trees
+
+Answer: 105

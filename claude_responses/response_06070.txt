@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Luigi bought 4 pizzas
+* The total cost of the 4 pizzas was $80
+* Each pizza was cut into 5 pieces
+* To find the cost per piece of pizza, we need to divide the total cost by the total number of pieces
+
+First, let's calculate the total number of pieces:
+* 4 pizzas x 5 pieces per pizza = 20 pieces
+
+Now, to find the cost per piece, we divide the total cost by the total number of pieces:
+* $80 / 20 pieces = $4 per piece
+
+Answer: 4

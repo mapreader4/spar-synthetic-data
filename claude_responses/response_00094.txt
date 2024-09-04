@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John writes 20 pages a day
+* Each book is 400 pages
+* John needs to write 3 books
+
+To find the total number of pages John needs to write, we can multiply the number of books (3) by the number of pages per book (400):
+* 3 books x 400 pages per book = 1,200 total pages
+
+Now, to find how long it will take John to write 1,200 pages, we can divide the total pages by the number of pages he writes per day:
+* 1,200 pages / 20 pages per day = 60 days
+
+Therefore, it will take John 60 days to write 3 books that are 400 pages each.
+
+Answer: 60

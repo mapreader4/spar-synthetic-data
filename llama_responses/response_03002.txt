@@ -1,0 +1,12 @@
+Let's start by identifying the information given:
+
+* Each tray of banana pudding needs 80 wafer cookies.
+* There are 3 trays of banana pudding, so the total number of wafer cookies needed is 3 x 80 = 240.
+* Each box of wafer cookies has 60 cookies, so the number of boxes needed is 240 ÷ 60 = 4.
+* Each box of wafer cookies costs $3.50.
+
+To find the total cost, we multiply the number of boxes needed by the cost per box:
+
+4 boxes x $3.50 per box = $14.00
+
+Answer: 14

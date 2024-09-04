@@ -1,0 +1,11 @@
+To find the average number of hours Brady worked per month, we need to find the total number of hours he worked in those 3 months and then divide it by 3.
+
+The total number of hours Brady worked in those 3 months is:
+
+6 hours/day * 1 (April) + 5 hours/day * 1 (June) + 8 hours/day * 1 (September) = 6 + 5 + 8 = 19
+
+To find the average, we divide the total number of hours by 3:
+
+19 / 3 = 6.33
+
+Answer: 6.33

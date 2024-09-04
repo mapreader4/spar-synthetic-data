@@ -1,0 +1,17 @@
+Let's think step by step:
+
+First, we need to find the average height of the houses. To find the average, we add the heights of the houses and divide by the number of houses. There are 3 houses in total.
+
+80 + 70 + 99 = 249
+
+To find the average, we divide the sum by the number of houses:
+
+249 ÷ 3 = 83
+
+So, the average height of the houses is 83 feet.
+
+Lucille's house is 83 feet tall. Since her house is not the same as the average, it must be taller or shorter. Since her house is 83 feet tall, we need to find how much shorter it is from the average. To find the difference, we subtract the average from Lucille's height:
+
+83 - 80 = 3
+
+Lucille's house is 3 feet shorter than the average height.

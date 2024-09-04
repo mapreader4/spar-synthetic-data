@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find the total number of pounds of turkey that Liz roasts in total. Liz roasts 2 pounds of turkey. So, the total number of pounds of turkey is 2.
+
+Since Liz can only roast 1 pound of turkey at a time, we can find the total number of times she needs to roast the turkey. The total number of times is 2 pounds / 1 pound = 2 times.
+
+Now, let's find the total roasting time. Liz roasts each turkey for 15 minutes per pound. So, the total roasting time is 2 pounds * 15 minutes = 30 minutes.
+
+Since dinner is served at 6:00 pm, we need to find the latest time Liz can start roasting the turkey. We know that the total roasting time is 30 minutes. So, the latest time Liz can start roasting the turkey is 5:30 pm. 
+
+Answer: 5:30

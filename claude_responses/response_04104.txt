@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Annie's class has a total of 35 people
+* Each classmate received 2 candies
+* So the total number of candies given to the classmates is:
+  * 35 people x 2 candies per person = 70 candies
+* Annie was left with 12 candies
+* So the total number of candies Annie bought is:
+  * 70 candies + 12 candies = 82 candies
+* Each candy costs $0.1
+* So the total amount Annie spent on candies is:
+  * 82 candies x $0.1 per candy = $8.2
+
+Answer: $8.2

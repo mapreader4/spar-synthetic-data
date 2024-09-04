@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Dave bought 3 packs of white T-shirts. Each pack has 6 T-shirts, so the total number of white T-shirts is 3 * 6 = 18.
+
+Dave also bought 2 packs of blue T-shirts. Each pack has 4 T-shirts, so the total number of blue T-shirts is 2 * 4 = 8.
+
+To find the total number of T-shirts Dave bought, we add the number of white T-shirts to the number of blue T-shirts: 18 + 8 = 26.
+
+Answer: 26

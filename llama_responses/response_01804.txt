@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Each die has 6 sides, so there are 6 sides on each of the 2 dice. To find the total number of sides, we multiply the number of sides per die by the number of dice. So, the total number of sides is:
+
+6 x 2 = 12
+
+Answer: 12

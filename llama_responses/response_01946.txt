@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Randy has 200 dollars in his piggy bank initially. He spends 2 dollars every time he goes to the store. He makes 4 trips to the store every month. 
+
+Since there are 12 months in a year, he will make 12 x 4 = 48 trips to the store in a year. 
+
+Each time he goes to the store, he spends 2 dollars. So, in total, he will spend 48 x 2 = 96 dollars in a year.
+
+So, he will have 200 - 96 dollars left in his piggy bank after a year. 
+
+Answer: 104.

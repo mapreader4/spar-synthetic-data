@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find out how much money Carol has in total. She saves $9 per week, so in a year, she saves $9 * 52 = $468. Now, she has $60. So, she needs to save $468 - $60 = $408 more.
+
+Now, let's find out how much money Mike saves in a year. He saves $3 per week, so in a year, he saves $3 * 52 = $156. He has $90, so he needs to save $156 - $90 = $66 more.
+
+Now, let's find out how many weeks it will take for Carol and Mike to have the same amount of money. Carol needs to save $408, and Mike needs to save $66. Since Carol saves $9 per week, it will take her $408 / $9 = 45.6 weeks. Since Mike saves $3 per week, it will take him $66 / $3 = 22 weeks. Since $45.6 is more than 22, it will take Carol more weeks than Mike. So, it will take Mike 22.6 weeks more than Carol to have the same amount of money.
+
+Answer: 23

@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of problems that Bill, Ryan, and Frank need to compose.
+
+Bill composes 20 problems, so that's 20 problems.
+
+Ryan composes twice as many problems as Bill, so Ryan composes 2 * 20 = 40 problems.
+
+Frank composes 3 times as many problems as Ryan, so Frank composes 3 * 40 = 120 problems.
+
+Now, we need to find the total number of problems that they need to compose. This is the sum of the number of problems each of them composes:
+
+20 + 40 + 120 = 180
+
+So, they need to compose 180 problems in total.
+
+Now, each of them need to compose 180 / 3 types of problems in equal proportion. So, the number of problems of each type that Frank needs to compose is:
+
+180 / 3 = 60.
+
+Answer: 60

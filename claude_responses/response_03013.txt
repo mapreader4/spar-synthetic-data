@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* John bench presses 15 pounds for 10 reps
+* He does 3 sets of this
+* To calculate the total weight moved, we need to:
+  1. Calculate the weight moved in one set
+  2. Multiply that by the number of sets
+
+Step 1: Calculate the weight moved in one set
+* John bench presses 15 pounds for 10 reps
+* So, in one set, he moves 15 pounds x 10 reps = 150 pounds
+
+Step 2: Multiply the weight moved in one set by the number of sets
+* John does 3 sets
+* So, the total weight moved is 150 pounds x 3 sets = 450 pounds
+
+Answer: 450 pounds

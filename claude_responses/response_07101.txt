@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. On Sunday, Alice bought 4 pints of strawberry ice cream.
+
+2. On Monday, she bought three times the number of pints she bought the day before, which is 3 x 4 = 12 pints.
+
+3. On Tuesday, she bought one-third of the number of pints she bought the day before, which is 1/3 x 12 = 4 pints.
+
+4. On Wednesday, she returned half of the pints she bought the day before, which is 1/2 x 4 = 2 pints.
+
+Now, let's add up the total number of pints she had on Wednesday:
+* Sunday: 4 pints
+* Monday: 12 pints
+* Tuesday: 4 pints
+* Wednesday: 4 pints - 2 pints = 2 pints
+
+Therefore, the total number of pints of ice cream Alice had on Wednesday is:
+4 + 12 + 4 - 2 = 18 pints
+
+Answer: 18

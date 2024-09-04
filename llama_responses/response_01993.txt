@@ -1,0 +1,3 @@
+Let's break this problem down step by step.
+
+Georgia coughs 5 times a minute, so that is 5.  Robert coughs twice as much as Georgia, so he coughs 10 times a minute.  After 20 minutes, Georgia has coughed 5 * 20 = 100 times and Robert has coughed 10 * 20 = 200 times.  So, the total number of times they have coughed is 100 + 200 = 300.

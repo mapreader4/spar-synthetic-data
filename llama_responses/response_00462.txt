@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Roberto can skip 4,200 times an hour, so in one hour, he will skip 4,200 jumps.
+
+Valerie can skip 80 times a minute, so in one minute, she will skip 80 jumps.
+
+In one hour, Roberto will skip 4,200 jumps, and Valerie will skip 80 jumps. Since they are jumping together, they will skip a total of 4,200 + 80 = 4,280 jumps.
+
+Answer: 4280

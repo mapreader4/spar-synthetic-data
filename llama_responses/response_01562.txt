@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Jan breaks down 3 blocks of candy, which produces 3 x 30 = 90 pieces of candy.
+2. Each piece of candy necklace requires 10 pieces of candy. So, the total number of candies needed for all the necklaces is 10 x (number of friends) + 1 (Jan's own necklace).
+
+3. Jan is making necklaces for herself and a few friends. Let's assume the number of friends is x. Then, the total number of candies needed is 10x + 1.
+
+4. The total number of candies needed is 90 (candies from 3 blocks) - 10x (candies used in each necklace). Let's set up an equation: 90 - 10x = 90 - 10.
+
+5. Solving for x, we get x = 8. So, 8 friends receive a candy necklace each.

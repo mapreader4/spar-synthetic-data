@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the variables in the problem:
+
+* The number of times James takes a spinning class per week is 3.
+* The amount of time James spends in class is 1.5 hours.
+* The number of calories James burns per minute is 7.
+
+We need to find the total number of calories James burns in a week. To do this, we can multiply the number of calories burned per minute by the number of minutes in a class, then multiply that by the number of classes James takes in a week.
+
+Let's start by converting the number of hours in a class to minutes. 1.5 hours is equivalent to 90 minutes. So, the number of minutes in a class is 90.
+
+Next, we multiply the number of calories burned per minute by the number of minutes in a class, which is 7 x 90 = 630 calories per class.
+
+Now, we multiply the number of calories burned per class by the number of classes James takes in a week, which is 3. 630 calories per class multiplied by 3 is 1890 calories.
+
+So, James burns 1890 calories per week.
+
+Answer: 1890

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each tire can hold 500 cubic inches of air
+* Two tires are completely flat and empty, so they need 500 cubic inches each, for a total of 1000 cubic inches
+* One tire is 40% full, so it needs 60% of 500 cubic inches, which is 300 cubic inches
+* One tire is 70% full, so it needs 30% of 500 cubic inches, which is 150 cubic inches
+* In total, the tires need 1000 + 300 + 150 = 1450 cubic inches of air
+* Carson injects 50 cubic inches of air with each pump
+* To calculate the number of pumps, we divide the total air needed (1450 cubic inches) by the air injected per pump (50 cubic inches)
+* 1450 / 50 = 29 pumps
+
+Answer: 29 pumps

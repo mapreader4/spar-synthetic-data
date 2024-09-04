@@ -1,0 +1,16 @@
+Let's break down the information given:
+
+1. The number of participants in 2018 is 150.
+2. The number of participants in 2019 is 20 more than twice the number of participants in 2018, which is 2(150) + 20 = 320.
+3. The number of participants in 2020 is 40 less than half the number of participants in 2019, which is (320)/2 - 40 = 120.
+
+Now, let's find the difference between the number of participants in 2019 and 2020:
+
+2019: 320
+2020: 120
+
+To find the difference, subtract 120 from 320:
+
+320 - 120 = 200
+
+Answer: 200

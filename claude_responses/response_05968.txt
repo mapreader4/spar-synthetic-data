@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+* The tree is currently 10 feet tall.
+* The tree grows at a rate of 2 feet per week.
+* We want to know the tree's height after 4 months, where each month is 4 weeks long.
+* So, the total number of weeks in 4 months is 4 * 4 = 16 weeks.
+* In 16 weeks, the tree will grow 2 feet per week, which is a total of 2 * 16 = 32 feet.
+* The initial height of the tree was 10 feet.
+* So, the total height of the tree after 4 months will be 10 feet + 32 feet = 42 feet.
+
+Answer: 42

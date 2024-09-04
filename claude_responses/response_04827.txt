@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 360 balls in the ball pit.
+2) A quarter of the balls are red. To find the number of red balls, we take 1/4 of 360, which is 90 red balls.
+3) The remaining balls are non-red. We can find the number of non-red balls by subtracting the red balls from the total: 360 - 90 = 270 non-red balls.
+4) A fifth of the non-red balls are blue. To find the number of blue balls, we take 1/5 of 270, which is 54 blue balls.
+5) The remaining balls are neither red nor blue. To find the number of balls that are neither red nor blue, we subtract the red and blue balls from the total: 360 - 90 - 54 = 216 balls that are neither red nor blue.
+
+Answer: 216

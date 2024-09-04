@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* A herring has 40 oz of fat
+* An eel has 20 oz of fat
+* A pike has 10 more oz of fat than an eel, so a pike has 20 + 10 = 30 oz of fat
+* Ellianna cooked and served 40 fish of each type
+
+To calculate the total ounces of fat served, we need to:
+1. Calculate the total fat from the herrings:
+   * 40 oz of fat per herring x 40 herrings = 1,600 oz of fat
+2. Calculate the total fat from the eels:
+   * 20 oz of fat per eel x 40 eels = 800 oz of fat
+3. Calculate the total fat from the pikes:
+   * 30 oz of fat per pike x 40 pikes = 1,200 oz of fat
+
+Now we add up the total fat from all three types of fish:
+* 1,600 oz + 800 oz + 1,200 oz = 3,600 oz of fat
+
+Answer: 3,600

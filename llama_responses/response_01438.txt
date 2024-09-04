@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start with the initial amount of soup, which is 80 kg.
+
+Day 1: 80 kg
+
+Day 2: 80 kg -> 80 / 2 = 40 kg
+
+Day 3: 40 kg -> 40 / 2 = 20 kg
+
+Day 4: 20 kg -> 20 / 2 = 10 kg
+
+So, on the fourth day, the soup will be 10 kg.

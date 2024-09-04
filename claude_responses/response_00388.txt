@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John rents the apartment for $900 per month
+* He sublets the apartment to 3 people
+* Each subletter pays $400 per month
+* To calculate the profit per month:
+    - Rental income from subletters: 3 x $400 = $1,200 per month
+    - Rent paid by John: $900 per month
+    - Profit per month: $1,200 - $900 = $300 per month
+* To calculate the profit in a year:
+    - Profit per month: $300
+    - Months in a year: 12
+    - Yearly profit: $300 x 12 = $3,600
+
+Answer: $3,600

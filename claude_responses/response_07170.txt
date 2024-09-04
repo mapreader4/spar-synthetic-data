@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+
+1. Last year, Monica read 16 books.
+2. This year, she read twice the number of books she read last year. 
+   * This year's books = 2 x 16 = 32 books.
+3. Next year, she wants to read 5 more than twice the number of books she read this year.
+   * Next year's books = (2 x 32) + 5 = 69 books.
+
+Answer: 69

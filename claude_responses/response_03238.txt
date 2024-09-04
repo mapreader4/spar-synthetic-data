@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jill can run up the hill at 9 feet/second.
+2) The hill is 900 feet long.
+3) To find the time it takes Jill to run up the hill, we divide the distance by the speed:
+   Time to run up the hill = 900 feet / 9 feet/second = 100 seconds
+4) Jill can run down the hill at 12 feet/second.
+5) To find the time it takes Jill to run down the hill, we divide the distance by the speed:
+   Time to run down the hill = 900 feet / 12 feet/second = 75 seconds
+6) The total time is the sum of the time to run up and the time to run down:
+   Total time = 100 seconds + 75 seconds = 175 seconds
+
+Answer: 175

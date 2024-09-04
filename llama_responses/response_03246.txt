@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's start by finding the volume of one iron bar. The iron bar measures 12 cm by 8 cm by 6 cm, so its volume is:
+
+Volume = Length x Width x Height = 12 cm x 8 cm x 6 cm = 96 cubic cm
+
+Since the factory wants to melt 10 iron bars, the total volume of the 10 iron bars is:
+
+10 x 96 cubic cm = 960 cubic cm
+
+Since each iron ball has a volume of 8 cubic cm, we can divide the total volume by 8 to find the number of iron balls that can be molded:
+
+960 cubic cm ÷ 8 cubic cm = 120
+
+So, 120 iron balls can be molded.

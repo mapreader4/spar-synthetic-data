@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+* Johnny has two dogs
+* Each dog has 4 legs
+* So the two dogs have a total of 2 x 4 = 8 legs
+* Johnny, as a human, has 2 legs
+* Johnny's son, also a human, has 2 legs
+* So the total number of legs is:
+* 8 legs (from the two dogs)
+* + 2 legs (from Johnny)
+* + 2 legs (from Johnny's son)
+* = 12 legs
+
+Answer: 12

@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the amount of money the investor will have in scheme A after a year:
+
+Scheme A: The investor invested $300, and the scheme will yield 30% of the capital. To find the amount of money the investor will have in scheme A after a year, we can multiply the initial investment by the yield:
+
+$300 (initial investment) x 0.3 (30% yield) = $90
+
+So, the investor will have $90 in scheme A after a year.
+
+Now, let's calculate the amount of money the investor will have in scheme B after a year:
+
+Scheme B: The investor invested $200, and the scheme will yield 50% of the capital. To find the amount of money the investor will have in scheme B after a year, we can multiply the initial investment by the yield:
+
+$200 (initial investment) x 0.5 (50% yield) = $100
+
+So, the investor will have $100 in scheme B after a year.
+
+Now, to find the difference between the amount of money the investor will have in scheme A and scheme B after a year, we subtract the amount in scheme B from the amount in scheme A:
+
+$90 (amount in scheme A) - $100 (amount in scheme B) = -$10
+
+The investor will have $10 less in scheme B than in scheme A after a year.
+
+Answer: -10

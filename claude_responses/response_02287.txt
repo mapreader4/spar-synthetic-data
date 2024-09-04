@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jason counted 4 times as many green cars as red cars
+* He also counted 6 more red cars than purple cars
+* The total number of cars he counted was 312
+
+Let's use variables to represent the number of each color of car:
+* Let x = the number of red cars
+* Then the number of green cars is 4x
+* And the number of purple cars is x - 6
+
+We know the total number of cars is 312, so we can set up an equation:
+* x + 4x + (x - 6) = 312
+* 6x - 6 = 312
+* 6x = 318
+* x = 53
+
+So the number of red cars is 53.
+Since there are 6 more red cars than purple cars, the number of purple cars is:
+* 53 - 6 = 47
+
+Answer: 47

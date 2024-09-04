@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* In 2010, the Chicago Bulls won 70 games
+* The Miami Heat won 5 more games than the Chicago Bulls
+* To find the number of games the Miami Heat won, we add 5 to the number of games the Chicago Bulls won:
+* 70 + 5 = 75 games
+* Now, to find the total number of games won by the Bulls and the Heat, we add their individual game totals:
+* 70 + 75 = 145 games
+
+Answer: 145

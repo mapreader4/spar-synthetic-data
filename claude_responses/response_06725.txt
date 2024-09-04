@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Janice works 5 days a week at the convenience store
+* She earns $30 per day
+* So for the 5 regular days, she earns:
+  * 5 days x $30 per day = $150
+* She also works 3 overtime shifts this week
+* Each overtime shift is 2 hours long, and she earns $15 more for each overtime shift
+* So for the 3 overtime shifts, she earns:
+  * 3 shifts x $15 per shift = $45
+* To calculate her total earnings for the week, we add the earnings from the regular days and the overtime shifts:
+  * $150 + $45 = $195
+
+Answer: $195

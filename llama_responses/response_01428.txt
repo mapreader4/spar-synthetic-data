@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of figurines that Adam can make with the basswood blocks. Since each block of basswood can create 3 figurines, and Adam owns 15 blocks of basswood, the total number of figurines he can make with basswood is:
+
+15 blocks of basswood * 3 figurines per block = 15 * 3 = 45 figurines
+
+Next, let's find the total number of figurines that Adam can make with the butternut wood blocks. Since each block of butternut wood can create 4 figurines, and Adam owns 20 blocks of butternut wood, the total number of figurines he can make with butternut wood is:
+
+20 blocks of butternut wood * 4 figurines per block = 20 * 4 = 80 figurines
+
+Now, let's find the total number of figurines that Adam can make with the Aspen wood blocks. Since each block of Aspen wood can create twice the amount of figurines compared to basswood, and Adam owns 20 blocks of Aspen wood, the total number of figurines he can make with Aspen wood is:
+
+20 blocks of Aspen wood * 2 * 3 figurines per block = 20 * 2 * 3 = 120 figurines
+
+Now, let's add up the total number of figurines Adam can make with all the wood types:
+
+45 figurines (from basswood) + 80 figurines (from butternut wood) + 120 figurines (from Aspen wood) = 245 figurines
+
+Answer: 245

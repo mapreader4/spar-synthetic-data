@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+
+1. James initially bought $3000 worth of stuff from Amazon.
+
+2. He then returned a TV that cost $700 and a bike that cost $500. This means he got a refund of $1200 for the returned items.
+
+3. He then sold another bike that cost 20% more than the bike he returned. The bike he returned cost $500, so the bike he sold cost $500 + (20% of $500) = $600.
+He sold this bike for 80% of what he bought it for, which is 0.8 * $600 = $480.
+
+4. Finally, he bought a toaster for $100.
+
+Now, let's calculate the total amount James is out of pocket:
+* Initial purchase: $3000
+* Refund for returned items: -$1200
+* Bike sold: -$480
+* Toaster purchased: +$100
+
+Adding these up, we get:
+$3000 - $1200 - $480 + $100 = $1420
+
+Answer: $1420

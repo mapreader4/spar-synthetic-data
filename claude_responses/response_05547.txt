@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Frank has 5 apples hanging on the tree.
+2) Frank also has 8 apples that have fallen to the ground.
+3) Frank's dog eats 3 of the apples that have fallen to the ground.
+4) To find the total number of apples left, we need to subtract the number of apples the dog ate from the total number of apples.
+5) The total number of apples is 5 (on the tree) + 8 (on the ground) = 13 apples.
+6) The dog ate 3 apples, so we subtract 3 from the total of 13 apples.
+7) 13 apples - 3 apples = 10 apples.
+
+Answer: 10 apples.

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Tom has 10 pounds of beef, and he wants to make lasagna with all his beef.  It takes twice as many noodles as beef, so he needs 20 pounds of noodles for the lasagna.  He already has 4 pounds of lasagna noodles, which is 2 pounds less than what he needs.  So, he needs 20 - 2 = 18 pounds of noodles.
+
+The noodles come in 2-pound packages, so we can find the number of packages needed by dividing 18 pounds by 2 pounds.  18 / 2 = 9.  Tom needs to buy 9 packages of noodles.

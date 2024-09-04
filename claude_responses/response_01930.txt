@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* For the first 30 minutes, the water flow is 2 cups per 10 minutes
+* So in the first 30 minutes, the total amount of water is:
+  - 3 x 2 cups = 6 cups
+* For the next 30 minutes, the water flow is still 2 cups per 10 minutes
+* So in the next 30 minutes, the total amount of water is:
+  - 3 x 2 cups = 6 cups
+* For the final hour, the water flow is 4 cups per 10 minutes
+* So in the final hour, the total amount of water is:
+  - 6 x 4 cups = 24 cups
+* The total amount of water accumulated is:
+  - 6 cups + 6 cups + 24 cups = 36 cups
+* Shawn now has to dump half of the water away
+* So the amount of water left is:
+  - 36 cups / 2 = 18 cups
+
+Answer: 18 cups

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The height of the box is 12 inches.
+2) The length of the box is 3 times its height, which means the length is 3 x 12 = 36 inches.
+3) The width of the box is 1/4 the length, which means the width is 36 / 4 = 9 inches.
+4) To calculate the volume of the box, we multiply the length, width, and height:
+Volume = Length x Width x Height
+Volume = 36 inches x 9 inches x 12 inches
+Volume = 3,888 cubic inches
+
+Answer: 3,888

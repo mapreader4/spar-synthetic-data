@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Karl sells T-shirts for $5 each
+* He sold 2 T-shirts, so the total income from T-shirts is:
+  * 2 T-shirts x $5 per T-shirt = $10
+* Karl sells pants for $4 each
+* He sold 1 pair of pants, so the total income from pants is:
+  * 1 pair of pants x $4 per pair = $4
+* Karl sells skirts for $6 each
+* He sold 4 skirts, so the total income from skirts is:
+  * 4 skirts x $6 per skirt = $24
+* Karl sells refurbished T-shirts for half the original price, which is $2.50 each
+* He sold 6 refurbished T-shirts, so the total income from refurbished T-shirts is:
+  * 6 refurbished T-shirts x $2.50 per T-shirt = $15
+
+Now, to calculate the total income, we add up the income from each item:
+* Total income = $10 + $4 + $24 + $15 = $53
+
+Answer: 53

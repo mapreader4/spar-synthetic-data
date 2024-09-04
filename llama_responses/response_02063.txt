@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Bess throws the Frisbee 4 times, each time throwing it 20 meters. So, the total distance traveled by Bess is 4 x 20 = 80 meters.
+
+2. Holly throws the Frisbee 5 times, each time throwing it 8 meters. So, the total distance traveled by Holly is 5 x 8 = 40 meters.
+
+3. Since each time Bess throws the Frisbee back to her original position, we need to add the distance traveled by Holly to the distance traveled by Bess. So, the total distance traveled by both Bess and Holly is 80 + 40 = 120 meters.
+
+Answer: 120

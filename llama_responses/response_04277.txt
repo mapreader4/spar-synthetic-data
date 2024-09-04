@@ -1,0 +1,23 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the numbers given in the problem:
+
+* Stores: 2000
+* Hospitals: 500
+* Schools: 200
+* Police stations: 20
+
+The problem states that the new city should have half the number of stores, twice as many hospitals, 50 fewer schools, and 5 more police stations.
+
+Let's calculate the new numbers:
+
+* Stores: 2000 / 2 = 1000
+* Hospitals: 500 * 2 = 1000
+* Schools: 200 - 50 = 150
+* Police stations: 20 + 5 = 25
+
+Now, let's add up the new numbers:
+
+1000 + 1000 + 150 + 25 = 2185
+
+Answer: 2185

@@ -1,0 +1,23 @@
+Let's break this problem down step by step!
+
+Let's start by identifying the speeds of the three snails:
+
+1. The first snail travels at a speed of 2 feet per minute.
+2. The second snail travels at twice the speed of the first snail, which is 2 x 2 = 4 feet per minute.
+3. The third snail travels at five times the speed of the second snail, which is 4 x 5 = 20 feet per minute.
+
+Now, let's find the distance traveled by the first snail in 20 minutes:
+
+Distance = Speed x Time
+= 2 feet/minute x 20 minutes
+= 40 feet
+
+Since the third snail travels at 20 feet per minute, we can find the time it takes for the third snail to travel the same distance:
+
+Time = Distance / Speed
+= 40 feet / 20 feet/minute
+= 2 minutes
+
+So, it took the third snail 2 minutes to race all the way up the sidewalk.
+
+Answer: 2

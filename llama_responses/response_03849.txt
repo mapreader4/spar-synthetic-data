@@ -1,0 +1,39 @@
+Let's break this problem down step by step.
+
+Randy had some money initially. He spent $10 on his lunch. So, we can subtract $10 from the money he had initially to find out how much he had at first.
+
+Let's say the amount of money Randy had initially is x.
+
+After spending $10, Randy has x - $10 left.
+
+He spent a quarter of the money he had left on an ice cream cone. A quarter of the money is one-fourth of the money. So, if we let x be the amount of money Randy had initially, then a quarter of that is x/4.
+
+The ice cream cone cost $5. So, we can set up an equation to represent the situation:
+
+x - 10 = (x/4) - 5
+
+To solve for x, we can add 5 to both sides of the equation:
+
+x - 10 = x/4 - 5 + 5
+
+x - 10 = x/4
+
+We can add 5 to both sides of the equation to get:
+
+x = x/4 + 5
+
+Now, we can add 10 to both sides of the equation to get:
+
+x = 10 + x/4
+
+Now, we can multiply both sides of the equation by 4 to get:
+
+4x = 40
+
+We can divide both sides of the equation by 4 to get:
+
+x = 40/4
+
+x = 10
+
+Answer: 10

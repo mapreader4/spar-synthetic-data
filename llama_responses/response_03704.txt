@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* The store sold 327 televisions on Black Friday this year.
+* They sold 50 more than they sold last Black Friday, so they sold 327 televisions last Black Friday.
+* The trend continues, so they will sell 50 more televisions each year for 3 years.
+
+To find the total number of televisions they will sell in 3 years, we need to multiply the 50 additional televisions sold each year by 3.
+
+50 x 3 = 150
+
+So, the store will sell 150 more televisions each year for 3 years. To find the total number of televisions they will sell in 3 years, we need to multiply 150 by 3.
+
+150 x 3 = 450
+
+Answer: 450

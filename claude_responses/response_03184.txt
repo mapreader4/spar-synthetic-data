@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) You bought 4 times as many tetras as Tim bought clowns.
+2) Tim bought twice as many clowns as Rick bought guppies.
+3) Rick bought 30 guppies.
+
+First, let's find out how many clowns Tim bought:
+* Rick bought 30 guppies
+* Tim bought twice as many clowns as Rick bought guppies
+* So, Tim bought 2 * 30 = 60 clowns
+
+Now, let's find out how many tetras you bought:
+* You bought 4 times as many tetras as Tim bought clowns
+* Tim bought 60 clowns
+* So, you bought 4 * 60 = 240 tetras
+
+Finally, let's add up the total number of animals bought:
+* Rick bought 30 guppies
+* Tim bought 60 clowns
+* You bought 240 tetras
+* Total animals bought = 30 + 60 + 240 = 330
+
+Answer: 330

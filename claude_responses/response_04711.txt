@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The textbook has 31 chapters
+* Anna skips all the chapters that are divisible by 3
+* It takes her 20 minutes to read each chapter
+
+To find the total number of chapters she reads, we need to subtract the number of chapters that are divisible by 3 from the total number of chapters.
+* Chapters divisible by 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30
+* That's 10 chapters that she skips
+
+So, the number of chapters she reads is:
+* 31 - 10 = 21 chapters
+
+Now, we know it takes her 20 minutes to read each chapter, so the total time spent reading is:
+* 21 chapters x 20 minutes/chapter = 420 minutes
+
+To convert this to hours, we divide by 60 minutes/hour:
+* 420 minutes / 60 minutes/hour = 7 hours
+
+Answer: 7 hours

@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The wire is cut into three smaller pieces in the ratio of 7:3:2.
+2) The shortest piece is 16 cm.
+3) To find the length of the entire wire before it was cut, we need to find the total of the three pieces.
+4) The ratio of the three pieces is 7:3:2, so the lengths of the three pieces are in the same ratio.
+5) The shortest piece is 16 cm, so the length of the second piece is 16 * (3/2) = 24 cm.
+6) The length of the third piece is 16 * (7/2) = 56 cm.
+7) The total length of the wire before it was cut is the sum of the three pieces: 16 + 24 + 56 = 96 cm.
+
+Answer: 96

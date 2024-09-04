@@ -1,0 +1,7 @@
+Let's start by using the information that Juniper has 12 whiskers. We know that Puffy has three times as many whiskers as Juniper, so Puffy has 12 * 3 = 36 whiskers. We also know that Puffy has half as many whiskers as Scruffy, so Scruffy has 2 * 36 = 72 whiskers. 
+
+We also know that Buffy has the same number of whiskers as the average of the other three cats. The average of Puffy's whiskers (36), Scruffy's whiskers (72), and Juniper's whiskers (12) is (36 + 72 + 12) / 3 = 120 / 3 = 40. 
+
+Since Buffy has the same number of whiskers as the average of the other three cats, Buffy has 40 whiskers. 
+
+Answer: 40

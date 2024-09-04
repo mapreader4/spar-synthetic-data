@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The coach placed 15 tennis balls and 5 soccer balls into each of 5 baskets
+* So in total, there were 5 * (15 + 5) = 100 balls in the baskets
+* 3 students each removed 8 balls, so 3 * 8 = 24 balls were removed
+* The remaining 2 students removed a certain number of balls each
+* In total, 56 balls are still in the baskets
+* So the total number of balls removed is 100 - 56 = 44 balls
+* We know that 24 of those balls were removed by the 3 students
+* So the remaining 44 - 24 = 20 balls were removed by the other 2 students
+* Therefore, each of the other 2 students removed 20 / 2 = 10 balls
+
+Answer: 10

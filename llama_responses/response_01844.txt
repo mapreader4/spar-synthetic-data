@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Miggy's mom brought 3 bags of hats. Each bag has 15 hats. So, the total number of hats is 3 * 15 = 45.
+
+Miggy accidentally tore off 5 hats. So, the number of hats left is 45 - 5 = 40.
+
+During the party, 25 hats were used. So, the number of hats left is 40 - 25 = 15.
+
+Answer: 15

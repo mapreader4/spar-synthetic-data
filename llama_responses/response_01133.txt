@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Step 1: Marcus has 2 $10 bills. He can buy 50 ounces of water for $2.5 a bottle. So, to find out how many bottles he can buy, we need to divide 10 by 2.5. 
+
+10 / 2.5 = 4
+
+So, Marcus can buy 4 bottles of water. Each bottle holds 3 ounces of water. So, he can buy 4 x 3 = 12 ounces of water.
+
+Step 2: Marcus has 100 balloons. Each balloon holds 3 ounces of water. So, to find out how many balloons he needs, we need to divide 100 by 3.
+
+100 / 3 = 33.33
+
+So, Marcus needs 33.33 balloons. He can buy 4 bottles of water, which is less than 33.33 balloons. So, he needs to buy more balloons.
+
+Step 3: Marcus needs 33.33 balloons. He has 100 balloons. So, to find out how many more balloons he needs, we need to subtract 33.33 from 100.
+
+100 - 33.33 = 66.67
+
+So, Marcus needs 66.67 balloons. He can buy 4 bottles of water, which is more than 66.67 balloons. So, he will have some change.
+
+Marcus buys all the water he needs and has 2 $10 bills. So, to find out how much change he will have, we need to subtract 12 ounces of water (4 bottles) from 10 dollars.
+
+10 - 2.5 * 4 = 10 - 10 = 0
+
+Marcus will have $0 in change.

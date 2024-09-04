@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 3 rows of people relaxing at the beach
+* The first row originally had 24 people
+* 3 people from the first row got up to wade in the water, so now there are 24 - 3 = 21 people in the first row
+* The second row originally had 20 people
+* 5 people from the second row went to join the people in the water, so now there are 20 - 5 = 15 people in the second row
+* The third row has 18 people
+
+To find the total number of people left relaxing on the beach, we add up the number of people in each row:
+* First row: 21 people
+* Second row: 15 people
+* Third row: 18 people
+* Total: 21 + 15 + 18 = 54 people
+
+Answer: 54

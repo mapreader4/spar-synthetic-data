@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Initially, the temperature is 40 degrees.
+
+Jerry's dad sets it to double the initial temperature, which is 40 x 2 = 80 degrees.
+
+Then, his dad reduces the temperature by 30 degrees, which is 80 - 30 = 50 degrees.
+
+Next, Jerry's mom reduces the temperature by 30%, which is 50 - (30% of 50) = 50 - 15 = 35 degrees.
+
+Finally, Jerry's sister increases the temperature by 24 degrees, which is 35 + 24 = 59 degrees.
+
+Answer: 59

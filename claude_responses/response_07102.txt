@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Bob's property is 1000 feet wide and 2250 feet long.
+2) He wants the width of the garden to be about an eighth of the width of his property. 
+   * 1000 feet / 8 = 125 feet
+3) He wants the length of the garden to be a tenth of the length of his property.
+   * 2250 feet / 10 = 225 feet
+4) To calculate the area of the garden, we multiply the width and length:
+   * 125 feet x 225 feet = 28,125 square feet
+
+Answer: 28,125 square feet

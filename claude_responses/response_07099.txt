@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Matt skips ropes 3 times per second
+* He jumped for 10 minutes
+* To find the total number of skips, we need to:
+  1. Convert the time from minutes to seconds
+  2. Multiply the number of seconds by the number of skips per second
+
+Step 1: Convert 10 minutes to seconds
+* 10 minutes = 10 x 60 seconds = 600 seconds
+
+Step 2: Multiply the number of seconds by the number of skips per second
+* 600 seconds x 3 skips/second = 1,800 skips
+
+Therefore, the answer is:
+Answer: 1,800

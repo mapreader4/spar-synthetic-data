@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The price of a wooden toy is $20
+* The price of a hat is $10
+* Kendra bought 2 wooden toys and 3 hats
+* To calculate the total cost of the items Kendra bought:
+    - 2 wooden toys at $20 each = $40
+    - 3 hats at $10 each = $30
+    - Total cost = $40 + $30 = $70
+* Kendra went to the shop with a $100 bill
+* To calculate the change Kendra received:
+    - Kendra paid $100
+    - The total cost of the items was $70
+    - The change Kendra received is $100 - $70 = $30
+
+Answer: 30

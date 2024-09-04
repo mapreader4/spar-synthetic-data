@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The sandwich cost $4.
+2) The juice was two times more expensive than the sandwich, so the juice cost $8.
+3) The total cost of the sandwich and juice is $4 + $8 = $12.
+4) The bottle of milk cost 75% of the total cost of the sandwich and juice, which is 0.75 * $12 = $9.
+5) The total cost of the food is the sum of the sandwich ($4), the juice ($8), and the milk ($9), which is $4 + $8 + $9 = $21.
+
+Answer: 21

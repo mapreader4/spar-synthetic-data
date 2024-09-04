@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) Kiki buys twice as many hats as scarves.
+2) She spends 60% of her money on hats and the rest on scarves.
+3) She currently has $90.
+
+Let's start by finding out how much she spends on hats:
+* 60% of $90 = 0.6 * $90 = $54
+
+Now, we know that she spends the remaining 40% on scarves:
+* 40% of $90 = 0.4 * $90 = $36
+
+Since she buys twice as many hats as scarves, we can say that the number of scarves she buys is half the number of hats.
+* Let x be the number of scarves she buys.
+* Then the number of hats she buys is 2x.
+
+We know that she spends $54 on hats, and each hat costs the same amount as each scarf, which is $2.
+* 2x * $2 = $54
+* x = 13.5
+
+However, since we can't buy a fraction of a scarf, we round down to the nearest whole number.
+
+Answer: 13 scarves.

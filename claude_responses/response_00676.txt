@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* John needs to take 2 pills a day
+* Each pill costs $1.5
+* The insurance covers 40% of the cost
+
+First, let's calculate the total cost of the pills for the 30-day month:
+* 2 pills per day x 30 days = 60 pills
+* 60 pills x $1.5 per pill = $90 total cost
+
+Now, let's calculate the amount that the insurance covers:
+* 40% of $90 = $36
+
+Finally, let's calculate the amount that John has to pay:
+* $90 total cost - $36 covered by insurance = $54
+
+Answer: $54

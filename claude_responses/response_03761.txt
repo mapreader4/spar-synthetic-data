@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The dog initially had some unknown number of fleas.
+* After the first treatment, half of the fleas were eliminated.
+* After the second treatment, half of the remaining fleas were eliminated.
+* After the third treatment, half of the remaining fleas were eliminated.
+* After the fourth treatment, the dog had 14 fleas left.
+
+Let's represent the initial number of fleas as "x".
+* After the first treatment, the number of fleas was x/2.
+* After the second treatment, the number of fleas was (x/2)/2 = x/4.
+* After the third treatment, the number of fleas was (x/4)/2 = x/8.
+* After the fourth treatment, the number of fleas was (x/8) = 14.
+
+Solving for x, we get:
+* x/8 = 14
+* x = 112
+
+Therefore, the dog had 112 fleas before the treatments, and 14 fleas after the treatments.
+
+Answer: 98

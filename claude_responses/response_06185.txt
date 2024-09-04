@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The factory produces 90 refrigerators per hour
+* The factory produces 70 more coolers than refrigerators per hour
+* So, the factory produces 90 + 70 = 160 coolers per hour
+* The factory works 9 hours per day
+* The factory works for 5 days
+
+To find the total number of products produced, we need to calculate the number of refrigerators and coolers produced per day, and then multiply that by the number of days.
+
+Refrigerators produced per day:
+* 90 refrigerators per hour x 9 hours per day = 810 refrigerators per day
+
+Coolers produced per day:
+* 160 coolers per hour x 9 hours per day = 1,440 coolers per day
+
+Total products produced in 5 days:
+* (810 refrigerators per day + 1,440 coolers per day) x 5 days = 11,250 total products
+
+Answer: 11,250

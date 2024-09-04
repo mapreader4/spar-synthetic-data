@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of black pigeons. We know that half of the pigeons are black, and 20 percent of the black pigeons are male. So, the total number of black pigeons is half of the total pigeons, which is 35 pigeons. Then, 20 percent of the black pigeons are male, which is 7 pigeons. 
+
+So, the difference between the total number of black female pigeons and the number of black male pigeons is 35 - 7 = 28. 
+
+Answer: 28

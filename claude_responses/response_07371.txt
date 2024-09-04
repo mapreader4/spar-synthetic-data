@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Karen gets a $500 bonus if the average score is above 75
+* She also gets an extra $10 bonus for every additional point the average score increases above 75
+* So far, she has graded 8 tests, and the average is 70
+* Each student can have a maximum score of 150
+* We need to find the combined score of the last two tests that would give Karen a $600 bonus
+
+First, let's calculate the total score of the 8 tests so far:
+* 8 tests x 70 average = 560 total
+
+Now, we need to find the total score required to get an average of 75:
+* 75 average x 10 tests = 750 total
+
+The difference between the total required and the total so far is:
+* 750 - 560 = 190
+
+This means the last two tests need to have a combined score of 190 to get Karen the $600 bonus.
+
+Answer: 190

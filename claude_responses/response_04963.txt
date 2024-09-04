@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. The first season had 12 episodes, and each episode cost $100,000.
+   * Cost of first season = 12 episodes x $100,000 per episode = $1,200,000
+
+2. Every other season (seasons 2-5) had 50% more episodes than the first season.
+   * Season 2-5 had 12 episodes x 1.5 = 18 episodes per season
+
+3. The cost per episode for seasons 2-5 was twice the cost of the first season.
+   * Cost per episode for seasons 2-5 = $100,000 x 2 = $200,000 per episode
+
+4. The total cost for seasons 2-5:
+   * Season 2: 18 episodes x $200,000 per episode = $3,600,000
+   * Season 3: 18 episodes x $200,000 per episode = $3,600,000
+   * Season 4: 18 episodes x $200,000 per episode = $3,600,000
+   * Season 5: 24 episodes x $200,000 per episode = $4,800,000
+
+5. Adding up the costs for all 5 seasons:
+   * Total cost = $1,200,000 + $3,600,000 + $3,600,000 + $3,600,000 + $4,800,000 = $16,800,000
+
+Answer: $16,800,000

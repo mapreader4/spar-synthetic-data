@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. First, we need to find the area of the apartment. The area is given as 750 square feet.
+2. Then we need to find the monthly rent. The monthly rent is $2800.
+3. Next, we need to find the total yearly rent. We can multiply the monthly rent by 12 to get the yearly rent. $2800 * 12 = $33600.
+4. Now we need to find the old rent. The old rent was $2 per square foot. We need to multiply the old rent by the area to find the yearly rent. $2 * 750 = $1500.
+5. Now we need to find the difference between the old rent and the new rent. We subtract the old rent from the new rent. $33600 - $1500 = $31500.
+
+Answer: 31500

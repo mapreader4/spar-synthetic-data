@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Bob created 13 questions in the first hour. That's a fixed amount of questions.
+
+For the second hour, Bob doubled his rate, so he created 2 * 13 = 26 questions.
+
+For the third hour, Bob doubled his rate again, which is 2 * 2 = 4 times the rate of the second hour. So, he created 4 * 26 = 104 questions.
+
+Adding the questions from all three hours, we have:
+
+13 + 26 + 104 = 143 questions.
+
+Answer: 143

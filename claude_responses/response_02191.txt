@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There were 15 males at the party.
+2) There were 10 more girls than males, so there were 15 + 10 = 25 girls at the party.
+3) In total, there were 15 + 25 = 40 attendees at the party.
+4) Each attendee received 2 cans of soft drinks.
+5) So the total number of cans of soft drinks needed was 40 * 2 = 80 cans.
+6) Each box of soft drinks contains 8 cans and costs $5 per box.
+7) To calculate the number of boxes needed, we divide the total number of cans (80) by the number of cans per box (8), which is 80 / 8 = 10 boxes.
+8) The total cost of the soft drinks is 10 boxes * $5 per box = $50.
+
+Answer: $50.

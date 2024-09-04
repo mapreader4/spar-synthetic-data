@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each hamburger is 4 ounces
+* Last year's winner ate 84 ounces
+* To beat last year's winner, Tonya needs to eat more than 84 ounces
+
+To find the number of hamburgers Tonya needs to eat, we divide the target amount (84 ounces) by the weight of each hamburger (4 ounces):
+* 84 ounces / 4 ounces per hamburger = 21 hamburgers
+
+Therefore, Tonya needs to eat 22 or more hamburgers to beat last year's winner.
+
+Answer: 22

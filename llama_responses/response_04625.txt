@@ -1,0 +1,11 @@
+Let's start by identifying the number of goats Alma has. There are 4 goats.
+
+Alma wants to give the same amount of carrots to each goat. To find out how many carrots each goat will get, we can divide the total number of carrots (47) by the number of goats (4).
+
+47 ÷ 4 = 11
+
+So, each goat will get 11 carrots. To find out how many carrots will be left, we need to subtract the total number of carrots given (4 * 11 = 44) from the total number of carrots Alma has (47).
+
+47 - 44 = 3
+
+Answer: 3

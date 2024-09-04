@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, we need to calculate the base sentence for the amount of goods stolen. The base sentence is 1 year for every $5,000 of goods stolen. Since the burglar stole $40,000 worth of goods, the base sentence is:
+
+$40,000 / $5,000 = 8
+
+So the base sentence is 8 years.
+
+Since this is the burglar's third offense, the sentence is increased by 25%. 25% of 8 years is:
+
+0.25 * 8 = 2
+
+So the increased sentence is 2 years. Then, the additional 2 years for resisting arrest is added to the sentence:
+
+2 + 2 = 4
+
+The total sentence is 12 years.
+
+Answer: 12

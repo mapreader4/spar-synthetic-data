@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total amount of money they have between them.
+
+Emmy has $200 and Gerry has $100, so together they have $200 + $100 = $300.
+
+Step 2: Calculate the cost of the apples they want to buy.
+
+The apples cost $2 each, so the cost of 1 apple is $2. To find the number of apples they can buy, we can divide the total amount of money they have by the cost of 1 apple.
+
+$300 ÷ $2 = 150
+
+Answer: 150

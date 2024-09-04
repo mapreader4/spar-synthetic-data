@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) The length of the straight part of the river is three times shorter than the crooked part.
+2) This means that the length of the crooked part is three times longer than the straight part.
+3) The total length of the river is 80 miles.
+4) Let's call the length of the straight part 'x'.
+5) Since the crooked part is three times longer than the straight part, the length of the crooked part is '3x'.
+6) The total length of the river is the sum of the straight part and the crooked part, so 80 = x + 3x.
+7) Solving this equation, we get x = 20.
+
+Answer: 20 miles

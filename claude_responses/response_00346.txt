@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The first two walls are 3 meters wide and 2 meters tall, so the area of each wall is 3 * 2 = 6 square meters.
+2) The third wall is 5 meters wide and 2 meters tall, so the area of this wall is 5 * 2 = 10 square meters.
+3) The fourth wall is 4 meters wide and 2 meters tall, so the area of this wall is 4 * 2 = 8 square meters.
+4) The total area that needs to be painted is the sum of the areas of the four walls: 6 + 6 + 10 + 8 = 30 square meters.
+5) Each can of paint covers 2 square meters.
+6) To calculate the number of cans of paint needed, we divide the total area by the coverage of each can: 30 / 2 = 15.
+
+Answer: 15

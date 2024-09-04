@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Joey Chestnut's record is 75 hotdogs in 10 minutes
+* Lisa has eaten 20 hotdogs in the first 5 minutes (halfway through the time)
+* To tie the record, she needs to eat the remaining 55 hotdogs (75 - 20) in the remaining 5 minutes
+
+To calculate the number of hotdogs she needs to eat per minute, we divide the remaining hotdogs by the remaining time:
+* Remaining hotdogs: 55
+* Remaining time: 5 minutes
+* Hotdogs per minute: 55 / 5 = 11
+
+Therefore, Lisa will need to eat 11 hotdogs per minute for the remaining 5 minutes to at least tie Joey Chestnut's record.
+
+Answer: 11

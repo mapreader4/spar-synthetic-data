@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: John used to buy 4 coffees a day for $2 each, so his daily cost was 4 * 2 = $8.
+
+Step 2: The price of the coffee increased by 50%, so the new price is 1.5 * 2 = $3.
+
+Step 3: John now buys half the number of coffees, so he now buys 2 coffees a day.
+
+Step 4: The new daily cost is 2 * 3 = $6.
+
+Step 5: The difference between the old and new costs is $8 - $6 = $2.
+
+Answer: 2

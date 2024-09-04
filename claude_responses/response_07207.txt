@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The first skyscraper was built 100 years ago
+* We want to know how many years in the future it will be 5 years before its 200th anniversary of being built
+* The 200th anniversary of the skyscraper being built will be 200 years after it was built
+* 100 years + 200 years = 300 years
+* 5 years before the 200th anniversary is 295 years after the skyscraper was built
+* Therefore, the number of years in the future it will be 5 years before the 200th anniversary is 295 - 100 = 195 years
+
+Answer: 195

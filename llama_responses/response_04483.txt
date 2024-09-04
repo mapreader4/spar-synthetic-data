@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total amount of money Sammy would pay for all the records. Since Sammy will buy all the records for 4 dollars each, the total amount he will pay is 4 x 200 = 800 dollars.
+
+Step 2: Determine the amount of records Bryan will buy. Bryan will buy half of the records, which is 200 / 2 = 100 records. He will buy these records for 6 dollars each, so the total amount he will pay is 6 x 100 = 600 dollars.
+
+Step 3: Determine the amount of records Bryan will not buy. Since Bryan will buy half of the records, he will not buy the remaining 100 records. He will offer 1 dollar each for these records, so the total amount he will pay for the records he is not interested in is 1 x 100 = 100 dollars.
+
+Step 4: Calculate the total amount Bryan will pay. The total amount Bryan will pay is the amount he pays for the records he buys plus the amount he pays for the records he does not buy. This is 600 + 100 = 700 dollars.
+
+Step 5: Calculate the difference in profit between Sammy and Bryan's deal. Sammy will make a profit of 800 - 200 = 600 dollars. Bryan will make a profit of 700 - 200 = 500 dollars.
+
+Answer: 100

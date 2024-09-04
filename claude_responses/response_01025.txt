@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The survey was conducted with 800 parents
+* 20% of the 800 parents agree to a tuition fee increase
+* To find the number of parents who disagree, we need to find the number of parents who do not agree to the tuition fee increase
+
+First, let's find the number of parents who agree to the tuition fee increase:
+* 20% of 800 = 0.20 * 800 = 160 parents agree
+
+Now, to find the number of parents who disagree, we subtract the number of parents who agree from the total number of parents:
+* 800 - 160 = 640 parents disagree
+
+Answer: 640

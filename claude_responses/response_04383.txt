@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Lena has 7 closest friends
+* She has 3 newspaper clippings for each friend's picture
+* It takes 6 drops of glue to stick down each clipping
+
+First, we need to calculate the total number of newspaper clippings:
+* 7 friends x 3 clippings per friend = 21 clippings
+
+Now, we need to calculate the total number of drops of glue needed for the 21 clippings:
+* 21 clippings x 6 drops of glue per clipping = 126 drops of glue
+
+Therefore, the answer is:
+Answer: 126

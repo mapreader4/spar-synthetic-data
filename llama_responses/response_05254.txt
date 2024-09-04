@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Shawn started with 40 pebbles initially. He painted 9 pebbles red and 13 pebbles blue. So, the number of blue pebbles is 13.
+
+He then divided the remaining pebbles into 3 groups. To find the number of pebbles in each group, we need to divide 40 - 9 - 13 = 27 pebbles into 3 groups.
+
+27 pebbles divided into 3 groups is 27 / 3 = 9 pebbles in each group.
+
+The number of blue pebbles is 13. The number of yellow pebbles is 9. The difference is 13 - 9 = 4.
+
+Answer: 4

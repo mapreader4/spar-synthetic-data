@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The magician has 20 red marbles in one top hat
+* The magician has 30 blue marbles in another top hat
+* The magician takes away 3 red marbles
+* The magician takes away 4 times as many blue marbles as red marbles
+* To calculate the number of blue marbles taken away:
+  - 4 times as many blue marbles as red marbles = 4 * 3 = 12 blue marbles
+* So the total number of marbles taken away is:
+  - 3 red marbles + 12 blue marbles = 15 marbles
+* The original number of marbles was:
+  - 20 red marbles + 30 blue marbles = 50 marbles
+* The number of marbles left is:
+  - 50 marbles - 15 marbles taken away = 35 marbles
+
+Answer: 35

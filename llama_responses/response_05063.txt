@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Chip takes 2 pages of notes every day, which means that in a week, he takes 2 x 7 = 14 pages of notes.
+2. He does this for 6 weeks, which means that he takes 14 x 6 = 84 pages of notes.
+3. His notebook paper comes in packs of 100 sheets of paper per pack.  To find out how many packs he will need, we need to divide the total number of pages by 100.
+
+84 pages of notes / 100 sheets of paper per pack = 0.84
+
+Since we can't have a fraction of a pack, we need to round up to the nearest whole number of packs. In this case, we would need to round up 0.84 to 1 pack.
+
+So, Chip will need 1 pack of notebook paper.

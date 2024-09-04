@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Mike practices for 3 hours every weekday
+* He practices for 5 hours on Saturdays
+* He takes Sundays off
+* His team has a game in 3 weeks
+
+To calculate the total number of hours he will practice until the next game, we need to:
+1. Calculate the number of weekdays in 3 weeks: 
+   * There are 5 weekdays in a week
+   * 3 weeks x 5 weekdays/week = 15 weekdays
+2. Calculate the number of Saturdays in 3 weeks:
+   * There is 1 Saturday per week
+   * 3 weeks x 1 Saturday/week = 3 Saturdays
+3. Calculate the total number of practice hours:
+   * Weekdays: 15 days x 3 hours/day = 45 hours
+   * Saturdays: 3 days x 5 hours/day = 15 hours
+   * Total hours = 45 hours + 15 hours = 60 hours
+
+Answer: 60 hours

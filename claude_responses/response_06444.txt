@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Ali had 800 books in his Room initially
+* On Monday, he sold 60 books
+* On Tuesday, he sold 10 books
+* On Wednesday, he sold 20 books
+* On Thursday, he sold 44 books
+* On Friday, he sold 66 books
+* To calculate the number of books not sold, we need to subtract the total number of books sold from the initial stock of 800 books
+
+Total books sold:
+* Monday: 60 books
+* Tuesday: 10 books
+* Wednesday: 20 books
+* Thursday: 44 books
+* Friday: 66 books
+* Total books sold = 60 + 10 + 20 + 44 + 66 = 200 books
+
+Now, we can calculate the number of books not sold:
+* Initial stock: 800 books
+* Total books sold: 200 books
+* Books not sold = 800 - 200 = 600 books
+
+Answer: 600

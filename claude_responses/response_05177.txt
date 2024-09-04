@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There were 50 questions in the exam
+* Sylvia had one-fifth of the answers incorrect
+* To find the number of incorrect answers for Sylvia, we take one-fifth of 50:
+    * 50 / 5 = 10 incorrect answers
+* Sergio got 4 mistakes
+* To find the number of correct answers for Sylvia, we subtract the number of incorrect answers from the total number of questions:
+    * 50 - 10 = 40 correct answers for Sylvia
+* To find the number of correct answers for Sergio, we subtract the 4 mistakes from the total number of questions:
+    * 50 - 4 = 46 correct answers for Sergio
+* To find the difference in correct answers between Sergio and Sylvia, we subtract Sylvia's correct answers from Sergio's correct answers:
+    * 46 - 40 = 6
+
+Answer: 6

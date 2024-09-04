@@ -1,0 +1,14 @@
+Let's break this down step by step.
+
+Erin counts 6 trolls hiding by the path in the forest.
+Let's call this number A.
+
+Erin counts 4 times A, so 4A = 4 × 6 = 24 trolls hiding under the bridge.
+
+Erin counts half as many trolls hiding in the plains as under the bridge, so half of 24 = 24 ÷ 2 = 12 trolls hiding in the plains.
+
+So, we have A = 6, 4A = 24, and 12 trolls hiding in the plains. To find the total number of trolls, we add A, 4A, and 12 together:
+
+A + 4A + 12 = 6 + 24 + 12 = 42
+
+Answer: 42

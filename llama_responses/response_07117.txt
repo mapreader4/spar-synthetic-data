@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's first find the time it took Jack to run up the first half of the hill. We are given that Jack took 19 seconds to run up the first half of the hill. Let's call this time t1.
+
+Let's now find the time it took Jack to run up the second half of the hill. Since Jack finished running up the hill 7 seconds before Jill did, and Jill finished the race in 32 seconds, we can set up an equation.
+
+Let's say t2 be the time it took Jack to run up the second half of the hill. Then, we can say that t2 = 32 - 19 = 13.
+
+So, the time it took Jack to run up the second half of the hill is 13 seconds.
+
+Answer: 13

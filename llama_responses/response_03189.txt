@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. Gary starts with 4 chickens.
+2. After 2 years, he has 8 times as many chickens as he started with. This means he now has 4 * 8 = 32 chickens.
+3. Each chicken lays 6 eggs a day. So, in a week, each chicken lays 6 * 7 = 42 eggs.
+4. Since Gary has 32 chickens, he collects 32 * 42 = 1344 eggs every week.
+
+Answer: 1344

@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. There are 6 oranges in the fruit basket.
+2. There are 2 fewer oranges than apples. So, let's say the number of apples is x. Then, we can write the equation: 6 - x = 2. This means that x = 4.
+3. There are 3 times as many bananas as apples. So, the number of bananas is 4 * 3 = 12.
+4. There are half as many peaches as bananas. So, the number of peaches is 12 / 2 = 6.
+
+To find the total number of fruit pieces, we add the numbers: 6 (oranges) + 4 (apples) + 12 (bananas) + 6 (peaches) = 28.
+
+Answer: 28

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, Billie bakes 3 pies per day for 11 days. So, the total number of pies baked is 3 x 11 = 33 pies.
+
+Then, Tiffany eats 4 pies, leaving 33 - 4 = 29 pies.
+
+It takes 2 cans of whipped cream to cover 1 pie.  So, to cover 29 pies, we need to know how many cans of whipped cream are needed.
+
+Let's divide 29 by 1 (since it takes 2 cans of whipped cream to cover 1 pie):
+
+29 ÷ 1 = 29
+
+So, Billie needs 29 cans of whipped cream.

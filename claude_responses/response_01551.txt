@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Marcy gives 5 time-outs for running.
+2) For throwing food, she gives 1 less than five times the number of time-outs for running. So, that's 5 * 5 - 1 = 24 time-outs for throwing food.
+3) For swearing, she gives 1/3 the number of time-outs for throwing food. So, that's 24 / 3 = 8 time-outs for swearing.
+4) Each time-out is 5 minutes.
+5) To calculate the total time spent in time-out, we add up the time for each offense:
+   - Running: 5 time-outs x 5 minutes = 25 minutes
+   - Throwing food: 24 time-outs x 5 minutes = 120 minutes
+   - Swearing: 8 time-outs x 5 minutes = 40 minutes
+6) The total time spent in time-out is 25 + 120 + 40 = 185 minutes.
+
+Answer: 185

@@ -1,0 +1,9 @@
+To find the normal price of the magazine, we can multiply the number of months in the subscription (18) by the regular price of the magazine (34 dollars). This gives us the normal price:
+
+18 * 34 = 612 dollars
+
+To find the promotional price, we can subtract the discount from the normal price. The discount is 2 times $0.25 for each issue, so for 18 months, the total discount is 2 * 18 * 0.25 = 36. Subtracting this from the normal price gives us the promotional price:
+
+612 - 36 = 576
+
+So, the promotional subscription is 36 dollars cheaper than the normal one.

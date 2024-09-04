@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's say Joanne has x dollars. Her brother has 3x dollars. Her sister has x/2 dollars. Together, they have x + 3x + x/2 dollars.
+
+We know that Joanne has 8 dollars. So, we can set up an equation: x + 3x + x/2 = 8.
+
+We can start by combining like terms on the left side of the equation: 4x + x = 8. This means that 4x = 8 - x.
+
+We can subtract x from both sides of the equation to get 4x = 8 - x - x. We can add x to both sides to get 5x = 8.
+
+So, the answer is:
+
+Answer: 8

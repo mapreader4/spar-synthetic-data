@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of basketballs that are part of the total donation. We are told that half of the basketball hoops had basketballs included, and there were 60 hoops in total. So, we can find the number of basketballs by multiplying 60 by 1/2, which is 30.
+
+We are also told that 120 pool floats were donated, but a quarter of these were damaged and were discarded. So, we can find the number of undamaged pool floats by subtracting a quarter of 120 from 120, which is 30. This leaves us with 90 undamaged pool floats.
+
+There were 50 footballs and 40 tennis balls donated. These are not basketballs, so we can add these to the total number of basketballs. We already have 30 basketballs from the basketball hoops and 30 from the damaged pool floats. We can add 50 footballs and 40 tennis balls to this, which gives us a total of 110 basketballs.
+
+Answer: 110

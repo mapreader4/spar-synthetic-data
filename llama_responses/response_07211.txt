@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find out how much ivy Cary strips each day. She strips 6 feet of ivy every day, but the ivy grows back 2 feet every night. So, the net change in the amount of ivy is 6 - 2 = 4 feet per day.
+
+The tree is currently covered by 40 feet of ivy. We need to find out how many days it will take to remove all the ivy. To do this, we can divide the total amount of ivy by the daily change in the amount of ivy.
+
+40 feet of ivy / 4 feet per day = 10 days.
+
+Answer: 10

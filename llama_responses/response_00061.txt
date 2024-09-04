@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* The bear needs to gain 1000 pounds.
+* It gains a fifth of the weight it needs from berries during summer.
+* It gains twice as much from acorns during autumn.
+* Salmon makes up half of the remaining weight it had needed to gain.
+
+Let's start by identifying the amount of weight the bear gained from berries:
+
+* The bear gains a fifth of the weight it needs from berries, which is 1000 / 5 = 200 pounds.
+
+Next, let's identify the amount of weight the bear gains from acorns:
+
+* The bear gains twice as much from acorns as it gained from berries, so it gains 2 x 200 = 400 pounds from acorns.
+
+Now, let's identify the remaining weight the bear needs to gain:
+
+* The bear needs 1000 pounds total, and it has gained 200 from berries and 400 from acorns, so it has gained a total of 200 + 400 = 600 pounds.
+* The bear still needs 1000 - 600 = 400 pounds to reach its goal.
+
+Finally, let's identify the amount of weight the bear gains from small animals:
+
+* Salmon makes up half of the remaining weight the bear had needed to gain, which is 400 / 2 = 200 pounds.
+
+So, the bear gains 200 pounds from small animals.
+
+Answer: 200

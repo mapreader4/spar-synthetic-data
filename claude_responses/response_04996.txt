@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Rebecca drinks half a bottle of soda per day
+* She bought 3 6-packs of sodas, which is 18 bottles total (3 x 6 = 18)
+* We need to calculate how many bottles she will have left after 4 weeks
+* In 4 weeks, there are 28 days (4 weeks x 7 days per week = 28 days)
+* In 28 days, she will drink 14 bottles of soda (28 days x 0.5 bottles per day = 14 bottles)
+* She started with 18 bottles, and will have 18 - 14 = 4 bottles left
+
+Answer: 4

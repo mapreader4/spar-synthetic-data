@@ -1,0 +1,12 @@
+Let's break down the information given to us:
+
+1. 20 computers were given to John to fix.
+2. 20% of them were unfixable, so 20% of 20 is 4.
+3. 40% of them needed to wait a few days for spare parts to come, so 40% of 20 is 8.
+4. The rest of the computers, 20 - (20 + 4 + 8), were fixable.
+
+Let's calculate the number of computers John was able to fix right away:
+
+20 - (20 + 4 + 8) = 20 - 12 = 8
+
+So, John was able to fix 8 computers right away.

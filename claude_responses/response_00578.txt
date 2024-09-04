@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Bucky wants to save up $60 for a new video game
+* Last weekend he earned $35
+* This Sunday, he caught 5 fish
+* 60% of the fish were trout, and the rest were blue-gill
+* Trout earn $5 each, and blue-gill earn $4 each
+
+First, let's calculate how much he earned this Sunday:
+* 60% of 5 fish were trout, which is 3 trout
+* 3 trout at $5 each is $15
+* The remaining 2 fish were blue-gill, which at $4 each is $8
+* Total earned this Sunday: $15 + $8 = $23
+
+Now, let's add up his total earnings so far:
+* Last weekend: $35
+* This Sunday: $23
+* Total earned so far: $35 + $23 = $58
+
+Finally, we can calculate how much more he needs to save:
+* Total cost of the video game: $60
+* Total earned so far: $58
+* Amount still needed to save: $60 - $58 = $2
+
+Answer: $2

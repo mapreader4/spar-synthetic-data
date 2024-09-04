@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what we know: Alice has 20 quarters, which is equivalent to 5 dollars. She exchanges them for nickels, which is 20 times 5 cents, or 100 cents. Since each nickel is worth 5 cents, the total value of the nickels is 100 cents.
+
+Now, 20% of the nickels are iron nickels worth $3 each. We can convert the 20% to a decimal by dividing by 100 (since there are 100 cents in a dollar): 20/100 = 0.2. Then, we can multiply the result by the value of the iron nickels to find the total value: 0.2 * $3 = $0.60.
+
+Now, we need to add the value of the iron nickels to the value of the nickels. The value of the nickels is 100 cents, and the value of the iron nickels is $0.60. To add these values, we can convert the cents to dollars by dividing by 100 (since there are 100 cents in a dollar): 100/100 = 1. Then, we can add the values: 1 + 0.6 = 1.6.
+
+So, the total value of Alice's money is $1.60.

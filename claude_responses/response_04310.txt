@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There were 70 students in the class yesterday.
+2) 30 students are absent today.
+3) The number of students present today is the total number of students yesterday (70) minus the number of students absent today (30), which is 70 - 30 = 40 students.
+4) The number of students present today is 10% less than twice the number of students present yesterday.
+5) Let's call the total number of students registered for the course 'x'.
+6) Twice the number of students present yesterday is 2 * 70 = 140.
+7) 10% less than 140 is 140 * 0.9 = 126.
+8) Since the number of students present today is 126, we can set up the equation:
+   x - 30 = 126
+9) Solving for x, we get:
+   x = 126 + 30 = 156
+
+Answer: 156

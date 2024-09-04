@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Ali caught twice as much fish as Peter
+* Let's call the amount of fish Peter caught 'x' kg
+* Then, the amount of fish Ali caught is '2x' kg
+* Joey caught 1 kg more fish than Peter, so Joey caught 'x+1' kg
+* The total amount of fish caught by the three of them is 25 kg
+* So, we can write the equation:
+2x + x + (x+1) = 25
+* Simplifying, we get:
+4x + 1 = 25
+* Solving for x, we get:
+4x = 24
+x = 6
+* Therefore, the amount of fish Peter caught is 6 kg
+* And the amount of fish Ali caught is 2 * 6 = 12 kg
+
+Answer: 12 kg

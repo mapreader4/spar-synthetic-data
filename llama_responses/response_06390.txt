@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of water needed for drinking and bathing per day for the 3 horses Ivar currently has.
+
+For drinking: 3 horses x 5 liters per day = 15 liters per day
+For bathing: 3 horses x 2 liters per day = 6 liters per day
+Total daily water needed: 15 liters (drinking) + 6 liters (bathing) = 21 liters per day
+
+Now, if Ivar adds 5 more horses, the total number of horses will be 3 + 5 = 8.
+
+For the 28 days, the total amount of water needed will be:
+
+8 horses x 15 liters (drinking) = 120 liters
+8 horses x 6 liters (bathing) = 48 liters
+Total water needed for 28 days: 120 liters + 48 liters = 168 liters
+
+So, Ivar will need 168 liters of water for the horses for 28 days.

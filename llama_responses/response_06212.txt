@@ -1,0 +1,15 @@
+Let's start by finding the number of stuffed bears left after Daragh took out her favorite 8 bears.
+
+Daragh had 20 stuffed bears initially, and she took out 8 of them, so the number of bears left is:
+
+20 - 8 = 12
+
+Now, these 12 bears are to be equally divided among Daragh's 3 sisters. To do this, we can divide 12 by 3:
+
+12 ÷ 3 = 4
+
+Since Daragh's youngest sister, Eden, already has 10 bears, she will get:
+
+4 - 10 = 6
+
+So, Eden now has 6 stuffed bears.

@@ -1,0 +1,7 @@
+Let's start by using the information that there are 17 more oranges in the second bucket than in the third. So, the number of oranges in the third bucket is 6 (17 - 11 = 6).
+
+The number of oranges in the first bucket is 22. The number of oranges in the second bucket is 17. The number of oranges in the third bucket is 6.
+
+To find the total number of oranges, we add these numbers together: 22 + 17 + 6 = 45.
+
+Answer: 45

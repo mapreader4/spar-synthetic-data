@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Yesterday, Jeremy listened to five fewer songs than today.
+* Today, Jeremy listened to nine songs.
+
+We can represent the information in a variable. Let's say that yesterday, Jeremy listened to y songs. Then, today, he listened to y + 5 songs.
+
+The question asks how many songs Jeremy listened to in two days. Since yesterday and today are two days, we can add the number of songs Jeremy listened to yesterday and today to get the total number of songs Jeremy listened to in two days.
+
+Yesterday, Jeremy listened to y + 5 songs. Today, he listened to nine songs. So, the total number of songs Jeremy listened to in two days is y + 9.
+
+To find the value of y, we need to subtract 5 from the total number of songs Jeremy listened to today, which is 9. 9 - 5 = 4.
+
+So, the answer is: Answer: 4.

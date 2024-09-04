@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by finding the number of petals per bush. If each rose produces 8 petals and there are 12 roses per bush, then 12 roses would produce 12 * 8 = 96 petals.
+
+Next, we need to find the number of bushes needed to produce 20 12-ounce bottles of perfume. Each ounce of perfume requires 320 petals. So, we need to divide 20 * 12 = 240 ounces of perfume.
+
+Now, we need to divide the total number of ounces of perfume by the number of petals per bush. 240 ounces of perfume / 96 petals = 2.5 bushes.
+
+Since we need 2.5 bushes to produce 240 ounces of perfume, we need 2.5 * 12 = 30 bushes to harvest to make 20 12-ounce bottles of perfume.
+
+Answer: 30

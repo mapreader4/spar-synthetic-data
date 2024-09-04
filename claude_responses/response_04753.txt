@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) Alice is planting bushes around three sides of her yard.
+2) Each side of the yard is 16 feet long.
+3) Each bush fills 4 feet.
+4) To calculate the number of bushes needed, we need to find the total length of the three sides and divide it by the length of each bush.
+5) The total length of the three sides is 16 feet + 16 feet + 16 feet = 48 feet.
+6) Since each bush fills 4 feet, we divide the total length of 48 feet by 4 feet per bush.
+7) 48 feet / 4 feet per bush = 12 bushes.
+
+Answer: 12

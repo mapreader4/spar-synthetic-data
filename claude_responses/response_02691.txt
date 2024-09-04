@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) We know that Carla, Kyle, and Tasha caught a total of 36 fish.
+2) We also know that Carla caught 8 fish.
+3) Since Kyle and Tasha caught the same number of fish, we can represent the number of fish they each caught as x.
+4) So, the total number of fish caught can be represented as: 8 + x + x = 36
+5) Simplifying this equation, we get: 8 + 2x = 36
+6) Solving for x, we get: 2x = 28, so x = 14.
+
+Answer: 14

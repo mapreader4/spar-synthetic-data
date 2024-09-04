@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Alan bought 20 eggs at $2 per egg.
+   * To calculate the cost of the eggs, we multiply the number of eggs (20) by the price per egg ($2).
+   * 20 eggs x $2 per egg = $40
+
+2. Alan bought 6 chickens at $8 per chicken.
+   * To calculate the cost of the chickens, we multiply the number of chickens (6) by the price per chicken ($8).
+   * 6 chickens x $8 per chicken = $48
+
+3. To find the total amount of money Alan spent at the market, we add the cost of the eggs and the cost of the chickens.
+   * $40 (eggs) + $48 (chickens) = $88
+
+Answer: $88

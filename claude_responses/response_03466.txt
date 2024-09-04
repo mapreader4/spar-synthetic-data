@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) UF scored a total of 720 points in their previous 24 games.
+2) This means they scored an average of 720 / 24 = 30 points per game.
+3) In the championship game, UF scored 2 points less than half as much as they had previously scored in each of the 24 games.
+   - Half of 30 points is 15 points.
+   - 2 points less than 15 points is 13 points.
+4) UF's opponent only lost by 2 points, which means they scored 2 points less than UF.
+   - UF scored 13 points, so their opponent scored 13 - 2 = 11 points.
+
+Answer: 11 points.

@@ -1,0 +1,25 @@
+Let's start by identifying the number of people in each city:
+
+Roseville city has 1000 people.
+Willowdale city has 2000 people.
+
+We can set up an equation to represent the number of people in Sun City:
+
+Let x be the number of people in Sun City.
+
+We know that Roseville city has 1000 people, so the number of people in Sun City is 1000 more than that, so:
+
+1000 + x = 1000 + 1000
+
+We know that Willowdale city has 2000 people, and the number of people in Sun City is 500 less than that, so:
+
+2000 - x = 2000 - 500
+
+We can solve for x:
+
+x = 2000 - 500
+x = 1500
+
+So, the number of people in Sun City is 1500.
+
+Answer: 1500

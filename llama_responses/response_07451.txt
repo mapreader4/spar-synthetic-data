@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's first find out how much profit the factory made per month when making cars.
+
+When the factory made cars, it cost $100 for materials and sold each car for $50, so the profit per car is:
+
+Profit per car = Selling price - Cost of materials = $50 - $100 = -$50
+
+Since the factory could make 4 cars, the total profit per month is:
+
+Total profit = Profit per car * Number of cars = -$50 * 4 = -$200
+
+Now, let's find out how much the factory makes per month when making motorcycles.
+
+When the factory makes motorcycles, it costs $250 for materials and sells each motorcycle for $50, so the profit per motorcycle is:
+
+Profit per motorcycle = Selling price - Cost of materials = $50 - $250 = -$200
+
+Since the factory can make 8 motorcycles, the total profit per month is:
+
+Total profit = Profit per motorcycle * Number of motorcycles = -$200 * 8 = -$1600
+
+Now, let's find out how much more the factory makes per month making motorcycles compared to making cars.
+
+The difference in profit = Total profit with motorcycles - Total profit with cars = -$1600 - (-$200) = $400
+
+So, the factory makes $400 more per month making motorcycles compared to making cars.

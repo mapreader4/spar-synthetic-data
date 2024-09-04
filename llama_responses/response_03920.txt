@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of alligators at the beginning of the year. Since the problem states that there are 4 alligators, we can assume that this is the initial number.
+
+Next, we need to find out how many alligators will there be at the end of a year. The problem states that the number of alligators doubles every six months, so we need to multiply the initial number of alligators by 2, twice.
+
+At the end of the first six months, there will be 4 * 2 = 8 alligators. At the end of the next six months, there will be 8 * 2 = 16 alligators. Therefore, at the end of a year, there will be 8 + 16 = 24 alligators.

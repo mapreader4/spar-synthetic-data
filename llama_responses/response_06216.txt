@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by determining how much money they have in the budget. The budget is increased by 20%, so the new budget is 120% of the original budget. The original budget is not specified, but let's assume it's 100 for the sake of simplicity. So, the new budget is 120% of 100, which is 120.
+
+Now, let's figure out how many dodgeballs they can buy if they spend the entire budget on dodgeballs. Each dodgeball costs 5 dollars, so the total cost of 15 dodgeballs is 15 * 5 = 75. The new budget is 120, and the cost of 15 dodgeballs is 75, so they have 120 - 75 = 45 left over.
+
+Now, let's figure out how many softballs they can buy. Each softball costs 9 dollars, so the total cost of softballs is 9 * x. The total cost of softballs should not exceed the amount left over in the budget, which is 45. So, the number of softballs they can buy is 45 / 9 = 5.
+
+Answer: 5

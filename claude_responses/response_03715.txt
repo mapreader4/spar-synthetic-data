@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Sam bought 12 boxes, each with 30 highlighter pens, for $10 per box.
+* So the total cost of the highlighter pens is:
+  * 12 boxes x $10 per box = $120
+* Sam rearranged 5 of the boxes into packages of 6 highlighters each and sold them for $3 per package.
+  * 5 boxes x 30 highlighters per box = 150 highlighters
+  * 150 highlighters / 6 highlighters per package = 25 packages
+  * 25 packages x $3 per package = $75 in revenue
+* Sam sold the remaining 7 boxes of highlighters separately at 3 pens for $2.
+  * 7 boxes x 30 highlighters per box = 210 highlighters
+  * 210 highlighters / 3 highlighters per $2 sale = 70 sales
+  * 70 sales x $2 per sale = $140 in revenue
+* Total revenue = $75 + $140 = $215
+* Total cost = $120
+* Profit = Total revenue - Total cost
+  * Profit = $215 - $120 = $95
+
+Answer: $95

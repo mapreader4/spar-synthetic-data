@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Each round consists of 5 questions
+* James missed 1 question, so he answered 4 questions correctly in each round
+* For each correct answer, the student earns 2 points
+* So, for each round, James earned 4 x 2 = 8 points
+* Since there were 5 rounds, James earned 8 x 5 = 40 points
+* Additionally, since James answered all the questions correctly in one round, he earned a 4 point bonus
+* Therefore, the total points James earned is 40 + 4 = 44 points
+
+Answer: 44

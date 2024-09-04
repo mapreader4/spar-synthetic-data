@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Tina starts by putting in 20 coins during the first hour. That's 20 coins.
+
+During the next two hours, Tina puts in 30 coins each time. That's 2 * 30 = 60 coins.
+
+During the fourth hour, Tina puts in 40 coins. That's 40 coins.
+
+Tina then takes out 20 coins, leaving her with:
+
+20 + 60 + 40 - 20 = 100 coins.
+
+Answer: 100

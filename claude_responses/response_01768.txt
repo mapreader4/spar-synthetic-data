@@ -1,0 +1,8 @@
+Okay, let's break this down step by step:
+* Initially, Jeff had 20 cats in his shelter.
+* On Monday, he found 2 kittens and took them to the shelter, so now he has 20 + 2 = 22 cats.
+* On Tuesday, he found 1 more cat with a leg injury, so now he has 22 + 1 = 23 cats.
+* On Wednesday, 3 people adopted 2 cats each, so he lost 3 * 2 = 6 cats.
+* Therefore, the number of cats Jeff currently has in his shelter is 23 - 6 = 17.
+
+Answer: 17

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Haley can hold 8 marshmallows in her mouth
+* Michael can hold 3 times as many marshmallows as Haley
+* To calculate how many marshmallows Michael can hold:
+  * Haley can hold 8 marshmallows
+  * Michael can hold 3 times as many, so 3 x 8 = 24 marshmallows
+* Brandon can hold half as many marshmallows as Michael
+* To calculate how many marshmallows Brandon can hold:
+  * Michael can hold 24 marshmallows
+  * Brandon can hold half as many, so 24 / 2 = 12 marshmallows
+
+Now, to calculate the total number of marshmallows held by all three kids:
+* Haley: 8 marshmallows
+* Michael: 24 marshmallows
+* Brandon: 12 marshmallows
+* Total: 8 + 24 + 12 = 44 marshmallows
+
+Answer: 44

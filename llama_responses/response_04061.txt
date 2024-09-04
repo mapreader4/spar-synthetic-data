@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's first calculate the distance Ken can cycle when it rains. Since it rains 3 times in a week, he can cycle for 3 x 20 minutes = 60 minutes. In an hour, he can cycle 30 miles. So, in 60 minutes, he can cycle 30 / 60 = 0.5 miles. Since it rains 3 times, he can cycle 0.5 x 3 = 1.5 miles.
+
+Now, let's calculate the distance Ken can cycle when it snows. Since it snows 4 times in a week, he can cycle for 4 x 20 minutes = 80 minutes. In an hour, he can cycle 10 miles. So, in 80 minutes, he can cycle 10 / 80 = 0.125 miles. Since it snows 4 times, he can cycle 0.125 x 4 = 0.5 miles.
+
+Now, let's find the total distance Ken can cycle in a week. When it rains, he can cycle 1.5 miles. When it snows, he can cycle 0.5 miles. Since he cycles 1 hour a day, he can cycle 1 x 7 = 7 days. So, the total distance he can cycle is 1.5 + 0.5 x 7 = 7.5 miles.
+
+Answer: 7

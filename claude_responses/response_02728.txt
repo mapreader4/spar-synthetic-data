@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The rancher originally had 340 head of cattle.
+2) 172 of them fell sick and died, leaving 340 - 172 = 168 remaining cattle.
+3) The original price per head was $204,000 / 340 = $600 per head.
+4) Due to the sickness, the rancher had to lower the price by $150 per head, making the new price $600 - $150 = $450 per head.
+5) The amount the rancher would have made by selling all 340 cattle at the original price is 340 * $600 = $204,000.
+6) The amount the rancher would make by selling the remaining 168 cattle at the lowered price is 168 * $450 = $75,600.
+7) The difference between the original amount and the lowered amount is $204,000 - $75,600 = $128,400.
+
+Answer: $128,400

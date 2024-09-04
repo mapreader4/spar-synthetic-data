@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find the total number of lids Aaron has.
+
+Aaron has 14 cans lids initially. He adds the lids he gets from the 3 boxes, which is 3 x 14 = 42 lids. So, he now has a total of 14 + 42 = 56 lids.
+
+Aaron takes 53 lids to the recycling center. So, the number of lids he gets from each box is:
+
+56 - 53 = 3.
+
+Answer: 3

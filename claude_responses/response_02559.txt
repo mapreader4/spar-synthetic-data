@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Ben's new car cost twice as much as his old car
+* He sold his old car for $1800
+* He used that $1800 to pay off some of the cost of his new car
+* He still owes another $2000 on his new car
+
+Since the new car cost twice as much as the old car, we can say that the cost of the new car is equal to 2 times the cost of the old car.
+
+Let's call the cost of the old car "x". Then the cost of the new car is 2x.
+
+We know that Ben used the $1800 from selling the old car to pay off part of the new car. So the amount he still owes on the new car is 2x - $1800.
+
+We're told that he still owes $2000 on the new car, so:
+2x - $1800 = $2000
+2x = $3800
+x = $1900
+
+Therefore, the cost of Ben's old car was $1900.
+
+Answer: $1900

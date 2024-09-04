@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+
+Charlie owns:
+* 1 flute
+* 2 horns
+* 1 harp
+
+Carli owns:
+* Twice as many flutes as Charlie, which is 2 flutes
+* Half as many horns as Charlie, which is 1 horn
+* No harps
+
+Now, we can add up the total number of instruments owned by Charlie and Carli:
+
+Charlie's instruments:
+* 1 flute
+* 2 horns
+* 1 harp
+* Total: 4 instruments
+
+Carli's instruments:
+* 2 flutes
+* 1 horn
+* 0 harps
+* Total: 3 instruments
+
+The combined total number of instruments owned by Charlie and Carli is:
+4 + 3 = 7 instruments
+
+Answer: 7

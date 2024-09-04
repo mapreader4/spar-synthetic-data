@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by finding the total amount of money Thomas has saved. He has been saving $40 every month for 6 years. So, the total amount is 40 x 12 = 480.
+
+Next, let's find the amount Joseph has been saving. He has been saving 2/5 times less than Thomas. So, 40 - (2/5) * 40 = 32. So, Joseph has been saving $32 per month.
+
+To find the total amount Joseph has saved, we multiply his monthly savings by the number of months he has been saving for. 32 * 12 = 384.
+
+Now, we need to find the total amount both of them have in their savings account. To do this, we add the total amount Thomas has saved with the total amount Joseph has saved. 480 + 384 = 864.
+
+Answer: 864

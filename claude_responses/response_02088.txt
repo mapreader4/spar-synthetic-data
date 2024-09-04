@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sam needs to make 8 servings of spaghetti and meatballs
+* The pasta costs $1.00 per box
+* The jar of sauce costs $2.00
+* 1 pound of meatballs costs $5.00
+* To make 8 servings, we need:
+    - 1 box of pasta ($1.00)
+    - 1 jar of sauce ($2.00)
+    - 1 pound of meatballs ($5.00)
+* The total cost of the ingredients is:
+    - $1.00 + $2.00 + $5.00 = $8.00
+* To calculate the cost per serving, we divide the total cost by the number of servings:
+    - $8.00 / 8 servings = $1.00 per serving
+
+Answer: $1.00

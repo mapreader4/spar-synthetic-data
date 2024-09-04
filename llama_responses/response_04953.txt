@@ -1,0 +1,14 @@
+Let's start by identifying the given information:
+
+* 50 cartons of canned juice are packed.
+* 40 cartons have been loaded on the truck.
+
+To find the number of cans of juice left to be loaded on the truck, we can subtract the number of cartons already loaded from the total number of cartons:
+
+50 (total cartons) - 40 (cartons loaded on the truck) =?
+
+Let's perform the subtraction:
+
+50 - 40 = 10
+
+Answer: 10

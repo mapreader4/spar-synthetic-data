@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Tim hires 2 bodyguards.
+* Each bodyguard charges $20 per hour.
+* Each bodyguard works for 8 hours a day.
+* He hires them for 7 days a week.
+
+We need to calculate the total amount Tim pays each bodyguard in a week.
+
+To do this, we can multiply the hourly wage by the number of hours worked:
+
+$20 per hour * 8 hours = $160 per day
+
+Since there are 7 days in a week, we need to multiply the daily pay by 7:
+
+$160 per day * 7 = $1120
+
+So, the total amount Tim pays each bodyguard in a week is $1120.

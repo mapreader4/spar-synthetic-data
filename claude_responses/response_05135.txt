@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Kerry wants to have three cakes with his age in candles on each of them
+* Candles come in boxes of 12 and cost $2.5 per box
+* The total cost of the candles is $5
+
+First, we need to find out how many candles are needed in total. Since Kerry wants three cakes with his age in candles on each, the total number of candles needed is 3 times his age.
+
+The total cost of the candles is $5, and each box of 12 candles costs $2.5. So, we can calculate the total number of boxes of candles needed:
+* Total boxes of candles = $5 / $2.5 per box = 2 boxes
+
+Since each box has 12 candles, the total number of candles is:
+* Total candles = 2 boxes x 12 candles per box = 24 candles
+
+Now, we can solve for Kerry's age. Since the total number of candles is 24, and there are 3 cakes, we can divide 24 by 3 to get Kerry's age:
+* Kerry's age = 24 / 3 = 8
+
+Answer: 8

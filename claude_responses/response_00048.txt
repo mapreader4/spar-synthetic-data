@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Sam memorized 6 more digits of pi than Carlos
+* Mina memorized 6 times as many digits of pi as Carlos
+* Mina memorized 24 digits of pi
+
+First, let's find out how many digits Carlos memorized:
+* Mina memorized 6 times as many digits as Carlos
+* Mina memorized 24 digits
+* Therefore, Carlos memorized 24 / 6 = 4 digits
+
+Now, we can find out how many digits Sam memorized:
+* Sam memorized 6 more digits than Carlos
+* Carlos memorized 4 digits
+* Therefore, Sam memorized 4 + 6 = 10 digits
+
+Answer: 10

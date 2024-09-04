@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tina buys 3 12-packs of soda, which is 3 * 12 = 36 sodas
+* There are 6 people at the party, including Tina
+* Half of the people (3 people) have 3 sodas each, which is 3 * 3 = 9 sodas
+* 2 people have 4 sodas each, which is 2 * 4 = 8 sodas
+* 1 person has 5 sodas
+* So the total number of sodas consumed at the party is:
+    - 9 (from the 3 people with 3 sodas each)
+    - 8 (from the 2 people with 4 sodas each)
+    - 5 (from the 1 person with 5 sodas)
+    - Total consumed = 9 + 8 + 5 = 22 sodas
+* The total number of sodas Tina bought was 36
+* The number of sodas left over is 36 - 22 = 14
+
+Answer: 14

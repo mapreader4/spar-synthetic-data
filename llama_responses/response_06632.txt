@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the number of red cards. Since each red card corresponds to 2 yellow cards, and each player received 1 yellow card, then the number of red cards is the total number of yellow cards divided by 2.
+
+We know that 5 players didn't receive cautions, so they each received 0 yellow cards. The remaining 6 players each received 1 yellow card. So, the total number of yellow cards is 6.
+
+Now, the total number of red cards is the total number of yellow cards divided by 2. So, we can find the total number of red cards by multiplying the total number of yellow cards by 2.
+
+6 * 1 = 6 * 2 = 12
+
+So, the answer is: Answer: 12

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The hot tub holds 40 gallons of liquid.
+2) Each bottle of champagne holds 1 quart.
+3) There are 4 quarts per gallon.
+4) So to fill the 40-gallon hot tub, we need to calculate how many bottles of champagne are required.
+5) 40 gallons x 4 quarts/gallon = 160 quarts
+6) 160 quarts / 1 quart per bottle = 160 bottles of champagne
+7) Each bottle of champagne costs $50.
+8) Jackson gets a 20% volume discount, so the actual price per bottle is $50 - (20% of $50) = $50 - $10 = $40 per bottle.
+9) The total cost of the champagne is 160 bottles x $40 per bottle = $6,400.
+
+Answer: $6,400

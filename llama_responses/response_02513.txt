@@ -1,0 +1,10 @@
+Let's break it down step by step.
+
+Let's start with the total number of chefs and waiters. We know that there are 16 chefs and 16 waiters initially.
+
+If 6 chefs and 3 waiters drop out, we need to subtract these numbers from the total. So, we can set up the subtraction problem as follows:
+
+16 - 6 = 10 chefs left
+16 - 3 = 13 waiters left
+
+So, there are 10 chefs and 13 waiters left.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Carson has 4 hours (240 minutes) to spend at the carnival
+* The wait for the roller coaster is 30 minutes per ride
+* Carson rides the roller coaster 4 times, so that's 4 x 30 minutes = 120 minutes
+* The wait for the tilt-a-whirl is 60 minutes per ride
+* Carson rides the tilt-a-whirl 1 time, so that's 60 minutes
+* The wait for the giant slide is 15 minutes per ride
+* The total time spent on the roller coaster and tilt-a-whirl is 120 + 60 = 180 minutes
+* This leaves 240 - 180 = 60 minutes for the giant slide
+* Since each ride on the giant slide takes 15 minutes, Carson can ride the giant slide 60 / 15 = 4 times.
+
+Answer: 4

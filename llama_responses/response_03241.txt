@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of fish James has after 20% of the fish have gone bad. To find the total number of fish that are left, we can multiply the total number of fish by the decimal value of 0.2 (20%).
+
+400 x 0.2 = 80
+
+So, James has 400 - 80 = 320 fish left.
+
+Now, James needs 40 fish to make one sushi roll. To find the number of sushi rolls James can make, we can divide the number of fish left by 40.
+
+320 ÷ 40 = 8
+
+So, James can make 8 sushi rolls with the remaining fish.

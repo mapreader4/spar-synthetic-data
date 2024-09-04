@@ -1,0 +1,15 @@
+Let's break down the problem step by step:
+
+1. Freddy calls his dad, who lives in the same city, and they talk for 45 minutes. Since it's a local call, it costs 5 cents per minute, so the cost for this call is:
+
+45 minutes * 5 cents/minute = 45 * 0.05 = 2.25 dollars
+
+2. Freddy then calls his brother, who lives on the other side of the world, and they talk for 31 minutes. Since it's an international call, it costs 25 cents per minute, so the cost for this call is:
+
+31 minutes * 25 cents/minute = 31 * 0.25 = 7.75 dollars
+
+3. To find the total cost of the calls, we add the cost of the local and international calls:
+
+2.25 dollars + 7.75 dollars = 9.00 dollars
+
+Answer: 9

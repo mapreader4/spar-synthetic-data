@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how much time Henri has left after watching the movies.
+
+Henri watches 3.5 hours on the first movie and 1.5 hours on the second movie. So, he has watched a total of 3.5 + 1.5 = 5 hours.
+
+He has 8 hours to watch movies and read. So, he has 8 - 5 = 3 hours left.
+
+Now, he wants to read. If he can read 10 words a minute, he can read 3 * 60 = 180 words in an hour. Since he has 3 hours left, he can read 3 * 180 = 540 words.
+
+Answer: 540

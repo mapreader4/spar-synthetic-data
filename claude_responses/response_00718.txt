@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+1) We know that Jake's snake is 12 inches longer than Penny's snake.
+2) We also know that the combined length of the two snakes is 70 inches.
+3) Let's call Penny's snake length "x" inches.
+4) Then Jake's snake length would be "x + 12" inches.
+5) The combined length of the two snakes is 70 inches, so we can write the equation:
+x + (x + 12) = 70
+6) Simplifying the equation:
+2x + 12 = 70
+7) Solving for x:
+2x = 58
+x = 29
+8) Since Penny's snake is 29 inches, Jake's snake must be 29 + 12 = 41 inches.
+
+Answer: 41

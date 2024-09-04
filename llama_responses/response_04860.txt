@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Let's calculate the total hours the 3 machines work in a day: 23 hours.
+2. Since the new machine works 12 hours a day, the total hours the 4 machines work in a day is 23 + 12 = 35 hours.
+3. The total material produced by the 3 machines in a day is 23 hours * 2 kg/hour * 23 hours = 23 * 2 * 23 = 529 kg.
+4. Since the material is sold for $50 per 1 kg, the total revenue from selling the produced material is 529 kg * $50 per kg = 5290.
+5. Finally, the total revenue in a day is the total material sold, which is 5290.
+
+Answer: 5290

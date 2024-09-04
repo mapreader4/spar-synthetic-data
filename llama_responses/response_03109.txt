@@ -1,0 +1,39 @@
+Let's break down the situation step by step:
+
+Initially, there were some cookies in the jar. Lou Senior took 3 cookies out and ate them, so there are now some cookies left minus 3.
+
+The next day, Lou Senior took another 3 cookies out, but put 2 of them back, so there are now some cookies left minus 1 (the one he ate).
+
+Then, Louie Junior took 7 cookies out and hid them, so there are now some cookies left minus 7.
+
+Debra, Lou's wife, accused him of eating half of the cookies in the jar. This means that the number of cookies left is half of the original number of cookies.
+
+Let's call the original number of cookies x. Since Debra accused Lou of eating half of the cookies, this means that the number of cookies left is x/2.
+
+We know that the number of cookies left is x/2, and we also know that the number of cookies left is some cookies left minus 7 (because Louie Junior took 7 cookies). So, we can set up the equation:
+
+x/2 = some cookies left - 7
+
+We also know that some cookies left is the original number of cookies minus 1 (because Lou Senior ate one cookie) minus 7 (because Louie Junior took 7 cookies). So, we can write:
+
+some cookies left = x - 1 - 7
+
+Substituting this expression into the equation above, we get:
+
+x/2 = x - 1 - 7
+
+Simplifying the equation, we get:
+
+x/2 = x - 8
+
+Subtracting x from both sides gives:
+
+-x/2 = -8
+
+Multiplying both sides by -2 gives:
+
+x = 16
+
+So, the original number of cookies was 16.
+
+Answer: 8

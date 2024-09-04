@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the number of guests invited by Bridgette, which is 84. Alex invites two thirds of that number, which is 2/3 * 84 = 56.
+
+The total number of guests is the sum of the number of guests invited by Bridgette and Alex, which is 84 + 56 = 140.
+
+The caterer is making 10 extra plates, so the total number of plates is 140 + 10 = 150.
+
+Each plate has 8 asparagus spears, so the total number of asparagus spears is 150 * 8 = 1200.
+
+Answer: 1200

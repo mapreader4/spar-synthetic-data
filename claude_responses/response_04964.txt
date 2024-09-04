@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The group had 150 members before the admin removed 20 members
+* After the removal, the remaining number of members is 150 - 20 = 130 members
+* Each member posted 50 messages per day
+* We need to calculate the total number of messages the remaining 130 members would send in a week
+
+To calculate the total number of messages in a week:
+* Number of messages per day per member = 50
+* Number of remaining members = 130
+* Number of days in a week = 7
+* Total number of messages in a week = 50 messages/day x 130 members x 7 days = 45,500 messages
+
+Answer: 45,500

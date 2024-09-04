@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The airplane started with 124 passengers.
+* At the layover in Texas, 58 passengers got off and 24 got on.
+   * So, the number of passengers after the Texas layover is 124 - 58 + 24 = 90.
+* From Texas, they flew to North Carolina, where 47 people got off and 14 got on.
+   * So, the number of passengers after the North Carolina stop is 90 - 47 + 14 = 57.
+* There were also 10 crew members on board for the entire flight.
+* Therefore, the total number of people that landed in Virginia is 57 passengers + 10 crew members = 67.
+
+Answer: 67

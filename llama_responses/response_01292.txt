@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+1. The town lights enough fireworks to show the full year. Since there are 4 digits in the year, it will take 4 * 6 = 24 fireworks to display the year.
+2. Then, they light enough fireworks to write “HAPPY NEW YEAR” in the sky. This has 10 letters. It will take 10 * 5 = 50 fireworks to display the letters.
+3. Finally, they light another 50 boxes of fireworks, each containing 8 fireworks. So, they light 50 * 8 = 400 fireworks.
+
+In total, they light 24 + 50 + 400 = 474 fireworks.

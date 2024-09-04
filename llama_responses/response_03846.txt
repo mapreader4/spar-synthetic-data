@@ -1,0 +1,19 @@
+Let's start by calculating the total number of kernels Jenny dropped on the way home.
+
+Since she walks 5000 feet, and she drops 1 kernel for every 25 feet, we can divide 5000 by 25 to get the total number of kernels she dropped:
+
+5000 ÷ 25 = 200
+
+So, Jenny dropped 200 kernels of popcorn on the way home.
+
+Now, the squirrel ate one-quarter of the kernels. To find the number of kernels the squirrel ate, we can multiply the total number of kernels by one-quarter:
+
+200 x 1/4 = 50
+
+So, the squirrel ate 50 kernels.
+
+To find the number of kernels remaining on the ground, we subtract the number of kernels the squirrel ate from the total number of kernels Jenny dropped:
+
+200 - 50 = 150
+
+Answer: 150

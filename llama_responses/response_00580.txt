@@ -1,0 +1,7 @@
+Let's start by finding the total number of bricks of snow used in the bottom half of the igloo. Since there are 12 bricks of snow in each row in the bottom half, and there are 10 rows in the bottom half, the total number of bricks used in the bottom half is 12 * 10 = 120.
+
+Next, we need to find the total number of bricks of snow used in the top half of the igloo. There are 8 bricks of snow in each row in the top half, and there are 5 rows in the top half, so the total number of bricks used in the top half is 8 * 5 = 40.
+
+To find the total number of bricks of snow used for the entire igloo, we need to add the number of bricks used in the bottom half and the number of bricks used in the top half. The total number of bricks of snow used is 120 + 40 = 160.
+
+Answer: 160

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The monthly internet rate is $50
+* The customer gets a 5% discount if they pay before the 25th of the month
+* The customer paid every 25th of the month for 4 months
+
+To calculate the total amount the customer paid:
+1. Calculate the discounted rate for each month:
+   * Regular rate: $50
+   * Discounted rate: $50 - (5% of $50) = $50 - $2.50 = $47.50
+2. Calculate the total amount paid for 4 months:
+   * 4 months at the discounted rate of $47.50 per month = $47.50 x 4 = $190
+
+Answer: $190

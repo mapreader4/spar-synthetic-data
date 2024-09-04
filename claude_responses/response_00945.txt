@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jon buys 2 coffees a day
+* Each coffee costs $2
+* We need to find out how much he spends in April
+
+To calculate the total amount spent in April, we need to:
+1. Calculate the daily cost of the coffees:
+   * 2 coffees per day x $2 per coffee = $4 per day
+2. Calculate the number of days in April:
+   * April has 30 days
+3. Multiply the daily cost by the number of days in April:
+   * $4 per day x 30 days = $120
+
+Therefore, the total amount Jon spends on coffee in April is:
+
+Answer: 120

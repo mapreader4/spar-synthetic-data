@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Kira's cat eats 1 pound of kibble every 4 hours
+* Kira fills the bowl with 3 pounds of kibble before going to work
+* When Kira returns, there is 1 pound of kibble left in the bowl
+
+To find out how many hours Kira was away from home, we need to calculate how much kibble the cat ate while Kira was away.
+
+We know the cat eats 1 pound of kibble every 4 hours, so in the time Kira was away, the cat would have eaten:
+* 3 pounds (the amount in the bowl when Kira left) - 1 pound (the amount left when Kira returned) = 2 pounds
+
+Now we can use this information to calculate the number of hours Kira was away:
+* 2 pounds / 1 pound per 4 hours = 8 hours
+
+Therefore, Kira was away from home for 8 hours.
+
+Answer: 8

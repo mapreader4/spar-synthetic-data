@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 3 goldfish in the tank.
+2) Each goldfish plays with 10 red balls.
+3) So the total number of red balls played with by the goldfish is: 3 goldfish x 10 red balls per goldfish = 30 red balls.
+4) There are 10 platyfish in the tank.
+5) Each platyfish plays with 5 white balls.
+6) So the total number of white balls played with by the platyfish is: 10 platyfish x 5 white balls per platyfish = 50 white balls.
+7) The total number of balls in the tank is the sum of the red balls and the white balls: 30 red balls + 50 white balls = 80 balls.
+
+Answer: 80

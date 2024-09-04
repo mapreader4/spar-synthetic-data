@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the cost of each fruit.
+
+Apples cost 40 dollars for a dozen, so the cost of one apple is 40/12 = 3.33 dollars.
+
+Pears cost 50 dollars for a dozen, so the cost of one pear is 50/12 = 4.17 dollars.
+
+Now, let's find the total cost of the apples. Hank bought 14 dozen apples, so the total cost of apples is 14 x 3.33 = 46.82 dollars.
+
+Similarly, let's find the total cost of the pears. Hank bought 14 dozen pears, so the total cost of pears is 14 x 4.17 = 58.38 dollars.
+
+To find the total cost of the fruit, we add the cost of apples and pears together. 46.82 + 58.38 = 105.2.
+
+So, the answer is:
+
+Answer: 105.2

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* We know that 36 liters of diesel fuel is worth €18.
+* This means that the cost per liter of diesel fuel is:
+    * €18 / 36 liters = €0.50 per liter
+* The tank of the pickup truck can hold 64 liters.
+* To calculate the cost of a full tank of diesel fuel, we multiply the cost per liter by the tank capacity:
+    * €0.50 per liter x 64 liters = €32
+
+Answer: €32

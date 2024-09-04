@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find the total number of flowers Justin needs to collect. Since he needs one flower for each of the 30 classmates, the total number of flowers needed is 30.
+
+Justin has lost 3 of the flowers he initially gathered. So, he has gathered 30 - 3 = 27 flowers.
+
+He has been gathering for 2 hours, which is 120 minutes. Since it takes him on average 10 minutes to find a flower he likes, we can find the total time he has spent so far by multiplying the number of flowers he has found by the time it takes to find a flower: 27 * 10 = 270 minutes. He has spent 270 minutes so far.
+
+To find out how many more minutes he needs, we subtract the total time he has spent from the total time he has been gathering: 120 - 270 = 150 minutes.
+
+Answer: 150

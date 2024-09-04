@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+James earns $20 an hour at his main job.  He works 30 hours at his main job, so his earnings from his main job is:
+
+30 x $20 = $600
+
+He earns 20% less while working his second job. 20% of $20 is $4, so his earnings from his second job is:
+
+$20 - $4 = $16
+
+He works half that much at his second job, which is half of 30 hours, so he works 15 hours at his second job.  His earnings from his second job is:
+
+$16 x 15 = $240
+
+To find his total earnings, we add the earnings from both jobs:
+
+$600 + $240 = $840
+
+Answer: 840

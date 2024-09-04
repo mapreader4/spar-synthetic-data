@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* James writes a comic every other day
+* There are 365 days in a year (assuming no leap year)
+* In 4 years, there are 4 * 365 = 1,460 days
+* Since James writes a comic every other day, he will write a comic on half of the days
+* 1,460 days / 2 = 730 comics
+
+Answer: 730

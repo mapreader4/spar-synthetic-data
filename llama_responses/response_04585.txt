@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Let's assume the 2-liter container of milk is full, which means it contains 2000 ml of milk.
+
+Jasmine can pour milk from the container in portions. Let's assume she pours out a portion of milk. Let's call this portion x ml.
+
+The problem asks us to find how many portions of 200 ml milk Jasmine can pour from a full 2-liter container of milk. We know that 200 ml is 0.2 liters, or 1000/5, so we can set up an equation to solve this problem.
+
+Let's set up the equation:
+
+1000/5 = x
+
+To solve for x, we can multiply both sides of the equation by 5:
+
+x = 200
+
+So, the number of portions of 200 ml milk Jasmine can pour from a full 2-liter container of milk is 40.

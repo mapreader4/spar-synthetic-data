@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Will catches 16 catfish and 10 eels, for a total of 16 + 10 = 26 fishes caught by Will.
+2) Henry challenges himself to catch 3 trout for every catfish Will catches, so Henry needs to catch 3 * 16 = 48 trout.
+3) Henry decides to return half his catch after meeting his own challenge, so he keeps 48 / 2 = 24 trout.
+4) The total number of fishes they have now is the sum of Will's catch (26 fishes) and Henry's kept catch (24 trout), which is 26 + 24 = 50 fishes.
+
+Answer: 50

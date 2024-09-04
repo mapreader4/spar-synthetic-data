@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+Let's say Grant's score be x.
+
+Since Grant scored 10 points more than John, we can set up an equation: x = John's score + 10.
+
+We know John's score is half of Hunter's score, so we can set up another equation: John's score = Hunter's score / 2. We know Hunter scored a 45, so John's score = 45 / 2 = 22.5.
+
+Now we can substitute John's score into the first equation: x = 22.5 + 10.
+
+x = 32.5.
+
+Answer: 32

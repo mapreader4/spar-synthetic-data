@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) Hannah spends a total of $23 on an entree and a dessert.
+2) The entree costs $5 more than the dessert.
+3) Let's call the cost of the dessert "x".
+4) Then the cost of the entree is "x + 5".
+5) The total cost is the sum of the entree and the dessert, so we can write the equation:
+x + (x + 5) = 23
+6) Solving for x, we get:
+2x + 5 = 23
+2x = 18
+x = 9
+7) Therefore, the cost of the dessert is $9.
+8) The cost of the entree is $9 + $5 = $14.
+
+Answer: 14

@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+1) Carter can read half as many pages as Lucy in 1 hour.
+2) Lucy can read 20 more pages than Oliver in 1 hour.
+3) Oliver can read 40 pages in 1 hour.
+
+First, let's find out how many pages Lucy can read in 1 hour:
+* Oliver can read 40 pages in 1 hour.
+* Lucy can read 20 more pages than Oliver in 1 hour.
+* Therefore, Lucy can read 40 + 20 = 60 pages in 1 hour.
+
+Now, we can find out how many pages Carter can read in 1 hour:
+* Carter can read half as many pages as Lucy in 1 hour.
+* Lucy can read 60 pages in 1 hour.
+* Therefore, Carter can read 60 / 2 = 30 pages in 1 hour.
+
+Answer: 30

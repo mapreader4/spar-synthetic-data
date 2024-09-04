@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* You read 4 novels per month
+* Each novel has 200 pages
+* To calculate the total pages read in a month, we multiply the number of novels (4) by the number of pages per novel (200):
+4 novels x 200 pages/novel = 800 pages per month
+* To calculate the total pages read in a year, we multiply the number of pages read per month (800) by the number of months in a year (12):
+800 pages/month x 12 months/year = 9,600 pages per year
+
+Answer: 9,600

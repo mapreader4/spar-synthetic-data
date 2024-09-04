@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Randy got the following scores on his first four quizzes: 90, 98, 92, and 94.
+2) His goal is to get a 94 average on his 5 quizzes.
+3) To calculate the average, we add up all the scores and divide by the number of quizzes.
+4) The sum of his first four quiz scores is: 90 + 98 + 92 + 94 = 374.
+5) To get a 94 average on 5 quizzes, the total score needs to be 5 * 94 = 470.
+6) So the score he needs to get on the fifth quiz is: 470 - 374 = 96.
+
+Answer: 96

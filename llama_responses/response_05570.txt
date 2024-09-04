@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of the bonsai sold. The cost of a small bonsai is $30, so the total cost of 3 small bonsai is 3 * 30 = $90. The cost of a big bonsai is $20, so the total cost of 5 big bonsai is 5 * 20 = $100. The total cost of bonsai sold is the sum of the cost of small and big bonsai. So, the total cost is 90 + 100 = $190.
+
+So, the answer is: Answer: 190.

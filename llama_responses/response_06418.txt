@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first identify the total distance Macy wants to run in total, which is 24 miles.
+
+Let's identify how many miles Macy runs each day, which is 3 miles.
+
+We know that Macy has already ran for 6 days, so we can find the total distance she has already ran by multiplying the number of days by the distance she runs each day:
+
+6 days * 3 miles per day = 18 miles
+
+Now, we need to find out how many miles Macy has left to run to meet her goal of 24 miles. We can subtract the total distance she has already ran from the total distance she wants to run:
+
+24 miles - 18 miles = 6 miles
+
+So, Macy has 6 miles left to run to meet her goal.

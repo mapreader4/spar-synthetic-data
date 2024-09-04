@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The farmer planted 30 rows of tomatoes
+* Each row has 10 plants
+* So the total number of tomato plants is 30 rows x 10 plants per row = 300 plants
+* Each tomato plant yields 20 pieces of tomatoes
+* To find the total number of tomatoes, we multiply the total number of plants (300) by the number of tomatoes per plant (20)
+* 300 plants x 20 tomatoes per plant = 6,000 tomatoes
+
+Answer: 6,000

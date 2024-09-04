@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) We start with a box of 6 popsicles.
+2) The first popsicle melts at a certain rate.
+3) Each subsequent popsicle melts twice as fast as the previous one.
+4) So the second popsicle melts at 2 times the rate of the first popsicle.
+5) The third popsicle melts at 2 times the rate of the second popsicle, which is 2^2 = 4 times the rate of the first popsicle.
+6) The fourth popsicle melts at 2 times the rate of the third popsicle, which is 2^3 = 8 times the rate of the first popsicle.
+7) The fifth popsicle melts at 2 times the rate of the fourth popsicle, which is 2^4 = 16 times the rate of the first popsicle.
+8) The sixth (and last) popsicle melts at 2 times the rate of the fifth popsicle, which is 2^5 = 32 times the rate of the first popsicle.
+
+Answer: 32

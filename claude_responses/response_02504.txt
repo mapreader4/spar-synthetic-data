@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Elsie starts with a specific amount of wet wipes in the morning
+* Throughout the day, she uses up 20 wipes and then refills the container with 10 more wipes
+* By nighttime, she has 60 wipes left
+
+Let's call the initial amount of wipes in the morning "x".
+* She uses up 20 wipes, so she has x - 20 wipes left
+* She then refills the container with 10 more wipes, so she has x - 20 + 10 = x - 10 wipes
+* By nighttime, she has 60 wipes left, so x - 10 = 60
+* Solving for x, we get x = 70
+
+Therefore, the amount of wipes in the container in the morning was 70.
+
+Answer: 70

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The daily salary of the manager is $5
+* The daily salary of the clerk is $2
+* There are 2 managers currently employed
+* There are 3 clerks currently employed
+
+To calculate the total daily salary of all the employees, we need to:
+1. Calculate the total daily salary of the managers
+   * 2 managers x $5 per manager = $10 total daily salary for managers
+2. Calculate the total daily salary of the clerks
+   * 3 clerks x $2 per clerk = $6 total daily salary for clerks
+3. Add the total daily salaries of the managers and clerks together
+   * $10 + $6 = $16 total daily salary for all employees
+
+Answer: 16

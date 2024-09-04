@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mark was born in January 1976
+* It's February 2021, so Mark's current age is:
+    * 2021 - 1976 = 45 years old
+* Graham is 3 years younger than Mark
+* So Graham's age is:
+    * 45 - 3 = 42 years old
+* Janice is 1/2 the age of Graham
+* So Janice's age is:
+    * 42 / 2 = 21 years old
+
+Answer: 21

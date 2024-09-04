@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 5 people in Tommy's family
+* Each person wants one pound of steak
+* Each steak is 20 ounces
+
+First, we need to convert the desired amount of steak per person from pounds to ounces:
+* 1 pound = 16 ounces
+* So 1 pound of steak per person = 16 ounces per person
+
+Now, we need to calculate the total amount of steak needed for the 5 people:
+* 16 ounces per person x 5 people = 80 ounces of steak needed
+
+Finally, we need to determine how many 20-ounce steaks Tommy needs to buy to get 80 ounces of steak:
+* 80 ounces / 20 ounces per steak = 4 steaks needed
+
+Answer: 4

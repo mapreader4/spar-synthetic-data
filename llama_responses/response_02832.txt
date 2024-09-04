@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find the cost of 1 cake and 1 pie. The cost of 1 cake is $12, and the cost of 1 pie is $7. So, the cost of 1 cake and 1 pie is $19.
+
+Now, we need to find the cost of 453 cakes and 126 pies. The cost of 453 cakes is 453 cakes, and the cost of 126 pies is 126 pies. So, the total cost of 453 cakes and 126 pies is 453 cakes and 126 pies, which is 579.
+
+To find the baker's total earnings, we need to multiply the total cost of cakes and pies by the price of 1 cake and 1 pie. The cost of 1 cake and 1 pie is $19. So, the total earnings of the baker is 579 * 19, which is 10977.
+
+Answer: 10977

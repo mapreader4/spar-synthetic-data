@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Bert made 12 sandwiches initially.
+2. On the first day, Bert ate half of the sandwiches he made. Half of 12 is 6, so Bert ate 6 sandwiches.
+3. On the second day, Bert ate 2 sandwiches less than the number of sandwiches he had left. So, he ate 6 - 2 = 4 sandwiches.
+4. In total, Bert ate 6 + 4 = 10 sandwiches.
+5. Bert started with 12 sandwiches, and he ate 10. To find the number of sandwiches left, we subtract 10 from 12: 12 - 10 = 2.
+
+Answer: 2

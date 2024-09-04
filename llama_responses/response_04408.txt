@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first calculate the cost of the ingredients:
+
+* 1 loaf of bread: $4.00
+* 2 packs of sandwich meat: 2 x $5.00 = $10.00
+* 2 packs of sliced cheese: 2 x $4.00 = $8.00
+* Total cost of ingredients: $4.00 + $10.00 + $8.00 = $22.00
+
+Now, Ted has a $1.00 coupon for one pack of cheese and an additional $1.00 coupon for one pack of meat. Let's apply these coupons:
+
+* $1.00 off one pack of cheese: $8.00 - $1.00 = $7.00
+* $1.00 off one pack of meat: $10.00 - $1.00 = $9.00
+
+The total cost of the ingredients after the coupons is:
+
+$7.00 + $9.00 = $16.00
+
+To make 10 sandwiches, Ted will need 2 packs of sandwich meat and 2 packs of sliced cheese. So, the cost per sandwich will be:
+
+$16.00 ÷ 10 = $1.60
+
+Answer: 1.60

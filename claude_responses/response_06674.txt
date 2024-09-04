@@ -1,0 +1,18 @@
+To solve this problem, we need to find the total time William spent on the road, excluding the time spent at the stops.
+
+Given information:
+- William left Missouri at 7:00 AM.
+- William arrived at his hometown at 8:00 PM.
+- William had 3 stops of 25, 10, and 25 minutes, respectively.
+
+Step 1: Calculate the total time of the journey.
+Total time of the journey = 8:00 PM - 7:00 AM = 13 hours
+
+Step 2: Calculate the total time spent at the stops.
+Time spent at the stops = 25 minutes + 10 minutes + 25 minutes = 60 minutes = 1 hour
+
+Step 3: Calculate the time spent on the road.
+Time spent on the road = Total time of the journey - Time spent at the stops
+Time spent on the road = 13 hours - 1 hour = 12 hours
+
+Answer: 12 hours

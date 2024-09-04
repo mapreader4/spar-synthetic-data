@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Cyrus attempted 20 shots in the basketball game.
+2) He made exactly 80% of the shots he attempted.
+3) To calculate the number of shots he made, we take 80% of 20 shots:
+   * 80% of 20 = 0.8 * 20 = 16 shots made
+4) To calculate the number of shots he missed, we subtract the number of shots made from the total number of shots attempted:
+   * 20 shots attempted - 16 shots made = 4 shots missed
+
+Answer: 4

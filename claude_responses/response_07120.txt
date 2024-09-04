@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Adam's father deposited $2000 in the bank.
+2) The bank pays 8% interest on the deposit throughout the year.
+3) Adam's father withdraws the interest as soon as it is deposited.
+4) We need to calculate the total amount Adam's father will have after 2 and a half years.
+
+To calculate the interest received each year:
+* Year 1: $2000 x 0.08 = $160 in interest
+* Year 2: $2000 x 0.08 = $160 in interest
+* Half of Year 3: $2000 x 0.08 x 0.5 = $80 in interest
+
+So the total interest received over 2 and a half years is:
+$160 + $160 + $80 = $400
+
+Now, we add the original deposit of $2000 to the total interest received:
+$2000 + $400 = $2400
+
+Answer: $2400

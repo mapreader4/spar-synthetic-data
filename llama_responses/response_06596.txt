@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of jelly beans Thomas takes. Since Thomas takes 10%, he takes 0.1 x 200 = 20 jelly beans.
+
+Now, Barry and Emmanuel are to share the remainder, which is 200 - 20 = 180 jelly beans. The ratio between Barry and Emmanuel is 4:5, which means that for every 9 jelly beans, Barry gets 4 and Emmanuel gets 5.
+
+To find out how many jelly beans Emmanuel gets, we can multiply the total number of jelly beans they are to share (180) by the fraction 5/9, which is the fraction of jelly beans Emmanuel gets.
+
+180 x 5/9 = 100
+
+Answer: 100

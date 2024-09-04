@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+1. Nancy fills the aquarium halfway, so the initial amount of water is half the total volume of the aquarium.
+
+The volume of a rectangular prism is given by the formula V = lwh, where l is the length, w is the width, and h is the height. In this case, the volume of the aquarium is V = (4)(6)(3) = 72 cubic feet.
+
+Since Nancy fills it halfway, the initial amount of water is half of 72, which is 36 cubic feet.
+
+2. Then, the cat knocks the aquarium over and spills half the water in it. This means that half of the initial 36 cubic feet of water is spilled, which is 18 cubic feet.
+
+3. After the spill, the remaining water is 36 - 18 = 18 cubic feet.
+
+4. Nancy comes back and triples the amount of water in the aquarium. To triple the amount, she adds 3 times the remaining 18 cubic feet of water, which is 3 x 18 = 54 cubic feet.
+
+5. The final amount of water in the aquarium is the initial 18 cubic feet plus the added 54 cubic feet, which is 18 + 54 = 72 cubic feet.
+
+Answer: 72

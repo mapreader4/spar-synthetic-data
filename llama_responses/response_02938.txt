@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: First, we need to find out how much money Mike needs for the downpayment. 20% of the cost of the house is 0.2 * 450,000 = 90,000.
+
+Step 2: Now, we know that Mike puts away 10% of his salary, which is 0.1 * 150,000 = 15,000 per year.
+
+Step 3: We need to find out how many years it will take Mike to save up the 90,000 needed for the downpayment. To do this, we can divide the amount needed by the amount saved per year. 90,000 / 15,000 = 6 years.
+
+Answer: 6

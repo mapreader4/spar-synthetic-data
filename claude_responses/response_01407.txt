@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Nina has two pairs of shoes.
+2) The first pair of shoes cost $22.
+3) The second pair of shoes was 50% more expensive than the first pair.
+4) To calculate the cost of the second pair of shoes, we take the cost of the first pair ($22) and add 50% of that cost:
+   * 50% of $22 = $11
+   * $22 + $11 = $33
+5) So the second pair of shoes cost $33.
+6) To calculate the total amount Nina paid for both pairs of shoes, we add the cost of the first pair ($22) and the cost of the second pair ($33):
+   * $22 + $33 = $55
+
+Answer: 55

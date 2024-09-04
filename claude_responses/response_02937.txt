@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The lunchroom is full of students, and 40% of them are girls. That means the remaining 60% are boys.
+2) There are 2 monitors for every 15 students, and there are 8 monitors. So, the total number of students is 8 * 15 = 120 students.
+3) 40% of 120 students are girls, which is 0.4 * 120 = 48 girls.
+4) The remaining 60% are boys, which is 0.6 * 120 = 72 boys.
+5) Every boy drinks 1 carton of milk, so the total milk consumed by the boys is 72 cartons.
+6) Every girl drinks 2 cartons of milk, so the total milk consumed by the girls is 48 * 2 = 96 cartons.
+7) The total number of cartons of milk consumed by the students in the lunchroom is the sum of the milk consumed by the boys and the girls, which is 72 + 96 = 168 cartons.
+
+Answer: 168

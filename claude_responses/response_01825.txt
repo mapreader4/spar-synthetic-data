@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Tom has had pet insurance for 24 months, and it costs $20 per month.
+   * Total cost of the insurance over 24 months = $20 x 24 = $480
+
+2. The procedure cost $5000, and the insurance covers all but 20% of this.
+   * Amount covered by the insurance = $5000 x 0.8 = $4000
+   * Amount Tom has to pay = $5000 x 0.2 = $1000
+
+3. To calculate the money Tom saved by having insurance, we need to subtract the total cost of the insurance from the amount covered by the insurance.
+   * Money saved = Amount covered by the insurance - Total cost of the insurance
+   * Money saved = $4000 - $480 = $3520
+
+Answer: $3520

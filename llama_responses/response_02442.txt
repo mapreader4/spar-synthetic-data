@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how long Nancy hula hoops for. Since she can hula hoop for 10 minutes, that means she can hula hoop for 600 seconds (10 minutes * 60 seconds per minute).
+
+Next, we need to find out how long Casey hula hoops. Since Casey hula hoops 3 minutes less than Nancy, that means Casey hula hoops for 540 seconds (10 * 54 seconds per minute).
+
+Now, we need to find out how long Morgan hula hoops. Since Morgan hula hoops three times as long as Casey, that means Morgan hula hoops for 1620 seconds (3 * 540 seconds).
+
+Therefore, the answer is:
+
+Answer: 1620

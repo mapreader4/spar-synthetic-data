@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The park started with 30,000 elephants on Friday night.
+2) Over the next 4 hours, there was a constant exodus of 2,880 elephants per hour.
+   * Total elephants leaving the park during the 4-hour exodus = 2,880 elephants/hour * 4 hours = 11,520 elephants
+3) After the 4-hour exodus, the number of elephants in the park was 30,000 - 11,520 = 18,480 elephants.
+4) Over the next 7 hours, new elephants entered the park at a constant rate.
+5) The final number of elephants in the park was 28,980.
+6) To find the rate at which the new elephants entered the park, we need to calculate the total number of elephants that entered the park during the 7-hour period, and then divide that by 7 hours.
+   * Total elephants that entered the park = Final number of elephants (28,980) - Remaining elephants after exodus (18,480) = 10,500 elephants
+   * Rate of new elephants entering the park = 10,500 elephants / 7 hours = 1,500 elephants/hour
+
+Answer: 1,500 elephants/hour

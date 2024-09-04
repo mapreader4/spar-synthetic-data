@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's first find out how many miles he runs on the first day. 20% of 70 is 0.2 x 70 = 14. So he runs 14 miles on the first day.
+
+Now, we know that he has 70 - 14 = 56 miles left to go. Then on the second day, he runs 50% of the remaining miles, which is 0.5 x 56 = 28 miles. So he runs 28 miles on the second day.
+
+So, we know that he has 56 - 28 = 28 miles left to go. On the third day, he runs the remaining 28 miles. 
+
+Answer: 28

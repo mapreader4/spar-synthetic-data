@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* Josie's mom gave her a $20 bill
+* The items she needed to buy were:
+  - Carton of milk for $4.00
+  - Loaf of bread for $3.50
+  - Box of laundry detergent for $10.25
+  - 2 pounds of bananas at $0.75 per pound
+* Josie had a coupon for $1.25 off the laundry detergent
+* The milk was 1/2 off at checkout
+
+First, let's calculate the total cost of the items without any discounts:
+* Milk: $4.00
+* Bread: $3.50
+* Laundry detergent: $10.25
+* Bananas: 2 pounds x $0.75 per pound = $1.50
+* Total: $4.00 + $3.50 + $10.25 + $1.50 = $19.25
+
+Now, let's apply the discounts:
+* Laundry detergent: $10.25 - $1.25 (coupon) = $9.00
+* Milk: $4.00 / 2 = $2.00
+
+The new total is:
+* $2.00 + $3.50 + $9.00 + $1.50 = $16.00
+
+Josie's mom gave her a $20 bill, so the amount of money Josie had left over is:
+* $20.00 - $16.00 = $4.00
+
+Answer: $4

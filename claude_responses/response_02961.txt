@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jasmine's longest book has 396 pages.
+2) Her shortest book has one-fourth as many pages as the longest book.
+   - The shortest book has 396 / 4 = 99 pages.
+3) The book in the middle of her shelf has three times the number of pages of the shortest book.
+   - The middle book has 99 * 3 = 297 pages.
+
+Answer: 297

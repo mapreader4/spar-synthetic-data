@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's start by finding the capacity of one container filled with water. If one container has a capacity of 20 liters and it is filled with water, it means that it contains 20 liters of water.
+
+To find the capacity of 40 such containers, we can multiply the capacity of one container by 40. So, the capacity of 40 containers filled with water would be:
+
+20 * 40 = 800
+
+So, the answer is:
+
+Answer: 800

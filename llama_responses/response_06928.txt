@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. Kohen orders 10 boxes of apples, each with 300 apples. So, the total number of apples is 10 * 300 = 3000.
+
+2. He sells 3/4 of his stock in a certain week. 3000 * 3/4 = 2250 apples are sold.
+
+3. The total number of apples not sold is 3000 - 2250 = 750 apples.
+
+Answer: 750

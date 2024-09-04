@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* A giraffe statue takes 120 grams of jade and sells for $150
+* An elephant statue takes twice as much jade as a giraffe statue, so it takes 240 grams of jade
+* An elephant statue sells for $350
+
+Now, let's calculate how much money Nancy would make turning all 1920 grams of jade into giraffes:
+* 1920 grams of jade / 120 grams per giraffe = 16 giraffes
+* 16 giraffes x $150 per giraffe = $2,400
+
+Now, let's calculate how much money Nancy would make turning all 1920 grams of jade into elephants:
+* 1920 grams of jade / 240 grams per elephant = 8 elephants
+* 8 elephants x $350 per elephant = $2,800
+
+The difference between the money made from elephants and the money made from giraffes is:
+* $2,800 - $2,400 = $400
+
+Answer: $400

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: two-thirds of the class have brown eyes. This means that 2/3 of the class have brown eyes. Let's convert this to a fraction: 2/3 = 2/3 x x = 2x.
+
+Now, let's say the total number of students in the class is x. Then, 2/3 of x is the number of students with brown eyes. We can write this as an equation: 2/3x = 6.
+
+We are told that half of the students with brown eyes have black hair. This means that 1/2 of the students with brown eyes have black hair. We can represent this as a fraction: 1/2 = 1/2 x.
+
+Now, we know that 1/2 of the students with brown eyes have black hair. We are also told that 6 students have brown eyes and black hair. So, we know that 1/2 x = 6. This means that x = 12.
+
+Since 2/3 of the class have brown eyes, we know that 2/3x = 6. But we also know that x = 12. We can set these two expressions equal to each other: 2/3x = 6 = x = 12.
+
+Now, we can solve for x: x = 12 / 2/3 = 12 / 2 = 6.
+
+Answer: 6

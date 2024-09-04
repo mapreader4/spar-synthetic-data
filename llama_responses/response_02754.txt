@@ -1,0 +1,7 @@
+Let's start by identifying the number of oranges that Betty has, which is given as 12.
+
+Since Sandra has 3 times as many oranges as Betty, Sandra has 12 / 3 = 4 oranges.
+
+Since Emily has 7 times as many oranges as Sandra, Emily has 4 * 7 = 28 oranges.
+
+Answer: 28

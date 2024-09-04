@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John used to get 20 text messages a day
+* Now he is getting 55 text messages a day
+* We assume the number of texts his friends send has not changed
+
+This means that the additional 35 text messages per day (55 - 20 = 35) are not intended for him, but rather for the previous owner of the phone number.
+
+To calculate the number of text messages per week that are not intended for him, we need to multiply the additional 35 text messages per day by the number of days in a week.
+
+There are 7 days in a week, so:
+* 35 text messages per day x 7 days per week = 245 text messages per week
+
+Therefore, the answer is:
+Answer: 245

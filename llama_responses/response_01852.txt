@@ -1,0 +1,21 @@
+Let's think step by step.
+
+Let's say the number of days it takes Bert to have the same number of kangaroos as Kameron does now is x.
+
+In that case, Bert will buy 2 kangaroos per day for x days. So, he will buy a total of 2x kangaroos.
+
+Since Bert starts with 20 kangaroos, he will have 20 + 2x kangaroos after x days. But he needs to have 100 kangaroos, which is the same as Kameron, so we can set up the equation:
+
+20 + 2x = 100
+
+To solve for x, we can subtract 20 from both sides of the equation:
+
+2x = 80
+
+To find the value of x, we can divide both sides of the equation by 2:
+
+x = 80 / 2
+
+x = 40
+
+So, Bert will need 40 days to have the same number of kangaroos as Kameron does now.

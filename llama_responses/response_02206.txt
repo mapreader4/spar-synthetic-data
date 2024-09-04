@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Shanna planted 6 tomato plants, 2 eggplant plants, and 4 pepper plants in her summer garden. So, the total number of plants is 6 + 2 + 4 = 12 plants.
+
+Half of her tomato plants and one pepper plant died. So, half of 6 is 3 tomato plants, and half of 1 is 0.5 pepper plants. So, the total number of dead plants is 3 + 0.5 = 3.5.
+
+The remaining plants each gave her 7 vegetables. So, the total number of vegetables is 12 - 3.5 = 8.5.
+
+So, the answer is:
+
+Answer: 8

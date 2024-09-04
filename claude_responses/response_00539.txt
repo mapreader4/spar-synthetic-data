@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The company chopped down 200 trees in the first half of the year
+* For every tree they chopped down, they want to plant 3 more
+* So for the 200 trees chopped down in the first half, they need to plant 3 * 200 = 600 trees
+* In the second half of the year, the company chopped down 300 more trees
+* For the 300 trees chopped down in the second half, they need to plant 3 * 300 = 900 trees
+* To find the total number of trees the company needs to plant, we add the trees needed for the first half and the second half:
+* 600 + 900 = 1500 trees
+
+Answer: 1500

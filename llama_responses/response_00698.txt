@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Step 1: Convert the percentage to a decimal number. 50% of 16 GB is 0.5 GB.
+
+Step 2: Subtract 0.5 GB from the total capacity of 16 GB.
+
+0.5 GB is the amount of space used, so the remaining space available is:
+
+16 GB - 0.5 GB = 15.5 GB.
+
+Answer: 15.5 GB

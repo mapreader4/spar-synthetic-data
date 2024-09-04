@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Fred originally had 212 sheets of paper.
+2) He then received 307 more sheets of paper from Jane.
+3) So the total number of sheets of paper Fred had after receiving the additional 307 sheets is:
+212 + 307 = 519 sheets of paper.
+4) Fred then gave 156 sheets of paper to Charles.
+5) So the number of sheets of paper Fred has left is:
+519 - 156 = 363 sheets of paper.
+
+Answer: 363

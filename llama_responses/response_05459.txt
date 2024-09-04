@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+The bus driver drives for 5 days, so we need to multiply the hours he drives each day by 5.
+
+The driver drives for 2 hours each day, so the total hours driven is 2 * 5 = 10 hours.
+
+From Monday to Wednesday, the bus driver drives at an average speed of 12 kilometers per hour. So, the distance covered is 12 * 2 = 24 kilometers.
+
+From Thursday to Friday, the bus driver drives at an average speed of 9 kilometers per hour. So, the distance covered is 9 * 2 = 18 kilometers.
+
+The total distance driven is the sum of the distance driven from Monday to Wednesday and Thursday to Friday. So, the total distance driven is 24 + 18 = 42 kilometers.
+
+Answer: 42

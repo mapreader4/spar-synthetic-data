@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jack gets 10 cents per bottle
+* He recycled 80 bottles
+* So, the amount he made from the bottles is:
+    * 80 bottles x 10 cents per bottle = $8
+* Jack made a total of $15 from recycling
+* We know that the amount he made from the bottles is $8
+* So, the remaining amount he made must be from the cans
+* The amount he made from the cans is $15 - $8 = $7
+* He gets 5 cents per can
+* So, the number of cans he recycled is:
+    * $7 / 5 cents per can = 140 cans
+
+Answer: 140

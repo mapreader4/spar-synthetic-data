@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) We know that Pam's bank account balance tripled during the year.
+2) At the end of the year, Pam withdrew $250.
+3) Her current balance is $950.
+4) To find her starting balance, we need to work backwards:
+* Her current balance is $950
+* She withdrew $250, so her balance before the withdrawal was $950 + $250 = $1,200
+* Her balance tripled during the year, so her starting balance was $1,200 / 3 = $400
+Answer: $400

@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+
+1. In the first month, Grant made $350.
+
+2. In the second month, he made $50 more than double what he made in the first month.
+   * First month's earnings: $350
+   * Double of first month's earnings: $350 x 2 = $700
+   * $50 more than $700: $700 + $50 = $750
+
+3. In the third month, he quadrupled the sum of the first two months.
+   * First month's earnings: $350
+   * Second month's earnings: $750
+   * Sum of first two months: $350 + $750 = $1,100
+   * Quadrupled sum: $1,100 x 4 = $4,400
+
+Now, to calculate the total amount Grant made in his first three months:
+* First month: $350
+* Second month: $750
+* Third month: $4,400
+* Total: $350 + $750 + $4,400 = $5,500
+
+Answer: $5,500

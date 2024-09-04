@@ -1,0 +1,1 @@
+To find the number of passengers a train with 16 cars can carry, we need to first find the number of passengers a single train car can carry, which is 60. Then, we need to multiply this by 16 to get the total number of passengers the train can carry. 60 * 16 = 960 passengers.

@@ -1,0 +1,33 @@
+Let's break down the problem step by step.
+
+John gave his fiancee a $4000 ring on their engagement day.
+
+John gave his fiancee a $2000 car on their wedding day.
+
+John gave his fiancee a diamond bracelet twice as expensive as the ring he gave her during the engagement. Let's call the value of the ring given during the engagement "x".
+
+So, the value of the ring is x.
+
+The value of the bracelet is 2x.
+
+So, the total value of the presents John gave to his fiancee is:
+
+$4000 (ring) + $2000 (car) + 2x (bracelet)
+
+We know that x is twice the value of the ring. So, we can substitute x with 4000 to get:
+
+2x = 4000
+
+So, x is 2000.
+
+Now, we can substitute x with 2000:
+
+2(2000) = 4000
+
+The total value of the presents John gave to his fiancee is:
+
+$4000 (ring) + $2000 (car) + 2(2000) (bracelet)
+
+The answer is:
+
+Answer: 8000

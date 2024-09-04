@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+First, half of the class has already said they will vote for Alec, which is 60/2 = 30 students.
+
+Next, 5 more students said they are thinking about voting for him, so the total number of students who have said they will vote for him or are thinking about voting for him is 30 + 5 = 35 students.
+
+Out of the remaining students, 60 - 35 = 25 students are thinking about voting for someone else.
+
+Alec's flyers changed the minds of a fifth of these students, which is 25/5 = 5 students. So, the total number of students who have said they will vote for him is now 35 + 5 = 40 students.
+
+To reach his goal of three-quarters of the class voting for him, Alec needs 60 * 3/4 = 45 votes.
+
+Since he already has 40 votes, he needs 45 - 40 = 5 more votes to reach his goal.

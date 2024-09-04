@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's start by calculating the total amount of money the farmer earned from selling the potatoes. Each bundle of potatoes was sold for $1.90, and there were 25 bundles. So the total amount of money earned from selling the potatoes is:
+
+25 * 1.90 = 47.50
+
+Now, let's calculate the total amount of money the farmer earned from selling the carrots. Each bundle of carrots was sold for $2, and there were 20 bundles. So the total amount of money earned from selling the carrots is:
+
+20 * 2 = 40
+
+Now, let's add the amount earned from selling the potatoes and the amount earned from selling the carrots:
+
+47.50 + 40 = 87.50
+
+So, the total amount of money the farmer got from selling all his harvested crops is 87.50.

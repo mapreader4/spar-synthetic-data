@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The baker bought 3 boxes of flour, each costing $3. So the total cost of the flour is 3 * $3 = $9.
+* The baker bought 3 trays of eggs, each costing $10. So the total cost of the eggs is 3 * $10 = $30.
+* The baker bought 7 liters of milk, each costing $5. So the total cost of the milk is 7 * $5 = $35.
+* The baker bought 2 boxes of baking soda, each costing $3. So the total cost of the baking soda is 2 * $3 = $6.
+
+To calculate the total amount the baker will have to pay, we add up the costs of all the ingredients:
+$9 + $30 + $35 + $6 = $80
+
+Answer: 80

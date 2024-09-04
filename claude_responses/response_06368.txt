@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Nigella earns a base salary of $3,000 per month, plus a 2% commission on every house she sells.
+2) In one month, Nigella sells 3 houses and earns a total of $8,000.
+3) Let's call the cost of House A as x.
+4) House B costs three times as much as House A, so the cost of House B is 3x.
+5) House C costs twice as much as House A minus $110,000, so the cost of House C is 2x - $110,000.
+6) The total commission Nigella earned is 2% of the total cost of the 3 houses.
+7) The total cost of the 3 houses is x + 3x + (2x - $110,000) = 6x - $110,000.
+8) The commission is 2% of 6x - $110,000, which is $0.02(6x - $110,000) = $0.12x - $2,200.
+9) Nigella's total earnings are $8,000, which is her base salary of $3,000 plus her commission of $0.12x - $2,200.
+10) Therefore, $8,000 = $3,000 + $0.12x - $2,200, which simplifies to $0.12x = $7,200.
+11) Solving for x, we get x = $60,000.
+
+Answer: $60,000

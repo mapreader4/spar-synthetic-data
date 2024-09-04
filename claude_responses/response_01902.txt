@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+1. Josie counted 80 antelopes.
+2. She counted 34 more rabbits than antelopes, so the number of rabbits is 80 + 34 = 114.
+3. The number of hyenas is 42 fewer than the total number of antelopes and rabbits, which is 80 + 114 = 194. So the number of hyenas is 194 - 42 = 152.
+4. The number of wild dogs is 50 more than the number of hyenas, which is 152 + 50 = 202.
+5. The number of leopards is half the number of rabbits, which is 114 / 2 = 57.
+
+Now, to find the total number of animals Josie counted, we add up all the animals:
+80 antelopes + 114 rabbits + 152 hyenas + 202 wild dogs + 57 leopards = 605 animals.
+
+Answer: 605

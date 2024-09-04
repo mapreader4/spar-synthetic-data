@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. We know that the Uber ride costs $22. We also know that a Lyft ride costs $4 more than a taxi ride. So, the cost of a taxi ride is $22 - $4 = $18.
+2. We know that Trevor takes a taxi downtown and tips the taxi driver 20% of the original cost of the ride. To find the cost of the ride, we need to find 20% of the taxi ride cost. To find 20% of a number, we can multiply the number by 0.2. So, we multiply $18 by 0.2 to get $3.60.
+3. To find the total cost of the ride downtown, we add the cost of the taxi ride and the tip: $18 + $3.60 = $21.60.
+
+Answer: 21

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Doug has put out 20 fires.
+* Kai has put out 3 times more fires than Doug, so Kai has put out 20 x 3 = 60 fires.
+* Eli has put out half the number of fires that Kai has put out, so Eli has put out 60 / 2 = 30 fires.
+
+Now, let's add up the number of fires each person has put out:
+
+* Doug: 20
+* Kai: 60
+* Eli: 30
+
+Total fires put out: 20 + 60 + 30 = 110
+
+Answer: 110

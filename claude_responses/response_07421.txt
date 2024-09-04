@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* The total prize money is $2,400
+* The first winner will receive a third of the money
+* The remaining amount will be divided among the next ten winners, with each receiving a 10th of the remaining amount
+
+First, let's calculate the amount the first winner will receive:
+* One-third of $2,400 is $800
+
+Now, let's calculate the remaining amount to be divided among the next ten winners:
+* Remaining amount = $2,400 - $800 = $1,600
+
+Each of the next ten winners will receive a 10th of the remaining amount:
+* $1,600 / 10 = $160
+
+Therefore, each of the next ten winners will receive $160.
+
+Answer: $160

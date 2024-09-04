@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. On the first page, there are 5 drawings.
+2. On the second page, there are 5 + 5 = 10 drawings.
+3. On the third page, there are 10 + 5 = 15 drawings.
+4. On the fourth page, there are 15 + 5 = 20 drawings.
+5. On the fifth page, there are 20 + 5 = 25 drawings.
+
+So, the total number of drawings in the first five pages is 5 + 10 + 15 + 20 + 25 = 75.
+
+Answer: 75

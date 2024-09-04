@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Harry needs to buy 5 spellbooks, each costing 5 gold.
+   * Total cost of spellbooks = 5 books x 5 gold per book = 25 gold
+
+2. Harry needs to buy 3 potion kits, each costing 20 silver.
+   * Total cost of potion kits = 3 kits x 20 silver per kit = 60 silver
+
+3. Harry needs to buy 1 owl that costs 28 gold.
+   * Total cost of the owl = 28 gold
+
+4. We know that there are 9 silver to a gold.
+   * So, 25 gold + 28 gold = 53 gold
+   * 53 gold x 9 silver per gold = 477 silver
+   * 477 silver + 60 silver = 537 silver
+
+Answer: 537

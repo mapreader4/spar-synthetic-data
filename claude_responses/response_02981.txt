@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jackie walks 2 miles each day
+* Jessie walks 1.5 miles each day
+* We want to know how many more miles, in total, Jackie walks than Jessie in 6 days
+
+To calculate this, we need to find the total distance walked by each person over the 6 days.
+
+For Jackie:
+* 2 miles per day x 6 days = 12 miles total
+
+For Jessie:
+* 1.5 miles per day x 6 days = 9 miles total
+
+Now, we can calculate the difference between the total miles walked by Jackie and Jessie:
+* 12 miles (Jackie) - 9 miles (Jessie) = 3 miles
+
+Answer: 3

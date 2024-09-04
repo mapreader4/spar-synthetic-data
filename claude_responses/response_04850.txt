@@ -1,0 +1,20 @@
+To solve this problem, we need to find the total number of birds seen by Gabrielle and Chase, and then calculate the percentage difference between the two.
+
+Given information:
+- Gabrielle saw 5 robins, 4 cardinals, and 3 blue jays.
+- Chase saw 2 robins, 3 blue jays, and 5 cardinals.
+
+Step 1: Calculate the total number of birds seen by Gabrielle.
+Gabrielle's total birds = 5 robins + 4 cardinals + 3 blue jays = 12 birds
+
+Step 2: Calculate the total number of birds seen by Chase.
+Chase's total birds = 2 robins + 3 blue jays + 5 cardinals = 10 birds
+
+Step 3: Calculate the difference between the total birds seen by Gabrielle and Chase.
+Difference in birds = Gabrielle's total birds - Chase's total birds = 12 - 10 = 2 birds
+
+Step 4: Calculate the percentage difference.
+Percentage difference = (Difference in birds / Chase's total birds) × 100
+Percentage difference = (2 / 10) × 100 = 20%
+
+Answer: 20%

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* 1/3 of the townspeople have received the full COVID vaccine
+* 1/3 are immune because they already recovered from COVID
+* 1/6 of the townspeople are both vaccinated and already had COVID
+* To find the total percent of the town that is immune in some way, we need to add up the percentages of those who are vaccinated, those who have recovered, and those who are both vaccinated and recovered, while accounting for the overlap.
+
+First, let's find the percentage of the town that is vaccinated:
+* 1/3 of the townspeople are vaccinated
+
+Next, let's find the percentage of the town that has recovered from COVID:
+* 1/3 of the townspeople have recovered from COVID
+
+Now, let's find the percentage of the town that is both vaccinated and has recovered from COVID:
+* 1/6 of the townspeople are both vaccinated and have recovered from COVID
+
+To find the total percentage of the town that is immune in some way, we add the percentages of those vaccinated, those recovered, and those both vaccinated and recovered, while subtracting the percentage that is both vaccinated and recovered to avoid double-counting:
+* Total immune percentage = 1/3 + 1/3 - 1/6 = 5/6 = 83.33%
+
+Answer: 83

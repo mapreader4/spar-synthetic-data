@@ -1,0 +1,17 @@
+To solve this problem, we need to find the minimum number of rides required for the 30-day pass to be cheaper per ride than the one-way ticket.
+
+Given information:
+- One-way ticket costs $2.
+- 30-day pass costs $50.
+
+Let's assume the minimum number of rides required is x.
+
+For the 30-day pass to be cheaper per ride, the following condition must be true:
+$50 / x < $2 per ride
+
+Rearranging the inequality, we get:
+x > $50 / $2 = 25
+
+Therefore, the minimum number of rides you will need to take every month so that the 30-day pass is strictly cheaper per ride is 26.
+
+Answer: 26

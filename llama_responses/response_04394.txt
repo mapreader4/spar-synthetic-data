@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of craters in each helmet.
+
+Dan's skateboarding helmet has 10 more craters than Daniel's ski helmet. So, let's assume Dan's helmet has x craters. Then, we can write an equation to represent this:
+
+x + 10 = Dan's craters
+
+We know that Daniel's helmet has fewer craters than Dan's helmet. So, let's say Daniel's helmet has y craters. Then, we can write another equation to represent this:
+
+y < x
+
+We are given that Rin's snorkel helmet has 15 craters more than the total number of craters in Dan's and Daniel's helmets. So, we can write an equation to represent this:
+
+y = x + 10
+
+We know that Rin's helmet has 75 craters. So, we can substitute this value into the equation:
+
+75 = x + 10
+
+Now, we can solve for x:
+
+x = 65
+
+So, the number of craters in Dan's helmet is 65.
+
+Answer: 65

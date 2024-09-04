@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the cost of one burger:
+
+A burger costs $9.
+
+Now, to find the cost of one pizza, we need to know that a pizza is 2 times as much as a burger. So, the cost of one pizza would be:
+
+$9 * 2 = $18
+
+Now, we need to find the cost of three burgers, which is 3 times the cost of one burger, which is:
+
+$9 * 3 = $27
+
+Finally, to find the cost of one pizza and three burgers, we add the cost of one pizza to the cost of three burgers:
+
+$18 + $27 = $45
+
+So, the answer is:
+
+Answer: 45

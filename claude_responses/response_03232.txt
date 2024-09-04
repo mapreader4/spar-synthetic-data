@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Mr. Grey's house was worth $100,000.
+2) He sold the house to Mr. Brown at a profit of 10%.
+   * To calculate the selling price, we take the original price ($100,000) and add 10% of that price:
+   * 10% of $100,000 = $10,000
+   * Selling price = $100,000 + $10,000 = $110,000
+3) After one year, Mr. Brown sold the house to his other friend with a 10% loss.
+   * To calculate the selling price, we take the price Mr. Brown paid ($110,000) and subtract 10% of that price:
+   * 10% of $110,000 = $11,000
+   * Selling price = $110,000 - $11,000 = $99,000
+
+Answer: $99,000

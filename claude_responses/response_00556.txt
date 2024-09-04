@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Roberto's starting salary was $80,000.
+2) His previous salary was 40% higher than his starting salary. To calculate this:
+   * 40% of $80,000 = 0.4 * $80,000 = $32,000
+   * Previous salary = $80,000 + $32,000 = $112,000
+3) Roberto then received a 20% raise from his previous salary of $112,000.
+   * 20% of $112,000 = 0.2 * $112,000 = $22,400
+   * Current salary = $112,000 + $22,400 = $134,400
+
+Answer: $134,400

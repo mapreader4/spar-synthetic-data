@@ -1,0 +1,5 @@
+To find the total time spent, we need to add the time spent researching and editing the essay.
+
+The time spent researching is 45 minutes.  The time spent writing is 6 * 30 minutes = 180 minutes.  The time spent editing is 75 minutes.  The total time spent is 45 + 180 + 75 = 225 minutes.  To convert this to hours, we divide by 60, since there are 60 minutes in an hour.  225 / 60 = 3.75 hours.
+
+Answer: 3.75

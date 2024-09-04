@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Each graduate can bring 2 parents.
+2) There are 50 graduates.
+3) So the number of parents attending is 50 * 2 = 100.
+4) There are 20 teachers attending.
+5) There are half as many administrators as teachers, so the number of administrators is 20 / 2 = 10.
+6) Adding up the total number of people attending:
+   - 50 graduates
+   - 100 parents
+   - 20 teachers
+   - 10 administrators
+7) The total number of people attending is 50 + 100 + 20 + 10 = 180.
+
+Answer: 180

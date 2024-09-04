@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Eva's mom bought 50 balloons and 1800cm³ of helium
+* Each balloon needs 50cm³ of helium to float high enough to touch the ceiling
+* The remaining balloons can be filled with ordinary air
+
+First, let's calculate how many balloons can be filled with the 1800cm³ of helium:
+* 1800cm³ / 50cm³ per balloon = 36 balloons
+
+So, 36 balloons can be filled with the helium and will touch the ceiling.
+
+Now, let's calculate how many balloons are left to be filled with ordinary air:
+* 50 total balloons - 36 helium-filled balloons = 14 balloons
+
+Therefore, the number of balloons touching the ceiling is 36, and the number of balloons not touching the ceiling is 14.
+
+Answer: 22

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Let's first find the total number of chocolates in the box. Since half of the chocolates have nuts and half do not, we can say that the total number of chocolates is equal to 2x. Let's say the total number of chocolates is 2x.
+2. Since half of the chocolates have nuts, and 80% of the chocolates with nuts are eaten, we can say that 0.8x is eaten. Since 0.8x is equal to 80% of 2x, we can say that 0.8x = 1.6x. This means that 1.6x chocolates with nuts are eaten.
+3. The other half of the chocolates without nuts are not eaten. Since we are left with 28 chocolates, we can say that the total number of chocolates without nuts is 2x - 1.6x = 0.4x. This means that 0.4x chocolates without nuts are left.
+4. Now, we can add the number of chocolates with nuts and without nuts together to find the total number of chocolates eaten. The total number of chocolates eaten is 1.6x + 0.4x = 2x.
+5. The total number of chocolates in the box is 2x. Therefore, the answer is 28 chocolates.

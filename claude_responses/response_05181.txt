@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jenny leaves her house at 8:00 AM and jogs to the school at 15 miles per hour
+* Half an hour later, at 8:30 AM, Anna realizes the issue and leaves the house to catch up to Jenny
+* Anna is driving at 45 miles per hour
+* We need to find out how long Anna spends traveling to catch up to Jenny
+
+First, let's calculate how far Jenny has traveled in the first 30 minutes:
+* 15 miles per hour x 0.5 hours = 7.5 miles
+
+Now, we need to calculate how long it takes Anna to travel the 7.5 miles to catch up to Jenny:
+* 7.5 miles / 45 miles per hour = 0.167 hours
+
+To convert this to minutes:
+* 0.167 hours x 60 minutes per hour = 10 minutes
+
+Answer: 10 minutes

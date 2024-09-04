@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's first find the total time of the podcasts he's already listened to:
+
+1. The first podcast is 45 minutes long.
+2. The second podcast is twice as long as the first, so it's 2 x 45 = 90 minutes long.
+3. The third podcast is 1 hour and 45 minutes long, so it's 1.75 hours long.
+4. The fourth podcast is 1 hour long.
+
+Total time listened to so far: 45 + 90 + 1.75 + 1 = 137.5 minutes
+
+There are 60 minutes in an hour, so we can convert this to hours and minutes: 137.5 minutes ÷ 60 = 2.288 hours.
+
+There are 6 hours left to fill. 6 - 2.288 = 3.712 hours.
+
+So, the next podcast has to be at least 3 hours and 12 minutes long to fill up the full 6 hours.

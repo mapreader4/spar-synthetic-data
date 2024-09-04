@@ -1,0 +1,11 @@
+Let the total amount of money Mr. Mathews makes from selling the animals be represented by the variable x.
+
+Let the number of goats be g and the number of sheep be s. We know that g + s = 360. So, we can write an equation to represent the number of goats sold: g = 2/3*s.
+
+The number of goats sold is 1/2 the number of goats, which is 5/7 of the total number of goats. Therefore, g = 1/2*5/7*360 = 60. 
+
+The number of sheep sold is 2/3 the number of sheep, which is 2/3 of the total number of sheep, which is 3/7 of the total number of sheep and goats. Therefore, s = 3/7*360 = 180.
+
+Mr. Mathews sells the goats for 40 each, and the sheep for 30 each. The total amount of money he makes from selling the goats is 60*40 = 2400. The total amount of money he makes from selling the sheep is 180*30 = 5400. The total amount of money he makes from the sale of the animals is 2400 + 5400 = 6840.
+
+The answer is: 6840.

@@ -1,0 +1,33 @@
+Let's break this problem down step by step:
+
+1. The tiger escapes at 1 AM and the zookeepers don't notice he's missing until 4 AM, so he has 3 hours to run before they start searching for him. During this time, he runs at a speed of 25 mph.
+
+Distance = Speed x Time
+Distance = 25 mph x 3 hours
+Distance = 75 miles
+
+So, the tiger runs 75 miles before the zookeepers start searching for him.
+
+2. It takes 2 more hours to find the tiger, so the total time he has been running is now 5 hours (3 hours before the search and 2 hours during the search). He has run a total distance of:
+
+Distance = 25 mph x 5 hours
+Distance = 125 miles
+
+3. After 4 hours of running, the tiger slows down to 10 mph. He runs for another hour, so the distance he covers at this speed is:
+
+Distance = 10 mph x 1 hour
+Distance = 10 miles
+
+4. Finally, the tiger is chased for half an hour at a speed of 50 mph. The distance he covers during this time is:
+
+Distance = 50 mph x 0.5 hours
+Distance = 25 miles
+
+5. To find the total distance the tiger has traveled, we add up the distances covered during each segment:
+
+Total Distance = 75 miles + 125 miles + 10 miles + 25 miles
+Total Distance = 235 miles
+
+This is the total distance the tiger has traveled. Since he was caught, this is also the distance from the zoo where he was caught.
+
+Answer: 235

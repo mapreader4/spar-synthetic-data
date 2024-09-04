@@ -1,0 +1,9 @@
+To solve this problem, we can start by identifying the given information:
+
+* Cassandra bought 4 dozen apples, which is equivalent to 48 apples.
+* She used the apples to make 4 pies.
+* Each pie was cut into 6 pieces, so the total number of pieces is 4 * 6 = 24.
+
+So, we can conclude that each slice of pie has 24 / 4 = 6 apples.
+
+Answer: 6

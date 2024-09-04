@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) On November 1, 2005, the fuel tank was full and contained 3,000 L.
+2) On January 1, 2006, the tank counter indicated that 180 L remained.
+3) This means that the amount of fuel used between November 1, 2005 and January 1, 2006 was:
+3,000 L - 180 L = 2,820 L
+4) On January 1, 2006, Mr. Fortchaud filled the tank completely again.
+5) On May 1, 2006, the meter read 1,238 L.
+6) This means that the amount of fuel used between January 1, 2006 and May 1, 2006 was:
+3,000 L - 1,238 L = 1,762 L
+7) The total amount of fuel used between November 1, 2005 and May 1, 2006 is the sum of the two amounts:
+2,820 L + 1,762 L = 4,582 L
+
+Answer: 4,582 L

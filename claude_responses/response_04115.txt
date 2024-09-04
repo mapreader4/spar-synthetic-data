@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Linda has 24 classmates
+* She wants to give each student 10 cookies
+* So the total number of cookies she needs to make is 24 * 10 = 240 cookies
+* Each cookie recipe makes 4 dozen cookies, which is 4 * 12 = 48 cookies
+* Linda made 2 batches of chocolate chip cookies, which is 2 * 48 = 96 cookies
+* She also made 1 batch of oatmeal raisin cookies, which is 48 cookies
+* So the total number of cookies she has made so far is 96 + 48 = 144 cookies
+* She still needs 240 - 144 = 96 more cookies
+
+Answer: 2

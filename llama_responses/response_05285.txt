@@ -1,0 +1,9 @@
+Let's start by using the information given to set up an equation. Let's call the number of trees "t" and the number of stones "s". We know that the number of stones is 40, so we can write this as "s = 40".
+
+We are also told that the number of birds is twice the sum of the number of trees and stones. This can be written as "b = 2(t + s)". We are also given that the number of trees is three times the number of stones, so we can write this as "t = 3s".
+
+We can substitute the equation for "s" into the equation for "t" to get "t = 3(40) = 120". We can then substitute the equation for "t" into the equation for "b" to get "b = 2(120) = 240".
+
+So, the answer is:
+
+Answer: 240

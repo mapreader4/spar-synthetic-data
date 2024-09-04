@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that the lizard has 3 times as many eyes as wrinkles, which means that the lizard has 3x eyes. We also know that the lizard has 7 times as many spots as wrinkles, which means that the lizard has 7w wrinkles.
+
+We are asked to find the number of eyes that the lizard has that is fewer than the combined number of spots and wrinkles. We can start by calculating the total number of spots and wrinkles: 7w + 3x = 7(3) = 21.
+
+So, the number of eyes the lizard has that is fewer than the combined number of spots and wrinkles is fewer than 21.

@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+Let's start by identifying the number of wings and the number of paintings. We know that there are 8 wings, and 4 wings are dedicated to paintings. This means that 4 wings are left for the artifacts.
+
+We also know that the large painting takes up an entire wing. So, one wing is dedicated to this painting. This leaves 7 wings for the artifacts.
+
+The remaining 7 wings are divided into 2 wings, each with 12 smaller paintings. This means that each wing has 6 artifacts.
+
+To find the number of artifacts in each wing, we can divide 6 by 2 to get:
+
+Answer: 3

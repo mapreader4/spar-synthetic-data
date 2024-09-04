@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say the number of goals scored by each player is x.
+
+Since the total number of goals scored in the league against Barca that season is 300, we can set up an equation:
+
+x + x = 300
+
+We know that the number of goals scored by the two players accounts for 20% of all goals scored in the league. To find the total number of goals scored by the two players, we can multiply the total number of goals by 0.2:
+
+0.2 * 300 = 60
+
+Since the number of goals scored by each player is equal, we can divide the total number of goals scored by 2:
+
+60 ÷ 2 = 30
+
+So, each player scored 30 goals.
+
+Answer: 30

@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's first find the price of the math textbook outside the school bookshop. Since it is 20% less than the school bookshop's price, we can set up an equation:
+
+Let x be the price of the math textbook outside the school bookshop. Then, we can set up the equation:
+
+x = 0.8 × 45
+
+To solve for x, we can multiply both sides by 100:
+
+x = 0.8 × 45
+x = 36
+
+So, the price of the math textbook outside the school bookshop is $36.
+
+Now, let's find how much Peter can save by buying from other bookshops. The difference between the school bookshop's price and the outside price is:
+
+45 - 36 = 9
+
+So, Peter can save $9 by buying from other bookshops.
+
+Since Peter wants to buy 3 math textbooks, he can save a total of:
+
+9 × 3 = 27
+
+So, the answer is:
+
+Answer: 27

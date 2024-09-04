@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The price of an orange was originally $40.
+2) The price of a mango was originally $50.
+3) Mr. Trent increased the prices by 15% to make the same income as before.
+4) To calculate the new prices:
+   - Orange: $40 + (15% of $40) = $40 + $6 = $46 per orange
+   - Mango: $50 + (15% of $50) = $50 + $7.50 = $57.50 per mango
+5) To calculate the total cost of 10 oranges and 10 mangoes at the new prices:
+   - 10 oranges at $46 each = 10 * $46 = $460
+   - 10 mangoes at $57.50 each = 10 * $57.50 = $575
+   - Total cost = $460 + $575 = $1,035
+
+Answer: $1,035

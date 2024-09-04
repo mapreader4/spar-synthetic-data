@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The total number of guests invited is 200.
+* 83% of the guests RSVP'd with a Yes response.
+* To calculate the number of guests who RSVP'd Yes, we take 83% of 200:
+    * 83% of 200 = 0.83 * 200 = 166 guests
+* 9% of the guests RSVP'd with a No response.
+* To calculate the number of guests who RSVP'd No, we take 9% of 200:
+    * 9% of 200 = 0.09 * 200 = 18 guests
+* To calculate the number of guests who did not respond at all, we need to subtract the number of Yes and No responses from the total number of guests:
+    * Total guests - Yes responses - No responses = 200 - 166 - 18 = 16 guests
+
+Answer: 16

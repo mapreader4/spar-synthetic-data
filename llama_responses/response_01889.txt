@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of money Trevor spends each year. Trevor spends $20 more than Reed, so Trevor's annual toy budget is 20 + Reed's toy budget. Since Reed spends 2 times as much money as Quinn, Reed's toy budget is Quinn's toy budget / 2. Let's call Quinn's toy budget "x". So, Trevor's toy budget is 20 + x/2. Since Trevor's toy budget is $80, we can set up the equation 20 + x/2 = 80. We can solve for x by multiplying both sides by 2 and subtracting 20 from both sides, which gives us x = 40.
+
+Now we know Trevor's toy budget is $40. We can find the total money spent by the three friends by multiplying 40 * 4. The answer is 160.
+
+Answer: 160

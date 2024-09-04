@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Henry picked up 17 perfect shells and 52 broken shells
+* Out of the 52 broken shells, half of them were spiral
+* To find the number of broken spiral shells, we take half of 52, which is 26
+* Out of the 17 perfect shells, 12 of them were not spiral
+* To find the number of perfect spiral shells, we take the total number of perfect shells (17) and subtract the number of non-spiral perfect shells (12), which gives us 5 perfect spiral shells
+* To find the difference between the number of broken spiral shells and the number of perfect spiral shells, we take the number of broken spiral shells (26) and subtract the number of perfect spiral shells (5)
+* 26 - 5 = 21
+
+Answer: 21

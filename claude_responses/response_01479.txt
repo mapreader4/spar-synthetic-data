@@ -1,0 +1,19 @@
+To solve this problem, we need to find out how many batches of jerky Wallace needs to make to fulfill the customer's order, and then calculate the number of days it will take to make those batches.
+
+Given information:
+- Each batch of jerky can make 10 bags.
+- Wallace has 20 bags of jerky already made.
+- The customer ordered 60 bags of jerky.
+
+Step 1: Calculate the number of bags of jerky Wallace needs to make.
+Total bags of jerky needed - Bags of jerky already made = Bags of jerky to be made
+60 bags - 20 bags = 40 bags
+
+Step 2: Calculate the number of batches of jerky Wallace needs to make.
+Bags of jerky to be made / Bags of jerky per batch = Number of batches
+40 bags / 10 bags per batch = 4 batches
+
+Step 3: Calculate the number of days it will take to make the required batches.
+Since each batch takes all night to make, it will take 4 days to make the required 4 batches.
+
+Answer: 4 days

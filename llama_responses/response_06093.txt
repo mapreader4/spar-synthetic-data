@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Day 1: 30 squats
+Day 2: 35 squats (30 + 5)
+Day 3: 40 squats (35 + 5)
+Day 4: 45 squats (40 + 5)
+Day 5:? squats (45 + 5)
+
+The pattern is adding 5 to the previous day's squats. So, the day after tomorrow, the number of squats would be 45 + 5 = 50.
+
+Answer: 50

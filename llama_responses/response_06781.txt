@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of plants Papi Calot is planning to plant initially. He's planning to plant 7 rows of 18 plants each. So, the total number of plants he's planning to plant is 7 x 18 = 126 plants.
+
+Now, he wants to add 15 more plants. So, the total number of plants he'll need to buy is 126 + 15 = 141.
+
+Answer: 141

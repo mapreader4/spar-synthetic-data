@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. James starts with a powerlifting total of 2200 pounds at a bodyweight of 245 pounds.
+
+2. He manages to gain 15% on his total. To calculate this:
+   * 15% of 2200 pounds = 0.15 x 2200 = 330 pounds
+   * His new total is 2200 + 330 = 2530 pounds
+
+3. He also gains 8 pounds of body weight. His new bodyweight is 245 + 8 = 253 pounds.
+
+4. To find the ratio of his lifting total to bodyweight, we divide the total by the bodyweight:
+   * Ratio = 2530 pounds / 253 pounds = 10.0
+
+Answer: 10

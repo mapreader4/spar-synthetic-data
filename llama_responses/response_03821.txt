@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's say Anna had x dollars. Then, she spent 1/4 of her money. This means she spent 1/4*x = 1/x dollars.
+
+After she spent this amount, she has x - 1/x dollars left. Since she has 24 dollars left, we can set up an equation: x - 1/x = 24.
+
+We can solve for x by multiplying both sides by 4 to get 4x - 4 = 96. Then we can add 4 to both sides to get x = 100.
+
+So, Anna had 100 dollars originally. So, the answer is:
+
+Answer: 100

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total number of slices George and his friend would like to eat. George would like to eat 3 pieces from 3 small pizzas and 4 pieces from 2 large pizzas. So, 3 + 4 = 7. Then, his friend Bob would like to eat 1 more piece than George, so Bob would like 8 pieces. Susie would like to eat half as many as Bob, which is 4. Bill, Fred, and Mark would like 3 pieces each. So, the total number of slices they would like to eat is 8 + 4 + 3 + 3 = 19.
+
+Now, we need to find out how many slices are left. George and his friends would like 19 slices in total. Since a small pizza gives 4 slices and a large pizza gives 8 slices, the total number of slices George and his friends would like to eat is 3 small pizzas * 4 + 2 large pizzas * 8 = 12 + 16 = 28. 28 - 19 = 9.
+
+Answer: 9

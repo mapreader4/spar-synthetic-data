@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of countries Cornelia visited: 42.
+
+She visited 20 countries in Europe and 10 in South America. So, the total number of countries in these two continents is 20 + 10 = 30.
+
+The remaining countries are the ones in Asia, and half of them were visited. So, the number of Asian countries visited is half of 30, which is 15.
+
+So, the answer is: Answer: 15.

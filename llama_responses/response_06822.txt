@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the rate at which Meso can type 15 pages. Since it takes Meso 5 minutes to type 15 pages, the rate at which Meso types is 15 pages per 5 minutes, or 3 pages per minute.
+
+Now, let's find the rate at which Tyler can type 15 pages. Since it takes Tyler 3 minutes to type 15 pages, the rate at which Tyler types is 15 pages per 3 minutes, or 5 pages per minute.
+
+To find the time it would take for Meso and Tyler to type 40 pages, we need to find the least common multiple of their typing rates. The least common multiple of 3 and 5 is 15, so we can find the time by dividing 40 pages by 15, which is 2.67 minutes.
+
+So, the answer is:
+
+Answer: 2.67

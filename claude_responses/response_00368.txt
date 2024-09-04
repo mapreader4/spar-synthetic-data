@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Linda bought 2 coloring books at $4 each, so the total cost of the coloring books is 2 x $4 = $8
+* She also bought 4 packs of peanuts at $1.50 each, so the total cost of the peanuts is 4 x $1.50 = $6
+* She also bought 1 stuffed animal, but we don't know the cost of the stuffed animal yet
+* The total cost of the coloring books and peanuts is $8 + $6 = $14
+* Linda gave the cashier $25, and she got no change, so the total cost of her purchase must have been $25
+* To find the cost of the stuffed animal, we take the total cost ($25) and subtract the cost of the coloring books and peanuts ($14):
+* $25 - $14 = $11
+
+Answer: $11

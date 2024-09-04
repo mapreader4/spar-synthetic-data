@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* John buys 20 candy bars
+* Each candy bar costs $1.50
+* Dave pays for 6 of the candy bars
+
+To calculate how much John paid, we need to:
+1. Calculate the total cost of the 20 candy bars:
+   * 20 candy bars x $1.50 per candy bar = $30 total
+2. Subtract the cost of the 6 candy bars that Dave paid for:
+   * $30 total - (6 candy bars x $1.50 per candy bar) = $30 - $9 = $21
+
+Therefore, the amount John paid is:
+Answer: $21

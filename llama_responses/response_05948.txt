@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+First, let's calculate the cost of the land. The land costs $50 per square meter, and the house requires 2000 square meters, so the cost of the land is:
+
+2000 square meters * $50 per square meter = $10,000
+
+Next, let's calculate the cost of the bricks. The bricks cost $100 per 1000 bricks, and the house requires 10000 bricks, so the cost of the bricks is:
+
+10000 bricks / 1000 bricks per $100 = 100 bricks * $100 = $10,000
+
+Finally, let's calculate the cost of the roof tiles. The roof tiles cost $10 per roof tile, and the house requires 500 roof tiles, so the cost of the roof tiles is:
+
+500 roof tiles * $10 per roof tile = $500
+
+To find the total construction cost, we add the cost of the land, bricks, and roof tiles:
+
+$10,000 (land) + $10,000 (bricks) + $500 (roof tiles) = $20,500
+
+Answer: 20500

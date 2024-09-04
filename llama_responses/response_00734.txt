@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's say Chang has x apples. 75% of the apples are sweet, which means 0.75x apples are sweet. The rest of the apples are sour, so 0.25x apples are sour.
+
+The sweet apples sell for $.5 each, so the revenue from the sweet apples is 0.5x. The sour apples sell for $.1 each, so the revenue from the sour apples is 0.1x.
+
+The total revenue is the sum of the revenue from the sweet and sour apples. We know that Chang earns $40, so we can set up the equation:
+
+0.5x + 0.1x = 40
+
+We can add the x's to one side of the equation to get:
+
+0.6x = 40
+
+To solve for x, we can divide both sides by 0.6:
+
+x = 40 / 0.6
+x = 66.67
+
+So, Chang's trees gave him 67 apples.

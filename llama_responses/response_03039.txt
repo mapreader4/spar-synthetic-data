@@ -1,0 +1,5 @@
+Let's break this problem down step by step:
+
+1. The appliances require a running current of 40A each, and they require at least twice their running current for starting. So, the total current required is 2 * 40A = 80A.
+
+2. The total current required is 80A.

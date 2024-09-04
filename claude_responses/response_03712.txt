@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+1) We know that it takes Peter 15 minutes to rake 3 bags of leaves.
+2) This means that it takes him 5 minutes to rake 1 bag of leaves (15 minutes / 3 bags = 5 minutes/bag).
+3) We want to find out how long it will take him to rake 8 bags of leaves.
+4) Since he rakes 1 bag every 5 minutes, to rake 8 bags it will take him 8 * 5 = 40 minutes.
+
+Answer: 40 minutes.

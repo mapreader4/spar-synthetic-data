@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. For every sandwich that he eats, Sam eats 4 apples.
+2. He eats 10 sandwiches every day for 7 days.
+3. So, to find the total number of apples he eats, we multiply the number of apples per sandwich by the number of sandwiches he eats per day, and then multiply that by the number of days.
+
+So, the total number of apples he eats is 4 apples per sandwich x 10 sandwiches per day x 7 days = 4 x 10 x 7 = 280 apples.
+
+Answer: 280

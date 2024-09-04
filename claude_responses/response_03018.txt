@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Kara has to drink 4 ounces of water every time she takes her medication.
+2. Her medication instructions are to take one tablet three times a day.
+3. In the first week, she followed the instructions for one week, which is 7 days.
+4. So in the first week, she took her medication 3 times a day for 7 days, which is 3 x 7 = 21 times.
+5. Each time she took her medication, she drank 4 ounces of water.
+6. So in the first week, she drank 21 x 4 = 84 ounces of water.
+7. In the second week, she forgot twice on one day.
+8. That means she took her medication 1 time less on that day, so 2 fewer times that day.
+9. The rest of the second week, she took her medication 3 times a day for 6 days, which is 3 x 6 = 18 times.
+10. So in the second week, she took her medication 18 - 2 = 16 times.
+11. Each time she took her medication, she drank 4 ounces of water.
+12. So in the second week, she drank 16 x 4 = 64 ounces of water.
+13. In total, over the two weeks, she drank 84 + 64 = 148 ounces of water.
+
+Answer: 148

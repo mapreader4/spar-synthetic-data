@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+1. Jerry takes 2 antacids that weigh 2 grams each.
+   * Each antacid has 5% zinc by weight.
+   * So, the amount of zinc in each 2-gram antacid is:
+     * 2 grams x 0.05 (5%) = 0.1 grams of zinc per antacid.
+   * Since Jerry takes 2 of these antacids, the total amount of zinc from these is:
+     * 2 antacids x 0.1 grams of zinc per antacid = 0.2 grams of zinc.
+
+2. Jerry then takes 3 smaller antacids that weigh 1 gram each.
+   * These antacids have 15% zinc by weight.
+   * So, the amount of zinc in each 1-gram antacid is:
+     * 1 gram x 0.15 (15%) = 0.15 grams of zinc per antacid.
+   * Since Jerry takes 3 of these antacids, the total amount of zinc from these is:
+     * 3 antacids x 0.15 grams of zinc per antacid = 0.45 grams of zinc.
+
+3. To calculate the total amount of zinc Jerry eats:
+   * Total zinc = 0.2 grams + 0.45 grams = 0.65 grams.
+
+To convert this to milligrams, we multiply by 1000:
+* 0.65 grams x 1000 = 650 milligrams.
+
+Answer: 650

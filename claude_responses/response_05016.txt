@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Percius has a collection of marbles
+* 40% of the marbles are clear
+* 20% of the marbles are black
+* The remaining marbles are of other colors
+* To find the percentage of marbles that are other colors, we can subtract the clear and black percentages from 100%:
+* 100% - 40% - 20% = 40%
+* So 40% of the marbles are of other colors
+* The friend is asking to take 5 marbles
+* On average, the number of marbles of other colors the friend will get is 40% of 5 marbles
+* 40% of 5 = 0.4 * 5 = 2 marbles
+
+Answer: 2

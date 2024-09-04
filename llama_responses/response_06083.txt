@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Ronald has rolled a 1, a 3, a 2, a 4, a 3, a 5, a 3, a 4, and a 2. Let's find the average of these rolls. To find the average, we add up all the numbers and divide by the number of rolls.
+
+1 + 3 + 2 + 4 + 3 + 5 + 3 + 4 + 4 + 2 = 26
+
+There were 7 rolls. To find the average, we divide the sum by 7:
+
+26 ÷ 7 = 3.71
+
+Ronald wants the average to be 3. So, he needs to roll a 1 again to get a total of 3 * 7 = 21, so the average is 3.
+
+The answer is: 1.

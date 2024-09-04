@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 120 crayons in the box.
+* One third of the crayons are new.
+* To find one third of 120, we divide 120 by 3:
+  * 120 / 3 = 40
+  * So there are 40 new crayons.
+* 20% of the crayons are broken.
+* To find 20% of 120, we multiply 120 by 0.20:
+  * 120 * 0.20 = 24
+  * So there are 24 broken crayons.
+* The rest of the crayons are slightly used.
+* To find the number of slightly used crayons, we take the total number of crayons (120) and subtract the number of new crayons (40) and the number of broken crayons (24):
+  * 120 - 40 - 24 = 56
+* Therefore, the number of slightly used crayons is 56.
+
+Answer: 56

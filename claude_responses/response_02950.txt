@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The parking area is 4 stories tall
+* On the first level, there are 4 open parking spots
+* On the second level, there are 7 more open parking spots than on the first level
+   - So, the number of open parking spots on the second level is 4 + 7 = 11
+* On the third level, there are 6 more open parking spots than on the second level
+   - So, the number of open parking spots on the third level is 11 + 6 = 17
+* On the fourth level, there are 14 open parking spots
+
+To find the total number of open parking spots, we add up the number of spots on each level:
+* 4 + 11 + 17 + 14 = 46
+
+Answer: 46

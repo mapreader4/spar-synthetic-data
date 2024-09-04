@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jeff makes 10 donuts each day for 12 days
+* So the total number of donuts Jeff makes is 10 donuts per day x 12 days = 120 donuts
+* Jeff eats one donut each day, so he eats 12 donuts in total
+* This leaves 120 - 12 = 108 donuts
+* Chris then eats 8 donuts, leaving 108 - 8 = 100 donuts
+* Each box can hold 10 donuts
+* To calculate the number of boxes, we divide the total number of donuts (100) by the number of donuts per box (10)
+* 100 donuts / 10 donuts per box = 10 boxes
+
+Answer: 10

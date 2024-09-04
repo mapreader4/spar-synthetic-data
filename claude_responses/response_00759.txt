@@ -1,0 +1,21 @@
+Okay, let's break this down step by step:
+
+1. Tom needs 500 pounds of flour, and he can buy 50-pound bags of flour for $20 each.
+   * To calculate the cost of the flour, we need to divide the total amount of flour (500 pounds) by the amount in each bag (50 pounds), and then multiply that by the cost of each bag ($20).
+   * 500 pounds / 50 pounds per bag = 10 bags
+   * 10 bags x $20 per bag = $200 for the flour
+
+2. Tom also needs 10 pounds of salt, and salt costs $0.20 per pound.
+   * 10 pounds of salt x $0.20 per pound = $2 for the salt
+
+3. Tom spends $1,000 promoting everything.
+
+4. Tom sells 500 tickets at $20 each.
+   * 500 tickets x $20 per ticket = $10,000 in ticket sales
+
+Now, to calculate the total money Tom made:
+* Total Ticket Sales: $10,000
+* Minus Cost of Flour: $200
+* Minus Cost of Salt: $2
+* Minus Promotional Costs: $1,000
+* Answer: $8,798

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Jason fires his weapon every 15 seconds, which means that in 1 minute, he will fire his weapon 4 times (60 seconds / 15 seconds = 4).
+
+Each time he fires his weapon, he shoots a flame for 5 seconds, so in 1 minute, he will shoot a total of 4 x 5 = 20 seconds of flames.
+
+Answer: 20

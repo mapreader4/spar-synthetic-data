@@ -1,0 +1,9 @@
+To find the base length, we can use the formula 1/2 * base * height = area.
+
+Given that the area is 24 square units, we can set up an equation: 1/2 * base * 8 = 24.
+
+We can solve for the base by dividing both sides by 24: base = 24 / (1/2 * 8).
+
+First, we can simplify the fraction by multiplying both the numerator and the denominator by 2: 24 / (1 * 2 * 4) = 6.
+
+So, the base length is 6.

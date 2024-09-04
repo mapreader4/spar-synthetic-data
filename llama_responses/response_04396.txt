@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. The area of the forest is 4 miles by 6 miles, so the area is 24 square miles. Since each square mile has 600 trees, the total number of trees is 24 * 600 = 14,400 trees.
+
+2. Each logger can cut 6 trees per day. So, the total number of trees cut in a day is 6 trees.
+
+3. There are 30 days in each month, so the total number of days is 30 days.
+
+4. To find the total number of trees cut in a month, we multiply the number of trees cut per day by the number of days in a month: 6 * 30 = 180 trees.
+
+5. To find the number of months needed to cut all the trees, we divide the total number of trees by the number of trees cut per day in a month: 14,400 / 180 = 80 months.
+
+Answer: 80

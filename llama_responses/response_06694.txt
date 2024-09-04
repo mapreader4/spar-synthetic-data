@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+John has made $250 in 10 days, so he makes $25 per day.  To make twice this amount, he needs to make $50 per day.  So, we need to find out how many days he needs to work to make $50 per day.
+
+Let's set up an equation.  Let $d$ be the number of days John needs to work to make $50 per day.  Then, we can set up an equation:
+
+$25 * 10 = 250$
+
+$50 * d = 50 * x$
+
+We can solve for $d$ by dividing both sides by 50:
+
+$\frac{250}{25} = d$
+
+$d = 10$
+
+So, John needs to work for 10 more days to make $50 per day.  Therefore, the answer is:
+
+Answer: 10

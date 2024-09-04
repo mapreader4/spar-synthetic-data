@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Michael charges $22 for each large birdhouse
+* He sold 2 large birdhouses this week
+* So for the large birdhouses, he made: 2 x $22 = $44
+
+* Michael charges $16 for each medium birdhouse
+* He sold 2 medium birdhouses this week
+* So for the medium birdhouses, he made: 2 x $16 = $32
+
+* Michael charges $7 for each small birdhouse
+* He sold 3 small birdhouses this week
+* So for the small birdhouses, he made: 3 x $7 = $21
+
+Now, to calculate the total amount of money he made this week, we add up the amounts from the large, medium, and small birdhouses:
+$44 + $32 + $21 = $97
+
+Answer: $97

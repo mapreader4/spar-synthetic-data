@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of leaves that each tree drops. Since each tree drops 100 leaves, and there are 2 times as many trees as the original number of trees, then each tree will drop 200 leaves.
+
+The town council originally planted 7 trees. Since each tree drops 200 leaves, the total number of leaves that will fall is:
+
+7 x 200 = 1400 leaves.
+
+Answer: 1400

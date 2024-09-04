@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Initially, the number of sharks in Pelican Bay was twice the number of Pelicans in Shark Bite Cove.
+2) Today, one-third of the Pelicans in Shark Bite Cove have moved to Pelican Bay.
+3) We know that there are still 60 sharks in Pelican Bay.
+4) Since the number of sharks in Pelican Bay was initially twice the number of Pelicans in Shark Bite Cove, we can say that the initial number of Pelicans in Shark Bite Cove was half the number of sharks in Pelican Bay.
+5) If the initial number of Pelicans in Shark Bite Cove was half the number of sharks in Pelican Bay, and one-third of that number has moved to Pelican Bay, then the remaining number of Pelicans in Shark Bite Cove is two-thirds of the initial number.
+6) The initial number of Pelicans in Shark Bite Cove was 60 / 2 = 30.
+7) Two-thirds of 30 is 20.
+
+Answer: 20

@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's first find out how many planks John can make in total. From each tree, John can make 25 planks. Since he chops 30 trees, he can make a total of:
+
+30 * 25 = 750 planks
+
+Next, a table takes 15 planks to make. So, for 30 trees, John can make:
+
+30 * 25 - 15 = 15 * 30 = 450 planks
+
+John sells each table for $300, so the total amount of money he makes from selling tables is:
+
+450 planks * $300 = $135,000
+
+John paid $3000 for labor, so his total profit is:
+
+$135,000 - $3000 = $105,000
+
+Answer: 105,000

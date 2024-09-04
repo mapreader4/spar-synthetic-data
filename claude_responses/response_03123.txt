@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Madeline wants to drink 100 ounces of water in a day.
+2) Her water bottle can hold 12 ounces of water.
+3) She refills her water bottle 7 times.
+4) To calculate the total amount of water she has drunk from refilling her water bottle 7 times:
+   * Each time she refills her water bottle, she drinks 12 ounces.
+   * 7 refills x 12 ounces = 84 ounces.
+5) To calculate how much more water she needs to drink:
+   * She wants to drink 100 ounces total.
+   * She has already drunk 84 ounces.
+   * 100 ounces - 84 ounces = 16 ounces.
+
+Answer: 16

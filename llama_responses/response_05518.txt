@@ -1,0 +1,23 @@
+Let's start by identifying the number of Aaron's brothers. Let's say that the number of Aaron's brothers is x.
+
+Since Bennett has 6 brothers, and the number of Bennett's brothers is two less than twice the number of Aaron's brothers, we can set up the following equation:
+
+x = 6 - 2 * x
+
+To solve this equation, we can subtract 2 from both sides:
+
+x = 6 - 2 * x
+x = 6 - 2x
+x = 6 - 2x + x
+
+Now, we can add x to both sides of the equation to get:
+
+x + x = 6
+
+Subtracting x from both sides again, we get:
+
+0 = 6
+
+This means that x = 0. Since x is the number of Aaron's brothers, this means Aaron has 0 brothers.
+
+Answer: 0

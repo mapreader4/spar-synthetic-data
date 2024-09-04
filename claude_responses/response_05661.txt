@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The cost of a stack of pancakes is $4.00
+* The cost of adding bacon is $2.00
+* They sold 60 stacks of pancakes
+* They sold 90 slices of bacon
+
+To calculate the total amount raised, we need to:
+1. Calculate the total revenue from the pancake stacks:
+   * 60 stacks of pancakes x $4.00 per stack = $240.00
+2. Calculate the total revenue from the bacon:
+   * 90 slices of bacon x $2.00 per slice = $180.00
+3. Add the revenue from the pancake stacks and the bacon:
+   * $240.00 + $180.00 = $420.00
+
+Answer: $420

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The restaurant makes 40 more pizzas than hot dogs every day
+* The restaurant makes 60 hot dogs every day
+* To find the number of pizzas made every day, we can add 40 to the number of hot dogs made:
+    - Number of pizzas made per day = 60 + 40 = 100
+* June has 30 days
+* To find the total number of pizzas and hot dogs made in June, we multiply the daily amounts by 30:
+    - Total pizzas made in June = 100 pizzas per day x 30 days = 3,000 pizzas
+    - Total hot dogs made in June = 60 hot dogs per day x 30 days = 1,800 hot dogs
+
+Answer: The restaurant will make 3,000 pizzas and 1,800 hot dogs in June.

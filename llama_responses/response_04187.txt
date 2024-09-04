@@ -1,0 +1,12 @@
+Let's break down the problem step by step.
+
+1. Let the cost of the computer be x.
+2. The cost of the accessories is 10% of x, so the cost of the accessories is 0.1x.
+3. The total cost of the computer and the accessories together is x + 0.1x.
+4. Jeremy had 2x the cost of the computer before the purchase. So, 2x = 2x.
+5. So, the total money Jeremy had before the purchase is 2x.
+6. The total cost of the computer and the accessories is 3,000. So, 3,000 = x + 0.1x.
+7. We can write an equation to represent the total cost of the computer and the accessories: x + 0.1x = 3,000.
+8. To solve for x, we can subtract 0.1x from both sides of the equation: x + 0.1x - 0.1x = 3,000 - 0.1x.
+9. Simplify the right side of the equation by subtracting 0.1x from both sides: x = 3,000.
+10. Now, we have our answer: Answer: 3,000.

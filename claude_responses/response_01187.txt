@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* A bag of a dozen apples costs $14
+* Brian has already spent $10 on kiwis
+* Brian has spent half of $10, which is $5, on bananas
+* Brian left his house with $50
+* Brian needs to pay $3.50 subway fare each way, which is $7 in total
+
+First, let's calculate how much money Brian has left after his previous purchases:
+* $50 - $10 (kiwis) - $5 (bananas) = $35 left
+
+Now, let's calculate how many bags of apples Brian can buy with the remaining $35:
+* $35 / $14 per bag = 2.5 bags
+* Since we can only buy whole bags, the maximum number of bags Brian can buy is 2 bags
+
+Finally, let's calculate the maximum number of apples Brian can buy:
+* 2 bags x 12 apples per bag = 24 apples
+
+Answer: 24

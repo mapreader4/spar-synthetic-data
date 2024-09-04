@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Homer scored 400 points on the first try, and then 70 points fewer on the second try. This means that on the second try, she scored 400 - 70 = 330 points.
+
+On the third try, she scored twice the number of points she scored on the second try. So, on the third try, she scored 330 x 2 = 660 points.
+
+To find the total number of points she scored in all tries, we add the points from each try together: 400 + 330 + 660 = 1390.
+
+Answer: 1390

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's find the height of the plant with bone meal fertilizer. Since the plant with bone meal grows to 125% of the height of the control plant, and the control plant grows to 36 inches, the plant with bone meal fertilizer will grow to:
+
+36 * 1.25 = 45 inches
+
+Next, let's find the height of the plant with cow manure fertilizer. Since the plant with cow manure fertilizer grows to 200% of the height of the plant with bone meal fertilizer, and the plant with bone meal fertilizer grows to 45 inches, the plant with cow manure fertilizer will grow to:
+
+45 * 2 = 90 inches
+
+Answer: 90

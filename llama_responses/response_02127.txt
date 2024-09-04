@@ -1,0 +1,7 @@
+To solve this problem, I'll first calculate the discounted prices for each store. 
+
+For store A, the full price is $125, and the discount is 8%. To calculate the discounted price, I'll multiply the full price by (1 - 0.08) = 0.92. Then, I'll multiply the full price by 0.92 to get the discounted price: $125 * 0.92 = $114.5.
+
+For store B, the full price is $130, and the discount is 10%. To calculate the discounted price, I'll multiply the full price by (1 - 0.10) = 0.9. Then, I'll multiply the full price by 0.9 to get the discounted price: $130 * 0.9 = $117.
+
+Now, I'll compare the two prices to find the difference: $114.5 - $117 = $3. The answer is that store A's smartphone is $3 cheaper than store B's smartphone.

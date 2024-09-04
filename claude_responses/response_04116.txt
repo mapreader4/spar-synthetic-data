@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Pierre gets 3 scoops of ice cream
+* Each scoop costs $2
+* So the cost of Pierre's ice cream is:
+  * 3 scoops x $2 per scoop = $6
+* Pierre's mom gets 4 scoops of ice cream
+* Each scoop costs $2
+* So the cost of the mom's ice cream is:
+  * 4 scoops x $2 per scoop = $8
+* To calculate the total bill, we add the cost of Pierre's ice cream and his mom's ice cream:
+  * $6 + $8 = $14
+
+Answer: 14

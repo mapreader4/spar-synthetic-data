@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Step 1: Let's first figure out how many degrees the dish needs to heat up. It needs to be at 100 degrees, but it is currently at 20 degrees. So, it needs to heat up 100 - 20 = 80 degrees.
+
+Step 2: Now, it heats up 5 degrees every minute. So, to heat up 80 degrees, it will take 80 / 5 = 16 minutes.
+
+Answer: 16

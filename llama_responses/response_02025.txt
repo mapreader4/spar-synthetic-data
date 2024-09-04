@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the number of buses that leave the station in a day. Since the bus leaves the station every half-hour, it leaves the station 12 times in a day. The number of buses in a day is 12 * 2 = 24.
+
+Now, we need to calculate the total number of buses that leave the station for 5 days. We can multiply the number of buses that leave the station in a day by 5, which is 24 * 5 = 120.
+
+So, the answer is:
+
+Answer: 120

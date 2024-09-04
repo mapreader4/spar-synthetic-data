@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Coby is traveling from Washington to Nevada, with a stop in Idaho.
+2. The distance from Washington to Idaho is 640 miles.
+3. Coby is traveling at a speed of 80 miles per hour to Idaho.
+4. The time it takes to travel from Washington to Idaho is:
+   Distance / Speed = 640 miles / 80 miles per hour = 8 hours
+5. The distance from Idaho to Nevada is 550 miles.
+6. Coby is traveling at a speed of 50 miles per hour from Idaho to Nevada.
+7. The time it takes to travel from Idaho to Nevada is:
+   Distance / Speed = 550 miles / 50 miles per hour = 11 hours
+8. The total time for the trip is the time from Washington to Idaho (8 hours) plus the time from Idaho to Nevada (11 hours).
+9. Total time = 8 hours + 11 hours = 19 hours
+
+Answer: 19 hours

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 7 customers who ordered coffee at $5 each.
+2) To calculate the total revenue from the coffee orders, we multiply the number of coffee orders (7) by the price per coffee ($5):
+7 x $5 = $35
+3) There are 8 customers who ordered tea at $4 each.
+4) To calculate the total revenue from the tea orders, we multiply the number of tea orders (8) by the price per tea ($4):
+8 x $4 = $32
+5) To calculate the total revenue for the coffee shop, we add the revenue from the coffee orders and the revenue from the tea orders:
+$35 + $32 = $67
+Answer: $67

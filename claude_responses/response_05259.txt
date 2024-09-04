@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* You caught 4 fewer fish than the number in your tank
+* You added those fish to your tank
+* The tank now has 20 fish
+
+Let's call the original number of fish in the tank as 'x'.
+* You caught 'x - 4' fish
+* You added those fish to the tank
+* The tank now has 20 fish
+
+So, the original number of fish in the tank plus the number of fish you added is 20:
+* x + (x - 4) = 20
+
+Solving for x:
+* 2x - 4 = 20
+* 2x = 24
+* x = 12
+
+Therefore, the number of fish you added to the tank is 'x - 4' = 12 - 4 = 8.
+
+Answer: 8

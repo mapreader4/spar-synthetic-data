@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Marcel buys 10 ears of corn
+* Dale buys half the amount of corn that Marcel buys, which is 5 ears of corn
+* Dale buys 8 potatoes
+* Marcel also buys some potatoes, but the total number of vegetables they buy is 27
+
+To find the number of potatoes Marcel bought, we need to subtract the number of corn from the total number of vegetables, and then subtract the number of potatoes Dale bought.
+
+The total number of corn is 10 + 5 = 15
+The total number of potatoes is 8 + the number of potatoes Marcel bought
+The total number of vegetables is 27
+
+So, the number of potatoes Marcel bought is:
+27 (total vegetables) - 15 (total corn) - 8 (potatoes Dale bought) = 4 potatoes
+
+Answer: 4

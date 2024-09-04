@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The school ordered 30 rolls of tickets, and each roll has 100 tickets. So the total number of tickets ordered is:
+30 rolls x 100 tickets/roll = 3,000 tickets
+2) The 4th graders bought 30% of the 3,000 tickets. 30% of 3,000 is:
+0.30 x 3,000 = 900 tickets
+3) The remaining tickets after the 4th graders bought their share is:
+3,000 - 900 = 2,100 tickets
+4) The 5th graders bought 50% of the remaining 2,100 tickets. 50% of 2,100 is:
+0.50 x 2,100 = 1,050 tickets
+5) The remaining tickets after the 5th graders bought their share is:
+2,100 - 1,050 = 1,050 tickets
+6) The 6th graders bought a total of 100 tickets.
+7) The total number of tickets sold is:
+900 + 1,050 + 100 = 2,050 tickets
+8) The number of tickets left unsold is:
+3,000 - 2,050 = 950 tickets
+
+Answer: 950 tickets

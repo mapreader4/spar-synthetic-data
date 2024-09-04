@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the distance the river is increasing uniformly. Since the river is increasing by 2 yards every 10 meters, it means that the river is increasing by 2 yards for every 10 yards. We know that 80 yards is 80/3 yards, so the river is 8/3 yards wide at the point they are trying to reach. This means that the river is increasing by 2 yards for every 10/3 yards. So, the river is increasing by 2/3 yards for every 10/3 yards.
+
+Since the river is increasing by 2/3 yards for every 10/3 yards, and they row along the river at a rate of 5 m/s, we can set up an equation to solve for the time it will take to reach the point where the river is 80 yards wide. We can set up the equation as follows:
+
+Let t be the time it takes to reach the point where the river is 80 yards wide. Let's use the equation:
+
+(2/3) * (10/3) = 8/3
+
+We can multiply both sides of the equation by 5 to get:
+
+(2/3) * (10/3) * 5 = 8/3 * 5
+
+The equation becomes:
+
+10/3 * 5 = 20
+
+So, it will take 20 seconds to reach the point where the river is 80 yards wide.

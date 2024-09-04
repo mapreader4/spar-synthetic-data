@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that they sold mushrooms for a total of $58 on the first day. Since the price per mushroom is $2, we can set up an equation to represent this:
+
+2x + 2y = 58
+
+where x is the number of mushrooms they picked on the first day and y is the number of mushrooms they picked on the second day.
+
+We know that y is 12, since we're given that information. So, we can substitute 12 for y in the equation:
+
+2x + 2(12) = 58
+
+Now, we can solve for x:
+
+2x + 24 = 58
+
+Subtract 24 from both sides of the equation to get:
+
+2x = 34
+
+Divide both sides by 2 to get:
+
+x = 17
+
+So, they picked 17 mushrooms on the first day.
+
+On the second day, they picked 12 mushrooms, so the total number of mushrooms picked on the second and third days is 12 + 2(12) = 24.
+
+The total number of mushrooms they picked is the sum of the mushrooms picked on the first, second, and third days:
+
+17 + 24 = 41
+
+Answer: 41

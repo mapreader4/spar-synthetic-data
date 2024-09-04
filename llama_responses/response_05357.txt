@@ -1,0 +1,10 @@
+Let's break it down step by step:
+
+1. Tom gets 10 points for killing one enemy.
+2. For killing at least 100 enemies, he gets a 50% bonus to his score. So, he gets 50 points for killing 100 enemies.
+3. He killed 150 enemies in total, which is 50 more than the 100 enemies needed for the bonus.
+4. So, he gets the bonus points for the 50 enemies he killed above the 100 enemies needed for the bonus. That's 50 points.
+5. He got 10 points for each of the 150 enemies he killed. So, his total score is 10 x 150 = 1500 points.
+6. Then, he got the 50 points for the bonus. So, his total score is 1500 + 50 = 1550.
+
+Answer: 1550

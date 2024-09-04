@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Grace's age is 3/8th the age of her grandmother.
+2) Grace's grandmother is twice the age of Grace's mother.
+3) Grace's mother is 80 years old.
+
+First, let's find the age of Grace's grandmother:
+* Grace's grandmother is twice the age of Grace's mother.
+* Grace's mother is 80 years old.
+* Therefore, Grace's grandmother is 2 * 80 = 160 years old.
+
+Now, let's find Grace's age:
+* Grace's age is 3/8th the age of her grandmother.
+* Grace's grandmother is 160 years old.
+* Therefore, Grace's age is 3/8 * 160 = 60 years old.
+
+Answer: 60

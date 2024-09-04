@@ -1,0 +1,9 @@
+Let's count the number of wheels for each type of vehicle.
+
+There are 2 wheels on each bicycle, and there are 9 bicycles, so the total number of wheels for bicycles is 2 x 9 = 18.
+
+There are 4 wheels on each car, and there are 16 cars, so the total number of wheels for cars is 4 x 16 = 64.
+
+Adding the number of wheels for bicycles and cars, we get 18 + 64 = 82.
+
+Answer: 82

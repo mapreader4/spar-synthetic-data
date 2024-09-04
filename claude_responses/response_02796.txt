@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Julian has 80 Facebook friends.
+2. 60% of Julian's friends are boys, and 40% are girls.
+   * To find the number of boys, we take 60% of 80: 0.6 * 80 = 48 boys.
+   * To find the number of girls, we take 40% of 80: 0.4 * 80 = 32 girls.
+3. Boyd has twice as many friends who are girls as Julian does.
+   * Julian has 32 girl friends, so Boyd has 2 * 32 = 64 girl friends.
+4. Boyd has 100 friends total.
+   * Since we know Boyd has 64 girl friends, we can find the number of boy friends by subtracting 64 from 100: 100 - 64 = 36 boy friends.
+5. To find the percentage of Boyd's friends who are boys, we divide the number of boy friends by the total number of friends and multiply by 100:
+   * Percentage of Boyd's friends who are boys = (36 / 100) * 100 = 36%
+
+Answer: 36

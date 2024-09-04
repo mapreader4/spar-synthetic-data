@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Kayla and Kylie picked 200 apples in total. We also know that Kayla picked 1/4 of the apples that Kylie picked.
+
+Let's let's call the number of apples that Kylie picked "x". Since Kylie picked 1/4 of the apples, we know that Kylie picked x/4 apples.
+
+We can set up an equation to represent this information. Let's say:
+
+x + (x/4) = 200
+
+We can simplify this equation by multiplying both sides by 4:
+
+4x = 800
+
+Now, we can solve for x:
+
+x = 200/4
+
+x = 50
+
+Answer: 50

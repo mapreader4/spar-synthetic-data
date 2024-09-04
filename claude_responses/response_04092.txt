@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Melody needs to read 20 pages for her English class
+* Melody needs to read 16 pages for her Science class
+* Melody needs to read 8 pages for her Civics class
+* Melody needs to read 12 pages for her Chinese class
+* Melody decided to read one-fourth of the number of pages for each class tomorrow
+
+To calculate the number of pages she will read tomorrow, we need to find one-fourth of the total number of pages across all her classes.
+
+Total pages:
+* English: 20 pages
+* Science: 16 pages
+* Civics: 8 pages
+* Chinese: 12 pages
+* Total = 20 + 16 + 8 + 12 = 56 pages
+
+One-fourth of the total pages:
+* 56 pages / 4 = 14 pages
+
+Answer: 14

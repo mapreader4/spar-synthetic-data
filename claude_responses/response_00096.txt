@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) On Monday, it rained 4 inches. For each inch of rain, James collects 15 gallons. So, on Monday, he collected 4 inches * 15 gallons/inch = 60 gallons.
+2) On Tuesday, it rained 3 inches. For each inch of rain, James collects 15 gallons. So, on Tuesday, he collected 3 inches * 15 gallons/inch = 45 gallons.
+3) In total, James collected 60 gallons + 45 gallons = 105 gallons of rainwater.
+4) James can sell the water for $1.2 per gallon.
+5) To calculate the total amount of money he made, we multiply the total number of gallons (105) by the price per gallon ($1.2).
+
+Answer: $126

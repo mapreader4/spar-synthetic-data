@@ -1,0 +1,14 @@
+Let's break it down step by step.
+
+On Tuesday, 12,000 ice cream cones were sold.
+On Wednesday, the number of ice cream cones sold was double the amount sold on Tuesday.
+
+Let's call the number of ice cream cones sold on Tuesday as x.
+
+Then, the number of ice cream cones sold on Wednesday will be 2x, which is 2 * x.
+
+The total number of ice cream cones sold is the sum of the number of ice cream cones sold on Tuesday and Wednesday. So, the total number of ice cream cones sold is x + 2x.
+
+We know that x = 12,000. So, the total number of ice cream cones sold is 12,000 + 2 * 12,000 = 24,000.
+
+Answer: 24,000

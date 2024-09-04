@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Amber has invited 8 friends, and each one will want two slices of cake.
+2) So the total number of slices needed for the 8 friends is 8 * 2 = 16 slices.
+3) Each cake makes 6 slices.
+4) Amber has baked 4 cakes, so the total number of slices available is 4 * 6 = 24 slices.
+5) Amber eats 3 slices herself, so the remaining number of slices is 24 - 16 - 3 = 5 slices.
+
+Answer: 5

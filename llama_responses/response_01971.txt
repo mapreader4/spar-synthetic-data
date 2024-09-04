@@ -1,0 +1,37 @@
+Let's break down the problem step by step.
+
+Step 1: Calculate the total revenue of the company.
+
+The company makes a revenue of $400000 a month. So, the total revenue is $400000.
+
+Step 2: Calculate the amount paid in taxes.
+
+10% of the revenue is paid in taxes. To find this amount, multiply the revenue by 0.10.
+
+$400000 * 0.10 = $40000
+
+Step 3: Calculate the amount spent on marketing and ads.
+
+5% of the remaining amount is paid on marketing and ads. The remaining amount after taxes is $400000 - $40000 = $360000. To find the amount spent on marketing and ads, multiply the remaining amount by 0.05.
+
+$360000 * 0.05 = $18000
+
+Step 4: Calculate the amount spent on operational costs.
+
+20% of the remaining amount is paid on operational costs. The remaining amount after marketing and ads is $360000 - $18000 = $342000. To find the amount spent on operational costs, multiply the remaining amount by 0.20.
+
+$342000 * 0.20 = $68400
+
+Step 5: Calculate the amount spent on employee wages.
+
+15% of the remaining amount is paid on employee wages. The remaining amount after operational costs is $342000 - $68400 = $273600. To find the amount spent on employee wages, multiply the remaining amount by 0.15.
+
+$273600 * 0.15 = $41040
+
+Step 6: Calculate the amount each employee receives.
+
+The company has 10 employees. To find the amount each employee receives, divide the amount spent on employee wages by the number of employees.
+
+$41040 ÷ 10 = $4104
+
+Answer: 4104

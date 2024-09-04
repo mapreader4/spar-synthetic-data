@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. Fiona completed 36 math questions in 1 hour. So, her rate of completion is 36 questions per hour.
+2. Shirley completed twice as many math questions as Fiona in the same time, so Shirley completed 2 x 36 = 72 questions.
+3. Kiana completed half of the sum of Fiona's and Shirley's math questions. Fiona completed 36 questions, and Shirley completed 72 questions. The sum of their questions is 36 + 72 = 108. Half of this sum is 108 / 2 = 54.
+4. Kiana completed 54 questions.
+5. In 2 hours, Fiona will complete 2 x 36 = 72 questions, Shirley will complete 2 x 72 = 144 questions, and Kiana will complete 2 x 54 = 108 questions.
+6. The total number of questions completed by all three girls in 2 hours is 72 + 144 + 108 = 324.

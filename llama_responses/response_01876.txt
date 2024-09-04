@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of people Carl is expecting to visit his shop. He knows 50 people will show up, and he hopes another 40 people will randomly show up, so the total number of people is:
+
+50 + 40 = 90
+
+Carl has created 10 extravagant gift bags for the first 10 people who visit his shop. This means he has 10 gift bags for 10 people. Since he wants to make enough gift bags for everyone, we need to find out how many more people he needs to make gift bags for.
+
+Let's subtract the 10 gift bags he already has from the total number of people:
+
+90 (total people) - 10 (gift bags already made) = 80
+
+So, Carl needs to make 80 more gift bags.

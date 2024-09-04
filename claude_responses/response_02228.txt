@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Billy has 4 horses
+* Each horse eats 4 pounds of oats, twice a day
+* We need to find the total amount of oats needed for 3 days
+
+First, let's calculate the amount of oats needed per day:
+* Each horse eats 4 pounds of oats, twice a day
+* So each horse eats 4 x 2 = 8 pounds of oats per day
+* With 4 horses, the total amount of oats needed per day is 4 x 8 = 32 pounds
+
+Now, to find the total amount of oats needed for 3 days:
+* 32 pounds per day x 3 days = 96 pounds
+
+Answer: 96

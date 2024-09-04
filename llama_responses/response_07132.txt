@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Each tray has 20 cupcakes.
+* Each cupcake was sold for $2.
+* 3/5 of the cupcakes were sold.
+
+We know that 3/5 of the cupcakes were sold, which means that 3/5 * 20 = 12 cupcakes were sold.
+
+The number of cupcakes left unsold is 20 - 12 = 8. 
+
+Since each cupcake was sold for $2, the total amount earned from selling 12 cupcakes is 12 * 2 = 24. 
+
+So, Anna earned $24 from selling the 12 cupcakes.

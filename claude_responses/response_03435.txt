@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. For the burritos:
+   - 10 burritos cost $6
+   - Each burrito has 120 calories
+   - So, 10 burritos have a total of 10 * 120 = 1200 calories
+   - The cost per calorie for the burritos is $6 / 1200 = $0.005 per calorie
+
+2. For the burgers:
+   - 5 burgers cost $8
+   - Each burger has 400 calories
+   - So, 5 burgers have a total of 5 * 400 = 2000 calories
+   - The cost per calorie for the burgers is $8 / 2000 = $0.004 per calorie
+
+3. To find the difference in calories per dollar:
+   - The burgers cost $0.004 per calorie
+   - The burritos cost $0.005 per calorie
+   - The difference is $0.005 - $0.004 = $0.001 per calorie
+
+Therefore, the burgers provide 0.001 more calories per dollar than the burritos.
+
+Answer: 1

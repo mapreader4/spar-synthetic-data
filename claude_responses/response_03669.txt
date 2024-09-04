@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The ice cream vendor has 50 chocolate-flavored ice creams and 54 mango-flavored ice creams in his cart.
+2) He sold 3/5 of the chocolate-flavored ice creams. That means he sold 3/5 * 50 = 30 chocolate-flavored ice creams.
+3) He sold 2/3 of the mango-flavored ice creams. That means he sold 2/3 * 54 = 36 mango-flavored ice creams.
+4) The total number of ice creams that were not sold is the remaining chocolate-flavored and mango-flavored ice creams.
+5) The remaining chocolate-flavored ice creams is 50 - 30 = 20.
+6) The remaining mango-flavored ice creams is 54 - 36 = 18.
+7) The total number of ice creams not sold is 20 + 18 = 38.
+
+Answer: 38

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find the number of girls in the class. Since 1/3 of the 30 students are boys, that means there are 30 * 1/3 = 10 boys.
+
+Now, among the girls, 40% own dogs, so 40% of the girls own dogs. That means that 40/100 * 10 = 4 girls own dogs.
+
+Then, 20% of the girls own cats, so 20/100 * 10 = 2 girls own cats.
+
+The number of girls who have no pets is the total number of girls minus the number of girls who own dogs and cats. That is, 10 - 4 - 2 = 4 girls have no pets.
+
+Answer: 4

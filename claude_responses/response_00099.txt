@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The first tank is twice the size of the second tank. So if the first tank has 48 gallons, the second tank has 24 gallons (48 / 2 = 24).
+2) The rule is one gallon of water per inch of fish.
+3) In the first tank, the fish are 3 inches long. So the first tank can hold 48 / 3 = 16 fish.
+4) In the second tank, the fish are 2 inches long. So the second tank can hold 24 / 2 = 12 fish.
+5) Initially, Gail has 16 fish in the first tank and 12 fish in the second tank.
+6) If one of the first tank fish eats another, then Gail will have 15 fish in the first tank.
+7) The difference between the number of fish in the first tank and the second tank is 15 - 12 = 3.
+
+Answer: 3

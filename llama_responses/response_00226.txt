@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of chairs. We know that half of the tables have 2 chairs each, so that is 16 chairs. Then we know that 5 tables have 3 chairs each, so that is 15 chairs. We know that the remaining tables have 4 chairs each, and there are 11 of those tables, so that is 44 chairs.
+
+To find the total number of chairs, we add the 16, 15, and 44 chairs together:
+
+16 + 15 + 44 = 75
+
+Answer: 75

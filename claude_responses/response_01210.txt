@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Each turtle lays a clutch of 20 eggs
+* 6 turtles are producing hatchlings
+* 40% of the eggs successfully hatch
+
+First, we need to find the total number of eggs laid by the 6 turtles:
+* 6 turtles x 20 eggs per turtle = 120 eggs
+
+Next, we need to find how many of those 120 eggs successfully hatch:
+* 40% of 120 eggs = 0.4 x 120 = 48 eggs
+
+Therefore, the 6 turtles produce 48 hatchlings.
+
+Answer: 48

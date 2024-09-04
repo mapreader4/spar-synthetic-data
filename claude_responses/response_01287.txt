@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Pete walks backwards three times faster than Susan walks forwards.
+2) Tracy does one-handed cartwheels twice as fast as Susan walks forwards.
+3) Pete can walk on his hands only one quarter the speed that Tracy can do cartwheels.
+4) Pete walks on his hands at 2 miles per hour.
+
+Now, let's solve for the speed at which Pete can walk backwards:
+* If Pete walks on his hands at 2 miles per hour, and that is one quarter the speed that Tracy can do cartwheels, then Tracy can do cartwheels at 4 times that speed, which is 8 miles per hour.
+* Since Tracy does cartwheels twice as fast as Susan walks forwards, then Susan walks forwards at half the speed of Tracy, which is 4 miles per hour.
+* Since Pete walks backwards three times faster than Susan walks forwards, then Pete walks backwards at 3 times 4 miles per hour, which is 12 miles per hour.
+
+Answer: 12 miles per hour.

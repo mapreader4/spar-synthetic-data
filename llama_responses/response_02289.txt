@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+First, let's calculate the total cost of the books Connor is buying:
+
+Book 1: $13.00
+Book 2: $15.00
+Book 3: $10.00
+Book 4: $10.00
+Total cost: $13.00 + $15.00 + $10.00 + $10.00 = $48.00
+
+Since the total cost is less than $50.00, Connor is still short of the free shipping threshold. To find out how much more Connor needs to spend, we need to calculate the difference between the total cost and the free shipping threshold:
+
+$50.00 - $48.00 = $2.00
+
+So, Connor needs to spend an additional $2.00 to reach the free shipping threshold.
+
+Answer: 2

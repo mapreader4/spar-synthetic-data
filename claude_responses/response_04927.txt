@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jackie climbed a 1000 foot tall tree
+* Then she climbed 2 trees that were half as tall as the first tree
+   - Each of these 2 trees was 1000 / 2 = 500 feet tall
+* Finally, she climbed a tree that was 200 feet taller than her first tree
+   - This tree was 1000 + 200 = 1200 feet tall
+
+Now, to calculate the average height of the trees Jackie climbed, we need to add up the heights of all the trees and divide by the total number of trees:
+* Total height of all trees = 1000 + 500 + 500 + 1200 = 3200 feet
+* Number of trees = 4
+* Average height = 3200 / 4 = 800 feet
+
+Answer: 800

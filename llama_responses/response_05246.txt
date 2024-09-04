@@ -1,0 +1,7 @@
+Let's break down the problem into smaller parts.
+
+For one dog, he charges $20. For 10 minutes, that's $20. For two dogs, he charges $20 + $1 * 1 = $21. For 7 minutes, that's $21 * 7 / 60 = $3.45. For three dogs, he charges $20 + $1 * 3 = $23. For 9 minutes, that's $23 * 9 / 60 = $3.85.
+
+To find the total amount of money he earns, we add up the earnings from each part: $20 + $3.45 + $3.85 = $26.85.
+
+Answer: 26.85

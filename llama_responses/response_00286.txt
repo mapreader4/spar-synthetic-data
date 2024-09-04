@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students that were assigned to the minibus. There were 18 students in total.
+
+Next, we know that 8 of these students were boys. This means that the remaining students must be girls.
+
+Let's let's call the number of girls that were not able to join the trip x.
+
+We know that the number of girls that were not able to join the trip is equal to the total number of students minus the number of boys. We can represent this as 18 - 8 = x.
+
+So, the number of girls that were not able to join the trip is x = 18 - 8 = 10.
+
+Answer: 10

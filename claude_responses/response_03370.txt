@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* 17 customers bought 1 melon each, so that's 17 melons
+* 3 customers bought 3 melons each, so that's 3 x 3 = 9 melons
+* The remaining melons were bought by customers who bought 2 melons each
+* The total number of melons sold was 46
+* So the number of melons bought by customers who bought 2 melons each is:
+    - Total melons sold (46) - Melons bought by customers who bought 1 melon (17) - Melons bought by customers who bought 3 melons (9)
+    - 46 - 17 - 9 = 20 melons
+* Since each customer who bought 2 melons bought 2 melons, the number of customers who bought 2 melons is:
+    - 20 melons / 2 melons per customer = 10 customers
+
+Answer: 10

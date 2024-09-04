@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Candy baked 4 trays of cookies
+* Each tray had 24 cookies
+* So the total number of cookies baked is:
+  * 4 trays x 24 cookies per tray = 96 cookies
+* Candy then divided the 96 cookies equally into 8 packs
+* To find the number of cookies in each pack, we divide the total number of cookies (96) by the number of packs (8):
+  * 96 cookies / 8 packs = 12 cookies per pack
+
+Answer: 12

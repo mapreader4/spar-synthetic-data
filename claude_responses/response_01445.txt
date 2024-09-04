@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jenny wants to read 3 books in the next 10 days
+* The first book has 200 words
+* The second book has 400 words
+* The third book has 300 words
+* Jenny can read 100 words per hour
+
+First, we need to find the total number of words in all 3 books:
+* Total words = 200 + 400 + 300 = 900 words
+
+Next, we need to find how many hours it will take Jenny to read all 900 words:
+* 900 words / 100 words per hour = 9 hours
+
+Now, we need to convert the 9 hours into minutes:
+* 9 hours x 60 minutes/hour = 540 minutes
+
+Finally, to find the average minutes per day, we divide the total minutes by the number of days:
+* 540 minutes / 10 days = 54 minutes per day
+
+Answer: 54 minutes per day.

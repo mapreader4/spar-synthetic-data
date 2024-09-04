@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jack bought 3 books a month
+* Each book costs $20
+* He bought books for 12 months (1 year)
+* So, the total cost of the books he bought is:
+  * 3 books per month x $20 per book x 12 months = $720
+* At the end of the year, he sold the books back for $500
+* To calculate the amount of money he lost, we take the total cost of the books ($720) and subtract the amount he got back from selling them ($500)
+* $720 - $500 = $220
+
+Answer: $220

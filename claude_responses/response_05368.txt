@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Lisa uses 30 pieces of pepperoni for the pizza
+* She uses twice as many pieces of ham as pepperoni, so that's 2 x 30 = 60 pieces of ham
+* She uses 12 more pieces of sausage than pepperoni, so that's 30 + 12 = 42 pieces of sausage
+* In total, the number of pieces of meat used is 30 (pepperoni) + 60 (ham) + 42 (sausage) = 132 pieces
+* The pizza is cut into 6 slices, so each slice will have an equal amount of meat
+* To find the number of pieces of meat on each slice, we divide the total number of pieces (132) by the number of slices (6)
+* 132 / 6 = 22
+
+Answer: 22

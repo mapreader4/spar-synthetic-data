@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's say Sara's height is x. Then, Joe's height is 2x, since Joe is 6 inches more than double Sara's height.
+
+We know that Sara and Joe have a combined height of 120 inches, so we can set up an equation:
+
+x + 2x = 120
+
+We can solve this equation by adding 2 to both sides:
+
+x + 2x = 120
+
+Subtracting x from both sides by x:
+
+2x = 120 - x
+
+Dividing both sides by 2:
+
+x = 60
+
+So, Sara's height is 60 inches, and Joe's height is 2 * 60 = 120 inches. Therefore, Joe is 120 inches.
+
+Answer: 120

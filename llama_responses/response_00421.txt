@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Mrs. Wilsborough started with $500.
+
+She bought 2 VIP tickets at $100 each, which is a total of 2 x $100 = $200.
+
+She also bought 3 regular tickets at $50 each, which is a total of 3 x $50 = $150.
+
+To find the total amount she spent, we add the cost of the VIP tickets to the cost of the regular tickets: $200 + $150 = $350.
+
+To find the amount of savings left, we subtract the total spent from the initial $500: $500 - $350 = $150.
+
+Answer: 150

@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's start by finding the total number of sweets initially in the packet. The packet has 30 cherry-flavored sweets, 40 strawberry-flavored sweets, and 50 pineapple-flavored sweets. So, the total number of sweets is:
+
+30 + 40 + 50 = 120
+
+Now, Aaron eats half of each of the flavored sweets. So, he eats:
+
+* Half of 30 cherry-flavored sweets is 30 / 2 = 15
+* Half of 40 strawberry-flavored sweets is 40 / 2 = 20
+* Half of 50 pineapple-flavored sweets is 50 / 2 = 25
+
+So, Aaron eats 15 + 20 + 25 = 60 sweets.
+
+Now, he gives 5 cherry-flavored sweets to his friend. So, the number of sweets left in the packet is:
+
+120 - 60 - 5 = 55
+
+Answer: 55

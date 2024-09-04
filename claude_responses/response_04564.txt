@@ -1,0 +1,15 @@
+Okay, let's think through this step-by-step:
+1) Fiona and Casey share the hoodies they own, so the total number of hoodies they own is 8.
+2) Casey owns 2 more hoodies than Fiona.
+3) Let's represent the number of hoodies Fiona owns as x.
+4) Then, the number of hoodies Casey owns is x + 2.
+5) The total number of hoodies they own is 8, so we can write the equation:
+x + (x + 2) = 8
+6) Simplifying the equation:
+2x + 2 = 8
+7) Subtracting 2 from both sides:
+2x = 6
+8) Dividing both sides by 2:
+x = 3
+
+Answer: 3

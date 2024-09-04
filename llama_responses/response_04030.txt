@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by letting x be the number of rubber bands Ylona had initially.
+
+We know that Justine had 10 more rubber bands than Bailey, so we can write an equation for this: x + 2 = 10.
+
+We also know that Bailey gave 2 rubber bands each to Justine and Ylona, so the total number of rubber bands Bailey gave away is 4. This means that the number of rubber bands Ylona had initially is 10 + 2 - 4 = 8.
+
+Answer: 8

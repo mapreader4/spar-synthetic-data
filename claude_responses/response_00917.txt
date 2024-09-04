@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Matt can climb 6 feet per minute
+* Jason can climb 12 feet per minute
+* They have been climbing for 7 minutes
+
+To find how much higher Jason will be than Matt, we need to calculate the distance each of them has climbed in 7 minutes.
+
+Matt's distance climbed:
+* 6 feet/minute x 7 minutes = 42 feet
+
+Jason's distance climbed:
+* 12 feet/minute x 7 minutes = 84 feet
+
+Now, to find how much higher Jason will be than Matt, we subtract Matt's distance from Jason's distance:
+* 84 feet - 42 feet = 42 feet
+
+Answer: 42

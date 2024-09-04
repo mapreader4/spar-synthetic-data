@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Shane has 2 packages of sliced bread, each containing 20 slices. That means he has a total of 2 x 20 = 40 slices of bread.
+
+He also has 2 packages of sliced ham, each containing 8 slices each. That means he has a total of 2 x 8 = 16 slices of ham.
+
+Shane will make sandwiches using the ham he has. He will use 1 slice of ham for each sandwich. So, he can make 16 sandwiches with the ham he has.
+
+For each sandwich, he will need 2 slices of bread. Since he has 40 slices of bread and he can make 16 sandwiches, he will need 2 x 16 = 32 slices of bread for the sandwiches.
+
+To find out how many slices of bread he will have leftover, we subtract the number of slices used for the sandwiches from the total number of slices of bread he has. 40 - 32 = 8.
+
+Answer: 8

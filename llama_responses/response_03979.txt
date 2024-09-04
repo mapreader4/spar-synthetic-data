@@ -1,0 +1,17 @@
+Let's start by identifying the variables in the problem. We have the cost of diesel fuel, which is $3 per gallon, and the amount Mr. Alvarez spends on diesel fuel in a week. We can represent the cost per week as a variable, let's say it is x.
+
+We know that Mr. Alvarez spends $36 on diesel fuel each week, so the total cost in two weeks would be 2 times the cost per week, which is 2 x $36. Since the cost of diesel fuel is $3 per gallon, we can set up an equation to solve for x, the number of gallons of diesel fuel Mr. Alvarez uses in two weeks.
+
+We can set up the equation as follows:
+
+2 x $36 = x x $3
+
+To solve for x, we can divide both sides of the equation by $3:
+
+x = (2 x $36) / $3
+
+x = 72 / $3
+
+x = 24
+
+Answer: 24

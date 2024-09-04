@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Tim sleeps 6 hours per day for 5 days a week
+* So for those 5 days, he sleeps 6 hours x 5 days = 30 hours
+* He also sleeps 10 hours per day for the other 2 days of the week
+* So for those 2 days, he sleeps 10 hours x 2 days = 20 hours
+* To calculate the total sleep, we add the hours from the two different sleep schedules:
+* 30 hours + 20 hours = 50 hours
+
+Answer: 50

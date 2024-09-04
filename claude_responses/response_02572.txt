@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Derrick's yard length is unknown.
+2) Alex's yard length is half the size of Derrick's yard.
+3) Brianne's yard length is 6 times the size of Alex's yard.
+4) Brianne's yard is 30 yards long.
+5) Since Brianne's yard is 6 times the size of Alex's yard, and Brianne's yard is 30 yards long, we can calculate the length of Alex's yard:
+   * Alex's yard length = Brianne's yard length / 6 = 30 yards / 6 = 5 yards
+6) Since Alex's yard length is half the size of Derrick's yard, we can calculate the length of Derrick's yard:
+   * Derrick's yard length = Alex's yard length * 2 = 5 yards * 2 = 10 yards
+
+Answer: 10 yards

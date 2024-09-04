@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Doris earns $20 per hour
+* She needs to earn at least $1200 for her monthly expenses
+* She can babysit for 3 hours every weekday and 5 hours on a Saturday
+
+First, let's calculate her weekly earnings:
+* Weekdays: 3 hours per day x 5 days = 15 hours
+* Saturday: 5 hours
+* Total hours per week = 15 + 5 = 20 hours
+* Weekly earnings = 20 hours x $20 per hour = $400
+
+Now, let's calculate how many weeks it will take for her to earn $1200:
+* $1200 / $400 per week = 3 weeks
+
+Therefore, it will take Doris 3 weeks to earn enough to cover her monthly expenses.
+
+Answer: 3

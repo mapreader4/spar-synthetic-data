@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There will be 30 kids playing soccer, including Katie.
+2) Katie's mother wants to get 2 granola bars for each kid.
+3) So the total number of granola bars needed is 30 kids * 2 bars per kid = 60 granola bars.
+4) Each box of granola bars has 12 bars in it.
+5) To calculate the number of boxes needed, we divide the total number of granola bars needed (60) by the number of bars per box (12).
+6) 60 granola bars / 12 bars per box = 5 boxes.
+
+Answer: 5 boxes.

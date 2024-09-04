@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start with what we know: Tom reads 10 hours in 5 days. So, we know that 10 hours is equal to 10 * 60 minutes. 60 minutes is equal to 1 hour, so 10 hours is equal to 600 minutes. 10 hours = 600 minutes.
+
+Now, we know that Tom reads 600 minutes in 5 days. 600 minutes is equal to 600 / 5, which is 120. So, Tom reads 120 minutes per day.
+
+Now, we know that Tom reads 50 pages per hour. 50 pages is equal to 50 * 60 minutes, or 3000 minutes. So, 3000 minutes is equal to 50 * 60 minutes.
+
+Now, we know that Tom reads 3000 minutes in 5 days. 3000 minutes is equal to 3000 / 5, which is 600. So, Tom reads 600 minutes, or 100 minutes per day.
+
+We are asked how many pages Tom reads in 7 days. 7 days is equal to 7. 100 minutes per day is equal to 700 minutes, or 700 minutes in 7 days. 700 minutes is equal to 700 / 60, which is 11.7. So, Tom reads 11.7 * 50 pages, or 58.7 pages in 7 days.
+
+Answer: 58.7

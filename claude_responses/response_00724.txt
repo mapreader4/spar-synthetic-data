@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jenny had an original amount of money
+* She spent 3/7 of her original amount
+* She had $24 left after spending the 3/7
+* We want to find half of her original amount
+
+First, let's find her original amount of money.
+* If she had $24 left after spending 3/7 of her money, then the amount she spent was 4/7 of her original amount.
+* The amount she spent is 4/7 of her original amount, and that amount is the remaining 4/7 of her original amount.
+* So, her original amount is the total of the $24 she had left and the 4/7 she spent.
+* Her original amount = $24 + (4/7 * original amount)
+* Solving for the original amount, we get:
+* Original amount = $24 / (3/7)
+* Original amount = $56
+
+Now, to find half of her original amount, we divide $56 by 2:
+* Half of her original amount = $56 / 2
+* Half of her original amount = $28
+
+Answer: 28

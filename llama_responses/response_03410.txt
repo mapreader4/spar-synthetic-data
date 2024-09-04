@@ -1,0 +1,11 @@
+Let's break down the total cost of the rental into two parts: the weekday cost and the weekend cost.
+
+The cost for the 3 weekdays (Thursday, Friday, and Saturday) is 3 x $420 = $1,260.
+
+The cost for the 2 weekend days (Saturday and Sunday) is 2 x $540 = $1,080.
+
+The total cost for the 5 people is the sum of these two costs: $1,260 + $1,080 = $2,340.
+
+To split the cost evenly among 5 people, we need to divide the total cost by 5: $2,340 ÷ 5 = $464.
+
+Answer: 464

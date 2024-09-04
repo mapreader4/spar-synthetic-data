@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* William can ride his horse for 6 hours a day
+* Over 6 days, he only used the maximum riding time (6 hours) twice
+* On two days, he rode his horse for only 1.5 hours a day
+* For the next two days, he rode his horse for half the maximum time (3 hours)
+
+Now, let's calculate the total hours he rode his horse during those 6 days:
+* 2 days at 6 hours = 12 hours
+* 2 days at 1.5 hours = 3 hours
+* 2 days at 3 hours = 6 hours
+
+Adding these up, we get:
+* Total hours = 12 + 3 + 6 = 21 hours
+
+Answer: 21 hours

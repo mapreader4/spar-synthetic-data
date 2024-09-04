@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The initial classroom has 20 people, of which 40% are girls.
+2) To find the number of girls in the initial classroom, we take 40% of 20, which is 0.4 * 20 = 8 girls.
+3) The number of boys in the initial classroom is the total number of people (20) minus the number of girls (8), which is 12 boys.
+4) After 5 new boys join the classroom, the total number of people in the classroom is now 20 + 5 = 25.
+5) The number of girls is still 8.
+6) The number of boys is now 12 + 5 = 17.
+7) To find the new percentage of girls, we take the number of girls (8) and divide it by the total number of people (25), and multiply by 100 to get the percentage.
+8) 8 / 25 = 0.32, and 0.32 * 100 = 32%.
+
+Answer: 32

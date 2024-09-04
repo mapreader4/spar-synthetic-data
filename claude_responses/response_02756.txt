@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* In 2018, Super Soup had 23 stores.
+* In 2019, they opened 5 new stores, but closed 2 stores that performed the worst.
+* So in 2019, the total number of stores would be:
+    * 23 (from 2018) + 5 (new stores opened) - 2 (stores closed) = 26 stores
+* In 2020, they opened 10 new stores, but closed 6 stores that performed the worst.
+* So in 2020, the total number of stores would be:
+    * 26 (from 2019) + 10 (new stores opened) - 6 (stores closed) = 30 stores
+
+Answer: 30 stores

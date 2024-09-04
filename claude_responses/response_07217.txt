@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The mayor commissioned two artists, Celina and Diego, to paint 50 murals around the city.
+* Once the work was completed, Celina was paid $1,000 more than 4 times the amount Diego got.
+* The mayor paid the two artists a total of $50,000.
+
+Let's define the variables:
+* Let x be the amount Diego got paid.
+* Then Celina got paid 4x + $1,000.
+
+We know that the total amount paid to the two artists is $50,000, so we can set up an equation:
+* x + (4x + $1,000) = $50,000
+
+Solving for x:
+* 5x + $1,000 = $50,000
+* 5x = $49,000
+* x = $9,800
+
+Therefore, Diego got paid $9,800.
+
+Answer: 9800

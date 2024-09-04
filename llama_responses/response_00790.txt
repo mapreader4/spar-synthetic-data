@@ -1,0 +1,19 @@
+Let's break down the problem into steps:
+
+Step 1: Find the area of the triangular house made by Zion.
+
+Area of a triangle = 1/2 * base * height
+
+Base of the triangle = 40 cm
+Height of the triangle = 20 cm
+
+Area of the triangle = 1/2 * 40 * 20
+= 200 cm^2
+
+So, the area of the triangle made by Zion is 200 square centimeters.
+
+Step 2: Find the area of the triangular houses made by Zion's friends.
+
+Since the friends made similar shaped houses, the area of their triangles will also be the same. So, the total area of the triangular houses made by Zion and his friends is 2 * 200 cm^2.
+
+Answer: 400

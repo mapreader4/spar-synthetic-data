@@ -1,0 +1,17 @@
+To solve this problem, we need to calculate the time difference between taking route A and route B for the round trip to Boston.
+
+Given information:
+- Route A takes 5 hours to arrive at Boston.
+- Route B takes 2 hours to arrive at Boston.
+
+Step 1: Calculate the time it takes to go to Boston and back using route A.
+Time to go to Boston and back using route A = 2 × 5 hours = 10 hours
+
+Step 2: Calculate the time it takes to go to Boston and back using route B.
+Time to go to Boston and back using route B = 2 × 2 hours = 4 hours
+
+Step 3: Calculate the time saved by taking route B instead of route A.
+Time saved = Time taken by route A - Time taken by route B
+Time saved = 10 hours - 4 hours = 6 hours
+
+Answer: 6 hours

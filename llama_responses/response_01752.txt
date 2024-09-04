@@ -1,0 +1,25 @@
+Let's break down the information into smaller parts:
+
+* Meghan scored 20 marks less than Jose.
+* Jose scored 40 more marks than Alisson.
+* The total score of the three in the test is the sum of the scores of Meghan, Jose, and Alisson.
+
+Let's denote Meghan's score as M, Jose's score as J, and Alisson's score as A. We know that:
+
+M = J - 20, and J = A + 40
+
+We can solve for M:
+
+M = J - 20
+M = J - 20
+M = J - 20 + 40
+M = J + 20
+M = J + 20
+M = J + 20
+
+Now, we know that M = 20. We can find the total score of the three:
+
+M + J + A = 20 + J + A
+20 + J + A = 20 + 40 + A
+
+The total score of the three in the test is 60 + A.

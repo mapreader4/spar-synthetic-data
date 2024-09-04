@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Janet has to drive 30 miles east to see her dermatologist.
+2) Then she has to drive 50 miles west to see her gynecologist.
+3) After her appointments, she has to drive back home, which is 30 miles west and then 50 miles east.
+4) So the total distance she has to drive is:
+   - 30 miles east + 50 miles west + 30 miles west + 50 miles east = 160 miles
+5) Her car gets 20 miles per gallon.
+6) To calculate the number of gallons of gas used, we divide the total distance by the miles per gallon:
+   - 160 miles / 20 miles per gallon = 8 gallons of gas.
+
+Answer: 8

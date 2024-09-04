@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Junior has 16 rabbits
+* On Monday, he bought 6 toys for his rabbits
+* On Wednesday, he bought twice as many toys as he did on Monday
+* On Friday, he bought four times as many toys as he did on Monday
+* On the next day (Saturday), he bought half as many toys as he did on Wednesday
+
+First, let's calculate the number of toys he bought each day:
+* Monday: 6 toys
+* Wednesday: 2 x 6 = 12 toys
+* Friday: 4 x 6 = 24 toys
+* Saturday: 1/2 x 12 = 6 toys
+
+Now, let's add up the total number of toys he bought:
+* Total toys = 6 + 12 + 24 + 6 = 48 toys
+
+Finally, to find how many toys each rabbit would have if they were split evenly, we divide the total number of toys by the number of rabbits:
+* Toys per rabbit = 48 / 16 = 3
+
+Answer: 3

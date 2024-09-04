@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of green macaroons Fran ate. Fran ate 15 green macaroons. Then, Fran ate twice as many red macaroons as green macaroons, which means Fran ate 15 x 2 = 30 red macaroons.
+
+Fran started with 40 green macaroons, and ate 15 green macaroons. So, the number of green macaroons remaining is 40 - 15 = 25.
+
+Fran also started with 50 red macaroons, and ate 30 red macaroons. So, the number of red macaroons remaining is 50 - 30 = 20.
+
+The answer is: Answer: 20.

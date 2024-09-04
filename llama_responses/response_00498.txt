@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The total maximum weight allowed per person is 50 pounds, and there are 6 people. So the total maximum weight for all the bags is 6 x 50 = 300 pounds.
+2. The total weight of the bags is 300 pounds.
+3. The total weight allowed by the airplane is 6000 pounds.
+4. We can find the difference between the total weight of the bags and the total weight allowed by the airplane by subtracting the two numbers: 6000 - 300 = 5700.
+5. So the airplane can hold 5700 - 300 = 5400 pounds more bags at maximum weight.
+
+Answer: 5400

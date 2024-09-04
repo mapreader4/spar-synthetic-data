@@ -1,0 +1,37 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of nails Jill is painting.
+
+She is painting 20 nails.
+
+Next, let's find the number of nails painted blue:
+
+6 nails are painted blue.
+
+Next, let's find the number of nails painted striped:
+
+The remaining nails are painted striped, so we subtract the number of nails painted blue from the total number of nails:
+
+20 - 6 = 14
+
+So, 14 nails are painted striped.
+
+Now, we need to find the percentage of nails painted blue:
+
+(6 / 20) * 100 = 30%
+
+And we need to find the percentage of nails painted striped:
+
+(14 / 20) * 100 = 70%
+
+Now, we need to find the difference between the percentage of nails painted blue and the percentage painted striped:
+
+30% - 70%
+
+To find the difference, we subtract the smaller percentage from the larger one:
+
+70 - 30 = 40
+
+So, the difference in percentage points between the percentage of nails painted blue and the percentage painted striped is 40%.
+
+Answer: 40

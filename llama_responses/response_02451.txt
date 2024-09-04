@@ -1,0 +1,7 @@
+Let's break down the problem step by step:
+
+1. Sanya can wash 7 bath towels in 1 hour, so to find the time it takes to wash one towel, we can divide 1 hour by 7: 1 hour ÷ 7 = 0.14 hours per towel.
+2. Sanya has 98 bath towels, so to find the total time it will take to wash all the towels, we can multiply the time it takes to wash one towel by the number of towels: 0.14 hours per towel * 98 towels = 13.72 hours.
+3. Sanya has 2 hours in a day, and we found that it will take 13.72 hours to wash all the towels. 13.72 hours is more than 2 hours, so Sanya will need more than one day to wash all the towels.
+
+Answer: 2

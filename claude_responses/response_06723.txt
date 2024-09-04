@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Bob's hair was cut to 6 inches the last time he cut it
+* His hair is now 36 inches long
+* Hair grows at a rate of 0.5 inches per month
+
+To find out how many years it took him to grow out his hair, we need to calculate the total growth in inches, and then divide that by the monthly growth rate to get the number of months. Finally, we'll divide the number of months by 12 to get the number of years.
+
+Total growth in inches:
+* 36 inches - 6 inches = 30 inches
+
+Monthly growth rate:
+* 0.5 inches per month
+
+Number of months:
+* 30 inches / 0.5 inches per month = 60 months
+
+Number of years:
+* 60 months / 12 months per year = 5 years
+
+Answer: 5 years

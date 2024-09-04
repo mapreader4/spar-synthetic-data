@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Clothes take 30 minutes to wash
+* Towels take twice as long as the clothes to wash
+* Towels take 2 * 30 = 60 minutes to wash
+* Sheets take 15 minutes less time to wash than the towels
+* Sheets take 60 - 15 = 45 minutes to wash
+
+Now, to calculate the total time it will take Naomi to wash everything:
+* Clothes: 30 minutes
+* Towels: 60 minutes
+* Sheets: 45 minutes
+* Total time = 30 + 60 + 45 = 135 minutes
+
+Answer: 135

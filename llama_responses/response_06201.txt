@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of comic books liked by females, which is 30% of 300. 30% of 300 is 0.3 * 300 = 90.
+
+Next, let's find the number of comic books liked by males, which is 120.
+
+Now, let's find the number of comic books disliked by both males and females. We know that the total number of comic books is 300, and the number of comic books liked by females is 90, and the number of comic books liked by males is 120. So, the number of comic books disliked by both males and females is the difference between the total number of comic books and the sum of the number of comic books liked by females and males.
+
+The total number of comic books disliked by both males and females is 300 - (90 + 120) = 300 - 210 = 90.
+
+Answer: 90

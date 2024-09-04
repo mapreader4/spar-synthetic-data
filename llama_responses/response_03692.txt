@@ -1,0 +1,14 @@
+Let's start by finding the total number of males and females in each class:
+
+Class 1: 17 males and 13 females
+Class 2: 14 males and 18 females
+Class 3: 15 males and 17 females
+
+Total number of males: 17 + 14 + 15 = 46
+Total number of females: 13 + 18 + 17 = 48
+
+Now, we need to find the number of students who will be unable to partner with a student of the opposite gender. Since there are 46 males and 48 females, we can subtract the number of males from the number of females to find the number of females who will not be able to find a partner:
+
+48 (females) - 46 (males) = 2
+
+There are 2 females who will be unable to partner with a student of the opposite gender.

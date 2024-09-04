@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+First, let's calculate the total number of girls and boys from the 4th grade classes:
+* 4th grade class 1: 12 girls + 13 boys = 25 total
+* 4th grade class 2: 15 girls + 11 boys = 26 total
+* Total 4th grade: 12 + 15 = 27 girls, 13 + 11 = 24 boys
+
+Next, let's calculate the total number of girls and boys from the 5th grade classes:
+* 5th grade class 1: 9 girls + 13 boys = 22 total
+* 5th grade class 2: 10 girls + 11 boys = 21 total
+* Total 5th grade: 9 + 10 = 19 girls, 13 + 11 = 24 boys
+
+Now, let's calculate the total number of girls and boys across all classes:
+* Total girls: 27 + 19 = 46
+* Total boys: 24 + 24 = 48
+
+Finally, to find the difference between the number of boys and girls:
+* 48 boys - 46 girls = 2 more boys
+
+Answer: 2

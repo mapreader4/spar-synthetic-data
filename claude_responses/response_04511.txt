@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Gerald brings 7 chocolate bars to school
+* Each bar contains 8 squares of chocolate
+* So the total number of squares of chocolate Gerald brings is:
+    - 7 bars x 8 squares per bar = 56 squares
+* The teacher says she will bring 2 more identical bars for every bar Gerald brings
+* So the teacher will bring:
+    - 2 bars x 7 bars brought by Gerald = 14 additional bars
+* The total number of bars brought to the class is:
+    - 7 bars (Gerald) + 14 bars (teacher) = 21 bars
+* Each bar has 8 squares of chocolate
+* So the total number of squares of chocolate brought to the class is:
+    - 21 bars x 8 squares per bar = 168 squares
+* There are 24 students in the class
+* To find the number of squares each student gets, we divide the total number of squares by the number of students:
+    - 168 squares / 24 students = 7 squares per student
+
+Answer: 7

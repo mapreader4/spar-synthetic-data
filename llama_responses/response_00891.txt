@@ -1,0 +1,13 @@
+Let's start by using a variable to represent Katie's daughter's age. Let's call it x.
+
+Since Lavinia's daughter is 10 years younger than Katie's daughter, we can write the equation x - 10 = Lavinia's daughter's age.
+
+We are given that Katie's daughter is 12 years old, so we know x = 12.
+
+Now, we know that Lavinia's son is 2 times the age of Katie's daughter. So, we can write the equation 2x = Lavinia's son's age.
+
+We know that x = 12, so we can substitute x into the equation 2x = 2(12) to get 24.
+
+So, we know Lavinia's son is 24 years old. We can find the difference between his age and Lavinia's daughter's age by subtracting 12 from 24, which is 24 - 12 = 12.
+
+Answer: 12

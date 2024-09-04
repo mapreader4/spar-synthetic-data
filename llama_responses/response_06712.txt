@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first find out how far Candace will walk in the old shoes. Since she walks 6 miles per hour and plans to hike for 4 hours, she will walk a total of:
+
+6 miles/hour x 4 hours = 24 miles
+
+Now, let's consider the new shoes. Candace will walk twice as fast in the new shoes, so her speed will be 2 x 6 = 12 miles per hour. However, she will get a blister after every 2 hours, which will slow her down by 2 miles per hour. Since she plans to hike for 4 hours, she will get 2 blisters. Each blister slows her down by 2 miles per hour, so the total slowdown will be 2 x 2 = 4 miles per hour. Therefore, her speed in the new shoes will be:
+
+12 miles/hour - 4 miles/hour = 8 miles/hour
+
+Answer: 8

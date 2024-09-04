@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Mona bikes 30 miles each week.
+* She biked on Monday, Wednesday, and Saturday.
+* On Wednesday, she biked 12 miles.
+* On Saturday, she biked twice as far as on Monday.
+
+Let's first find out how many miles Mona biked on Saturday. Since she biked twice as far as on Monday, and we know she biked 12 miles on Wednesday, we can find out how many miles she biked on Monday. If she biked 12 miles on Wednesday, and she biked twice as far on Saturday, then she biked 12 * 2 = 24 miles on Saturday. Since she biked 24 miles on Saturday, and she biked 30 miles in total each week, we can subtract 24 from 30 to find out how many miles she biked on Monday.
+
+So, Mona biked 6 miles on Monday.
+
+Answer: 6

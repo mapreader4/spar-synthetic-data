@@ -1,0 +1,15 @@
+Let's break down the given information step by step:
+
+1. The Drugstore starts with 4500 bottles of hand sanitizer gel.
+2. On Monday, 2445 bottles were sold, so the remaining amount is:
+4500 - 2445 = 2055 bottles.
+3. On Tuesday, 900 bottles were sold, so the remaining amount is:
+2055 - 900 = 1155 bottles.
+4. 50 bottles were sold each day from Wednesday to Sunday, which is 5 days, so the total number of bottles sold is:
+50 x 5 = 250 bottles.
+5. The total number of bottles sold so far is:
+1155 + 250 = 1405 bottles.
+6. The supplier delivers 650 bottles, so the total number of bottles is:
+1405 + 650 = 2055 bottles.
+
+The Drugstore has 2055 bottles of hand sanitizer gel at the end of the week.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jenny wants to print 7 copies of her 25-page essay
+* Each page costs $0.10 to print
+* So the total cost of printing the 7 copies of the 25-page essay is:
+  * 7 copies x 25 pages per copy x $0.10 per page = $17.50
+* Jenny also wants to buy 7 pens that each cost $1.50
+* So the total cost of the 7 pens is:
+  * 7 pens x $1.50 per pen = $10.50
+* The total cost of the printing and the pens is:
+  * $17.50 + $10.50 = $28.00
+* Jenny paid with 2 twenty dollar bills, which is $40.00
+* To calculate the change she should get back, we take the amount she paid ($40.00) and subtract the total cost ($28.00):
+  * $40.00 - $28.00 = $12.00
+
+Answer: $12

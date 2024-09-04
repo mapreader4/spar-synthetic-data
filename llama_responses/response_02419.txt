@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find out how much meat the bear needs in total. The bear needs 210 pounds of meat in a week. Since the bear has 4 cubs, each cub needs 35 pounds a week. So, the total amount of meat the bear needs is 4 x 35 = 140 pounds.
+
+The bear hunts rabbits, which are 5 pounds each. So, the bear needs to hunt 210 - 140 = 70 pounds of rabbits.
+
+The bear hunts daily, so we need to find out how many rabbits she needs to catch each day. To find this out, we divide the total amount of meat needed by the number of days in a week. There are 7 days in a week, so we divide 70 by 7.
+
+70 ÷ 7 = 10
+
+Answer: 10

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Paula wants to ride the go-karts 1 time, which requires 4 tickets.
+
+Paula wants to ride the bumper cars 4 times, which requires 5 tickets per ride, so the total number of tickets needed for bumper cars is 5 * 4 = 20.
+
+The total number of tickets Paula needs is the sum of the tickets for go-karts and bumper cars: 4 + 20 = 24.
+
+Answer: 24

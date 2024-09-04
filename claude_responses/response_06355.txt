@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Louis bought velvet fabric at $24 per yard
+* He also bought a pattern for $15
+* He bought two spools of silver thread for $3 each, so that's $6 total for the thread
+* The total amount he spent is $141
+
+To find the number of yards of fabric he bought, we need to subtract the cost of the pattern and thread from the total amount spent, and then divide the remaining amount by the cost per yard of the fabric.
+
+The cost of the pattern and thread is:
+* $15 (pattern) + $6 (thread) = $21
+
+Subtracting this from the total amount spent:
+* $141 - $21 = $120
+
+Dividing the remaining amount by the cost per yard of the fabric:
+* $120 / $24 per yard = 5 yards
+
+Therefore, Louis bought 5 yards of velvet fabric.
+
+Answer: 5

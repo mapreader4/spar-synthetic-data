@@ -1,0 +1,13 @@
+Let's start by identifying the given information:
+
+* The family has 3 adults.
+* The family prepared 3 dozen eggs, which is 36 eggs.
+* Each adult got 3 eggs, so the number of eggs given to the adults is 3 * 3 = 9 eggs.
+* The boys received 1 more egg than the girls, so the number of eggs given to the boys is 3 + 1 = 4 eggs.
+* The girls received an egg each, so the number of eggs given to the girls is 1 egg.
+* The total number of eggs given to the girls is 1 * 7 = 7 eggs.
+* The total number of eggs given to the boys is 4 + 7 = 11 eggs.
+
+The total number of eggs given to the boys is 11, which is more than the number of eggs given to the girls, 7. So, the number of boys who went on the trip is 11 - 7 = 4.
+
+Answer: 4

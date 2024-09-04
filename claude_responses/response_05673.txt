@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The pizza was pre-sliced into 12 pieces
+* John ate 3 slices
+* Sam ate twice the amount that John ate, which means Sam ate 6 slices (2 x 3 = 6)
+* To find the number of slices left, we need to subtract the number of slices eaten from the total number of slices
+* Total slices: 12
+* Slices eaten by John: 3
+* Slices eaten by Sam: 6
+* Total slices eaten: 3 + 6 = 9
+* Slices left: 12 - 9 = 3
+
+Answer: 3

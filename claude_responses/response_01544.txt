@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Ben's bonus is $1496
+* He allocates:
+  - 1/22 for the kitchen
+  - 1/4 for holidays
+  - 1/8 for Christmas gifts for his 3 children
+* To calculate the amount for each allocation:
+  - Kitchen: 1/22 of $1496 = $1496 * 1/22 = $68
+  - Holidays: 1/4 of $1496 = $1496 * 1/4 = $374
+  - Christmas gifts: 1/8 of $1496 = $1496 * 1/8 = $187
+* Adding up the allocated amounts:
+  - $68 + $374 + $187 = $629
+* To calculate the amount Ben has left:
+  - $1496 - $629 = $867
+
+Answer: 867

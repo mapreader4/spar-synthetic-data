@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's say Leila's original savings be x.
+
+She spent 3/4 of her savings on make-up. To find the amount she spent on make-up, we can multiply 3/4 by x.
+
+3/4 = 0.75, so the amount she spent on make-up is 0.75x.
+
+She spent the rest on a sweater, which was $20. So, we can set up an equation to represent this:
+
+0.75x + 20 = x
+
+To solve for x, we can subtract 20 from both sides:
+
+0.75x = x - 20
+
+To solve for x, we can multiply both sides by 4:
+
+0.75x = 4(x - 20)
+
+x = 4(0.25)
+
+x = 0.25
+
+So, Leila's original savings were $0.25.

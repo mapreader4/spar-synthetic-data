@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Each man takes 3 hours to complete a job, so they will take 3 * 3 = 9 hours to complete 5 jobs.
+
+2. Each man earns $10 per hour, so they will earn 9 * 10 = $90 for each job.
+
+3. Since they will complete 5 jobs, they will earn 5 * 90 = $450 in total.
+
+Answer: 450

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 480 employees in total.
+* 10% of the employees got a salary increase.
+* To calculate 10% of 480:
+    - 10% of 480 = 0.10 * 480 = 48 employees got a salary increase.
+* 20% of the employees got a travel allowance increase.
+* To calculate 20% of 480:
+    - 20% of 480 = 0.20 * 480 = 96 employees got a travel allowance increase.
+* Now, we need to find how many employees did not get any increase.
+* To do this, we subtract the number of employees who got a salary increase and the number of employees who got a travel allowance increase from the total number of employees:
+    - 480 - 48 - 96 = 336 employees did not get any increase.
+
+Answer: 336

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the area of the TVs. The area of the first TV is 48 inches by 100 inches, so the area is 48 * 100 = 4800 square inches. The area of the second TV is 70 inches by 60 inches, so the area is 70 * 60 = 4200 square inches.
+
+Next, we need to multiply the area by the weight per square inch, which is 4 oz. For the first TV, we have 4800 square inches * 4 oz = 19200 oz. For the second TV, we have 4200 square inches * 4 oz = 16800 oz.
+
+Now, we need to convert the weight from ounces to pounds. There are 16 ounces in 1 pound, so we can divide the total weight by 16 to get the weight in pounds. For the first TV, we have 19200 oz ÷ 16 = 1200 pounds. For the second TV, we have 16800 oz ÷ 16 = 1050 pounds.
+
+To find the difference in weight, we subtract the weight of the second TV from the weight of the first TV: 1200 pounds - 1050 pounds = 150 pounds.
+
+Answer: 150

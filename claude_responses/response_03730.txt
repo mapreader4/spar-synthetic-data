@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* Peter and Kristin each need to read 20 fantasy novels in a week
+* Peter can read three times as fast as Kristin
+* Peter reads one book in 18 hours
+
+First, let's find out how long it takes Kristin to read one book:
+* Since Peter can read three times as fast as Kristin, it takes Kristin 3 times as long to read one book
+* If Peter reads one book in 18 hours, then Kristin would read one book in 18 x 3 = 54 hours
+
+Now, we need to find out how long Kristin will read half of her books:
+* Kristin needs to read 20 books in total
+* Half of 20 is 10 books
+* Since it takes Kristin 54 hours to read one book, it will take her 10 x 54 = 540 hours to read half of her books
+
+Answer: 540 hours

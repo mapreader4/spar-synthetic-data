@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. Mary spent 10 minutes downloading the Mac version of Zoom.
+2. She then realized she needed the Windows version, which took three times as long to download. So the time spent downloading the Windows version was 3 * 10 = 30 minutes.
+3. During her first call, the audio glitched twice for 4 minutes each time, so that's 4 * 2 = 8 minutes of audio glitching.
+4. The video glitched once for 6 minutes.
+5. The total time spent with glitches was 8 + 6 = 14 minutes.
+6. She spent twice as long talking without glitches as with glitches, so the time spent talking without glitches was 2 * 14 = 28 minutes.
+7. The total time spent downloading Zoom was 10 + 30 = 40 minutes.
+8. The total time spent talking was 14 + 28 = 42 minutes.
+9. The total time spent downloading Zoom and talking was 40 + 42 = 82 minutes.
+
+Answer: 82

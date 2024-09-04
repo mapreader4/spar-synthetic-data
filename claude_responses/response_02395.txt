@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The chef served 58 adults.
+2) The number of children is 35 fewer than the number of adults. So, the number of children is 58 - 35 = 23.
+3) The number of seniors is twice the number of children. So, the number of seniors is 2 * 23 = 46.
+4) The total number of guests served is the sum of the adults, children, and seniors:
+   Total guests = 58 adults + 23 children + 46 seniors
+   Total guests = 58 + 23 + 46
+   Total guests = 127
+
+Answer: 127

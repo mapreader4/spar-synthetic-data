@@ -1,0 +1,15 @@
+Let's break down the information given in the problem. 
+
+Let's let E be the number of votes Eliot got. 
+
+The problem states that Eliot got twice as many votes as Shaun. So, if we let S be the number of votes Shaun got, we can write the equation E = 2S.
+
+The problem also states that Shaun got 5 times as many votes as Randy. So, Randy got 16 votes, so Shaun got 16/5 = 3 votes. 
+
+So, we can write the equation S = 3.
+
+Now, we can substitute the value of S into the equation E = 2S to get the number of votes Eliot got:
+
+E = 2 * 3 = 6
+
+Answer: 6

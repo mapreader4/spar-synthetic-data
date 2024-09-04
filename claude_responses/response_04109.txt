@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Kristine traveled 300 km by train.
+2) She then traveled half that distance by bus, which is 300 / 2 = 150 km.
+3) After arriving in the city, she took a cab for a distance that was three times fewer kilometers than she rode the bus, which is 150 / 3 = 50 km.
+4) To find the total distance traveled, we add up the distances:
+   - Train: 300 km
+   - Bus: 150 km
+   - Cab: 50 km
+   - Total: 300 + 150 + 50 = 500 km
+
+Answer: 500

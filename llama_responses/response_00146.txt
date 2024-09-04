@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's first find out how long it takes Richard to clean his room. He takes 22 minutes, so we can write this as R = 22.
+
+Now, let's find out how long it takes Cory to clean her room. We know that Cory takes 3 minutes more than Richard, so we can write this as C = R + 3 = 22 + 3 = 25.
+
+Next, we need to find out how long it takes Blake to clean his room. We know that Blake takes 4 minutes less than Cory, so we can write this as B = C - 4 = 25 - 4 = 21.
+
+Now, we want to find out how many minutes all three of them spend cleaning their rooms each week. Since they clean their rooms twice a week, we can multiply the time it takes each of them to clean their room by 2.
+
+So, we can write the total time as:
+
+R * 2 = 22 * 2 = 44
+C * 2 = 25 * 2 = 50
+B * 2 = 21 * 2 = 42
+
+So, the total time all three of them spend cleaning their rooms each week is 44 + 50 + 42 = 136.

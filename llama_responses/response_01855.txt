@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start with the given information: 60% of the citizens own a pet, half own a dog, and 30 own a cat.
+
+We know that 60% of the citizens own a pet, so we can write this as 0.6x, where x is the number of citizens who own a pet.
+
+We also know that half of the citizens own a dog, which means that 0.5x own a dog.
+
+We can now write an equation to represent the number of citizens who own a dog: 0.5x = 0.6x / 2.
+
+Now, we know that 30 citizens own a cat. We can write an equation to represent the number of citizens who own a cat: 30 = 0.6x - 0.5x.
+
+We can now solve for x. To do this, we add 0.5x to both sides of the equation, which results in 0.1x.
+
+So, we have 0.1x = 30 - 0.6x. We can add 0.1x to both sides of the equation to get 0.2x = 30 - 0.6x + 0.1x.
+
+We can subtract 0.6x from both sides to get 0.4x = 30.
+
+We now know that 0.4x is the number of citizens who own a pet but do not own a dog or a cat. We know that this is 40 citizens.
+
+So, the answer is: Answer: 40

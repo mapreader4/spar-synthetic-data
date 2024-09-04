@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of people that each row of chairs can hold. We are told that each row has 5 chairs, so the total number of people that each row can hold is 5.
+
+Next, we need to determine the number of rows of chairs. We are told that there are 20 rows of chairs in the church.
+
+To find the total number of people that can sit in the chairs, we need to multiply the number of people that each row can hold (5) by the number of rows of chairs (20). So, the calculation would be:
+
+5 * 20 = 100
+
+Answer: 100

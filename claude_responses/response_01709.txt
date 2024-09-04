@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+
+1. On Monday, 300 messages were sent.
+2. On Tuesday, 200 messages were sent.
+3. On Wednesday, the number of messages sent was 300 more than the previous day, which was Tuesday. So, on Wednesday, 200 + 300 = 500 messages were sent.
+4. On Thursday, the number of messages sent was two times as many as there were on Wednesday. So, on Thursday, 500 x 2 = 1,000 messages were sent.
+
+Now, to calculate the total number of messages sent in the Whatsapp group after the four days, we add up the messages sent on each day:
+300 + 200 + 500 + 1,000 = 2,000
+
+Answer: 2,000

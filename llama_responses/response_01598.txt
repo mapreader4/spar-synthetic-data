@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the height of the Great Pyramid of Giza. We are told that it is 20 feet taller than 500 feet. This means that we can write an equation for the height of the pyramid as:
+
+Height = 500 feet + 20 feet
+
+Next, we are told that the pyramid is 234 feet wider than it is tall. This is a tricky part of the problem, as it's not entirely clear what "it" refers to. However, since the height is given in terms of feet, we can assume that "it" refers to the height of the pyramid. Therefore, we can write an equation for the width of the pyramid as:
+
+Width = Height
+
+Now, we can use these two equations to find the sum of the height and width of the Great Pyramid of Giza. We can do this by adding the two expressions together:
+
+Height + Width = 500 feet + 20 feet + 234 feet
+
+To evaluate this expression, we need to follow the order of operations. We need to add the 20 feet to the 500 feet first, then add the 234 feet to the result:
+
+500 feet + 20 feet = 520 feet
+520 feet + 234 feet = 754 feet
+
+So, the sum of the height and width of the Great Pyramid of Giza is 754 feet.
+
+Answer: 754

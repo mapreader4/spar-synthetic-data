@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of students in the school. The problem states that there are 1000 students in the school.
+
+Next, let's identify the number of students who were taken on a trip to the beach. The problem states that half of the students were taken on a trip to the beach. To find the number of students who were taken on the trip, we can multiply the total number of students by 0.5.
+
+1000 students * 0.5 = 500
+
+Now, let's identify the number of students who were sent home. The problem states that half of the remaining students were sent home. We know that the total number of students who were taken on the trip is 500, so the number of students who were sent home is also 500.
+
+Now, to find the number of students who are still in the school, we need to subtract the number of students who were taken on the trip and the number of students who were sent home from the total number of students.
+
+1000 - 500 - 500 = 0
+
+The answer is 0.

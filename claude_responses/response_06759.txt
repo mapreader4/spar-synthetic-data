@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Amaya watches the movie for 35 minutes before realizing she needs to rewind
+* Rewinding adds 5 minutes to her total viewing time
+* So, the first 35 minutes + 5 minutes of rewinding = 40 minutes
+* She then watches the movie for another 45 minutes, but has to rewind again
+* This second rewind adds 15 minutes to her total viewing time
+* So, the 45 minutes + 15 minutes of rewinding = 60 minutes
+* Finally, she watches the last 20 minutes uninterrupted
+* Adding up the total time:
+  - 40 minutes (first 35 minutes + 5 minutes rewinding)
+  - 60 minutes (45 minutes + 15 minutes rewinding)
+  - 20 minutes (last 20 minutes)
+* Total time = 40 + 60 + 20 = 120 minutes
+
+Answer: 120 minutes

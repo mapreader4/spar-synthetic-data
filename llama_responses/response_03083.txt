@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of marbles of each color:
+
+* 20% of the marbles are white, which is 0.2 * 100 = 20 marbles.
+* 30% of the marbles are black, which is 0.3 * 100 = 30 marbles.
+* The rest of the marbles are of other colors, which is 100 - (20 + 30) = 50 marbles.
+
+Now, let's find the total revenue from selling each type of marble:
+
+* The white marbles are sold for a nickel each, which is 20 * $0.05 = $1.00.
+* The black marbles are sold for a dime each, which is 30 * $0.10 = $3.00.
+* The other colored marbles are sold for $0.20 each, which is 50 * $0.20 = $10.00.
+
+To find the total revenue, we add up the revenue from each type of marble:
+
+$1.00 + $3.00 + $10.00 = $14.00
+
+Answer: 14

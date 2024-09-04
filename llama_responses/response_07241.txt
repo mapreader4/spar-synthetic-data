@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The total number of roses is 400 - 120 = 280. Since 1/2 of 280 is 140, we can find the value of the red roses by multiplying 140 by 0.75.
+
+140 * 0.75 = 105
+
+Answer: 105

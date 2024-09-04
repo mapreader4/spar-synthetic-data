@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+1. Matinee ticket sales:
+   * 32 matinee customers at $5 per ticket
+   * 32 x $5 = $160
+
+2. Evening ticket sales:
+   * 40 evening customers at $7 per ticket
+   * 40 x $7 = $280
+
+3. Opening night ticket sales:
+   * 58 opening night customers at $10 per ticket
+   * 58 x $10 = $580
+
+4. Total ticket sales:
+   * $160 + $280 + $580 = $1,020
+
+5. Popcorn sales:
+   * Half the customers bought popcorn at $10 per bucket
+   * (32 + 40 + 58) / 2 = 65 customers bought popcorn
+   * 65 x $10 = $650
+
+6. Total revenue for the theater:
+   * Ticket sales + Popcorn sales
+   * $1,020 + $650 = $1,670
+
+Answer: $1,670

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Hilton had 26 marbles initially. He found 6 marbles while playing, so he had 26 + 6 = 32 marbles. Then, he lost 10 marbles, so he had 32 - 10 = 22 marbles. Lori gave him twice as many marbles as he lost, so she gave him 2 x 10 = 20 marbles. Adding these to the 22 marbles he had, he now has 22 + 20 = 42 marbles.
+
+Answer: 42

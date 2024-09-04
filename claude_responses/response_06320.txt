@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Aaron has 4 brothers
+* The number of Bennett's brothers is 2 less than twice the number of Aaron's brothers
+* To find the number of Bennett's brothers, we need to:
+    1. Multiply the number of Aaron's brothers by 2 (2 x 4 = 8)
+    2. Subtract 2 from the result (8 - 2 = 6)
+Therefore, the number of Bennett's brothers is 6.
+
+Answer: 6

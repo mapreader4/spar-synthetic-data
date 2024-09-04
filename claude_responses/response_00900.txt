@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 2 busy squirrels that have been stockpiling 30 nuts per day each
+* There is 1 sleepy squirrel that has been stockpiling 20 nuts per day
+* This has been going on for 40 days
+
+First, let's calculate the total number of nuts stockpiled by the 2 busy squirrels:
+* 2 squirrels x 30 nuts/day x 40 days = 2,400 nuts
+
+Next, let's calculate the total number of nuts stockpiled by the 1 sleepy squirrel:
+* 1 squirrel x 20 nuts/day x 40 days = 800 nuts
+
+Finally, to get the total number of nuts in Mason's car, we add the two amounts together:
+* 2,400 nuts + 800 nuts = 3,200 nuts
+
+Answer: 3,200

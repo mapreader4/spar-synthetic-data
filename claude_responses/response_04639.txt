@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* John scores 2 shots worth 2 points and 1 shot worth 3 points every 4 minutes
+* Each period is 12 minutes
+* He plays for 2 periods
+
+First, let's calculate how many sets of 4 minutes are in 12 minutes:
+* 12 minutes / 4 minutes per set = 3 sets per period
+
+Now, let's calculate the points scored per period:
+* 2 shots worth 2 points each = 4 points
+* 1 shot worth 3 points = 3 points
+* Total points per 4 minute set = 4 + 3 = 7 points
+* Points scored per period = 7 points x 3 sets = 21 points
+
+Finally, since he plays for 2 periods, the total points scored is:
+* 21 points per period x 2 periods = 42 points
+
+Answer: 42

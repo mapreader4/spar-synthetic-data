@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The cattle breeder owns 52 dairy cows
+* Each cow gives 1000 oz of milk per day
+* To calculate the amount of milk produced per week, we need to:
+1. Calculate the total amount of milk produced per day by all 52 cows
+2. Multiply the daily milk production by the number of days in a week (7)
+
+Step 1: Total milk produced per day
+* Each cow gives 1000 oz of milk per day
+* There are 52 cows
+* Total milk produced per day = 52 cows x 1000 oz/cow = 52,000 oz
+
+Step 2: Total milk produced per week
+* Total milk produced per day = 52,000 oz
+* There are 7 days in a week
+* Total milk produced per week = 52,000 oz/day x 7 days = 364,000 oz
+
+Answer: 364,000 oz

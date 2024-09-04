@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Bart receives $0.2 for every question he answers in the survey.
+2. Each survey has 10 questions.
+3. On Monday, he finished 3 surveys.
+   * 3 surveys x 10 questions per survey = 30 questions answered
+   * 30 questions answered x $0.2 per question = $6 earned on Monday
+4. On Tuesday, he finished 4 surveys.
+   * 4 surveys x 10 questions per survey = 40 questions answered
+   * 40 questions answered x $0.2 per question = $8 earned on Tuesday
+5. To calculate the total amount of money he earned during the two days:
+   * $6 (Monday) + $8 (Tuesday) = $14
+
+Answer: 14

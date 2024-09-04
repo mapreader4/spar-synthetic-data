@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Martha received 40 turtles.
+2) Marion received 20 more turtles than Martha.
+3) To find how many turtles Marion received, we add 20 to the number of turtles Martha received:
+   * Marion's turtles = Martha's turtles + 20
+   * Marion's turtles = 40 + 20 = 60 turtles
+4) To find the total number of turtles they received together, we add Martha's turtles and Marion's turtles:
+   * Total turtles = Martha's turtles + Marion's turtles
+   * Total turtles = 40 + 60 = 100 turtles
+
+Answer: 100

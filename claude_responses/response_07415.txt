@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Let's say the time it took Dad to vacuum downstairs is x minutes.
+* Then, the time it took Dad to vacuum upstairs is 2x + 5 minutes.
+* The total time Dad spent vacuuming is 38 minutes.
+* So, we can write the equation:
+x + (2x + 5) = 38
+* Solving for x:
+3x + 5 = 38
+3x = 33
+x = 11
+* Therefore, the time it took Dad to vacuum downstairs is 11 minutes.
+* And the time it took Dad to vacuum upstairs is 2(11) + 5 = 27 minutes.
+
+Answer: 27 minutes.

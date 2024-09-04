@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) John can read a book 60% faster than his brother.
+2) His brother takes 8 hours to read a book.
+3) We want to find how long it would take John to read 3 books.
+
+First, let's calculate how long it takes John to read one book:
+* If his brother takes 8 hours to read a book, and John is 60% faster, that means John takes 40% less time to read a book.
+* 40% of 8 hours is 3.2 hours.
+* So, John takes 8 hours - 3.2 hours = 4.8 hours to read one book.
+
+Now, to find how long it takes John to read 3 books:
+* John takes 4.8 hours to read one book.
+* To read 3 books, it would take John 3 * 4.8 hours = 14.4 hours.
+
+Answer: 14 hours.

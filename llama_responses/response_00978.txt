@@ -1,0 +1,17 @@
+Let's start by identifying the total number of worker ants. We know that half of the ants are worker ants, so we can set up an equation to represent the total number of worker ants. Let's call the total number of worker ants "x".
+
+We know that 20 percent of the worker ants are male, so we can set up an equation to represent the total number of worker ants as follows:
+
+x = 0.2x
+
+We are given that there are 110 ants in the ant farm. We can set up an equation to represent the total number of worker ants as follows:
+
+0.2x = 110
+
+To solve for the number of female worker ants, we can multiply both sides of the equation by 2, since we are finding the number of worker ants. This is because the fraction is a ratio of 0.2, which is the same as 20 percent.
+
+0.2x * 2 = 110 * 2
+
+0.4x = 220
+
+So, the number of female worker ants is 220.

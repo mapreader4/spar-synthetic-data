@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Gondor earns $10 for each phone he repairs
+* He repaired 3 phones on Monday and 5 phones on Tuesday, so that's a total of 8 phones
+* 8 phones x $10 per phone = $80 earned from phones
+* Gondor earns $20 for each laptop he repairs
+* He repaired 2 laptops on Wednesday and 4 laptops on Thursday, so that's a total of 6 laptops
+* 6 laptops x $20 per laptop = $120 earned from laptops
+* To calculate the total amount Gondor earned, we add the earnings from phones and laptops:
+* $80 + $120 = $200
+
+Answer: 200

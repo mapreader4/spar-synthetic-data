@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jackson ate 10 pizza rolls
+* Jerome ate twice as many as Jackson, so Jerome ate 2 x 10 = 20 pizza rolls
+* Tyler ate one and a half times more than Jerome, so Tyler ate 1.5 x 20 = 30 pizza rolls
+* To find how many more pizza rolls Tyler ate than Jackson, we subtract Jackson's amount from Tyler's amount:
+* Tyler ate 30 pizza rolls
+* Jackson ate 10 pizza rolls
+* 30 - 10 = 20
+
+Answer: 20

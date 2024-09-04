@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of fireflies that danced initially. We are told that there were three fireflies that danced initially.
+
+Then, we are told that they were joined by four less than a dozen more fireflies. "A dozen" means 12, so we can say that the total number of fireflies that joined the three initial fireflies is 12 - 3 = 9.
+
+Now, we are told that two of the fireflies flew away. We can subtract 2 from the total number of fireflies, which is 9, to get 9 - 2 = 7.
+
+So, the number of fireflies that remained is 7.
+
+Answer: 7

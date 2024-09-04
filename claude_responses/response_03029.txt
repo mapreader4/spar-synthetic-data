@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mr. Roper cuts his lawn 15 days a month from April to September (6 months)
+* That means he cuts his lawn 15 times per month for 6 months
+* So for the 6 months from April to September, he cuts his lawn a total of 15 x 6 = 90 times
+* From October to March (6 months), he cuts his lawn 3 times per month
+* So for the 6 months from October to March, he cuts his lawn a total of 3 x 6 = 18 times
+* In total, he cuts his lawn 90 + 18 = 108 times per year
+* To get the average number of times per month, we divide the total (108) by the number of months in a year (12)
+* 108 / 12 = 9
+
+Answer: 9

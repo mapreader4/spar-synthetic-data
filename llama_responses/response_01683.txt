@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. There are 7 yellow highlighters.
+2. There are 7 more pink highlighters than yellow highlighters, which means there are 7 + 7 = 14 pink highlighters.
+3. There are 5 more blue highlighters than pink highlighters, which means there are 5 + 14 = 19 blue highlighters.
+4. To find the total number of highlighters in Carrie's desk drawer, we add up the number of yellow, pink, and blue highlighters: 7 + 14 + 19 = 40.
+
+Answer: 40

@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) James has an old printer that crumples every seventh page.
+2) The printer also blurs the ink on every third page.
+3) James is printing 42 pages.
+4) To find the number of pages that are neither crumpled nor blurred, we need to first find the number of pages that are crumpled and the number of pages that are blurred.
+5) To find the number of crumpled pages, we divide the total number of pages (42) by 7, which gives us 6 crumpled pages.
+6) To find the number of blurred pages, we divide the total number of pages (42) by 3, which gives us 14 blurred pages.
+7) Now, we need to subtract the number of crumpled pages and the number of blurred pages from the total number of pages to find the number of pages that are neither crumpled nor blurred.
+8) 42 - 6 - 14 = 22 pages that are neither crumpled nor blurred.
+
+Answer: 22

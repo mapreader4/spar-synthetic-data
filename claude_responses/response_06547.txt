@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sally sewed 4 shirts on Monday
+* Sally sewed 3 shirts on Tuesday
+* Sally sewed 2 shirts on Wednesday
+* So the total number of shirts she sewed is 4 + 3 + 2 = 9 shirts
+* Each shirt has 5 buttons
+* To find the total number of buttons, we need to multiply the total number of shirts by the number of buttons per shirt:
+* 9 shirts x 5 buttons per shirt = 45 buttons
+
+Answer: 45

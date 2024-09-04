@@ -1,0 +1,39 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate Brendan's total income for the week.
+
+Brendan makes $6/hour as a waiter, and he works 2 8-hour shifts and 1 12-hour shift. The total number of hours he works is:
+
+2 x 8 + 1 x 12 = 16 hours
+
+His total income is:
+
+16 hours x $6/hour = $96
+
+He also makes an average of $12 in tips each hour, so his total tips are:
+
+16 hours x $12/hour = $192
+
+His total income is the sum of his regular pay and his tips:
+
+$96 + $192 = $288
+
+Step 2: Calculate Brendan's taxes.
+
+Brendan is supposed to pay 20% of his income in taxes. To calculate this, we need to multiply his total income by 0.20:
+
+$288 x 0.20 = $57.60
+
+Step 3: Calculate Brendan's reported tips.
+
+Brendan is supposed to report 1/3rd of his tips to the IRS. To calculate this, we need to multiply his total tips by 0.33:
+
+$192 x 0.33 = $63.36
+
+Step 4: Calculate Brendan's total taxes.
+
+Brendan's total taxes are the sum of his reported tips and his total income:
+
+$57.60 + $63.36 = $120.96
+
+Answer: $120.96

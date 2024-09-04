@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The president has raised $10,000 in campaign funds
+* His friends raised 40% of this amount
+* To calculate 40% of $10,000:
+    - 40% of $10,000 = 0.4 * $10,000 = $4,000
+* The remaining amount after the friends' contribution is:
+    - $10,000 - $4,000 = $6,000
+* His family raised 30% of the remaining $6,000
+* To calculate 30% of $6,000:
+    - 30% of $6,000 = 0.3 * $6,000 = $1,800
+* The remaining amount after the family's contribution is:
+    - $6,000 - $1,800 = $4,200
+* This remaining $4,200 is the amount the president saved for the presidency.
+
+Answer: $4,200

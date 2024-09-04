@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Lake Crystal has 20% fewer frogs than Lassie Lake. This means that the difference between the number of frogs in Lake Crystal and Lassie Lake is 20.
+
+We know that Lassie Lake has 45 frogs. To find the number of frogs in Lake Crystal, we can set up an equation:
+
+Let x be the number of frogs in Lake Crystal.
+
+We know that the difference between the number of frogs in Lake Crystal and Lassie Lake is 20, so we can set up an equation:
+
+x - 45 = 20
+
+To solve for x, we can subtract 45 from both sides of the equation:
+
+x = 45 - 20
+x = 25
+
+So, there are 25 frogs in Lake Crystal.
+
+To find the total number of frogs in both lakes, we can add the number of frogs in Lake Crystal (25) to the number of frogs in Lassie Lake (45):
+
+25 + 45 = 70
+
+Answer: 70

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Mark started with 14 buttons.
+
+Shane gave him 3 times that amount of buttons, which means Mark got 14 * 3 = 42 buttons.
+
+Then, Sam asked for half of Mark's buttons. So, we need to find half of 42.
+
+Half of 42 is 42 / 2 = 21.
+
+So, after giving away 21 buttons to Sam, Mark would have 14 + 21 = 35 buttons left.
+
+Answer: 35

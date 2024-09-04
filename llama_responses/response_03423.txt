@@ -1,0 +1,5 @@
+Let's start by identifying the number of chickens in the run. There are twice as many chickens in the run as there are in the coop. So, if there are 14 chickens in the coop, there are 2 * 14 = 28 chickens in the run.
+
+Since there are 4 less chickens free ranging as in the run, we need to subtract 4 from 28. 28 - 4 = 24.
+
+Answer: 24

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the total number of berries is 42. Let's also say that half of the berries are raspberries, which is 21 berries. This is because 21 is half of 42.
+
+Let's say the number of blackberries is a third of the total berries, which is 14 berries. This is because 14 is a third of 42.
+
+Now, we can subtract the number of raspberries and blackberries from the total number of berries to find the number of blueberries. We can subtract 21 + 14 from 42 to get the number of blueberries.
+
+21 + 14 = 35.
+
+So, the number of blueberries is 35.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1. There are 4 people total (Bret and his 3 co-workers)
+2. Each main meal costs $12.00
+3. They ordered 4 main meals, so the total cost of the main meals is 4 * $12.00 = $48.00
+4. They also ordered 2 appetizers at $6.00 each, so the total cost of the appetizers is 2 * $6.00 = $12.00
+5. The total cost of the food is $48.00 + $12.00 = $60.00
+6. They added a 20% tip, which is 0.20 * $60.00 = $12.00
+7. They also added an extra $5.00 for a rush order
+8. The total amount Bret spent on dinner is $60.00 + $12.00 + $5.00 = $77.00
+
+Answer: $77

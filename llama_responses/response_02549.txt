@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total amount of iron needed for the farms and stables. There are 2 farms with 2 horses each, so that's 4 horses. Each horse needs 4 horseshoes, so the farms need 4 x 4 = 16 horseshoes. Each horseshoe needs 2kg of iron, so the farms need 16 x 2 = 32kg of iron.
+
+There are 2 stables with 5 horses each, so that's 10 horses. Each horse needs 4 horseshoes, so the stables need 10 x 4 = 40 horseshoes. Each horseshoe needs 2kg of iron, so the stables need 40 x 2 = 80kg of iron.
+
+In total, the farms and stables need 32kg + 80kg = 112kg of iron.
+
+The blacksmith has 400kg of iron initially, so after making horseshoes for the farms and stables, he will have 400kg - 112kg = 288kg of iron left.
+
+Now, let's calculate how many horseshoes the blacksmith can make with the remaining 288kg of iron. Each horseshoe needs 2kg of iron, so the blacksmith can make 288kg / 2kg = 144 horseshoes.
+
+The riding school has an unknown number of horses, but the blacksmith promises to give them however many horseshoes he has left. Since the blacksmith has 144 horseshoes left, the riding school will get 144 horseshoes.
+
+Since each horseshoe needs 2kg of iron, the riding school will get 144 horseshoes / 2kg = 72kg of iron.
+
+The riding school has 72kg of iron, which is enough to make 72kg / 2kg = 36 horseshoes. Since each horse needs 4 horseshoes, the riding school will have enough horseshoes for 36 horseshoes / 4 = 9 horses.
+
+Answer: 9

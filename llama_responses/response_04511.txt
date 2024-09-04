@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. Gerald brings 7 bars of chocolate, and his teacher says that for every bar he brings, she will bring 2 more identical ones. So, in total, the teacher will bring 7 + 2*7 = 21 bars.
+2. The 21 bars will be shared among 24 students. To find out how many squares each student gets, we can divide the total number of bars by the number of students: 21 / 24 = 0.875.
+3. Since there are 8 squares per bar, each student gets 0.875 * 8 = 7 squares. So, the answer is 7.
+
+Answer: 7

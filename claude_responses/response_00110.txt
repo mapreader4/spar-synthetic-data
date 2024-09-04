@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The candy bars cost $2 each.
+2) Marvin sold 35 candy bars in total.
+3) Tina sold three times the number of candy bars as Marvin.
+   * Marvin sold 35 candy bars, so Tina sold 3 x 35 = 105 candy bars.
+4) To calculate the money made by each person:
+   * Marvin made: 35 candy bars x $2 per candy bar = $70
+   * Tina made: 105 candy bars x $2 per candy bar = $210
+5) To calculate the difference in money made:
+   * Tina made $210, Marvin made $70
+   * $210 - $70 = $140
+
+Answer: $140

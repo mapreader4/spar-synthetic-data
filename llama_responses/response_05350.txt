@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of orange marbles Katie has. We know that she has 9 fewer orange marbles than pink marbles. So, we can say that the number of orange marbles is 13 - 9, which is equal to 4.
+
+Since Katie has 4 times as many purple marbles as orange marbles, we can say that the number of purple marbles is 4 times the number of orange marbles. So, the number of purple marbles is 4 * 4, which is equal to 16.
+
+To find the total number of marbles Katie has, we add the number of pink marbles, orange marbles, and purple marbles. So, the total number of marbles is 13 + 4 + 16, which is equal to 33.
+
+Answer: 33.

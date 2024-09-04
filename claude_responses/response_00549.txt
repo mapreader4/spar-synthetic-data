@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Kenzo has 80 office chairs, each with 5 legs. So the total number of legs for the chairs is:
+   80 chairs x 5 legs per chair = 400 legs
+
+2. Kenzo has 20 round tables, each with 3 legs. So the total number of legs for the tables is:
+   20 tables x 3 legs per table = 60 legs
+
+3. The total number of legs for all the furniture is the sum of the chair legs and the table legs:
+   400 legs + 60 legs = 460 legs
+
+4. After a month, 40% of the chairs are damaged and have to be disposed of. That means 40% of the 80 chairs, which is 32 chairs, will be removed.
+   80 chairs - 32 damaged chairs = 48 chairs remaining
+
+5. The number of legs for the remaining 48 chairs is:
+   48 chairs x 5 legs per chair = 240 legs
+
+6. The total number of legs of furniture Kenzo has remaining in his company is the number of legs for the remaining chairs plus the number of legs for the tables:
+   240 legs + 60 legs = 300 legs
+
+Answer: 300

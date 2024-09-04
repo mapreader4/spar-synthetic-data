@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Hartley has 4 puppies, and each puppy weighs 7.5 kilograms.
+   * To find the total weight of the puppies, we multiply the number of puppies (4) by the weight of each puppy (7.5 kilograms).
+   * 4 puppies x 7.5 kilograms = 30 kilograms
+
+2. The rescue center has 14 cats, and each cat weighs 2.5 kilograms.
+   * To find the total weight of the cats, we multiply the number of cats (14) by the weight of each cat (2.5 kilograms).
+   * 14 cats x 2.5 kilograms = 35 kilograms
+
+3. To find the difference in weight between the cats and the puppies, we subtract the total weight of the puppies from the total weight of the cats.
+   * 35 kilograms (cats) - 30 kilograms (puppies) = 5 kilograms
+
+Answer: 5 kilograms

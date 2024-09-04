@@ -1,0 +1,20 @@
+To solve this problem, I will break it down step by step.
+
+First, I will calculate the total time spent driving, which is the total distance divided by the speed:
+
+Total distance = 480 miles
+Speed = 60 mph
+
+Total time spent driving = Total distance / Speed = 480 miles / 60 mph = 8 hours
+
+Next, I will add the time spent on breaks:
+
+Time spent driving = 8 hours
+Time spent on lunch break = 30 minutes = 0.5 hours
+Time spent on bathroom breaks = 2 x 15 minutes = 30 minutes = 0.5 hours
+
+Total time taken = Time spent driving + Time spent on lunch break + Time spent on bathroom breaks = 8 hours + 0.5 hours + 0.5 hours = 9 hours
+
+So, the total time taken for the trip is 9 hours.
+
+Answer: 9

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The parking lot has 425 total parking spaces
+* The parking lot has 5 levels, each of the same size
+* To find how many cars can fit on each level, we divide the total number of parking spaces by the number of levels:
+* 425 parking spaces / 5 levels = 85 parking spaces per level
+* There are already 23 cars parked on one of the levels
+* To find how many more cars can fit on that level, we subtract the 23 cars already parked from the 85 total parking spaces per level:
+* 85 parking spaces per level - 23 cars already parked = 62 more cars that can fit on that level
+
+Answer: 62

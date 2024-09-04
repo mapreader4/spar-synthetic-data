@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jimmy bought 3 pens at $1 each, so the total cost of the pens is 3 x $1 = $3
+* He also bought 4 notebooks at $3 each, so the total cost of the notebooks is 4 x $3 = $12
+* Finally, he bought 2 folders at $5 each, so the total cost of the folders is 2 x $5 = $10
+* To calculate the total cost of all the items, we add up the costs of the pens, notebooks, and folders:
+$3 + $12 + $10 = $25
+* Jimmy paid with a $50 bill, so the amount of change he will get back is $50 - $25 = $25
+
+Answer: $25

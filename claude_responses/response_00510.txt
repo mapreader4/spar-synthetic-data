@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The pie shop charges $3 per slice of custard pie
+* Each whole pie is cut into 10 slices
+* The pie shop makes 6 whole custard pies
+
+To calculate the total money the pie shop will earn, we need to:
+1. Calculate the total number of slices made from the 6 whole pies:
+   * 6 pies x 10 slices per pie = 60 slices
+2. Multiply the number of slices by the price per slice to get the total earnings:
+   * 60 slices x $3 per slice = $180
+
+Answer: $180

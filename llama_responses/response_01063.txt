@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of sugar needed to make the cake and cupcakes. The problem states that each layer of cake takes the same amount of sugar as a dozen cupcakes. There are 12 cupcakes, and the cake is made of multiple layers. Since each layer takes the same amount of sugar, we can assume that the total amount of sugar needed for the cake is the same as the amount of sugar needed for 12 cupcakes.
+
+The problem states that Nina used 720 grams of sugar to bake everything. So, the amount of sugar needed for the cake is also 720 grams.
+
+Since each layer of cake takes the same amount of sugar as a dozen cupcakes, we can set up an equation to find the amount of sugar needed for one cupcake. Let's call the amount of sugar needed for one cupcake "x".
+
+The equation is: x + x + x + x + x +... + x = 720. Since there are 12 layers, we need to add the same amount of sugar 12 times. So, we can simplify the equation to: 12x = 720.
+
+To solve for x, we can divide both sides by 12: 12x / 12 = 720 / 12 = 60.
+
+Answer: 60

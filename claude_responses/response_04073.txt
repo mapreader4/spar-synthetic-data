@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The first tree has 20 apples, and 40% of them are red, while 60% are green.
+   * Red apples from the first tree: 20 * 0.40 = 8 red apples
+   * Green apples from the first tree: 20 * 0.60 = 12 green apples
+
+2. The second tree also has 20 apples, and 50% of them are red, while 50% are green.
+   * Red apples from the second tree: 20 * 0.50 = 10 red apples
+   * Green apples from the second tree: 20 * 0.50 = 10 green apples
+
+3. To find the total number of red apples, we add the red apples from both trees:
+   * Total red apples = 8 + 10 = 18 red apples
+
+Answer: 18

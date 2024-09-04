@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Herman stops at the drive-through 5 days a week
+* Each time, he buys a breakfast combo for himself and 3 members of his team
+* Each meal costs $4.00
+* The current project will last 16 weeks
+
+To calculate the total amount Herman will spend on breakfast, we need to:
+1. Calculate the cost of breakfast per day
+2. Multiply the daily cost by the number of days per week
+3. Multiply the weekly cost by the number of weeks
+
+1. Cost of breakfast per day:
+   * 4 meals at $4.00 each = $16.00 per day
+
+2. Cost of breakfast per week:
+   * 5 days per week x $16.00 per day = $80.00 per week
+
+3. Cost of breakfast for the entire project:
+   * 16 weeks x $80.00 per week = $1,280.00
+
+Answer: $1,280

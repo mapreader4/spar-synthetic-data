@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. Polly is happy for 20 minutes, so she tweets 18 times per minute. For 20 minutes, that's:
+
+20 minutes * 18 tweets per minute = 360 tweets
+
+2. Polly is hungry for 20 minutes, so she tweets 4 times per minute. For 20 minutes, that's:
+
+20 minutes * 4 tweets per minute = 80 tweets
+
+3. Polly watches her reflection for 20 minutes, so she tweets 45 times per minute. For 20 minutes, that's:
+
+20 minutes * 45 tweets per minute = 900 tweets
+
+To find the total number of tweets, we add up the tweets from each period:
+
+360 (happy) + 80 (hungry) + 900 (reflection) = 1340
+
+Answer: 1340

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Jim starts with $80 in his investment portfolio.
+2. After 1 year, the portfolio grows by 15%. 
+   * 15% of $80 is $12 (0.15 x $80 = $12)
+   * So the new portfolio value is $80 + $12 = $92
+
+3. Jim then adds another $28 to his portfolio.
+   * The new portfolio value is $92 + $28 = $120
+
+4. After 1 more year, the combined portfolio grows by 10%.
+   * 10% of $120 is $12 (0.10 x $120 = $12)
+   * So the final portfolio value is $120 + $12 = $132
+
+Answer: $132

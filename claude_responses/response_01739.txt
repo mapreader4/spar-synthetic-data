@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The cost to rent a school bus is $100
+* The cost of admission is $10 per student
+* The teacher is allowed in for free
+* The class has a budget of $350
+
+First, we need to subtract the cost of the school bus rental from the total budget:
+* $350 - $100 = $250 remaining
+
+Now, we need to determine how many students can be admitted with the remaining $250 budget.
+* The cost of admission is $10 per student
+* $250 / $10 per student = 25 students
+
+Therefore, the number of students who can go on the field trip is 25.
+
+Answer: 25

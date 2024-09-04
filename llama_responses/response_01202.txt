@@ -1,0 +1,39 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total monthly cost of the first apartment. The rent is $800 per month, and the utilities are an additional $260 per month, so the total cost of the first apartment is:
+
+$800 + $260 = $1060 per month
+
+Next, let's calculate the total monthly cost of the first apartment after factoring in driving-related costs. The man would have to drive 31 miles per day, 20 days a month, which is a total of:
+
+31 miles/day x 20 days/month = 620 miles per month
+
+The cost of driving these miles is:
+
+620 miles x 58 cents/mile = $359.80 per month
+
+So, the total monthly cost of the first apartment, including utilities and driving-related costs, is:
+
+$1060 + $359.80 = $1419.80 per month
+
+Now, let's do the same calculation for the second apartment. The rent is $900 per month, and the utilities are an additional $200 per month, so the total cost of the second apartment is:
+
+$900 + $200 = $1100 per month
+
+The man would have to drive 21 miles per day, 20 days a month, which is a total of:
+
+21 miles/day x 20 days/month = 420 miles per month
+
+The cost of driving these miles is:
+
+420 miles x 58 cents/mile = $243.60 per month
+
+So, the total monthly cost of the second apartment, including utilities and driving-related costs, is:
+
+$1100 + $243.60 = $1343.60 per month
+
+Now, let's calculate the difference between the total monthly costs of the two apartments:
+
+$1419.80 - $1343.60 = $76.20
+
+Answer: 76

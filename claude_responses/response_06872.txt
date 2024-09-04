@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Mary's goal is to drink 1.5 liters of water per day
+* 1 liter = 1000 mL
+* So Mary's goal is to drink 1.5 * 1000 = 1500 mL of water per day
+* Mary's glasses hold 250 mL of water
+* To calculate how many glasses Mary needs to drink to reach her goal, we divide the total amount of water (1500 mL) by the amount of water per glass (250 mL)
+* 1500 mL / 250 mL = 6 glasses
+
+Answer: 6 glasses

@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* The bulk price of honey is $5 per pound
+* The minimum spend before tax is $40
+* The honey is taxed at $1 per pound
+* Penny has paid $240 for honey
+
+First, we need to calculate the total cost of Penny's purchase, including the tax:
+* Total cost = $240
+
+Next, we need to calculate the cost of the honey before tax:
+* Cost of honey before tax = Total cost - Tax
+* Tax = $1 per pound
+* Cost of honey before tax = $240 - (Total pounds * $1)
+
+Now, we can solve for the total pounds of honey Penny purchased:
+* Cost of honey before tax = $5 per pound * Total pounds
+* $240 - (Total pounds * $1) = $5 * Total pounds
+* $240 - Total pounds = $5 * Total pounds
+* $240 = $6 * Total pounds
+* Total pounds = $240 / $6
+* Total pounds = 40
+
+Finally, we can calculate how many pounds Penny's purchase exceeded the minimum spend:
+* Minimum spend before tax = $40
+* Minimum spend in pounds = $40 / $5 = 8 pounds
+* Penny's purchase exceeded the minimum spend by 40 - 8 = 32 pounds
+
+Answer: 32 pounds

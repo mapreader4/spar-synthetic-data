@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+If the spider can catch 9 flies in 5 hours, that means that the spider catches 9 / 5 = 1.8 flies per hour.
+
+If the spider keeps this efficiency, it will catch the same number of flies in 30 hours. So, the total number of flies it would catch in 30 hours is 1.8 * 30 = 54 flies.
+
+Answer: 54

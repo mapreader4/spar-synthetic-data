@@ -1,0 +1,15 @@
+Let's solve this problem step by step.
+
+Let's first find the total amount of centimeters that fell on Mondays.
+
+The amount of centimeters that fell on Mondays is 7 * 1.5 = 7.5.
+
+Now, let's find the total amount of centimeters that fell on Tuesdays.
+
+The amount of centimeters that fell on Tuesdays is 9 * 2.5 = 22.5.
+
+Now, we need to find the difference between the total amount of centimeters that fell on Tuesdays and the total amount of centimeters that fell on Mondays.
+
+The difference is 22.5 - 7.5 = 15.
+
+Answer: 15

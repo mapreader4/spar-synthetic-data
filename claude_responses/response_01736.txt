@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) The box contains 12 chocolate bars.
+2) The bars are shared equally between Mike, Rita, and Anita.
+3) To find the number of bars that Mike and Rita get combined, we need to find the number of bars each person gets.
+4) Since the bars are shared equally, each person gets 12 / 3 = 4 bars.
+5) Therefore, Mike and Rita get 4 bars each, so combined they get 4 + 4 = 8 bars.
+
+Answer: 8

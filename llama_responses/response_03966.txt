@@ -1,0 +1,13 @@
+Let's break this down step by step:
+
+Let's start by identifying the total number of pieces of clothing in Luther's latest line. According to the problem, this is given as 13.
+
+Next, we know that half of these 13 pieces are made with cashmere. To find the number of pieces made with cashmere, we can multiply the total number of pieces by 0.5:
+
+13 * 0.5 = 6.5
+
+Since we can't have a fraction of a piece of clothing, we can round down to the nearest whole number, which is 6.
+
+Therefore, 6 pieces of clothing use a blend of cashmere and silk.
+
+Answer: 6

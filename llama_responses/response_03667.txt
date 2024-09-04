@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say the number of pages Juwella read three nights ago is x.
+
+Since she read 15 pages three nights ago, we know that x = 15.
+
+Two nights ago, she read twice as many pages, so she read 15 * 2 = 30 pages.
+
+Last night, she read 5 pages more than the previous night, so she read 30 + 5 = 35 pages.
+
+We know that the total number of pages she read is 15 + 30 + 35 = 80 pages.
+
+The book has 100 pages in total. To find out how many pages she will read tonight, we subtract the total number of pages she read so far from the total number of pages: 100 - 80 = 20.
+
+Answer: 20

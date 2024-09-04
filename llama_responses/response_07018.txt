@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Elvis makes 4-matchstick squares, which means he uses 4*4 = 16 matchsticks. Ralph makes 8-matchstick squares, which means he uses 8*8 = 64 matchsticks. If they both make 5 squares and 3 squares, then the total number of matchsticks used is 5*4 + 3*8 = 20 + 24 = 44.
+
+The total number of matchsticks used is 44. Since there are 50 matchsticks in the box initially, the number of matchsticks left is 50 - 44 = 6.
+
+Answer: 6.

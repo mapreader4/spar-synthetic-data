@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Isabel and her mom picked a total of 34 apples
+* Each apple pie requires 4 apples
+* 6 of the 34 apples they picked are not ripe, so they can't be used for the pies
+* To find the number of pies they can make, we need to first find the number of ripe apples they have
+* The number of ripe apples is 34 - 6 = 28 apples
+* Each pie requires 4 apples, so the number of pies they can make is 28 / 4 = 7 pies
+
+Answer: 7

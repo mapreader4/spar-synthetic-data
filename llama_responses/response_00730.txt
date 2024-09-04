@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Jack bought 3 books a month at $20 each, so he spent 3 * $20 = $60 per month.  In one year, there are 12 months, so he spent 12 * $60 = $720.  At the end of the year, he sold the books back for $500.  So, to find out how much he lost, we need to subtract the selling price from the total cost.
+
+Cost = 720 - 500 =?
+
+Answer: -220

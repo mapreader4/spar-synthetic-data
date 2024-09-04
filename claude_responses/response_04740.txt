@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* 3 boys each make 12 muffins
+* So the total muffins made by the 3 boys is:
+  - 3 boys x 12 muffins each = 36 muffins
+* 2 girls are making 20 muffins each
+* So the total muffins made by the 2 girls is:
+  - 2 girls x 20 muffins each = 40 muffins
+* To get the total muffins for sale, we add the muffins made by the boys and the girls:
+  - 36 muffins + 40 muffins = 76 muffins
+
+Answer: 76

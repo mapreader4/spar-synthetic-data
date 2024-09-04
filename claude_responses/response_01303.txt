@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, Terry spent $6 for breakfast.
+2. On Tuesday, Terry spent twice as much as he did on Monday, which is 2 x $6 = $12.
+3. On Wednesday, Terry spent double what he did the previous two days combined. 
+   - The previous two days, he spent $6 + $12 = $18.
+   - Double that is 2 x $18 = $36.
+4. To calculate the total amount Terry spent, we add up the amounts from each day:
+   - Monday: $6
+   - Tuesday: $12
+   - Wednesday: $36
+   - Total: $6 + $12 + $36 = $54
+
+Answer: 54

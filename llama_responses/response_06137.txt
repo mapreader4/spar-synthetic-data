@@ -1,0 +1,12 @@
+Let's break down the problem step by step.
+
+1. There are 3 red cars and 2 white cars available for rent.
+2. The red cars cost $3 for every minute, and the white cars cost $2 for every minute.
+3. The cars were rented for 3 hours.
+4. To find out how much Lori earned, we need to multiply the cost per minute by the number of minutes.
+5. For the red cars, the cost is 3 * 60 = 180.
+6. For the white cars, the cost is 2 * 60 = 120.
+7. Add the costs for the red and white cars together: 180 + 120 = 300.
+8. The total cost is 300.
+
+Answer: 300

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total size of the files in megabits. We have 80 megabits, 90 megabits, and 70 megabits. To find the total, we add these numbers together:
+
+80 + 90 + 70 = 240 megabits
+
+Now, Cortney's internet speed is 2 megabits per minute. To find the number of minutes it will take to download the files, we can divide the total size of the files by her internet speed:
+
+240 megabits (total size) / 2 megabits (internet speed) = 120 minutes
+
+Since we want to find the number of hours, we can divide the number of minutes by 60 (since there are 60 minutes in an hour):
+
+120 minutes / 60 = 2 hours
+
+Answer: 2

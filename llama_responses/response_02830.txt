@@ -1,0 +1,18 @@
+Let's break down the problem step by step.
+
+Derek puts $2 away in January, so he has $2 left.
+In February, he puts $4 away, so he has $6 left.
+In March, he puts $8 away, so he has $14 left.
+In April, he puts $16 away, so he has $30 left.
+In May, he follows this pattern, so he will put $32 away, leaving him with $2.
+In June, he will put $40 away, leaving him with $42.
+In July, he will put $48 away, leaving him with $26.
+In August, he will put $56 away, leaving him with $22.
+In September, he will put $64 away, leaving him with $14.
+In October, he will put $72 away, leaving him with $14.
+In November, he will put $80 away, leaving him with $6.
+In December, he will put $96 away, leaving him with $10.
+
+Derek started with $100, and after putting $2, $4, $8, $16, $32, $40, $48, $56, $64, $72, and $80 away, he will have $10 left.
+
+Answer: 10

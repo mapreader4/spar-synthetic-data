@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The sandwich was normally $8
+* Luca had a coupon for a quarter (25%) of the price off
+* So the discounted price of the sandwich was $8 - (0.25 * $8) = $8 - $2 = $6
+* He then added sliced avocado for an extra $1
+* So the total cost of the sandwich was $6 + $1 = $7
+* He also added a $3 salad
+* The total of the sandwich and salad was $7 + $3 = $10
+* The total lunch bill was $12
+* So the cost of the drink must have been $12 - $10 = $2
+
+Answer: $2

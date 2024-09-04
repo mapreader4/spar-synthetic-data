@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Spam costs $3 per can
+* Granger bought 12 cans of spam
+* So, the total cost of the spam is 12 cans x $3 per can = $36
+
+* Peanut butter costs $5 per jar
+* Granger bought 3 jars of peanut butter
+* So, the total cost of the peanut butter is 3 jars x $5 per jar = $15
+
+* Bread costs $2 per loaf
+* Granger bought 4 loaves of bread
+* So, the total cost of the bread is 4 loaves x $2 per loaf = $8
+
+Now, to calculate the total amount Granger paid, we add up the costs of the spam, peanut butter, and bread:
+$36 + $15 + $8 = $59
+
+Answer: 59

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. On Tuesday, 25 cars pass through Happy Street.
+2. On Monday, there are 20% fewer cars than on Tuesday. 20% of 25 is 5, so 25 - 5 = 20 cars on Monday.
+3. On Wednesday, there are 2 more cars than on Monday, so 20 + 2 = 22 cars on Wednesday.
+4. On Thursday and Friday, there are 10 cars each day, so 10 + 10 = 20 cars.
+5. On the weekend, there are 5 cars per day, so 5 + 5 = 10 cars.
+
+Now, let's add up the total number of cars that travel down Happy Street from Monday through Sunday:
+20 + 25 + 22 + 10 + 10 = 87 cars.
+
+Answer: 87

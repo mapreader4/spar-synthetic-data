@@ -1,0 +1,9 @@
+Let's start by identifying the total amount of money collected from the attendees. Since each attendee paid $100, and there were 50 attendees, the total amount collected would be:
+
+50 * 100 = 5000
+
+Now, since the total expenses were $500 less than the total contributions, the actual total expenses must be:
+
+5000 - 500 = 4500
+
+So, the amount used to pay for the party expenses is 4500.

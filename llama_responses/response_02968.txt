@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first figure out how much money John makes in 1 month. Since he makes 3/4's the salary that Karen makes, and Karen makes $3000 in 1 month, we can set up an equation to solve for how much John makes in 1 month:
+
+John's salary = 3/4 * Karen's salary
+John's salary = 3/4 * $3000
+John's salary = 2250
+
+So John makes $2250 in 1 month.
+
+To find out how many months it will take John to make the same amount of money that Karen does in 3 months, we can divide 2250 (John's salary) by 3:
+
+2250 / 3 = 750
+
+So it will take John 3 months to make the same amount of money that Karen does in 3 months.

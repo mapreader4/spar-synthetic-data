@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. The video has 3000 likes, and it has 100 more than half as many dislikes. So, if the number of likes is 3000, the number of dislikes is 1500 (half of 3000 is 1500).
+2. If the video gets 1000 more dislikes and 0 more likes, the number of dislikes will increase by 1000. So, the new number of dislikes is 1600 (1500 + 1000).
+3. So, the total number of dislikes is 1600.
+
+Answer: 1600

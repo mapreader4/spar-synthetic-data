@@ -1,0 +1,21 @@
+Let's start by identifying the information given in the problem. We know that the number of whales in the sea this year is double what it was last year. This means that if x is the number of whales last year, then the number of whales this year is 2x.
+
+We are also given that the number of whales in the sea next year will be 800 more than this year. This means that the number of whales next year is 2x + 800.
+
+We know that the number of whales last year was 4000. So, we can set up the equation as follows:
+
+2x = 4000.
+
+We can solve for x by dividing both sides of the equation by 2, which gives us:
+
+x = 4000 / 2 = 2000.
+
+So, the number of whales last year was 2000.
+
+Now, we know that the number of whales next year is 2x + 800. We can substitute x with 2000, since x = 2000:
+
+2(2000) = 4000 + 800.
+
+The total number of whales in the sea next year is 4000 + 800 = 4800.
+
+Answer: 4800

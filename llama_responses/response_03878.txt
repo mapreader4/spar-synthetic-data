@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of candy bars sold. Each member sold an average of 8 candy bars, and there are 20 members in the group. So, the total number of candy bars sold is:
+
+20 members * 8 candy bars per member = 160 candy bars.
+
+Now, each candy bar costs $0.50. So, the total amount of money earned is:
+
+160 candy bars * $0.50 per candy bar = 80 dollars.
+
+So, the answer is: Answer: 80

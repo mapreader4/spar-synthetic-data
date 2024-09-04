@@ -1,0 +1,8 @@
+Let's break down the problem step by step:
+
+1. Mr. Benson bought 12 tickets, which is 12 x 1 = 12.
+2. He received a 5% discount for every ticket bought that exceeds 10, which means that for 10 tickets, he got 10 x 5% = 50 dollars off. But he bought 12 tickets, so the number of tickets exceeding 10 is 12 - 10 = 2.
+3. So, he got 2 x 5% = 10 dollars off, which is 20 dollars.
+4. So, the total price for the tickets is 40 - 20 = 20 dollars.
+
+Answer: 20

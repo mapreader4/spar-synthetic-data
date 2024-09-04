@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the number of chocolates Wendy can package in 1 minute. We know that Wendy can package 2 dozen chocolates in 5 minutes. Since there are 60 minutes in 5 minutes, we can find the number of chocolates Wendy can package in 1 minute by dividing 60 by 5. 60 divided by 5 is 12. So, Wendy can package 12 chocolates in 1 minute.
+
+Now, to find the number of chocolates Wendy can package in 4 hours, we can multiply the number of chocolates she can package in 1 minute by 60. 12 chocolates in 1 minute multiplied by 60 minutes in 4 hours is 1440. So, Wendy can package 1440 chocolates in 4 hours.
+
+Answer: 1440

@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Erica catches 80 kg of fish in the past four months.
+* She catches twice as many fish as she caught in total in the past four months today.
+* She earns $20 per kg of fish.
+
+To find out how many kg of fish she caught today, we can set up an equation:
+
+Let x be the number of kg of fish caught today.
+
+Since she catches twice as many fish as she caught in total in the past four months, we can write:
+
+x = 2 * 80
+
+x = 160 kg
+
+So, Erica caught 160 kg of fish today.
+
+To find out how much money she will have earned in the past four months including today, we multiply the number of kg of fish caught by the price per kg:
+
+160 kg * $20 per kg = $3200
+
+So, Erica will have earned $3200 in the past four months including today.

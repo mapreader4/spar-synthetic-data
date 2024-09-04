@@ -1,0 +1,13 @@
+To solve this problem, let's break it down step by step.
+
+Let's first find the total number of questions. We know that 80% of the 50 questions are problem-solving questions, so we need to find 80% of 50.
+
+To find 80% of 50, we can multiply 50 by 0.8. This gives us:
+
+50 * 0.8 = 40
+
+Now, we know that the 40 questions are problem-solving questions. To find the number of multiple-choice questions, we subtract 40 from the total number of questions, 50. This gives us:
+
+50 - 40 = 10
+
+Answer: 10

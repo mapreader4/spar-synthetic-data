@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the speed of the spaceship with 200 people on board is 500 km/hr.
+
+When there are 100 more people that board the spaceship, its speed is halved. So, the speed of the spaceship with 300 people on board will be half of 500 km/hr, which is 250 km/hr.
+
+When there are 100 more people that board the spaceship, its speed is halved again. So, the speed of the spaceship with 400 people on board will be half of 250 km/hr, which is 125 km/hr.
+
+So, the answer is:
+
+Answer: 125

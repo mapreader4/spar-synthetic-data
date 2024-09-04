@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Each fence panel is made of 3 metal sheets and 2 metal beams.
+2) The fence is made of 10 fence panels.
+3) Each sheet is made of 10 metal rods.
+4) Each metal beam is made of 4 metal rods.
+
+To calculate the total number of metal rods needed for the fence, we need to:
+1) Calculate the number of metal sheets needed for the 10 fence panels:
+   * 10 fence panels x 3 sheets per panel = 30 sheets
+2) Calculate the number of metal rods needed for the 30 sheets:
+   * 30 sheets x 10 rods per sheet = 300 rods
+3) Calculate the number of metal beams needed for the 10 fence panels:
+   * 10 fence panels x 2 beams per panel = 20 beams
+4) Calculate the number of metal rods needed for the 20 beams:
+   * 20 beams x 4 rods per beam = 80 rods
+5) Add the number of rods needed for the sheets and beams:
+   * 300 rods + 80 rods = 380 rods
+
+Answer: 380

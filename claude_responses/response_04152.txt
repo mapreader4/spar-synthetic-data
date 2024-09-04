@@ -1,0 +1,19 @@
+To solve this problem, we need to calculate the total cost of each coat over a 30-year period and then find the difference between them.
+
+Given information:
+- Coat 1 costs $300 and lasts for 15 years.
+- Coat 2 costs $120 and lasts for 5 years.
+
+Step 1: Calculate the total cost of Coat 1 over 30 years.
+Number of coats needed over 30 years = 30 years / 15 years per coat = 2 coats
+Total cost of Coat 1 = 2 × $300 = $600
+
+Step 2: Calculate the total cost of Coat 2 over 30 years.
+Number of coats needed over 30 years = 30 years / 5 years per coat = 6 coats
+Total cost of Coat 2 = 6 × $120 = $720
+
+Step 3: Calculate the difference in cost between the two coats.
+Difference in cost = Total cost of Coat 2 - Total cost of Coat 1
+Difference in cost = $720 - $600 = $120
+
+Answer: $120

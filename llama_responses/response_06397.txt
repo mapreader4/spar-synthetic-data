@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the cost of hiring the first employee who works for $20 an hour.
+
+Cost of hiring the first employee = 20 * 40 = 800 dollars per week
+
+Step 2: Calculate the cost of hiring the second employee, including the government subsidy.
+
+Cost of hiring the second employee = 22 * 40 + 6 * 40 = 868 dollars per week
+
+Step 3: Calculate the difference in cost between the two employees.
+
+Difference in cost = 868 - 800 = 68 dollars per week
+
+Answer: 68

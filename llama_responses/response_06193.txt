@@ -1,0 +1,17 @@
+Let's break this down step by step:
+
+Let's start by identifying the information given in the problem:
+
+* Clinton has twice as many shoes as belts.
+* Clinton has 2 more belts than hats.
+* Clinton has 5 hats.
+
+Let's translate the first statement into an equation: "Clinton has twice as many shoes as belts." This means that if Clinton has x belts, he has 2x belts. So, if we let x be the number of belts, we can write the equation: x = 2x.
+
+The second statement tells us that Clinton has 2 more belts than hats. This means that the number of belts is 2 more than the number of hats. So, if the number of hats is y, then the number of belts is y + 2.
+
+We know that Clinton has 5 hats, so the number of hats is 5. So, we can substitute y with 5 in the equation: x = 2x = 2(5) + 2.
+
+Now, we can solve for x by subtracting 2 from both sides of the equation: 2(5) + 2 = x. This gives us: x = 10.
+
+So, Clinton has 10 shoes.

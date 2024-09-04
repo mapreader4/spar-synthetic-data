@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Nadia makes 3 mistakes per 40 notes
+* She can play about 60 notes per minute
+* She plays for 8 minutes
+
+First, let's calculate how many notes she can play in 8 minutes:
+* 60 notes per minute x 8 minutes = 480 notes
+
+Now, let's calculate the average number of mistakes she makes:
+* 3 mistakes per 40 notes
+* 480 notes / 40 notes = 12 sets of 40 notes
+* 12 sets x 3 mistakes per set = 36 mistakes
+
+Therefore, on average, Nadia will make 36 mistakes in 8 minutes of playing.
+
+Answer: 36

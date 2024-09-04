@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of electricity for the old computer. The old computer used 800 watts and the old price of electricity was 12 cents per kilowatt-hour, so the cost for the old computer was:
+
+800 watts * 12 cents/kilowatt-hour = 9.6 dollars per hour
+
+Now, we need to find the cost for the new computer. The new computer uses 50% more than the old computer, so it uses 1.2 times as much electricity. Therefore, the cost for the new computer is:
+
+1.2 * 9.6 dollars per hour = 11.52 dollars per hour
+
+Finally, to find the cost for 50 hours, we multiply the cost by 50:
+
+11.52 dollars per hour * 50 hours = 576.00 dollars
+
+Answer: 576

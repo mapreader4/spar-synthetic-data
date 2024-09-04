@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The sewers in Middleton can handle 240,000 gallons of runoff.
+* Each hour of rain produces 1000 gallons of runoff.
+
+To find the number of days of rain that the sewers can handle, we need to divide the total gallons of runoff (240,000) by the gallons of runoff per hour (1000).
+
+Let's do the division:
+
+240,000 gallons of runoff ÷ 1000 gallons per hour = 240 hours
+
+So, the answer is:
+
+Answer: 240

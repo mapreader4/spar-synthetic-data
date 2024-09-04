@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Grant sold his baseball cards for $25, which means he made $25.
+
+He got $10 for his baseball bat, so he made $10.
+
+He sold his $30 baseball glove at 20% off, which means he sold it for $30 - (20% of $30) = $24. So, he made $24.
+
+He sold both pairs of baseball cleats for $10 each, so he made $10 + $10 = $20.
+
+To find the total amount of money Grant made, we add up the amounts:
+
+$25 + $10 + $24 + $20 = $59
+
+Answer: 59

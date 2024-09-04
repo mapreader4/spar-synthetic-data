@@ -1,0 +1,15 @@
+Let's break down the problem into smaller parts.
+
+Let's start by calculating the total number of seeds from the fruits Steven has set aside:
+
+Apples: 4
+Pears: 3
+Grapes: 9
+
+Total seeds set aside: 4 + 3 + 9 = 16
+
+Steven needs to collect 60 seeds in total. To find out how many more seeds he needs, we subtract the seeds he has from the total seeds needed:
+
+60 (total seeds needed) - 16 (seeds set aside) = 44
+
+So, Steven needs 44 more seeds to fulfill his assignment.

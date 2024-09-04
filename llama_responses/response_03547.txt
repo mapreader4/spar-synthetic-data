@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of gallons of gas that each of the 2 trucks that are 8000 gallons can transport. Since there are 2 trucks that are 8000 gallons, we can multiply 2 by 8000 to get 16000 gallons.
+
+Next, we need to find the number of gallons that the 1 truck that is 30% less than 8000 can transport. To do this, we can multiply 8000 by 0.7 (which is the same as 30% or 30/100). This gives us 5600 gallons.
+
+Now, we need to find the number of gallons that the remaining trucks can transport. There are 6 trucks in total, and 2 are 8000 gallons and 1 is 5600 gallons, so there are 3 trucks left. Since the remaining trucks are 50% larger than the 2 trucks that are 8000 gallons, we can multiply 8000 by 1.5 (which is the same as 50% or 50/100) to get 12000 gallons. Then, we add 12000 to 5600 to get 17600 gallons.
+
+Now, we add the number of gallons that the 2 trucks that are 8000 gallons can transport (16000) to the number of gallons that the 1 truck that is 30% less than 8000 can transport (5600) and the number of gallons that the remaining trucks can transport (17600). This gives us:
+
+16000 + 5600 + 17600 = 34960
+
+Answer: 34960

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The party store ordered 5 boxes of balloons
+* Each box contains 8 bags of balloons
+* Each bag contains 12 balloons
+* To find the total number of balloons, we need to multiply the number of boxes, the number of bags per box, and the number of balloons per bag.
+* 5 boxes x 8 bags per box x 12 balloons per bag = 480 balloons
+
+Answer: 480

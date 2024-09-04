@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's say the number of books Janine read in the first month is x. Since Janine read 5 books last month, we know that x = 5.
+
+The number of books Janine read this month is twice that of last month, so this month she read 10 * 2 = 20 books.
+
+Each book has 10 pages, so the total number of pages Janine read this month is 20 * 10 = 200.
+
+So, in two months, Janine read 5 + 20 * 200 = 220 pages.

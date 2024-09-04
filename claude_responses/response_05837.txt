@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Harold's wrapping paper can wrap 5 shirt boxes or 3 XL boxes per roll
+* He has 20 shirt boxes and 12 XL boxes to wrap
+* To find the number of rolls needed for the shirt boxes:
+    - 20 shirt boxes / 5 boxes per roll = 4 rolls
+* To find the number of rolls needed for the XL boxes:
+    - 12 XL boxes / 3 boxes per roll = 4 rolls
+* So the total number of rolls needed is 4 + 4 = 8 rolls
+* Each roll of wrapping paper costs $4.00
+* Therefore, the total cost to wrap all the boxes is:
+    - 8 rolls x $4.00 per roll = $32.00
+
+Answer: $32

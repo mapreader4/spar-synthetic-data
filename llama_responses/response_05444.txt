@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the rainfall on Monday. It rained 3 inches more than Sunday, so the rainfall on Monday is 4 + 3 = 7 inches.
+
+Then, let's find the rainfall on Tuesday. Since it rained the same amount as Tuesday, the rainfall on Tuesday is also 7 inches.
+
+Finally, let's add up the rainfall for all 3 days. We have 4 inches on Sunday, 7 inches on Monday, and 7 inches on Tuesday, so the total rainfall is 4 + 7 + 7 = 18 inches.
+
+Answer: 18

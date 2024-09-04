@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Julia has 20 silver watches and 3 times as many bronze watches, which is 20 x 3 = 60 bronze watches. So in total, she has 20 + 60 = 80 watches.
+
+Julia is buying 10% of all the watches she owns. 10% of 80 is 0.1 x 80 = 8. So she is buying 8 gold watches. So, she has 80 - 8 = 72 watches left.
+
+Answer: 72

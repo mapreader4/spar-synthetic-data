@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 1491 red roses
+* There are 3025 yellow carnations
+* There are 1768 white roses
+* To find the total number of flowers, we need to add up the number of each type of flower:
+* 1491 red roses + 3025 yellow carnations + 1768 white roses
+* = 1491 + 3025 + 1768
+* = 6284
+
+Answer: 6284

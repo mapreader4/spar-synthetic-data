@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Travis has 10000 apples.
+2) Each box can hold 50 apples.
+3) To find the number of boxes, we divide the total number of apples by the number of apples per box:
+10000 apples / 50 apples per box = 200 boxes
+4) Each box is sold for $35.
+5) To find the total amount of money Travis will take home, we multiply the number of boxes by the price per box:
+200 boxes x $35 per box = $7000
+Answer: $7000

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Tony takes 2 pills each day three times a day for the first 2 days, so for the first 2 days, he takes a total of 2 x 3 = 6 pills each day. Since this is for 2 days, he takes a total of 6 x 2 = 12 pills.
+
+After that, he cuts the amount in half and takes 2 pills each day for the next 3 days. So, he takes 2 pills each day for 3 days, which is 2 x 3 = 6 pills. Since this is for 3 days, he takes a total of 6 x 3 = 18 pills.
+
+Finally, on the sixth day, he takes a final 2 pills. So, the total number of pills he took is 12 + 18 + 2 = 32 pills.
+
+Since he started with 50 pills, the number of pills left in the bottle is 50 - 32 = 18.
+
+Answer: 18

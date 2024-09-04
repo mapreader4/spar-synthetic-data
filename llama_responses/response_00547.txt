@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how long each bedroom takes to renovate. 3 bedrooms take 4 hours each, so that's a total of 3 x 4 = 12 hours.
+
+Step 2: Determine how long the kitchen takes. It takes 50% longer than each bedroom, so it takes 12 hours x 1.5 = 18 hours.
+
+Step 3: Determine how long the living room took. It takes twice as much time as everything else combined, so it took 12 hours + 18 hours = 30 hours.
+
+Step 4: Add up the total time. 12 hours + 18 hours + 30 hours = 60 hours.
+
+Answer: 60

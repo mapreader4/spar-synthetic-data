@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total percentage of germs that the first spray kills, which is 50% or 50/100. Then, we find the total percentage of germs that the second spray kills, which is 25% or 25/100. However, 5% of the germs that the first spray kills are the same as the germs that the second spray kills. So, we need to subtract 5% of 50% from 50% to avoid double counting. This leaves us with 45% of the germs that the first spray kills.
+
+Now, we need to add the germs that the first spray kills, which is 45%, to the germs that the second spray kills, which is 25%. This gives us the total percentage of germs that both sprays kill, which is 70%.
+
+So, the percentage of germs that would be left after using both sanitizer sprays together is 30%.
+
+Answer: 30

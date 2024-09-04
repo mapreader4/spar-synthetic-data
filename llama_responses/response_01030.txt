@@ -1,0 +1,17 @@
+Let's start by finding the total number of ounces of water that Bill will use to fill the Dixie cups. Since each cup holds 6 ounces of water, and there are 5 rows of 10 chairs each, the total number of cups that Bill will use is:
+
+5 rows x 10 chairs per row = 50 chairs
+
+Since each chair has one cup, the total number of cups is 50. Each cup holds 6 ounces of water, so the total number of ounces used is:
+
+50 cups x 6 ounces per cup = 300 ounces
+
+The water cooler initially contains 3 gallons of water, and there are 128 ounces in a gallon. So, the initial amount of water in the cooler is:
+
+3 gallons x 128 ounces per gallon = 384 ounces
+
+Since Bill uses 300 ounces of water, the amount of water left in the cooler is:
+
+384 ounces - 300 ounces = 84 ounces
+
+Answer: 84

@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Let's start by finding the total amount of water needed for the plants. Each row of 15 corn plants needs half a gallon of water, which is 0.5 gallons. Since there are 4 rows, the total water needed for the plants is 4 * 0.5 = 2 gallons. The 10 pigs need 4 gallons of water, and the 20 ducks need a quarter of a gallon, which is 0.25 gallons. The total amount of water needed for the animals is 4 + 0.25 = 4.25 gallons. The total amount of water needed is the sum of the water needed for the plants and the animals, which is 2 + 4.25 = 6.25 gallons.
+
+Casey can pump 3 gallons a minute, so we need to find how many minutes it would take to pump 6.25 gallons. We can do this by dividing 6.25 by 3. 6.25 / 3 = 2.083333... (we'll round up to 2.08). So Casey needs to pump for 2.08 minutes to pump the water.

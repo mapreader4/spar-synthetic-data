@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Smartphones cost $300 each
+* Personal computers cost $500 more than smartphones, so they cost $300 + $500 = $800 each
+* Advanced tablets cost the sum of the prices of a smartphone and a personal computer, so they cost $300 + $800 = $1,100 each
+
+To buy one of each of the three products, we need to add up the individual prices:
+* Smartphone: $300
+* Personal computer: $800
+* Advanced tablet: $1,100
+
+The total cost to buy one of each of the three products is:
+$300 + $800 + $1,100 = $2,200
+
+Answer: $2,200

@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. An amoeba reproduces every two days. This means that after two days, it will split into two amoebae.
+2. After four days, it will split into four amoebae.
+3. After six days, it will split into eight amoebae.
+4. After eight days, it will split into 16 amoebae.
+
+So, it will take four days for the amoeba to divide into 16 amoebae.

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Carmen sees 50 trucks and 40 cars
+* Half the trucks are red, so 50 * 0.5 = 25 red trucks
+* 20% of the trucks are black, so 50 * 0.2 = 10 black trucks
+* The remaining trucks must be white, so 50 - 25 - 10 = 15 white trucks
+* The total number of vehicles is 50 trucks + 40 cars = 90 vehicles
+* The percentage of white trucks is (15 white trucks) / (90 total vehicles) = 0.1667 or 16.67%
+* Rounding to the nearest integer, the answer is:
+
+Answer: 17

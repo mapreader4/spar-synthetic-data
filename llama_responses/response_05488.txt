@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Find the total number of cell phones in Delaware.
+
+Let's multiply the population of Delaware by the number of cell phones per 1000 people.
+
+974,000 (population of Delaware) * 673 (cell phones per 1000 people) = 655,300
+
+Answer: 655,300

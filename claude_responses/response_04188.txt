@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The original price of the shirt is $80.
+* The attendant is giving Barry a 15% special discount.
+* To calculate the discount amount, we take 15% of the original price:
+    * 15% of $80 = 0.15 x $80 = $12
+* To calculate the final price after the discount, we subtract the discount amount from the original price:
+    * $80 - $12 = $68
+Therefore, the amount Barry is supposed to pay for the shirt, considering the 15% special discount, is:
+Answer: $68

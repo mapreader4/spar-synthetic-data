@@ -1,0 +1,31 @@
+Let's start by identifying the information given in the problem. The problem states that Jeff has twice as many cars as trucks. It also states that he has 60 total vehicles. To find the number of trucks, we can set up an equation:
+
+Let C be the number of cars, and let T be the number of trucks. The problem states that Jeff has twice as many cars as trucks, so we can write an equation to represent this:
+
+C = 2T
+
+We know that Jeff has 60 total vehicles, so we can set up another equation to represent this:
+
+C + T = 60
+
+We can substitute the equation for C with 2T to get:
+
+2T + T = 60
+
+We can then solve for T by subtracting C from both sides of the equation:
+
+T = 60 - C
+
+Since C is equal to 2T, we can substitute 2T for C to get:
+
+T = 60 - 2T
+
+T = 60 - 2T
+
+To solve for T, we can add 2 to both sides of the equation:
+
+T = 60/2
+
+T = 30
+
+So, Jeff has 30 trucks.

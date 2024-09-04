@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Samson ate 3 sandwiches at lunch on Monday, so let's call this number of sandwiches A.
+
+Samson ate twice as many sandwiches at dinner, so he ate 2 * A = 2 * 3 = 6 sandwiches.
+
+So, in total, Samson ate A + 6 = 3 + 6 = 9 sandwiches on Monday.
+
+The next day, Tuesday, Samson only ate 1 sandwich for breakfast. So, he ate 1 sandwich on Tuesday.
+
+So, to find the total number of sandwiches Samson ate on Monday compared to Tuesday, we subtract 1 from 9, which gives us 9 - 1 = 8.
+
+So, Samson ate 8 more sandwiches on Monday than on Tuesday.
+
+Answer: 8

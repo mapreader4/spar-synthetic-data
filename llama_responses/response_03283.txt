@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by using the information given that the house has a total area of 2,300 sq ft.
+
+The guest bedroom is a quarter of the size of the master bedroom suite, so we can set up an equation to represent this information:
+
+Let x be the size of the master bedroom suite. Then, the guest bedroom will be 1/4 of x.
+
+We can set up the equation as follows:
+
+x + (1/4x) = 2,300 - 1,000
+
+To solve for x, we can add 1,000 to both sides of the equation to get:
+
+x + (1/4x + 1,000) = 2,300
+
+Now, we can subtract 1,000 from both sides of the equation to get:
+
+1/4x = 1,300
+
+To solve for x, we can multiply both sides of the equation by 4 to get:
+
+x = 1,300 * 4
+
+x = 5,200
+
+Answer: 5,200

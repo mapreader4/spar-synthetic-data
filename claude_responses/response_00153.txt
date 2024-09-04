@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Tim's doctor's visit cost $300.
+2. His insurance covered 75% of the doctor's visit cost, which means he had to pay the remaining 25%.
+   * 25% of $300 = 0.25 * $300 = $75
+3. The cat's visit cost $120.
+4. Tim's pet insurance covered $60 of the cat's visit cost.
+   * So Tim had to pay the remaining $120 - $60 = $60 for the cat's visit.
+
+Now, to calculate the total amount Tim paid:
+* Tim paid $75 for the doctor's visit.
+* Tim paid $60 for the cat's visit.
+* Total amount Tim paid = $75 + $60 = $135.
+
+Answer: $135.

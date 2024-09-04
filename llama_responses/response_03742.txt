@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+Let's first find the total price of the 3 pairs of pants. The total price of the 2 shirts and 3 pairs of pants is $120. If you return the 3 pairs of pants, you get 25% of the original price back, which is 25% of 60, which is 15. So, the price of 1 shirt is:
+
+Let x be the price of 1 shirt. Then, the price of 2 shirts is 2x. The total price of the 2 shirts and 3 pairs of pants is 2x + 3x. We know this total price is 120, so we can set up the equation 2x + 3x = 120.
+
+To solve for x, we can subtract 3x from both sides of the equation, which gives us 2x = 120 - 3x. Then, we can add 3x to both sides, which gives us 5x = 120.
+
+Finally, to find the price of 1 shirt, we can divide both sides by 5, which gives us x = 24.
+
+Answer: 24

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John can play 200 beats per minute
+* He plays for 2 hours a day
+* He plays for 3 days
+
+To find the total number of beats he plays, we need to:
+1. Calculate the number of beats per hour:
+   * 200 beats per minute x 60 minutes per hour = 12,000 beats per hour
+2. Calculate the number of beats per day:
+   * 12,000 beats per hour x 2 hours per day = 24,000 beats per day
+3. Calculate the total number of beats over 3 days:
+   * 24,000 beats per day x 3 days = 72,000 beats
+
+Answer: 72,000

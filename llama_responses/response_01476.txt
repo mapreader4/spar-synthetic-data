@@ -1,0 +1,41 @@
+Let's break this down step by step.
+
+Let's start by letting Megan's weight be x kilograms. Since Kelly weighs 15% less than Megan, Kelly's weight can be written as x - 0.15x = 0.85x.
+
+Mike weighs 5 kilograms more than Megan, so Mike's weight can be written as x + 5.
+
+The total weight of the three children is the sum of their individual weights: x + (x - 0.15x) + (x + 5). We can combine like terms: 3x - 0.15x + 5.
+
+We know that the bridge can hold up to 100 kilograms, so we can set up an inequality: 3x - 0.15x + 5 ≤ 100.
+
+To solve for x, we can add 0.15x to both sides of the inequality: 3x + 5 ≤ 100 + 0.15x.
+
+Subtract 5 from both sides: 3x ≤ 100 + 0.15x - 5.
+
+Subtract 100 from both sides: 3x ≤ 0.15x - 105.
+
+Add 105 to both sides: 3x ≤ 0.15x.
+
+Subtract 0.15x from both sides: 2.85x ≤ 0.
+
+Divide both sides by 2.85: x ≤ 0.
+
+Since x cannot be negative, we can conclude that x ≥ 0. Megan's weight is at least 0 kilograms, which is not possible. So, Megan's weight is actually greater than 0.
+
+Let's try again. We know that x is greater than 0, so we can add a small value to both sides of the inequality: 3x - 0.15x + 5 ≤ 100 + 0.15x.
+
+Add 0.15x to both sides: 3x ≤ 100 + 0.3x.
+
+Subtract 0.3x from both sides: 2.7x ≤ 100.
+
+Divide both sides by 2.7: x ≤ 37.
+
+So, Megan's weight is at most 37 kilograms.
+
+Since Kelly weighs 15% less than Megan, Kelly's weight is at most 37 - (37 * 0.15) = 31.5 kilograms.
+
+Mike weighs 5 kilograms more than Megan, so Mike's weight is at most 37 + 5 = 42 kilograms.
+
+The total weight of the three children is 31.5 + 37 + 42 = 110.5 kilograms. Since the bridge can only hold up to 100 kilograms, the three children weigh 10.5 kilograms too much.
+
+Answer: 10.5

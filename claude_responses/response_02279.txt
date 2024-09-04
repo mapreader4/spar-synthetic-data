@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Austin has 10 pairs of dress shoes, which means he has 20 individual shoes (10 pairs x 2 shoes per pair).
+* He has polished 45% of the individual shoes.
+* To calculate the number of shoes he has polished, we take 45% of 20 shoes:
+   * 45% of 20 = 0.45 x 20 = 9 shoes polished.
+* Now, to find out how many more shoes he needs to polish, we subtract the number of shoes he has polished from the total number of shoes:
+   * 20 total shoes - 9 polished shoes = 11 more shoes to polish.
+
+Answer: 11

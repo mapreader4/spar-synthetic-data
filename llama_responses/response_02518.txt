@@ -1,0 +1,11 @@
+To find the amount of MB of data Elsa has left, we need to subtract the amount of data used for YouTube and Facebook from the total amount of data.
+
+Elsa gets 500 MB of cell phone data each month. She spends 300 MB watching YouTube and 2/5 of what's left on Facebook. 
+
+Let's convert the fraction 2/5 to a decimal: 2/5 = 0.4. So, Elsa spends 0.4 MB on Facebook.
+
+So, Elsa spends a total of 300 MB on YouTube and 0.4 MB on Facebook, which is 300.4 MB.
+
+So, the amount of data left is 500 - 300.4 = 199.6 MB.
+
+Answer: 199.6

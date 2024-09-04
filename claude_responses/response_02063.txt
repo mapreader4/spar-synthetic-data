@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Bess can throw the Frisbee 20 meters, and she does this 4 times.
+   * Each time Bess throws the Frisbee, it travels 20 meters to its destination, and then 20 meters back to its original position.
+   * So, the total distance traveled by Bess's Frisbees is 4 x (20 + 20) = 160 meters.
+
+2. Holly can throw the Frisbee 8 meters, and she does this 5 times.
+   * Each time Holly throws the Frisbee, it travels 8 meters to its destination and stays there.
+   * So, the total distance traveled by Holly's Frisbees is 5 x 8 = 40 meters.
+
+3. To find the total distance traveled by all the thrown Frisbees, we add the distances traveled by Bess and Holly:
+   * Total distance = Bess's Frisbees + Holly's Frisbees
+   * Total distance = 160 meters + 40 meters = 200 meters
+
+Answer: 200

@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. John writes 3 stories every week, which is 3 x 50 = 150 pages.
+2. Each year, he writes a novel that is 1200 pages, which is 1200 / 150 = 8 novels.
+3. Each sheet of paper can hold 2 pages, which means that 2 pages = 1 sheet.
+4. To write 150 pages, John needs 150 / 2 = 75 sheets.
+5. To write 8 novels, John needs 8 x 75 = 600 sheets.
+6. In total, John needs 600 + 75 = 675 sheets.
+
+Answer: 675

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jim has 200g of flour in the cupboard, 100g of flour on the kitchen counter, and 100g in the pantry.
+2) In total, Jim has 200g + 100g + 100g = 400g of flour.
+3) Each loaf of bread requires 200g of flour.
+4) To find the number of loaves Jim can bake, we divide the total amount of flour by the amount required per loaf:
+400g / 200g per loaf = 2 loaves.
+
+Answer: 2

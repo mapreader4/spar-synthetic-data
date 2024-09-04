@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Viggo spent $80 on a shirt.
+2) He paid with $20 and $10 bills.
+3) He gave the clerk one more $20 bill than $10 bills.
+4) Let's say he gave x $10 bills.
+5) Then he gave x + 1 $20 bills.
+6) The total amount he gave is x * $10 + (x + 1) * $20 = $80.
+7) Solving this equation:
+x * $10 + (x + 1) * $20 = $80
+10x + 20x + 20 = 80
+30x = 60
+x = 2
+
+Answer: 2

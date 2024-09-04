@@ -1,0 +1,5 @@
+We can start by saying that Thomas worked x hours, then Toby worked x - 10 hours, and Rebecca worked x - 10 - 8 hours.  So, the total hours worked is x + (x - 10) + (x - 10 - 8) = 157.
+
+We can solve this equation for x.  x + (x - 10) + (x - 10 - 8) = 157.  2x - 10 + 2x - 18 = 157.  2x - 28 = 157.  2x = 95.  x = 47.5.
+
+Rebecca worked 47.5 hours.  Answer: 47.5.

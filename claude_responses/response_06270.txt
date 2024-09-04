@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+* There are 9 bicycles in the garage
+* Each bicycle has 2 wheels
+* So the total number of wheels from the bicycles is 9 * 2 = 18 wheels
+* There are 16 cars in the garage
+* Each car has 4 wheels
+* So the total number of wheels from the cars is 16 * 4 = 64 wheels
+* To find the total number of wheels in the garage, we add the wheels from the bicycles and the cars:
+* 18 wheels + 64 wheels = 82 wheels
+
+Answer: 82

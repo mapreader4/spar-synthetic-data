@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* John had to fix 20 computers in total
+* 20% of the 20 computers were unfixable
+* To calculate the number of unfixable computers:
+  * 20% of 20 = 0.20 * 20 = 4 computers
+* 40% of the 20 computers needed to wait a few days for spare parts
+* To calculate the number of computers that needed to wait for spare parts:
+  * 40% of 20 = 0.40 * 20 = 8 computers
+* The rest of the computers, which were not unfixable and did not need to wait for spare parts, were able to be fixed right away
+* To calculate the number of computers John was able to fix right away:
+  * Total computers (20) - Unfixable computers (4) - Computers needing spare parts (8) = 8 computers
+
+Answer: 8

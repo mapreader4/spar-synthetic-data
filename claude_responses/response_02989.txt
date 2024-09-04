@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Tonya has 13 stamps
+2) Jimmy has 5 matchbooks
+3) Each matchbook contains 24 matches
+4) Tonya and Jimmy have decided that 1 stamp is worth 12 matches
+5) Jimmy trades all his matchbooks for stamps
+6) To calculate how many stamps Jimmy gets in exchange for his 5 matchbooks:
+   * Each matchbook has 24 matches
+   * So 5 matchbooks have 5 * 24 = 120 matches
+   * Since 1 stamp is worth 12 matches, Jimmy gets 120 / 12 = 10 stamps
+7) Now Tonya has her original 13 stamps, plus the 10 stamps she got from Jimmy, so she has 13 + 10 = 23 stamps.
+
+Answer: 23

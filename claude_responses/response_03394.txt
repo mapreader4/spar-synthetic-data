@@ -1,0 +1,18 @@
+Okay, let's solve this step-by-step:
+* City A received 16 1/2 tons of sand
+* City B received 26 tons of sand
+* City C received 24 1/2 tons of sand
+* The total for all four cities was 95 tons
+
+To find the amount of sand received by City D, we need to add up the amounts received by the other three cities and then subtract that from the total of 95 tons.
+
+The amount received by the other three cities:
+* City A: 16 1/2 tons
+* City B: 26 tons
+* City C: 24 1/2 tons
+* Total: 16 1/2 + 26 + 24 1/2 = 67 tons
+
+Now, we subtract this from the total of 95 tons to find the amount received by City D:
+* 95 tons - 67 tons = 28 tons
+
+Answer: 28 tons

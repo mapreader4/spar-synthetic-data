@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of people who took each drink:
+
+1. 26 people took wine.
+2. 22 people took soda.
+3. 17 people took both wine and soda.
+
+We can combine these numbers to find the total number of people at the gathering:
+
+26 + 22 + 17 = 65
+
+So, the answer is:
+
+Answer: 65

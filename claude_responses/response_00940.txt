@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Michael has 100 cards
+* Mark has 10 fewer cards than Michael, so Mark has 100 - 10 = 90 cards
+* Lloyd has a third as many cards as Mark, so Lloyd has 90 / 3 = 30 cards
+
+Now, we need to find the total number of cards they currently have:
+* Total cards = Michael's cards + Mark's cards + Lloyd's cards
+* Total cards = 100 + 90 + 30 = 220 cards
+
+The question asks how many more cards they need to collect to have a total of 300 cards. So, we need to find the difference between the target total and the current total:
+* Cards needed = 300 - 220 = 80 cards
+
+Answer: 80

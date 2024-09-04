@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* On Thursday, Carlo practiced for 50 minutes
+* On Wednesday, he practiced 5 minutes more than on Thursday, so he practiced for 55 minutes
+* On Tuesday, he practiced 10 minutes less than on Wednesday, so he practiced for 45 minutes
+* On Monday, he practiced twice as long as on Tuesday, so he practiced for 90 minutes
+
+Now, we need to find the total time Carlo practiced from Monday to Thursday:
+* Monday: 90 minutes
+* Tuesday: 45 minutes
+* Wednesday: 55 minutes
+* Thursday: 50 minutes
+* Total: 90 + 45 + 55 + 50 = 240 minutes
+
+We know that Carlo needs to practice for a total of 5 hours that week, which is 300 minutes.
+* Total time needed: 300 minutes
+* Time practiced from Monday to Thursday: 240 minutes
+* Time needed to practice on Friday: 300 - 240 = 60 minutes
+
+Answer: 60

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jean bought 4 packs of 15 cupcakes each.
+2) So the total number of cupcakes she bought from the 4 packs of 15 is:
+4 packs x 15 cupcakes per pack = 60 cupcakes
+3) She needs to give one cupcake each to 100 children.
+4) So the total number of cupcakes she needs is 100.
+5) To find how many packs of 10 cupcakes she needs to buy, we need to subtract the 60 cupcakes she already has from the 100 cupcakes she needs.
+6) 100 cupcakes needed - 60 cupcakes already bought = 40 cupcakes still needed.
+7) Since each pack of 10 cupcakes contains 10 cupcakes, we need to divide the 40 cupcakes still needed by 10 to find the number of packs she needs to buy.
+8) 40 cupcakes needed / 10 cupcakes per pack = 4 packs of 10 cupcakes.
+
+Answer: 4

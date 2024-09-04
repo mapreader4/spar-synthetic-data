@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say Katy made x brownies initially.
+
+On Monday, Katy eats 5 brownies, which means that x - 5 brownies are left.
+
+On Tuesday, Katy eats twice as many brownies as she ate on Monday, which is 2 x 5 = 10 brownies. This means that x - 5 - 10 = 0 brownies are left.
+
+So, we know that x - 5 - 10 = 0, which means that x = 15. This means that Katy made 15 brownies.

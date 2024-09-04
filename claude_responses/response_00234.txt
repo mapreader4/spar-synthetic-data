@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Mark buys a loaf of bread for $4.20 and some cheese for $2.05, so the total cost of his purchase is $4.20 + $2.05 = $6.25.
+2) Mark gives the cashier $7.00, so the amount of change he should receive is $7.00 - $6.25 = $0.75.
+3) The cashier has 1 quarter ($0.25) and 1 dime ($0.10), so the total amount of change the cashier has in coins is $0.25 + $0.10 = $0.35.
+4) The remaining change that Mark should receive is $0.75 - $0.35 = $0.40.
+5) Since the cashier only has nickels left, the number of nickels Mark should receive in his change is $0.40 / $0.05 = 8 nickels.
+
+Answer: 8

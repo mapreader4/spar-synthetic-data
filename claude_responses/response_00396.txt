@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Holly needs to take 2 insulin pills per day
+* Holly needs to take 3 blood pressure pills per day
+* Holly needs to take twice as many anticonvulsants as blood pressure pills each day
+* So, the number of anticonvulsants per day is 2 x 3 = 6
+
+Now, let's calculate the total number of pills per day:
+* Insulin pills per day: 2
+* Blood pressure pills per day: 3
+* Anticonvulsants per day: 6
+* Total pills per day: 2 + 3 + 6 = 11
+
+Finally, to calculate the total number of pills in a week:
+* Total pills per day: 11
+* Total days in a week: 7
+* Total pills in a week: 11 x 7 = 77
+
+Answer: 77

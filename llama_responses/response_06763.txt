@@ -1,0 +1,10 @@
+Let's break down the information given in the question:
+
+* John has 20% more boxes than Jules.
+* Jules has 5 more boxes than Joseph.
+* Joseph has 80% fewer boxes than Stan.
+* Stan has 100 boxes.
+
+From the first statement, we know that John has 20% more boxes than Jules. 20% of 100 (which is the number of boxes Stan has) is 20. So John has 100 - 20 = 80 boxes.
+
+Answer: 80

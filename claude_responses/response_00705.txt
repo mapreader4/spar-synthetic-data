@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Isabel had some amount of money in her piggy bank to start with.
+2) She spent half of that amount on a toy.
+3) After buying the toy, she had the remaining half of the original amount left.
+4) She then spent half of the remaining amount on a book for her brother.
+5) After buying the book, she had $51 left.
+
+Let's call the original amount of money in the piggy bank 'x'.
+
+Step 1: She spent half of x on the toy, so she had x/2 left.
+Step 2: She then spent half of x/2 on the book, so she had (x/2)/2 = x/4 left.
+Step 3: We know she has $51 left, so x/4 = $51.
+Step 4: Solving for x, we get x = $204.
+
+Answer: $204

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* GooGoo manufactures two types of shirts: one with 3 buttons and the other with 5 buttons
+* The department store ordered 200 of each type of shirt
+* To calculate the total number of buttons needed:
+  - For the 200 shirts with 3 buttons each, the total number of buttons needed is 200 * 3 = 600 buttons
+  - For the 200 shirts with 5 buttons each, the total number of buttons needed is 200 * 5 = 1,000 buttons
+* To find the total number of buttons needed for the entire order, we add the buttons for both types of shirts:
+  - Total buttons needed = 600 + 1,000 = 1,600 buttons
+
+Answer: 1,600

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) There are 45 children in the classroom.
+2) One-third of the children are girls. To find the number of girls, we can divide the total number of children by 3:
+45 ÷ 3 = 15 girls
+3) Since there are 45 children total, and 15 of them are girls, the remaining children must be boys.
+4) To find the number of boys, we can subtract the number of girls from the total number of children:
+45 - 15 = 30 boys
+
+Answer: 30

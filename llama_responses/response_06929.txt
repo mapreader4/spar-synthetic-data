@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Matt starts with 8 cards worth $6 each, which is a total of $48. He trades 2 cards worth $6 each for 3 cards worth $2 each and 1 card worth $9. So, Matt gives away 2 cards worth $12 and gets in return 3 cards worth $6 and 1 card worth $9.
+
+To find the total value of the cards he gave away, we multiply 2 by $6, which is $12. Then we add the value of the 1 card he gave away, which is $9. So, the total value of the cards he gave away is $12 + $9, which is $21.
+
+To find the profit, we subtract the value of the cards he gave away from the total value of the cards he started with. So, the profit is $48 - $21, which is $27.

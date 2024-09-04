@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the total distance of the 10K race is represented by k. TJ ran the first half in 20 minutes. This means that the average time per kilometer for the first half of the race is 20 minutes / (20 / k).
+
+The second half of the race took 30 minutes. So, the average time per kilometer for the second half of the race is 30 minutes / (30 / k).
+
+Since the race was 10K, the average time per kilometer for the first half and the second half should be the same. So, we can set the average time per kilometer for the race as the average of the time per kilometer for the first half and the second half.
+
+Let's set up an equation to represent the average time per kilometer:
+
+(20 / k) = (30 / k)
+
+We can solve for k by multiplying both sides by k:
+
+(20 / k) = (30 / k)
+
+Now we multiply both sides by k to get:
+
+20k = 30k
+
+Now we can solve for k by dividing both sides by 20:
+
+k = 30 / 20
+
+k = 1.5
+
+So, TJ's average time per kilometer is 1.5 minutes.

@@ -1,0 +1,5 @@
+To find the time it will take to fill the tank to 3/4 of its capacity, we can first find the total capacity of the tank at 3/4 of its capacity. 3/4 of 4000 gallons is 3000 gallons. Then we can divide 3000 by the rate of 10 gallons per hour to find the time it will take to fill the tank to 3/4 of its capacity.
+
+3000 / 10 = 300.
+
+Answer: 300 hours.

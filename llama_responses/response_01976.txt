@@ -1,0 +1,11 @@
+Let's start by identifying the total number of boats. Madison makes 30 boats.
+
+Madison sets 20 of them afloat. So, the number of boats in the water is 20.
+
+Madison shoots 2 of the boats with flaming arrows. So, the number of boats left is reduced by 2.
+
+To find the number of boats left, we need to subtract 2 from the original 20 boats.
+
+20 - 2 = 18
+
+Answer: 18

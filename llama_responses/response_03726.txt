@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. Let's first find the total number of cans of cat food Chad bought. Each package of cat food contains 9 cans, and Chad bought 6 packages of cat food. So, the total number of cans of cat food is 6 * 9 = 54.
+2. Now, let's find the total number of cans of dog food Chad bought. Each package of dog food contains 3 cans, and Chad bought 2 packages of dog food. So, the total number of cans of dog food is 2 * 3 = 6.
+3. To find the difference between the number of cans of cat food and dog food, subtract the total number of cans of dog food from the total number of cans of cat food: 54 - 6 = 48.
+
+Answer: 48

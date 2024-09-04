@@ -1,0 +1,3 @@
+Let's start by identifying the common books that Tony, Dean, and Breanna read. Since Tony and Dean read 3 books together, and they read the same book, we know that Tony and Dean read 2 books. Since Tony, Dean, and Breanna read 2 books together, and Breanna read 17 books, we know that Breanna read 15 books that the other two did not read. So, Tony and Dean read 2 books that Breanna did not read. Therefore, the total number of books they read is 15 + 2 = 17. So, Tony, Dean, and Breanna read 17 books.
+
+Answer: 17

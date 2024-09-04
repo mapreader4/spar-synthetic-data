@@ -1,0 +1,14 @@
+Let's break this down step by step:
+
+1. Let's say the number of math problems Marvin solved yesterday be 'x'. Then, since his friend Arvin has practiced twice as many math problems on each day, he has practiced 2x problems.
+2. So, the total number of math problems they have practiced altogether is the sum of the number of problems Marvin solved yesterday and the number of problems Arvin has practiced: x + 2x.
+3. Marvin solved 40 math problems yesterday, so the number of problems he solved is x.
+4. The number of problems Arvin has practiced is 2x, since he has practiced twice as many math problems as Marvin did.
+5. So, the total number of math problems they have practiced altogether is x + 2x.
+6. Now, we can substitute x with 40, the number of problems Marvin solved yesterday, to get the total number of math problems they have practiced altogether: 40 + 2x.
+7. We can simplify the expression 40 + 2x by combining like terms: 40 + 2x = 40 + 2 * x = 40 + 2x.
+8. 2x = 2 * x, so 40 + 2x = 40 + 2 * x = 40 + 2 * x.
+9. We can combine like terms: 40 + 2 * x = 40 + 2 * x.
+10. Simplify the expression 40 + 2x by combining like terms: 40 + 2 * x = 40 + 2 * x = 40 + 2 * x.
+
+Answer: 80

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 13 rooms for couples and 14 single rooms.
+2) For each bath that is run, Isabelle needs 10ml of bubble bath.
+3) If every room is filled to maximum capacity, that means:
+   - The 13 couple rooms will have 2 people each, so 13 x 2 = 26 people
+   - The 14 single rooms will have 1 person each, so 14 x 1 = 14 people
+   - The total number of people is 26 + 14 = 40 people
+4) Since each bath requires 10ml of bubble bath, and there are 40 people, the total amount of bubble bath needed is:
+   - 40 people x 10ml per bath = 400ml of bubble bath
+
+Answer: 400

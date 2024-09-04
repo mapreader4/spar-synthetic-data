@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jane ends up with 60 points
+* She lost 20 points
+* So, her initial score was 60 + 20 = 80 points
+* Each round she won was worth 10 points
+* Therefore, the number of rounds she played is her initial score divided by the points per round
+* 80 points / 10 points per round = 8 rounds
+
+Answer: 8

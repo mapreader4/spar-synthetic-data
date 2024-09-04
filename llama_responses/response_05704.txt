@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's first identify the information given in the problem:
+
+* The total cost of Olivia's groceries was $42.
+* The bananas cost her $12.
+* The bread cost her $9.
+* The milk cost her $7.
+* The only other groceries she bought were apples.
+
+We know that the total cost of the bananas, bread, and milk is $12 + $9 + $7 = $18. This leaves us with $42 - $18 = $24 left to spend on the apples.
+
+So, the cost of the apples is $24.
+
+Answer: 24

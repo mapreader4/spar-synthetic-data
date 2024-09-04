@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start with the earnings on Friday, which is $147.
+
+On Saturday, they made $7 more than twice their Friday earnings, so we can multiply the Friday earnings by 2 and then add 7 to get the Saturday earnings.
+
+Friday earnings = $147
+Saturday earnings = 2 x 147 + 7 = 301
+
+Now, we are told that their Sunday earnings are $78 more than their Saturday earnings. So, we can subtract the Saturday earnings from the Sunday earnings to get the total earnings.
+
+Sunday earnings = 301 + 78 = 379
+
+So, the total earnings in three days is $379.

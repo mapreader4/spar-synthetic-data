@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's say the number of blue balls is x.
+
+Since there are 11 blue balls, we know that 2x = 11.
+
+To find the number of green balls, we need to subtract the number of blue balls from the total number of balls.
+
+The total number of balls is 40, and the number of blue balls is 11. So, we can subtract 11 from 40 to get the number of green balls.
+
+40 - 11 = 29
+
+Answer: 29

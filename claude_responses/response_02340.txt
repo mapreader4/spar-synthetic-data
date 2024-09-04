@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Jamal shelved 12 books in the history section
+* Jamal shelved 19 books in the fiction section
+* Jamal shelved 8 books in the children's section, and found 4 more books that were left in the wrong place, so he added those 4 books to his cart
+* Jamal still has 16 books to shelve
+
+To find the total number of books Jamal started with in the cart, we need to add up all the books he shelved and the books he found in the wrong place, and then add the 16 books he still has to shelve.
+
+So, the total number of books he shelved is:
+* 12 (history) + 19 (fiction) + 8 (children's) = 39 books
+
+He also found 4 books in the wrong place, so we add that to the total:
+* 39 + 4 = 43 books
+
+Finally, we add the 16 books he still has to shelve:
+* 43 + 16 = 59 books
+
+Answer: 59

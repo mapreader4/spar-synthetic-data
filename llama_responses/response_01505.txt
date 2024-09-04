@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Mary had 6 lambs initially.
+
+She traded 3 lambs for one goat, so she now has 6 - 3 = 3 lambs less.
+
+Then, she had 2 lambs that had 2 babies each, so that's 2 x 2 = 4 lambs. 4 lambs were added to her total lambs, making the total 3 + 4 = 7 lambs.
+
+Finally, she found an extra 7 lambs in the field, so she now has 7 + 3 = 10 lambs.
+
+Answer: 10

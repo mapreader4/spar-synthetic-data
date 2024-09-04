@@ -1,0 +1,21 @@
+Let's start by thinking about this problem step by step.
+
+Let's say Lucy's original doll collection has some number of dolls. Let's call this number x.
+
+After buying 2 new dolls, the number of dolls in her collection is increased by 25%. So, the new number of dolls is x + 0.25x.
+
+We know that the number of dolls is increased by 25%. So, the increase in the number of dolls is 0.25x.
+
+The number of dolls before the increase is x, and the number of dolls after the increase is x + 0.25x.
+
+The number of dolls after the increase is the sum of the original number of dolls and the increase in the number of dolls. This can be represented as:
+
+x + 0.25x = x + 0.25x
+
+Now, we need to find the value of x. We know that the increase in the number of dolls is 25%. So, 0.25x = 25.
+
+So, we have 0.25x = 25.
+
+Now, we know that x is 40. So, the number of dolls after the increase is 40 + 0.25(40) = 50.
+
+Answer: 50

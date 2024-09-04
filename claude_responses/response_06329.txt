@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The group of students was divided into 3 groups of 8 students each
+* So the total number of students in the group was 3 * 8 = 24 students
+* However, 2 students left early
+* So the number of students remaining is the original total (24) minus the 2 students who left
+* 24 - 2 = 22 students
+
+Answer: 22

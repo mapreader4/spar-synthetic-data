@@ -1,0 +1,7 @@
+Let's start by identifying the number of spokes on the front wheel. The problem statement states that the bicycle has 20 spokes on the front wheel.
+
+Since the problem also states that the bicycle has twice as many spokes on the back wheel as the front wheel, we can multiply the number of spokes on the front wheel by 2 to find the number of spokes on the back wheel.
+
+20 * 2 = 40
+
+So, the bicycle has 40 spokes on the back wheel.

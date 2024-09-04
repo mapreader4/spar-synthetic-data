@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Becky initially has 50 necklaces. 3 of them have broken beads, so she collects the unbroken beads and throws the other parts of the 3 necklaces out. This means she has 50 - 3 = 47 necklaces left.
+
+Then, she buys 5 new necklaces, so she now has 47 + 5 = 52 necklaces.
+
+Finally, she gives 15 of her old necklaces to her friends, so she has 52 - 15 = 37 necklaces left.
+
+Answer: 37

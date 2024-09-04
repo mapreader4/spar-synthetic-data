@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of items that need to be washed: 18 shirts, 12 pants, 17 sweaters, and 13 jeans. We can add these numbers together to get the total number of items: 18 + 12 + 17 + 13 = 60.
+
+Since the washing machine can only wash a maximum of 15 items per cycle, we can divide the total number of items by 15 to find the number of cycles needed: 60 ÷ 15 = 4.
+
+Each cycle takes 45 minutes, so to find the total time needed, we can multiply the number of cycles by the time per cycle: 4 cycles × 45 minutes = 180 minutes.
+
+To convert this to hours, we can divide by 60: 180 minutes ÷ 60 = 3 hours.
+
+Answer: 3

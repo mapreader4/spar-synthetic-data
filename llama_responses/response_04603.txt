@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Matt has 6 cats, and half of them are female, so 3 of them are female. Each of the 3 female cats has 7 kittens, so there are 3 x 7 = 21 kittens in total.
+
+Matt sells 9 of the kittens. 21 - 9 = 12 kittens are remaining.
+
+The total number of cats is 6, and the number of kittens is 12. To find the percentage of kittens, we can use the formula: (number of kittens / total number of cats) * 100.
+
+So, the percentage of kittens is (12 / 6) * 100 = 200%.
+
+Answer: 200.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+Let's start by identifying the number of broken spiral shells: out of the 52 broken shells, half of them were spiral, so the number of broken spiral shells is 52 / 2 = 26.
+
+Now, let's identify the number of perfect spiral shells: out of the 17 perfect shells, 12 of them were not spiral, so the number of perfect spiral shells is 17 - 12 = 5.
+
+To find the difference between the number of broken spiral shells and the number of perfect spiral shells, we can subtract the number of perfect spiral shells from the number of broken spiral shells: 26 - 5 = 21.
+
+Answer: 21

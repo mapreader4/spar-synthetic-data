@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The total earnings from the farmers' market was $380.
+2) The organization made $57 from broccoli sales.
+3) The sales of carrots are twice as much as the sales of broccoli, so the sales of carrots is 2 x $57 = $114.
+4) The sales of spinach is $16 more than half of the sales of carrots, so the sales of spinach is (1/2 x $114) + $16 = $73.
+5) To find the sales of cauliflower, we need to subtract the sales of broccoli, carrots, and spinach from the total earnings:
+   Total earnings = $380
+   Sales of broccoli = $57
+   Sales of carrots = $114
+   Sales of spinach = $73
+   Sales of cauliflower = $380 - $57 - $114 - $73 = $136
+
+Answer: $136

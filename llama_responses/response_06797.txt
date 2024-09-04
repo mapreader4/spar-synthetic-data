@@ -1,0 +1,11 @@
+Let's break down the information given into smaller parts.
+
+Barney can do 45 sit-ups in one minute.
+Carrie can do twice as many sit-ups per minute as Barney can, so Carrie can do 2 * 45 = 90 sit-ups in one minute.
+Jerrie can do 5 more sit-ups per minute than Carrie can do, so Jerrie can do 90 + 5 = 95 sit-ups in one minute.
+
+To find the total number of sit-ups performed, we add the number of sit-ups performed by each person. Barney does 45 sit-ups in one minute, Carrie does 2 * 45 = 90 sit-ups in two minutes, and Jerrie does 95 sit-ups in three minutes.
+
+The total number of sit-ups performed is 45 + 90 + 95 = 230.
+
+Answer: 230

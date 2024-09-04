@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we need to find the cost of the lenses. The lenses cost $500. Then, insurance will cover 80% of the cost of lenses, so the amount covered by insurance is 0.8 * 500 = $400. 
+
+Next, James has a $50 off coupon for frames. This means he will not have to pay the full $200 for frames, but rather the amount after the coupon is applied. The amount after the coupon is applied is 200 - 50 = $150.
+
+Now, we need to add the cost of the lenses and the cost of the frames. The total cost is 500 + 150 = $650.

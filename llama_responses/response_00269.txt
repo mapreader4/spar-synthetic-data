@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how much money John has in total.
+
+He earned $18 on Saturday, and he earned half that amount on Sunday, so he earned $18 / 2 = $9 on Sunday. Adding these two amounts together, he has a total of $18 + $9 = $27.
+
+He already has $20 from the previous weekend. So, he has $27 + $20 = $47.
+
+To find out how much more he needs, we need to subtract the amount he has from the amount he needs.
+
+He needs $60 to buy a new pogo stick. So, we need to find $60 - $47 = $13.
+
+Answer: 13

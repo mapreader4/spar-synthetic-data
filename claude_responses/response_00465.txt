@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The first route has 3 stoplights
+* If all 3 lights are green, the first route takes 10 minutes
+* Each red light adds 3 minutes to the trip
+* The second route takes 14 minutes and has no stoplights
+
+If all 3 stoplights are red on the first route, that means:
+* Each red light adds 3 minutes to the trip
+* So 3 red lights would add 3 x 3 = 9 minutes to the trip
+
+The first route with all 3 lights red would take:
+* 10 minutes (if all lights were green)
+* + 9 minutes (for the 3 red lights)
+* = 19 minutes
+
+The second route takes 14 minutes.
+
+So if all 3 stoplights are red on the first route, the trip will be 19 minutes, which is 5 minutes longer than the 14 minute second route.
+
+Answer: 5

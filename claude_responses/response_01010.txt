@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Each bowl of soup has 10 ounces.
+2) Erin can serve 5 bowls per minute.
+3) The pot of soup has 6 gallons of soup.
+4) There are 128 ounces in a gallon.
+5) To find the total number of ounces of soup in the pot, we multiply the number of gallons (6) by the number of ounces per gallon (128):
+6 gallons x 128 ounces/gallon = 768 ounces of soup
+6) Since each bowl has 10 ounces, we can divide the total ounces of soup (768) by the ounces per bowl (10) to get the total number of bowls:
+768 ounces / 10 ounces per bowl = 76.8 bowls
+7) Since we need to round to the nearest minute, we can divide the total number of bowls (76.8) by the number of bowls served per minute (5) to get the total time in minutes:
+76.8 bowls / 5 bowls per minute = 15.36 minutes
+8) Rounding to the nearest minute, the answer is 15 minutes.
+
+Answer: 15 minutes

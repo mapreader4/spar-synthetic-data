@@ -1,0 +1,19 @@
+Let's start by identifying the information given in the problem.
+
+We know that there were 90 jellybeans in the jar initially. Samantha snuck 24 jellybeans out of the jar, so we subtract 24 from 90 to get the remaining amount of jellybeans in the jar.
+
+90 - 24 = 66
+
+Now, Shelby ate 12 jellybeans from the jar, so we subtract 12 from the remaining 66 jellybeans.
+
+66 - 12 = 54
+
+Now, their mom, Shannon, refilled the jar with half as much as Samantha and Shelby took out. This means that Shannon refilled the jar with (24 / 2) jellybeans, since Samantha and Shelby took out 24 jellybeans.
+
+24 / 2 = 12
+
+So, the jar now contains 54 + 12 jellybeans.
+
+54 + 12 = 66
+
+Answer: 66

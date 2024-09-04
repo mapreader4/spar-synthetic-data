@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's let V be the number of people who ordered vanilla ice cream, and C be the number of people who ordered chocolate ice cream.
+
+We know that V is twice as many as C, so we can write an equation: V = 2C.
+
+We also know that V + C = 220, since the total number of people who ordered ice cream is 220.
+
+We can substitute V = 2C into the equation V + C = 220, to get 2C + C = 220.
+
+We can then solve for C by subtracting V from both sides of the equation: 2C - C = 220 - V.
+
+Since V = 2C, we can substitute V with 2C, so 2C - C = 220 - 2C.
+
+We can factor out the 2C from both sides of the equation to get C = 220/3.
+
+C = 220/3.
+
+Answer: 73

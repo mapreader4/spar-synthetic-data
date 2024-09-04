@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the current rate of production.
+
+Borris uses 90 kilograms of grapes every 6 months. So, the current rate of production is 90 / 6 = 15 kilograms per month.
+
+Step 2: Determine the new rate of production.
+
+Borris wants to increase the production by 20%. This means that the new rate of production will be 1.2 * 15 = 18 kilograms per month.
+
+Step 3: Calculate the total amount of grapes needed in a year.
+
+Borris needs to know how many months are in a year. There are 12 months in a year. So, we can multiply the new rate of production by the number of months in a year to find the total amount of grapes needed.
+
+18 * 12 = 216 kilograms.
+
+Answer: 216

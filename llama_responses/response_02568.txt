@@ -1,0 +1,5 @@
+To find the total number of yolks in the carton, we can multiply the number of eggs with double yolks by 2, because each egg has 2 yolks.
+
+So, 5 eggs with double yolks is the same as 5 * 2 = 10 yolks.
+
+Answer: 10

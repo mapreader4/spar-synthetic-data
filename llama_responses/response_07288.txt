@@ -1,0 +1,39 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the width of the lake. Since the boat travels the whole width of the lake at a speed of 10 MPH in 30 minutes, we can set up the equation:
+
+Distance = Speed x Time
+
+Let's convert the time from minutes to hours:
+
+30 minutes = 0.5 hours
+
+Now, substitute this into the equation:
+
+Distance = 10 x 0.5
+
+Distance = 5
+
+So, the boat travels 5 miles to travel the whole width of the lake.
+
+Now, let's think about the boat's speed as it travels across the length of the lake. It takes 2 hours to travel this distance, and we know that the speed is 10 MPH. So, we can set up the equation:
+
+Distance = Speed x Time
+
+Let's substitute the distance and time into the equation:
+
+Distance = 10 x 2
+
+Distance = 20
+
+So, the boat travels 20 miles to travel across the length of the lake.
+
+Now, we know that the lake is a square, so we can find the area by multiplying the length and width:
+
+Area = Length x Width
+
+Area = 20 x 5
+
+Area = 100
+
+Answer: 100

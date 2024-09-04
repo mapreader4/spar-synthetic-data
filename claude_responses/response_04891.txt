@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Mr. Sean charges $60 to treat a dog
+* Mr. Khalil took 20 dogs to the clinic
+* So, the cost for the 20 dogs is:
+  * 20 dogs x $60 per dog = $1,200
+* Mr. Sean charges $40 to care for a cat
+* Mr. Khalil took 60 cats to the clinic
+* So, the cost for the 60 cats is:
+  * 60 cats x $40 per cat = $2,400
+* To calculate the total amount Mr. Khalil paid, we add the costs for the dogs and cats:
+  * $1,200 + $2,400 = $3,600
+
+Answer: $3,600

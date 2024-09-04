@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: We start with 336 books initially.
+
+Step 2: 124 books are taken out, so we subtract 124 from 336.
+
+336 - 124 = 212
+
+Step 3: 22 books are brought back, so we add 22 to 212.
+
+212 + 22 = 234
+
+Answer: 234

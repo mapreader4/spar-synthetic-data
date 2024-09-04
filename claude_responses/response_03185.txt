@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Gordon owns 3 restaurants
+* His first restaurant serves 20 meals per day
+* His second restaurant serves 40 meals per day
+* His third restaurant serves 50 meals per day
+* We need to find the total number of meals served per week across all 3 restaurants
+
+To calculate the total number of meals served per week, we need to:
+1. Calculate the total number of meals served per day across all 3 restaurants:
+   * First restaurant: 20 meals per day
+   * Second restaurant: 40 meals per day
+   * Third restaurant: 50 meals per day
+   * Total meals per day = 20 + 40 + 50 = 110 meals per day
+2. Multiply the total meals per day by the number of days in a week to get the total meals per week:
+   * 110 meals per day x 7 days per week = 770 meals per week
+
+Answer: 770

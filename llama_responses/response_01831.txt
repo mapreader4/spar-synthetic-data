@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the number of pencils the store ordered. The store ordered 15 boxes, each with 80 pencils. So, the total number of pencils is 15 x 80 = 1200 pencils.
+
+Since the store ordered more than twice as many pens as pencils, it means that the store ordered 2 x 1200 = 2400 pens.
+
+The cost of each pen is $5, so the total cost of all the pens would be 2400 x $5 = 12,000.
+
+The cost of each pencil is $4, and the store ordered 15 boxes, each having 80 pencils. The total cost of all the pencils would be 15 x 80 x $4 = 600.
+
+The store paid more than twice as much for pens than pencils. So, the total cost of stationery is 12,000 + 600 = 12,600.
+
+Answer: 12600

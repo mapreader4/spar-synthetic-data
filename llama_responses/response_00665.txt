@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Bill picks 50 apples initially. He sends each of his two children to school with 3 apples for their two favorite teachers, which is 3 x 2 = 6 apples. This leaves Bill with 50 - 6 = 44 apples.
+
+Bill's wife Jill bakes two apple pies, using 10 apples per pie. So she uses 10 x 2 = 20 apples. This leaves Bill with 44 - 20 = 24 apples.
+
+Answer: 24

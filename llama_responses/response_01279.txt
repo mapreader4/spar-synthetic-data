@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+First, we need to calculate Bill's annual income. He earns $25 per hour and works 30 hours per week, which is:
+
+$25/hour x 30 hours/week = $750 per week
+
+Since there are 52 weeks in a year, we multiply this by 52 to get:
+
+$750/week x 52 weeks/year = $39,000 per year
+
+Now, we need to determine which income range Bill falls into. Since $39,000 is greater than $50,000, Bill makes more than $50,000. Therefore, the government will pay for 20% of the health insurance cost.
+
+The normal monthly cost of the health insurance plan is $500. To find the annual cost, we multiply this by 12 to get:
+
+$500/month x 12 months/year = $6,000 per year
+
+Now, we can find the amount the government will pay:
+
+20% of $6,000 = 0.2 x $6,000 = $1,200
+
+The amount Bill will pay himself is:
+
+$6,000 - $1,200 = $4,800
+
+Answer: 4800

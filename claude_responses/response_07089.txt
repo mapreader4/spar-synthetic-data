@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Zach rented a car for $150.
+2) He drove 620 miles on Monday.
+3) He drove 744 miles on Thursday.
+4) The car rental cost is $150 plus 50 cents for each mile driven.
+5) For the 620 miles driven on Monday, the additional cost is 620 * $0.50 = $310.
+6) For the 744 miles driven on Thursday, the additional cost is 744 * $0.50 = $372.
+7) The total cost is the rental fee ($150) plus the additional mileage costs ($310 + $372) = $150 + $682 = $832.
+
+Answer: $832

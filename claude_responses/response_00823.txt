@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) At the beginning of the day, there were 74 apples in the basket.
+2) Ricki removes 14 apples from the basket.
+3) Samson removes twice as many apples as Ricki, which means Samson removes 2 * 14 = 28 apples.
+4) To find the total number of apples removed, we add Ricki's 14 and Samson's 28: 14 + 28 = 42 apples removed.
+5) To find the number of apples left in the basket, we subtract the total apples removed from the initial 74 apples: 74 - 42 = 32 apples.
+
+Answer: 32

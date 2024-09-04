@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. Samantha does 2 loads of laundry in the wash, which will take some amount of time. Let's assume the cost for 1 load is $4 + 0.25 * 10 = $4.00. So, the total cost for the wash is 2 * $4.00 = $8.00.
+
+2. She then puts all the washed clothes into 3 separate dryers. Each dryer will take 40 minutes, so she will use 3 * 0.25 = 1.25 for each dryer. The total cost for the dryers is 3 * 1.25 = $3.75.
+
+3. The total cost is the cost of the wash plus the cost of the dryers. So, the total cost is $8.00 + $3.75 = $11.75.
+
+Answer: 11

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+On the first day, Jason has 6 fish.
+
+On the second day, the number of fish doubles. So he has 6 * 2 = 12 fish.
+
+On the third day, he takes out one-third of the fish. 12 / 3 = 4 fish are taken out. So he has 12 - 4 = 8 fish left.
+
+On the fifth day, the number of fish doubles again. 8 * 2 = 16 fish.
+
+On the seventh day, he adds 15 fish. So he has 16 + 15 = 31 fish.
+
+So, Jason has 31 fish.
+
+Answer: 31

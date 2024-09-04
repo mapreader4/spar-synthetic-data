@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The school bought 38 pencils, and each pencil costs $2.50
+* So the total cost of the 38 pencils is 38 * $2.50 = $95
+* The school also bought 56 pens, and each pen costs $3.50
+* So the total cost of the 56 pens is 56 * $3.50 = $196
+* To find the total cost of the pencils and pens, we add the two amounts together:
+* $95 + $196 = $291
+
+Answer: $291

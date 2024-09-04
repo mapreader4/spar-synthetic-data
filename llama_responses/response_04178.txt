@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. John takes 1 year to get acclimated back to school life.
+2. He then spends 2 years learning the basics of his field.
+3. He spends 75% more time on research than he did learning the basics, so let's calculate the time spent on research: 2 years (basics) * 1.75 = 3.5 years.
+4. He spends half as long on writing his dissertation as his acclimation period, which is 1 year. So, he spends 1/2 * 1 = 0.5 years on writing his dissertation.
+
+Adding up all the time, we get: 1 + 2 + 3.5 + 0.5 = 6.5 years.
+
+Answer: 6

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Yuri rolled 2, 4, and 5 on his turn
+* That means Yuri moved a total of 2 + 4 + 5 = 11 squares
+* On Yuko's turn, he rolled 1, 5, and X
+* Yuko has already moved 1 + 5 = 6 squares
+* To be in front of his brother, Yuko needs to move a total of 12 squares (11 squares that Yuri moved, plus 1 more to be in front)
+* So, Yuko's last die (X) needs to roll a 6 to move him the remaining 6 squares to be in front of his brother.
+
+Answer: 6

@@ -1,0 +1,21 @@
+Let's start by finding the total weight of the plates Hasan initially put in the box. Each plate weighs 10 ounces, and there are 16 ounces in 1 pound. So, we can convert the weight of each plate to pounds as follows:
+
+10 ounces = 10/16 pounds = 0.625 pounds
+
+Since there are 38 plates, the total weight of the plates is:
+
+38 plates x 0.625 pounds/plate = 23.75 pounds
+
+Since the box can only hold 20 pounds, Hasan needs to remove some plates to make the box lighter. Let's call the number of plates Hasan needs to remove x. The weight of the plates he removes is also the difference between the initial weight and the acceptable weight:
+
+0.625 pounds/plate x x plates = 23.75 pounds - 20 pounds = 3.75 pounds
+
+Now, we can solve for x:
+
+0.625x = 3.75
+x = 3.75 / 0.625
+x = 6
+
+So, Hasan needs to remove 6 plates to make the box an acceptable weight for shipping.
+
+Answer: 6

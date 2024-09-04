@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Amber bought 10 rolls of toilet paper, each costing $1.50
+* So the total cost of the toilet paper is 10 x $1.50 = $15
+* Amber bought 7 rolls of paper towels, each costing $2
+* So the total cost of the paper towels is 7 x $2 = $14
+* Amber also bought 3 boxes of tissues, but the cost of each box is unknown
+* The total cost of all the items is $35
+* To find the cost of one box of tissues, we need to subtract the cost of the toilet paper and paper towels from the total cost, and then divide the remaining amount by the number of boxes of tissues
+* $35 - $15 - $14 = $6
+* $6 / 3 = $2
+
+Answer: $2

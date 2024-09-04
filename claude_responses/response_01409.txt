@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Quinn can read 2 books per week
+* The challenge lasts for 10 weeks
+* For every 5 books read, Quinn receives a coupon for a free donut
+
+First, let's calculate the total number of books Quinn can read in 10 weeks:
+* 2 books per week x 10 weeks = 20 books
+
+Now, let's calculate how many free donut coupons Quinn would be eligible for:
+* 20 books / 5 books per coupon = 4 free donut coupons
+
+Therefore, the answer is:
+Answer: 4

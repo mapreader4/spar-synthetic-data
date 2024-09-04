@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Lydia has 60 liters of fuel in total
+* She will use a third of the fuel for the second third of the trip
+* She will use half of that amount for the final third of the trip
+
+First, let's calculate the amount of fuel needed for the second third of the trip:
+* 1/3 of 60 liters = 20 liters
+
+Next, let's calculate the amount of fuel needed for the final third of the trip:
+* 1/2 of 20 liters = 10 liters
+
+Now, we can calculate the amount of fuel Lydia can use in the first third of the trip:
+* Total fuel = 60 liters
+* Fuel used in second third = 20 liters
+* Fuel used in final third = 10 liters
+* Fuel used in first third = 60 - 20 - 10 = 30 liters
+
+Answer: 30 liters

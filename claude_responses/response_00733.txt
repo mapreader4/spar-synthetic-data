@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Henry collected 11 seashells
+* John collected 24 seashells
+* The total number of seashells collected initially was 59
+* We can calculate the number of seashells Leo collected by subtracting the number collected by Henry and John from the total:
+    - Total seashells collected = 59
+    - Seashells collected by Henry = 11
+    - Seashells collected by John = 24
+    - Seashells collected by Leo = 59 - 11 - 24 = 24
+* Leo then gave a quarter of his collection to a younger kid
+    - A quarter of 24 is 24 / 4 = 6
+    - So Leo gave away 6 seashells
+* The total number of seashells they have now is:
+    - Seashells collected by Henry = 11
+    - Seashells collected by John = 24
+    - Seashells collected by Leo = 24 - 6 = 18
+    - Total seashells = 11 + 24 + 18 = 53
+
+Answer: 53

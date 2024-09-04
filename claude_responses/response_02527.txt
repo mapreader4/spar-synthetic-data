@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The cafe has 9 indoor tables
+* Each indoor table has 10 chairs
+* So, the total number of chairs for the indoor tables is:
+  * 9 indoor tables x 10 chairs per table = 90 chairs
+* The cafe has 11 outdoor tables
+* Each outdoor table has 3 chairs
+* So, the total number of chairs for the outdoor tables is:
+  * 11 outdoor tables x 3 chairs per table = 33 chairs
+* To find the total number of chairs, we add the indoor chairs and outdoor chairs:
+  * 90 indoor chairs + 33 outdoor chairs = 123 chairs
+
+Answer: 123

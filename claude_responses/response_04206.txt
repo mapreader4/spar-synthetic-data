@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The puppy needs to eat 2 ounces of special dog food per day for the first 60 days of its life.
+* After 60 days, the puppy needs to eat 4 ounces of special dog food per day until it is 1 year old.
+* There are 16 ounces in a pound.
+* The special dog food is sold in 5-pound bags.
+
+First, let's calculate the total amount of special dog food needed for the first 60 days:
+* 2 ounces per day x 60 days = 120 ounces
+
+Next, let's calculate the total amount of special dog food needed from day 61 until the puppy is 1 year old (365 days):
+* 4 ounces per day x 305 days = 1,220 ounces
+
+The total amount of special dog food needed is:
+* 120 ounces + 1,220 ounces = 1,340 ounces
+
+Since there are 16 ounces in a pound, we can calculate the total pounds of special dog food needed:
+* 1,340 ounces / 16 ounces per pound = 83.75 pounds
+
+Finally, since the special dog food is sold in 5-pound bags, we can calculate the number of bags the family needs to buy:
+* 83.75 pounds / 5 pounds per bag = 16.75 bags
+
+Answer: 17 bags

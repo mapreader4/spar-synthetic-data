@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The jar of hot sauce contains less than 1 quart, which is 32 ounces.
+* The jar is 2 ounces less than 1 quart, so the total volume of the jar is 32 - 2 = 30 ounces.
+* Each serving is 0.5 ounces, and James uses 3 servings per day.
+* So, the amount of hot sauce James uses per day is 3 * 0.5 = 1.5 ounces.
+* To find how many days the jar will last, we divide the total volume of the jar (30 ounces) by the amount of hot sauce used per day (1.5 ounces).
+* 30 ounces / 1.5 ounces per day = 20 days.
+
+Answer: 20 days.

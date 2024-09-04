@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Lawrence worked 8 hours each day on Monday, Tuesday, and Friday.
+* He worked 5.5 hours on both Wednesday and Thursday.
+* We need to find how many hours he would work each day if he worked the same number of hours each day.
+
+To calculate the total number of hours Lawrence worked:
+* Monday, Tuesday, and Friday: 8 hours x 3 days = 24 hours
+* Wednesday and Thursday: 5.5 hours x 2 days = 11 hours
+* Total hours worked = 24 hours + 11 hours = 35 hours
+
+Now, to find the number of hours he would work each day if he worked the same number of hours each day, we divide the total hours worked by the number of days:
+* 35 hours / 5 days = 7 hours per day
+
+Therefore, if Lawrence worked the same number of hours each day, he would work 7 hours per day.
+
+Answer: 7

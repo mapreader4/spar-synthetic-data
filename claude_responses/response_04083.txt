@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Hawaii normally gets an average of 2 inches of rain per day
+* There are 100 days left in the year
+* They have already gotten 430 inches of rain
+
+To find the normal average for the year, we can calculate:
+* 2 inches per day x 365 days = 730 inches of rain per year
+
+Now, to find how many inches on average they need to finish the year with the normal average, we can do the following:
+* Total normal average for the year: 730 inches
+* Rain they have already received: 430 inches
+* Remaining rain needed: 730 inches - 430 inches = 300 inches
+* Remaining days in the year: 100 days
+* Average rain needed per day: 300 inches / 100 days = 3 inches per day
+
+Answer: 3 inches

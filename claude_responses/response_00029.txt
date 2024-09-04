@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Initially, Mrs. Snyder spent 40% of her monthly income on rent and utilities.
+2) Her salary was recently increased by $600.
+3) Now, her rent and utilities only amount to 25% of her monthly income.
+
+Let's call her previous monthly income "x".
+* Initially, she spent 40% of x on rent and utilities, which is 0.4x.
+* Her new monthly income is x + $600.
+* Now, she spends 25% of her new monthly income on rent and utilities, which is 0.25(x + $600).
+
+Since the amount she spends on rent and utilities is the same in both cases, we can set the two expressions equal to each other:
+0.4x = 0.25(x + $600)
+
+Solving for x:
+0.4x = 0.25x + $150
+0.15x = $150
+x = $1,000
+
+Therefore, Mrs. Snyder's previous monthly income was $1,000.
+
+Answer: $1,000

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: There are 3 blackbirds in each of the 7 trees. To find the total number of blackbirds, we multiply the number of blackbirds in each tree by the number of trees.
+
+3 x 7 = 21
+
+Step 2: There are 13 magpies roaming around the park. These are not blackbirds, so we do not include them in our count.
+
+Step 3: The total number of birds in the park is the sum of the number of blackbirds and the number of magpies.
+
+21 + 0 = 21
+
+Answer: 21

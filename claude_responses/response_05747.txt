@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The bag contains 8 black jellybeans.
+2) The bag contains 2 more green jellybeans than black jellybeans. So, there are 8 + 2 = 10 green jellybeans.
+3) The bag contains 1 less orange jellybean than green jellybeans. So, there are 10 - 1 = 9 orange jellybeans.
+4) To find the total number of jellybeans in the bag, we add up the black, green, and orange jellybeans:
+8 black + 10 green + 9 orange = 27 total jellybeans.
+
+Answer: 27

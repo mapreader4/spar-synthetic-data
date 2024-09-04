@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Mary and her two friends agreed to evenly pay for the cost of 2 pounds of chicken
+* Mary's mother bought:
+  - 2 pounds of chicken
+  - 3 pounds of beef at $4 per pound
+  - 1 liter of oil at $1
+* The total cost of the grocery was $16
+* To find out how much Mary and her two friends should pay each for the chicken, we need to:
+  1. Calculate the cost of the chicken
+  2. Divide the cost of the chicken by 3 (since there are 3 of them)
+
+Step 1: Calculating the cost of the chicken
+* The cost of the 3 pounds of beef is 3 x $4 = $12
+* The cost of the 1 liter of oil is $1
+* The total cost of the grocery is $16
+* So the cost of the chicken must be $16 - $12 - $1 = $3
+
+Step 2: Dividing the cost of the chicken by 3
+* The cost of the chicken is $3
+* Dividing $3 by 3 gives us $1 per person
+
+Answer: $1

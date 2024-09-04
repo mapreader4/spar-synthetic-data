@@ -1,0 +1,13 @@
+Let's start by identifying the number of donuts Sophie bought.
+
+Sophie bought 4 boxes of donuts, and each box has 12 donuts. So, the total number of donuts she bought is 4 * 12 = 48.
+
+Now, Sophie gave 1 box (12 donuts) to her mom. That leaves her with 3 boxes of donuts.
+
+Then, she gave half a dozen (6) to her sister. So, she gave away 6 donuts.
+
+Now, let's calculate the total number of donuts Sophie gave away: 12 (from the box she gave to her mom) + 6 (from the box she gave to her sister) = 18 donuts.
+
+Now, let's subtract the total number of donuts she gave away from the total number of donuts she bought: 48 (total donuts) - 18 (donuts given away) = 30 donuts.
+
+So, Sophie has 30 donuts left.

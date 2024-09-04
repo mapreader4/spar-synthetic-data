@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The supermarket has 2355 loaves of bread at the start of the day.
+2. 629 loaves are sold in the afternoon, which means the number of loaves left is 2355 - 629 = 1726.
+3. 489 loaves are delivered to the supermarket in the evening, which means the total number of loaves is 1726 + 489 = 2215.
+4. Therefore, at the end of the day, there are 2215 loaves of bread.
+
+Answer: 2215

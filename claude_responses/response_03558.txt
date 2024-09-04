@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Rocky boxed 190 fights in his career
+* 50% of his fights were knockouts
+* To calculate the number of knockouts:
+  * 50% of 190 fights = 0.5 * 190 = 95 knockouts
+* 20% of the knockouts were in the first round
+* To calculate the number of first-round knockouts:
+  * 20% of 95 knockouts = 0.2 * 95 = 19 first-round knockouts
+
+Answer: 19

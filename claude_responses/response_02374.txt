@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There are 300 employees in the factory.
+2) 200 of them earn $12 per hour.
+3) The remaining 100 employees (300 - 200 = 100) are split into two groups:
+   a) 40 of them earn $14 per hour.
+   b) The remaining 60 (100 - 40 = 60) earn $17 per hour.
+4) To calculate the cost for the 8-hour shift:
+   a) 200 employees earning $12 per hour for 8 hours: 200 * $12 * 8 = $19,200
+   b) 40 employees earning $14 per hour for 8 hours: 40 * $14 * 8 = $4,480
+   c) 60 employees earning $17 per hour for 8 hours: 60 * $17 * 8 = $8,160
+5) Adding up the costs:
+   $19,200 + $4,480 + $8,160 = $31,840
+
+Answer: 31,840

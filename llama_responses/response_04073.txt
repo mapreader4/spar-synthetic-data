@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+The first tree is 40% red and 60% green. This means that for every 100 apples, 40 apples are red and 60 apples are green. The second tree is 50% red and 50% green. This means that for every 100 apples, 50 apples are red and 50 apples are green.
+
+If the trees each produce 20 apples, then the total number of apples is 20. For the first tree, 40% of these apples are red. So, the number of red apples from the first tree is 8. For the second tree, 50% of these apples are red. So, the number of red apples from the second tree is 10. Therefore, the total number of red apples is 18.
+
+Answer: 18

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* A pad of paper comes with 60 sheets
+* Evelyn uses a pad of paper writing notes at work every week
+* She takes Monday and Friday off from work
+* So, she works 3 days per week (Tuesday, Wednesday, Thursday)
+* In a week, she uses 60 sheets of paper
+* To find the number of sheets used per day, we divide the total sheets used per week (60) by the number of work days per week (3)
+* 60 sheets / 3 days = 20 sheets per day
+
+Answer: 20

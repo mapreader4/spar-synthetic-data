@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find out how many tickets they sold:
+
+They sold 24 tickets, and they can hold 50 people, so they must have sold less than 50 tickets. 50 - 24 = 26. So, they didn't sell 26 tickets.
+
+The cost of the tickets is $8.00, so the total revenue is:
+
+24 x $8.00 = $192.00
+
+Since they didn't sell 26 tickets, the revenue they lost is the difference between the total revenue and the revenue they could have made if they had sold 50 tickets:
+
+$192.00 - 50 x $8.00 = $160.00
+
+So, the answer is:
+
+Answer: $32.00

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+James buys $3000 worth of stuff from Amazon. He returns a TV that cost $700 and a bike that cost $500. 
+
+So, he has spent $700 + $500 = $1200 so far.
+
+He then sells a bike that cost 20% more than the bike he returned, which is $500. The bike he returned was $500, so the bike he sold was $500 + 20% of $500 = $500 + 0.20 * $500 = $600. He sells it for 80% of what he bought it for, which is 0.8 * $600 = $480.
+
+So, he gets $480 for the bike.
+
+He then buys a toaster for $100.
+
+In total, he has spent $1200 - $480 + $100 = $820.
+
+Answer: 820

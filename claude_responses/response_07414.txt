@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The class has 45 students total.
+2) One-third of the class is under 11 years old. One-third of 45 is 15 students.
+3) Two-fifths of the class is above 11 but under 13 years old. Two-fifths of 45 is 18 students.
+4) The remaining students must be 13 years and above.
+5) To find the number of students 13 years and above, we take the total number of students (45) and subtract the number of students under 11 (15) and the number of students above 11 but under 13 (18).
+6) 45 - 15 - 18 = 12 students.
+
+Answer: 12

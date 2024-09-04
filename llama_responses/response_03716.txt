@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+John starts at an elevation of 400 feet.  He travels downward at a rate of 10 feet per minute for 5 minutes.  That means he travels 5 * 10 = 50 feet in 1 minute.  In 5 minutes, he will travel 5 * 50 = 250 feet.  Since he is traveling downward, his new elevation is 400 - 250 = 150 feet.
+
+Answer: 150

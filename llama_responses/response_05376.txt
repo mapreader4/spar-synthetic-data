@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+In the first semester, Eva scored 10 more marks in maths than in the second semester. In the second semester, she scored 80 marks in maths, so in the first semester, she scored 80 + 10 = 90 marks in maths.
+
+In the first semester, she scored 15 marks less in arts than in the second semester. In the second semester, she scored 90 marks in arts, so in the first semester, she scored 90 - 15 = 75 marks in arts.
+
+In the first semester, she scored 1/3 marks less in science than in the second semester. In the second semester, she scored 90 marks in science, so in the first semester, she scored 90 - (1/3)*90 = 90 - 30 = 60 marks in science.
+
+Now, let's calculate the total marks in both semesters:
+
+First semester:
+Maths: 90
+Arts: 75
+Science: 60
+Total: 225
+
+Second semester:
+Maths: 80
+Arts: 90
+Science: 90
+Total: 260
+
+Total marks in both semesters: 225 + 260 = 485
+
+Answer: 485

@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) We have 400 adults and 200 children attending the Broadway show.
+2) The price of an adult ticket is twice that of a child's ticket.
+3) Let's represent the price of a child's ticket as x.
+4) Then the price of an adult ticket is 2x.
+5) The total amount collected is $16,000.
+6) The total revenue can be calculated as: (400 * 2x) + (200 * x) = 16,000
+7) Simplifying this equation, we get: 800x + 200x = 16,000
+8) Solving for x, we get: 1000x = 16,000
+9) x = $16.
+
+Answer: 32

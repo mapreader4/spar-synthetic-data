@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+1. Mr. Eithan received a $2000 stimulus check.
+2. He gave 2/5 of the amount to his wife, which is 2/5 * 2000 = $800.
+3. So, the remaining amount is 2000 - 800 = $1200.
+4. He gave 2/5 of the remaining amount to his first son, which is 2/5 * 1200 = $480.
+5. So, the remaining amount is 1200 - 480 = $720.
+6. He gave 40% of the remaining amount to his second son, which is 0.4 * 720 = $288.
+7. So, the remaining amount is 720 - 288 = $432.
+8. Mr. Eithan kept the remaining amount in their family savings account, which is $432.
+
+Answer: 432

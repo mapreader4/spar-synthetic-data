@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) We know that 3 crows eat 30 worms in one hour.
+2) This means that 1 crow eats 10 worms in one hour (30 worms / 3 crows = 10 worms per crow).
+3) We want to know how many worms 5 crows will eat in 2 hours.
+4) In 1 hour, 5 crows will eat 5 * 10 = 50 worms.
+5) In 2 hours, 5 crows will eat 2 * 50 = 100 worms.
+
+Answer: 100

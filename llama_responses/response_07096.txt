@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Step 1: Find the price of 1 bottle of gummy vitamins.
+
+The price of 1 bottle of gummy vitamins is $15.00.
+
+Step 2: Calculate the discount on the price of gummy vitamins.
+
+The discount is 20%, so to find the discounted price, multiply the original price by 0.8.
+
+$15.00 * 0.8 = $12.00
+
+Step 3: Apply the coupons to the discounted price.
+
+The coupons are $2.00, and there are 3 of them, so subtract the coupons from the discounted price.
+
+$12.00 - $2.00 = $10.00
+
+Step 4: Find the total cost of 3 bottles of gummy vitamins.
+
+The cost of 1 bottle is $10.00, and Ken wants 3 bottles, so multiply the cost by 3.
+
+$10.00 * 3 = $30.00
+
+Answer: 30

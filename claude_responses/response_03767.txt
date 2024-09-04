@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jon scored 3 points
+* Jack scored 5 points more than Jon, so Jack scored 3 + 5 = 8 points
+* Tom scored 4 less than the points of Jon and Jack together, so Tom scored (3 + 8) - 4 = 7 points
+
+Now, to find the total points scored, we add up the points of Jon, Jack, and Tom:
+* Total points = Jon's points + Jack's points + Tom's points
+* Total points = 3 + 8 + 7 = 18
+
+Answer: 18

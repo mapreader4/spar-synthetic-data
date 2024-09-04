@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say the time it takes Max to mow the lawn is x minutes. Then, the time it takes him to fertilize the lawn is 2x minutes. To find the total time it takes Max to both mow and fertilize the lawn, we can add the two times together.
+
+So, the total time is x + 2x.
+
+Since the total time it takes Max to mow the lawn is 40 minutes, we know that x = 40.
+
+So, the time it takes Max to fertilize the lawn is 2x = 2 * 40 = 80.
+
+Now, we can add the two times together: 40 + 80 = 120.
+
+Therefore, the answer is:
+
+Answer: 120

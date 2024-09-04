@@ -1,0 +1,9 @@
+Let's break down the information given in the problem. We know that Jose has 2400 bottles of imported wine and half as many bottles of domestic wine. Since there are 2400 bottles of imported wine, there must be 1200 bottles of domestic wine.
+
+If Jose holds a party and the guests drink one-third of all his wine, we need to find one-third of the total number of bottles. To find this, we need to add the number of domestic and imported bottles together and then divide by 3.
+
+The total number of bottles is 2400 + 1200 = 3600. To find one-third of this number, we divide by 3.
+
+3600 / 3 = 1200
+
+So, 1200 bottles of wine will remain in Jose's cellar.

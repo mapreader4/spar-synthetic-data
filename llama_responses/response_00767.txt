@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the total number of kids, which is 40.
+
+A fourth of the kids went tubing, which means that 1/4 * 40 = 10 kids went tubing.
+
+Now, let's find the number of kids who went rafting. Half of the tubers went rafting, which means that 1/2 * 10 = 5 kids went rafting.
+
+Now, we want to find the number of kids who joined the rafting excursion who also went tubing. We can do this by taking the number of kids who went rafting, which is 5, and subtracting it from the total number of kids who went tubing, which is 10. So, the answer is 5 - 10 = 5.
+
+Answer: 5

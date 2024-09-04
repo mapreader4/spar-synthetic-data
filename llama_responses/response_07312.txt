@@ -1,0 +1,19 @@
+Let's start by identifying the number of pages in the first and second months' issues.
+
+Let's call the number of pages in the first and second months' issues "x". Then, the third month's issue was four pages longer than the first two months' issues, so it has "x + 4" pages.
+
+We know that the first issue has 220 pages in total, and the first two months' issues have the same number of pages. So, the first two issues have x pages. Then, the third issue has x + 4 pages.
+
+We can set up an equation to solve for x:
+
+x + x = 220 - 2x = 220
+
+Simplify the equation to:
+
+2x = 220 - 2x
+
+2x = 110
+
+So, the first issue has 110 pages.
+
+Answer: 110

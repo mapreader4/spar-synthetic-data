@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The river is 50 yards wide at one end
+* The river's width increases by 2 yards every 10 meters along
+* Rodney and Todd are rowing at a rate of 5 m/s
+* We need to find how long it will take them to reach the point where the river is 80 yards wide
+
+First, let's calculate the distance they need to row to reach the 80 yard wide point:
+* The river starts at 50 yards wide and increases by 2 yards every 10 meters
+* To reach 80 yards wide, the river must have increased by 30 yards (80 - 50 = 30)
+* 30 yards / 2 yards per 10 meters = 150 meters
+
+Now, we can calculate the time it takes them to row 150 meters at 5 m/s:
+* 150 meters / 5 m/s = 30 seconds
+
+Therefore, it will take Rodney and Todd 30 seconds to reach the point where the river is 80 yards wide.
+
+Answer: 30

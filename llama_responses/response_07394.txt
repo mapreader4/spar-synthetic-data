@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The number of tents in the northernmost part of the campsite is 100.
+2. The number of tents on the east side of the grounds is twice the number of tents in the northernmost part, so it's 2 x 100 = 200.
+3. The number of tents at the center of the camp is four times the number of tents in the northernmost part, so it's 4 x 100 = 400.
+4. The number of tents in the southern part of the campsite is 200.
+5. To find the total number of tents in the recreation area, we add up the number of tents in each part: 100 + 200 + 400 + 200 =?
+
+Answer: 800

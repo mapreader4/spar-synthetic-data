@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Carson runs a carpool for 5 of his friends
+* The total commute is 21 miles one way
+* Gas costs $2.50 per gallon
+* Carson's car gets 30 miles per gallon
+* They commute to work 5 days a week, 4 weeks a month
+
+First, let's calculate the total miles driven per month:
+* 21 miles one way x 2 (round trip) = 42 miles per day
+* 42 miles per day x 5 days per week = 210 miles per week
+* 210 miles per week x 4 weeks per month = 840 miles per month
+
+Next, let's calculate the amount of gas needed per month:
+* 840 miles per month / 30 miles per gallon = 28 gallons of gas per month
+
+Now, let's calculate the total cost of gas per month:
+* 28 gallons of gas per month x $2.50 per gallon = $70 per month
+
+Finally, to calculate how much each person pays toward gas monthly:
+* $70 per month / 6 people (Carson and his 5 friends) = $11.67 per person per month
+
+Answer: 12 (rounded to the nearest whole number)

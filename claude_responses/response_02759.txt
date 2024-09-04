@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Ryan bikes to work once a week, and it takes him 30 minutes to do so.
+2. He takes the bus three times a week, and the bus takes 10 minutes longer than biking, so 30 + 10 = 40 minutes per bus trip.
+3. He gets a ride from a friend once a week, and this cuts two-thirds off his biking time, so 30 - (2/3 * 30) = 30 - 20 = 10 minutes.
+
+Now, let's calculate the total time spent commuting to work every week:
+* Biking: 1 day x 30 minutes = 30 minutes
+* Bus: 3 days x 40 minutes = 120 minutes
+* Friend's ride: 1 day x 10 minutes = 10 minutes
+
+Adding these up, we get:
+* Total time spent commuting to work every week = 30 + 120 + 10 = 160 minutes
+
+Answer: 160 minutes

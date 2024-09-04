@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of steps it takes Jake to get to the ground floor. Since the stairs have 30 steps across each floor, and there are 9 floors, the total number of steps is 9 x 30 = 270 steps.
+
+Since Jake takes 3 steps every second, we can divide the total number of steps by 3 to find the number of seconds it takes him to get to the ground floor:
+
+270 steps / 3 = 90 seconds
+
+Since the elevator takes 1 minute to get to the ground floor, we can add the 90 seconds it takes Jake to get to the ground floor to the 1 minute the elevator takes:
+
+90 seconds + 1 minute = 1 minute + 90 seconds = 2 minutes
+
+So, Jake will get to the ground floor 2 minutes after Austin.

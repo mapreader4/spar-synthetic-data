@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John buys 5 toys
+2) Each toy costs $3
+3) So the total cost of the 5 toys without any discount would be:
+   5 toys x $3 per toy = $15
+4) John gets a 20% discount
+5) To calculate the discount, we take 20% of the total cost:
+   20% of $15 = 0.20 x $15 = $3
+6) The total cost after the 20% discount would be the original cost minus the discount:
+   $15 - $3 = $12
+Answer: $12

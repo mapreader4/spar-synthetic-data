@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The factory hires 20 people
+* Each person makes an average of 20 shirts per day during their 8-hour shift
+* So the total number of shirts made per day is 20 people x 20 shirts per person = 400 shirts
+* Each employee gets paid $12 per hour, and they work 8 hours per day, so the total labor cost per day is 20 people x $12 per hour x 8 hours = $1,920
+* Each employee also gets $5 per shirt they make, so the total shirt-based pay is 20 people x $5 per shirt x 20 shirts per person = $2,000
+* The total employee-related costs per day is $1,920 + $2,000 = $3,920
+* The company sells each shirt for $35
+* So the total revenue from selling 400 shirts is 400 shirts x $35 per shirt = $14,000
+* The non-employee expenses are $1,000 per day
+* Therefore, the company's profit per day is:
+Revenue ($14,000) - Employee costs ($3,920) - Non-employee costs ($1,000) = $9,080
+
+Answer: $9,080

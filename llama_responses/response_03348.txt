@@ -1,0 +1,13 @@
+Let's break down the information given in the question:
+
+* Skyler wrote 25 hit songs that made it on the top 10 charts.
+* 10 more songs that made it on the top 100 charts than the hit songs.
+* 5 fewer songs than the hit songs that were never released.
+
+We can find the total number of songs written by Skyler as follows:
+
+25 (the 25 hit songs) + 10 (the 10 more songs) + 5 (the 5 fewer songs) = 30
+
+So, the answer is:
+
+Answer: 30

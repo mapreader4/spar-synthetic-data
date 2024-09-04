@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Initially, the flag is raised to the top of the 60-foot flagpole, which means it has moved 60 feet up.
+
+Then, the flag is lowered to half-mast, which means it has moved halfway down the pole, or 30 feet down. So, the total distance moved so far is:
+
+60 feet up (initially) - 30 feet down (lowered to half-mast) = 30 feet up
+
+Next, the flag is raised back to the top of the pole, which means it has moved 30 feet up again. So, the total distance moved so far is:
+
+30 feet up (initially) + 30 feet up (raised back to top) = 60 feet up
+
+Finally, the flag is completely lowered, which means it has moved 60 feet down. So, the total distance moved over the course of the day is:
+
+60 feet up (initially) + 30 feet up (raised back to top) - 60 feet down (completely lowered) = 30 feet
+
+Answer: 30

@@ -1,0 +1,23 @@
+Let's break this down step by step:
+
+1. Let's start by identifying the information given in the problem. We know that John is twice as old as Mary and half as old as Tonya. So, let's start by writing an equation to represent this information.
+
+John's age = 2 * Mary's age
+John's age = 2 * (Mary's age)
+John's age = 2 * (2 * Mary's age) = 2 * (2 * Mary's age)
+
+2. Now we know that Tanya is 60. So, we can substitute Mary's age into the equation.
+
+John's age = 2 * Mary's age = 2 * 60
+John's age = 2 * 60
+John's age = 120
+
+3. Since John's age is 120, we know that Mary's age is half of that, which is 60. So, we can find the average age by adding Mary's age to Tonya's age.
+
+Mary's age + Tonya's age = John's age
+Mary's age + Tonya's age = 120
+Mary's age + Tonya's age = 60 + Tonya's age
+
+4. Finally, we can conclude that the average age is 60 + Tonya's age.
+
+Answer: 60

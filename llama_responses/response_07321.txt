@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start with the number of vans: 9 vans, and the number of people in each van: 8. So the total number of people in vans is 9 * 8 = 72.
+
+Next, let's look at the number of buses: 10 buses, and the number of people in each bus: 27. So the total number of people in buses is 10 * 27 = 270.
+
+Now, let's add the number of people in vans and buses together: 72 + 270 = 342.
+
+Answer: 342

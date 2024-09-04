@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Annie spent a total of 67 minutes on the diorama
+* The amount of time she spent building it is equal to three times the amount of time she spent planning it minus 5 minutes
+* Let's represent the amount of time she spent planning it as "x" minutes
+* So the amount of time she spent building it is 3x - 5 minutes
+* We know the total time spent is 67 minutes, so we can set up an equation:
+x + (3x - 5) = 67
+* Simplifying this equation:
+4x - 5 = 67
+* Solving for x:
+4x = 72
+x = 18
+* So she spent 18 minutes planning the diorama
+* And she spent 3(18) - 5 = 49 minutes building the diorama
+
+Answer: 49 minutes

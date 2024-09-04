@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's first identify the given information:
+
+* The Dark Lord needs to transport 1200 pounds of swords.
+* He has 10 squads of 8 orcs each.
+
+To find the total number of orcs, we multiply the number of squads by the number of orcs per squad: 10 squads x 8 orcs = 80 orcs.
+
+Now, we need to find the weight of swords each orc needs to carry. To do this, we divide the total weight of swords by the number of orcs: 1200 pounds ÷ 80 orcs = 15 pounds per orc.
+
+So, each orc needs to carry 15 pounds of swords.
+
+Answer: 15

@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The sum of the three angles of a triangle is 180 degrees.
+2) However, the problem states that the sum of the three angles is 250 degrees.
+3) The left angle is twice the right angle's value, and the right angle is 60 degrees.
+4) So, the left angle is 2 * 60 = 120 degrees.
+5) The right angle is 60 degrees.
+6) The top angle is the remaining angle, so it must be 250 - 120 - 60 = 70 degrees.
+
+Answer: 70

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+We know that Mr. Wells has a garden with 50 rows. Each row has 400 flowers. So, there are a total of 50 * 400 = 20,000 flowers.
+
+If Mr. Wells cuts 60% of the flowers, then he cuts 0.6 * 20,000 = 12,000 flowers.
+
+To find the remaining flowers, we subtract the cut flowers from the total flowers: 20,000 - 12,000 = 8,000 flowers.
+
+Answer: 8,000

@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+* We know that 2 machines make 10 cell phones per minute
+* This means that 1 machine makes 5 cell phones per minute (10 cell phones / 2 machines)
+* We want to find how many machines it would take to make 50 cell phones per minute
+* To do this, we need to divide the desired output (50 cell phones per minute) by the output of one machine (5 cell phones per minute)
+* 50 cell phones per minute / 5 cell phones per minute per machine = 10 machines
+
+Answer: 10 machines

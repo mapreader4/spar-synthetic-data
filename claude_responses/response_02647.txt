@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 200 snakes in the park in total.
+2) There are three times as many pythons as boa constrictors.
+3) There are 40 boa constrictors.
+4) Since there are three times as many pythons as boa constrictors, and there are 40 boa constrictors, the number of pythons is 3 * 40 = 120.
+5) The remaining snakes must be rattlesnakes. To find the number of rattlesnakes, we subtract the number of boa constrictors and the number of pythons from the total number of snakes:
+200 - 40 - 120 = 40.
+Answer: 40

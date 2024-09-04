@@ -1,0 +1,5 @@
+To find the time Terry spends driving from home to the workplace and back, we need to calculate the distance of the round trip. The distance from Terry's home to his workplace is 60 miles. Since he drives back and forth, the round trip distance is 60 + 60 = 120 miles.
+
+The speed Terry drives at is 40 miles per hour. To find the time spent driving, we can use the formula time = distance / speed. Time = 120 / 40 = 3 hours.
+
+Answer: 3

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tom drinks 5 12-oz cans of soda per day
+* 5 cans x 12 oz per can = 60 oz of soda per day
+* Tom also drinks 64 oz of water per day
+* So the total fluid Tom drinks per day is:
+  - 60 oz of soda + 64 oz of water = 124 oz of fluid per day
+* There are 7 days in a week
+* So the total fluid Tom drinks in a week is:
+  - 124 oz of fluid per day x 7 days per week = 868 oz of fluid per week
+
+Answer: 868

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total number of hours Amanda will work on Monday, Tuesday, and Thursday.
+
+Monday: 5 x 1.5 hours = 7.5 hours
+Tuesday: 1 x 3 hours = 3 hours
+Thursday: 2 x 2 hours = 4 hours
+
+Adding these up, Amanda will work a total of 7.5 + 3 + 4 = 14.5 hours.
+
+Next, we need to add the 6 hours she will work on Saturday.
+
+14.5 + 6 = 20.5 hours
+
+Finally, we multiply the total hours worked by her hourly rate of $20.00.
+
+20.5 hours x $20.00 per hour = $405.00
+
+Answer: 405

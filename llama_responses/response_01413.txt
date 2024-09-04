@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Day 1: Maria sold 30 tulips and 20 roses. So, the total amount earned on the first day is:
+
+30 tulips * 2 = 60 dollars (since each tulip costs 2 dollars)
+20 roses * 3 = 60 dollars (since each rose costs 3 dollars)
+Total amount earned on day 1 = 60 + 60 = 120 dollars
+
+Day 2: Maria doubled the previous day's sales, so she sold 2 * (30 tulips + 20 roses) = 2 * 50 = 100 flowers. Since the price of a tulip is 2 dollars and the price of a rose is 3 dollars, the total amount earned on the second day is:
+
+100 * 2 = 200 dollars (tulips)
+100 * 3 = 300 dollars (roses)
+Total amount earned on day 2 = 200 + 300 = 500 dollars
+
+Day 3: Maria sold 10% of the tulips sold on the second day, which is 10% of 100 = 10. So, she sold 10 tulips. She also sold 16 roses. The total amount earned on the third day is:
+
+10 tulips * 2 = 20 dollars
+16 roses * 3 = 48 dollars
+Total amount earned on day 3 = 20 + 48 = 68 dollars
+
+To find the total amount earned over the three days, we add up the amounts earned on each day:
+
+120 + 500 + 68 = 688
+
+Answer: 688

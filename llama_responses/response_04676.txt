@@ -1,0 +1,7 @@
+Let's break down the information given in the problem step by step.
+
+1. Tim gets the maximum $1200 from 500 people. This is the initial donation.
+2. Three times as many people donated half this sum of money to his campaign. So, three times 500 is 1500, and half of 1200 is 600. So, 1500 + 600 is 2100 people donated to the campaign.
+3. These donations together accounted for 40% of the total money that Tim raised. So, the total money Tim raised is 100% - 40% = 60% of the total money. 2100 is 40% of the total money, so the total money is 2100 / 0.4 = 5250. 5250 * 0.6 = 3150.
+
+Answer: 3150

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Sam eats 4 apples for every sandwich he eats
+* He eats 10 sandwiches every day
+* We want to know how many apples he eats in one week
+
+First, let's calculate how many apples he eats in one day:
+* 10 sandwiches per day x 4 apples per sandwich = 40 apples per day
+
+Now, let's calculate how many apples he eats in one week:
+* 40 apples per day x 7 days in a week = 280 apples
+
+Therefore, the answer is:
+Answer: 280

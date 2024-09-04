@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that there are three times as many children as adults attending the concert.
+2) Let's say the number of adults is x.
+3) Then the number of children is 3x.
+4) The total revenue from the ticket sales is $6,000.
+5) The revenue from adult tickets is 7x, and the revenue from child tickets is 3x * 3 = 9x.
+6) The total revenue is 7x + 9x = 16x.
+7) We know the total revenue is $6,000, so 16x = 6,000.
+8) Solving for x, we get x = 375.
+9) Therefore, the number of adults is 375, and the number of children is 3 * 375 = 1,125.
+10) The total number of people who bought tickets is 375 + 1,125 = 1,500.
+
+Answer: 1,500

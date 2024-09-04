@@ -1,0 +1,15 @@
+Let's start by letting Jake sell $x$ stuffed animals.
+
+Since Quincy sold 10 more stuffed animals than Jake, we know that Quincy sold $x + 10$ stuffed animals. Quincy sold 10 times as many stuffed animals as Jake, so we know that $x = 10$. We are asked to find the difference in the number of stuffed animals that Quincy sold compared to Jake.
+
+We know that Quincy sold 200 stuffed animals, and Jake sold $x$ stuffed animals. So the difference is 200 - $x$ stuffed animals. We can set up an equation:
+
+200 - $x$ = 200 - $x$
+
+Since we know that $x = 10$, we can substitute $x$ with 10 and solve the equation:
+
+200 - 10 = 200 - 10
+
+200 - 10 = 190
+
+So the difference is 190 stuffed animals. So Quincy sold 190 more stuffed animals than Jake.

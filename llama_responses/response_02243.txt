@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of lilacs sold. We know that Ginger sold 10 lilacs.
+
+Now, we are told that she sold three times more roses than lilacs. So, the number of roses sold is 10 x 3 = 30.
+
+We are also told that she sold half as many gardenias as lilacs. We know that she sold 10 lilacs, so to find the number of gardenias, we can multiply the number of lilacs by 0.5. 10 * 0.5 = 5.
+
+Now, we add the number of roses, lilacs, and gardenias together to get the total number of flowers sold.
+
+30 (roses) + 10 (lilacs) + 5 (gardenias) = 45
+
+So, the total number of flowers sold on Tuesday is 45.

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+* The auctioneer raises the price by $5 every time someone new bids on the item
+* The price of the desk starts at $15 and goes up to $65
+* The price increase is $50 (from $15 to $65)
+* Since the price increases by $5 each time, we can divide the total price increase by $5 to find the number of times someone bid:
+* $50 / $5 = 10
+* Therefore, the desk was bid on 10 times.
+* Since there are two people in a bidding war, each person must have bid 5 times.
+
+Answer: 5

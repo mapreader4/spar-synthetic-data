@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: The pond can hold 200 gallons of water, and the hose can pump 6 gallons per minute. So, in 1 minute, the hose can pump 6 gallons of water.
+
+Step 2: The hose is pumping at 2/3rds of its normal rate, which means it can pump 2 gallons per minute.
+
+Step 3: To find the time it will take to fill the pond, we need to find the total number of gallons it will take to fill the pond. Since the pond can hold 200 gallons of water, and the hose can pump 2 gallons per minute, we can set up an equation to solve for the time.
+
+Let x be the number of minutes it will take to fill the pond. Then, we can set up the equation: 2x = 200.
+
+Step 4: To solve for x, we need to divide both sides of the equation by 2 to get: 2x/2 = 200/2.
+
+Step 5: 2x/2 = 100, so x = 100.
+
+Answer: 100

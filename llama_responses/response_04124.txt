@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's first find the amount of water Timmy's pail holds.
+
+Timmy's pail holds twice as much water as Tommy's, and Tommy's holds 2 gallons more than Tina's.  We know Tina's pail holds 4 gallons.  So, Tommy's pail holds 4 + 2 = 6 gallons.  Therefore, Timmy's pail holds 6/2 = 3 gallons.
+
+So, the amount of water Timmy's pail holds is 3 gallons.
+
+Now, let's find the amount of water Tommy's pail holds.  Tommy's pail holds 2 gallons more than Tina's, and Tina's pail holds 4 gallons.  So, Tommy's pail holds 4 + 2 = 6 gallons.
+
+So, the amount of water Tommy's pail holds is 6 gallons.
+
+Now, let's find the amount of water Tina's pail holds.  Tina's pail holds 4 gallons.
+
+Now, let's add up the amount of water each of them holds.
+
+Timmy's pail holds 3 gallons, Tommy's pail holds 6 gallons, and Tina's pail holds 4 gallons.
+
+The total amount of water they hold is 3 + 6 + 4 = 13 gallons.
+
+So, after 3 trips each, the pool will be filled with 13 gallons of water.
+
+Answer: 13

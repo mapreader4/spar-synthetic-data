@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's say Mrs. Snyder's monthly income is x.
+
+Since she spends 40% of her monthly income on rent and utilities, the amount she spends on rent and utilities is 0.4x.
+
+After her salary increased by $600, her rent and utilities now only amount to 25% of her monthly income. So, the new amount she spends on rent and utilities is 0.25x.
+
+We can set up an equation to represent this:
+
+0.25x = 0.4x + 600
+
+Now, we can solve for x.
+
+First, we can subtract 0.4x from both sides of the equation:
+
+0.25x - 0.4x = 600
+
+This gives us:
+
+0.05x = 600
+
+Now, we can divide both sides of the equation by 100 to get:
+
+x = 600 / 0.05
+
+x = 12,000
+
+So, Mrs. Snyder's previous monthly income was $12,000.

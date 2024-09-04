@@ -1,0 +1,42 @@
+Let's start by identifying the ages of the three siblings.
+
+Let's say the ages of Halima, Beckham, and Michelle are x, y, and z, respectively.
+
+We know that the ratio of their ages is 4:3:7. This means that the ratio of x to y is 4:3, and the ratio of y to z is 7.
+
+We can write this as a proportion:
+
+x:y = 4:3
+y:z = 7
+
+We can simplify this proportion to get:
+
+x = 4k and y = 3k and z = 7k, for some integer k.
+
+We know that the total age of the three siblings is 126. We can set up an equation using the sum of the three ages:
+
+x + y + z = 126
+
+Substituting the expressions for x, y, and z, we get:
+
+4k + 3k + 7k = 126
+
+Combine like terms:
+
+11k = 126
+
+Divide both sides by 11:
+
+k = 11
+
+Now we know that k = 11. We can substitute back into the expressions for x, y, and z:
+
+x = 4k = 4(11) = 44
+y = 3k = 3(11) = 33
+z = 7k = 7(11) = 77
+
+The age difference between Halima and Beckham is the difference between y and x:
+
+y - x = 33 - 44 = -11
+
+So, the age difference between Halima and Beckham is 11 years.

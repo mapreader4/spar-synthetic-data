@@ -1,0 +1,26 @@
+Okay, let's break this down step by step:
+* Tom takes 2 pills every day before bed
+* He needs to go to the doctor every 6 months to get a new prescription
+* A visit to the doctor costs $400
+* The medication costs $5 per pill
+* Insurance covers 80% of the medication cost
+
+First, let's calculate the cost of the medication per year:
+* Tom takes 2 pills per day
+* That's 2 pills x 365 days = 730 pills per year
+* The medication costs $5 per pill, but insurance covers 80% of that cost
+* So the cost per pill after insurance is $5 x (1 - 0.8) = $1
+* The total cost of the medication per year is 730 pills x $1 per pill = $730
+
+Next, let's calculate the cost of the doctor visits per year:
+* Tom needs to go to the doctor every 6 months
+* That's 2 visits per year
+* Each visit costs $400
+* The total cost of the doctor visits per year is 2 visits x $400 per visit = $800
+
+Finally, let's add up the total cost per year:
+* Medication cost per year: $730
+* Doctor visit cost per year: $800
+* Total cost per year: $730 + $800 = $1,530
+
+Answer: $1,530

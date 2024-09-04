@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+1) Anthony originally had 16 pets.
+2) He lost 6 pets when he forgot to lock the door.
+3) After that, 1/5 of his remaining pets died from old age.
+4) To calculate how many pets died from old age, we take 1/5 of the remaining pets after the 6 were lost:
+   * Remaining pets after losing 6: 16 - 6 = 10
+   * 1/5 of 10 = 2 pets died from old age
+5) So the total number of pets Anthony has left is:
+   * Original 16 pets
+   * Minus 6 pets lost
+   * Minus 2 pets that died from old age
+   * 16 - 6 - 2 = 8 pets
+
+Answer: 8

@@ -1,0 +1,9 @@
+Let's start by finding the carrying capacity of the bus. The carrying capacity is 80 people. 
+
+Let's assume that 3/5 of the carrying capacity is the number of people who entered the bus at the first pick-up point. 3/5 of 80 is 48. So, 48 people entered the bus.
+
+The bus is now 48 people. At the next pick-up point, there are 50 people who want to take the bus. We need to find out how many people could not take the bus because it was full.
+
+Let's subtract 48 (the number of people who are already in the bus) from the carrying capacity of 80. This gives us the number of people who could not take the bus. 80 - 48 is 32.
+
+Answer: 32

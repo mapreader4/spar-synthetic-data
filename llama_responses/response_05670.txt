@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Initially, there are 6 tables with 3 students at each table. So, the number of students currently in the class is:
+
+6 tables x 3 students/table = 18 students
+
+Now, Sally said 3 girls went to the bathroom, which means 3 students are missing. Then, three times more students went to the canteen, which means:
+
+3 students x 3 = 9 students
+
+So, 9 more students are missing. This brings the total number of missing students to:
+
+3 (bathroom) + 9 (canteen) = 12 students
+
+Elliott mentioned that 2 groups of students have recently been added to the class, each with 4 students. So, the total number of new students is:
+
+2 groups x 4 students/group = 8 students
+
+These 8 students are not currently in the class, so we add them to the total number of missing students:
+
+12 (initially missing) + 8 (new students) = 20 students
+
+Lucas pointed out that foreign exchange students have joined the class, with 3 from Germany, 3 from France, and 3 from Norway. So, the total number of foreign exchange students is:
+
+3 (Germany) + 3 (France) + 3 (Norway) = 9 students
+
+These 9 foreign exchange students are also missing, so we add them to the total number of missing students:
+
+20 (previously counted) + 9 (foreign exchange) = 29 students
+
+Finally, we need to add the 18 students who were initially in the class to get the total number of students supposed to be in the class:
+
+18 (initially in class) + 29 (missing students) = 47 students
+
+Answer: 47

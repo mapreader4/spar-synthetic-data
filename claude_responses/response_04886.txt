@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tom dances 4 times a week
+* Each dance session lasts 2 hours
+* He does this every year for 10 years
+
+First, let's calculate the number of hours he dances per week:
+* 4 dance sessions per week x 2 hours per session = 8 hours per week
+
+Next, let's calculate the number of hours he dances per year:
+* 8 hours per week x 52 weeks in a year = 416 hours per year
+
+Finally, let's calculate the total number of hours he dances over 10 years:
+* 416 hours per year x 10 years = 4,160 hours
+
+Answer: 4,160

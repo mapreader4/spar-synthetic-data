@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start with Samantha's sleep time. Samantha sleeps 8 hours a night, so in a week, she sleeps 8 * 7 = 56 hours.
+
+The baby sleeps 2.5 times as much as Samantha does, so the baby sleeps 2.5 * 7 = 17.5 hours.
+
+The father sleeps 30 minutes for every hour the baby sleeps, so the father sleeps 0.5 hours for each hour the baby sleeps. In a week, the father sleeps 0.5 * 24 = 12 hours.
+
+To find the total hours the father sleeps in a week, we add the hours Samantha sleeps, the hours the baby sleeps, and the hours the father sleeps: 56 + 17.5 + 12 = 85.5.
+
+So, the answer is: Answer: 86.

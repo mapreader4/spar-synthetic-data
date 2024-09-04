@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The mother bought a box of 27 sweets
+* She kept 1/3 of the sweets for herself
+* The remaining 2/3 of the sweets were divided between her 3 children
+* The eldest child got 8 sweets
+* The youngest child got half as many sweets as the eldest child
+
+First, let's calculate how many sweets the mother kept for herself:
+* 1/3 of 27 sweets = 9 sweets
+
+Now, let's calculate how many sweets were left for the 3 children:
+* 2/3 of 27 sweets = 18 sweets
+
+The eldest child got 8 sweets, and the youngest child got half as many, which is 4 sweets.
+
+Therefore, the second child must have gotten the remaining sweets:
+* 18 sweets - 8 sweets - 4 sweets = 6 sweets
+
+Answer: 6

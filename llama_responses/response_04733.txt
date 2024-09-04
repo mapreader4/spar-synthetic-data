@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of episodes in the series. There are 4 full seasons with 15 episodes each. To find the total number of episodes, we multiply the number of seasons by the number of episodes per season:
+
+4 seasons x 15 episodes per season = 4 x 15 = 60 episodes
+
+Since the final season will premiere in 10 days, Joe has 60 episodes to catch up with. To find out how many episodes Joe has to watch per day, we need to divide the total number of episodes by the number of days he has to catch up:
+
+60 episodes ÷ 10 days = 6 episodes per day
+
+Answer: 6

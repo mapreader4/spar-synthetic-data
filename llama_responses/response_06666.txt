@@ -1,0 +1,5 @@
+To find the total number of hours David will spend on the course, we can start by finding the total number of hours per week. He has 2 three-hour classes and 1 four-hour class each week, so that is a total of 5 hours of classes per week. Additionally, he also spends 4 hours each week on homework assignments. So, the total number of hours per week is 5 + 4 = 9 hours.
+
+Since the course is for 24 weeks, we multiply the total hours per week by the number of weeks to get the total hours for the entire course. 9 hours/week * 24 weeks = 216 hours.
+
+Answer: 216

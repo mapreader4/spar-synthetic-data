@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* On Monday, it rained 2 inches in the morning and 1 more inch later in the day, for a total of 3 inches.
+* On Tuesday, it rained twice as much as Monday, which is 2 x 3 = 6 inches.
+* On Wednesday, it did not rain.
+* On Thursday, it rained 1 inch.
+* On Friday, the total rainfall was equal to the combined total from Monday through Thursday, which is 3 + 6 + 0 + 1 = 10 inches.
+* To calculate the daily average rain total for the week, we add up the total rainfall for the week and divide by the number of days:
+* Total rainfall for the week = 3 + 6 + 0 + 1 + 10 = 20 inches
+* Number of days in the week = 5
+* Daily average rain total = 20 inches / 5 days = 4 inches
+
+Answer: 4 inches

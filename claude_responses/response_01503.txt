@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jerome has 20 classmates on his contact list
+* He has half as many out of school friends as classmates
+* So, the number of out of school friends he has is 20 / 2 = 10
+* He also has his two parents and his sister on his contact list
+* So, the total number of people on Jerome's contact list is:
+  - Classmates: 20
+  - Out of school friends: 10
+  - Parents: 2
+  - Sister: 1
+  - Total: 20 + 10 + 2 + 1 = 33
+
+Answer: 33

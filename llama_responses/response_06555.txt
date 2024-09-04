@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+James wants to increase his weekly running distance by 20% of his original distance, which is 100 miles. To find the increase, we multiply 100 by 0.20:
+
+100 x 0.20 = 20
+
+So James wants to increase his distance by 20 miles. To do this in 280 days, we need to find out how many weeks that is. There are 7 days in a week, so:
+
+280 days ÷ 7 days/week = 40 weeks
+
+Since James wants to increase his distance by 20 miles every week, we need to find out how many miles he needs to increase each week to reach his goal. To do this, we subtract the original distance from the desired distance:
+
+100 miles (original) + 20 miles (increase) = 120 miles (desired)
+
+Now, we subtract the original distance from the desired distance to find the total increase needed:
+
+120 miles (desired) - 100 miles (original) = 20 miles (increase needed)
+
+Since James needs to increase his distance by 20 miles in 40 weeks, we divide the total increase needed by the number of weeks:
+
+20 miles (increase needed) ÷ 40 weeks = 0.5 miles/week
+
+Answer: 0.5

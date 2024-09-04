@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Veronica's flashlight can be seen from a distance of 1000 feet.
+2. Freddie's flashlight can be seen from a distance three times farther than Veronica's, which is 3 x 1000 = 3000 feet.
+3. Velma's flashlight can be seen from a distance 2000 feet less than 5 times farther than Freddie's. 
+   - 5 times farther than Freddie's is 5 x 3000 = 15000 feet.
+   - 15000 feet - 2000 feet = 13000 feet.
+4. To find the difference in distance between Velma's and Veronica's flashlights, we subtract Veronica's distance from Velma's distance:
+   - 13000 feet - 1000 feet = 12000 feet.
+
+Answer: 12000

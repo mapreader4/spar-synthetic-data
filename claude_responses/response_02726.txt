@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Jeremy played a three-letter word on a triple word score.
+2) The word earned him 30 points.
+3) Before the word score was tripled, the first and third letters were each valued at 1 point.
+4) We need to find the value of the middle letter before the word score was tripled.
+5) Let's call the value of the middle letter 'x'.
+6) The total score before the triple word score was: 1 + x + 1 = 2 + x.
+7) Since the total score was tripled, we have: 3(2 + x) = 30.
+8) Solving for x, we get: 6 + 3x = 30, so 3x = 24, and x = 8.
+
+Answer: 8

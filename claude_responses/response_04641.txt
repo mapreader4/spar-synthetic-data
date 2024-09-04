@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) There were 10000 spectators in total.
+2) 7000 of them were men.
+3) The remaining spectators were either women or children.
+4) The number of children was 5 times the number of women.
+Let's call the number of women 'x'.
+Then the number of children is 5x.
+The total number of remaining spectators is 10000 - 7000 = 3000.
+So we have the equation:
+x + 5x = 3000
+6x = 3000
+x = 500
+Therefore, the number of women is 500.
+And the number of children is 5 times that, which is 5 * 500 = 2500.
+
+Answer: 2500

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Eve wants to buy cooking gear for her 3 nieces
+* The items she wants to buy are:
+  - Hand mitts: $14.00 each
+  - Apron: $16.00 each
+  - Set of 3 cooking utensils: $10.00 per set
+  - Small knife: twice the amount of the utensils, so $20.00 each
+* The store is offering a 25% off sale on all cooking gear
+* To calculate the total cost:
+  - 3 hand mitts: 3 x $14.00 = $42.00
+  - 3 aprons: 3 x $16.00 = $48.00
+  - 3 sets of 3 cooking utensils: 3 x $10.00 = $30.00
+  - 3 small knives: 3 x $20.00 = $60.00
+  - Total cost before discount: $42.00 + $48.00 + $30.00 + $60.00 = $180.00
+* Applying the 25% discount:
+  - Discount amount: $180.00 x 0.25 = $45.00
+  - Total cost after discount: $180.00 - $45.00 = $135.00
+
+Answer: $135

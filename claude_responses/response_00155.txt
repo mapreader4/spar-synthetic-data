@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Colby harvested a total of 60 kilograms of mangoes.
+2) He sold 20 kilograms to the market.
+3) He sold the remaining half to his community.
+4) Each kilogram contains 8 mangoes.
+5) To find the number of mangoes he still has, we need to calculate the amount of mangoes he has left after the sales.
+6) First, let's calculate the amount of mangoes he sold to the market: 20 kilograms x 8 mangoes/kilogram = 160 mangoes.
+7) Next, let's calculate the amount of mangoes he sold to his community: (60 kilograms - 20 kilograms) / 2 = 20 kilograms, which is 20 kilograms x 8 mangoes/kilogram = 160 mangoes.
+8) Finally, we can calculate the number of mangoes he still has: 60 kilograms x 8 mangoes/kilogram - 160 mangoes - 160 mangoes = 160 mangoes.
+
+Answer: 160 mangoes.

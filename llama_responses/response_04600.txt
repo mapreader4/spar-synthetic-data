@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say the number of candy bars Nick needs to sell to reach his goal of $1000 is x.
+
+Each candy bar costs $5, so the total cost of the candy bars will be 5x.
+
+Each chocolate orange costs $10, so the total cost of the chocolate oranges is 10.
+
+Nick wants to raise a total of $1000. So, the total cost of the candy bars and chocolate oranges should be $1000.
+
+The cost of the chocolate oranges is $20 (since there are 20 of them), so we can subtract that from the total cost to get the cost of the candy bars.
+
+$1000 - $20 = $980
+
+The cost of the candy bars is 5x, so we can set up the equation 5x = 980.
+
+We can divide both sides of the equation by 5 to get x = 196.
+
+Answer: 196

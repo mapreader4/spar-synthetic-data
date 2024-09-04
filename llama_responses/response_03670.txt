@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Initially, Erika and her 3 siblings have some number of pieces of chalk. Let's call this number x.
+
+When the 3 friends join, the total number of people drawing with chalk is now 7 (Erika and her 4 siblings, plus the 3 friends).
+
+Erika loses 2 pieces of chalk while they're counting, so the total number of pieces of chalk available is now x - 2.
+
+Since there isn't enough chalk for everyone to have 3 pieces each, we can set up an equation:
+
+7 people * 3 pieces per person = total pieces of chalk available
+
+3 * 7 = 21
+
+So, the total number of pieces of chalk available is 21.
+
+However, we know that the total number of pieces of chalk available is actually x - 2, since Erika lost 2 pieces. We can set up an equation:
+
+x - 2 = 21
+
+To solve for x, we can add 2 to both sides of the equation:
+
+x = 23
+
+So, Erika and her siblings originally had 23 pieces of chalk.
+
+Answer: 23

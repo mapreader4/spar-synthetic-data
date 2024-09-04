@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+* Susan's basket holds 60 strawberries
+* For every handful of 5 strawberries, she eats one of them
+* So, for every 5 strawberries she picks, she keeps 4 in her basket
+* To find the total number of strawberries she needs to pick, we can divide the basket capacity (60) by the number of strawberries she keeps per handful (4)
+* 60 strawberries / 4 strawberries per handful = 15 handfuls
+* Since she eats one strawberry per handful, she needs to pick 15 additional strawberries to account for the ones she eats
+* Therefore, the total number of strawberries she needs to pick is 60 + 15 = 75 strawberries.
+
+Answer: 75

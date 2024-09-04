@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The Donaldsons pay $15 per hour for babysitting
+* Layla babysat for the Donaldsons for 7 hours
+* So, for the Donaldsons, Layla earned:
+    - 7 hours x $15 per hour = $105
+* The Merck family pays $18 per hour for babysitting
+* Layla babysat for the Merck family for 6 hours
+* So, for the Merck family, Layla earned:
+    - 6 hours x $18 per hour = $108
+* The Hille family pays $20 per hour for babysitting
+* Layla babysat for the Hille family for 3 hours
+* So, for the Hille family, Layla earned:
+    - 3 hours x $20 per hour = $60
+* To calculate the total amount Layla earned babysitting, we add up the amounts for each family:
+    - $105 + $108 + $60 = $273
+
+Answer: $273

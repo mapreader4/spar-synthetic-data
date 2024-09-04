@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Parker threw the ball 16 yards.
+2) Grant threw the ball 25% farther than Parker.
+   - To calculate 25% of 16 yards, we take 16 * 0.25 = 4 yards.
+   - So Grant threw the ball 16 + 4 = 20 yards.
+3) Kyle threw the ball 2 times farther than Grant.
+   - Since Grant threw the ball 20 yards, Kyle threw the ball 2 * 20 = 40 yards.
+4) Compared to Parker, how much farther did Kyle throw the ball?
+   - Parker threw the ball 16 yards, and Kyle threw the ball 40 yards.
+   - The difference is 40 - 16 = 24 yards.
+
+Answer: 24 yards

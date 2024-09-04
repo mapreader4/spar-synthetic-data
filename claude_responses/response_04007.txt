@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Liz's team is down by 20 points at the start of the final quarter
+* Liz scores:
+  - 5 free throw shots, each worth 1 point, for a total of 5 points
+  - 3 three-pointers, each worth 3 points, for a total of 9 points
+  - 4 other jump shots, each worth 2 points, for a total of 8 points
+* So Liz's total points scored is 5 + 9 + 8 = 22 points
+* The other team scores 10 points in the final quarter
+* Liz's team started the quarter down by 20 points, and Liz scored 22 points while the other team scored 10 points
+* So the final score is:
+  - Liz's team started down by 20 points
+  - Liz scored 22 points
+  - The other team scored 10 points
+  - So the final score is 20 - 22 + 10 = 8 points
+Answer: 8

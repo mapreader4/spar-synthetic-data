@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out how many nickels Ray gives to Peter. Ray gives Peter 30 cents. Since 30 cents is 6 nickels, Peter has 6 nickels.
+
+Now, let's find out how many nickels Ray gives to Randi. Ray gives Randi twice as many cents as he gave to Peter, so he gives Randi 2 x 6 = 12 nickels.
+
+To find out how many more nickels Randi has than Peter, we need to subtract the number of nickels Peter has from the number of nickels Randi has. Randi has 12 nickels and Peter has 6 nickels, so Randi has 12 - 6 = 6 more nickels than Peter.

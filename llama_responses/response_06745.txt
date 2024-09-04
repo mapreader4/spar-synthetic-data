@@ -1,0 +1,7 @@
+Let's start by finding the total number of balloons each friend will have.
+
+Each friend gets 11 balloons. There are 5 friends. So, we can multiply 11 balloons by 5 friends. 11 * 5 = 55.
+
+Now, we need to subtract the total number of balloons given to Dante himself. There were 250 balloons in total. So, we subtract 250 - 55 = 195 balloons.
+
+Each friend gets 195 balloons.

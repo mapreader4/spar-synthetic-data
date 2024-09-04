@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* In the first year, the factory produced televisions at a constant rate of 10 per day.
+* To find the total production in the first year, we need to multiply the daily production rate by the number of days in a year.
+* Assuming a year has 365 days, the total production in the first year would be:
+10 televisions per day x 365 days = 3,650 televisions
+
+Now, in the second year, the total production was reduced by 10 percent.
+* To calculate the new production rate, we take the original production (3,650 televisions) and reduce it by 10 percent.
+* 10 percent of 3,650 is 365.
+* So the new total production in the second year is 3,650 - 365 = 3,285 televisions.
+
+Answer: 3,285 televisions

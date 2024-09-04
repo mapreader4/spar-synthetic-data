@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1) Let's define the variables:
+   - Let x = the amount of rain in the first hour
+   - Let y = the amount of rain in the second hour
+
+2) We know that in the second hour, it rained 7 inches more than twice the amount it rained the first hour. So:
+   y = 2x + 7
+
+3) We also know that the total amount of rain in the first two hours is 22 inches. So:
+   x + y = 22
+
+4) Substituting the expression for y from step 2 into the equation in step 3, we get:
+   x + 2x + 7 = 22
+   3x + 7 = 22
+   3x = 15
+   x = 5
+
+Therefore, it rained 5 inches in the first hour.
+
+Answer: 5

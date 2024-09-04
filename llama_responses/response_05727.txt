@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of each type of daisy.
+
+We know that there are 6 white daisies. Since there are nine times as many pink daisies as white daisies, that means there are 6 x 9 = 54 pink daisies.
+
+We also know that there are three less than four times as many red daisies as pink daisies, so there are 54 x 4 - 3 = 207 red daisies.
+
+The total number of daisies is the sum of the number of white, pink, and red daisies. That is, 6 + 54 + 207 = 267.
+
+Answer: 267

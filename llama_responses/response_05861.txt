@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Ralph has $54.00 worth of products initially. He has an item with a small issue that costs $20.00. He gets a 20% discount on this item. To find the discount, I'll calculate 20% of the original price:
+
+20.00 x 0.20 = 4.00
+
+So, the discount is $4.00. The new price of the item with the small issue is:
+
+20.00 - 4.00 = 16.00
+
+Now, Ralph has $54.00 - $20.00 (original price) + $4.00 (discount) = $38.00 left. He also has a 10% coupon on his entire purchase. To find the discount, I'll calculate 10% of the new total:
+
+38.00 x 0.10 = 3.80
+
+So, the discount is $3.80. The final total price is:
+
+38.00 - 3.80 = 34.20
+
+Answer: 34

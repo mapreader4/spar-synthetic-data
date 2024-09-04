@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 400 students in the high school.
+2) 50% of the students are freshmen or sophomores. 
+   * 50% of 400 = 0.5 * 400 = 200 students are freshmen or sophomores.
+3) 1/5 of the freshmen and sophomores own a pet.
+   * 1/5 of 200 = 0.2 * 200 = 40 students own a pet.
+4) To find the number of freshmen and sophomores who do not own a pet, we subtract the number of students who own a pet from the total number of freshmen and sophomores:
+   * 200 - 40 = 160 freshmen and sophomores do not own a pet.
+
+Answer: 160

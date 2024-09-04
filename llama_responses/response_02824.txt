@@ -1,0 +1,28 @@
+Let's break it down step by step.
+
+Let's first calculate how many tacos they can make with 100 pounds of beef.
+
+1. 100 pounds of beef is the total amount of beef.
+2. Each taco uses.25 pounds of beef. To find the number of tacos they can make, we can divide 100 pounds of beef by.25 pounds per taco.
+
+100 pounds /.25 pounds per taco = 400 tacos
+
+So, they can make 400 tacos.
+
+Now, let's calculate how much it costs to make each taco.
+
+Each taco takes $1.5 to make, so the total cost of making 400 tacos would be:
+
+400 tacos * $1.5 per taco = $600
+
+Now, let's calculate the profit.
+
+The total revenue from selling 400 tacos would be:
+
+400 tacos * $2 per taco = $800
+
+The cost of making the tacos is $600, and the revenue from selling them is $800. So, the profit would be:
+
+$800 - $600 = $200
+
+Answer: 200

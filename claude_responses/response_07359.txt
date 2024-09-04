@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Mary bought a coat for James for $40
+* She also bought two pairs of jeans for James
+* She bought a pair of shoes for Jamie for $30
+* The total cost of all the items was $110
+
+We need to find the cost of one pair of jeans for James.
+
+First, let's calculate the total cost of the items for James:
+* Coat for James: $40
+* Two pairs of jeans for James: Unknown cost
+
+Now, let's calculate the total cost of the items for Jamie:
+* Pair of shoes for Jamie: $30
+
+The total cost of all the items was $110, so we can subtract the cost of the items for Jamie to get the cost of the items for James:
+* Total cost: $110
+* Cost of items for Jamie: $30
+* Cost of items for James: $110 - $30 = $80
+
+Now we know the total cost of the items for James is $80. We also know that the cost of the coat for James was $40. So the remaining $40 must be the cost of the two pairs of jeans.
+
+Since the two pairs of jeans cost the same price, we can divide $40 by 2 to get the cost of one pair of jeans:
+* Cost of one pair of jeans = $40 / 2 = $20
+
+Answer: $20

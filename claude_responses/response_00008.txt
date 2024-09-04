@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Alexis had a budget of $200 for the new business clothes
+* She spent:
+    - $30 on a button-up shirt
+    - $46 on suit pants
+    - $38 on a suit coat
+    - $11 on socks
+    - $18 on a belt
+* So the total amount she spent on these items is:
+    - $30 + $46 + $38 + $11 + $18 = $143
+* She has $16 left from her budget, so the amount she spent on the shoes must be:
+    - $200 - $143 - $16 = $41
+
+Answer: $41

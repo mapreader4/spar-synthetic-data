@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Bridgette has 2 dogs, and she gives them a bath twice a month. So, she gives the dogs 2 * 12 = 24 baths in a year.
+
+She has 3 cats, and she gives them a bath once a month. So, she gives the cats 3 * 12 = 36 baths in a year.
+
+She has 4 birds, and she gives them a bath once every 4 months. There are 12 months in a year, so 12 / 4 = 3. So, she gives the birds 3 baths in a year.
+
+To find the total number of baths she gives, we add the baths for the dogs, cats, and birds: 24 + 36 + 3 = 63.
+
+Answer: 63

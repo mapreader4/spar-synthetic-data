@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Mike's total cost is the sum of the cost of his meal, the cost of his side salad, the cost of his cheesy fries, and the cost of his drink. The cost of his meal is 2 times John's cost, so that is 2x. So, we can write Mike's total cost as 2x.
+
+The cost of his meal is 2x, and the cost of the meal is the Taco Grande Plate, which is not given.  Let's say the cost of the meal is x, then.  So, we can write the cost of Mike's meal as 2x = x.
+
+The cost of his side salad is 2, the cost of his cheesy fries is 4, and the cost of his drink is 2, so the total cost of his extras is 2 + 4 + 2 = 8.
+
+The total cost of Mike's lunch is the cost of his meal plus the cost of his extras, so the total cost is x + 8.
+
+The total cost of John's lunch is not given, but it is half of Mike's cost, so we can say it is x/2.
+
+We know that the cost of Mike's lunch is 2x, and the cost of John's lunch is x/2, so we can write the cost of John's lunch as 2x/2.
+
+The cost of John's lunch is x/2, and the cost of Mike's lunch is 2x, so we can write the cost of John's lunch as 2x/2 = x.
+
+The cost of John's lunch is x, and the cost of Mike's lunch is 2x, so the total cost of their lunch is x + 8.
+
+The total cost of their lunch is the sum of the cost of their meals and the cost of their extras, so the total cost is x + 8 + x = 2x + 8 + x.
+
+Since the cost of their lunch is 2x, we can say the total cost is 2x + 8 + 2x = 4x + 8.
+
+Answer: 12

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mr. Resty has two identical 4-story buildings
+* The first floor of each building has 2 apartment units
+* The rest of the floors (2nd, 3rd, and 4th) have 5 apartment units on each floor
+
+To calculate the total number of apartment units, we need to find the number of apartment units in each building and then multiply that by 2 (since there are two buildings).
+
+In each building:
+* 1st floor: 2 apartment units
+* 2nd, 3rd, and 4th floors: 5 apartment units each, so 3 x 5 = 15 apartment units
+* Total apartment units per building: 2 + 15 = 17 apartment units
+
+Now, to find the total number of apartment units in both buildings:
+* 17 apartment units per building x 2 buildings = 34 apartment units
+
+Answer: 34

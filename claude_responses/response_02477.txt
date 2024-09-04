@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mike has earned a total of $160 in wages this week
+* He has two jobs
+* For his second job, he works 12 hours per week
+* His second job pays $9 per hour
+
+To find out how much he earned from his first job, we need to first calculate how much he earned from his second job:
+* Earnings from second job = 12 hours per week x $9 per hour = $108 per week
+
+Now, we can subtract the earnings from his second job from the total earnings to find the earnings from his first job:
+* Total earnings = $160
+* Earnings from second job = $108
+* Earnings from first job = $160 - $108 = $52
+
+Therefore, the amount of money Mike received from his first job is:
+Answer: $52

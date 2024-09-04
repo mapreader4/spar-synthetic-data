@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 6 dogs in the garden
+* Each dog has 4 feet
+* So the total number of feet for the dogs is 6 dogs x 4 feet per dog = 24 feet
+
+* There are 2 ducks in the garden
+* Each duck has 2 feet
+* So the total number of feet for the ducks is 2 ducks x 2 feet per duck = 4 feet
+
+* To get the total number of feet in the garden, we add the feet for the dogs and the ducks:
+* 24 feet (dogs) + 4 feet (ducks) = 28 feet
+
+Answer: 28

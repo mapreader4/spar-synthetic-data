@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, let's calculate the cost of the 4 pairs of pants:
+
+4 x 110.00 - 4 x 0.30 = 440.00 - 110.00 = 330.00
+
+The cost of the 4 pairs of pants is 330.00.
+
+Next, let's calculate the cost of the 2 pairs of socks:
+
+2 x 60.00 - 2 x 0.30 = 120.00 - 60.00 = 60.00
+
+The cost of the 2 pairs of socks is 60.00.
+
+Now, let's add the cost of the pants and the cost of the socks:
+
+330.00 + 60.00 = 390.00
+
+The total cost is 390.00.
+
+Answer: 390.00

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+On Monday, the baker sold 2 pastries. On Tuesday, the number of pastries sold is 2 + 1 = 3. On Wednesday, the number of pastries sold is 3 + 1 = 4. On Thursday, the number of pastries sold is 4 + 1 = 5. On Friday, the number of pastries sold is 5 + 1 = 6. On Saturday, the number of pastries sold is 6 + 1 = 7. On Sunday, the number of pastries sold is 7 + 1 = 8.
+
+So, the average number of pastries sold each day is (2 + 3 + 4 + 5 + 6 + 7 + 8) / 7 = 25 / 7 = 3.5.

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the length of each sword.
+
+* Christopher's sword is 15 inches long.
+* Jameson's sword is 3 inches longer than twice the length of Christopher's sword, so Jameson's sword is 15 + 3 = 18 inches long.
+* June's sword is 5 inches longer than Jameson's sword, so June's sword is 18 + 5 = 23 inches long.
+
+To find out how many inches longer June's sword is than Christopher's sword, we need to subtract the length of Christopher's sword from the length of June's sword: 23 - 15 = 8.
+
+Answer: 8

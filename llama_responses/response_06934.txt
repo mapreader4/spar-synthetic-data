@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: Find the number of students in the morning session. Mrs. McGillicuddy had 25 students registered for the morning session, but 3 students were absent. So, the number of students present in the morning session is 25 - 3 = 22.
+
+Step 2: Find the number of students in the afternoon session. Mrs. McGillicuddy had 24 students registered for the afternoon session, but 4 students were absent. So, the number of students present in the afternoon session is 24 - 4 = 20.
+
+Step 3: Add the number of students present in the morning and afternoon sessions. 22 + 20 = 42.
+
+Answer: 42

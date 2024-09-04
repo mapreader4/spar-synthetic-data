@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Tim buys a cabinet for $1200
+* He gets a 15% discount on the cabinet
+* To calculate the discount amount, we take 15% of $1200:
+    * 15% of $1200 = 0.15 x $1200 = $180
+* To calculate the final amount Tim paid, we subtract the discount from the original price:
+    * $1200 - $180 = $1020
+Answer: $1020

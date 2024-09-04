@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The book is 600 pages long.
+2) In the first week, Coral reads half of the book, which is 600 / 2 = 300 pages.
+3) That leaves 600 - 300 = 300 pages remaining.
+4) In the second week, Coral reads 30% of the remaining 300 pages, which is 0.3 * 300 = 90 pages.
+5) That leaves 300 - 90 = 210 pages remaining.
+6) To finish the book, Coral must read the remaining 210 pages in the third week.
+
+Answer: 210

@@ -1,0 +1,22 @@
+To solve this problem, we need to calculate the total number of fishes caught by each team member and then add them together.
+
+Given information:
+- The competition lasts for 5 days.
+- Jackson caught 6 fishes per day.
+- Jonah caught 4 fishes per day.
+- George caught 8 fishes per day.
+
+Step 1: Calculate the total number of fishes caught by Jackson.
+Jackson's total fishes = 6 fishes per day × 5 days = 30 fishes
+
+Step 2: Calculate the total number of fishes caught by Jonah.
+Jonah's total fishes = 4 fishes per day × 5 days = 20 fishes
+
+Step 3: Calculate the total number of fishes caught by George.
+George's total fishes = 8 fishes per day × 5 days = 40 fishes
+
+Step 4: Calculate the total number of fishes caught by the team.
+Total fishes caught by the team = Jackson's total fishes + Jonah's total fishes + George's total fishes
+Total fishes caught by the team = 30 + 20 + 40 = 90 fishes
+
+Answer: 90 fishes

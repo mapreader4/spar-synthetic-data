@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The waterfall is flowing at a rate of 24 gallons per second.
+* The basin can hold 260 gallons of water.
+* The basin is leaking at a rate of 4 gallons per second.
+
+To find how long it would take to fill the basin, we need to calculate the net rate at which the basin is filling up.
+* The waterfall is adding 24 gallons per second.
+* The basin is leaking 4 gallons per second.
+* The net rate of filling is 24 gallons per second - 4 gallons per second = 20 gallons per second.
+
+Now, we can calculate how long it would take to fill the 260 gallon basin at a rate of 20 gallons per second.
+* Time = Volume / Rate
+* Time = 260 gallons / 20 gallons per second
+* Time = 13 seconds
+
+Answer: 13 seconds.

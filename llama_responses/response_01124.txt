@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+First, let's calculate the number of blouses Brie needs to wash.
+
+Brie has 12 blouses in her closet, and she has 75% of those in her hamper. To find the number of blouses in her hamper, we multiply 12 by 75% to get:
+
+12 x 0.75 = 9
+
+So, Brie needs to wash 9 blouses.
+
+Next, let's calculate the number of skirts she needs to wash.
+
+Brie has 6 skirts in her closet, and she has 50% of those in her hamper. To find the number of skirts in her hamper, we multiply 6 by 50% to get:
+
+6 x 0.5 = 3
+
+So, Brie needs to wash 3 skirts.
+
+Finally, let's calculate the number of slacks she needs to wash.
+
+Brie has 8 slacks in her closet, and she has 25% of those in her hamper. To find the number of slacks in her hamper, we multiply 8 by 25% to get:
+
+8 x 0.25 = 2
+
+So, Brie needs to wash 2 slacks.
+
+In total, Brie needs to wash 9 blouses, 3 skirts, and 2 slacks, which is a total of:
+
+9 + 3 + 2 = 14
+
+Answer: 14

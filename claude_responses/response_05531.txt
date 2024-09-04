@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Dakota spent 3 days in the hospital
+* The hospital charges $900 per day for the bed
+* So for the 3 days in the hospital, the cost is:
+  * 3 days x $900/day = $2,700
+* The hospital also charged for two specialists to look at her for 15 minutes each
+* Each specialist charges $250/hour
+* 15 minutes = 0.25 hours
+* So the cost for the two specialists is:
+  * 2 specialists x $250/hour x 0.25 hours = $125
+* Finally, the ambulance ride cost $1,800
+* Adding up all the costs:
+  * Hospital bed: $2,700
+  * Specialists: $125
+  * Ambulance ride: $1,800
+  * Total: $2,700 + $125 + $1,800 = $4,625
+
+Answer: $4,625

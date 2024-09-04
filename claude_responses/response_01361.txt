@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Annie buys 8 hamburgers at $4 each, so the cost of the hamburgers is 8 * $4 = $32
+* Annie buys 6 milkshakes at $5 each, so the cost of the milkshakes is 6 * $5 = $30
+* The total cost of the hamburgers and milkshakes is $32 + $30 = $62
+* Annie has $70 left after the purchases
+* To find the amount of money Annie had at first, we add the $62 she spent and the $70 she has left:
+$62 + $70 = $132
+
+Answer: $132

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* It takes 3 hours for 1 ball of dough to rise
+* Ellen makes 4 balls of dough one after another
+* So the total time for the 4 balls of dough to rise is:
+  * 4 balls x 3 hours per ball = 12 hours
+* After the dough has risen, it takes 2 hours to bake each ball of dough
+* Ellen bakes the 4 balls of dough one after another
+* So the total time for baking the 4 balls of dough is:
+  * 4 balls x 2 hours per ball = 8 hours
+* The total time for the entire process is the time for the dough to rise plus the time for the dough to bake:
+  * 12 hours + 8 hours = 20 hours
+
+Answer: 20 hours

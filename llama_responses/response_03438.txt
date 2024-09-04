@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Day 1: Penn made $10.
+
+Day 2: Penn made $10 + 4 = $14.
+
+Day 3: Penn made $14 + 4 = $18.
+
+Day 4: Penn made $18 + 4 = $22.
+
+Day 5: Penn made $22 + 4 = $26.
+
+To find the total amount of money Penn made, we add up the amount of money she made each day:
+
+$10 + $14 + $18 + $22 + $26 = $80
+
+Answer: $80

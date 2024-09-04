@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Tilly counts 120 stars to the east of her house
+* She counts six times that number to the west
+* To find the total number of stars, we need to add the number of stars to the east and the number of stars to the west
+
+First, let's find the number of stars to the west:
+* 6 times 120 stars = 6 * 120 = 720 stars to the west
+
+Now, let's add the number of stars to the east and the number of stars to the west:
+* 120 stars to the east + 720 stars to the west = 120 + 720 = 840 stars total
+
+Answer: 840

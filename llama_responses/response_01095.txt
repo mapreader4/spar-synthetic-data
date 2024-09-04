@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+Let's start with the information given. We know Ignatius has 4 bicycles. Then, we know his friend has a unicycle, a tricycle, and the rest are bikes. We can add the number of tires of these cycles to find the total number of tires. The unicycle has 1 tire, the tricycle has 3 tires, and the rest are bikes are 4 each, so that is 4 * 4 = 16. We add the number of tires of the unicycle, tricycle, and bikes to find the total number of tires, which is 1 + 3 + 16 = 20.
+
+So, the friend has 20 tires.

@@ -1,0 +1,11 @@
+Let's start by finding the total amount of sugar that the ants have harvested after 3 hours.
+
+The ants remove 4 ounces of sugar every hour, so after 3 hours, they will have removed 3 x 4 = 12 ounces of sugar.
+
+The bag held 24 ounces of sugar initially, so the amount of sugar remaining is 24 - 12 = 12 ounces.
+
+Since the ants remove 4 ounces every hour, to find the number of hours they need to harvest the remaining sugar, we can divide the remaining sugar by the amount they remove per hour:
+
+12 ounces / 4 ounces per hour = 3 hours
+
+So, the ants will need 3 more hours to harvest the remaining sugar.

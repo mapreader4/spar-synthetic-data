@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Casey can pump 3 gallons of water per minute.
+2) She has 4 rows of 15 corn plants each, so that's 4 * 15 = 60 corn plants.
+3) Each corn plant needs half a gallon of water, so the total water needed for the corn plants is 60 * 0.5 = 30 gallons.
+4) She has 10 pigs, and each pig needs 4 gallons of water, so the total water needed for the pigs is 10 * 4 = 40 gallons.
+5) She has 20 ducks, and each duck needs a quarter of a gallon of water, so the total water needed for the ducks is 20 * 0.25 = 5 gallons.
+6) The total water needed is the sum of the water needed for the corn plants, pigs, and ducks, which is 30 + 40 + 5 = 75 gallons.
+7) Since Casey can pump 3 gallons per minute, the number of minutes she needs to spend pumping water is 75 gallons / 3 gallons per minute = 25 minutes.
+
+Answer: 25 minutes.

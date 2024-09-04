@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* June's class has 25 students
+* 60% of the class are girls, so the number of girls is 25 * 0.6 = 15 girls
+* The remaining 40% of the class are boys, so the number of boys is 25 * 0.4 = 10 boys
+* 40% of the boys like playing basketball, so the number of boys who like playing basketball is 10 * 0.4 = 4 boys
+* The number of girls who like playing basketball is double the number of boys who don't like playing basketball, so the number of girls who like playing basketball is 2 * (10 - 4) = 2 * 6 = 12 girls
+* The percentage of girls who like playing basketball is (12 / 15) * 100 = 80%
+
+Answer: 80%

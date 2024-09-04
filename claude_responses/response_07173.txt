@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* 20,000 high school students apply to Harvard University
+* 5% of those 20,000 students are accepted to the university
+* To find the number of students accepted, we take 5% of 20,000:
+    * 5% of 20,000 = 0.05 * 20,000 = 1,000 students
+* Of the 1,000 students accepted, 90% choose to attend the university
+* To find the number of students who choose to attend, we take 90% of 1,000:
+    * 90% of 1,000 = 0.90 * 1,000 = 900 students
+
+Answer: 900 students choose to attend Harvard University.

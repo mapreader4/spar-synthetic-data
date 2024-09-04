@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Kimberly's brother picked 3 baskets, each containing 15 strawberries
+* So, the total number of strawberries her brother picked is:
+    - 3 baskets x 15 strawberries per basket = 45 strawberries
+* Kimberly picked 8 times the amount of strawberries her brother picked
+    - 8 x 45 strawberries = 360 strawberries
+* Kimberly's parents picked 93 strawberries less than Kimberly
+    - 360 strawberries - 93 strawberries = 267 strawberries
+* The total number of strawberries picked is:
+    - Kimberly's brother: 45 strawberries
+    - Kimberly: 360 strawberries
+    - Kimberly's parents: 267 strawberries
+    - Total: 45 + 360 + 267 = 672 strawberries
+* If they divide the total number of strawberries equally amongst them, each person would have:
+    - 672 strawberries / 4 people = 168 strawberries
+
+Answer: 168

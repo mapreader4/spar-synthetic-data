@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's say the number of questions Martin answered correctly is x.
+
+We know that Kelsey answered 8 more questions correctly than Martin, so Kelsey's number of correct answers is x + 8.
+
+We know that Campbell answered 35 questions correctly, and Kelsey's number of correct answers is greater than Martin's, so we can set up an equation:
+
+x + 8 = 35
+
+Subtract 8 from both sides of the equation to get:
+
+x = 35 - 8
+x = 27
+
+So, Martin answered 27 questions correctly.
+
+Answer: 27

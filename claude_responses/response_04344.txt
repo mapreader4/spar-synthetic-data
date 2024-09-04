@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Allie has 9 toys in total, and the total value of the toys is $52.
+2) We know that one of the toys is worth $12.
+3) The remaining 8 toys must have the same value.
+4) Let's call the value of the remaining 8 toys 'x'.
+5) The total value of the 9 toys is $52, which can be expressed as:
+$12 + 8x = $52
+6) Solving for x, we get:
+8x = $52 - $12
+8x = $40
+x = $40 / 8
+x = $5
+Therefore, the cost of one of the other toys is $5.
+
+Answer: $5

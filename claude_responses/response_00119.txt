@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jessa needs to make cupcakes for 3 fourth-grade classes
+* Each fourth-grade class has 30 students
+* So for the 3 fourth-grade classes, the total number of students is:
+  * 3 classes x 30 students per class = 90 students
+* Jessa also needs to make cupcakes for a P.E. class with 50 students
+* To find the total number of cupcakes Jessa needs to make, we add the number of students in the fourth-grade classes and the P.E. class:
+  * 90 students + 50 students = 140 students
+
+Answer: 140

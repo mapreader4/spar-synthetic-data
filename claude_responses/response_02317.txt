@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The mom ordered lobster for $25.50
+* The dad ordered steak for $35.00
+* The twin boys each ordered a cheeseburger and fries for $13.50 each, so that's $27.00 total
+* They started with an appetizer that cost $8.50
+* Everyone ordered a dessert that cost $6.00 each, so that's $24.00 total
+* Adding up the food costs:
+  - Lobster: $25.50
+  - Steak: $35.00
+  - Cheeseburgers: $27.00
+  - Appetizer: $8.50
+  - Desserts: $24.00
+  - Total food cost: $120.00
+* They wanted to give a 20% tip, so the tip amount would be 20% of $120.00, which is $24.00
+* Therefore, the final bill total would be the total food cost plus the tip:
+  - Total food cost: $120.00
+  - Tip: $24.00
+  - Final bill total: $120.00 + $24.00 = $144.00
+
+Answer: $144

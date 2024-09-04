@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Grace charges $300 per week for her services.
+2) Her client will pay her every 2 weeks.
+3) We need to find how many weeks it will take for Grace to get $1800.
+4) In 2 weeks, Grace will earn $600 (2 weeks x $300 per week).
+5) To get $1800, Grace needs to earn 3 payments of $600 (1800 / 600 = 3).
+6) Therefore, it will take Grace 6 weeks to get $1800 (3 payments x 2 weeks per payment).
+
+Answer: 6

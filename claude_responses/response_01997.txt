@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Penelope the pig eats 20 pounds of food per day
+* Greta the goose eats 1/10 as much as Penelope, so Greta eats 2 pounds per day
+* Milton the mouse eats 1/100 as much as Greta, so Milton eats 0.02 pounds per day
+* Elmer the elephant eats 4000 times more than Milton, so Elmer eats 80 pounds per day
+
+Now, to find how much more Elmer eats per day than Penelope:
+* Elmer eats 80 pounds per day
+* Penelope eats 20 pounds per day
+* The difference is 80 - 20 = 60 pounds
+
+Answer: 60

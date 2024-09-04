@@ -1,0 +1,7 @@
+Let's start by calculating the total number of times Sarah sees her reflection. She sees her reflection 10 times each time they are in the room with tall mirrors, and they are in that room 3 times. So, the total number of times Sarah sees her reflection in the room with tall mirrors is 10 x 3 = 30. She also sees her reflection 5 times each time they are in the room with wide mirrors, and they are in that room 5 times. So, the total number of times Sarah sees her reflection in the room with wide mirrors is 5 x 5 = 25. In total, Sarah sees her reflection 30 + 25 = 55 times.
+
+Ellie sees her reflection 6 times each time they are in the room with tall mirrors, and they are in that room 3 times. So, the total number of times Ellie sees her reflection in the room with tall mirrors is 6 x 3 = 18. She also sees her reflection 3 times each time they are in the room with wide mirrors, and they are in that room 5 times. So, the total number of times Ellie sees her reflection in the room with wide mirrors is 3 x 5 = 15. In total, Ellie sees her reflection 18 + 15 = 33 times.
+
+To find the total number of times Sarah and Ellie see their reflections, we add the number of times Sarah sees her reflection to the number of times Ellie sees her reflection. This gives us 55 + 33 = 88.
+
+Answer: 88

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Kevin's record is 64 wings in 8 minutes
+* That means he eats 64 / 8 = 8 wings per minute
+* Alan can currently eat 5 wings per minute
+* To beat Kevin's record, Alan needs to eat more than 8 wings per minute
+* So, the difference between what Alan can currently eat and what he needs to eat to beat the record is:
+* 8 wings per minute - 5 wings per minute = 3 wings per minute
+
+Answer: 3

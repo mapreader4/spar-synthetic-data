@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the number of miles Cole runs is x.
+
+Since Xavier runs three times as many miles as Katie, and Katie runs 4 times as many miles as Cole, we know that Xavier runs 3x miles. We are given that Xavier runs 84 miles, so we can write an equation to solve for x.
+
+3x = 84
+
+We can divide both sides of the equation by 3 to get:
+
+x = 84 / 3
+
+x = 28
+
+So, Cole runs 28 miles.
+
+Answer: 28

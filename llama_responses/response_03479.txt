@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first calculate the number of sharks he will see in 5 hours. Since he sees a shark every 10 minutes, and there are 60 minutes in an hour, we can divide 5 hours into 60 minutes to get the number of sharks he will see:
+
+5 hours * 60 minutes / 1 hour = 300 minutes
+
+Now, since he sees a shark every 10 minutes, we can divide the total number of minutes by 10 to get the number of sharks he will see:
+
+300 minutes / 10 = 30
+
+So, he will see 30 sharks in 5 hours. Since he earns $15 for each shark, we can multiply the number of sharks by the amount he earns per shark:
+
+30 sharks * $15 = $450
+
+However, he will need to subtract the cost of the boat fuel from his total earnings:
+
+$450 - $50 = $400
+
+So, the profit he can expect to make in 5 hours is:
+
+Answer: 400

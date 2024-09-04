@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The vacation costs $1,000 in total.
+2) There are 5 members in Jules' family, and each one must contribute the same amount.
+3) To calculate the amount each family member must contribute, we divide the total cost ($1,000) by the number of family members (5):
+$1,000 / 5 = $200
+4) Jules charges $2 to start a walk and $1.25 per block.
+5) He walks 20 dogs in total.
+6) To calculate the total number of blocks he needs to walk, we need to find the total amount he earns from the 20 dogs, and then divide that by the cost per block.
+7) The total amount he earns from the 20 dogs is:
+20 dogs x ($2 start + $1.25 per block) = 20 x $3.25 = $65
+8) To find the total number of blocks he needs to walk, we divide the total amount earned ($65) by the cost per block ($1.25):
+$65 / $1.25 = 52 blocks
+
+Answer: 52

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+We have 6 months. Each month has 30 days. So, the total number of days in 6 months is 6 * 30 = 180 days.
+
+Each day, the post office receives 60 letters and 20 packages. So, in one day, the total number of pieces of mail is 60 + 20 = 80.
+
+So, in 180 days, the total number of pieces of mail is 180 * 80 = 14400.
+
+Answer: 14400.

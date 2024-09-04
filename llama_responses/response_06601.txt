@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's start by finding the cost of 1 artichoke. Since artichokes cost $1.25 each, we can set up an equation to represent the cost of 1 artichoke:
+
+1 artichoke = $1.25
+
+Since Hakeem has $15 to spend, we want to find out how many artichokes he can buy with that amount of money. We can set up an equation to represent the total cost of the artichokes:
+
+Total cost = 1.25x
+
+We know that it takes 3 artichokes to make 5 ounces of dip, so we can set up a proportion to find the total number of artichokes Hakeem can buy:
+
+3 artichokes = 5 ounces
+
+We can use this proportion to find the total number of artichokes Hakeem can buy with $15:
+
+Total artichokes = (15 / 1.25) / 3
+
+To solve for the total number of artichokes, we can multiply both sides of the equation by 3:
+
+Total artichokes = 12
+
+So, Hakeem can buy 12 artichokes with $15. Since it takes 3 artichokes to make 5 ounces of dip, we can find the total ounces of dip he can make:
+
+Total ounces = 12 / 3
+= 4
+
+Answer: 4

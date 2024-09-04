@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Antoine is inviting 6 people over for dinner.
+* The butcher recommends 1/2 pound of meat per person.
+* The beef tenderloin is $15.00 per pound.
+
+To find the total amount of meat needed, we need to multiply the amount per person by the number of people:
+
+1/2 pound per person x 6 people = 3 pounds of meat
+
+Since the beef tenderloin is $15.00 per pound, we can multiply the total amount of meat by the price per pound to find the total cost:
+
+3 pounds of meat x $15.00 per pound = 3 x $15.00 = $45.00
+
+So, the total cost of the beef tenderloin for Antoine's dinner party will be $45.00.
+
+Answer: 45

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 72 businesses in the town
+* Brandon has been fired from half of the businesses
+* Brandon has quit from a third of the businesses
+
+First, let's calculate how many businesses Brandon has been fired from:
+* Half of 72 businesses = 72 / 2 = 36 businesses
+
+Next, let's calculate how many businesses Brandon has quit from:
+* A third of 72 businesses = 72 / 3 = 24 businesses
+
+Now, to find the number of businesses Brandon can still apply to, we need to subtract the number of businesses he has been fired from and the number of businesses he has quit from, from the total number of businesses:
+* 72 - 36 - 24 = 12 businesses
+
+Answer: 12

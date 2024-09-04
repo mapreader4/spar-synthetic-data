@@ -1,0 +1,9 @@
+To find the number of students in each classroom, we can divide the total number of students by the number of classrooms.
+
+First, we find the total number of students: 56 + 44 = 100.
+
+Then, we divide the total number of students by the number of classrooms: 100 ÷ 4 = 25.
+
+So, the number of students in each classroom is 25.
+
+Answer: 25

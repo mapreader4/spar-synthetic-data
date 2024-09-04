@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The party hall has 3 decorative light bulbs: a red one, a green one, and a blue one.
+2) The red light bulb comes on every 2 seconds.
+3) The green light bulb comes on every 3 seconds.
+4) The blue light bulb comes on every 4 seconds.
+5) We want to find the shortest time after which all three bulbs will be on at the same time.
+6) To find the shortest time, we need to find the least common multiple (LCM) of 2, 3, and 4.
+7) The LCM of 2, 3, and 4 is 12.
+8) Therefore, the shortest time after which all three bulbs will be on at the same time is 12 seconds.
+
+Answer: 12

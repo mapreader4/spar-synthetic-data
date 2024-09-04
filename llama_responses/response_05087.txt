@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. Carter bakes 6 cheesecakes, 5 muffins, and 8 red velvet cakes regularly for a week. So, in total, he bakes 6 + 5 + 8 = 19 cakes for a week.
+2. For this week, he baked triple the number of cheesecakes, muffins, chocolate moist cakes, and red velvet cakes. So, the new total number of cakes is 3 * (6 + 5 + 8) = 3 * 19 = 57 cakes.
+
+To find out how much more cakes he baked this week, we need to subtract the original number of cakes he baked from the new number of cakes he baked: 57 - 19 = 38.
+
+Answer: 38

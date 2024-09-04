@@ -1,0 +1,9 @@
+Let's start by identifying the number of students who read three or more novels. 1/6 of the 240 students read three or more novels, so we can find this number by multiplying 1/6 of 240 by 3. 1/6 of 240 is the same as 40. So, 40 students read three or more novels.
+
+Next, we find the number of students who read two novels. 35% of the students read two novels. 35% of 240 is the same as 0.35 x 240, which is 84. So, 84 students read two novels.
+
+The number of students who read one novel is 5/12 of the students. 5/12 of 240 is the same as 100. So, 100 students read one novel.
+
+The number of students who do not read anything is the total number of students minus the number of students who read three or more novels, minus the number of students who read two novels, minus the number of students who read one novel. 240 - 40 - 84 - 100 = 16. So, 16 students do not read anything.
+
+Answer: 16

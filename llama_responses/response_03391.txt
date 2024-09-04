@@ -1,0 +1,31 @@
+Let's break down the problem step by step:
+
+1. Kelly spent 1 day traveling on the first day.
+2. Then, she spent the next 5 days at her Grandparents' house.
+3. The next day, she spent traveling.
+4. Then, she spent the next 5 days at her brother's house.
+5. Then, she spent 2 days traveling to her sister's house.
+6. She spent several days at her sister's house (we don't know the exact number of days yet).
+7. Finally, she spent 2 more days traveling home.
+
+Let's add up the days spent at her Grandparents' house, brother's house, and sister's house:
+
+5 days at Grandparents' house + 2 days traveling + 5 days at brother's house + 2 days traveling + several days at sister's house + 2 days traveling =?
+
+The total number of days spent at her sister's house is unknown, so let's call it x.
+
+The total number of days spent traveling is 1 + 1 + 2 + 2 = 6.
+
+The total number of days spent at her relatives' houses is 5 + 5 + x + 2 = 12 + x.
+
+The total number of days in the entire vacation is 21.
+
+So, the equation becomes:
+
+12 + x = 21 - 6
+
+Subtracting 12 from both sides, we get:
+
+x = 5
+
+Answer: 5

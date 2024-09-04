@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+* Initially, there are 50 ants in the jar.
+* The number of ants in the jar doubles each hour.
+* After 1 hour, the number of ants will be 50 x 2 = 100 ants.
+* After 2 hours, the number of ants will be 100 x 2 = 200 ants.
+* After 3 hours, the number of ants will be 200 x 2 = 400 ants.
+* After 4 hours, the number of ants will be 400 x 2 = 800 ants.
+* After 5 hours, the number of ants will be 800 x 2 = 1600 ants.
+
+Answer: 1600

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Lilia has 15 peaches in total.
+2) She sold 10 peaches to her friends for $2 each.
+   * 10 peaches x $2 per peach = $20 earned from selling to friends.
+3) She sold 4 peaches to her relatives for $1.25 each.
+   * 4 peaches x $1.25 per peach = $5 earned from selling to relatives.
+4) She kept the remaining 1 peach for herself.
+5) To calculate the total amount Lilia earned, we add the amounts from selling to friends and relatives:
+   * $20 + $5 = $25 total earned.
+
+Answer: $25

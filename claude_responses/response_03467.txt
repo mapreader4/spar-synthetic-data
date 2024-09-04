@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+* George has been given a special $1 bill from his parents since his 15th birthday.
+* He has been given these bills for 10 years (from his 15th to 24th birthday).
+* He has spent 20% of these bills.
+* On his 25th birthday, his parents will give him $1.5 for every bill he still has.
+
+First, we need to calculate how many special bills he has received in total:
+* 10 years x 1 bill per year = 10 bills
+
+Next, we need to calculate how many bills he has spent:
+* 20% of 10 bills = 2 bills
+
+Now, we can calculate how many bills he has left:
+* 10 bills - 2 bills = 8 bills
+
+Finally, we can calculate how much he will receive from his parents:
+* 8 bills x $1.5 per bill = $12
+
+Answer: 12

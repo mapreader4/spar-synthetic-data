@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the problem.
+
+Michael's father dug a hole at a rate of 4 feet per hour. He took 400 hours to dig the hole, so the depth of the hole is 400 * 4 = 1600 feet.
+
+Michael wants to dig a hole that is 400 feet less than twice the depth of his father's hole, which is 2 * 1600 - 400 = 1200 feet.
+
+The rate of digging is 4 feet per hour. To find the time it will take Michael to dig the hole, we can divide the depth by the rate:
+
+Time = Depth / Rate = 1200 / 4 = 300 hours
+
+So, it will take Michael 300 hours to dig a hole that is 400 feet less than twice the depth of his father's hole.

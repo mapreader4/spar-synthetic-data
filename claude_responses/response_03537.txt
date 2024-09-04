@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Jennie can make 7 quilts with 21 yards of material.
+2) This means that for every 7 quilts, she uses 21 yards of material.
+3) We want to find how many yards of material are required to make 12 quilts.
+4) To do this, we can set up a proportion:
+7 quilts / 21 yards = 12 quilts / x yards
+5) Cross-multiplying, we get:
+7x = 21 * 12
+6) Solving for x, we get:
+x = (21 * 12) / 7
+7) Simplifying, we get:
+x = 36 yards
+
+Answer: 36

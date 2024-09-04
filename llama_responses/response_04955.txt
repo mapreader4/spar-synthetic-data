@@ -1,0 +1,7 @@
+To find the total daily salary of all the employees of the grocery store, we need to multiply the number of managers and clerks by their respective salaries.
+
+There are 2 managers and 3 clerks, so the total number of employees is 2 + 3 = 5.
+
+The total daily salary of all the employees is 5 * 2 (for the managers) + 2 * 3 (for the clerks) = 10 + 6 = 16.
+
+Answer: 16

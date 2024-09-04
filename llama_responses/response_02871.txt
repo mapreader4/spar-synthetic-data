@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Gloria wants to buy a $129,000 mountain cabin, but she only has $150 in cash. This means she needs to raise $128,850 ($129,000 - $150) to buy the cabin.
+
+Gloria intends to raise the remaining amount by selling her mature trees for lumber. She has 20 cypress trees, 600 pine trees, and 24 maple trees.
+
+For the cypress trees, she will get $100 each, so she will get a total of 20 x $100 = $2,000.
+
+For the pine trees, she will get $200 each, so she will get a total of 600 x $200 = $120,000.
+
+For the maple trees, she will get $300 each, so she will get a total of 24 x $300 = $7,200.
+
+In total, Gloria will get $2,000 + $120,000 + $7,200 = $129,200.
+
+Since she needs to raise $128,850 to buy the cabin, she will have $129,200 - $128,850 = $350 left after paying for the cabin.
+
+Answer: 350

@@ -1,0 +1,19 @@
+Let's break down the problem step by step:
+
+1. The wife saves $100 every week, which is a weekly savings plan. In 4 months, the wife will save a total of:
+
+$100 x 4 = $400
+
+2. The husband saves $225 every month, which is a monthly savings plan. In 4 months, the husband will save a total of:
+
+$225 x 4 = $900
+
+3. They decide to invest half of their total savings in buying stocks. Half of the total savings is:
+
+($400 + $900) / 2 = $650
+
+4. Each share of stocks costs $50. To find out how many shares they can buy, we need to divide the total amount to be invested ($650) by the cost of one share ($50):
+
+$650 / $50 = 13
+
+Answer: 13

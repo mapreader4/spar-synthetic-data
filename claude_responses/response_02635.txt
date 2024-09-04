@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) John's old apartment costs $1200 per month.
+2) The new apartment is 40% more expensive than the old apartment.
+   * 40% of $1200 is $480.
+   * So the new apartment costs $1200 + $480 = $1680 per month.
+3) Since John is splitting the cost with his two brothers, he only pays 1/3 of the $1680 per month.
+   * 1/3 of $1680 is $560 per month.
+4) To calculate the yearly savings, we need to compare the cost of John living alone in the old apartment ($1200 per month) to the cost of John splitting the new apartment ($560 per month).
+   * Yearly cost of old apartment: $1200 x 12 = $14,400
+   * Yearly cost of new apartment (split 3 ways): $560 x 12 = $6,720
+5) The yearly savings is the difference between the two:
+   * $14,400 - $6,720 = $7,680
+
+Answer: $7,680

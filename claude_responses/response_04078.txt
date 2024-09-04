@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Initially, there were 15 boys in the class.
+2) The number of girls was 20% greater than the number of boys. 
+   * 20% of 15 is 3, so the initial number of girls was 15 + 3 = 18.
+3) Later in the year, transfer students were admitted such that the number of girls doubled.
+   * The new number of girls is 18 x 2 = 36.
+4) The number of boys remained the same at 15.
+5) To find the total number of students in the class now, we add the number of boys and girls:
+   * 15 boys + 36 girls = 51 students.
+
+Answer: 51

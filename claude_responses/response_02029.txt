@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jeremy buys 3 bags of chips
+* Stacy buys 4 bags of chips
+* They need 10 bags of chips total for the party
+
+To find out how many bags of chips Emily should buy, we need to subtract the number of bags bought by Jeremy and Stacy from the total number of bags needed:
+* Total bags needed: 10
+* Bags bought by Jeremy: 3
+* Bags bought by Stacy: 4
+* Bags needed from Emily: 10 - 3 - 4 = 3
+
+Answer: 3

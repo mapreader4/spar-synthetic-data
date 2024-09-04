@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Pam is currently twice as young as Rena
+* In 10 years, Rena will be 5 years older than Pam
+* Let's call Rena's current age 'x'
+* Then Pam's current age is 'x/2'
+* In 10 years, Rena's age will be 'x + 10'
+* And Pam's age will be 'x/2 + 10'
+* We know that in 10 years, Rena will be 5 years older than Pam, so:
+* (x + 10) = (x/2 + 10) + 5
+* Solving this equation:
+* x + 10 = x/2 + 15
+* x/2 = 5
+* x = 10
+* So Rena's current age is 10
+* And Pam's current age is 10/2 = 5
+
+Answer: 5

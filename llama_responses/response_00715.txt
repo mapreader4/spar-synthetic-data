@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of the materials needed for the bracelets. For each bracelet, it costs $1 on the string and $3 on beads. So, the total cost of the materials for one bracelet is $4. For 25 bracelets, the total cost of the materials is 25 x 4 = 100.
+
+Now, the selling price of each bracelet is $6. To find the total revenue, we multiply the number of bracelets sold by the selling price: 25 x 6 = 150.
+
+To find the profit, we subtract the total cost from the total revenue. The total cost of the materials is 100, and the total revenue is 150, so the profit is 150 - 100 = 50.
+
+Answer: 50

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+The field is in the shape of a rectangle, so we can find the distance each player will run by finding the perimeter of the rectangle.
+
+The perimeter of a rectangle is the sum of the lengths of its sides. Since the length of the rectangle is 100 m and the width is 50 m, the perimeter is:
+
+100 + 50 = 150 m
+
+Since there are 6 laps, the distance each player will run is:
+
+150 / 6 = 25
+
+Answer: 25

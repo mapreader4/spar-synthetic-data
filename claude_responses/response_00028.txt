@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 5 houses on the street.
+2) The first 4 houses each have 3 gnomes in the garden.
+3) So the total number of gnomes in the first 4 houses is 4 * 3 = 12 gnomes.
+4) We are told that there are a total of 20 gnomes on the street.
+5) To find the number of gnomes in the fifth house, we need to subtract the number of gnomes in the first 4 houses from the total number of gnomes on the street.
+6) 20 gnomes (total) - 12 gnomes (first 4 houses) = 8 gnomes (fifth house).
+
+Answer: 8

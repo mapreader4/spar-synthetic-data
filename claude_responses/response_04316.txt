@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Cloud 9 Diving Company has taken individual bookings worth $12,000.
+2) They have also taken group bookings worth $16,000.
+3) Some people have cancelled at the last minute, and $1,600 has had to be returned to them.
+4) To calculate the total money the company has taken, we need to add the individual bookings and group bookings, and then subtract the amount that had to be returned.
+5) $12,000 (individual bookings) + $16,000 (group bookings) = $28,000
+6) $28,000 - $1,600 (amount returned) = $26,400
+
+Answer: $26,400

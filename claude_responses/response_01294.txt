@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Tom needs to travel by plane and then by boat to get to the island called "Virgo"
+* The plane trip is four times longer than the boat trip
+* The boat trip takes up to 2 hours
+
+Let's call the duration of the boat trip "x" hours.
+* Since the plane trip is four times longer than the boat trip, the duration of the plane trip is 4x hours.
+
+The total travel time is the sum of the plane trip and the boat trip:
+* Total travel time = 4x + x = 5x hours
+
+We know that the boat trip takes up to 2 hours, so:
+* x ≤ 2 hours
+
+Substituting this into the total travel time equation:
+* Total travel time = 5x ≤ 5 * 2 = 10 hours
+
+Therefore, Tom is able to get to the "Virgo" island in 10 hours or less.
+
+Answer: 10

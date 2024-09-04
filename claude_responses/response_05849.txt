@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The show airs from 2:00 pm to 2:30 pm, which is a duration of 30 minutes.
+* The show airs only on weekdays, which means it airs on Monday, Tuesday, Wednesday, and Thursday.
+* Max watches every episode during the week, except for the Friday episode.
+* So, Max watched the show for 4 days (Monday through Thursday).
+* Each day, he watched the show for 30 minutes.
+* Therefore, the total time Max watched the show is:
+4 days x 30 minutes per day = 120 minutes
+* Converting this to hours:
+120 minutes / 60 minutes per hour = 2 hours
+
+Answer: 2 hours

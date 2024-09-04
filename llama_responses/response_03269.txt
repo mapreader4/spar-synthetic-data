@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+We are given that a jug is filled with 5 liters of water. We are also given that a bucket is filled with 4 jugs. We need to find the total amount of water contained in 2 buckets.
+
+Let's first find the amount of water in 1 bucket. Since a bucket is filled with 4 jugs, that means the amount of water in 1 bucket is 4 liters.
+
+Since we have 2 buckets, we can multiply the amount of water in 1 bucket (4 liters) by 2 to find the total amount of water in 2 buckets.
+
+4 * 2 = 8
+
+Answer: 8

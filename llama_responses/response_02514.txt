@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the elevation of Boris' mountain. We know that Hugo's mountain is 10,000 feet above sea level, and Boris' mountain is 2,500 feet shorter. So, Boris' mountain is 10,000 - 2,500 = 7,500 feet above sea level.
+
+Now, Hugo climbs his mountain 3 times, which is a total of 3 x 10,000 = 30,000 feet.
+
+Now, we need to find out how many times Boris needs to climb his mountain to climb the same number of feet as Hugo. Since Boris' mountain is 7,500 feet, and Hugo climbed 30,000 feet, Boris needs to climb 30,000 / 7,500 = 4 times to climb the same number of feet as Hugo.
+
+Answer: 4

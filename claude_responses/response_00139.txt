@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Janice's office is on the third floor, so she has to walk up 3 flights of stairs to get to her office.
+* In a single day, she goes up the three flights of stairs 5 times.
+* That means she walks up 3 flights of stairs 5 times, which is 3 * 5 = 15 flights of stairs up.
+* She also goes down the three flights of stairs 3 times.
+* That means she walks down 3 flights of stairs 3 times, which is 3 * 3 = 9 flights of stairs down.
+* So the total number of flights of stairs she walks (up and down) in a single day is 15 + 9 = 24 flights of stairs.
+
+Answer: 24

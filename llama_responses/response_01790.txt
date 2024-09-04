@@ -1,0 +1,13 @@
+Let the number of infections during the first wave be x.
+
+Let the number of infections during the second wave be 4x.
+
+The total number of infections during the second wave is 2 weeks.
+
+The number of infections during the first wave is 300.
+
+The number of infections during the second wave is 4x. So, the number of infections during the second wave is 4 * 300, which is 1200.
+
+So, the total number of infections during the second wave in 2 weeks is 1200.
+
+Answer: 1200

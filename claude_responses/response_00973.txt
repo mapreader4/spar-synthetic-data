@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The total amount of sales Mr. Brandon made yesterday was $80.
+* 2/5 of the total amount of sales were credit sales.
+* The remaining amount were cash sales.
+
+To find the amount of cash sales, we need to first find the amount of credit sales.
+
+The amount of credit sales is 2/5 of the total sales, which is:
+* 2/5 x $80 = $32
+
+The amount of cash sales is the remaining amount, which is the total sales minus the credit sales:
+* $80 - $32 = $48
+
+Therefore, the amount Mr. Brandon got from cash sales is:
+Answer: $48

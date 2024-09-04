@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's assume that in a high season, 6 packs of tuna fish are sold per hour. This means that in a high season, the total amount of tuna fish sold is 6 * 60 = 360 packs.
+
+In a low season, 4 packs of tuna fish are sold per hour. This means that in a low season, the total amount of tuna fish sold is 4 * 60 = 240 packs.
+
+To find the difference between the total amount of tuna fish sold in a high season and a low season, we need to subtract the total amount of tuna fish sold in a low season from the total amount of tuna fish sold in a high season.
+
+The difference between the total amount of tuna fish sold in a high season and a low season is 360 - 240 = 120.
+
+Answer: 120

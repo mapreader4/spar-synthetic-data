@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Edmund normally has to do 12 chores a week
+* His parents agree to pay him $2 for every extra chore he does during the week
+* He does 4 chores a day for two weeks
+* To calculate the total number of extra chores he does:
+    - In one week, he does 4 chores a day, which is 28 chores (4 chores x 7 days)
+    - He normally has to do 12 chores a week, so the extra chores he does is 28 - 12 = 16 chores
+    - In two weeks, he does 16 extra chores per week, which is 32 extra chores (16 chores x 2 weeks)
+* Now, to calculate how much he earns:
+    - He is paid $2 for every extra chore he does
+    - He did 32 extra chores
+    - So, he earns 32 x $2 = $64
+
+Answer: $64

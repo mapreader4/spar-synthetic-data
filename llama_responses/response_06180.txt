@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of paint used for large canvases. Since the artist uses 3 ounces of paint for every large canvas, and they have completed 3 large paintings, the total amount of paint used for large canvases is 3 x 3 = 9 ounces.
+
+Next, let's find the total amount of paint used for small canvases. The artist uses 2 ounces of paint for every small canvas, and they have completed 4 small paintings, so the total amount of paint used for small canvases is 2 x 4 = 8 ounces.
+
+To find the total amount of paint used, we need to add the paint used for large canvases and small canvases. 9 ounces + 8 ounces = 17 ounces.
+
+Answer: 17

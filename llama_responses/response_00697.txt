@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Joey studies for 2 hours per night, and he does this for 5 nights a week. This means that in total, he studies for 2 * 5 = 10 hours a week.
+
+2. On the weekends, Joey studies for 3 hours a day. Since there are 2 weekends in a week, Joey will study 2 * 3 = 6 hours on the weekends.
+
+3. Now, we need to add the number of hours Joey studies during the weekdays (10 hours) to the number of hours he studies on the weekends (6 hours). To find the total number of hours Joey will study before his SAT exam, we add 10 + 6 = 16 hours.
+
+Answer: 16

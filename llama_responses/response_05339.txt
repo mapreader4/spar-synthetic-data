@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+The woman can either buy a single 16 oz package of store-brand butter for $7, or she can buy an 8oz package of store butter for $4 and use a coupon to get an additional two 4oz packages that normally sell for $2.0 each at a 50% discount.
+
+First, let's calculate the cost of the 2 additional 4oz packages with the 50% discount:
+
+Cost of each 4oz package = $2.0
+Discount = 50% of $2.0 = $1.0
+Price after discount = $2.0 - $1.0 = $1.0
+
+Total cost of 2 additional 4oz packages = 2 x $1.0 = $2.0
+
+Now, let's calculate the total cost of buying the 8oz package and the 2 additional 4oz packages:
+
+Cost of 8oz package = $4.0
+Cost of 2 additional 4oz packages = $2.0
+Total cost = $4.0 + $2.0 = $6.0
+
+Since the total cost of buying the 8oz package and the 2 additional 4oz packages is $6.0, which is lower than the cost of the single 16oz package ($7.0), the woman can buy the butter at the lower price.
+
+Answer: 6

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total cost of the costs that Mitch needs to consider:
+
+1. The cost of the boat itself: $1500 per foot.
+2. The cost of the license and registration: $500.
+3. The cost of docking fees: 3 times the cost of the license and registration, which is 3 * $500 = $1500.
+
+The total cost of the costs is the sum of these three costs: $1500 + $500 + $1500 = $2000.
+
+Now, Mitch has $20000 to finance his boating hobby. If he needs $2000 to buy the boat, he will have $0 left over.
+
+Mitch needs to know how many feet he can buy with his $20000. Let's divide the total cost by the cost per foot:
+
+$20000 / $1500 = 13.33 feet.
+
+So, Mitch can buy a boat that is 13.33 feet long.

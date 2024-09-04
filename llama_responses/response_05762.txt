@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+1. The nurse must check 26 Kindergarteners. This will take 2 minutes per child, so 2 x 26 = 52 minutes.
+
+2. The nurse must check 19 first graders. This will take 2 minutes per child, so 2 x 19 = 38 minutes.
+
+3. The nurse must check 20 second graders. This will take 2 minutes per child, so 2 x 20 = 40 minutes.
+
+4. The nurse must check 25 third graders. This will take 2 minutes per child, so 2 x 25 = 50 minutes.
+
+5. To find the total time, we add the time for each group. 52 + 38 + 40 + 50 = 140 minutes.
+
+Answer: 140

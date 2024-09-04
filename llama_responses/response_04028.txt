@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+Lucas's parents think that each pet will need 2 beds each to feel comfortable. So, the total number of beds needed for the pets is 2 x (number of pets). Since Lucas wants to know how many pets he can have, we need to find the number of pets he can have, given the total number of beds he has, which is 12, and the total number of beds needed for the pets.
+
+Let's call the number of pets he can have 'x'. Since he can fit 8 more beds than the 12 he already has, that means he can fit a total of 12 + 8 = 20 beds. Since each pet will need 2 beds each, we can set up the equation as 2x = 20. To solve for x, we can divide both sides by 2, which gives us x = 10.
+
+Answer: 10

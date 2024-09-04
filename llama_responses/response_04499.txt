@@ -1,0 +1,23 @@
+Let's break down Maisy's current job and the new job separately.
+
+Maisy's current job:
+
+* Hours worked per week: 8 hours
+* Wage per hour: $10
+* Weekly wage: 8 hours x $10 per hour = $80
+
+Now, let's calculate Maisy's new job:
+
+* Hours worked per week: 4 hours
+* Wage per hour: $15
+* Weekly wage: 4 hours x $15 per hour = $60
+
+Since Maisy is confident she will exceed her quota, she will receive an additional bonus of $35 per week. So, her total weekly wage at the new job will be:
+
+* $60 (wage) + $35 (bonus) = $95
+
+To find out how much more money Maisy will earn at her new job, we subtract her current weekly wage from her new weekly wage:
+
+* $95 (new job) - $80 (current job) = $15
+
+Answer: 15

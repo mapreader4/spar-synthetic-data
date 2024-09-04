@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) We are given that the jar has 14 blue jellybeans, 26 purple jellybeans, and 40 orange jellybeans.
+2) We are also told that the total number of jellybeans in the jar is 200.
+3) To find the number of red jellybeans, we need to subtract the number of blue, purple, and orange jellybeans from the total number of jellybeans.
+4) The total number of blue, purple, and orange jellybeans is 14 + 26 + 40 = 80.
+5) Subtracting 80 from the total of 200 jellybeans, we get 200 - 80 = 120.
+
+Answer: 120

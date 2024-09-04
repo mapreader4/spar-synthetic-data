@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. Clara sells 50 boxes of the first type, which has 12 cookies per box. So, the number of cookies from the first type is:
+
+50 x 12 = 600 cookies
+
+2. Clara sells 80 boxes of the second type, which has 20 cookies per box. So, the number of cookies from the second type is:
+
+80 x 20 = 1600 cookies
+
+3. Clara sells 70 boxes of the third type, which has 16 cookies per box. So, the number of cookies from the third type is:
+
+70 x 16 = 1120 cookies
+
+4. To find the total number of cookies, we add the number of cookies from each type:
+
+600 + 1600 + 1120 = 3320
+
+Answer: 3320

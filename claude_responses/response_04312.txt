@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sean needs to replace:
+  - 2 light bulbs in the bedroom
+  - 1 light bulb in the bathroom
+  - 1 light bulb in the kitchen
+  - 4 light bulbs in the basement
+* That's a total of 2 + 1 + 1 + 4 = 8 light bulbs
+* He also needs to replace 1/2 of that amount in the garage
+* 1/2 of 8 is 4 light bulbs
+* So the total number of light bulbs he needs to replace is 8 + 4 = 12 light bulbs
+* The light bulbs come in packs of 2
+* To calculate the number of packs he needs, we divide the total number of light bulbs (12) by the number of bulbs per pack (2)
+* 12 / 2 = 6
+
+Answer: 6

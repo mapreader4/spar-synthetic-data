@@ -1,0 +1,12 @@
+Let's break this down step by step.
+
+There were 3 cars, 6 taxis, and 2 vans. The number of people in each type of vehicle is:
+
+* Cars: 4 people
+* Taxis: 6 people
+* Vans: 5 people
+
+We can add the number of people in each type of vehicle to get the total number of people:
+4 (cars) + 6 (taxis) + 2 (vans) = 12 people
+
+So, the total number of people who went on the hike is 12.

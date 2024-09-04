@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The rectangle is 7 inches wide.
+2) The rectangle is 4 times as long as it is wide.
+3) To find the length of the rectangle, we multiply the width by 4:
+   * Width = 7 inches
+   * Length = 7 inches x 4 = 28 inches
+4) To find the area of the rectangle, we multiply the length by the width:
+   * Area = Length x Width
+   * Area = 28 inches x 7 inches = 196 square inches
+
+Answer: 196

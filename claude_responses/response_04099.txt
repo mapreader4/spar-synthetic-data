@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Big Dig Mining Company mines three different types of ore: copper, iron, and nickel.
+2) 10% of their total output is nickel, and they mine 720 tons of nickel a day.
+3) 60% of their total output is iron.
+4) The remaining percentage must be copper.
+5) To find the amount of copper mined daily, we need to find the total output and then subtract the nickel and iron amounts.
+6) The total output can be calculated by taking the nickel output (720 tons) and dividing it by 10% (0.10), since nickel is 10% of the total output.
+7) Total output = 720 tons / 0.10 = 7,200 tons per day.
+8) Iron output is 60% of the total, so iron output = 7,200 * 0.60 = 4,320 tons per day.
+9) Copper output is the remaining percentage, which is 100% - 10% (nickel) - 60% (iron) = 30%.
+10) Copper output = 7,200 * 0.30 = 2,160 tons per day.
+
+Answer: 2,160 tons

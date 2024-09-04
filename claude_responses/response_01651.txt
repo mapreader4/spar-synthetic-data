@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) The box dimensions are 26 inches by 26 inches by 14 inches.
+2) The walls are 1 inch thick on each side, so the internal dimensions of the box are:
+   - Length: 26 inches - 1 inch - 1 inch = 24 inches
+   - Width: 26 inches - 1 inch - 1 inch = 24 inches
+   - Height: 14 inches - 1 inch - 1 inch = 12 inches
+3) To calculate the internal volume, we multiply the internal dimensions:
+   - 24 inches x 24 inches x 12 inches = 6,912 cubic inches
+4) To convert to cubic feet, we divide by 1,728 (the number of cubic inches in a cubic foot):
+   - 6,912 cubic inches / 1,728 cubic inches/cubic foot = 4 cubic feet
+
+Answer: 4 cubic feet

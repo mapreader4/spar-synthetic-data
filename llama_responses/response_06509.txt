@@ -1,0 +1,11 @@
+Let's start by calculating the total weight of the turtles. Since there are 30 pounds of turtles and each turtle needs 1 ounce of food per 1/2 pound of body weight, the total amount of food needed is:
+
+30 pounds * 2 ounces per pound = 60 ounces
+
+Since each jar contains 15 ounces, the total number of jars needed is:
+
+60 ounces / 15 ounces per jar = 4 jars
+
+Each jar costs $2. So, the total cost to feed the turtles is:
+
+4 jars * $2 = $8

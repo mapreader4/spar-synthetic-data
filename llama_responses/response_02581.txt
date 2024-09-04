@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start with Kenneth's initial amount of money: $50.
+
+Kenneth buys 2 baguettes, which cost $2 each. So, he spends 2 x $2 = $4.
+
+Kenneth also buys 2 bottles of water, which cost $1 each. So, he spends 2 x $1 = $2.
+
+To find out how much money Kenneth has left, we subtract the amount he spent from his initial $50.
+
+$50 - $4 (for the baguettes) = $46
+$46 - $2 (for the water) = $44
+
+So, Kenneth has $44 left.

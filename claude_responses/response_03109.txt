@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Lou Senior took 3 cookies out of the jar and ate them.
+* The next day, he took another 3 cookies, but put 2 of them back, leaving 1 cookie that he ate.
+* So, Lou Senior took a total of 4 cookies (3 + 1).
+* Louie Junior then took 7 cookies out of the jar and hid them in his bedroom.
+* Debra, Lou's wife, accused him of eating half of the cookies in the jar.
+
+To find the number of cookies remaining in the jar, we need to calculate the total number of cookies that were taken out of the jar and subtract that from the original number of cookies in the jar.
+
+Let's assume the original number of cookies in the jar was X.
+* Lou Senior took 4 cookies.
+* Louie Junior took 7 cookies.
+* So, the total number of cookies taken out of the jar is 4 + 7 = 11.
+* Debra accused Lou of eating half the cookies, which means the remaining cookies in the jar is half of the original amount.
+* Therefore, X/2 = X - 11
+* Solving for X, we get X = 22.
+
+Answer: 22

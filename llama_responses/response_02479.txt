@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: John wants to buy 15 packets of chips for $2 each. This will cost 15 x 2 = 30 dollars.
+
+Step 2: John has 45 dollars in total, and he spends 30 dollars on chips. This leaves him with 45 - 30 = 15 dollars.
+
+Step 3: John wants to buy as many packets of corn chips as he can with the remaining 15 dollars. Since each packet of corn chips costs $1.5, the number of packets he can buy is 15 / 1.5 = 10.
+
+Answer: 10

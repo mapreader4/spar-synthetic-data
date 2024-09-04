@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's say the number of dogs that Carly worked on is x.
+
+Since three of the dogs had only three legs, that means that the number of legs of all the dogs she worked on is 3x.
+
+The total number of nails Carly trimmed is 164. Since each dog has 4 nails, the total number of nails on all the dogs is 4x. So, we can set up an equation:
+
+4x = 164
+
+We can divide both sides of the equation by 4:
+
+x = 164 ÷ 4
+x = 41
+
+So, Carly worked on 41 dogs.

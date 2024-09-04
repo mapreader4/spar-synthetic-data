@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+On the first day, Kim brings 3 pairs of earrings. She gets 9 gumballs for each pair, so she gets a total of 3 x 9 = 27 gumballs.
+
+On the second day, Kim brings twice as many pairs of earrings as she did on the first day. She brought 3 pairs on the first day, so on the second day she brings 3 x 2 = 6 pairs. She gets 9 gumballs for each pair, so she gets a total of 6 x 9 = 54 gumballs.
+
+On the third day, Kim brings 1 less pair of earrings than she brought on the second day. She brought 6 pairs on the second day, so on the third day she brings 6 - 1 = 5 pairs. She gets 9 gumballs for each pair, so she gets a total of 5 x 9 = 45 gumballs.
+
+In total, Kim gets 27 + 54 + 45 = 126 gumballs.
+
+Kim eats 3 gumballs a day. To find out how many days the gumballs will last, we need to divide the total number of gumballs by the number of gumballs she eats per day.
+
+126 gumballs ÷ 3 gumballs per day = 42 days
+
+Answer: 42

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* We have 4 tires and 1 battery that together cost $224
+* Each tire costs $42
+* To find the cost of the battery, we need to subtract the total cost of the 4 tires from the total cost of $224
+
+First, let's calculate the total cost of the 4 tires:
+* 4 tires x $42 per tire = $168
+
+Now, we can subtract the total cost of the tires from the total cost of $224 to find the cost of the battery:
+* $224 - $168 = $56
+
+Therefore, the price of the battery is $56.
+
+Answer: $56

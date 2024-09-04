@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Let's start by identifying the given information: Traci brought flour from her own house and Harris has 400g of flour in his house.
+2. Each cake needs 100g of flour, and they have created 9 cakes each. So, the total amount of flour needed for 9 cakes is 9 x 100g = 900g.
+3. Since Harris has 400g of flour, and they have created 9 cakes each, the amount of flour Traci brought must be 400g - 900g = 500g.
+
+Answer: 500

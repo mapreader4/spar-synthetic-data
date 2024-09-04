@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The total profit made by the beadshop is $1,200
+* On Monday, the shop earns one-third of the total profit
+* On Tuesday, the shop earns one-quarter of the total profit
+* The remaining profit is earned on Wednesday
+
+First, let's calculate the profit made on Monday:
+* One-third of $1,200 is $1,200 / 3 = $400
+
+Next, let's calculate the profit made on Tuesday:
+* One-quarter of $1,200 is $1,200 / 4 = $300
+
+Now, we can calculate the profit made on Wednesday:
+* The total profit is $1,200
+* The profit made on Monday is $400
+* The profit made on Tuesday is $300
+* The remaining profit made on Wednesday is $1,200 - $400 - $300 = $500
+
+Answer: $500

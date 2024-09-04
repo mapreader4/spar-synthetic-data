@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+There were 600 cookies in the box initially. Nicole ate 2/5 of the cookies. So, she ate 600 * 2/5 = 240 cookies. That leaves 600 - 240 = 360 cookies left.
+
+Eduardo ate 3/5 of the remaining cookies. So, he ate 360 * 3/5 = 216 cookies. That leaves 360 - 216 = 144 cookies.
+
+Now, to find the percentage of cookies that remained, we need to find the fraction of 144 out of the original 600. To do this, we can convert the fraction 144/600 to a percentage. To do that, we can divide the numerator and denominator by 600.
+
+144 ÷ 600 = 0.24.
+
+So, 0.24 is the percentage of the cookies that remained. Therefore, the answer is:
+
+Answer: 24

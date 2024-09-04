@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Cat Cafe Meow has 3 times as many cats as Cat Cafe Paw.
+2) Cat Cafe Paw has 2 times as many cats as Cat Cafe Cool.
+3) Cat Cafe Cool has 5 cats.
+
+So, we can start by finding the number of cats in Cat Cafe Paw:
+* Cat Cafe Paw has 2 times as many cats as Cat Cafe Cool
+* Cat Cafe Cool has 5 cats
+* Therefore, Cat Cafe Paw has 2 x 5 = 10 cats
+
+Now, we can find the number of cats in Cat Cafe Meow:
+* Cat Cafe Meow has 3 times as many cats as Cat Cafe Paw
+* Cat Cafe Paw has 10 cats
+* Therefore, Cat Cafe Meow has 3 x 10 = 30 cats
+
+Answer: Cat Cafe Meow has 30 cats, and Cat Cafe Paw has 10 cats.

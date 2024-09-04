@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Hamza fills the 5-liter bucket, so the 5-liter bucket is full.
+2. She pours the contents of the 5-liter bucket into the 3-liter bucket. Since the 5-liter bucket is full, it means it contains 5 liters of water. Since the 3-liter bucket is smaller, it will not be filled to the brim. It will only hold 3 liters, so the remaining water will overflow. The amount of water that overflows is 5 - 3 = 2 liters.
+3. Hamza pours the remaining 2 liters into the 6-liter bucket. The 6-liter bucket is now filled with 2 liters.
+4. The question asks how much more water can Hamza put into the 6-liter bucket without overflowing. Since the 6-liter bucket is already filled with 2 liters, it can hold up to 6 - 2 = 4 liters more water.
+
+Answer: 4

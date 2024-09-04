@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+1. First, we know that 20% of the bottles of milk are spoiled. This means that 80% of the bottles of milk are fresh. 80% of the milk is fresh.
+
+2. Next, we know that 60% of the eggs are rotten. This means that 40% of the eggs are not rotten. 40% of the eggs are not rotten.
+
+3. Now, let's find the probability of Jackson picking a bottle of milk. Since 80% of the milk is fresh, the probability of picking a fresh bottle of milk is 80%.
+
+4. Next, let's find the probability of Jackson picking an egg. Since 40% of the eggs are not rotten, the probability of picking a non-rotten egg is 40%.
+
+5. Finally, let's find the probability of Jackson picking a canister of flour. Since 1/4 of the canisters of flour have weevils in them, the probability of picking a canister with weevils is 25%.
+
+6. To find the probability of all three ingredients being good, we multiply the probabilities of each. The probability of Jackson picking a fresh bottle of milk, a non-rotten egg and a canister of flour without weevils is:
+
+80% x 40% x 25% = 0.32
+
+Answer: 0.32

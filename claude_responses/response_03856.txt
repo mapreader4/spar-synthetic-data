@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. In the first year, Lilith collects 3 caps per month. There are 12 months in a year, so in the first year she collects:
+   3 caps per month x 12 months = 36 caps
+
+2. After the first year, Lilith collects 5 caps per month. For the remaining 4 years, that's:
+   5 caps per month x 12 months x 4 years = 240 caps
+
+3. Each Christmas, Lilith receives 40 caps from friends and family. Over the 5 years, that's:
+   40 caps x 5 years = 200 caps
+
+4. Each year, Lilith loses 15 caps. Over the 5 years, that's:
+   15 caps x 5 years = 75 caps
+
+5. To calculate the total number of caps Lilith has collected, we add up the caps collected in the first year, the caps collected in the remaining 4 years, the caps received at Christmas, and subtract the caps lost each year:
+   36 + 240 + 200 - 75 = 401 caps
+
+Answer: 401 caps

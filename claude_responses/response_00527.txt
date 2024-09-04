@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The lettuce has 30 calories
+* The cucumber has 80 calories
+* The 12 croutons have 20 calories each
+* To calculate the total calories in the croutons, we multiply the number of croutons (12) by the calories per crouton (20):
+  * 12 croutons x 20 calories/crouton = 240 calories
+* To calculate the total calories in the salad, we add the calories from the lettuce, cucumber, and croutons:
+  * 30 calories (lettuce) + 80 calories (cucumber) + 240 calories (croutons) = 350 calories
+
+Answer: 350

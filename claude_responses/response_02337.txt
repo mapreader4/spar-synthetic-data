@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+1. Kindergartners:
+   * 101 Kindergartners
+   * Each shirt cost $5.80
+   * Total cost for Kindergartners: 101 * $5.80 = $585.80
+
+2. First Graders:
+   * 113 First Graders
+   * Each shirt cost $5.00
+   * Total cost for First Graders: 113 * $5.00 = $565.00
+
+3. Second Graders:
+   * 107 Second Graders
+   * Each shirt cost $5.60
+   * Total cost for Second Graders: 107 * $5.60 = $599.20
+
+4. Third Graders:
+   * 108 Third Graders
+   * Each shirt cost $5.25
+   * Total cost for Third Graders: 108 * $5.25 = $567.00
+
+5. Total cost for all shirts:
+   * $585.80 + $565.00 + $599.20 + $567.00 = $2,317.00
+
+Answer: $2,317

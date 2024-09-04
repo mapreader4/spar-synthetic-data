@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) There are 6 girls and 8 boys in the school play.
+2) Each kid has two parents, so for each kid there are 2 parents.
+3) To find the total number of parents, we need to multiply the total number of kids by 2.
+4) The total number of kids is 6 girls + 8 boys = 14 kids.
+5) Multiplying the total number of kids (14) by 2 parents per kid, we get:
+14 kids x 2 parents per kid = 28 parents.
+
+Answer: 28

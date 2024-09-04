@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Initially, the dragon owns some number of jewels, which we'll call x.
+
+The king steals 3 prize jewels from the dragon.
+
+So, the dragon now owns x - 3 jewels.
+
+The dragon burns the king and steals back its 3 prize jewels, as well as twice as many of the king's crown jewels (since the king's crown melted in the fire). Let's call the number of crown jewels the king had y. The dragon steals back 3 + 2y jewels.
+
+The dragon also steals a new set of jewels, which is a third of the number of jewels it owned before. This new set is (x - 3 - 3 - 2y)/3 jewels.
+
+The dragon now owns the sum of all these jewels:
+
+x - 3 - 3 - 2y + 3 + 2y + (x - 3 - 3 - 2y)/3
+
+Simplifying this expression, we get:
+
+x - 3 + (x - 3)/3
+
+Combine like terms:
+
+(4x - 18)/3
+
+Multiply both sides by 3 to eliminate the fraction:
+
+4x - 18
+
+This is the number of jewels the dragon owns after the whole ordeal.

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Baylor currently has $4000 on his dashboard from previous work done.
+
+2. The first client will pay him half the amount of money he currently has on his dashboard, which is:
+   $4000 / 2 = $2000
+
+3. The second client will pay him 2/5 times more money than the first client, which is:
+   $2000 + (2/5 * $2000) = $2000 + $800 = $2800
+
+4. The third client will pay him twice the amount of money the first and second clients pay him together, which is:
+   ($2000 + $2800) * 2 = $4800 * 2 = $9600
+
+5. Now, we add up all the money Baylor will receive from the three clients:
+   $2000 + $2800 + $9600 = $14400
+
+6. We add this to the $4000 he already has on his dashboard:
+   $14400 + $4000 = $18400
+
+Answer: $18400

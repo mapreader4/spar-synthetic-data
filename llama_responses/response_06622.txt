@@ -1,0 +1,9 @@
+Let's break down the information given in the problem step by step:
+
+1. Louis has 5 oranges and 3 apples.
+2. Samantha has 8 oranges and 7 apples.
+3. Marley has twice as many oranges as Louis, which is 5 * 2 = 10 oranges.
+4. Marley has three times as many apples as Samantha, which is 7 * 3 = 21 apples.
+5. To find the total number of fruits Marley has, we add the number of oranges and apples: 10 (oranges) + 21 (apples) = 31.
+
+Answer: 31

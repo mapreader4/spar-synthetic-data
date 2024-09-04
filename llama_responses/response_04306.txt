@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of deer with 8 antlers. 10% of the deer have 8 antlers, so to find the number of deer with 8 antlers, we multiply 10% by the total number of deer.
+
+The total number of deer is 920. To find 10% of this number, we multiply 10 by 920, which gives us:
+
+10 x 920 = 9200
+
+Now, we are looking for a quarter of this number that also have albino fur. A quarter of 9200 is:
+
+9200 / 4 = 2300
+
+Now, we are looking for a subset of 2300 deer that also have 8 antlers. Since the problem states that 10% of the deer have 8 antlers, we can conclude that the number of albino 8-antlered deer is equal to the number of deer with 8 antlers. Therefore, the answer is:
+
+Answer: 230

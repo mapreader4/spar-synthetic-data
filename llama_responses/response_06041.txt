@@ -1,0 +1,9 @@
+Let's start by finding the total number of items Natalia needs to store:
+
+145 novels + 271 comics + 419 documentaries + 209 albums = 945 items
+
+To find the number of crates needed, we can divide the total number of items by the capacity of each crate, which is 9:
+
+945 items / 9 = 105 crates
+
+So, Natalia will use 105 crates.

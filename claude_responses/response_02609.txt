@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+
+1. Nancy has 40 metal beads and 20 more pearl beads, which means she has 40 + 20 = 60 pearl beads.
+2. Each bracelet has 8 beads, so Nancy can make:
+   - Metal beads: 40 / 8 = 5 bracelets
+   - Pearl beads: 60 / 8 = 7.5 bracelets (rounded down to 7 bracelets)
+   - Total bracelets Nancy can make: 5 + 7 = 12 bracelets
+
+3. Rose has 20 crystal beads and twice as many stone beads, which means she has 20 x 2 = 40 stone beads.
+4. Each bracelet has 8 beads, so Rose can make:
+   - Crystal beads: 20 / 8 = 2.5 bracelets (rounded down to 2 bracelets)
+   - Stone beads: 40 / 8 = 5 bracelets
+   - Total bracelets Rose can make: 2 + 5 = 7 bracelets
+
+5. The total number of bracelets Nancy and Rose can make is the sum of their individual bracelets:
+   - Total bracelets: 12 + 7 = 19 bracelets
+
+Answer: 19 bracelets.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of skips Matt gets in one minute.
+
+Matt skips ropes 3 times per second. Since there are 60 seconds in a minute, he skips 60 x 3 = 180 ropes in 1 minute.
+
+Now, since Matt jumps for 10 minutes, or 10 x 60 seconds, he gets 10 x 180 = 1800 skips.
+
+Answer: 1800

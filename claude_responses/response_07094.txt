@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Molly got a bike for her 13th birthday
+* She rode her bike 3 miles a day, every day
+* She rode her bike until she turned 16
+
+To calculate the total number of miles Molly rode, we need to:
+1. Calculate the number of days between her 13th and 16th birthdays
+2. Multiply the number of days by the number of miles she rode per day
+
+First, let's calculate the number of days between her 13th and 16th birthdays:
+* There are 3 years between her 13th and 16th birthdays
+* There are 365 days in a year
+* 3 years x 365 days/year = 1,095 days
+
+Now, let's multiply the number of days by the number of miles she rode per day:
+* 1,095 days x 3 miles/day = 3,285 miles
+
+Answer: 3,285

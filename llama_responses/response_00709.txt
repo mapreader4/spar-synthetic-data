@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+There are 3 meatballs on each plate, so there are a total of 3 * 3 = 9 meatballs initially.
+
+Each of the 3 sons eat 2/3 of the meatballs on their respective plates, which is 2/3 * 9 = 6 meatballs.
+
+So, the number of meatballs left is 9 - 6 = 3.
+
+Answer: 3

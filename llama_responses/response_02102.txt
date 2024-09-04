@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Maria's monthly salary is $2000. 20% of her salary is $400 (0.2 * 2000). 5% of her salary is $100 (0.05 * 2000). So, the total deductions are $400 + $100 = $500.
+
+After the deductions, Maria is left with $2000 - $500 = $1500.
+
+A quarter of the money left is $375 (0.25 * 1500). After spending this on utility bills, Maria has $1125 left.
+
+Answer: 1125.

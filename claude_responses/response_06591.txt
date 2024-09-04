@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Gabe has 3 songs on his playlist
+* "The Best Day" is 3 minutes long
+* "Raise the Roof" is 2 minutes long
+* "Rap Battle" is 3 minutes long
+* The total duration of the playlist is:
+    - "The Best Day" (3 minutes)
+    - "Raise the Roof" (2 minutes)
+    - "Rap Battle" (3 minutes)
+    - Total = 3 + 2 + 3 = 8 minutes
+* Gabe has a 40-minute ride to his wrestling match
+* To find how many times Gabe can listen to the entire playlist, we divide the total ride time (40 minutes) by the total playlist duration (8 minutes):
+    - 40 minutes / 8 minutes = 5
+
+Answer: 5

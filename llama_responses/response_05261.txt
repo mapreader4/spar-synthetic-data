@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the volume of the pool in cubic feet. The pool is 10 feet by 10 feet by 6 feet, so the volume is 10 * 10 * 6 = 60 cubic feet.
+
+Step 2: Convert the volume from cubic feet to gallons. Since each gallon of water fills 1 cubic foot of the pool, we can multiply the volume in cubic feet by 1 to get the volume in gallons. So, 60 cubic feet is equal to 60 * 1 = 60 gallons.
+
+Step 3: Calculate how many gallons Jerry can use for drinking and cooking. Jerry uses 100 gallons for drinking and cooking, so that leaves 1000 - 100 = 900 gallons for the pool.
+
+Step 4: Calculate how many showers Jerry can take. Jerry uses 20 gallons per shower, and we want to know how many showers he can take with the remaining 900 gallons. To find the number of showers, we can divide the remaining gallons by the gallons per shower. 900 / 20 = 45.
+
+Answer: 45

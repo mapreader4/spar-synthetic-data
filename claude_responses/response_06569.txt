@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The price per person for the trip to Egypt is $147.
+* Ali and Leila each received a discount of $14 since they are traveling together.
+* To calculate the total cost of the trip, we need to:
+  1. Calculate the total price without any discounts:
+     * 2 people x $147 per person = $294
+  2. Calculate the total discount:
+     * 2 people x $14 discount per person = $28
+  3. Subtract the total discount from the total price:
+     * $294 - $28 = $266
+
+Answer: $266

@@ -1,0 +1,16 @@
+Let the cost of the book be x. Then the marked price is 1.3x, and the sale price is 0.9(1.3x) = 1.3x - 0.1x = 1.2x.
+
+We know that the sale price is 50. So 1.2x = 50.
+
+We can solve for x:
+
+1.2x = 50
+x = 50 / 1.2
+x = 50 / 1.2
+x = 41.67
+
+The cost of the book is 41.67. The profit is the difference between the cost and the sale price:
+
+Profit = 50 - 41.67 = 8.33
+
+The answer is: Answer: 8.33

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Initially, Andrew asks his mother to buy 3 donuts for Brian and the same for Samuel. This means his mother needs to buy a total of 3 + 3 = 6 donuts for the two friends.
+
+Then, Andrew invites two more friends and asks his mother to buy them the same amount of donuts, which is 3 donuts each. This means his mother needs to buy an additional 3 + 3 = 6 donuts for the new friends.
+
+Since Andrew's mother wants to buy one more donut for each of Andrew's friends, she needs to add 1 + 1 = 2 donuts for each of the original two friends and 1 + 1 = 2 donuts for each of the new two friends. This means she needs to add a total of 2 + 2 = 4 donuts for the original friends and 2 + 2 = 4 donuts for the new friends.
+
+Finally, Andrew's mother wants to buy the same amount of donuts for Andrew as everybody else, which is 3 donuts.
+
+To find the total number of donuts Andrew's mother needs to buy, we add up the donuts needed for everyone:
+
+6 (initial donuts) + 6 (additional donuts) + 4 (extra donuts for original friends) + 4 (extra donuts for new friends) + 3 (donuts for Andrew) = 23
+
+Answer: 23

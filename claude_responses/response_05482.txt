@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rachel drinks 2 glasses of water on Sunday and 4 glasses of water on Monday
+* That's a total of 2 + 4 = 6 glasses of water for the first two days
+* She then drinks 3 glasses of water every day for the next 4 days (Tuesday, Wednesday, Thursday, Friday)
+* That's 3 glasses per day x 4 days = 12 additional glasses of water
+* So the total number of glasses of water she has drunk so far is 6 + 12 = 18 glasses
+* Each glass of water is 10 ounces
+* So the total amount of water she has drunk so far is 18 glasses x 10 ounces/glass = 180 ounces
+* She wants to drink a total of 220 ounces of water in the week
+* So the amount of water she needs to drink on Saturday is 220 ounces - 180 ounces = 40 ounces
+* Since each glass is 10 ounces, she needs to drink 40 ounces / 10 ounces/glass = 4 glasses of water on Saturday.
+
+Answer: 4

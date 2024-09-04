@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first calculate the total number of hours Max spent playing video games.
+
+On Wednesday, Max played for 2 hours. On Thursday, he played the same amount of time, which is 2 hours. So, the total number of hours he played on those two days is 2 + 2 = 4 hours.
+
+On Friday, Max played for 3 hours more than he played on Wednesday and Thursday. So, the total number of hours he played on Friday is 4 + 3 = 7 hours.
+
+To find the average number of hours Max spent playing video games during these three days, we need to add the total number of hours he played on the two days and the three hours he played on Friday.
+
+The total number of hours is 4 + 7 = 11 hours.
+
+Answer: 11

@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Dan's ice cream shop gives away a free cone to every sixth customer.
+2) If he sold $100 worth of cones, and each cone costs $2, then he sold 50 cones in total (100 / 2 = 50).
+3) To find the number of free cones he gave away, we need to divide the total number of cones sold by 6, since every sixth customer gets a free cone.
+4) 50 cones / 6 = 8.33 free cones.
+5) Since we can't give away a fraction of a cone, we round down to the nearest whole number.
+
+Answer: 8 free cones.

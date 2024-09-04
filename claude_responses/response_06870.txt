@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Plane ticket cost for each person: $24
+* Hotel stay cost for each person per day: $12
+* They are staying for 3 days
+
+To calculate the total cost, we need to find the cost of the plane tickets and the cost of the hotel stay, then add them together.
+
+Cost of plane tickets:
+* 2 plane tickets at $24 each = $48
+
+Cost of hotel stay:
+* 2 people staying for 3 days at $12 per day = $72
+
+Total cost:
+* Cost of plane tickets + Cost of hotel stay = $48 + $72 = $120
+
+Answer: 120

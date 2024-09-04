@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Identify the total number of hybrids.
+
+60% of the cars are hybrids, so 0.6 * 600 = 360 hybrids.
+
+Step 2: Identify the number of hybrids with one headlight.
+
+40% of the hybrids contain one headlight, so 0.4 * 360 = 144 hybrids contain one headlight.
+
+Step 3: Find the number of hybrids with full headlights.
+
+Since we want to find the number of hybrids with full headlights, we need to subtract the number of hybrids with one headlight from the total number of hybrids.
+
+360 (total hybrids) - 144 (hybrids with one headlight) = 216 hybrids with full headlights.
+
+Answer: 216

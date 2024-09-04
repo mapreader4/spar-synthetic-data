@@ -1,0 +1,5 @@
+Let the number of marbles Gideon has be represented as m. He gives 3/4 of the marbles to his sister, which is 3m/4. He then multiplies the number of remaining marbles by 2, which is 2m. So, the number of marbles Gideon has left is m - 3m/4 + 2m. In 5 years, Gideon's age is 5. So, we can set up the equation: m - 3m/4 + 2m + 5 = 100.
+
+The number of years in a century is 100. So, m - 3m/4 + 2m = 100 - 5. 3m/4 = 3m/4 = m/4. So, we have m/4 = 96. We can solve for m: m = 96 * 4 = 384.
+
+Gideon's age is 5 years from now, so he is now 100 - 5 = 95 years old. Answer: 95.

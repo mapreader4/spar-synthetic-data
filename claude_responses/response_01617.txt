@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* A sandwich requires 2 slices of bread, which cost $0.15 each, so the total cost of the bread is 2 * $0.15 = $0.30
+* The slice of ham costs $0.25
+* The slice of cheese costs $0.35
+* To calculate the total cost to Joe to make a sandwich with one slice of each protein, we add up the costs:
+* Cost of bread: $0.30
+* Cost of ham: $0.25
+* Cost of cheese: $0.35
+* Total cost: $0.30 + $0.25 + $0.35 = $0.90
+
+Answer: 90 cents

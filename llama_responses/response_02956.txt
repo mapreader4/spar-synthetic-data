@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say the total number of shots Cyrus attempted is 20. He made 80% of these shots. To find the number of shots Cyrus missed, we need to subtract 80% of 20 from the total number of shots. 
+
+First, we need to convert the percentage to a decimal by multiplying by 20. 80% can be written as a decimal as 0.8. 
+
+Now, we multiply 0.8 by 20 to get 16. So, Cyrus missed 16 shots. 
+
+Answer: 16

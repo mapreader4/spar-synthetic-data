@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+
+1. On Saturday, there were 80 people at the football game.
+2. On Monday, 20 fewer people were at the football game, so that's 80 - 20 = 60 people.
+3. On Wednesday, 50 more people were at the game than on Monday, so that's 60 + 50 = 110 people.
+4. On Friday, there were the same number of people as on Saturday and Monday combined, so that's 80 + 60 = 140 people.
+
+Now, let's calculate the total number of people who attended the games for the week:
+* Saturday: 80 people
+* Monday: 60 people
+* Wednesday: 110 people
+* Friday: 140 people
+* Total: 80 + 60 + 110 + 140 = 390 people
+
+The expected total audience for the week was 350 people.
+* The difference between the actual attendance and the expected attendance is 390 - 350 = 40 people.
+
+Answer: 40

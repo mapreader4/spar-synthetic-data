@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Monica is saving money, so we know that she is putting money into her moneybox. Every week, she puts $15 into her moneybox. So, we can say that the total money Monica put into her moneybox is:
+
+15 * 60 = 900
+
+The moneybox got full after 60 weeks. So, Monica took all the money out and took it to the bank. She repeated this process 5 times. So, the total amount of money Monica took to the bank is:
+
+900 * 5 = 4500
+
+Answer: 4500

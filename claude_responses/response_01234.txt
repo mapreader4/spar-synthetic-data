@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The bag has 80 pistachios total
+* 95% of the pistachios have shells
+* To find the number of pistachios with shells, we take 95% of 80:
+    * 95% of 80 = 0.95 * 80 = 76 pistachios have shells
+* 75% of the pistachios with shells have opened shells
+* To find the number of pistachios with opened shells, we take 75% of the 76 pistachios with shells:
+    * 75% of 76 = 0.75 * 76 = 57 pistachios have opened shells
+
+Answer: 57

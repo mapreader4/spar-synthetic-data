@@ -1,0 +1,7 @@
+To find the total number of hours of naps John takes, we can multiply the number of naps per week by the length of each nap.
+
+There are 7 days in a week, so there are 7 naps in a week.  Each nap is 2 hours long.  So, the total number of hours of naps is:
+
+7 * 2 = 14
+
+Answer: 14

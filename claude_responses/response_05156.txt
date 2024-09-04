@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The man originally had 39 cows
+* Last year, 25 of them died and he sold 6 of them
+* So, the number of cows he had after last year was 39 - 25 - 6 = 8 cows
+* This year, the number of cows increased by 24
+* So, the number of cows he had after the increase was 8 + 24 = 32 cows
+* The man then bought 43 more cows
+* So, the number of cows he had after buying 43 more was 32 + 43 = 75 cows
+* His friend then gave him 8 more cows as a gift
+* So, the total number of cows the man has now is 75 + 8 = 83 cows
+
+Answer: 83

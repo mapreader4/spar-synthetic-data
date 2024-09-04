@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 25 students in Mary's class
+* The teacher told them they could pay $50 each to finance a science project
+* All students paid the full amount except for 4 students
+* The 4 students who did not pay the full amount paid half, which is $25 each
+
+First, let's calculate the total amount paid by the 21 students who paid the full $50 amount:
+* 21 students x $50 = $1,050
+
+Next, let's calculate the total amount paid by the 4 students who paid half:
+* 4 students x $25 = $100
+
+Now, we can add the two amounts together to get the total amount the class was able to gather:
+* $1,050 + $100 = $1,150
+
+Answer: $1,150

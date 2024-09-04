@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The bedroom is 20 feet wide by 20 feet long by 8 feet tall
+* The total wall area of the room is:
+    - 4 walls, each 20 feet wide by 8 feet tall
+    - Total wall area = 4 * 20 * 8 = 640 square feet
+* Wall 1 has a 3-foot by 7-foot doorway
+    - Doorway area = 3 * 7 = 21 square feet
+    - Remaining wall area = 20 * 8 - 21 = 139 square feet
+* Wall 2 has a 6-foot by 4-foot window
+    - Window area = 6 * 4 = 24 square feet
+    - Remaining wall area = 20 * 8 - 24 = 136 square feet
+* Wall 3 has a 5-foot by 7-foot doorway to a walk-in-closet
+    - Doorway area = 5 * 7 = 35 square feet
+    - Remaining wall area = 20 * 8 - 35 = 125 square feet
+* Wall 4 is completely solid, so the area is 20 * 8 = 160 square feet
+
+To calculate the total area Linda will have to paint:
+* Total wall area = 139 + 136 + 125 + 160 = 560 square feet
+
+Answer: 560

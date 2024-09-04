@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of cans of soda needed. Since each person can consume 2 cans and there are 5 dozens of people, the total number of cans needed is:
+
+5 dozens * 2 = 10
+
+Since each box contains 10 cans, we need:
+
+10 cans / 10 cans per box = 1 box
+
+So, we need 1 box of soda.
+
+The cost of the soda is $2 per box. Since we need 1 box, the total cost is:
+
+$2
+
+Now, we need to divide the cost equally among the 6 family members. To do this, we can divide the cost by the number of family members:
+
+$2 / 6 = $0.33
+
+So, each family member will pay $0.33.

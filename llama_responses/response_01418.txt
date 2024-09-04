@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Maria wants to buy a set of brushes for $20. So, the cost of the brushes is $20.
+
+Maria wants to buy canvas for three times more than the brushes. Since the cost of the brushes is $20, three times more would be 3 x 20 = $60.
+
+The paint costs $8 per liter, and Maria needs at least 5 liters. So, the cost of the paint is 5 x 8 = $40.
+
+The total amount Maria needs to spend is the cost of the brushes, the cost of the paint, and the cost of the canvas. So, the total cost is 20 + 40 = $60.
+
+Maria will sell the painting for $200. So, her profit will be 200 - 60 = $140.
+
+Answer: 140

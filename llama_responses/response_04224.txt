@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the cost of the 2 green notebooks is x.
+
+The total cost of the notebooks is $45.
+
+We know that the black notebook cost $15 and the pink notebook cost $10.
+
+So, the total cost of the green notebooks is 45 - 15 - 10 = 20.
+
+Since there are 2 green notebooks, the cost of each green notebook is 20 / 2 = 10.
+
+Answer: 10

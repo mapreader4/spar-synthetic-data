@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the number of meals the chef prepared for dinner. He prepared 5 meals for dinner.
+
+Now, let's find the number of meals he had for lunch. He sold 12 meals for lunch.
+
+Now, the chef can use the lunch meals for dinner. The total number of meals the chef has for dinner is the difference between the number of meals prepared for dinner and the number of meals sold for lunch. This is 5 - 12 = 3.
+
+So, the answer is: 3.
+
+Answer: 3

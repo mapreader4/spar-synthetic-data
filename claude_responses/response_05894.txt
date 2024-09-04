@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The employee makes $30 per hour for the first 40 hours in the workweek
+* For any hours above 40 in the workweek, the employee makes an additional 50% of the $30 per hour rate
+* For the first 3 days, the employee works 6 hours per day
+* For the remaining 2 days, the employee works twice as many hours per day as the first 3 days
+
+First, let's calculate the hours worked in the first 3 days:
+* 6 hours per day x 3 days = 18 hours
+
+Now, let's calculate the hours worked in the remaining 2 days:
+* 6 hours per day x 2 = 12 hours per day
+* 12 hours per day x 2 days = 24 hours
+
+Now, let's calculate the total hours worked in the workweek:
+* 18 hours + 24 hours = 42 hours
+
+Since the employee makes $30 per hour for the first 40 hours, and an additional 50% for the remaining 2 hours, we can calculate the total earnings as follows:
+* 40 hours x $30 per hour = $1,200
+* 2 hours x $45 per hour (50% more than $30) = $90
+* Total earnings = $1,200 + $90 = $1,290
+
+Answer: $1,290

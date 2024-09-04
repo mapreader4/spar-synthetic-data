@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The first tank is 300 liters filled.
+2) The second tank is 450 liters filled.
+3) The second tank is only 45% filled.
+4) The two tanks have the same capacity.
+5) To find the total capacity of the tanks, we can use the information about the second tank being 45% filled. Since it is 450 liters filled, and that is 45% of the total capacity, we can calculate the total capacity:
+   * 450 liters = 45% of total capacity
+   * Total capacity = 450 / 0.45 = 1000 liters
+6) Since the two tanks have the same capacity, the first tank also has a capacity of 1000 liters.
+7) To find the amount of water needed to fill the two tanks, we need to subtract the amount of water already in the tanks from the total capacity:
+   * Total capacity = 2 x 1000 = 2000 liters
+   * Water already in the tanks = 300 + 450 = 750 liters
+   * Water needed to fill the tanks = 2000 - 750 = 1250 liters
+
+Answer: 1250 liters

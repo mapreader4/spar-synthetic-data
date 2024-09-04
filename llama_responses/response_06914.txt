@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Billy starts with the website generating 15 suggestions. He watches each of the 15 suggestions, one by one, and doesn't like any of them. So, he watches a total of 15 videos.
+
+Since he watches 15 videos and doesn't like any of them, he continues to watch until he finds one he likes. He does this a total of 5 times, which means he watches 5 more videos after the initial 15.
+
+So, in total, Billy watches 15 + 5 = 20 videos.
+
+Answer: 20

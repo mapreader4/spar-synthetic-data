@@ -1,0 +1,11 @@
+Let's think step by step.
+
+Let's say we need to make 96 candles. Since it takes 3 beehives to make 12 candles, we can find the number of hives needed to make 96 candles by multiplying 3 by 4, since 12 is 3 times 4.
+
+So, 3 * 4 = 12.
+
+So, it takes 4 times as many hives as it takes to make 12 candles to make 48 candles. To find the number of hives needed to make 96 candles, we can multiply 4 by 24, since 48 is 4 times 12.
+
+So, it takes 4 * 24 = 96 hives to make 96 candles.
+
+Answer: 4

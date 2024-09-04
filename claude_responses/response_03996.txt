@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Buzz bought a pizza with 78 slices
+* He decided to share it with the waiter in the ratio of 5:8, with Buzz's ratio being 5
+* To find the number of slices the waiter ate, we need to find the total parts in the ratio, which is 5 + 8 = 13
+* The waiter's portion is 8 parts out of the 13 total parts
+* To find the number of slices the waiter ate, we take 8/13 of the total 78 slices:
+* 8/13 * 78 = 48 slices
+* Now, we subtract 20 from the number of slices the waiter ate:
+* 48 - 20 = 28
+
+Answer: 28

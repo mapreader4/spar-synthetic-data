@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Claire has 400 flowers in her garden.
+2) 120 of these flowers are tulips, so the remaining 400 - 120 = 280 flowers must be roses.
+3) 80 of the roses are white, so the remaining 280 - 80 = 200 roses must be red.
+4) Each red rose is worth $0.75.
+5) Claire can sell 1/2 of the total number of red roses, which is 1/2 * 200 = 100 red roses.
+6) The total amount Claire will earn is 100 red roses * $0.75 per rose = $75.
+
+Answer: 75

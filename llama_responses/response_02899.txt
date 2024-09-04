@@ -1,0 +1,45 @@
+Let's break this problem down step by step.
+
+Let's say Mark's starting amount of money be x.
+
+When he went to the first store, he spent one-half of his money, so he spent x/2.
+
+Then, he spent $14 more, so he spent x/2 + 14.
+
+Next, he went to another store where he spent one-third of his starting money, which is x/3.
+
+Then, he spent $16 more, so he spent x/3 + 16.
+
+Since he had no money left, this means that the total amount he spent is equal to his starting amount of money.
+
+Let's set up an equation to represent this:
+
+x - (x/2 + 14) - (x/3 + 16) = 0
+
+We can combine the fractions by finding a common denominator, which is 2. So the equation becomes:
+
+2x/2 - x/2 - x/3 - 16 = 0
+
+Now, we can solve for x:
+
+2x - x - x - 32 = 0
+
+Combine like terms:
+
+2x - 2x - 32 = 0
+
+Combine like coefficients:
+
+-2x - 32 = 0
+
+Add 32 to both sides:
+
+-2x = 32
+
+Divide both sides by -2:
+
+x = -16
+
+So, Mark had $16 when he entered the first store.
+
+Answer: 16

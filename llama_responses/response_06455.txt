@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Let's find the total number of books Adam's bookcase can hold. Since the bookcase has 4 shelves and each shelf can hold 20 books, the total number of books it can hold is 4 x 20 = 80 books.
+
+Step 2: Adam already had 56 books in his bookcase before his shopping trip. Since he has now filled the bookcase completely with 2 books left over, that means the number of books he bought is equal to the total capacity of the bookcase minus the number of books he already had.
+
+Step 3: So, the number of books Adam bought is 80 (total capacity) - 56 (number of books he already had) = 24.
+
+Answer: 24

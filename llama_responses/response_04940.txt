@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the regular price of one pen. Then, if 10 pens cost x, the total cost of 10 pens would be 10x.
+
+The customer bought 20 pens for 30 dollars. So, the total cost of 20 pens is 30 dollars. Since the customer got the next 10 pens for half off, the cost of those pens is half of 10x, which is 5x. So, the cost of 20 pens is 10x.
+
+Now, we can set up an equation based on this information: 10x + 5x = 30.
+
+We can subtract 5x from both sides of the equation to get 10x = 25.
+
+So, the regular price of one pen in dollars is 25/10 = 2.5.
+
+Answer: 2

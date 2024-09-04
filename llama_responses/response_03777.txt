@@ -1,0 +1,32 @@
+Let's start by identifying the information given in the problem.
+
+We know that Masud has 60 siblings. Janet has 60 less than four times as many siblings as Masud, so we can set up an equation:
+
+Janet's number of siblings = 60 - 4 * Masud's number of siblings
+
+We know that Carlos has 3/4 times as many siblings as Masud, so we can set up another equation:
+
+Carlos's number of siblings = 3/4 * Masud's number of siblings
+
+We can now solve for Masud's number of siblings. We know that Carlos's number of siblings is equal to 3/4 of Masud's number of siblings, so:
+
+Masud's number of siblings = Carlos's number of siblings / 3/4
+
+Masud's number of siblings = Carlos's number of siblings / 3/4 = 60 / 3/4 = 80
+
+So Masud has 80 siblings.
+
+Now we can find Janet's number of siblings by subtracting 4 times Masud's number of siblings from 60:
+
+Janet's number of siblings = 60 - 4 * Masud's number of siblings
+= 60 - 4 * 80
+= 60 - 320
+= -260
+
+Janet has -260 siblings. Since we cannot have a negative number of siblings, this means that Janet has 0 siblings.
+
+The question asks how many more siblings Janet has more than Carlos. Since Janet has 0 siblings and Carlos has 80 siblings, the difference is:
+
+80 - 0 = 80
+
+Answer: 80

@@ -1,0 +1,11 @@
+Let's start by finding the total number of stickers used in each folder.
+
+In the red folder, there are 10 sheets of paper and each sheet gets 3 stickers. So, the total number of stickers used in the red folder is 10 x 3 = 30 stickers.
+
+In the green folder, there are 10 sheets of paper and each sheet gets 2 stickers. So, the total number of stickers used in the green folder is 10 x 2 = 20 stickers.
+
+In the blue folder, there are 10 sheets of paper and each sheet gets 1 sticker. So, the total number of stickers used in the blue folder is 10 x 1 = 10 stickers.
+
+To find the total number of stickers used, we add the number of stickers used in each folder: 30 + 20 + 10 = 60.
+
+Answer: 60

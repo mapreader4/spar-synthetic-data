@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lassie Lake has 45 frogs.
+2) Lake Crystal has 20% fewer frogs than Lassie Lake.
+3) To calculate the number of frogs in Lake Crystal, we need to subtract 20% of 45 from 45.
+4) 20% of 45 is 0.2 * 45 = 9.
+5) 45 - 9 = 36 frogs in Lake Crystal.
+6) The total number of frogs in the two lakes is the sum of the frogs in Lassie Lake and Lake Crystal.
+7) 45 + 36 = 81 frogs in total.
+
+Answer: 81

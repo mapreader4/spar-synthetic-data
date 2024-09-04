@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first calculate the number of customers Tom served in a day. Since Tom served 10 customers per hour for 8 hours, he served a total of 10 * 8 = 80 customers.
+
+Since the company gives an employee 20% bonus for every customer served, the total bonus points Tom earned would be 0.2 * 80 = 16.
+
+Answer: 16

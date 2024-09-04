@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Larry jogs for 30 minutes each day
+* In the first week, he jogs for 3 days
+* In the second week, he jogs for 5 days
+* To calculate the total time he jogs in two weeks:
+* First week: 3 days x 30 minutes = 90 minutes
+* Second week: 5 days x 30 minutes = 150 minutes
+* Total minutes in two weeks: 90 minutes + 150 minutes = 240 minutes
+* To convert to hours:
+* 240 minutes / 60 minutes per hour = 4 hours
+
+Answer: 4 hours

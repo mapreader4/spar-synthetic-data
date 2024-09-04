@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) The three angles of a triangle add up to 180 degrees.
+2) The largest angle is 5 times bigger than the smallest angle.
+3) The middle angle is 3 times bigger than the smallest angle.
+4) Let's call the smallest angle x.
+5) Then the largest angle is 5x, and the middle angle is 3x.
+6) The sum of the three angles must be 180 degrees, so we can write the equation:
+x + 3x + 5x = 180
+7) Simplifying, we get:
+9x = 180
+8) Solving for x, we get:
+x = 20
+Answer: 20 degrees.

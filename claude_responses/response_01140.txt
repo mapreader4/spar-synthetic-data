@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The basketball team played a total of 40 games
+* They won 70% of those 40 games
+* To calculate the number of games they won, we take 70% of 40:
+    * 70% of 40 = 0.70 * 40 = 28 games won
+* They still have 10 games left to play
+* To win 60% of their total games, they need to win 60% of the total number of games they will play
+* The total number of games they will play is 40 + 10 = 50
+* 60% of 50 is 0.60 * 50 = 30 games
+* Since they have already won 28 games, they need to win 30 - 28 = 2 more games
+* Therefore, they can lose up to 10 - 2 = 8 of the remaining 10 games and still win 60% of their total games.
+
+Answer: 8

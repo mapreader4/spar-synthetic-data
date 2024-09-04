@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Wade spends a total of $26 on food and drinks. He buys 2 drinks, which cost $4 each, so the total cost of the drinks is 2 x 4 = 8.
+
+Since he spends a total of $26, and the drinks cost $8, the remaining amount spent on food is 26 - 8 = 18.
+
+Wade buys 3 sandwiches, one for now, one for the road, and one for the evening. So, the cost of each sandwich is the total amount spent on food divided by the number of sandwiches: 18 ÷ 3 = 6.
+
+Answer: 6

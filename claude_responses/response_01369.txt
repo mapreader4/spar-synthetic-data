@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The high school bowling team's 3 members scored a total of 810 points in their first match.
+* The first bowler scored 1/3 as many points as the second bowler.
+* The second bowler scored 3 times as high as the third bowler.
+
+Let's assign variables to represent the points scored by each bowler:
+* First bowler: x
+* Second bowler: 3x
+* Third bowler: x/3
+
+We know that the total points scored by the 3 bowlers is 810, so we can set up an equation:
+* x + 3x + x/3 = 810
+
+Solving this equation:
+* x + 3x + x/3 = 810
+* 4.33x = 810
+* x = 810 / 4.33
+* x = 187
+
+Therefore, the third bowler scored 187/3 = 62 points.
+
+Answer: 62

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Manny wants 1 piece
+* Aaron will not eat any lasagna, so we can exclude him
+* Kai will eat twice as much as Manny, so Kai will eat 2 pieces
+* Raphael eats half the amount Manny does, so Raphael will eat 1/2 piece
+* Lisa will eat 2 pieces, plus any of Raphael's piece that he doesn't eat, which is 1/2 piece
+* So Lisa will eat 2 + 1/2 = 2.5 pieces
+
+Now, we add up the total number of pieces needed:
+* Manny: 1 piece
+* Kai: 2 pieces
+* Raphael: 1/2 piece
+* Lisa: 2.5 pieces
+* Total: 1 + 2 + 1/2 + 2.5 = 6 pieces
+
+Therefore, Manny should cut the lasagna into 6 pieces.
+
+Answer: 6

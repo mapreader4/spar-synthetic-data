@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's first calculate the total value of items inside the loot boxes.
+
+The average value of items inside each loot box is $3.5, so the total value of items in 40 loot boxes will be:
+
+3.5 x 40 = 140
+
+John spends $40 on loot boxes, so the total amount he spent is $40.
+
+To find the average amount he lost, we need to subtract the total value of items inside the loot boxes from the total amount he spent.
+
+140 - 40 = 100
+
+So, the answer is:
+
+Answer: 100

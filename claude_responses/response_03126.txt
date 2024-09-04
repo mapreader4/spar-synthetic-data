@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* Each row of corn contains 70 ears
+* Each ear of corn requires 2 seeds
+* So, each row requires 70 * 2 = 140 seeds
+* Each bag of corn seeds contains 48 seeds
+* Therefore, to plant one row, you need 140 / 48 = 2.92 bags of corn seeds, which rounds up to 3 bags
+* The farmer pays the kids $1.5 per row
+* Each kid spends half their earnings on dinner, which costs $36 per kid
+* To find how many bags of corn seeds each kid used, we need to work backwards:
+* Each kid earns $1.5 per row
+* After dinner, they have half of their earnings left
+* So, each kid earned $72 before dinner
+* Dividing $72 by $1.5 per row, we get 48 rows
+* Each row requires 3 bags of corn seeds
+* Therefore, each kid used 48 * 3 = 144 bags of corn seeds
+
+Answer: 144

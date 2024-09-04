@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of kilograms of cherries Genevieve bought. The cost of the cherries is 8 dollars per kilogram. So, the total cost of the cherries Genevieve bought is 8x. Since she was $400 short of the total price, that means that 8x + 400 = the total cost of the cherries Genevieve bought. So, 8x + 400 = 1600. Let's subtract 8 from both sides of the equation to get x = 1600 / 8. 1600 / 8 is 200. So, Genevieve bought 200 kilograms of cherries.
+
+Answer: 200

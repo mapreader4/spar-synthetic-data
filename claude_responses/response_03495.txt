@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Louie scored 4 goals in the last match of the season
+* His brother scored twice as many goals as Louie in each game he's played
+* His brother has been on the team for 3 seasons
+* Each season has 50 games
+
+First, let's calculate the number of goals Louie's brother scored:
+* Louie's brother scored twice as many goals as Louie in each game
+* Louie scored 4 goals in the last match
+* So Louie's brother scored 2 x 4 = 8 goals in the last match
+
+Now, let's calculate the total number of goals Louie's brother scored over the 3 seasons:
+* Louie's brother scored 8 goals in each of the 50 games per season
+* So in each season, Louie's brother scored 8 x 50 = 400 goals
+* Over 3 seasons, Louie's brother scored 3 x 400 = 1,200 goals
+
+Finally, let's calculate the total number of goals the brothers have scored:
+* Louie scored 40 goals in previous matches
+* Louie scored 4 goals in the last match
+* So Louie scored a total of 40 + 4 = 44 goals
+* Louie's brother scored 1,200 goals
+* The total number of goals the brothers have scored is 44 + 1,200 = 1,244
+
+Answer: 1,244

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+For the first applicant:
+- Salary: $42,000
+- Revenue generated: $93,000
+- Training cost: $1,200 per month for 3 months = $3,600
+- Net profit for the company = $93,000 - $42,000 - $3,600 = $47,400
+
+For the second applicant:
+- Salary: $45,000
+- Hiring bonus: 1% of $45,000 = $450
+- Revenue generated: $92,000
+- Net profit for the company = $92,000 - $45,000 - $450 = $46,550
+
+Now, to find the difference in net profit between the two candidates:
+- Net profit for the first applicant: $47,400
+- Net profit for the second applicant: $46,550
+- Difference in net profit: $47,400 - $46,550 = $850
+
+Answer: $850

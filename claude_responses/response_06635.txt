@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Sarah started with 25 apples in her bag
+* At school, she gave one apple to each teacher she saw
+* She also gave one apple to each of 5 of her closest friends
+* And she ate one apple while walking home
+* When she got home, she had 3 apples left in the bag
+
+First, let's calculate the number of apples she gave away:
+* She gave one apple to each teacher she saw
+* She also gave one apple to each of 5 of her closest friends
+* So the total number of apples she gave away is the number of teachers she saw, plus 5
+
+Now, let's calculate the number of apples she had left when she got home:
+* She started with 25 apples
+* She ate 1 apple while walking home
+* She had 3 apples left when she got home
+* So the total number of apples she had left is 25 - 1 - 3 = 21
+
+Therefore, the number of apples she gave away to teachers is:
+* Total apples given away = 21 (total apples left) + 1 (apple eaten) + 3 (apples left at home) = 25
+* Number of apples given to teachers = 25 - 5 (given to friends) = 20
+
+Answer: 20

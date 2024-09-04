@@ -1,0 +1,19 @@
+Let's start by identifying the number of boys in the Biology class. Since the number of boys in the Biology class is equal to the number of girls in the Biology class, we can let the number of boys in the Biology class be represented by the variable "x". 
+
+Let's represent the number of boys in the Physics class as "y". The problem states that the Physics class has 200 students. The problem states that the Biology class has half as many students as the Physics class. 
+
+Let's represent the number of students in the Biology class as "z". Since the Biology class has half the number of students as the Physics class, we can set up an equation to solve for the number of boys in the Biology class. 
+
+x + y = 200. 
+
+We know that the Physics class has 200 students, so we know that y = 200. 
+
+The problem states that the Biology class has half as many students as the Physics class. So, the Biology class has half of the number of students in the Physics class. 
+
+z = y / 2. 
+
+z = 200 / 2 = 100. 
+
+The Biology class has 100 students. 
+
+Answer: 100

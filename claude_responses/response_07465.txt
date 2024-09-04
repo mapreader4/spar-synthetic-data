@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* James originally weighed 120 kg
+* He gained 20% of his body weight in muscle
+* To calculate the muscle gain:
+  * 20% of 120 kg = 0.2 * 120 kg = 24 kg
+* He also gained 1 quarter of the muscle gain in fat
+* To calculate the fat gain:
+  * 1 quarter of 24 kg = 0.25 * 24 kg = 6 kg
+* So the total weight gain is:
+  * Muscle gain: 24 kg
+  * Fat gain: 6 kg
+  * Total gain: 24 kg + 6 kg = 30 kg
+* Therefore, his new weight is:
+  * Original weight: 120 kg
+  * Weight gain: 30 kg
+  * New weight: 120 kg + 30 kg = 150 kg
+
+Answer: 150 kg

@@ -1,0 +1,7 @@
+Let's start by identifying the number of peaches Brenda has left.
+
+Brenda picks 250 peaches initially. Then, she sorts through them and finds that 60 are fresh. This means that 250 - 60 = 190 peaches are not fresh. Then, she throws away 15 peaches that are too small. This leaves Brenda with 250 - 15 = 235 peaches.
+
+So, Brenda has 235 peaches left.
+
+Answer: 235

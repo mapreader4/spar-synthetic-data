@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of wicks Amy can cut from the 15-foot string.
+
+Amy cuts the string into 6-inch wicks and 12-inch wicks. The length of each 6-inch wick is 6 inches. The length of each 12-inch wick is 12 inches. The total length of all the wicks is 6 + 12 = 18 inches. The length of the 15-foot string is 15 feet, which is 180 inches. So, the number of wicks Amy can cut from the string is 180 / 18 = 10.
+
+So, the total number of wicks Amy will have cut is 10.

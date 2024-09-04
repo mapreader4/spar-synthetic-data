@@ -1,0 +1,9 @@
+Let's start by identifying the number of bottles that the first house receives.
+
+We know that the first house receives half the number of each type of drink. Since there are 40 bottles of cider, the first house receives 40/2 = 20 bottles of cider.
+
+Similarly, there are 80 bottles of beer, and the first house receives half of that, which is 80/2 = 40 bottles of beer.
+
+The remaining bottles are the mixture of cider and beer. There are 180 - 40 - 80 = 40 bottles left, and the first house receives half of those, which is 40/2 = 20 bottles of the mixture.
+
+In total, the first house receives 20 + 40 + 20 = 80 bottles of drinks.

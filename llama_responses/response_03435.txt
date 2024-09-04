@@ -1,0 +1,5 @@
+Let's start by calculating the total calories in the burritos: 10 burritos * 120 calories per burrito = 1200 calories.  Now, let's calculate the total cost of the burritos: 10 burritos * $6 per burrito = $60.  Now, let's calculate the calories per dollar of the burritos: 1200 calories / $60 = 20 calories per dollar.
+
+Next, let's calculate the total calories of the burgers: 5 burgers * 400 calories per burger = 2000 calories.  Now, let's calculate the total cost of the burgers: 5 burgers * $8 per burger = $40.  Now, let's calculate the calories per dollar of the burgers: 2000 calories / $40 = 50 calories per dollar.
+
+John gets 50 calories per dollar from the burgers and 20 calories per dollar from the burritos.  So, John gets 30 more calories per dollar from the burgers than the burritos.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Marie makes 12 chocolate eggs, each weighing 10 ounces
+* She packs an equal number of the eggs in 4 different gift boxes
+* This means each box contains 12 / 4 = 3 eggs
+* One of the boxes is left by the window and melted, so it is discarded
+* We need to find the total weight of the remaining 3 boxes of chocolate eggs
+
+To calculate the total weight:
+* Each egg weighs 10 ounces
+* Each box contains 3 eggs
+* So the weight of each box is 3 * 10 = 30 ounces
+* There are 3 remaining boxes
+* Therefore, the total weight of the remaining chocolate eggs is 3 * 30 = 90 ounces
+
+Answer: 90

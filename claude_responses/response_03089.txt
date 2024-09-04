@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* In the first week, Tracy collected a certain number of books
+* In the next five weeks, she collected ten times as many books as she did in the first week
+* In total, she has 99 books
+
+Let's call the number of books she collected in the first week "x".
+
+In the first week, she collected x books.
+In the next five weeks, she collected 10x books.
+
+The total number of books she collected is the sum of the books collected in the first week and the next five weeks:
+x + 10x = 99
+
+Simplifying the equation:
+11x = 99
+
+Solving for x:
+x = 99 / 11
+x = 9
+
+Therefore, in the first week, Tracy collected 9 books.
+
+Answer: 9

@@ -1,0 +1,19 @@
+Let's start by letting x be Frank's age. We know that Gabriel is 3 years younger than Frank, so Gabriel's age is x - 3.
+
+The total of their ages is 17, so we can set up an equation:
+
+x + (x - 3) = 17
+
+To solve for x, we can add 3 to both sides of the equation:
+
+x + x - 3 + 3 = 17 + 3
+
+This simplifies to:
+
+x + x = 20
+
+Subtracting x from both sides gives us:
+
+x = 10
+
+So Frank is 10 years old.

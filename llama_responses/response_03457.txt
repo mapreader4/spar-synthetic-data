@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the total number of coins the pirate has: 3500 gold coins.
+
+The pirate wants to put 500 silver coins and twice as many bronze coins as silver coins. Since there are 500 silver coins, there will be 1000 bronze coins (500 * 2). So, the total number of bronze coins is 1500.
+
+Now, the total number of coins is the sum of gold coins, silver coins, and bronze coins: 3500 (gold) + 500 (silver) + 1500 (bronze) = 5100.
+
+The pirate wants to distribute these coins equally across 5 chests. To find the number of coins in each chest, we can divide the total number of coins by 5: 5100 ÷ 5 = 1020.
+
+So, each chest will have 1020 coins.

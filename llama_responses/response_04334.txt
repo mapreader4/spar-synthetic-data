@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+1. First, let's find out how many minutes Joan has to answer each question on the English exam. Since the exam has 30 questions and she has 1 hour (60 minutes) to complete it, she has:
+
+60 minutes ÷ 30 questions = 2 minutes per question
+
+2. Next, let's find out how many minutes Joan has to answer each question on the Math exam. Since the exam has 15 questions and she has 1.5 hours (90 minutes) to complete it, she has:
+
+90 minutes ÷ 15 questions = 6 minutes per question
+
+3. Now, let's find out how many more minutes she has to answer each question on the Math exam than the English exam. To do this, we subtract the time she has per question on the English exam from the time she has per question on the Math exam:
+
+6 minutes per question (Math) - 2 minutes per question (English) = 4 minutes
+
+So, Joan has 4 more minutes to answer each question on the Math exam than the English exam.
+
+Answer: 4

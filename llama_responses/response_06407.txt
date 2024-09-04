@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the total number of chocolates: 50.
+
+The number of caramels is 3. The number of nougats is 3 x 2 = 6. The number of truffles is 3 + 6 = 9. 
+
+So, the total number of caramels, nougats, and truffles is 3 + 6 + 9 = 18. The remaining chocolates are peanut clusters, which is 50 - 18 = 32.
+
+To find the percentage of peanut clusters, we can divide the number of peanut clusters by the total number of chocolates and multiply by 100:
+
+(32 / 50) x 100 = 64%
+
+So, the chance of Carlos picking a peanut cluster is 64%.
+
+Answer: 64

@@ -1,0 +1,17 @@
+To find the time it takes for Abel to reach the destination, we can use the formula:
+
+Time = Distance / Speed
+
+For Abel, Time = 1000 / 50 = 20 hours
+
+For Alice, Time = 1000 / 40 = 25 hours
+
+To find the difference in time, we can subtract the times:
+
+Time (Abel) - Time (Alice) = 20 - 25 = -5 hours
+
+Since 1 hour is equal to 60 minutes, we can convert the time to minutes by multiplying by 60:
+
+-5 hours * 60 = -300 minutes
+
+So, Abel reaches the destination 300 minutes earlier than Alice.

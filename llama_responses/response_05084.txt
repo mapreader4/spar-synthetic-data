@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Let's say the amount she sells in a good week is x. Since she sells goods worth half that amount in a tough week, that means the amount she sells in a tough week is x/2.
+
+She sells goods worth $800 in a good week, which means x = 800.
+
+So, the amount she sells in a tough week is x/2 = 800/2 = 400.
+
+Now, we need to find the total amount of money she makes if she has 5 good weeks and 3 tough weeks.
+
+The total amount of money she makes in good weeks is 5 x x = 5 x 800 = 4000.
+
+The total amount of money she makes in tough weeks is 3 x (x/2) = 3 x 400 = 1200.
+
+The total amount of money she makes in all weeks is the sum of the two amounts, which is 4000 + 1200 = 5200.
+
+Answer: 5200

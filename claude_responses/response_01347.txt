@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+1. Initially, Jeff has 3 cabinets over one counter.
+2. He then installs twice as many cabinets over 3 different counters. That means he installs 2 x 3 = 6 cabinets over each of the 3 counters, for a total of 6 x 3 = 18 additional cabinets.
+3. Finally, he installs 5 more cabinets.
+
+To calculate the total number of cabinets, we add up the initial 3 cabinets, the 18 additional cabinets, and the 5 final cabinets:
+3 + 18 + 5 = 26
+
+Answer: 26

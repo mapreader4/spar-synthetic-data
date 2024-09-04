@@ -1,0 +1,40 @@
+Let's break this down step by step.
+
+Let's start with what we know:
+
+1. Rodney can lift some amount, which we will call "R".
+2. Roger can lift twice as much as Rodney, so Rodney can lift 2R.
+3. Roger can lift 7 pounds less than 4 times the amount that Ron can lift, which we will call "R" as well.  So, Roger can lift 4R - 7.
+4. Ron can lift R.
+5. We know that Rodney, Roger and Ron can lift a combined weight of 239 pounds.
+
+Now, let's combine the information.
+
+We know that Rodney can lift 2R, and Roger can lift 4R - 7, so we can write an equation for Rodney's lift as:
+
+2R = 4R - 7
+
+We can solve for R by adding 7 to both sides of the equation:
+
+2R = 4R - 7
+2R + 7 = 4R
+
+Now, we can solve for R:
+
+2R + 7 = 4R
+2R = 4R - 7 + 7
+2R = 4R + 7
+4R = 4R
+
+So, Rodney can lift 4R.
+
+We can now use this information to solve for Rodney's lift. Rodney can lift 2R, and we know that 2R = 4R - 7. So, Rodney can lift 4R - 7 = 2R.
+
+2R = 4R - 7
+2R = 4R - 7
+4R - 7 = 2R
+2R = 2R
+
+So, Rodney can lift 2R.
+
+The answer is: Answer: 2

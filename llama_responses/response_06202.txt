@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by using the information given in the problem: "Seven parrots and some crows are perched on a tree branch." This means that the number of parrots and crows is unknown, but it's a total of 7.
+
+Then, the problem states that the same number of parrots and crows flew away. This means that the number of parrots and crows that flew away is the same, so we can let x be the number of parrots and crows that flew away.
+
+The problem also states that only 2 parrots and 1 crow are left on the tree branch now. This means that the number of parrots that flew away is 7 - 2 = 5, and the number of crows that flew away is 7 - 1 = 6.
+
+So, the total number of birds that flew away is 5 + 6 = 11. But this is the same as the total number of parrots and crows that were originally on the branch. Therefore, the number of birds that were perched on the branch to begin with is also 11.
+
+Answer: 11

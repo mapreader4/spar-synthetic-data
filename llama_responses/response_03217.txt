@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Dorothy buys half as many pens as Julia. Julia buys three times as many pens as Robert. So, if Robert buys 4 pens, Julia buys 3 * 4 = 12 pens.
+
+Dorothy buys half as many pens as Julia. So, Dorothy buys 12 / 2 = 6 pens.
+
+So, the total number of pens bought by the three friends is 4 + 12 + 6 = 22 pens.
+
+Since one pen costs $1.50, the total cost is 22 * 1.50 = 33.00.
+
+Answer: 33.00

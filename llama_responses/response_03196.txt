@@ -1,0 +1,11 @@
+Let's start by finding the total number of candies the three friends have. We can add the number of candies each person has:
+
+Mark has 30 candies, Peter has 25 candies, and John has 35 candies. So, the total number of candies is:
+
+30 + 25 + 35 = 90
+
+Now, we need to divide the total number of candies by 3 to find out how many candies each one of them will have. We can do this by dividing 90 by 3:
+
+90 ÷ 3 = 30
+
+So, each of them will have 30 candies.

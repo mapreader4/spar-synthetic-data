@@ -1,0 +1,7 @@
+Let's solve the problem step by step.
+
+Let's first find the total number of candy bars Mark has. We know that Mark has 3 Snickers bars, and 2 Mars bars. So, the total number of candy bars Mark has is 3 + 2 = 5.
+
+Now, we know that Mark has a total of 12 candy bars, but we also know that he has 5 candy bars of Snickers and Mars bars. To find the number of Butterfingers Mark has, we need to subtract 5 from the total number of candy bars. 12 - 5 = 7.
+
+Answer: 7

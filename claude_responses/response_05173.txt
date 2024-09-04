@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The first side of the mixtape has 6 songs
+* Each song is 4 minutes long
+* So the total time for the first side is:
+    - 6 songs x 4 minutes per song = 24 minutes
+* The second side of the mixtape has 4 songs
+* Each song is 4 minutes long
+* So the total time for the second side is:
+    - 4 songs x 4 minutes per song = 16 minutes
+* To calculate the total time of the mixtape, we add the time for the first side and the second side:
+    - 24 minutes + 16 minutes = 40 minutes
+
+Answer: 40 minutes

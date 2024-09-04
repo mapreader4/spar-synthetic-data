@@ -1,0 +1,1 @@
+Let's count the wheels of the vehicles. Each bicycle has 2 wheels, so 50 bicycles have 50 * 2 = 100 wheels. Each tricycle has 3 wheels, so 20 tricycles have 20 * 3 = 60 wheels. The total number of wheels is 100 + 60 = 160.

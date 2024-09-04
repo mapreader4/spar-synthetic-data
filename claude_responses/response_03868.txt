@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+* The barrel originally had 220 liters of contents.
+* The barrel lost 10% of its contents before anyone noticed.
+* To calculate 10% of 220 liters, we can multiply 220 by 0.10 (10% expressed as a decimal):
+* 220 x 0.10 = 22 liters
+* So the barrel lost 22 liters of its contents.
+* To find the amount of liters left in the barrel, we subtract the amount lost from the original amount:
+* 220 liters - 22 liters = 198 liters
+
+Answer: 198 liters

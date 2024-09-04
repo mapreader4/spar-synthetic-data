@@ -1,0 +1,14 @@
+Let's break down the total distance traveled by day:
+
+Day 1: 135 miles
+Day 2: 135 + 124 = 259 miles
+Day 3: 259 + 159 = 418 miles
+Day 4: 418 + 189 = 607 miles
+
+The total distance traveled is 135 + 259 + 418 + 189 = 902 miles.
+
+To find out how many times she charged her phone, we need to divide the total distance by the distance she can travel on a full charge, which is 106 miles. 
+
+The total distance divided by the distance she can travel on a full charge is 902 ÷ 106 = 8.53. Since she can't charge her phone half of a mile, we round up to the nearest whole number of times she charged her phone. Therefore, she charged her phone 9 times.
+
+Answer: 9

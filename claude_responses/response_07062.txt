@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Ryan caught three times the number of fish that Jason caught. So if we let Jason's catch be x, then Ryan's catch would be 3x.
+2) Jeffery caught twice the number of fish that Ryan got. So if Ryan's catch is 3x, then Jeffery's catch would be 2 * 3x = 6x.
+3) We know that Jeffery caught 60 fish, so 6x = 60. Solving for x, we get x = 10.
+4) Since Jason caught x = 10 fish, Ryan caught 3x = 3 * 10 = 30 fish, and Jeffery caught 60 fish, the total number of fish caught by all of them is:
+Jason's catch + Ryan's catch + Jeffery's catch = 10 + 30 + 60 = 100 fish.
+
+Answer: 100

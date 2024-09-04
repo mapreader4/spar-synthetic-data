@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+Let's first find the distance traveled during the first half of the trip.
+
+Distance = Speed * Time
+Distance = 70 kmph * 4 hours = 280 km
+
+So, Martin traveled 280 kilometers during the first half of the trip.
+
+Now, let's find the distance traveled during the second half of the trip.
+
+Distance = Speed * Time
+Distance = 85 kmph * 4 hours = 340 km
+
+So, Martin traveled 340 kilometers during the second half of the trip.
+
+To find the total distance traveled, we add the distance traveled during the first half and the distance traveled during the second half of the trip.
+
+Distance = Distance 1 + Distance 2
+Distance = 280 km + 340 km
+Distance = 620 km
+
+So, Martin traveled 620 kilometers during the entire trip.
+
+Answer: 620

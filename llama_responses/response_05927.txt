@@ -1,0 +1,7 @@
+Let's break down Kim's morning routine into three parts: making coffee, getting a status update, and updating payroll records.
+
+1. Making coffee: 5 minutes
+2. Getting a status update: 2 minutes per employee, and there are 9 employees, so this part will take 2 * 9 = 18 minutes.
+3. Updating payroll records: 3 minutes per employee, and again, there are 9 employees, so this part will take 3 * 9 = 27 minutes.
+
+Adding all these parts together, we get 5 + 18 + 27 = 50 minutes. So, Kim's morning routine takes 50 minutes.

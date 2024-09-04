@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Shaniqua makes $12 for every haircut
+* Shaniqua makes $25 for every style
+* Shaniqua gave 8 haircuts
+* Shaniqua gave 5 styles
+
+To calculate the total amount of money Shaniqua made, we need to:
+1. Calculate the money made from the haircuts
+2. Calculate the money made from the styles
+3. Add the two amounts together
+
+Step 1: Calculate the money made from the haircuts
+* 8 haircuts x $12 per haircut = $96
+
+Step 2: Calculate the money made from the styles
+* 5 styles x $25 per style = $125
+
+Step 3: Add the two amounts together
+* $96 + $125 = $221
+
+Answer: $221

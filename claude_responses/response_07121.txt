@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jenny makes 20 pans of lasagna
+* It costs her $10.00 in ingredients to make 1 pan of lasagna
+* So, the total cost of ingredients for 20 pans is:
+    - 20 pans x $10.00 per pan = $200.00
+* Jenny sells each pan for $25.00
+* So, the total revenue from selling 20 pans is:
+    - 20 pans x $25.00 per pan = $500.00
+* To calculate her profit, we take the total revenue and subtract the total expenses:
+    - Total Revenue: $500.00
+    - Total Expenses: $200.00
+    - Profit: $500.00 - $200.00 = $300.00
+
+Answer: $300

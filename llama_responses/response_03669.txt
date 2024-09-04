@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what was sold:
+
+* 3/5 of the chocolate-flavored ice creams were sold.
+* 2/3 of the mango-flavored ice creams were sold.
+
+First, let's convert these fractions to decimals to make it easier to work with:
+* 3/5 = 0.6
+* 2/3 = 0.67
+
+Now, let's find the total number of ice creams sold:
+* Chocolate-flavored: 0.6 * 50 = 30
+* Mango-flavored: 0.67 * 54 = 36.18 (round down to 36)
+
+The total number of ice creams sold is 30 + 36 = 66.
+
+To find the number of ice creams that were not sold, we subtract the number sold from the total:
+50 (total) - 66 (sold) = 16
+
+Answer: 16

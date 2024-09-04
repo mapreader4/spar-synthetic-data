@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mr. Mitchell bought 6 pizzas
+* Each pizza has 12 slices
+* So the total number of slices is 6 pizzas x 12 slices per pizza = 72 slices
+* The team had 8 games
+* Mr. Mitchell bought one slice for every goal they scored on the season
+* To find the average number of goals scored per game, we need to divide the total number of goals scored by the number of games played
+* So the total number of goals scored is 72 (the number of slices)
+* Dividing 72 by 8 games gives us 9 goals per game on average.
+
+Answer: 9

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Mark's team scores 25 2 pointers, which is 25 x 2 = 50 points. They also score 8 3 pointers, which is 8 x 3 = 24 points. They also score 10 free throws, which is 10 points.
+
+The opponents score double the 2 pointers, which is 2 x 50 = 100 points. They score half the 3 pointers, which is 8 x (1/2) = 4 points. They score half the free throws, which is 5 points.
+
+So, Mark's team scores 50 + 24 + 10 = 84 points. The opponents score 100 + 4 + 5 = 109 points.
+
+The total number of points scored by both teams added together is 84 + 109 = 193.

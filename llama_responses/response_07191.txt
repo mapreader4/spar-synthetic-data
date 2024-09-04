@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+On Monday, Sally picks 30 seashells. On Tuesday, she picks half as many seashells, so she picks 15 seashells.
+
+She can sell each seashell for $1.20, so she can sell 30 seashells for 30 * 1.20 = 36.00. She can sell 15 seashells for 15 * 1.20 = 18.00.
+
+In total, she can make 36.00 + 18.00 = 54.00.
+
+Answer: 54

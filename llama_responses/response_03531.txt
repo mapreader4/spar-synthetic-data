@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say Nigel had x dollars initially. Then, he gave some away, so he had x - y dollars left. Then, his mother gave him 80 dollars more, so he now has x - y + 80 dollars. 
+
+Now, it's given that he now has 10 more than twice the amount he originally had, so x - y + 80 = 2x. 
+
+So, we can write an equation: x - y + 80 = 2x.
+
+Subtract 80 from both sides of the equation to get: x - y = 2x - 80.
+
+Now, we can solve for y: y = x - 80.
+
+So, Nigel gave away x - (x - 80) dollars. So, the amount he gave away is x - (x - 80).

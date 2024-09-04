@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Alex has 600 meters of silk in storage
+* Each dress requires 5 meters of silk
+* Alex gives each of his 5 friends 20 meters of silk, so that's 5 * 20 = 100 meters of silk given away
+* That leaves 600 - 100 = 500 meters of silk remaining for Alex to use to make dresses himself
+
+Now, to calculate how many dresses Alex can make:
+* Each dress requires 5 meters of silk
+* With 500 meters of silk remaining, Alex can make 500 / 5 = 100 dresses
+
+Answer: 100

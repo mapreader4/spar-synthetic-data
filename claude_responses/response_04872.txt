@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jill has to braid the hair of 8 dancers.
+2) Each dancer has 5 braids.
+3) Each braid takes 30 seconds to complete.
+4) To find the total time it will take to braid all the dancers' hair, we need to:
+   a) Calculate the total number of braids: 8 dancers x 5 braids per dancer = 40 braids
+   b) Calculate the total time to complete all the braids: 40 braids x 30 seconds per braid = 1,200 seconds
+5) To convert the total time from seconds to minutes, we divide by 60 seconds per minute:
+   1,200 seconds / 60 seconds per minute = 20 minutes.
+
+Answer: 20 minutes.

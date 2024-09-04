@@ -1,0 +1,17 @@
+Let's think step by step.
+
+Let's first calculate the total amount of money they have earned so far:
+
+$10 x 3 = $30
+
+$5 x 15 = $75
+
+Total amount earned so far: $30 + $75 = $105
+
+The goal is to collect $150. To find out how much more they need, we subtract the amount earned from the goal:
+
+$150 - $105 = $45
+
+So, they need $45 more to reach their goal.
+
+Answer: 45

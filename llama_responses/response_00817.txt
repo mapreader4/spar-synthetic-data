@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. Maddie makes 2 cups of coffee per day, and there are 7 days in a week. So, she makes 2 * 7 = 14 cups of coffee per week.
+2. Each cup of coffee has 1.5 ounces of coffee beans. So, the total amount of coffee beans used per week is 14 * 1.5 = 21 ounces.
+3. A bag of coffee beans costs $8 and contains 10.5 ounces. So, the cost per ounce of coffee beans is $8 / 10.5 = $0.76 per ounce.
+4. Since Maddie uses 21 ounces of coffee beans, the total cost of the coffee beans is 21 * $0.76 = $15.96.
+5. Maddie also uses 1/2 a gallon of milk per week. A gallon of milk costs $4, so the cost of the milk is 1/2 * $4 = $2.
+6. The total weekly cost of the coffee is the sum of the cost of the coffee beans and the cost of the milk, which is $15.96 + $2 = $17.96.
+
+Answer: 17

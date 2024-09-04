@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of adults on the bus. The problem states that children make up 25% of the bus riders, so we can set up an equation to represent the number of children on the bus.
+
+Let's call the number of children on the bus "x". Then, we can set up the equation as follows:
+
+25% of the total number of riders on the bus is the number of children, which is x.
+
+We know that the total number of riders is 60, so we can write the equation as:
+
+0.25x = 60
+
+To solve for x, we can divide both sides of the equation by 0.25 to get:
+
+x = 60 / 0.25
+
+x = 240
+
+So, the number of adults on the bus is 24.
+
+Answer: 24

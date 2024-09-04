@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that the raspberry jelly sells a third as much as the grape jelly. This means that if the store sold x jars of grape jelly, they sold x/3 jars of raspberry jelly.
+
+We also know that the store sells twice as much grape jelly as strawberry jelly, so the number of jars of grape jelly is also the same as the number of jars of strawberry jelly multiplied by 2.
+
+We are given that the store sold 6 jars of plum jelly. Since the plum jelly sells half as much as the grape jelly, the number of jars of grape jelly is also 6 * 2 = 12.
+
+Now we can set up an equation to represent the number of jars of strawberry jelly:
+
+x = 12 * 2
+
+x = 24
+
+So, the store sold 24 jars of strawberry jelly.

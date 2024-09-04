@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of soccer balls: 20.
+
+Next, we know that there are 5 more basketballs than the number of soccer balls, so the number of basketballs is 20 + 5 = 25.
+
+Now, we know that there are twice the number of soccer balls than the number of basketballs, so the number of tennis balls is 20 * 2 = 40.
+
+We know that there are 10 more baseballs than the number of soccer balls, so the number of baseballs is 20 + 10 = 30.
+
+The remaining balls are volleyballs. The total number of volleyballs is the total number of balls minus the number of soccer balls, basketballs, tennis balls, and baseballs, which is 145 - 20 - 25 - 40 - 30 = 50.
+
+Answer: 50

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Normally, Ann can frost a cake in 5 minutes
+* With her sprained wrist, it takes her 8 minutes to frost a cake
+* We need to find how much longer it would take her to frost 10 cakes with her sprained wrist
+
+First, let's calculate how long it would normally take her to frost 10 cakes:
+* 10 cakes x 5 minutes per cake = 50 minutes
+
+Now, let's calculate how long it would take her with her sprained wrist:
+* 10 cakes x 8 minutes per cake = 80 minutes
+
+To find the difference in time:
+* 80 minutes - 50 minutes = 30 minutes
+
+Answer: 30

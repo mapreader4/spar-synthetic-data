@@ -1,0 +1,7 @@
+Let's break down the cost of the pizzas using the special pricing.
+
+For the triple cheese pizzas, we get 1 free pizza for every 1 pizza we buy, so we get 1 free pizza for every 2 pizzas. 10 pizzas is 10/2 = 5 pizzas. So, for 5 pizzas, we get 1 free pizza, so we only need to pay for 5 pizzas. 5 pizzas at 5 dollars each is 5 * 5 = 25 dollars. Then, we get 1 free pizza, so we only need to pay for 4 pizzas. 4 pizzas at 5 dollars each is 4 * 5 = 20 dollars. So, the cost for the triple cheese pizzas is 20 dollars.
+
+For the meat lovers pizzas, we get 1 free pizza for every 2 pizzas we buy, so we get 1 free pizza for every 3 pizzas. 9 pizzas is 9/3 = 3 pizzas. So, for 3 pizzas, we get 1 free pizza, so we only need to pay for 2 pizzas. 2 pizzas at 5 dollars each is 2 * 5 = 10 dollars. Then, we get 1 free pizza, so we only need to pay for 1 pizza. 1 pizza at 5 dollars is 1 * 5 = 5 dollars. So, the cost for the meat lovers pizzas is 5 dollars.
+
+In total, the cost is 20 + 5 = 25 dollars.

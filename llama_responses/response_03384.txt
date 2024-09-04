@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the problem: Barry needs to take vitamin D3 for 180 days. We know that each bottle of vitamin D3 contains 60 capsules, with a daily serving size of 2 capsules. To find the total number of capsules needed, we can multiply the number of days (180) by the daily serving size (2) to get the total number of capsules needed:
+
+180 days * 2 capsules per day = 360 capsules
+
+Now, we know that each bottle contains 60 capsules, so we can divide the total number of capsules needed (360) by the number of capsules per bottle (60) to find the number of bottles needed:
+
+360 capsules / 60 = 6
+
+So, Barry would need to buy 6 bottles of vitamin D3 to have enough servings to last for 180 days.

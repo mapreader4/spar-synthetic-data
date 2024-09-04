@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+First, we need to find out how many of each item the store needs to purchase to fill the displays.
+
+The necklace stand needs to hold 12 necklaces, but it currently holds 5 necklaces, so it needs 12 - 5 = 7 more necklaces. The ring display needs to hold 30 rings, but it currently holds 18 rings, so it needs 30 - 18 = 12 more rings. The bracelet display needs to hold 15 bracelets, but it currently holds 8 bracelets, so it needs 15 - 8 = 7 more bracelets.
+
+Now, let's calculate the cost of each item:
+
+* Necklaces: 7 necklaces * $4 per necklace = 7 * 4 = $28
+* Rings: 12 rings * $10 per ring = 12 * 10 = $120
+* Bracelets: 7 bracelets * $5 per bracelet = 7 * 5 = $35
+
+To find the total cost, we add the costs of each item together: $28 + $120 + $35 = $183.
+
+Answer: 183

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+There are 8 slices of pizza initially.
+
+Mary orders 2 large pizzas. Each pizza comes with 12 slices. So, 2 pizzas come with 24 slices.
+
+Mary eats 7 slices. So, 7 slices are taken out of the 24 slices from the 2 pizzas.
+
+To find the number of slices remaining, we subtract 7 from 24: 24 - 7 = 17.
+
+Answer: 17

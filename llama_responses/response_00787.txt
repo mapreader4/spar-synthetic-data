@@ -1,0 +1,3 @@
+Let's start by identifying the number of buckets Eden carried. Eden carried 4 buckets of sand. Mary carried 3 more buckets of sand than Eden, so Mary carried 4 + 3 = 7 buckets of sand. Iris carried 1 less bucket of sand than Mary, so Iris carried 7 - 1 = 6 buckets of sand.
+
+Now, let's find the total number of buckets of sand carried by Eden, Mary and Iris. Eden carried 4 buckets, Mary carried 7 buckets, and Iris carried 6 buckets. So, the total number of buckets of sand is 4 + 7 + 6 = 17. Since each bucket contains 2 pounds of sand, the total number of pounds of sand is 17 x 2 = 34 pounds.

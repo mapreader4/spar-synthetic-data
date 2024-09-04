@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start by using the given information that half of the vehicles on the lot are Dodge, which means that the number of Dodge vehicles is half of the total vehicles, so we can represent this as:
+
+Dodge vehicles = 1/2 x Total vehicles
+
+We are also given that there are half as many Hyundai vehicles as there are Dodge vehicles. Since we know that the number of Dodge vehicles is half of the total vehicles, we can write an equation to represent the number of Hyundai vehicles as:
+
+Hyundai vehicles = 1/2 x Dodge vehicles
+
+Since we know that the number of Dodge vehicles is half of the total vehicles, we can substitute this into the equation above to get:
+
+Hyundai vehicles = 1/2 x (1/2 x Total vehicles)
+
+We can simplify this equation by combining the fractions:
+
+Hyundai vehicles = 1/2 x 1/2 x Total vehicles = 1/4 x Total vehicles
+
+We are given that there are 400 vehicles on the lot, so we can substitute this into the equation:
+
+1/4 x 400 = x
+
+To solve for x, we can multiply both sides of the equation by 4:
+
+x = 400 / 4
+
+x = 100
+
+So, there are 100 Hyundai vehicles on the lot.

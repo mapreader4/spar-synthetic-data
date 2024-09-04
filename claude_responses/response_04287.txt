@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Carmen decorates 8 plates with one whole parsley sprig each
+* That means she used 8 whole sprigs for those 8 plates
+* She then decorates 12 plates with 1/2 a sprig each
+* That means she used 12 * 1/2 = 6 more sprigs for those 12 plates
+* In total, she used 8 + 6 = 14 sprigs of parsley
+* She started with 25 sprigs of parsley
+* To find how many she has left, we subtract the number she used from the number she started with:
+* 25 - 14 = 11 sprigs of parsley left
+
+Answer: 11

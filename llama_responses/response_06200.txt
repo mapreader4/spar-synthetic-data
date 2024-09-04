@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The total number of houses to be built is 2000.
+* The company built the first 3/5 of the contracted number, which is 3/5 * 2000 = 1200 units.
+* The company built an additional 300 units by October.
+
+Now, let's find the total number of units built in the first half of the year: 1200 + 300 = 1500 units.
+
+The company has built 1500 units so far. To find the number of units remaining, we subtract the total built from the total contracted number: 2000 - 1500 = 500.
+
+Answer: 500

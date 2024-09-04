@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Ben caught 4 fish, his wife Judy caught 1 fish, his oldest son Billy caught 3, his younger son Jim caught 2, and his youngest child Susie caught 5. To find the total number of fish caught, I will add these numbers together:
+
+4 + 1 + 3 + 2 + 5 = 15
+
+So, in total, Ben and his family caught 15 fish.
+
+However, they threw back 3 fish that were too small. To find the number of fish they kept, I will subtract the number of fish thrown back from the total number of fish caught:
+
+15 - 3 = 12
+
+So, they kept 12 fish.
+
+Each fish will give them 2 filets, so to find the total number of filets, I will multiply the number of fish kept by 2:
+
+12 x 2 = 24
+
+Answer: 24

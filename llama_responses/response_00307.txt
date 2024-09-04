@@ -1,0 +1,8 @@
+To find the number of calories remaining in the block, we need to subtract the number of calories already eaten from the total number of calories in the block.
+
+Total calories in a block: 16 servings * 110 calories per serving = 1760 calories
+Calories eaten: 5 servings * 110 calories per serving = 550 calories
+
+To find the calories remaining, we subtract 550 from 1760:
+
+Answer: 1760 - 550 = 1210

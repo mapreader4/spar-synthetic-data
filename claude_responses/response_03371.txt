@@ -1,0 +1,19 @@
+Okay, let's think through this step-by-step:
+* The book has 5 chapters
+* The total number of pages in the book is 95
+* Each chapter has 3 more pages than the previous one
+
+Let's represent the number of pages in the first chapter as x.
+Then, the number of pages in the second chapter is x + 3, the third chapter is x + 6, the fourth chapter is x + 9, and the fifth chapter is x + 12.
+
+The total number of pages in the book is the sum of the pages in each chapter:
+x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 95
+
+Simplifying this equation:
+5x + 30 = 95
+5x = 65
+x = 13
+
+Therefore, the first chapter has 13 pages.
+
+Answer: 13

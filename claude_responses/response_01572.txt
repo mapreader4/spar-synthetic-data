@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Barbara found 3 bundles of colored paper
+* Each bundle holds 2 sheets of paper
+* So the total number of colored paper sheets is 3 bundles x 2 sheets/bundle = 6 sheets
+
+* Barbara also found 2 bunches of white paper
+* Each bunch holds 4 sheets of paper
+* So the total number of white paper sheets is 2 bunches x 4 sheets/bunch = 8 sheets
+
+* Finally, Barbara found 5 heaps of scrap paper
+* Each heap holds 20 sheets of paper
+* So the total number of scrap paper sheets is 5 heaps x 20 sheets/heap = 100 sheets
+
+Now, to find the total number of sheets of paper Barbara removed from the chest of drawers, we add up the colored, white, and scrap paper:
+6 sheets + 8 sheets + 100 sheets = 114 sheets
+
+Answer: 114

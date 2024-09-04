@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Mike's original typing speed is 65 words per minute
+* Due to the accident, his typing speed is now 20 words less per minute, which means his new typing speed is 65 - 20 = 45 words per minute
+* The document he needs to type has 810 words
+* To calculate the time it will take him to type the document, we need to divide the total number of words (810) by his new typing speed (45 words per minute)
+* 810 words / 45 words per minute = 18 minutes
+
+Answer: 18 minutes

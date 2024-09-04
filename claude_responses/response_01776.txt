@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The class needs to average at least 75% on the final exam to have a pizza party.
+* There are 30 people in the class.
+* The average score before William took the test was 74%.
+* We need to find the score William needs to get in order for the class average to be at least 75%.
+
+To calculate this, we can use the following formula:
+(Total points of the class) / (Number of students) = 75%
+
+We know the total points of the class before William took the test is:
+30 students * 74% = 2,220 points
+
+Now, we need to find the total points needed for the class to average 75%:
+30 students * 75% = 2,250 points
+
+The difference between the total points needed and the total points before William took the test is:
+2,250 points - 2,220 points = 30 points
+
+Since there are 30 students in the class, William needs to score 30 points to make up the difference and bring the class average to 75%.
+
+Answer: 100

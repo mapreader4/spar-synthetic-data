@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Leila spent some amount at the supermarket
+* The cost of fixing her automobile was $350
+* The cost of fixing her automobile was $50 more than thrice the amount she spent at the supermarket
+
+Let's call the amount Leila spent at the supermarket 'x'.
+* The cost of fixing her automobile was $50 more than thrice the amount she spent at the supermarket
+* So the cost of fixing her automobile was 3x + $50
+* We know the cost of fixing her automobile was $350
+* Therefore, 3x + $50 = $350
+* Solving for x, we get x = $100
+
+Now we can calculate the total amount Leila has spent:
+* Amount spent at the supermarket: $100
+* Amount spent at the mechanic: $350
+* Total amount spent: $100 + $350 = $450
+
+Answer: $450

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The brown dog weighs 4 pounds
+* The black dog weighs 1 pound more than the brown dog, so it weighs 4 + 1 = 5 pounds
+* The white dog weighs twice as much as the brown dog, so it weighs 4 x 2 = 8 pounds
+* The grey dog weighs 2 pounds less than the black dog, so it weighs 5 - 2 = 3 pounds
+
+Now, to calculate the average weight of all the dogs:
+* Total weight of all dogs = 4 + 5 + 8 + 3 = 20 pounds
+* Number of dogs = 4
+* Average weight = Total weight / Number of dogs = 20 / 4 = 5 pounds
+
+Answer: 5

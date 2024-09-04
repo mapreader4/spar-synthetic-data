@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+
+1. Lisa bought a new iPhone for $1000.
+2. She bought a phone contract that costs $200 per month.
+3. She bought a case that costs 20% of the cost of the phone.
+   * The cost of the case is 20% of $1000, which is $200.
+4. She bought headphones that cost half as much as the case.
+   * The cost of the headphones is half of $200, which is $100.
+
+Now, let's calculate the total amount Lisa will spend in the first year:
+* Phone cost: $1000
+* Phone contract for 12 months: $200 x 12 = $2400
+* Case: $200
+* Headphones: $100
+* Total cost in the first year: $1000 + $2400 + $200 + $100 = $3700
+
+Answer: $3700

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say that there are 650 people who received the vaccine. Of these, 80% are adults.
+
+Let's find the number of adults: 0.8 x 650 = 520.
+
+Now, we know that 520 people are adults. But the problem asks us to find the number of children. Since 650 - 520 = 130.
+
+Answer: 130

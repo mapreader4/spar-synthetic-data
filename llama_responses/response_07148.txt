@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of fish of each type at the beginning of the three weeks. Let's say the number of koi fish is x. Then, the number of goldfish is 280 - x.
+
+At the end of the three weeks, the number of goldfish is 200. So, we can set up an equation to represent this:
+
+280 - x + (2 x 21) = 200
+
+This is because the school added 2 koi fish and 5 goldfish every day for 21 days, so the total number of goldfish added is 2 x 21.
+
+Now, let's solve for x:
+
+280 - (2 x 21) = 200
+
+280 - 42 = 238
+
+So, the number of koi fish at the end of the three weeks is 238.
+
+Answer: 238

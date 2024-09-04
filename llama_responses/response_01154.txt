@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of stockings needed. Pearl has 5 grandchildren and 4 children, so the total number of stockings needed is 5 + 4 = 9.
+
+Next, we need to find the cost of the monogramming. The cost of the monogramming is $5.00 per stocking, and we need 9 stockings, so the cost of the monogramming is 9 x 5 = 45.00.
+
+Now, we need to find the total cost of the stockings. The cost of the stockings is $20.00 each, and we need 9 stockings, so the total cost is 9 x 20 = 180.00.
+
+Finally, we need to find the total cost after the 10% discount. The discount is 10%, so we need to subtract 10% of the total cost. The total cost is 180.00, and 10% of 180.00 is 18.00, so the final cost is 180.00 - 18.00 = 162.00.
+
+Answer: 162.00

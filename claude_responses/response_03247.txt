@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) It takes James 4 weeks to heal enough to get a skin graft.
+2) After the skin graft, it takes him 50% longer than the 4 weeks it took to heal enough for the skin graft.
+3) To calculate the additional time it took to heal from the skin graft, we take the 4 weeks and add 50% of that time:
+   * 50% of 4 weeks = 2 weeks
+   * 4 weeks + 2 weeks = 6 weeks
+4) So the total time it took James to recover from everything is the 4 weeks to heal enough for the skin graft, plus the 6 weeks to heal from the skin graft, which is:
+   * 4 weeks + 6 weeks = 10 weeks
+
+Answer: 10 weeks

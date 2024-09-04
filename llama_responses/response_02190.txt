@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Each person pays $50 for the ticket and $10 for their entrée, so each person's initial cost is $60. Since there are 6 people, the total initial cost is 6 x $60 = $360.
+
+Step 2: Half the people buy unlimited drink tickets for $30/person. Since half of the people is 3 (since 5 is half of 6), 3 people buy the drink tickets. The cost of the drink tickets for 3 people is 3 x $30 = $90.
+
+Step 3: The dinner is canceled, and each person gets a 90% refund. So, the total refund is 90% of the initial cost, which is 0.9 x $360 = $324. Each person gets a refund of $54, so the total refund for the 6 people is 6 x $54 = $324.
+
+Step 4: The total amount of money the group lost is the initial cost minus the refund, which is $360 - $324 = $36.
+
+Answer: 36

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The gecko eats 12 bugs.
+2) The lizard eats half as many bugs as the gecko. So, the lizard eats 12 / 2 = 6 bugs.
+3) The frog eats 3 times as many bugs as the lizard. So, the frog eats 6 * 3 = 18 bugs.
+4) The toad eats 50% more bugs than the frog. 50% of 18 is 9, so the toad eats 18 + 9 = 27 bugs.
+5) To find the total number of bugs eaten, we add up the amounts eaten by each animal:
+12 + 6 + 18 + 27 = 63 bugs.
+
+Answer: 63

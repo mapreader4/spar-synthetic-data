@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first calculate the earnings for one minute.
+
+Earnings in one minute = Number of tickets sold in one minute * Price of one ticket = 5 * 3 = 15
+
+Now, let's calculate the earnings in 6 minutes.
+
+Earnings in 6 minutes = Earnings in one minute * Number of minutes = 15 * 6 = 90
+
+Answer: 90

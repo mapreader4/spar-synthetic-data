@@ -1,0 +1,11 @@
+To find the average cost of each piece of fruit, we can add up the total cost of all the fruit and then divide that by the total number of fruits.
+
+The total cost of the apples is 12 x $2 = $24.
+The total cost of the bananas is 4 x $1 = $4.
+The total cost of the oranges is 4 x $3 = $12.
+
+The total cost of all the fruit is $24 + $4 + $12 = $40.
+
+There are 12 apples, 4 bananas, and 4 oranges, which is a total of 20 fruits.
+
+So, the average cost of each piece of fruit is $40 divided by 20, which is $2.

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. Susie has 11 Rhode Island Reds and 6 Golden Comets.
+2. Britney has twice as many Rhode Island Reds as Susie, which means Britney has 2 * 11 = 22 Rhode Island Reds.
+3. Britney has only half as many Golden Comets as Susie, which means Britney has 6 / 2 = 3 Golden Comets.
+4. To find the total number of chickens in Susie's flock, we add the Rhode Island Reds and Golden Comets: 11 + 6 = 17 chickens.
+5. To find the total number of chickens in Britney's flock, we add the Rhode Island Reds and Golden Comets: 22 + 3 = 25 chickens.
+6. To find the difference between the number of chickens in Britney's flock and Susie's flock, we subtract: 25 - 17 = 8 more chickens in Britney's flock.
+
+Answer: 8

@@ -1,0 +1,19 @@
+Let's start by identifying the information given in the problem. We know that Tim has 30 less apples than Martha, and Harry has half as many apples as Tim. This means that Harry has 30/2 = 15 apples.
+
+Then, we know that Martha has 68 apples. Since Harry has half as many apples as Tim, we can set up an equation to represent the number of apples Harry has. Let's use the variable 'x' to represent the number of apples Harry has.
+
+We know that 15 = x/2. We can multiply both sides of the equation by 2 to get:
+
+15 = 2x.
+
+Now, we can solve for x by dividing both sides by 2:
+
+x = 15/2
+
+x = 7.5
+
+Since we are asked to find the number of apples Harry has, we round down to the nearest whole number, so we get:
+
+Harry has 7 apples.
+
+Answer: 7

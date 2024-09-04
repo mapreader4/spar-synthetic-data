@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Step 1: First, we need to find the total time of the playlist. We have 10 3-minute songs and 15 2-minute songs. The total time of 10 3-minute songs is 10 x 3 = 30 minutes. The total time of 15 2-minute songs is 15 x 2 = 30 minutes. So, the total time of the playlist is 30 + 30 = 60 minutes.
+
+Step 2: We know that Stan's run takes 100 minutes. We need to find out how many more minutes of songs he needs to add to his playlist to cover his entire run.
+
+Step 3: The total time of the playlist is 60 minutes, and the total time of Stan's run is 100 minutes. We need to subtract the time of the playlist from the time of the run. 100 - 60 = 40 minutes.
+
+Answer: 40

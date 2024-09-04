@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* In July, Diana earned $150
+* In August, she earned 3 times the amount she earned in July
+* To calculate her August earnings:
+    - July earnings: $150
+    - August earnings: 3 x $150 = $450
+* In September, she earned twice the amount she earned in August
+* To calculate her September earnings:
+    - August earnings: $450
+    - September earnings: 2 x $450 = $900
+* Now we can calculate the total amount Diana earned over the three months:
+    - July earnings: $150
+    - August earnings: $450
+    - September earnings: $900
+    - Total earnings: $150 + $450 + $900 = $1,500
+
+Answer: $1,500

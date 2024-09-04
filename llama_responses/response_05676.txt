@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Let's start with the information we know:
+
+1. Don can paint 3 tiles a minute.
+2. Ken can paint 2 more tiles a minute than Don.
+3. Laura can paint twice as many tiles as Ken, so Ken paints 6 tiles a minute.
+4. Kim can paint 3 fewer tiles than Laura can in a minute, so Laura paints 9 tiles a minute.
+
+Now, let's add up the number of tiles each person can paint in a minute. We have:
+Don: 3 tiles a minute
+Ken: 6 tiles a minute
+Laura: 9 tiles a minute
+Kim: 9 - 3 = 6 tiles a minute
+
+Now, let's add them up:
+3 + 6 + 9 + 6 = 24
+
+So, Don, Ken, Laura, and Kim can paint 24 tiles in 15 minutes.

@@ -1,0 +1,13 @@
+Let’s break it down step by step.
+
+Let’s start by finding out how many cars he has sold so far.
+
+For the first 3 days, he sold 5 cars each day, so that is 3 * 5 = 15 cars.
+
+For the next 4 days, he sold 3 cars each day, so that is 4 * 3 = 12 cars.
+
+So, in total, he has sold 15 + 12 = 27 cars.
+
+Since he needs 50 cars in total, he needs 50 - 27 = 23 more cars to sell for the remaining days.
+
+Answer: 23

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Paul makes 100 pencils a day, 5 days a week
+* So, in a week, he makes 100 pencils x 5 days = 500 pencils
+* He started the week with 80 pencils in his stock
+* During the week, he sold 350 pencils
+* To calculate the number of pencils he had in his stock at the end of the week, we need to:
+   - Start with the initial stock of 80 pencils
+   - Add the 500 pencils he made during the week
+   - Subtract the 350 pencils he sold during the week
+* 80 + 500 - 350 = 230 pencils
+
+Answer: 230

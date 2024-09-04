@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 10 glasses, each with a capacity of 6 ounces.
+2) Each glass is only 4/5 full of water.
+3) To find the amount of water in each glass, we take the full capacity (6 ounces) and multiply it by the fraction that is filled (4/5):
+   6 ounces x 4/5 = 4.8 ounces of water in each glass.
+4) To find the total amount of water in all 10 glasses, we multiply the amount of water in each glass (4.8 ounces) by the number of glasses (10):
+   4.8 ounces x 10 = 48 ounces of water.
+5) To find the amount of water needed to fill all 10 glasses to the brim, we subtract the current amount of water (48 ounces) from the total capacity of all 10 glasses (10 x 6 ounces = 60 ounces):
+   60 ounces - 48 ounces = 12 ounces of water needed.
+
+Answer: 12 ounces

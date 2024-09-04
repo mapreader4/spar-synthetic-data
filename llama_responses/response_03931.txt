@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+1. Gina scored 2 goals less than Tom on the first day.
+2. Tom scored 6 goals on the second day, and Gina scored 2 goals less than Tom.
+
+From the first point, we can say that Gina scored x - 2 goals on the first day. Since Tom scored x + 2 goals on the same day, we can set up an equation to represent the situation:
+
+x - 2 = Tom's goals on the first day
+
+We know that Tom scored 3 goals more than Gina on the first day, so we can set up another equation to represent the situation:
+
+x = Tom's goals on the first day + 2
+
+We know that Tom scored 6 goals on the second day, and Gina scored 4 goals on the same day. So, Gina scored 6 - 2 = 4 goals. Therefore, Gina scored 4 goals on the second day.
+
+Now, let's add the goals scored by Gina and Tom on both days:
+
+Gina's goals = 2 + 4 = 6
+Tom's goals = x + 2 + 6 = 8
+
+So, Gina scored 6 goals and Tom scored 8 goals during these two days.
+
+Answer: 14

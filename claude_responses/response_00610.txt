@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* 68% of all pies are eaten with forks
+* There are 2000 pies in total
+* To find the number of pies eaten with forks, we take 68% of 2000:
+* 68% of 2000 = 0.68 * 2000 = 1360 pies eaten with forks
+* To find the number of pies not eaten with forks, we subtract the number of pies eaten with forks from the total number of pies:
+* 2000 - 1360 = 640 pies not eaten with forks
+
+Answer: 640

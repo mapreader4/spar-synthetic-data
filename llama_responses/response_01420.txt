@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that Carla drank 54 ounces of liquid, and we are told that this is the total amount of liquid she drank. We are asked to find out how much water she drank.
+
+We are also told that she drank three times as much soda as water. This means that the amount of soda she drank is three times the amount of water she drank. Let's call the amount of water she drank as x.
+
+We know that the total amount of liquid she drank is 54 ounces, which is equal to x + 3x - 6. We can set up an equation based on this information.
+
+x + 3x - 6 = 54
+
+We can solve for x by adding 6 to both sides of the equation:
+
+x + 3x - 6 + 6 = 54 + 6
+
+This simplifies to:
+
+x + 3x = 60
+
+We can subtract 3x from both sides of the equation to get:
+
+x = 20
+
+So, the amount of water Carla drank is 20 ounces.

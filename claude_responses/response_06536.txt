@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* In the first game, 20 fewer people watched than the second game, which had 80 people.
+* So, the first game had 80 - 20 = 60 people.
+* In the third game, 15 more people watched than the second game, which had 80 people.
+* So, the third game had 80 + 15 = 95 people.
+* The total number of people who watched the games this week is 60 + 80 + 95 = 235.
+* The total number of people who watched the games last week was 200.
+* The difference between the number of people who watched the games this week and last week is 235 - 200 = 35.
+
+Answer: 35

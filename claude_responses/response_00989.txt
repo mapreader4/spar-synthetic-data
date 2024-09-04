@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) Caleb can add 7 gallons per trip, and Cynthia can add 8 gallons per trip.
+2) It will take 105 gallons to fill the pool.
+3) To find the total number of trips, we need to find how many gallons they can add per trip, and then divide the total gallons needed by that amount.
+4) The total gallons added per trip is 7 + 8 = 15 gallons.
+5) To find the number of trips, we divide the total gallons needed (105) by the gallons added per trip (15):
+105 gallons / 15 gallons per trip = 7 trips.
+
+Answer: 7

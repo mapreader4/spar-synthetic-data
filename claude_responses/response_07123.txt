@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Harrison Elementary School has 1590 students
+* 40% of the students are going to move to a new school
+* 40% of 1590 is 0.4 * 1590 = 636 students
+* There are 3 grade levels at the new school
+* Each grade level needs one 20-person advanced class
+* The remaining students in each grade level are divided evenly into 6 additional classes
+
+First, let's calculate the number of students in the advanced classes:
+* 3 grade levels, each with 1 advanced class of 20 students
+* 3 * 20 = 60 students in advanced classes
+
+Now, let's calculate the number of students in the normal classes:
+* Total students moving to the new school: 636
+* Students in advanced classes: 60
+* Remaining students for normal classes: 636 - 60 = 576
+* Number of normal classes per grade level: 6
+* Number of grade levels: 3
+* Total number of normal classes: 3 * 6 = 18
+* Number of students per normal class: 576 / 18 = 32
+
+Answer: 32 students per normal class.

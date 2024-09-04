@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) At 13 years old, Bobby can deadlift 300 pounds.
+2) At 18 years old, Bobby can deadlift 100 pounds more than 250% of his previous deadlift.
+3) To calculate his deadlift at 18 years old:
+   - 250% of 300 pounds = 750 pounds
+   - 100 pounds more than 750 pounds = 850 pounds
+4) The increase in deadlift from 13 to 18 years old is 850 pounds - 300 pounds = 550 pounds.
+5) The number of years between 13 and 18 is 5 years.
+6) To calculate the pounds added per year, we divide the total increase by the number of years: 550 pounds / 5 years = 110 pounds per year.
+
+Answer: 110 pounds

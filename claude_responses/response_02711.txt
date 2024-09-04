@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ross takes 17 breaths per minute
+* Each breath, he inhales 5/9 liter of air
+* We want to find the volume of air inhaled in 24 hours
+
+First, let's calculate the volume of air inhaled per minute:
+* 17 breaths per minute x 5/9 liter per breath = 85/9 liters per minute
+
+Now, let's calculate the volume of air inhaled in 24 hours:
+* 85/9 liters per minute x 60 minutes per hour x 24 hours = 17,200 liters
+
+Therefore, the volume of air inhaled in 24 hours is:
+Answer: 17,200 liters

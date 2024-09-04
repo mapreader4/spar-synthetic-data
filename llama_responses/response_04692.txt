@@ -1,0 +1,11 @@
+Let's think step by step:
+
+Let's first find the total number of bags of leaves they raked in total: 5 + 3 = 8
+
+Then, let's find the total amount of money they earned: 5 * 4 = 20 (for Monday) + 3 * 4 = 12 (for Tuesday) = 32
+
+But the total amount of money they found was 68, so let's subtract the total amount they earned from the total amount they found: 68 - 32 = 36
+
+This means that they must have earned 36 dollars on Wednesday. Since they earn 4 dollars per bag, they must have raked 36 / 4 = 9 bags of leaves on Wednesday.
+
+Answer: 9

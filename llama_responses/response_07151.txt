@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+In the first year, Kate visits the museum 12 times (since she visits once a month). The entrance fee is $5, so the total cost for the first year is:
+
+12 x 5 = 60
+
+In the second year, the entrance fee is $7, and Kate visits the museum 4 times. The total cost for the second year is:
+
+4 x 7 = 28
+
+In the third year, the entrance fee is still $7, and Kate visits the museum 4 times. The total cost for the third year is:
+
+4 x 7 = 28
+
+To find the total cost for all visits to the Art-museum after 3 years, we add the costs for each year:
+
+60 + 28 + 28 = 116
+
+So, Kate paid a total of 116 dollars for all visits to the Art-museum after 3 years.
+
+Answer: 116

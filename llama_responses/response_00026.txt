@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: First, let's find the percentage of salt in the seawater. If the seawater is 20% salt, then the amount of salt in 100ml of seawater is 20ml.
+
+Step 2: Since Jack has 2 liters of seawater, or 2000ml, we need to find the amount of salt in 2000ml. To do this, we can multiply the percentage of salt in 100ml by 20, and then multiply the result by 20 to get the amount of salt in 2000ml.
+
+Step 3: 20% of 100ml is 20ml, so 20ml * 20 = 400ml. So, 400ml of salt will be in 100ml of seawater. Now, since Jack has 2000ml of seawater, we can multiply 400ml by 20 to get the total amount of salt he will get when the water evaporates. 400ml * 20 = 8000ml.
+
+Answer: 8000

@@ -1,0 +1,13 @@
+Let's break it down step by step:
+
+1. The chair is the first item. Let's say the price of the chair is x. So, John buys the chair for x dollars.
+2. The table is 3 times the price of the chair, so the price of the table is 3x.
+3. The couch is 5 times the price of the table, so the price of the couch is 5(3x).
+4. John paid $380 for all these items. This means that 3x + 5(3x) + x = 380.
+5. Simplify the equation: 3x + 15x + x = 380.
+6. Add x to both sides of the equation: 3x + 15x + x + x = 380 + x.
+7. Subtract x from both sides: 3x + 15x = 380.
+8. Subtract 380 from both sides: 3x = 380 - 380.
+9. 3x = 0.
+
+Answer: 0

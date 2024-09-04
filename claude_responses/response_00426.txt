@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Let's call the number of students in Elementary School 'x'
+* The number of students in Middle School is 50
+* The number of students in Elementary School is three less than four times the number of students in Middle School
+* So, we can write this as: x = 4 * 50 - 3
+* Solving for x, we get: x = 200 - 3 = 197
+* Now, to find the total number of students in both levels, we add the number of students in Elementary School and Middle School:
+* Total students = 197 + 50 = 247
+
+Answer: 247

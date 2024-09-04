@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The apartment complex has 4 identical buildings.
+2) Each building has:
+   - 10 studio apartments
+   - 20 2 person apartments
+   - 5 4 person apartments
+3) To find the total number of people the apartment complex can hold at maximum occupancy, we need to calculate the total number of people across all 4 buildings:
+   - Studio apartments: 10 apartments per building x 4 buildings = 40 studio apartments
+     - Each studio apartment can hold 1 person, so 40 people
+   - 2 person apartments: 20 apartments per building x 4 buildings = 80 2 person apartments
+     - Each 2 person apartment can hold 2 people, so 80 x 2 = 160 people
+   - 4 person apartments: 5 apartments per building x 4 buildings = 20 4 person apartments
+     - Each 4 person apartment can hold 4 people, so 20 x 4 = 80 people
+4) The total maximum occupancy is 40 + 160 + 80 = 280 people.
+5) The problem states the apartment complex is at 75% of its maximum occupancy.
+   - 75% of 280 = 0.75 x 280 = 210 people.
+
+Answer: 210

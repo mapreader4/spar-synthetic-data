@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The wallet costs $22.
+2) The purse costs $3 less than four times the cost of the wallet.
+   * The cost of the wallet is $22.
+   * Four times the cost of the wallet is 4 * $22 = $88.
+   * $88 - $3 = $85.
+   * So the purse costs $85.
+3) The combined cost of the wallet and the purse is:
+   * Wallet cost: $22
+   * Purse cost: $85
+   * Total cost: $22 + $85 = $107
+
+Answer: 107

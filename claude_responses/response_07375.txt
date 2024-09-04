@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Carlos needs to wash two loads of laundry
+* Each load takes 45 minutes to wash
+* So the total time to wash both loads is:
+    - 2 loads x 45 minutes per load = 90 minutes
+* After washing, he can combine both loads and dry them
+* The drying process takes 75 minutes
+* So the total time for the drying process is 75 minutes
+* To find the total time for the laundry, we add the time for washing and the time for drying:
+    - 90 minutes + 75 minutes = 165 minutes
+
+Answer: 165

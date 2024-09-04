@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Nida has 50 chocolates in total.
+2) Some of the chocolates are in 3 filled boxes, and 5 pieces are not in a box.
+3) So the number of chocolates in the 3 filled boxes is 50 - 5 = 45 chocolates.
+4) Since each box holds the same number of chocolates, we can divide 45 by 3 to find the number of chocolates in each box: 45 / 3 = 15 chocolates per box.
+5) Nida's friend brought 25 more chocolates.
+6) To place all 75 (50 + 25) chocolates in boxes, we need to divide the total by the number of chocolates per box: 75 / 15 = 5 boxes.
+7) Since Nida already has 3 filled boxes, she needs 2 more boxes.
+
+Answer: 2

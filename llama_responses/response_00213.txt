@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many tomato seeds Mike planted in total. In the morning, Mike planted 50 seeds. In the afternoon, Mike planted 60 seeds. So, the total number of seeds Mike planted is 50 + 60 = 110.
+
+Now, let's find out how many seeds Ted planted. In the morning, Ted planted half as much as Mike, which is 50/2 = 25 seeds. In the afternoon, Ted planted 20 less seeds than Mike, which is 60 - 20 = 40 seeds. So, the total number of seeds Ted planted is 25 + 40 = 65.
+
+Now, let's add the total number of seeds Mike and Ted planted. 110 + 65 = 175.
+
+Answer: 175

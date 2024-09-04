@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Benny started with an unknown amount in his piggy bank. Let's call that x.
+
+In January, he adds 19 dollars to the piggy bank, so now he has x + 19 dollars.
+
+In February, he adds the same amount again, so he now has x + 19 + 19 = x + 38 dollars.
+
+By the end of March, he has 46 dollars, so we know that x + 38 + some amount = 46.
+
+To find the amount he added in March, we need to subtract 38 from 46 to get the unknown amount:
+
+46 - 38 = 8
+
+So, Benny added 8 dollars to his piggy bank in March.
+
+Answer: 8

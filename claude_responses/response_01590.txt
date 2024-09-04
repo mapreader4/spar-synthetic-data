@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Initially, John was buying 4 coffees per day at $2 each.
+   * So, his daily cost was: 4 coffees x $2 per coffee = $8 per day
+
+2. The price of the coffee was then raised by 50%.
+   * This means the new price per coffee is $2 + (50% of $2) = $2 + $1 = $3 per coffee
+
+3. After the price increase, John cut the number of coffees he drinks in half.
+   * So, he now buys 2 coffees per day at $3 each.
+   * His new daily cost is: 2 coffees x $3 per coffee = $6 per day
+
+4. To calculate the amount of money he saves per day:
+   * His original daily cost was $8
+   * His new daily cost is $6
+   * The amount he saves per day is: $8 - $6 = $2
+
+Answer: $2

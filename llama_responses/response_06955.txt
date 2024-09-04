@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Carlo practices for a total of 5 hours that week.
+* On Monday, he practices for 2 times as long as on Tuesday.
+* On Tuesday, he practices for 10 minutes less than on Wednesday.
+* On Wednesday, he practices for 5 minutes more than on Thursday.
+* On Thursday, he practices for 50 minutes.
+
+Let's add up the minutes practiced on each day to get the total minutes practiced so far:
+
+* Monday: 2 times as long as on Tuesday, which is 2T, so 2T minutes
+* Tuesday: 10 minutes less than on Wednesday, so 2T - 10 = 2T - 10 = 2T - 10 minutes
+* Wednesday: 5 minutes more than on Thursday, so 2T + 5 = 2T + 5 = 2T + 5 minutes
+* Thursday: 50 minutes
+
+Now, let's add up the minutes practiced so far: 2T - 10 + 2T + 5 + 50 = 4T + 35
+
+Now, let's simplify the expression: 4T + 35 = 5T - 5 = 5T
+
+So, Carlo needs to practice for 5 hours = 5T. To get to 5T, he needs to practice for 0 minutes more. Therefore, Carlo should practice for 0 minutes on Friday.

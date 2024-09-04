@@ -1,0 +1,13 @@
+Let's start by finding the total amount of money Lilith would have gotten if she sold her water bottles at $2 each. She has 5 dozen water bottles, which is equal to 5 x 12 = 60 water bottles. If she sells each bottle for $2, she would get:
+
+60 x $2 = $120
+
+However, she ended up selling the water bottles at $1.85 each. To find the total amount of money she got, we multiply the number of bottles by the new price:
+
+60 x $1.85 = $111
+
+So, Lilith ended up with $111. Since this is less than the original amount she would have gotten, she will need to find the difference to buy her friend's birthday gift. The difference is:
+
+$120 - $111 = $9
+
+Answer: 9

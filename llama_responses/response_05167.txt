@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start with the first week. They packed 40 apples in each box, and they made 50 boxes. So, the total number of apples packed in the first week is:
+
+40 apples per box * 50 boxes = 2000 apples
+
+Now, let's look at the second week. They packed 500 fewer apples per day, which is 40 - 500 = 540 apples per box. So, they made:
+
+40 apples per box * 540 boxes = 21600 apples
+
+The total number of apples packed in the two weeks is the sum of the apples packed in each week:
+
+2000 apples + 21600 apples = 21600 apples
+
+Answer: 21600

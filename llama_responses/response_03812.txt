@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the points from the bullseye:
+
+1. The bullseye is worth 50 points.
+2. The dart that missed the target is worth 0 points.
+3. The third dart is worth half the points of the bullseye. 50 / 2 is 25.
+
+So, the total points from the bullseye and the third dart is 50 + 25 = 75.
+
+The dart that missed the target is worth 0 points, so the total score is 75 + 0 = 75.
+
+Answer: 75

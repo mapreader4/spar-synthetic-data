@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. To display the full year, they need to light enough fireworks to show the numbers 2, 0, 2, and 3. 
+   * Each number requires 6 fireworks, so that's 6 x 4 = 24 fireworks.
+
+2. To write "HAPPY NEW YEAR" in the sky, they need to light enough fireworks for each letter.
+   * There are 11 letters in "HAPPY NEW YEAR".
+   * Each letter requires 5 fireworks, so that's 5 x 11 = 55 fireworks.
+
+3. They then light another 50 boxes of fireworks as part of the display.
+   * Each box contains 8 fireworks, so that's 50 x 8 = 400 fireworks.
+
+4. To calculate the total number of fireworks lit during the display, we add up the fireworks from each part:
+   * 24 + 55 + 400 = 479 fireworks
+
+Answer: 479

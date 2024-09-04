@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that the total amount spent is $2050. We know that the cost of a keyboard is unknown, but we can represent this as a variable. Let's call it "k".
+
+We know that the cost of a printer is also unknown, and we can represent this as another variable, which we can call "p".
+
+We know that the total cost of the 15 keyboards and 25 printers is $2050. We can set up an equation to represent this information:
+
+15k + 25p = 2050
+
+We want to find the cost of a printer, so we can solve for "p". We can do this by subtracting the cost of the keyboards from the total cost:
+
+p = 2050 - 15 * 20
+
+First, let's multiply the cost of the keyboards by 15:
+
+15 * 20 = 300
+
+Now, let's subtract the result from the total cost:
+
+2050 - 300 = 1750
+
+So, the cost of a printer is 1750.

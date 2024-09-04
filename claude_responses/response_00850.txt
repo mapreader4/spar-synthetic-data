@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+1. Viviana has 5 more chocolate chips than Susana.
+   * Let's call the number of chocolate chips Susana has as 'x'.
+   * Then, the number of chocolate chips Viviana has is 'x + 5'.
+
+2. Susana has 3/4 as many vanilla chips as Viviana.
+   * Viviana has 20 vanilla chips.
+   * Susana has 3/4 * 20 = 15 vanilla chips.
+
+3. Susana has 25 chocolate chips.
+   * So, 'x = 25'.
+
+4. Viviana has 'x + 5' = 25 + 5 = 30 chocolate chips.
+
+5. The total number of chips they have together is:
+   * Viviana's vanilla chips: 20
+   * Viviana's chocolate chips: 30
+   * Susana's vanilla chips: 15
+   * Susana's chocolate chips: 25
+   * Total chips: 20 + 30 + 15 + 25 = 90
+
+Answer: 90

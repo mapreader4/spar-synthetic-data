@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* In 10 years, you will be twice your brother's age
+* The sum of your ages in 10 years will be 45 years old
+* Let's call your current age 'x' and your brother's current age 'y'
+* In 10 years, your age will be x + 10, and your brother's age will be y + 10
+* We know that in 10 years, your age will be twice your brother's age, so:
+    x + 10 = 2(y + 10)
+    x + 10 = 2y + 20
+    x - 2y = 10
+* We also know that the sum of your ages in 10 years will be 45, so:
+    (x + 10) + (y + 10) = 45
+    x + y + 20 = 45
+    x + y = 25
+* Substituting this into the first equation:
+    x - 2(25 - x) = 10
+    x - 50 + 2x = 10
+    3x = 60
+    x = 20
+* Therefore, your current age is 20.
+
+Answer: 20

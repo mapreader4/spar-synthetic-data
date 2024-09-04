@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The capacity of Karson's home library is 400 books.
+2) He currently has 120 books.
+3) To make his library 90% full, we need to calculate 90% of the total capacity.
+4) 90% of 400 books is 0.9 * 400 = 360 books.
+5) To make his library 90% full, he needs to have 360 books.
+6) Since he currently has 120 books, he needs to buy 360 - 120 = 240 more books.
+
+Answer: 240

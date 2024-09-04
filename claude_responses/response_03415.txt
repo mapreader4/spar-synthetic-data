@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jose charges $3 for kids
+* Jose charges twice the amount for adults, which is $6 per adult
+* There are 8 kids and 10 adults swimming in his pool per day
+* To calculate the daily earnings:
+    - 8 kids x $3 = $24 from kids
+    - 10 adults x $6 = $60 from adults
+    - Total daily earnings = $24 + $60 = $84
+* To calculate the weekly earnings:
+    - There are 7 days in a week
+    - $84 per day x 7 days = $588 per week
+
+Answer: 588

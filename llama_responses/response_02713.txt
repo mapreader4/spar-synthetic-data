@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the area of the apple trees. Since each tree is 10 feet wide and needs 12 feet between each tree, the distance between the trees is 10 feet. So, the area of the apple trees will be 10 x 12 = 120 square feet.
+
+Step 2: Calculate the area of the peach trees. Since each tree is 12 feet wide and needs 15 feet between each tree, the distance between the trees is 12 feet. So, the area of the peach trees will be 12 x 15 = 180 square feet.
+
+Step 3: Add the area of the apple trees and peach trees together. 120 + 180 = 300 square feet.
+
+Step 4: The total area of the trees is 300 square feet.
+
+Answer: 300

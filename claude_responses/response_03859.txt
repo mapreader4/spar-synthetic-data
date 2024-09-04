@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The shop "Surprise" is closed for 3 days during the Christmas holidays
+* During each of those 3 days, the shop could have earned $5,000
+* We want to know the potential revenue lost over 6 years of activity
+
+To calculate the potential revenue lost, we need to:
+1. Calculate the potential revenue lost per year
+2. Multiply that by 6 years
+
+Potential revenue lost per year:
+* 3 days x $5,000 per day = $15,000 per year
+
+Potential revenue lost over 6 years:
+* $15,000 per year x 6 years = $90,000
+
+Answer: 90,000

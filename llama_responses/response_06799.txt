@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of Samsung cell phones that David started with: 14.
+
+He ended the day with 10 Samsung cell phones, which means that 14 - 10 = 4 Samsung cell phones were sold.
+
+Now, let's look at the number of iPhones. He started the day with 8 iPhones, and he ended the day with 5 iPhones. So, 8 - 5 = 3 iPhones were sold.
+
+Now, let's add the number of Samsung and iPhone cell phones that were sold: 4 + 3 = 7 cell phones were sold.
+
+However, we need to subtract the number of damaged Samsung cell phones and the iPhone with a manufacturing defect that were thrown out: 2 + 1 = 3 cell phones were thrown out.
+
+So, the total number of cell phones that were sold today is: 7 - 3 = 4.
+
+Answer: 4

@@ -1,0 +1,5 @@
+To find the total number of beats played, we need to multiply the number of beats played per minute (200) by the number of minutes played per day (60) and then multiply the result by the number of days played (3). 
+
+200 beats per minute * 60 minutes per day * 3 days = 200 * 60 * 3 = 36,000
+
+Answer: 36000

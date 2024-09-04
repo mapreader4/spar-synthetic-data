@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Frank bought 5 chocolate bars and 2 bags of chips
+* Each chocolate bar costs $2
+* So the total cost of the 5 chocolate bars is 5 * $2 = $10
+* Frank handed the cashier $20 and received $4 back as change
+* Therefore, the total amount Frank paid was $20 - $4 = $16
+* Since the chocolate bars cost $10, the remaining amount must have been the cost of the 2 bags of chips
+* So the cost of the 2 bags of chips is $16 - $10 = $6
+* Since there are 2 bags of chips, each bag of chips must have cost $6 / 2 = $3
+
+Answer: $3

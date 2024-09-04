@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of the barbell. If the barbell costs 1/10 as much as the rack, then we know that the cost of the barbell is 2500 / 10 = 250.
+
+The cost of the rack is given as 2500, so we know that the total cost of the rack and the barbell is 2500 + 250 = 2750.
+
+So, the answer is:
+
+Answer: 2750

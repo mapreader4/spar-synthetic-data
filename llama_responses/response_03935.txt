@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to calculate how many pets are adopted each month. For dogs, 50% are adopted, which is 30 x 0.5 = 15 dogs. For cats, 25% are adopted, which is 28 x 0.25 = 7 cats. For lizards, 20% are adopted, which is 20 x 0.2 = 4 lizards.
+
+So, in total, 15 + 7 + 4 = 26 pets are adopted each month.
+
+Now, we need to add the 13 new pets that the shelter takes in each month. So, we add 13 to the total number of pets that are adopted, which is 26 + 13 = 39.
+
+Finally, we need to add the original number of pets at the shelter. There were 30 dogs, 28 cats, and 20 lizards. So, the total number of pets is 30 + 28 + 20 = 78.
+
+After one month, there are 78 pets at the shelter.

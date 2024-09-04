@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+First, we need to calculate the total cost of the food:
+
+Salmon: $40
+Black burger: $15
+Chicken katsu: $25
+Total food cost: $40 + $15 + $25 = $80
+
+Next, we need to add the 10% service charge:
+
+$80 x 0.10 = $8
+Total cost with service charge: $80 + $8 = $88
+
+Finally, we need to add the 5% tip:
+
+$88 x 0.05 = $4.40
+Total cost with tip: $88 + $4.40 = $92.40
+
+Mr. Arevalo pays with $100. To find out how much change he will receive, we subtract the total cost from the $100:
+
+$100 - $92.40 = $7.60
+
+Answer: 7

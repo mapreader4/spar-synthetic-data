@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The total number of questions in the math contest is 35.
+* Riley got 3 mistakes.
+* Ofelia got 5 more than half the score of Riley.
+* Riley's score = 35 - 3 = 32
+* Ofelia's score = (32 / 2) + 5 = 21
+* The team's final score is obtained by adding the scores of the students on the same team.
+* The total number of incorrect answers for the team is the sum of Riley's and Ofelia's incorrect answers.
+* Riley's incorrect answers = 3
+* Ofelia's incorrect answers = 35 - 21 = 14
+* The total number of incorrect answers for the team = 3 + 14 = 17
+
+Answer: 17

@@ -1,0 +1,21 @@
+To solve this problem, we need to calculate the average jump of each athlete and determine the winner.
+
+For the first athlete:
+Long jump: 26 feet
+Triple jump: 30 feet
+High jump: 7 feet
+
+To find the average, we add the three jump distances and divide by 3:
+(26 + 30 + 7) / 3 = 63 / 3 = 21 feet
+
+For the second athlete:
+Long jump: 24 feet
+Triple jump: 34 feet
+High jump: 8 feet
+
+To find the average, we add the three jump distances and divide by 3:
+(24 + 34 + 8) / 3 = 66 / 3 = 22 feet
+
+The second athlete had the higher average jump of 22 feet, so they were the winner.
+
+Answer: 22 feet

@@ -1,0 +1,17 @@
+Let's think step by step.
+
+Bert had some stamps initially. Let's say the number of stamps he had before the purchase is x.
+
+He bought 300 stamps.
+
+To find the number of stamps Bert has after the purchase, we need to add the number of stamps he had initially to the number of stamps he bought.
+
+The number of stamps he had initially is x.
+
+The number of stamps he bought is 300.
+
+So, we add the number of stamps he had to the number of stamps he bought: x + 300.
+
+The number of stamps Bert has after the purchase is x + 300.
+
+Answer: 300.

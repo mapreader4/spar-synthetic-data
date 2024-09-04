@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+John's initial weight is 220 pounds. 10% of 220 is 22 pounds. So, John loses 22 pounds. Then, he gains 2 pounds back. 
+
+So, let's calculate John's new weight after losing 22 pounds:
+
+220 - 22 = 198
+
+Then, let's add the 2 pounds he gained:
+
+198 + 2 = 200
+
+Answer: 200

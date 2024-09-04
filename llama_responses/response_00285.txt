@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total number of minutes in the show. There are 20 episodes, and each episode is 30 minutes long. To find the total number of minutes, we multiply the number of episodes by the length of each episode:
+
+20 episodes * 30 minutes = 20 * 30 = 600 minutes
+
+Next, we need to convert the total number of minutes to hours. There are 60 minutes in an hour. So, we divide the total number of minutes by 60:
+
+600 minutes ÷ 60 = 10 hours
+
+So, John has to watch 10 hours a day to finish the show.

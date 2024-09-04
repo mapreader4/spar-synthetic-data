@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The school library has 120 books
+* Each student needs 5 books for their classes
+* On the first day, the library helped 4 students
+* On the second day, the library helped 5 students
+* On the third day, the library helped 6 students
+* To find how many students the library can help on the fourth day, we need to calculate how many books have been used so far and how many are left.
+
+First, let's calculate how many books have been used so far:
+* 4 students x 5 books per student = 20 books used on the first day
+* 5 students x 5 books per student = 25 books used on the second day
+* 6 students x 5 books per student = 30 books used on the third day
+* Total books used = 20 + 25 + 30 = 75 books
+
+Now, let's calculate how many books are left:
+* Total books in the library = 120
+* Books used so far = 75
+* Books remaining = 120 - 75 = 45 books
+
+Finally, to find how many students the library can help on the fourth day, we divide the remaining books by the number of books each student needs:
+* Remaining books = 45
+* Books per student = 5
+* Students that can be helped on the fourth day = 45 / 5 = 9 students
+
+Answer: 9 students

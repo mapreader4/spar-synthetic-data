@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Michael charges $100 for a large painting
+* He sold 5 large paintings
+* So, the total revenue from large paintings is:
+  * 5 large paintings x $100 per painting = $500
+* Michael charges $80 for a small painting
+* He sold 8 small paintings
+* So, the total revenue from small paintings is:
+  * 8 small paintings x $80 per painting = $640
+* To calculate the total amount he earned, we add the revenue from large paintings and small paintings:
+  * $500 + $640 = $1,140
+
+Answer: $1,140

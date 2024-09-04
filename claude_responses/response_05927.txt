@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Kim spends 5 minutes making coffee every morning
+* She spends 2 minutes per employee getting a status update
+* There are 9 employees in the office
+* So for the status updates, she spends 2 minutes x 9 employees = 18 minutes
+* She also spends 3 minutes per employee updating payroll records
+* Again, there are 9 employees in the office
+* So for the payroll updates, she spends 3 minutes x 9 employees = 27 minutes
+* Adding up the time for coffee, status updates, and payroll updates:
+* 5 minutes + 18 minutes + 27 minutes = 50 minutes
+
+Answer: 50

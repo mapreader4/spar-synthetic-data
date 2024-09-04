@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of segments the scorpion needs to eat in a day: 800 segments.
+
+The scorpion has already eaten one millipede with 60 segments, and 2 millipedes that are twice as long, so the total number of segments it has eaten so far is:
+
+60 + 2 x 60 = 180
+
+The scorpion still needs to eat a total of 800 - 180 = 620 segments to reach its daily total.
+
+Now, let's find out how many 50-segment millipedes it needs to eat. We can divide the remaining segments needed by the number of segments in each millipede:
+
+620 ÷ 50 = 12.4
+
+Since we can't eat a fraction of a millipede, we round down to the nearest whole number, so the scorpion needs to eat 12 more 50-segment millipedes to reach its daily total.
+
+Answer: 12

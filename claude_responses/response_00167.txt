@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+
+1. Janet's previous movie was 2 hours long, which is 120 minutes.
+2. The new movie is 60% longer than the previous movie, so the new movie is 120 + (0.6 * 120) = 192 minutes long.
+3. The previous movie cost $50 per minute to film, so the total cost of the previous movie was 120 * $50 = $6,000.
+4. The new movie cost twice as much per minute to film as the previous movie, so the new movie cost $100 per minute to film.
+5. The total cost of the new movie is 192 * $100 = $19,200.
+
+Answer: $19,200

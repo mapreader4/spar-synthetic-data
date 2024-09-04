@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, let's find the volume of a carton. Since the carton is a rectangular prism, we can find its volume by multiplying the length, width, and height:
+
+Volume of carton = Length × Width × Height = 4 inches × 4 inches × 5 inches = 80 cubic inches
+
+Since Doris puts 3 widgets in each carton, we can find the volume of a single widget by dividing the volume of the carton by 3:
+
+Volume of a single widget = Volume of carton ÷ 3 = 80 cubic inches ÷ 3 = 26.67 cubic inches (approximately)
+
+Now, let's find the volume of the shipping box:
+
+Volume of shipping box = Length × Width × Height = 20 inches × 20 inches × 20 inches = 8000 cubic inches
+
+To find the number of cartons that fit in the shipping box, we can divide the volume of the shipping box by the volume of a carton:
+
+Number of cartons that fit in the shipping box = Volume of shipping box ÷ Volume of carton = 8000 cubic inches ÷ 80 cubic inches = 100 cartons
+
+Since each carton contains 3 widgets, we can find the total number of widgets in 100 cartons:
+
+Total number of widgets in 100 cartons = 100 cartons × 3 widgets/carton = 300 widgets
+
+Therefore, 300 widgets get shipped in each shipping box.
+
+Answer: 300

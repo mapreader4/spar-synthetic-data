@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Josh has $300 in his wallet initially. He has $2000 invested in the business, so his total worth is $1300.
+
+The business's stock price rises 30%. So, the new value of the business is 130% of the original value. 130% of 2000 is 2600. The total value of the business is now 2600.
+
+Josh sells all of his stocks. He gets 2600 dollars from the sale of the stocks.
+
+Adding the 2600 to his initial 300 dollars in his wallet, he now has 2600 + 300 = 2900 dollars.
+
+Answer: 2900.

@@ -1,0 +1,11 @@
+Let's break down the information step by step:
+
+1. James has counted 52 vehicles so far today.
+2. He saw 12 trucks, which held 2 people each, so the number of people in trucks is 12 * 2 = 24.
+3. He saw a couple of buses, which means 2 buses, and each bus held 15 people, so the number of people in buses is 2 * 15 = 30.
+4. He saw twice as many taxis as buses, which is 2 * 30 = 60 taxis. Each taxi held 2 people, so the number of people in taxis is 60 * 2 = 120.
+5. He saw some motorbikes, which held 1 person each, so the number of people in motorbikes is the number of motorbikes, which is 30 (since 30 vehicles).
+6. He saw 30 cars, which held 3 people each, so the number of people in cars is 30 * 3 = 90.
+7. To find the total number of passengers, we add the number of people in trucks, buses, taxis, motorbikes, and cars: 24 + 30 + 120 + 30 + 90 = 294.
+
+Answer: 294

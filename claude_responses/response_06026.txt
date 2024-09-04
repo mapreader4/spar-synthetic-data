@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John buys 3 boxes of burritos, and each box has 20 burritos.
+   * Total number of burritos = 3 boxes x 20 burritos per box = 60 burritos
+2) John gives away a 3rd of the burritos to his friend.
+   * Number of burritos given away = 60 burritos x 1/3 = 20 burritos
+   * Number of burritos remaining = 60 burritos - 20 burritos = 40 burritos
+3) John eats 3 burritos per day for 10 days.
+   * Number of burritos eaten = 3 burritos per day x 10 days = 30 burritos
+   * Number of burritos remaining = 40 burritos - 30 burritos = 10 burritos
+
+Answer: 10 burritos

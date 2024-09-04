@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 500 students in the high school.
+2) 40 percent of the students are juniors. To find the number of juniors, we take 40% of 500:
+   * 40% of 500 = 0.40 * 500 = 200 juniors
+3) 70 percent of the juniors are involved in sports. To find the number of juniors involved in sports, we take 70% of 200:
+   * 70% of 200 = 0.70 * 200 = 140 juniors involved in sports.
+
+Answer: 140

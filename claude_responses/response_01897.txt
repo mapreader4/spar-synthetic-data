@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The game is 880 MB in size
+* Mason has already downloaded 310 MB
+* The remaining amount to download is 880 MB - 310 MB = 570 MB
+* The download speed is now 3 MB/minute
+* To calculate the time it will take to download the remaining 570 MB, we divide the remaining amount by the download speed:
+* 570 MB / 3 MB/minute = 190 minutes
+
+Answer: 190

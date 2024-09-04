@@ -1,0 +1,29 @@
+Okay, let's break this down step by step:
+* The rancher has 8 sheep and 5 cattle
+* Each cow eats 2 acres of grass per month
+* Each sheep eats 1 acre of grass per month
+* The pasture contains 144 acres of grass
+* A bag of feed corn can feed each cow for 1 month and each sheep for 2 months
+* Feed corn costs $10 per bag
+
+First, let's calculate how much grass the animals will consume per month:
+* Cows: 5 cows x 2 acres/month = 10 acres/month
+* Sheep: 8 sheep x 1 acre/month = 8 acres/month
+* Total grass consumed per month = 10 + 8 = 18 acres/month
+
+Now, let's calculate how long the pasture will last:
+* Pasture contains 144 acres of grass
+* Animals consume 18 acres/month
+* 144 acres / 18 acres/month = 8 months
+
+So, the pasture will last for 8 months. After that, the rancher will need to buy feed corn.
+
+Next, let's calculate how much feed corn the rancher will need to buy:
+* Cows: 5 cows x (12 months - 8 months) = 20 bags of feed corn
+* Sheep: 8 sheep x (12 months - 8 months) / 2 = 8 bags of feed corn
+* Total bags of feed corn needed = 20 + 8 = 28 bags
+
+Finally, let's calculate the total cost of the feed corn:
+* 28 bags x $10/bag = $280
+
+Answer: $280

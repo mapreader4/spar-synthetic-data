@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the initial total lifting capacity:
+
+Clean and jerk: 80 kg
+Snatch: 50 kg
+Total: 80 + 50 = 130 kg
+
+Now, let's find the new clean and jerk capacity after doubling it:
+
+New clean and jerk: 80 kg * 2 = 160 kg
+New snatch: 50 kg * (1 + 0.8) = 50 kg * 1.8 = 90 kg
+New total: 160 + 90 = 250 kg
+
+So, John's new combined total lifting capacity is:
+
+Answer: 250

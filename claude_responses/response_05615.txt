@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* At the beginning of the day, Kevin has 15 phones that need to be repaired.
+* By the afternoon, Kevin has successfully repaired 3 of the 15 phones.
+* A client has dropped off 6 more phones that need fixing.
+* So, the total number of phones that need to be repaired is:
+   - Initial 15 phones
+   - Minus 3 phones repaired
+   - Plus 6 new phones dropped off
+   - Total = 15 - 3 + 6 = 18 phones
+* A coworker offers to help and fix half of the damaged phones.
+* To find how many phones each person needs to repair, we divide the total number of phones by 2:
+   - 18 phones / 2 = 9 phones each
+
+Answer: 9

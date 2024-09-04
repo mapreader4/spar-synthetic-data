@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 200 people were polled
+* 45% of the people polled said they were voting for Biff
+* 8% were undecided
+* The rest said they are voting for Marty
+
+First, let's calculate how many people said they were voting for Biff:
+* 45% of 200 people = 0.45 * 200 = 90 people
+
+Next, let's calculate how many people were undecided:
+* 8% of 200 people = 0.08 * 200 = 16 people
+
+Finally, to find how many people said they are voting for Marty, we need to subtract the number of people voting for Biff and the number of undecided people from the total number of people polled:
+* 200 - 90 - 16 = 94 people
+
+Answer: 94

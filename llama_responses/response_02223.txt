@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Elyse had 100 pieces of gum. She gave half to her brother Rick. 100 / 2 = 50. So Rick has 50 pieces of gum.
+
+Rick gave half of his gum to his friend Shane. 50 / 2 = 25. So Shane has 25 pieces of gum.
+
+Shane chewed 11 pieces of gum. So, he has 25 - 11 = 14 pieces of gum left.
+
+Answer: 14

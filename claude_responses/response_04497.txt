@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Paddy's Confidential has 600 cans of stew required to feed 40 people
+* We need to find how many cans would be needed to feed 30% fewer people
+* To find the number of people that is 30% fewer, we can calculate:
+    * 30% of 40 people = 0.3 * 40 = 12 people
+    * So, 30% fewer people = 40 - 12 = 28 people
+* Now, we need to find how many cans would be needed to feed 28 people
+* We can use the ratio of people to cans to calculate this:
+    * 40 people : 600 cans = 28 people : x cans
+    * Solving for x, we get:
+    * x = (28 * 600) / 40 = 420 cans
+
+Answer: 420 cans

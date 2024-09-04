@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's say the speed of the spacecraft is x miles per hour. 
+
+The first spacecraft traveled from 3:00 pm to 3:30 pm, which is a time difference of 30 minutes. Since there are 60 minutes in an hour, 30 minutes is 0.5 hours. 
+
+The distance from New Orleans to Dallas is 448 miles. 
+
+The time it took for the first spacecraft to travel this distance is 448 / x = t, where t is the time in hours. 
+
+The time it took for the second spacecraft to travel the same distance is t + 0.5 hours. 
+
+We know that the first spacecraft landed at 3:30 pm, so the time it took for it to travel the distance is 3.5 hours. 
+
+So, we can set up the equation: 
+
+448 / x = 3.5 
+
+x = 127.11
+
+The speed of the first spacecraft is 127.11 miles per hour. 
+
+The second spacecraft landed 30 minutes later, so it traveled for 3.25 hours. 
+
+The time it took for the second spacecraft to travel the distance is 448 / x = 3.25. 
+
+x = 137.5
+
+The speed of the second spacecraft is 137.5 miles per hour. 
+
+The difference in speed is 10.39 miles per hour. 
+
+Answer: 10

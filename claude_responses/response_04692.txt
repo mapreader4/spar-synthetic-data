@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On Monday, they raked 5 bags of leaves
+* On Tuesday, they raked 3 bags of leaves
+* They charge $4 for each bag of leaves
+* So on Monday, they earned 5 * $4 = $20
+* And on Tuesday, they earned 3 * $4 = $12
+* In total for Monday and Tuesday, they earned $20 + $12 = $32
+* They had a total of $68 for all three days
+* To find the amount they earned on Wednesday, we subtract the Monday and Tuesday earnings from the total:
+* $68 - $32 = $36
+* Since they charge $4 per bag, we can divide the Wednesday earnings by $4 to find the number of bags they raked on Wednesday:
+* $36 / $4 = 9 bags
+
+Answer: 9

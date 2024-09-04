@@ -1,0 +1,23 @@
+To solve this problem, we need to calculate the probability of Jack catching either Zika virus or malaria after being bitten by a random mosquito.
+
+Given information:
+- 40% of the mosquitos in Jack's area are infected with malaria.
+- 20% of the mosquitos are infected with Zika virus.
+- Without a vaccine, the chances of getting infected with either virus after getting bitten by an infected mosquito are 50%.
+- Jack is taking an experimental malaria vaccine that reduces the chances of getting infected after getting bitten by 50%.
+
+Step 1: Calculate the probability of Jack catching malaria after being bitten by a random mosquito.
+Probability of a mosquito being infected with malaria = 40%
+Probability of getting infected with malaria after being bitten by an infected mosquito = 50% × (1 - 50%) = 25%
+Probability of catching malaria = 40% × 25% = 10%
+
+Step 2: Calculate the probability of Jack catching Zika virus after being bitten by a random mosquito.
+Probability of a mosquito being infected with Zika virus = 20%
+Probability of getting infected with Zika virus after being bitten by an infected mosquito = 50%
+Probability of catching Zika virus = 20% × 50% = 10%
+
+Step 3: Calculate the total probability of Jack catching either Zika virus or malaria.
+Total probability = Probability of catching malaria + Probability of catching Zika virus
+Total probability = 10% + 10% = 20%
+
+Answer: 20%

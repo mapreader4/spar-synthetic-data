@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* James drives 30 mph for half an hour
+* So, in the first half hour, he drives:
+    - 30 mph x 0.5 hours = 15 miles
+* Then, he drives twice as long (1 hour) at twice the speed (60 mph)
+* So, in the second hour, he drives:
+    - 60 mph x 1 hour = 60 miles
+* To find the total distance he drove, we add the distances from the two segments:
+    - 15 miles + 60 miles = 75 miles
+
+Answer: 75

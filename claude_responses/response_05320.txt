@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The faucet is dripping at a rate of 40 ml/minute.
+2) The water is evaporating at a rate of 200 ml/hour.
+3) Jack leaves the water running for 9 hours.
+4) In 9 hours, the faucet will drip 40 ml/minute * 60 minutes/hour * 9 hours = 21,600 ml.
+5) In 9 hours, the water will evaporate 200 ml/hour * 9 hours = 1,800 ml.
+6) The net amount of water added to the bathtub is 21,600 ml - 1,800 ml = 19,800 ml.
+7) Jack then dumps out 12 liters, which is 12,000 ml.
+8) The amount of water left in the bathtub is 19,800 ml - 12,000 ml = 7,800 ml.
+
+Answer: 7,800 ml

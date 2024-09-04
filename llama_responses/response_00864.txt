@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the number of coffee cups brewed per day.
+
+The coffee shop brews 10 coffee cups per hour on a weekday. Since the coffee shop is open 5 hours a day, the number of coffee cups brewed per day is:
+
+10 coffee cups per hour x 5 hours = 50 coffee cups per day.
+
+Now, let's find the total number of coffee cups brewed in a week.
+
+The coffee shop brews 120 coffee cups in total over the weekend. This is the total number of coffee cups brewed over the 2 non-working days (Saturday and Sunday).
+
+The total number of coffee cups brewed in a week is the total of the number of coffee cups brewed per day, which is 50, multiplied by the number of working days in a week, which is 7, minus the number of non-working days, which is 2. So:
+
+50 coffee cups per day x 7 days - 2 days = 350 coffee cups.
+
+So, the total number of coffee cups brewed in a week is 350.
+
+Answer: 350

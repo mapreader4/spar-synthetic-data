@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. There are 12 people in Hans's party, and 2 of them are his kid cousins, so that means there are 12 - 2 = 10 adults and 2 kids.
+2. The deposit is a flat $20, plus an extra $3 per adult, but only $1 per child. So, the total amount for the adults is 10 x $3 = $30. The total amount for the kids is 2 x $1 = $2.
+3. To find the total deposit, we add the flat $20 to the total amount for the adults and the total amount for the kids: $20 + $30 + $2 = $52.
+
+Answer: 52

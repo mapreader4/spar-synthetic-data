@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The castle has enough provisions to feed 300 people for 90 days
+* After 30 days, 100 people leave the castle
+* So, the remaining 200 people will have enough food for:
+  * 90 days / 300 people = 0.3 days per person
+  * 200 people * 0.3 days per person = 60 days
+* Therefore, the remaining food will last for 60 more days.
+
+Answer: 60

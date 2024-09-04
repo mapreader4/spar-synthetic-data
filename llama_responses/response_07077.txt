@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+On the first day, Boston had 0.5 feet of snow. On the second day, they got 8 inches, which is 0.67 feet (since 8 inches is 0.67 feet). So, the total amount of snow on the second day is 0.5 + 0.67 = 0.17 feet.
+
+Over the next 2 days, 2 inches of the snow melted, which is 0.17 - 0.17 = 0 feet. So, the total amount of snow after the melting is 0 feet.
+
+On the fifth day, they received 2 times the amount of snow they received on the first day, which is 2 * 0.5 = 1 foot. Adding this to the remaining 0 feet, we get 1 feet.
+
+So, the total amount of snow they have now is 1 feet.
+
+Answer: 1

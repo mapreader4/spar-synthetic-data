@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Crabby has to eat at least twice as many oysters as Squido.
+2) Squido eats 200 oysters.
+3) Since Crabby has to eat at least twice as many as Squido, we can calculate Crabby's minimum number of oysters as:
+   Crabby's minimum oysters = 2 * 200 = 400 oysters
+4) To find the total number of oysters eaten, we add Squido's and Crabby's oysters:
+   Total oysters eaten = Squido's oysters + Crabby's oysters
+   Total oysters eaten = 200 + 400 = 600 oysters
+
+Answer: 600

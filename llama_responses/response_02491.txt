@@ -1,0 +1,11 @@
+Let's break down the information step by step.
+
+1. The candy store sold 20 pounds of fudge at $2.50/pound. So, the revenue from the fudge is 20 * 2.50 = 50.
+
+2. The candy store sold 5 dozen chocolate truffles at $1.50 each. 1 dozen is equal to 12, so 5 dozen is 5 * 12 = 60. The revenue from the chocolate truffles is 60 * 1.50 = 90.
+
+3. The candy store sold 3 dozen chocolate-covered pretzels at $2.00 each. 1 dozen is equal to 12, so 3 dozen is 3 * 12 = 36. The revenue from the chocolate-covered pretzels is 36 * 2.00 = 72.
+
+4. The total revenue from all the items is the sum of the revenue from each item. 50 + 90 + 72 = 212.
+
+Answer: 212

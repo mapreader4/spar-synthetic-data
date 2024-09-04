@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Mandy's normal data plan is $30 per month
+* In the first month, she got a promotional rate of one-third the normal price
+* To calculate the promotional rate:
+    - Normal price: $30
+    - One-third of $30 is $10
+    - So, the promotional rate for the first month is $10
+* In the fourth month, she went over her data limit and was charged an extra $15
+* Now, let's calculate the total cost for the first 6 months:
+    - Month 1: $10 (promotional rate)
+    - Months 2-3: $30 each, so $60 total
+    - Month 4: $30 + $15 (extra fee) = $45
+    - Months 5-6: $30 each, so $60 total
+* Adding up the costs for all 6 months:
+    - $10 + $60 + $45 + $60 = $175
+
+Answer: 175

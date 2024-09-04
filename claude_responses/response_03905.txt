@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jasmine swims 12 laps every afternoon
+* She swims Monday through Friday, which is 5 days per week
+* We want to know how many laps she swims in 5 weeks
+
+To calculate the total number of laps, we can multiply the number of laps per day (12) by the number of days per week (5), and then multiply that by the number of weeks (5).
+
+Number of laps per week = 12 laps per day x 5 days per week = 60 laps per week
+Number of laps in 5 weeks = 60 laps per week x 5 weeks = 300 laps
+
+Answer: 300

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Haley spent 2 hours shopping for a telescope
+* She spent half an hour (0.5 hours) getting everything set up in the backyard
+* She spent 3 times the setup time (0.5 hours) making snacks, which is 1.5 hours
+* She spent 20 minutes (0.33 hours) watching the comet
+
+Now, let's calculate the total time spent on all these activities:
+* 2 hours + 0.5 hours + 1.5 hours + 0.33 hours = 4.33 hours
+
+To calculate the percentage of time spent watching the comet, we take the time spent watching the comet (0.33 hours) and divide it by the total time (4.33 hours), then multiply by 100 to get the percentage:
+* (0.33 hours / 4.33 hours) * 100 = 7.62%
+
+Rounding to the nearest percent, the answer is:
+Answer: 8%

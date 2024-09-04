@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Stacy, Steve, and Skylar have a total of 1100 berries
+* Stacy has 4 times as many berries as Steve
+* Steve has double the number of berries that Skylar has
+
+Let's start by representing the number of berries each person has:
+* Let Skylar have x berries
+* Then Steve has 2x berries
+* And Stacy has 4 * 2x = 8x berries
+
+Now we can set up an equation to solve for the number of berries Stacy has:
+* Stacy's berries + Steve's berries + Skylar's berries = 1100
+* 8x + 2x + x = 1100
+* 11x = 1100
+* x = 100
+
+Therefore, Stacy has 8x = 8 * 100 = 800 berries.
+
+Answer: 800

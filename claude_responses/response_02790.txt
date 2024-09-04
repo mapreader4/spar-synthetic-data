@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 4 small panda bears that eat 25 pounds of fresh bamboo sprouts every day
+* There are 5 bigger panda bears that eat 40 pounds of fresh bamboo sprouts every day
+* To find the total amount of bamboo eaten in a day, we add the amounts eaten by the small and bigger pandas:
+    - Small pandas: 4 x 25 pounds = 100 pounds
+    - Bigger pandas: 5 x 40 pounds = 200 pounds
+    - Total bamboo eaten per day = 100 pounds + 200 pounds = 300 pounds
+* To find the total amount of bamboo eaten in a week, we multiply the daily amount by 7 days:
+    - Total bamboo eaten per week = 300 pounds x 7 days = 2,100 pounds
+
+Answer: 2,100 pounds

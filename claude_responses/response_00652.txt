@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* On Saturday, Tanika sold 60 boxes of crackers
+* On Sunday, she sold 50% more than on Saturday
+* To calculate the number of boxes sold on Sunday, we take the number of boxes sold on Saturday (60) and increase it by 50%
+* 50% of 60 is 30 (60 x 0.5 = 30)
+* So, the number of boxes sold on Sunday is 60 + 30 = 90 boxes
+
+Now, to find the total number of boxes sold over the two days, we add the number of boxes sold on Saturday (60) and the number of boxes sold on Sunday (90):
+* 60 + 90 = 150 boxes
+
+Answer: 150

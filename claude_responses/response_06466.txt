@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The gardener ordered 250 tulips, 375 carnations, and 320 roses
+* Each flower is sold for 2€
+* To calculate the total expenses, we need to find the total number of flowers ordered and multiply it by the price per flower
+
+First, let's find the total number of flowers ordered:
+* 250 tulips + 375 carnations + 320 roses = 945 total flowers
+
+Now, we can multiply the total number of flowers by the price per flower to get the total expenses:
+* 945 flowers x 2€ per flower = 1,890€
+
+Answer: 1,890

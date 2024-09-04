@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Annie walked 5 blocks from her house to the bus stop.
+2) She then rode the bus 7 blocks to the coffee shop.
+3) To get home, she retraced her steps, so she rode the bus 7 blocks back to the bus stop, and then walked 5 blocks back home.
+4) In total, the distance she traveled is:
+   - Walking to the bus stop: 5 blocks
+   - Riding the bus to the coffee shop: 7 blocks
+   - Riding the bus back to the bus stop: 7 blocks
+   - Walking back home: 5 blocks
+5) Adding all of these together, the total distance Annie traveled is:
+   5 + 7 + 7 + 5 = 24 blocks
+
+Answer: 24

@@ -1,0 +1,9 @@
+To solve this problem, I will break it down step by step.
+
+Step 1: Find the number of sandcastles on Mark's beach. There are 20 sandcastles, each with 10 towers, so the total number of sandcastles on Mark's beach is 20 * 10 = 200.
+
+Step 2: Find the number of sandcastles on Jeff's beach. Since there are three times as many castles as on Mark's beach, and each castle has 5 towers, the total number of sandcastles on Jeff's beach is 3 * 5 * 20 = 150.
+
+Step 3: Add the total number of sandcastles on Mark's beach (200) and Jeff's beach (150). The combined total number of sandcastles and towers is 200 + 150 = 350.
+
+Answer: 350

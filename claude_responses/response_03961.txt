@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Janet walks 3 blocks north
+2) She then walks 7 times as many blocks west, which is 7 * 3 = 21 blocks west
+3) She then turns around and walks 8 blocks south
+4) She then walks twice as many blocks east as she did west, which is 2 * 21 = 42 blocks east
+5) In total, she walked:
+   - 3 blocks north
+   - 21 blocks west
+   - 8 blocks south
+   - 42 blocks east
+6) Since Janet can walk 2 blocks/minute, we can calculate the total time it takes her to get home:
+   - Total blocks walked = 3 + 21 + 8 + 42 = 74 blocks
+   - Time taken = 74 blocks / 2 blocks/minute = 37 minutes
+
+Answer: 37 minutes

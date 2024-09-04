@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+Jeff starts with 20 cats.
+He finds 2 kittens in a box, so now he has 20 + 2 = 22 cats.
+Then he finds 1 more cat with a leg injury, so now he has 22 cats.
+Then 3 people adopt 2 cats each, which is 3 * 2 = 6, so he now has 22 + 6 = 28 cats.
+
+Answer: 28

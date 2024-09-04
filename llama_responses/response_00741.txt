@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say Justin's current age is x.
+
+Since Angelina is 4 years older than Justin, then Angelina's current age is x + 4.
+
+In 5 years, Angelina's age will be 40. So, 40 = x + 4 + 5.
+
+Subtract 5 from both sides of the equation to get x + 4 = 35.
+
+So, Justin's current age is 35.
+
+Answer: 35

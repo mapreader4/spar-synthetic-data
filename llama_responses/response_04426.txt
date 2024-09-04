@@ -1,0 +1,13 @@
+Let the length of the entire wire be x. Then, we can set up a proportion to find the length of the longer piece. We have the ratio 7:3:2, so we can write the following equation:
+
+(3/8) * x = 16
+
+Now, we can multiply both sides by 8 to get:
+
+3x = 16 * 8
+3x = 128
+
+x = 128 / 3
+x = 42.67
+
+So, the length of the entire wire before it was cut is 42.67 cm.

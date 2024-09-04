@@ -1,0 +1,12 @@
+Let's break it down step by step.
+
+1. John invests $1000 initially.
+2. The interest rate is 10%.
+3. The time period is 3 years.
+4. The formula for simple interest is: A = P(1 + r)^n, where A is the principal amount, P is the principal amount, r is the rate of interest, and n is the number of times the interest is compounded.
+
+So, we plug in the values: A = 1000 (the principal amount), r = 0.1 (the rate of interest), and n = 3 (the number of years).
+
+A = 1000(1 + 0.1)^3 = 1000(1.1)^3 = 1000 * (1.1)^3 = 1000 * 2. => 2000
+
+Answer: 2000

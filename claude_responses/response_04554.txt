@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+
+1. Michael needs to make:
+   - 5 peach pies
+   - 4 apple pies
+   - 3 blueberry pies
+
+2. Each pie recipe calls for 3 pounds of fruit.
+
+3. For the peach pies:
+   - 5 pies x 3 pounds per pie = 15 pounds of peaches
+   - Peaches cost $2.00 per pound
+   - 15 pounds x $2.00 per pound = $30.00 for peaches
+
+4. For the apple pies:
+   - 4 pies x 3 pounds per pie = 12 pounds of apples
+   - Apples cost $1.00 per pound
+   - 12 pounds x $1.00 per pound = $12.00 for apples
+
+5. For the blueberry pies:
+   - 3 pies x 3 pounds per pie = 9 pounds of blueberries
+   - Blueberries cost $1.00 per pound
+   - 9 pounds x $1.00 per pound = $9.00 for blueberries
+
+6. Adding up the costs:
+   - $30.00 (peaches) + $12.00 (apples) + $9.00 (blueberries) = $51.00 total
+
+Answer: $51

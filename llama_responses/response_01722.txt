@@ -1,0 +1,46 @@
+Let's break this problem down step by step.
+
+First, we know that Skye drove 6 kilometers in total. For the first 3 kilometers, his speed was 150 kilometers per hour. To find the time it took him to cover this distance, we can use the formula:
+
+Time = Distance / Speed
+= 3 kilometers / 150 kilometers per hour
+= 0.02 hours
+
+So, it took Skye 0.02 hours to cover the first 3 kilometers.
+
+Next, for the next 2 kilometers, his speed was 50 kilometers per hour more, which means his speed was:
+
+150 kilometers per hour + 50 kilometers per hour = 200 kilometers per hour
+
+Using the same formula, we can find the time it took him to cover the next 2 kilometers:
+
+Time = Distance / Speed
+= 2 kilometers / 200 kilometers per hour
+= 0.01 hours
+
+So, it took Skye 0.01 hours to cover the next 2 kilometers.
+
+For the remaining 1 kilometer, his speed was twice as fast as his speed on the first 3 kilometers, which is:
+
+150 kilometers per hour x 2 = 300 kilometers per hour
+
+Using the same formula, we can find the time it took him to cover the remaining 1 kilometer:
+
+Time = Distance / Speed
+= 1 kilometer / 300 kilometers per hour
+= 0.0033 hours
+
+So, it took Skye 0.0033 hours to cover the remaining 1 kilometer.
+
+Now, we can find Skye's total time for the entire race by adding up the times it took him to cover each section:
+
+Total time = 0.02 hours + 0.01 hours + 0.0033 hours
+= 0.0253 hours
+
+Finally, we can find Skye's average speed for the entire race by dividing the total distance by his total time:
+
+Average speed = Total distance / Total time
+= 6 kilometers / 0.0253 hours
+= 237.3 kilometers per hour
+
+Answer: 237

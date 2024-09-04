@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The tank initially contained 6000 liters of water.
+2) 2000 liters of water evaporated, so the amount of water in the tank is now 6000 - 2000 = 4000 liters.
+3) Bob then drained 3500 liters, so the amount of water in the tank is now 4000 - 3500 = 500 liters.
+4) It now rains for 30 minutes, and every 10 minutes 350 liters of rain are added to the tank.
+5) In 30 minutes, there are 3 intervals of 10 minutes, so 3 * 350 = 1050 liters of rain are added to the tank.
+6) The final amount of water in the tank is 500 + 1050 = 1550 liters.
+
+Answer: 1550 liters

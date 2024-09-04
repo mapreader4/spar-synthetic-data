@@ -1,0 +1,9 @@
+To solve this problem, I will first find out how many pizza doughs he can make in a day. 
+
+Let's find out how many pizza doughs he can make in a day. He uses 5 sacks of flour per day. If he uses 1 sack of flour to make 15 pizza doughs, then he will use 15/1 = 15 pizza doughs per sack. 
+
+Now, since he uses 5 sacks of flour per day, he will make 5 x 15 = 75 pizza doughs per day. 
+
+So, in a week, he will make 7 days x 75 = 525 pizza doughs. 
+
+Answer: 525

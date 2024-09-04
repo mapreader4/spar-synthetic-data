@@ -1,0 +1,6 @@
+Let's count the number of wheels:
+
+* Bicycles: 6 adults + 15 children = 21
+* Tricycles: 15 children
+
+The total number of wheels is 2 x 21 + 3 x 15 = 42 + 15 = 57.

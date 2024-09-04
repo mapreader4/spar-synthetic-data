@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The number of oranges in each tree is 200.
+2. Since Dulce picks 2/5 of the oranges from each tree, we can multiply the number of oranges in each tree by 2/5 to find the number of oranges Dulce picks from each tree. 200 * 2/5 = 80.
+3. There are 8 trees. To find the total number of oranges Dulce picks, we multiply the number of oranges Dulce picks from each tree by the number of trees. 80 * 8 = 640.
+
+Answer: 640

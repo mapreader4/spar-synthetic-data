@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's find the number of female students in the class. We know that 60% of the students were female, so we can multiply 60% by the total number of students to find the number of female students:
+
+60% of 200 = 0.6 x 200 = 120
+
+So, there are 120 female students in the class.
+
+Next, let's find the number of female brunettes. We know that 50% of the females are brunettes, so we can multiply 50% by the number of female students:
+
+50% of 120 = 0.5 x 120 = 60
+
+So, there are 60 female brunettes in the class.
+
+Finally, let's find the number of female brunettes under 5 feet tall. We know that 50% of the female brunettes are under 5 feet tall, so we can multiply 50% by the number of female brunettes:
+
+50% of 60 = 0.5 x 60 = 30
+
+Answer: 30

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jeremy buys 30 watermelons
+* He eats 3 watermelons per week
+* He gives 2 watermelons to his dad per week
+* So, the total number of watermelons consumed per week is:
+    - 3 watermelons eaten by Jeremy
+    - 2 watermelons given to his dad
+    - Total: 3 + 2 = 5 watermelons per week
+* To find how many weeks the watermelons will last, we divide the total number of watermelons (30) by the number of watermelons consumed per week (5):
+    - 30 watermelons / 5 watermelons per week = 6 weeks
+
+Answer: 6

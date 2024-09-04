@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that:
+
+* 10 words fit on each line of the notebook.
+* 20 lines fit on each page.
+* Leo has filled one and a half pages.
+
+We can find the total number of lines by multiplying the number of lines per page by the number of pages: 20 lines per page * 1.5 pages = 30 lines.
+
+Now, we can find the total number of lines Leo has filled so far by multiplying the total number of lines by the number of lines per line: 30 lines * 10 words per line = 300 words.
+
+Since each line has 10 words, we can find the total number of words written by multiplying the total number of lines by the number of words per line: 300 lines * 10 words per line = 3000 words.
+
+We are asked to find the number of words Leo has left to write. To do this, we need to subtract the number of words already written from the total number of words required. Since 400 words are required, we can set up an equation:
+
+Total words required - words written so far = words left to write
+
+We can solve this equation by subtracting 3000 words from 400 words:
+
+400 - 3000 = 200
+
+Answer: 200

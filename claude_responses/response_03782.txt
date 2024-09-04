@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Simon collected a bucket of pearly seashells, a jar full of smooth sea glass, and a bag of ten sand dollars.
+2) The jar holds three times as many pieces of glass as the bag does sand dollars. So if the bag has 10 sand dollars, the jar has 3 * 10 = 30 pieces of glass.
+3) The bucket holds five times as many seashells as the jar holds pieces of glass. So if the jar has 30 pieces of glass, the bucket has 5 * 30 = 150 seashells.
+4) To find the total number of treasures Simon found, we add up the number of sand dollars, pieces of glass, and seashells:
+10 sand dollars + 30 pieces of glass + 150 seashells = 190 treasures.
+
+Answer: 190

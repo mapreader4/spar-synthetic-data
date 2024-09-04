@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start with the given information: There were 13 female students in the class.
+
+Let's represent the number of male students with the variable m.
+
+The problem statement states that there were three times as many male students as female students. So, we can write an equation to represent the number of male students as 3m.
+
+We know that the total number of students is the sum of the number of female students and the number of male students. So, we can write an equation to represent the total number of students:
+
+13 = 3m + 13
+
+We can solve for the value of m by adding 13 to both sides of the equation:
+
+m = (13 - 3)
+
+m = 10
+
+So, the number of male students is 10.
+
+Answer: 10

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost per section of the hedge. Each section has 30 pieces of concrete blocks, and the cost of each piece is $2. So, the cost per section is 30 x 2 = 60.
+
+The hedge has 8 sections. So, the total cost for all the sections is 8 x 60 = 480.
+
+Answer: 480

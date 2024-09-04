@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Leila bought:
+  - Apples for 5€
+  - Sugar for 3€
+  - Carrots for 17€
+* So the total amount Leila spent is:
+  - 5€ + 3€ + 17€ = 25€
+* Leila paid with a 50€ bill
+* To calculate the amount the saleswoman should return to Leila, we take the amount Leila paid (50€) and subtract the total amount she spent (25€):
+  - 50€ - 25€ = 25€
+
+Answer: 25

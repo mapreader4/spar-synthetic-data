@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Mark bought a shirt, pants, and shoes for $340 in total.
+* The price of the shirt is three-quarters of the price of the pants.
+* The price of the shoes is $10 more than the price of the pants.
+
+Let's define the variables:
+* Let x be the price of the pants.
+* Then the price of the shirt is 3/4 * x.
+* The price of the shoes is x + $10.
+
+We can set up an equation to represent the total cost:
+* Total cost = Price of pants + Price of shirt + Price of shoes
+* $340 = x + 3/4 * x + (x + $10)
+* $340 = 2.75x + $10
+* $330 = 2.75x
+* x = $120
+
+Therefore, the price of the pants is $120.
+
+Answer: 120

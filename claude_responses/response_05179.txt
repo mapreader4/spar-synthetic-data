@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The water tank can hold 200 gallons.
+2) The tank weighs 80 pounds when empty.
+3) The tank is filled to 80% of its capacity during the rainstorm.
+4) A gallon of water weighs 8 pounds.
+
+To calculate the weight of the tank when it is 80% full:
+* 80% of 200 gallons = 0.8 * 200 = 160 gallons
+* 160 gallons * 8 pounds/gallon = 1,280 pounds of water
+* The empty tank weighs 80 pounds
+* Therefore, the total weight of the tank when it is 80% full is 80 pounds + 1,280 pounds = 1,360 pounds
+
+Answer: 1,360 pounds

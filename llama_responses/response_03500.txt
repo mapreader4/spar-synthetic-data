@@ -1,0 +1,7 @@
+To solve this problem, we need to find the speed at which we travel 12 miles in 90 minutes.
+
+Let's divide the total distance by the time. 12 miles / 90 minutes = 12 / 90 = 0.1333 miles per minute.
+
+To convert this to miles per hour, we multiply by 60 (since there are 60 minutes in an hour). 0.1333 * 60 = 80 miles per hour.
+
+Answer: 80

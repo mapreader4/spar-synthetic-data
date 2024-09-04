@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Tate initially has 32 tickets.
+2) Tate then buys 2 more tickets, so now he has 32 + 2 = 34 tickets.
+3) Peyton has half as many total tickets as Tate. Since Tate has 34 tickets, Peyton has 34 / 2 = 17 tickets.
+4) To find the total number of tickets Tate and Peyton have together, we add their individual ticket counts:
+Tate's tickets: 34
+Peyton's tickets: 17
+Total tickets: 34 + 17 = 51
+
+Answer: 51

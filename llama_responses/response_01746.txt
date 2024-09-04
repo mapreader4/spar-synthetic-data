@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+1. The company has 500 employees, each paid $12 per hour, working 10 hours a day, 5 days a week, 4 weeks a month. So, the total hours worked per month is:
+
+500 employees * 10 hours * 5 days * 4 weeks = 500 * 10 * 5 * 4 = 10000 hours per month.
+
+2. The total amount paid to each employee per month is:
+
+10000 hours * $12 per hour = $12000 per month.
+
+3. The company hired 200 more people. So, the new total number of employees is:
+
+500 + 200 = 700 employees.
+
+4. The total amount paid to all employees per month is:
+
+700 employees * $12 per hour = 700 * $12 = $8400 per month.
+
+So, the company pays in total per month is $8400.

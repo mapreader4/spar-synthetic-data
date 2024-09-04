@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The total number of cards in the game is 500.
+2) The cards are divided between Ellis and Orion in the ratio of 11:9.
+3) To find the number of cards each person got, we need to divide the total number of cards by the sum of the ratio.
+4) The sum of the ratio is 11 + 9 = 20.
+5) So the number of cards Ellis got is (11/20) * 500 = 275.
+6) The number of cards Orion got is (9/20) * 500 = 225.
+7) The difference between the number of cards Ellis got and the number of cards Orion got is 275 - 225 = 50.
+
+Answer: 50

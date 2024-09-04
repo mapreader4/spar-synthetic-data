@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Sarah's current external drive has 2.4 gigabytes free and 12.6 gigabytes used.
+2) She decides to delete a folder of size 4.6 gigabytes.
+   * This means the used space on her current drive will be 12.6 - 4.6 = 8 gigabytes.
+3) She then stores new files of 2 gigabytes.
+   * This means the used space on her current drive will be 8 + 2 = 10 gigabytes.
+4) She will transfer all her files to a new external drive of size 20 gigabytes.
+   * The used space on the new drive will be 10 gigabytes.
+   * The free space on the new drive will be 20 - 10 = 10 gigabytes.
+
+Answer: 10 gigabytes

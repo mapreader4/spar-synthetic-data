@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The instructions say that for every kilogram of weight, the child must be given 5 ml of medicine.
+2) The child weighs 30 kilograms.
+3) To calculate the total amount of medicine needed, we multiply the child's weight (30 kg) by the amount of medicine per kilogram (5 ml/kg):
+   30 kg x 5 ml/kg = 150 ml
+4) The full dose has to be given in 3 equal parts.
+5) To calculate the amount of medicine in each part, we divide the total amount of medicine (150 ml) by 3:
+   150 ml / 3 = 50 ml per part
+
+Answer: 50 ml

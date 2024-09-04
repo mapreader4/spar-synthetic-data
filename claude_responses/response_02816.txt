@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The frog lays 800 eggs a year
+* 10% of the eggs dry up, so that's 0.10 * 800 = 80 eggs that dry up
+* 70% of the remaining eggs are eaten, so that's 0.70 * (800 - 80) = 0.70 * 720 = 504 eggs that are eaten
+* The remaining eggs are 800 - 80 - 504 = 216 eggs
+* 1/4 of the remaining 216 eggs end up hatching, so that's 1/4 * 216 = 54 eggs that hatch
+
+Therefore, the number of frogs that hatch out of the 800 eggs is:
+Answer: 54

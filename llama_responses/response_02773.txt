@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information we know:
+
+1. Justin is 26 years old.
+2. When Justin was born, his elder sister Jessica was 6 years old.
+3. James is their elder brother and is 7 years older than Jessica.
+
+We can conclude that James is 6 + 7 = 13 years old when Justin was born.
+Since Justin is 26 years old, we know that 13 + 26 = 39 years have passed since James was born.
+
+To find the age of James after 5 years, we add 5 to 39:
+
+39 + 5 = 44
+
+Answer: 44

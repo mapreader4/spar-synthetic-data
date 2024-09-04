@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Classroom A needs to raise $200 for the community outreach program
+* They have raised money from the following:
+    - 2 families each gave $20, so that's 2 * $20 = $40
+    - 8 families each gave $10, so that's 8 * $10 = $80
+    - 10 families each gave $5, so that's 10 * $5 = $50
+* Adding up the total amount raised:
+    - $40 + $80 + $50 = $170
+* To calculate how much more money Classroom A needs to reach the $200 goal:
+    - $200 - $170 = $30
+
+Answer: $30

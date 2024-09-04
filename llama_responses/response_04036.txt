@@ -1,0 +1,23 @@
+Let's start by letting x be the number of cakes Marjorie makes on the first day. We know that the number of cakes she makes each day is twice the number she made the day before. So, the number of cakes she makes on the second day will be 2x. The number of cakes she makes on the third day is 2(2x), which is 4x. The number of cakes she makes on the fourth day is 2(4x), which is 8x. The number of cakes she makes on the fifth day is 2(8x), which is 16x. The number of cakes she makes on the sixth day is given as 320.
+
+We can now set up an equation to represent the number of cakes she makes each day: x + 2x + 2(2x) + 2(4x) + 2(8x) + 2(16x) = 320.
+
+We can simplify this equation to 2x + 2(2x) + 2(2x) + 2(4x) + 2(8x) + 2(16x) = 320. Since we know the number of cakes she makes on the sixth day is 320, we can solve for x.
+
+To do this, we can subtract 320 from both sides of the equation: 2x + 2(2x) + 2(4x) + 2(8x) + 2(16x) - 320 = 0.
+
+We can combine like terms: 2x + 2(2x) + 2(4x) + 2(8x) - 320 = 0.
+
+Now we can combine the like terms: 2(2x) + 2(2x) = 4x, and 2(4x) + 2(8x) = 16x.
+
+So, the equation becomes 4x + 16x - 320 = 0.
+
+We can now add 320 to both sides of the equation to get 4x + 16x + 320 = 320.
+
+Subtract 320 from both sides: 4x + 320 - 320 = 0.
+
+We can subtract 320 from both sides of the equation to get 4x = 0.
+
+The value of x is 80.
+
+Answer: 80

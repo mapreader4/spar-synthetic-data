@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the number of families that visited the national park in January, which is 26. Then, the number of families that visited the national park in February is three times that number, which is 26 * 3 = 78. 
+
+Now, the number of families that visited the national park in March is half of the number of families that visited in February, which is 78 / 2 = 39.
+
+To find the total number of times families saw animals in the first three months, we add up the number of families that visited in each month:
+
+26 + 78 + 39 = 143
+
+Answer: 143

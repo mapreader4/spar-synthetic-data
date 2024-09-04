@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the distance Javier threw the javelin on his first throw is x meters. Then, on his second throw, he threw it twice as far, which means he threw it 2x meters. On his third throw, he threw it half as far as his second throw, which is 0.5x meters.
+
+The total distance he threw is the sum of the three throws, which is 1050 meters. So, we can set up the equation:
+
+x + 2x + 0.5x = 1050
+
+We can combine like terms on the left side of the equation:
+
+3.5x = 1050
+
+Now, we can solve for x by dividing both sides by 3.5:
+
+x = 1050 / 3.5
+
+x = 300
+
+So, Javier threw the javelin 300 meters on his first throw.
+
+Answer: 300

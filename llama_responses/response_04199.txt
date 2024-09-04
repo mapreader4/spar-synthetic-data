@@ -1,0 +1,7 @@
+Let's start by finding out how many quarters are in 5 jars. Each jar can hold 160 quarters, so 5 jars can hold 5 * 160 = 800 quarters.
+
+The bike costs 180 dollars. Since each quarter is 0.25 dollars, the total cost in quarters is 180 * 0.25 = 45. Since Jenn has 800 quarters, she can pay for the bike. To find out how much she has left, we subtract the cost of the bike from the total amount of quarters:
+
+800 - 45 = 755
+
+Jenn will have 755 quarters left.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Brandon can catch 6 squirrels or 2 rabbits in 1 hour
+* Each squirrel has 300 calories
+* Each rabbit has 800 calories
+* To calculate the calories from squirrels:
+  - 6 squirrels x 300 calories per squirrel = 1,800 calories
+* To calculate the calories from rabbits:
+  - 2 rabbits x 800 calories per rabbit = 1,600 calories
+* The difference in calories between catching squirrels and rabbits is:
+  - 1,800 calories (squirrels) - 1,600 calories (rabbits) = 200 calories
+
+Answer: 200

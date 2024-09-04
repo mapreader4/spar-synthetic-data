@@ -1,0 +1,15 @@
+Let's start by letting x be the number of goldfish the pet store sold.
+
+The pet store can buy a goldfish for $.25 and sell it for $.75, so the profit from selling a goldfish is $.50. The pet store wants to use the profits from goldfish sales to buy a new tank, which costs $100. The pet store is 45% short of the price, so the amount of money needed is $55.
+
+The amount of money needed to buy the tank is $55, so we need to find the amount of goldfish sold to get that amount.
+
+Let's set up an equation:
+
+$.50 * x = $55
+
+To solve for x, we can divide both sides by $.50:
+
+x = $55 / $.50 = 110
+
+So the pet store sold 110 goldfish that week.

@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) We know that Carla's sheepdog rounded up 90% of her sheep.
+2) This means that 90% of the total number of sheep are in the pen.
+3) We are given that there are 81 sheep in the pen.
+4) To find the total number of sheep, we need to divide 81 by 0.9 (since 90% is the same as 0.9).
+5) 81 / 0.9 = 90 total sheep.
+6) Since 90% of the sheep are in the pen, the remaining 10% must be out in the wilderness.
+7) 10% of 90 sheep is 9 sheep.
+
+Answer: 9

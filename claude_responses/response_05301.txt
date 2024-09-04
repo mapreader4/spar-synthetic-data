@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The first character has 8 more lines than the second character.
+2) The third character only has 2 lines.
+3) The second character has 6 more than 3 times the number of lines the third character has.
+4) So, the number of lines for the third character is 2.
+5) The number of lines for the second character is 3 times the number of lines for the third character, plus 6.
+6) 3 x 2 = 6, and 6 + 6 = 12.
+7) So the second character has 12 lines.
+8) The first character has 8 more lines than the second character, so the first character has 12 + 8 = 20 lines.
+
+Answer: 20

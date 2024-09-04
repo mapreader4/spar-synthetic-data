@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Roy has 2 blue pens
+* He has twice as many black pens as blue pens
+* So, if he has 2 blue pens, he must have 2 x 2 = 4 black pens
+* He has 2 less than twice as many red pens as black pens
+* So, if he has 4 black pens, he must have (2 x 4) - 2 = 6 red pens
+* Now, to find the total number of pens Roy has, we add up the blue, black, and red pens:
+* 2 blue pens + 4 black pens + 6 red pens = 12 pens
+
+Answer: 12

@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first find the number of steps Charlie can make in one round around the 3-kilometer running field.
+
+3 kilometers is the distance around the track. Since Charlie can run 2 1/2 times around the track during a running session, we can multiply the distance by 2 to get the total number of steps:
+
+3 km * 2 = 6 km
+
+Charlie can make 5350 steps while running on a 3-kilometer running field. So, we need to find the number of steps in one round. To find this, we can divide 5350 by the distance of one round:
+
+5350 / 6 = 888.333333333
+
+So, Charlie can make 888 steps in one round around the track.

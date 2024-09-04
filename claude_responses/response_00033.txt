@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Kimber needs 10 cups of water to make the pizza.
+2) Kimber needs 16 cups of flour to make the pizza.
+3) Kimber needs 1/2 times as many teaspoons of salt as the number of cups of flour.
+   * The number of cups of flour is 16.
+   * 1/2 times 16 is 8 teaspoons of salt.
+4) To calculate the combined total, we add up the cups of water, cups of flour, and teaspoons of salt:
+   * 10 cups of water
+   * 16 cups of flour
+   * 8 teaspoons of salt
+
+Answer: 34

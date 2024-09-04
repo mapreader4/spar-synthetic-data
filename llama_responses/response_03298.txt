@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of games Bill has won. He has won 63 games out of 200 games played. So, the percentage of games he won is 63% of 200, which is 0.63 * 200 = 126. So, his total wins are 126.
+
+If he plays 100 more games and loses 43 of them, then he will have a total of 143 games played. 126 of those 143 games are his wins. So, he will have won 126 - 43 = 83 games.
+
+So, his new win percentage is 83 / 143 = 57.5%.
+
+Answer: 57.5

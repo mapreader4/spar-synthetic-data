@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. The distance between the first store and the second store is 6 miles.
+2. The distance between the second store and the third store is 2/3rds longer than the distance between the first two stores, so we can set up an equation: 2/3 * 6 = 4. We can simplify this equation to get 2 * 2 = 4, so the distance between the second store and the third store is 4 miles.
+3. The distance from Jason's house to the first store and the last store to work is 4 miles.
+4. To find the total distance Jason drives, we add up the distances between the first store and the second store (6 miles), the distance between the second store and the third store (4 miles), and the distance from his house to the last store to work (4 miles). So, we have 6 + 4 + 4 = 14.
+
+Answer: 14

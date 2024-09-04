@@ -1,0 +1,5 @@
+Let's break down the information step by step.
+
+Let's say the total number of computers sold is 72. The number of laptops is half of that, which is 72 / 2 = 36. The number of netbooks is one-third of the total, which is 72 / 3 = 24. The number of desktop computers is the remaining amount, which is 72 - 36 - 24 = 12.
+
+Answer: 12

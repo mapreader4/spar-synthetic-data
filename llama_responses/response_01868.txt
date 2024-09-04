@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Initially, Alex and Max are even with each other for 200 feet. So, they have covered 200 feet.
+
+Then, Alex gets ahead of Max by 300 feet. This means Alex has now covered a total of 200 + 300 = 500 feet, and Max has covered 200 feet.
+
+Then, Max gets ahead of Alex by 170 feet. This means Max has now covered a total of 200 + 170 = 370 feet, and Alex has covered 500 feet.
+
+Now, Alex gets a burst of speed and gets ahead of Max by 440 feet. This means Alex has now covered a total of 500 + 440 = 940 feet, and Max has covered 370 feet.
+
+To find out how many feet are left for Max to catch up to Alex, we need to subtract the distance Max has covered (370 feet) from the total distance of the road (5000 feet).
+
+5000 - 370 = 4630 feet
+
+So, there are 4630 feet left for Max to catch up to Alex.

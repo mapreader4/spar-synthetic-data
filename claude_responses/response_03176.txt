@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) We know that the ages of Cynthia's three children add up to 35.
+2) We also know that Matthew is two years older than Rebecca and four years younger than Freddy.
+3) Let's represent the ages as follows:
+   - Rebecca's age: x
+   - Matthew's age: x + 2
+   - Freddy's age: x + 6
+4) We know that the sum of the three ages is 35, so we can write the equation:
+   x + (x + 2) + (x + 6) = 35
+5) Simplifying this equation, we get:
+   3x + 8 = 35
+6) Solving for x, we get:
+   3x = 27
+   x = 9
+7) Therefore, Rebecca's age is 9, Matthew's age is 11, and Freddy's age is 15.
+
+Answer: 15

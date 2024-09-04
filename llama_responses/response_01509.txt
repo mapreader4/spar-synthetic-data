@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. John was 66 inches tall initially.
+2. He had a growth spurt and grew 2 inches per month for 3 months.
+3. To find his new height in inches, we need to multiply his initial height by 3 (for the 3 months) and then add the 2 inches he grew each month.
+4. 66 * 3 = 198
+5. 198 + 6 = 204
+
+Answer: 204

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Mona bikes 30 miles each week to stay fit
+* This week, she biked on Monday, Wednesday, and Saturday
+* On Wednesday, she biked 12 miles
+* On Saturday, she biked twice as far as on Monday
+
+We can use this information to find the number of miles she biked on Monday.
+
+First, we know that the total number of miles she biked this week is 30 miles.
+
+Next, we know that on Wednesday she biked 12 miles, and on Saturday she biked twice as far as on Monday. 
+
+So, let's call the number of miles she biked on Monday 'x'.
+* On Saturday, she biked 2x miles.
+* The total number of miles she biked this week is 12 + x + 2x = 30 miles.
+* Solving for x, we get: 12 + 3x = 30
+* 3x = 18
+* x = 6
+
+Therefore, Mona biked 6 miles on Monday.
+
+Answer: 6

@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's first find the speed of the horse and the speed of the bullet when they are moving in the same direction.
+
+The speed of the horse is 20 feet per second.
+
+The speed of the bullet is 400 feet per second.
+
+Since they are moving in the same direction, we can add their speeds together to find the combined speed:
+
+20 feet per second (horse) + 400 feet per second (bullet) = 420 feet per second
+
+Now, let's find the speed of the bullet when it's fired in the opposite direction of the horse's movement.
+
+The horse is running at 20 feet per second, so the bullet would be moving in the opposite direction at 20 feet per second.
+
+The bullet is fired at a speed of 400 feet per second, but since it's moving in the opposite direction, we subtract the horse's speed from the bullet's speed:
+
+400 feet per second - 20 feet per second = 380 feet per second
+
+So, the bullet is moving at a speed of 380 feet per second when fired in the opposite direction of the horse's movement.
+
+To find the difference in speed, we subtract the slower speed from the faster speed:
+
+420 feet per second (same direction) - 380 feet per second (opposite direction) = 40 feet per second
+
+Answer: 40

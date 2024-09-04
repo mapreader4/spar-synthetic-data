@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Sam earns $10 per hour on Math tutoring
+* For the first month, he earned $200
+* To find the number of hours he worked in the first month, we divide $200 by $10 per hour:
+    * $200 / $10 per hour = 20 hours
+* For the second month, he earned $150 more than the first month
+    * $200 + $150 = $350
+* To find the number of hours he worked in the second month, we divide $350 by $10 per hour:
+    * $350 / $10 per hour = 35 hours
+* To find the total number of hours he worked over the two months, we add the hours from the first month and the second month:
+    * 20 hours + 35 hours = 55 hours
+
+Answer: 55

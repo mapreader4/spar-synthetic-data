@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Tony walks 3 miles carrying a 25-pound backpack
+* He walks at a speed of 3 miles per hour
+* So the time it takes him to walk 3 miles is:
+    * 3 miles / 3 miles per hour = 1 hour
+* Then he runs another 10 miles without the backpack
+* He runs at a speed of 5 miles per hour
+* So the time it takes him to run 10 miles is:
+    * 10 miles / 5 miles per hour = 2 hours
+* Therefore, the total time he spends exercising each morning is:
+    * 1 hour (walking) + 2 hours (running) = 3 hours
+
+Now, we need to calculate how many hours he spends exercising per week.
+* He exercises every morning
+* There are 7 days in a week
+* So the total time he spends exercising per week is:
+    * 3 hours per day x 7 days per week = 21 hours
+
+Answer: 21 hours

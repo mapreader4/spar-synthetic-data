@@ -1,0 +1,14 @@
+Let's break down the time Jake has spent watching the show so far:
+
+* Monday: half a day, which is 12 hours (assuming a 24-hour day)
+* Tuesday: 4 hours
+* Wednesday: a quarter of a day, which is 6 hours
+* Thursday: half of the total time spent watching the show so far, which is (12 + 4 + 6) / 2 = 11 hours
+
+Total time spent watching the show so far is: 12 + 4 + 6 + 11 = 33 hours
+
+Since the entire show is 52 hours long, Jake has watched 33 hours so far. To find out how many hours he watched on Friday, we subtract the total time spent watching the show so far from the total time of the show:
+
+52 - 33 = 19 hours
+
+Answer: 19

@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* There are 5 classes.
+* Each class uses 2 whiteboards.
+* Each whiteboard needs about 20ml of ink for a day's use.
+* Ink costs 50 cents per ml.
+
+Let's calculate the total amount of ink needed for a day:
+
+5 classes * 2 whiteboards * 20ml = 100ml of ink needed for a day
+
+Now, let's calculate the total cost of the ink needed for a day:
+
+100ml * 50 cents/ml = 5000 cents
+
+So, the cost of the ink needed for a day would be:
+
+Answer: 50.

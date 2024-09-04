@@ -1,0 +1,28 @@
+Let's start by identifying the given information.
+
+* Jason was paid 60 more coins than Jayden.
+* Jayden received 300 coins.
+
+We can translate the sentence to an equation.
+
+Jason received x + 60 more coins than Jayden, so Jayden received x coins. 
+
+Since Jason received 60 more coins than Jayden, that means that Jason received 60 + x coins. 
+
+Now, we know that Jason received 60 + x coins, and Jayden received x coins. 
+
+We know that the total number of coins given by Mrs. Jane to the boys is the sum of the coins received by Jason and Jayden.
+
+The equation for the total number of coins given by Mrs. Jane is x + 300.
+
+Since we know that Jason received 60 + x coins, we can write an equation for the total number of coins given:
+
+x + 300 = 60 + x
+
+We can solve the equation by subtracting 60 from both sides.
+
+x + 300 - 60 = x
+
+x = 240
+
+So, Mrs. Jane gave the boys a total of 240 coins.

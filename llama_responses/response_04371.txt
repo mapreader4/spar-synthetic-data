@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Jerry had 63 pieces of candy. He divided them into 9 bags. So, each bag will have an equal number of candy pieces. Let's call this number x.
+
+So, we can set up an equation to solve for x:
+
+63 = 9x
+
+We can divide both sides by 9 to get:
+
+x = 7
+
+So, each bag has 7 pieces of candy. Since 2 bags were chocolate, there are 2 * 7 = 14 chocolate pieces. 3 bags were chocolate kisses, so there are 3 * 7 = 21 chocolate kiss pieces. The rest of the bags are not chocolate. There are 9 - 2 - 3 = 4 bags left. Each of these bags has 7 pieces of candy, so there are 4 * 7 = 28 pieces of candy that are not chocolate.
+
+Answer: 28

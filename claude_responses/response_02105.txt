@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Tom is taking 10 dance lessons
+* Each lesson costs $10
+* He gets 2 of the lessons for free
+
+To calculate the total cost, we need to:
+1. Calculate the cost of the 8 lessons he has to pay for:
+   * 8 lessons x $10 per lesson = $80
+2. Subtract the cost of the 2 free lessons:
+   * $80 - (2 x $10) = $80 - $20 = $60
+
+Therefore, the total amount Tom pays is:
+Answer: $60

@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Darryl starts with 30 cantaloupes and 27 honeydews.
+
+He drops a couple of cantaloupes, so he has 30 - 2 = 28 cantaloupes left.
+
+He has 27 honeydews and 3 of them turn out to be rotten, so he has 27 - 3 = 24 honeydews left.
+
+At the end of the day, he has 8 cantaloupes and 9 honeydews left.
+
+Let's calculate the number of cantaloupes he sold:
+
+30 - 8 = 22 cantaloupes sold
+
+And let's calculate the number of honeydews he sold:
+
+27 - 9 = 18 honeydews sold
+
+He sells cantaloupes for $2 each, so he makes:
+
+22 x 2 = 44 dollars from cantaloupes
+
+He sells honeydews for $3 each, so he makes:
+
+18 x 3 = 54 dollars from honeydews
+
+Total money made:
+
+44 + 54 = 98 dollars
+
+Answer: 98

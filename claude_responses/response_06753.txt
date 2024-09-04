@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Amanda needs to sell 80 tickets in total
+* On the first day, she sold 5 of her friends 4 tickets each, which is 5 x 4 = 20 tickets
+* On the second day, she sold 32 tickets
+* So the total number of tickets sold so far is 20 + 32 = 52 tickets
+* To meet her goal of 80 tickets, she needs to sell the remaining 80 - 52 = 28 tickets on the third day.
+
+Answer: 28

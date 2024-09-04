@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Alison bought 3 large storage tubs and 6 small storage tubs
+* The total cost for all the tubs was $48
+* The cost of each large tub is $6
+
+To find the cost of the small tubs, we need to first calculate the total cost of the large tubs, and then subtract that from the total cost to get the cost of the small tubs.
+
+The total cost of the large tubs:
+* 3 large tubs x $6 per tub = $18
+
+Now, we subtract the cost of the large tubs from the total cost to get the cost of the small tubs:
+* $48 total cost - $18 large tub cost = $30 small tub cost
+
+To find the cost of each small tub, we divide the small tub cost by the number of small tubs:
+* $30 small tub cost / 6 small tubs = $5 per small tub
+
+Answer: $5

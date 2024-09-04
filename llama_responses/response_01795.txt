@@ -1,0 +1,17 @@
+Let's break down the information given:
+
+* Mary collected twice as many red marbles as Jenny and half the number of blue marbles collected by Anie.
+* Anie collected 20 more red marbles than Mary and twice the number of blue marbles Jenny collected.
+* Jenny collected 30 red marbles and 25 blue marbles.
+
+Let's start by identifying the number of red marbles Mary collected. Since Mary collected twice as many red marbles as Jenny, and Jenny collected 30 red marbles, Mary collected 30/2 = 15 red marbles.
+
+Anie collected 20 more red marbles than Mary, so Anie collected 15 + 20 = 35 red marbles.
+
+Anie collected twice the number of blue marbles Jenny collected, and Jenny collected 25 blue marbles, so Anie collected 25 * 2 = 50 blue marbles.
+
+Mary collected half the number of blue marbles Anie collected, so Mary collected 50/2 = 25 blue marbles.
+
+The total number of blue marbles collected by the friends is the sum of the blue marbles collected by Mary, Anie, and Jenny. That is, 25 + 50 + 25 = 100 blue marbles.
+
+Answer: 100

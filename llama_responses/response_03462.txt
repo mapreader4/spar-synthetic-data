@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Initially, there were 1800 cats on the island.
+
+On the first relocation mission, 600 cats were relocated. This means that the number of cats remaining on the island is:
+
+1800 - 600 = 1200
+
+So, there are 1200 cats remaining on the island after the first mission.
+
+On the second mission, half of the remaining cats (which is 1200) are relocated to a rescue center inland. To find half of 1200, I'll divide it by 2:
+
+1200 ÷ 2 = 600
+
+So, 600 cats are relocated on the second mission.
+
+To find the number of cats remaining on the island after the second mission, I'll subtract the number of cats relocated on the second mission from the number of cats remaining on the island after the first mission:
+
+1200 - 600 = 600
+
+Answer: 600

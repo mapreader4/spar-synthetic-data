@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The avant-garde sushi house sells jellyfish for a certain amount
+* The eel costs 9 times the amount of the jellyfish
+* The combined cost of one order of each kind of sushi is $200
+
+Let's call the cost of the jellyfish 'x'.
+Then the cost of the eel is 9x.
+
+We know the combined cost of one order of each kind of sushi is $200, so we can set up an equation:
+x + 9x = 200
+10x = 200
+x = 20
+
+Therefore, the cost of the eel is 9 times the cost of the jellyfish, which is 9 * $20 = $180.
+
+Answer: 180

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On Monday, Guise ate 10 hot dogs.
+* On Tuesday, he ate 2 more hot dogs than the previous day, which is 10 + 2 = 12 hot dogs.
+* On Wednesday, he ate 2 more hot dogs than the previous day, which is 12 + 2 = 14 hot dogs.
+
+To find the total number of hot dogs Guise had eaten by Wednesday, we add up the number of hot dogs he ate each day:
+* Monday: 10 hot dogs
+* Tuesday: 12 hot dogs
+* Wednesday: 14 hot dogs
+
+Total hot dogs eaten by Wednesday = 10 + 12 + 14 = 36 hot dogs.
+
+Answer: 36

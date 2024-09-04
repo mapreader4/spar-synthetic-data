@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+James won a money prize at a charity raffle. This means he received an unknown amount of money. Let's call this amount x.
+
+James donated half of his winnings back to the charity. This means he gave away x / 2 dollars to the charity.
+
+James then spent $2 on a hot dog to celebrate his win. This means he spent 2 dollars.
+
+Now, James had x - (x / 2) - 2 dollars left over.
+
+Since James had $55 left over, we know that x - (x / 2) - 2 = 55. This can be written as x - x / 2 = 53.
+
+So, to solve for x, we can add 2 to both sides of the equation to get x = 55 + 2 = x. This means x = 57.
+
+Answer: 57

@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+1. Susan had a sum of money. Let's call this amount of money M.
+2. She spent 1/5 of M in September. So, she spent 1/5 * M in September.
+3. She spent 1/4 of M in October. So, she spent 1/4 * M in October.
+4. She spent $120 in November. So, she spent 120 in November.
+5. She had M - (1/5 * M + 1/4 * M + 120) left. Let's solve the equation: M - (1/5 * M + 1/4 * M + 120) = 0.
+6. To solve for M, we can subtract 1/5 * M + 1/4 * M + 120 from both sides of the equation. M - (1/5 * M + 1/4 * M + 120) = 0. We get: M - (1/5 * M + 1/4 * M) = -120.
+7. To solve for M, we can multiply both sides of the equation by 5 to get: M = 240.
+
+Answer: 240

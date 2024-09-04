@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1. Javier baked 200 cookies.
+2. His wife took 30% of the 200 cookies. 30% of 200 is 0.3 * 200 = 60 cookies.
+3. After his wife took 60 cookies, there were 200 - 60 = 140 cookies remaining.
+4. His daughter then took 40 cookies from the remaining 140.
+5. After his daughter took 40 cookies, there were 140 - 40 = 100 cookies remaining.
+6. Javier then ate half of the remaining 100 cookies. Half of 100 is 50 cookies.
+7. The total number of cookies that were not eaten is the number of cookies remaining after Javier ate his share, which is 100 - 50 = 50 cookies.
+
+Answer: 50

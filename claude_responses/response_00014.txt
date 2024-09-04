@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Joy can read 8 pages in 20 minutes
+* This means she can read 8 / 20 = 0.4 pages per minute
+* We want to know how long it will take her to read 120 pages
+* To find this, we need to divide the total number of pages (120) by the number of pages she can read per minute (0.4)
+* 120 pages / 0.4 pages per minute = 300 minutes
+* Since there are 60 minutes in an hour, we can divide 300 minutes by 60 to get the number of hours
+* 300 minutes / 60 minutes per hour = 5 hours
+
+Answer: 5 hours

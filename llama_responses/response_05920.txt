@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many packages of white cheese Miley bought. She bought one-third less white cheese than she bought blue cheese. Since she bought 600 grams of blue cheese, one-third of that would be 200 grams. Since each package of cheese weighs 200 grams, one-third less would be 3 packages. So, she bought 3 packages of white cheese.
+
+Next, we need to find out how much Miley spent on white cheese. She bought 3 packages of white cheese, and each package costs $5. So, she spent 3 x $5 = $15 on white cheese.
+
+Miley also bought 5 packages of swiss cheese. Each package costs $6, so she spent 5 x $6 = $30 on swiss cheese.
+
+Finally, Miley bought 600 grams of blue cheese. Since each package weighs 200 grams, she bought 3 packages of blue cheese. Each package costs $8, so she spent 3 x $8 = $24 on blue cheese.
+
+To find the total amount Miley spent on cheese, we add up the amounts she spent on white, swiss, and blue cheese: $15 + $30 + $24 = $69.
+
+Answer: 69

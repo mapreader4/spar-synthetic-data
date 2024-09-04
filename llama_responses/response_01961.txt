@@ -1,0 +1,7 @@
+To find the number of days it will take to complete the order, we need to divide the total number of candies required (4000) by the number of candies produced per hour (50).
+
+Let's do that:
+
+4000 ÷ 50 = 80
+
+Answer: 80

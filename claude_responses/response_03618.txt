@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Maurice gets $2 for every finished task
+* For every 10 tasks finished, he receives a $6 bonus
+* He finished 30 tasks
+
+First, let's calculate how much he would make for the 30 tasks without the bonus:
+* 30 tasks x $2 per task = $60
+
+Next, let's calculate the bonus he would receive:
+* 30 tasks / 10 tasks per bonus = 3 bonuses
+* 3 bonuses x $6 per bonus = $18
+
+Finally, to get the total amount of money Maurice would make, we add the amount for the tasks and the bonus:
+* $60 + $18 = $78
+
+Answer: $78

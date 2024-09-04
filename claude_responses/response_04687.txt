@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Delaney has to catch a bus that leaves at 8:00 a.m. every day
+* It takes him 30 minutes to reach the pick-up point from his home
+* One day, he woke up late and left his home at 7:50 a.m.
+
+To calculate how much time he missed the bus by, we need to find the difference between the time he reached the pick-up point and the time the bus left.
+
+* Delaney left his home at 7:50 a.m.
+* It takes him 30 minutes to reach the pick-up point
+* So, he would have reached the pick-up point at 8:20 a.m.
+* The bus left at 8:00 a.m.
+* Therefore, Delaney missed the bus by 20 minutes.
+
+Answer: 20

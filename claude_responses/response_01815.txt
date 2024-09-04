@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jim starts with 2 rows of 4 trees each, so he has 2 * 4 = 8 trees to start.
+* On his 10th birthday, he plants a new row of 4 trees, so now he has 3 rows of 4 trees each, which is 3 * 4 = 12 trees.
+* On his 11th birthday, he plants another new row of 4 trees, so now he has 4 rows of 4 trees each, which is 4 * 4 = 16 trees.
+* On his 12th birthday, he plants another new row of 4 trees, so now he has 5 rows of 4 trees each, which is 5 * 4 = 20 trees.
+* On his 13th birthday, he plants another new row of 4 trees, so now he has 6 rows of 4 trees each, which is 6 * 4 = 24 trees.
+* On his 14th birthday, he plants another new row of 4 trees, so now he has 7 rows of 4 trees each, which is 7 * 4 = 28 trees.
+* On his 15th birthday, he doubles the number of trees he has, so now he has 28 * 2 = 56 trees.
+
+Answer: 56

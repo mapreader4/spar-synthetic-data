@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Let's find the cost of pistachios per ounce. The cost per can is $10, and each can is 5 ounces. So, the cost per ounce is $10 / 5 = $2 per ounce.
+
+Step 2: James eats 30 ounces every 5 days. To find the cost of pistachios per week, we need to find the cost per day. So, 30 ounces / 5 days = 6 ounces per day. Now, to find the cost of pistachios per day, we multiply the cost per ounce by the number of ounces per day. $2 per ounce * 6 ounces per day = $12 per day.
+
+Step 3: Since James buys pistachios for 7 days a week, we multiply the daily cost by 7 to find the weekly cost. $12 per day * 7 = $84.
+
+Answer: 84

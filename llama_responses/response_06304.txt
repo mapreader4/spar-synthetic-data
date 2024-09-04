@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Joshua collected 80 rocks.
+Jose collected 14 fewer rocks than Joshua, which means Jose collected 80 - 14 = 66 rocks.
+Albert collected 20 more rocks than Jose. So Albert collected 66 + 20 = 86 rocks.
+
+Albert collected 86 - 80 = 6 more rocks than Joshua.
+
+Answer: 6

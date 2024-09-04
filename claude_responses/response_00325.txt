@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* In the first hour, Bob created 13 questions.
+* In the second hour, Bob doubled his rate, so he created 2 x 13 = 26 questions.
+* In the third hour, Bob doubled his second hour rate, so he created 2 x 26 = 52 questions.
+* To find the total number of questions created in the three hours, we add the questions from each hour:
+* 13 + 26 + 52 = 91 questions.
+
+Answer: 91

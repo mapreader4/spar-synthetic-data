@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Bekah had to read 408 pages for her history class
+* She read 113 pages over the weekend
+* She has 5 days left to finish her reading
+
+To find how many pages she needs to read each day for the remaining 5 days, we need to:
+1. Calculate how many pages are left to read:
+   * Total pages: 408
+   * Pages read: 113
+   * Pages left to read: 408 - 113 = 295
+
+2. Divide the remaining pages by the number of days left:
+   * Pages left to read: 295
+   * Days left: 5
+   * Pages to read per day: 295 / 5 = 59
+
+Therefore, Bekah will need to read 59 pages each day for the remaining 5 days to complete her assignment.
+
+Answer: 59

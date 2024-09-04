@@ -1,0 +1,9 @@
+Let's break down the problem into smaller parts. Let's first calculate the cost for 1 floor. It takes 30 days for 1 builder to build 1 floor, so it takes 30 x 100 = 3000 dollars. So the cost for 1 builder to build 1 floor is $3000.
+
+To build 6 floors, it would take 6 x 30 = 180 days. Each builder is paid $100 per day, so it would take 6 x 100 = 600 dollars per day. So, the cost for 1 builder to build 1 floor is 600.
+
+To build 6 floors, it would take 6 x 600 = 3600 dollars. So, the total cost to build 6 floors is 3600.
+
+Now, the total cost to build 5 houses with 6 floors each would be 3600 x 5 = 18000.
+
+So, the answer is: Answer: 18000

@@ -1,0 +1,17 @@
+Okay, let's solve this step-by-step:
+
+1. Jaco bought the following items:
+   - Pair of shoes: $74
+   - 2 pairs of socks: 2 x $2 = $4
+   - Bag: $42
+
+2. The total charge before the discount is:
+   Total charge = $74 + $4 + $42 = $120
+
+3. The discount is applied to the amount exceeding $100, which is $20 ($120 - $100).
+   Discount = 10% of $20 = 0.1 x $20 = $2
+
+4. The final amount Jaco will pay is the total charge minus the discount:
+   Final amount = $120 - $2 = $118
+
+Answer: $118

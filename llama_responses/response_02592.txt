@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by converting the given quantities to a common unit. The problem states that they had 4.5 liters of orange punch, and twice as much cherry punch as orange punch. So, we can set up an equation to represent this:
+
+Let x be the amount of cherry punch. Then, we can set up the equation:
+
+4.5 = x + 2x
+
+We can solve for x by subtracting 4.5 from both sides:
+
+x = 4.5 - 4.5
+x = 0
+
+So, the amount of cherry punch is 0 liters. But, we are asked to find the total amount of fruit punch. So, we need to add the amount of orange punch and cherry punch:
+
+0 + 4.5 =?
+
+To find the total amount of fruit punch, we need to add 4.5 liters of orange punch to 0 liters of cherry punch. So, the total amount of fruit punch is:
+
+4.5 + 4.5
+9
+
+Answer: 9

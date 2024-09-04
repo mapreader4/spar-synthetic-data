@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Each bottle can hold 2 cups of water
+* We need to fill up 10 whole bottles
+* For the 10 whole bottles, we need 10 * 2 = 20 cups of water
+* We also need to fill up 5 half-capacity bottles
+* Since each half-capacity bottle can hold 1 cup of water, we need 5 * 1 = 5 cups of water for the half-capacity bottles
+* To find the total cups of water needed, we add the cups needed for the whole bottles and the half-capacity bottles:
+* 20 cups + 5 cups = 25 cups
+
+Answer: 25

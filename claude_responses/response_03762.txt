@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Mark and Sarah have a total of 24 traffic tickets between them
+* Mark has twice as many parking tickets as Sarah
+* They each have an equal number of speeding tickets
+* Sarah has 6 speeding tickets
+
+First, let's determine how many speeding tickets Mark has. Since they each have an equal number of speeding tickets, and Sarah has 6, Mark must also have 6 speeding tickets.
+
+Now, let's determine how many parking tickets they each have. We know that Mark has twice as many parking tickets as Sarah. So if Sarah has x parking tickets, then Mark has 2x parking tickets.
+
+We also know that the total number of traffic tickets between them is 24. So we can set up an equation:
+* Speeding tickets (6 + 6) + Parking tickets (x + 2x) = 24
+* 12 + 3x = 24
+* 3x = 12
+* x = 4
+
+Therefore, Sarah has 4 parking tickets, and Mark has 2 times that, which is 8 parking tickets.
+
+Answer: 8

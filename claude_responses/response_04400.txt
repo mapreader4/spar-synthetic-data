@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The trail is 5 miles long
+* 60% of the trail is uphill, which means 40% is downhill
+* Roberto travels uphill at 2 MPH and downhill at 3 MPH
+* To calculate the time it takes to complete the trail, we need to find the time for the uphill portion and the time for the downhill portion, then add them together.
+
+For the uphill portion:
+* 60% of 5 miles = 3 miles
+* Time to travel 3 miles uphill at 2 MPH = 3 miles / 2 MPH = 1.5 hours
+
+For the downhill portion:
+* 40% of 5 miles = 2 miles
+* Time to travel 2 miles downhill at 3 MPH = 2 miles / 3 MPH = 0.667 hours
+
+Total time to complete the trail:
+* 1.5 hours + 0.667 hours = 2.167 hours
+
+Converting to minutes:
+* 2.167 hours x 60 minutes/hour = 130 minutes
+
+Answer: 130 minutes

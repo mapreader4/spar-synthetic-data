@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say the time it took Tony to solve the first puzzle is x minutes. Since it took him 10 minutes to solve the first puzzle, the time it took to solve the first puzzle is 10 minutes.
+
+The second puzzle took 3 times as long, so the time it took to solve the second puzzle is 3 * 10 = 30 minutes.
+
+The third puzzle took the same amount of time as the second puzzle, so the time it took to solve the third puzzle is also 30 minutes.
+
+The total time it took Tony to solve the puzzles is the sum of the time it took to solve each puzzle, which is 10 + 30 + 30 = 70 minutes.

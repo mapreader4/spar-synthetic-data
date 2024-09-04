@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The area of the house is 1,110 square feet.
+
+The area of the 4 bedrooms is 4 x (11 x 11) = 44 x 11 = 484 square feet.
+
+The area of the 2 bathrooms is 2 x (6 x 8) = 12 x 8 = 96 square feet.
+
+So, the area of the kitchen and living area is 1,110 - 484 - 96 = 530 square feet.
+
+So, the area of the kitchen is 530 - 484 - 96 = 50 square feet.
+
+Answer: 50

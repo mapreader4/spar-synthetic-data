@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) Frankie and Carla played a total of 30 games.
+2) Frankie won half as many games as Carla.
+3) Let's say Carla won x games.
+4) Since Frankie won half as many games as Carla, Frankie won x/2 games.
+5) The total number of games won is the sum of the games won by Carla and Frankie, which is x + x/2 = 30.
+6) Solving for x, we get: x + x/2 = 30
+7) 3x/2 = 30
+8) x = 20.
+
+Answer: 20

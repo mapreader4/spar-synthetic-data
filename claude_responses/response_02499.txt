@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The supermarket starts the day with 2355 loaves of bread.
+2) During the day, 629 loaves are sold.
+3) In the evening, 489 loaves are delivered to the supermarket.
+4) To calculate the number of loaves at the end of the day, we need to subtract the number of loaves sold from the initial amount, and then add the number of loaves delivered.
+5) 2355 - 629 = 1726 loaves remaining after the sales.
+6) 1726 + 489 = 2215 loaves at the end of the day.
+
+Answer: 2215

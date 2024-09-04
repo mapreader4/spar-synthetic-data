@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+1. We know that there are 30 students who brought in brownies, 20 students who brought in cookies, and 15 students who brought in donuts.
+
+2. The number of brownies is 30. Each brownie costs $2.00, so the total amount of money from the brownies is 30 x $2.00 = $60.
+
+3. The number of cookies is 20. Each cookie costs $2.00, so the total amount of money from the cookies is 20 x $2.00 = $40.
+
+4. The number of donuts is 15. Each donut costs $2.00, so the total amount of money from the donuts is 15 x $2.00 = $30.
+
+5. To find the total amount of money raised, we add the amount of money from the brownies, cookies, and donuts: $60 + $40 + $30 = $130.
+
+Answer: 130

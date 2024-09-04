@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The jar contains 123 pennies, 85 nickels, and 35 dimes
+* Each family member gets a double scoop, which costs $3 each
+* There are 5 family members, so the total cost of the ice cream is 5 * $3 = $15
+* The family has 48 cents left over after the trip
+* To find the number of quarters in the jar, we need to calculate the total value of the coins in the jar, and then subtract the 48 cents left over to find the amount spent on the ice cream
+* The value of the coins in the jar is:
+  - 123 pennies = $1.23
+  - 85 nickels = $4.25
+  - 35 dimes = $3.50
+  - Unknown number of quarters
+* The total value of the coins in the jar is $1.23 + $4.25 + $3.50 + (number of quarters * $0.25)
+* We know the total value of the coins was enough to pay for the $15 ice cream trip, plus have 48 cents left over
+* So the total value of the coins was $15.48
+* Plugging this in, we get:
+  $1.23 + $4.25 + $3.50 + (number of quarters * $0.25) = $15.48
+* Solving for the number of quarters, we get:
+  (number of quarters * $0.25) = $15.48 - $1.23 - $4.25 - $3.50
+  (number of quarters * $0.25) = $6.50
+  Number of quarters = $6.50 / $0.25 = 26
+
+Answer: 26

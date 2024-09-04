@@ -1,0 +1,13 @@
+Let's start by finding the total amount of juice in the 5 jars.
+
+There are 5 jars, each containing 2 liters of juice. So, the total amount of juice is 5 x 2 = 10 liters.
+
+Now, each glass can hold up to 250 milliliters of juice. We need to convert the total amount of juice from liters to milliliters. There are 1000 milliliters in 1 liter, so we can multiply the total amount of juice by 1000 to get the total amount of milliliters: 10 * 1000 = 10000 milliliters.
+
+Now, we can divide the total amount of milliliters by the amount each glass can hold to find out how many full glasses can be given:
+
+10000 milliliters / 250 milliliters = 40
+
+So, Daniel can give 40 full glasses of juice.
+
+Answer: 40

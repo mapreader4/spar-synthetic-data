@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of green crayons. The problem states that there are 2/3 the number of green crayons as blue crayons. Since there are 6 blue crayons, the number of green crayons is 6 * 2/3 = 4.
+
+So, the number of green crayons is 4.
+
+Now, let's find the number of pink crayons. The problem states that the rest of the crayons are pink, and the total number of crayons is 24. So, the number of pink crayons is 24 - 8 (red) - 6 (blue) - 4 (green) = 24 - 18 = 6.
+
+Answer: 6

@@ -1,0 +1,12 @@
+Let's break this down step by step.
+
+Day 1: Cyrus writes 25 pages.
+Day 2: He writes twice that amount, which is 25 * 2 = 50 pages.
+Day 3: He writes twice the amount he wrote on the second day, which is 50 * 2 = 100 pages.
+Day 4: He writes 10 pages.
+
+To find the total number of pages written, we need to add the pages from each day: 25 + 50 + 100 + 10 = 185.
+
+Cyrus needs to write 500 - 185 pages to reach the total of 500 pages. 500 - 185 = 315.
+
+Answer: 315

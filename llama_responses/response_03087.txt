@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+1. Jessy wants to read 140 pages in one week, which means we need to find how many pages she should read daily to achieve this goal.
+
+2. The book has 7 days in a week, so we need to find how many pages she should read each day.
+
+3. Jessy reads 3 times daily, 6 pages each time, so we need to find 3 x 6 = 18 pages each day.
+
+4. To find how many more pages she needs to read each day, we subtract 140 from 7 * 18 = 126.
+
+5. Therefore, Jessy should read 126 - 18 = 108 pages each day.
+
+Answer: 108

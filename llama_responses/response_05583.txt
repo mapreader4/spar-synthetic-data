@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The first-place team has 12 wins and 4 ties, which means they have a total of 12 + 4 = 16 points. The second-place team has 13 wins and 1 tie, which is 13 + 1 = 14 points. Elsa's team has 8 wins and 10 ties, which is 8 + 10 = 18 points.
+
+To find the average, we need to add the points of the three teams and divide by 3.
+
+16 + 14 + 18 = 48
+
+48 / 3 = 16
+
+Answer: 16

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* June had a total of 76 cat stickers in her collection
+* Bonnie had a total of 63 cat stickers in her collection
+* For their birthday, their grandparents gave them 25 cat stickers each
+
+To find the total number of combined stickers they had, we need to:
+1. Add the number of stickers June and Bonnie had before their birthday
+2. Add the number of stickers they each received for their birthday
+
+Step 1:
+* June had 76 stickers
+* Bonnie had 63 stickers
+* Total before birthday = 76 + 63 = 139 stickers
+
+Step 2:
+* Each of them received 25 stickers for their birthday
+* Total additional stickers = 25 + 25 = 50 stickers
+
+Now we add the total before their birthday and the additional stickers they received:
+* 139 + 50 = 189 stickers
+
+Answer: 189

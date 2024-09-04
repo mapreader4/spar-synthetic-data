@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Abigail spent 60% of her money on food. This means that 40% of her initial money was left after the food purchase.
+2) She then spent 25% of the remaining 40% on her phone bill. This means that 75% of the remaining 40% was left after the phone bill.
+3) After spending $20 on entertainment, she is left with $40.
+4) Let's call Abigail's initial money 'x'.
+5) After spending 60% on food, she has 40% of x left, which is 0.4x.
+6) She then spent 25% of 0.4x on her phone bill, which is 0.25 * 0.4x = 0.1x.
+7) This leaves her with 0.75 * 0.4x = 0.3x.
+8) After spending $20 on entertainment, she is left with $40.
+9) So 0.3x - $20 = $40.
+10) Solving for x, we get x = $100.
+
+Answer: 100

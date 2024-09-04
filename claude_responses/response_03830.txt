@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The psychologist believes that 1 in every 4 people has the ZYX syndrome.
+2) The clinic has recently doubled its previous number of 26 patients.
+3) To find the new number of patients, we double the previous number of 26 patients:
+   * 26 x 2 = 52 patients
+4) Now, to find the number of patients likely to be diagnosed with ZYX syndrome, we need to find 1/4 of the total number of patients:
+   * 52 patients x 1/4 = 13 patients
+
+Answer: 13

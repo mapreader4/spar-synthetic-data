@@ -1,0 +1,13 @@
+Let's start by finding the total amount of bamboo that the adult panda can eat in a week. The adult panda can eat 138 pounds of bamboo each day, so in a week, which is 7 days, the total amount of bamboo it can eat is:
+
+138 x 7 = 966 pounds
+
+Next, we need to find the total amount of bamboo that the baby panda can eat in a week. The baby panda can eat 50 pounds of bamboo a day, so in a week, which is 7 days, the total amount of bamboo it can eat is:
+
+50 x 7 = 350 pounds
+
+Now, we need to find the total amount of bamboo that the pandas will eat in a week. The adult panda can eat 966 pounds, and the baby panda can eat 350 pounds, so the total amount of bamboo the pandas will eat is:
+
+966 + 350 = 1316 pounds
+
+Answer: 1316

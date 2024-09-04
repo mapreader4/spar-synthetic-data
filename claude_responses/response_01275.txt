@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each mat requires:
+  - 20 red straws
+  - 30 orange straws
+  - Half as many green straws as orange straws, which is 15 green straws
+* To make 10 mats, we need:
+  - 20 red straws x 10 mats = 200 red straws
+  - 30 orange straws x 10 mats = 300 orange straws
+  - 15 green straws x 10 mats = 150 green straws
+* Adding up the total number of straws needed:
+  - 200 red straws + 300 orange straws + 150 green straws = 650 straws
+
+Answer: 650

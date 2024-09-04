@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Each 60-watt bulb uses 60 watts of power per day.
+2) Allyn has 40 such bulbs in his house.
+3) So the total power used per day is:
+   * 40 bulbs x 60 watts per bulb = 2,400 watts per day
+4) The electricity bill is 20 cents per power watt used.
+5) There are 30 days in June.
+6) So the total monthly expenses on electricity in June would be:
+   * 2,400 watts per day x 30 days = 72,000 watts per month
+   * 72,000 watts per month x $0.20 per watt = $14,400 per month
+
+Answer: 14,400

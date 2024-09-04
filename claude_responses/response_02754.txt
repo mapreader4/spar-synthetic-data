@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Emily has 7 times as many oranges as Sandra.
+2) Sandra has 3 times as many oranges as Betty.
+3) Betty has 12 oranges.
+4) Since Sandra has 3 times as many oranges as Betty, and Betty has 12 oranges, then Sandra must have 3 * 12 = 36 oranges.
+5) Since Emily has 7 times as many oranges as Sandra, and Sandra has 36 oranges, then Emily must have 7 * 36 = 252 oranges.
+
+Answer: 252

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total points the Hornets scored. They scored 2 two-point baskets in the remaining 40 seconds, which is equal to 4 points (2 x 2 = 4). 
+
+The Fireflies, on the other hand, scored 7 three-point baskets in the remaining 40 seconds. Each three-point basket is worth 3 points, so the Fireflies scored 21 points (7 x 3 = 21).
+
+To find the difference in points, we need to subtract the points scored by the Hornets from the points scored by the Fireflies. The Fireflies scored 21 points, and the Hornets scored 4 points. So, the difference is:
+
+21 - 4 = 17
+
+Answer: 17

@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. John plays for 4 hours a day for 2 weeks, which is a total of 4 * 14 = 56 hours.
+2. He has already played for 40% of the total time, which is 0.4 * 56 = 22.4 hours.
+3. So, he has 56 - 22.4 = 33.6 hours left to play.
+4. He now plays for 7 hours a day. To find out how many days he needs to play for, we can divide the remaining time by his new daily playtime: 33.6 / 7 = 4.8 days.
+
+Answer: 4.8

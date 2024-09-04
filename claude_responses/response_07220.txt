@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* On Monday, Donny saved $15
+* On Tuesday, Donny saved $28
+* On Wednesday, Donny saved $13
+* So, the total amount Donny saved over the first three days is:
+    - $15 + $28 + $13 = $56
+* On Thursday, Donny spent half of his total savings so far
+* To find half of $56, we divide $56 by 2:
+    - $56 / 2 = $28
+
+Answer: $28

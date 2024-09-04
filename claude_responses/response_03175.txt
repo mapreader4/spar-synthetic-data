@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 18 east-west streets that are 2 miles long each. So the total length of the east-west streets is 18 * 2 = 36 miles.
+2) There are 10 north-south streets that are 4 miles long each. So the total length of the north-south streets is 10 * 4 = 40 miles.
+3) The total length of all the streets is 36 + 40 = 76 miles.
+4) It takes 5 miles of cable to electrify 1 mile of street. So the total length of cable needed is 76 * 5 = 380 miles.
+5) The cost of cable is $2000 per mile. So the total cost of the cable is 380 * $2000 = $760,000.
+
+Answer: $760,000

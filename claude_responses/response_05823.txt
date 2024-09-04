@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The faucet drips 10 times per minute
+* Each drop contains 0.05 mL of water
+* We want to find the total amount of water wasted in one hour
+
+First, let's calculate the number of drops in one hour:
+* 10 drops per minute x 60 minutes = 600 drops per hour
+
+Now, let's calculate the total amount of water wasted in one hour:
+* 600 drops per hour x 0.05 mL per drop = 30 mL per hour
+
+Answer: 30 mL

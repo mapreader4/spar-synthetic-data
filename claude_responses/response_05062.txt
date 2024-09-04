@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Every room has at least 2 windows and a maximum of 4 windows
+* There are 122 windows total
+* 5 rooms have 4 windows each
+* 8 rooms have 3 windows each
+
+First, let's calculate the number of windows in the rooms with 4 windows and the rooms with 3 windows:
+* 5 rooms with 4 windows each: 5 * 4 = 20 windows
+* 8 rooms with 3 windows each: 8 * 3 = 24 windows
+
+Now, we can calculate the total number of windows in these rooms:
+* 20 + 24 = 44 windows
+
+Next, we can subtract the 44 windows from the total 122 windows to find the number of windows in the rooms with 2 windows:
+* 122 - 44 = 78 windows
+
+Finally, we can divide the 78 windows by 2 to find the number of rooms with 2 windows:
+* 78 / 2 = 39 rooms
+
+Answer: 39

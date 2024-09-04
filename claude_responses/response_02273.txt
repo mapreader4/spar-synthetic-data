@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+1. Pasture rental:
+   * Andrea pays $500 per month
+   * In a year, there are 12 months
+   * So the total cost for pasture rental in a year is:
+     * $500 per month x 12 months = $6,000
+
+2. Food:
+   * Andrea pays $10 per day for food
+   * In a year, there are 365 days
+   * So the total cost for food in a year is:
+     * $10 per day x 365 days = $3,650
+
+3. Lessons:
+   * Andrea pays $60 per lesson
+   * She has two lessons per week
+   * In a year, there are 52 weeks
+   * So the total cost for lessons in a year is:
+     * $60 per lesson x 2 lessons per week x 52 weeks = $6,240
+
+4. Total cost:
+   * Adding up the costs for pasture rental, food, and lessons:
+     * $6,000 + $3,650 + $6,240 = $15,890
+
+Answer: $15,890

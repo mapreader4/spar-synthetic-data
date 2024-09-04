@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. The first tomato plant produced two dozen tomatoes.
+   * Two dozen tomatoes = 2 x 12 = 24 tomatoes
+
+2. The second plant produced 5 more than half as many tomatoes as the first plant.
+   * Half of 24 tomatoes is 12 tomatoes.
+   * The second plant produced 12 + 5 = 17 tomatoes.
+
+3. The third plant produced two more tomatoes than the second plant.
+   * The second plant produced 17 tomatoes.
+   * The third plant produced 17 + 2 = 19 tomatoes.
+
+Now, to find the total number of tomatoes produced by the three plants, we add up the number of tomatoes from each plant:
+* 24 + 17 + 19 = 60 tomatoes
+
+Answer: 60

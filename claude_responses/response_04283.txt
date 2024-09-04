@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Eddie can bake 3 pies per day
+* His sister can bake 6 pies per day
+* His mother can bake 8 pies per day
+* They need to bake for 7 days
+
+To calculate the total number of pies they can bake in 7 days, we need to:
+1. Calculate the number of pies Eddie can bake in 7 days:
+   * Eddie can bake 3 pies per day
+   * In 7 days, he can bake 3 x 7 = 21 pies
+2. Calculate the number of pies his sister can bake in 7 days:
+   * His sister can bake 6 pies per day
+   * In 7 days, she can bake 6 x 7 = 42 pies
+3. Calculate the number of pies his mother can bake in 7 days:
+   * His mother can bake 8 pies per day
+   * In 7 days, she can bake 8 x 7 = 56 pies
+4. Add up the total number of pies they can bake in 7 days:
+   * Total pies = 21 + 42 + 56 = 119
+
+Answer: 119

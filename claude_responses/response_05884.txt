@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Jameson has a total of 20 medals.
+2) 5 of the medals are for track.
+3) He has two times as many swimming medals as track medals.
+   * Since he has 5 track medals, he has 2 x 5 = 10 swimming medals.
+4) The remaining medals must be for badminton.
+   * Total medals = 20
+   * Track medals = 5
+   * Swimming medals = 10
+   * Badminton medals = 20 - 5 - 10 = 5
+
+Answer: 5

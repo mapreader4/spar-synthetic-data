@@ -1,0 +1,11 @@
+Let's break down the information given in the problem:
+
+* Nancy has 40 metal beads and 20 pearl beads.
+* Rose has 20 crystal beads and 40 stone beads. Since Rose has twice as many stone beads as crystal beads, we know that Rose has 80 stone beads.
+* There are 8 beads in each bracelet.
+
+We want to find the number of bracelets that Nancy and Rose can make.
+
+Let's start by adding the number of beads Nancy has. Nancy has 40 metal beads + 20 pearl beads = 60 beads. Rose has 20 crystal beads + 80 stone beads = 100 beads. 60 + 100 = 160 beads. Since there are 8 beads in each bracelet, we can divide the total number of beads by 8 to find the number of bracelets. 160 beads / 8 = 20 bracelets.
+
+Answer: 20

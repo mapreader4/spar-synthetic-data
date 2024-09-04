@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say the price of the first house is x. Since the second house is twice as expensive as the first one, the price of the second house is 2x.
+
+The problem states that the total price of both houses together is $600,000, so we can set up the equation:
+
+x + 2x = 600,000
+
+Combine like terms:
+
+3x = 600,000
+
+Divide both sides by 3:
+
+x = 200,000
+
+So, the price of the first house is $200,000.
+
+Answer: 200000

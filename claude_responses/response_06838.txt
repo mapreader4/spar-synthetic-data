@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The first mission was supposed to take 5 days.
+2) Instead, it took 60% longer, which means it took 5 + (5 * 0.6) = 5 + 3 = 8 days.
+3) The second mission took 3 days.
+4) The total time John spent on missions is the sum of the two missions: 8 days + 3 days = 11 days.
+
+Answer: 11

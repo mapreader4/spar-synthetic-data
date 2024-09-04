@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by using the information given in the problem. The Reptile House has 5 fewer animals than 3 times the number of animals housed in the Rain Forest exhibit. So, if we let x be the number of animals in the Rain Forest exhibit, we can write the equation as:
+
+16 = 3x - 5
+
+Now, we can solve for x. We can add 5 to both sides of the equation to get:
+
+16 + 5 = 3x
+
+Then, we can subtract 5 from both sides of the equation to get:
+
+11 = 3x
+
+Now, we can divide both sides of the equation by 3 to get:
+
+11 / 3 = x
+
+x = 3.67
+
+So, the number of animals in the Rain Forest exhibit is 3.67.

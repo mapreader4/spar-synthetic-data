@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The stadium has a capacity of 60,000 seats.
+2) 75% of the seats were sold for the music show.
+3) To find the number of seats sold, we take 75% of 60,000:
+   * 75% of 60,000 = 0.75 * 60,000 = 45,000 seats sold
+4) However, 5,000 fans stayed home due to the threat of rain.
+5) So the number of fans who attended the show is the number of seats sold minus the number of fans who stayed home:
+   * 45,000 - 5,000 = 40,000 fans attended the show.
+
+Answer: 40,000

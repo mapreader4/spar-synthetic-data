@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+1) Miles is going to spend 1/6 of a day reading.
+2) He will read comic books, graphic novels, and novels.
+3) He reads 21 pages an hour when he reads novels.
+4) He reads 30 pages an hour when he reads graphic novels.
+5) He reads 45 pages an hour when he reads comic books.
+6) He will read each for 1/3 of his time.
+
+To calculate the total number of pages he reads:
+* 1/6 of a day is 4 hours (1 day = 24 hours, 1/6 of 24 = 4)
+* He will spend 4 hours reading in total
+* He will spend 4 * 1/3 = 4/3 hours reading novels
+* He will spend 4 * 1/3 = 4/3 hours reading graphic novels
+* He will spend 4 * 1/3 = 4/3 hours reading comic books
+
+Now we can calculate the number of pages read for each:
+* Novels: 21 pages/hour * 4/3 hours = 28 pages
+* Graphic Novels: 30 pages/hour * 4/3 hours = 40 pages
+* Comic Books: 45 pages/hour * 4/3 hours = 60 pages
+
+The total number of pages read is:
+28 + 40 + 60 = 128 pages
+
+Answer: 128

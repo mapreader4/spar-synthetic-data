@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Tom initially cut the wood to 143 cm
+* He then decided to cut off 25 cm from the 143 cm board
+* After cutting off 25 cm, the board was still longer than the other boards
+* To make the boards the same size, he had to cut off an additional 7 cm from each board
+
+To find the original length of the boards before the 7 cm was cut off, we can work backwards:
+* The final length of the boards after the 7 cm was cut off is unknown, let's call this length x
+* We know that 7 cm was cut off from each board to make them the same size
+* So the length of the boards before the 7 cm was cut off is x + 7 cm
+* We also know that the initial board was 143 cm, and 25 cm was cut off, so the length of the board after the 25 cm was cut off is 143 - 25 = 118 cm
+* Since the board was still longer than the others, the length of the boards before the 7 cm was cut off must be 118 cm + 7 cm = 125 cm
+
+Answer: 125

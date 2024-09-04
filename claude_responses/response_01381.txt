@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Oliver's bucket holds 120 ounces
+* He filled the bathtub 14 times to reach the top
+* So the total amount of water in the bathtub is:
+    - 14 buckets x 120 ounces per bucket = 1680 ounces
+* He then removed 3 buckets to get the water level back to where he started
+    - 3 buckets x 120 ounces per bucket = 360 ounces
+* So the total amount of water he used for one bath is:
+    - 1680 ounces - 360 ounces = 1320 ounces
+* He takes a bath every day
+    - 1320 ounces per day x 7 days per week = 9240 ounces per week
+
+Answer: 9240 ounces

@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) Hank Aaron hit 755 home runs in his career.
+2) Hank Aaron has 175 fewer than twice the number that Dave Winfield has.
+3) Let's call the number of home runs that Dave Winfield hit as "x".
+4) Then, Hank Aaron has 2x - 175 home runs.
+5) We know that Hank Aaron has 755 home runs, so we can set up the equation:
+   755 = 2x - 175
+6) Solving for x, we get:
+   755 + 175 = 2x
+   930 = 2x
+   x = 465
+Answer: Dave Winfield hit 465 home runs in his career.

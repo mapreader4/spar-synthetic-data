@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Billy rode his bike 17 times
+* John rode his bike twice as many times as Billy
+* To find how many times John rode his bike, we multiply Billy's rides by 2:
+  * 17 x 2 = 34 times
+* Their mother rode her bike 10 times more than John
+* To find how many times their mother rode her bike, we multiply John's rides by 10:
+  * 34 x 10 = 340 times
+* To find the total number of times they rode their bikes, we add up the rides of Billy, John, and their mother:
+  * 17 + 34 + 340 = 391 times
+
+Answer: 391

@@ -1,0 +1,5 @@
+Let's start by calculating the total amount of pounds eaten by all the pandas in a day. We know that the 4 small pandas eat 25 pounds and the 5 big pandas eat 40 pounds, so the total pounds eaten in a day is 25 + 40 = 65 pounds.
+
+Now, to find the total pounds eaten in a week, we multiply the pounds eaten in a day by 7. 65 pounds per day times 7 is 65 * 7 = 455 pounds.
+
+Answer: 455

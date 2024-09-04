@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Malcolm has 240 followers on Instagram and 500 followers on Facebook.
+2. The number of followers he has on Twitter is half the number of followers he has on Instagram and Facebook combined.
+   * The number of followers on Instagram and Facebook combined is 240 + 500 = 740.
+   * Half of 740 is 370, so the number of followers he has on Twitter is 370.
+3. The number of followers he has on TikTok is 3 times the number of followers he has on Twitter.
+   * The number of followers he has on Twitter is 370.
+   * 3 times 370 is 1110, so the number of followers he has on TikTok is 1110.
+4. The number of followers he has on Youtube is 510 more than the number of followers he has on TikTok.
+   * The number of followers he has on TikTok is 1110.
+   * 510 more than 1110 is 1620, so the number of followers he has on Youtube is 1620.
+
+Now, to find the total number of followers Malcolm has on all his social media, we add up the followers from each platform:
+* Instagram: 240
+* Facebook: 500
+* Twitter: 370
+* TikTok: 1110
+* Youtube: 1620
+
+Answer: 3840

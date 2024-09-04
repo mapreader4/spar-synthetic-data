@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the information that Tim has 1 hundred photos less than the total amount of photos, which is 152. So, Tim has 152 - 100 = 52 photos.
+
+We know that Paul has 10 more photos than Tim. So, Paul has 52 + 52 = 104 photos.
+
+We are asked how many photos Tom has. We know that Paul has 104 photos, and Tom has less photos than Paul. So, Tom has 104 - 10 = 94 photos.
+
+Answer: 94

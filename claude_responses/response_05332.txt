@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* On Wednesday, Max played for 2 hours
+* On Thursday, Max played for 2 hours (the same as Wednesday)
+* On Friday, Max played for more than 3 hours longer than Wednesday
+* So on Friday, Max played for at least 2 + 3 = 5 hours
+
+Now, to calculate the average:
+* Total hours played = 2 + 2 + 5 = 9 hours
+* Number of days = 3 days
+* Average hours played per day = 9 hours / 3 days = 3 hours
+
+Answer: 3 hours

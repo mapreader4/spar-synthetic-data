@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 8 loads of laundry that need to be washed
+* Each load takes 45 minutes in the wash cycle
+* Each load takes 1 hour in the dry cycle
+* To calculate the total time for the wash cycle:
+  - 8 loads x 45 minutes per load = 360 minutes
+  - 360 minutes / 60 minutes per hour = 6 hours
+* To calculate the total time for the dry cycle:
+  - 8 loads x 1 hour per load = 8 hours
+* To calculate the total time to complete the entire set of laundry:
+  - Wash cycle time + Dry cycle time = 6 hours + 8 hours = 14 hours
+
+Answer: 14 hours

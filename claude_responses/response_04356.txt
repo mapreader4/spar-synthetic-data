@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* A small pizza has 6 slices
+* You ordered 4 small pizzas
+* So, the number of slices from the small pizzas is: 4 x 6 = 24 slices
+
+* A medium pizza has 8 slices
+* You ordered 5 medium pizzas
+* So, the number of slices from the medium pizzas is: 5 x 8 = 40 slices
+
+* We don't know how many large pizzas you ordered, but we know the total number of pizzas is 15
+* We can calculate the number of large pizzas by subtracting the small and medium pizzas from the total:
+* 15 total pizzas - 4 small pizzas - 5 medium pizzas = 6 large pizzas
+
+* A large pizza has 12 slices
+* So, the number of slices from the large pizzas is: 6 x 12 = 72 slices
+
+* To get the total number of slices, we add up the slices from the small, medium, and large pizzas:
+* 24 + 40 + 72 = 136 slices
+
+Answer: 136

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Stacy bought 2 packs of printer paper
+2) Each pack has 240 sheets of paper
+3) So the total number of sheets of paper Stacy bought is 2 x 240 = 480 sheets
+4) The office prints 80 one-page documents per day
+5) To find how many days the printer paper will last, we divide the total number of sheets by the number of sheets printed per day:
+480 sheets / 80 sheets per day = 6 days
+
+Answer: 6 days

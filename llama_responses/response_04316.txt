@@ -1,0 +1,12 @@
+Let's break this down step by step.
+
+1. The company took in individual bookings worth $12,000.
+2. They also took in group bookings worth $16,000.
+3. However, some people cancelled their bookings, so $1,600 had to be returned to them.
+
+To find the total amount taken, I will subtract the amount returned from the total amount taken.
+
+$12,000 (individual bookings) + $16,000 (group bookings) = $28,000 (total bookings)
+$28,000 - $1,600 (amount returned) = $26,400
+
+Answer: 26400

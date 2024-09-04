@@ -1,0 +1,5 @@
+Let's break down the problem step by step.
+
+The trader made a profit of $960. To raise $610, she splits her profit in half, so she has $480 left over. She then receives a total donation of $310 and adds it to one-half of her profit, which is $240. 
+
+To find out how much she made above her goal, we subtract the goal from the amount she added the donation to, which is $240 + 310 = $550. Then, we subtract the original goal of $610 from this amount, which gives us $550 - 610 = $-60. The trader actually made $60 less than her goal.

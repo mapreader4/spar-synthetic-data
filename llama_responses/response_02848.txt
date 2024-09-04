@@ -1,0 +1,7 @@
+To solve this problem, we need to find the total cost of the paint needed and then divide it by 2 to find the cost per person.
+
+First, we need to find the total area of the walls. The total area is given as 1600 square feet, but since they will need a second coat, we need to multiply this by 2. So, the total area is 1600 * 2 = 3200 square feet.
+
+Next, we need to find the number of gallons of paint needed. The area that one gallon can cover is 400 square feet, so we need to divide the total area by 400 to get the number of gallons needed. 3200 / 400 = 8 gallons of paint are needed.
+
+The cost of a gallon of paint is $45, so the total cost of the paint is 8 * 45 = 360. Since Jason and Jeremy will split the cost, they will each contribute 360 / 2 = 180 dollars.

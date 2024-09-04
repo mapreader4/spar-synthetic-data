@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Kenneth had $50 to go to the store
+* He bought 2 baguettes, and each baguette cost $2
+* So the total cost of the 2 baguettes is 2 * $2 = $4
+* He also bought 2 bottles of water, and each bottle cost $1
+* So the total cost of the 2 bottles of water is 2 * $1 = $2
+* The total amount Kenneth spent is $4 (baguettes) + $2 (water) = $6
+* To calculate the amount of money Kenneth has left, we take the original $50 and subtract the $6 he spent:
+* $50 - $6 = $44
+
+Answer: 44

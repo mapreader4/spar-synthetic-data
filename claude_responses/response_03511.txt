@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Victoria had $500 to start with.
+* She bought:
+  - 2 packets of rice, each costing $20. So the total cost of the rice was 2 x $20 = $40.
+  - 3 packets of wheat flour, each costing $25. So the total cost of the wheat flour was 3 x $25 = $75.
+  - 1 soda costing $150.
+* The total amount she spent is:
+  - Rice: $40
+  - Wheat flour: $75
+  - Soda: $150
+  - Total spent: $40 + $75 + $150 = $265
+* To calculate her remaining balance, we take the initial $500 and subtract the $265 she spent:
+  - $500 - $265 = $235
+
+Answer: $235

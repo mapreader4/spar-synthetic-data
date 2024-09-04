@@ -1,0 +1,13 @@
+Let's start by identifying the information we know:
+
+* There are 70 cookies in the jar initially.
+* There are 28 cookies left after a week.
+* Paul took the same amount each day.
+
+We can find the amount Paul took out in four days by subtracting the initial amount from the final amount.
+
+Let's subtract 28 from 70 to find the amount Paul took out in four days:
+
+70 - 28 = 42
+
+So, Paul took out 42 cookies in four days.

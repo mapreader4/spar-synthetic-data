@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Betty picked 15 oranges and Bill picked 12 oranges.
+2) Frank picked three times the number that Betty and Bill picked combined.
+   * Betty and Bill picked 15 + 12 = 27 oranges in total.
+   * Frank picked 3 x 27 = 81 oranges.
+3) Frank planted 2 seeds from each of his 81 oranges, so he planted 2 x 81 = 162 seeds.
+4) Each seed turned into an orange tree after 20 years.
+5) Each orange tree contains 5 oranges for Philip to pick.
+6) Therefore, the total number of oranges for Philip to pick is 162 trees x 5 oranges per tree = 810 oranges.
+
+Answer: 810

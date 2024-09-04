@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of children in the family.
+
+The regular ticket costs $9, and the ticket for children is $2 less. So, the ticket for children costs $9 - $2 = $7.
+
+The total cost of the tickets is the cost of the adult tickets plus the cost of the children's tickets. Let's say the number of adult tickets is 2, so the total cost of the tickets is 2 x $9 + 7x.
+
+The total cost of the tickets is $20, and the change is $1. So, the total cost of the tickets minus the change is $20 - $1 = $19.
+
+We can set up an equation to represent this:
+
+2 x 9 + 7x = 19
+
+We can subtract 2 x 9 from both sides of the equation to get:
+
+7x = 19 - 18
+7x = 1
+
+To solve for x, we can divide both sides by 7:
+
+x = 1/7
+
+x = 1
+
+So, there is 1 child in the family.

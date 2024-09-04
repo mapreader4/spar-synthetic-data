@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Diane starts with $100
+* She wins 5 hands for a total of $65
+* So, her total amount of money after the wins is $100 + $65 = $165
+* However, she then loses all of her money and ends up owing her friends $50
+* To calculate the total amount of money she lost, we need to add the $165 she had after the wins to the $50 she ended up owing
+* $165 + $50 = $215
+
+Answer: $215

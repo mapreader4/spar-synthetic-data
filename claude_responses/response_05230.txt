@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tara's parents gave her $90 for her birthday
+* She put the $90 in a new bank account
+* The bank account gains 10% interest annually
+* She doesn't withdraw the money at all
+
+To calculate the amount she will have after a year, we need to find the total value of the account after the 10% interest is applied.
+
+The initial amount in the account is $90.
+The interest rate is 10% per year.
+To calculate the interest earned, we take the initial amount ($90) and multiply it by the interest rate (10%):
+* $90 x 0.10 = $9
+
+So, the total amount in the account after one year will be the initial amount ($90) plus the interest earned ($9):
+* $90 + $9 = $99
+
+Answer: 99

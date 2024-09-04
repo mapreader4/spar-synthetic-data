@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of seeds. The sunflowers have 6 plants with 9 seeds each, so there are 6 * 9 = 54 seeds. The dandelions have 8 plants with 12 seeds each, so there are 8 * 12 = 96 seeds. The total number of seeds is 54 + 96 = 150.
+
+Now, to find the percentage of seeds that come from the dandelions, we need to divide the number of dandelion seeds (96) by the total number of seeds (150), and then multiply by 100. 96 / 150 = 0.64. 
+
+Answer: 64.

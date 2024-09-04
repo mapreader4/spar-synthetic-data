@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Francine drives 140km to work each day. This means that for 1 day, she drives a distance of 140km. To find the total distance she drives to work for 4 weeks, we need to multiply the distance she drives each day by 7 (since there are 7 days in a week, and she does not go to work 3 days every week).
+
+So, the total distance she drives to work for 4 weeks is:
+
+140km/day * 7 = 980km
+
+So, the total distance Francine drives to work for 4 weeks is 980km.
+
+Answer: 980

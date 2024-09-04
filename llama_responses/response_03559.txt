@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that Tim buys 3 loaves of bread, each with 20 slices, so the total number of slices is 3 * 20 = 60 slices.
+
+We know that Tim pays with 2 $20 bills, which is 200 cents. He gets $16 change, which is 184 cents. So, the cost of each slice is 184 cents.
+
+Answer: 3

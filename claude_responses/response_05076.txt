@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. The TV's initial price was $500.
+2. The TV's price increased by 2/5 times its initial price. 
+   * 2/5 of $500 = $200
+   * The new price of the TV is $500 + $200 = $700
+
+3. The phone's initial price was $400.
+4. The phone's price increased by 40% from its original price.
+   * 40% of $400 = 0.4 * $400 = $160
+   * The new price of the phone is $400 + $160 = $560
+
+5. The total amount Bethany received for the items is the sum of the new prices of the TV and the phone.
+   * Total amount = $700 + $560 = $1,260
+
+Answer: $1,260

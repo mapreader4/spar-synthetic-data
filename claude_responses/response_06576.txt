@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Aaron uses 3 equal-sized boxes of canned tomatoes
+* He adds the lids he gets from these 3 boxes to the 14 can lids he already has
+* He is now taking 53 can lids to the recycling center
+
+To find the number of can lids he got from each box, we need to:
+1. Calculate the total number of new can lids he got from the 3 boxes
+2. Divide that total by 3 to get the number of can lids per box
+
+First, let's calculate the total number of new can lids:
+* Total can lids = 53 (the amount he is taking to the recycling center)
+* Lids he already had = 14
+* New can lids = 53 - 14 = 39
+
+Now, we divide the new can lids by 3 to get the number of can lids per box:
+* Can lids per box = 39 / 3 = 13
+
+Therefore, Aaron got 13 can lids from each box.
+
+Answer: 13

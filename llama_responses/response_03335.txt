@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that the average score on the test was 90.
+
+Let's let M be Margaret's score. The problem states that Marco scored 10% less than the average score, which means that Marco's score is 90 - 10% = 90 - 0.10 * 90 = 81. So, Marco scored 81.
+
+Now, the problem states that Margaret received 5 more points than Marco, which means that her score is 81 + 5 = 86.
+
+So, the answer is:
+
+Answer: 86

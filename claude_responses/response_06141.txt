@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The cost of filling the car fuel tank is $45.
+2) This can take the car 500 miles before refilling.
+3) Mallory's destination is 2000 miles away.
+4) To calculate the number of times Mallory needs to refill the car, we divide the total distance (2000 miles) by the distance per refill (500 miles), which is 2000 / 500 = 4 times.
+5) The total cost of filling the car fuel tank for the whole journey is 4 x $45 = $180.
+6) Mallory used 3/5 times as much money on food as she spent on filling the car fuel tank for the whole journey.
+7) The amount spent on food is 3/5 x $180 = $108.
+8) The total amount of money Mallory used is the sum of the cost of filling the car fuel tank ($180) and the cost of food ($108), which is $180 + $108 = $288.
+
+Answer: 288

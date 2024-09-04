@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Jacob has half the number of shoes Edward has. Edward has 3 times the number of shoes Brian has. We also know that Brian has 22 pairs of shoes.
+
+Let's use the information to set up an equation. Let's say the number of shoes Edward has is x. Then, since Jacob has half the number of shoes Edward has, Jacob has x/2 shoes. We know that Brian has 22 pairs of shoes, so Brian has x/2 + x/3 shoes. Since Brian has 3 times the number of shoes Edward has, we know that Brian has 3x shoes.
+
+Now, we can set up the equation: x/2 + 3x = 22. To solve for x, we can subtract 3x from both sides of the equation, like this: x/2 = 22 - 3x. Then, we can divide both sides by 2 to get x = 22 - 3x/2.
+
+Now, we can solve for x. x = 22 - 3x/2. To simplify the right side, we can divide 22 by 2 to get 11, and then subtract 3x to get x = 11 - 3x.
+
+So, the answer is: Answer: 11 - 3.

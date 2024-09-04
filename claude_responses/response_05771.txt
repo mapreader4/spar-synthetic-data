@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* James buys 10 shirts
+* He buys half as many pants, which means he buys 5 pants
+* The shirts cost $6 each
+* The pants cost $8 each
+* To calculate the total cost:
+  - Cost of shirts: 10 shirts x $6 per shirt = $60
+  - Cost of pants: 5 pants x $8 per pant = $40
+  - Total cost: $60 + $40 = $100
+
+Answer: 100

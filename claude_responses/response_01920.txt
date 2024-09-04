@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Blanch starts with 15 slices of pizza in the fridge
+* For breakfast, she eats 4 slices
+* So after breakfast, she has 15 - 4 = 11 slices left
+* At lunch, she eats 2 slices
+* So after lunch, she has 11 - 2 = 9 slices left
+* As a snack, she eats 2 more slices
+* So after the snack, she has 9 - 2 = 7 slices left
+* For dinner, she eats 5 more slices
+* So after dinner, she has 7 - 5 = 2 slices left
+
+Answer: 2

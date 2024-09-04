@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There were 200 students on the field
+* 3/4 of the students looked up at the plane
+* To find how many students looked up, we take 3/4 of 200:
+* 3/4 of 200 = 0.75 * 200 = 150 students looked up
+* Each student has 2 eyes
+* So the total number of eyes that saw the airplane is:
+* 150 students x 2 eyes per student = 300 eyes
+
+Answer: 300

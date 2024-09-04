@@ -1,0 +1,7 @@
+To solve this problem, let's break it down step by step.
+
+1. Let's first find the number of days in a leap year. A leap year has 366 days.
+2. Since Brittney washes her hair every other day, that is 183 days.
+3. Since she uses 1/4 ounce of shampoo, and there are 16 ounces in 1 ounce, we can multiply 183 days by 1/4 ounce to get the total amount of shampoo used in a year. 183 * 1/4 = 46.5 ounces.
+4. Since she buys shampoo in 14-ounce bottles, we can divide the total amount of shampoo used in a year by 14 to get the number of bottles needed. 46.5 / 14 = 3.32.
+5. Since you can't buy a fraction of a bottle, we round up to the nearest whole number. So, Brittney needs 4 bottles of shampoo to get her through a leap year.

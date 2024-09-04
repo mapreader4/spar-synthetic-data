@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Darnell has 1000 square feet of fabric.
+2) He makes square flags that are 4 feet by 4 feet. Each square flag uses 4 x 4 = 16 square feet of fabric.
+3) He has already made 16 square flags, so he has used 16 x 16 = 256 square feet of fabric for the square flags.
+4) He makes wide rectangular flags that are 5 feet by 3 feet. Each wide flag uses 5 x 3 = 15 square feet of fabric.
+5) He has already made 20 wide flags, so he has used 20 x 15 = 300 square feet of fabric for the wide flags.
+6) He makes tall rectangular flags that are 3 feet by 5 feet. Each tall flag uses 3 x 5 = 15 square feet of fabric.
+7) He has already made 10 tall flags, so he has used 10 x 15 = 150 square feet of fabric for the tall flags.
+8) In total, he has used 256 + 300 + 150 = 706 square feet of fabric.
+9) Therefore, the amount of fabric he has left is 1000 - 706 = 294 square feet.
+
+Answer: 294

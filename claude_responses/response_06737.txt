@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Southton's time capsule is buried 15 feet underground.
+2) Northton's time capsule is buried 12 feet higher than 4 times the depth of the Southton time capsule.
+3) To find the depth of Northton's time capsule, we first need to calculate 4 times the depth of Southton's time capsule.
+4) 4 times the depth of Southton's time capsule is 4 * 15 = 60 feet.
+5) Northton's time capsule is buried 12 feet higher than 60 feet, which means it is buried 60 - 12 = 48 feet underground.
+
+Answer: 48

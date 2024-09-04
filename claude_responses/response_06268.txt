@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Maryann spends seven times as long doing accounting as calling clients
+* This means that for every 1 minute she spends calling clients, she spends 7 minutes doing accounting
+* We know that she worked a total of 560 minutes today
+* Let's say she spent x minutes calling clients
+* Then she spent 7x minutes doing accounting
+* The total time spent is x + 7x = 8x
+* We know the total time is 560 minutes, so 8x = 560
+* Solving for x, we get x = 70
+* Therefore, Maryann spent 70 minutes calling clients.
+
+Answer: 70

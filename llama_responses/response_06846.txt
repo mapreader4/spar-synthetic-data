@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's figure out how much money Isabella has. Isabella has $45 more than Giselle, and Giselle has $120. So, Isabella must have $120 + $45 = $165.
+
+Next, let's figure out how much money Sam has. Isabella has $165, and Isabella has $15 more than Sam. So, Sam must have $165 - $15 = $150.
+
+Now, let's add up the total amount of money all three people have. $165 + $150 + $120 = $435.
+
+Finally, if they decide to share the money equally among three people, we need to divide the total amount by 3. $435 ÷ 3 = $145.
+
+Answer: 145

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, we need to find the total cost of the school supplies needed for each student. Each student needs 5 pens, which cost $0.50 each, so the total cost of pens is 5 x $0.50 = $2.50. Each student needs 3 notebooks, which cost $1.25 each, so the total cost of notebooks is 3 x $1.25 = $3.75. Each student needs 1 binder, which costs $4.25, so the total cost of binders is 1 x $4.25 = $4.25. Each student needs 2 highlighters, which cost $0.75 each, so the total cost of highlighters is 2 x $0.75 = $1.50. The total cost of school supplies for each student is $2.50 + $3.75 + $4.25 + $1.50 = $11.50.
+
+Since there are 30 students, the total cost of school supplies is 30 x $11.50 = $345.00. With a $100 teacher discount, Jackson will pay $100 - $100 = $245.00. Therefore, Jackson will spend $245.00 on school supplies.

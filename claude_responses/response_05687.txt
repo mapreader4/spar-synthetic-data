@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Maddie bought 2 packs of white T-shirts
+* Each pack of white T-shirts contains 5 shirts
+* So, the total number of white T-shirts is 2 packs x 5 shirts/pack = 10 white T-shirts
+* Maddie also bought 4 packs of blue T-shirts
+* Each pack of blue T-shirts contains 3 shirts
+* So, the total number of blue T-shirts is 4 packs x 3 shirts/pack = 12 blue T-shirts
+* Each T-shirt costs $3
+* To calculate the total cost:
+* 10 white T-shirts x $3/shirt = $30
+* 12 blue T-shirts x $3/shirt = $36
+* Total cost = $30 + $36 = $66
+
+Answer: 66

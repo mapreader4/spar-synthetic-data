@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The test has 50 questions, and each question is worth 2 marks.
+* Meghan scored 20 marks less than Jose.
+* Jose scored 40 more marks than Alisson.
+* Jose got 5 questions wrong.
+
+First, let's calculate Jose's score:
+* Jose got 5 questions wrong, so he got 45 questions right.
+* Each question is worth 2 marks, so Jose's total score is 45 * 2 = 90 marks.
+
+Now, let's calculate Alisson's score:
+* Jose scored 40 more marks than Alisson, so Alisson's score is 90 - 40 = 50 marks.
+
+Finally, let's calculate Meghan's score:
+* Meghan scored 20 marks less than Jose, so Meghan's score is 90 - 20 = 70 marks.
+
+Now, we can calculate the total score for the three:
+* Total score = Meghan's score + Jose's score + Alisson's score
+* Total score = 70 + 90 + 50 = 210 marks
+
+Answer: 210

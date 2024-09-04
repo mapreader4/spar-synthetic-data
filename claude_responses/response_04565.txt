@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Yoque borrowed money from her sister and promised to pay it back in 11 months.
+2) She agreed to pay an additional 10% of the money she borrowed.
+3) She pays $15 per month.
+4) To find the total amount she borrowed, we need to calculate the total amount she will pay back, including the 10% additional.
+5) The total amount she will pay back is $15 per month for 11 months, which is $165.
+6) The additional 10% of the borrowed amount is 0.1 * the borrowed amount.
+7) So the total amount she will pay back is $165 + (0.1 * the borrowed amount).
+8) We can set up an equation to solve for the borrowed amount:
+$165 + (0.1 * the borrowed amount) = the borrowed amount
+9) Solving for the borrowed amount, we get:
+the borrowed amount = $165 / 0.9 = $183.33
+Answer: 183

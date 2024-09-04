@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. When the temperature is 50 degrees Fahrenheit, Peyton throws the ball 20 yards.
+2. When the temperature is 80 degrees Fahrenheit, he throws the ball twice as far, which is 2 * 20 = 40 yards.
+3. On Saturday, he throws the ball 20 times.
+4. On Sunday, the temperature is 80 degrees Fahrenheit, and he throws the ball 30 times.
+5. To find the total number of yards he threw the ball in the two days, we add the yards he threw on Saturday and Sunday: 20 + 30 = 50 yards.
+
+Answer: 50

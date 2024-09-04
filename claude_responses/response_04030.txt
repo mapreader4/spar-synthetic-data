@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Justine had 10 more rubber bands than Bailey
+* Justine had 2 fewer rubber bands than Ylona
+* Bailey gave 2 rubber bands each to Justine and Ylona, leaving him with 8 rubber bands
+* Let's call the number of rubber bands Ylona had in the beginning as "x"
+* Since Justine had 2 fewer rubber bands than Ylona, Justine had "x-2" rubber bands
+* Since Justine had 10 more rubber bands than Bailey, Bailey had "x-2-10 = x-12" rubber bands
+* Bailey gave 2 rubber bands each to Justine and Ylona, so he was left with 8 rubber bands
+* Therefore, Bailey originally had 8 + 2 + 2 = 12 rubber bands
+* We know that Bailey had "x-12" rubber bands, so "x-12 = 12"
+* Solving for x, we get x = 24
+
+Answer: 24

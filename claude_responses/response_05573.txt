@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* On Monday, Amy brings 1 muffin to school
+* Each day after that, she brings one more muffin than the day before
+* So, on Tuesday, she brings 2 muffins
+* On Wednesday, she brings 3 muffins
+* On Thursday, she brings 4 muffins
+* On Friday, she brings 5 muffins
+* On Saturday, she has 7 muffins left
+
+Now, let's add up the total number of muffins she brought to school over the week:
+* Monday: 1 muffin
+* Tuesday: 2 muffins
+* Wednesday: 3 muffins
+* Thursday: 4 muffins
+* Friday: 5 muffins
+* Total muffins brought to school: 1 + 2 + 3 + 4 + 5 = 15 muffins
+
+Finally, we add the 7 muffins left on Saturday to the 15 muffins brought to school to get the total number of muffins she originally baked:
+* Total muffins baked: 15 + 7 = 22 muffins
+
+Answer: 22

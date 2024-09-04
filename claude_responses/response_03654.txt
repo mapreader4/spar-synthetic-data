@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Philip has 20 cows
+2) He has 50% more ducks than cows. 50% of 20 is 10, so he has 20 + 10 = 30 ducks.
+3) He has as many pigs as one-fifth of the total number of ducks and cows. 
+4) The total number of ducks and cows is 20 + 30 = 50.
+5) One-fifth of 50 is 10, so Philip has 10 pigs.
+6) Adding up all the animals, we get:
+   - 20 cows
+   - 30 ducks
+   - 10 pigs
+   - Total: 20 + 30 + 10 = 60 animals
+
+Answer: 60

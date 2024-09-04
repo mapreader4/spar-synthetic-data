@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, Christine sold $24000 worth of items, and she gets a 12% commission on each item. So, her total earnings are 0.12 * 24000 = $2880.
+
+Next, 60% of her earnings will be allocated to her personal needs. This is 0.6 * 2880 = $1728.
+
+The rest of her earnings will be saved, which is 2880 - 1728 = 1152.
+
+Answer: 1152.

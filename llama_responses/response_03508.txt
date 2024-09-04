@@ -1,0 +1,28 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+1. Mr. Maxwell takes 1 hour to drive to work in the morning.
+2. He takes 1.5 hours to drive back home in the evening.
+3. The morning and evening traffic is similar.
+4. He drives at an average speed of 30mph in the morning.
+
+We want to find the average speed of his return journey.
+
+Step 1: Calculate the distance Mr. Maxwell drives in the morning:
+
+1 hour = 60 minutes = 30 miles (since 1 hour = 60 minutes, and 1 hour = 60 minutes)
+
+Step 2: Calculate the distance Mr. Maxwell drives in the evening:
+
+1.5 hours = 90 minutes = 45 miles (since 1.5 hours = 90 minutes, and 1 hour = 60 minutes, so 1.5 hours = 1.5 * 60 = 90)
+
+Step 3: Since the morning and evening traffic is similar, the distance driven in the morning and evening is the same. Therefore, the distance driven in the evening is also 30 miles.
+
+Step 4: Calculate the average speed of the return journey:
+
+Total distance driven in the evening = 30 miles
+Time taken in the evening = 1.5 hours
+Average speed = Total distance / Time = 30 miles / 1.5 hours = 20 mph
+
+Answer: 20

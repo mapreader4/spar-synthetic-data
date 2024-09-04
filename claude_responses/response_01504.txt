@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. The theater has a capacity of 400 seats.
+2. They fill the theater to 80% capacity.
+   - 80% of 400 seats = 0.8 * 400 = 320 seats filled
+3. Each ticket costs $30.
+4. They repeated the same performance 2 other days.
+   - So they had a total of 3 performances.
+5. To calculate the total revenue:
+   - Revenue per performance = 320 seats * $30 per ticket = $9,600
+   - Total revenue = $9,600 * 3 performances = $28,800
+
+Answer: $28,800

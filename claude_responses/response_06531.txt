@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The cookfire starts with 6 logs
+* It burns 3 logs every hour
+* At the end of each hour, 2 more logs are added
+
+After the first hour:
+* 6 logs - 3 logs burned = 3 logs left
+* 2 logs added
+* Total logs = 3 + 2 = 5 logs
+
+After the second hour:
+* 5 logs - 3 logs burned = 2 logs left
+* 2 logs added
+* Total logs = 2 + 2 = 4 logs
+
+After the third hour:
+* 4 logs - 3 logs burned = 1 log left
+* 2 logs added
+* Total logs = 1 + 2 = 3 logs
+
+Answer: 3 logs

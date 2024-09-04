@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+* Hasan initially put 38 dinner plates in the box
+* Each plate weighs 10 ounces
+* To convert ounces to pounds, we divide by 16 (since 1 pound = 16 ounces)
+* So each plate weighs 10/16 = 0.625 pounds
+* The total weight of the 38 plates is 38 * 0.625 = 23.75 pounds
+* The movers said the box can only hold 20 pounds before it's too heavy
+* So Hasan needed to remove enough plates to get the total weight under 20 pounds
+* He kept removing plates until the scale said the box was an acceptable weight for shipping
+* Therefore, the number of plates Hasan needed to remove is:
+Answer: 4

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+* Susie can vacuum the whole house in 2 hours
+* Each room takes her 20 minutes to vacuum
+* To find the number of rooms, we need to determine how many 20-minute intervals are in 2 hours
+* 2 hours = 120 minutes
+* 120 minutes / 20 minutes per room = 6 rooms
+* Therefore, Susie has 6 rooms in her house.
+
+Answer: 6

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jenna drives for 2 hours at 60 mph, so she travels 2 * 60 = 120 miles.
+2) She then drives for 3 hours at 50 mph, so she travels 3 * 50 = 150 miles.
+3) The total distance she travels is 120 + 150 = 270 miles.
+4) She can drive 30 miles on one gallon of gas, so the total number of gallons of gas she needs is 270 / 30 = 9 gallons.
+5) Each gallon of gas costs $2, so the total cost of gas for her trip is 9 * $2 = $18.
+
+Answer: $18

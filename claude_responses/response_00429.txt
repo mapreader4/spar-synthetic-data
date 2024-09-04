@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total number of books in the library is 2300.
+2) 80% of the books are in English. To calculate this, we take 80% of 2300:
+   * 80% of 2300 = 0.8 * 2300 = 1840 books in English
+3) 60% of the English books were published in the country. To calculate this, we take 60% of 1840:
+   * 60% of 1840 = 0.6 * 1840 = 1104 books published in the country
+4) To find the number of English-language books published outside the country, we subtract the number of books published in the country from the total number of English books:
+   * 1840 - 1104 = 736 books published outside the country
+
+Answer: 736

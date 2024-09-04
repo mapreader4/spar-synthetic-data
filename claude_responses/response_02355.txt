@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Large boxes: 2 boxes, each using 4 feet of tape to seal + 1 foot for the address label = 5 feet per box
+* Total tape for large boxes: 2 boxes x 5 feet per box = 10 feet
+* Medium boxes: 8 boxes, each using 2 feet of tape to seal + 1 foot for the address label = 3 feet per box
+* Total tape for medium boxes: 8 boxes x 3 feet per box = 24 feet
+* Small boxes: 5 boxes, each using 1 foot of tape to seal + 1 foot for the address label = 2 feet per box
+* Total tape for small boxes: 5 boxes x 2 feet per box = 10 feet
+* Total tape used:
+   - Large boxes: 10 feet
+   - Medium boxes: 24 feet
+   - Small boxes: 10 feet
+* Total tape used = 10 feet + 24 feet + 10 feet = 44 feet
+
+Answer: 44 feet

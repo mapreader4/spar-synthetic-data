@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+Let's start by finding the total number of candles needed. Kerry wants three cakes with his age in candles on each cake. So, we need to find Kerry's age.
+
+Let's say Kerry's age is x.
+
+For each cake, we need x candles. Since there are three cakes, we need 3x candles in total.
+
+The candles come in boxes of 12, and we know that each box costs $2.5. So, the total cost of the candles is 2.5x.
+
+We know that the total cost is 5, so we can set up an equation to solve for x.
+
+2.5x = 5
+
+To solve for x, we can divide both sides by 2.5.
+
+x = 5 / 2.5
+x = 2
+
+So, Kerry is 2 years old.

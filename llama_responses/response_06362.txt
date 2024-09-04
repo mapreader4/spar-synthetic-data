@@ -1,0 +1,29 @@
+Let's start by thinking step by step.
+
+Let's say Frank had x dollars in his wallet initially.
+
+After spending 1/5 of his money on groceries, he spent 1/5x of his money. So, the amount of money he spent on groceries is 1/5x. The remaining money is what is left over after subtracting 1/5x from x.
+
+After spending 1/4 of the remaining money to buy a magazine, he spent 1/4 of the remaining money. So, the amount of money he spent on the magazine is 1/4 of the remaining money.
+
+Let's denote the remaining money as y.
+
+The money he had left in his wallet is the initial money minus the money he spent on groceries and the money he spent on the magazine. So, the equation is:
+
+x - (1/5x) - (1/4y) = 360
+
+To solve this equation, we need to find the value of x. Since we know that 1/5x is 1/5 of the initial money, we can write 1/5 as a multiple of x. So, the equation becomes:
+
+x - (1/5x) - (1/4y) = 360
+
+We can multiply both sides of the equation by 5 to eliminate the fractions:
+
+5x - 5/4y = 1800
+
+Now, we can solve for x:
+
+x = 1800 / 3
+
+x = 600
+
+Answer: 600

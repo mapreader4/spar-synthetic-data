@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Cary strips 6 feet of ivy every day
+* The ivy grows 2 feet every night
+* The tree is covered by 40 feet of ivy
+
+So, each day Cary strips 6 feet of ivy, but the ivy grows back 2 feet overnight. This means that the net reduction in ivy is 6 feet - 2 feet = 4 feet per day.
+
+To find the number of days it will take to strip all the ivy off, we need to divide the total ivy coverage (40 feet) by the net reduction per day (4 feet).
+
+40 feet / 4 feet per day = 10 days
+
+Therefore, it will take Cary 10 days to strip all the ivy off the tree.
+
+Answer: 10

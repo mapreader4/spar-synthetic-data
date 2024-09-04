@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 2 bananas in the bowl
+* There are twice as many apples as bananas, so there are 2 x 2 = 4 apples in the bowl
+* The total number of fruits in the bowl is 12
+* We know the number of bananas (2) and the number of apples (4)
+* To find the number of oranges, we need to subtract the number of bananas and apples from the total number of fruits:
+* Total fruits = 12
+* Bananas = 2
+* Apples = 4
+* Oranges = Total fruits - Bananas - Apples
+* Oranges = 12 - 2 - 4 = 6
+
+Answer: 6

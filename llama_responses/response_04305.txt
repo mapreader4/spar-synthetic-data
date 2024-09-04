@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+On Monday, Gabrielle sells 5 crates of eggs.
+
+On Tuesday, she sells 2 times as many crates of eggs as Monday, which is 5 x 2 = 10 crates.
+
+On Wednesday, she sells 2 fewer crates than Tuesday, which is 10 - 2 = 8 crates.
+
+On Thursday, she sells half as many crates of eggs as she sells on Tuesday, which is 10 / 2 = 5 crates.
+
+To find the total number of crates of eggs she sells for the 4 days, we add up the number of crates sold each day:
+
+5 (Monday) + 10 (Tuesday) + 8 (Wednesday) + 5 (Thursday) = 28
+
+Answer: 28

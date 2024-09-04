@@ -1,0 +1,9 @@
+Let's start by using the information that the machine has half as many blue gumballs as red gumballs. Since there are 16 red gumballs, the number of blue gumballs is half of 16, which is 8.
+
+Next, we know that for each blue gumball, the machine has 4 times as many green gumballs. Since there are 8 blue gumballs, the number of green gumballs is 8 x 4 = 32.
+
+Finally, we add the number of red, blue, and green gumballs together to find the total number of gumballs in the machine:
+
+16 (red) + 8 (blue) + 32 (green) = 56
+
+Answer: 56

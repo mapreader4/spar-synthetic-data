@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of hours the artist has in four weeks. 4 weeks is equal to 168 hours (since there are 7 days in a week and 7 * 4 = 28).
+
+Now, we need to find how many paintings she can make in 168 hours. Since it takes her 3 hours to complete a painting, we can divide 168 by 3 to get the number of paintings she can make. 168 / 3 = 56.
+
+Answer: 56

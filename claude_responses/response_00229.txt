@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Jan buys 1000 feet of cable.
+2) She splits it up into 25-foot sections. 
+   * 1000 feet / 25 feet per section = 40 sections
+3) She gives 1/4 of that to a friend.
+   * 1/4 of 40 sections = 10 sections
+   * 10 sections x 25 feet per section = 250 feet given to a friend
+4) She then puts half of the rest in storage.
+   * Remaining sections = 40 - 10 = 30 sections
+   * Half of 30 sections = 15 sections
+   * 15 sections x 25 feet per section = 375 feet in storage
+
+Therefore, the amount she keeps on hand is:
+* Total cable - Cable given to friend - Cable in storage
+* 1000 feet - 250 feet - 375 feet = 375 feet
+
+Answer: 375

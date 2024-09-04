@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Ben has 20 eggs initially.
+He ate 4 eggs in the morning, so he has 20 - 4 = 16 eggs left.
+Then, he ate 3 eggs in the afternoon, so he has 16 - 3 = 13 eggs left.
+
+Answer: 13

@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. The total bill is $140.
+2. The sales tax is 10%, so we need to calculate 10% of the total bill.
+3. To do this, we multiply the total bill by 0.1, which is the same as multiplying by 1/10.
+4. $140 * 0.1 = $14.
+5. The total bill is $140, and we have already calculated the sales tax, so we need to subtract the sales tax from the total bill.
+6. $140 - $14 = $126.
+7. I ordered a NY Striploin for $80 and a glass of wine for $10, so we need to add these to the total bill.
+8. $126 + $80 + $10 = $216.
+9. The total bill is $216, so the gratuities are $216 - $216 = $0.
+
+Answer: 0.

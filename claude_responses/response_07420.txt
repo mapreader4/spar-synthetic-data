@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Nikola wants 400 ants in his farm.
+2) Each ant needs 2 ounces of food.
+3) So the total amount of food needed is 400 ants x 2 ounces = 800 ounces of food.
+4) Each ounce of ant food costs $0.10.
+5) So the total cost of the ant food is 800 ounces x $0.10 = $80.
+6) Nikola charges $5 to start a job and 1 penny per leaf.
+7) He raked 6,000 leaves.
+8) So the total amount he earned from raking leaves is $5 + (6,000 leaves x $0.01) = $65.
+9) To calculate the number of jobs he completed, we need to divide the total amount he earned ($65) by the $5 he charges to start a job.
+10) $65 / $5 = 13 jobs.
+
+Answer: 13 jobs.

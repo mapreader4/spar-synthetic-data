@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of plums on the plum tree. The problem states that the apple tree has three times as many apples as the number of plums on the plum tree. So, let's call the number of plums on the plum tree x. Since the apple tree has 3 times as many apples as the number of plums on the plum tree, the number of apples on the apple tree is 3x.
+
+Next, we know that Damien picks 3/5 of the fruits from the trees. Since the total number of fruits is the sum of the apples and plums, we can set up an equation to solve for the total number of plums on the plum tree. Let's do that now.
+
+The total number of fruits is the sum of the apples and plums, which is 3x + x. Since Damien picks 3/5 of the fruits, he picks 3/5 of the apples and 3/5 of the plums. This means that the number of apples he picks is 3/5 * 3x and the number of plums he picks is 3/5 * x.
+
+We know that the total number of fruits Damien picks is 3/5 * 3x + x. This means that 3/5 * 3x + x = 3x, so the number of plums Damien picks is x.
+
+Now we know that Damien picks x fruits in total. We know that the total number of fruits Damien picks is 3x, so we can set up an equation to solve for x. The equation is 3x = x. This means that x = 3x, so the number of plums on the plum tree is 3x.
+
+The problem states that there were 180 apples on the apple tree before Damien picked any of the fruits. Since Damien picks 3/5 of the fruits, we know that the number of apples he picks is 3/5 * 3x. This means that the number of apples he picks is 3/5 * 60. Since the total number of fruits Damien picks is 3x, we can set up an equation to solve for x. The equation is 3x = 180. This means that x = 60.
+
+So, the answer is: 60.

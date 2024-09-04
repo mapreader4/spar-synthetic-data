@@ -1,0 +1,8 @@
+Let's break it down step by step.
+
+1. The baker has 10 cheesecakes on the display.
+2. 15 more cheesecakes are in the fridge, so the total number of cheesecakes is 10 + 15 = 25.
+3. The baker sells 7 cheesecakes from the display. So, the number of cheesecakes on the display is 10 - 7 = 3.
+4. So, the number of cheesecakes left to be sold is the total number of cheesecakes minus the number sold, which is 25 - 7 = 18.
+
+Answer: 18

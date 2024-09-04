@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information we know:
+
+* City A received 16 1/2 tons of sand.
+* City B received 26 tons of sand.
+* City C received 24 1/2 tons of sand.
+* The total for all four cities is 95 tons.
+
+We know that City D received some amount of sand, which we will call x.
+
+We can write an equation to represent this information:
+
+16 1/2 + 26 + 24 1/2 + x = 95
+
+To solve for x, we can first simplify the equation by combining the fractions:
+
+16 1/2 = 8 and 24 1/2 = 12. So the equation becomes:
+
+8 + 12 + x = 95
+
+To solve for x, we can subtract 8 and 12 from both sides of the equation:
+
+x = 95 - 20 = 75
+
+So, the answer is:
+
+Answer: 55

@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) Sam has $75.
+2) Billy has $25 less than twice the money Sam has.
+3) To find how much money Billy has, we first need to calculate twice the money Sam has:
+   * Twice the money Sam has = 2 x $75 = $150
+4) Now, we subtract $25 from $150 to get the amount of money Billy has:
+   * Billy's money = $150 - $25 = $125
+5) Now, to find the total amount of money they have together, we add Sam's money and Billy's money:
+   * Total money = Sam's money + Billy's money
+   * Total money = $75 + $125 = $200
+
+Answer: $200

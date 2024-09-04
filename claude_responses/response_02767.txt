@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Polly spends 20 minutes cooking breakfast every day
+* She spends 5 minutes cooking lunch every day
+* She spends 10 minutes cooking dinner 4 days this week
+* She spends 30 minutes cooking dinner the remaining 3 days this week
+
+First, let's calculate the total time spent on breakfast and lunch:
+* Breakfast: 20 minutes x 7 days = 140 minutes
+* Lunch: 5 minutes x 7 days = 35 minutes
+* Total for breakfast and lunch: 140 + 35 = 175 minutes
+
+Next, let's calculate the time spent on dinner:
+* 4 days at 10 minutes each = 40 minutes
+* 3 days at 30 minutes each = 90 minutes
+* Total for dinner: 40 + 90 = 130 minutes
+
+Finally, we add the time spent on breakfast, lunch, and dinner:
+* Total time spent cooking this week: 175 + 130 = 305 minutes
+
+Answer: 305

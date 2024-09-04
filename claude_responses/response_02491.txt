@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. Fudge sales:
+   * The candy store sold 20 pounds of fudge at $2.50 per pound.
+   * Total revenue from fudge sales = 20 pounds × $2.50/pound = $50.
+
+2. Chocolate truffles sales:
+   * The candy store sold 5 dozen chocolate truffles at $1.50 each.
+   * Total revenue from chocolate truffles sales = 5 dozen × 12 truffles/dozen × $1.50/truffle = $90.
+
+3. Chocolate-covered pretzels sales:
+   * The candy store sold 3 dozen chocolate-covered pretzels at $2.00 each.
+   * Total revenue from chocolate-covered pretzels sales = 3 dozen × 12 pretzels/dozen × $2.00/pretzel = $72.
+
+4. Total revenue:
+   * Total revenue = Fudge sales + Chocolate truffles sales + Chocolate-covered pretzels sales
+   * Total revenue = $50 + $90 + $72 = $212.
+
+Answer: $212.

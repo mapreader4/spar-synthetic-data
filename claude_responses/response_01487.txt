@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Martin originally had 10 hens
+* Those 10 hens laid 80 eggs in 10 days
+* So, in 1 day, the 10 hens lay 80/10 = 8 eggs
+* Martin then bought 15 more hens, so now he has 10 + 15 = 25 hens
+* We want to know how many eggs all 25 hens will lay in 15 days
+* In 1 day, the 25 hens will lay 25 * 8 = 200 eggs
+* In 15 days, the 25 hens will lay 15 * 200 = 3,000 eggs
+
+Answer: 3,000

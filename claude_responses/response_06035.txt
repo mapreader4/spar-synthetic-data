@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Cherry charges $2.50 for a 3-5 kilograms cargo
+* She delivers four 5 kilograms cargo per day
+* So for the four 5 kilograms cargo, she earns 4 * $2.50 = $10 per day
+* Cherry charges $4 for a 6-8 kilograms cargo
+* She delivers two 8 kilograms cargo per day
+* So for the two 8 kilograms cargo, she earns 2 * $4 = $8 per day
+* In total, she earns $10 + $8 = $18 per day
+* There are 7 days in a week
+* So in a week, she will earn 7 * $18 = $126
+
+Answer: $126

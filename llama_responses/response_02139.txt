@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first identify the number of dolphins in the ocean initially: 65 dolphins.
+
+Then, three times that number joins in from a river which has its mouth at the ocean. This means that 3 x 65 dolphins join the 65 dolphins already present in the ocean. 
+
+To find the total number of dolphins in the ocean, we multiply the number of dolphins joining from the river by 3 with the initial number of dolphins: 65 + 3 x 65 = 65 + 195 = 260.
+
+Answer: 260

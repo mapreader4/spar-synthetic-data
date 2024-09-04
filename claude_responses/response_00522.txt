@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* One barnyard owl makes 5 hoot sounds per minute
+* We are told that 5 less than 20 hoots per minute are heard coming out of the barn
+* This means that the total number of hoots heard per minute is 20 - 5 = 15 hoots
+
+Now, we need to figure out how many barnyard owls are making this noise. Since one barnyard owl makes 5 hoots per minute, we can divide the total number of hoots per minute by 5 to get the number of owls:
+
+15 hoots per minute / 5 hoots per owl per minute = 3 owls
+
+Therefore, the noise is coming from 3 barnyard owls.
+
+Answer: 3

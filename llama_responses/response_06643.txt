@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of puppies Yuri adopted in each week.
+
+In the first week, Yuri adopted 20 puppies.
+In the second week, Yuri adopted 2/5 times as many puppies as the first week, which is 2 x 20 = 40 puppies.
+In the third week, Yuri adopted twice the number of puppies as the second week, which is 2 x 40 = 80 puppies.
+In the fourth week, Yuri adopted 10 more puppies than he adopted on the first week, which is 20 + 10 = 30 puppies.
+
+Now, let's add up the number of puppies Yuri adopted in all the weeks.
+
+20 + 40 + 80 + 30 = 150
+
+So, Yuri has 150 puppies now.
+
+Answer: 150

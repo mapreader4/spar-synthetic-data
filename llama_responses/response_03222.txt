@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of cards collected by Nicole and Cindy. Since Nicole collected 400 cards and Cindy collected twice as many, Cindy must have collected 800 cards. The total number of cards collected by Nicole and Cindy is 400 + 800 = 1200.
+
+Next, we need to find the total number of cards collected by Rex. Since Rex collected half of the total number of cards collected by Nicole and Cindy, he collected 600 cards.
+
+Now, Rex wants to divide his cards equally among himself and his three younger siblings. So, he will divide 600 cards into 4 parts. To do this, we need to divide 600 by 4. 600 ÷ 4 = 150.
+
+So, Rex has 150 cards left.

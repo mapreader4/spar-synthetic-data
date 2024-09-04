@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 20 members in the group
+* Each member sold an average of 8 candy bars
+* Each candy bar costs $0.50
+
+To calculate the total money earned, we need to:
+1. Calculate the total number of candy bars sold
+2. Multiply the total number of candy bars sold by the cost per candy bar
+
+Step 1: Total number of candy bars sold
+* Each member sold an average of 8 candy bars
+* There are 20 members in the group
+* Total number of candy bars sold = 20 members x 8 candy bars per member = 160 candy bars
+
+Step 2: Calculate the total money earned
+* Each candy bar costs $0.50
+* Total money earned = 160 candy bars x $0.50 per candy bar = $80
+
+Answer: $80

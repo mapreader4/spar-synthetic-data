@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+1. The shipping cost is equal to a flat $5.00 fee, so that's a fixed cost that doesn't depend on the weight of the package.
+2. The cost per pound is $0.80. Since the package weighs 5 pounds, we need to multiply the cost per pound by the weight of the package to get the total cost for shipping.
+
+Cost per pound: $0.80
+Weight of package: 5 pounds
+
+Cost for shipping = Cost per pound x Weight of package
+= $0.80 x 5
+= $4.00
+
+So, Carly pays $4.00 for shipping.

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Initially, there are some number of lions in Londolozi
+* Lion cubs are born at the rate of 5 per month
+* Lions die at the rate of 1 per month
+* After 1 year (12 months), there are 148 lions in Londolozi
+
+To find the initial number of lions, we need to work backwards:
+* In 1 year, there are 5 cubs born per month, so 5 x 12 = 60 cubs born
+* In 1 year, there are 1 lion dying per month, so 1 x 12 = 12 lions dying
+* The net increase in lions over the year is 60 - 12 = 48 lions
+* So the initial number of lions must have been 148 - 48 = 100 lions
+
+Answer: 100

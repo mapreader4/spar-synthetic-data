@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Gwendolyn can read 200 sentences in 1 hour.
+2) The book has 20 paragraphs per page.
+3) Each paragraph has 10 sentences.
+4) The book has 50 pages.
+5) To find the total number of sentences in the book, we can multiply the number of paragraphs per page (20) by the number of sentences per paragraph (10), and then multiply that by the number of pages (50):
+20 paragraphs per page x 10 sentences per paragraph = 200 sentences per page
+200 sentences per page x 50 pages = 10,000 total sentences in the book
+6) Since Gwendolyn can read 200 sentences in 1 hour, we can divide the total number of sentences (10,000) by the number of sentences read per hour (200) to find the total time it will take her to read the book:
+10,000 total sentences / 200 sentences per hour = 50 hours
+
+Answer: 50 hours

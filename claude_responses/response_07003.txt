@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Julia bought 3 packs of red balls
+* Each pack of red balls has 19 balls
+* So the total number of red balls is 3 * 19 = 57 red balls
+
+* Julia bought 10 packs of yellow balls
+* Each pack of yellow balls has 19 balls
+* So the total number of yellow balls is 10 * 19 = 190 yellow balls
+
+* Julia bought 8 packs of green balls
+* Each pack of green balls has 19 balls
+* So the total number of green balls is 8 * 19 = 152 green balls
+
+* To find the total number of balls Julia bought, we add up the red, yellow, and green balls:
+* 57 red balls + 190 yellow balls + 152 green balls = 399 balls
+
+Answer: 399

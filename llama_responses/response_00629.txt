@@ -1,0 +1,10 @@
+Let's break this down step by step.
+
+Let's start with the number of periods the teacher teaches per day: 5 periods.
+Then, we know that he works for 24 days in a month. So, we can multiply the number of periods by the number of days to get the total number of periods he teaches in a month: 5 * 24 = 120.
+
+Since he is paid $5 per period, we can multiply the number of periods by the amount he is paid per period to find the total amount he earns in a month: 120 * 5 = 600.
+
+Now, we know the teacher has been working for 6 months. So, we need to multiply the total amount he earns in a month by the number of months he has worked: 600 * 6 = 3600.
+
+Answer: 3600

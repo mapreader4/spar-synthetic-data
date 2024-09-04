@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Shara had 20 shells before going on vacation.
+2) On vacation, she found 5 shells per day for 3 days.
+   * That's 5 shells x 3 days = 15 shells.
+3) On the fourth day, she found 6 shells.
+4) To calculate the total number of shells she has now, we add the initial 20 shells, the 15 shells she found in the first 3 days, and the 6 shells she found on the fourth day.
+   * 20 + 15 + 6 = 41 shells.
+
+Answer: 41

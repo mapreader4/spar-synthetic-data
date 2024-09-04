@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jaxon got 15 toys
+* Gabriel has twice as many toys as Jaxon, so Gabriel has 2 * 15 = 30 toys
+* Jerry has 8 more toys than Gabriel, so Jerry has 30 + 8 = 38 toys
+
+Now, to find the total number of toys they all have, we add up the number of toys for each child:
+* Jaxon: 15 toys
+* Gabriel: 30 toys
+* Jerry: 38 toys
+
+Total number of toys = 15 + 30 + 38 = 83
+
+Answer: 83

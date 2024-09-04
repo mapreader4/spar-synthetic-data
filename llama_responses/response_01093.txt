@@ -1,0 +1,15 @@
+Let's start by identifying the information given in the problem. We know that Lorenzo had 3 full cans of thumbtacks, and he used 1 tack from each can for every board he tested. We also know that he tested 120 boards.
+
+Let's start by finding the total number of tacks used. Since he used 1 tack for each of the 120 boards, the total number of tacks used is 120.
+
+We also know that at the end of the day, he had 30 tacks remaining in each of the 3 cans. To find the total number of tacks in the 3 cans, we can multiply the number of tacks remaining in each can by the number of cans:
+
+30 tacks/can x 3 cans = 90 tacks
+
+So, the total number of tacks in the 3 cans is 90.
+
+To find the total combined number of thumbtacks from the three full cans, we need to add the number of tacks used (120) to the number of tacks remaining (90):
+
+120 (tacks used) + 90 (tacks remaining) = 210
+
+Answer: 210

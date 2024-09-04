@@ -1,0 +1,32 @@
+Okay, let's break this down step-by-step:
+
+1. Geordie drives his car to work 3 times a week and his motorcycle 2 times a week.
+2. The toll for the car is $12.50 per trip, and the toll for the motorcycle is $7 per trip.
+3. The commute to work is 14 miles, and the commute back is also 14 miles, so the total distance traveled per day is 28 miles.
+4. Geordie's car and motorcycle both get 35 miles per gallon of gas.
+5. Gas costs $3.75 per gallon.
+
+Now, let's calculate the total cost for the week:
+
+Car Toll:
+3 trips per week x $12.50 per trip = $37.50
+
+Motorcycle Toll:
+2 trips per week x $7 per trip = $14
+
+Car Gas:
+28 miles per day x 3 days per week = 84 miles per week
+84 miles per week / 35 miles per gallon = 2.4 gallons per week
+2.4 gallons per week x $3.75 per gallon = $9
+
+Motorcycle Gas:
+28 miles per day x 2 days per week = 56 miles per week
+56 miles per week / 35 miles per gallon = 1.6 gallons per week
+1.6 gallons per week x $3.75 per gallon = $6
+
+Total Cost:
+Car Toll + Motorcycle Toll + Car Gas + Motorcycle Gas
+= $37.50 + $14 + $9 + $6
+= $66.50
+
+Answer: $66.50

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The regular price of a medium pizza is $18
+* With the promotion, you can get the next 3 medium pizzas for $5 each
+* To take full advantage of the promotion, you need to buy a regular large pizza first
+* The savings would be the difference between the regular price of 3 medium pizzas and the discounted price of 3 medium pizzas
+
+First, let's calculate the regular price of 3 medium pizzas:
+* 3 medium pizzas at $18 each = 3 x $18 = $54
+
+Now, let's calculate the discounted price of 3 medium pizzas:
+* 3 medium pizzas at $5 each = 3 x $5 = $15
+
+The total savings would be the difference between the regular price and the discounted price:
+* $54 - $15 = $39
+
+Answer: $39

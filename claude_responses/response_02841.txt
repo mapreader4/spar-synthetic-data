@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Dolly wants to ride the Ferris wheel twice, which costs 2 tickets per ride, so that's 2 x 2 = 4 tickets
+* Dolly wants to ride the roller coaster three times, which costs 5 tickets per ride, so that's 3 x 5 = 15 tickets
+* Dolly wants to ride the log ride seven times, which costs 1 ticket per ride, so that's 7 x 1 = 7 tickets
+* Adding up the total number of tickets needed: 4 + 15 + 7 = 26 tickets
+* Dolly has 20 tickets
+* To find how many more tickets Dolly should buy, we subtract the number of tickets she has (20) from the total number of tickets she needs (26):
+* 26 - 20 = 6 tickets
+
+Answer: 6

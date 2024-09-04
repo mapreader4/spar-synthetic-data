@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+James's insurance covers 80%, which means it covers 0.8 of the 300 dollar cost. So, the amount covered by the insurance is 0.8 * 300 = 240.
+
+The remaining amount that James needs to pay out-of-pocket is the total cost minus the amount covered by the insurance. So, the out-of-pocket cost is 300 - 240 = 60.
+
+Answer: 60

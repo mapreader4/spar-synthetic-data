@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Zara bought 24 cows and 7 sheep.
+2) We need to find out how many goats she bought to make a total of 48 animals per group.
+3) The total number of animals Zara bought is 24 cows + 7 sheep + x goats, where x is the number of goats.
+4) Since the animals will be transported in 3 equally-sized groups of 48 animals per group, the total number of animals is 3 * 48 = 144.
+5) Therefore, 24 cows + 7 sheep + x goats = 144.
+6) Solving for x, we get x = 144 - 24 - 7 = 113.
+
+Answer: 113 goats.

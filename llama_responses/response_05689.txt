@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the rate at 1 bunny's rate of coming out of its burrow, which is 3 times per minute. This means that in 1 minute, 3 bunnies will come out of their burrows.
+
+Now, if we have 20 bunnies, we can multiply the rate of 3 bunnies per minute by the number of minutes in 10 hours to find the total number of bunnies that will come out of their burrows.
+
+To do this, we can multiply 3 bunnies per minute by 60 minutes, which is the number of minutes in 1 hour. This gives us:
+
+3 bunnies/minute * 60 minutes = 180 bunnies
+
+Now, we have 20 bunnies. We can multiply 180 bunnies by the number of hours in 10 hours:
+
+180 bunnies * 10 hours = 1800 bunnies
+
+So, the combined number of times 20 bunnies at the same pace will come out of their burrows in 10 hours is 1800. Therefore, the answer is:
+
+Answer: 1800

@@ -1,0 +1,12 @@
+To solve this problem, I will first calculate the area of the kitchen. The area of the kitchen is 48 inches by 72 inches, which is equal to 3456 square inches.
+
+Next, I will calculate how many tiles are needed. Each tile is 6 square inches, so to find the number of tiles needed, I will divide the total area by the area of a single tile.
+
+Area of the kitchen: 3456 square inches
+Area of a single tile: 6 square inches
+
+To find the number of tiles needed, I will divide the area of the kitchen by the area of a single tile:
+
+3456 square inches (area of the kitchen) / 6 square inches (area of a single tile) = 576
+
+So, Kimiko needs to buy 576 tiles.

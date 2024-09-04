@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The vendor is selling sunglasses for $30 each.
+2) He sells 10 pairs of sunglasses in a day.
+3) The total revenue from selling 10 pairs of sunglasses at $30 each is: 10 x $30 = $300.
+4) The vendor then takes half of his profits and uses it to buy a new sign, which costs $20.
+5) The profits are the total revenue minus the cost of buying the sunglasses. So the profits are $300 - the cost of buying the sunglasses.
+6) Half of the profits are used to buy the $20 sign, so the other half of the profits are the amount the vendor spent to buy the sunglasses.
+7) Let's call the cost of buying each pair of sunglasses 'x'.
+8) The total cost of buying the 10 pairs of sunglasses is 10x.
+9) The profits are $300 - 10x.
+10) Half of the profits, which is used to buy the $20 sign, is ($300 - 10x)/2 = $20.
+11) Solving this equation, we get: $300 - 10x = $40, so 10x = $260, and x = $26.
+
+Answer: $26

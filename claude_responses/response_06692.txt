@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+* On Monday, Jeremy picks 100 oranges.
+* On Tuesday, Jeremy and his brother pick thrice as much as Monday, which is 3 x 100 = 300 oranges.
+* On Wednesday, Jeremy picks 70 oranges.
+
+To find the total number of oranges, we add up the amounts from each day:
+* Monday: 100 oranges
+* Tuesday: 300 oranges
+* Wednesday: 70 oranges
+
+Total number of oranges = 100 + 300 + 70 = 470 oranges
+
+Answer: 470

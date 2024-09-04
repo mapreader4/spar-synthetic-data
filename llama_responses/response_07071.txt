@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say Keith started with x cards.
+
+Keith bought 8 new cards, so he now has x + 8 cards.
+
+The dog ate half of his collection, which is half of x + 8. Let's say half of x + 8 is y. Then, the number of cards left is x + 8 - y.
+
+We know that there are 46 cards left, so we can set up an equation: x + 8 - y = 46.
+
+We can add y to both sides of the equation to get x - y = 46 - 8. We know that x - y = 38.
+
+To find x, we can add y to both sides of the equation to get x = 38 + y. We can subtract 8 from both sides to get x = 30.
+
+So, Keith started with 30 cards.

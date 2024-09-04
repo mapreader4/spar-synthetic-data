@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) There are 25 students in the class, and one student is absent.
+2) The average score of the students who took the test was 77%.
+3) For the class to get a pizza party, the average score must be higher than 75%.
+4) Let's call the absent student's score 'x'.
+5) The total score of the 24 students who took the test is 24 * 77% = 1848.
+6) The total score of all 25 students, including the absent student, must be greater than 75% of 25, which is 18.75.
+7) The total score of all 25 students is 1848 + x.
+8) So we need 1848 + x > 18.75.
+9) Solving for x, we get x > 18.75 - 1848 = 51.25.
+10) Since the score must be an integer, the lowest grade the absent student can get for the class to still get a pizza party is 52.
+
+Answer: 52

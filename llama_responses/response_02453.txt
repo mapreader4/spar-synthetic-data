@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Toby starts with 63 photos.
+
+He deletes 7 photos, so he has 63 - 7 = 56 photos left.
+
+Then, he takes 15 photos of his cat, so he now has 56 + 15 = 71 photos.
+
+After the photo shoot with his friends, he decides to delete 3 photos. So, he has 71 - 3 = 68 photos left.
+
+However, the problem states that his camera roll has 84 photos in the end. So, the number of photos taken in the photo shoot must be the difference between 84 and 68.
+
+84 - 68 = 16.
+
+Answer: 16

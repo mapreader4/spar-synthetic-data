@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how many pages she has left to read. We know she is currently at page 90, and the book has 210 pages. So, she has 210 - 90 = 120 pages left to read.
+
+Now, we know she reads at a steady pace. So, we need to find out how many hours she reads in 1 hour. Let's call this rate r. We don't know what r is, but we can find it out. An hour ago, she was at page 60. So, we know she read 60 pages in 1 hour. We can use this information to find out how many hours she reads in 1 hour. Let's divide 60 by r to get the number of hours she reads in 1 hour. 60 / r = x.
+
+Now, we know she has 120 pages left to read. We know she reads x pages in 1 hour. So, we can multiply the number of hours she reads in 1 hour by the number of hours it will take her to finish the book. 120 / x = t. Now, we can multiply t by the number of hours it takes to read the book. t * 1 = t. t = 120 / x * 1 = 12.
+
+So, the answer is 12 hours. Answer: 12

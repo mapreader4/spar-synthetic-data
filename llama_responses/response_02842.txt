@@ -1,0 +1,6 @@
+Let's break this problem down step by step:
+
+1. Rachel solved 5 math problems each minute for 12 minutes before bed, which is a total of 5 * 12 = 60 problems.
+2. She didn't finish all of them, so let's subtract the number of problems she finished from the total. The number of problems she finished is not given, but we know she finished the last 16 problems at lunch. So, let's subtract 16 from 60 to find the number of problems she didn't finish: 60 - 16 = 44.
+
+Answer: 44

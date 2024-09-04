@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* It takes Bryan 5 minutes to walk from his house to the bus station
+* Then he rides the bus for 20 minutes
+* After that, he walks 5 minutes from the bus station to his job
+* So the total time for his commute to work is 5 + 20 + 5 = 30 minutes
+* He does the same thing in reverse to get home from work, so the total time for his commute to and from work is 30 + 30 = 60 minutes per day
+* There are 365 days in a year, so if he works every day, he would spend:
+* 60 minutes per day x 365 days per year = 21,900 minutes per year
+* 21,900 minutes per year / 60 minutes per hour = 365 hours per year
+
+Answer: 365 hours

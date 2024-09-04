@@ -1,0 +1,7 @@
+To find the number of passengers that step on and off a train at the station within an hour, we need to find the total number of passengers that step on and off the train within the 60 minutes.
+
+The train leaves the station every 5 minutes, so it leaves the station 12 times in an hour. The number of passengers that leave the station is 12 x 200 = 2400. The number of passengers that board the train is 12 x 320 = 3840.
+
+So, the total number of passengers that step on and off the train at the station within an hour is 2400 + 3840 = 6240.
+
+Answer: 6240

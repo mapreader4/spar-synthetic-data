@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the number of refrigerators produced per hour.
+
+90 refrigerators per hour are produced, and 70 more coolers than refrigerators are produced per hour. So, the number of coolers produced per hour is 90 + 70 = 160.
+
+Now, the factory works for 9 hours a day. So, the number of refrigerators produced per day is 160 * 9 = 1440.
+
+Now, the factory works for 5 days. So, the total number of refrigerators produced is 1440 * 5 = 7200.
+
+Answer: 7200

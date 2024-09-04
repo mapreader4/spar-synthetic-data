@@ -1,0 +1,23 @@
+Let's break down the problem step by step:
+
+Let's say the price of the coat is x.
+
+The problem states that the shirt is one-third the price of the coat. So, we can write an equation to represent this:
+
+x/3 = price of the shirt
+
+We know that the total cost of the shirt and the coat is $600. So, we can set up an equation to represent this:
+
+x + x/3 = 600
+
+We can simplify this equation by multiplying both sides by 3 to get:
+
+3x = 1800
+
+Now, we can solve for x by dividing both sides by 3:
+
+x = 1800 / 3
+
+x = 600
+
+Answer: 600

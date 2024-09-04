@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the initial amount of coffee in the cups is 8 ounces. If the cups are filled with coffee, and then the scientist shrinks them by 50%, the amount of coffee in each cup will be reduced by 50%.
+
+The amount of coffee in each cup is 8 ounces, and it will be reduced by 50%. To find the new amount of coffee in each cup, we can multiply 8 ounces by 0.5 to get:
+
+8 ounces * 0.5 = 4 ounces
+
+So, after the cups are shrink zapped, there will be 4 ounces of coffee in each cup.
+
+Now, let's find the total amount of coffee remaining. Since there are 5 cups, and each cup has 4 ounces of coffee, we can multiply the number of cups by the amount of coffee in each cup to get:
+
+5 cups * 4 ounces = 20 ounces
+
+So, the total amount of coffee remaining is 20 ounces.
+
+Answer: 20

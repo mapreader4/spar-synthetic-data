@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The pizzeria sells small pizzas for $2 and large pizzas for $8
+* They sold a total of $40 in pizzas
+* They sold 8 small pizzas
+
+To find the number of large pizzas they sold, we can set up an equation:
+* Let x = the number of large pizzas sold
+* Small pizzas sold = 8
+* Total revenue = (8 * $2) + (x * $8) = $16 + $8x
+* Total revenue = $40
+* $16 + $8x = $40
+* $8x = $24
+* x = 3
+
+Therefore, the pizzeria sold 3 large pizzas.
+
+Answer: 3

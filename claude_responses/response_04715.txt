@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mary has 2 trash bins and 1 recycling bin
+* The garbage company charges $10 per trash bin and $5 per recycling bin every week
+* The bill is for a month with exactly 4 weeks
+* So the total cost for the month without any discounts or fines would be:
+    - 2 trash bins x $10 per bin x 4 weeks = $80
+    - 1 recycling bin x $5 per bin x 4 weeks = $20
+    - Total cost without discounts or fines = $80 + $20 = $100
+* Mary is getting an 18% discount on the whole bill
+    - 18% of $100 = 0.18 x $100 = $18
+    - Discounted bill = $100 - $18 = $82
+* Mary is also being charged a $20 fine for putting inappropriate items in the recycling bin
+* Therefore, Mary's total garbage bill is:
+    - Discounted bill + Fine = $82 + $20 = $102
+
+Answer: $102

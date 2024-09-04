@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The first bear costs $4.00
+* Each additional bear after the first one has a 50 cent discount
+* Wally is buying 101 bears
+
+To calculate the total cost, we need to consider the cost of the first bear and the cost of the remaining 100 bears with the discount.
+
+The cost of the first bear is $4.00.
+The cost of the remaining 100 bears with the 50 cent discount is:
+* 100 bears x $3.50 per bear = $350
+
+The total cost is the cost of the first bear plus the cost of the remaining 100 bears:
+* $4.00 + $350 = $354
+
+Answer: $354

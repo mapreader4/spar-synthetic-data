@@ -1,0 +1,16 @@
+Let's start by identifying the information given in the problem:
+
+* Troy had 300 straws.
+* He fed 3/5 of the straws to the adult pigs.
+* An equal number of straws were given to the piglets.
+* There were 20 piglets.
+
+We can start by identifying the number of straws given to the adult pigs. We know that 3/5 of the 300 straws were given to the adult pigs, which is equal to 180 straws.
+
+Now, since an equal number of straws were given to the piglets, we know that the piglets also received 180 straws.
+
+To find out how many straws each piglet ate, we can divide the total number of straws given to the piglets (180) by the number of piglets (20):
+
+180 ÷ 20 = 9
+
+Answer: 9

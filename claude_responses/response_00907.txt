@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The store received a total of 20 pallets of paper products
+* Half of the pallets were paper towels, which means 20 / 2 = 10 pallets of paper towels
+* A quarter of the pallets were tissues, which means 20 / 4 = 5 pallets of tissues
+* A fifth of the pallets were paper plates, which means 20 / 5 = 4 pallets of paper plates
+* The remaining pallets must be paper cups
+* To calculate the number of paper cup pallets, we take the total pallets (20) and subtract the pallets of paper towels (10), tissues (5), and paper plates (4)
+* 20 - 10 - 5 - 4 = 1 pallet of paper cups
+
+Answer: 1

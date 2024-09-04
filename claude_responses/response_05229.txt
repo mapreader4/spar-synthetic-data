@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* In each spoonful, there are 4 clusters of oats
+* In each bowl of cereal, Mikey gets 25 spoonfuls of cereal
+* So, in each bowl of cereal, there are 4 clusters of oats per spoonful x 25 spoonfuls = 100 clusters of oats
+* Each box of cereal contains 500 clusters of oats
+* To find how many bowlfuls of cereal are in each box, we divide the total clusters of oats in the box (500) by the clusters of oats in each bowl (100)
+* 500 clusters of oats / 100 clusters of oats per bowl = 5 bowlfuls of cereal per box
+
+Answer: 5

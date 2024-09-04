@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 105 flowers in total in the garden.
+2) There are twice as many red flowers as orange flowers. If there are 10 orange flowers, then there are 20 red flowers.
+3) There are 5 fewer yellow flowers than red flowers. So, there are 15 yellow flowers.
+4) The remaining flowers must be pink and purple, and they have the same amount.
+5) We know the total number of flowers is 105, and we have accounted for 20 red, 10 orange, and 15 yellow flowers. That leaves 105 - 20 - 10 - 15 = 60 flowers that must be pink and purple.
+6) Since the pink and purple flowers have the same amount, we can divide 60 by 2 to get the number of each color. 
+Answer: 30 pink flowers and 30 purple flowers.

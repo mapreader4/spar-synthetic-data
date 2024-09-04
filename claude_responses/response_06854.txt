@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The TV show has been going on for 14 years
+* Out of those 14 years:
+    - 8 seasons had 15 episodes each
+    - 4 seasons had 20 episodes each
+    - 2 seasons had 12 episodes each
+* To calculate the total number of episodes:
+    - 8 seasons x 15 episodes = 120 episodes
+    - 4 seasons x 20 episodes = 80 episodes
+    - 2 seasons x 12 episodes = 24 episodes
+* The total number of episodes is 120 + 80 + 24 = 224 episodes
+* To calculate the average number of episodes per year, we divide the total number of episodes (224) by the number of years (14):
+    - 224 episodes / 14 years = 16 episodes per year
+
+Answer: 16

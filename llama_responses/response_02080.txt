@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. Let's first find the total amount of money the hairstylist earns from normal haircuts in a day. He earns 5 normal haircuts for $5 each, so he earns 5 x 5 = 25 dollars in a day.
+2. Next, let's find the total amount of money the hairstylist earns from special haircuts in a day. He earns 3 special haircuts for $6 each, so he earns 3 x 6 = 18 dollars in a day.
+3. Next, let's find the total amount of money the hairstylist earns from trendy haircuts in a day. He earns 2 trendy haircuts for $8 each, so he earns 2 x 8 = 16 dollars in a day.
+4. Finally, let's find the total amount of money the hairstylist earns in a day. He earns 25 + 18 + 16 = 59 dollars in a day.
+5. To find the total amount of money the hairstylist earns per week, we multiply the total amount earned in a day by 7, since there are 7 days in a week. 59 x 7 = 413 dollars.
+
+Answer: 413

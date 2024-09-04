@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Miss Adamson has 4 classes
+* Each class has 20 students
+* She uses 5 sheets of paper per student
+
+First, we need to find the total number of students across all 4 classes:
+* 4 classes x 20 students per class = 80 students
+
+Next, we need to calculate the total number of sheets of paper used for all students:
+* 80 students x 5 sheets of paper per student = 400 sheets of paper
+
+Therefore, the answer is:
+Answer: 400

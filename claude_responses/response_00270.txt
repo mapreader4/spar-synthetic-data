@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Ayla talks with each customer for 1 hour
+* Each call is charged 5 cents per minute
+* Ayla talks to 50 customers per week
+
+First, let's calculate the cost per call:
+* 1 hour = 60 minutes
+* 60 minutes x 5 cents per minute = 300 cents per call
+* 300 cents per call = $3 per call
+
+Now, let's calculate the total cost for the week:
+* 50 customers per week x $3 per call = $150 per week
+
+Finally, let's calculate the total cost for the month:
+* Assuming 4 weeks in a month, the total cost for the month would be:
+* $150 per week x 4 weeks = $600 per month
+
+Answer: $600

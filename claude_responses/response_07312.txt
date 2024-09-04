@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Trevor has drawn 220 pages of the comic in the past three months
+* The comic releases a new issue once a month
+* The first and second months' issues were the same number of pages
+* The third month's issue was four pages longer than either of the others
+
+We can represent the number of pages in each issue as follows:
+* First month's issue: x pages
+* Second month's issue: x pages
+* Third month's issue: x + 4 pages
+
+The total number of pages drawn in the past three months is 220, so we can set up an equation:
+* x + x + (x + 4) = 220
+
+Solving for x, we get:
+* 3x + 4 = 220
+* 3x = 216
+* x = 72
+
+Therefore, the first issue of the comic was 72 pages.
+
+Answer: 72

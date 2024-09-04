@@ -1,0 +1,17 @@
+Let's break this down step by step!
+
+Tom Sawyer has 8 yellow tickets. To get 1 yellow ticket, he needs to trade in 10 red tickets. So, to get 8 yellow tickets, he needs to trade in 8 x 10 = 80 red tickets.
+
+Tom Sawyer already has 3 red tickets. So, he needs 80 - 3 = 77 more red tickets to trade in for 8 yellow tickets.
+
+Each red ticket is obtained by trading in 10 blue tickets. So, to get 77 red tickets, he needs to trade in 77 x 10 = 770 blue tickets.
+
+Tom Sawyer already has 7 blue tickets. So, he needs 770 - 7 = 763 more blue tickets to trade in for the remaining red tickets.
+
+But, to win a new Bible, he needs 10 yellow tickets. He already has 8 yellow tickets, so he needs 10 - 8 = 2 more yellow tickets.
+
+To get 2 more yellow tickets, he needs to trade in 2 x 10 = 20 red tickets. Since each red ticket is obtained by trading in 10 blue tickets, he needs to trade in 20 x 10 = 200 blue tickets to get 20 red tickets.
+
+So, in total, Tom Sawyer needs 763 + 200 = 963 more blue tickets to win a new Bible.
+
+Answer: 963

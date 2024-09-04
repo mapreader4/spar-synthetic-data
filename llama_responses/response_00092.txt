@@ -1,0 +1,13 @@
+Let's think step by step.
+
+Let's calculate the amount of money Sally makes in a year. She makes $6 per day, so in a year, she will make 365 * $6 = $2190.
+
+Now, let's calculate the amount of money Bob makes in a year. He makes $4 per day, so in a year, he will make 365 * $4 = $1460.
+
+Now, they both decide to save half of what they've earned. To find half of the amount, we need to divide each of their earnings by 2.
+
+Sally's half of the earnings will be 2190 / 2 = $1055.
+
+Bob's half of the earnings will be 1460 / 2 = $730.
+
+So, Sally and Bob will have 1055 + 730 = $1785 together.

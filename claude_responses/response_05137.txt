@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) We have 109 fifth graders, 115 sixth graders, and 118 seventh graders.
+2) There are 4 teachers and 2 parents from each grade coming along to chaperone.
+3) So the total number of people going on the field trip is:
+   - 109 fifth graders + 115 sixth graders + 118 seventh graders
+   - + 4 fifth grade teachers + 2 fifth grade parents
+   - + 4 sixth grade teachers + 2 sixth grade parents
+   - + 4 seventh grade teachers + 2 seventh grade parents
+   - = 109 + 115 + 118 + 4 + 2 + 4 + 2 + 4 + 2
+   - = 360 people
+4) Each bus has 72 seats.
+5) To calculate the number of buses needed, we divide the total number of people by the number of seats per bus:
+   - 360 people / 72 seats per bus = 5 buses
+
+Answer: 5 buses

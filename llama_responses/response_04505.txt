@@ -1,0 +1,14 @@
+Let's break down the problem step by step.
+
+1. 30 days of protest in 21 cities, which means 30 x 21 = 630 days of protest.
+2. In each city, there are 10 arrests per day.  So, there are 630 x 10 = 6300 arrests in total.
+3. Each person spends 4 days in jail before trial.  So, each person spends 4 x 6300 = 25200 days before trial.
+4. Then, they spend half of a 2-week sentence.  A 2-week sentence is 14 days long, so half of that is 14/2 = 7 days.
+5. So, each person spends 7 days in jail after trial.
+6. There are 6300 people arrested, so the total number of days in jail after trial is 6300 x 7 = 44100 days.
+
+The total number of days in jail time is the sum of the days before trial and the days after trial.  That is, 25200 + 44100 = 69300 days.
+
+So, the answer is:
+
+Answer: 69300

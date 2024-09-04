@@ -1,0 +1,7 @@
+Let's start by identifying the variables in the problem:
+
+* Eddie's age: 92
+* Becky's age: 4 times younger than Eddie's age, which is 92, so Becky's age is 92 - 4 = 88.
+* Irene's age: 2 times Becky's age, which is 88, so Irene's age is 2 x 88 = 176.
+
+So, the answer is 176.

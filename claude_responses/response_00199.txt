@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Gary bought a used car for $6,000
+* He borrowed the money from his dad
+* His dad said he could pay him back the full amount over 5 years
+* Gary decided to pay the full amount back in 2 years instead
+
+To calculate the monthly payment for the 5-year plan:
+* Total amount owed: $6,000
+* Time to pay back: 5 years
+* Monthly payment = $6,000 / (5 years * 12 months/year) = $100 per month
+
+To calculate the monthly payment for the 2-year plan:
+* Total amount owed: $6,000
+* Time to pay back: 2 years
+* Monthly payment = $6,000 / (2 years * 12 months/year) = $250 per month
+
+Now, to calculate the difference in monthly payments:
+* 2-year plan monthly payment: $250
+* 5-year plan monthly payment: $100
+* Difference in monthly payment: $250 - $100 = $150
+
+Answer: $150

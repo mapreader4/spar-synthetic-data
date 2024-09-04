@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Wendy polished 50 small glasses
+* She polished 10 more large glasses than small glasses
+* To find the number of large glasses, we add 10 to the number of small glasses:
+    - Number of large glasses = 50 + 10 = 60
+* To find the total number of glasses polished, we add the small and large glasses:
+    - Total glasses polished = 50 + 60 = 110
+
+Answer: 110

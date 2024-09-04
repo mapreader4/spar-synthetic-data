@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Delta Airlines flight:
+   - Original price: $850
+   - Discount: 20%
+   - Discounted price: $850 - (20% of $850) = $850 - $170 = $680
+
+2. United Airlines flight:
+   - Original price: $1100
+   - Discount: 30%
+   - Discounted price: $1100 - (30% of $1100) = $1100 - $330 = $770
+
+3. Comparing the two discounted prices:
+   - Delta Airlines flight: $680
+   - United Airlines flight: $770
+   - The Delta Airlines flight is cheaper by $90.
+
+Therefore, Carrie would save $90 by choosing the cheapest flight.
+
+Answer: $90

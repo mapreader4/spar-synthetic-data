@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Megan has 30 clients total
+* 7 clients need vegan meals
+* 8 clients need kosher meals
+* 3 clients need meals that are both vegan and kosher
+* To find the number of meals that are neither kosher nor vegan, we need to subtract the number of vegan and kosher meals from the total number of meals.
+
+First, let's find the total number of vegan and kosher meals:
+* Vegan meals: 7
+* Kosher meals: 8
+* Meals that are both vegan and kosher: 3
+* To avoid double-counting, we subtract the 3 meals that are both vegan and kosher from the total:
+* Total vegan and kosher meals = 7 + 8 - 3 = 12
+
+Now, we can find the number of meals that are neither kosher nor vegan:
+* Total meals = 30
+* Meals that are vegan and/or kosher = 12
+* Meals that are neither kosher nor vegan = 30 - 12 = 18
+
+Answer: 18

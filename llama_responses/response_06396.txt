@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the amount paid to a diploma holder per month: $4000.
+
+To find the amount paid to a person with a degree, we multiply the monthly amount by 3: 4000 * 3 = 12000.
+
+Since the problem asks for the amount earned in a year, we multiply the amount paid to a person with a degree by 12 (12 months in a year): 12000 * 12 = 144,000.
+
+So, the answer is:
+
+Answer: 144,000

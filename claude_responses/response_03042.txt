@@ -1,0 +1,16 @@
+To solve this problem, we need to find the total distance Andy needs to drive and then divide it by the time he wants to take to reach his destination.
+
+Given information:
+- The drive from Salt Lake City to Las Vegas is 420 miles.
+- The drive from Las Vegas to Los Angeles is 273 miles.
+- Andy wants to make the drive in 11 hours.
+
+Step 1: Calculate the total distance Andy needs to drive.
+Total distance = Distance from Salt Lake City to Las Vegas + Distance from Las Vegas to Los Angeles
+Total distance = 420 miles + 273 miles = 693 miles
+
+Step 2: Calculate the average minimum speed Andy needs to drive to reach Los Angeles in 11 hours.
+Average minimum speed = Total distance / Time
+Average minimum speed = 693 miles / 11 hours = 63 miles per hour
+
+Answer: 63 miles per hour

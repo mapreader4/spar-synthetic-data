@@ -1,0 +1,7 @@
+To solve this problem, I will start by identifying the total number of fruits. The total number of fruits is 78.
+
+Next, I will identify the number of kiwi. Since one-third of the total number of fruits are kiwi, and one-third of 78 is 26. So, the number of kiwi is 26.
+
+To find the number of strawberries, I will subtract the number of kiwi from the total number of fruits. The total number of strawberries is 78 - 26 = 52.
+
+Answer: 52

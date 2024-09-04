@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The shoes were marked 75% off, which means the current price is 25% of the original price.
+2) The current price of the shoes is $51.
+3) To find the original price, we need to find the value that is 25% of itself.
+4) Let's call the original price "x".
+5) 25% of x = $51
+6) 0.25x = $51
+7) x = $51 / 0.25
+8) x = $204
+
+Answer: 204

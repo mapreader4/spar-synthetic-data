@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Nina tries to travel at least 400 kilometers in one month outside of her home country.
+* Every second month, she travels twice that distance, which is 800 kilometers.
+* In a year, there are 12 months, so she would travel 400 kilometers for 6 months and 800 kilometers for 6 months.
+* For the 6 months of 400 kilometers, that's 6 * 400 = 2,400 kilometers.
+* For the 6 months of 800 kilometers, that's 6 * 800 = 4,800 kilometers.
+* So in one year, she would travel 2,400 + 4,800 = 7,200 kilometers.
+* In 2 years, she would travel 7,200 * 2 = 14,400 kilometers.
+
+Answer: 14,400 kilometers

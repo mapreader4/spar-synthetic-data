@@ -1,0 +1,17 @@
+Let's start by using the fact that the sum of the angles in a triangle is 180 degrees. We know that angle A is 60 degrees, so the sum of the other two angles must be 120 degrees. 
+
+Let's let the angle B be x degrees. Then, we can set up the equation: 
+
+60 + x + x = 120
+
+We can subtract 60 from both sides to get: 
+
+x + x = 60
+
+We can then divide both sides by 2 to get: 
+
+x = 30
+
+So, the angle B is 30 degrees. 
+
+Answer: 30

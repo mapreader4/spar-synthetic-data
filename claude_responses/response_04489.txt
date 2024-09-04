@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Michael has $50 to start with.
+2) He wants to buy:
+   - A cake for $20
+   - A bouquet for $36
+   - A set of balloons for $5
+3) To calculate the total cost of the items, we add up the individual costs:
+   - Cake: $20
+   - Bouquet: $36
+   - Balloons: $5
+   - Total cost: $20 + $36 + $5 = $61
+4) Now we need to compare the total cost to the amount of money Michael has.
+   - Michael has $50
+   - The total cost is $61
+5) To find how much more money Michael needs, we subtract the amount he has ($50) from the total cost ($61):
+   - $61 - $50 = $11
+
+Answer: $11

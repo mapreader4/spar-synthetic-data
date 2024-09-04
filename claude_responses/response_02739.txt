@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Legacy has 5 bars of gold.
+2) Aleena has 2 bars fewer than Legacy, so Aleena has 5 - 2 = 3 bars of gold.
+3) Each bar of gold is worth $2200.
+4) To calculate the total value of gold the three have together, we need to multiply the number of bars each person has by the value of each bar, and then add them all together.
+5) Legacy's total value = 5 bars x $2200 per bar = $11,000
+6) Aleena's total value = 3 bars x $2200 per bar = $6,600
+7) The total value of gold the three have together is $11,000 + $6,600 = $17,600.
+
+Answer: 17600

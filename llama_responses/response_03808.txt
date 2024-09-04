@@ -1,0 +1,14 @@
+Let's break it down step by step.
+
+Let's first find the number of students who got in for each instrument:
+
+- Flute: 80% of 20 = 0.8 * 20 = 16
+- Clarinet: Half of 30 = 30 / 2 = 15
+- Trumpet: 1/3 of 60 = 60 / 3 = 20
+- Piano: 1/10th of 20 = 20 / 10 = 2
+
+Now, let's add up the number of students who got in for each instrument:
+
+16 + 15 + 20 + 2 = 51
+
+Answer: 51

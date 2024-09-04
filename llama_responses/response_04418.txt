@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out the total cost of the 4 entrees. 80% of $50.00 is 0.8 x 50.00 = 40.00.  So the cost of the 4 entrees is 40.00.
+
+The remaining amount is 50.00 - 40.00 = 10.00.  This is the total cost of the 2 appetizers.  Since they are the same amount, the cost of each appetizer is 10.00 / 2 = 5.00.
+
+Answer: 5.00

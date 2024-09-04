@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Frank needs to sell 50 cars in 30 days
+* In the first 3 days, he sold 5 cars each day, so that's 15 cars
+* In the next 4 days, he sold 3 cars each day, so that's 12 more cars
+* So in the first 7 days, he has sold 15 + 12 = 27 cars
+* That means he has 50 - 27 = 23 cars left to sell in the remaining 23 days
+
+Answer: 23

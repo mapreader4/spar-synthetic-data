@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. There are 10 rows in the grid. 4 rows are colored red, so that leaves 10 - 4 = 6 rows left to be colored green.
+
+2. Each row has 15 squares. 2 rows are colored blue, so that leaves 15 - 2 * 2 = 12 squares left to be colored green.
+
+3. The remaining 12 squares will be colored green.
+
+So, the total number of squares colored green is 12.
+
+Answer: 12

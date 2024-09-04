@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Tom eats a pound of carrots, which have 51 calories per pound.
+2) Tom eats twice as much broccoli as carrots, so he eats 2 pounds of broccoli.
+3) Broccoli has 1/3 the number of calories as carrots, so broccoli has 51 / 3 = 17 calories per pound.
+4) The total calories from the carrots is 1 pound x 51 calories/pound = 51 calories.
+5) The total calories from the broccoli is 2 pounds x 17 calories/pound = 34 calories.
+6) The total calories Tom ate is the sum of the calories from the carrots and the broccoli:
+51 calories + 34 calories = 85 calories.
+
+Answer: 85

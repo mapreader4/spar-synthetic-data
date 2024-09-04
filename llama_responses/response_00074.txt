@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's let x be the weight lost by the last two people. Since the first person lost 27 kilograms, the second person lost 7 kilograms less than the first person, which is 27 - 7 = 20 kilograms. The total weight lost by the first two people is 27 + 20 = 47 kilograms. The total weight lost by all four people is 103, so the weight lost by the last two people, which is x, must be 103 - 47 = 56.
+
+So, the answer is:
+
+Answer: 28

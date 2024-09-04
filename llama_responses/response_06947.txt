@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bugs eaten by each animal:
+
+1. Gecko: 12 bugs
+2. Lizard: 12 / 2 = 6 bugs (since lizard eats half as many bugs as the gecko)
+3. Frog: 6 * 3 = 18 bugs (since frog eats 3 times as many bugs as the lizard)
+4. Toad: 18 + 50% = 27 bugs (since toad eats 50% more bugs than the frog)
+
+Now, let's add up the number of bugs eaten by each animal:
+
+12 + 6 + 18 + 27 = 43
+
+Answer: 43

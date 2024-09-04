@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of books John has written.
+
+John writes a book every 2 months.  This means that in 1 year, he will write 6 books.
+
+John has been writing for 20 years.  So, in 20 years, he has written 20 * 6 = 120 books.
+
+Now, we need to find out how much money John has earned from writing these 120 books.
+
+John earns $30,000 per book.  So, the total amount of money he has earned is:
+
+120 * $30,000 = $3,600,000
+
+Answer: 360,000

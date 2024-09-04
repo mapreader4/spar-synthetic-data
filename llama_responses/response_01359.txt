@@ -1,0 +1,17 @@
+Let's start by identifying the information given to us:
+
+1. Carter can read half as many pages as Lucy in 1 hour.
+2. Lucy can read 20 more pages than Oliver in 1 hour.
+3. Oliver can read 40 pages.
+
+From the first statement, we know that Carter can read half of Lucy's reading rate in 1 hour. Let's call Lucy's reading rate "L". So, Carter can read L/2 pages in 1 hour.
+
+From the second statement, we know that Lucy can read 20 more pages than Oliver in 1 hour. This means that Lucy's reading rate is 20 pages more than Oliver's reading rate in 1 hour. So, Lucy's reading rate is L + 20.
+
+The third statement tells us that Oliver can read 40 pages. Since Oliver's reading rate is the same as Lucy's reading rate minus 20, we can write an equation to represent Oliver's reading rate as L - 20.
+
+We can now find the common reading rate between Carter, Lucy, and Oliver by subtracting Lucy's reading rate minus 20 from Lucy's reading rate. This is because Carter can read half of Lucy's reading rate, so his reading rate is (L - 20) / 2 = (L - 20) / 2 = L/2.
+
+Now, we can find Carter's reading rate in 1 hour by multiplying L/2 by 1. So, Carter can read L/2 pages in 1 hour.
+
+Carter can read L/2 pages in 1 hour.

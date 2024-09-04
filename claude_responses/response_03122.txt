@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+* Each basket is worth 3 points
+* Matthew scored 9 points
+* To find the number of baskets Matthew made, we divide his total points by the points per basket:
+    * 9 points / 3 points per basket = 3 baskets
+* Shawn scored 6 points
+* To find the number of baskets Shawn made, we divide his total points by the points per basket:
+    * 6 points / 3 points per basket = 2 baskets
+* To find the total number of baskets made during the game, we add the number of baskets made by Matthew and Shawn:
+    * 3 baskets + 2 baskets = 5 baskets
+
+Answer: 5

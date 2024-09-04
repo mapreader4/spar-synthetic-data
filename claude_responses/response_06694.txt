@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John has been working for 10 days so far
+* He has made $250 so far
+* We want to know how many more days he needs to work to make twice this amount
+* Assuming he makes the same amount every day, we can calculate his daily earnings:
+* $250 / 10 days = $25 per day
+* To make twice the amount he has made so far, he needs to make $500 total
+* He has already made $250, so he needs to make an additional $250
+* To make an additional $250, at $25 per day, he needs to work:
+* $250 / $25 per day = 10 more days
+
+Answer: 10

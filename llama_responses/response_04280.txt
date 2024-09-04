@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by using the information given that Zilla spent 7% of her monthly earnings on rent. We know that 7% of her monthly earnings is the same as 0.07 * monthly earnings. So, let's call her monthly earnings x. Then, we know that her rent is 133. So, we have the equation 0.07x = 133.
+
+We can solve for x by dividing both sides of the equation by 0.07. This gives us x = 1900. So, her monthly earnings are 1900.
+
+Now, we know that she spent half of her monthly expenses on other monthly expenses. So, we know that 0.5 * 1900 = 950. And we know that she put the rest, 950 - 133 = 817, into her savings account.
+
+Answer: 817

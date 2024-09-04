@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jackson bought a computer game for $66
+* He also bought 3 movie tickets, each costing $12
+* To find the total cost of the movie tickets, we multiply the cost of each ticket ($12) by the number of tickets (3):
+    * 3 x $12 = $36
+* Now, to find the total amount Jackson spent on entertainment, we add the cost of the computer game ($66) and the cost of the movie tickets ($36):
+    * $66 + $36 = $102
+
+Answer: 102

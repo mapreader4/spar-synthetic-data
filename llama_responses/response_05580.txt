@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. Jude has 100 bottle caps initially.
+2. He buys 10 trucks, which costs 6 bottle caps each, so he spends 6 * 10 = 60 bottle caps on the trucks.
+3. He has 100 - 60 = 40 bottle caps left over.
+4. He spends 75% of his remaining bottle caps on cars, which is 0.75 * 40 = 30 bottle caps.
+5. So, he has 40 - 30 = 10 bottle caps left over.
+6. He buys 10 trucks, which costs 5 bottle caps each, so he spends 5 * 10 = 50 bottle caps on the cars.
+7. He has 10 - 50 = -40 bottle caps left over.
+
+Answer: 0

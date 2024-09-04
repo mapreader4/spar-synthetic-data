@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: Celia runs twice as fast as Lexie. This means that if Lexie takes 20 minutes to run a mile, Celia will take half the time, which is 10 minutes.
+
+Now, we need to find how many times 10 minutes is in 30 miles. To do this, we need to convert 10 minutes to hours. There are 60 minutes in an hour, so 10 minutes is 1/6 of an hour. Then, to find out how many times 1/6 of an hour is in 30 miles, we need to multiply 30 by 1/6. This gives us 5.
+
+So, it will take Celia 5 hours to run 30 miles. Answer: 5

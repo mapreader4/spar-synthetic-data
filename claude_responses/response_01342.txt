@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* James invests $2000 a week into his bank account
+* He had $250,000 in his account when the year started
+* There are 52 weeks in a year
+* So, in a year, he would have invested:
+    - $2000 x 52 weeks = $104,000
+* Therefore, the total amount in his account at the end of the year, before the windfall, would be:
+    - $250,000 + $104,000 = $354,000
+* The windfall is worth 50% more than what he has in his bank account
+    - 50% of $354,000 = $177,000
+    - $354,000 + $177,000 = $531,000
+
+Answer: $531,000

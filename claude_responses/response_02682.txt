@@ -1,0 +1,20 @@
+To solve this problem, we need to calculate the total energy consumed by the electric fan per day and then multiply it by the number of days in a month.
+
+Given information:
+- The electric fan uses 75 watts of power.
+- John uses the electric fan for 8 hours per day.
+- There are 30 days in a month.
+
+Step 1: Calculate the energy consumed by the electric fan per day.
+Energy consumed per day = Power × Time
+Energy consumed per day = 75 watts × 8 hours = 600 watt-hours (Wh)
+
+Step 2: Convert the energy consumed per day from watt-hours to kilowatt-hours (kWh).
+1 kWh = 1000 Wh
+Energy consumed per day in kWh = 600 Wh / 1000 = 0.6 kWh
+
+Step 3: Calculate the total energy consumed by the electric fan per month.
+Energy consumed per month = Energy consumed per day × Number of days in a month
+Energy consumed per month = 0.6 kWh × 30 days = 18 kWh
+
+Answer: 18 kWh

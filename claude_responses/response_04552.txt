@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Monica takes 10 subjects
+* Marius takes 4 more subjects than Monica, so Marius takes 10 + 4 = 14 subjects
+* Millie takes 3 more subjects than Marius, so Millie takes 14 + 3 = 17 subjects
+
+Now, to find the total number of subjects taken by all three:
+* Monica takes 10 subjects
+* Marius takes 14 subjects
+* Millie takes 17 subjects
+* Total subjects taken = 10 + 14 + 17 = 41
+
+Answer: 41

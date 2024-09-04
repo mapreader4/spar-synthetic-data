@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Flynn watches 30 minutes of TV every night during the weekdays. That is a total of 30 * 5 = 150 minutes during the weekdays.
+2. On the weekends, she watches an additional 2 hours of TV in total. 2 hours is equal to 120 minutes.
+3. To find the total number of minutes of TV she watches in a week, we need to add the minutes watched during the weekdays and the minutes watched on the weekends. 150 + 120 = 270 minutes.
+4. There are 7 days in a week. To find the total number of minutes of TV Flynn watches in a week, we need to multiply the total minutes by 7. 270 * 7 = 1890 minutes.
+
+Answer: 1890

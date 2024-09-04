@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the total distance of the hike is 50 kilometers. Ezekiel covered 10 kilometers on the first day. Then, he covered half of the total distance on the second day, which is 50/2 = 25 kilometers. So, he covered 10 + 25 = 35 kilometers in the first two days.
+
+To finish the hike, he still has to cover the remaining distance, which is 50 - 35 = 15 kilometers.
+
+Answer: 15

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 4 teams competing
+* Each team has 10 members
+* Each member needs 2 pairs of roller skates (1 for competition, 1 as backup)
+* Each pair of skates needs 3 sets of laces
+
+First, let's calculate the total number of pairs of skates needed:
+* 4 teams x 10 members per team x 2 pairs of skates per member = 80 pairs of skates
+
+Now, let's calculate the total number of sets of laces needed:
+* 80 pairs of skates x 3 sets of laces per pair = 240 sets of laces
+
+Therefore, the answer is:
+Answer: 240

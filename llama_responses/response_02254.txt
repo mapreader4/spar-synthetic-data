@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+Step 1: Aubrey has a deck of 52 cards initially.
+Step 2: She adds two more cards to the deck, so now the total number of cards is 52 + 2 = 54.
+
+Step 3: If she splits the deck evenly among herself and two other players, we need to divide 54 cards into 3 equal parts. To do this, we can divide 54 by 3.
+
+Answer: 54 / 3 = 18.

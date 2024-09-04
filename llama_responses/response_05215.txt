@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Anya starts with a certain number of hairs. Let's call this number x.
+
+When she washes her hair, she loses 32 hairs. So, the number of hairs left is x - 32.
+
+When she brushes her hair, she loses half of the remaining hairs, which is (x - 32) / 2.
+
+So, the number of hairs left after brushing is (x - 32) / 2.
+
+Now, she grows the hair back. She grows back the same number of hairs as she lost when she brushed her hair, which is 32. So, the new total number of hairs is (x - 32) / 2 + 32.
+
+We want to know how many hairs she has to grow back to always have one more hair than she started with. This means we need to add 1 to the new total.
+
+So, the answer is:
+
+Answer: x - 32 - (x - 32) / 2 + 32 + 1.

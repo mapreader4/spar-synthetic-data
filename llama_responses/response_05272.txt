@@ -1,0 +1,21 @@
+Let's start by using the information given to us. We know that Table B had twice as much money on it as Table C, which had $20 more than Table A. So, let's call the amount of money on Table A x. We know that Table B has 2x and Table C has x + 20.
+
+We are given that there was $40 on Table A, so we can set up an equation to represent the situation:
+
+2x + (x + 20) = 40
+
+We can then solve for x by subtracting x + 20 from both sides:
+
+2x = 40 - 20
+2x = 20
+x = 10
+
+So, there was $10 on Table A. We can now find the total amount of money on all the tables by adding the amounts together:
+
+Table A: $10
+Table B: 2(10) = $20
+Table C: 10 + 20 = $30
+
+The total amount of money on all the tables is: $10 + $20 + $30 = $60.
+
+Answer: 60

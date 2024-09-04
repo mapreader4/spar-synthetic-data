@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. On weekdays (Monday through Friday), the business is open from 4 pm to 10 pm, which is 6 hours per day.
+2. There are 5 weekdays in a week, so the total hours of operation on weekdays is:
+   6 hours per day x 5 days = 30 hours
+
+3. On weekends (Saturday and Sunday), the business is open from 6 pm to 10 pm, which is 4 hours per day.
+4. There are 2 weekend days in a week, so the total hours of operation on weekends is:
+   4 hours per day x 2 days = 8 hours
+
+5. To calculate the total hours of operation in a week, we add the weekday hours and the weekend hours:
+   30 hours (weekdays) + 8 hours (weekends) = 38 hours
+
+Answer: 38 hours

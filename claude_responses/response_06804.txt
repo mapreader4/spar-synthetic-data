@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) We are given that the sum of the three sides of a triangle is 50.
+2) The right side of the triangle is 2 cm longer than the left side.
+3) The left side has a value of 12 cm.
+4) Let's call the left side "a", the right side "a + 2", and the base "b".
+5) We know that the sum of the three sides is 50, so we can write the equation: a + (a + 2) + b = 50.
+6) Simplifying this equation, we get: 2a + 2 + b = 50.
+7) Subtracting 2 from both sides, we get: 2a + b = 48.
+8) Substituting a = 12, we get: 2(12) + b = 48.
+9) Simplifying, we get: 24 + b = 48.
+10) Subtracting 24 from both sides, we get: b = 24.
+
+Answer: 24

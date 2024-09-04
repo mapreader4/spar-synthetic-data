@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Janet reads 80 pages per day
+* Belinda reads 30 pages per day
+* We want to find how many more pages Janet reads in 6 weeks
+
+First, let's calculate how many pages Janet reads in 6 weeks:
+* 6 weeks = 42 days (assuming 7 days per week)
+* Janet reads 80 pages per day
+* So, Janet reads 80 pages x 42 days = 3,360 pages in 6 weeks
+
+Next, let's calculate how many pages Belinda reads in 6 weeks:
+* Belinda reads 30 pages per day
+* So, Belinda reads 30 pages x 42 days = 1,260 pages in 6 weeks
+
+Finally, to find how many more pages Janet reads compared to Belinda, we subtract Belinda's pages from Janet's pages:
+* 3,360 pages - 1,260 pages = 2,100 pages
+
+Answer: 2,100

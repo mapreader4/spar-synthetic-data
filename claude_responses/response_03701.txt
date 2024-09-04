@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* John has a sneezing fit for 2 minutes
+* He sneezes once every 3 seconds
+* To find the number of times he sneezes, we need to calculate how many 3-second intervals are in 2 minutes
+* There are 60 seconds in 1 minute, so in 2 minutes there are 120 seconds
+* 120 seconds divided by 3 seconds per sneeze = 40 sneezes
+
+Answer: 40

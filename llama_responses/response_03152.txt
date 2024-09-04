@@ -1,0 +1,9 @@
+Let's break it down step by step:
+
+1. Kiki made 10 cucumber sandwiches, which were cut into 4 triangles each, so that's 10 x 4 = 40 triangles.
+2. Kiki made 8 egg sandwiches, which were cut into 2 rectangles each, so that's 8 x 2 = 16 rectangles.
+3. The guests ate 28 triangles, which is the total number of cucumber triangles.
+4. The guests also ate 12 rectangles, which is the total number of egg rectangles.
+5. To find the total number of slices of bread, we need to add the number of triangles and rectangles eaten. So, 40 (triangles) + 16 (rectangles) = 56.
+
+Answer: 56

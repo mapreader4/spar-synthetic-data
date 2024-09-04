@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's first find the distance from their house to the water park. Since Jake's dad can drive the distance in 30 minutes, we can find the distance in miles as follows:
+
+30 minutes * 60 minutes per hour = 30/60 = 0.5 hours
+0.5 hours * 60 miles per hour = 30 miles
+
+Now, Jake's dad drives half of this distance at 28 miles per hour. So, half of 30 miles is 15 miles. It will take him 15/28 = 0.536 hours to drive this part of the journey.
+
+The other half of the distance is 30 - 15 = 15 miles. It will take him 15/60 = 0.25 hours to drive this part of the journey.
+
+The total time it takes him to drive to the water park is 0.536 hours + 0.25 hours = 0.76 hours.
+
+Now, Jake can bike 11 miles per hour. To find the time it will take him to bike to the water park, we need to divide the distance by his speed:
+
+30 miles / 11 miles per hour = 2.727 hours
+
+So, the answer is:
+
+Answer: 3

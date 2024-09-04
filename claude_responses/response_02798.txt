@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) John works 12 hours every other day. This means he works 12 hours for 15 days in a 30-day month (every other day).
+2) His former hourly rate was $20 per hour.
+3) He received a 30% raise, which means his new hourly rate is $20 + (0.30 * $20) = $26 per hour.
+4) To calculate his monthly earnings, we multiply his new hourly rate by the number of hours he works in a 30-day month:
+   * 12 hours per day x 15 days = 180 hours
+   * 180 hours x $26 per hour = $4,680
+
+Answer: $4,680

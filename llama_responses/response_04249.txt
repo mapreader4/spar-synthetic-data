@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The first jar has 80 marbles.
+
+Step 2: The second jar has twice the amount of the first jar, so it has 2 x 80 = 160 marbles.
+
+Step 3: The third jar has 1/4 the amount of the first jar, so it has 80 / 4 = 20 marbles.
+
+Step 4: To find the total number of marbles, we add the marbles in each jar: 80 + 160 + 20 = 260.
+
+Answer: 260

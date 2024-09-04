@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each chip is 10 calories
+* A bag has 24 chips and costs $2
+* Peter wants to eat 480 calories
+
+First, we need to find out how many chips Peter needs to eat to get 480 calories:
+* 480 calories / 10 calories per chip = 48 chips
+
+Now, we need to find out how many bags of chips Peter needs to buy to get 48 chips:
+* 48 chips / 24 chips per bag = 2 bags
+
+Finally, we can calculate the cost of 2 bags of chips:
+* 2 bags x $2 per bag = $4
+
+Answer: $4

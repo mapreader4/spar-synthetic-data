@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The cost to remove the old floor is $50.
+2. The size of the room is 8 feet by 7 feet.
+3. To calculate the area of the room, we multiply the length and width:
+   * Area = 8 feet x 7 feet = 56 square feet
+4. The new floor costs $1.25 per square foot.
+5. To calculate the cost of the new floor, we multiply the area by the cost per square foot:
+   * Cost of new floor = 56 square feet x $1.25 per square foot = $70
+
+Now, to find the total cost to replace the floor, we add the cost to remove the old floor and the cost of the new floor:
+* Total cost = $50 (remove old floor) + $70 (new floor) = $120
+
+Answer: $120

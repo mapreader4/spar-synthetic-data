@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how many gallons of water Grace's first hose sprays in 1 hour. Since it sprays 50 gallons/hour, it sprays 50 x 1 = 50 gallons in 1 hour.
+
+Now, Grace waited for 3 hours with the first hose, so she used 50 x 3 = 150 gallons.
+
+Then, she added a second hose that sprays 70 gallons/hour. So, in 1 hour, it sprays 70 gallons. But she used it for 2 hours, so it sprays 70 x 2 = 140 gallons.
+
+Now, let's add the amount of water used by the two hoses together. 150 gallons from the first hose + 140 gallons from the second hose = 150 + 140 = 290 gallons.
+
+So, the pool can contain 290 gallons of water.

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Step 1: Determine the capacity of the theater: 400 seats.
+
+Step 2: Calculate the number of tickets sold for the first show: 0.8 x 400 = 320.
+
+Step 3: Calculate the total revenue for the first show: 320 tickets x $30 = $9600.
+
+Step 4: Repeat this for the 2nd and 3rd shows: 2 x $9600 = $19200.
+
+Step 5: Add the revenue from the 3 shows together: $9600 + $19200 = $21600.
+
+Answer: 21600.

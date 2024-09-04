@@ -1,0 +1,3 @@
+To find the total number of chairs that Jackson needs to buy, we need to multiply the number of tables with 4 seats by the number of chairs per table, and then add it to the number of tables with 6 seats, multiplied by the number of chairs per table.
+
+The number of tables with 4 seats is 6, so we multiply this by 4, which is 24. The number of tables with 6 seats is 12, so we multiply this by 6, which is 72. Then, we add the two numbers together, which is 24 + 72, which is 96. So, Jackson needs to buy 96 chairs.

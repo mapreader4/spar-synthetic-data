@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: The conference center has six rooms. Each room can hold up to 80 people.
+
+Step 2: The conference center is 2/3 full. This means that 2/3 of the total number of rooms are already occupied.
+
+Step 3: To find the total number of people in the conference center, we need to multiply the number of rooms by the capacity of each room.
+
+Step 4: The total capacity of the conference center is 6 rooms * 80 people per room = 480 people.
+
+Step 5: The conference center is 2/3 full, so 2/3 of the total capacity is already occupied. To find the number of people in the conference center, we need to multiply the total capacity by 2/3.
+
+Answer: 480 * 2/3 = 320.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the total area of the peanut plantation. The area is 500 feet by 500 feet, so it is 250,000 square feet. 
+
+Next, we need to find the total number of grams of peanuts that can be made from the plantation. 1 square foot of peanuts can make 50 grams of peanuts, so we can find the total number of square feet of peanuts by multiplying the total area by 50. 250,000 square feet * 50 grams per square foot = 12,500,000 grams of peanuts.
+
+Now, we need to find the number of kilograms of peanut butter that can be made from the total number of grams of peanuts. 20 grams of peanuts can make 1 kg of peanut butter, so we can find the number of kilograms by dividing the total number of grams by 20. 12,500,000 grams / 20 = 625,000 grams of peanuts / 20 = 31,250 kilograms of peanut butter.
+
+Finally, we need to find the total revenue. 1 kg of peanut butter sells for $10, so we can find the total revenue by multiplying the total number of kilograms by 10. 31,250 kilograms * 10 = $312,500.
+
+Answer: 312,500.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Jack has been driving for the past 9 years. So, we know that the total number of months he has been driving is 9 * 12 = 108 months.
+
+Jack drives 37,000 miles every 4 months. So, to find the total number of miles he has driven, we can multiply the number of miles he drives per month by the number of months he has driven:
+
+37,000 miles per 4 months = 37,000 / 4 = 9,250
+
+So, Jack has driven 9,250 miles in the past 9 years.

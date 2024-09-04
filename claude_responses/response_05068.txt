@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Emma bought a loaf of bread with an unknown number of slices
+* Andy ate 3 slices at two different points in time, so he ate a total of 6 slices
+* Emma decided to make toast with the remaining slices
+* She uses 2 slices of bread to make 1 piece of toast
+* She was able to make 10 pieces of toast
+* She had 1 slice of bread left
+
+To find the total number of slices in the original loaf, we need to add up the number of slices used for toast and the number of slices eaten by Andy.
+
+For the toast:
+* 10 pieces of toast x 2 slices per piece = 20 slices used for toast
+
+For Andy:
+* 6 slices eaten by Andy
+
+Total slices used:
+* 20 slices for toast + 6 slices eaten by Andy = 26 slices
+
+We also know that there was 1 slice of bread left, so the total number of slices in the original loaf must have been:
+* 26 slices used + 1 slice left = 27 slices
+
+Answer: 27

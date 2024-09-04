@@ -1,0 +1,22 @@
+To solve this problem, we can start by using the information given that Grace's tower is 8 times the size of Clyde's tower, which is 40 inches tall.
+
+Let's call the height of Clyde's tower as x. Then, we can write the equation:
+
+8x = 40
+
+To solve for x, we can divide both sides by 8:
+
+x = 40 / 8
+x = 5
+
+So, the height of Clyde's tower is 5 inches. To find the height of Grace's tower, we can multiply the height of Clyde's tower by 8:
+
+Height of Grace's tower = 5 * 8
+Height of Grace's tower = 40
+
+Now, we can find the difference in height between the two towers:
+
+Height of Grace's tower - Height of Clyde's tower = 40 - 5
+Height of Grace's tower - Height of Clyde's tower = 35
+
+So, the answer is: Answer: 35

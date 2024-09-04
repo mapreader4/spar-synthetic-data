@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+1. The fire requires 4000 gallons of water to be put out. Each firefighter has their own hose, and there are 5 firefighters. So, the total number of hoses available is 5.
+
+2. Each hose can deliver 20 gallons of water per minute. To find the total gallons of water that can be delivered by all the hoses together, we multiply the number of hoses by the number of gallons per minute: 5 hoses * 20 gallons per minute = 100 gallons per minute.
+
+3. To find the time it will take to deliver 4000 gallons of water, we can divide the total amount of water needed by the total gallons delivered per minute: 4000 gallons / 100 gallons per minute = 40 minutes.
+
+4. Therefore, it will take 40 minutes for the team of 5 firefighters, each with their own hose, to put out the fire.
+
+Answer: 40

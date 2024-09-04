@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Bill got 16 gallons of milk from milking his cow
+* He turned 1/4 of the milk into sour cream, which is 16 * 1/4 = 4 gallons of milk
+* To make 1 gallon of sour cream, it takes 2 gallons of milk
+* So, 4 gallons of milk makes 4/2 = 2 gallons of sour cream
+* He turned another 1/4 of the milk into butter, which is 16 * 1/4 = 4 gallons of milk
+* To make 1 gallon of butter, it takes 4 gallons of milk
+* So, 4 gallons of milk makes 4/4 = 1 gallon of butter
+* The remaining 1/2 of the milk, which is 16 * 1/2 = 8 gallons, is kept as whole milk
+
+Now, let's calculate the revenue:
+* Sour cream: 2 gallons at $6/gallon = $12
+* Butter: 1 gallon at $5/gallon = $5
+* Whole milk: 8 gallons at $3/gallon = $24
+
+Adding these up, the total revenue is:
+Answer: $41

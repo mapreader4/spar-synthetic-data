@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the time it takes for the cat to run 15 minutes. Since 15 minutes is equal to 0.25 hours, we can multiply 0.25 hours by the cat's speed of 20 miles per hour to get the distance the cat runs in that time:
+
+0.25 hours * 20 miles per hour = 5 miles
+
+Now, we need to find the time it takes for the rabbit to catch up. We can do this by subtracting the distance the cat has run from the total distance the rabbit will need to run. The total distance is the sum of the distance the cat has run and the distance the rabbit has yet to run:
+
+Distance rabbit needs to run = 25 miles - 5 miles = 20 miles
+
+Now, we can find the time it takes for the rabbit to catch up by dividing the distance by its speed of 25 miles per hour:
+
+20 miles / 25 miles per hour = 0.8 hours
+
+So, it will take the rabbit 0.8 hours to catch up.

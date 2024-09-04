@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* On Friday, Alexandra bought 8 magazines
+* On Saturday, she bought 12 more magazines
+* On Sunday, she bought four times the number of magazines she did on Friday, which is 4 x 8 = 32 magazines
+* Later that day, her dog chewed up 4 of the magazines
+
+Now, let's calculate the total number of magazines she has:
+* Friday: 8 magazines
+* Saturday: 8 + 12 = 20 magazines
+* Sunday: 20 + 32 = 52 magazines
+* Minus the 4 magazines chewed up by her dog: 52 - 4 = 48 magazines
+
+Answer: 48 magazines

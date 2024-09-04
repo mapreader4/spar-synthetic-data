@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Micah bought 52 stamps
+* He has 6 envelopes that weigh less than 5 pounds
+* Each envelope that weighs less than 5 pounds requires 2 stamps
+* So for the 6 envelopes that weigh less than 5 pounds, he used 6 * 2 = 12 stamps
+* That leaves 52 - 12 = 40 stamps remaining
+* Each envelope that weighs more than 5 pounds requires 5 stamps
+* So the remaining 40 stamps can be used for 40 / 5 = 8 envelopes that weigh more than 5 pounds
+* In total, Micah needed to buy 6 + 8 = 14 envelopes.
+
+Answer: 14

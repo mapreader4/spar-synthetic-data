@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mark spent a total of $220 to fix his car
+* The car needed two parts that cost $20 each, so the total cost of the parts was $40
+* The remaining cost was for labor, which was $0.50 per minute
+* To find the total labor cost, we need to subtract the cost of the parts from the total cost: $220 - $40 = $180
+* Since the labor cost is $0.50 per minute, we can divide the total labor cost by $0.50 to find the total number of minutes the mechanic worked:
+$180 / $0.50 = 360 minutes
+* To convert the minutes to hours, we divide the total minutes by 60:
+360 minutes / 60 minutes per hour = 6 hours
+
+Answer: 6 hours

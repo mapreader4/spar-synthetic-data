@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+
+1. At the first hospital, John sees 20 different patients each day.
+2. At the second hospital, he sees 20% more individual patients a day.
+   - 20% of 20 is 4, so he sees 20 + 4 = 24 patients a day at the second hospital.
+3. He works 5 days a week.
+   - At the first hospital, he sees 20 patients x 5 days = 100 patients per week.
+   - At the second hospital, he sees 24 patients x 5 days = 120 patients per week.
+4. He works 50 weeks a year.
+   - At the first hospital, he sees 100 patients per week x 50 weeks = 5,000 patients per year.
+   - At the second hospital, he sees 120 patients per week x 50 weeks = 6,000 patients per year.
+5. The total number of patients he treats in a year is the sum of the patients from both hospitals.
+   - 5,000 + 6,000 = 11,000 patients per year.
+
+Answer: 11,000

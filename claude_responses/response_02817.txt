@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Elvis is releasing a new album with 10 songs
+* He spends 5 hours in the studio
+* Each song takes 12 minutes to record
+* It takes 30 minutes to edit all of his songs
+
+First, we need to calculate the total time spent recording the songs:
+* 10 songs x 12 minutes per song = 120 minutes
+
+Next, we need to add the time spent editing the songs:
+* 30 minutes
+
+So the total time spent in the studio is:
+* 120 minutes + 30 minutes = 150 minutes
+
+Now, we need to find out how much time was spent writing the songs. We know that Elvis spent 5 hours (300 minutes) in the studio, so:
+* 300 minutes - 150 minutes = 150 minutes
+
+Since there are 10 songs, and the total time spent writing was 150 minutes, we can divide to find the time spent writing each song:
+* 150 minutes / 10 songs = 15 minutes per song
+
+Answer: 15 minutes

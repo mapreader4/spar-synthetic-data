@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Jen bought a bag of cookies
+* On the first day, she ate three-quarters of the bag
+* On the second day, she ate half of the remaining cookies
+* On the third day, she had 8 cookies left
+
+First, let's calculate how many cookies were left after the first day:
+* If she ate three-quarters of the bag, that means one-quarter of the bag was left
+* So, if we let x be the number of cookies in the bag, then one-quarter of x is left after the first day
+
+Next, let's calculate how many cookies were left after the second day:
+* On the second day, she ate half of the remaining cookies
+* So, half of one-quarter of x is left after the second day
+* That means one-eighth of x is left after the second day
+
+Finally, we know that on the third day, she had 8 cookies left. So:
+* One-eighth of x = 8
+* Solving for x, we get x = 64
+
+Therefore, the bag of cookies contained 64 cookies to start.
+
+Answer: 64

@@ -1,0 +1,11 @@
+Let's start by finding out how many pounds of pasta Michelle can make with the three 8-cup bags of flour. Each bag of flour makes 8 cups of pasta dough, and each pound of pasta dough requires 2 cups of flour. So, we can find the total number of pounds of pasta Michelle can make by dividing 8 cups by 2:
+
+8 cups / 2 = 4 pounds
+
+Since Michelle can make 4 pounds of pasta with the three 8-cup bags of flour, and she needs a drying rack for each 3 pounds of pasta, we can find the number of drying racks she'll need by dividing 4 pounds by 3:
+
+4 pounds / 3 = 1.33 pounds
+
+Since Michelle already has three drying racks, she'll need one more drying rack to accommodate the remaining 0.33 pounds of pasta. However, we can't buy a fraction of a rack, so we'll round up to the nearest whole number. Therefore, Michelle will need:
+
+Answer: 4

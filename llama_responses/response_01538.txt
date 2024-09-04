@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Marcus paints 2 paintings on the first day. Then, he paints twice as many paintings as he painted the day before. So, on the second day, he paints 2 x 2 = 4 paintings.
+
+On the third day, he paints 4 x 2 = 8 paintings.
+
+On the fourth day, he paints 8 x 2 = 16 paintings.
+
+On the fifth day, he paints 16 x 2 = 32 paintings.
+
+In total, he paints 2 + 4 + 8 + 16 + 32 = 62 paintings.
+
+Answer: 62

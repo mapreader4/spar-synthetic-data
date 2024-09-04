@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Colby harvested 60 kilograms of mangoes.
+* He sold 20 kilograms of mangoes at the market.
+* He sold the remaining mangoes to his community.
+* Each kilogram contains 8 mangoes.
+
+We know that Colby harvested 60 kilograms of mangoes initially. We can represent this as 60 mangoes, since each kilogram contains 8 mangoes.
+
+He sold 20 kilograms of mangoes at the market, which means he has 60 - 20 = 40 kilograms of mangoes remaining.
+
+Now, he sold the remaining mangoes to his community. Since he sold the half of the remaining mangoes, that means he sold 40 / 2 = 20 kilograms of mangoes to his community.
+
+Now, he has 40 kilograms of mangoes remaining.
+
+To find the number of mangoes he has, we can multiply 40 kilograms by 8 mangoes per kilogram. 40 * 8 = 320.
+
+Answer: 320

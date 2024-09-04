@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Emma can run around two arenas in 20 hours. This means that the total distance she can cover in 20 hours is the total distance around the two arenas.
+
+Next, we know that Fernando takes twice as long to run his course, which means that his time to run his course is 2 times the time it takes Emma to run around the two arenas.
+
+Let's call the time it takes Emma to run around the two arenas "x". Then, the time it takes Fernando to run his course is 2x.
+
+The total time it takes both of them to run around the two arenas is the sum of their times. So, the total time is x + 2x. We can simplify this expression by combining the like terms: x + 2x = 3x.
+
+Now, we know that x is 20, since Emma can run around the two arenas in 20 hours. So, 3x = 3(20) = 60.
+
+Answer: 60

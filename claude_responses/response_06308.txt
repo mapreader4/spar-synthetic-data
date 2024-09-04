@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Mr. Dubois buys a new car for $13,380
+* He pays $5,400 upfront
+* He then pays the remaining amount in monthly installments of $420
+
+To find the number of months it will take to fully pay off the car, we need to:
+1. Calculate the remaining amount after the initial $5,400 payment
+2. Divide the remaining amount by the monthly payment of $420 to get the number of months
+
+Step 1: Calculate the remaining amount
+* Total cost of the car: $13,380
+* Initial payment: $5,400
+* Remaining amount: $13,380 - $5,400 = $7,980
+
+Step 2: Divide the remaining amount by the monthly payment
+* Remaining amount: $7,980
+* Monthly payment: $420
+* Number of months: $7,980 / $420 = 19 months
+
+Answer: 19 months

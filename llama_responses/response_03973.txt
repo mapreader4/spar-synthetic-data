@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of cards each person has. We know that Jenny has 6 cards. We know that Orlando has 2 more cards than Jenny, so Orlando has 6 + 2 = 8 cards. We also know that Richard has 3 times as many cards as Orlando, so Richard has 8 * 3 = 24 cards.
+
+To find the total number of cards, we add the number of cards each person has:
+
+6 (Jenny) + 8 (Orlando) + 24 (Richard) = 38
+
+Answer: 38

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 100 soccer balls that Nova went to inflate.
+2) 40% of the 100 balls had holes in them and could not be inflated.
+   * 40% of 100 = 0.40 * 100 = 40 balls could not be inflated.
+3) That leaves 100 - 40 = 60 balls that could potentially be inflated.
+4) Of those 60 balls, 20% were overinflated and exploded.
+   * 20% of 60 = 0.20 * 60 = 12 balls exploded.
+5) The number of balls that were inflated successfully and could be used is:
+   * 60 - 12 = 48 balls.
+
+Answer: 48

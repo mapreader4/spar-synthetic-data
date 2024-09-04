@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+1) The printing shop needs to ship 5000 brochures.
+2) Each box can only contain one-fifth of the brochures.
+3) To find the number of boxes needed, we need to divide the total number of brochures (5000) by the number of brochures that can fit in each box (one-fifth or 1/5).
+4) 5000 brochures / (1/5 brochures per box) = 5000 * 5 = 25,000 boxes.
+
+Answer: 25,000

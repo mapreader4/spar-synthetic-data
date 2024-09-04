@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by finding the cost of the first 100 channels, which is $100.
+
+The cost of the next 100 channels is half of that, so it's $50.
+
+Since James splits it evenly with his roommate, that means he pays half of $50, which is $25.
+
+The total cost is the sum of the cost of the first 100 channels and the cost of the next 100 channels, which is $100 + $50, or $150.
+
+James pays this amount to the cable company, so his total payment is $150.
+
+Answer: 150

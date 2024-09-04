@@ -1,0 +1,19 @@
+Let's break down the information given:
+
+* Danai puts 12 plastic skulls around the house.
+* She puts 4 broomsticks, 1 for each side of the front and back doors.
+* She puts 12 spiderwebs around the house.
+* She puts twice as many pumpkins as spiderwebs, so 12 * 2 = 24 pumpkins.
+* She also puts a cauldron on the dining room table.
+
+So, in total, she puts up:
+
+12 (skulls) + 4 (broomsticks) + 12 (spiderwebs) + 24 (pumpkins) + 1 (cauldron) = 53 decorations.
+
+She has 10 decorations left to put up, but she wants to buy 20 more. So, she needs:
+
+20 (new decorations) + 10 (left) = 30
+
+Total decorations to put up = 53 (already put up) + 30 (new) = 83
+
+Answer: 83

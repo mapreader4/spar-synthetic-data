@@ -1,0 +1,7 @@
+Let's start by identifying the number of rings in each tree.
+
+In the first tree, Billy counts 70 ring groups, which means the tree has 70 x 2 = 140 rings. In the second tree, Billy counts 40 ring groups, which means the tree has 40 x 2 = 80 rings.
+
+Now, we need to find the difference between the number of rings in the first tree and the second tree. To do this, we subtract the number of rings in the second tree from the number of rings in the first tree: 140 - 80 = 60.
+
+The first tree is 60 rings older than the second tree.

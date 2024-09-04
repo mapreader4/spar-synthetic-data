@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Samantha, Aira, and Joe each received 6 rubber bands after dividing them equally.
+2) Samantha had 5 more bands than Aira.
+3) Aira had 1 fewer band than Joe.
+4) Let's call the number of bands Aira had as "x".
+5) Since Samantha had 5 more bands than Aira, Samantha had "x + 5" bands.
+6) Since Aira had 1 fewer band than Joe, Joe had "x + 1" bands.
+7) Since they each received 6 bands, we can set up an equation:
+   x + (x + 5) + (x + 1) = 6 + 6 + 6
+8) Simplifying, we get:
+   3x + 6 = 18
+9) Solving for x, we get:
+   3x = 12
+   x = 4
+Answer: 4

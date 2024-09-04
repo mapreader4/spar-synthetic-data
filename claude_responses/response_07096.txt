@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. The original price of the gummy vitamins is $15.00 per bottle.
+2. The gummy vitamins are currently 20% off.
+3. To calculate the discounted price, we take the original price and subtract 20%:
+   * 20% of $15.00 = $3.00
+   * $15.00 - $3.00 = $12.00 per bottle
+4. Ken has 3 $2.00 coupons, which means he can deduct $6.00 from the total.
+5. To calculate the total cost for 3 bottles:
+   * 3 bottles x $12.00 per bottle = $36.00
+   * $36.00 - $6.00 (from the coupons) = $30.00
+
+Answer: $30

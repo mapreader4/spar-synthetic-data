@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The regular size rubber ducks cost $3.00 each
+* The city sold 221 regular size ducks
+* So the total revenue from the regular size ducks is:
+    * 221 ducks x $3.00 per duck = $663.00
+* The large size rubber ducks cost $5.00 each
+* The city sold 185 large size ducks
+* So the total revenue from the large size ducks is:
+    * 185 ducks x $5.00 per duck = $925.00
+* To calculate the total money raised for charity, we add the revenue from the regular size ducks and the large size ducks:
+    * $663.00 + $925.00 = $1,588.00
+
+Answer: $1,588

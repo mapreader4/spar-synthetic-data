@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There were 3 birds, each with 2 legs
+* There were 5 dogs, each with 4 legs
+* There were 4 snakes, each with 0 legs (snakes do not have legs)
+* There was 1 spider, with 8 legs
+
+To calculate the total number of legs:
+* 3 birds x 2 legs = 6 legs
+* 5 dogs x 4 legs = 20 legs
+* 4 snakes x 0 legs = 0 legs
+* 1 spider x 8 legs = 8 legs
+
+Adding these up:
+6 + 20 + 0 + 8 = 34 legs
+
+Answer: 34

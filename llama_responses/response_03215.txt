@@ -1,0 +1,13 @@
+To solve this problem, we will have to calculate the volume of the balloon at each hour and then add them up.
+
+Let's break it down step by step.
+
+1. The balloon's original volume is 500cm³.
+2. In the first hour, the balloon's volume will increase by two-fifths of its previous volume. This is 2/5 of 500, which is 200cm³.
+3. The balloon's volume after the first hour is 500 + 200 = 700cm³.
+4. In the second hour, the balloon's volume will increase by two-fifths of its previous volume again. This is 2/5 of 700, which is 140cm³.
+5. The balloon's volume after the second hour is 700 + 140 = 840cm³.
+
+So, the balloon's volume after 2 hours underwater is 840cm³.
+
+Answer: 840

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+John plays for 2 periods. Each period is 12 minutes. So, he plays for a total of 2 * 12 = 24 minutes.
+
+In each period, John scores 1 shot worth 3 points every 4 minutes. So, in each period, he scores 3 * 3 = 9 points. Since he plays for 24 minutes, he scores 9 * 2 = 18 points in total.
+
+Answer: 18

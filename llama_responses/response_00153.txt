@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+The total cost of the doctor's visit is $300.  The insurance covered 75%, so the amount covered by insurance is 0.75 * 300 = $225.  The cat's visit cost $120, so the amount not covered by insurance is 300 - 225 = $75.  The pet insurance covered 60, so the amount Tim paid is 75.
+
+Answer: 75.

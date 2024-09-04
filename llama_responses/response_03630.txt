@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of doors needed for all the apartments. Each apartment has 7 doors, and there are 6 apartments per floor, and there are 12 floors. So, the total number of doors needed is:
+
+6 doors * 12 floors = 72 doors
+
+So, the construction company needs to buy 72 doors.

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the distance between Xena and the cave. The cave is too big for Xena to fit into, so it's the final destination. Since Xena has a 600 foot head start, we know that the distance Xena needs to cover is 600 feet.
+
+Now, let's think about the distance Xena needs to get away from the dragon. The dragon can burn her if it gets within 120 feet of her. So, Xena needs to maintain a distance of at least 120 feet between herself and the dragon.
+
+Since the dragon flies 30 feet per second, we can calculate the time it takes for the dragon to cover 120 feet:
+
+Time = Distance / Speed
+Time = 120 feet / 30 feet/second
+Time = 4 seconds
+
+This means that if Xena stays within 120 feet of the dragon, the dragon will catch up to her in 4 seconds. To get to the cave, Xena needs to cover the 600 feet, so we can set up an equation:
+
+Time = Distance / Speed
+Time = 600 feet / (15 feet/second)
+Time = 40 seconds
+
+So, Xena has 40 seconds to get to the cave before the dragon catches up to her.

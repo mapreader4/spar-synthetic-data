@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The show can have 5 actors at a time
+* Each actor is in the show for about 15 minutes
+* After 15 minutes, another 5 actors come in
+* We want to know how many actors can be on the show in 1 hour (60 minutes)
+
+To calculate the number of actors in 1 hour, we need to determine how many sets of 5 actors can fit into 60 minutes.
+
+* Each set of 5 actors lasts for 15 minutes
+* 60 minutes / 15 minutes per set = 4 sets of 5 actors
+
+Therefore, in 1 hour, there can be 4 sets of 5 actors, which is a total of:
+4 sets x 5 actors per set = 20 actors
+
+Answer: 20

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tommy saw 12 trucks
+* Each truck has 4 wheels
+* So for the 12 trucks, the total number of wheels is 12 * 4 = 48 wheels
+* Tommy also saw 13 cars
+* Each car has 4 wheels
+* So for the 13 cars, the total number of wheels is 13 * 4 = 52 wheels
+* To find the total number of wheels Tommy saw, we add the wheels from the trucks and the cars:
+* 48 wheels (from the trucks) + 52 wheels (from the cars) = 100 wheels
+
+Answer: 100

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Paityn has 20 red hats and 24 blue hats. Zola has 4/5 times as many red hats as Paityn, so Zola has 20 * 4/5 = 16 red hats. Zola has twice as many blue hats as Paityn, so Zola has 24 * 2 = 48 blue hats.
+
+In total, Paityn and Zola have 20 + 24 + 16 + 48 = 108 hats.
+
+If they share the hats equally, they will each get 108 / 2 = 54 hats.
+
+Answer: 54

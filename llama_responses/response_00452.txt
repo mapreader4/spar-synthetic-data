@@ -1,0 +1,8 @@
+Let's break it down step by step.
+
+Emily has 6 marbles initially.
+Megan gives Emily double the number she has, so Emily now has 6 * 2 = 12 marbles.
+Emily gives Megan half of her new total plus 1, so she gives her 6 marbles to Megan.
+Emily now has 12 - 6 = 6 marbles left.
+Then she gives Megan 6 marbles, and Emily is left with 0 marbles.
+Answer: 0

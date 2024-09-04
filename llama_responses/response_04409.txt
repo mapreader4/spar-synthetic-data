@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the number of tins of beans initially. There are 15 cases of tins, and each case contains 24 tins. So, the total number of tins is 15 * 24 = 360.
+
+Now, 5% of the tins are damaged and thrown away. To find the number of tins that are thrown away, multiply the total number of tins by 5%:
+
+360 * 0.05 = 18
+
+So, 18 tins are thrown away.
+
+To find the number of tins left, subtract the number of tins thrown away from the total number of tins:
+
+360 - 18 = 342
+
+Answer: 342

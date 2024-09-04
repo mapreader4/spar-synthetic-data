@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Find the volume of the box without the walls.
+
+The volume of a rectangular prism is given by the formula V = lwh, where l is the length, w is the width, and h is the height.  The length of the box is 26 inches, the width is 26 inches, and the height is 14 inches.  So, the volume of the box without the walls is:
+
+V = lwh = 26 * 26 * 14 = 1456 cubic inches.
+
+Step 2: The walls are 1 inch thick.  We need to subtract the volume of the walls from the volume of the box.
+
+The volume of the walls is 4 * 6 * 26 * 14 = 168 cubic inches.  Subtract this from the volume of the box without the walls:
+
+V = 1456 - 168 = 1288 cubic inches.
+
+Answer: 1288

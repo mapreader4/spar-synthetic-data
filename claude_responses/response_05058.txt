@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The 4th graders planted 30 trees
+* The 5th graders planted twice as many trees as the 4th graders, which is 2 x 30 = 60 trees
+* The 6th graders planted 30 fewer than thrice the number of trees planted by the 5th graders
+* Thrice the number of trees planted by the 5th graders is 3 x 60 = 180 trees
+* The 6th graders planted 180 - 30 = 150 trees
+
+Now, to find the total number of trees planted, we add up the trees planted by each grade:
+* 4th graders: 30 trees
+* 5th graders: 60 trees
+* 6th graders: 150 trees
+* Total trees planted = 30 + 60 + 150 = 240 trees
+
+Answer: 240

@@ -1,0 +1,12 @@
+Let's break this down step by step:
+
+1. The first quarter has 265 points.
+2. There are 4 times as many test points as quiz points.
+3. So, the number of test points is 4x, where x is the number of quiz points.
+4. There are 5 more quiz points than homework points.
+5. So, the number of homework points is x + 5.
+6. We can set up an equation: 4x = x + 5 - 4.
+7. We can solve for x: x = 265 - 4 = 261.
+8. So, the number of homework points is 261.
+
+Answer: 261

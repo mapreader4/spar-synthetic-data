@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Steve spends 1/3 of the day sleeping
+* He spends 1/6 of the day in school
+* He spends 1/12 of the day making assignments
+* The rest of the day is spent with his family
+
+To find the time spent with his family, we need to find the remaining time after subtracting the time spent on other activities.
+
+First, let's add up the time spent on other activities:
+* 1/3 of the day sleeping
+* 1/6 of the day in school
+* 1/12 of the day making assignments
+* Total = 1/3 + 1/6 + 1/12 = 1/2 + 1/12 = 7/12 of the day
+
+Now, we can find the time spent with his family by subtracting the time spent on other activities from the total day:
+* Time spent with family = 1 - 7/12 = 5/12 of the day
+
+Since there are 24 hours in a day, we can calculate the number of hours Steve spends with his family:
+* 5/12 of 24 hours = 10 hours
+
+Answer: 10 hours

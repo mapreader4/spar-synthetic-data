@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of people at the party. We know there were 60 women at the party. Since 3/4 of the women were married and brought their husbands with them to the party, we know that 3/4 of the people at the party are women who are married. That means that 3/4 of the people at the party are men. Since there were 60 women, we can set up the equation 3/4x = 60. To solve for x, we can multiply both sides by 4. 3/4 * 4 = 12. So, 12 of the people at the party are men. 
+
+Now, we know that 3/4 of the men were single. So, the total number of single men is 60 - 12 = 48. Since 48 of the people at the party were single, the total number of people at the party is 48 + 12 = 60.
+
+Answer: 60

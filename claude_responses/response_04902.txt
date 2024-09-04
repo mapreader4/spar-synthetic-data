@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) Sally took 342 pens to her class of 44 students.
+2) She gave 7 pens to each student, so the total number of pens given to the students is 44 * 7 = 308 pens.
+3) The number of pens remaining after giving 7 pens to each student is 342 - 308 = 34 pens.
+4) Sally left half of the remainder (34 / 2 = 17 pens) in her locker.
+5) The number of pens she took home is the remaining half of the pens, which is 34 - 17 = 17 pens.
+
+Answer: 17

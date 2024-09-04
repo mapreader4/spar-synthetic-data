@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) 20% of the vets in the state recommend Puppy Kibble
+2) 30% of the vets in the state recommend Yummy Dog Kibble
+3) There are 1000 vets in the state
+4) To find the number of vets that recommend Puppy Kibble, we take 20% of 1000:
+   * 20% of 1000 = 0.20 * 1000 = 200 vets
+5) To find the number of vets that recommend Yummy Dog Kibble, we take 30% of 1000:
+   * 30% of 1000 = 0.30 * 1000 = 300 vets
+6) To find the difference between the number of vets that recommend Yummy Dog Kibble and Puppy Kibble, we subtract:
+   * 300 - 200 = 100
+
+Answer: 100

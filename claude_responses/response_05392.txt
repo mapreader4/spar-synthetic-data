@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Marcy can make 3 spears out of a sapling
+* Marcy can make 9 spears out of a log
+* Marcy has 6 saplings and 1 log
+* To find the total number of spears she can make, we need to:
+  1. Calculate the number of spears from the 6 saplings
+  2. Calculate the number of spears from the 1 log
+  3. Add the two numbers together
+
+Step 1: Number of spears from 6 saplings
+* 6 saplings x 3 spears per sapling = 18 spears
+
+Step 2: Number of spears from 1 log
+* 1 log x 9 spears per log = 9 spears
+
+Step 3: Total number of spears
+* 18 spears (from 6 saplings) + 9 spears (from 1 log) = 27 spears
+
+Answer: 27

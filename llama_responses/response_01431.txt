@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's first find the speed that Tony drives at. We know that the distance between his town and his friend's town is 120 miles, and it takes him 3 hours to get there. To find the speed, we can set up a proportion:
+
+Let's say Tony's speed is x miles per hour. Then, the distance 120 miles will take him 3 hours to cover. We can set up the proportion: 120 / 3 = x.
+
+To solve for x, we can multiply both sides of the equation by 3:
+
+120 / 3 = x * 3 = 40
+
+So, Tony drives at 40 miles per hour.
+
+Now, let's find the time it will take Tony to drive to his next friend. The distance is 200 miles, and he drives at 40 miles per hour. We can set up another proportion:
+
+Let's say the time it takes him to drive 200 miles is t hours. Then, the proportion is:
+
+200 / 40 = t
+
+To solve for t, we can multiply both sides of the equation by 40:
+
+200 / 40 = t * 5
+
+So, the time it will take Tony to drive to his next friend is 5 hours.
+
+Answer: 5

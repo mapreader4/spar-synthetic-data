@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Find the area of the deck. The area of a rectangle is length x width. So, the area is 30 feet x 40 feet = 1200 square feet.
+
+Step 2: Calculate the cost of the deck. The cost of the deck is $3 per square foot, so the cost of the deck is 1200 x 3 = $3600.
+
+Step 3: Calculate the cost of the sealant. The cost of the sealant is $1 per square foot, so the cost of the sealant is 1200 x 1 = $1200.
+
+Step 4: Add the cost of the deck and the cost of the sealant. The total cost is $3600 + $1200 = $4800.
+
+Answer: 4800

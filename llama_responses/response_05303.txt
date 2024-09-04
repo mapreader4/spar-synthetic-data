@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The car traveled from Ningi to Zipra in 80% of the time it traveled from Ngapara to Zipra.
+* The car took 60 hours to travel from Ngapara to Zipra.
+
+To find the total time the car traveled that day, we can start by identifying the total time it took to travel from Ningi to Zipra. Since the car took 60 hours to travel from Ngapara to Zipra, we know that the time it took to travel from Ningi to Zipra is 0.8 * 60 = 48 hours (since 80% of 60 is 0.8 * 60).
+
+So, the total time the car traveled that day is 48 hours.
+
+Answer: 48

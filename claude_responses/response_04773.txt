@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) The hospital initially has 11 doctors and 18 nurses.
+2) 5 doctors and 2 nurses quit.
+3) To find the number of doctors and nurses left, we need to subtract the number of doctors and nurses who quit from the initial numbers.
+4) The number of doctors left = 11 - 5 = 6 doctors.
+5) The number of nurses left = 18 - 2 = 16 nurses.
+
+Answer: 6 doctors and 16 nurses.

@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. Monica brings $15, and Michelle brings $12, so together they have a total of $15 + $12 = $27.
+2. The cake costs $15, and soda is $3 a bottle. Let's calculate how many bottles of soda they can buy with the money they have. $27 - $15 for the cake = $12. $12 ÷ $3 = 4 bottles of soda.
+3. Each bottle of soda has 12 servings, so they can buy 4 x 12 = 48 servings of soda.
+4. Since there are 8 total guests, we need to divide the total servings of soda by 8 to find out how many servings each guest gets. 48 ÷ 8 = 6 servings per guest.
+
+Answer: 6

@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. The storm dropped 5 inches of rain in the first 30 minutes. So, in 30 minutes, the storm dropped 5 inches of rain.
+2. The hurricane then dropped half that amount of rain in the next 30 minutes. Since half of 5 inches is 2.5 inches, the storm dropped 2.5 inches of rain in the next 30 minutes.
+3. The storm then dropped 1/2 inch of rain for the next hour. Since there are 60 minutes in an hour, 1/2 inch of rain is equivalent to 1/12 of an hour.
+
+Now, let's add up the total rainfall:
+
+5 inches (in the first 30 minutes) + 2.5 inches (in the next 30 minutes) + 1/12 inch (in the next hour) = 8.5 inches
+
+Answer: 8

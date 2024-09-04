@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Aimee polled 50% men and 50% women
+* 35% of women were in favor of shortening the school day by 30 minutes
+* 39 women opposed this idea
+
+First, let's find the number of women who were in favor of the idea:
+* 35% of women were in favor
+* So, if 39 women opposed the idea, then the number of women in favor would be 39 / (1 - 0.35) = 60
+
+Now, we know that Aimee polled an equal number of men and women, so the total number of people polled would be:
+* Total people polled = 2 * (60 + 39) = 198
+
+Answer: 198

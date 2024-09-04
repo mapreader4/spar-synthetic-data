@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. Hannah makes $30/hour and works 18 hours per week. So, her total hours worked is 18 hours.
+2. If her pay is docked $5 each time she's late, that means she loses $5 each time she's late.
+3. Since she was late 3 times this week, she lost $5 three times, so that's a total of $15.
+4. To get her total pay, we need to subtract the $15 she lost due to being late from her total pay. Her total pay is 18 * 30 = $540. We subtract $15 from $540 to get her final pay, which is $525.
+
+Answer: 525

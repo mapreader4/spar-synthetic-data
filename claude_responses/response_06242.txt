@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tim drinks 2 bottles that are each 1.5 quarts per day
+* 1 quart = 32 ounces
+* So each 1.5 quart bottle is 1.5 * 32 = 48 ounces
+* Therefore, the 2 bottles are 2 * 48 = 96 ounces per day
+* Tim also drinks an additional 20 ounces per day
+* So the total amount of water Tim drinks per day is 96 + 20 = 116 ounces
+* There are 7 days in a week
+* Therefore, the total amount of water Tim drinks in a week is 116 ounces * 7 days = 812 ounces
+
+Answer: 812

@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's start by converting the height of the tree from feet to inches. Since 1 foot is equal to 12 inches, we can convert the height of the tree from feet to inches by multiplying the height by 12.
+
+The height of the tree is 52 feet, so we multiply 52 * 12 = 624 inches.
+
+Now, the tree grows 5 feet each year, so in 8 years, it will grow 8 * 5 = 40 feet.
+
+We add the initial height of the tree, 624 inches, to the height it will be after 8 years, which is 624 inches.
+
+Answer: 624

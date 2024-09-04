@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's say the number of correct answers in the exam is x.
+
+Sylvia got one-fifth of incorrect answers, so she got x - x/5 = 1/5x = 0.2x incorrect answers.
+
+Sergio got 4 mistakes, which is the same as the number of incorrect answers.
+
+We know that the total number of questions in the exam is 50.
+
+So, the number of correct answers is 50 - 4 = 46.
+
+Now, we can find the difference in the number of correct answers between Sergio and Sylvia by subtracting the number of correct answers of Sylvia from the total number of correct answers:
+
+46 - 0.2x = 0.8x.
+
+To find the number of correct answers that Sergio has more than Sylvia, we can add 0.2x to both sides of the equation:
+
+0.8x = 0.8x + 0.2x.
+
+This is 1.6x, which is the number of correct answers that Sergio has more than Sylvia.
+
+Answer: 6.

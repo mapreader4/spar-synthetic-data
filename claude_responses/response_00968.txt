@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mary initially has 26 blue shirts and 36 brown shirts
+* She gives away half of her blue shirts
+* Half of 26 is 13, so she gives away 13 blue shirts
+* She has 26 - 13 = 13 blue shirts left
+* She gives away a third of her brown shirts
+* A third of 36 is 12, so she gives away 12 brown shirts
+* She has 36 - 12 = 24 brown shirts left
+* Adding the remaining blue and brown shirts:
+* 13 blue shirts + 24 brown shirts = 37 shirts left
+
+Answer: 37

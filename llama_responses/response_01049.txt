@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's say the range of the scores is 75, which means the lowest score is 1 and the highest score is 75. If Mark scored twice as much as the least score, that means he scored 2 * 1 = 2.
+
+The lowest score is 1, so the highest score is 75. Therefore, Mark's score is 2.

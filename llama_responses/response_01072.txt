@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: Determine the total number of buttons needed for both types of shirts. Since there are 200 shirts of each type, we need to find the total number of buttons. 
+
+Step 2: Calculate the total number of buttons needed for the shirts with 3 buttons. Since there are 200 shirts with 3 buttons each, we need 200 * 3 = 600 buttons for the first type of shirts.
+
+Step 3: Calculate the total number of buttons needed for the shirts with 5 buttons. Since there are 200 shirts with 5 buttons each, we need 200 * 5 = 1000 buttons for the second type of shirts.
+
+Step 4: Add the number of buttons needed for both types of shirts. We need 600 + 1000 = 1600 buttons in total.
+
+Answer: 1600

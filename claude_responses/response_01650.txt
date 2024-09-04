@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Edna made 150 cookies
+* She has 15 neighbors
+* Each neighbor was supposed to take 10 cookies
+* So the total number of cookies that should have been taken by all the neighbors is:
+    * 15 neighbors x 10 cookies each = 150 cookies
+* However, the neighbor who arrived last said there were only 8 cookies left
+* This means that 150 cookies - 8 cookies = 142 cookies were taken
+* Since all the other neighbors took the correct amount of 10 cookies each, the number of cookies taken by the other 14 neighbors is:
+    * 14 neighbors x 10 cookies each = 140 cookies
+* Therefore, the number of cookies taken by Sarah must be:
+    * 142 cookies taken - 140 cookies taken by the other 14 neighbors = 2 cookies
+
+Answer: 2

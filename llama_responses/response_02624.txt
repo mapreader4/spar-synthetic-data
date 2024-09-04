@@ -1,0 +1,19 @@
+Let's think step by step!
+
+Let's first find the original price of the DVDs. Let's call the original price "x".
+
+The discount is 25%, which is a percentage of the original price. To find the discount, we can multiply the original price by 0.25 (which is the decimal form of 25%).
+
+The discount is $40, so we can set up the equation:
+
+x - (0.25x) = 40
+
+To solve for x, we can subtract 40 from both sides of the equation:
+
+x = 40 / 0.25
+
+x = 160
+
+So, the original price of the DVDs is $160. Since Maria received a 25% discount, she paid:
+
+Answer: 160 - 40 = 120

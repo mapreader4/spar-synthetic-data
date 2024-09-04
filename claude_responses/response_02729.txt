@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* It takes 3 men an hour to complete 1 job
+* The company has hired them to work on 5 similar jobs
+* Each man is paid $10 per hour
+
+To calculate the total amount of money the three men will earn, we need to:
+1. Calculate the total number of hours it will take to complete all 5 jobs
+2. Multiply the total number of hours by the hourly rate of $10 per man
+
+Step 1: Calculating the total number of hours
+* It takes 3 men 1 hour to complete 1 job
+* There are 5 jobs to complete
+* Therefore, it will take 3 men 5 hours to complete all 5 jobs
+
+Step 2: Calculating the total amount earned
+* Each man earns $10 per hour
+* There are 3 men
+* They worked for a total of 5 hours
+* Therefore, the total amount earned is:
+   - 3 men x $10 per hour x 5 hours = $150
+
+Answer: $150

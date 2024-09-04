@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The colony starts with 80,000 bees.
+2) The colony is losing 1,200 bees per day.
+3) We want to find how many days it will take for the colony to reach a fourth of its initial number.
+4) A fourth of the initial number is 80,000 / 4 = 20,000 bees.
+5) To find how many days it will take to reach 20,000 bees, we can divide the initial number minus the target number by the daily loss:
+(80,000 - 20,000) / 1,200 = 60,000 / 1,200 = 50 days.
+
+Answer: 50 days.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Brittany uses 1/4 ounce of shampoo every other day.
+2) In a leap year, there are 366 days.
+3) Since Brittany washes her hair every other day, she will wash her hair 183 times in a leap year (366 days / 2 days per wash).
+4) Each time she washes her hair, she uses 1/4 ounce of shampoo.
+5) So in a leap year, she will use 183 * 1/4 = 45.75 ounces of shampoo.
+6) The shampoo bottles are 14 ounces each.
+7) To calculate how many bottles she needs, we divide the total amount of shampoo used (45.75 ounces) by the size of each bottle (14 ounces).
+8) 45.75 ounces / 14 ounces per bottle = 3.27 bottles.
+
+Answer: 4 bottles

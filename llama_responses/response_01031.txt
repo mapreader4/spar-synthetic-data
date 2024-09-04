@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start with the total number of people at the beginning of the game, which is 600.
+
+There were 1/4 (one-fourth) of the boys and 1/8 (one-eighth) of the girls who left early, which is the same as saying 1/4 + 1/8 = 9/8 of the total people left the game early.
+
+To find the number of girls at the beginning of the game, we can multiply the total number of people (600) by the fraction of girls who remained, which is 1 - 9/8 = 7/8.
+
+So, the number of girls remaining at the beginning of the game is 600 * 7/8 = 525.
+
+Answer: 525

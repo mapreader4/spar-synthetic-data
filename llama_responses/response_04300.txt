@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Anie needs 5 hours extra aside from her normal 10 hours of work, so her total daily work hours are 10 + 5 = 15 hours.
+
+The project is estimated to take 1500 hours, and we need to find the number of days it would take Anie to finish the job.
+
+Let's divide the total hours required to complete the project (1500 hours) by the number of hours Anie works each day (15 hours):
+
+1500 hours (total hours) ÷ 15 hours (daily work hours) = 100 days
+
+So, it would take Anie 100 days to finish the job.
+
+Answer: 100

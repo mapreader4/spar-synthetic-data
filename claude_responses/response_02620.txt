@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Ryan started with 36 tokens
+* He wasted a third of his tokens on Pac-Man
+* 1/3 of 36 = 12 tokens spent on Pac-Man
+* He wasted a fourth of his tokens on Candy Crush
+* 1/4 of 36 = 9 tokens spent on Candy Crush
+* He spent 7 tokens on Ski-ball
+* His parents then bought him seven times as many tokens as he spent on Ski-ball
+* 7 x 7 = 49 tokens bought by his parents
+* So the total number of tokens Ryan ended up with is:
+* 36 - 12 - 9 - 7 + 49 = 57 tokens
+
+Answer: 57

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Evan had 200 books two years ago
+* Evan currently owns 40 fewer books than he had two years ago
+* To find the number of books Evan currently owns, we take the number of books he had two years ago (200) and subtract 40:
+* 200 - 40 = 160 books
+* In five years, Evan will have 60 more than five times as many books as he owns now
+* To find the number of books Evan will have in five years, we first find five times the number of books he currently owns:
+* 5 x 160 = 800 books
+* Then we add 60 to that number:
+* 800 + 60 = 860 books
+
+Answer: 860 books

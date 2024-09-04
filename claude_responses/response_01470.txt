@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Ayen jogs for 30 minutes every day during weekdays
+* There are 5 weekdays in a week (Monday through Friday)
+* So, on a regular weekday, Ayen jogs for 30 minutes
+* This week, on Tuesday, she jogged 5 minutes more, so she jogged for 35 minutes
+* This week, on Friday, she jogged 25 minutes more, so she jogged for 55 minutes
+* To calculate the total time Ayen jogged this week:
+** Monday, Wednesday, Thursday: 30 minutes each, so 3 x 30 = 90 minutes
+** Tuesday: 35 minutes
+** Friday: 55 minutes
+** Total time jogged this week: 90 + 35 + 55 = 180 minutes
+* To convert 180 minutes to hours:
+** 180 minutes / 60 minutes per hour = 3 hours
+
+Answer: 3 hours

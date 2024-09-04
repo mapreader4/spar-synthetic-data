@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) James turned 23 at the same time John turned 35.
+2) Tim is 5 years less than twice John's age.
+3) Tim is 79 years old.
+
+To find Tim's age in relation to John's age:
+* Tim is 5 years less than twice John's age
+* So, 2 * John's age - 5 = Tim's age
+* Since Tim is 79, we can solve for John's age:
+* 2 * John's age - 5 = 79
+* 2 * John's age = 84
+* John's age = 42
+
+Now that we know John's age is 42, we can find James' age:
+* James turned 23 at the same time John turned 35
+* So, James is 23 years old.
+
+Answer: 23

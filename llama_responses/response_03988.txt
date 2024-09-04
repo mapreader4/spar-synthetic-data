@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's calculate the cost of the hotel stay:
+
+* The hotel stay is for 2 nights at $4000 per night, so the total cost of the hotel stay is 2 x $4000 = $8000.
+
+Next, let's calculate the value of the car:
+
+* The car is worth $30000.
+
+Next, let's calculate the value of the house:
+
+* The house is worth four times the value of the car, which is 4 x $30000 = $120000.
+
+Now, let's add up the total value of all the treats:
+
+* The hotel stay is $8000, the car is $30000, and the house is $120000, so the total value of all the treats is $8000 + $30000 + $120000 = $220000.
+
+Answer: 220000

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Selina sold 3 pairs of pants at $5 each, so she made 3 * $5 = $15 from the pants.
+* Selina sold 5 pairs of shorts at $3 each, so she made 5 * $3 = $15 from the shorts.
+* Selina bought 2 shirts at $10 each, so she spent 2 * $10 = $20 on the shirts.
+* Selina left the store with $30.
+* To find the total amount Selina made from selling her clothes, we add the money she made from the pants and shorts, and subtract the money she spent on the shirts:
+   - Total made = $15 (pants) + $15 (shorts) - $20 (shirts) = $10
+* Since Selina left the store with $30, we can subtract the $10 she made from selling her clothes to find the amount she had before selling anything:
+   - Amount before selling = $30 + $10 = $40
+* From the $40 she had before selling, she spent $20 on the 2 shirts, so the remaining $20 must have come from selling shirts.
+* Each shirt was sold for $4, so the number of shirts she sold is $20 / $4 = 5 shirts.
+
+Answer: 5

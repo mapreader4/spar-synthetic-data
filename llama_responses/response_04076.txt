@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of goldfish that need to eat special food. 20% of the goldfish need to eat special food. To find this number, we multiply the total number of goldfish by 0.20. So, we multiply 50 * 0.20, which gives us 10.
+
+Next, we need to find out how much it costs to feed these fish. Each goldfish eats 1.5 ounces of food per day. The special food costs $3 per ounce. So, to feed one goldfish, it will cost 1.5 * 3 = 4.5 dollars. To feed 10 goldfish, it will cost 10 * 4.5 = 45 dollars.
+
+So, the answer is: Answer: 45

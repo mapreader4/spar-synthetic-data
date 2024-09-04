@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Bo has 800 flashcards
+* He already knows 20% of the words on the flashcards
+* To calculate how many words he knows:
+    * 20% of 800 = 0.20 * 800 = 160 words
+* So, he needs to learn the remaining 80% of the words
+* To calculate how many words he needs to learn:
+    * 80% of 800 = 0.80 * 800 = 640 words
+* He has 40 days to learn the remaining 640 words
+* To calculate how many words he needs to learn per day:
+    * 640 words / 40 days = 16 words per day
+
+Answer: 16

@@ -1,0 +1,31 @@
+Let's break this down step by step.
+
+Let's first find the price of one pair of shoes. If jerseys cost 1/4 the price of one pair of shoes, then 4 jerseys will cost 4/4 the price of one pair of shoes. So, if we know the total cost of 6 pairs of shoes and 4 jerseys, we can set up an equation:
+
+6 pairs of shoes + 4 pairs of jerseys = 560
+
+We know that 6 pairs of shoes = 6 x (price of one pair of shoes). Let's call the price of one pair of shoes x. So, we can write the equation as:
+
+6x + 4(1/4x) = 560
+
+Now, we can solve for x. First, we can multiply both sides of the equation by 4 to get:
+
+4(6x + 4(1/4x)) = 4(560)
+
+Now, we can simplify the left side of the equation by multiplying the numbers:
+
+24x + 4 = 2240
+
+Now, we can subtract 24 from both sides of the equation to get:
+
+24x = 2216
+
+Finally, we can divide both sides of the equation by 24 to get:
+
+x = 92
+
+So, the price of one pair of shoes is 92. Since jerseys cost 1/4 the price of one pair of shoes, we can find the total cost of jerseys by multiplying the price of one pair of shoes by 4:
+
+1/4(92) = 23
+
+So, the total price of the 4 jerseys is 23. The total cost of the shoes is 6 pairs of shoes, which is 6 x 92 = 552. The total cost of the jerseys is 4 x 23 = 92. The total price of the shoes and jerseys together is 552 + 92 = 644.

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's find the average of his History score, which is the average of 50, 70 and 66. To find the average, we add up the three scores and divide by 3:
+
+50 + 70 + 66 = 186
+
+186 ÷ 3 = 62
+
+So, his History score is 62.
+
+Now, to find his total score across all 4 subjects, we need to add his 4 scores: 62 + 50 + 70 + 66. The total score is:
+
+62 + 50 + 70 + 66 = 188
+
+Answer: 188

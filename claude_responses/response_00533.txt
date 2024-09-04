@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There were 100 jelly beans in the bag to be given away.
+2) Out of the 40 children taking part in the Halloween celebration, 80% were allowed to draw jelly beans from the bag.
+3) To find the number of children who were allowed to draw jelly beans, we take 80% of 40:
+   * 80% of 40 = 0.8 * 40 = 32 children
+4) Each child drew 2 jelly beans from the bag.
+5) To find the total number of jelly beans taken by the children, we multiply the number of children (32) by the number of jelly beans each child took (2):
+   * 32 * 2 = 64 jelly beans
+6) To find the number of jelly beans remaining in the bag, we subtract the number of jelly beans taken by the children (64) from the total number of jelly beans in the bag (100):
+   * 100 - 64 = 36 jelly beans
+
+Answer: 36

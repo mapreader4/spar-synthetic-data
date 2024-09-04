@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The apple tree has 3 times as many apples as the number of plums on the plum tree. So if there were 180 apples on the apple tree, then the number of plums on the plum tree must be 180 / 3 = 60 plums.
+2) Damien picks 3/5 of the fruits from the trees. This means he picks 3/5 of the 180 apples and 3/5 of the 60 plums.
+3) The number of apples picked is 3/5 * 180 = 108 apples.
+4) The number of plums picked is 3/5 * 60 = 36 plums.
+5) The number of apples remaining on the apple tree is 180 - 108 = 72 apples.
+6) The number of plums remaining on the plum tree is 60 - 36 = 24 plums.
+7) The total number of plums and apples remaining on the trees is 72 + 24 = 96.
+
+Answer: 96

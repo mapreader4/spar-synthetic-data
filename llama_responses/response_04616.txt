@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of sacks of strawberries needed for each bakery per week. We have 3 bakeries, and each one needs a different amount of sacks.
+
+For the first bakery, it needs 2 sacks per week.
+For the second bakery, it needs 4 sacks per week.
+For the third bakery, it needs 12 sacks per week.
+
+So, the total number of sacks needed for each bakery per week is 2 + 4 + 12 = 16 sacks.
+
+Since there are 4 weeks, the total number of sacks of strawberries needed is 4 x 16 = 64 sacks.
+
+So, the answer is: Answer: 64

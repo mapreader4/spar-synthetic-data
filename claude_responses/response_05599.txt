@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Mairead runs for 40 miles
+2) She then walks for 3/5 times as many miles as she ran
+   - 3/5 of 40 miles = 24 miles
+3) She then walks for five times the number of miles she jogged
+   - She jogged 40 miles
+   - 5 times 40 miles = 200 miles
+4) To calculate the total distance Mairead has covered, we add up the running and walking distances:
+   - 40 miles (running) + 24 miles (walking 3/5 of running) + 200 miles (walking 5 times jogging)
+   = 40 + 24 + 200
+   = 264 miles
+
+Answer: 264

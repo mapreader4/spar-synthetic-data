@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+* Initially, there were 10 snowflakes
+* It snowed an additional 4 snowflakes every 5 minutes
+* We need to find how many minutes passed before there were 58 snowflakes
+
+To do this, we need to find how many sets of 4 snowflakes were added to the initial 10 snowflakes to reach 58 snowflakes.
+
+* 58 snowflakes - 10 initial snowflakes = 48 additional snowflakes
+* 48 additional snowflakes / 4 snowflakes per 5 minutes = 12 sets of 5 minutes
+
+Therefore, 12 sets of 5 minutes = 60 minutes passed before there were 58 snowflakes.
+
+Answer: 60

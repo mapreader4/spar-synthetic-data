@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The first staircase has 20 steps.
+2. The next staircase has twice as many steps as the first, so it has 20 x 2 = 40 steps.
+3. The final staircase has 10 fewer steps than the second one, so it has 40 - 10 = 30 steps.
+4. To find the total number of steps, we add the number of steps of each staircase: 20 + 40 + 30 = 90 steps.
+5. Each step is 0.5 feet, so we multiply the total number of steps by the height of each step: 90 steps * 0.5 feet/step = 45 feet.
+
+Answer: 45

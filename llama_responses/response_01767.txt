@@ -1,0 +1,7 @@
+To find the total number of chives Juvy will plant, we need to subtract the number of parsley and rosemary plants from the total number of plants.
+
+There are 20 rows in total, and 10 plants in each row. The first 3 rows have parsley, which means there are 3 * 10 = 30 parsley plants. The last 2 rows have rosemary, which means there are 2 * 10 = 20 rosemary plants. So, the total number of parsley and rosemary plants is 30 + 20 = 50.
+
+There are 20 rows left, so we subtract 50 from the total number of plants to get the number of chives. 20 - 50 = 10.
+
+Answer: 10

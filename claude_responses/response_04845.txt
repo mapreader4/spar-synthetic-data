@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The shirt costs a third of the value of the wallet.
+2) The wallet is $60 more than the cost of the food.
+3) Mike spent $30 on the food.
+4) To find the cost of the wallet, we can use the information that it is $60 more than the cost of the food:
+   * Cost of the wallet = Cost of the food + $60
+   * Cost of the wallet = $30 + $60 = $90
+5) Now that we know the cost of the wallet, we can find the cost of the shirt:
+   * Cost of the shirt = 1/3 * Cost of the wallet
+   * Cost of the shirt = 1/3 * $90 = $30
+6) To find the total amount Mike spent that day, we add up the costs of the shirt, wallet, and food:
+   * Total amount spent = Cost of the shirt + Cost of the wallet + Cost of the food
+   * Total amount spent = $30 + $90 + $30 = $150
+
+Answer: $150

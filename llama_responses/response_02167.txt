@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The truck driver is paid $.50 per mile. She drives 10 miles per gallon. So, the amount of money she makes per gallon is $.50 * 10 = $5.00.
+
+2. She drives for 10 hours. She drives at a rate of 30 miles per hour. So, the distance she drives is 10 hours * 30 = 300 miles.
+
+3. The total amount of gas used is 300 miles * 2 per gallon = 600 gallons. The total amount of money she makes is 600 * 5.00 = 3000.
+
+Answer: 3000

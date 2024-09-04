@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+There are 45 children and one third as many adults, so there are 15 adults. If one third of the adults wore blue, then we know that one third of 15 is 5 adults wore blue.
+
+Now, to find the number of adults who did not wear blue, we can subtract the number of adults who wore blue from the total number of adults. We know that 5 adults wore blue, so the number of adults who did not wear blue is the difference between the total number of adults and the number of adults who wore blue.
+
+So, the number of adults who did not wear blue is 15 - 5 = 10.
+
+Answer: 10

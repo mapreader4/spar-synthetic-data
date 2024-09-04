@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Find the cost of one slice of ham: $0.25.
+Step 2: Find the cost of one slice of cheese: $0.35.
+Step 3: Find the cost of one slice of bread: $0.15.
+
+Step 4: Calculate the total cost of one slice of ham and one slice of cheese: $0.25 + $0.35 = $0.60.
+Step 5: Calculate the total cost of one slice of bread: $0.15.
+Step 6: Calculate the total cost of the sandwich: $0.60 + $0.15 = $0.75.
+
+Answer: 75

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of the frame she wanted, which is 20% more than her budget of 60 dollars. So, the cost of the frame is 1.2 times the budget, which is 60 * 1.2 = 72 dollars.
+
+Since she paid for a smaller frame at 3/4 the cost of the frame she wanted, the cost of the frame she paid for is 72 * 3/4 = 54 dollars.
+
+So, she paid 54 dollars for the frame. To find out how much money she remained with, we need to subtract the cost of the frame she paid for from the cost of the frame she wanted. 72 - 54 = 18.
+
+So, the answer is: Answer: 18.

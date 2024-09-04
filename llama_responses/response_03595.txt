@@ -1,0 +1,8 @@
+Let's break down the problem step by step.
+
+1. The total produce of apples was twice the total produce of mangoes. Since the farm produced 400 kg of mangoes, the total produce of apples is 2 x 400 = 800 kg.
+2. The total produce of oranges was 200 kg more than the total produce of mangoes. Since the farm produced 400 kg of mangoes, the total produce of oranges is 400 + 200 = 600 kg.
+3. The total produce is the sum of the produce of apples, mangoes, and oranges: 800 + 400 + 600 = 1800 kg.
+4. Since Mr. Sergio sold the fruits at $50 per kg, the total amount of money he got is the total produce multiplied by the price per kg: 1800 kg x $50/kg = $90,000.
+
+Answer: 90000

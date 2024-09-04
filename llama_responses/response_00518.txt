@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Selma has 50 marbles.
+
+We are told that the two of them together have five fewer marbles than Selma. So, let's say that the two of them together have 50 - 5 = 45 marbles.
+
+Now, we know that Merill has twice as many marbles as Elliot. So, we can set up an equation to represent this: M = 2E.
+
+We are given that M is equal to the number of marbles Merill has. And we know that M + E = 45, because the two of them together have 45 marbles.
+
+To solve for M, we can subtract E from both sides of the equation: M = 2E - E = 45. This leaves us with M = 45 - E.
+
+M is equal to 45 - E. We are given that M is equal to the number of marbles Merill has. So, we can conclude that Merill has 45 - 45 = 15 marbles.
+
+Answer: 15

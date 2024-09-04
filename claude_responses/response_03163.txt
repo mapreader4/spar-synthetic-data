@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Each student gets 2 pieces of cheese and 1 piece of onion
+* A large pizza has 18 slices
+* The teacher orders 6 total pizzas
+* There are 8 pieces of cheese and 4 pieces of onion leftover
+
+First, let's calculate the total number of slices in the 6 pizzas:
+* 6 pizzas x 18 slices per pizza = 108 total slices
+
+Now, let's calculate the number of slices used by the students:
+* Each student gets 2 pieces of cheese and 1 piece of onion, so 3 slices per student
+* The 8 pieces of cheese and 4 pieces of onion leftover means that 8 + 4 = 12 slices were not used
+* Therefore, the total number of slices used by the students is 108 - 12 = 96 slices
+
+Finally, to find the number of students, we divide the total number of slices used by the students (96) by the number of slices per student (3):
+* 96 slices / 3 slices per student = 32 students
+
+Answer: 32

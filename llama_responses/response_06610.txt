@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+Mortdecai collects 8 dozen eggs every Tuesday and Thursday, which is 2 days in a week. So, he collects 8 * 2 = 16 dozen eggs in a week.
+
+He delivers 3 dozen eggs to the market and 5 dozen eggs to the mall, which is a total of 3 + 5 = 8 dozen eggs.
+
+So, he delivers 8 dozen eggs and uses 4 dozen eggs to make a pie. This leaves him with 16 - 8 - 4 = 4 dozen eggs.
+
+Now, since 1 dozen eggs is equal to 12 eggs, 4 dozen eggs is equal to 4 * 12 = 48 eggs.
+
+So, Mortdecai donates 48 eggs to the charity.
+
+Answer: 48

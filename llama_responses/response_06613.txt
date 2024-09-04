@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of hens that lay eggs. We know that 20 hens do not lay eggs, so those 20 hens are not egg-laying hens. The rest of the hens, which are 325 - 20 = 305, do lay eggs.
+
+So, the number of egg-laying hens is 305.
+
+Answer: 305

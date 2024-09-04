@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Lyra bought a pair of shoes at a 20% discount.
+2) She paid $480 for the shoes.
+3) To find the original price of the shoes, we need to find the price before the 20% discount was applied.
+4) Let's call the original price of the shoes "x".
+5) The discounted price is 80% of the original price (since the discount is 20%).
+6) So the discounted price is 0.8x.
+7) We know the discounted price is $480, so we can set up the equation:
+0.8x = $480
+8) Solving for x, we get:
+x = $480 / 0.8
+x = $600
+
+Answer: $600

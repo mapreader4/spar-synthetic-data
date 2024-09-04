@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Mark visits 20 households a day for 5 days. So, the total number of households he visits is 20 * 5 = 100 households.
+
+2. Half of those households give him a pair of 20s. So, the number of households that give Mark 20s is 100 / 2 = 50 households.
+
+3. Since each household gives Mark a pair of 20s, Mark gets 50 * 20 = 1000 in total.
+
+Answer: 1000

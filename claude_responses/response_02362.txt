@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* John releases 3 videos per day
+* 2 of the videos are 2 minutes long
+* 1 of the videos is 6 times as long as the 2-minute videos
+* We want to find the total minutes of video released per week
+
+First, let's calculate the length of the longer video:
+* The longer video is 6 times as long as the 2-minute videos
+* So the longer video is 6 x 2 = 12 minutes long
+
+Now, let's calculate the total minutes of video released per day:
+* 2 videos at 2 minutes each = 4 minutes
+* 1 video at 12 minutes = 12 minutes
+* Total minutes per day = 4 + 12 = 16 minutes
+
+Finally, let's calculate the total minutes of video released per week:
+* 16 minutes per day x 7 days per week = 112 minutes per week
+
+Answer: 112

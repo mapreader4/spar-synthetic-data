@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given: 100 lasagnas use 2 pounds of ground mince each, and cottage pies use 3 pounds of ground mince each.
+
+Let's find the total amount of ground mince used for lasagnas: 100 lasagnas * 2 pounds/lasagna = 200 pounds of ground mince.
+
+Since the total amount of ground mince used is 500 pounds, we can set up an equation to solve for the number of cottage pies: 500 pounds - 200 pounds (for lasagnas) =? pounds for cottage pies.
+
+To solve for the number of cottage pies, we can divide the remaining amount of ground mince (500 - 200 = 300 pounds) by the amount used for each cottage pie (3 pounds): 300 pounds / 3 pounds/cottage pie = 100 cottage pies.
+
+Answer: 100.

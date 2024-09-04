@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Two-thirds of the class have brown eyes. This means that the remaining one-third of the class have non-brown eyes.
+2) Half of the students with brown eyes have black hair. This means that the other half of the students with brown eyes have non-black hair.
+3) We are told that there are 6 students in the class with brown eyes and black hair.
+4) Since half of the students with brown eyes have black hair, the total number of students with brown eyes is 6 * 2 = 12.
+5) Since two-thirds of the class have brown eyes, the total number of students in the class is 12 / (2/3) = 18.
+
+Answer: 18

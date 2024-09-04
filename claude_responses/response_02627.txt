@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) The child is making a 5-level pyramid.
+2) In the first row, he has 9 blocks.
+3) For each subsequent row, he has 2 less blocks than the row below it.
+4) So, the number of blocks in each row is:
+   - Row 1: 9 blocks
+   - Row 2: 9 - 2 = 7 blocks
+   - Row 3: 7 - 2 = 5 blocks
+   - Row 4: 5 - 2 = 3 blocks
+   - Row 5: 3 - 2 = 1 block
+5) To find the total number of blocks used, we add up the number of blocks in each row:
+   - Total blocks = 9 + 7 + 5 + 3 + 1 = 25
+
+Answer: 25

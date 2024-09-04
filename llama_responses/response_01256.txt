@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first figure out how many vegetables Conor can chop in a day. He can chop 12 eggplants, 9 carrots, and 8 potatoes. So, the total number of vegetables he can chop in a day is 12 + 9 + 8 = 29.
+
+Now, let's figure out how many days in a week. There are 7 days in a week. So, the total number of days in a week is 7.
+
+Conor works 4 times a week. So, the total number of days he works is 7 * 4 = 28.
+
+Now, let's multiply the number of vegetables he can chop in a day with the number of days he works. 29 * 28 = 812.
+
+Answer: 812

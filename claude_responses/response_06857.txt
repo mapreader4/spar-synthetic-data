@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Archer caught 8 fish in the first round.
+2) In the second round, he caught 12 more fish than the first round, which means he caught 8 + 12 = 20 fish.
+3) In the third round, he caught 60% more fish than the second round. 60% of 20 is 12, so he caught 20 + 12 = 32 fish.
+4) To find the total number of fish he caught that day, we add the fish from all three rounds:
+8 + 20 + 32 = 60 fish.
+
+Answer: 60

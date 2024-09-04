@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) We are told that there are 78 pieces of fruit in the crate.
+2) One-third of the box contains kiwi. To find the number of kiwi, we take one-third of the total pieces of fruit:
+   * 1/3 of 78 = 78 / 3 = 26 kiwi
+3) The rest of the pieces of fruit are strawberries. To find the number of strawberries, we subtract the number of kiwi from the total number of pieces of fruit:
+   * 78 - 26 = 52 strawberries
+
+Answer: 52

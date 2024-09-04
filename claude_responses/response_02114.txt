@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) We are given that for Miles, 1 inch equals 5 pages. So, if his collection is 240 inches tall, then the number of pages in his collection is:
+240 inches x 5 pages/inch = 1,200 pages
+2) We are also given that for Daphne, 1 inch equals 50 pages. So, if her collection is 25 inches tall, then the number of pages in her collection is:
+25 inches x 50 pages/inch = 1,250 pages
+3) Therefore, the longest collection is Daphne's, with 1,250 pages.
+
+Answer: 1,250

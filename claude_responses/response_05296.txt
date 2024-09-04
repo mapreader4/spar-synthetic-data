@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Bob orders a dozen muffins a day, which is 12 muffins.
+* He buys each muffin for $0.75.
+* So, the total cost of the muffins he buys in a day is:
+    * 12 muffins x $0.75 per muffin = $9.00
+* He sells each muffin for $1.5.
+* So, the total revenue he makes in a day is:
+    * 12 muffins x $1.5 per muffin = $18.00
+* The profit he makes in a day is the difference between the revenue and the cost:
+    * $18.00 - $9.00 = $9.00
+* In a week, there are 7 days.
+* So, the total profit he makes in a week is:
+    * $9.00 per day x 7 days = $63.00
+
+Answer: $63

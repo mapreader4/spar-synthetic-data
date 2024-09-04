@@ -1,0 +1,7 @@
+To find out how much money Annie has left, we need to subtract the cost of the hamburgers and milkshakes from the initial amount of money she had.
+
+Annie has $120 initially.
+
+She buys 8 hamburgers for $4 each, which is a total of 8 * $4 = $32. Then, she buys 6 milkshakes for $3 each, which is a total of 6 * $3 = $18. So, the total cost is $32 + $18 = $50. So, she has $120 - $50 = $70 left.
+
+Answer: 70

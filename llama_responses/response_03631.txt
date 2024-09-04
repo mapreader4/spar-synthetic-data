@@ -1,0 +1,28 @@
+Let's think about this step by step.
+
+Let's start by identifying what we know:
+
+1. Codger has 3 shoes.
+2. He wants to buy 5 complete 3-piece sets of shoes.
+3. The stores only sell shoes in pairs.
+
+To have 5 complete 3-piece sets of shoes, we need to find out how many pairs of shoes he needs.
+
+Let's find the number of pairs of shoes he needs:
+
+3-piece set of shoes = 3 shoes
+5 complete 3-piece sets of shoes = 5 x 3-piece sets of shoes
+
+So, to have 5 complete 3-piece sets of shoes, Codger needs to buy:
+
+3-piece set of shoes = 3 shoes
+3-piece set of shoes = 3 shoes
+3-piece set of shoes = 3 shoes
+3-piece set of shoes = 3 shoes
+3-piece set of shoes = 3 shoes
+
+In total, he needs to buy 15 shoes.
+
+So, the answer is:
+
+Answer: 15

@@ -1,0 +1,15 @@
+Let's start by identifying the number of vampires and werewolves.
+
+Let's start with the number of vampires. The problem states that Van Helsing gets $5 per vampire. He removes half the vampires. Since the total number of vampires is not given, we can let's assume that the number of vampires is x. Then, he earns $5x. So, we can write an equation for the total amount of money he earns from vampires as 5x.
+
+Next, let's identify the number of werewolves. The problem states that he removes 8 werewolves. It also states that there are 4 times as many werewolves as vampires. Since the number of vampires is x, we know that the number of werewolves is also x. Therefore, the total number of werewolves is 4x.
+
+Now, let's write the equation for the total amount of money he earns from werewolves. He earns $10 per werewolf, and he removes 8 of them. So, the total amount of money he earns from werewolves is 10x.
+
+The total amount of money he earns from both vampires and werewolves is the sum of the money he earns from vampires and werewolves. This is $5x + 10x, which is 15x.
+
+The problem states that he earns $105. This means that 15x = 105. We can solve for x by dividing both sides of the equation by 15. 15x = 105 ÷ 15 = 7. This means that x = 7.
+
+The problem asks for the percentage of the werewolves that Van Helsing removes. We know that the number of werewolves is 4x. So, we can find the percentage by dividing the number of werewolves he removes (8) by the total number of werewolves (4x). This is 8/4x. We can simplify this fraction by dividing both the numerator and denominator by x. 8/4 = 2. So, the percentage of the werewolves that Van Helsing removes is 2/1 or 200%.
+
+Answer: 200

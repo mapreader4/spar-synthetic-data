@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The original price of the t-shirt is $20
+* The t-shirt is 50% off, which means the discounted price is 50% of the original price
+* To calculate the discounted price, we take the original price ($20) and multiply it by 0.5 (50% expressed as a decimal)
+* 20 x 0.5 = $10, so the discounted price of the t-shirt is $10
+* There are 4 friends, and each one bought a t-shirt
+* To calculate the total amount spent, we take the discounted price ($10) and multiply it by the number of t-shirts bought (4)
+* 10 x 4 = $40
+
+Answer: $40

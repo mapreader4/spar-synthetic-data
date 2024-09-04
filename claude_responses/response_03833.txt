@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Alyssa and Chelsea jointly bought 40 candles.
+2) Alyssa used half of the 40 candles, which is 20 candles.
+3) That leaves 40 - 20 = 20 candles remaining.
+4) Chelsea used 70% of the remaining 20 candles.
+5) 70% of 20 is 0.7 * 20 = 14 candles.
+6) So the number of candles remaining in the room is the original 40 candles, minus the 20 used by Alyssa, minus the 14 used by Chelsea.
+7) 40 - 20 - 14 = 6 candles.
+
+Answer: 6

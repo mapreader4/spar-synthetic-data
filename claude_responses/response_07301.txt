@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Holly gets 26 paychecks per year.
+2) She puts $100.00 from every paycheck into her 401K.
+3) Her company will match that contribution by 6%.
+4) To calculate the total amount contributed by Holly in 1 year:
+   - Holly contributes $100.00 per paycheck
+   - She gets 26 paychecks per year
+   - So, Holly contributes $100.00 x 26 = $2,600.00 per year
+5) To calculate the amount contributed by the company:
+   - The company matches Holly's contribution by 6%
+   - Holly contributes $2,600.00 per year
+   - 6% of $2,600.00 is $156.00
+6) The total amount contributed to Holly's 401K after 1 year is the sum of Holly's contribution and the company's contribution:
+   - Holly's contribution: $2,600.00
+   - Company's contribution: $156.00
+   - Total contribution: $2,600.00 + $156.00 = $2,756.00
+
+Answer: $2,756

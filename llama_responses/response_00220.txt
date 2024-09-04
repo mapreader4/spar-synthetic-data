@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that the car uses 20 gallons of gas to travel 400 miles, so we can find the rate of gas consumption by dividing 20 gallons by 400 miles.
+
+20 ÷ 400 = 0.05 gallons per mile
+
+Now, we know that Mr. Montero's car has 8 gallons of gas. We can find the number of miles it can travel on the same rate of consumption.
+
+8 ÷ 0.05 = 160
+
+So, Mr. Montero's car can travel 160 miles on 8 gallons. To travel 600 miles, back and forth, he would need:
+
+600 ÷ 2 = 300
+
+To find the total distance, we multiply the distance by 2 because we need to travel 600 miles, back and forth.
+
+300 × 2 = 600
+
+So, Mr. Montero needs 600 miles of gas to travel 600 miles, back and forth.
+
+Answer: 600

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* A single line is worth 1000 points
+* A tetris is worth 8 times that much, which is 8 x 1000 = 8000 points
+* Tim scored 6 singles and 4 tetrises
+* To calculate the points for the singles, we take 6 singles x 1000 points per single = 6000 points
+* To calculate the points for the tetrises, we take 4 tetrises x 8000 points per tetris = 32,000 points
+* To get the total points, we add the points for the singles and the tetrises:
+6000 points + 32,000 points = 38,000 points
+
+Answer: 38,000

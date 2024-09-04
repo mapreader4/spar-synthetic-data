@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The initial load on the tractor trailer is 50,000 pounds.
+2) At the first store, 10% of the weight is unloaded. 10% of 50,000 is 5,000 pounds.
+3) The remaining weight on the truck after the first delivery is 50,000 - 5,000 = 45,000 pounds.
+4) At the second store, 20% of the remaining load is removed. 20% of 45,000 is 9,000 pounds.
+5) The final weight left on the truck after the two deliveries is 45,000 - 9,000 = 36,000 pounds.
+
+Answer: 36,000 pounds.

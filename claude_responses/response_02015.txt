@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Mark's hourly wage before the raise was $40 per hour.
+2. After the 5% raise, his new hourly wage is:
+   * $40 + (5% of $40) = $40 + $2 = $42 per hour
+3. He works 8 hours per day, 5 days per week, so his weekly earnings are:
+   * $42 per hour x 8 hours per day x 5 days per week = $1,680 per week
+4. His old bills were $600 per week.
+5. He added a $100 per week personal trainer.
+6. So his new weekly bills are:
+   * $600 + $100 = $700 per week
+7. To calculate the amount he has leftover per week:
+   * $1,680 (weekly earnings) - $700 (weekly bills) = $980 leftover per week
+
+Answer: $980

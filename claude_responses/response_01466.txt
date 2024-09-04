@@ -1,0 +1,7 @@
+Okay, let's think through this step-by-step:
+1) We have 2 dogs that each bark 30 times per minute.
+2) To find the total number of barks in 10 minutes, we need to multiply the number of barks per minute by the number of minutes.
+3) Each dog barks 30 times per minute, so the total number of barks per minute for the 2 dogs is 2 * 30 = 60 barks per minute.
+4) In 10 minutes, the total number of barks would be 60 barks per minute * 10 minutes = 600 barks.
+
+Answer: 600

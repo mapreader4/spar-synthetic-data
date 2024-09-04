@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. The tallest tree is 108 feet.
+2. The middle-sized tree is 6 feet less than half the height of the tallest tree.
+   * Half the height of the tallest tree is 108 / 2 = 54 feet.
+   * The middle-sized tree is 54 - 6 = 48 feet.
+3. The smallest tree is 1/4 the height of the middle tree.
+   * The height of the middle tree is 48 feet.
+   * 1/4 of 48 feet is 48 / 4 = 12 feet.
+
+Answer: 12 feet

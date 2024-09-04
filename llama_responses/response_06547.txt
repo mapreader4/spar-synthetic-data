@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of shirts Sally sews. She sews 4 shirts on Monday, 3 shirts on Tuesday, and 2 shirts on Wednesday, so the total number of shirts she sews is:
+
+4 + 3 + 2 = 9
+
+So, Sally sews 9 shirts.
+
+Now, let's find the total number of buttons she needs to sew. Each shirt has 5 buttons, so for 9 shirts, she will need:
+
+9 * 5 = 45
+
+Answer: 45

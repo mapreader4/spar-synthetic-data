@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the average number of books Krystian borrows in a day. He borrows 40 books on average. So, the average daily number of books is 40.
+
+Since he borrows 40% more books on Friday than the average, that means he borrows 40 + (40 * 0.4) = 40 + 16 = 56 books on Friday.
+
+Since the library is open from Monday to Friday, there are 5 days. So, the total number of books he borrows in a week is 40 * 5 = 200. And on Friday, he borrows 56 books. So, the total number of books he borrows in a week is 200 + 56 = 256.
+
+Answer: 256

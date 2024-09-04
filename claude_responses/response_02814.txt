@@ -1,0 +1,17 @@
+To solve this problem, we need to find the total time Josie spent waiting and subtract it from the total time of her shopping trip.
+
+Given information:
+- Josie waited 3 minutes for a cart.
+- Josie waited 13 minutes for an employee to unlock a cabinet.
+- Josie waited 14 minutes for a stocker to restock a shelf.
+- Josie waited 18 minutes in line to check out.
+- Josie's shopping trip took an hour and a half, which is 90 minutes.
+
+Step 1: Calculate the total time Josie spent waiting.
+Total time waiting = 3 minutes + 13 minutes + 14 minutes + 18 minutes = 48 minutes
+
+Step 2: Calculate the time Josie spent shopping instead of waiting.
+Time spent shopping = Total time of shopping trip - Total time waiting
+Time spent shopping = 90 minutes - 48 minutes = 42 minutes
+
+Answer: 42 minutes

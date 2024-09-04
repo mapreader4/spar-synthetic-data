@@ -1,0 +1,27 @@
+Let's break it down step by step.
+
+Let's start by finding the total number of jelly beans. We know that 3/4 of the jelly beans are red, and 1/4 of the red jelly beans are coconut flavored. So, we can set up an equation to represent the total number of jelly beans:
+
+Let x be the total number of jelly beans. Then, we can set up the equation as follows:
+
+3/4x = 1/4x
+
+To solve for x, we can multiply both sides by 4:
+
+3/4x * 4 = 1/4x * 4
+
+This simplifies to:
+
+3x = x
+
+So, x = 3x. This means that the total number of jelly beans is 3 times the number of red jelly beans. Since 750 are coconut flavored, we can set up the equation:
+
+750 = 3x
+
+Now, we can solve for x:
+
+x = 750 / 3
+
+x = 250
+
+Answer: 250

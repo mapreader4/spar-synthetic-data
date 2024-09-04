@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the number of customers that enter the store every hour. The number of customers per hour is 175.
+
+During the holiday season, the number of customers doubles. So, the new number of customers per hour is 175 * 2 = 350.
+
+The store is open for 8 hours. To find the total number of customers the store sees in 8 hours, we multiply the number of customers per hour by the number of hours.
+
+350 * 8 = 2800.
+
+Answer: 2800

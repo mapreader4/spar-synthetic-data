@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Each serving of the pie requires 1.5 apples
+* Jessica plans to make 3 pies, each with 8 servings
+* So the total number of servings is 3 pies x 8 servings per pie = 24 servings
+* Since each serving requires 1.5 apples, the total number of apples needed is 24 servings x 1.5 apples per serving = 36 apples
+* Jessica has 12 guests
+* So on average, each guest eats 36 apples / 12 guests = 3 apples
+
+Answer: 3

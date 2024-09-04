@@ -1,0 +1,29 @@
+Let's break down the problem step by step.
+
+Let's first find the speed of John. He runs 4 meters in the first second. So, his speed is 4 m/s. Then, he maintains the same speed for the rest of the race. To find his speed, we can use the formula: speed = distance/time. We know the distance is 100 meters, and the time is 13 seconds - 1 second. So, we can set up the equation:
+
+4 m/s = 100 m / 13 s - 1 s
+
+To solve for the speed, we can subtract 1 second from 13 seconds:
+
+4 m/s = 100 m / 12 s
+
+4 m/s = 8.33 m/s
+
+Now, let's find the speed of James. He can run 10 meters in 2 seconds. So, his speed is 10 m / 2 s. We can set up the equation:
+
+10 m / 2 s = x
+
+To solve for the speed, we can multiply both sides by 5:
+
+5 m / 1 s = 5 m/s
+
+Now, we can find the time it takes James to run 100 meters. We know his speed is 5 m/s, and the distance is 100 meters. We can set up the equation:
+
+100 m = 100 s * 5 m/s
+
+To solve for the time, we can divide both sides by 5:
+
+100 m / 5 m/s = 20 s
+
+Answer: 20

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Brianna started with 24 marbles.
+
+She lost 4 marbles through a hole in the bag, so she had 24 - 4 = 20 marbles left.
+
+Then, she gave away twice as many marbles as she had lost through the hole in the bag. She lost 4 marbles initially, so she gave away 2 x 4 = 8 marbles. Now she has 20 - 8 = 12 marbles left.
+
+Finally, her dog ate half as many marbles as she had lost through the hole in the bag. She lost 4 marbles initially, so the dog ate half of that, which is 2 marbles. So, she has 12 - 2 = 10 marbles left.
+
+Answer: 10

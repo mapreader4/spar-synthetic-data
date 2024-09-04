@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The cost of each book is $5
+* Sheryll bought 10 books
+* She was given a discount of $0.5 per book
+
+First, we calculate the total cost of the 10 books without the discount:
+* 10 books x $5 per book = $50
+
+Next, we calculate the total discount Sheryll received:
+* 10 books x $0.5 per book = $5 discount
+
+Finally, we subtract the discount from the total cost to get the amount Sheryll paid in all:
+* $50 - $5 = $45
+
+Answer: $45

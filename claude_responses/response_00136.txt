@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Loraine makes wax sculptures of animals
+* Large animals take 4 sticks of wax, and small animals take 2 sticks of wax
+* She made three times as many small animals as large animals
+* She used 12 sticks of wax for small animals
+
+First, let's figure out how many small animals she made:
+* She used 12 sticks of wax for small animals
+* Each small animal takes 2 sticks of wax
+* So, the number of small animals = 12 / 2 = 6
+
+Now, we know that she made three times as many small animals as large animals, so:
+* Number of large animals = 6 / 3 = 2
+
+Now, we can calculate the total number of sticks of wax used:
+* 2 large animals x 4 sticks per large animal = 8 sticks
+* 6 small animals x 2 sticks per small animal = 12 sticks
+* Total sticks of wax used = 8 + 12 = 20 sticks
+
+Answer: 20

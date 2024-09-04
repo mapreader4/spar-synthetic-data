@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. The problem is asking us to find the total cost of the soap, which is given as 20 bars of soap, each weighing 1.5 pounds. We can start by finding the total weight of the soap: 20 x 1.5 = 30 pounds.
+
+2. The cost per pound of soap is given as $.5, so to find the total cost of the soap, we need to multiply the total weight of the soap by the cost per pound. 30 pounds * $.5 = 15.
+
+Answer: 15

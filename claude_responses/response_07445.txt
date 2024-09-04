@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 50 people on the bus.
+* At the first stop, 15 people got off, so the number of people on the bus is now 50 - 15 = 35.
+* At the next stop, 8 people got off and 2 got on, so the number of people on the bus is now 35 - 8 + 2 = 29.
+* At the third stop, 4 people got off and 3 people got on, so the number of people on the bus is now 29 - 4 + 3 = 28.
+
+Answer: 28

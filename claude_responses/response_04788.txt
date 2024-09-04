@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1. Each student needs to buy 5 complete uniforms.
+2. Each uniform consists of pants, shirt, tie, and socks.
+3. The pants cost $20.
+4. The shirt costs twice as much as the pants, so the shirt costs $40.
+5. The tie costs 1/5 as much as the shirt, so the tie costs $8.
+6. The socks cost $3 per pair.
+
+Now, let's calculate the total cost for one complete uniform:
+* Pants: $20
+* Shirt: $40
+* Tie: $8
+* Socks: $3 (1 pair)
+* Total cost per uniform: $20 + $40 + $8 + $3 = $71
+
+Since each student needs to buy 5 complete uniforms, the total cost for each student is:
+* 5 uniforms x $71 per uniform = $355
+
+Answer: $355

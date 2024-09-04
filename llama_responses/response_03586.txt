@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem. We know that Ernest bought 50 meters of wire and cut it into 5 equal parts. We are also told that he used 3 parts of the wire.
+
+To find the length of wire used, we can multiply the number of parts (5) by the length of each part (1/5 of 50) to get the total length of wire used. 5 * 10 = 50.
+
+Ernest used 3 parts of the wire, so the length of wire used is 30 meters. To find the length of wire not used, we subtract the length of wire used from the total length of wire. 50 - 30 = 20.
+
+Answer: 20

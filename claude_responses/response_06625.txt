@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Ivan bought 48 apples to make 24 full-size pies
+* Each full-size pie requires a certain number of apples, let's call this number x
+* Since Ivan made 24 full-size pies, the total number of apples used for the full-size pies is 24x
+* However, Ivan decided to make mini pies instead, which only use 1/2 an apple each
+* He made 24 mini pies, so the total number of apples used for the mini pies is 12 (24 * 1/2)
+* The total number of apples used is 24x + 12
+* The number of apples leftover is 48 - (24x + 12)
+
+To find the number of apples leftover, we need to solve for x. We know that each full-size pie requires x apples, and Ivan made 24 full-size pies, so the total number of apples used for the full-size pies is 24x.
+
+Since Ivan made 24 mini pies, which use 1/2 an apple each, the total number of apples used for the mini pies is 12.
+
+Therefore, the total number of apples used is 24x + 12.
+
+The number of apples leftover is 48 - (24x + 12) = 48 - 24x - 12 = 12 - 24x.
+
+Answer: 12 - 24x apples leftover.

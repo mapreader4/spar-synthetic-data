@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the distance the sheepdog has to run to catch the sheep. The distance between the sheepdog and the sheep is 160 feet. The sheepdog runs at a speed of 20 feet per second. So, the time it takes for the sheepdog to reach the sheep is:
+
+Distance = Distance = 160 feet
+Speed = 20 feet per second
+Time = Distance / Speed = 160 / 20 = 8 seconds
+
+Now, the sheepdog has to run for 8 seconds to reach the sheep. The sheep is running away from the sheepdog at a speed of 12 feet per second. So, the time it takes for the sheep to run away is:
+
+Time = Distance / Speed = 160 / 12 = 13.33 seconds
+
+The sheepdog has to run for 8 seconds to reach the sheep, and the sheep has to run for 13.33 seconds to get away. The total time it takes for the sheepdog to catch the sheep is the sum of these two times:
+
+Time = 8 seconds + 13.33 seconds = 21.33 seconds
+
+So, the answer is:
+
+Answer: 21

@@ -1,0 +1,17 @@
+Let's solve this problem step by step.
+
+Let's first find the number of students who were present last Monday. We know that two-sevenths of the students were absent, so we can find the number of students present by subtracting the number of absent students from the total number of students.
+
+Let's denote the total number of students as S. We know that two-sevenths of them were absent, so we can set up the equation as follows:
+
+S - 2/7S = number of students present
+
+We can solve for the number of students present by multiplying both sides of the equation by 7:
+
+(7/2)S = 28 - 2
+
+7S = 28 - 2
+
+S = 4
+
+So, the number of students present last Monday was 4.

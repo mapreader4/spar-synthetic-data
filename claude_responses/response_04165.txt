@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* On the first day, Paul eats 2 sandwiches.
+* On the second day, he doubles the number of sandwiches he ate on the first day, so he eats 4 sandwiches.
+* On the third day, he doubles the number of sandwiches he ate on the second day, so he eats 8 sandwiches.
+* After the third day, the pattern repeats, so on the fourth day he eats 2 sandwiches, on the fifth day he eats 4 sandwiches, and on the sixth day he eats 8 sandwiches.
+* Adding up the number of sandwiches he eats each day, we get:
+2 + 4 + 8 + 2 + 4 + 8 = 28 sandwiches.
+
+Answer: 28 sandwiches.

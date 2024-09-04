@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total cost of the glasses is the cost of the frames plus the cost of the lenses.
+2) The cost of the frames is $200.
+3) The cost of the lenses is $500.
+4) The insurance will cover 80% of the cost of the lenses, which is 0.8 * $500 = $400.
+5) James has a $50 off coupon for the frames, so the final cost of the frames is $200 - $50 = $150.
+6) The final cost of the lenses is $500 - $400 = $100.
+7) The total cost of the glasses is $150 + $100 = $250.
+
+Answer: 250

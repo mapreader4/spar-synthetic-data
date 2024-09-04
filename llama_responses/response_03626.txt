@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of machines in the launderette is x. Then, each machine has 80 quarters and 100 dimes, so the total number of quarters and dimes in all the machines is 80x + 100x.
+
+The total amount of money in the machines is $90, and each machine holds the same amount of money. So, the amount of money in each machine is 90/8 = $11.25.
+
+Since each machine has 80 quarters and 100 dimes, the total number of quarters is 80x. So, we can set up the equation 80x = 90/11.25. To solve for x, we can multiply both sides by 1000. So, 80x * 10 = 900 = 90 * 100 / 11.25.
+
+To solve this equation, we can divide both sides by 100, which is the least common multiple of 100. 900 / 100 = 9. So, 80x = 9.
+
+Answer: 9

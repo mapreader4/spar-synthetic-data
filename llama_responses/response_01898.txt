@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given in the problem. We know that Walter is cooking 10 hushpuppies in 8 minutes. This means that he can cook 10 hushpuppies in 8 minutes, so to find the time it will take to cook all the hushpuppies, we need to find the total number of hushpuppies he needs to cook.
+
+The problem states that each guest will eat 5 hushpuppies. There are 20 guests, so the total number of hushpuppies needed is 20 * 5 = 100. 100 hushpuppies need to be cooked in total.
+
+Now, let's find the time it will take to cook all the hushpuppies. If Walter can cook 10 hushpuppies in 8 minutes, then the time it will take to cook 1 hushpuppy is 8 minutes. To find the time it will take to cook 100 hushpuppies, we need to multiply the time it takes to cook 1 hushpuppy by 100.
+
+100 * 8 = 800.
+
+Answer: 800

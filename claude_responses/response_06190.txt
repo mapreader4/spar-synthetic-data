@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* In December, Angela slept 6.5 hours per night.
+* There are 31 days in December.
+* So, the total amount of sleep Angela got in December was:
+    * 6.5 hours per night x 31 nights = 201.5 hours
+
+* In January, Angela slept 8.5 hours per night.
+* There are 31 days in January.
+* So, the total amount of sleep Angela got in January was:
+    * 8.5 hours per night x 31 nights = 263.5 hours
+
+* To calculate the difference in sleep between January and December:
+    * 263.5 hours - 201.5 hours = 62 hours
+
+Answer: 62 hours

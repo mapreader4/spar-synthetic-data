@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ian had 20 roses initially
+* He gave 6 roses to his mother
+* He gave 9 roses to his grandmother
+* He gave 4 roses to his sister
+* To find the number of roses he kept, we need to subtract the number of roses he gave away from the total number of roses he had
+* The number of roses he gave away is 6 + 9 + 4 = 19
+* Therefore, the number of roses he kept is 20 - 19 = 1
+
+Answer: 1

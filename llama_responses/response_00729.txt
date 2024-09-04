@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, let's find out how far John and his dog will travel together. If John runs at 6 miles per hour when being dragged by his dog, and they run for 30 minutes, they will cover a distance of:
+
+6 miles per hour x 0.5 hours = 3 miles
+
+Since they run for 30 minutes, or half an hour, we multiply the distance by 0.5.
+
+Now, let's find out how far John will run when he runs by himself. If John runs at 4 miles per hour, and he runs for an additional 30 minutes, or half an hour, he will cover a distance of:
+
+4 miles per hour x 0.5 hours = 2 miles
+
+Now, let's add the distances together to find the total distance John has traveled:
+
+3 miles (with his dog) + 2 miles (by himself) = 5 miles
+
+Answer: 5

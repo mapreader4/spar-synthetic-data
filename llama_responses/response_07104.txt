@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, let's find the total weight of the supplies already loaded on the truck. There are 100 boxes weighing 100 kgs each, which is 10000 kgs. Then, there are 10 crates weighing 60 kgs each, which is 600 kgs. So, the total weight of the supplies already loaded is 10600 kgs. Since the truck can carry a maximum of 13500 kgs, and the total weight of the supplies already loaded is 10600 kgs, the remaining weight we can load is 13500 - 10600 = 2900 kgs.
+
+Now, we know that we can load bags weighing 40 kgs each. Since we can load 2900 kgs, we can load 2900 / 40 = 73 bags. Answer: 73

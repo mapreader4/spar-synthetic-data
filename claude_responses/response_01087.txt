@@ -1,0 +1,20 @@
+Okay, let's break this down step by step:
+* Initially, Hadley arranged 100 books on the shelf
+* By lunchtime, a certain number of books had been borrowed
+* After lunchtime, Hadley added 40 more books to the same shelf
+* By evening, 30 more books had been borrowed
+* By evening, there were 60 books remaining on the shelf
+
+To find the number of books borrowed by lunchtime, we can work backwards from the final state of the shelf.
+
+* By evening, there were 60 books remaining
+* 30 more books were borrowed by evening
+* So, the total number of books on the shelf before the 30 books were borrowed was 60 + 30 = 90 books
+
+* After lunchtime, Hadley added 40 more books to the shelf
+* So, the total number of books on the shelf after lunchtime was 90 - 40 = 50 books
+
+* Initially, there were 100 books on the shelf
+* So, the number of books borrowed by lunchtime was 100 - 50 = 50 books
+
+Answer: 50

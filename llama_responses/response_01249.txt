@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The phone started with 0% charge.
+2. It was charged for 45 minutes.
+3. 25% of 100 is 25.
+4. To get to 100%, the phone needs 100 - 25 = 75% more charge.
+5. 75% of 45 is 33.
+
+Answer: 33

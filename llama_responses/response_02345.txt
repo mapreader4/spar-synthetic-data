@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Initially, the curry house buys enough peppers for 30 very spicy curries, which requires 30 x 3 = 90 peppers. For 30 spicy curries, they buy 30 x 2 = 60 peppers. And for 10 mild curries, they buy 10 x 1 = 10 peppers. In total, they buy 90 + 60 + 10 = 160 peppers.
+
+Now, they no longer sell very spicy curries, so they don't need any peppers for those. They now buy enough peppers for 15 spicy curries, which requires 15 x 2 = 30 peppers. And for 90 mild curries, they buy 90 x 1 = 90 peppers. In total, they buy 30 + 90 = 120 peppers.
+
+To find the difference, we subtract the new amount from the old amount: 160 - 120 = 40.
+
+Answer: 40

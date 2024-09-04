@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The bus has 13 rows of seats.
+2) Each row is split into two sections by the aisle running down the middle of the bus.
+3) The school only allows two students to sit in each section.
+4) To calculate the total number of students that can be seated on the bus, we need to multiply the number of sections by the number of students allowed per section.
+5) The number of sections is equal to the number of rows multiplied by 2 (since each row has two sections).
+6) 13 rows x 2 sections per row = 26 sections.
+7) Since the school allows 2 students per section, the total number of students that can be seated on the bus is:
+26 sections x 2 students per section = 52 students.
+
+Answer: 52

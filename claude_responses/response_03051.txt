@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* It costs $50 to get each cat ready for adoption
+* It costs $100 to get each adult dog ready for adoption
+* It costs $150 to get each puppy ready for adoption
+* 2 cats were adopted
+* 3 adult dogs were adopted
+* 2 puppies were adopted
+
+To calculate the total cost, we need to multiply the number of each animal by the cost to get them ready, and then add up the results:
+
+* Cost for 2 cats: 2 x $50 = $100
+* Cost for 3 adult dogs: 3 x $100 = $300
+* Cost for 2 puppies: 2 x $150 = $300
+
+Adding these up, we get:
+$100 + $300 + $300 = $700
+
+Answer: $700

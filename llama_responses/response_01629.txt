@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of visitors in one day. Since the zoo is open for 8 hours and 50 visitors enter every hour, the total number of visitors in one day is:
+
+50 * 8 = 400
+
+So, the total number of visitors in one day is 400.
+
+Next, we need to find the number of visitors who go to the gorilla exhibit. We know that 80% of the total visitors go to the gorilla exhibit. So, we can set up an equation:
+
+80% of 400 = x
+
+To solve for x, we can multiply 0.8 by 400:
+
+0.8 * 400 = x
+
+x = 320
+
+Answer: 320

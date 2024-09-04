@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Elijah has 2 walls that are 4 meters wide
+* Elijah has 2 walls that are 6 meters wide
+* He needs enough masking tape to cover the entire width of each wall
+* To calculate the total amount of masking tape needed, we add up the widths of all 4 walls:
+* 2 walls x 4 meters = 8 meters
+* 2 walls x 6 meters = 12 meters
+* 8 meters + 12 meters = 20 meters
+
+Answer: 20 meters

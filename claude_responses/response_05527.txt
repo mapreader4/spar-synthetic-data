@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Walter fell from the eighth platform of the scaffolding
+* He fell 4 meters before passing David
+* He fell an additional three more times that depth before hitting the ground
+* The platforms are evenly spaced out in height
+
+First, let's calculate the total depth Walter fell:
+* 4 meters + (3 x 4 meters) = 16 meters
+
+Now, since the platforms are evenly spaced, we can divide the total depth by the number of platforms to get the height of each platform:
+* 16 meters / 8 platforms = 2 meters per platform
+
+So, David must have been on the platform that was 4 meters below the eighth platform, which is the fourth platform.
+
+Answer: 4

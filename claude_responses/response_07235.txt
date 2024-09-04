@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jenny is older than Charlie by 5 years.
+2) Charlie is older than Bobby by 3 years.
+3) We want to find out how old Charlie will be when Jenny becomes twice as old as Bobby.
+4) Let's say Bobby's current age is x.
+5) Then Charlie's age is x + 3, and Jenny's age is x + 3 + 5 = x + 8.
+6) We want to find the value of x when Jenny's age is twice Bobby's age, which means x + 8 = 2x.
+7) Solving for x, we get x = 8.
+8) So Bobby's age is 8, Charlie's age is 8 + 3 = 11, and Jenny's age is 8 + 5 = 13.
+
+Answer: 11

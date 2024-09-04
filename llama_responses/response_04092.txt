@@ -1,0 +1,15 @@
+Let's break down the number of pages she needs to read for each class:
+
+* English: 20 pages
+* Science: 16 pages
+* Civics: 8 pages
+* Chinese: 12 pages
+
+She decided to read one-fourth of the number of pages for each class, so we multiply each class's number of pages by 1/4:
+
+* English: 20 * 1/4 = 5
+* Science: 16 * 1/4 = 4
+* Civics: 8 * 1/4 = 2
+* Chinese: 12 * 1/4 = 3
+
+So, Melody will read 5 pages for English, 4 pages for Science, 2 pages for Civics, and 3 pages for Chinese. In total, she will read 5 + 4 + 2 + 3 = 14 pages.

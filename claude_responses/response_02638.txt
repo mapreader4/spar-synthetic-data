@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that Bridget and Sarah have a total of $3 between them.
+2) We also know that Bridget has 50 cents more than Sarah.
+3) Let's say that Sarah has x cents.
+4) Then, Bridget has (x + 50) cents.
+5) The total amount they have is $3, which is 300 cents.
+6) So, we can set up the equation: x + (x + 50) = 300
+7) Solving for x, we get: 2x + 50 = 300
+8) 2x = 250
+9) x = 125
+Therefore, Sarah has 125 cents.
+
+Answer: 125

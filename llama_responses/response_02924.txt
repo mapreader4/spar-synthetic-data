@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of flowers. Madeline has 10 flowers.
+
+Then, let's find the number of blue flowers. The problem states that the rest of the flowers are blue, which means that the number of blue flowers is the total number of flowers minus the number of red flowers and white flowers.
+
+The number of red flowers is 4, and the number of white flowers is 2. So, the total number of non-blue flowers is 4 + 2 = 6.
+
+The number of blue flowers is the total number of flowers minus the number of non-blue flowers, which is 10 - 6 = 4.
+
+To find the percentage of blue flowers, we can divide the number of blue flowers by the total number of flowers.
+
+Percentage = (4 ÷ 10) = 40%.
+
+Answer: 40

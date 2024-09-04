@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Daniel has a total of 346 video games in his collection.
+2. 80 of them were bought for $12 each.
+   * The total cost of these 80 games is 80 * $12 = $960.
+3. The remaining 346 - 80 = 266 games were bought at different prices.
+4. 50% of the remaining 266 games were bought for $7 each.
+   * 50% of 266 is 133 games.
+   * The total cost of these 133 games is 133 * $7 = $931.
+5. The remaining 266 - 133 = 133 games were bought for $3 each.
+   * The total cost of these 133 games is 133 * $3 = $399.
+
+Now, we can add up the total cost of all the games:
+* Total cost = $960 + $931 + $399 = $2,290.
+
+Answer: $2,290.

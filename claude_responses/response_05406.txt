@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) We know that the cost of an adult ticket is $6 more than the cost of a child ticket.
+2) Let's call the cost of a child ticket 'x'.
+3) Then the cost of an adult ticket is 'x + 6'.
+4) The total cost of the 5 tickets is $77.
+5) So we can write the equation: 2(x + 6) + 3x = 77
+6) Simplifying this equation, we get: 2x + 12 + 3x = 77
+7) 5x + 12 = 77
+8) 5x = 65
+9) x = 13
+10) Therefore, the cost of an adult ticket is 13 + 6 = $19.
+
+Answer: 19

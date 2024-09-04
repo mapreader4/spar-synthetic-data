@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+The elevator needs to move down 20 floors in total. It takes 15 minutes to travel down the first half of the floors, which is 10 floors (since 20/2 = 10). This means the remaining 10 floors need to be traveled.
+
+The elevator then takes 5 minutes per floor to travel down the next 5 floors. This takes a total of 5 x 5 = 25 minutes.
+
+The elevator then takes 16 minutes per floor to finish traveling down the final 5 floors. This takes a total of 5 x 16 = 80 minutes.
+
+In total, the elevator took 15 minutes + 25 minutes + 80 minutes = 120 minutes to reach the bottom.
+
+To convert this to hours, we can divide the total minutes by 60 (since there are 60 minutes in an hour):
+
+120 minutes ÷ 60 = 2 hours
+
+Answer: 2

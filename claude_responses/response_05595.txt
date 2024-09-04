@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+* When Matty was born, the cost of a ticket to Mars was $1,000,000.
+* The cost is halved every 10 years.
+* Matty is now 30 years old.
+* So, the cost of a ticket has been halved 3 times (30 years / 10 years per halving = 3 halvings).
+* The initial cost was $1,000,000.
+* After the first 10 years, the cost was $500,000.
+* After the second 10 years, the cost was $250,000.
+* After the third 10 years, the cost was $125,000.
+
+Answer: 125,000

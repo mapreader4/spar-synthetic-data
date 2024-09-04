@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) We are given that the sum of Mario and Maria's ages is 7.
+2) We are also given that Mario is 1 year older than Maria.
+3) Let's represent Maria's age as x.
+4) Since Mario is 1 year older than Maria, his age can be represented as x + 1.
+5) The sum of their ages is 7, so we can write the equation: x + (x + 1) = 7
+6) Simplifying this equation, we get: 2x + 1 = 7
+7) Subtracting 1 from both sides, we get: 2x = 6
+8) Dividing both sides by 2, we get: x = 3
+9) Since Maria's age is 3, and Mario is 1 year older, Mario's age is 4.
+
+Answer: 4

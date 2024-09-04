@@ -1,0 +1,13 @@
+Let's start by calculating the total cost of making all the pies.
+
+Benny plans to make 10 pumpkin pies, which cost $3 each, so the total cost of making the pumpkin pies is 10 x $3 = $30.
+
+He also plans to make 12 cherry pies, which cost $5 each, so the total cost of making the cherry pies is 12 x $5 = $60.
+
+The total cost of making all the pies is the sum of the costs of making the pumpkin and cherry pies, which is $30 + $60 = $90.
+
+Benny wants to make a profit of $20, so the total revenue from selling all the pies must be $90 + $20 = $110.
+
+Since there are a total of 10 + 12 = 22 pies, the revenue per pie is $110 ÷ 22 = $5.
+
+Answer: 5

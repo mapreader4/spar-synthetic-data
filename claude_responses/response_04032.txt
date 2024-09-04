@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 70 scientists in total in the project
+* Half of them are from Europe, which means 70 / 2 = 35 scientists are from Europe
+* One-fifth of the scientists are from Canada, which means 70 / 5 = 14 scientists are from Canada
+* The rest of the scientists must be from the USA
+* To find the number of scientists from the USA, we take the total number of scientists (70) and subtract the number of scientists from Europe (35) and the number of scientists from Canada (14)
+* 70 - 35 - 14 = 21 scientists from the USA
+
+Answer: 21

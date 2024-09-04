@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Juvy's garden has 20 rows with 10 plants in each row
+* That means the total number of plants in the garden is 20 rows x 10 plants per row = 200 plants
+* Juvy plants parsley in the first 3 rows, which is 3 rows x 10 plants per row = 30 plants
+* Juvy plants rosemary in the last 2 rows, which is 2 rows x 10 plants per row = 20 plants
+* The remaining rows are planted with chives
+* The number of rows planted with chives is the total rows (20) minus the rows planted with parsley (3) and rosemary (2), which is 20 - 3 - 2 = 15 rows
+* So the number of chives Juvy will plant is 15 rows x 10 plants per row = 150 plants
+
+Answer: 150

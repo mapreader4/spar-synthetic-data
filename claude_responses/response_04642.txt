@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mcgregor and Floyd were assigned 89 books to read for the week.
+2) Mcgregor was able to finish 34 books.
+3) Floyd was able to finish 32 books.
+4) To find the number of books they still have to read, we need to subtract the number of books they finished from the total number of books assigned.
+5) The total number of books they finished is 34 + 32 = 66.
+6) The number of books they still have to read is 89 - 66 = 23.
+
+Answer: 23

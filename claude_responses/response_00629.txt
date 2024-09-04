@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The teacher teaches 5 periods a day
+* The teacher works 24 days a month
+* The teacher is paid $5 per period
+* The teacher has been working for 6 months
+
+To calculate the total amount the teacher has earned, we need to:
+1. Calculate the number of periods the teacher teaches in a month:
+   * 5 periods per day x 24 days per month = 120 periods per month
+2. Calculate the amount the teacher earns in a month:
+   * 120 periods per month x $5 per period = $600 per month
+3. Calculate the total amount the teacher has earned in 6 months:
+   * $600 per month x 6 months = $3,600
+
+Answer: $3,600

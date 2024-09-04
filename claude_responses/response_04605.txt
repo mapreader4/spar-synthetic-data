@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jane has 10 chickens
+* Each chicken lays 6 eggs per week
+* So, the total number of eggs laid per week is:
+  * 10 chickens x 6 eggs per chicken = 60 eggs per week
+* Since Jane wants to know the money she will make in 2 weeks, we need to multiply the weekly egg production by 2:
+  * 60 eggs per week x 2 weeks = 120 eggs
+* Each dozen (12 eggs) can be sold for $2
+* To calculate the total money made, we need to divide the total number of eggs by 12 to get the number of dozens, and then multiply that by $2 per dozen:
+  * 120 eggs / 12 eggs per dozen = 10 dozens
+  * 10 dozens x $2 per dozen = $20
+
+Answer: $20

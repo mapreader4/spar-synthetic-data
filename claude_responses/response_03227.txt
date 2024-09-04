@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Raj's house has a total area of 1,110 square feet
+* There are 4 bedrooms, each measuring 11 x 11 feet
+* The area of each bedroom is 11 x 11 = 121 square feet
+* The total area of the 4 bedrooms is 4 x 121 = 484 square feet
+* There are 2 bathrooms, each measuring 6 x 8 feet
+* The area of each bathroom is 6 x 8 = 48 square feet
+* The total area of the 2 bathrooms is 2 x 48 = 96 square feet
+* The kitchen and living area complete the home and have the same sized area
+* The total area of the house is 1,110 square feet
+* The total area of the bedrooms and bathrooms is 484 + 96 = 580 square feet
+* The remaining area for the kitchen and living area is 1,110 - 580 = 530 square feet
+* Since the kitchen and living area have the same sized area, the area of the kitchen is 530 / 2 = 265 square feet
+
+Answer: 265 square feet

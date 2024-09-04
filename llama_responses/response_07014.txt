@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Claire started with 50 balloons.
+
+She gave away 12 balloons to a little girl, so she has 50 - 12 = 38 balloons left.
+
+Over the next thirty minutes, she gave away 9 balloons, so she has 38 - 9 = 29 balloons left.
+
+Then, she grabbed the last 11 balloons from her coworker, so she now has 29 + 11 = 40 balloons.
+
+Answer: 40

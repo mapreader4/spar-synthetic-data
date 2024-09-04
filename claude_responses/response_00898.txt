@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) Tony has the following ropes:
+   - 8-foot rope
+   - 20-foot rope
+   - Three 2-foot ropes (6 feet total)
+   - 7-foot rope
+2) To make the longest rope, he will need to tie all these ropes together.
+3) Each knot between the ropes causes him to lose 1.2 feet.
+4) The total length of the ropes is 8 + 20 + 6 + 7 = 41 feet.
+5) He will need to tie 4 knots to connect all the ropes.
+6) The total length lost due to the knots is 4 * 1.2 = 4.8 feet.
+7) The final length of the rope is 41 feet - 4.8 feet = 36.2 feet.
+
+Answer: 36

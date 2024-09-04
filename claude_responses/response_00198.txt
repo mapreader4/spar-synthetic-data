@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rosie runs 6 miles per hour
+* On Monday, she ran for 1 hour, so she ran 6 miles
+* On Tuesday, she ran for 30 minutes, so she ran 3 miles
+* On Wednesday, she ran for 1 hour, so she ran 6 miles
+* On Thursday, she ran for 20 minutes, so she ran 2 miles
+* In total, she has run 6 + 3 + 6 + 2 = 17 miles
+* She wants to run 20 miles for the week
+* So, she needs to run 20 - 17 = 3 more miles
+* Since she runs 6 miles per hour, to run 3 more miles, she needs to run for 3 / 6 = 0.5 hours
+* 0.5 hours is equal to 30 minutes
+
+Answer: 30 minutes

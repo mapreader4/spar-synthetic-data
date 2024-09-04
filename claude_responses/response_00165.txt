@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Manex has to drive 55 miles to the destination.
+2) On the way back, he has to drive 10 miles farther, which is 65 miles.
+3) He can drive 1 mile in 2 minutes.
+4) He stayed 2 hours at the destination.
+
+To calculate the total time:
+* Time to drive to the destination: 55 miles x 2 minutes/mile = 110 minutes = 1 hour 50 minutes
+* Time to drive back: 65 miles x 2 minutes/mile = 130 minutes = 2 hours 10 minutes
+* Total driving time: 1 hour 50 minutes + 2 hours 10 minutes = 4 hours
+* Time spent at the destination: 2 hours
+
+Therefore, the total time for the entire tour is:
+4 hours (driving) + 2 hours (at the destination) = 6 hours
+
+Answer: 6 hours

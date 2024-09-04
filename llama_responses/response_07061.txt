@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of small boxes that can fit in one big box. Since 50 big boxes can fit four small boxes each, each having 40 candles, then 50 big boxes can fit 4 * 40 = 160 small boxes.
+
+Now, let's find the number of candles in all small boxes. Since each small box has 40 candles, and there are 160 small boxes, the total number of candles is 160 * 40 = 6400.
+
+So, the answer is: Answer: 6400.

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the number of turtles that Marion received is x.
+
+Since Marion received 20 more turtles than Martha, it means that the number of turtles that Marion received is 20 more than the number of turtles that Martha received.
+
+So, the equation can be written as:
+
+x = 20 + 40
+
+To solve for x, we can subtract 40 from both sides of the equation:
+
+x = 40
+
+So, Marion received 40 turtles, and the total number of turtles that they received together is:
+
+Answer: 40

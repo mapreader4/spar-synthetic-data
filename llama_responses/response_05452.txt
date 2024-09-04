@@ -1,0 +1,33 @@
+Let's break down the information given into variables:
+
+Let's say Esperanza's monthly rent be r, her monthly food expenses be f, and her monthly mortgage be 3f.
+
+We know that 3f = r, so f = r/3.
+
+We are given that she saves 2000 and pays 2/5 of her savings in taxes. So, we can set up an equation for her savings:
+
+2000 = r - 2f/5
+
+We also know that her monthly salary is the sum of her rent, food expenses, and mortgage:
+
+r + f + 3f
+
+We can substitute the expression for f with the expression 3f = r, and simplify the equation:
+
+r + r + 3r
+
+Now, we can substitute the expression for r with the equation for her savings:
+
+r + r + 3r = 2000 - 2r/5
+
+We can solve for r:
+
+r = (2000 - 2r/5 - 4r)/2
+
+r = 1000 - r
+
+r = 500
+
+So, her monthly salary is 500 + 500 + 1500 = 2000.
+
+Answer: 2000

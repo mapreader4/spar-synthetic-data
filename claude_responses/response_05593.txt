@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+
+1. Initial costs before inflation:
+   - Lumber: $450
+   - Nails: $30
+   - Fabric: $80
+   - Total initial cost: $450 + $30 + $80 = $560
+
+2. Inflation rates:
+   - Lumber increased by 20%
+   - Nails increased by 10%
+   - Fabric increased by 5%
+
+3. Calculating the new costs after inflation:
+   - New lumber cost: $450 + (20% of $450) = $450 + $90 = $540
+   - New nails cost: $30 + (10% of $30) = $30 + $3 = $33
+   - New fabric cost: $80 + (5% of $80) = $80 + $4 = $84
+
+4. Calculating the total new cost:
+   - Total new cost: $540 + $33 + $84 = $657
+
+5. Calculating the difference in cost:
+   - Difference in cost: $657 - $560 = $97
+
+Answer: $97

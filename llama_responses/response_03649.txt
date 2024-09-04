@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of hens that do lay eggs. Since 15 hens do not lay eggs, that means that 440 - 15 = 425 hens do lay eggs.
+
+Next, each of these 425 hens lays 3 eggs. So, the total number of eggs laid by the hens is 425 * 3 = 1275.
+
+Therefore, the total number of eggs laid by Uncle Ben's hens is 1275.
+
+Answer: 1275

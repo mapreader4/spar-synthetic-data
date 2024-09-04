@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Mr. Johnson has a prescription with enough pills for 30 days
+* After four-fifths of the days, he has 12 pills left
+* We need to find out how many pills he is supposed to take a day if he takes the same dose daily
+
+First, let's calculate how many days have passed when he has 12 pills left:
+* Four-fifths of 30 days is 24 days
+* So, he has 12 pills left after 24 days
+
+Now, we can calculate how many pills he took in total:
+* He started with enough pills for 30 days
+* He has 12 pills left after 24 days
+* So, he took 30 - 12 = 18 pills in the first 24 days
+
+Finally, we can calculate how many pills he was supposed to take per day:
+* He took 18 pills in 24 days
+* So, he took 18 / 24 = 0.75 pills per day
+
+Therefore, the number of pills Mr. Johnson is supposed to take per day is:
+Answer: 1

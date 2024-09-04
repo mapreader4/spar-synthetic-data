@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There were 140 kids in the junior prom
+* A fourth of them were dancers
+* To find the number of dancers, we take 140 and divide it by 4:
+    * 140 / 4 = 35 dancers
+* Of the 35 dancers, 25 danced the slow dance
+* To find the number of dancers who did not slow dance, we subtract the number of dancers who did slow dance from the total number of dancers:
+    * 35 - 25 = 10 dancers did not slow dance
+
+Answer: 10

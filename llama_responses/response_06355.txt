@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's first calculate the total cost of the pattern and thread: $15 for the pattern and $6 for the thread, so the total cost of the pattern and thread is $15 + $6 = $21.
+
+Let's now calculate the total cost of the fabric: $24 per yard. Let's say the number of yards of fabric he bought is x. Then, the total cost of the fabric will be 24x. So, the equation for the total cost of the fabric is:
+
+24x = 21
+
+We can set up an equation to solve for x: 24x = 21
+
+To solve for x, we can divide both sides of the equation by 24:
+
+x = 21 / 24
+
+x = 0.875
+
+So, Louis bought 0.875 yards of fabric. To answer the question, we need to round this value to the nearest integer. The nearest integer is 0.875 is 1.
+
+Answer: 1

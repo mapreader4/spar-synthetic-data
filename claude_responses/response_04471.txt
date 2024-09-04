@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Alice needs to spend a minimum of $35.00 to get free delivery.
+2. The items in her cart are:
+   - 1.5 pounds of chicken at $6.00 per pound: 1.5 x $6.00 = $9.00
+   - 1 pack of lettuce for $3.00
+   - Cherry tomatoes for $2.50
+   - 4 sweet potatoes at $0.75 each: 4 x $0.75 = $3.00
+   - 2 heads of broccoli for $2.00 each: 2 x $2.00 = $4.00
+   - 1 pound of Brussel sprouts for $2.50
+
+3. Adding up the costs of the items in her cart:
+   $9.00 + $3.00 + $2.50 + $3.00 + $4.00 + $2.50 = $24.00
+
+4. To get free delivery, Alice needs to spend a minimum of $35.00.
+   $35.00 - $24.00 = $11.00
+
+Answer: $11.00

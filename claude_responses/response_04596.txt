@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Paul assigns a total of 265 points in the first quarter
+* There are 4 times as many test points as quiz points
+* There are 5 more quiz points than homework points
+
+Let's define the variables:
+* Let x = the number of homework points
+* Let y = the number of quiz points
+* Let z = the number of test points
+
+We know that:
+* y = x + 5 (there are 5 more quiz points than homework points)
+* z = 4y (there are 4 times as many test points as quiz points)
+* x + y + z = 265 (the total points assigned is 265)
+
+Substituting the first two equations into the third equation, we get:
+* x + (x + 5) + 4(x + 5) = 265
+* x + x + 5 + 4x + 20 = 265
+* 6x + 25 = 265
+* 6x = 240
+* x = 40
+
+Therefore, the number of homework points is 40.
+
+Answer: 40

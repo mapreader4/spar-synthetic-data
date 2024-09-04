@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+1) Amy has a 15-foot spool of string.
+2) She wants to cut the string into an equal number of 6-inch and 12-inch wicks.
+3) To find the total number of wicks, we need to find the number of 6-inch wicks and the number of 12-inch wicks.
+4) 1 foot = 12 inches, so 15 feet = 180 inches.
+5) The total length of string is 180 inches.
+6) We want to cut the string into an equal number of 6-inch and 12-inch wicks.
+7) So the total number of wicks will be twice the number of 6-inch wicks.
+8) Let's call the number of 6-inch wicks "x".
+9) Then the number of 12-inch wicks will also be "x".
+10) The total length of string used will be 6x + 12x = 18x inches.
+11) Since the total length of string is 180 inches, we can set up the equation: 18x = 180.
+12) Solving for x, we get x = 10.
+13) Therefore, the total number of wicks is 2x = 2(10) = 20.
+
+Answer: 20

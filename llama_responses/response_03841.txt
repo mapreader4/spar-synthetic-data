@@ -1,0 +1,9 @@
+To find the total cost of the pants and shirts, we need to multiply the number of items by the price of one item and then add the two amounts together:
+
+2 pairs of pants for $54 each is 2 x 54 = 108
+4 shirts for $33 each is 4 x 33 = 132
+The total cost of the pants and shirts is 108 + 132 = 240
+
+Laura gave $250 to the cashier, so the change would be the difference between 250 and 240. 
+
+Answer: 10

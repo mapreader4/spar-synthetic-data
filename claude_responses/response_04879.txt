@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Aliens have 3 arms and 8 legs
+* Martians have half as many legs and twice as many arms as Aliens
+* Martians have 4 legs (half of 8) and 6 arms (twice of 3)
+* So, each Alien has 3 + 8 = 11 limbs
+* And each Martian has 4 + 6 = 10 limbs
+* For 5 Aliens, the total number of limbs is 5 * 11 = 55
+* For 5 Martians, the total number of limbs is 5 * 10 = 50
+* The difference between the total limbs of 5 Aliens and 5 Martians is 55 - 50 = 5
+
+Answer: 5

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Determine how many servings are needed for 2 weeks.
+
+Since Tricia drinks half a container a day, and there are 7 days in a week, she needs 7 * 0.5 = 3.5 containers in a week. For 2 weeks, she needs 2 * 3.5 = 7 containers.
+
+Step 2: Determine the total cost.
+
+The cost of 1 bottle is $3.00, so the cost for 7 bottles is 7 * 3.00 = 21.00.

@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Mac trades 20 quarters for 20 quarters, which is a fair trade. This means he doesn't lose any value.
+
+Mac trades 3 dimes for a quarter. Since a dime is worth $0.10, 3 dimes would be worth $0.30. But he trades it for a quarter, which is worth $0.25. So, he loses $0.05.
+
+Mac trades 7 nickels for a quarter. Since a nickel is worth $0.05, 7 nickels would be worth $0.35. But he trades it for a quarter, which is worth $0.25. So, he loses $0.10.
+
+To find the total amount of money Mac lost, we add the amount he lost in each trade: $0.05 + $0.10 = $0.15.
+
+Answer: 15

@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* The number of sharks in Pelican Bay is twice the number of Pelicans in Shark Bite Cove.
+* One-third of the Pelicans in Shark Bite Cove have moved to Pelican Bay.
+
+Let's denote the number of Pelicans in Shark Bite Cove as P. Then, the number of Pelicans in Shark Bite Cove after some have moved to Pelican Bay will be P - (1/3)P.
+
+We know that there are 60 sharks in Pelican Bay. Since the number of sharks is twice the number of Pelicans, we can set up an equation:
+
+60 = 2P
+
+To solve for P, we can divide both sides by 2:
+
+P = 30
+
+Now we know that P is 30. So, the number of Pelicans in Shark Bite Cove is 30. We are asked for the number of Pelicans remaining in Shark Bite Cove. This is the original number of Pelicans minus the number that moved to Pelican Bay:
+
+30 - (1/3)30 = 20
+
+Answer: 20

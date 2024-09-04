@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Kyle bought 2 glass bottles that can hold 15 origami stars each.
+2) The total number of stars that can be held in the 2 glass bottles is:
+   2 bottles x 15 stars per bottle = 30 stars
+3) Kyle then bought another 3 identical glass bottles.
+4) The total number of stars that can be held in the 3 additional glass bottles is:
+   3 bottles x 15 stars per bottle = 45 stars
+5) To find the total number of stars Kyle must make to fill all the glass bottles, we add the number of stars from the first 2 bottles and the 3 additional bottles:
+   30 stars + 45 stars = 75 stars
+
+Answer: 75

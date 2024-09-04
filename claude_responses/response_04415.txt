@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+1) From 2pm to 4pm, it rained at a rate of 4 inches per hour for 2 hours. So the amount of rain during this period is:
+4 inches/hour x 2 hours = 8 inches
+2) From 4pm to 7pm, it rained at a rate of 3 inches per hour for 3 hours. So the amount of rain during this period is:
+3 inches/hour x 3 hours = 9 inches
+3) From 7pm to 9pm, it rained at a rate of 0.5 inches per hour for 2 hours. So the amount of rain during this period is:
+0.5 inches/hour x 2 hours = 1 inch
+4) The rain gauge started out the day with 2 inches of rainwater.
+5) Adding up the amounts of rain:
+8 inches + 9 inches + 1 inch = 18 inches
+6) Adding the initial 2 inches of rainwater:
+18 inches + 2 inches = 20 inches
+
+Answer: 20 inches

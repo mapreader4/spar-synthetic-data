@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* For the first hour, Manolo can make one face-mask every 4 minutes
+* In 1 hour, there are 60 minutes
+* So in the first hour, Manolo can make 60 / 4 = 15 face-masks
+* For the remaining 3 hours, Manolo can make one face-mask every 6 minutes
+* In 3 hours, there are 180 minutes
+* So in the remaining 3 hours, Manolo can make 180 / 6 = 30 face-masks
+* In total, Manolo makes 15 + 30 = 45 face-masks in the 4-hour shift.
+
+Answer: 45

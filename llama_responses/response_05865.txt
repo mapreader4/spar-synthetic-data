@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Let's find the total number of rotten apples. We know that 40% of the 200 apples are rotten. To find the total number of rotten apples, we can multiply 40% with the total number of apples:
+
+40% * 200 = 80
+
+So, 80 apples are rotten.
+
+Step 2: Now, we need to find the number of rotten apples that don't smell. We know that 70% of the rotten apples smell. To find the number of rotten apples that don't smell, we can subtract 70% from the total number of rotten apples:
+
+80 - 70 = 10
+
+So, 10 apples in the orchard did not smell.
+
+Answer: 10

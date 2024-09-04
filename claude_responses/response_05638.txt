@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Janna sleeps 7 hours each day during weekdays
+* There are 5 weekdays in a week
+* So, during the weekdays, Janna sleeps 7 hours x 5 days = 35 hours
+* Janna sleeps 8 hours each day during weekends
+* There are 2 weekend days in a week
+* So, during the weekends, Janna sleeps 8 hours x 2 days = 16 hours
+* To calculate the total hours Janna sleeps in a week, we add the hours from weekdays and weekends:
+* 35 hours + 16 hours = 51 hours
+
+Answer: 51

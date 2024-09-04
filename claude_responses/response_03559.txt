@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Tim buys 3 loaves of bread
+* Each loaf of bread has 20 slices
+* So the total number of slices is 3 loaves x 20 slices/loaf = 60 slices
+* Tim pays with 2 $20 bills, which is a total of $40
+* He gets $16 in change
+* So the total amount he paid for the 3 loaves of bread is $40 - $16 = $24
+* To find the cost per slice, we divide the total cost ($24) by the total number of slices (60)
+* $24 / 60 slices = $0.40 per slice
+* To convert this to cents, we multiply by 100 cents/dollar
+* $0.40 per slice x 100 cents/dollar = 40 cents per slice
+
+Answer: 40 cents

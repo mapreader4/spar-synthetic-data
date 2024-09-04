@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Olga has 12 yellow fish.
+2) She has half as many blue fish as yellow fish. So, the number of blue fish is 12 / 2 = 6.
+3) She has twice as many green fish as yellow fish. So, the number of green fish is 12 * 2 = 24.
+4) In addition to the yellow, blue, and green fish, we need to account for any other colors of fish Olga has in the aquarium.
+5) To find the total number of fish, we add up the yellow, blue, and green fish:
+12 + 6 + 24 = 42 fish.
+
+Answer: 42

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, the first stack was 7 blocks high. Then, the second stack was 5 blocks higher than the first, so it was 7 + 5 = 12 blocks high. Finally, the third stack was 7 blocks higher than the second, so it was 12 + 7 = 19 blocks high.
+
+Now, let's see how many blocks fell down. The first stack was knocked over entirely, so all 7 blocks fell down. In the second stack, there were 12 blocks originally, but only 2 blocks were left standing, so 12 - 2 = 10 blocks fell down. In the final stack, there were 19 blocks originally, but only 3 blocks were left standing, so 19 - 3 = 16 blocks fell down.
+
+To find the total number of blocks that fell down, we add up the number of blocks that fell from each stack: 7 + 10 + 16 = 33.
+
+Answer: 33

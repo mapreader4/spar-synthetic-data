@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* A pen costs $9 more than a pencil
+* A pencil costs $2
+* To find the cost of a pen, we add $9 to the cost of a pencil:
+  * Cost of a pen = $2 + $9 = $11
+* To find the total cost of both items, we add the cost of the pen and the cost of the pencil:
+  * Total cost = $11 + $2 = $13
+
+Answer: 13

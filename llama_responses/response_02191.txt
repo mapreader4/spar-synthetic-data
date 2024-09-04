@@ -1,0 +1,7 @@
+To solve this problem, I will first find the total number of cans of soft drinks. There are 15 males and 10 females, so the total number of attendees is 15 + 10 = 25.
+
+Each attendee received 2 cans of soft drinks. Since there are 25 attendees, the total number of cans is 25 * 2 = 50 cans.
+
+Each box contains 8 cans and is priced at $5 for each box. To find the total cost, we can multiply the number of cans by the cost per box: 50 cans * $5 per box = 50 * 5 = $250.
+
+So, Mary spent $250 on soft drinks.

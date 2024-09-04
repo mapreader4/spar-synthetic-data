@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The original price of the perfume is $1200.
+2) The store owner decided to increase the price by 10%. To calculate the new price, we take the original price and add 10%:
+   $1200 + (10% of $1200) = $1200 + $120 = $1320
+3) The perfume was not sold, so the owner decided to lower the price by 15%. To calculate the new price, we take the previous price and subtract 15%:
+   $1320 - (15% of $1320) = $1320 - $198 = $1122
+4) To find the difference between the final price ($1122) and the original price ($1200), we subtract:
+   $1200 - $1122 = $78
+
+Answer: 78

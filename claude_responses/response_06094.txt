@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+1) Walter spent a certain amount of time looking at the seals.
+2) He spent eight times as long looking at the penguins as he did looking at the seals.
+3) He spent 13 minutes looking at the elephants.
+4) In total, he spent 2 hours and 10 minutes at the zoo.
+
+To find the time he spent looking at the seals, we need to set up an equation:
+Let x = the time he spent looking at the seals (in minutes)
+Then, 8x = the time he spent looking at the penguins
+And 13 minutes = the time he spent looking at the elephants
+
+The total time spent at the zoo is 2 hours and 10 minutes, which is 130 minutes.
+So, we can set up the equation:
+x + 8x + 13 = 130
+
+Solving for x:
+9x + 13 = 130
+9x = 117
+x = 13
+
+Therefore, Walter spent 13 minutes looking at the seals.
+
+Answer: 13

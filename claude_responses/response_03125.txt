@@ -1,0 +1,28 @@
+Okay, let's break this down step by step:
+* Van Helsing gets paid $5 per vampire and $10 per werewolf
+* He removes half the vampires and 8 werewolves
+* He earned $105 in total
+
+First, let's find out how many vampires and werewolves there were initially.
+
+Let's say there were x vampires and 4x werewolves (since there were 4 times as many werewolves as vampires).
+
+Van Helsing removed half the vampires, so he removed x/2 vampires.
+He also removed 8 werewolves.
+
+The total amount he earned is:
+* (x/2) * $5 + 8 * $10 = $105
+
+Solving this equation:
+* (x/2) * $5 + 8 * $10 = $105
+* 5x/2 + 80 = 105
+* 5x = 50
+* x = 10
+
+So, there were 10 vampires and 40 werewolves initially.
+
+Now, to find the percentage of werewolves he removed:
+* He removed 8 werewolves out of 40 total werewolves
+* 8 / 40 = 0.2 = 20%
+
+Answer: 20%

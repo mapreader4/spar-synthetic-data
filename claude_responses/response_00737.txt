@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) Michael currently has 4 packs of crayons.
+2) He wants to buy 2 more packs of crayons.
+3) Each pack of crayons costs $2.5.
+4) To calculate the total worth of all the packs of crayons Michael will have after the purchase, we need to:
+   a) Calculate the cost of the 2 new packs of crayons:
+      2 packs x $2.5 per pack = $5
+   b) Add the cost of the 2 new packs to the value of the 4 packs he already has:
+      4 packs x $2.5 per pack = $10
+      $10 + $5 = $15
+Answer: 15

@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The snake is 10 feet long in total.
+2) The head of the snake is one-tenth of the total length of the snake.
+3) To find the length of the head, we take the total length (10 feet) and divide it by 10, since the head is one-tenth of the total length.
+4) 10 feet / 10 = 1 foot, so the length of the head is 1 foot.
+5) To find the length of the rest of the body minus the head, we take the total length (10 feet) and subtract the length of the head (1 foot).
+6) 10 feet - 1 foot = 9 feet.
+
+Answer: 9 feet.

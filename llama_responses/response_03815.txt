@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start with the information given: Richard walks 20 miles the first day.
+
+On the second day, he walks 6 miles less than half as much as he walked the first day. To find the distance walked on the second day, we need to find half of 20, which is 10. Then we subtract 6 miles from that, to get 4 miles. So, Richard walks 4 miles on the second day.
+
+On the third day, he walks 10 miles.
+
+Now, to find the total distance left to be in New York City, we need to subtract the total distance walked so far from the total distance of 70 miles.
+
+So, the total distance walked so far is 20 + 4 + 10 = 34 miles. We subtract this from the total distance of 70 miles to get the distance left to go, which is 70 - 34 = 36 miles.
+
+Answer: 36

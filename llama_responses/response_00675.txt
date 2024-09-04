@@ -1,0 +1,25 @@
+Let's break down the possible outcomes for each lawsuit:
+
+Lawsuit 1:
+- Win: 30% chance of winning and getting $5,000,000
+- Lose: 70% chance of losing and getting $0
+
+Lawsuit 2:
+- Lose: 50% chance of losing and getting $1,000,000
+- Win: 50% chance of winning and getting $2,000,000
+
+To calculate the probability of winning both lawsuits, we multiply the probabilities of winning each lawsuit:
+
+30% (winning lawsuit 1) * 50% (winning lawsuit 2) = 15%
+
+To calculate the probability of losing both lawsuits, we multiply the probabilities of losing each lawsuit:
+
+70% (losing lawsuit 1) * 50% (losing lawsuit 2) = 35%
+
+To find the difference between the two probabilities, subtract the probability of winning both lawsuits from the probability of losing both lawsuits:
+
+35% - 15% = 20%
+
+So, it's 20% more likely that Andy loses both lawsuits compared to winning both of them.
+
+Answer: 20

@@ -1,0 +1,15 @@
+Let's break this down step by step:
+
+1. 20% of the job candidates have experience with Excel. Let's denote this as 0.2.
+
+2. 70% of the candidates are willing to work day shifts. Let's denote this as 0.7.
+
+3. We want to find the probability that the manager picks a candidate who knows Excel and is willing to work nights. This is a conditional probability problem, so we need to multiply the two probabilities together.
+
+4. The probability that the candidate knows Excel is 0.2.
+
+5. The probability that the candidate is willing to work nights is 0.7.
+
+6. We multiply the two probabilities together to get 0.2 x 0.7 = 0.14.
+
+Answer: 14

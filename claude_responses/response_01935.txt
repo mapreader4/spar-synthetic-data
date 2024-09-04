@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+1) Reese had a sum of money in her savings account.
+2) In February, she spent 20% of her savings.
+3) In March, she spent 40% of her savings.
+4) In April, she spent $1500.
+5) After these expenses, she still has $2900 in her savings account.
+
+Let's call the original amount in her savings account 'x'.
+
+In February, she spent 20% of x, which is 0.2x.
+In March, she spent 40% of x, which is 0.4x.
+In April, she spent $1500.
+
+After these expenses, she has $2900 left.
+
+So we can write the equation:
+x - 0.2x - 0.4x - 1500 = 2900
+
+Simplifying:
+0.4x - 1500 = 2900
+0.4x = 4400
+x = 11000
+
+Therefore, the original amount Reese had in her savings account was $11,000.
+
+Answer: 11000

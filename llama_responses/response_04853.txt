@@ -1,0 +1,14 @@
+Let's break it down step by step.
+
+Let's say the number of cars in each lane is x. Since there are twice as many cars as trucks in all the lanes, then the number of cars in each lane is 2x, and the number of trucks in all the lanes is x.
+
+Since there are 4 lanes, the number of trucks in all the lanes is 4x.
+
+The number of cars in each lane is twice the number of trucks in all the lanes, so we can set up an equation: 4x = 60. To solve for x, we can divide both sides by 4, which gives us:
+
+x = 60 / 4
+x = 15
+
+So, the number of cars in each lane is 15, and the total number of vehicles in all the lanes is 4 * 15 = 60.
+
+Answer: 60

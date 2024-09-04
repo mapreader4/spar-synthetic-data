@@ -1,0 +1,11 @@
+Let's break down the information given:
+
+* First expedition: 3 weeks
+* Second expedition: 3 + 2 = 5 weeks
+* Last expedition: 5 * 2 = 10 weeks
+
+The total number of weeks they spent on the island is the sum of the weeks spent on each expedition: 3 + 5 + 10 = 18 weeks.
+
+To convert this to days, we multiply the total number of weeks by 7 (since there are 7 days in a week): 18 * 7 = 126 days.
+
+Answer: 126

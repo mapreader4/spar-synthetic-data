@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+For the first trail:
+* Distance: 20 miles
+* Speed: 5 miles per hour
+* Time to complete the trail: 20 miles / 5 miles per hour = 4 hours
+
+For the second trail:
+* Distance: 12 miles
+* Speed: 3 miles per hour
+* Time to complete the first half: 6 miles / 3 miles per hour = 2 hours
+* Break time: 1 hour
+* Time to complete the second half: 6 miles / 3 miles per hour = 2 hours
+* Total time: 2 hours + 1 hour + 2 hours = 5 hours
+
+Now, to find the difference in time between the two trails:
+* Fastest hike time: 4 hours
+* Slowest hike time: 5 hours
+* Difference: 5 hours - 4 hours = 1 hour
+
+Answer: 1 hour

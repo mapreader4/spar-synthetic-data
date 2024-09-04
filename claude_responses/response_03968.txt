@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Linda had three times as many white eggs as brown eggs
+* After dropping the basket, she had 5 brown eggs left
+* She had a dozen (12) eggs left in total
+
+First, let's figure out how many brown eggs she had originally:
+* She had 5 brown eggs left after the drop
+* This means she originally had more than 5 brown eggs
+
+Next, let's figure out how many white eggs she had originally:
+* She had three times as many white eggs as brown eggs
+* If she had more than 5 brown eggs, then she had more than 15 white eggs (3 x 5)
+* She had a dozen (12) eggs left in total, so she must have had more than 12 eggs originally
+
+Finally, we can calculate the number of eggs she broke:
+* She had more than 17 eggs originally (5 brown + 15 white)
+* She had 12 eggs left after the drop
+* Therefore, she must have broken more than 5 eggs
+
+Answer: 5

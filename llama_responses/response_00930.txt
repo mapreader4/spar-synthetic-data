@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the number of apples bought by each woman is x.
+
+We know that the two men each bought 30 apples. So, the total number of apples bought by the men is 2 x 30 = 60.
+
+We also know that the number of apples bought by each woman is 20 less than the number of apples bought by each man. So, the number of apples bought by each woman is x - 20.
+
+We can set up an equation based on this information:
+
+60 = 2x + 3(x - 20)
+
+We can subtract 20 from both sides of the equation to get:
+
+40 = 2x
+
+We can then divide both sides by 2 to get:
+
+20 = x
+
+So, the number of apples bought by each woman is 20.
+
+Now, we can find the total number of apples bought by the two men and three women. The two men bought 60 apples, and each woman bought 20 apples. So, the total number of apples bought is:
+
+60 + 3(20) = 60 + 60 = 120
+
+Answer: 120

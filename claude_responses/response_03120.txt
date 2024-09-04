@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 192 soaps in a package
+* They put the soaps in 2 big boxes
+* Each box contains 6 packages
+* To find the total number of soaps in the 2 boxes, we need to:
+1. Find the number of soaps in each box
+2. Multiply that by the number of boxes (2)
+
+Step 1: Finding the number of soaps in each box
+* Each box contains 6 packages
+* Each package contains 192 soaps
+* So, each box contains 6 * 192 = 1,152 soaps
+
+Step 2: Finding the total number of soaps in the 2 boxes
+* There are 2 boxes
+* Each box contains 1,152 soaps
+* So, the total number of soaps in the 2 boxes is 2 * 1,152 = 2,304 soaps
+
+Answer: 2,304

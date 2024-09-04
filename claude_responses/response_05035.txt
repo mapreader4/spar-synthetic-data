@@ -1,0 +1,7 @@
+Okay, let's solve this step-by-step:
+1) The investment bank gives 10% interest at the end of every month.
+2) You invest $300 initially.
+3) At the end of the first month, you will have the initial $300 plus 10% interest on that $300, which is $30. So, the total amount at the end of the first month is $300 + $30 = $330.
+4) At the end of the second month, you will have the $330 from the end of the first month plus 10% interest on that $330, which is $33. So, the total amount at the end of the second month is $330 + $33 = $363.
+
+Answer: 363

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. Jason has 70 hardcover books, each weighing 0.5 pounds. So the total weight of the hardcover books is:
+   70 books x 0.5 pounds per book = 35 pounds
+
+2. Jason has 30 textbooks, each weighing 2 pounds. So the total weight of the textbooks is:
+   30 books x 2 pounds per book = 60 pounds
+
+3. Jason has 3 knick-knacks, each weighing 6 pounds. So the total weight of the knick-knacks is:
+   3 knick-knacks x 6 pounds per knick-knack = 18 pounds
+
+4. To find the total weight of all the items, we add up the weights:
+   35 pounds + 60 pounds + 18 pounds = 113 pounds
+
+5. The bookcase has a maximum weight limit of 80 pounds.
+   The total weight of 113 pounds exceeds the 80 pound limit by:
+   113 pounds - 80 pounds = 33 pounds
+
+Answer: 33 pounds

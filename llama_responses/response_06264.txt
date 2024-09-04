@@ -1,0 +1,9 @@
+To solve this problem, we can start by using the information that there were 133 people at the camp. We are told that there were 33 more boys than girls, which means that the number of boys is 33 greater than the number of girls. So, we can let x be the number of girls. Then, we can set up an equation to solve for x:
+
+33 + x = 133 - 33
+
+We can subtract 33 from both sides of the equation to get:
+
+x = 100
+
+So, there were 100 girls at the camp.

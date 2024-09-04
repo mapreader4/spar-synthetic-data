@@ -1,0 +1,5 @@
+Let's start by using the information given that Del picked 23 oranges on each of 2 days. This means that Del picked a total of 23 * 2 = 46 oranges.
+
+Since the total number of oranges picked is 107, we know that Juan picked the remaining oranges. So, the number of oranges picked by Juan is 107 - 46 = 61.
+
+Answer: 61

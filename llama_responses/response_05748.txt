@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* 3/5 times as many people are living in Boise as the number living in Seattle.
+* Let's assume x is the number of people living in Seattle. Then, 3/5x is the number of people living in Boise.
+* The number of people in Lake View is 4000 more than the population in Seattle. So, if the number of people in Seattle is x, then the number of people in Lake View is x + 4000.
+* We are given that Lake View's population is 24000. So, we know that x + 4000 = 24000. We can solve for x:
+
+x + 4000 = 24000
+x = 24000 - 4000
+x = 2000
+
+So, the number of people living in Seattle is 2000.
+
+Now, let's find the total population of the three cities:
+* Boise: 3/5 times 2000 = 1200
+* Seattle: 2000
+* Lake View: 24000
+
+The total population of the three cities is 1200 + 2000 + 24000 = 27600.
+
+Answer: 27600

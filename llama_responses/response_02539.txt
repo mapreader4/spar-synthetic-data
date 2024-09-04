@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how much money the family had planned to spend on oranges. They had planned to spend $15 on oranges, but they ended up not buying any. So, the amount they saved is the amount they had planned to spend minus the amount they actually spent, which is $0.
+
+To find the percentage of the money they saved, we can use the formula:
+
+Percentage = (Amount saved / Amount planned) x 100
+
+In this case, the amount saved is $15 (the amount they planned to spend), and the amount they actually spent is $0. So, the percentage they saved is:
+
+Percentage = ($0 / $15) x 100 = 0%
+
+Answer: 100

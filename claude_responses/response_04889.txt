@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Peter has 15 birds total
+* 1/3 of the birds are ducks
+* To find the number of ducks, we take 1/3 of 15 birds:
+  * 1/3 * 15 = 5 ducks
+* The remaining birds are chickens
+* To find the number of chickens, we subtract the number of ducks from the total number of birds:
+  * 15 - 5 = 10 chickens
+* The special feed for the chickens costs $2 per bird
+* To find the total cost to feed the chickens, we multiply the number of chickens by the cost per bird:
+  * 10 chickens * $2 per bird = $20
+
+Answer: $20

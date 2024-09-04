@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's first find the number of pounds of bacon the farmer gets from the pig. The pig is a runt that grew to only half the size of the average pig, so it will give half the amount of bacon as the average pig. The average pig gives 20 pounds of bacon, so the runt pig will give 10 pounds of bacon.
+
+The farmer sells each pound of bacon for 6 dollars, so the total amount of money he will get for the bacon is:
+
+10 pounds * 6 dollars per pound = 60 dollars
+
+So, the answer is:
+
+Answer: 60

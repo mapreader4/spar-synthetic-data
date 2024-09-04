@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the number of employees who earn $12 per hour.
+
+There are 200 employees who earn $12 per hour, so their total hourly wage is:
+
+200 x $12 = $2400
+
+Step 2: Calculate the number of employees who earn $14 per hour.
+
+There are 40 employees who earn $14 per hour, so their total hourly wage is:
+
+40 x $14 = $560
+
+Step 3: Calculate the number of employees who earn $17 per hour.
+
+All others earn $17 per hour, so the number of such employees is:
+
+300 - 200 - 40 = 60
+
+Their total hourly wage is:
+
+60 x $17 = $1020
+
+Step 4: Add up the total hourly wages of all employees.
+
+The total hourly wage for the 200 employees earning $12 per hour is $2400. The total hourly wage for the 40 employees earning $14 per hour is $560. The total hourly wage for the 60 employees earning $17 per hour is $1020. Adding these up, we get:
+
+$2400 + $560 + $1020 = $3080
+
+The total cost to employ all employees for one 8-hour long shift is:
+
+$3080.

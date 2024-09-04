@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The big rectangle has a length of 40 meters and a width of 20 meters.
+2) The area of the big rectangle is calculated by multiplying the length and width: 40 m x 20 m = 800 square meters.
+3) The smaller rectangle has half the length and half the width of the big rectangle.
+4) The length of the smaller rectangle is 40 m / 2 = 20 meters.
+5) The width of the smaller rectangle is 20 m / 2 = 10 meters.
+6) The area of the smaller rectangle is calculated by multiplying the length and width: 20 m x 10 m = 200 square meters.
+
+Answer: 200 square meters.

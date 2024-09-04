@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jacob had 8 fish at the beginning
+* Alex caught 7 times as many fish as Jacob
+* To calculate how many fish Alex caught, we multiply Jacob's 8 fish by 7:
+* 8 fish x 7 = 56 fish
+* However, Alex then knocked over his bucket and lost 23 fish
+* So the number of fish Alex has left is 56 - 23 = 33 fish
+* Now we need to calculate how many more fish Jacob needs to catch to beat Alex by just 1 fish
+* Alex has 33 fish, so Jacob needs to catch 34 fish to beat Alex by 1 fish
+* Therefore, Jacob needs to catch 34 - 8 = 26 more fish to beat Alex by 1 fish
+
+Answer: 26

@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of apples and pears.
+
+Let's say the number of apples is x. Since there are two more pears than apples, the number of pears is x + 2.
+
+The total number of fruit is 19. So, the number of bananas is 19 - (x + 2) - x = 19 - x.
+
+Since there are three more bananas than pears, the number of bananas is x + 3.
+
+We can write an equation to solve for x: x + 2 + x + 3 = 19.
+
+Subtract x + 2 from both sides of the equation to get: x + 3 = 19 - 2 = 17.
+
+So, the number of bananas is 17.
+
+Answer: 17

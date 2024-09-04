@@ -1,0 +1,71 @@
+Let's break this problem down step by step.
+
+Let's say the dog has x fleas initially.
+
+After the first flea treatment, the dog will have half the fleas it had initially, so the dog will have x/2 fleas.
+
+After the second treatment, the dog will have half of x/2 fleas, which is x/4 fleas.
+
+After the third treatment, the dog will have half of x/4 fleas, which is x/8 fleas.
+
+After the fourth treatment, the dog will have half of x/8 fleas, which is x/16 fleas.
+
+We are given that after four treatments, the dog has 14 fleas left. So, we can set up an equation to solve for x.
+
+Let's call the initial number of fleas x. Then, we can write an equation to represent the number of fleas the dog had before the treatments.
+
+x - (x/2) - (x/2) - (x/4) - (x/8) = 14
+
+We can simplify this equation to get:
+
+x - (x/2) - (x/2) - (x/4) - (x/8) = 14
+
+Combine the like terms:
+
+x - (x/2) - (x/2) = x - x/2
+
+Subtract x/4 and x/8 from both sides:
+
+x - x/2 - x/4 - x/8 = 14
+
+Combine the like terms:
+
+x - x/2 - x/4 = 14 + x/8
+
+Add x/8 to both sides:
+
+x - x/2 - x/4 + x/8 = 14 + x/8
+
+Subtract x/2 from both sides:
+
+x - x/2 + x/8 = 14
+
+Now, we can solve for x:
+
+x - x/2 + x/8 = 14
+
+Add x/2 to both sides:
+
+x + x/8 = 14 + x/2
+
+Subtract x/8 from both sides:
+
+x + x/8 = 14 + x/2 - x/8
+
+Subtract x/2 from both sides:
+
+x + x/8 = 14
+
+We can solve for x:
+
+x = 14 + x/8 - x/2
+
+x = 14 + x/8 - x/2
+
+x = 14 + x/8 - x/2
+
+x = 14 + 14/8 - 14/2
+
+x = 14 + 1.75
+
+Answer: 15

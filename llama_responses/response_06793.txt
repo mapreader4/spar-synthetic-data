@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+1. There are 7 trucks that have 20 boxes.
+2. There are 5 trucks that have 12 boxes.
+3. Each box holds 8 containers of oil.
+4. If all of the oil is evenly redistributed onto 10 trucks, we want to know how many containers of oil each truck will have.
+
+Step 1: First, we need to find the total number of containers of oil. 7 trucks have 20 boxes. 5 trucks have 12 boxes. So, the total number of boxes is 20 + 12 = 32. Each box holds 8 containers of oil. So, the total number of containers of oil is 8 * 32 = 256.
+
+Step 2: Now, we need to divide the total number of containers of oil among the 10 trucks. 256 containers of oil need to be distributed among 10 trucks. To do this, we can divide 256 by 10, which is 25.6. So, each truck will have 25.6 containers of oil.
+
+Answer: 25.6

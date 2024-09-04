@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Initially, Alice baked 74 chocolate chip cookies and Bob baked 7 peanut butter cookies.
+* After accidentally throwing some on the floor, Alice baked 5 more cookies and Bob baked 36 more.
+* At the end, they had 93 edible cookies.
+
+To find the number of cookies that were accidentally thrown on the floor, we need to calculate the total number of cookies baked and then subtract the number of edible cookies.
+
+The total number of cookies baked:
+* Alice's initial 74 + 5 more = 79 cookies
+* Bob's initial 7 + 36 more = 43 cookies
+* Total cookies baked = 79 + 43 = 122 cookies
+
+Now, we subtract the 93 edible cookies from the total 122 cookies baked:
+* 122 cookies - 93 edible cookies = 29 cookies accidentally thrown on the floor
+
+Answer: 29

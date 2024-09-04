@@ -1,0 +1,10 @@
+Let's break this down step by step:
+
+1. Let's start with the total number of seeds: 300.
+2. 1/3 of the seeds land in water and die, so 300 * 1/3 = 100 seeds die.
+3. 1/6 of the starting 300 seeds are eaten by insects, so 300 * 1/6 = 50 seeds are eaten.
+4. The remaining seeds are 300 - 100 - 50 = 150 seeds.
+5. Half of the remaining 150 seeds sprout and are immediately eaten, so 150 / 2 = 75 seeds are eaten.
+6. The remaining seeds that are not eaten are the ones that survive long enough to flower.
+
+Answer: 75

@@ -1,0 +1,25 @@
+Let's start by identifying the original amount of money Sid had. Since he spent some money on snacks and only has $4 more than half of his original money left, we can set up an equation.
+
+Let x be the original amount of money Sid had. Then, let's say he spent y on computer accessories. Then, he has (x - y) left, which is also 4 more than half of his original money.
+
+We know that half of his original money is (x / 2). So, we can set up the equation:
+
+x - y = (x / 2) + 4
+
+We are given that Sid spent 8 on snacks, so we can substitute that into the equation:
+
+x - y = (x / 2) + 4
+x - (x - 8) = (x / 2) + 4
+x - x + 8 = (x / 2) + 4
+-x + 8 = (x / 2) + 4
+
+Now, we can solve for x - x + 8:
+
+-x = (x / 2) + 4 - 8
+-x = (x / 2) - 4
+
+Now, we can solve for x:
+
+x = 8
+
+So, Sid spent $8 on computer accessories.

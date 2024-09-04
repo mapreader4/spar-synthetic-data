@@ -1,0 +1,13 @@
+Let's start by identifying the total number of red and white jelly beans in the bag Jessica bought.
+
+There are 24 red jelly beans and 18 white jelly beans, so the total number of red and white jelly beans in the bag is:
+
+24 (red) + 18 (white) = 42
+
+Since Jessica assumes that each bag of jelly beans has a similar distribution of colors, we can multiply the total number of red and white jelly beans in the bag by 3 to get an estimate of the total number of red and white jelly beans in the fishbowl.
+
+42 (red and white jelly beans in the bag) x 3 = 126
+
+So, Jessica's guess as to how many red and white jelly beans were in the fishbowl is:
+
+Answer: 126

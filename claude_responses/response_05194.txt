@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Sean orders his patches in units of 100, and is charged $1.25 per patch.
+2) So the cost of 100 patches is 100 * $1.25 = $125.
+3) He then sells all 100 patches for $12.00 each.
+4) The total revenue from selling 100 patches at $12.00 each is 100 * $12.00 = $1,200.
+5) To calculate the net profit, we take the total revenue and subtract the total cost:
+$1,200 - $125 = $1,075.
+
+Answer: 1075

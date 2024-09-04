@@ -1,0 +1,11 @@
+I think step by step, let's break this problem down.
+
+Nora picks 80 oranges from the first tree. Then, she picks 60 oranges from the second tree. Next, she picks 120 oranges from the third tree.
+
+So, the total number of oranges she picked is:
+
+80 + 60 + 120 =?
+
+I'll calculate this: 80 + 60 is 140. Then, 140 + 120 is 260.
+
+Answer: 260

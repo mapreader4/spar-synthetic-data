@@ -1,0 +1,23 @@
+Let's break down the problem step by step.
+
+Let's start by letting x be the value of the middle letter before the word score was tripled. 
+
+The total score of the word is 30 points, and since the word score was tripled, the tripled score is 30 * 3 = 90. 
+
+Before the word score was tripled, the score was x points. 
+
+The first and third letters were each valued at one point apiece, so the total value of these two letters is 2 points. 
+
+Since the total score is x points, we can set up an equation: 
+
+x - 2 = 30
+
+To solve for x, we can add 2 to both sides of the equation: 
+
+x = 30 + 2
+
+x = 32
+
+So, the value of the middle letter before the word score was tripled is 32. 
+
+Answer: 32

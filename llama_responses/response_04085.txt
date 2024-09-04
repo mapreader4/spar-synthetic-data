@@ -1,0 +1,9 @@
+Let's start by identifying the pattern in the problem. The problem states that each anthill has fewer ants than the previous one. This means that the number of ants in each anthill is decreasing by a constant amount, which is 20.
+
+Let's call this constant amount x.
+
+In the first anthill, there are 100 ants. In the next anthill, there are 100 - 20 = 80 ants. In the third anthill, there are 80 - 20 = 60 ants.
+
+So, the number of ants in the third anthill is 60.
+
+Answer: 60

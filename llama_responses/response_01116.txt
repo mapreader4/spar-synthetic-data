@@ -1,0 +1,18 @@
+Let's start by setting up an equation to represent the situation.
+
+Let x be the number of days that have elapsed.
+
+Ben starts with $50, so he has 50 dollars. He spends $15 every day, so his savings are 50 - 15x. He then doubles his savings and his dad gives him $10, so he has 2(50 - 15x + 10). We know that he has $500, so we can set up the equation:
+
+2(50 - 15x + 10) = 500
+
+To solve for x, we can subtract 10 from both sides of the equation:
+
+2(50 - 15x) = 500 - 10
+50 - 15x = 490
+
+We can then divide both sides by 15 to get:
+
+x = 32
+
+So, the answer is: Answer: 32

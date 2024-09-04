@@ -1,0 +1,7 @@
+Let's start by finding out how many ml of dye Jenna needs for all the blouses.
+
+Each blouse takes 10 ml of black dye. If there are 100 blouses, then Jenna needs 100 * 10 = 1000 ml of black dye.
+
+The question asks how many 400-ml bottles of dye Jenna needs to buy. Since 1000 ml is more than 400 ml, Jenna needs to buy 3 400-ml bottles of dye.
+
+Answer: 3

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) David has 15 shells.
+2) Mia has 4 times as many shells as David, so Mia has 4 x 15 = 60 shells.
+3) Ava has 20 more shells than Mia, so Ava has 60 + 20 = 80 shells.
+4) Alice has half the number of shells Ava has, so Alice has 80 / 2 = 40 shells.
+5) To find the total number of shells, we add up the shells of all 5 people:
+   David: 15 shells
+   Mia: 60 shells
+   Ava: 80 shells
+   Alice: 40 shells
+   Total: 15 + 60 + 80 + 40 = 195 shells
+
+Answer: 195

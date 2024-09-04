@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Mark has 23 kangaroos
+* Kangaroos have 2 legs each
+* Mark has three times as many goats as kangaroos
+* So, Mark has 3 x 23 = 69 goats
+* Goats have 4 legs each
+
+To calculate the total number of legs:
+* Kangaroos: 23 kangaroos x 2 legs per kangaroo = 46 legs
+* Goats: 69 goats x 4 legs per goat = 276 legs
+* Total legs = 46 + 276 = 322 legs
+
+Answer: 322

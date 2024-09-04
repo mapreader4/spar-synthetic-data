@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+First, we know that Veronica's flashlight can be seen at night from a distance of 1000 feet. This means that Freddie's flashlight can be seen at night from a distance 3 times farther than Veronica's, which is:
+
+1000 x 3 = 3000 feet
+
+So Freddie's flashlight can be seen at night from a distance of 3000 feet.
+
+Next, we know that Velma's flashlight can be seen at night from a distance 2000 feet less than 5 times farther than Freddie's flashlight. To find this distance, we need to multiply Freddie's distance by 5 and then subtract 2000:
+
+3000 x 5 = 15000
+15000 - 2000 = 13000
+
+So Velma's flashlight can be seen at night from a distance of 13000 feet.
+
+Finally, we need to find the difference in distance between Velma's and Veronica's flashlights. This is simply the difference between Velma's distance and Veronica's distance:
+
+13000 - 1000 = 12000
+
+Answer: 12000

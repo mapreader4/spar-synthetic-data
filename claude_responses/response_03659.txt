@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Radhika received 12 new video games on Christmas.
+2) Radhika received 8 more video games on her birthday in February.
+3) Radhika already owned 1/2 the number of games as what she was given on Christmas and her birthday.
+4) To find the number of games she already owned, we need to add the number of games she received on Christmas and her birthday, then divide by 2:
+   * Games received on Christmas: 12
+   * Games received on her birthday: 8
+   * Total games received: 12 + 8 = 20
+   * Games she already owned: 20 / 2 = 10
+5) Now we can add the number of games she already owned (10) to the number of games she received on Christmas (12) and her birthday (8) to get the total number of games she owns now.
+   * Total games owned: 10 + 12 + 8 = 30
+
+Answer: 30

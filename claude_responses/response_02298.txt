@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Eunice has 10 eggplant seeds
+* Eunice has 4 pots
+* 3 seeds can be planted in 1 pot
+
+To find the number of seeds that will be planted in the fourth pot, we need to first find out how many seeds will be planted in the first three pots.
+
+* 3 seeds per pot x 3 pots = 9 seeds
+
+Now, we can subtract the 9 seeds planted in the first three pots from the total of 10 seeds Eunice has:
+
+* 10 seeds - 9 seeds = 1 seed
+
+Therefore, the number of seeds that will be planted in the fourth pot is:
+
+Answer: 1

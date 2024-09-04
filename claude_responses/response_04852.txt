@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The newspaper subscription costs $10 per month
+* If you purchase an annual subscription, you get a 20% discount on the total bill
+* To calculate the total cost of the annual subscription without the discount:
+  * 12 months in a year
+  * $10 per month
+  * 12 months x $10 per month = $120 total
+* Now, with the 20% discount:
+  * 20% of $120 = 0.20 x $120 = $24
+  * $120 - $24 = $96
+
+Therefore, the amount you end up paying for the annual newspaper subscription with the 20% discount is:
+
+Answer: $96

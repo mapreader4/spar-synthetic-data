@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jean has 3 grandchildren
+* She buys each grandkid 2 cards a year
+* She puts $80 in each card
+
+To calculate the total amount she gives away to her grandchildren a year, we need to:
+1. Calculate the total number of cards she buys per year
+2. Multiply the total number of cards by the amount she puts in each card
+
+Step 1: Total number of cards per year
+* 3 grandchildren x 2 cards per grandchild = 6 cards per year
+
+Step 2: Total amount given away per year
+* 6 cards per year x $80 per card = $480 per year
+
+Answer: $480

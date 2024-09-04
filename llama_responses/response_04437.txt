@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The race is 4 times as long as it was last year, so the new distance is 4 x 300 = 1200 meters.
+2. Giselle needs to set up 6 tables, and the last table will be at the finish line. This means that the distance from the first table to the finish line will be equal to the total distance divided by 5 (since there are 6 tables, and 6 - 1 = 5).
+3. The total distance is 1200 meters, and the distance from the first table to the finish line is 1200 / 5 = 240 meters.
+4. Since table 3 is 2 tables away from the first table, the distance between table 1 and table 3 will be 2 x 240 = 480 meters.
+
+Answer: 480

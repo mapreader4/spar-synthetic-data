@@ -1,0 +1,32 @@
+Let's break this down step by step.
+
+First, we know that each student needs at least $450. Since there are 6 students, the total amount needed is 6 x $450 = $2700.
+
+Additionally, they need $3000 for miscellaneous expenses. So, the total amount needed is $2700 + $3000 = $5700.
+
+Now, let's calculate the amount they've raised so far:
+
+Day 1: $600
+Day 2: $900
+Day 3: $400
+Total: $600 + $900 + $400 = $1900
+
+For the next 4 days, they receive only half of what they raised on the first 3 days, which is:
+
+$1900 / 2 = $950
+
+So, they receive $950 for the next 4 days. The total amount raised so far is:
+
+$1900 + $950 = $2850
+
+Now, let's calculate how much more they need to raise:
+
+Total needed: $5700
+Amount raised: $2850
+Amount still needed: $5700 - $2850 = $2850
+
+Since there are 6 students, each student needs to raise:
+
+$2850 / 6 = $475
+
+Answer: 475

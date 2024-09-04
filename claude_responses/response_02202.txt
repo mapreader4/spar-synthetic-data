@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 5 classes in the building block
+* Each class uses 2 whiteboards
+* Each whiteboard needs 20ml of ink per day
+* Ink costs 50 cents per ml
+
+First, we need to calculate the total amount of ink needed for all the whiteboards in a day:
+* 5 classes x 2 whiteboards per class = 10 whiteboards
+* 10 whiteboards x 20ml per whiteboard = 200ml of ink needed per day
+
+Next, we need to calculate the cost of the ink:
+* 200ml of ink x $0.50 per ml = $100 per day
+
+Therefore, the cost to use the whiteboards for one day would be:
+Answer: $100

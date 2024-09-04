@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Chastity made 12 angel food cakes initially.
+2. She placed the cakes in boxes, so there are 12 cakes in total.
+3. Half of the stack of cakes was knocked over by the crow, which means 6 cakes fell.
+4. Chastity picked up half of the fallen cakes, which means she picked up 3 cakes.
+5. The rest of the fallen cakes were destroyed, which means 3 cakes were destroyed.
+
+Answer: 3

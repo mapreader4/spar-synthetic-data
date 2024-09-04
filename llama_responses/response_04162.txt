@@ -1,0 +1,5 @@
+Let's break down the problem into parts. Jerry's breakfast has 6 pancakes with 120 calories each, so that's 6 x 120 = 720 calories. The two strips of bacon have 100 calories each, so that's 2 x 100 = 200 calories. The bowl of cereal has 200 calories.
+
+The total calories in Jerry's breakfast is the sum of these three parts. 720 + 200 + 200 = 1120 calories.
+
+Answer: 1120

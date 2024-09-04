@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The total distance to push the car back to town is 10 miles
+* For the first 3 miles, Brad steered while Jim and Marcus pushed at 6 miles per hour
+* Time taken for the first 3 miles = 3 miles / 6 miles per hour = 0.5 hours
+* For the next 3 miles, Jim steered while Brad and Marcus pushed at 3 miles per hour
+* Time taken for the next 3 miles = 3 miles / 3 miles per hour = 1 hour
+* For the last 4 miles, Marcus steered while Brad and Jim pushed at 8 miles per hour
+* Time taken for the last 4 miles = 4 miles / 8 miles per hour = 0.5 hours
+* Total time taken = 0.5 hours + 1 hour + 0.5 hours = 2 hours
+
+Answer: 2 hours

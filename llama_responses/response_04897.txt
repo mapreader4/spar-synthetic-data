@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that blue fish make up half of all the fish in the aquarium. This means that the total number of blue fish is equal to half of the total number of fish.
+
+Let's call the total number of blue fish "x". Then, we can set up an equation to represent the problem: x = 1/2 * total number of fish.
+
+We are given that there are 15 fewer orange fish than blue fish, so we can set up an equation for the total number of orange fish: orange fish = x - 15.
+
+We are also given that the total number of fish is 80. We can set up an equation to represent this: x + (x - 15) + x = 80.
+
+Now, we can combine the two equations we have created to solve for x. First, we can add x + (x - 15) to both sides of the equation to get 2x + (x - 15) = 80. Then, we can subtract x from both sides to get x = 80 - (x - 15).
+
+Now, we can simplify the right side of the equation by distributing the 80: x = 80 - x + 15.
+
+This is a linear equation in the form of x = -x + 95. We can solve for x by adding x to both sides of the equation to get 2x = 95. Then, we can divide both sides by 2 to get x = 95 / 2 = 47.5.
+
+However, we are told that the number of fish is an integer, so we can round down to the nearest whole number. In this case, the number of fish is 47.
+
+Answer: 47

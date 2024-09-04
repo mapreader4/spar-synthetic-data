@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Laura needs to buy 3 sets of window treatments, which includes a set of sheers and a set of drapes for each window.
+
+For each window, she needs 2 sets: one set of sheers and one set of drapes. So, the total number of sets she needs is 3 x 2 = 6.
+
+The cost of a set of sheers is $40.00, so the total cost of the sheers is 6 x $40.00 = $240.00.
+
+The cost of a set of drapes is $60.00, so the total cost of the drapes is 6 x $60.00 = $360.00.
+
+To find the total cost of the window treatments, we add the cost of the sheers and the cost of the drapes: $240.00 + $360.00 = $600.00.
+
+Answer: $600.00

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The class has 300 students total.
+2) 40% of the class are smoking teens, which means 40% of 300 = 0.4 * 300 = 120 students are smoking.
+3) 70% of the 120 smoking students are hospitalized from smoking-related complications, which means 70% of 120 = 0.7 * 120 = 84 students have been hospitalized.
+4) To find the total number of smoking students who have not been hospitalized, we take the total number of smoking students (120) and subtract the number of students who have been hospitalized (84).
+5) 120 - 84 = 36 smoking students have not been hospitalized.
+
+Answer: 36

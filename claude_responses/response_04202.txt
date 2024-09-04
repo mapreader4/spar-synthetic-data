@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Elsa makes black & white cookies
+* For each cookie, she has to:
+  - Make the batter
+  - Bake the cookies for 15 minutes
+  - Allow the cookies to cool
+  - Dip the cookies in white icing and allow to harden for 30 minutes
+  - Re-dip the cookies in chocolate icing and allow to harden for 30 minutes
+* The total time to make the cookies from start to finish is 2 hours
+
+To find the time it takes to make the dough and cool the cookies before she can start dipping them, we need to subtract the time spent on the dipping and hardening steps from the total 2 hours.
+
+The time spent on the dipping and hardening steps is:
+* 30 minutes for the white icing
+* 30 minutes for the chocolate icing
+* Total time for dipping and hardening = 30 + 30 = 60 minutes = 1 hour
+
+So the time it takes to make the dough and cool the cookies before she can start dipping them is:
+* 2 hours - 1 hour = 1 hour
+
+Answer: 1 hour

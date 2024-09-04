@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+
+1. John's new computer cost $1500.
+2. He needs to get a monitor and other peripherals that cost 1/5 of the computer's cost.
+   * 1/5 of $1500 = $300
+3. He also wants to upgrade the $300 video card with one that costs twice as much.
+   * Twice the cost of the original video card is 2 x $300 = $600
+4. To calculate the total amount John spent, we add up the cost of the computer, the monitor and peripherals, and the upgraded video card:
+   * $1500 + $300 + $600 = $2400
+
+Answer: $2400

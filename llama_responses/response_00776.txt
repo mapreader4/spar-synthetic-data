@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: Amber worked for 12 hours, and Armand worked one-third as long as Amber. So Armand worked 12/3 = 4 hours.
+
+Ella worked twice as long as Armand, so Ella worked 4 * 2 = 8 hours.
+
+To find the total number of hours the 3 people worked, we add up their hours:
+
+12 + 4 + 8 = 24
+
+Answer: 24

@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+
+1. Mr. Callen bought 10 paintings at $40 each, so the total cost of the paintings is:
+   10 paintings x $40 per painting = $400
+
+2. Mr. Callen bought 8 wooden toys at $20 each, so the total cost of the toys is:
+   8 toys x $20 per toy = $160
+
+3. The total cost of all the items is the sum of the cost of the paintings and the toys:
+   $400 + $160 = $560
+
+4. The selling price of each painting was 10% less than the purchase price, so the selling price per painting is:
+   $40 - (10% of $40) = $40 - $4 = $36 per painting
+
+5. The selling price of each toy was 15% less than the purchase price, so the selling price per toy is:
+   $20 - (15% of $20) = $20 - $3 = $17 per toy
+
+6. The total selling price of the paintings is:
+   10 paintings x $36 per painting = $360
+
+7. The total selling price of the toys is:
+   8 toys x $17 per toy = $136
+
+8. The total selling price of all the items is the sum of the selling prices of the paintings and toys:
+   $360 + $136 = $496
+
+9. The total loss is the difference between the total cost and the total selling price:
+   $560 - $496 = $64
+
+Answer: $64

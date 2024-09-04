@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of seashells in the jar last week was x.
+
+Since Carina puts 20 more seashells in the jar this week, the number of seashells in the jar this week is x + 20.
+
+The problem asks how many seashells will be in the jar in a month. Since there are 4 weeks in a month, we can multiply the number of seashells in the jar this week by 4 to get the number of seashells in the jar in a month.
+
+So, the number of seashells in the jar in a month is (x + 20) * 4 = x + 80.
+
+Answer: 80

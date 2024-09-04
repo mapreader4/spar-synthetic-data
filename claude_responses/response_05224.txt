@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Hammond started with an 80-pound block of marble
+* The first statue he carved weighed 10 pounds
+* The second statue he carved weighed 18 pounds
+* The remaining two statues weighed the same amount
+* The marble he discarded after carving weighed 22 pounds
+
+Now, let's calculate the total weight of the four statues:
+* Total weight of the four statues = 80 pounds (original block) - 22 pounds (discarded marble)
+* Total weight of the four statues = 58 pounds
+
+We know the weight of the first two statues:
+* Weight of first statue = 10 pounds
+* Weight of second statue = 18 pounds
+* Total weight of the first two statues = 10 + 18 = 28 pounds
+
+Now, we can calculate the total weight of the remaining two statues:
+* Total weight of the remaining two statues = 58 pounds - 28 pounds = 30 pounds
+
+Since the remaining two statues weighed the same amount, we can divide the total weight of the remaining two statues by 2 to get the weight of each statue:
+* Weight of each remaining statue = 30 pounds / 2 = 15 pounds
+
+Answer: 15 pounds

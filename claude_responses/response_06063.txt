@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Megan has to spend 20 minutes preparing one dish in the oven
+* Each dish can feed 5 people
+* Megan spends 2 hours (120 minutes) preparing as many of these dishes as she can
+
+First, we need to find out how many dishes Megan can prepare in 2 hours:
+* 120 minutes / 20 minutes per dish = 6 dishes
+
+Now, we can calculate how many people she can feed with these 6 dishes:
+* 6 dishes x 5 people per dish = 30 people
+
+Therefore, the answer is:
+Answer: 30

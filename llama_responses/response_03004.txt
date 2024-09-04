@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+First, let's find the total amount of fruit needed for 4 batches of muffins, with each batch taking 12 ounces of fruit. Since there are 4 batches, the total amount of fruit needed is:
+
+4 batches x 12 ounces/batch = 48 ounces
+
+Since blueberries come in 6-ounce cartons, we'll need:
+
+48 ounces / 6 ounces/carton = 8 cartons of blueberries
+
+The cost of blueberries would be:
+
+8 cartons x $5.00/carton = $40.00
+
+Raspberries come in 8-ounce cartons, so we'll need:
+
+48 ounces / 8 ounces/carton = 6 cartons of raspberries
+
+The cost of raspberries would be:
+
+6 cartons x $3.00/carton = $18.00
+
+To find the difference in cost, we subtract the cost of raspberries from the cost of blueberries:
+
+$40.00 - $18.00 = $22.00
+
+Answer: 22

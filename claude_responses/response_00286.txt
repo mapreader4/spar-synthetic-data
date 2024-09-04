@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There were 18 students assigned to the minibus for the field trip
+* 8 of these students were boys
+* The number of girls and boys was the same on the day of the field trip
+* This means that the number of girls who were able to join the field trip was the same as the number of boys, which is 8
+* Therefore, the number of girls who were not able to join the field trip is the total number of girls assigned to the minibus minus the number of girls who were able to join
+* The total number of girls assigned to the minibus is 18 - 8 = 10
+* So the number of girls who were not able to join the field trip is 10 - 8 = 2
+
+Answer: 2

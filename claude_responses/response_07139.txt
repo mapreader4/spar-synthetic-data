@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Rick has 400 books in total.
+2) He wants to divide them into groups of 25 (24 other books plus the one book).
+3) To do this, he needs to repeatedly divide the groups in half until each group has 25 books.
+4) Let's start with the initial 400 books. Dividing 400 by 2 gives us 200 books in each group.
+5) Dividing 200 by 2 gives us 100 books in each group.
+6) Dividing 100 by 2 gives us 50 books in each group.
+7) Dividing 50 by 2 gives us 25 books in each group.
+8) So Rick must divide the groups 4 times to get each group down to 25 books.
+
+Answer: 4

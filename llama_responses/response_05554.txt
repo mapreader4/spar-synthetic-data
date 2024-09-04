@@ -1,0 +1,12 @@
+Let's start by identifying the information given in the problem. We know that Dante needs half as many cups of flour as he needs eggs. This means that if he uses x cups of eggs, he needs x/2 cups of flour.
+
+We are given that Dante uses 60 eggs. So, we can set up an equation:
+
+x/2 = 60
+
+To solve for x, we can multiply both sides of the equation by 2 to eliminate the fraction:
+
+x = 2 * x = 2 * 60
+x = 120
+
+Answer: 120

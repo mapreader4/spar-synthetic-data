@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The total duration of the trip is 8 hours
+* The first half of the trip is 4 hours (half of 8 hours)
+* During the first half, Martin traveled at a speed of 70 kilometers per hour
+* So, in the first half of the trip, Martin traveled 70 kilometers per hour x 4 hours = 280 kilometers
+* The second half of the trip is also 4 hours
+* During the second half, Martin traveled at a speed of 85 kilometers per hour
+* So, in the second half of the trip, Martin traveled 85 kilometers per hour x 4 hours = 340 kilometers
+* To get the total distance traveled, we add the distances from the first half and second half:
+* 280 kilometers + 340 kilometers = 620 kilometers
+
+Answer: 620

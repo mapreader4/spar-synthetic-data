@@ -1,0 +1,11 @@
+Let's break this down step by step:
+
+1. James buys 20 coins of a cryptocurrency at $15 each, so the total value of the coins is 20 * 15 = $300.
+
+2. The value of the coins increases by 2/3, which means that the new value of the coins is 300 * (1 + 2/3) = 300 * 1.33 = $399.
+
+3. James sells the coins to recoup his original investment.  So, to recoup his original $300 investment, he needs to sell the coins for $300.
+
+4. To find out how many coins he needs to sell, we need to divide the target value by the value of each coin. 300 / 15 = 20.
+
+Answer: 20

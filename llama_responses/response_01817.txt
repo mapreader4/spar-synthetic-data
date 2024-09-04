@@ -1,0 +1,10 @@
+Let's break this down step by step:
+
+1. The two flat tires are empty, so they need 500 cubic inches of air each. That's a total of 1000 cubic inches of air needed to fill them.
+2. The one tire that's 40% full has 0.4 x 500 = 200 cubic inches of air already in it.
+3. The last tire that's 70% full has 0.7 x 500 = 350 cubic inches of air already in it.
+4. So, in total, the tires need 1000 - 200 - 350 = 450 cubic inches of air to be filled.
+
+Carson needs to inject 50 cubic inches of air with each pump. So, to fill the tires, it will take:
+
+450 / 50 = 9 pumps.

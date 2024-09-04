@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+1. The distance between Arizona and New York is 2,000 miles when flying.
+2. The distance increases by 40% if someone decides to drive instead of flying.
+3. Missouri is midway between Arizona and New York.
+
+To find the distance between Missouri and New York when driving, we need to increase the original distance by 40%. To do this, we can multiply the original distance by 1.4 (since 40% is the same as 40/100, or 0.4, and multiplying by 1.4 is the same as adding 40%).
+
+2,000 miles * 1.4 = 2,800 miles
+
+So, the distance between Missouri and New York when driving is 2,800 miles.
+
+Answer: 2800

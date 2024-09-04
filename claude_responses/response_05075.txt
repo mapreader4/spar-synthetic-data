@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The online sale gives you $10 for every $100 that you spend.
+2) You made a purchase of $250 before discounts.
+3) To calculate the discount, we take the total purchase amount ($250) and divide it by $100 to get the number of $100 increments: 250 / 100 = 2.5
+4) Since the discount is $10 per $100 increment, we multiply 2.5 by $10 to get the total discount: 2.5 * $10 = $25
+5) The final amount you paid is the original purchase amount ($250) minus the discount ($25):
+250 - 25 = $225
+
+Answer: 225

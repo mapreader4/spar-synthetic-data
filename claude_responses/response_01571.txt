@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The mosaic will be 10 feet tall and 15 feet long.
+2) Each tile is 1 inch square.
+3) To convert the dimensions from feet to inches, we multiply by 12 (since there are 12 inches in a foot).
+4) The mosaic will be 10 feet x 12 inches/foot = 120 inches tall, and 15 feet x 12 inches/foot = 180 inches long.
+5) To find the total number of tiles needed, we multiply the height by the length: 120 inches x 180 inches = 21,600 square inches.
+6) Since each tile is 1 inch square, the total number of tiles needed is 21,600.
+
+Answer: 21,600

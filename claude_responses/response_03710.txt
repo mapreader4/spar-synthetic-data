@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There were 4 students who participated in the 200m race
+* The average completion time of the last three students was 35 seconds
+* The average completion time of all four runners was 30 seconds
+
+To find the time it took the student who came first to finish the race, we can use the following equation:
+
+(Time of first student + 3 * 35 seconds) / 4 = 30 seconds
+
+Rearranging this equation, we get:
+
+Time of first student = 4 * 30 seconds - 3 * 35 seconds
+Time of first student = 120 seconds - 105 seconds
+Time of first student = 15 seconds
+
+Answer: 15 seconds

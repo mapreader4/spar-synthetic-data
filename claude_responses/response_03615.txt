@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The baseball team has averaged 15 hits per game over their first 5 games.
+* There are 11 players on the team.
+* The best player has 25 total hits.
+* We want to find the average number of hits each player will have across the next 6 games.
+
+First, let's calculate the total number of hits the team has had in the first 5 games:
+* 15 hits per game x 5 games = 75 total hits
+
+Now, let's subtract the 25 hits from the best player to get the total hits from the other 10 players:
+* 75 total hits - 25 hits from best player = 50 hits from other 10 players
+
+To get the average hits per player from the other 10 players, we divide the 50 hits by 10 players:
+* 50 hits / 10 players = 5 hits per player
+
+Now, we know the best player has 25 hits, and the other 10 players average 5 hits each. To get the total hits across the next 6 games, we can calculate:
+* Best player: 25 hits + (6 games x 5 hits per game) = 55 total hits
+* Other 10 players: 10 players x (5 hits per player + 6 games x 5 hits per game) = 550 total hits
+
+To get the average hits per player across all 11 players, we divide the total hits (55 + 550 = 605) by 11 players:
+* 605 total hits / 11 players = 55 hits per player
+
+Answer: 55

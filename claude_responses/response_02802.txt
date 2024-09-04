@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The cost of a spiral notebook is $15.
+2) The cost of a personal planner is $10.
+3) We need to buy 4 spiral notebooks and 8 personal planners.
+4) The total cost without any discount would be:
+   - 4 spiral notebooks x $15 = $60
+   - 8 personal planners x $10 = $80
+   - Total cost = $60 + $80 = $140
+5) The discount is 20%, so we need to calculate 20% of the total cost:
+   - 20% of $140 = 0.2 x $140 = $28
+6) The total cost with the 20% discount is $140 - $28 = $112.
+
+Answer: 112

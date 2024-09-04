@@ -1,0 +1,5 @@
+To find the total time spent cleaning each week, we need to calculate the total time spent vacuuming and dusting.
+
+Aron spends 30 minutes/day three times a week vacuuming, which is 3 * 30 = 90 minutes. He also spends 20 minutes/day 2 days a week dusting, which is 2 * 20 = 40 minutes. The total time spent vacuuming and dusting is 90 + 40 = 130 minutes.
+
+Answer: 130

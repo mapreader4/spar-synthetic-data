@@ -1,0 +1,31 @@
+Okay, let's break this down step-by-step:
+1) In the first round, Tank gathered 10 more eggs than Emma.
+2) In the second round, Emma gathered twice as many eggs as Tank, and Tank's total number of eggs in the second round was 20 less than the number she had gathered in the first round.
+3) The total number of eggs collected by all 8 people (Tank, Emma, and 6 others) was 400.
+4) Emma gathered 60 eggs in the second round.
+
+Let's start by finding Tank's number of eggs in the first round:
+* Emma's first round eggs = x
+* Tank's first round eggs = x + 10
+
+Now, let's find Tank's number of eggs in the second round:
+* Tank's second round eggs = (Emma's second round eggs) / 2
+* Tank's second round eggs = 60 / 2 = 30
+* Tank's total eggs in the second round = 30
+
+We know that Tank's total eggs in the second round is 20 less than the number he had gathered in the first round, so:
+* Tank's first round eggs = Tank's second round eggs + 20
+* x + 10 = 30 + 20
+* x = 20
+
+Now, we can find the total number of eggs collected by Tank and Emma:
+* Tank's total eggs = x + 10 + 30 = 20 + 10 + 30 = 60
+* Emma's total eggs = x + 60 = 20 + 60 = 80
+* Total eggs collected by Tank and Emma = 60 + 80 = 140
+
+Finally, we can find the number of eggs collected by the 6 other people:
+* Total eggs collected by all 8 people = 400
+* Total eggs collected by Tank and Emma = 140
+* Eggs collected by the 6 other people = 400 - 140 = 260
+
+Answer: 260

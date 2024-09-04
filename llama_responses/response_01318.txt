@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Charlene is twice as tall as Janet, so Charlene's height is 2 x 62 = 124 centimeters.
+
+Now, we know that Pablo is 70 centimeters taller than Charlene, so Pablo's height is 70 + 124 = 194 centimeters.
+
+Ruby is 2 centimeters shorter than Pablo, so Ruby's height is 194 - 2 = 192 centimeters.
+
+Answer: 192

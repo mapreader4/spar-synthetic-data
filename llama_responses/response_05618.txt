@@ -1,0 +1,16 @@
+Let's break it down step by step:
+
+Harry sleeps for 8 hours on Monday night.
+Harry sleeps for 7 hours on Tuesday night.
+Harry sleeps for 8 hours on Wednesday night.
+Harry sleeps for 7 hours on Thursday night.
+
+To find the average number of hours Harry sleeps in one night, we need to add up the number of hours he sleeps each night and divide by 4 (since there are 4 nights).
+
+8 + 7 + 8 + 7 = 30
+
+30 ÷ 4 = 7.5
+
+So, the average number of hours Harry sleeps in one night is 7.5 hours.
+
+Answer: 7

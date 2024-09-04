@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. The tank starts with 40 gallons of water.
+2. The tank loses 2 gallons of water per hour.
+3. For the first two hours, Hayden does not add any water.
+   * After the first hour, the tank has 40 - 2 = 38 gallons of water.
+   * After the second hour, the tank has 38 - 2 = 36 gallons of water.
+4. In the third hour, Hayden adds 1 gallon of water.
+   * The tank now has 36 + 1 = 37 gallons of water.
+5. In the fourth hour, Hayden adds 3 gallons of water.
+   * The tank now has 37 + 3 = 40 gallons of water.
+
+Therefore, at the end of the fourth hour, the tank has 40 gallons of water.
+
+Answer: 40

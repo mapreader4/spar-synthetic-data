@@ -1,0 +1,19 @@
+To solve this problem, we need to find the total number of sacks of strawberries Antoine needs to supply to all the bakeries in 4 weeks.
+
+Given information:
+- The first bakery needs 2 sacks of strawberries per week.
+- The second bakery needs 4 sacks of strawberries per week.
+- The third bakery needs 12 sacks of strawberries per week.
+- The time period is 4 weeks.
+
+Step 1: Calculate the total number of sacks of strawberries needed per week.
+Sacks needed by the first bakery per week = 2
+Sacks needed by the second bakery per week = 4
+Sacks needed by the third bakery per week = 12
+Total sacks needed per week = 2 + 4 + 12 = 18 sacks
+
+Step 2: Calculate the total number of sacks of strawberries needed in 4 weeks.
+Total sacks needed in 4 weeks = Total sacks needed per week × 4 weeks
+Total sacks needed in 4 weeks = 18 sacks × 4 weeks = 72 sacks
+
+Answer: 72 sacks

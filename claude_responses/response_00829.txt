@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Jeanne wants to ride the Ferris wheel, the roller coaster, and the bumper cars
+* The Ferris wheel costs 5 tickets
+* The roller coaster costs 4 tickets
+* The bumper cars cost 4 tickets
+* Jeanne has 5 tickets
+
+To calculate how many more tickets Jeanne should buy, we need to add up the total number of tickets required for the three rides:
+* Ferris wheel: 5 tickets
+* Roller coaster: 4 tickets
+* Bumper cars: 4 tickets
+* Total tickets required: 5 + 4 + 4 = 13 tickets
+
+Now, we compare the total tickets required (13) to the tickets Jeanne currently has (5):
+* Tickets required: 13
+* Tickets Jeanne has: 5
+* Tickets Jeanne needs to buy: 13 - 5 = 8
+
+Answer: 8

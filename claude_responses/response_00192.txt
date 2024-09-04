@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Apple sold 100 iPhones at an average cost of $1000 each.
+2) They also sold 20 iPads at an average cost of $900 each.
+3) They also sold 80 Apple TVs at an average cost of $200 each.
+4) To calculate the average cost across all products sold, we need to find the total revenue and divide it by the total number of products sold.
+5) Total revenue from iPhones: 100 * $1000 = $100,000
+6) Total revenue from iPads: 20 * $900 = $18,000
+7) Total revenue from Apple TVs: 80 * $200 = $16,000
+8) Total revenue across all products: $100,000 + $18,000 + $16,000 = $134,000
+9) Total number of products sold: 100 + 20 + 80 = 200
+10) Average cost across all products: $134,000 / 200 = $670
+
+Answer: 670

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* John jogs at a speed of 4 miles per hour when he runs alone
+* John runs at 6 miles per hour when he is being dragged by his 100-pound German Shepherd dog
+* John and his dog go on a run together for 30 minutes
+* Then, John runs for an additional 30 minutes by himself
+
+First, let's calculate the distance John and his dog traveled together:
+* They ran for 30 minutes
+* John's speed when being dragged by the dog is 6 miles per hour
+* So, the distance traveled together is:
+    * (6 miles per hour) * (0.5 hours) = 3 miles
+
+Next, let's calculate the distance John traveled by himself:
+* He ran for an additional 30 minutes
+* His speed when running alone is 4 miles per hour
+* So, the distance traveled alone is:
+    * (4 miles per hour) * (0.5 hours) = 2 miles
+
+Finally, to get the total distance traveled, we add the distance traveled together and the distance traveled alone:
+* Total distance = 3 miles + 2 miles = 5 miles
+
+Answer: 5 miles

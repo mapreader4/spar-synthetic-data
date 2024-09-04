@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* The monster rises from the waters once every 100 years.
+* The monster has consumed 847 people over 300 years.
+* Each new ship has twice as many people as the last ship.
+
+Let's first find the number of people on the ship the monster ate in the first 100 years. Since the monster rises every 100 years, it will eat the first ship in the first 100 years. The total number of people it eats in 100 years is equal to the total number of people in the first ship.
+
+Let's call the number of people in the first ship 'x'. Since the ship is consumed in the first 100 years, the total number of people eaten is x.
+
+The total number of people eaten over 300 years is 847. We know that the total number of people eaten is equal to the total number of people in the first ship multiplied by the number of times the ship is consumed, which is 3.
+
+We can set up an equation to represent this:
+
+x * 3 = 847
+
+To solve for x, we can divide both sides by 3:
+
+x = 847 / 3
+
+x = 282.33
+
+However, we know that the number of people in the ship must be an integer, so we can round down to the nearest whole number. Therefore, the number of people in the first ship is 282.
+
+Answer: 282

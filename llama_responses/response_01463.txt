@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Ned can run up one flight of stairs in 11 seconds, so to reach the top floor with 20 flights of stairs, he will need:
+
+20 flights of stairs / 1 flight of stairs per 11 seconds = 20 * 11 = 220 seconds
+
+This means Ned will take 220 seconds to reach the top floor.
+
+2. Ned has already spent 165 seconds running up the stairs, so when he reaches the top floor, the remaining time on the timer will be:
+
+72 seconds (initial time left on the timer) - 165 seconds (time Ned has spent) = 7 seconds
+
+Answer: 7

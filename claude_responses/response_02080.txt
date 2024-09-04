@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The hairstylist charges $5 for a normal haircut
+* He cuts 5 normal haircuts per day
+* So, for the normal haircuts, he earns 5 x $5 = $25 per day
+* The hairstylist charges $6 for a special haircut
+* He cuts 3 special haircuts per day
+* So, for the special haircuts, he earns 3 x $6 = $18 per day
+* The hairstylist charges $8 for a trendy haircut
+* He cuts 2 trendy haircuts per day
+* So, for the trendy haircuts, he earns 2 x $8 = $16 per day
+* To calculate his total earnings per day, we add up the earnings from the normal, special, and trendy haircuts:
+* $25 + $18 + $16 = $59 per day
+* There are 7 days in a week
+* So, his total earnings per week would be 7 x $59 = $413
+
+Answer: 413

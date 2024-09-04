@@ -1,0 +1,17 @@
+Let's start by using the information that the youngest brother is 2 years younger than the smallest brother.
+
+Let's call the age of the oldest brother 'x'. Since the middle brother is a third of the oldest brother's age, the middle brother's age is x/3.
+
+The smallest brother is half the middle brother's age, so the smallest brother's age is (x/3)/2.
+
+The youngest brother is 2 years younger than the smallest brother, so the youngest brother's age is (x/3)/2 - 2.
+
+The problem states that Rick has just celebrated his 15th birthday, so x must be 15.
+
+So, the middle brother's age is 15/3 = 5.
+
+The smallest brother's age is (5)/2 = 2.5, but since the youngest brother is an integer, we can round it to 2.
+
+The youngest brother is 2 years younger than the smallest brother, so the youngest brother's age is 2.
+
+Answer: 2

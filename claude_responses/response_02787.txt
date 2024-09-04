@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Remi's water bottle holds 20 ounces of water
+* He refills the bottle 3 times a day
+* He drinks the whole bottle each time, except for 2 times when he spills some
+* The first time he spilled 5 ounces
+* The second time he spilled 8 ounces
+* We want to know how many ounces of water he drinks in 7 days
+
+First, let's calculate how much water he drinks per day:
+* 3 refills per day x 20 ounces per refill = 60 ounces per day
+* Minus the 2 times he spilled: 60 - 5 - 8 = 47 ounces per day
+
+Now, let's calculate the total amount of water he drinks in 7 days:
+* 47 ounces per day x 7 days = 329 ounces
+
+Answer: 329 ounces

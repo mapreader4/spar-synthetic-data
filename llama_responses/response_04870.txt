@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. The ticket price for adults is $26. The ticket price for children is half of that, which is $13.
+
+2. The total number of adults is 183. The total number of children is 28.
+
+3. The total revenue from adults is 183 x $26 = 4758.
+
+4. The total revenue from children is 28 x $13 = 364.
+
+5. The total revenue is the sum of the revenue from adults and children: 4758 + 364 = 5122.
+
+Answer: 5122

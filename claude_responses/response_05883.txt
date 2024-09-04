@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Iain has 200 pennies in total.
+2) 30 of these pennies are older than he is, so he wants to get rid of those.
+3) That leaves him with 200 - 30 = 170 pennies.
+4) He then wants to throw out 20% of the remaining 170 pennies.
+5) 20% of 170 is 0.2 * 170 = 34 pennies.
+6) So he will throw out 34 pennies.
+7) That leaves him with 170 - 34 = 136 pennies.
+
+Answer: 136

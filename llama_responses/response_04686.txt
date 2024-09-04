@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Darcy starts with 20 shirts and 8 pairs of shorts.
+
+He folds 12 shirts, leaving 8 shirts remaining.
+
+He folds 5 shorts, leaving 3 pairs of shorts remaining.
+
+To find the total number of pieces of clothing left to fold, we need to add the number of shirts and the number of pairs of shorts:
+
+8 (shirts) + 3 (pairs of shorts) = 11
+
+So, the answer is:
+
+Answer: 11

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The batting cage sells golf balls by the dozen
+* They charge $30 for 3 dozen
+* Dan buys 5 dozen
+* Gus buys 2 dozen
+* Chris buys 48 golf balls
+* Assuming 12 golf balls are 1 dozen
+
+First, let's calculate how many golf balls Dan and Gus bought:
+* Dan bought 5 dozen, which is 5 x 12 = 60 golf balls
+* Gus bought 2 dozen, which is 2 x 12 = 24 golf balls
+
+Now, let's add up the total number of golf balls purchased:
+* Dan: 60 golf balls
+* Gus: 24 golf balls
+* Chris: 48 golf balls
+* Total: 60 + 24 + 48 = 132 golf balls
+
+Answer: 132

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many haircuts Tammy has gotten so far. She has gotten 5 free haircuts. Then, for every 14 haircuts, she gets a free additional haircut. So, we need to find the number of times 14 goes into 5.
+
+To do this, we can divide 5 by 14. 5 ÷ 14 = 0.3571428571429. So, we can round this to the nearest whole number, which is 0. So, Tammy has gotten 0 free haircuts.
+
+Since she is 5 haircuts away from another free one, we can add 5 to 0, which is 5. Therefore, Tammy has gotten a total of 5 + 0 = 5 haircuts.

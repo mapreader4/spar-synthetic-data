@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The class has 30 students total
+* Half of the class answered green, which means 15 students like green best
+* One-third of the girls answered pink, and there are 18 girls in the class
+* To find how many girls answered pink, we take one-third of 18, which is 6 girls
+* The rest of the class answered yellow, so we need to find how many students that is
+* We know that 15 students like green best, 6 students like pink best, and the remaining students like yellow best
+* To find the number of students who like yellow best, we take the total number of students (30) and subtract the number of students who like green (15) and the number of students who like pink (6)
+* 30 - 15 - 6 = 9 students
+
+Answer: 9 students

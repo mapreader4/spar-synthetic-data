@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. We know that the initial investment is $1000.
+2. The yearly interest rate is 10%. To find the interest for 1 year, we can multiply the principal amount by the rate: $1000 * 0.1 = $100.
+3. Since the interest is added every year, we need to multiply the interest by 2 to find the total interest for 2 years: $100 * 2 = $200.
+4. The interest is added to the principal, so we add the interest to the initial investment: $1000 + $200 = $1200.
+5. Since the interest is added every month, and the interest is compounded monthly, we need to add the interest again. The monthly interest is $100, so we add it to the total amount: $1200 + $100 = $1300.
+6. Finally, we add the interest for the second year. The interest is still 10%, so we multiply the principal by 0.1: $1300 * 0.1 = $130.
+7. We add the interest to the total amount: $1300 + $130 = $1430.
+
+Answer: 1430

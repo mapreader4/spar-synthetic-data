@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Anna spends 3 minutes per room for 10 rooms, so her total time for sweeping is 3 * 10 = 30 minutes.
+2) Billy spends 9 minutes per load for 2 loads, so his total time for laundry is 9 * 2 = 18 minutes.
+3) To make the total time spent by Anna and Billy the same, we need to find how many dishes Billy needs to wash to make up the 12 minute difference between 30 minutes (Anna's sweeping) and 18 minutes (Billy's laundry).
+4) Washing dishes takes 2 minutes per dish, so Billy needs to wash 12 / 2 = 6 dishes.
+
+Answer: 6

@@ -1,0 +1,10 @@
+Let's break it down step by step:
+
+1. Abigail built 10 fences in the first 30 minutes. This means that each fence takes 30 minutes to build.
+2. If she builds fences for the next 8 hours, we need to find out how many fences she can build in 8 hours.
+3. 30 minutes is equal to 0.5 hours. So, if we multiply 0.5 hours by 8 hours, we get 4 hours.
+4. Since each fence takes 30 minutes to build, she can build 4 * 2 = 8 fences in 4 hours.
+5. Since 8 fences are already built in the first 30 minutes, we need to add that to the total number of fences built.
+6. The total number of fences built is 10 + 8 = 18.
+
+Answer: 18

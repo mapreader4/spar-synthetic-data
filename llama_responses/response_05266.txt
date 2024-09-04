@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Kenny earns $15 per lawn, and he has mowed 35 lawns. To find the total amount of money Kenny has earned, we multiply the number of lawns by the amount earned per lawn: 35 x $15 = $525.
+
+2. Kenny wants to buy 5 video-games, each costing $45. The total cost of the video-games is 5 x $45 = $225.
+
+3. Kenny will use the money left over for books, which cost $5 each. To find out how many books he can buy, we subtract the cost of the video-games from the total amount of money Kenny has earned: $525 - $225 = $300.
+
+4. Since each book costs $5, we can find the number of books Kenny can buy by dividing the remaining amount by the cost of a book: $300 ÷ $5 = 60.
+
+Answer: 60

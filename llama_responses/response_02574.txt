@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start with Yvonne, who swims 10 laps in 5 minutes.  We know that 10 laps in 5 minutes is the same as 2 laps per minute.  So, Yvonne can swim 2 laps per minute.
+
+Now, the younger sister can swim half as many laps as Yvonne in the same time frame.  So, she can swim 1 lap per minute, or 0.5 laps per minute.
+
+Joel is the brother, and he can swim three times the number of laps as the younger sister.  So, he can swim 1.5 laps per minute, or 3 times the number of laps as the younger sister.
+
+To find out how many laps Joel can swim in 5 minutes, we can multiply 3 times the number of laps the younger sister can swim per minute by 5 minutes.
+
+So, 3 x 0.5 = 1.5 laps per minute * 5 minutes = 7.5 laps.
+
+Answer: 7.5

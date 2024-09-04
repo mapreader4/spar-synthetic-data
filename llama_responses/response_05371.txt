@@ -1,0 +1,11 @@
+Let's think step by step.
+
+Martha has 20 apples initially.
+
+Jane got 5 apples from her, so Martha has 20 - 5 = 15 apples left.
+
+James got 2 more apples than Jane, so James got 5 + 2 = 7 apples. Martha gave 7 apples to James, so she has 15 - 7 = 8 apples left.
+
+Martha needs to give away apples to be left with only 4. She has 8 apples left, so she needs to give away 8 - 4 = 4 apples.
+
+Answer: 4

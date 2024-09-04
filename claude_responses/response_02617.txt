@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The apartment is 16 feet by 10 feet, so the total area of the apartment is 16 x 10 = 160 square feet.
+2) There are 6 rooms in total, and all the rooms are the same size except the living room, which is as big as 3 other rooms.
+3) Since the living room is as big as 3 other rooms, we can say that the remaining 5 rooms are equal in size.
+4) To find the size of the living room, we first need to find the size of the other 5 rooms.
+5) The total area of the apartment is 160 square feet, and the living room is as big as 3 of the other rooms. So the remaining 5 rooms must take up the remaining area.
+6) The remaining area is 160 square feet - (3 x the size of the other rooms).
+7) Let's call the size of the other rooms 'x'. Then the remaining area is 160 - (3x).
+8) Since there are 5 rooms of size 'x', the total area of those 5 rooms is 5x.
+9) So we have the equation: 160 - 3x = 5x
+10) Solving for x, we get x = 16 square feet.
+11) Since the living room is as big as 3 of the other rooms, the size of the living room is 3 x 16 = 48 square feet.
+
+Answer: 48 square feet.

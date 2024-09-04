@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+Susy's followers:
+* Start of year: 100 followers
+* Week 1: Gained 40 new followers, so now has 100 + 40 = 140 followers
+* Week 2: Gained half of 40, which is 20 new followers, so now has 140 + 20 = 160 followers
+* Week 3: Gained half of 20, which is 10 new followers, so now has 160 + 10 = 170 followers
+
+Sarah's followers:
+* Start of year: 50 followers
+* Week 1: Gained 90 new followers, so now has 50 + 90 = 140 followers
+* Week 2: Gained a third of 90, which is 30 new followers, so now has 140 + 30 = 170 followers
+* Week 3: Gained a third of 30, which is 10 new followers, so now has 170 + 10 = 180 followers
+
+After three weeks, the girl with the most total followers is Sarah, with 180 followers.
+
+Answer: 180

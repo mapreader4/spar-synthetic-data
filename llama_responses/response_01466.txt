@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start with the first dog. This dog barks 30 times per minute, so in 10 minutes, it will bark 30 * 10 = 300 times.
+
+Now, let's add the barking of the second dog. This dog also barks 30 times per minute, so in 10 minutes, it will bark 30 * 10 = 300 times.
+
+Now, let's add the total number of times both dogs have barked. 300 + 300 = 600.
+
+Answer: 600

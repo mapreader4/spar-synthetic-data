@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of strawberries Susan can pick without eating any. This is simply the total number of strawberries in the basket, which is 60.
+
+Now, for each handful of 5 strawberries, she eats one. So, for every 5 strawberries she eats 1, that's a total of 1 strawberry. So, to find the total number of strawberries she can pick before eating any, we need to divide the total number of strawberries (60) by 5, and then subtract 1 for each handful.
+
+60 ÷ 5 = 12
+
+Subtract 1 from 12, because she eats 1 strawberry for each handful, and we get:
+
+12 - 1 = 11
+
+So, Susan will pick 11 strawberries before she fills her basket.

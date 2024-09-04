@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) Bill needs to stock 60 pots.
+2) On each shelf, he can stack 5 pots vertically.
+3) On each shelf, he can have 3 sets of vertically stacked pots side-by-side.
+4) So each shelf can hold 5 * 3 = 15 pots.
+5) To calculate the number of shelves needed, we divide the total number of pots (60) by the number of pots per shelf (15):
+60 / 15 = 4 shelves.
+
+Answer: 4

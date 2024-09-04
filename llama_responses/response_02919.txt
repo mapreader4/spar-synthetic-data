@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of classes offered by the Diving Club in a week. There are 5 weekdays, which are Monday to Friday, and 2 beginning classes per day. So, the total number of classes offered on weekdays is 5 * 2 = 10 classes.
+
+On the weekend, there are 2 days, Saturday and Sunday, with 4 beginning classes per day. So, the total number of classes offered on the weekend is 2 * 4 = 8 classes.
+
+In total, the Diving Club offers 10 classes on weekdays and 8 classes on the weekend. To find the total number of classes, we add the two together: 10 + 8 = 18 classes.
+
+Now, the problem asks how many people can take classes in 3 weeks. Each class has room for 5 people. So, we need to divide the total number of classes by the number of people per class to find the total number of people who can take classes. 18 classes / 5 people per class = 3.6.
+
+So, the answer is:
+
+Answer: 3.6

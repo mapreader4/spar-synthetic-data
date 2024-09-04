@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The pool is rectangular, with dimensions of 10 feet long, 8 feet wide, and 6 feet deep.
+2) To calculate the volume of the pool, we multiply the length, width, and depth:
+   Volume = 10 feet x 8 feet x 6 feet = 480 cubic feet
+3) Gary needs to buy 1 quart of chlorine for every 120 cubic feet of water in the pool.
+4) To calculate the number of quarts of chlorine needed, we divide the total volume of the pool by 120:
+   Number of quarts = 480 cubic feet / 120 cubic feet per quart = 4 quarts
+5) Chlorine costs $3 per quart.
+6) To calculate the total cost, we multiply the number of quarts by the cost per quart:
+   Total cost = 4 quarts x $3 per quart = $12
+
+Answer: $12

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Steve starts with $100 in his bank account.
+2) The account earns 10% interest every year.
+3) He puts an additional $10 into the account each year.
+4) After the first year, the account balance is:
+   - Initial balance: $100
+   - Interest earned: 10% of $100 = $10
+   - Additional deposit: $10
+   - New balance: $100 + $10 + $10 = $120
+5) After the second year, the account balance is:
+   - Initial balance: $120
+   - Interest earned: 10% of $120 = $12
+   - Additional deposit: $10
+   - New balance: $120 + $12 + $10 = $142
+
+Answer: $142

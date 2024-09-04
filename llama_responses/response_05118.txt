@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of marigolds sold on the first day: 14.
+
+Then, on the second day, 25 more marigolds were sold. So, the total number of marigolds sold on the first two days is 14 + 25 = 39.
+
+On the third day, the center sold two times the number of marigolds it did on the day before. The day before, it sold 39 marigolds. So, two times 39 is 78. So, the total number of marigolds sold on the third day is 78.
+
+To find the total number of marigolds sold during the sale, we add the marigolds sold on all three days: 14 + 39 + 78 = 131.
+
+Answer: 131

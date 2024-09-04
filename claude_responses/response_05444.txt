@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* On Monday, it rained 3 inches more than Sunday
+* Since it rained 4 inches on Sunday, it rained 4 + 3 = 7 inches on Monday
+* On Tuesday, it rained twice as much as Monday
+* Since it rained 7 inches on Monday, it rained 7 x 2 = 14 inches on Tuesday
+* To find the total rainfall over the 3 days, we add the rainfall from each day:
+* Sunday: 4 inches
+* Monday: 7 inches
+* Tuesday: 14 inches
+* Total rainfall = 4 + 7 + 14 = 25 inches
+
+Answer: 25

@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first find the total number of books sold:
+
+60 + 10 + 20 + 44 + 66 = 140
+
+So, 140 books were sold.
+
+Now, let's find the number of books left in the stock:
+
+800 - 140 = 660
+
+Answer: 660

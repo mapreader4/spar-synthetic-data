@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Betty buys 10 drinks at $2 each, so the total cost of the drinks is 10 * $2 = $20
+* Betty buys 5 cakes at $10 each, so the total cost of the cakes is 5 * $10 = $50
+* Betty buys 100 ice creams at $5 each, so the total cost of the ice creams is 100 * $5 = $500
+* To calculate the total amount Betty spends, we add up the costs of the drinks, cakes, and ice creams:
+$20 + $50 + $500 = $570
+
+Answer: 570

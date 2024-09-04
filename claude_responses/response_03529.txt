@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Total number of people who attended the game: 50
+* 40% of the audience are supporters of the first team
+* 34% of the audience are supporters of the second team
+
+First, let's calculate the number of supporters for the first team:
+* 40% of 50 people = 0.40 * 50 = 20 people
+
+Next, let's calculate the number of supporters for the second team:
+* 34% of 50 people = 0.34 * 50 = 17 people
+
+Now, to find the number of people who did not support either team, we need to subtract the number of supporters for each team from the total number of people:
+* 50 people - 20 supporters of first team - 17 supporters of second team = 13 people
+
+Answer: 13

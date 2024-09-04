@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Brady gets paid 70 cents for each recipe card he transcribes. So, if he transcribes x cards, he will get 0.7x cents.
+
+He also gets a 10 dollar bonus each time he transcribes 100 cards. So, he gets a 10 dollar bonus every time he transcribes 100 cards.
+
+If he transcribes 200 cards, that means he gets 2 times the 10 dollar bonus. So, he will get 2 x 10 = 20 dollars.
+
+In total, he will earn 0.7x cents for the cards, and 20 dollars for the bonus. So, the total amount he will earn is 0.7x + 20.
+
+We need to find the value of x. Let's say he transcribes 200 cards. Then, he will get 200 x 0.7 = 140 cents, and 20 dollars. So, his total earnings are 140 cents + 20 dollars = 160.
+
+Answer: 160

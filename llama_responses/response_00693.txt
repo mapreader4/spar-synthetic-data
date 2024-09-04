@@ -1,0 +1,3 @@
+Let's start by identifying the number of roses Ian gave to each person. Ian gave 6 roses to his mother, 9 roses to his grandmother, and 4 roses to his sister. The total number of roses given away is 6 + 9 + 4 = 19. To find the number of roses Ian kept, we subtract the total number of roses given away from the total number of roses Ian had initially. Ian had 20 roses initially, and 19 roses were given away, so the number of roses he kept is:
+
+Answer: 20 - 19 = 1

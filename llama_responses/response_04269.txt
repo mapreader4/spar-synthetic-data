@@ -1,0 +1,27 @@
+Let's break it down step by step.
+
+First, Timothy buys 30 acres of land for $20 an acre, so the cost of the land is:
+
+30 acres * $20 per acre = $600
+
+Next, he builds a house for $120,000.
+
+Next, he buys 20 cows for $1000 per cow, so the cost of the cows is:
+
+20 cows * $1000 per cow = $20,000
+
+He also buys 100 chickens for $5 per chicken, so the cost of the chickens is:
+
+100 chickens * $5 per chicken = $500
+
+The installation of the solar panels takes 6 hours and costs $100 per hour, so the labor cost is:
+
+6 hours * $100 per hour = $600
+
+The equipment cost is a flat fee of $6000.
+
+To find the total cost, we add up the costs:
+
+$600 (land) + $120,000 (house) + $20,000 (cows) + $500 (chickens) + $600 (labor) + $6000 (equipment) = $144,700
+
+Answer: 147700

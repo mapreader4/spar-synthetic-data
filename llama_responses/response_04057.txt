@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of nails Tickletoe has. If Violet has 3 times as many nails as Tickletoe, and Violet has 27 nails, then Tickletoe has 27 / 3 = 9 nails.
+
+Now, we need to find the total number of nails they have together. If Violet has 27 nails and Tickletoe has 9 nails, then together they have 27 + 9 = 36 nails.
+
+Answer: 36

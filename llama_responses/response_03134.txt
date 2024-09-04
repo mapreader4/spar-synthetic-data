@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of steps Toby walked in the first 4 days:
+
+9,400 + 9,100 + 8,300 + 9,200 + 8,900 = 36,700
+
+Toby wants to walk an average of 9,000 steps per day over 7 days, so the total number of steps he needs to walk over the 7 days is:
+
+9,000 * 7 = 63,000
+
+To find the number of steps Toby needs to walk on Friday and Saturday, we subtract the total steps he already walked in the first 4 days from the total steps he needs to walk over the 7 days:
+
+63,000 - 36,700 = 26,300
+
+So Toby needs to walk 26,300 steps on Friday and Saturday to meet his goal.

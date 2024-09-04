@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jean has a total number of spots on her fur coat
+* Half of the spots are located on her upper torso, which is 30 spots
+* One-third of the spots are located on her back and hindquarters
+* The remaining spots are located on her sides
+
+To find the number of spots on her sides, we need to first find the total number of spots, and then subtract the spots on her upper torso and back/hindquarters.
+
+Step 1: Find the total number of spots
+* Half of the spots are on her upper torso, which is 30 spots
+* This means the total number of spots is 2 x 30 = 60 spots
+
+Step 2: Find the number of spots on her back and hindquarters
+* One-third of the 60 total spots are on her back and hindquarters
+* 1/3 of 60 = 20 spots
+
+Step 3: Find the number of spots on her sides
+* The remaining spots are on her sides
+* Total spots (60) - spots on upper torso (30) - spots on back/hindquarters (20) = 10 spots
+
+Answer: 10 spots

@@ -1,0 +1,15 @@
+To solve this problem, I will break it down step by step.
+
+Let's start by finding the total number of peanuts in the jar. There were 148 peanuts initially.
+
+Next, we know that Brock ate one-fourth of the peanuts. To find one-fourth of 148, we can multiply 148 by one-fourth, which is the same as multiplying by 0.25. 148 x 0.25 = 37.
+
+So, Brock ate 37 peanuts.
+
+Now, we know that Bonita ate 29 peanuts.
+
+To find the number of peanuts remaining in the jar, we need to subtract the number of peanuts eaten by both Brock and Bonita from the total number of peanuts. So, we subtract 37 (peanuts eaten by Brock) and 29 (peanuts eaten by Bonita) from 148. This gives us:
+
+148 - 37 - 29 = 82
+
+Answer: 82

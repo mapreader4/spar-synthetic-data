@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. The number of episodes in all seasons is 9 + 1 = 10.
+2. The number of episodes in the last season is 4 episodes longer than the others, so it has 22 + 4 = 26 episodes.
+3. The total number of episodes is the sum of the episodes in all seasons, which is 10 + 26 = 36.
+4. Each episode is 0.5 hours, so the total time is the total number of episodes multiplied by the length of each episode, which is 36 * 0.5 = 18.
+
+Answer: 18

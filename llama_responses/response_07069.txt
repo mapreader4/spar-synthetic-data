@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+On Monday, it rained for 7 hours at a rate of 1 inch per hour, so the total rainfall for Monday is:
+
+7 hours * 1 inch per hour = 7 inches
+
+On Tuesday, it rained for 4 hours at a rate of 2 inches per hour, so the total rainfall for Tuesday is:
+
+4 hours * 2 inches per hour = 8 inches
+
+On Wednesday, it rained for 2 hours at a rate of 2 * 2 = 4 inches per hour, so the total rainfall for Wednesday is:
+
+2 hours * 4 inches per hour = 8 inches
+
+The total rainfall for the three days is the sum of the rainfall for each day:
+
+7 inches + 8 inches + 8 inches = 23 inches
+
+Answer: 23

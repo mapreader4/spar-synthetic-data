@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of jelly beans taken by each group of people.
+
+The first 6 people took twice as many jelly beans as the last 4 people. Since the last 4 people took 400 jelly beans, the first 6 people took 2 x 400 = 800 jelly beans.
+
+So, the total number of jelly beans taken by the first 6 people is 800.
+
+Now, we need to subtract the total number of jelly beans taken by the first 6 people from the total initial number of jelly beans, which is 8000.
+
+8000 - 800 = 7200
+
+Answer: 7200

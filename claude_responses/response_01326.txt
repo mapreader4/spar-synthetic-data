@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Gargamel bought 4 tires on sale for $75 each
+* He saved a total of $36 on the tires
+* We need to find the original price of each tire
+
+To find the original price of each tire, we need to first find the total amount Gargamel would have paid without the discount.
+
+The total amount Gargamel paid for the 4 tires on sale is:
+* 4 tires x $75 per tire = $300
+
+The total amount Gargamel would have paid without the discount is:
+* $300 + $36 (the total amount saved) = $336
+
+Now, to find the original price of each tire, we divide the total amount without the discount by the number of tires:
+* $336 / 4 tires = $84 per tire
+
+Therefore, the original price of each tire was $84.
+
+Answer: 84

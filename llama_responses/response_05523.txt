@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Joe starts with $240.
+2. He spends $50 each month on video games, so he will buy 240 / 50 = 4.8 games each month.
+3. He sells each game for $30, so he will sell 4.8 * 30 = 144 games each month.
+4. Since he sells 144 games, he will have 240 - 144 = 96 left.
+5. Since he spends $50 each month, he will be out of money after 240 / 50 = 4.8 months.
+
+Answer: 4

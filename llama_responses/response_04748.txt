@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say there was x dollars in the cookie jar initially.
+
+Doris spent $6, so the amount left is x - 6.
+
+Martha spent half as much as Doris, so Martha spent 6/2 = 3 dollars.
+
+So, the amount left in the cookie jar is x - 6 - 3 = x - 9.
+
+We know that there is $15 left in the cookie jar, so we can set up an equation:
+
+x - 9 = 15
+
+To solve for x, we can add 9 to both sides:
+
+x = 15 + 9
+
+x = 24
+
+So, there were $24 in the cookie jar initially.

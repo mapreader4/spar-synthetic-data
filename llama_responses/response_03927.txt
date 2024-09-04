@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Cindy can run at 3 miles per hour. If she runs for half a mile, that means she will cover a distance of 0.5 miles. It will take her 0.5/3 hours to run for that distance, which is 10 minutes.
+
+Cindy then walks at 1 mile per hour. If she walks for half a mile, that means she will cover a distance of 0.5 miles. It will take her 0.5/1 hours to walk for that distance, which is 30 minutes.
+
+Now, Cindy will run for 0.5 miles and then walk for 0.5 miles. This means she will have covered 1 mile. To find the total time taken, we add the time it takes her to run and walk, which is 10 minutes + 30 minutes, which is 40 minutes.
+
+Answer: 40

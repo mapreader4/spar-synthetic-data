@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first figure out the time it takes for Janet's boat to travel the width of the lake.
+
+The distance the lake is 60 miles wide, and Janet's speed is 30 miles per hour. To find the time it takes for Janet to travel the width of the lake, we can divide the distance by her speed:
+
+60 miles / 30 miles per hour = 2 hours
+
+So, it will take Janet 2 hours to travel the width of the lake.
+
+Now, let's figure out how long her sister will take to travel the same distance. The sister's speed is 12 miles per hour. To find the time it takes for her to travel the width of the lake, we can divide the distance by her speed:
+
+60 miles / 12 miles per hour = 5 hours
+
+So, it will take her sister 5 hours to travel the width of the lake.
+
+Now, we need to find the time when Janet and her sister will meet. To find this, we can add the time it takes for Janet to travel the lake to the time it takes for her sister to travel the lake:
+
+2 hours + 5 hours = 7 hours
+
+So, Janet will have to wait 7 hours for her sister to catch up.

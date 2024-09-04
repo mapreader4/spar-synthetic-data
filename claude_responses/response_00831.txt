@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Steve has 12 popsicle sticks
+* Sid has twice as many as Steve, so Sid has 2 x 12 = 24 popsicle sticks
+* Sam has thrice as many as Sid, so Sam has 3 x 24 = 72 popsicle sticks
+* To find the total number of popsicle sticks they can use for their Art class activity, we add up the number of sticks each person has:
+* Total popsicle sticks = Steve's sticks + Sid's sticks + Sam's sticks
+* Total popsicle sticks = 12 + 24 + 72 = 108
+
+Answer: 108

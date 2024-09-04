@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say there were 500 salmon initially in the river.
+
+Since the number of salmon in the river has increased by ten times the number initially in the river, we need to multiply the initial number by 10.
+
+500 * 10 = 5000
+
+So, the total number of salmon in the river now is 5000.

@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the given information: the final score is 37-23, and a touchdown is worth 7 points and a field goal is worth 3 points.
+
+Let's say the Seattle Seahawks scored x touchdowns and y field goals. The total points for the touchdowns would be 7x, and the total points for the field goals would be 3y. The total points scored would be 7x + 3y.
+
+We know that the total points scored by the Seattle Seahawks is 37, so we can set up an equation:
+
+7x + 3y = 37
+
+We can subtract 23 from both sides of the equation to get:
+
+7x + 3y = 37 - 23
+
+We can then subtract 23 from both sides of the equation to get:
+
+7x = 14
+
+So, the Seattle Seahawks scored 14 touchdowns.
+
+Answer: 14

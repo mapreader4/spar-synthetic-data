@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+
+1. Mac is trading 3 dimes for a quarter, which means he is getting 1 quarter for 30 cents (3 dimes).
+2. He trades for 20 quarters with dimes, so he spent 20 * 30 cents = 600 cents on those quarters.
+3. Mac is also trading 7 nickels for a quarter, which means he is getting 1 quarter for 35 cents (7 nickels).
+4. He trades for 20 quarters with nickels, so he spent 20 * 35 cents = 700 cents on those quarters.
+5. The total amount of money Mac spent is 600 cents + 700 cents = 1300 cents.
+6. 1300 cents is equal to $13.
+
+Now, let's calculate how much the 40 quarters (20 with dimes and 20 with nickels) are worth:
+* 40 quarters = 40 * 25 cents = 1000 cents
+* 1000 cents is equal to $10.
+
+The amount of money Mac lost is the difference between the amount he spent and the value of the quarters he received:
+* $13 - $10 = $3
+
+Answer: $3

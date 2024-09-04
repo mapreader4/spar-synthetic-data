@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the types of apples: there are 23 kg of kidney apples and 37 kg of golden apples.
+
+Next, let's find out how many apples were sold. 36 kg of apples were sold. This is the total amount of apples that were sold.
+
+Now, let's find the total amount of apples that are left. We can find this by subtracting the amount of apples that were sold from the total amount of apples. 23 kg of kidney apples + 37 kg of golden apples. 
+
+So, the total amount of apples that are left is 23 kg + 37 kg - 36 kg = 24 kg.
+
+Answer: 24

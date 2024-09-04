@@ -1,0 +1,5 @@
+Let's start by using the information given that a rectangular table seats 10 pupils. Since we are told that the remaining tables are square tables, we can find the number of square tables needed by dividing the total number of pupils by the number of pupils each table can seat.
+
+The total number of pupils is 90. Since a square table seats 4 pupils, we can divide 90 by 4 to find the number of square tables needed. 90 divided by 4 is 22.75. But since we cannot have a fraction of a table, we round down to the nearest whole number, which is 22.
+
+So, the number of square tables needed is 22.

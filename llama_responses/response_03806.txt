@@ -1,0 +1,23 @@
+Let's break it down step by step.
+
+Let's let the cost of one jellyfish be x. Since the cost of one eel is nine times that amount, the cost of one eel is 9x.
+
+The total cost of one order of jellyfish and one order of eel is $200. So, the equation is:
+
+x + 9x = 200
+
+We can solve for x, the cost of one jellyfish, by subtracting 9x from both sides of the equation:
+
+x + 9x = 200 - 9x = 200 - 9x
+
+This simplifies to:
+
+x = 200/10
+
+x = 20
+
+So, the cost of one jellyfish is $20.
+
+Since the cost of one eel is nine times that amount, the cost of one eel is 9 * 20 = 180.
+
+Answer: 180

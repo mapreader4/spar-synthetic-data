@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Nancy eats Indian food 3 times a week, which means she eats Indian food 3 x 7 = 21 times in a month. She eats Mexican food 2 times a week, which means she eats Mexican food 2 x 4 = 8 times in a month. She eats antacids 1 time a day otherwise, which means she eats antacids 7 - 21 - 8 = 7 times in a month when she doesn't eat Indian or Mexican food. So, in total, Nancy takes 21 + 8 + 7 = 36 antacids in a month.
+
+Answer: 36

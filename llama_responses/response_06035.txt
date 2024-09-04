@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the cost per kilogram. For a 3-5 kilograms cargo, the cost is $2.50, and for a 6-8 kilograms cargo, the cost is $4. So, the cost per kilogram is (2.50 / 3) = $0.83 for the smaller weight range, and (4 / 6) = $0.67 for the larger weight range.
+
+Now, let's find the total cost for one day. Cherry delivers 4 5-kilogram cargo, which is 4 x (0.83) = $3.32. She also delivers 2 8-kilogram cargo, which is 2 x (0.67) = $1.34. So, the total cost for one day is 3.32 + 1.34 = $4.66.
+
+In a week, she delivers for 7 days. So, the total cost for a week is 7 x 4.66 = $32.62.
+
+Answer: 32.62

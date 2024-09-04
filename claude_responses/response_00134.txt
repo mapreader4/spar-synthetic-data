@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The regular ticket costs $109
+* Children below 12 years old have a $5 discount
+* The couple has 2 children, ages 6 and 10 years old
+* They gave the cashier $500
+
+First, let's calculate the cost of the tickets:
+* 2 adult tickets at $109 each = $218
+* 2 child tickets at $109 - $5 = $104 each = $208
+* Total cost of tickets = $218 + $208 = $426
+
+Now, let's calculate the change they will receive:
+* They gave the cashier $500
+* The total cost of the tickets is $426
+* The change they will receive is $500 - $426 = $74
+
+Answer: $74

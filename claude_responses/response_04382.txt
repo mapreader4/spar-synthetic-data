@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 10 rows of roses
+* In each row, there are 20 roses
+* 1/2 of the 20 roses in each row are red
+* So, 1/2 of 20 = 10 red roses per row
+* That leaves 20 - 10 = 10 non-red roses per row
+* 3/5 of the 10 non-red roses per row are white
+* 3/5 of 10 = 6 white roses per row
+* That leaves 10 - 6 = 4 pink roses per row
+* Since there are 10 rows, the total number of pink roses is:
+* 4 pink roses per row x 10 rows = 40 pink roses
+
+Answer: 40

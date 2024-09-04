@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The cattle breeder has 52 dairy cows.
+
+Step 2: Each cow gives 1000 oz of milk per day.
+
+Step 3: To find the amount of milk produced per day, we multiply the number of cows by the amount of milk each cow gives per day.
+
+52 cows * 1000 oz/cow = 52000 oz
+
+Answer: 52000

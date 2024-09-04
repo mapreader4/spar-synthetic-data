@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Dustin can read 75 pages in an hour, which means that his reading rate is 75 pages per hour. Sam can read 24 pages in an hour, which means that his reading rate is 24 pages per hour.
+
+To find the number of pages Dustin reads in 40 minutes, we need to convert the time from minutes to hours. There are 60 minutes in an hour, so 40 minutes is 40/60 = 2/3 of an hour. Since Dustin can read 75 pages in 1 hour, he can read 75 * 2/3 = 50 pages in 40 minutes.
+
+To find the difference in the number of pages read by Dustin and Sam, we subtract the number of pages read by Sam (24) from the number of pages read by Dustin (50): 50 - 24 = 26.
+
+Answer: 26

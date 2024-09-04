@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+Day 1:
+* James visits 20 houses
+* He makes a sale in every house
+* So, he sold 20 items on Day 1
+
+Day 2:
+* James visits twice as many houses as Day 1, which is 40 houses
+* He sold to 80% of the houses
+* 80% of 40 houses = 32 houses
+* He sold 2 items at each of the 32 houses
+* So, he sold 32 x 2 = 64 items on Day 2
+
+Total items sold:
+* Day 1: 20 items
+* Day 2: 64 items
+* Total items sold = 20 + 64 = 84 items
+
+Answer: 84

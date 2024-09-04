@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of socks that are white. We know that two thirds of the socks are white. So, we need to find two-thirds of the total number of socks.
+
+To do this, we can multiply the total number of socks by two-thirds.
+
+The total number of socks is 180. Two-thirds of 180 is 2/3 * 180 = 120.
+
+Now, we know that the rest of the socks are blue. So, we need to subtract the number of white socks from the total number of socks to find the number of blue socks.
+
+The number of white socks is 120. The number of blue socks is 180 - 120 = 60.
+
+So, the answer is:
+
+Answer: 60

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Sally reads 10 pages on weekdays
+* Sally reads 20 pages on weekends
+* It takes 2 weeks for Sally to finish the book
+
+In 1 week, Sally reads:
+* 5 weekdays x 10 pages = 50 pages
+* 2 weekend days x 20 pages = 40 pages
+* Total in 1 week = 50 + 40 = 90 pages
+
+Since it takes 2 weeks for Sally to finish the book, the total number of pages in the book is:
+* 90 pages per week x 2 weeks = 180 pages
+
+Answer: 180

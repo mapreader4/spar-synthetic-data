@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The first hibiscus plant has 2 flowers.
+The second hibiscus plant has twice as many flowers as the first hibiscus plant, which is 2 * 2 = 4 flowers.
+The third hibiscus plant has four times as many flowers as the second hibiscus plant, which is 4 * 4 = 16 flowers.
+
+To find the total number of blossoms, we add the number of flowers from each plant:
+
+2 + 4 + 16 = 22
+
+Answer: 22

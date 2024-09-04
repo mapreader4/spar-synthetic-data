@@ -1,0 +1,24 @@
+Let's break down the costs:
+
+* Dog food: $20.00
+* 2 bags of treats: 2 x $2.50 = $5.00
+* Assortment box of toys: $15.00
+* Crate: $20.00
+* Bed: $20.00
+* Collar/leash combo: $15.00
+
+Total cost before discount: $20.00 + $5.00 + $15.00 + $20.00 + $20.00 + $15.00 = $95.00
+
+Since Julia gets a 20% new-customer discount, she will receive a discount of:
+
+$95.00 x 0.20 = $19.00
+
+The total cost after discount is:
+
+$95.00 - $19.00 = $76.00
+
+Adding the initial cost of the puppy, Julia will spend:
+
+$20.00 + $76.00 = $96.00
+
+Answer: 96

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Find the original area of the bathroom.
+
+The size of the bathroom is 96 sq ft. Since it's a square, the length of each side is the square root of the area, which is the square root of 96, which is 4.
+
+Step 2: Find the new length of the bathroom.
+
+The width of the bathroom is 8 feet. The owner wants to extend it by 2 feet on each side, so the new length of the bathroom is 8 + 2 + 2 = 12 feet.
+
+Step 3: Find the new area of the bathroom.
+
+The new length of the bathroom is 12 feet, so the area is now 12 * 12 = 144 sq ft.
+
+Answer: 144

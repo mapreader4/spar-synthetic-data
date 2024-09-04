@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Tom's car gets 50 miles per gallon.
+2) Tom drives 75 miles per day.
+3) Gas costs $3 per gallon.
+4) We want to find how much Tom spends on gas in 10 days.
+To calculate this, we need to find how many gallons of gas Tom uses in 10 days.
+* Tom drives 75 miles per day.
+* In 10 days, he will drive 75 miles x 10 days = 750 miles.
+* Since his car gets 50 miles per gallon, he will use 750 miles / 50 miles per gallon = 15 gallons of gas.
+* At $3 per gallon, 15 gallons of gas will cost 15 gallons x $3 per gallon = $45.
+
+Answer: $45

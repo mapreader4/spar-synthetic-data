@@ -1,0 +1,17 @@
+Okay, let's solve this step-by-step:
+* The total average age of the three friends is 40.
+* Jared is 10 years older than Hakimi.
+* Molly's age is 30.
+
+Let's call Hakimi's age 'x'.
+* Jared's age = x + 10
+* Molly's age = 30
+* Total age = x + (x + 10) + 30 = 3 * 40 = 120
+* Solving for x, we get:
+* 2x + 40 = 120
+* 2x = 80
+* x = 40
+
+Therefore, Hakimi's age is 40.
+
+Answer: 40

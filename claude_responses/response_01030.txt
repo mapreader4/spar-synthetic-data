@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The water cooler initially contains 3 gallons of water.
+2) Each Dixie cup holds 6 ounces of water.
+3) There are 5 rows of meeting chairs, with 10 chairs in each row, so a total of 50 chairs.
+4) Bill fills one cup of water per each meeting chair.
+5) To find the total number of ounces of water needed to fill all the cups, we multiply the number of chairs (50) by the ounces per cup (6):
+50 chairs x 6 ounces/cup = 300 ounces of water needed.
+6) We know that the water cooler initially contains 3 gallons of water, and there are 128 ounces in a gallon, so the initial amount of water in the cooler is:
+3 gallons x 128 ounces/gallon = 384 ounces.
+7) To find the amount of water left in the cooler after all the cups have been filled, we subtract the amount of water needed (300 ounces) from the initial amount of water (384 ounces):
+384 ounces - 300 ounces = 84 ounces.
+
+Answer: 84

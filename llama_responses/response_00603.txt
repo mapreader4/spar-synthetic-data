@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+We know that Alyssa collected 30 empty cans and Abigail collected 43 empty cans. To find the number of empty cans they need to collect, we need to find the difference between the total number of cans they need (100) and the number of cans they have already collected (30 + 43).
+
+To do this, we can add the number of cans Alyssa collected to the number of cans Abigail collected: 30 + 43 = 73.
+
+Then, we can subtract this total from the number of cans they need to collect: 100 - 73 = 27.
+
+So, they need to collect 27 more empty cans.

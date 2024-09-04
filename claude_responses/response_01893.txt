@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) James gets paid $0.50 per mile for driving the truck.
+2) The trip is 600 miles long.
+3) So, the total amount James gets paid for the trip is:
+   * 600 miles x $0.50/mile = $300
+4) The truck gets 20 miles per gallon, so for a 600 mile trip, James will need to use:
+   * 600 miles / 20 miles per gallon = 30 gallons of gas
+5) Gas costs $4.00 per gallon, so the total cost of gas for the trip is:
+   * 30 gallons x $4.00/gallon = $120
+6) To calculate the profit, we take the total amount paid ($300) and subtract the cost of gas ($120):
+   * $300 - $120 = $180
+
+Answer: $180

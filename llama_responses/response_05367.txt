@@ -1,0 +1,17 @@
+Let's break down the problem step by step:
+
+1. Kate has to fill 52 balloons, each holding 5 gallons of air. So, the total amount of air she needs to fill is 52 x 5 = 260 gallons of air.
+
+2. For the first 10 minutes, she fills the balloons at a rate of 8 gallons of air per minute. So, in 10 minutes, she fills 10 x 8 = 80 gallons of air.
+
+3. For the next 5 minutes, she fills the balloons at half the rate, which is 8 / 2 = 4 gallons of air per minute. So, in 5 minutes, she fills 5 x 4 = 20 gallons of air.
+
+4. The total amount of air filled in the first 15 minutes is 80 + 20 = 100 gallons.
+
+5. She has 260 - 100 = 160 gallons of air left to fill.
+
+6. She fills the rest of the balloons at a rate of 2 gallons of air per minute. So, to fill the remaining 160 gallons, it will take 160 / 2 = 80 minutes.
+
+7. Therefore, it will take Kate 10 + 5 + 80 = 95 minutes to fill all the balloons.
+
+Answer: 95

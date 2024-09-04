@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Mark has a bag of 10 dice, and 60% of them are 12-sided.
+   * 60% of 10 dice = 0.6 * 10 = 6 dice that are 12-sided
+
+2. James has a bag of 8 dice, and 75% of them are 12-sided.
+   * 75% of 8 dice = 0.75 * 8 = 6 dice that are 12-sided
+
+3. The total number of 12-sided dice they have is:
+   * Mark's 12-sided dice: 6
+   * James' 12-sided dice: 6
+   * Total 12-sided dice: 6 + 6 = 12
+
+4. They need a total of 14 12-sided dice to play their game.
+   * Dice they need to buy: 14 - 12 = 2
+
+Answer: 2

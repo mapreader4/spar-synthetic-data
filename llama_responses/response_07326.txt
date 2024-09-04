@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of guppies that Jason's moray eel eats in a day. The moray eel eats 20 guppies a day, so that is the total number of guppies eaten in a day.
+
+Now, let's consider the number of betta fish. Each betta fish eats 7 guppies a day, so we need to multiply the number of betta fish by the number of guppies they eat. There are 5 betta fish, so the total number of guppies eaten by the betta fish is 5 x 7 = 35.
+
+Finally, we need to add the number of guppies eaten by the moray eel to the number of guppies eaten by the betta fish. This is because both the moray eel and the betta fish eat the same type of food, so we can add the numbers together. The total number of guppies Jason needs to buy is 20 + 35 = 55.
+
+Answer: 55

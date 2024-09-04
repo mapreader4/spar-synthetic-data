@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The tree initially had 340 leaves.
+2) Over the first four days, the tree drops a tenth of its initial quantity of leaves each day.
+   * Day 1: 340 * 0.1 = 34 leaves dropped
+   * Day 2: 340 * 0.1 = 34 leaves dropped
+   * Day 3: 340 * 0.1 = 34 leaves dropped
+   * Day 4: 340 * 0.1 = 34 leaves dropped
+3) The total number of leaves dropped over the first four days is:
+   * 34 + 34 + 34 + 34 = 136 leaves
+4) On the fifth day, the tree drops the remaining leaves.
+   * The initial quantity of leaves was 340.
+   * The number of leaves dropped over the first four days was 136.
+   * Therefore, the number of leaves dropped on the fifth day is:
+     * 340 - 136 = 204 leaves
+
+Answer: 204 leaves

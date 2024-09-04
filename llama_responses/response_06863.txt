@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: If each tree produces 4 logs, and each log is chopped into 5 pieces of firewood, then the total number of pieces of firewood produced by a single tree is 4 * 5 = 20.
+
+Step 2: The lumberjack has chopped 500 pieces of firewood. To find out how many trees he chopped, we need to divide the total number of pieces of firewood by the number of pieces of firewood produced by a single tree.
+
+Answer: 500 ÷ 20 = 25.
+
+So, the lumberjack chopped 25 trees.

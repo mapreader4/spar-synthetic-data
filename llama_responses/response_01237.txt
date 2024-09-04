@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of money raised. The total amount of money raised is $100.
+
+The total amount of money raised is for SUVs and trucks. Since 5 SUVs and 5 trucks were washed, the total amount of money raised for SUVs is 5 x 7 = $35, and the total amount of money raised for trucks is 5 x 6 = $30. The total amount of money raised for SUVs and trucks is $35 + $30 = $65.
+
+The total amount of money raised is $100, so the total amount of money raised for cars must be $100 - $65 = $35.
+
+So, the number of cars washed is 35.

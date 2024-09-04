@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Kim buys 3 pizzas
+* Each pizza has 12 slices
+* The total cost of the 3 pizzas is $72
+
+First, we need to find the cost per pizza:
+* Total cost of 3 pizzas = $72
+* Cost per pizza = $72 / 3 = $24
+
+Next, we need to find the cost per slice:
+* Each pizza has 12 slices
+* Total number of slices = 3 pizzas x 12 slices per pizza = 36 slices
+* Cost per slice = $72 / 36 slices = $2 per slice
+
+Finally, to find the cost of 5 slices:
+* Cost of 5 slices = 5 slices x $2 per slice = $10
+
+Answer: $10

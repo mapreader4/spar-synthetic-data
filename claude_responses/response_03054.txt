@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) John has 10 members of his family on his father's side.
+2) His mother's side is 30% larger than his father's side.
+3) To calculate the number of members on his mother's side, we take the number on his father's side (10) and increase it by 30%:
+   10 + (10 * 0.30) = 10 + 3 = 13 members on his mother's side.
+4) To get the total number of people, we add the members on his father's side (10) and the members on his mother's side (13):
+   10 + 13 = 23 people in total.
+
+Answer: 23

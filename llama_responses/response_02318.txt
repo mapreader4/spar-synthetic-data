@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's first calculate the time it takes to dry a short-haired dog like a beagle. It takes 10 minutes. 
+
+Now, let's calculate the time it takes to dry a full-haired, fluffy dog like a german shepherd. It takes twice as long, so it takes 10 * 2 = 20 minutes.
+
+Now, we have 6 short-haired dogs and 9 full-haired dogs. The total number of dogs is 6 + 9 = 15 dogs.
+
+To dry 6 short-haired dogs, it takes 10 minutes. To dry 9 full-haired dogs, it takes 20 minutes. So, the total time it takes to dry all the dogs is the sum of these two times: 10 + 20 = 30 minutes.
+
+To convert the minutes to hours, we divide by 60: 30 ÷ 60 = 0.5 hours.
+
+So, the answer is:
+
+Answer: 0.5

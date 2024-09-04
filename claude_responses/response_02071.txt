@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jackie can do 5 push-ups in 10 seconds
+* This means she can do 50 push-ups in 1 minute (60 seconds)
+* However, she takes two 8-second breaks during that minute
+* This means she is actively doing push-ups for 44 seconds (60 seconds - 8 seconds - 8 seconds)
+* In 44 seconds, she can do (44/10) * 5 = 22 push-ups
+* Therefore, the number of push-ups Jackie can do in one minute with two 8-second breaks is 22 push-ups.
+
+Answer: 22

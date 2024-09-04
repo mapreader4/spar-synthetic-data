@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The device records the temperature every 5 seconds.
+2. The total time period is 1 hour = 60 minutes = 60 * 60 seconds = 3600 seconds.
+3. Since the device records the temperature every 5 seconds, the total number of instances of data recorded will be the total time divided by 5.
+4. 3600 seconds ÷ 5 = 720.
+
+Answer: 720

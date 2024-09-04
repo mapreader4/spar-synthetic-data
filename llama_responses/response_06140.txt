@@ -1,0 +1,14 @@
+Let's break down the information step by step:
+
+1. Michael's favorite movie is x hours long.
+2. Joyce's favorite movie is 2 hours longer than Michael's movie, so Joyce's favorite movie is x + 2 hours long.
+3. Nikki's movie is three times as long as Michael's movie, so Nikki's favorite movie is 3x long.
+4. Ryn's favorite movie is 4/5 times as long as Nikki's favorite movie, so Ryn's favorite movie is 3x * 4/5 = 12/5 = 2.4 times as long as Nikki's favorite movie.
+5. Nikki's favorite movie is 30 hours long, so 3x = 30, so x = 10.
+6. We know that Joyce's favorite movie is x + 2 = 12 hours long.
+7. Therefore, we can substitute x with 10 to find the total number of hours of their favorite movies together:
+
+x + 2 = 12
+10 + 2 = 12
+
+So, the total number of hours of their favorite movies together is 12 hours.

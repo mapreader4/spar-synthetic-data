@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Sue initially borrowed 15 books and 6 movies. She returned 8 books. So, she has 15 - 8 = 7 books left.
+
+Then, she returned a third of the movies to the library. A third of 6 movies is 6 / 3 = 2 movies. So, she returned 2 movies.
+
+Then, she checked out 9 more books. So, she has 7 books and 2 movies.
+
+In total, Sue has 7 + 2 = 9 books and movies.
+
+Answer: 9

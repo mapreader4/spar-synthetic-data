@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Joel had 18 stuffed animals, 42 action figures, 2 board games, and 13 puzzles, which is a total of 75 toys. His sister gave him some of her old toys, and then Joel added twice as many toys from his own closet as his sister did from hers.
+
+Let's say his sister gave him x toys. Then, Joel added 2x toys from his own closet. Since his sister gave him x toys, and he added 2x toys from his own closet, the total number of toys Joel added is 3x.
+
+Since the total number of toys Joel donated is 108, we can set up the equation:
+
+x + 3x = 108
+
+We can solve for x by subtracting 108 by 3 from both sides:
+
+x + 3x = 108
+x + 3x - 3x = 108 - 3x
+x = 108 - 3x
+x = 36
+
+So, Joel donated 36 of the toys.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that the answer to the first math problem is 600.
+
+The second math problem has an answer that is twice as big as the answer of the first math problem. So, the answer to the second math problem is 2 * 600 = 1200.
+
+The third math problem has an answer that is 400 less than the combined total answers of the first and the second math problems. The combined total answers of the first and second math problems is 600 + 1200 = 1800. 1800 - 400 = 1400.
+
+So, the total of August's answers from solving the three math problems on his calculator is 600 + 1200 + 1400 = 3200.
+
+Answer: 3200

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Blake needs 4 ounces of milk and 12 ounces of ice cream for each milkshake
+* He has 72 ounces of milk and 192 ounces of ice cream
+* To find the maximum number of milkshakes he can make, we need to determine the limiting ingredient
+* For the milk, he has 72 ounces and needs 4 ounces per milkshake, so he can make 72 / 4 = 18 milkshakes
+* For the ice cream, he has 192 ounces and needs 12 ounces per milkshake, so he can make 192 / 12 = 16 milkshakes
+* The limiting ingredient is the ice cream, so he can make 16 milkshakes
+* Now, to find the amount of milk left over, we take the total milk (72 ounces) and subtract the amount of milk used for the 16 milkshakes (16 * 4 = 64 ounces)
+* 72 ounces - 64 ounces = 8 ounces of milk left over
+
+Answer: 8

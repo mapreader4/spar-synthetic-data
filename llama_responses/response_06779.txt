@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Mandy has 3 $20 bills, and Manny has 2 $50 bills. We need to find the number of $10 bills in each of their bills. Since $20 = 2 $10 bills, Mandy has 3 * 2 = 6 $10 bills. Manny has 2 $50 bills, and we need to find the number of $10 bills in that. $50 = 5 $10 bills. So, Manny has 5 $10 bills.
+
+To find out how many more $10 bills Manny has than Mandy, we need to subtract the number of $10 bills Mandy has from the number of $10 bills Manny has. 5 - 6 = -1.
+
+Answer: -1.

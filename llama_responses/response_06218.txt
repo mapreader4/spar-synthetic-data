@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's first find the total cost of the lollipops. 4 lollipops cost 4 * $2 = $8. So, the total cost of the lollipops is $8.
+
+Next, let's find the total cost of the chocolate. Since each pack of chocolate costs the same as 4 lollipops, and there are 6 packs, the total cost of the chocolate is 6 * 4 * $2 = $24. So, the total cost of the chocolate is $24.
+
+The total cost of the lollipop and chocolate is the sum of the cost of the lollipop and the cost of the chocolate, which is $8 + $24 = $32.
+
+Now, if Blake gave the cashier 6 $10 bills, we need to find the change. To do this, we subtract the total cost of the lollipop and chocolate from the $60 given, which is $60 - $32 = $28.
+
+So, the change is $28.
+
+Answer: 28

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Total number of flowers: 96
+* There are 4 colors of flowers: green, red, blue, and yellow
+* There are 9 green flowers
+* There are three times more red flowers than green flowers, so there are 3 x 9 = 27 red flowers
+* Blue flowers make up 50% of the total flower count, which means there are 96 x 0.5 = 48 blue flowers
+* To find the number of yellow flowers, we need to subtract the number of green, red, and blue flowers from the total number of flowers:
+* Total flowers - (green + red + blue) = yellow flowers
+* 96 - (9 + 27 + 48) = 12 yellow flowers
+
+Answer: 12

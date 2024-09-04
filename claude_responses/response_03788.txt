@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On day one, Mabel counted 15 fish
+* Of those 15 fish, 25% are sharks and 75% are another type of fish
+* To find the number of sharks on day one, we take 25% of 15:
+* 25% of 15 = 0.25 * 15 = 3.75 sharks
+* Since we can't have a fractional number of sharks, we round down to 3 sharks on day one
+* On day two, Mabel counted three times as many fish as on day one, which is 3 * 15 = 45 fish
+* Again, 25% of those 45 fish are sharks, so the number of sharks on day two is:
+* 25% of 45 = 0.25 * 45 = 11.25 sharks
+* Rounding down, that's 11 sharks on day two
+* To find the total number of sharks counted over the two days, we add the sharks from each day:
+* 3 sharks on day one + 11 sharks on day two = 14 sharks
+
+Answer: 14

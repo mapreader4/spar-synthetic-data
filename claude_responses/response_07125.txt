@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Pete owes $90 on the bike
+* He has two $20 bills, which is $40
+* He has four $10 bills, which is $40
+* So the total amount of cash he has is $40 + $40 = $80
+* He is still short $90 - $80 = $10
+* The store pays 50 cents for each bottle
+* To get the $10 he needs, he will have to return enough bottles to get $10
+* To calculate the number of bottles, we divide $10 by 50 cents per bottle
+* $10 / $0.50 = 20 bottles
+
+Answer: 20

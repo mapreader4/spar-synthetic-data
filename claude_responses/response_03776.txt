@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* Julia has a parrot and a rabbit
+* She buys food for both animals for $30 in total per week
+* She has the rabbit for 5 weeks
+* She has the parrot for 3 weeks
+* The weekly cost of the rabbit food is $12
+
+First, let's calculate the total cost of the rabbit food:
+* Rabbit food cost per week: $12
+* Rabbit food cost for 5 weeks: $12 x 5 = $60
+
+Now, let's calculate the total cost of the parrot food:
+* Total food cost per week: $30
+* Rabbit food cost per week: $12
+* Parrot food cost per week: $30 - $12 = $18
+* Parrot food cost for 3 weeks: $18 x 3 = $54
+
+Finally, we can add the total cost of the rabbit food and the parrot food to get the total amount Julia has already spent on food for her animals:
+* Total cost = Rabbit food cost + Parrot food cost
+* Total cost = $60 + $54 = $114
+
+Answer: $114

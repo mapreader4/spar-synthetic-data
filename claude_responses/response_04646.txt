@@ -1,0 +1,17 @@
+To solve this problem, we need to find the additional passing yards Tom Brady needs to beat the current record, and then divide that by the number of games remaining in the season.
+
+Given information:
+- The current passing yards record in a season is 5999 yards.
+- Tom Brady currently has 4200 yards with 6 games left in the season.
+
+Step 1: Calculate the additional passing yards Tom Brady needs to beat the record.
+Additional passing yards needed = Current record - Tom Brady's current yards
+Additional passing yards needed = 5999 - 4200 = 1799 yards
+
+Step 2: Calculate the average passing yards per game Tom Brady needs to beat the record.
+Average passing yards per game = Additional passing yards needed / Number of games remaining
+Average passing yards per game = 1799 / 6 = 299.83 yards
+
+Therefore, Tom Brady needs to average 299.83 passing yards per game to beat the current record.
+
+Answer: 300 yards

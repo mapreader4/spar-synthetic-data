@@ -1,0 +1,13 @@
+Let's start by finding the total number of dogs Harry walks in a week.
+
+Harry walks 7 dogs on Monday, Wednesday, and Friday, so that is 7 + 7 + 7 = 21 dogs.
+
+He walks 12 dogs on Tuesday, so that is 12 dogs.
+
+He walks 9 dogs on Thursday, so that is 9 dogs.
+
+The total number of dogs Harry walks in a week is 7 + 12 + 9 = 28 dogs.
+
+Harry is paid 5 dollars for each dog that he walks, so he is paid 5 x 28 = 140 dollars in a week.
+
+Answer: 140

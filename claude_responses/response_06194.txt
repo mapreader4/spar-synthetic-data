@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 201 episodes of The Office
+* Matt and Blake watch 1 episode every Monday and 2 episodes every Wednesday each week
+* So, in a given week, they watch 1 + 2 = 3 episodes
+
+To calculate the number of weeks it will take them to watch the whole series, we need to divide the total number of episodes by the number of episodes they watch per week:
+* 201 episodes / 3 episodes per week = 67 weeks
+
+Therefore, it will take Matt and Blake 67 weeks to watch the entire series of The Office.
+
+Answer: 67

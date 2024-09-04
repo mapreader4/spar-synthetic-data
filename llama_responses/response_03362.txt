@@ -1,0 +1,10 @@
+Let's break this down step by step:
+
+1. The American swallow can lift 5 pounds.
+2. The European swallow can lift twice as much as the American swallow, which is 5 * 2 = 10 pounds.
+3. The flock contains 90 swallows, which is 45 American swallows and 45 European swallows.
+4. The European swallows can lift 10 pounds each, so 45 European swallows can carry a total of 45 * 10 = 450 pounds.
+5. The American swallows can lift 5 pounds each, so 45 American swallows can carry a total of 45 * 5 = 225 pounds.
+6. The combined maximum weight the flock can carry is the sum of the weights that the American and European swallows can lift, which is 450 + 225 = 675 pounds.
+
+Answer: 675

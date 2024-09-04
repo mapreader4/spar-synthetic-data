@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+First, the monkey runs for 5 seconds at a speed of 15 feet per second. To find the distance traveled while running, we multiply the speed by the time:
+
+Distance while running = Speed x Time = 15 feet/second x 5 seconds = 75 feet
+
+Next, the monkey swings for 10 seconds at a speed of 10 feet per second. To find the distance traveled while swinging, we multiply the speed by the time:
+
+Distance while swinging = Speed x Time = 10 feet/second x 10 seconds = 100 feet
+
+Now, we add the distances traveled while running and swinging to find the total distance traveled:
+
+Total distance = Distance while running + Distance while swinging = 75 feet + 100 feet = 175 feet
+
+Answer: 175

@@ -1,0 +1,26 @@
+Let's break this down step by step.
+
+Marnie eats 5 chips on the first day, leaving 100 - 5 = 95 chips left.
+
+On the second day, she eats 10 chips, so now there are 95 - 10 = 85 chips left.
+
+On the third day, she eats 10 chips again, leaving 85 - 10 = 75 chips left.
+
+We can continue this pattern, eating 10 chips each day until we reach 0 chips left.
+
+Let's count how many days it takes to get to 0 chips:
+
+1. 95 - 10 = 85
+2. 85 - 10 = 75
+3. 75 - 10 = 65
+4. 65 - 10 = 55
+5. 55 - 10 = 45
+6. 45 - 10 = 35
+7. 35 - 10 = 25
+8. 25 - 10 = 15
+9. 15 - 10 = 5
+10. 5 - 10 = 0
+
+It takes 10 days for Marnie to eat the whole bag of chips.
+
+Answer: 10

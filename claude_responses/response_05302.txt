@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 3 dozen eggs, which is 3 x 12 = 36 eggs in total.
+* Each omelet requires 4 eggs.
+* There are 3 people, including Pauly.
+* To find the number of omelets each person gets, we need to divide the total number of eggs by the number of eggs per omelet, and then divide that by the number of people.
+* 36 eggs / 4 eggs per omelet = 9 omelets total.
+* 9 omelets / 3 people = 3 omelets per person.
+
+Answer: 3

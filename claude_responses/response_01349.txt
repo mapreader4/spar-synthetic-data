@@ -1,0 +1,14 @@
+To solve this problem, we need to find the total distance covered by Emerson on his trip.
+
+Given information:
+- Emerson rowed 6 miles from his starting point.
+- He then continued for another 15 miles at a constant speed.
+- He then covered the remaining 18 miles.
+
+Step 1: Calculate the total distance covered by Emerson.
+Total distance covered = Distance from starting point + Distance covered at constant speed + Remaining distance
+Total distance covered = 6 miles + 15 miles + 18 miles
+Total distance covered = 39 miles
+
+Therefore, the total distance covered by Emerson on his trip is:
+Answer: 39 miles

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Lars can bake 10 loaves of bread within an hour, so she can bake 10 loaves every 60 minutes. She can bake 30 baguettes every 120 minutes, which is 2 hours. So, we need to find a common denominator between 60 and 120. The least common multiple of 60 and 120 is 120, so she can bake 5 times in an hour, 10 loaves of bread and 5 baguettes.
+
+In 6 hours, she can bake 6 times in an hour, which is 10 loaves of bread and 6 baguettes. So, in 6 hours, Lars can bake 10 * 6 = 60 loaves and 6 * 6 = 30 baguettes. So, Lars makes 60 loaves and 30 baguettes.
+
+Answer: 60

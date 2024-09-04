@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jon drinks a 16 ounce bottle of water every 4 hours for the 16 hours he is awake
+* That means he drinks 4 bottles of 16 ounces each day (16 hours / 4 hours per bottle = 4 bottles)
+* 4 bottles x 16 ounces per bottle = 64 ounces per day
+* Twice a day, he also drinks a 25% larger bottle
+* The larger bottle is 25% more than 16 ounces, so it is 16 + (0.25 x 16) = 20 ounces
+* He drinks 2 of these larger bottles per day, so that's an additional 40 ounces per day
+* In total, he drinks 64 ounces + 40 ounces = 104 ounces per day
+* There are 7 days in a week, so the total amount of fluid he drinks in a week is:
+* 104 ounces per day x 7 days = 728 ounces
+
+Answer: 728

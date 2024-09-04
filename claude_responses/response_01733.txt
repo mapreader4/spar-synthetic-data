@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Adam initially donates:
+   - 4 pairs of pants
+   - 4 jumpers
+   - 4 pajama sets (8 articles of clothing)
+   - 20 t-shirts
+   - Total from Adam: 4 + 4 + 8 + 20 = 36 articles of clothing
+
+2. 3 of Adam's friends donate the same amount as Adam, which is 36 articles each.
+   - Total from 3 friends: 3 x 36 = 108 articles of clothing
+
+3. Adam decides to keep half of his clothes, so the remaining half is donated.
+   - Remaining clothes from Adam: 36 / 2 = 18 articles of clothing
+
+4. Total articles of clothing being donated:
+   - From Adam: 18 articles
+   - From 3 friends: 108 articles
+   - Total: 18 + 108 = 126 articles of clothing
+
+Answer: 126

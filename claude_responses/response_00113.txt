@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Baez starts with 25 marbles.
+2) She loses 20% of her marbles. To calculate 20% of 25, we can multiply 25 by 0.20 (20% expressed as a decimal):
+   * 25 x 0.20 = 5
+   * So, Baez loses 5 marbles.
+3) Now, Baez has 25 - 5 = 20 marbles left.
+4) A friend then gives Baez double the amount of marbles she has left, which is 2 x 20 = 40 marbles.
+5) So, Baez ends up with 20 + 40 = 60 marbles.
+
+Answer: 60

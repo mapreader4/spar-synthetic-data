@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The ratio of boys to girls in the classroom is 3:5. This means that for every 3 boys, there are 5 girls.
+2) We are told that there are 4 more girls than boys. This means that the number of girls is 4 more than the number of boys.
+3) Let's represent the number of boys as x. Then the number of girls is x + 4.
+4) Since the ratio of boys to girls is 3:5, we can set up the following equation:
+3/5 = x / (x + 4)
+5) Solving this equation, we get x = 9.
+6) Therefore, the number of boys is 9, and the number of girls is 9 + 4 = 13.
+7) The total number of students in the classroom is the sum of the boys and girls, which is 9 + 13 = 22.
+
+Answer: 22

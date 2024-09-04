@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The team scored a total of 270 points in the year.
+2) There are 9 players on the team.
+3) 5 of the players averaged 50 points each.
+4) To find the total points scored by the 5 players who averaged 50 points each, we multiply 50 by 5: 50 * 5 = 250 points.
+5) The remaining 4 players must have scored the remaining 270 - 250 = 20 points.
+6) To find the average points scored by the remaining 4 players, we divide 20 by 4: 20 / 4 = 5 points.
+
+Answer: 5

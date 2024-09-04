@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the initial number of students per class, which is 20 students.
+
+There are 15 classes initially. If they add 5 more classes, the total number of classes is now 15 + 5 = 20.
+
+The total number of students is the total number of students per class multiplied by the total number of classes. So, the total number of students is 20 * 20 = 400.
+
+Answer: 400

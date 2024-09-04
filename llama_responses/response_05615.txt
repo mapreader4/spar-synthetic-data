@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. At the beginning of the day, Kevin has 15 phones that need to be repaired.
+2. Kevin successfully repairs 3 phones, leaving him with 15 - 3 = 12 phones left to repair.
+3. A client drops off 6 more phones that need fixing, adding to the total number of phones Kevin needs to repair. 12 + 6 = 18 phones.
+4. A coworker offers to help Kevin and fix half of the damaged phones. To find half of 18 phones, we need to divide 18 by 2: 18 ÷ 2 = 9.
+
+So, Kevin will fix 9 phones and his coworker will fix the remaining 9 phones.
+
+Answer: 9

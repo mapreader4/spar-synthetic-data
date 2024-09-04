@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Lilith originally had 5 dozen water bottles
+* 5 dozen = 5 x 12 = 60 water bottles
+* The original price she wanted to sell them at was $2 per water bottle
+* However, she had to reduce the price to $1.85 per water bottle to match the regular price in her town
+* So, the total amount of money she would have made selling 60 water bottles at $2 each would have been:
+    - 60 water bottles x $2 per water bottle = $120
+* But since she had to sell them at $1.85 each, the total amount of money she will make is:
+    - 60 water bottles x $1.85 per water bottle = $111
+* The difference between the original $120 and the actual $111 she will make is:
+    - $120 - $111 = $9
+* Therefore, Lilith will have to find an additional $9 to buy her friend the birthday gift.
+
+Answer: 9

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 3 lions and 2 rhinos that escaped from the zoo
+* It takes 2 hours to recover each animal
+* To find the total time spent recovering the animals, we need to add up the time for each animal
+
+First, let's calculate the time for the lions:
+* 3 lions x 2 hours per lion = 6 hours
+
+Next, let's calculate the time for the rhinos:
+* 2 rhinos x 2 hours per rhino = 4 hours
+
+Now, we add the time for the lions and the rhinos:
+* 6 hours + 4 hours = 10 hours
+
+Answer: 10 hours

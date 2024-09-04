@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the cost of the damaged items. There are three tires that were slashed, and each tire costs $250. So, the total cost of the tires is:
+
+3 x 250 = 750
+
+Next, let's calculate the cost of the window. The window costs $700.
+
+The total cost of the damages is the sum of the cost of the tires and the cost of the window:
+
+750 + 700 = 1450
+
+So, Jack will have to pay $1450 for the damages.

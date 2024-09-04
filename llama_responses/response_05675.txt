@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the number of games the Bulls won. The problem states that the Bulls won 70 games. The problem also states that the Heat won 5 more games than the Bulls. So, the Heat won 70 + 5 = 75 games.
+
+The problem asks how many games did the Bulls and the Heat win together. The Bulls won 70 games, and the Heat won 75 games. So, the total number of games won by the Bulls and the Heat together is 70 + 75 = 145.
+
+Answer: 145

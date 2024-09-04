@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total cost of all shirts and jeans.
+
+20 shirts cost 20 * 10 = 200 dollars. 10 pairs of jeans cost 10 * 20 = 200 dollars. So, the total cost of all shirts and jeans is 200 + 200 = 400 dollars.
+
+Now, let's calculate the total amount of money the clothing store will earn if all shirts and jeans are sold.
+
+The clothing store will earn 400 dollars.

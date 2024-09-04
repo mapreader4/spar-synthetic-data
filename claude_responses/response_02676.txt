@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) Jennifer has 212 green sweets, 310 blue sweets, and 502 yellow sweets.
+2) She wants to share these sweets equally between herself and her 3 friends, so there will be a total of 4 people sharing the sweets.
+3) To find the number of sweets each person will get, we need to add up the total number of sweets and divide by 4.
+4) The total number of sweets is 212 + 310 + 502 = 1024.
+5) Dividing 1024 by 4, we get 1024 / 4 = 256.
+
+Answer: 256

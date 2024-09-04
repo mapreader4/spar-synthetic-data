@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Harry uses a whole bag of chocolate chips to make the dough for the cookies
+* The dough makes 3 batches of cookies
+* Each cookie has 9 chocolate chips
+* The bag of chocolate chips has 81 chips
+
+First, we need to find out how many cookies are made in total:
+* Since each cookie has 9 chocolate chips, and the whole bag of 81 chips is used, we can divide 81 by 9 to get the total number of cookies made:
+* 81 ÷ 9 = 9 cookies
+
+Now, we need to find out how many cookies are in each batch:
+* Since the dough makes 3 batches of cookies, we can divide the total number of cookies (9) by 3 to get the number of cookies in each batch:
+* 9 ÷ 3 = 3 cookies per batch
+
+Answer: 3 cookies per batch.

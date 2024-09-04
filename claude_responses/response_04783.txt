@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each pill has 50 mg of Vitamin A
+* The recommended daily serving of Vitamin A is 200 mg
+* We need to find how many pills Ryan needs to hit the recommended amount for the week
+
+First, let's calculate the recommended amount of Vitamin A for the week:
+* Recommended daily serving: 200 mg
+* Number of days in a week: 7
+* Recommended amount for the week: 200 mg x 7 days = 1,400 mg
+
+Now, let's calculate how many pills Ryan needs to hit the recommended amount for the week:
+* Each pill has 50 mg of Vitamin A
+* Recommended amount for the week: 1,400 mg
+* Number of pills needed: 1,400 mg / 50 mg per pill = 28 pills
+
+Answer: 28 pills

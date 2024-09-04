@@ -1,0 +1,20 @@
+Let's break this down step by step.
+
+Let's start with the information given: Eustace is twice as old as Milford. So, if Eustace is x years old, then Milford is x/2 years old.
+
+We are given that in 3 years, Eustace will be 39 years old. So, we can set up an equation to represent this:
+
+E + 3 = 39
+
+We can solve for E:
+
+E = 39 - 3
+E = 36
+
+So, Eustace is 36 years old. Now, we can find Milford's age in 3 years by multiplying E by 2:
+
+Milford's age in 3 years = E * 2
+= 36 * 2
+= 72
+
+So, Milford will be 72 years old in 3 years.

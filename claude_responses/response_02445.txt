@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The lizard has 3 eyes
+* The lizard has 3 times more wrinkles than eyes
+* So the lizard has 3 x 3 = 9 wrinkles
+* The lizard has 7 times more spots than wrinkles
+* So the lizard has 7 x 9 = 63 spots
+* The combined number of spots and wrinkles is 63 + 9 = 72
+* The difference between the number of eyes and the combined number of spots and wrinkles is 72 - 3 = 69
+
+Answer: 69

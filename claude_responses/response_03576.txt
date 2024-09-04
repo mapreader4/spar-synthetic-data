@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) Billy swims the first 5 laps in 2 minutes, which is 120 seconds.
+2) Billy swims the next 3 laps in 4 minutes, which is 240 seconds.
+3) Billy swims the next lap in 1 minute, which is 60 seconds.
+4) The total time it took Billy to swim the first 9 laps is 120 + 240 + 60 = 420 seconds.
+5) Margaret finishes all 10 laps in 10 minutes, which is 600 seconds.
+6) Billy wins the competition by finishing his laps 30 seconds before Margaret, so the total time it took Billy to swim all 10 laps is 600 - 30 = 570 seconds.
+7) To find the time it took Billy to swim his final lap, we subtract the time it took him to swim the first 9 laps (420 seconds) from the total time it took him to swim all 10 laps (570 seconds).
+8) 570 - 420 = 150 seconds.
+
+Answer: 150 seconds.

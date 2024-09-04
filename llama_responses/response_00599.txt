@@ -1,0 +1,13 @@
+Let's start by identifying the values of each type of currency:
+
+* 4 quarters = 100 cents
+* 3 dimes = 30 cents
+* 1 nickel = 5 cents
+
+We can add up the values of the quarters, dimes, and the nickel to find the total cost of the candy bar:
+100 cents + 30 cents + 5 cents = 135 cents
+
+Since John got 4 cents back in change, that means the total cost of the candy bar was:
+135 cents - 4 cents = 131 cents
+
+Answer: 131

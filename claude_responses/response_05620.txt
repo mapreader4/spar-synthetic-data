@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The bookstore is offering 30% off any book that is over $22.00 and 20% off any book under $20.00.
+2) The books Gordon bought have the following prices: $25.00, $18.00, $21.00, $35.00, $12.00, and $10.00.
+3) For the books over $22.00:
+   - $25.00 book: 30% off, so the price is $25.00 - (0.30 * $25.00) = $17.50
+   - $35.00 book: 30% off, so the price is $35.00 - (0.30 * $35.00) = $24.50
+4) For the books under $20.00:
+   - $18.00 book: 20% off, so the price is $18.00 - (0.20 * $18.00) = $14.40
+   - $12.00 book: 20% off, so the price is $12.00 - (0.20 * $12.00) = $9.60
+   - $10.00 book: 20% off, so the price is $10.00 - (0.20 * $10.00) = $8.00
+5) The $21.00 book is not discounted.
+6) Adding up all the discounted prices:
+   - $17.50 + $14.40 + $24.50 + $9.60 + $8.00 + $21.00 = $95.00
+
+Answer: 95

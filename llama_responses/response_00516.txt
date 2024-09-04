@@ -1,0 +1,44 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given:
+
+* Max did his homework in three subjects.
+* It took him 20 minutes to finish tasks from biology.
+* It took him two times more time to finish history than it took him to finish biology.
+* Geography took him the most time.
+
+From this information, we can create an equation to represent the time Max spent on his homework.
+
+Let's say the time it took Max to finish biology is x, and the time it took him to finish history is 2x. The time it took him to finish geography is the most, so it is 3x.
+
+The total time Max spent on his homework is the sum of the times for each subject. So, the equation is:
+
+x + 2x + 3x =?
+
+To solve for x, we can add 2x and 3x to both sides of the equation and combine like terms:
+
+x + 2x + 3x = 5x
+
+To solve for x, we can subtract 2x from both sides of the equation:
+
+5x - 2x = 3x
+
+Then, we can add 3x to both sides of the equation and simplify:
+
+5x - 2x + 3x = 3x + 3x
+
+The 3x terms can be combined:
+
+5x - 2x = 6x
+
+Now, we can add 2x to both sides of the equation and simplify:
+
+5x = 6x + 2x
+
+Subtract 2x from both sides of the equation to get:
+
+3x = 6x
+
+So, the value of x is 3.
+
+Answer: 3

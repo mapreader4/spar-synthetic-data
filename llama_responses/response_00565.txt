@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's start by letting m be the number of miles Michelle drives.
+
+Since Michelle drives 20 miles less than Tracy, we know that Michelle drives 20 less than Tracy's distance, so we can set up an equation:
+
+Tracy's distance = 2 * m + 20
+
+We know that Tracy drives 20 more than Michelle, so we can subtract 20 from both sides of the equation to get:
+
+Tracy's distance - 20 = 2 * m
+
+Now, we know that the total distance of the trip is 1000 miles. 1000 is the sum of the distances of all three people. We can set up an equation:
+
+2 * m + 20 + 3 * m = 1000
+
+Now, we can solve for m. First, we'll subtract 20 from both sides of the equation:
+
+2 * m = 1000 - 20
+
+2 * m = 980
+
+Now, we can divide both sides of the equation by 2 to get:
+
+m = 490
+
+So, Michelle drives 490 miles.

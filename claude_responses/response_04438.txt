@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The fall semester lasts 15 weeks
+* During the weekdays (Monday-Friday), Paris studies 3 hours a day
+* There are 5 weekdays in a week
+* So during the weekdays, Paris studies:
+  - 3 hours per day x 5 days per week = 15 hours per week
+  - 15 hours per week x 15 weeks = 225 hours during the semester
+* On Saturday, Paris studies 4 hours
+* On Sunday, Paris studies 5 hours
+* So on the weekends, Paris studies:
+  - 4 hours on Saturday + 5 hours on Sunday = 9 hours per week
+  - 9 hours per week x 15 weeks = 135 hours during the semester
+* To find the total time Paris studies during the semester, we add the time spent studying during the weekdays and the weekends:
+  - 225 hours + 135 hours = 360 hours
+
+Answer: 360

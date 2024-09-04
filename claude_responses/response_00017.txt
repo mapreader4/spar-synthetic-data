@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Initially, there are:
+  - 26 pink hard hats
+  - 15 green hard hats
+  - 24 yellow hard hats
+* Carl takes away 4 pink hard hats, so now there are:
+  - 26 - 4 = 22 pink hard hats
+  - 15 green hard hats
+  - 24 yellow hard hats
+* John takes away:
+  - 6 pink hard hats, so now there are 22 - 6 = 16 pink hard hats
+  - 6 x 2 = 12 green hard hats, so now there are 15 - 12 = 3 green hard hats
+  - 24 yellow hard hats
+* So the total number of hard hats remaining in the truck is:
+  - 16 pink hard hats
+  - 3 green hard hats
+  - 24 yellow hard hats
+* Adding these up, the total number of hard hats remaining is:
+  - 16 + 3 + 24 = 43
+
+Answer: 43

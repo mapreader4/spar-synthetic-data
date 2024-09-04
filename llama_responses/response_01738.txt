@@ -1,0 +1,43 @@
+Let's break down the number of pies baked per day into two variables: number of apple pies and number of cherry pies. 
+
+Let the number of apple pies be A and the number of cherry pies be C.
+
+We know that the total number of pies baked per week is 12, and the number of apple pies and number of cherry pies are equal to 12.
+
+So, we have the following equations:
+
+A + C = 12
+
+We know that Steve bakes apple pies on Mondays, Wednesdays and Fridays, so the number of apple pies is 3 * A. Steve bakes cherry pies on Tuesdays and Thursdays, so the number of cherry pies is 2 * C.
+
+We can substitute the given values of A and C into the equations:
+
+3 * A + 2 * C = 12
+
+Now we need to solve for A and C.
+
+We can solve for A first, because we know that 3 * A = 12 - 2 * C.
+
+A = (12 - 2 * C) / 3
+
+A = 4
+
+Now we know that A = 4. So, the number of apple pies baked per day is 4.
+
+We can now substitute A into the equation for C:
+
+4 + C = 12
+
+C = (12 - 4) / 2
+
+C = 4
+
+So, the number of cherry pies baked per day is 4.
+
+Now, we can find the difference between the number of apple pies and number of cherry pies baked per day:
+
+Number of apple pies - Number of cherry pies = 4 - 4
+
+Number of apple pies - Number of cherry pies = 0
+
+Answer: 0

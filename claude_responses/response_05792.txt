@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Cindy has 37 envelopes.
+2) Cindy gives 3 envelopes to each of her 5 friends.
+3) To calculate the total number of envelopes given away, we multiply the number of envelopes given to each friend (3) by the number of friends (5):
+3 envelopes x 5 friends = 15 envelopes given away
+4) To calculate the number of envelopes Cindy has left, we take the initial number of envelopes (37) and subtract the number of envelopes given away (15):
+37 envelopes - 15 envelopes = 22 envelopes left
+
+Answer: 22

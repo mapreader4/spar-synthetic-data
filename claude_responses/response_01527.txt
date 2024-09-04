@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The clown has 3 dozen balloons on a string in his hand.
+* 1 dozen = 12 balloons
+* 3 dozen = 3 x 12 = 36 balloons
+
+Now, the clown sells:
+* 3 balloons to the 3 boys
+* 12 balloons to the 12 girls
+* Total balloons sold = 3 + 12 = 15 balloons
+
+The clown is still holding:
+* 36 balloons (the original amount) - 15 balloons (sold) = 21 balloons
+
+Answer: 21

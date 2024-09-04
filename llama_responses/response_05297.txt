@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of goals scored by the 1/3 of the players who have averaged 1 goal each per game. Since there are 15 games played, 1/3 of the players have averaged 1 goal each per game, that means that 1/3 of the players have scored 15 goals.
+
+The total number of goals scored by these players is:
+
+1/3 of the players * 15 goals = 5 players * 15 goals = 75 goals
+
+Now, let's find the total number of goals scored by the remaining players. To do this, we subtract the 75 goals scored by the 5 players who have averaged 1 goal each per game from the total goals scored.
+
+150 goals - 75 goals = 75 goals
+
+So, the total number of goals scored by the other players is 75 goals.
+
+Answer: 75

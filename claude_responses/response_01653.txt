@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The book has 8 chapters total
+* Beth has read 2 chapters in 3 hours
+* We need to find how many hours it will take her to read the remaining chapters
+
+First, let's calculate the rate at which Beth is reading the chapters:
+* 2 chapters in 3 hours = 2/3 chapters per hour
+
+Now, we can calculate how many chapters are remaining:
+* 8 chapters total - 2 chapters read = 6 chapters remaining
+
+Finally, we can calculate how many hours it will take her to read the remaining 6 chapters at her current rate:
+* 6 chapters remaining / (2/3 chapters per hour) = 9 hours
+
+Answer: 9

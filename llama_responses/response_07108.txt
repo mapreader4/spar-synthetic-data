@@ -1,0 +1,23 @@
+Let's call the number of jumps Bobby can jump per minute when he was a child as $x$.
+
+We know that the number of jumps he can jump per minute as a child is 30, so we can write an equation to represent this:
+
+$30 = x$
+
+As an adult, Bobby can jump 1 jump per second. So the number of jumps he can make in 60 seconds is:
+
+$60$
+
+The number of jumps he can make in 1 minute is the same as the number of jumps he can make in 60 seconds. So, we can write another equation to represent this:
+
+$60 = 60$
+
+To find the difference in the number of jumps Bobby can make as an adult and as a child, we can subtract the two expressions:
+
+$60 - 30 = 30$
+
+$30 - 30 = 0$
+
+So, the difference in the number of jumps Bobby can make as an adult and as a child is $\boxed{0}$.
+
+Answer: 0

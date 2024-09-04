@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the time it takes for each member to run 3 km is x. So, the total time for all members to run 3 km would be 4x. Since Ralph runs twice as much as any member on his team, the time it takes for Ralph to run 3 km would be 8x.
+
+So, the time it takes for the race is 4x + 8x. Since Ralph is running 3 km, we can substitute 3 for x. So, the time it takes for the race is 4(3) + 8(3) = 15.
+
+Answer: 15

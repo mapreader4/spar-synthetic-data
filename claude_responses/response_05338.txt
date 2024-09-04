@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rick can iron 4 dress shirts in an hour
+* He spends 3 hours ironing dress shirts
+* So, in 3 hours he can iron 4 shirts x 3 hours = 12 dress shirts
+
+* Rick can iron 3 dress pants in an hour
+* He spends 5 hours ironing dress pants
+* So, in 5 hours he can iron 3 pants x 5 hours = 15 dress pants
+
+* To find the total number of pieces of clothing he has ironed, we add the number of dress shirts and dress pants:
+* 12 dress shirts + 15 dress pants = 27 pieces of clothing
+
+Answer: 27

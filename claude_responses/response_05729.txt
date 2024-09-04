@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Each flamingo has 20 tail feathers.
+2) It's only safe to pluck 25% of their tail feathers at one time.
+3) Milly needs to make 12 boas.
+4) Each boa has 200 feathers.
+5) To calculate the total number of feathers needed, we multiply the number of boas (12) by the number of feathers per boa (200): 12 x 200 = 2,400 feathers.
+6) Since each flamingo has 20 tail feathers, and Milly can only take 25% of that, each flamingo provides 5 feathers (20 x 0.25 = 5).
+7) To calculate the number of flamingoes needed, we divide the total number of feathers needed (2,400) by the number of feathers per flamingo (5): 2,400 / 5 = 480 flamingoes.
+
+Answer: 480 flamingoes.

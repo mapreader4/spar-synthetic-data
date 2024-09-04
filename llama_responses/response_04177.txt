@@ -1,0 +1,17 @@
+Let's break down the information into steps.
+
+1. The chihuahua, pitbull, and great dane weigh a combined weight of 439 pounds.
+2. The pitbull weighs 3 times as much as the chihuahua.
+3. The great dane weighs 10 more pounds than triple the pitbull.
+
+Let's start by using the information from step 1: The chihuahua, pitbull, and great dane weigh a combined weight of 439 pounds. Let's say the chihuahua weighs x pounds, the pitbull weighs 3x pounds, and the great dane weighs 3*3x + 10 pounds. We can set up an equation to represent the information: x + 3x + (3*3x + 10) = 439.
+
+To solve for x, we can subtract 3x + 10 from both sides of the equation: x + 3x + (3*3x + 10) - 3x - 10 = 439 - 3x - 10.
+
+Simplifying the equation, we get: 4x = 429.
+
+To find the weight of the great dane, we multiply 3*3x by 3: 3*3x = 9x. Then we add 10 to that: 9x + 10.
+
+Answer: 9x + 10 = 439 - 10 = 429 + 10 = 439.
+
+The great dane weighs 439 pounds.

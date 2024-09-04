@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: Each neighborhood has 4 roads passing through it. So, the total number of roads is 10 * 4 = 40 roads.
+
+Step 2: Each road has 250 street lights on each opposite side. Since there are 40 roads, there are 2 sides to each road. So, the total number of street lights is 40 * 250 * 2 = 1000.
+
+Step 3: Since there are 10 neighborhoods, the total number of street lights on all the roads in the town is 10 * 1000 = 10000.
+
+Answer: 10000

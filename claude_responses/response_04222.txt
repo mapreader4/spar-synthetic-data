@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tania has 5 baskets in total
+* The total number of fruits in all 5 baskets is 58
+* We know the contents of 3 of the baskets:
+  - 18 mangoes in one basket
+  - 10 pears in another basket
+  - 12 pawpaws in another basket
+* The remaining 2 baskets contain the same number of kiwi and lemon respectively
+* To find the number of lemons, we need to first find the total number of fruits in the remaining 2 baskets
+* The total number of fruits in the first 3 baskets is 18 + 10 + 12 = 40
+* The total number of fruits in all 5 baskets is 58
+* So the total number of fruits in the remaining 2 baskets must be 58 - 40 = 18
+* Since the 2 remaining baskets contain the same number of kiwi and lemon respectively, the number of lemons must be 18 / 2 = 9
+
+Answer: 9

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* A bear eats up to 90 pounds of food per day
+* Victor weighs 126 pounds
+* We need to find how many "Victors" worth of food a bear would eat in 3 weeks
+
+First, let's calculate how much food a bear would eat in 3 weeks:
+* 90 pounds per day x 7 days per week x 3 weeks = 1,890 pounds of food
+
+Now, let's calculate how many "Victors" that is:
+* 1,890 pounds of food / 126 pounds per Victor = 15 Victors
+
+Therefore, the answer is:
+Answer: 15

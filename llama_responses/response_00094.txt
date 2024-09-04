@@ -1,0 +1,5 @@
+To solve this problem, we need to find the total number of pages John will write in total. Since John writes 20 pages a day, we can multiply 20 pages by 3 (for the 3 books) to get the total number of pages:
+
+20 * 3 = 60
+
+So, it will take John 60 days to write 3 books that are 400 pages each.

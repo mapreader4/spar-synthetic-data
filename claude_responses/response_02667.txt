@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+
+1. Zachary sold 40 games at $5 each, so Zachary's total earnings are:
+   40 games x $5 per game = $200
+
+2. Jason received 30% more money than Zachary, so Jason's total earnings are:
+   Zachary's earnings ($200) + 30% of Zachary's earnings = $200 + ($200 x 0.3) = $260
+
+3. Ryan received $50 more than Jason, so Ryan's total earnings are:
+   Jason's earnings ($260) + $50 = $310
+
+4. To calculate the total amount of money the three friends received together, we add up their individual earnings:
+   Zachary's earnings ($200) + Jason's earnings ($260) + Ryan's earnings ($310) = $770
+
+Answer: $770

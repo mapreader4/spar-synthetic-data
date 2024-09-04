@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Anton has three times as many cards as Heike.
+2) Ann has six times as many cards as Heike.
+3) Ann has 60 cards.
+4) Since Ann has six times as many cards as Heike, we can divide 60 by 6 to find out how many cards Heike has:
+60 / 6 = 10 cards
+5) Since Anton has three times as many cards as Heike, we can multiply 10 by 3 to find out how many cards Anton has:
+10 * 3 = 30 cards
+6) Now we can find out how many more cards Ann has than Anton by subtracting Anton's cards from Ann's cards:
+60 - 30 = 30 cards
+
+Answer: 30

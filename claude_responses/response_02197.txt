@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Missy has an obedient dog and a stubborn dog
+* She has to yell at the stubborn dog 4 times for every 1 time she yells at the obedient dog
+* She yells at the obedient dog 12 times
+
+To find the total number of times she yells at both dogs combined, we need to:
+1. Find the number of times she yells at the stubborn dog
+2. Add the number of times she yells at the obedient dog (12) to the number of times she yells at the stubborn dog
+
+To find the number of times she yells at the stubborn dog:
+* For every 1 time she yells at the obedient dog, she yells at the stubborn dog 4 times
+* Since she yells at the obedient dog 12 times, we can multiply 12 by 4 to get the number of times she yells at the stubborn dog
+* 12 x 4 = 48 times she yells at the stubborn dog
+
+Now we add the number of times she yells at the obedient dog (12) to the number of times she yells at the stubborn dog (48):
+* 12 + 48 = 60 times she yells at both dogs combined
+
+Answer: 60

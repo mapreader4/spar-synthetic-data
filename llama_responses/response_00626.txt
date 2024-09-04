@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the number of questions she has answered so far. We know she has answered 16 questions, which is 20% of the total 80 questions.
+
+Let's find the number of minutes she has used so far. We know she has used 12 minutes, which is 15% of the total 80 minutes.
+
+To find the number of minutes she has left, we can multiply the number of minutes used by the total number of minutes. So, if she has used 15% of the total 80 minutes, we can multiply 15 by 4 to get 60 minutes.
+
+So, the number of minutes she has left will be 80 - 60 = 20.
+
+Answer: 20

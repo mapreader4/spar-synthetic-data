@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The store made 50 posters in total
+* Two-fifths of the 50 posters are small posters
+* To calculate the number of small posters:
+    - Two-fifths of 50 = 2/5 * 50 = 20 small posters
+* Half of the 50 posters are medium posters
+    - Half of 50 = 1/2 * 50 = 25 medium posters
+* The rest of the posters are large posters
+    - Total posters = 50
+    - Small posters = 20
+    - Medium posters = 25
+    - Large posters = 50 - 20 - 25 = 5 large posters
+
+Answer: 5

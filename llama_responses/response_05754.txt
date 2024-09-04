@@ -1,0 +1,20 @@
+Let's break down Alex's trip into three segments: the flat ground, the uphill segment, and the downhill segment.
+
+Segment 1: Flat ground
+Alex traveled at an average speed of 20 miles per hour for 4.5 hours.
+Distance = Speed x Time = 20 x 4.5 = 90 miles
+
+Segment 2: Uphill segment
+Alex traveled at an average speed of 12 miles per hour for 2.5 hours.
+Distance = Speed x Time = 12 x 2.5 = 30 miles
+
+Segment 3: Downhill segment
+Alex traveled at an average speed of 24 miles per hour for 1.5 hours.
+Distance = Speed x Time = 24 x 1.5 = 36 miles
+
+Total distance traveled before puncturing the tire = 90 + 30 + 36 = 156 miles
+
+The next town is 164 miles from where Alex started. Since he had to walk the rest of the way, he had to walk:
+164 - 156 = 8 miles
+
+Answer: 8

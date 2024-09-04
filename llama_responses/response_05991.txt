@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Megan started with a balance of $125.
+2. She increased the balance by 25% of the original balance, so we need to calculate 25% of 125. 25% of 125 is 31.25. So, her new balance is 125 + 31.25 = 156.25.
+3. Then, she decreased the balance by 20% of the new balance, so we need to calculate 20% of 156.25. 20% of 156.25 is 31.25. So, her final balance is 156.25 - 31.25 = 125.
+4. Now, we need to find the percentage of the original balance. 125 is 100% of the original balance, and 125 is the new balance. So, the percentage is:
+
+Answer: 100

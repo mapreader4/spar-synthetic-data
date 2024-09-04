@@ -1,0 +1,15 @@
+Okay, let's think through this step-by-step:
+1) The punch bowl can hold 16 gallons of punch.
+2) Mark fills the bowl part way, then his cousin drinks half of the punch in the bowl.
+3) Mark then adds 4 more gallons of punch.
+4) Sally then drinks 2 gallons of punch.
+5) Finally, Mark has to add 12 gallons of punch to completely fill the bowl.
+
+To find the initial amount of punch Mark added to the bowl, we can work backwards:
+* Mark added 12 gallons to completely fill the bowl
+* Sally drank 2 gallons, so the bowl had 14 gallons before that
+* Mark added 4 gallons, so the bowl had 10 gallons before that
+* Mark's cousin drank half of the 10 gallons, so the bowl had 5 gallons before that
+* Therefore, Mark initially added 5 gallons of punch to the bowl.
+
+Answer: 5

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 10 boxes, each containing 50 bottles of water.
+2) Each bottle has a capacity of 12 liters.
+3) Each bottle is filled up to 3/4 of its capacity.
+4) To calculate the amount of water in each bottle:
+   - Bottle capacity: 12 liters
+   - Filled to 3/4 capacity: 12 * 3/4 = 9 liters per bottle
+5) To calculate the total amount of water in all the bottles:
+   - 10 boxes x 50 bottles per box = 500 bottles
+   - 500 bottles x 9 liters per bottle = 4,500 liters
+
+Answer: 4,500 liters

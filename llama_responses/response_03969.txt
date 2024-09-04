@@ -1,0 +1,19 @@
+Let's start by calculating the total extra recess time earned by the students.
+
+For the 10 As, each student gets 2 extra minutes, so the total extra recess time earned is 10 x 2 = 20 minutes.
+
+For the 12 Bs, each student gets 1 extra minute, so the total extra recess time earned is 12 x 1 = 12 minutes.
+
+For the 14 Cs, each student gets 0 extra minutes, so the total extra recess time earned is 0 minutes.
+
+For the 5 Ds, each student gets 1 less minute, so the total extra recess time earned is 5 x (-1) = -5 minutes.
+
+Now, let's add up the total extra recess time earned:
+
+20 minutes (from As) + 12 minutes (from Bs) + 0 minutes (from Cs) + (-5 minutes) (from Ds) = 27 minutes
+
+Since students normally get 20 minutes of recess, the total recess time they would get on report card day is:
+
+20 minutes (normal recess) + 27 minutes (extra recess) = 47 minutes
+
+Answer: 47

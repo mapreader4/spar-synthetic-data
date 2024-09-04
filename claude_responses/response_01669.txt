@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 200 animals in the field
+* Out of the 200 animals, there are 40 cows
+* Out of the 200 animals, there are 56 sheep and goats
+* To find the number of goats, we need to subtract the number of cows and sheep from the total number of animals
+* The number of sheep and goats is 56
+* The number of cows is 40
+* So the number of sheep and goats is 56 - 40 = 16
+* Since we know there are 56 sheep and goats, and 16 of them are sheep, the remaining 56 - 16 = 40 must be goats.
+
+Answer: 40

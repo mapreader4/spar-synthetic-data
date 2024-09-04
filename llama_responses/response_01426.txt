@@ -1,0 +1,15 @@
+To solve this problem, we can think of this as a work-hour problem. We know that a clerk can process 25 forms per hour. We need to find out how many hours it will take to process 2400 forms.
+
+Let's divide 2400 by 25 to find the number of hours it will take to process 2400 forms.
+
+2400 ÷ 25 = 96
+
+So, it will take 96 hours to process 2400 forms.
+
+In an 8-hour day, there are 8 hours. So, we need to find how many 8-hour days it will take to process 2400 forms.
+
+96 ÷ 8 = 12
+
+So, we need 12 days to process 2400 forms.
+
+So, we need 12 clerks to process 2400 forms in 8-hour days.

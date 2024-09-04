@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jenny is having 80 guests at her wedding.
+2) 3 times as many guests want steak as chicken. This means that the number of guests wanting steak is 3 times the number of guests wanting chicken.
+3) Let's call the number of guests wanting chicken 'x'. Then the number of guests wanting steak is 3x.
+4) The total number of guests is 80, so x + 3x = 80. Solving for x, we get x = 20.
+5) Therefore, the number of guests wanting steak is 3 * 20 = 60.
+6) Each steak entree costs $25, and there are 60 steak entrees. So the total cost of the steak entrees is 60 * $25 = $1,500.
+7) Each chicken entree costs $18, and there are 20 chicken entrees. So the total cost of the chicken entrees is 20 * $18 = $360.
+8) The total catering budget is the sum of the steak and chicken entrees, which is $1,500 + $360 = $1,860.
+
+Answer: $1,860

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Kat got a 95% on her first math test and an 80% on her second math test.
+2) She wants an average grade of at least 90% in her math class.
+3) To calculate the average, we need to add up the scores and divide by the number of tests.
+4) So far, she has 2 test scores: 95% and 80%.
+5) The average of these two scores is: (95% + 80%) / 2 = 87.5%.
+6) To get an average of at least 90%, she needs to get a score on her third test that will bring the overall average up to 90% or higher.
+7) Let's call the score on the third test x%.
+8) The formula to calculate the overall average is: (95% + 80% + x%) / 3 = 90%
+9) Solving for x, we get: x = 95%.
+
+Answer: 95%

@@ -1,0 +1,6 @@
+Okay, let's break this down step-by-step:
+1) Cassie has 4 dogs and 8 parrots.
+2) Each dog has 4 nails on each foot, so for 4 dogs, that's 4 x 4 x 4 = 64 nails.
+3) Each parrot has 3 claws on each leg, except for one parrot who has an extra toe. So for the 7 parrots with 3 claws each, that's 7 x 3 x 2 = 42 claws. And for the 1 parrot with 4 claws, that's 1 x 4 x 2 = 8 claws.
+4) Adding up the nails for the dogs (64) and the claws for the parrots (42 + 8 = 50), the total number of nails Cassie needs to cut is:
+Answer: 64 + 50 = 114

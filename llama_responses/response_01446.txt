@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+First, let's find the sum of the number of black and white shirts. The sum is 63 + 42 = 105.
+
+Next, let's find the number of jeans. The number of jeans is two-thirds of the sum of black and white shirts, so it's 105 * 2/3 = 70.
+
+Next, let's find the number of scarves. The number of scarves is half the sum of ties and belts. The sum of ties and belts is 34 + 40 = 74, so the number of scarves is 74 / 2 = 37.
+
+Now, let's find the difference between the number of jeans and scarves. The difference is 70 - 37 = 33.
+
+Answer: 33

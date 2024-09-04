@@ -1,0 +1,26 @@
+Let's break this down step by step.
+
+Let's start by identifying the ages of the scrolls. The first scroll is 4080 years old. If each subsequent scroll is older than the last scroll by half as many years as the last scroll's age, we can let x be the age of the last scroll. Then, the age of the fifth scroll will be x + 4080.
+
+Since the last scroll is half as many years old as the last scroll, the age of the last scroll is x. So, we can write an equation:
+
+x = (last scroll's age) / 2
+
+We know the last scroll is 4080 years old, so the last scroll is:
+
+x = 4080 / 2
+x = 2040
+
+So, the age of the last scroll is 2040 years.
+
+The age of the fifth scroll is the sum of the last scroll's age and the difference of the last scroll's age and the first scroll's age:
+
+Age of the fifth scroll = last scroll's age + (last scroll's age - first scroll's age)
+Age of the fifth scroll = 2040 + (2040 - 4080)
+Age of the fifth scroll = 2040 + -2880
+Age of the fifth scroll = 2040 - 2880
+Age of the fifth scroll = 2160
+
+So, the age of the fifth scroll is 2160 years.
+
+Answer: 2160

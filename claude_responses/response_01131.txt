@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each tire repair costs $7
+* There is an additional 50 cents for sales tax per tire
+* Juan needs all 4 tires repaired
+
+First, let's calculate the cost of repairing one tire:
+* Cost of tire repair: $7
+* Sales tax: $0.50
+* Total cost per tire: $7 + $0.50 = $7.50
+
+Now, to find the total cost for all 4 tires, we multiply the cost per tire by the number of tires:
+* Total cost = $7.50 x 4 = $30
+
+Therefore, the final cost for Juan to have all 4 tires repaired is:
+
+Answer: $30

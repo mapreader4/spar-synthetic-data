@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Gabby planted 1 watermelon vine, 1 peach tree, and 2 plum trees
+* The watermelon vine produced 1 watermelon
+* The peach tree produced 12 more peaches than the 1 watermelon, which is 13 peaches
+* The 2 plum trees produced 3 times the number of plums as the 13 peaches, which is 3 x 13 = 39 plums
+
+Now, to find the total number of pieces of fruit Gabby got to pick that summer, we add up the number of watermelons, peaches, and plums:
+1 watermelon + 13 peaches + 39 plums = 53 pieces of fruit
+
+Answer: 53

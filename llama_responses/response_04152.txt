@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the costs of the two options:
+
+1. The more expensive option: $300 for 15 years, so the cost per year is $300 / 15 = $20 per year.
+2. The less expensive option: $120 for 5 years, so the cost per year is $120 / 5 = $24 per year.
+
+To find the difference in the cost per year, we subtract the cost of the less expensive option from the cost of the more expensive option:
+
+$20 - $24 = $4 per year.
+
+Since Karen will need to consider the cost difference for 30 years, we multiply the difference by 30:
+
+$4 per year * 30 years = $120.
+
+So, Karen will save $120 over 30 years by choosing the more expensive option.

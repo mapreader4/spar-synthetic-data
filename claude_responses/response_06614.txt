@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jake has 3 snakes
+2) Each snake lays 2 eggs, so the total number of eggs is 3 * 2 = 6 eggs
+3) Most of the baby snakes sell for $250 each, so the total amount from selling the 5 regular baby snakes is 5 * $250 = $1,250
+4) One super rare baby snake costs 4 times as much as the regular ones, so it sells for 4 * $250 = $1,000
+5) The total amount Jake got from selling the snakes is the sum of the regular baby snakes and the super rare one: $1,250 + $1,000 = $2,250
+
+Answer: $2,250

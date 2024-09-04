@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Matilda has half as many jellybeans as Matt.
+2) Matt has ten times as many jellybeans as Steve.
+3) Steve has 84 jellybeans.
+4) First, we can calculate how many jellybeans Matt has. Since Matt has ten times as many jellybeans as Steve, and Steve has 84 jellybeans, then Matt has 10 * 84 = 840 jellybeans.
+5) Since Matilda has half as many jellybeans as Matt, and Matt has 840 jellybeans, then Matilda has 840 / 2 = 420 jellybeans.
+
+Answer: 420

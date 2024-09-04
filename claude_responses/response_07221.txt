@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each case has 3 packs of muffins
+* Each pack has 4 muffins
+* So each case has 3 * 4 = 12 muffins
+* Nora is selling each muffin for $2
+* So the revenue from each case is 12 * $2 = $24
+* Nora needs to raise $120 for the school trip
+* To calculate how many cases she needs to sell, we divide the total amount needed ($120) by the revenue per case ($24)
+* $120 / $24 = 5 cases
+
+Answer: 5 cases

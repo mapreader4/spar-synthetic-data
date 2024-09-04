@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+First, let's calculate the cost of the T-shirts: 6 T-shirts at $8 each will be 6 x 8 = $48.
+
+Next, let's calculate the cost of the sweaters: 4 sweaters at $18 each will be 4 x 18 = $72.
+
+The jacket is on sale with a 10% discount, so the discounted price is 80 - (80 x 0.1) = 80 - 8 = 72. Then, 5 jackets at the discounted price will be 5 x 72 = $360.
+
+Now, let's add up the total cost of all the items: $48 (T-shirts) + $72 (sweaters) + $360 (jackets) = $480.
+
+Finally, we need to add the sales tax, which is 5% of the total cost. 5% of $480 is 0.05 x 480 = $24. So, we add the sales tax to the total cost: $480 + $24 = $504.
+
+Answer: 504

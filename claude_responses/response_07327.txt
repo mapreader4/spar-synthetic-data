@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Betty starts with 60 cookies and 10 brownies
+* She eats 3 cookies and 1 brownie per day
+* We want to know how many more cookies than brownies she has after a week (7 days)
+
+First, let's calculate how many cookies and brownies she eats in a week:
+* Cookies eaten in a week: 3 cookies/day x 7 days = 21 cookies
+* Brownies eaten in a week: 1 brownie/day x 7 days = 7 brownies
+
+Now, let's calculate how many cookies and brownies she has left after a week:
+* Cookies left: 60 cookies - 21 cookies = 39 cookies
+* Brownies left: 10 brownies - 7 brownies = 3 brownies
+
+Finally, we can calculate the difference between the number of cookies and brownies left:
+* Difference: 39 cookies - 3 brownies = 36 more cookies than brownies
+
+Answer: 36

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say Mark leaves his home at time x. Since it takes Rob 1 hour to get to the national park, he will arrive at 12 p.m. (11 a.m. + 1 hour).
+
+Since it takes Mark 3 times as much time to get to the national park as it takes Rob, he will take 3 hours to get there. So, Mark will arrive at 3 p.m.
+
+So, Mark should leave his home at 10 a.m. so that they can arrive at the same time.

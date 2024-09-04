@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the speed of Luis in miles per hour. We know that he drives 80 miles in 2 hours, so we can divide 80 miles by 2 hours to find the speed.
+
+80 miles / 2 hours = 40 miles per hour
+
+Now, to find the distance Luis will go in 15 minutes, we can multiply the speed by 1/4, since there are 60 minutes in an hour and 15 minutes is 1/4 of an hour.
+
+40 miles per hour * 1/4 = 10 miles per minute
+
+So, the answer is:
+
+Answer: 10

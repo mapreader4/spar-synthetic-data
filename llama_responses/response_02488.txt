@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* In 2009, Timothy went to the movies 24 times.
+* In 2010, Timothy went to the movies 7 more times than in 2009, so in 2010, Timothy went to the movies 24 + 7 = 31 times.
+* Theresa went to see twice as many movies as Timothy did in 2010, so in 2010, Theresa went to the movies 2 * 31 = 62 times.
+* In 2009, Theresa went to the movies half as many times as Timothy did, so in 2009, Theresa went to the movies 24 / 2 = 12 times.
+
+Now, let's add up the total number of movies Timothy and Theresa went to in both 2009 and 2010.
+
+* Timothy went to the movies 24 times in 2009 and 31 times in 2010, so in total, Timothy went to the movies 24 + 31 = 55 times.
+* Theresa went to the movies 12 times in 2009 and 62 times in 2010, so in total, Theresa went to the movies 12 + 62 = 74 times.
+
+Therefore, Timothy and Theresa went to the movies 55 + 74 = 129 times in both 2009 and 2010.
+
+Answer: 129

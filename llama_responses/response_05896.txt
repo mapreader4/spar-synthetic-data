@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information: There are 6 girls and 8 boys in the school play. That means we have a total of 6 + 8 = 14 kids.
+
+Now, let's think about the parents. If both parents of each kid attend the premiere, then we need to multiply the number of kids by 2. So, we get:
+
+14 kids * 2 = 28.
+
+So, the total number of parents who will be in the auditorium is 28.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Miss Grayson's class raised $50 for their field trip
+* Each of her 20 students contributed $5 each
+* The cost of the trip is $7 for each student
+
+First, let's calculate the total amount of money raised:
+* $50 (from the class fundraiser) + (20 students x $5 each) = $50 + $100 = $150
+
+Next, let's calculate the total cost of the field trip:
+* 20 students x $7 per student = $140
+
+Finally, to find the amount left in Miss Grayson's class fund, we subtract the total cost of the field trip from the total amount raised:
+* $150 - $140 = $10
+
+Answer: $10

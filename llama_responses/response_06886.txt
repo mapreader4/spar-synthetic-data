@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's first find the total number of caps made during the first three weeks.
+
+The first week, the company made 320 caps.
+The second week, the company made 400 caps.
+The third week, the company made 300 caps.
+
+To find the total number of caps made during the first three weeks, we add the number of caps made each week together:
+
+320 + 400 + 300 = 720
+
+So, the total number of caps made during the first three weeks is 720.
+
+Now, we need to find the average number of caps made during the fourth week. To do this, we can divide the total number of caps made during the first three weeks by 3, since there are 3 weeks in total.
+
+720 / 3 = 240
+
+So, the average number of caps made during the fourth week is 240.
+
+Now, we need to multiply this average by the number of weeks. Since there is one week in the fourth week, we multiply 240 by 1:
+
+240 * 1 = 240
+
+So, the total number of caps that the company will make during the fourth week is 240.
+
+Answer: 240

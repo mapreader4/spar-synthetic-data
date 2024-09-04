@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+1. The guests eat all of 1 pan, which is 16 pieces. So, the 1st pan is fully consumed.
+
+2. The guests eat 75% of the 2nd pan, which is 0.75 x 16 = 12 pieces. So, the 2nd pan has 4 pieces left.
+
+3. One tub of ice cream provides 8 scoops. If all but 4 of the guests eat the brownies ala mode (with 2 scoops of vanilla ice cream), then 12 - 4 = 8 guests eat the brownies ala mode.
+
+4. Since each guest eats 2 scoops, the total number of scoops eaten is 8 x 8 = 64 scoops.
+
+5. Since each tub of ice cream provides 8 scoops, the total number of tubs needed is 64 / 8 = 8 tubs.
+
+Answer: 8

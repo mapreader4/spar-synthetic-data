@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the number of students who are currently from other countries. 30% of 1800 is 0.3 x 1800 = 540 students.
+
+Now, let's think about the number of foreign students who will start studying at the university. 200 new foreign students will join the university, but this will bring the total number of foreign students to 540 + 200 = 740.
+
+Now, let's think about the number of students who will study at the university. The total number of students is 1800, and we want to find the number of students who are not from other countries. We can subtract 540 from 1800 to get the number of students who are not foreign students, which is 1800 - 540 = 1260.
+
+Answer: 1260

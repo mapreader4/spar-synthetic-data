@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The person borrowed an amount of money for a year at an interest rate of 12%.
+2) The total interest paid is $1500.
+3) The formula for simple interest is: I = P * r * t, where I is the interest, P is the principal (original borrowed amount), r is the interest rate, and t is the time in years.
+4) Substituting the given values, we get:
+$1500 = P * 0.12 * 1
+5) Solving for P, we get:
+P = $1500 / (0.12 * 1)
+P = $12,500
+
+Answer: $12,500

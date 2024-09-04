@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's start with what we know. Rodney has 35 dollars more than Ian. This means that Rodney has 35 + x dollars, where x is the amount of money Ian has. We know that Ian has half as much money as Jessica has, so Ian has x/2 dollars. So, we can set up an equation:
+
+x = 2 * (Jessica's money) / 2
+
+We know that Jessica has 100 dollars, so we can plug that in:
+
+x = 2 * 100 / 2
+x = 100 / 2
+x = 50
+
+So, Ian has 50 dollars. Rodney has 35 dollars more than Ian, which means Rodney has 35 + 50 = 85 dollars.
+
+Answer: 35

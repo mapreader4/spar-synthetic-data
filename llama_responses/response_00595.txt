@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the number of bananas that Lydia has. The problem states that Lydia has 60 bananas. Then, we can find the number of bananas that Dawn has by subtracting the number of bananas that Lydia has from the total number of bananas that Dawn, Lydia, and Donna have.
+
+Dawn has 40 more bananas than Lydia, so Dawn has 40 + 60 = 100 bananas.
+
+The total number of bananas that Donna has is 200 - 100 = 100.
+
+So, the answer is:
+
+Answer: 100

@@ -1,0 +1,13 @@
+To solve this problem, we can start by identifying the information given to us. We know that Tina can make 30 postcards in a day. We also know that she gets $5 for each postcard sold. We are also given the number of days she works for, which is 6.
+
+We can calculate the total number of postcards she can make in 6 days as follows:
+
+30 postcards per day * 6 days = 30 * 6 = 180 postcards
+
+We can now calculate the total amount of money she earns in 6 days:
+
+180 postcards * $5 = 180 * 5 = $900
+
+So, the answer is:
+
+Answer: 900

@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) We have a tree and Jane, both casting shadows.
+2) The tree's shadow is 10 meters long.
+3) Jane's shadow is 0.5 meters long.
+4) Jane is 1.5 meters tall.
+5) We can use similar triangles to find the height of the tree.
+6) The ratio of the tree's height to the tree's shadow length is the same as the ratio of Jane's height to Jane's shadow length.
+7) So, the tree's height divided by 10 meters is equal to 1.5 meters divided by 0.5 meters.
+8) Solving for the tree's height, we get:
+Tree's height = (1.5 meters / 0.5 meters) * 10 meters = 30 meters.
+
+Answer: 30

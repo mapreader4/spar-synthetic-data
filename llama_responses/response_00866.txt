@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+There are 5 rows of red notes, with 6 notes in each row. So, there are a total of 5 x 6 = 30 red notes.
+
+There are 2 blue notes under each of the red notes, so there are 2 x 5 = 10 blue notes in the under category.
+
+There are 10 blue notes scattered at the bottom of the board.
+
+In total, the number of blue notes is 10.
+
+To find the total number of notes in the complaints and compliments bins, we add the number of red notes (30) and the number of blue notes (10):
+
+30 + 10 = 40
+
+Answer: 40

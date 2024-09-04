@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Ruth prepared some sandwiches, but we don't know how many she prepared. Let's say she prepared x sandwiches. 
+
+Ruth ate 1 sandwich herself, and then she gave 2 sandwiches to her brother. That means that 3 sandwiches are gone. 
+
+Her first cousin arrived and ate 2 sandwiches. That means that 5 sandwiches are gone. 
+
+Then her two other cousins arrived and ate 1 sandwich each. That means that 6 sandwiches are gone. 
+
+So, in total, 3 + 2 + 2 = 7 sandwiches are gone. 
+
+So, there are 8 sandwiches left. 
+
+But Ruth prepared x sandwiches in the beginning. So, we know that x - 8 = 3 sandwiches are left. 
+
+x - 8 = 3. So, x = 11. 
+
+So, Ruth prepared 11 sandwiches. 
+
+Answer: 11

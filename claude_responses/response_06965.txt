@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Julie bought 2 boxes of standard paper
+* Each box contains 5 packages
+* Each package has 250 sheets of paper
+* So, the total number of sheets of paper Julie bought is:
+    - 2 boxes x 5 packages per box x 250 sheets per package = 2,500 sheets of paper
+* The School News uses 25 sheets of paper to print one newspaper
+* To find the number of newspapers Julie can print, we divide the total number of sheets of paper by the number of sheets used per newspaper:
+    - 2,500 sheets of paper / 25 sheets per newspaper = 100 newspapers
+
+Answer: 100

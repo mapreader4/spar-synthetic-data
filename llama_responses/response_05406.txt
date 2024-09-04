@@ -1,0 +1,37 @@
+Let's break this problem down step by step.
+
+Let's say the cost of a child ticket is x.
+
+The cost of an adult ticket is 6 dollars more than the cost of a child ticket, so the cost of an adult ticket is x + 6.
+
+The cost of the 5 tickets is 77 dollars. The cost of the 3 child tickets is 3x, and the cost of the 2 adult tickets is 2(x + 6). The total cost of the 5 tickets is equal to the cost of the child tickets and the cost of the adult tickets, so we can set up the equation:
+
+3x + 2(x + 6) = 77
+
+We can simplify this equation by combining like terms:
+
+3x + 2x + 12 = 77
+
+Now, let's subtract 2x from both sides of the equation to get:
+
+x + 12 = 77 - 2x
+
+Subtracting 2x from both sides again, we get:
+
+x = 77 - 2x - 12
+
+Now, let's add 12 to both sides of the equation to get:
+
+x = 77 + 12 - 2x
+
+x = 89 - 2x
+
+Now, let's add 2x to both sides of the equation to get:
+
+x = 89
+
+Now, we can subtract 89 from both sides of the equation to get:
+
+x = 0
+
+So, the cost of an adult ticket is 0 dollars.

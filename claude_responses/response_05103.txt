@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. The 1st competitor ate 12 hot dogs in 3 minutes.
+
+2. The 2nd competitor ate twice the amount of the 1st competitor. 
+   * The 1st competitor ate 12 hot dogs, so the 2nd competitor ate 2 x 12 = 24 hot dogs.
+
+3. The 3rd competitor ate 25% less than the 2nd competitor.
+   * The 2nd competitor ate 24 hot dogs.
+   * 25% less than 24 is 0.25 x 24 = 6.
+   * So the 3rd competitor ate 24 - 6 = 18 hot dogs.
+
+Answer: 18

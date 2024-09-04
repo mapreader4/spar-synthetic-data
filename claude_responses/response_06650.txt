@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Danivan Drugstore starts the week with 4500 bottles of hand sanitizer gel in inventory.
+* On Monday, 2445 bottles were sold.
+* On Tuesday, 900 bottles were sold.
+* From Wednesday to Sunday, 50 bottles were sold each day, which is 5 days * 50 bottles = 250 bottles.
+* So the total number of bottles sold during the week is 2445 + 900 + 250 = 3595 bottles.
+* On Saturday, the supplier delivered an order for 650 bottles.
+* To calculate the number of bottles at the end of the week, we start with the initial inventory (4500 bottles), subtract the total number of bottles sold (3595 bottles), and add the new delivery (650 bottles).
+* 4500 - 3595 + 650 = 1555 bottles.
+
+Answer: 1555 bottles.

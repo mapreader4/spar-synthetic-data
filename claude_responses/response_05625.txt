@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) The original price of the apples is $5 per kilogram.
+2) Hannah is getting a 40% discount on each kilogram of apples.
+3) To calculate the discounted price per kilogram, we take the original price ($5) and subtract 40% of that price:
+   $5 - (0.4 * $5) = $5 - $2 = $3 per kilogram.
+4) Hannah wants to buy 10 kilograms of apples.
+5) At the discounted price of $3 per kilogram, the total cost for 10 kilograms would be:
+   10 kilograms * $3 per kilogram = $30.
+
+Answer: 30

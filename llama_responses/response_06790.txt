@@ -1,0 +1,31 @@
+Let's break it down step by step:
+
+Let x be the number of chickens Colten has.  Let y be the number of chickens Skylar has.  Let z be the number of chickens Quentin has.
+
+We know that Quentin has 25 more chickens than Skylar has, so we can write an equation to represent this:
+
+z - 2y = 25
+
+We know that Skylar has 4 less chickens than Colten has, so we can write another equation to represent this:
+
+z = y - 3
+
+Now we know that Quentin has 25 more chickens than Skylar has, and Skylar has 4 less chickens than Colten has.  So we can substitute z - 2y = 25 into our first equation:
+
+z - 2( y - 3) = 25
+
+We can solve for y:
+
+y - 3 = 13
+
+So we know that y = 16.
+
+Now we can substitute y = 16 into our second equation:
+
+z = 16 - 3
+
+So we know that z = 13.
+
+So Colten has 13 chickens.  So the answer is:
+
+Answer: 13

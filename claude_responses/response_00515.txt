@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* The temperature is 8 degrees
+* For every 3 degrees the temperature drops below 32 degrees, Annie's chances of skidding on ice increase 5%
+* The temperature is 8 degrees, which is 24 degrees below 32 degrees (32 - 8 = 24)
+* Since the temperature is 24 degrees below 32 degrees, and every 3 degrees below 32 increases the chances of skidding by 5%, the chances of skidding are increased by 5% * (24/3) = 40%
+* If Annie goes into a skid, she has a 40% chance of regaining control
+* If she doesn't regain control, she'll have a serious accident
+* Therefore, the percentage chance of Annie getting into a serious accident is 60% (100% - 40% chance of regaining control)
+
+Answer: 60%

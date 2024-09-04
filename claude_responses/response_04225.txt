@@ -1,0 +1,16 @@
+To solve this problem, we need to find the average number of times Jason fires his weapon per minute and then multiply it by the duration of each flame shot.
+
+Given information:
+- Jason fires his weapon on average every 15 seconds.
+- Each time he fires his weapon, the flame lasts for 5 seconds.
+
+Step 1: Find the average number of times Jason fires his weapon per minute.
+Number of seconds in a minute = 60 seconds
+Average time between each shot = 15 seconds
+Average number of shots per minute = 60 seconds / 15 seconds = 4 shots per minute
+
+Step 2: Find the total duration of the flames per minute.
+Duration of each flame shot = 5 seconds
+Total duration of flames per minute = 4 shots per minute × 5 seconds per shot = 20 seconds per minute
+
+Answer: 20 seconds

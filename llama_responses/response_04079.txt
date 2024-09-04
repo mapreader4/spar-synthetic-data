@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the cost of the bread. 4 loaves of bread at $2 each is 4 x 2 = $8.
+
+Next, let's calculate the cost of the milk. 2 cartons of milk at $2 each is 2 x 2 = $4.
+
+Now, let's add the cost of the bread and milk together. $8 + $4 = $12.
+
+Clare had $47 initially, and she spent $12 on the bread and milk. So, she has $47 - $12 left.
+
+Answer: 35

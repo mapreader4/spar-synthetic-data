@@ -1,0 +1,7 @@
+To find out how many pages Berry needs to read on Saturday, we need to find the total number of pages he has read so far and subtract that from the total number of pages he wants to read in a week. 
+
+Let's first find the total number of pages Berry has read so far. He read 43 pages on Sunday, 65 pages on Monday, and 28 pages on Tuesday, so that's 43 + 65 + 28 = 136 pages. On Thursday he read 70 pages, and on Friday he read 56 pages, so that's 70 + 56 = 126. So, the total number of pages Berry has read so far is 136 + 126 = 262. 
+
+The total number of pages he wants to read in a week is 7 days * 50 = 350. So, Berry has to read 350 - 262 = 88 pages on Saturday to reach his goal. 
+
+Answer: 88

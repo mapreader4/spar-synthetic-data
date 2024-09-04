@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's calculate the number of balloons Mary can inflate in 30 minutes:
+
+Mary inflates 10 balloons per minute. So in 30 minutes, she can inflate 10 * 30 = 300 balloons.
+
+Jess inflates 7 balloons per minute. So in 30 minutes, she can inflate 7 * 30 = 210 balloons.
+
+Christina is late and inflates 4 balloons per minute. Since she has 15 minutes, she can inflate 4 * 15 = 60 balloons.
+
+Now, let's add the number of balloons each person can inflate:
+
+Mary: 300 balloons
+Jess: 210 balloons
+Christina: 60 balloons
+
+Total number of balloons = 300 + 210 + 60 = 570
+
+Answer: 570

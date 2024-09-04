@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The total cost for the initial membership fee is 4 people x $4000 per person = $16000.
+2. The monthly cost is $1000 per person, and since John pays half of that, that would be $500 per month.
+3. Since there are 12 months in a year, the total annual cost for the monthly cost would be 12 x $500 = $6000.
+4. The total cost for John would be the initial membership fee + the annual cost for the monthly fee. So, the total cost would be $16000 + $6000 = $21600.
+
+Answer: 21600

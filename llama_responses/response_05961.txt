@@ -1,0 +1,25 @@
+Let's break this problem down step by step!
+
+We know that 50 cars went through the toll booth on Monday and Tuesday, so the total number of cars on those two days is:
+
+50 + 50 = 100
+
+On Wednesday and Thursday, twice the number of cars that passed through the toll booth on Monday went through the toll booth. Since 50 cars went through on Monday, twice that number is:
+
+2 x 50 = 100
+
+So, 100 cars went through the toll booth on Wednesday and Thursday. The total number of cars that went through the toll booth on these four days is:
+
+100 + 100 = 200
+
+We know that 450 cars drove through the toll booth in total, and we've accounted for 200 of them. To find the number of cars that went through the toll booth on Friday, Saturday, and Sunday, we subtract the 200 from the total:
+
+450 - 200 = 250
+
+Since an equal number of vehicles passed through the toll booth on each of the remaining days, we can divide the remaining 250 cars by 3:
+
+250 ÷ 3 = 83.33
+
+Since we can't have a fraction of a car, we round down to the nearest whole number. Therefore, 83 cars passed through the toll booth on each of Friday, Saturday, and Sunday.
+
+Answer: 83

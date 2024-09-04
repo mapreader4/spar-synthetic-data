@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Lucille started with a total of 11 + 14 + 32 = 57 weeds to pull.
+
+She pulled weeds from the flower bed, the vegetable patch, and half of the grass. Since there are 32 weeds in the grass, half of that is 32 ÷ 2 = 16. So, she pulled weeds from 11 + 14 + 16 = 41 weeds.
+
+She earned 6 cents for each weed, so she earned 41 x 6 = 246 cents.
+
+She spent 99 cents on a soda, so she has 246 - 99 = 147 cents left.
+
+Answer: 147

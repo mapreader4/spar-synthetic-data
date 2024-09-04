@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* In January, Benny added $19 to the piggy bank.
+* In February, Benny added the same amount as in January, which is $19.
+* By the end of March, Benny has $46 in the piggy bank.
+
+To find how much Benny added in March, we need to calculate the total amount he had in the piggy bank before March, and then subtract that from the $46 he had at the end of March.
+
+The total amount he had before March is:
+* January: $19
+* February: $19
+* Total before March: $19 + $19 = $38
+
+Now we can subtract the amount before March from the total at the end of March:
+* $46 - $38 = $8
+
+Therefore, Benny added $8 to the piggy bank in March.
+
+Answer: 8

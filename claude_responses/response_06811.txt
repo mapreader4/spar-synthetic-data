@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 24 marbles in the jar total
+* Half of the marbles are blue, so there are 12 blue marbles
+* There are 6 red marbles
+* The remaining marbles must be orange
+
+To find the number of orange marbles, we need to subtract the blue and red marbles from the total:
+* Total marbles: 24
+* Blue marbles: 12
+* Red marbles: 6
+* Orange marbles = Total - Blue - Red
+* Orange marbles = 24 - 12 - 6 = 6
+
+Answer: 6

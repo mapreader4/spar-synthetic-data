@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the amount Jason earns per month. Since Jason has earned the same amount he invested twice over in 5 months, and he has earned $90, we know that 2x * 5 = 90.
+
+To solve for x, we can divide both sides by 5, which gives us x = 18.
+
+So, Jason earns $18 per month.

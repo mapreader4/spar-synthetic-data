@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Tedra harvested 400 kg of tomatoes on Wednesday
+* On Thursday, he harvested half as much as Wednesday, which is 400 / 2 = 200 kg
+* The total amount harvested over the 3 days (Wednesday, Thursday, and Friday) is 2000 kg
+* To find the amount harvested on Friday, we can subtract the amounts from Wednesday and Thursday from the total:
+    - Total harvested = 2000 kg
+    - Wednesday harvest = 400 kg
+    - Thursday harvest = 200 kg
+    - Friday harvest = 2000 - 400 - 200 = 1400 kg
+* Tedra gave away 700 kg of the tomatoes he harvested on Friday to his friends
+* To find the remaining amount of tomatoes from Friday's harvest, we subtract the 700 kg given away from the 1400 kg harvested on Friday:
+    - Remaining tomatoes from Friday's harvest = 1400 - 700 = 700 kg
+
+Answer: 700 kg

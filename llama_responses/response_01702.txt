@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. The total number of guests is 60.
+2. 2/3 of the guests are male. To find the number of male guests, we can multiply 2/3 by the total number of guests: 2/3 * 60 = 40.
+3. To find the number of female guests, we subtract the number of male guests from the total number of guests: 60 - 40 = 20.
+
+Answer: 20

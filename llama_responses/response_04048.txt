@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with Woody's book. He spent 1.5 years writing his book. We can convert this to months by multiplying 1.5 by 12, since there are 12 months in a year. So Woody took 18 months to write his book.
+
+Now, let's look at Ivanka's book. She took 3 more months than Woody to write her book. We can add 3 to 18, since Woody took 18 months. So Ivanka took 21 months to write her book.
+
+To find the total number of months it took Ivanka and Woody to write their books, we add the number of months Woody took to write his book to the number of months Ivanka took to write her book. So, 18 + 3 = 21.
+
+Answer: 21

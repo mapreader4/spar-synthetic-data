@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 30 teachers at Esme's school
+* 2/3 of the teachers ate pizza
+* To calculate the number of teachers who ate pizza, we take 2/3 of 30:
+    - 2/3 * 30 = 20 teachers ate pizza
+* There are 45 staff members at Esme's school
+* 4/5 of the staff members ate pizza
+* To calculate the number of staff members who ate pizza, we take 4/5 of 45:
+    - 4/5 * 45 = 36 staff members ate pizza
+* To calculate the total number of pizza eaters, we add the number of teachers and staff who ate pizza:
+    - 20 teachers + 36 staff = 56 pizza eaters
+* To calculate the number of non-pizza eaters, we need to find the total number of people at the school and subtract the number of pizza eaters:
+    - Total people = 30 teachers + 45 staff = 75 people
+    - Non-pizza eaters = 75 - 56 = 19 people
+
+Answer: 19

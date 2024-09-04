@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. James buys 2 rounds for his 5 friends, so he spends 2 * 20 = $40 on drinks for his friends.
+2. He buys 6 drinks for himself, so he spends 6 * 6 = $36 on drinks for himself.
+3. The total amount he spends on drinks is 36 + 40 = $76.
+4. James also orders fried chicken for himself, which costs $14.
+5. He leaves a 30% tip on everything, which means 0.3 * (36 + 76) = 0.3 * 112 = 33.6.
+6. The total amount he spends is 76 + 14 + 33.6 = $104.6.
+
+Answer: 104.6

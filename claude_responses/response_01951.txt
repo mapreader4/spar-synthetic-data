@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Marnie eats 5 chips on the first day to try them
+* She then eats 5 more chips on the first day, for a total of 10 chips on the first day
+* The bag has 100 chips in total
+* Starting on the second day, Marnie eats 10 chips per day
+
+So, we need to calculate how many days it takes for Marnie to eat the remaining 90 chips (100 - 10 = 90).
+
+At a rate of 10 chips per day, it will take:
+* 90 chips / 10 chips per day = 9 days
+
+However, we need to add 1 day for the initial 10 chips eaten on the first day.
+
+Therefore, the total number of days it takes for Marnie to eat the whole bag of chips is:
+* 9 days + 1 day = 10 days
+
+Answer: 10

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* William goes to the library 2 times per week
+* Jason goes to the library 4 times more often than William
+* We want to find how many times Jason goes to the library in 4 weeks
+
+First, let's calculate how many times William goes to the library in 4 weeks:
+* 2 times per week x 4 weeks = 8 times
+
+Now, since Jason goes to the library 4 times more often than William, we can calculate how many times Jason goes to the library in 4 weeks:
+* 4 times more often than William = 4 x 8 = 32 times
+
+Answer: 32

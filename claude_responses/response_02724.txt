@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* Jimmy has 3 plots: one for green beans, one for carrots, and one for corn
+* Each corn plant produces 5 times as many servings of veggies as each carrot
+* Each green bean plant produces half as many servings as each corn plant
+* Each carrot produces 4 servings of vegetables
+* Each plot has 9 plants
+
+First, let's calculate the number of servings from the carrot plot:
+* Each carrot produces 4 servings
+* There are 9 carrot plants in the plot
+* 4 servings x 9 plants = 36 servings from the carrot plot
+
+Next, let's calculate the number of servings from the corn plot:
+* Each corn plant produces 5 times as many servings as each carrot
+* Since each carrot produces 4 servings, each corn plant produces 5 x 4 = 20 servings
+* There are 9 corn plants in the plot
+* 20 servings x 9 plants = 180 servings from the corn plot
+
+Finally, let's calculate the number of servings from the green bean plot:
+* Each green bean plant produces half as many servings as each corn plant
+* Since each corn plant produces 20 servings, each green bean plant produces 20 / 2 = 10 servings
+* There are 9 green bean plants in the plot
+* 10 servings x 9 plants = 90 servings from the green bean plot
+
+Now we can add up the total servings from all 3 plots:
+* 36 + 180 + 90 = 306 servings
+
+Answer: 306

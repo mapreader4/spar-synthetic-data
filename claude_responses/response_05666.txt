@@ -1,0 +1,16 @@
+Okay, let's think this through step-by-step:
+1) Steve has nickels and dimes in his hand.
+2) He has 4 more dimes than nickels.
+3) He has a total of 70 cents in his hand.
+4) Let's represent the number of nickels as 'n' and the number of dimes as 'd'.
+5) We know that d = n + 4, since he has 4 more dimes than nickels.
+6) We also know that the total value of the coins is 70 cents, which can be represented as:
+   5n + 10d = 70
+7) Substituting d = n + 4 into the equation, we get:
+   5n + 10(n + 4) = 70
+   5n + 10n + 40 = 70
+   15n = 30
+   n = 2
+8) Therefore, Steve is holding 2 nickels.
+
+Answer: 2

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Matias sold 7 books on Tuesday
+* On Wednesday, he sold three times as many books as on Tuesday
+* So, on Wednesday, he sold 3 x 7 = 21 books
+* On Thursday, the sales from Wednesday were tripled
+* So, on Thursday, he sold 3 x 21 = 63 books
+
+Now, to find the total number of books sold during these three days, we add up the sales from each day:
+* Tuesday: 7 books
+* Wednesday: 21 books
+* Thursday: 63 books
+* Total books sold = 7 + 21 + 63 = 91 books
+
+Answer: 91

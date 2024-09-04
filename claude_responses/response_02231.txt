@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The married couple consists of 2 people
+* The couple want 3 slices each, so that's 2 x 3 = 6 slices for the couple
+* There are 6 children
+* Each child wants 1 slice, so that's 6 x 1 = 6 slices for the children
+* In total, they want 6 + 6 = 12 slices
+* Each pizza has 4 slices
+* To calculate the number of pizzas they should order, we divide the total number of slices needed (12) by the number of slices per pizza (4)
+* 12 / 4 = 3
+
+Answer: 3

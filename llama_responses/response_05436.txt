@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Wendy puts on 5 facial products and waits 5 minutes between each product. This means that she waits a total of 5 * 5 = 25 minutes between all the products.
+
+She also spends an additional 30 minutes putting on her make-up. So, the total time it takes her to put on her "full face" is the sum of the time spent on the products and the time spent on make-up. 
+
+25 + 30 = 55
+
+Answer: 55

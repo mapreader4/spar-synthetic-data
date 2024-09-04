@@ -1,0 +1,9 @@
+Let's start by identifying the number of each color of marble in each basket:
+
+* Basket A: 4 red marbles and 2 yellow marbles
+* Basket B: 6 green marbles and 1 yellow marble
+* Basket C: 0 white marbles and 9 yellow marbles
+
+The greatest difference is between the number of each color of marble in Basket C, which has 9 yellow marbles and 0 white marbles. The difference is 9 - 0 = 9.
+
+Answer: 9

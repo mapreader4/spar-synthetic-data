@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The bakery makes 3 batches of baguettes a day.
+2) Each batch has 48 baguettes.
+3) After the first batch, he sold 37 baguettes.
+4) After the second batch, he sold 52 baguettes.
+5) After the third batch, he sold 49 baguettes.
+6) To calculate the total number of baguettes made, we multiply the number of batches (3) by the number of baguettes per batch (48): 3 * 48 = 144 baguettes.
+7) To calculate the total number of baguettes sold, we add up the number of baguettes sold after each batch: 37 + 52 + 49 = 138 baguettes.
+8) To calculate the number of baguettes left, we subtract the total number of baguettes sold (138) from the total number of baguettes made (144): 144 - 138 = 6 baguettes.
+
+Answer: 6

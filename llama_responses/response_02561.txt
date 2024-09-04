@@ -1,0 +1,12 @@
+Let's start by letting x be the number of turtles on Lonely Island.
+
+We know that there are 60 turtles on Happy Island. We know that there are 10 more turtles on Happy Island than on Lonely Island. We can write this as an equation:
+
+60 = 10 + x
+
+To solve for x, we can subtract 10 from both sides of the equation:
+
+60 - 10 = x
+50 = x
+
+So, there are 50 turtles on Lonely Island.

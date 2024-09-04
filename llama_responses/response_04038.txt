@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Initially, there is a flock of geese flying in a V formation. Then, one half of the geese break off and land in the trees. This means that the number of geese that broke off is half of the initial number of geese.
+
+Let's say the initial number of geese is x. Then, the number of geese that broke off is x/2.
+
+After the geese that broke off land in the trees, 4 geese fly up and join the remaining geese in the air. This means that the total number of geese flying in the air is the initial number minus the number that broke off, plus the 4 geese that joined.
+
+So, the total number of geese flying in the air is x - x/2 + 4.
+
+We are given that the total number of geese flying in the air is 12, so we can set up the equation:
+
+x - x/2 + 4 = 12
+
+To solve for x, we can start by combining like terms:
+
+x/2 = 8
+
+Multiplying both sides by 2, we get:
+
+x = 16
+
+So, there were 16 geese in the initial formation that Albert noticed in the sky.
+
+Answer: 16

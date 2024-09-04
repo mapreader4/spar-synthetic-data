@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Steve starts with 400 emails in his inbox.  He moves half of them to the trash, which is 400 / 2 = 200 emails.  Then, he moves 40 percent of the remaining emails to his work folder.  To find the number of emails left, we can subtract the 200 emails moved to the trash from the original 400, and then subtract the 40 percent of the remaining emails moved to the work folder.  40 percent of the remaining emails is 0.4 x 400 = 160.  So, we subtract 200 from 400, then subtract 160 from that result, to get 200. 200 - 160 = 40.
+
+Answer: 40.

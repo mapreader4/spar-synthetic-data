@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Betty starts with 60 cookies and 10 brownies. She eats 3 cookies a day, so in a week, she eats 3 * 7 = 21 cookies. She also eats 1 brownie a day, so in a week, she eats 1 * 7 = 7 brownies. 
+
+So, she eats 21 cookies and 7 brownies in a week.
+
+To find the difference between the number of cookies and brownies, we can subtract 21 from 60 and 7 from 10.
+
+60 - 21 = 39
+10 - 7 = 3
+
+So, Betty has 39 more cookies than brownies.

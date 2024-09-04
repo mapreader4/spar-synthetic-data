@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+At the end of the first quarter, the winning team had double the points of the losing team. So, let's say the losing team had x points in the first quarter. The winning team had 2x points.
+
+At the end of the second quarter, the winning team had 10 more points than it started with. So, it had 2x + 10 points.
+
+At the end of the third quarter, the winning team had 20 more points than it had in the second quarter. So, it had (2x + 10) + 20 points.
+
+The total points the winning team scored is 80. So, we can set up an equation:
+
+(2x + 10) + 20 + x = 80
+
+We can solve for x:
+
+x = 25
+
+So, the losing team had 25 points in the first quarter.
+
+Now, let's find the total number of points the winning team scored in the fourth quarter. The winning team had 80 points in total. It had 25 points in the first quarter, 25 + 10 = 35 points in the second quarter, and 35 + 20 = 55 points in the third quarter. So, the winning team scored 80 - 55 = 25 points in the fourth quarter.
+
+Answer: 25

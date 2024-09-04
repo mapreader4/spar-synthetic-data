@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+Night 1: Coral reads 30 pages.
+
+Night 2: Coral reads 2 less than twice the number of pages read on Night 1.
+* Pages read on Night 1: 30
+* Twice the number of pages read on Night 1: 2 x 30 = 60
+* 2 less than 60: 60 - 2 = 58
+* So, Coral reads 58 pages on Night 2.
+
+Night 3: Coral reads 3 more pages than the sum of the first two nights.
+* Pages read on Night 1: 30
+* Pages read on Night 2: 58
+* Sum of pages read on Night 1 and Night 2: 30 + 58 = 88
+* 3 more pages than 88: 88 + 3 = 91
+* So, Coral reads 91 pages on Night 3.
+
+Now, to find the total number of pages Coral read in the 3 nights:
+* Pages read on Night 1: 30
+* Pages read on Night 2: 58
+* Pages read on Night 3: 91
+* Total pages read: 30 + 58 + 91 = 179
+
+Answer: 179

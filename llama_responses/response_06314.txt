@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of peaches that are ripe. On the first day, 2 peaches ripen. On the second day, 4 ripe peaches are added, and 2 are eaten, leaving 2 ripe peaches. On the third day, 3 ripe peaches are eaten, leaving 2 ripe peaches. On the fourth day, 4 ripe peaches are added, and 2 are eaten, leaving 2 ripe peaches. On the fifth day, 4 ripe peaches are added, and 3 are eaten, leaving 2 ripe peaches.
+
+So, at the end of the 5 days, there are 2 ripe peaches in the bowl.
+
+Answer: 2

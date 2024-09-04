@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of chairs. We know there are 7 rows and each row has 12 chairs. So, the total number of chairs is 7 * 12 = 84.
+
+However, some people arrived late and grabbed 11 extra chairs. So, we need to subtract 11 from 84 to find the final number of chairs.
+
+84 - 11 = 73
+
+Answer: 73

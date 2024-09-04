@@ -1,0 +1,24 @@
+To solve this problem, we need to find the time difference between when Abel and Alice reach the destination.
+
+Given information:
+- Abel's travel distance: 1000 miles
+- Abel's travel speed: 50 miles per hour
+- Alice's travel speed: 40 miles per hour
+- Time difference between their departures: 1 hour
+
+Step 1: Calculate the time it takes for Abel to reach the destination.
+Time taken by Abel = Distance / Speed
+Time taken by Abel = 1000 miles / 50 miles per hour = 20 hours
+
+Step 2: Calculate the time it takes for Alice to reach the destination.
+Time taken by Alice = Distance / Speed
+Time taken by Alice = 1000 miles / 40 miles per hour = 25 hours
+
+Step 3: Calculate the time difference between when Abel and Alice reach the destination.
+Time difference = Time taken by Alice - Time taken by Abel
+Time difference = 25 hours - 20 hours = 5 hours
+
+Step 4: Convert the time difference from hours to minutes.
+Time difference in minutes = 5 hours × 60 minutes per hour = 300 minutes
+
+Answer: 300 minutes

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The total attendance for the 3-day festival was 2700 people
+* The first day had an unknown number of attendees, let's call this x
+* The second day had half the number of attendees as the first day, so the attendance was x/2
+* The third day had triple the number of attendees as the first day, so the attendance was 3x
+
+We can set up an equation to solve for the attendance on the second day:
+* Total attendance = x + x/2 + 3x
+* 2700 = 4.5x
+* x = 600
+
+Therefore, the attendance on the second day was x/2 = 600/2 = 300 people.
+
+Answer: 300

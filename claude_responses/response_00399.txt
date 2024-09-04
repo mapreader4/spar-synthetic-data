@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* Sam can assemble 1 widget every 10 minutes
+* Sam worked for 6 hours, which is 360 minutes
+* In 360 minutes, Sam can assemble 360 / 10 = 36 widgets
+* Jack can assemble 2 widgets every 15 minutes
+* Jack worked for 4 hours, which is 240 minutes
+* In 240 minutes, Jack can assemble (240 / 15) * 2 = 32 widgets
+* Together, Sam and Jack assembled 36 + 32 = 68 widgets
+* The remaining 0 widgets must have been assembled by Tony
+* Since Tony worked for 8 hours, which is 480 minutes, and they completed 0 widgets, it must take Tony x minutes to assemble 1 widget, where x is the unknown we are trying to find.
+
+Answer: 480 minutes

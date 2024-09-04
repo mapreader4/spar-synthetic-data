@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Cameron drives at twice the speed of his brother, Chase. This means that if Cameron takes x minutes to travel from Granville to Salisbury, Chase would take 2x minutes.
+2) Danielle drives at three times the speed of Cameron. This means that if Cameron takes x minutes, Danielle would take x/3 minutes.
+3) We know that it takes Danielle 30 minutes to travel from Granville to Salisbury. This means that if Cameron takes x minutes, then x/3 = 30, so x = 90.
+4) Since Chase takes 2x minutes, and x = 90, this means that Chase takes 2 * 90 = 180 minutes to travel from Granville to Salisbury.
+
+Answer: 180 minutes

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. The first option is a $300 lens with a 20% discount.
+   * To calculate the discounted price, we take the original price ($300) and multiply it by (1 - 0.20) to get the discounted price.
+   * Discounted price = $300 * (1 - 0.20) = $300 * 0.80 = $240
+
+2. The second option is a $220 lens.
+
+3. To calculate the amount of money saved by buying the cheaper lens, we need to find the difference between the two prices.
+   * Savings = $240 - $220 = $20
+
+Answer: $20

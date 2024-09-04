@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* A large puzzle costs $15
+* A small puzzle and a large puzzle together cost $23
+* We want to find the cost of 1 large and 3 small puzzles
+
+First, let's find the cost of a small puzzle.
+* We know that a small puzzle and a large puzzle together cost $23
+* So, the cost of a small puzzle must be $23 - $15 = $8
+
+Now, we can calculate the total cost of 1 large and 3 small puzzles.
+* 1 large puzzle costs $15
+* 3 small puzzles cost 3 x $8 = $24
+* Total cost = $15 + $24 = $39
+
+Answer: 39

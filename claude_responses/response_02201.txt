@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+
+* Two days ago, Uncle Welly planted 50 roses.
+* Yesterday, he planted 20 more roses than the previous day, which was 50 + 20 = 70 roses.
+* Today, he planted twice the number of roses than two days ago, which was 2 × 50 = 100 roses.
+
+Now, to find the total number of roses planted in the vacant lot, we add up the roses planted on each day:
+* Total roses planted = 50 + 70 + 100 = 220 roses
+
+Answer: 220

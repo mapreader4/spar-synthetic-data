@@ -1,0 +1,27 @@
+Let's break down the problem step by step:
+
+1. The largest hole leaks at a rate of 3 ounces of water per minute.  Since it's a 2-hour period, the amount of water leaked from the largest hole in 2 hours is:
+
+3 ounces per minute * 120 minutes (2 hours) = 360 ounces
+
+2. The medium-sized hole leaks water at one-half the rate of the largest hole.  So, the rate of the medium-sized hole is:
+
+3 ounces per minute / 2 = 1.5 ounces per minute
+
+In 2 hours, the amount of water leaked from the medium-sized hole is:
+
+1.5 ounces per minute * 120 minutes = 180 ounces
+
+3. The smallest hole leaks water at a rate of one-third the rate of the medium-sized hole.  So, the rate of the smallest hole is:
+
+1.5 ounces per minute / 3 = 0.5 ounces per minute
+
+In 2 hours, the amount of water leaked from the smallest hole is:
+
+0.5 ounces per minute * 120 minutes = 60 ounces
+
+4. Now, we need to add up the amount of water leaked from all three holes:
+
+360 ounces (largest hole) + 180 ounces (medium-sized hole) + 60 ounces (smallest hole) = 600 ounces
+
+Answer: 600

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Ethyl bought Lucy two new dolls for her doll collection.
+2) This increased the doll collection by 25%.
+3) To find the new total number of dolls in the collection, we need to find 25% of the original number of dolls, and then add that to the original number.
+4) Let's call the original number of dolls 'x'.
+5) 25% of x is 0.25x.
+6) So the new total number of dolls is x + 0.25x = 1.25x.
+7) We know that the new total is 1.25x, and we also know that 2 new dolls were added.
+8) So the original number of dolls, x, must have been 1.25x - 2.
+
+Answer: 6

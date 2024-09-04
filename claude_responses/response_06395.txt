@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The client needs 10 ladders with 50 rungs each.
+2) The client also needs 20 ladders with 60 rungs each.
+3) Jacob charges $2 for every rung.
+4) For the 10 ladders with 50 rungs each:
+   - 10 ladders x 50 rungs per ladder = 500 rungs
+   - 500 rungs x $2 per rung = $1,000
+5) For the 20 ladders with 60 rungs each:
+   - 20 ladders x 60 rungs per ladder = 1,200 rungs
+   - 1,200 rungs x $2 per rung = $2,400
+6) To calculate the total cost, we add the costs for the two sets of ladders:
+   - $1,000 + $2,400 = $3,400
+
+Answer: $3,400

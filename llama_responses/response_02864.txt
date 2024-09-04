@@ -1,0 +1,7 @@
+Let's start by identifying the number of turtles Trey has. Trey has 7 times as many turtles as Kris, so if we let x be the number of turtles Kris has, then Trey has 7x turtles. 
+
+Let's find the number of turtles Kristen has. Kristen has 1/4 as many turtles as Kris has. So, since Kris has x turtles, Kristen has x/4 turtles. We know that Kristen has 12 turtles, so x/4 = 12. To find the value of x, we can multiply both sides of the equation by 4. x * 4 = 12, so x = 12/4 = 3. 
+
+So, Trey has 7 * 3 = 21 turtles, and Kristen has 3. Trey has 21 - 3 = 18 more turtles than Kristen. 
+
+Answer: 18

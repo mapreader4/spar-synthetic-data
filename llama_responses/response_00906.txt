@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+At the first stop, 7 people got on, so the total number of people on the bus is 7.
+
+At the second stop, 3 people got off, so the new total number of people on the bus is 7 - 3 = 4.
+
+At the third stop, 5 people got on, so the new total number of people on the bus is 4 + 5 = 9.
+
+At the third stop, 2 people got off, so the new total number of people on the bus is 9 - 2 = 7.
+
+Finally, 4 people got on, so the new total number of people on the bus is 7 + 4 = 11.
+
+Answer: 11

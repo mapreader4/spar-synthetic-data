@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* John visits 50 houses a day
+* 20% of the houses he visits buy something from him
+* Of those who buy something, half buy a $50 set of knives and the other half buy a $150 set of knives
+* He works 5 days a week
+
+First, let's calculate how many houses buy something from him per day:
+* 20% of 50 houses = 0.20 * 50 = 10 houses
+
+Now, let's calculate how much he sells per day:
+* Half of the 10 houses buy the $50 set of knives, so that's 5 * $50 = $250
+* The other half buy the $150 set of knives, so that's 5 * $150 = $750
+* Total sales per day = $250 + $750 = $1,000
+
+Finally, let's calculate his weekly sales:
+* He works 5 days a week
+* His daily sales are $1,000
+* Weekly sales = $1,000 * 5 = $5,000
+
+Answer: $5,000

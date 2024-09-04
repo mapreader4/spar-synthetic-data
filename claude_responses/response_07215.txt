@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The baker's usual daily sales:
+   - 20 pastries at $2 each = $40
+   - 10 loaves of bread at $4 each = $40
+   - Total usual daily sales = $40 + $40 = $80
+
+2. The baker's sales for today:
+   - 14 pastries at $2 each = $28
+   - 25 loaves of bread at $4 each = $100
+   - Total sales for today = $28 + $100 = $128
+
+3. The difference between the daily average and today's total:
+   - Daily average = $80
+   - Today's total = $128
+   - Difference = $128 - $80 = $48
+
+Answer: $48

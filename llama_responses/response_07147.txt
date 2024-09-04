@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by assuming that Jed starts with 20 cards.
+
+After the first week, he gets 6 new cards, so he now has 20 + 6 = 26 cards.
+
+Then, after the second week, he gives 2 cards to his friends, so he has 26 - 2 = 24 cards left.
+
+In the third week, he gets 6 more cards, so he now has 24 + 6 = 30 cards.
+
+In the fourth week, he gives 2 cards to his friends, so he has 30 - 2 = 28 cards left.
+
+In the fifth week, he gets 6 more cards, so he now has 28 + 6 = 34 cards.
+
+In the sixth week, he gives 2 cards to his friends, so he has 34 - 2 = 32 cards left.
+
+In the seventh week, he gets 6 more cards, so he now has 32 + 6 = 38 cards.
+
+In the eighth week, he gives 2 cards to his friends, so he has 38 - 2 = 36 cards left.
+
+In the ninth week, he gets 6 more cards, so he now has 36 + 6 = 42 cards.
+
+In the tenth week, he gives 2 cards to his friends, so he has 42 - 2 = 40 cards left.
+
+After 10 weeks, Jed will have a total of 40 cards.
+
+Answer: 10

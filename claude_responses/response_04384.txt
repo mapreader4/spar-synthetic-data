@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The initial speed of the spaceship with 200 people on board is 500 km/hr.
+2) For every 100 additional people that board the spaceship, its speed is halved.
+3) The question states that there are 400 people on board the spaceship.
+4) The difference between 400 people and 200 people is 200 people.
+5) Since the speed is halved for every 100 additional people, with 200 additional people, the speed will be halved twice.
+6) Halving the speed of 500 km/hr twice gives us a speed of 125 km/hr.
+
+Answer: 125 km/hr

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, we know that Brinley counted 100 snakes, 80 arctic foxes, and 20 leopards. Let's add these numbers together to get the total number of animals: 100 + 80 + 20 = 200.
+
+Next, we know that there are ten times more bee-eaters than leopards. So, if there are 20 leopards, then there are 20 x 10 = 200 bee-eaters. Adding this to the total, we get 200 + 200 = 400.
+
+Then, we know that there are half as many cheetahs as snakes. Since there are 100 snakes, half of that is 100 / 2 = 50 cheetahs.
+
+Finally, we know that there are twice as many alligators as the total number of Arctic foxes and leopards. The total number of Arctic foxes and leopards is 80 + 20 = 100. Twice that is 100 x 2 = 200 alligators.
+
+Now, let's add up the total number of animals: 200 + 400 + 50 + 200 = 850.
+
+Answer: 850

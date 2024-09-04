@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The crayon factory makes 4 colors of crayons
+* They put 2 of each color crayon in each box
+* So each box contains 4 crayons (2 of each color)
+* The factory produces enough crayons to fill 5 boxes per hour
+* We want to find how many crayons the factory produces in 4 hours
+
+First, let's calculate how many crayons are produced in 1 hour:
+* 5 boxes per hour x 4 crayons per box = 20 crayons per hour
+
+Now, to find the total number of crayons produced in 4 hours:
+* 20 crayons per hour x 4 hours = 80 crayons
+
+Answer: 80

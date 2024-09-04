@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* John worked 8 hours a day
+* He worked from the 3rd to the 8th, including the 3rd and not including the 8th
+* That means he worked for 6 days (3rd, 4th, 5th, 6th, 7th)
+* Since he worked 8 hours a day for 6 days, we can calculate the total hours worked as:
+* 8 hours per day x 6 days = 48 hours
+
+Answer: 48

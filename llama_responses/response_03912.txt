@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the price of the car.
+
+Quincy paid a down payment of $5,000.00 and his monthly payment is $250.00.
+
+Since the down payment is a part of the total price of the car, we can set up an equation to represent the total price of the car as:
+
+Total price of the car = Down payment + Total amount of monthly payments
+
+We can represent this as:
+
+x = 5000.00 + 250.00n
+
+Where n is the number of months Quincy will be making payments.
+
+Since Quincy is making no interest payments, we know that the total amount of payments is equal to the total price of the car. So, we can set up the equation:
+
+5000.00 + 250.00n = x
+
+To solve for x, we can subtract 5000.00 from both sides of the equation:
+
+5000.00 - 5000.00 = 250.00n
+
+This simplifies to:
+
+250.00 = 250.00n
+
+This means that the number of months Quincy will make is 10. Since Quincy will make 12 payments per year, we can convert this to years by dividing by 12:
+
+10 / 12 = 0.8333
+
+So, the total price of the car is:
+
+Answer: 60000.00

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+1. The album has 10 songs.
+2. Each song is 3.5 minutes long.
+3. Lucy jumps rope 1 time per second.
+
+To find the total time of the album, we multiply the number of songs by the length of each song:
+
+10 songs * 3.5 minutes per song = 35 minutes
+
+To find the total number of seconds, we multiply the total minutes by 60 (since there are 60 seconds in a minute):
+
+35 minutes * 60 = 2100 seconds
+
+Now, to find the number of jumps, we divide the total seconds by the number of jumps per second:
+
+2100 seconds / 1 = 2100 jumps
+
+Answer: 2100

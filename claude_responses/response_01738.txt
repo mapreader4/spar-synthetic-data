@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Steve bakes apple pies on Mondays, Wednesdays, and Fridays.
+* He bakes 12 pies per day.
+* So on the 3 days he bakes apple pies, he bakes a total of 12 x 3 = 36 apple pies.
+* Steve bakes cherry pies on Tuesdays and Thursdays.
+* He bakes 12 pies per day.
+* So on the 2 days he bakes cherry pies, he bakes a total of 12 x 2 = 24 cherry pies.
+* To find the difference between the number of apple pies and cherry pies, we subtract the number of cherry pies from the number of apple pies:
+* 36 apple pies - 24 cherry pies = 12 more apple pies.
+
+Answer: 12

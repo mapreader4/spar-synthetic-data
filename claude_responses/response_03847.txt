@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) All people named Barry are nice, and there are 24 people named Barry in the crowd.
+2) Therefore, the number of nice people named Barry is 24.
+3) Half of the people named Kevin are nice, and there are 20 people named Kevin in the crowd.
+4) Therefore, the number of nice people named Kevin is 20 * 0.5 = 10.
+5) Three-fourths of people named Julie are nice, and there are 80 people named Julie in the crowd.
+6) Therefore, the number of nice people named Julie is 80 * 0.75 = 60.
+7) 10% of people named Joe are nice, and there are 50 people named Joe in the crowd.
+8) Therefore, the number of nice people named Joe is 50 * 0.1 = 5.
+9) To find the total number of nice people in the crowd, we add up the nice people from each name:
+24 + 10 + 60 + 5 = 99
+
+Answer: 99

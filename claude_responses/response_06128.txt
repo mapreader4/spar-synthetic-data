@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The opera house has 150 rows, and each row has 10 seats.
+2) Therefore, the total number of seats in the opera house is 150 rows x 10 seats per row = 1,500 seats.
+3) The ticket cost for each show is $10 per seat.
+4) We are told that 20% of the seats were not taken.
+5) To find the number of seats that were taken, we take the total number of seats (1,500) and subtract 20% of that, which is 0.2 x 1,500 = 300 seats.
+6) So the number of seats that were taken is 1,500 - 300 = 1,200 seats.
+7) To find the total amount the opera house earned, we multiply the number of taken seats (1,200) by the ticket price ($10 per seat).
+8) 1,200 seats x $10 per seat = $12,000.
+
+Answer: $12,000

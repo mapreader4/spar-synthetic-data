@@ -1,0 +1,12 @@
+Let's break this problem down step by step!
+
+1. Sheila has already saved $3,000 in the piggy bank.
+2. She plans to save $276 per month for 4 years. To find the total amount she'll save, we need to multiply the monthly savings by the number of months. There are 12 months in a year, and 4 years is 4 x 12 = 48 months. So, she'll save a total of:
+
+$276 per month x 48 months = $13,248
+
+3. The family added $7,000 to the piggy bank, so we need to add that to the total amount Sheila will save. To find the total amount in the piggy bank, we add the initial $3,000 to the total amount she'll save:
+
+$3,000 (initial savings) + $13,248 (total savings) = $16,248
+
+Answer: 16,248

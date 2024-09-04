@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Yesterday, Jeremy listened to 9 songs
+* Today, Jeremy listened to 5 more songs than yesterday
+* To find the number of songs listened to today, we add 5 to the number of songs listened to yesterday:
+    * Today's songs = 9 + 5 = 14 songs
+* To find the total number of songs listened to in two days, we add the number of songs listened to yesterday and today:
+    * Total songs = 9 + 14 = 23 songs
+
+Answer: 23

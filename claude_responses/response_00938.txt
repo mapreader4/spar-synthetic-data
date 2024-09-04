@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Joe's team won 1 game, which scores 3 points
+* Joe's team drew 3 games, which scores 1 point each, so 3 x 1 = 3 points
+* Total points for Joe's team = 3 + 3 = 6 points
+* The first-place team won 2 games, which scores 3 points each, so 2 x 3 = 6 points
+* The first-place team drew 2 games, which scores 1 point each, so 2 x 1 = 2 points
+* Total points for the first-place team = 6 + 2 = 8 points
+* The difference between the first-place team's points and Joe's team's points is 8 - 6 = 2 points
+
+Answer: 2

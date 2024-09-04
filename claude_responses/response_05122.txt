@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The firefighter's hose can deliver 20 gallons of water per minute.
+2) The building fire requires 4000 gallons of water to put out.
+3) There are 5 firefighters, each with their own hose.
+4) Since each hose can deliver 20 gallons per minute, the total amount of water delivered by the 5 firefighters is 5 * 20 = 100 gallons per minute.
+5) To calculate the time it takes to put out the fire, we divide the total amount of water required (4000 gallons) by the total amount of water delivered per minute (100 gallons/minute).
+6) 4000 gallons / 100 gallons/minute = 40 minutes.
+
+Answer: 40 minutes.

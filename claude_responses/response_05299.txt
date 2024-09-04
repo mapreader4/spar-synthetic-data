@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Dianne has 1000 customers.
+2. 37% of her 1000 customers end up returning their books.
+   * 37% of 1000 = 0.37 * 1000 = 370 customers return their books.
+3. Each book costs $15.
+4. To calculate the total sales before returns:
+   * Total sales = 1000 customers * $15 per book = $15,000
+5. To calculate the total returns:
+   * Total returns = 370 customers returning books * $15 per book = $5,550
+6. To calculate the net sales after subtracting the returns:
+   * Net sales = Total sales - Total returns
+   * Net sales = $15,000 - $5,550 = $9,450
+
+Answer: $9,450

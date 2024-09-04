@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Lola's 10 breeding rabbits had 10 times as many kittens as the number of breeding rabbits Lola has. So, Lola has 10 breeding rabbits.
+
+Step 2: Half of the kittens got adopted, so 10 / 2 = 5 kittens got adopted. So, Lola had 10 - 5 = 5 kittens remaining.
+
+Step 3: In the next spring, Lola's 10 breeding rabbits had a total of 60 kittens, with 4 of the kittens being adopted. So, 60 - 4 = 56 kittens.
+
+Step 4: Including the breeding rabbits, Lola has 10 breeding rabbits + 56 kittens = 66.
+
+Answer: 66

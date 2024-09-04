@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The hotel charges $280 per week or $1000 per month.
+2) Casey will be staying for 3 months, with each month having exactly 4 weeks.
+3) To calculate the cost for the weekly rate:
+   * 3 months x 4 weeks per month = 12 weeks
+   * 12 weeks x $280 per week = $3,360
+4) To calculate the cost for the monthly rate:
+   * 3 months x $1000 per month = $3,000
+5) To calculate the amount saved by paying monthly:
+   * $3,360 (weekly rate) - $3,000 (monthly rate) = $360
+
+Answer: $360

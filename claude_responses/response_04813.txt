@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Laura needs to buy window treatments for 3 windows
+* For each window, she needs to buy a set of sheers and a set of drapes
+* The sheers cost $40.00 per pair
+* The drapes cost $60.00 per pair
+* To calculate the total cost, we need to:
+  1. Calculate the cost of the sheers for all 3 windows
+  2. Calculate the cost of the drapes for all 3 windows
+  3. Add the cost of the sheers and the drapes together
+
+Step 1: Calculate the cost of the sheers for all 3 windows
+* Sheers cost $40.00 per pair
+* Laura needs 3 pairs of sheers (one for each window)
+* 3 pairs of sheers x $40.00 per pair = $120.00
+
+Step 2: Calculate the cost of the drapes for all 3 windows
+* Drapes cost $60.00 per pair
+* Laura needs 3 pairs of drapes (one for each window)
+* 3 pairs of drapes x $60.00 per pair = $180.00
+
+Step 3: Add the cost of the sheers and the drapes together
+* $120.00 (sheers) + $180.00 (drapes) = $300.00
+
+Answer: $300

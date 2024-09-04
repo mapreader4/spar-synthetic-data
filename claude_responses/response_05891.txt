@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The Kickers scored 2 goals in the first period
+* The Kickers scored twice the amount in the second period, which is 2 x 2 = 4 goals
+* So the total goals scored by The Kickers is 2 + 4 = 6 goals
+* The Spiders scored half the amount that The Kickers scored in the first period, which is 2 / 2 = 1 goal
+* The Spiders scored twice the amount that The Kickers scored in their second period, which is 2 x 4 = 8 goals
+* So the total goals scored by The Spiders is 1 + 8 = 9 goals
+* The total amount of goals both teams scored is the sum of The Kickers' goals (6) and The Spiders' goals (9).
+
+Answer: 15

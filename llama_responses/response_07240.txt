@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total cost of the chickens. Roberto bought 4 chickens for $20 each, so the total cost of the chickens is 4 x 20 = 80.
+
+The total weekly cost of feeding the chickens is $1, and the total cost of the eggs is $2 per dozen. So, the total cost of the eggs per week is $1 + 2 = 3.
+
+Now, Roberto wants to know how many weeks it will take for the chickens to be cheaper than buying his eggs. Let's assume that he wants to save the same cost. Let's call the cost of the chickens and the cost of the eggs "C" and "E" respectively.
+
+The total weekly cost of the chickens is 80, and the total cost of the eggs is 3. We want to find the number of weeks it will take for the chickens to be cheaper than buying the eggs. So, we can set up an equation:
+
+C = 80 + 3E
+
+We know that C = 80, so we can solve for E:
+
+E = (80 - 80) / 3
+
+E = 80 / 3
+
+E = 26.67
+
+So, it will take approximately 26.67 weeks for the chickens to be cheaper than buying his eggs.

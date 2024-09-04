@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Traci and Harris have created 9 cakes each, so a total of 18 cakes
+* Each cake needs 100g of flour
+* So the total amount of flour needed for all 18 cakes is 18 * 100g = 1800g
+* Harris has 400g of flour in his house
+* Therefore, the remaining flour needed must have been brought by Traci from her own house
+
+To calculate the amount of flour Traci brought from her own house, we take the total flour needed (1800g) and subtract the amount of flour Harris had (400g):
+1800g - 400g = 1400g
+
+Answer: 1400g

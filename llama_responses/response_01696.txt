@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, let's find the total cost of the bill: $150.
+
+Silas will pay half of the bill, so that's $150 / 2 = $75.
+
+The remaining bill is $150 - $75 = $75.
+
+The remaining friends will split the rest of the bill and leave a 10% tip for the whole meal. To find the amount each friend will pay, we can first find the total amount the friends will pay, which is $75.
+
+Then, we can divide the total amount by the number of friends, which is 5 (since there are 6 friends and Silas already paid $75).
+
+$75 / 5 = $15.
+
+So, the answer is:
+
+Answer: 15

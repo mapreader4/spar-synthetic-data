@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 3 types of pencils:
+  - Pencil with eraser: $0.8 each
+  - Regular pencil: $0.5 each
+  - Short pencil: $0.4 each
+* The store sold:
+  - 200 pencils with eraser
+  - 40 regular pencils
+  - 35 short pencils
+* To calculate the total revenue:
+  - Revenue from pencils with eraser: 200 * $0.8 = $160
+  - Revenue from regular pencils: 40 * $0.5 = $20
+  - Revenue from short pencils: 35 * $0.4 = $14
+* Adding up the revenue from all 3 types of pencils:
+  - Total revenue = $160 + $20 + $14 = $194
+
+Answer: $194

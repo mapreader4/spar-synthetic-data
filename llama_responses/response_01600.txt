@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of minnows with red bellies. We know that 40% of the minnows have red bellies, so we can set up an equation to represent this:
+
+Let x be the total number of minnows. Then, the number of minnows with red bellies can be represented as 0.4x.
+
+We are given that 20 minnows have red bellies, so we can set up an equation to represent this:
+
+0.4x = 20
+
+Now, we can solve for x:
+
+x = 20 / 0.4
+x = 50
+
+So, the total number of minnows is 50.
+
+Now, we know that the total number of minnows is 50 and that 40% have red bellies, so the number of minnows with green bellies is 30% of 50, which is:
+
+0.3 * 50 = 15
+
+The number of minnows with white bellies is the total number of minnows minus the number of minnows with red bellies and green bellies, which is:
+
+50 - 20 - 15 = 15
+
+So, the number of minnows with white bellies is 15.
+
+Answer: 15

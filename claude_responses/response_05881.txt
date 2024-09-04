@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John's car gets 30 miles per gallon (mpg).
+2) He drives 20 miles to work each way, 5 days a week.
+   * That's 20 miles x 2 (to and from work) x 5 days = 200 miles per week for work commute.
+3) He also drives another 40 miles a week for leisure travel.
+4) So the total miles he drives per week is:
+   * 200 miles (work commute) + 40 miles (leisure) = 240 miles per week.
+5) Since his car gets 30 mpg, to calculate the gallons of gas used per week, we divide the total miles by the miles per gallon:
+   * 240 miles / 30 mpg = 8 gallons of gas per week.
+
+Answer: 8 gallons

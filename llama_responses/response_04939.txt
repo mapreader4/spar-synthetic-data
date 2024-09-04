@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first identify the number of students who got a full merit college scholarship: 5% of the 300 students, which is 15 students. Let's also identify the number of students who got a half merit scholarship: 10% of the 300 students, which is 30 students.
+
+The number of students who did not get any scholarships is the difference between the total number of students and the number of students who got a full or half merit scholarship. The total number of students is 300, and the number of students who got a full or half merit scholarship is 15 + 30 = 45. So, the number of students who did not get any scholarships is 300 - 45 = 255. 
+
+Answer: 255.

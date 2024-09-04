@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Jason spent 1/4 of his money on some books, and an additional $10.
+   * Let's call the initial amount of money he had 'x'.
+   * He spent 1/4 of x, which is x/4, plus an additional $10.
+   * So the amount he spent on books is x/4 + $10.
+
+2. He then spent 2/5 of the remaining money on some DVDs, and an additional $8.
+   * The amount of money he had left after buying the books is x - (x/4 + $10) = 3x/4 - $10.
+   * He spent 2/5 of this remaining money, which is 2/5 * (3x/4 - $10) = 6x/20 - $4.
+   * He also spent an additional $8 on the DVDs.
+   * So the total amount he spent on the DVDs is 6x/20 - $4 + $8 = 6x/20 + $4.
+
+3. He was left with $130 after all his spending.
+   * The amount of money he had left is x - (x/4 + $10) - (6x/20 + $4) = $130.
+   * Solving this equation, we get:
+     * x - x/4 - 6x/20 - $10 - $4 = $130
+     * 13x/20 - $14 = $130
+     * 13x/20 = $144
+     * x = $220
+
+Answer: $220

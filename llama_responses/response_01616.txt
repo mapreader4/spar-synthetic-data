@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Tristan studies for 4 hours on Monday, and then studies for twice as long on Tuesday, so he studies 4 + 4 = 8 hours on Monday and Tuesday.
+
+On Wednesday, Thursday, and Friday, he studies for 3 hours each day, so he studies 3 + 3 + 3 = 9 hours on those days.
+
+In total, Tristan has already studied 8 + 9 = 17 hours.
+
+He wants to study for a total of 25 hours, so he has 25 - 17 = 8 hours left to study.
+
+He wants to divide this remaining time evenly between Saturday and Sunday. Since 8 hours is the remaining time, and there are 2 days left, he will study 8 / 2 = 4 hours each day on Saturday and Sunday.
+
+Answer: 4

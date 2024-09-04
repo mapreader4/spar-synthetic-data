@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+* The easy round is worth 2 points per correct answer
+* Kim got 6 correct answers in the easy round
+* So for the easy round, Kim's points are:
+    - 6 correct answers x 2 points per answer = 12 points
+
+* The average round is worth 3 points per correct answer
+* Kim got 2 correct answers in the average round
+* So for the average round, Kim's points are:
+    - 2 correct answers x 3 points per answer = 6 points
+
+* The hard round is worth 5 points per correct answer
+* Kim got 4 correct answers in the hard round
+* So for the hard round, Kim's points are:
+    - 4 correct answers x 5 points per answer = 20 points
+
+* To calculate Kim's total points, we add up the points from each round:
+    - 12 points (easy) + 6 points (average) + 20 points (hard) = 38 total points
+
+Answer: 38

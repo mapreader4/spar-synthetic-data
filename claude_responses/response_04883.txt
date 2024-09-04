@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. The MRI cost $1200.
+2. The doctor charges $300 per hour, and needs to examine the MRI for 30 minutes, which is 0.5 hours.
+3. The doctor's fee is therefore 0.5 hours x $300/hour = $150.
+4. There is also a $150 fee just for being seen.
+5. The total cost before insurance is:
+   - MRI: $1200
+   - Doctor's fee: $150
+   - Exam fee: $150
+   - Total: $1200 + $150 + $150 = $1500
+
+6. The insurance covered 80% of the total cost.
+7. The amount Tim had to pay is 20% of the total cost.
+8. 20% of $1500 is 0.2 x $1500 = $300.
+
+Answer: $300

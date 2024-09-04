@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each horse produces 5 gallons of fertilizer per day
+* Janet has 80 horses
+* So the total amount of fertilizer produced per day is:
+    * 80 horses x 5 gallons/horse = 400 gallons per day
+* Each acre needs 400 gallons of fertilizer
+* Janet can spread fertilizer over 4 acres per day
+* The total area to be fertilized is 20 acres
+* To calculate how long it will take to fertilize all 20 acres:
+    * 20 acres / 4 acres per day = 5 days
+
+Answer: 5 days

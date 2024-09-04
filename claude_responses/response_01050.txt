@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The total number of photos is 152.
+2) Tim has 100 photos less than the total, which means Tim has 152 - 100 = 52 photos.
+3) Paul has 10 photos more than Tim, which means Paul has 52 + 10 = 62 photos.
+4) Since the total number of photos is 152, and Tim has 52 photos and Paul has 62 photos, the remaining photos must belong to Tom.
+5) To find the number of photos Tom has, we can subtract the number of photos Tim and Paul have from the total:
+152 - 52 - 62 = 38
+
+Answer: 38

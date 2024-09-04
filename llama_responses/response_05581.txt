@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's find the total number of students who wear vision assistance. 25% of the students wear glasses, which is 25/100 of the total students. 40% of the students wear contact lenses, which is 40/100 of the total students. 
+
+To find the total number of students who wear vision assistance, we add the number of students who wear glasses and the number of students who wear contact lenses. 25/100 + 40/100 = 65/100. 
+
+Now, to find the number of students who do not wear any vision assistance, we subtract the total number of students who wear vision assistance from the total number of students. 100 - 65 = 35.
+
+Answer: 35

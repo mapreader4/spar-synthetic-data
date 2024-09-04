@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* There are 6 tables in the classroom
+* Each table has 3 students sitting at it
+* So the number of students currently in the class is:
+  * 6 tables x 3 students per table = 18 students
+* Sally said 3 girls went to the bathroom
+* So the number of students currently in the class is now:
+  * 18 students - 3 students = 15 students
+* Sally also said that three times more students went to the canteen
+* So the number of students who went to the canteen is:
+  * 3 x 3 = 9 students
+* So the number of students currently in the class is now:
+  * 15 students - 9 students = 6 students
+* Elliott said that 2 groups of students have recently been added to the class
+* Each group has 4 students
+* So the number of additional students is:
+  * 2 groups x 4 students per group = 8 students
+* Lucas said that 3 foreign exchange students from Germany, 3 from France, and 3 from Norway have joined the class
+* So the total number of foreign exchange students is:
+  * 3 + 3 + 3 = 9 students
+* Therefore, the total number of students supposed to be in the class is:
+  * 6 students (currently in class) + 8 students (recently added) + 9 students (foreign exchange) = 23 students
+
+Answer: 23

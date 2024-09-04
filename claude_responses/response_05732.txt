@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The total number of students in Kylie's class is 50.
+2) 10 students scored 90 marks each.
+3) 15 students scored 10 marks fewer than the first 10 students, which means they scored 80 marks each.
+4) The remaining 25 students scored 60 marks each.
+5) To calculate the average marks for the whole class, we need to find the total marks scored by all the students and divide it by the total number of students.
+6) Total marks scored by the 10 students who scored 90 marks each = 10 * 90 = 900
+7) Total marks scored by the 15 students who scored 80 marks each = 15 * 80 = 1200
+8) Total marks scored by the 25 students who scored 60 marks each = 25 * 60 = 1500
+9) Total marks scored by the whole class = 900 + 1200 + 1500 = 3600
+10) Average marks for the whole class = 3600 / 50 = 72
+
+Answer: 72

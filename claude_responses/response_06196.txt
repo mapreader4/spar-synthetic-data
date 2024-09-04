@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Vanessa has used a total of 800g of packing peanuts
+* Each large order needs 200g of packing peanuts
+* Vanessa has sent 3 large orders, so the total amount of packing peanuts used for the large orders is:
+  * 3 large orders x 200g per order = 600g
+* The remaining amount of packing peanuts used is for the small orders:
+  * 800g total - 600g for large orders = 200g for small orders
+* Each small order needs 50g of packing peanuts
+* To find the number of small orders, we divide the remaining packing peanuts by the amount per small order:
+  * 200g / 50g per order = 4 small orders
+
+Answer: 4

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total number of cartons received: 50 cartons were received, but 20 cartons were less than usual. So, the total number of cartons received is 50 - 20 = 30.
+
+Step 2: Calculate the number of jars in each carton: Each carton has 20 jars of milk.
+
+Step 3: Calculate the total number of jars: 30 cartons * 20 jars per carton = 600 jars.
+
+Step 4: Calculate the number of jars damaged: 5 cartons had 3 jars damaged each, so 5 * 3 = 15 jars were damaged.
+
+Step 5: Calculate the number of jars in the totally damaged carton: 1 carton was totally damaged, and it had 20 jars. So, 20 jars were damaged.
+
+Step 6: Calculate the total number of jars damaged: 15 + 20 = 35 jars were damaged.
+
+Step 7: Calculate the number of jars good for sale: The total number of jars received is 600. Subtract the number of damaged jars: 600 - 35 = 565 jars are good for sale.
+
+Answer: 565

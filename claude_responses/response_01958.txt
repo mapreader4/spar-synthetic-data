@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Prejean's speed was three-quarters that of Rickey's speed. This means that if Rickey took x minutes to finish the race, Prejean would take 4/3 * x minutes to finish the race.
+2) The total time taken by both Prejean and Rickey was 70 minutes.
+3) So we can write the equation:
+x + 4/3 * x = 70
+4) Solving for x, we get:
+7/3 * x = 70
+x = 30
+Answer: 30 minutes

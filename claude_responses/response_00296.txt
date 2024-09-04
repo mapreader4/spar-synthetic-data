@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Chelsea has 24 kilos of sugar.
+2) She divides the 24 kilos equally into 4 bags, so each bag contains 24 / 4 = 6 kilos of sugar.
+3) One of the bags gets torn, and half of the sugar in that bag (6 / 2 = 3 kilos) falls to the ground.
+4) So, the remaining sugar is:
+   - 3 bags with 6 kilos each = 3 * 6 = 18 kilos
+   - 1 bag with 3 kilos remaining = 3 kilos
+5) The total remaining sugar is 18 + 3 = 21 kilos.
+
+Answer: 21 kilos

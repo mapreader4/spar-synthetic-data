@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 325 students in the high school.
+2) 40% of the students have glasses.
+3) To find the number of students who have glasses, we can take 40% of 325:
+   * 40% of 325 = 0.40 * 325 = 130 students have glasses.
+4) To find the number of students who do not have glasses, we need to subtract the number of students with glasses from the total number of students:
+   * 325 - 130 = 195 students do not have glasses.
+
+Answer: 195

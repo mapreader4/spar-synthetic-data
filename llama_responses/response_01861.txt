@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the total number of animals on the street is 300.
+
+If two-thirds of the animals are cats, then the number of cats is 300 * 2/3 = 200.
+
+Since the rest are dogs, the number of dogs is 300 - 200 = 100.
+
+Now, the number of legs of dogs is 100 * 4 = 400.

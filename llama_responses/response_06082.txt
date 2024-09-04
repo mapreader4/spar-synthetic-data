@@ -1,0 +1,13 @@
+Let's solve this problem step by step.
+
+Let's start with Chris. Chris has half as many cookies as Kenny. So, if Kenny has x cookies, Chris has x/2 cookies.
+
+Next, Glenn has four times as many cookies as Kenny. So, if Kenny has x cookies, Glenn has 4x cookies.
+
+We know that Glenn has 24 cookies. So, 4x = 24. We need to find the value of x. To do this, we can divide both sides of the equation by 4.
+
+x = 24/4 = 6.
+
+So, Chris has 6 cookies, Kenny has 6 cookies, and Glenn has 24 cookies. So, in total, they have 6 + 6 + 24 = 36 cookies.
+
+Answer: 36

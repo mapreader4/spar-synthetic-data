@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: "5 more blue crayons than red crayons". This means that the number of blue crayons is 5 more than the number of red crayons. Let's let the number of red crayons be x. Then, the number of blue crayons is x + 5.
+
+We are also given that there are 14 red crayons. So, the equation for the number of blue crayons can be written as x + 5 = 14. This means that x = 14 - 5 = 9.
+
+Now, the problem states that "6 less yellow crayons than double the blue crayons". This means that the number of yellow crayons is 6 less than 2 times the number of blue crayons. Since we know the number of blue crayons is 9, the number of yellow crayons is 9 - 6 = 3.
+
+So, the answer is: Answer: 3.

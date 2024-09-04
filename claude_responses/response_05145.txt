@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The class is 40% boys and the rest are girls.
+2) The boys in the class all got an 80% on the math test.
+3) The girls in the class all got a 90% on the math test.
+4) To calculate the class average, we need to find the weighted average of the boys' and girls' scores.
+5) The boys make up 40% of the class, so their contribution to the class average is 0.4 * 80 = 32.
+6) The girls make up 60% of the class, so their contribution to the class average is 0.6 * 90 = 54.
+7) The total class average is the sum of the boys' and girls' contributions, which is 32 + 54 = 86.
+
+Answer: 86

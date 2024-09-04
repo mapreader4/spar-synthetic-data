@@ -1,0 +1,12 @@
+Let's break this problem down step by step:
+
+1. Manny had 3 birthday cookie pies, and he wants to share them with his 24 classmates and Mr. Keith. So, the total number of people he wants to share with is 24 + 1 (Manny himself) = 25 people.
+2. Each cookie pie is cut into 10 slices. So, the total number of slices is 3 x 10 = 30.
+3. If Manny, his classmates, and Mr. Keith each get 1 piece, that means 25 people get 1 slice each. This leaves the remaining slices as follows:
+
+25 people x 1 slice/person = 25 slices
+4. Since there are 30 slices in total, and 25 slices have been given out, we can subtract 25 from 30 to find the remaining slices:
+
+30 - 25 = 5
+
+Answer: 5

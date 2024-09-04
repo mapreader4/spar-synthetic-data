@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Emilia needs 42 cartons of berries to make the berry cobbler.
+2) She already has 2 cartons of strawberries and 7 cartons of blueberries in her cupboard.
+3) To calculate the total number of cartons she already has, we add the strawberries and blueberries:
+2 cartons of strawberries + 7 cartons of blueberries = 9 cartons of berries
+4) To calculate the number of additional cartons she needs to buy, we subtract the number of cartons she already has from the total number of cartons she needs:
+42 cartons needed - 9 cartons already owned = 33 cartons to buy
+
+Answer: 33

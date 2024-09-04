@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Luna's master, Mary, and her husband, Frank, start with a new 12-cup bag of kibble. Mary gives Luna 1 cup of kibble in the morning, so the total amount of kibble left is 12 - 1 = 11 cups.
+
+In the evening, Mary gives Luna another 1 cup of kibble, so the total amount of kibble left is 11 - 1 = 10 cups.
+
+In the afternoon, Frank gives Luna 1 cup of kibble, so the total amount of kibble left is 10 - 1 = 9 cups.
+
+In the late evening, Frank gives Luna twice as much kibble as he gave in the afternoon, which is 2 cups. So, the total amount of kibble left is 9 - 2 = 7 cups.
+
+The next morning, Mary will find 7 cups of kibble remaining in the bag.
+
+Answer: 7

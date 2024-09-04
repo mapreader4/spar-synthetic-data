@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The first turkey is 6 kilograms, and the cost of a kilogram of turkey is $2, so the cost of the first turkey is 6 * 2 = $12.
+2. The second turkey is 9 kilograms, and the cost of a kilogram of turkey is $2, so the cost of the second turkey is 9 * 2 = $18.
+3. The third turkey is twice the weight of the second turkey, so it is 2 * 9 = 18 kilograms. The cost of the third turkey is 18 * 2 = $36.
+4. To find the total cost of all the turkeys, we add the cost of the three turkeys: 12 + 18 + 36 = $66.
+
+Answer: 66

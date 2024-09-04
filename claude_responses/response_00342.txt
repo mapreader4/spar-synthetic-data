@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The soccer game was 90 minutes long
+* Mark played for 20 minutes initially
+* Then he rested for some time
+* He then played for another 35 minutes
+* To find how long he was on the sideline, we need to subtract the total time he played from the total game time
+
+First, let's calculate the total time Mark played:
+* 20 minutes + 35 minutes = 55 minutes
+
+Now, we can subtract the total time he played from the total game time to find how long he was on the sideline:
+* 90 minutes - 55 minutes = 35 minutes
+
+Answer: 35

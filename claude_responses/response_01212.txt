@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Darren bought 4 boxes of crackers
+2) Each box contained 24 crackers
+3) So the total number of crackers Darren bought is:
+   4 boxes x 24 crackers per box = 96 crackers
+4) Calvin bought one box less than twice as many boxes as Darren
+5) Twice as many boxes as Darren is 4 x 2 = 8 boxes
+6) One box less than 8 boxes is 7 boxes
+7) Each box contained 24 crackers
+8) So the total number of crackers Calvin bought is:
+   7 boxes x 24 crackers per box = 168 crackers
+9) The total number of crackers they bought altogether is:
+   Darren's crackers (96) + Calvin's crackers (168) = 264 crackers
+
+Answer: 264

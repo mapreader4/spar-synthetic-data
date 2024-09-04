@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* 40% of the minnows have red bellies
+* 30% of the minnows have green bellies
+* The remaining minnows have white bellies
+* We are told that 20 minnows have red bellies
+* Since 40% of the minnows have red bellies, and there are 20 red-bellied minnows, we can calculate the total number of minnows:
+* 20 minnows = 40% of the total minnows
+* Total minnows = 20 / 0.40 = 50 minnows
+* Now we can calculate the number of minnows with green bellies:
+* 30% of 50 minnows = 0.30 * 50 = 15 minnows with green bellies
+* Finally, we can calculate the number of minnows with white bellies:
+* Total minnows - minnows with red bellies - minnows with green bellies = minnows with white bellies
+* 50 - 20 - 15 = 15 minnows with white bellies
+
+Answer: 15 minnows have white bellies.

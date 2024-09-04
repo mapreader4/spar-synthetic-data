@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The Great Wall of China was 7300 kilometers long
+* Beacon towers were positioned at 5 kilometer intervals along the Great Wall
+* To calculate the number of beacon towers, we divide the length of the Great Wall by the interval between towers:
+    * 7300 km / 5 km = 1460 beacon towers
+* Each beacon tower had 2 soldiers
+* To calculate the total number of soldiers, we multiply the number of beacon towers by the number of soldiers per tower:
+    * 1460 beacon towers x 2 soldiers per tower = 2920 soldiers
+
+Answer: 2920

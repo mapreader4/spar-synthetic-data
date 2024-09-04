@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The magician has performed the disappearing act 100 times this year
+* One-tenth of the time, the audience member never reappears
+* One-fifth of the time, two people reappear instead of one
+
+First, let's calculate the number of times the audience member never reappeared:
+* 100 performances * 1/10 = 10 times the audience member never reappeared
+
+Next, let's calculate the number of times two people reappeared:
+* 100 performances * 1/5 = 20 times two people reappeared
+
+Now, let's calculate the number of times one person reappeared:
+* 100 performances - 10 times no one reappeared - 20 times two people reappeared = 70 times one person reappeared
+
+Finally, let's add up the total number of people who reappeared:
+* 70 times one person reappeared + 20 times two people reappeared = 110 people reappeared
+
+Answer: 110

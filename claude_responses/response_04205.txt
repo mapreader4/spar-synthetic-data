@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, Cohen saw 300 fish-eater birds at the lake.
+
+2. On the second day, the number of birds doubled, so the number of birds seen was:
+   300 x 2 = 600 birds
+
+3. On the third day, the number of birds reduced by 200, so the number of birds seen was:
+   600 - 200 = 400 birds
+
+4. To find the total number of birds seen over the three days, we add the number of birds seen each day:
+   300 + 600 + 400 = 1,300 birds
+
+Answer: 1,300

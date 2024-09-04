@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+First, we need to find the total number of teeth removed for each person.
+
+1. The first person had 1/4 of his teeth removed. Since he had 32 teeth, 1/4 of 32 is:
+
+32 * (1/4) = 8
+
+So, the first person had 8 teeth removed.
+
+2. The second person had 3/8 of his teeth removed. Since he also had 32 teeth, 3/8 of 32 is:
+
+32 * (3/8) = 12
+
+So, the second person had 12 teeth removed.
+
+3. The third person had half of his teeth removed. Since he also had 32 teeth, half of 32 is:
+
+32 * (1/2) = 16
+
+So, the third person had 16 teeth removed.
+
+4. The last person only had 4 teeth removed.
+
+Now, let's add up the total number of teeth removed:
+
+8 + 12 + 16 + 4 = 40
+
+Answer: 40

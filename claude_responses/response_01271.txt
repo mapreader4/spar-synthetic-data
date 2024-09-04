@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Dorothy is 15 years old, so she qualifies for the 30% discount on the regular ticket price of $10.
+2) The discounted ticket price for Dorothy is $10 - (30% of $10) = $10 - $3 = $7.
+3) Dorothy's younger brother, who is also 18 or younger, also qualifies for the 30% discount, so his ticket price is also $7.
+4) Dorothy's parents and grandfather do not qualify for the discount, so their tickets are the regular price of $10 each.
+5) The total cost of the tickets for the family is:
+   - Dorothy: $7
+   - Younger brother: $7
+   - Parents (2 x $10): $20
+   - Grandfather: $10
+   - Total: $7 + $7 + $20 + $10 = $44
+6) Dorothy currently has $70.
+7) After the trip, Dorothy will have $70 - $44 = $26 remaining.
+
+Answer: $26

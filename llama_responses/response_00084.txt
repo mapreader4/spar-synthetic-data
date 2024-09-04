@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* The hotel has 10 floors with 10 identical rooms on each floor.
+* The last floor is unavailable for the guests.
+
+Let's assume that the unavailable floor is the 10th floor. Since the last floor is unavailable, we can't include it in our count.
+
+So, we have 9 floors with 10 rooms on each floor, except for the 10th floor. Therefore, the total number of rooms available is:
+
+9 floors x 10 rooms per floor = 90 rooms
+
+However, we need to subtract the rooms on the 10th floor because it's not available. So, we subtract 10 from 90:
+
+90 - 10 = 80
+
+Answer: 80

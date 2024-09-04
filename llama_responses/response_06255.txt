@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the total number of pages in the book is 372. Rich has read 125 pages of the book. He has already read 125 out of the 372 pages. So, to find out how many pages he has left to read, we can subtract 125 from 372.
+
+Subtracting 125 from 372, we get:
+
+372 - 125 = 247
+
+So, Rich has 247 pages left to read to finish the book.
+
+Answer: 247

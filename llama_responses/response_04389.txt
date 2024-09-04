@@ -1,0 +1,21 @@
+Let's break down the problem into smaller parts. Let's first find the monthly payment for the house. The house costs $480,000. The loan will be paid over 20 years, so to find the monthly payment, we can divide the total cost by the number of years.
+
+$480,000 ÷ 20 = $24,000
+
+So the monthly payment for the house is $24,000 per year. Since there are 12 months in a year, we can find the monthly payment by dividing the yearly payment by 12.
+
+$24,000 ÷ 12 = $2,000
+
+So the monthly payment for the house is $2,000.
+
+Now, let's do the same for the trailer. The trailer costs $120,000. The loan will be paid over 20 years, so we can find the monthly payment the same way as before.
+
+$120,000 ÷ 20 = $6,000
+
+The monthly payment for the trailer is $6,000. To find the difference in monthly payments, we subtract the trailer's monthly payment from the house's monthly payment.
+
+$2,000 - $6,000 = $1,000
+
+So the monthly payment for the house is $1,000 more than the monthly payment for the trailer.
+
+Answer: 1000

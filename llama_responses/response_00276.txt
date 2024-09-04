@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Step 1: Sabrina read 4 books in the first month. That means she has 14 - 4 = 10 books left.
+
+Step 2: In the second month, Sabrina read half the number of books left, which is 10 / 2 = 5 books.
+
+Step 3: So, Sabrina read 4 + 5 = 9 books in the first two months.
+
+Step 4: The total number of pages Sabrina has to read to finish the whole series is the total number of pages in all the books minus the number of pages she has already read, which is 14 x 200 - (4 x 200) - (5 x 200) = 2800 - (800) = 2000.
+
+Answer: 2000

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the area of Drew's lawn. The lawn is 22 feet from the house to the curb, and 36 feet from side to side. So, the length of the lawn is 22 + 36 = 58 feet. The width of the lawn is 36 feet, so the area is 58 * 36 = 2076 square feet.
+
+Drew bought four bags of seed, each covering 250 square feet. So, the total area covered by the seed is 4 * 250 = 1000 square feet.
+
+The area of the lawn is 2076 square feet, and the area covered by the seed is 1000 square feet. To find the leftover area, we need to subtract the area covered by the seed from the area of the lawn.
+
+So, the leftover area is 2076 - 1000 = 76 square feet.
+
+Answer: 76

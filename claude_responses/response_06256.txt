@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+* The old league record is an average score per player of 287 per round
+* Each team has 4 players
+* There are 10 rounds in the season
+* Through the first 9 rounds, George's team has scored a total of 10,440 points
+
+To calculate the minimum average they need to score per player in the final round to tie the league record, we need to:
+1. Calculate the total points needed to tie the league record
+2. Subtract the points they've already scored
+3. Divide the remaining points needed by the number of players and the number of rounds
+
+Step 1: Calculate the total points needed to tie the league record
+* Old record average per player per round = 287
+* Number of players per team = 4
+* Number of rounds = 10
+* Total points needed to tie the league record = 287 * 4 * 10 = 11,480
+
+Step 2: Subtract the points they've already scored
+* Points already scored = 10,440
+* Remaining points needed = 11,480 - 10,440 = 1,040
+
+Step 3: Divide the remaining points needed by the number of players and the number of rounds
+* Remaining points needed = 1,040
+* Number of players = 4
+* Number of rounds = 1
+* Minimum average needed per player in the final round = 1,040 / 4 = 260
+
+Therefore, the minimum average they need to score per player in the final round to tie the league record is 260 points.
+
+Answer: 27

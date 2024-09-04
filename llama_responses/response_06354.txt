@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first find the age of their brother. Since their brother is half their combined age, we can set up an equation. Let's say their combined age is x. Since their brother is half of their combined age, their brother's age would be 0.5x. We know that Nick is 13, so we can set up an equation: 0.5x + 13 = x. Solving for x, we get x = 26.
+
+Now, we want to find their brother's age in 5 years. We can add 5 to his age, so their brother's age in 5 years would be 26 + 5 = 31.

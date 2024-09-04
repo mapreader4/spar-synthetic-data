@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Lucius spends $10 every day on ingredients.
+2) He makes a portion of French Fries and a portion of Poutine and sells them to the market.
+3) The price of French Fries is $12 and the price of Poutine is $8.
+4) He pays 10% of his weekly income as tax.
+
+To calculate his weekly earnings after paying taxes and buying ingredients:
+* Ingredients cost per week: $10 x 7 days = $70
+* Revenue from selling French Fries: 1 portion x $12 = $12
+* Revenue from selling Poutine: 1 portion x $8 = $8
+* Total revenue per day: $12 + $8 = $20
+* Total revenue per week: $20 x 7 days = $140
+* Tax paid per week: 10% of $140 = $14
+* Earnings after paying tax and buying ingredients: $140 - $14 - $70 = $56
+
+Answer: $56

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of students who were invited to the party. Since 70% of the students showed up to the party, that means 0.7 * 400 = 280 students were invited. 
+
+Now, let's find the number of students who were not allowed into the party. Since 40% of the invited students were not allowed into the party, that means 0.4 * 280 = 112 students were not allowed into the party.
+
+So, the number of students who attended the party is the total number of invited students minus the number of students who were not allowed into the party. That is, 280 - 112 = 168 students attended the party.
+
+Answer: 168

@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) We know that each tile is 6 square inches.
+2) The kitchen floor is 48 inches by 72 inches.
+3) To find the total area of the kitchen floor, we multiply the length and width:
+   48 inches x 72 inches = 3,456 square inches
+4) To find the number of tiles needed, we divide the total area of the kitchen floor by the area of each tile:
+   3,456 square inches / 6 square inches per tile = 576 tiles
+Answer: 576

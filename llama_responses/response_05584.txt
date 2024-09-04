@@ -1,0 +1,15 @@
+Let’s break this problem down step by step.
+
+Let’s start by identifying the number of people who are voting for Marty. We know that 45% of the people polled said they are voting for Biff, and 8% are undecided. We are looking for the number of people who are voting for Marty, which is 100% - 45% - 8%.
+
+Let’s calculate the number of people voting for Marty:
+
+100% - 45% = 45
+
+Subtract 8% from this number to get the number of people voting for Marty:
+
+45 - 8 = 37
+
+So, 37 people are voting for Marty.
+
+Answer: 37

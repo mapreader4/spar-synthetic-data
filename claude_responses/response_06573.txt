@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Andy needs to raise the temperature of the candy mixture from 60 degrees to 240 degrees.
+2) The candy heats at a rate of 5 degrees per minute.
+3) To calculate the time it takes to heat the candy from 60 degrees to 240 degrees, we can use the formula:
+Time = (Final Temperature - Initial Temperature) / Heating Rate
+Time = (240 degrees - 60 degrees) / 5 degrees per minute
+Time = 180 degrees / 5 degrees per minute
+Time = 36 minutes
+4) Now Andy needs to cool the candy down from 240 degrees to 170 degrees.
+5) The candy cools at a rate of 7 degrees per minute.
+6) To calculate the time it takes to cool the candy from 240 degrees to 170 degrees, we can use the formula:
+Time = (Final Temperature - Initial Temperature) / Cooling Rate
+Time = (170 degrees - 240 degrees) / 7 degrees per minute
+Time = -70 degrees / 7 degrees per minute
+Time = -10 minutes
+7) The total time for the candy to be done is the time to heat it plus the time to cool it.
+36 minutes + (-10 minutes) = 26 minutes
+
+Answer: 26

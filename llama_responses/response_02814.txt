@@ -1,0 +1,12 @@
+Let's break this down step by step:
+
+1. Josie waited 3 minutes for a cart.
+2. Then, she waited 13 minutes for an employee to unlock a cabinet.
+3. Next, she waited 14 minutes for a stocker to restock a shelf.
+4. After that, she waited 18 minutes in line to check out.
+
+To find the total time Josie spent waiting, we can add up the time spent waiting at each step:
+
+3 + 13 + 14 + 18 = 44
+
+So, Josie spent 44 minutes waiting.

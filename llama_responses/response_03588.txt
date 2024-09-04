@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's say the number of bedbugs the group started with is x.
+
+After one day, the number of bedbugs would be 3x. After two days, the number of bedbugs would be 3 * 3x = 9x. After three days, the number of bedbugs would be 3 * 9x = 27x. After four days, the number of bedbugs would be 3 * 27x = 81x.
+
+We know that after four days, there were 810 bedbugs burrowing into the mattress. So, we can set up an equation to solve for x:
+
+81x = 810
+
+To solve for x, we can divide both sides by 81:
+
+x = 810 / 81
+
+x = 10
+
+So, the group started with 10 bedbugs.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The boy has 12 oranges.
+2) He gives one-third of this number to his brother.
+   * One-third of 12 is 4, so he gives his brother 4 oranges.
+3) The remaining number of oranges is 12 - 4 = 8.
+4) He then gives one-fourth of the remainder (8) to his friend.
+   * One-fourth of 8 is 2, so he gives his friend 2 oranges.
+
+Answer: 2

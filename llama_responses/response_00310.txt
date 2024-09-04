@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first calculate the total salary for the 4 warehouse workers. They make $15/hour and work 8 hours a day. So, their daily salary is 15 * 8 = $120. They work 25 days a month, so their monthly salary is 120 * 25 = $3000.
+
+The 2 managers make $20/hour and work 8 hours a day, so their daily salary is 20 * 8 = $160. They also work 25 days a month, so their monthly salary is 160 * 25 = $4000.
+
+The total monthly salary for the 6 employees is 3000 + 4000 = $7000.
+
+Now, Janet has to pay 10% of their salaries in FICA taxes. 10% of 7000 is 0.1 * 7000 = $700.
+
+So, Janet owes 700 for their wages and taxes for one month.

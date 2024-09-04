@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Raine buys:
+  - 3 bracelets at $15 each, so 3 x $15 = $45
+  - 2 gold heart necklaces at $10 each, so 2 x $10 = $20
+  - 1 coffee mug at $20
+* So the total cost of Raine's purchases is:
+  - $45 + $20 + $20 = $85
+* Raine pays with a $100 bill
+* To calculate the change, we subtract the total cost from the amount paid:
+  - $100 - $85 = $15
+
+Answer: 15

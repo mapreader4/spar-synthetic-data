@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The 20 people who pre-bought their tickets paid $155 per ticket.
+   * Total amount paid by pre-buyers = 20 x $155 = $3,100
+
+2. The 30 people who bought their tickets at the gate paid $200 per ticket.
+   * Total amount paid by gate buyers = 30 x $200 = $6,000
+
+3. To find the difference in the amount paid, we subtract the total paid by pre-buyers from the total paid by gate buyers.
+   * Difference in amount paid = $6,000 - $3,100 = $2,900
+
+Therefore, the people at the gate paid $2,900 more for their tickets than the passengers who pre-bought their tickets.
+
+Answer: $2,900

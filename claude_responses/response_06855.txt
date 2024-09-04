@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Cordelia is dyeing her hair red
+* To get the desired color, she first has to bleach her dark brown hair to blonde
+* Then, she has to apply the dye
+* The whole process will take 9 hours
+* Dyeing takes twice as long as bleaching
+
+Let's represent the time it takes to bleach her hair as "x" hours.
+Since dyeing takes twice as long as bleaching, the time it takes to dye her hair is "2x" hours.
+
+The total time for the whole process is 9 hours, so we can write the equation:
+x + 2x = 9
+
+Solving for x:
+3x = 9
+x = 3
+
+Therefore, it will take Cordelia 3 hours to bleach her hair.
+
+Answer: 3

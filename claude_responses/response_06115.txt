@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Pauly needs 10 pounds of ice cubes.
+2) Each cube weighs 1/16th of a pound, so to get 10 pounds of cubes, he needs 160 cubes (10 pounds * 16 cubes per pound = 160 cubes).
+3) It takes him 1 hour to make 10 cubes, so to make 160 cubes, it will take him 16 hours (160 cubes / 10 cubes per hour = 16 hours).
+4) Each cube requires 2 ounces of water, so for 160 cubes he will need 320 ounces of water (160 cubes * 2 ounces per cube = 320 ounces).
+5) Each ounce of water costs $0.10, so the cost of the water will be $32 (320 ounces * $0.10 per ounce = $32).
+6) Every hour his ice maker runs costs $1.50, so the total cost of running the ice maker for 16 hours will be $24 (16 hours * $1.50 per hour = $24).
+7) The total cost to make all the ice will be the cost of the water ($32) plus the cost of running the ice maker ($24).
+
+Answer: $56

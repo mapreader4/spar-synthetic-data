@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Small children tickets sold: 53
+* Small children eat 1/2 omelet each
+* So for the small children, they need 53 * 1/2 = 26.5 omelets
+* Older children tickets sold: 35
+* Older children eat 1 omelet each
+* So for the older children, they need 35 omelets
+* Adult tickets sold: 75
+* Adults eat 2 omelets each
+* So for the adults, they need 75 * 2 = 150 omelets
+* Senior tickets sold: 37
+* Seniors eat 1.5 omelets each
+* So for the seniors, they need 37 * 1.5 = 55.5 omelets
+* Total omelets needed = 26.5 + 35 + 150 + 55.5 = 267 omelets
+* Plus 25 extra omelets = 292 omelets
+* Each omelet requires 2 eggs
+* Therefore, the total number of eggs needed is 292 * 2 = 584 eggs
+
+Answer: 584

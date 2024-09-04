@@ -1,0 +1,5 @@
+Let's start by finding the total number of toys donated by Leila: Leila gave 2 bags with 25 toys in each bag, so she donated 2 x 25 = 50 toys.
+
+Mohamed gave 3 bags with 19 toys in each bag, so he donated 3 x 19 = 57 toys.
+
+To find the number of toys donated by Mohamed, we need to subtract the number of toys donated by Leila from the total number of toys donated by Mohamed: 57 - 50 = 7 toys.

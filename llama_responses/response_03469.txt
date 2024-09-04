@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+1. Rayman works out for half the number of hours Junior takes to work out. This means that if Junior takes x hours to work out, Rayman takes x/2 hours.
+2. Wolverine, their friend, works out for twice the combined total number of hours both Rayman and Junior take during their workouts. This means that Wolverine works out for (x/2 + x) hours.
+3. The total number of hours both Rayman and Junior take during their workouts is x + x.
+4. Rayman works out for 10 hours in a week.
+
+From step 4, we know that Rayman works out for 10 hours. This means that x = 10.
+
+Now, we can substitute x with 10 into the equations from steps 1 and 2 to find Wolverine's workout hours:
+
+1. Rayman works out for half the number of hours Junior takes to work out. So, Rayman works out for 10/2 = 5 hours.
+2. Wolverine, their friend, works out for twice the combined total number of hours both Rayman and Junior take during their workouts. So, Wolverine works out for (10/2 + 10) hours = 20 hours.
+
+Answer: 20

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Janine read 5 books last month
+* This month, she read twice as many books, which is 2 x 5 = 10 books
+* Each book has 10 pages
+* To calculate the total number of pages read in two months:
+  - Last month: 5 books x 10 pages per book = 50 pages
+  - This month: 10 books x 10 pages per book = 100 pages
+  - Total pages read in two months: 50 + 100 = 150 pages
+
+Answer: 150

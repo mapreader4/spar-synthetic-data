@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the number of tanks is represented by the variable "t". The number of trucks is represented by the variable "t" as well, since it is stated that the number of tanks is five times the number of trucks. So, we can write an equation:
+
+t = 5t
+
+The problem states that there are 20 trucks in the yard. We can substitute this value into the equation to solve for "t":
+
+t = 5t
+20 = 5t
+
+To solve for "t", we can divide both sides of the equation by 5:
+
+t = 20/5
+t = 4
+
+So, the number of tanks is 4. The total number of tanks and trucks in the yard is the sum of these two values:
+
+4 + 20 = 24
+
+Answer: 24

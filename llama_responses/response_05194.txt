@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Sean buys 100 patches at $1.25 each, so his total cost is:
+
+100 x $1.25 = $125
+
+He sells each patch for $12.00, so his total revenue is:
+
+100 x $12.00 = $1200
+
+To find his net profit, we need to subtract his cost from his revenue:
+
+$1200 (revenue) - $125 (cost) = $1075
+
+Answer: 1075

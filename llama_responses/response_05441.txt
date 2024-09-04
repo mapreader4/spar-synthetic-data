@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's say the computer costs x dollars.
+
+The TV costs $600.
+The fridge costs $500 more than the computer, so the fridge costs $1000.
+
+The total cost of the TV and the fridge is $1600.
+
+So, we know the total cost of the TV and the fridge is $1600. The total cost of the TV and the fridge and the computer is $1600. This means that the cost of the computer is the difference between $1600 and $1000, which is $600.
+
+Answer: 600

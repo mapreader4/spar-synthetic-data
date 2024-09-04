@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+1. Let's start by identifying the information given in the problem. We know that Ryan received $50 more than Jason, and Jason received 30% more than Zachary. So, we know that the amount of money Jason received is 30% of the amount Zachary received. This can be written as an equation: Jason's amount = 1.3 * Zachary's amount.
+
+2. We know that Zachary sold 40 games at $5 each. So, the total amount of money Zachary received is 40 * 5 = 200. Since Jason received 30% more money than Zachary, we can write an equation to find the amount of money Jason received: Jason's amount = 1.3 * 200.
+
+3. Now, we know that Ryan received $50 more than Jason. So, we can write an equation to find the amount of money Ryan received: Ryan's amount = Jason's amount + 50.
+
+4. To find the total amount of money the three friends received, we add the amounts together: Ryan's amount + Jason's amount + Zachary's amount.
+
+5. Plugging in the values, we get: Ryan's amount + Jason's amount + 200 + 50 = 250.
+
+Answer: 250

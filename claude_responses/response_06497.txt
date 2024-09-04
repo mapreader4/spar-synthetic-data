@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 36 marbles in total.
+2) The marbles are divided between Mario and Manny in the ratio 4:5.
+3) To find the number of marbles each person gets, we need to find the total parts in the ratio and then divide the total marbles by the total parts.
+4) The total parts in the ratio 4:5 is 4 + 5 = 9.
+5) 36 marbles divided by 9 total parts means each part is worth 4 marbles.
+6) Mario gets 4 parts, so he gets 4 * 4 = 16 marbles.
+7) Manny gets 5 parts, so he gets 5 * 4 = 20 marbles.
+8) Manny then gives 2 marbles to Mario, so Manny now has 20 - 2 = 18 marbles.
+
+Answer: 18

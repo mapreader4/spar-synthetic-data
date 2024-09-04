@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Theo and Tia invited two of their friends, so there are 4 people total
+* They bought individual sandwiches and fruit salads for each person
+* They bought 4 sandwiches at $5 each, so that's 4 * $5 = $20 for the sandwiches
+* They bought 4 fruit salads at $3 each, so that's 4 * $3 = $12 for the fruit salads
+* They bought 2 sodas per person, so that's 4 * 2 = 8 sodas at $2 each, which is 8 * $2 = $16 for the sodas
+* They bought 3 bags of snacks at $4 each, so that's 3 * $4 = $12 for the snacks
+
+Adding up all the costs:
+* Sandwiches: $20
+* Fruit Salads: $12
+* Sodas: $16
+* Snacks: $12
+* Total: $20 + $12 + $16 + $12 = $60
+
+Answer: $60

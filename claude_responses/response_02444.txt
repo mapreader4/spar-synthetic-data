@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The school's fundraising goal is $750
+* Families can donate $25, $50, or $100
+* With one day left, the school has:
+    - 10 Bronze Status families (who donated $25 each)
+    - 7 Silver Status families (who donated $50 each) 
+    - 1 Gold Status family (who donated $100)
+* To calculate the total amount raised so far:
+    - 10 Bronze Status families x $25 = $250
+    - 7 Silver Status families x $50 = $350
+    - 1 Gold Status family x $100 = $100
+    - Total raised so far = $250 + $350 + $100 = $700
+* To calculate the remaining amount needed to reach the $750 goal:
+    - $750 goal - $700 raised so far = $50
+
+Answer: $50

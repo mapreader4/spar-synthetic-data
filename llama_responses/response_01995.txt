@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the total number of photographs we want to take is 300. We already took 100 photographs 18 hours ago. We will take 20% fewer photographs today.
+
+To find the number of photographs we will take today, we can subtract the number of photographs we took yesterday from the total number of photographs we want to take.
+
+100 - 20% of 100 = 100 - 0.20 * 100 = 80
+
+So, the number of photographs we will take today is 80.
+
+So, the number of photographs we will take today is 80.

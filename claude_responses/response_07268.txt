@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mr. Bodhi has 20 cows, 15 foxes, and three times as many zebras as foxes.
+2) To find the number of zebras, we take 3 times the number of foxes, which is 3 * 15 = 45 zebras.
+3) The total number of animals currently in the yacht is 20 cows + 15 foxes + 45 zebras = 80 animals.
+4) The total number of animals needed in the yacht to balance it is 100.
+5) To find the number of sheep Mr. Bodhi needs to add, we subtract the current number of animals (80) from the required number of animals (100).
+6) 100 - 80 = 20 sheep.
+
+Answer: 20

@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the price of each necklace is x.
+
+The total cost of the necklaces is 4 * x = 4x.
+
+The total cost of the rings is 8 * y, where y is the price of each ring.
+
+The total cost of all the items sold is the sum of the cost of the necklaces and the cost of the rings: 4x + 8y = 80.
+
+We know that the total cost is $80, so we can set up an equation: 4x + 8y = 80.
+
+To solve for y, we can subtract 4x from both sides of the equation: 8y = 80 - 4x.
+
+Now, we can divide both sides by 8 to get y = (80 - 4x)/8.
+
+y = 10 - x.
+
+So, the price of each ring is 10 - x.
+
+Answer: 10 - x.

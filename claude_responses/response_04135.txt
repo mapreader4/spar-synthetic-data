@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 4 adults, each with 32 teeth
+* The first person had 1/4 of their teeth removed
+* The second person had 3/8 of their teeth removed
+* The third person had 1/2 of their teeth removed
+* The fourth person had 4 teeth removed
+
+First, let's calculate the number of teeth removed for each person:
+* Person 1: 1/4 of 32 teeth = 8 teeth removed
+* Person 2: 3/8 of 32 teeth = 12 teeth removed
+* Person 3: 1/2 of 32 teeth = 16 teeth removed
+* Person 4: 4 teeth removed
+
+Now, we can add up the total number of teeth removed:
+* 8 + 12 + 16 + 4 = 40 teeth removed
+
+Answer: 40

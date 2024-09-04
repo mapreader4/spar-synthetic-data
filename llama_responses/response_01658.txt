@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. James needs 200 blueberries to make a pint of blueberry jam. Since there are 2 pints in a quart, James will need 2 x 200 = 400 blueberries for 2 pints.
+
+2. James needs 400 blueberries to make 2 quarts of blueberry jam. Since there are 4 quarts in a gallon, James will need 4 x 100 = 400 blueberries for 4 quarts.
+
+3. James needs 400 blueberries to make 4 quarts of blueberry jam. Since he needs 400 blueberries to make 2 pints of blueberry jam and 400 blueberries to make 4 quarts of blueberry jam, he needs 6 total blueberries to make 6 pies.
+
+Answer: 6

@@ -1,0 +1,13 @@
+Let the length of the first stick be x. The length of the second stick is 2x, and the length of the third stick is 2x - 1.
+
+The total length is x + 2x - 1 + x = 3x - 1.
+
+The first stick is 3 centimeters long. So, x = 3.
+
+The second stick is twice as long as the first stick, so 2x = 6. So, x = 3 and 2x = 6.
+
+The third stick is 1 centimeter shorter than the second stick, which is 6 centimeters long. So, the length of the third stick is 6 - 1 = 5.
+
+The total length of the sticks when they are put together is 3 + 6 + 5 = 14.
+
+Answer: 14

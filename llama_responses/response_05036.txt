@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Marlon started with 42 lollipops. He gave Emily 2/3 of his lollipops. 2/3 of 42 is 28. So, he gave Emily 28 lollipops.
+
+Then, Marlon kept 4 lollipops. So, he has 14 lollipops left.
+
+He gave the rest to Lou. The rest of his lollipops are 42 - 28 - 4 = 10. So, Lou received 10 lollipops.
+
+Answer: 10

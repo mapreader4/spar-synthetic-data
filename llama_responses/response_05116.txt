@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Marge had $12006 initially.
+
+She paid half of the lottery amount for the taxes, so she spent 12006 / 2 = 6000 on taxes.
+
+She put a third of the leftover money towards her student loans. The leftover money is 12006 - 6000 = 6006. She put 6006 / 3 = 2002 towards her student loans.
+
+She put $1000 in savings.
+
+She invested a fifth of that amount in the stock market. A fifth of 1000 is 1000 / 5 = 200.
+
+So, she spent 6000 + 2002 + 1000 + 200 = 8202 on taxes, student loans, savings, and the stock market.
+
+To find out how much she has left, we subtract the total amount she spent from the initial amount: 12006 - 8202 = 198.
+
+Answer: 198

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The bird feeder holds 2 cups of birdseed
+* Each cup of birdseed can feed 14 birds
+* The squirrel steals 1/2 cup of birdseed every week
+* So, the amount of birdseed available to the birds each week is:
+    - 2 cups - 1/2 cup (stolen by the squirrel) = 1.5 cups
+* Now, we can calculate the number of birds that can be fed with 1.5 cups of birdseed:
+    - 1.5 cups x 14 birds/cup = 21 birds
+
+Answer: 21 birds

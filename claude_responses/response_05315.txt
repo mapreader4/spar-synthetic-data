@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Sam went for a morning run
+* In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning
+* In the evening, he went on a bike ride with his family and biked for 12 miles
+* In total, he went 18 miles that day
+
+We know that the distance he walked in the grocery store was twice the distance of his morning run. Let's call the distance of his morning run 'x'.
+
+So, the distance he walked in the grocery store was 2x.
+
+We also know that the total distance he traveled that day was 18 miles. This includes:
+* His morning run (x miles)
+* His grocery store walk (2x miles)
+* His evening bike ride (12 miles)
+
+Therefore, the total distance is:
+x + 2x + 12 = 18
+
+Solving for x:
+3x + 12 = 18
+3x = 6
+x = 2
+
+Therefore, the distance of Sam's morning run was 2 miles.
+
+Answer: 2

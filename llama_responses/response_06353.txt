@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, let's find the total distance flown by the eagle in 2 hours. The eagle can fly 15 miles per hour. To find the distance flown in 2 hours, we multiply 15 miles per hour by 2 hours:
+
+15 miles per hour * 2 hours = 30 miles
+
+Next, let's find the total distance flown by the falcon in 2 hours. The falcon can fly 46 miles per hour. To find the distance flown in 2 hours, we multiply 46 miles per hour by 2 hours:
+
+46 miles per hour * 2 hours = 92 miles
+
+Next, let's find the total distance flown by the pelican in 2 hours. The pelican can fly 33 miles per hour. To find the distance flown in 2 hours, we multiply 33 miles per hour by 2 hours:
+
+33 miles per hour * 2 hours = 66 miles
+
+Finally, let's find the total distance flown by the hummingbird in 2 hours. The hummingbird can fly 30 miles per hour. To find the distance flown in 2 hours, we multiply 30 miles per hour by 2 hours:
+
+30 miles per hour * 2 hours = 60 miles
+
+Now, let's add up the distances flown by each bird:
+
+30 miles (eagle) + 92 miles (falcon) + 66 miles (pelican) + 60 miles (hummingbird) = 248 miles
+
+So, the total distance flown by the birds in 2 hours is 248 miles.
+
+Answer: 248

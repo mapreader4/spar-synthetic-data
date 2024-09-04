@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Fred has 38 red marbles.
+2) He has half as many green marbles as red marbles. So, the number of green marbles is 38 / 2 = 19.
+3) The total number of marbles is 63.
+4) We can calculate the number of dark blue marbles by subtracting the number of red and green marbles from the total number of marbles:
+   Total marbles = 63
+   Red marbles = 38
+   Green marbles = 19
+   Dark blue marbles = 63 - 38 - 19 = 6
+
+Answer: 6

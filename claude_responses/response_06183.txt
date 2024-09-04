@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The aquarium has 4 dolphins
+2) Each dolphin requires 3 hours of training daily
+3) So the total number of hours of training required daily is 4 dolphins x 3 hours = 12 hours
+4) The aquarium has 2 trainers
+5) The trainers want to split the hours they spend training the dolphins equally
+6) To find the number of hours each trainer will spend training the dolphins, we divide the total hours of training required (12 hours) by the number of trainers (2)
+7) 12 hours / 2 trainers = 6 hours
+
+Answer: 6 hours

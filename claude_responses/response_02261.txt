@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Greg and Katie went to Mrs. Scarlet's gold store
+* They had their gold chests opened
+* It was revealed that Greg had four times less gold than Katie
+* The total amount of gold is 100
+
+To find how much gold Greg has, we can use the following logic:
+* If Greg has four times less gold than Katie, that means Katie has four times more gold than Greg
+* Let's say Greg has x amount of gold
+* Then Katie has 4x amount of gold
+* The total amount of gold is 100, so x + 4x = 100
+* Solving for x, we get x = 20
+
+Answer: 20

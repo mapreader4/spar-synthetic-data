@@ -1,0 +1,7 @@
+To solve this problem, we can use the formula: Distance = Speed * Time.
+
+The speed is 50 mph. The time is 42 minutes. To convert the time from minutes to hours, we can divide the time by 60: 42 / 60 = 0.7 hours.
+
+Now, we can multiply the speed and the time to get the distance: 50 * 0.7 = 35 miles.
+
+Answer: 35

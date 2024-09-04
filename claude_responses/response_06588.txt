@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Initially, the jar contains:
+- 9 blue pens
+- 21 black pens
+- 6 red pens
+2) 4 blue pens are removed, so now there are 9 - 4 = 5 blue pens left.
+3) 7 black pens are removed, so now there are 21 - 7 = 14 black pens left.
+4) The number of red pens remains the same at 6.
+5) Therefore, the total number of pens left in the jar is:
+5 blue pens + 14 black pens + 6 red pens = 25 pens.
+
+Answer: 25

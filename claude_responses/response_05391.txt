@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+* Reggie's friend arrives with 100 marbles
+* Each game, they bet 10 marbles
+* After 9 games, Reggie has 90 marbles
+* To find how many games Reggie has lost, we need to calculate the total number of marbles he has won and lost.
+* Reggie started with 0 marbles, and after 9 games, he has 90 marbles.
+* So, the total number of marbles he has won is 90.
+* Since each game involves betting 10 marbles, the total number of marbles bet in the 9 games is 9 * 10 = 90.
+* Therefore, Reggie has lost 90 marbles.
+
+Answer: 9

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Crystal originally sold cupcakes for $3.00 each and cookies for $2.00 each.
+2) She reduced the prices of both the cupcakes and cookies by half.
+3) The new price of the cupcakes is $3.00 / 2 = $1.50 each.
+4) The new price of the cookies is $2.00 / 2 = $1.00 each.
+5) She sold the last 16 cupcakes at $1.50 each, so the total revenue from the cupcakes is 16 * $1.50 = $24.00.
+6) She sold the last 8 cookies at $1.00 each, so the total revenue from the cookies is 8 * $1.00 = $8.00.
+7) The total revenue is the sum of the revenue from the cupcakes and the cookies: $24.00 + $8.00 = $32.00.
+
+Answer: $32

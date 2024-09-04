@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* When the temperature is 50 degrees Fahrenheit, Peyton Manning throws the ball 20 yards.
+* When the temperature is 80 degrees Fahrenheit, the ball moves twice as far, so 20 yards x 2 = 40 yards.
+* On Saturday, the temperature was 50 degrees Fahrenheit, and he threw the ball 20 times.
+* So the total yards thrown on Saturday = 20 throws x 20 yards per throw = 400 yards.
+* On Sunday, the temperature was 80 degrees Fahrenheit, and he threw the ball 30 times.
+* So the total yards thrown on Sunday = 30 throws x 40 yards per throw = 1,200 yards.
+* To calculate the total number of yards thrown over the two days, we add the yards thrown on Saturday and Sunday:
+* 400 yards + 1,200 yards = 1,600 yards.
+
+Answer: 1,600 yards.

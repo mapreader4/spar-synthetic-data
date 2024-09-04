@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Gordon has 3 restaurants. Each restaurant serves meals per day. So, we need to find the total number of meals served by all the restaurants per day.
+
+2. The first restaurant serves 20 meals per day, the second restaurant serves 40 meals per day, and the third restaurant serves 50 meals per day. We can add these meals together to find the total number of meals served per day.
+
+20 + 40 + 50 = 110
+
+Answer: 110

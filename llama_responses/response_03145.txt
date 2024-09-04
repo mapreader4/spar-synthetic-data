@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of the sailboat rental: $60. Since Ken rented it for 3 hours a day in 2 days, the total cost for Ken to rent the sailboat is:
+
+60 * 3 * 2 = 360
+
+Now, let's find the cost of the ski boat rental: $80. Since Aldrich rented it for 3 hours a day in 2 days, the total cost for Aldrich to rent the ski boat is:
+
+80 * 3 * 2 = 480
+
+To find the difference in cost between the two, we subtract the cost of the sailboat rental from the cost of the ski boat rental:
+
+480 - 360 = 120
+
+So, the answer is:
+
+Answer: 120

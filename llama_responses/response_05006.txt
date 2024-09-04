@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the cost of each pack of candy.  We know that James bought 3 packs of candy and paid with a $20 bill, so the total cost of the candy is 3x.  We also know that he got $11 in change, so the cost of the candy is $20 - $11 = 9.
+
+Now, we can set up an equation to solve for x.  We know that 3x = 9, so we can divide both sides by 3 to get x = 9 / 3 = 3.
+
+Answer: 3

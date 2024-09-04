@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The shirts are currently being sold for $6
+* This price is 25% of the original price
+* To find the original price, we need to find the value that is 4 times the current price of $6
+* To do this, we can use the following equation:
+* Current Price = 0.25 × Original Price
+* Rearranging, we get:
+* Original Price = Current Price / 0.25
+* Plugging in the values, we get:
+* Original Price = $6 / 0.25
+* Solving this, we get:
+* Original Price = $24
+
+Answer: 24

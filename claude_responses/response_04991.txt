@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There are 200 students in the school
+* 60% of the students are boys, which means 120 students are boys (60% of 200)
+* The remaining 40% of the students are girls, which means 80 students are girls (40% of 200)
+* June receives 67.5% of the male vote, which means she gets 67.5% of 120 votes, or 81 votes from the boys
+* To win the election, June needs just over 50% of the total vote, which means she needs more than 101 votes (50% of 200 + 1)
+* The remaining votes she needs to win must come from the female students
+* Let's call the percentage of the female vote that June receives as x%
+* The number of votes she gets from the female students is 80 * x%
+* To win the election, the total number of votes she gets must be greater than 101:
+   - 81 (from the boys) + 80 * x% > 101
+   - 80 * x% > 101 - 81
+   - 80 * x% > 20
+   - x% > 20/80
+   - x% > 25%
+* Therefore, the smallest percentage of the female vote that June must receive to win the election is 25.1%.
+
+Answer: 25.1%

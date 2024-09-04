@@ -1,0 +1,18 @@
+Let's start by identifying the given information. We know that Melina is 3 times as old as Alma, so if Melina is 60, Alma must be 20.
+
+Next, we know that the sum of their ages is twice the total number of points Alma scored in a test. Let's represent the total number of points Alma scored as x.
+
+We know that Alma's age is 20 and Melina's age is 60. So, the sum of their ages is 20 + 60 = 80.
+
+We know that this sum is equal to twice the total number of points Alma scored in the test. So, we can set up the equation:
+
+2x = 80
+
+To solve for x, we can divide both sides by 2:
+
+x = 80 / 2
+x = 40
+
+So, Alma scored 40 points in the test.
+
+Answer: 40

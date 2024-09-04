@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say Henry gets $5 to paint the bike. Then, for every bike he sells, he is paid $8 more than he is paid to paint the bike. 
+
+Let's say the number of bikes he sells is x.
+
+Then, we can write an equation to represent this information:
+
+5 + 8x = amount of money he gets paid for selling x bikes.
+
+This is because he gets $5 to paint the bike, and then he gets $8 more for each bike he sells.
+
+To solve for x, we can subtract 5 from both sides of the equation:
+
+5 + 8x = 5 + 8x - 5
+
+This simplifies to:
+
+8x - 5 = 0
+
+Then, we can add 5 to both sides to get:
+
+8x = 5
+
+So, the number of bikes he sells is 5. 
+
+Answer: 5

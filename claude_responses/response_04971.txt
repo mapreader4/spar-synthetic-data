@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Krishna and Callum are playing a game where they earn 10 points if they win any round.
+* They played a total of 8 matches.
+* Krishna won 3/4 of the matches.
+
+To find the number of matches that Krishna won, we can multiply the total number of matches (8) by the fraction of matches he won (3/4):
+* 8 * 3/4 = 6 matches won by Krishna
+
+Since Krishna won 6 matches, that means Callum won the remaining 2 matches.
+
+Each match won is worth 10 points, so Callum earned:
+* 2 * 10 = 20 points
+
+Answer: 20

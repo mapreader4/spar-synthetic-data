@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Tommy's home is worth 25% more than he bought it for
+* This means the selling price of the home is 125% of the original purchase price
+* He sells this home and buys a new house that costs $500,000
+* He can only pay 75% of the new house, so he needs to take a loan for the remaining 25%
+
+To find the original purchase price of the first house, we can use the following equation:
+* Let x = original purchase price of the first house
+* Selling price of the first house = 1.25x (since it's worth 25% more)
+* New house price = $500,000
+* Loan amount = 25% of $500,000 = 0.25 * $500,000 = $125,000
+
+Since the selling price of the first house is equal to the loan amount for the new house, we can set up the equation:
+* 1.25x = $125,000
+* x = $125,000 / 1.25
+* x = $100,000
+
+Therefore, Tommy bought his first house for $100,000.
+
+Answer: $100,000

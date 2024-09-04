@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) A single kabob stick has 4 cubes of beef.
+2) A slab of beef that costs $25 can be cut into 80 cubes.
+3) We need to find how much Simon must spend to make 40 kabob sticks.
+4) First, we need to find how many cubes of beef are needed for 40 kabob sticks. Since each kabob stick has 4 cubes, we need 40 * 4 = 160 cubes of beef.
+5) Next, we need to find how many slabs of beef are needed to get 160 cubes. Since each slab has 80 cubes, we need 160 / 80 = 2 slabs of beef.
+6) Finally, since each slab of beef costs $25, Simon must spend 2 * $25 = $50 to make 40 kabob sticks.
+
+Answer: 50

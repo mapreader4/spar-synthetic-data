@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of marbles in each color.
+
+* White: 50
+* Yellow: 12
+* Red:? (unknown)
+
+We know that half of the total marbles are white, which is 50 / 2 = 25.
+We also know that 12 are yellow, and there are 50% fewer green marbles than yellow marbles. Let's find the number of green marbles. Let's call the number of green marbles x.
+
+The number of green marbles is 50 - 12 = 38.
+
+So, the total number of green marbles is 38, and there are 50 - 38 = 12 red marbles.
+
+Answer: 12

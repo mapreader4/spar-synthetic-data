@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Sabrina started with 20 cookies.
+
+She gave 10 cookies to her brother, so she had 20 - 10 = 10 cookies left.
+
+Her mother gave her half the number of cookies she gave her brother. So, half of 10 is 5. So, Sabrina had 10 - 5 = 5 cookies left.
+
+Then, Sabrina gave two-thirds of her cookies to her sister. Two-thirds of 5 is 5 * 2/3 = 10/3 = 3.33. Since Sabrina can't give a fraction of a cookie, we round down to the nearest whole number. So, Sabrina gave 3 cookies to her sister.
+
+So, Sabrina had 5 - 3 = 2 cookies left.
+
+Answer: 2

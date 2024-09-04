@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of interest Lizzy will have to pay for the loan. To find the interest, we can multiply the principal amount by the rate of interest, which is 20%. So, we multiply 15 by 0.2 (20% as a decimal). This gives us 3.
+
+Now, we add the interest to the principal, which is 15. So, we add 3 to 15, which gives us 18.
+
+So, Lizzy will have 18.
+
+Answer: 18

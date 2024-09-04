@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. Faith paid with 2 $20 bills, so the cashier will give her $0 in change.
+
+2. The total cost of the items was $5 + $28, so the total change should be $33.
+
+3. The change should be the difference between the total cost and the amount paid, which is $33 - $20 = $13.
+
+Answer: 13

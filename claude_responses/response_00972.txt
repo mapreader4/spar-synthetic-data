@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The elevator starts on the 9th floor.
+2) It then goes down 7 floors, so it is now on the 2nd floor.
+3) It then goes up 3 floors, so it is now on the 5th floor.
+4) It then goes up 8 floors, so it is now on the 13th floor.
+5) The question states that the elevator is on the top floor, so the top floor must be the 13th floor.
+Therefore, the building has 13 floors.
+
+Answer: 13

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say Corey has x candies. Since Tapanga has 8 more candies than Corey, Tapanga has x + 8 candies. We know that Tapanga and Corey have 66 candies in total, so we can set up an equation.
+
+Tapanga's candies + Corey's candies = 66
+
+Tapanga's candies = x + 8
+Corey's candies = x
+
+We can subtract 8 from both sides of the equation to get:
+
+x + 8 = 66 - 8
+x = 58
+
+So, Corey has 58 candies.

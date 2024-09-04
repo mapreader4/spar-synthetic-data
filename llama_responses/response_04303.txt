@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of hens. We know that there are 12 hens.
+
+Next, we know that for every 3 hens, there is 1 rooster. This means that the number of roosters is equal to the number of hens divided by 3.
+
+To find the number of roosters, we can divide the number of hens by 3: 12 ÷ 3 = 4.
+
+Now, we know that each hen has 5 chicks. So, the total number of chicks is equal to the number of hens multiplied by 5: 12 * 5 = 60.
+
+So, the total number of chickens is equal to the number of hens plus the number of roosters plus the number of chicks. This is 12 + 4 + 60 = 76.
+
+Answer: 76

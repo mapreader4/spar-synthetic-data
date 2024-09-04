@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* Nancy shelved 12 history books, 8 romance books, and 4 poetry books from the top section of the cart
+* That's a total of 12 + 8 + 4 = 24 books from the top section
+* Half the books on the bottom section were mystery books, which she put back
+* Let's call the total number of books on the bottom section 'x'
+* So the number of mystery books on the bottom section was x/2
+* She then shelved the remaining books from the bottom section, which included 5 Western novels and 6 biographies
+* That's a total of 5 + 6 = 11 books from the bottom section
+* So the total number of books she had on the cart when she started is:
+* Top section: 24 books
+* Bottom section: x books
+* Total: 24 + x books
+
+Answer: 24 + x books

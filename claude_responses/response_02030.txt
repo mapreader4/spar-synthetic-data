@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The vendor sold 2.5 dozen lemons. 
+2) 1 dozen = 12 pieces, so 2.5 dozen = 2.5 x 12 = 30 lemons.
+3) The vendor also sold 5 dozens of avocados.
+4) 1 dozen = 12 pieces, so 5 dozens = 5 x 12 = 60 avocados.
+5) The total number of fruits sold is the sum of the lemons and avocados:
+30 lemons + 60 avocados = 90 fruits.
+
+Answer: 90

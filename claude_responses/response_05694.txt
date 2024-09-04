@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. The first movie is 2 hours long.
+
+2. The second movie is 50% longer than the first movie. To calculate the length of the second movie, we take the length of the first movie (2 hours) and multiply it by 1.5 (since 50% longer is the same as 1.5 times the original length).
+   * Length of second movie = 2 hours x 1.5 = 3 hours
+
+3. The third movie is 1 hour shorter than the combined time of the previous 2 movies. 
+   * Combined time of first 2 movies = 2 hours + 3 hours = 5 hours
+   * Length of third movie = 5 hours - 1 hour = 4 hours
+
+4. To calculate the total length of the movie marathon, we add up the lengths of all 3 movies:
+   * Total length = 2 hours + 3 hours + 4 hours = 9 hours
+
+Answer: 9 hours

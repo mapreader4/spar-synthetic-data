@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. Johny traveled South for 40 miles.
+2. Then, he turned East and traveled 20 more miles than the distance he took to travel to the South. This means that the distance he traveled to the East is 40 + 20 = 60 miles.
+3. Then, he turned North and traveled twice the distance he had traveled to the East. Since he traveled 60 miles to the East, twice the distance would be 60 * 2 = 120 miles.
+
+The total distance his journey took is the sum of the distances he traveled to the South and East. The distance to the South is 40 miles and the distance to the East is 60 miles, so the total distance is 40 + 60 = 100 miles.
+
+Answer: 100

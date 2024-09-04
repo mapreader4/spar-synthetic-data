@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the speed John was traveling. We know that distance = 150 miles and time = 2 hours. To find the speed, we can use the formula speed = distance / time. We can plug in the given values:
+
+speed = distance / time
+speed = 150 / 2
+speed = 75
+
+John was driving at 75 mph.
+
+To find how many miles per hour above the speed limit he was driving, we need to subtract the speed limit from his actual speed:
+
+speed above speed limit = speed - speed limit
+speed above speed limit = 75 - 60
+speed above speed limit = 15
+
+John was driving 15 miles per hour above the speed limit.

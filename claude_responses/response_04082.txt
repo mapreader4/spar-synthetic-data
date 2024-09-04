@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Tom filled up 3 times as many water balloons as Luke.
+2) Luke filled up one fourth as many balloons as Anthony.
+3) Anthony filled up 44 water balloons.
+
+First, let's find out how many balloons Luke filled up:
+* Since Luke filled up one fourth as many balloons as Anthony, and Anthony filled up 44 balloons, then Luke filled up 44 / 4 = 11 balloons.
+
+Next, let's find out how many balloons Tom filled up:
+* Since Tom filled up 3 times as many balloons as Luke, and Luke filled up 11 balloons, then Tom filled up 3 * 11 = 33 balloons.
+
+Answer: 33

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The school has 15 classrooms total.
+2) One-third of the classrooms have 30 desks each.
+   * One-third of 15 is 5, so 5 classrooms have 30 desks each.
+   * 5 classrooms x 30 desks per classroom = 150 desks
+3) The remaining two-thirds of the classrooms have 25 desks each.
+   * Two-thirds of 15 is 10, so 10 classrooms have 25 desks each.
+   * 10 classrooms x 25 desks per classroom = 250 desks
+4) Adding the desks from the two types of classrooms:
+   * 150 desks + 250 desks = 400 desks
+Therefore, the school can accommodate 400 students, with each student having their own desk.
+
+Answer: 400

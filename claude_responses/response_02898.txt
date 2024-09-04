@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The elevator needs to move down 20 floors to reach the bottom
+* It takes 15 minutes for the elevator to travel down the first half of the floors, which is 10 floors
+* It then takes 5 minutes per floor to travel down the next 5 floors
+* It then takes 16 minutes per floor for the elevator to finish traveling down the final 5 floors
+
+First, let's calculate the time it took to travel the first 10 floors:
+* 15 minutes
+
+Next, let's calculate the time it took to travel the next 5 floors:
+* 5 minutes per floor x 5 floors = 25 minutes
+
+Finally, let's calculate the time it took to travel the last 5 floors:
+* 16 minutes per floor x 5 floors = 80 minutes
+
+Now, let's add up the total time:
+* 15 minutes + 25 minutes + 80 minutes = 120 minutes
+
+To convert this to hours, we divide by 60 minutes per hour:
+* 120 minutes / 60 minutes per hour = 2 hours
+
+Answer: 2 hours

@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+Let's say Tim knows x words originally. After 2 years, he knows x + 50% more words. The problem states that the book has increased the number of words he knows by 50%. This means that the number of words he knows after 2 years is x + 50% of x.
+
+We know that the number of words he knows after 2 years is x + 50% of x. We can set up an equation to represent this:
+
+x + 50% of x = x + 50x
+
+We can simplify the right side of the equation to:
+
+x + 0.5x
+
+Now we can solve for x. To do this, we can subtract 0.5x from both sides of the equation:
+
+x + 0.5x = x
+
+This gives us:
+
+0.5x = 0
+
+x = 0.5x
+
+x = 0.5
+
+So, the original number of words Tim knew is 0.5.
+
+Answer: 0

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1. Cindy was hired to teach 4 math courses.
+2. She is required to be in the classroom for 48 hours a week altogether.
+3. Her hourly rate per class is $25.
+4. We need to find how much Cindy earned for teaching 1 math course in a month with exactly 4 weeks.
+
+First, let's calculate how many hours Cindy spends teaching each course per week:
+* 48 hours per week / 4 courses = 12 hours per course per week
+
+Now, let's calculate how much Cindy earns per course per week:
+* 12 hours per course per week x $25 per hour = $300 per course per week
+
+Finally, let's calculate how much Cindy earned for teaching 1 math course in a month with exactly 4 weeks:
+* $300 per course per week x 4 weeks = $1,200
+
+Answer: $1,200

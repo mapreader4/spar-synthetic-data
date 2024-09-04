@@ -1,0 +1,29 @@
+Okay, let's break this down step-by-step:
+* Miriam has five times as many albums as Katrina
+* Katrina has six times the number of albums as Bridget
+* Bridget has 15 fewer albums than Adele
+* Adele has 30 albums
+
+First, let's find out how many albums Bridget has:
+* Bridget has 15 fewer albums than Adele
+* Adele has 30 albums
+* Therefore, Bridget has 30 - 15 = 15 albums
+
+Next, let's find out how many albums Katrina has:
+* Katrina has six times the number of albums as Bridget
+* Bridget has 15 albums
+* Therefore, Katrina has 6 x 15 = 90 albums
+
+Finally, let's find out how many albums Miriam has:
+* Miriam has five times as many albums as Katrina
+* Katrina has 90 albums
+* Therefore, Miriam has 5 x 90 = 450 albums
+
+Now, to find the total number of albums they have together:
+* Adele has 30 albums
+* Bridget has 15 albums
+* Katrina has 90 albums
+* Miriam has 450 albums
+* Total albums = 30 + 15 + 90 + 450 = 585
+
+Answer: 585

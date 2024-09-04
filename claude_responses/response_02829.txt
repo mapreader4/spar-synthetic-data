@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Rob planned to spend 3 hours reading in preparation for his literature exam.
+2) However, he ended up spending only three-quarters of this time reading.
+3) To find the actual time he spent reading, we take three-quarters of 3 hours:
+   * 3 hours x 0.75 = 2.25 hours
+4) Now, we need to find how many pages he read in 2.25 hours.
+5) We know that he reads 1 page every 15 minutes.
+6) In 2.25 hours, there are 135 minutes (2.25 hours x 60 minutes/hour).
+7) Since he reads 1 page every 15 minutes, he read 135 / 15 = 9 pages.
+
+Answer: 9

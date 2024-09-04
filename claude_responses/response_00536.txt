@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* 7 people voted for the witch cake
+* The number of votes for the dragon cake was 25 more than the number of votes for the witch cake
+* So, the number of votes for the dragon cake was 7 + 25 = 32
+* The number of votes for the unicorn cake was three times the number of votes for the witch cake
+* So, the number of votes for the unicorn cake was 7 x 3 = 21
+
+Now, to find the total number of votes cast, we add up the votes for each cake:
+* Witch cake: 7 votes
+* Dragon cake: 32 votes
+* Unicorn cake: 21 votes
+* Total votes = 7 + 32 + 21 = 60
+
+Answer: 60

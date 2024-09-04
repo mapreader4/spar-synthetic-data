@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. Tony puts $1,000 in a savings account for 1 year. So, the initial amount is $1,000.
+2. The account earns 20% interest, which is 20% of $1,000, which is $200.
+3. So, the total amount after 1 year is $1,000 + $200 = $1,200.
+4. Tony takes out half the money, which is half of $1,200, which is $600.
+5. So, the remaining amount is $1,200 - $600 = $600.
+6. The next year, the remaining $600 earns 15% interest, which is 15% of $600, which is $90.
+7. So, the final amount is $600 + $90 = $690.
+
+Answer: 690

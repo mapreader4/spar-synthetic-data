@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. Tom takes 2 pills every day, which means he takes 2 * 365 = 730 pills in a year (since there are 365 days in a year).
+
+2. The medication costs $5 per pill, so the total cost of the medication for the year would be 730 * 5 = $3,650.
+
+3. Insurance covers 80% of the cost, so Tom pays 20% of the cost, which is 0.2 * 3650 = $730.
+
+4. The doctor's visit costs $400, so the total cost for the year is the cost of the medication and the doctor's visit: 730 + 400 = $4050.
+
+Answer: 4050

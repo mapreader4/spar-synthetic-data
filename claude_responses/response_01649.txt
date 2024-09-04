@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The field has 500 clovers total.
+2) 20% of the clovers have four leaves. 
+   * 20% of 500 = 0.20 * 500 = 100 clovers have four leaves.
+3) One quarter of the four-leaved clovers are purple.
+   * One quarter of 100 = 0.25 * 100 = 25 clovers are both four-leaved and purple.
+
+Answer: 25

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The wedding reception had 180 people in total
+* The bride and groom each invited 20 couples from their side of the family
+* To find the number of people from the bride's side, we take 20 couples and multiply by 2 people per couple: 20 x 2 = 40 people
+* To find the number of people from the groom's side, we also take 20 couples and multiply by 2 people per couple: 20 x 2 = 40 people
+* So the total number of people from the bride and groom's side of the family is 40 + 40 = 80 people
+* To find the number of friends that attended, we take the total number of people (180) and subtract the number of people from the bride and groom's side (80):
+180 - 80 = 100 friends
+
+Answer: 100

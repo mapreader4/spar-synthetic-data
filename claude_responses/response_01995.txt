@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* 18 hours ago, Beth and I took 100 photographs of the project
+* Today, we will take 20% fewer photographs of the same project
+* To calculate the number of photographs taken today:
+    - 20% of 100 is 0.2 * 100 = 20
+    - So we will take 100 - 20 = 80 photographs today
+* The target is 300 photographs
+* To calculate how many more photographs we need to reach the target:
+    - We have taken 100 + 80 = 180 photographs so far
+    - The target is 300 photographs
+    - So we need 300 - 180 = 120 more photographs to reach the target
+
+Answer: 120

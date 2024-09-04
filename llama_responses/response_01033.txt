@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+James dances for 0.5 hours, which is half an hour, twice a day. So, he dances for a total of 0.5 * 2 = 1 hour per day. He dances 4 times a week, so he dances for 1 * 4 = 4 hours a week.
+
+He loses twice as many calories per hour as he did when he was walking. When he was walking, he burned 300 calories an hour. So, he loses 300 * 2 = 600 calories per hour.
+
+Since he dances for 4 hours a week, he loses 600 * 4 = 2400 calories a week.
+
+Answer: 2400

@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Adonis's dad uses 1 oz of shampoo per day from a 10 oz bottle.
+* Adonis replaces the shampoo with 1/2 an ounce of hot sauce per day.
+* After 4 days, we want to know what percentage of the liquid in the bottle is hot sauce.
+
+First, let's calculate how much shampoo has been used in 4 days:
+* 1 oz per day x 4 days = 4 oz of shampoo used
+
+Next, let's calculate how much hot sauce has been added in 4 days:
+* 1/2 oz per day x 4 days = 2 oz of hot sauce added
+
+Now, we can calculate the total volume of liquid in the bottle after 4 days:
+* Initial volume: 10 oz
+* Shampoo used: 4 oz
+* Hot sauce added: 2 oz
+* Total volume remaining: 10 oz - 4 oz + 2 oz = 8 oz
+
+Finally, we can calculate the percentage of hot sauce in the bottle:
+* Hot sauce volume: 2 oz
+* Total volume: 8 oz
+* Percentage of hot sauce: (2 oz / 8 oz) x 100 = 25%
+
+Answer: 25%

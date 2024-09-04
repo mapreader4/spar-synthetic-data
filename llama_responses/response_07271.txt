@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of photos that Cristina, John, and Sarah have brought. Cristina brings 7 photos, John brings 10 photos, and Sarah brings 9 photos. So, the total number of photos they have is:
+
+7 + 10 + 9 = 26
+
+Since the photo album has 40 slots available, and they have already brought 26 photos, they still need:
+
+40 - 26 = 14
+
+photos to fill the album. So, Clarissa needs to bring 14 photos.

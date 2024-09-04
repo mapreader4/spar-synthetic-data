@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+On Friday, Markeesha sold 30 boxes of crackers. On Saturday, she sold twice as many as on Friday, which means she sold 30 x 2 = 60 boxes. On Sunday, she sold 15 fewer than Saturday, which means she sold 60 - 15 = 45 boxes.
+
+To find the total number of boxes sold over the three days, we need to add the number of boxes sold on each day:
+
+30 (Friday) + 60 (Saturday) + 45 (Sunday) = 135
+
+Answer: 135

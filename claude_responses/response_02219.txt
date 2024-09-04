@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Job has a total of 150 hectares of land
+* 25 hectares are occupied by his house and farm machinery
+* 15 hectares have been reserved for future expansion
+* 40 hectares are dedicated to rearing cattle
+* The remaining land is used for crop production
+
+To calculate the hectares used for crop production, we need to subtract the land used for other purposes from the total land:
+* Total land: 150 hectares
+* Land used for house and machinery: 25 hectares
+* Land reserved for future expansion: 15 hectares
+* Land used for cattle rearing: 40 hectares
+* Total land used for other purposes: 25 + 15 + 40 = 80 hectares
+
+Now, we can subtract the land used for other purposes from the total land to get the land used for crop production:
+* Total land: 150 hectares
+* Land used for other purposes: 80 hectares
+* Land used for crop production: 150 - 80 = 70 hectares
+
+Answer: 70 hectares

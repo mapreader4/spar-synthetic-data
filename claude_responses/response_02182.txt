@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* During peak hours, the restaurant serves 12 cars every 15 minutes
+* From 4 pm - 5 pm is an off-peak hour, so they serve 8 cars every 15 minutes
+* From 5 pm - 6 pm is a peak hour, so they serve 12 cars every 15 minutes
+* To calculate the total customers served from 4 pm - 6 pm:
+* From 4 pm - 5 pm (1 hour), they serve 8 cars every 15 minutes, so that's 8 x 4 = 32 customers
+* From 5 pm - 6 pm (1 hour), they serve 12 cars every 15 minutes, so that's 12 x 4 = 48 customers
+* Total customers served from 4 pm - 6 pm = 32 + 48 = 80 customers
+
+Answer: 80

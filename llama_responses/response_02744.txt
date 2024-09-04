@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total distance the potato will travel. Since a football field is 200 yards long, we need to convert yards to feet. There are 3 feet in a yard, so 200 yards is 600 feet. Since the dog runs at a rate of 400 feet per minute, we need to find the time it will take to cover the total distance.
+
+The total distance the potato will travel is 600 feet. The time it will take to cover this distance is the total distance divided by the rate:
+
+600 feet / 400 feet/minute = 1.5 minutes
+
+Answer: 1.5

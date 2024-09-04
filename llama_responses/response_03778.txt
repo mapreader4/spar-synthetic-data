@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of miles built on the first day:
+
+50 miles are built on the first day.
+
+Next, we know that three times this amount are built on the second day. So, three times 50 is 150 miles.
+
+So, the total miles built on the first two days are 50 + 150 = 200 miles.
+
+The highway's current length is 200 miles, and it needs to be extended to 650 miles. So, the total amount of miles that still need to be added is:
+
+650 - 200 = 450
+
+Answer: 450

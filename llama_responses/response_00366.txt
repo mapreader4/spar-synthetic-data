@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's find the length of the ladder Keaton climbed. Keaton climbed the ladder 20 times, so the total length he climbed is 30 feet times 20 = 600 feet.
+
+Next, let's find the length of the ladder Reece climbed. Reece climbed the ladder 15 times, and the ladder is 4 feet shorter than Keaton's ladder. So, the length of Reece's ladder is 30 - 4 = 26 feet. Reece climbed this ladder 15 times, so the total length Reece climbed is 26 feet times 15 = 390 feet.
+
+The total length of the ladders both workers climbed is the sum of the lengths of the ladders they climbed, which is 600 + 390 = 990 feet.
+
+Answer: 990

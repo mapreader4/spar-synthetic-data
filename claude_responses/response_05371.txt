@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Martha has 20 apples
+* Jane got 5 apples from Martha
+* James got 2 more apples than Jane, so he got 7 apples (5 + 2)
+* So far, Martha has given away 5 + 7 = 12 apples
+* Martha wants to be left with only 4 apples
+* To calculate how many more apples Martha needs to give away, we take the total apples she had (20) and subtract the 12 she has already given away, and then subtract the 4 she wants to keep:
+* 20 - 12 - 4 = 4
+
+Answer: 4

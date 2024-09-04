@@ -1,0 +1,1 @@
+Let's start by identifying the number of candles she burns each night. If she burns a candle for 1 hour each night, then she will burn 24 hours in 24 nights. Since she burns a candle for 2 hours a night, then she will burn 48 hours in 24 nights. Since a candle will last her 8 nights, the number of candles she will use is 24 * 2 = 48. 48 candles.

@@ -1,0 +1,16 @@
+Let's start by identifying the information given in the problem. It states that there are three less than four times the number of students in Elementary School as there are in Middle School.
+
+Let's let the number of students in Middle School be x. Since there are three less than four times the number of students in Elementary School, we can write the equation as:
+
+x - 4 * 4 = 3
+
+To solve for x, we can divide both sides by 4:
+
+x = 3 / 3
+x = 1
+
+So, the number of students in Middle School is 1. To find the total number of students in both levels, we can multiply the number of students in Middle School by 2 (since there are 2 levels, Elementary and Middle School):
+
+1 * 2 = 2
+
+The answer is: Answer: 2

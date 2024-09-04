@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1) Rudy runs 5 miles at a rate of 10 minutes per mile.
+   * To calculate the time for this first run, we multiply the distance (5 miles) by the rate (10 minutes per mile).
+   * 5 miles x 10 minutes/mile = 50 minutes
+
+2) Rudy then runs 4 miles at a rate of 9.5 minutes per mile.
+   * To calculate the time for this second run, we multiply the distance (4 miles) by the rate (9.5 minutes per mile).
+   * 4 miles x 9.5 minutes/mile = 38 minutes
+
+3) To find the total time Rudy runs, we add the time for the first run (50 minutes) and the time for the second run (38 minutes).
+   * 50 minutes + 38 minutes = 88 minutes
+
+Answer: 88

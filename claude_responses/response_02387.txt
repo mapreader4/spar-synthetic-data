@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+1) Dirk sells amulets for 2 days
+2) Each day he sells 25 amulets
+3) Each amulet sells for $40
+4) Each amulet costs him $30 to make
+5) He has to give 10% of his revenue to the faire
+
+First, let's calculate his total revenue:
+* Total amulets sold = 25 amulets per day x 2 days = 50 amulets
+* Revenue per amulet = $40
+* Total revenue = 50 amulets x $40 per amulet = $2,000
+
+Next, let's calculate his total cost:
+* Cost per amulet = $30
+* Total cost = 50 amulets x $30 per amulet = $1,500
+
+Now, let's calculate the amount he has to give to the faire:
+* 10% of total revenue = 0.10 x $2,000 = $200
+
+Finally, let's calculate his profit:
+* Profit = Total revenue - Total cost - Amount given to the faire
+* Profit = $2,000 - $1,500 - $200 = $300
+
+Answer: $300

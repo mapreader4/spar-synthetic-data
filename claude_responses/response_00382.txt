@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) We know that it takes David 10 minutes to wash 4 windows.
+2) This means that it takes David 2.5 minutes to wash 1 window (10 minutes / 4 windows = 2.5 minutes per window).
+3) David's house has 64 windows.
+4) To find the total time it will take David to wash all 64 windows, we multiply the time it takes to wash 1 window (2.5 minutes) by the total number of windows (64).
+5) 2.5 minutes per window x 64 windows = 160 minutes.
+
+Answer: 160 minutes

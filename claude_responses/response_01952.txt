@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* On the first day, Sol sells 10 candy bars
+* Each day after, she sells 4 more candy bars than the previous day
+* So, on the second day, she sells 10 + 4 = 14 candy bars
+* On the third day, she sells 14 + 4 = 18 candy bars
+* On the fourth day, she sells 18 + 4 = 22 candy bars
+* On the fifth day, she sells 22 + 4 = 26 candy bars
+* On the sixth day, she sells 26 + 4 = 30 candy bars
+* Each candy bar costs 10 cents
+* So, the total earnings for the week would be:
+* Day 1: 10 candy bars x 10 cents = $1.00
+* Day 2: 14 candy bars x 10 cents = $1.40
+* Day 3: 18 candy bars x 10 cents = $1.80
+* Day 4: 22 candy bars x 10 cents = $2.20
+* Day 5: 26 candy bars x 10 cents = $2.60
+* Day 6: 30 candy bars x 10 cents = $3.00
+* Total earnings for the week = $1.00 + $1.40 + $1.80 + $2.20 + $2.60 + $3.00 = $12.00
+
+Answer: $12.00

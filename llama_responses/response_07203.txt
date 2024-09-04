@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The first 8 customers bought 3 cases each, so that's 3 x 8 = 24 cases.
+2. The next 4 customers bought 2 cases each, so that's 4 x 2 = 8 cases.
+3. The last 8 customers bought 1 case each, so that's 8 cases.
+4. To find the total number of cases of cat food that were sold, we need to add the number of cases bought by the first group, the second group, and the last group. So, we have 24 + 8 + 8 = 40 cases of cat food that were sold.
+
+Answer: 40

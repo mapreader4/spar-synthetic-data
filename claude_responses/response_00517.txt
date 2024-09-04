@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Roger rode his bike for 2 miles in the morning
+* In the evening, he rode 5 times that amount
+* To calculate the evening distance, we take the morning distance (2 miles) and multiply it by 5:
+  * 2 miles x 5 = 10 miles
+* To find the total distance Roger rode his bike, we add the morning and evening distances:
+  * 2 miles + 10 miles = 12 miles
+
+Answer: 12

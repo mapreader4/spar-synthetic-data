@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Belinda can throw the ball at a speed of 20 feet/second.
+2) The ball flies for 8 seconds before hitting the ground.
+3) To find the total distance the ball travels, we multiply the speed (20 feet/second) by the time (8 seconds):
+   * 20 feet/second x 8 seconds = 160 feet
+4) Belinda's border collie can run at a speed of 5 feet/second.
+5) To find how long it will take the border collie to catch up to the ball, we divide the total distance the ball traveled (160 feet) by the speed of the border collie (5 feet/second):
+   * 160 feet / 5 feet/second = 32 seconds
+
+Answer: 32 seconds

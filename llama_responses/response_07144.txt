@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the price after the first month. If the price fell 10%, then the new price will be 1000 - (1000 * 0.1) = 1000 - 100 = $900.
+
+Now, in the second month, the price fell another 20%. This means we need to multiply the new price by 0.2. The new price will be 900 * 0.2 = 180.
+
+So, the final price after the second month is $180.

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of cases that were ruled guilty. We are told that "the rest were judged guilty". The "rest" refers to the cases that are not the ones that were ruled innocent or dismissed.
+
+Let's first find the number of cases that were ruled innocent: 2-thirds of the 17 cases were ruled innocent. So, 2-thirds of 17 is 11.
+
+The number of cases that were judged guilty is the total number of cases minus the number of innocent cases: 17 - 11 = 6.
+
+Answer: 6

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Padma started with 75 cards.
+2) Padma traded 2 of her valuable cards for 10 of Robert's cards.
+   * So Padma now has 75 - 2 = 73 cards.
+   * Robert now has 88 + 10 = 98 cards.
+3) Robert then traded 8 of his cards for 15 of Padma's cards.
+   * So Robert now has 98 - 8 = 90 cards.
+   * Padma now has 73 + 15 = 88 cards.
+4) To calculate the total number of cards traded between Padma and Robert:
+   * Padma traded 2 + 15 = 17 cards.
+   * Robert traded 10 + 8 = 18 cards.
+   * The total number of cards traded is 17 + 18 = 35.
+
+Answer: 35

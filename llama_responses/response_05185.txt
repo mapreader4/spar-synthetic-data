@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first find out how many swordfish Shelly catches. Since Shelly catches 2 less than 5, we can set up an equation to represent the number of swordfish Shelly catches. Let's call the number of swordfish Shelly catches "S".
+
+S = 5 - 2
+
+S = 3
+
+So Shelly catches 3 swordfish.
+
+Next, let's find out how many swordfish Sam catches. Sam catches 1 less than Shelly, so we can set up an equation to represent the number of swordfish Sam catches. Let's call the number of swordfish Sam catches "S - 1".
+
+S - 1 = 3
+
+S - 1 = 2
+
+So Sam catches 2 swordfish.
+
+Now, let's find the total number of swordfish they catch. We know Shelly catches 3 swordfish and Sam catches 2 swordfish. We can add these numbers together to get the total number of swordfish they catch.
+
+3 + 2 = 5
+
+Answer: 5

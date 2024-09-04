@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+We know that Job has a total of 150 hectares of land. We also know that 25 hectares are occupied by his house and farm machinery, and 15 hectares have been reserved for future expansion. So, we subtract these from the total land area:
+
+150 - 25 - 15 = 110
+
+Now, we know that 40 hectares are dedicated to rearing cattle. So, we subtract these from the remaining land area:
+
+110 - 40 = 70
+
+Job uses 70 hectares of land for crop production.
+
+Answer: 70

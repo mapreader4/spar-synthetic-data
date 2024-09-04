@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The distance of the trip is 2,790 miles
+* The friends drove at a constant speed of 62 miles/hour
+* They took breaks of 30 minutes every 5 hours
+* They spent an additional 30 minutes looking for the hotel once they arrived in the city
+
+First, let's calculate the total driving time:
+* Distance / Speed = Time
+* 2,790 miles / 62 miles/hour = 45 hours
+
+Now, let's account for the breaks:
+* They took 30-minute breaks every 5 hours
+* 45 hours / 5 hours = 9 breaks
+* 9 breaks x 30 minutes = 270 minutes = 4.5 hours
+
+Finally, let's add the time spent looking for the hotel:
+* 45 hours + 4.5 hours + 0.5 hours = 50 hours
+
+Answer: 50 hours

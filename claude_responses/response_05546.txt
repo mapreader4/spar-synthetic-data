@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Shelly has 10 $10 bills
+* Each $10 bill is worth $10
+* So, the total value of the $10 bills is:
+  * 10 bills x $10 per bill = $100
+* Shelly has 4 fewer $5 bills than $10 bills
+* Since Shelly has 10 $10 bills, she has 6 $5 bills (10 - 4 = 6)
+* Each $5 bill is worth $5
+* So, the total value of the $5 bills is:
+  * 6 bills x $5 per bill = $30
+* To find the total money Shelly has, we add the values of the $10 bills and $5 bills:
+  * $100 + $30 = $130
+
+Answer: 130

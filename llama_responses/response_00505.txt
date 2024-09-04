@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start with the number of sheep that were rounded up: 90% of the total number of sheep.
+
+Let's call the total number of sheep x. So, 90% of x is the number of sheep that were rounded up.
+
+The number of sheep that wandered off into the hills is the remaining 10%. This is the number of sheep that were not rounded up.
+
+The number of sheep in the pen is 81.
+
+The problem asks us to find the number of sheep that are out in the wilderness. To do this, we need to subtract the number of sheep in the pen (81) from the total number of sheep (x).
+
+We can set up an equation to represent this: 90% of x = 81. We can then solve for x.
+
+90% of x = 0.9x = 81
+
+x = 90/0.9 = 100
+
+x = 100
+
+Now, we know the total number of sheep is 100.
+
+To find the number of sheep that are out in the wilderness, we need to subtract the number of sheep in the pen from the total number of sheep. We can do this by subtracting 81 from 100.
+
+100 - 81 = 19
+
+The answer is 19.
+
+Answer: 19

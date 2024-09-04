@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of pieces for the second and third puzzles. Since they have 50% more pieces than the first puzzle, and the first puzzle has 1000 pieces, the second and third puzzles have 1000 + 1000 * 0.5 = 1500 pieces each.
+
+To find the total number of pieces for all the puzzles, we add the number of pieces of the first puzzle to the number of pieces of the second and third puzzles:
+
+1000 + 1500 + 1500 = 3000
+
+So, the answer is:
+
+Answer: 3000

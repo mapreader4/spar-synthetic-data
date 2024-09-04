@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Originally, Tom could lift 80 kg farmer handles per hand.
+2) After some training, he was able to double this number. So, he could now lift 80 kg x 2 = 160 kg per hand.
+3) He then decided to specialize and was able to get an extra 10% on top of that.
+4) To calculate the 10% increase, we take 160 kg and multiply it by 1.1 (since 10% is 0.1).
+5) 160 kg x 1.1 = 176 kg per hand.
+6) To get the total weight he can hold, we multiply 176 kg by 2 (since he has two hands).
+Answer: 352 kg

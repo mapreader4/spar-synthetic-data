@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of residential units. We know that half of the 300 units are residential, so that is 150.
+
+Next, we need to find out how many units are left. We know that the other half of the units are split evenly between offices and restaurants. Since the other half is 150, and it's split evenly between two types of units, we can divide 150 by 2 to get the number of units for each type of unit. 150 divided by 2 is 75.
+
+So, there are 75 offices and 75 restaurants.

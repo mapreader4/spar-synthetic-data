@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 20 homes in the neighborhood
+* Each home needs 10 solar panels
+* So the total number of panels required is 20 homes x 10 panels per home = 200 panels
+* The supplier brought 50 panels less than the required amount
+* So the supplier brought 200 - 50 = 150 panels
+* The neighbors agreed to only install the panels up to where they'd be finished
+* Since the supplier brought 150 panels, and each home needs 10 panels, the number of homes that can have their panels installed is 150 panels / 10 panels per home = 15 homes
+
+Answer: 15 homes had their panels installed.

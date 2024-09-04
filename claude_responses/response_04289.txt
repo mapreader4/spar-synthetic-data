@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Layla rode her bicycle slowly to the high school
+* She then rode 4 miles around the running track at her faster, race pace
+* Finally, she rode back home, slowly, on the same route
+* Her total mileage was 10 miles
+
+We can represent this as:
+* Distance from house to high school + 4 miles + Distance from high school to house = 10 miles
+
+Since the distance from the house to the high school is the same as the distance from the high school to the house, we can simplify this to:
+* 2 * (Distance from house to high school) + 4 miles = 10 miles
+
+Solving for the distance from the house to the high school:
+* 2 * (Distance from house to high school) = 10 miles - 4 miles
+* 2 * (Distance from house to high school) = 6 miles
+* Distance from house to high school = 6 miles / 2
+* Distance from house to high school = 3 miles
+
+Answer: 3 miles

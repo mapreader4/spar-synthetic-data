@@ -1,0 +1,12 @@
+Let's break down the problem step by step.
+
+Let's first calculate the cost of the items sold:
+
+1. 2 T-shirts: 2 x 5 = 10
+2. 1 pair of pants: 4
+3. 4 skirts: 4 x 6 = 24
+4. 6 refurbished T-shirts: 6 x (5/2) = 15
+
+The total cost of the items is: 10 + 4 + 24 + 15 = 49
+
+So, the total income is 49.

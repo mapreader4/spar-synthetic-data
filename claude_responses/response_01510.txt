@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The team has 50 players
+* 60% of the team are boys, which means 40% are girls
+* 40% of 50 players = 0.4 * 50 = 20 girls
+* Half of the girls are juniors and half are seniors
+* Therefore, the number of junior girls is half of the total number of girls, which is 20 / 2 = 10
+
+Answer: 10

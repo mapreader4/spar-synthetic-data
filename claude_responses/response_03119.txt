@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Nick has 60 cans.
+2) Each can takes up 30 square inches of space before being compacted.
+3) After being compacted, each can takes up 20% of the original 30 square inches.
+4) To calculate the space taken up by each can after being compacted, we take 20% of 30 square inches:
+   * 20% of 30 square inches = 0.20 * 30 = 6 square inches
+5) Now, to calculate the total space taken up by all 60 cans after being compacted, we multiply the space taken up by each can (6 square inches) by the total number of cans (60):
+   * 6 square inches per can * 60 cans = 360 square inches
+
+Answer: 360

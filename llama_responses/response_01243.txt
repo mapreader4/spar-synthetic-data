@@ -1,0 +1,11 @@
+To solve this problem, we need to find the distance the jet can travel in 10 hours.
+
+Let's first find the distance the jet travels in 1 hour. Since the jet travels 580 miles in 2 hours, we can divide 580 by 2 to get the distance the jet travels in 1 hour.
+
+580 / 2 = 290
+
+Now, we can multiply this value by 10 to find the distance the jet can travel in 10 hours.
+
+290 * 10 = 2,900
+
+Answer: 2900

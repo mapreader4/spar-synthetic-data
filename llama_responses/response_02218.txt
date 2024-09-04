@@ -1,0 +1,9 @@
+Let's start by identifying the number of segments in the Eastern rattlesnake's tail, which is 6. Let's call this number 'x'. The number of segments in the Western rattlesnake's tail is given as 8, which we can call 'y'. The percentage difference in their tail size is the difference between these two numbers.
+
+The difference is y - x = 8 - 6 = 2.
+
+To express this as a percentage of the Western rattlesnake's tail size, we need to divide the difference by the Western rattlesnake's tail size.
+
+Percentage = (y - x) / y = (2) / 8 = 2 / 8 = 0.25.
+
+So, the percentage difference in their tail size is 0.25 or 25%.

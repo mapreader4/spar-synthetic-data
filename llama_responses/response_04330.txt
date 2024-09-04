@@ -1,0 +1,21 @@
+Let's break down the information given:
+
+* Simon has 20 more legos than Bruce.
+* Bruce has 20 more legos than Kent.
+
+We can start by letting x be the number of legos that Kent has. Then, we can write the equation:
+
+x + 20 = Bruce's legos
+Bruce's legos = Kent's legos + 20
+
+We know that Kent has 40 legos, so we can substitute that into the equation:
+
+x + 20 = 40 + 20
+
+Subtract 20 from both sides of the equation to get:
+
+x = 20
+
+So, Simon has 20 + 20 = 40 legos. Therefore, Simon has 60 legos.
+
+Answer: 60

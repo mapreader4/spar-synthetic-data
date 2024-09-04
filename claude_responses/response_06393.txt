@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Alex has 18 shirts, 12 pants, 17 sweaters, and 13 jeans that need to be washed.
+2) The total number of items that need to be washed is 18 + 12 + 17 + 13 = 60 items.
+3) The washing machine can wash a maximum of 15 items per cycle.
+4) To determine the number of cycles needed, we divide the total number of items (60) by the maximum number of items per cycle (15):
+60 / 15 = 4 cycles.
+5) Each cycle takes 45 minutes.
+6) To calculate the total time, we multiply the number of cycles (4) by the time per cycle (45 minutes):
+4 cycles x 45 minutes/cycle = 180 minutes.
+7) To convert the total time from minutes to hours, we divide the total minutes (180) by 60 minutes/hour:
+180 minutes / 60 minutes/hour = 3 hours.
+
+Answer: 3 hours.

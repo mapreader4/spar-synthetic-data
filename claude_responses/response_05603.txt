@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. James' car's original speed was 150 mph.
+2. Supercharging the car increases the speed by 30%. 
+   * 30% of 150 mph = 0.3 * 150 = 45 mph
+   * New speed after supercharging = 150 mph + 45 mph = 195 mph
+
+3. Cutting the weight of the car by 15% increases the speed by 10 mph.
+   * New speed after weight reduction = 195 mph + 10 mph = 205 mph
+
+Therefore, the new speed of James' car is:
+Answer: 205 mph

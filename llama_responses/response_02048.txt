@@ -1,0 +1,15 @@
+To find the total number of questions and answers, we need to calculate the total number of questions and answers separately.
+
+The average number of answers posted by each member is three times the number of questions asked. So, if the average number of questions asked is x, then the average number of answers is 3x.
+
+The total number of questions asked by the 200 members in a day is 3x.
+
+The total number of answers posted by the 200 members in a day is 3(3x).
+
+We know that 3x is the average number of answers posted by each member. So, the total number of answers posted by the 200 members in a day is 3(3x) = 9x.
+
+Now, we need to find the total number of questions and answers posted on the forum. We know that the total number of questions and answers is equal to the total number of questions and answers, which is 9x.
+
+So, the answer is:
+
+Answer: 9x

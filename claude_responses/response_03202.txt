@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. The current babysitter charges $16 per hour.
+2. Milly hires the babysitter for 6 hours.
+3. So the current babysitter's total cost is:
+   $16 per hour x 6 hours = $96
+
+4. The new babysitter charges $12 per hour.
+5. The new babysitter also charges an extra $3 for each time the kids scream, which is twice per babysitting gig.
+6. So the new babysitter's total cost is:
+   $12 per hour x 6 hours = $72
+   + $3 x 2 times the kids screamed = $6
+   Total new babysitter cost = $72 + $6 = $78
+
+7. To calculate how much less the new babysitter will cost:
+   Current babysitter cost: $96
+   New babysitter cost: $78
+   Difference: $96 - $78 = $18
+
+Answer: $18

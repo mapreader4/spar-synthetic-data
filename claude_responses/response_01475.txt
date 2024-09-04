@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Pete has a bag with 10 marbles total.
+2) 40% of the marbles are blue, and the rest are red.
+3) To find the number of blue marbles, we take 40% of 10 marbles:
+   * 40% of 10 = 0.4 * 10 = 4 blue marbles
+4) The remaining marbles must be red, so there are 10 - 4 = 6 red marbles.
+5) Pete's friend will trade him 2 blue marbles for every 1 red marble.
+6) Pete keeps 1 red marble, so he trades the remaining 5 red marbles.
+7) For each of the 5 red marbles, Pete gets 2 blue marbles in return.
+8) So Pete gets 5 * 2 = 10 blue marbles in the trade.
+9) After the trade, Pete has the 4 blue marbles he started with, plus the 10 blue marbles he got in the trade, plus the 1 red marble he kept.
+10) In total, Pete has 4 + 10 + 1 = 15 marbles.
+
+Answer: 15

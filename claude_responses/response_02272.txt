@@ -1,0 +1,28 @@
+Okay, let's break this down step by step:
+* In the first week, the company hired 200 more employees than in the second week.
+* In the second week, the company hired 150 fewer employees than in the third week.
+* In the fourth week, the company hired twice the number of employees as in the third week.
+* The total number of employees hired in the fourth week was 400.
+
+Now, let's solve for the number of employees hired in each week:
+* Let's call the number of employees hired in the third week 'x'.
+* Then, the number of employees hired in the fourth week is 2x.
+* The number of employees hired in the second week is x - 150.
+* The number of employees hired in the first week is x + 200.
+
+We know that the total number of employees hired in the fourth week is 400, so:
+* 2x = 400
+* x = 200
+
+Therefore, the number of employees hired in each week is:
+* First week: 200 + 200 = 400
+* Second week: 200 - 150 = 50
+* Third week: 200
+* Fourth week: 400
+
+Now, we can calculate the average number of employees hired per week:
+* Total employees hired = 400 + 50 + 200 + 400 = 1050
+* Number of weeks = 4
+* Average employees hired per week = 1050 / 4 = 262.5
+
+Answer: 263

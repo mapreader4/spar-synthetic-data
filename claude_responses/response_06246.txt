@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) There were 600 cookies in the box originally.
+2) Nicole ate 2/5 of the total number of cookies. 
+   * 2/5 of 600 = 2/5 * 600 = 240 cookies
+   * So Nicole ate 240 cookies.
+3) The remaining number of cookies after Nicole ate 240 is 600 - 240 = 360 cookies.
+4) Eduardo ate 3/5 of the remaining 360 cookies.
+   * 3/5 of 360 = 3/5 * 360 = 216 cookies
+   * So Eduardo ate 216 cookies.
+5) The remaining number of cookies after Eduardo ate 216 is 360 - 216 = 144 cookies.
+6) The percentage of the original 600 cookies that remained is:
+   * (144 / 600) * 100 = 24%
+
+Answer: 24

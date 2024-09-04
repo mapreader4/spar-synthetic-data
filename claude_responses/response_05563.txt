@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The park warden issued a total of 24 citations over the past three hours
+* The number of citations issued for littering is the same as the number issued for off-leash dogs
+* The number of citations issued for other parking fines is double the number issued for littering and off-leash dogs
+
+Let's call the number of littering citations and off-leash dog citations "x".
+Then the number of parking fine citations is "2x".
+
+The total number of citations is 24, so we can write the equation:
+x + x + 2x = 24
+
+Simplifying, we get:
+4x = 24
+x = 6
+
+Therefore, the warden issued 6 littering citations.
+
+Answer: 6

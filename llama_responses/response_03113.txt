@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given to us:
+
+* Jordan picked 54 mangoes.
+* One-third of the mangoes were ripe, and the other two-thirds were not yet ripe.
+* Jordan kept 16 unripe mangoes and gave the remainder to his sister.
+* The remainder is 54 - 16 = 38.
+* Jordan's sister can fill 4 mangoes in each jar, so we need to find how many jars she can fill.
+
+To find the number of jars, we can divide 38 by 4.
+
+38 ÷ 4 = 9.5
+
+Answer: 9

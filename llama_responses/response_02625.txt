@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say the total number of friends Toby has is x.
+
+We know that 55% of Toby's friends are boys, which is 0.55x.
+
+We also know that the rest of the friends are girls, which is 1 - 0.55x.
+
+We know that the number of boys is 33.
+
+So, 0.55x = 33. We can solve for x by multiplying both sides by 100, which gives us:
+
+0.55x * 100 = 3300
+
+Then, we can divide both sides by 0.55 to get x, which is:
+
+x = 600
+
+So, Toby has 600 friends in total.
+
+Answer: 600

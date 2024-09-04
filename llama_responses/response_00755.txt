@@ -1,0 +1,5 @@
+To find the distance Tom covered, we can use the formula distance = rate * time.  Tom swims for 2 hours at a speed of 2 miles per hour.  So, the distance he covered while swimming is 2 * 2 = 4 miles.
+
+He then runs for half the time, which is 1 hour.  The speed he runs is 4 * 2 = 8 miles per hour.  So, the distance he covers while running is 8 * 1 = 8 miles.
+
+The total distance covered by Tom is 4 + 8 = 12 miles.

@@ -1,0 +1,25 @@
+Okay, let's break this down step by step:
+* Maurice had only been horseback riding a handful of times before visiting Matt
+* During the two-week visit, Maurice rode 8 times, and Matt accompanied him each time
+* Besides the times he accompanied Maurice, Matt rode an additional 16 times
+* The total number of times Matt rode during the two weeks is three times the number of times Maurice had ridden before his visit
+
+Let's define the variables:
+* Let x = the number of times Maurice had ridden before visiting Matt
+* Then, the total number of times Matt rode during the two weeks is 3x
+
+We know that:
+* Maurice rode 8 times during the visit, and Matt accompanied him each time
+* Matt rode an additional 16 times on his own
+* So the total number of times Matt rode is 8 + 16 = 24
+
+Now we can set up an equation:
+* 3x = 24
+
+Solving for x:
+* x = 24 / 3
+* x = 8
+
+Therefore, Maurice had been horseback riding 8 times before visiting Matt.
+
+Answer: 8

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of nuts that the 2 busy squirrels are stockpiling. They are stockpiling 30 nuts per day, and there are 40 days. So, the total number of nuts they will stockpile is:
+
+2 squirrels x 30 nuts/day x 40 days = 2 x 30 x 40 = 240 nuts
+
+Now, let's find the number of nuts the sleepy squirrel is stockpiling. The sleepy squirrel is stockpiling 20 nuts per day, and there are 40 days. So, the total number of nuts the sleepy squirrel will stockpile is:
+
+1 squirrel x 20 nuts/day x 40 days = 1 x 20 x 40 = 80 nuts
+
+Now, let's add the total number of nuts stockpiled by the 2 busy squirrels and the sleepy squirrel:
+
+240 nuts + 80 nuts = 320 nuts
+
+Answer: 320

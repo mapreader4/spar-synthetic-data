@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding out how many apples are used to make 24 full-size pies. Since each full-size pie uses 2 apples, Ivan uses 48 apples for 24 full-size pies.
+
+Now, since Ivan decides to make mini pies, each using 1/2 an apple each, we know that each mini pie uses 1/2 an apple. If Ivan makes 24 mini pies, he will use 24 * 1/2 = 12 apples.
+
+Since Ivan used 48 apples for full-size pies, and he uses 12 apples for mini pies, he will have 48 - 12 = 36 apples leftover.
+
+So, Ivan has 36 apples leftover.
+
+Answer: 36

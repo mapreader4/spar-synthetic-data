@@ -1,0 +1,17 @@
+Let's break this problem down step by step:
+
+On Monday, Junior bought 6 toys for his rabbits.
+
+On Wednesday, he bought twice as many toys as he did on Monday, which is 6 x 2 = 12 toys.
+
+On Friday, he bought four times as many toys as he did on Monday, which is 6 x 4 = 24 toys.
+
+On the next day, he bought half as many toys as he did on Wednesday, which is 12 / 2 = 6 toys.
+
+So, in total, Junior bought 6 + 12 + 24 + 6 = 48 toys.
+
+Since he has 16 rabbits, and he splits the toys evenly between them, we can divide the total number of toys by the number of rabbits:
+
+48 ÷ 16 = 3
+
+Answer: 3

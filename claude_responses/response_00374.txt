@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There were 50 buyers the day before yesterday
+* Yesterday, there were half the number of buyers as the day before, which means there were 25 buyers yesterday
+* Today, there are 40 more buyers than yesterday, which means there are 25 + 40 = 65 buyers today
+* Nobody visited the store on more than one day, so the total number of buyers who've visited the store in the three days is:
+* Day before yesterday: 50 buyers
+* Yesterday: 25 buyers
+* Today: 65 buyers
+* Total: 50 + 25 + 65 = 140 buyers
+
+Answer: 140

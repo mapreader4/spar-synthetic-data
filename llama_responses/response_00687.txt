@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: We know that Stephanie has 30 candles in total. She wants to decorate half of the cupcakes with 1 candle each and the other half with 2 candles each.
+
+Step 2: To find out how many cupcakes she has in each group, we can divide the total number of candles by 2. 30 divided by 2 is 15. So, we have 15 cupcakes in each group.
+
+Step 3: We know that each group has a certain number of candles. The first group has 1 candle each, so that is 15 x 1 = 15 candles. The second group has 2 candles each, so that is 15 x 2 = 30 candles.
+
+Step 4: We know that the total number of candles needed is the total number of candles in both groups. The total number of candles is 15 + 30 = 45. We know that Stephanie has 30 candles, so she needs 45 - 30 = 15 more candles.
+
+Answer: 15

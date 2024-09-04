@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say Stacy started with x berries. We know that Steve took 4 berries from Stacy, so Stacy has x - 4 berries left. We know that Stacy has 32 berries, so x - 4 = 32. We can solve for x by adding 4 to both sides of the equation:
+
+x - 4 = 32
+
+x = 36
+
+So Stacy started with 36 berries.

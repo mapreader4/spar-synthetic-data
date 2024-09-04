@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: There are three kinds of beads in the necklace: amethyst, amber, and turquoise.
+
+Step 2: The number of amethyst beads is given as 7.
+
+Step 3: The number of amber beads is twice the number of amethyst beads, so the number of amber beads is 7 * 2 = 14.
+
+Step 4: The total number of beads is the sum of the number of amethyst beads, the number of amber beads, and the number of turquoise beads. The total number of beads is 7 + 14 + x, where x is the number of turquoise beads.
+
+Step 5: We know that the total number of beads is 40. So, we can set up an equation: 7 + 14 + x = 40.
+
+Step 6: To solve for x, we subtract 7 + 14 from both sides of the equation: 7 + 14 + x = 40. This leaves us with x = 19.
+
+Answer: 19

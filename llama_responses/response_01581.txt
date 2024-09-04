@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of Persian cats Jamie has. Jamie has 4 Persian cats.
+
+Next, we know that Gordon has half as many Persian cats as Jamie, so Gordon has 2 * 1/2 = 2 Persian cats.
+
+We also know that Gordon has one more Maine Coon than Jamie, so Gordon has 4 - 1 = 3 Maine Coons.
+
+Hawkeye has one less Maine Coon than Gordon, so Hawkeye has 3 - 1 = 2 Maine Coons.
+
+Now, let's add the number of Persian cats together. Jamie has 4 Persian cats, Gordon has 2 Persian cats, and Hawkeye has 0 Persian cats, since they are all Persian cats. The total number of Persian cats is 4 + 2 + 0 = 6 Persian cats.
+
+Now, let's add the number of Maine Coons together. Jamie has 0 Maine Coons, Gordon has 3 Maine Coons, and Hawkeye has 2 Maine Coons. The total number of Maine Coons is 0 + 3 + 2 = 5 Maine Coons.
+
+Finally, let's add the total number of cats and Coons. We have 6 Persian cats and 5 Maine Coons. The total number of cats and Coons is 6 + 5 = 11.
+
+Answer: 11

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find out how much Bobby can deadlift at the age of 18. We know that he can deadlift 300 pounds at 13, and at 18, he can deadlift 100 pounds more than 250% of his previous deadlift. 
+
+At 13, Bobby can deadlift 300 pounds. 
+
+At 18, he can deadlift 300 + 300 * 0.25 = 300 + 75 = 375 pounds.
+
+So, the amount of pounds he added per year is 75 pounds.
+
+Answer: 75

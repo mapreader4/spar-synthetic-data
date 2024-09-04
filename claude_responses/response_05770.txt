@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mark supplies one store with 5 dozen eggs each day
+* 1 dozen = 12 eggs
+* So, 5 dozen eggs = 5 x 12 = 60 eggs per day to the first store
+* Mark also supplies another store with 30 eggs each day
+* In a week, there are 7 days
+* For the first store:
+  - 60 eggs per day x 7 days = 420 eggs per week
+* For the second store:
+  - 30 eggs per day x 7 days = 210 eggs per week
+* To find the total number of eggs supplied to both stores in a week:
+  - 420 eggs + 210 eggs = 630 eggs
+
+Answer: 630

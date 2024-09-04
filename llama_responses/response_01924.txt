@@ -1,0 +1,11 @@
+Let's start by identifying the total points scored by both players.
+
+Let's say the total points scored by both players is x. Vlad and Taro scored a total of 30 points in 30 rounds.
+
+We know that Taro scored 4 points less than 3/5 of the total points, so we can write the equation: x - 4 = 3x/5.
+
+To solve for x, we can multiply both sides of the equation by 5 to get: 5x - 20 = 3x.
+
+Next, we can add 20 to both sides to get: 5x = 23.
+
+Answer: 23

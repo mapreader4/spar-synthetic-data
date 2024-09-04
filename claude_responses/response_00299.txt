@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Basil gets 1/2 a cookie in the morning and 1/2 a cookie before bed, so that's 1 cookie per day.
+* Basil also gets 2 whole cookies during the day, so that's 3 cookies per day in total.
+* In 30 days, Basil will need 3 cookies per day for a total of 90 cookies.
+* Each box of cookies contains 45 cookies.
+* To calculate the number of boxes Basil will need, we divide the total number of cookies (90) by the number of cookies per box (45):
+* 90 cookies / 45 cookies per box = 2 boxes.
+
+Answer: 2 boxes.

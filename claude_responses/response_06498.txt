@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) DeShaun read 60 books over the summer, which was 80 days long.
+2) Each book averaged 320 pages long.
+3) To find the total number of pages DeShaun read, we multiply the number of books (60) by the average pages per book (320):
+60 books x 320 pages/book = 19,200 total pages
+4) The person closest to DeShaun read 75% as much as he did.
+5) To find the total number of pages the second person read, we take 75% of DeShaun's total pages:
+19,200 pages x 0.75 = 14,400 total pages
+6) To find the average number of pages the second person read per day, we divide the total pages by the number of days in the summer break:
+14,400 pages / 80 days = 180 pages/day
+
+Answer: 180

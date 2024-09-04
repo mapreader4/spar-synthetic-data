@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Rhea buys 2 trays of eggs every week
+* Each tray has 24 eggs
+* So the total number of eggs Rhea buys every week is:
+2 trays x 24 eggs per tray = 48 eggs
+* Her son and daughter each eat 2 eggs every morning
+* That's 2 eggs x 2 people = 4 eggs per day
+* There are 7 days in a week
+* So the total number of eggs eaten by the son and daughter per week is:
+4 eggs per day x 7 days = 28 eggs
+* Rhea and her husband each eat 4 eggs every night
+* That's 4 eggs x 2 people = 8 eggs per day
+* There are 7 days in a week
+* So the total number of eggs eaten by Rhea and her husband per week is:
+8 eggs per day x 7 days = 56 eggs
+* Now we add up the total number of eggs eaten per week:
+28 eggs (son and daughter) + 56 eggs (Rhea and husband) = 84 eggs
+* The total number of eggs bought per week is 48 eggs
+* So the number of eggs not being eaten per week is:
+48 eggs - 84 eggs = -36 eggs
+
+Answer: -36 eggs

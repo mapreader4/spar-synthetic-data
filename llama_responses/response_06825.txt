@@ -1,0 +1,17 @@
+Let's start by identifying the information given in the problem. We know that Theresa bought 12 chocolate bars and 18 soda cans, so we can represent that as the following equation:
+
+T = 12 (chocolate bars) + 18 (soda cans)
+
+Since the problem states that Kayla bought twice the number of chocolate bars and soda cans that Theresa bought, we can set up an equation to represent the information. Let's say Kayla bought x chocolate bars and x soda cans. Since Theresa bought twice the number of chocolate bars and soda cans, we can write the equation as:
+
+x = 2T
+
+Now, we can substitute the value of T, which is 12, into the equation to find the value of x:
+
+x = 2(12)
+
+To evaluate the equation, we multiply 2 by 12, which gives us:
+
+x = 24
+
+So, Kayla bought 24 chocolate bars and soda cans in total.

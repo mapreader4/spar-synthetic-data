@@ -1,0 +1,11 @@
+To find the average weight of the three people, we can first find the weight of each person:
+
+Rachel weighs 75 pounds.
+Jimmy weighs 6 pounds less than Rachel, which is 75 - 6 = 69 pounds.
+Adam weighs 15 pounds more than Rachel, which is 75 + 15 = 90 pounds.
+
+To find the average, we need to add the weights together and then divide by 3:
+
+(75 + 69 + 90) / 3 = 234 / 3 = 78
+
+Answer: 78

@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say there were x people in the group. Then, the number of people who ordered mango juice is x - a, and the number of people who ordered pineapple juice is x - b. The total spent on mango juice is 5x, and the total spent on pineapple juice is 6b. The total spent on fruit juice is 5x + 6b.
+
+We are given that the total spent on fruit juice is 54. So, we can set up the equation:
+
+5x + 6b = 54.
+
+We can subtract 5 from both sides of the equation to get:
+
+5x + 6b - 5 = 54 - 5.
+6b = 54 - 5.
+6b = 49.
+b = 49 / 6.
+b = 8.25.
+
+So, there were 8 people who ordered pineapple juice.

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There were 8000 jelly beans in the barrel
+* 10 people lined up to take some
+* The first 6 people each took twice as many jelly beans as each of the last 4 people
+* The last 4 people each took 400 jelly beans
+
+First, let's calculate how many jelly beans the last 4 people took:
+* 4 people x 400 jelly beans each = 1600 jelly beans
+
+Now, let's calculate how many jelly beans the first 6 people took:
+* Since the first 6 people each took twice as many as the last 4 people, that means each of the first 6 people took 800 jelly beans (2 x 400)
+* 6 people x 800 jelly beans each = 4800 jelly beans
+
+Now, we can calculate the total number of jelly beans taken:
+* 1600 jelly beans (last 4 people) + 4800 jelly beans (first 6 people) = 6400 jelly beans
+
+Finally, we can calculate the number of jelly beans remaining in the container:
+* 8000 jelly beans (original amount) - 6400 jelly beans (taken) = 1600 jelly beans
+
+Answer: 1600

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Travis goes through 2 boxes of cereal a week
+* Each box costs $3.00
+* He eats 2 boxes every week for an entire year, which is 52 weeks
+
+To calculate the total cost, we need to:
+1. Calculate the cost per week
+   * 2 boxes per week x $3.00 per box = $6.00 per week
+2. Calculate the total cost for the entire year
+   * $6.00 per week x 52 weeks = $312.00
+
+Therefore, the total amount Travis spends on cereal for the entire year is:
+
+Answer: $312

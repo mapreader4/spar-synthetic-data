@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The store sells 20 packets of sugar every week.
+2) Each packet contains 100 grams of sugar.
+3) To find the total amount of sugar sold in grams, we multiply the number of packets (20) by the amount in each packet (100 grams):
+20 packets x 100 grams/packet = 2,000 grams of sugar sold per week.
+4) To convert grams to kilograms, we divide the total grams by 1,000 (since 1 kilogram = 1,000 grams):
+2,000 grams / 1,000 grams/kilogram = 2 kilograms of sugar sold per week.
+
+Answer: 2 kilograms

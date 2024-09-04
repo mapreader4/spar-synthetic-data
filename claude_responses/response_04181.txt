@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Hannah wants to save $80 over 5 weeks
+* In the first week, she saved $4
+* In each subsequent week, she plans to save twice as much as the previous week
+
+So, let's calculate the savings for each week:
+* Week 1: $4
+* Week 2: $4 x 2 = $8
+* Week 3: $8 x 2 = $16
+* Week 4: $16 x 2 = $32
+* Week 5: $32 x 2 = $64
+
+Now, we need to calculate how much she needs to save in the fifth week to reach her goal of $80.
+* Total saved in first 4 weeks: $4 + $8 + $16 + $32 = $60
+* Amount needed to save in 5th week: $80 - $60 = $20
+
+Answer: $20

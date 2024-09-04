@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The pet store can buy a goldfish for $0.25 and sell it for $0.75
+* The owner plans to use the profits from goldfish sales to buy a new tank, which costs $100
+* After one week, he is 45% short of the price
+
+To find the number of goldfish he sold, we need to:
+1. Calculate the profit per goldfish
+2. Calculate the total profit needed to buy the $100 tank
+3. Calculate the amount of profit he has after one week
+4. Calculate the number of goldfish he sold to get that amount of profit
+
+1. Profit per goldfish = $0.75 - $0.25 = $0.50
+
+2. Total profit needed to buy the $100 tank = $100
+
+3. After one week, he is 45% short of the price, so he has 55% of the $100 tank price, which is $55
+
+4. To find the number of goldfish sold, we divide the amount of profit he has ($55) by the profit per goldfish ($0.50):
+   $55 / $0.50 = 110 goldfish
+
+Answer: 110

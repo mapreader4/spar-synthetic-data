@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The shopkeeper bought 150 packets of milk.
+2) Each packet contained 250 ml of milk.
+3) To find the total amount of milk in ml, we multiply the number of packets (150) by the amount in each packet (250 ml):
+   150 packets x 250 ml/packet = 37,500 ml
+4) We know that 1 fluid ounce is equal to 30 ml.
+5) To find the total amount of milk in ounces, we divide the total amount in ml (37,500) by the conversion factor of 30 ml/ounce:
+   37,500 ml / 30 ml/ounce = 1,250 ounces
+
+Answer: 1,250

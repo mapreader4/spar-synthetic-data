@@ -1,0 +1,10 @@
+Let's break down the information:
+
+Monday: 65 pieces of mail
+Tuesday: 10 more than Monday, so 65 + 10 = 75
+Wednesday: 5 fewer than Tuesday, so 75 - 5 = 70
+Thursday: 15 more than Wednesday, so 70 + 15 = 85
+
+To find the total number of pieces of mail sent, we add up the number of pieces of mail for each day: 65 + 75 + 70 + 85 = 225
+
+Answer: 225

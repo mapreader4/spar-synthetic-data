@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first figure out how many tanks she has built so far.
+
+Jennifer has built 3 tanks that hold 15 fish each, so she has built a total of 3 x 15 = 45 fish. She needs to build enough tanks to hold 75 fish. To do this, she needs to build 75 - 45 = 30 more tanks.

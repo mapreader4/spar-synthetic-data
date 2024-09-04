@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Officer A patrols 36 streets in 4 hours
+* So, Officer A patrols 36 / 4 = 9 streets per hour
+* Officer B patrols 55 streets in 5 hours
+* So, Officer B patrols 55 / 5 = 11 streets per hour
+* In 1 hour, Officer A will patrol 9 streets and Officer B will patrol 11 streets
+* Therefore, the total number of streets both officers will patrol in one hour is:
+* 9 + 11 = 20 streets
+
+Answer: 20

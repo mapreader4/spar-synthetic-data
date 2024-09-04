@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jackson's mom will give him $5 per hour spent on chores
+* Jackson spends 2 hours vacuuming, and decides to do this twice
+* So for the vacuuming, he earns:
+  - 2 hours x 2 times = 4 hours
+  - 4 hours x $5 per hour = $20
+* He also spends 0.5 hours washing dishes
+* And he spends three times as long cleaning the bathroom, which is 0.5 hours x 3 = 1.5 hours
+* So for the dishes and bathroom cleaning, he earns:
+  - 0.5 hours + 1.5 hours = 2 hours
+  - 2 hours x $5 per hour = $10
+* In total, the amount of spending money Jackson has earned is:
+  - $20 (from vacuuming) + $10 (from dishes and bathroom) = $30
+
+Answer: $30

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Marco uses 1/5 of an ounce of dry tea leaves per day
+* Each box of tea leaves contains 28 ounces
+* We need to find out how many days' worth of tea leaves are in a box
+
+First, let's calculate how many days' worth of tea leaves are in a box:
+* 28 ounces / (1/5 ounce per day) = 28 * 5 = 140 days' worth of tea leaves
+
+Now, to find out how many weeks of daily tea Marco gets from a box, we divide the number of days by 7 days per week:
+* 140 days / 7 days per week = 20 weeks
+
+Therefore, the answer is:
+Answer: 20

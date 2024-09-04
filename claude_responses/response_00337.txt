@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) We have 26 people who took wine, 22 people who took soda, and 17 people who took both drinks.
+2) Since each person could have taken one or more drinks, we need to find the total number of people at the gathering.
+3) To do this, we need to subtract the number of people who took both drinks (17) from the total number of people who took wine (26) and the total number of people who took soda (22).
+4) 26 people took wine and 17 of them also took soda, so the number of people who only took wine is 26 - 17 = 9.
+5) 22 people took soda and 17 of them also took wine, so the number of people who only took soda is 22 - 17 = 5.
+6) The total number of people at the gathering is the sum of the people who only took wine (9), the people who only took soda (5), and the people who took both drinks (17).
+7) 9 + 5 + 17 = 31.
+
+Answer: 31

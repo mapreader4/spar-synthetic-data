@@ -1,0 +1,7 @@
+To find the number of large pizzas sold, we can first find the number of small pizzas sold and then subtract that from the total pizzas sold.
+
+Let's say the number of small pizzas sold is x. Then, the number of large pizzas sold is 40 - x.
+
+We know that the number of small pizzas sold is 8, so we can set up an equation: 8 = x. We can solve this equation to find that x = 32. This means that the number of large pizzas sold is 32.
+
+Answer: 32

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. In 2018, the number of participants in the Science Quiz Bowl was 150.
+
+2. In 2019, the number of participants was 20 more than twice the number of participants in 2018.
+   - Twice the number of participants in 2018 is 2 * 150 = 300.
+   - Adding 20 to that, the number of participants in 2019 was 300 + 20 = 320.
+
+3. In 2020, the number of participants was 40 less than half the number of participants in 2019.
+   - Half the number of participants in 2019 is 320 / 2 = 160.
+   - Subtracting 40 from that, the number of participants in 2020 was 160 - 40 = 120.
+
+4. To find the difference between the number of participants in 2019 and 2020, we subtract:
+   - 320 - 120 = 200
+
+Answer: 200

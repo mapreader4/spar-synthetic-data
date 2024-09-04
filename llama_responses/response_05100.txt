@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Malcolm has an unknown number of white lights initially.
+
+He buys 12 red lights, which means he now has 12 fewer white lights.
+
+Then, he buys 3 times as many blue lights as red lights, so he buys 12 x 3 = 36 blue lights. He now has 36 fewer white lights.
+
+Next, he buys 6 green lights, so he has 36 - 6 = 30 fewer white lights.
+
+So, if he still has 5 colored lights left to buy, that means he initially had 30 + 5 = 35 white lights.
+
+Answer: 35

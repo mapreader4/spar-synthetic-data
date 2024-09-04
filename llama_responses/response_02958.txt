@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start with the number of non-white homes. One fourth of the town's homes are white, which means that the number of white homes is 100. Since the total number of homes is 400, we can find the number of non-white homes by subtracting the number of white homes from the total number of homes: 400 - 100 = 300.
+
+Now, we know that one fifth of the non-white homes have a fireplace. We can find the number of non-white homes with a fireplace by multiplying the number of non-white homes by the fraction one fifth: 300 * 1/5 = 60.
+
+Now, we want to find the number of non-white homes that do not have a fireplace. Since we know that 60 non-white homes have a fireplace, the number of non-white homes without a fireplace is the difference between the total number of non-white homes and the number of non-white homes with a fireplace: 300 - 60 = 240.
+
+Answer: 240

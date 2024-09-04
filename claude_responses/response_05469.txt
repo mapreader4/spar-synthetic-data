@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Robby sets aside 9 brown M&M's in the first bag
+* He sets aside 12 brown M&M's in the second bag
+* In the third and fourth bags, there are 8 brown M&M's that he doesn't eat
+* In the fifth bag, there are 3 brown M&M's that he doesn't eat
+
+To calculate the average number of brown M&M's in a bag, we need to add up the total number of brown M&M's he didn't eat and divide by the number of bags.
+
+Total brown M&M's not eaten:
+* 9 + 12 + 8 + 8 + 3 = 40
+
+Number of bags:
+* 1 + 1 + 2 + 1 = 5 bags
+
+Average number of brown M&M's per bag:
+* 40 / 5 = 8
+
+Answer: 8

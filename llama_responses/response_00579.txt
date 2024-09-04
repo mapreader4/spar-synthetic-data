@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+Let's start by finding the total number of leaves that fell in the first hour. Since 7 leaves fell in the first hour, that is the total number of leaves that fell in the first hour.
+
+For the second and third hour, the leaves fall at a rate of 4 per hour. So, the total number of leaves that fell in the second and third hour is 4 * 2 = 8.
+
+To find the total number of leaves that fell in the second and third hour together, we add the total number of leaves that fell in the first hour to the total number of leaves that fell in the second and third hour. So, the total number of leaves that fell in the first and second and third hour is 7 + 8 = 15.
+
+Now, to find the average number of leaves that fell per hour, we divide the total number of leaves that fell in the first and second and third hour by the total number of hours. In this case, there are 3 hours (1 + 1 + 1). So, the average number of leaves that fell per hour is 15 / 3 = 5.
+
+Answer: 5

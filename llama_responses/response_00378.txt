@@ -1,0 +1,21 @@
+Let's break this down step by step:
+
+Let's first calculate the number of items Uki can sell in a day:
+
+* Cupcakes: 20
+* Cookies: 10
+* Biscuits: 20
+
+The total number of items Uki can sell in a day is 20 + 10 + 20 = 50.
+
+Now, let's calculate the total earnings Uki can make in a day:
+
+* Cupcakes: 20 * 1.50 = 30
+* Cookies: 10 * 2 = 20
+* Biscuits: 20 * 1 = 20
+
+The total earnings Uki can make in a day is 30 + 20 + 20 = 70.
+
+Since Uki works for 5 days, her total earnings will be 5 * 70 = 350.
+
+Answer: 350

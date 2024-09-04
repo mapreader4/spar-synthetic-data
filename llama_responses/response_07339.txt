@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+First, Brooke milks 12 cows, each of which produces 4 gallons of milk. So, she has a total of:
+
+12 x 4 = 48 gallons of milk.
+
+She sells 6 gallons of milk to each of the 6 customers, so she sells a total of:
+
+6 x 6 = 36 gallons of milk.
+
+She has 48 - 36 = 12 gallons of milk left over.
+
+She turns the remaining milk into butter, with 1 gallon of milk equaling 2 sticks of butter. So, she has:
+
+12 gallons of milk / 1 gallon per 2 sticks = 24 sticks of butter.
+
+She sells each stick of butter for $1.5, so she earns:
+
+24 sticks x $1.5 = $36 from the butter.
+
+She sells the 36 gallons of milk she sold at $3 per gallon, so she earns:
+
+36 gallons x $3 = $108 from the milk.
+
+In total, she earns $108 from the milk and $36 from the butter. Therefore, her total earnings are:
+
+$108 + $36 = $144.
+
+Answer: 144

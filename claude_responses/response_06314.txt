@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Initially, the bowl holds 18 peaches, with 4 of them being ripe.
+* Every day, 2 more peaches ripen.
+* On the third day, 3 peaches are eaten.
+
+Now, let's calculate the number of ripe and unripe peaches after 5 days:
+* Day 1: 4 ripe, 14 unripe
+* Day 2: 6 ripe, 12 unripe
+* Day 3: 8 ripe, 10 unripe (3 peaches eaten)
+* Day 4: 10 ripe, 8 unripe
+* Day 5: 12 ripe, 6 unripe
+
+After 5 days, there are 12 ripe peaches and 6 unripe peaches.
+The difference between ripe and unripe peaches is:
+12 ripe - 6 unripe = 6 more ripe peaches than unripe peaches.
+
+Answer: 6

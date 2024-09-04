@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Georgina's parrot knows 17 phrases so far
+* The parrot knew 3 phrases when Georgina bought it
+* Georgina is teaching the parrot 2 phrases per week
+
+To find out how many days Georgina has had the parrot, we need to figure out how many weeks it took for the parrot to learn the additional 14 phrases (17 - 3 = 14).
+
+* The parrot learned 14 additional phrases
+* Georgina teaches 2 phrases per week
+* So, it took 14 / 2 = 7 weeks for the parrot to learn the additional 14 phrases
+
+Now, to find the number of days, we multiply the number of weeks by 7 days per week:
+* 7 weeks x 7 days/week = 49 days
+
+Answer: 49 days

@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) The total number of vehicles passing on the highway is 300.
+2) The number of cars is twice the number of trucks.
+3) Let's represent the number of trucks as x.
+4) Then, the number of cars is 2x.
+5) The total number of vehicles is the sum of the number of cars and the number of trucks:
+   300 = 2x + x
+   300 = 3x
+6) Solving for x, we get:
+   x = 100
+Therefore, the total number of trucks on the highway is 100.
+
+Answer: 100

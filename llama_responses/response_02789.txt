@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the average of the three test scores she already has: (80 + 70 + 90) / 3 = 240 / 3 = 80.
+
+Now, we know that we want the average score for the four tests to be 85. We can set up an equation to represent this: (80 + x) / 4 = 85.
+
+To solve for x, we can multiply both sides by 4 to get rid of the fraction: 4(80 + x) = 340 = 4(85). Now we can subtract 340 from both sides by 340 - 340 to get x = 85.
+
+Answer: 85

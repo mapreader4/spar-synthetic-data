@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find the number of questions Grayson answers correctly. Grayson takes 2 minutes for each answer, so if he answers for 2 hours, that means he answers for 2 * 2 = 4 questions. So, he answers 4 questions.
+
+Now, we need to find the total number of questions on the test. The problem states that Grayson has 100 questions. Therefore, the number of questions he leaves unanswered is the difference between the total number of questions and the number of questions he answers, which is 100 - 4 = 96.
+
+Answer: 96

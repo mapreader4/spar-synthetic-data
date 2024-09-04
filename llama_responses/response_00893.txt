@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of beads needed for the necklaces. Kylie makes 10 beaded necklaces, and each necklace requires 20 beads, so she needs 10 x 20 = 200 beads for the necklaces.
+
+Next, let's find the total number of beads needed for the bracelets. Kylie makes 5 beaded bracelets, and each bracelet requires 10 beads, so she needs 5 x 10 = 50 beads for the bracelets.
+
+Next, let's find the total number of beads needed for the earrings. Kylie makes 7 beaded earrings, and each earring requires 5 beads, so she needs 7 x 5 = 35 beads for the earrings.
+
+Now, let's add up the total number of beads needed for all the jewelry. Kylie needs 200 beads for the necklaces, 50 beads for the bracelets, and 35 beads for the earrings. The total number of beads needed is 200 + 50 + 35 = 285.
+
+Answer: 285

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many packets of floss Dikembe needs to buy. Since each student needs 1.5 yards of floss, and each packet contains 35 yards, we can set up a proportion to find out how many packets Dikembe needs:
+
+1.5 yards/student * 20 students = 30 packets
+
+Since each packet contains 35 yards, we can divide the total amount of yards needed (30) by the amount in each packet (35) to find the number of packets needed:
+
+30 ÷ 35 = 0.86
+
+Since Dikembe buys the least amount necessary, there will be a remainder when he buys 0.86 packets. This means he will buy 0 packets of floss.

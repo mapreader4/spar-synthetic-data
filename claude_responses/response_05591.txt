@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+* On the first day, Chris holds his breath for 10 seconds
+* On the second day, he holds his breath for 20 seconds
+* On the third day, he holds his breath for 30 seconds
+* We know that he can hold his breath for 10 extra seconds each day
+* To find the number of days until he can hold his breath for 90 seconds, we need to find how many days it will take for him to go from 30 seconds to 90 seconds
+* The difference between 90 seconds and 30 seconds is 60 seconds
+* Since he can hold his breath for 10 extra seconds each day, it will take him 6 more days to reach 90 seconds
+* Therefore, the total number of days until he can hold his breath for 90 seconds is 3 (the first 3 days) + 6 (the additional days) = 9 days.
+
+Answer: 9

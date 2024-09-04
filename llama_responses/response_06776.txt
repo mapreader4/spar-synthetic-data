@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem.
+
+* Liz sold her car at 80% of what she originally paid. So, let's call the original price of the car x.
+* She used the proceeds of the sale to buy a new car that costs $30,000. This means the proceeds of the sale must be $30,000.
+
+To find the proceeds of the sale, we can set up an equation: 0.8x = 30000.
+
+To solve for x, we can divide both sides by 0.8: 0.8x = 30000 / 0.8 = x.
+
+x = 37,500.
+
+Now, let's find the difference between the original price of the car and the new car's price. The difference is 37,500 - 30,000 = 7,500.
+
+Answer: 7500

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Total number of guests at the party: 200
+* 40% of the guests are women
+* 80% of the women are wearing rabbit ears
+* 60% of the males are wearing rabbit ears
+
+First, let's calculate the number of women at the party:
+* 40% of 200 guests = 0.40 * 200 = 80 women
+
+Next, let's calculate the number of women wearing rabbit ears:
+* 80% of 80 women = 0.80 * 80 = 64 women wearing rabbit ears
+
+Now, let's calculate the number of men at the party:
+* Total guests - women = 200 - 80 = 120 men
+
+Finally, let's calculate the number of men wearing rabbit ears:
+* 60% of 120 men = 0.60 * 120 = 72 men wearing rabbit ears
+
+To get the total number of people wearing rabbit ears, we add the number of women and men wearing rabbit ears:
+* 64 women + 72 men = 136 people wearing rabbit ears
+
+Answer: 136

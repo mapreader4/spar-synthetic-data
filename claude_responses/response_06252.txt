@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Jenny has played Mark 10 times, and Mark has won 1 time.
+* So, Jenny has won 10 - 1 = 9 times against Mark.
+
+* Jenny has played Jill twice as many times as she's played Mark.
+* That means she's played Jill 10 x 2 = 20 times.
+* Jill has won 75% of the games against Jenny.
+* That means Jill has won 20 x 0.75 = 15 times.
+* So, Jenny has won 20 - 15 = 5 times against Jill.
+
+* In total, Jenny has won 9 + 5 = 14 board games with her two friends.
+
+Answer: 14

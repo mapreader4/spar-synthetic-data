@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Joanna had 40 gumballs initially
+2) Jacques had 60 gumballs initially
+3) They both purchased 4 times the number of gumballs they had initially
+   * Joanna purchased 4 x 40 = 160 gumballs
+   * Jacques purchased 4 x 60 = 240 gumballs
+4) They added the new gumballs to their dishes
+   * Joanna now has 40 + 160 = 200 gumballs
+   * Jacques now has 60 + 240 = 300 gumballs
+5) They decided to put together all their gumballs and share them equally
+   * The total number of gumballs is 200 + 300 = 500
+   * They will share the 500 gumballs equally, so each of them will get 500 / 2 = 250 gumballs
+
+Answer: 250

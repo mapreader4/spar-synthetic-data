@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The trip from Philip's house to the children's school is 2.5 miles. Since he makes the round trip to school two times a day, that is a total of 2.5 * 2 = 5 miles per day.
+2. He makes the round trip to school for 4 days a week, so the total distance to school is 5 * 4 = 20 miles.
+3. He also makes a round trip to the market once during the weekend. The distance to the market is 2 miles, so the total distance to the market is 2 * 2 = 4 miles.
+4. To find the total distance for a typical week, we need to add the distance to school and the distance to the market: 20 + 4 = 24 miles.
+
+Answer: 24

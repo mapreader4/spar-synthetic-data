@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John paid the same price for his first 3 pieces of art
+* The total price for the first 3 pieces of art was $45,000
+* So, the price of each of the first 3 pieces of art was $45,000 / 3 = $15,000
+* The next piece of art was 50% more expensive than the first 3 pieces
+* 50% of $15,000 is $7,500
+* So, the 4th piece of art cost $15,000 + $7,500 = $22,500
+* To calculate the total cost of all the art, we add up the cost of the first 3 pieces ($45,000) and the cost of the 4th piece ($22,500)
+* $45,000 + $22,500 = $67,500
+
+Answer: $67,500

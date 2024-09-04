@@ -1,0 +1,11 @@
+Let's start by finding the total number of pencils Louise has. She has 20 red pencils, 2 times as many blue pencils, 40 yellow pencils, and has as many green pencils as she has red and blue pencils combined. 
+
+The number of blue pencils is twice the number of red pencils, so she has 2 x 20 = 40 blue pencils. She also has 40 yellow pencils and the same amount of green pencils as red and blue pencils combined. The total number of green pencils is the same as the number of red and blue pencils combined, which is 20 + 40 = 60. 
+
+So, the total number of pencils is 20 + 40 + 60 = 120. The number of pencils is 120. 
+
+To find the number of boxes, we need to divide the total number of pencils by the number of pencils each box can hold. Each box can hold 20 pencils. 
+
+120 pencils divided by 20 is 6. 
+
+Answer: 6

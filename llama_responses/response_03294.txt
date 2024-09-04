@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's start with the current number of cows, which is 200.
+
+In one year, the number of cows increases by half the current number of cows. To find the new number of cows, we can multiply the current number of cows by 1.5 (since half is the same as 1/2 or 0.5).
+
+200 * 1.5 = 300
+
+So, the number of cows increases to 300.
+
+In the next year, the number of cows will increase again by half the new number of cows. To find the new number of cows, we can multiply the new number of cows by 1.5 again.
+
+300 * 1.5 = 450
+
+So, the number of cows will increase to 450.
+
+Therefore, in two years, the number of cows will be 450.
+
+Answer: 450

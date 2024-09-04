@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+1. Lizzie scored 4 points.
+2. Nathalie's score is 3 more than Lizzie's score, so Nathalie's score is 4 + 3 = 7.
+3. Aimee's score is twice the score of Lizzie and Nathalie combined. Since Lizzie and Nathalie's scores are 4 and 7 respectively, their combined score is 4 + 7 = 11. So, Aimee's score is 2 x (4 + 7) = 22.
+4. The whole team scored 50 points. This means that the remaining points are 50 - (4 + 7 + 11) = 50 - 22 = 28.
+
+So, their teammates made 28 points.

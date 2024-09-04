@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The length of the red bus is 4 times the length of the orange car.
+2) The length of the orange car is 3.5 times shorter than the length of the yellow bus.
+3) We are given that the red bus is 48 feet long.
+4) To find the length of the orange car, we can divide the length of the red bus by 4:
+   Length of orange car = 48 feet / 4 = 12 feet
+5) To find the length of the yellow bus, we can multiply the length of the orange car by 3.5:
+   Length of yellow bus = 12 feet * 3.5 = 42 feet
+6) Since the yellow bus and red bus are sitting next to each other, the yellow bus driver can see the length of the red bus that is not obscured by the yellow bus.
+7) The length of the red bus that the yellow bus driver can see is the total length of the red bus (48 feet) minus the length of the yellow bus (42 feet).
+
+Answer: 6 feet

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total amount of money Grace earned from mowing lawns. She mowed lawns for 63 hours at $6 an hour, so the total amount of money earned from mowing lawns is:
+
+63 hours * $6 per hour = $378
+
+Next, let's calculate the total amount of money Grace earned from pulling weeds. She pulled weeds for 9 hours at $11 per hour, so the total amount of money earned from pulling weeds is:
+
+9 hours * $11 per hour = $99
+
+Finally, let's calculate the total amount of money Grace earned from putting down mulch. She put down mulch for 10 hours at $9 per hour, so the total amount of money earned from putting down mulch is:
+
+10 hours * $9 per hour = $90
+
+To find the total amount of money Grace earned in September, we add up the amounts earned from mowing lawns, pulling weeds, and putting down mulch:
+
+$378 + $99 + $90 = $567
+
+Answer: 567

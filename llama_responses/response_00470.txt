@@ -1,0 +1,24 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the amount of overtime Gary earned. Since he earns 1.5 times his normal wage for every hour after 40 hours, we can set up an equation to represent the amount of overtime earned:
+
+Overtime = (1.5 x (hours worked - 40))
+
+We know that the total paycheck is $696, and that's the sum of his regular wage and overtime earnings. Since Gary normally earns $12 per hour, his regular wage would be:
+
+Regular wage = (12 x hours worked)
+
+We can set up an equation to represent the total paycheck:
+
+12 x hours worked + (1.5 x (hours worked - 40)) = 696
+
+To simplify the equation, we can combine the terms:
+
+12x + 1.5x - 60 = 696
+
+Now, we can solve for x (hours worked):
+
+x = (696 + 60) / 13.5
+x = 52
+
+So, Gary worked 52 hours that week.

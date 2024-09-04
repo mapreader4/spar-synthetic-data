@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Louise already has 28 toys worth $10 each in her cart
+* The total value of the 28 toys is 28 * $10 = $280
+* She then adds 20 teddy bears to the cart
+* The total number of toys in the cart is now 28 + 20 = 48
+* Louise has $580 in her wallet, which is exactly enough to pay for all the toys
+* To find the cost of each teddy bear, we need to subtract the value of the 28 original toys ($280) from the total amount Louise has ($580)
+* $580 - $280 = $300
+* The remaining $300 must be the cost of the 20 teddy bears
+* To find the cost of each teddy bear, we divide $300 by 20
+* $300 / 20 = $15
+
+Answer: $15

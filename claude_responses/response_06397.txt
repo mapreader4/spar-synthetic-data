@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The first employee works for $20 per hour.
+2. The second employee works for $22 per hour, but Casey would get a $6/hour subsidy from the government for hiring a disabled worker.
+3. Both employees work 40 hours per week.
+
+To calculate the cost per week for each employee:
+* First employee: $20 per hour x 40 hours per week = $800 per week
+* Second employee: $22 per hour x 40 hours per week = $880 per week
+   - However, with the $6/hour subsidy, the actual cost to Casey is $22 - $6 = $16 per hour
+   - $16 per hour x 40 hours per week = $640 per week
+
+Now, to calculate the savings:
+* Cost of first employee: $800 per week
+* Cost of second employee: $640 per week
+* Savings = $800 - $640 = $160 per week
+
+Answer: $160

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Paul bought:
+   - 4 dress shirts at $15.00 each, so that's 4 x $15.00 = $60.00
+   - 2 pairs of pants at $40.00 each, so that's 2 x $40.00 = $80.00
+   - 1 suit for $150.00
+   - 2 sweaters at $30.00 each, so that's 2 x $30.00 = $60.00
+
+2. The total of all the items before any discounts is:
+   $60.00 + $80.00 + $150.00 + $60.00 = $350.00
+
+3. The store is offering a 20% discount on everything, so the total after the 20% discount is:
+   $350.00 - (20% of $350.00) = $350.00 - $70.00 = $280.00
+
+4. Paul also has a 10% off coupon that he can use on the entire purchase after the other discounts, so the final amount he will pay is:
+   $280.00 - (10% of $280.00) = $280.00 - $28.00 = $252.00
+
+Answer: $252

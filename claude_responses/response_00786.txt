@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* John writes 3 stories every week
+* Each short story is 50 pages
+* He also writes a novel that is 1200 pages each year
+* Each sheet of paper can hold 2 pages
+* We need to find how many reams of paper he needs to buy over 12 weeks
+
+First, let's calculate the total number of pages he writes in 12 weeks:
+* 3 stories per week x 50 pages per story = 150 pages per week
+* 150 pages per week x 12 weeks = 1,800 pages for the short stories
+* 1 novel per year = 1,200 pages
+* Total pages written in 12 weeks = 1,800 + 1,200 = 3,000 pages
+
+Now, let's calculate how many sheets of paper he needs:
+* Each sheet of paper can hold 2 pages
+* 3,000 pages / 2 pages per sheet = 1,500 sheets of paper
+
+Finally, let's calculate how many reams of paper he needs to buy:
+* 1 ream = 500 sheets
+* 1,500 sheets / 500 sheets per ream = 3 reams
+
+Answer: 3 reams

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The store has an 8% discount on all items.
+2) Shara paid $184 for a pair of shoes.
+3) To find the original price of the shoes before the discount, we can use the formula:
+Original Price = Discounted Price / (1 - Discount Rate)
+4) Plugging in the values, we get:
+Original Price = $184 / (1 - 0.08)
+5) Simplifying, we get:
+Original Price = $184 / 0.92
+6) Calculating, we get:
+Original Price = $200
+7) The amount Shara saved is the difference between the original price and the discounted price:
+Amount Saved = Original Price - Discounted Price
+8) Plugging in the values, we get:
+Amount Saved = $200 - $184 = $16
+
+Answer: $16

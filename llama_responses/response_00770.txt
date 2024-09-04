@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the variables. Let's say x be the number of hours these children watch television in 2 weeks.
+
+We know that each child watches 45 minutes of television each day, and they watch television 4 days a week. So, the total number of minutes they watch television in a week is:
+
+45 minutes x 4 = 180 minutes
+
+Since there are 60 minutes in an hour, we can convert the total minutes to hours by dividing by 60:
+
+180 minutes ÷ 60 = 3 hours
+
+Now, we know that 3 hours is the total number of hours these children watch television in a week. Since we want to know how many hours they watch in 2 weeks, we can multiply the total hours by 2:
+
+3 hours x 2 = 6
+
+Answer: 6

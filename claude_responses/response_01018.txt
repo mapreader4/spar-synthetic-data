@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The book club has 3 couples and 5 single people, plus Ron and his wife.
+* That means there are 3 + 5 + 2 = 10 members in the club.
+* Each member gets to pick a new book every week.
+* There are 52 weeks in a year.
+* Therefore, Ron gets to pick a new book 52 / 10 = 5.2 times per year.
+
+Since the question is asking for an integer, we need to round down the answer to the nearest whole number.
+
+Answer: 5

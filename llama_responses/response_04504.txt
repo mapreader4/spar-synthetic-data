@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how many miles the car can drive in 1 hour. If it can drive 8 miles in 1 hour, then it can drive 8 miles in 1 hour. 
+
+Let's now find how many miles it can drive in 5 hours. Since it can drive 8 miles in 1 hour, it can drive 5 x 8 = 40 miles in 5 hours.
+
+Now, let's find how many miles it can drive in 13 hours. Since it can drive 40 miles in 5 hours, it can drive 13 x 8 = 1040 miles in 13 hours.
+
+Answer: 1040

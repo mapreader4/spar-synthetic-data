@@ -1,0 +1,17 @@
+To solve this problem, we need to find the probability of a candidate knowing Excel and being willing to work nights.
+
+Given information:
+- 20% of the job candidates have experience with Excel.
+- 70% of the candidates are only willing to work day shifts.
+
+To find the probability of a candidate knowing Excel and being willing to work nights, we need to find the intersection of these two events.
+
+The probability of a candidate knowing Excel and being willing to work nights is the probability of the candidate knowing Excel multiplied by the probability of the candidate being willing to work nights.
+
+The probability of a candidate knowing Excel is 20% or 0.20.
+The probability of a candidate being willing to work nights is the complement of the probability of a candidate being willing to work day shifts, which is 1 - 0.70 = 0.30.
+
+Therefore, the probability of a candidate knowing Excel and being willing to work nights is:
+Probability = 0.20 × 0.30 = 0.06
+
+Answer: 6

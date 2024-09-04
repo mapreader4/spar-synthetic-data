@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Each band member earns $20 per gig
+* There are 4 band members
+* The total earnings of the band is $400
+
+To find the number of gigs they have played, we need to divide the total earnings by the total amount earned per gig.
+
+The total amount earned per gig is the number of members (4) multiplied by the amount each member earns per gig ($20):
+* Total amount earned per gig = 4 * $20 = $80
+
+Now, we divide the total earnings ($400) by the total amount earned per gig ($80) to get the number of gigs played:
+* Number of gigs = $400 / $80 = 5
+
+Answer: 5

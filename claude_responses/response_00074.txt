@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* 4 people lost a total of 103 kilograms of weight
+* The first person lost 27 kilograms
+* The second person lost 7 kilograms less than the first person
+   - So the second person lost 27 - 7 = 20 kilograms
+* The remaining two people lost the same amount
+* We need to find how much the last two people lost
+
+To find the total weight lost by the first two people:
+* First person lost 27 kg
+* Second person lost 20 kg
+* Total lost by first two people = 27 + 20 = 47 kg
+
+Now, we know the total weight lost by all four people is 103 kg, and the first two people lost 47 kg. 
+* Weight lost by the last two people = 103 - 47 = 56 kg
+* Since the last two people lost the same amount, we can divide 56 kg by 2 to get the amount lost by each of the last two people.
+* 56 kg / 2 = 28 kg
+
+Therefore, each of the last two people lost 28 kilograms.
+
+Answer: 28

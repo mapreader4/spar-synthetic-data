@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. John generates $5000 per hour for the first 12 hours. That is a total of:
+
+$5000 * 12 = $60000
+
+2. For the remaining 14 hours, he generates 20% more per hour. 20% of $5000 is $1000. So, he generates $5000 + $1000 = $6000 per hour. For 14 hours, he generates:
+
+$6000 * 14 = $84000
+
+3. To find the total amount of money John makes, we add the money he made in the first 12 hours to the money he makes in the remaining 14 hours:
+
+$60000 + $84000 = $144000
+
+Answer: 144000

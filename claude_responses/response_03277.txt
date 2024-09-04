@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The minimum age required to be employed at the company is 25 years.
+2) Dara will be half the age of Jane in six years.
+3) Jane is currently 28 years old.
+4) In six years, Jane will be 28 + 6 = 34 years old.
+5) Since Dara will be half the age of Jane in six years, Dara's age in six years will be 34 / 2 = 17 years old.
+6) Therefore, Dara's current age is 17 - 6 = 11 years old.
+7) The minimum age required to be employed at the company is 25 years.
+8) Dara's current age is 11 years old.
+9) The difference between the minimum age and Dara's current age is 25 - 11 = 14 years.
+
+Answer: 14

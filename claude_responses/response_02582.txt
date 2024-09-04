@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Markus is twice the age of his son
+* Markus's son is twice the age of Markus's grandson
+* The sum of the ages of Markus, his son, and his grandson is 140 years
+
+Let's represent the ages as follows:
+* Markus's age = x
+* Markus's son's age = x/2
+* Markus's grandson's age = (x/2)/2 = x/4
+
+Now, we can set up an equation to solve for x:
+* x + x/2 + x/4 = 140
+* x + 0.5x + 0.25x = 140
+* 1.75x = 140
+* x = 80
+
+So, Markus is 80 years old.
+
+Now, we can calculate the age of Markus's grandson:
+* Markus's grandson's age = x/4 = 80/4 = 20
+
+Answer: 20 years old.

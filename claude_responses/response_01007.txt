@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Rajesh walked 10 kilometers less than 4 times the distance that Hiro walked.
+2) Let's call the distance that Hiro walked as 'x' kilometers.
+3) Then, the distance that Rajesh walked is 4x - 10 kilometers.
+4) Together, Rajesh and Hiro walked 25 kilometers.
+5) So, the total distance walked is x + (4x - 10) = 25 kilometers.
+6) Simplifying, we get 5x - 10 = 25.
+7) Solving for x, we get x = 7 kilometers.
+8) Therefore, the distance that Rajesh walked is 4 * 7 - 10 = 18 kilometers.
+
+Answer: 18

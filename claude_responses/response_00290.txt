@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The family has 3 adults and an unknown number of children, both girls and boys
+* They prepared 3 dozen boiled eggs for the trip
+* Every adult got 3 eggs
+* The boys each received 1 more egg than each girl, since the girls had some snacks
+* The number of girls was 7, and each girl received an egg
+
+First, let's calculate the number of eggs used by the adults:
+* 3 adults x 3 eggs each = 9 eggs
+
+Now, let's calculate the number of eggs used by the girls:
+* 7 girls x 1 egg each = 7 eggs
+
+The remaining eggs must have been used by the boys. We can calculate the number of eggs used by the boys by subtracting the eggs used by the adults and girls from the total number of eggs prepared:
+* 3 dozen (36) eggs - 9 eggs (adults) - 7 eggs (girls) = 20 eggs
+
+Since each boy received 1 more egg than each girl, we can divide the remaining eggs by 2 to get the number of boys:
+* 20 eggs / 2 = 10 boys
+
+Therefore, the number of boys who went on the trip is 10.
+
+Answer: 10

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The assignment is to collect 60 different fruit seeds.
+2) Apples average 6 seeds each, pears average 2 seeds each, and grapes average 3 seeds each.
+3) Steven has set aside 4 apples, 3 pears, and 9 grapes to extract their seeds.
+4) To calculate the number of seeds Steven has already collected:
+   - 4 apples x 6 seeds/apple = 24 seeds
+   - 3 pears x 2 seeds/pear = 6 seeds
+   - 9 grapes x 3 seeds/grape = 27 seeds
+5) The total number of seeds Steven has already collected is 24 + 6 + 27 = 57 seeds.
+6) To find how many more seeds he needs to fulfill the assignment, we subtract the number of seeds he has already collected from the total required:
+   - 60 seeds required - 57 seeds collected = 3 more seeds needed.
+
+Answer: 3

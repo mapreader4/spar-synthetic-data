@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Sasha heard that for each tree planted, the temperature drops by 0.1 degrees
+* The temperature dropped from 80 to 78.2 degrees
+* To calculate the temperature drop, we subtract the final temperature from the initial temperature: 80 - 78.2 = 1.8 degrees
+* Since each tree planted causes a 0.1 degree drop, we can divide the total temperature drop by 0.1 to find the number of trees planted:
+1.8 degrees / 0.1 degrees per tree = 18 trees
+* Each tree costs $6 to plant
+* To find the total cost, we multiply the number of trees by the cost per tree:
+18 trees x $6 per tree = $108
+
+Answer: $108

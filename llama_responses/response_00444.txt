@@ -1,0 +1,13 @@
+Let's break down Reggie's scores:
+
+* 3 layups are worth 3 points, so Reggie gets 3 x 1 = 3 points
+* 2 free throws are worth 2 points, so Reggie gets 2 x 2 = 4 points
+* 1 long shot is worth 3 points, so Reggie gets 1 x 3 = 3 points
+
+Total points Reggie gets: 3 + 4 + 3 = 10
+
+His brother makes 4 long shots, which are worth 4 x 3 = 12 points.
+
+To find out how much Reggie loses, we need to subtract Reggie's points from his brother's points. Reggie's points are 10, and his brother's points are 12. Reggie loses 12 - 10 = 2 points.
+
+Answer: 2

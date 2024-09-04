@@ -1,0 +1,5 @@
+To find the total length of the perimeter of each bed, we need to multiply the length and width of the bed. The length of each bed is 2 feet long and 2 feet wide, so the perimeter is 2 x 2 = 4 feet. Since there are 10 beds, the total perimeter of all the beds is 4 feet x 10 = 40 feet. 
+
+Since each plank is 1 foot wide, we need to divide the total perimeter by the width of each plank to find the number of planks needed. 40 feet divided by 1 foot is 40. 
+
+Answer: 40

@@ -1,0 +1,9 @@
+Let's think step by step.
+
+Let's say the tank is 1/3 full of water, so it's 1/3 of the total capacity of the tank. Let's assume the total capacity of the tank is x gallons. Then, if the tank is 1/3 full, that means the full capacity is 3x/3 or x. 
+
+Now, if 16 gallons of water are added to the tank, the tank is now 2/3 full. So, the tank is 2/3 of the total capacity, which is 2x. 
+
+To find the total capacity of the tank, we need to find the value of x, which is 3x/3. We can solve this by multiplying 16 by 3, which is 48.
+
+Answer: 48

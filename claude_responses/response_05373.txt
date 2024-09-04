@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Jim's bi-weekly gross pay is $1120.
+2) He automatically has 25% of his paycheck go into his retirement account.
+   * 25% of $1120 = 0.25 * $1120 = $280
+3) They also take $100.00 out of each paycheck for taxes.
+4) To calculate the net pay, we take the gross pay and subtract the retirement contribution and the taxes:
+   * Net pay = Gross pay - Retirement contribution - Taxes
+   * Net pay = $1120 - $280 - $100 = $740
+
+Answer: $740

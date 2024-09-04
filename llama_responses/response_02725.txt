@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+First, we need to find the number of female dogs. If 60% of the 40 dogs are female, then we can find the number of female dogs by multiplying 60% with 40.
+
+60% of 40 is the same as 0.6 * 40, which is 24.
+
+So, there are 24 female dogs.
+
+Next, we need to find the number of puppies each female dog gives birth to. We know that 3/4 of the female dogs give birth to 10 puppies each.
+
+To find the total number of puppies each female dog gives birth to, we can multiply 3/4 with 10.
+
+3/4 is the same as 0.75, so 0.75 * 10 is 7.5.
+
+So, each female dog gives birth to 7.5 puppies.
+
+Now, we need to find the total number of puppies that Tenisha has after donating 130 puppies to the church. We know that Tenisha starts with 24 female dogs, each of which gives birth to 7.5 puppies. So, the total number of puppies Tenisha has is 24 * 7.5, which is 180.
+
+After donating 130 puppies, Tenisha is left with 180 - 130 puppies, which is 50 puppies.
+
+Answer: 50

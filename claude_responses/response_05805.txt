@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Youngsville had an initial population of 684 people.
+2) The population then increased by 25%. To calculate the new population after the 25% increase:
+   - 25% of 684 = 0.25 * 684 = 171
+   - New population = 684 + 171 = 855
+3) After the growth spurt, 40% of the population moved away. To calculate the new population after the 40% decrease:
+   - 40% of 855 = 0.40 * 855 = 342
+   - New population = 855 - 342 = 513
+Answer: 513

@@ -1,0 +1,5 @@
+To find the total cost of hiring the two professionals, we can multiply the number of hours they work per day by the number of days they work in a week, and then multiply the result by the rate per hour.
+
+The number of hours they work per day is 6 hours. The number of days they work is 7 days. So, the total number of hours they work is 6 * 7 = 42 hours.
+
+The total cost of hiring the professionals is then 42 * $15, which is $210.

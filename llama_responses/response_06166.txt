@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's first find the total number of strawberries that were initially present. There were 3 baskets, each with 900 strawberries, so the total number of strawberries is:
+
+900 x 3 = 2700
+
+Since the hedgehogs ate an equal number of strawberries, they each ate 1/3 of the total number of strawberries. To find the number of strawberries each hedgehog ate, we need to divide the total number of strawberries by 3:
+
+2700 ÷ 3 = 900
+
+So, the answer is:
+
+Answer: 900

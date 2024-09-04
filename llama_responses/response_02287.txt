@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the number of green cars Jason counted is x.
+
+We know that the number of green cars is the same as the number of red cars. So, we can write the equation x = x.
+
+We also know that the number of red cars is 6 more than the number of purple cars. So, we can write the equation x + 6 = x - y, where y is the number of purple cars.
+
+We are given that Jason counted 312 cars total. So, we can set up the equation x + x - y = 312.
+
+We can add x + x to both sides of the equation to get 2x - y = 312. Then, we can add 1 to both sides to get 2x = 313 - y + 1.
+
+We are trying to find the number of purple cars, so we want to get y by itself. To do this, we can subtract 313 - 1 from both sides of the equation to get y = 312 - 1.
+
+So, the number of purple cars is 312 - 311 = 1.
+
+Answer: 1

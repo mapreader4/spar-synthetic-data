@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first find out how many oysters Bob can shuck in 1 minute. If he can shuck 10 oysters in 5 minutes, then he can shuck 2 oysters in 2.5 minutes. Since 2.5 minutes is half of 5 minutes, then he can shuck 4 oysters in 2.5 minutes. And since he can shuck 4 oysters in 2.5 minutes, then he can shuck 8 oysters in 5 minutes.
+
+So, he can shuck 8 oysters in 5 minutes.
+
+Answer: 8

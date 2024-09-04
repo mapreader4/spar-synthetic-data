@@ -1,0 +1,21 @@
+Let's break it down step by step:
+
+1. We know that Sally reads 10 pages on weekdays and 20 pages on weekends. So, we can calculate the total number of pages she reads in a week.
+
+10 pages per day on weekdays and 2 days on weekends is 10 * 7 = 70 pages.
+
+20 pages on weekends.
+
+2. We can find the total number of pages she reads in a week by adding the number of pages she reads on weekdays and weekends.
+
+70 + 20 = 90 pages.
+
+3. We are told that it takes 2 weeks for Sally to finish her book. We know that a week is 7 days. We can find the number of pages she needs to read in a week by dividing the total number of pages she needs to read by the number of days she takes to finish her book.
+
+90 pages / 7 = 12.9 pages per day.
+
+4. We are asked how many pages the book has. We know that Sally reads 12.9 pages per day. If it takes her 2 weeks to finish her book, we can multiply the number of pages she reads per day by the number of days she takes to finish her book.
+
+12.9 * 2 = 25.8.
+
+Answer: 25.8

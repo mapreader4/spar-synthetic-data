@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Amy, Jeremy, and Chris have a combined age of 132
+* Amy is 1/3 the age of Jeremy
+* Chris is twice as old as Amy
+
+Let's start by finding Amy's age:
+* If Amy is 1/3 the age of Jeremy, then we can represent Amy's age as 1/3 * Jeremy's age
+
+Now, we know that Chris is twice as old as Amy, so we can represent Chris's age as 2 * Amy's age, which is 2 * (1/3 * Jeremy's age) = 2/3 * Jeremy's age
+
+We know the combined age of the three is 132, so we can set up an equation:
+* Amy's age + Jeremy's age + Chris's age = 132
+* (1/3 * Jeremy's age) + Jeremy's age + (2/3 * Jeremy's age) = 132
+* 2 * Jeremy's age = 132
+* Jeremy's age = 132 / 2 = 66
+
+Answer: 66

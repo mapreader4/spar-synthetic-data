@@ -1,0 +1,7 @@
+Let's think step by step.
+
+We have 20 stickers on a page. If we have 12 pages of stickers, then the total number of stickers is 20 * 12 = 240.
+
+If we lose one of the pages, then we will lose 20 stickers. So, we will have 20 - 20 = 0 stickers.
+
+Answer: 0

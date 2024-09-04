@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* On Monday, Iggy runs 3 miles
+* On Tuesday, Iggy runs 4 miles
+* On Wednesday, Iggy runs 6 miles
+* On Thursday, Iggy runs 8 miles
+* On Friday, Iggy runs 3 miles
+
+We know that Iggy runs at a pace of 1 mile in 10 minutes.
+
+To calculate the total time spent running, we need to add up the time for each day:
+* Monday: 3 miles x 10 minutes/mile = 30 minutes
+* Tuesday: 4 miles x 10 minutes/mile = 40 minutes
+* Wednesday: 6 miles x 10 minutes/mile = 60 minutes
+* Thursday: 8 miles x 10 minutes/mile = 80 minutes
+* Friday: 3 miles x 10 minutes/mile = 30 minutes
+
+Now we add up the total minutes:
+* 30 + 40 + 60 + 80 + 30 = 240 minutes
+
+To convert this to hours, we divide by 60 minutes/hour:
+* 240 minutes / 60 minutes/hour = 4 hours
+
+Answer: 4 hours

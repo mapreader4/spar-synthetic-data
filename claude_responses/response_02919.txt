@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The Diving Club offers 2 beginning diving classes on weekdays
+* The Diving Club offers 4 beginning diving classes on each day of the weekend (Saturday and Sunday)
+* Each class has room for 5 people
+
+To calculate the total number of people who can take classes in 3 weeks, we need to:
+1. Calculate the number of classes in 3 weeks
+2. Multiply the number of classes by the number of people per class
+
+Number of classes in 3 weeks:
+* Weekdays: 2 classes per day x 5 days per week x 3 weeks = 30 classes
+* Weekends: 4 classes per day x 2 days per week x 3 weeks = 24 classes
+* Total classes in 3 weeks: 30 + 24 = 54 classes
+
+Number of people who can take classes in 3 weeks:
+* 54 classes x 5 people per class = 270 people
+
+Answer: 270

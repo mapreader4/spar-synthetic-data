@@ -1,0 +1,17 @@
+Okay, let's think this through step-by-step:
+1) We know that there are 120 conference attendees in total.
+2) We also know that there are 4 more male attendees than female attendees.
+3) Let's represent the number of female attendees as x.
+4) Then the number of male attendees would be x + 4.
+5) The total number of attendees is 120, so we can write the equation:
+x + (x + 4) = 120
+6) Simplifying this equation, we get:
+2x + 4 = 120
+7) Subtracting 4 from both sides, we get:
+2x = 116
+8) Dividing both sides by 2, we get:
+x = 58
+9) So the number of female attendees is 58.
+10) The number of male attendees is 58 + 4 = 62.
+
+Answer: 62

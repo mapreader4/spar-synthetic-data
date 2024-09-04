@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Juanita enters a drumming contest
+* It costs $10 to enter
+* She has 2 minutes to hit as many drums as she can
+* If she hits 200 drums, she can start to make money
+* She makes 2.5 cents for every drum hit
+* Juanita lost $7.5 for joining the contest
+
+To find how many drums she hit, we need to calculate the total amount she made from the drums and subtract the entry fee.
+
+* Entry fee: $10
+* Amount made per drum: 2.5 cents = $0.025 per drum
+* Total amount lost: $7.5
+
+To find the total amount made from the drums, we can use the formula:
+* Total amount made = (Drums hit - 200) * $0.025
+
+Since Juanita lost $7.5, we can set up an equation:
+* (Drums hit - 200) * $0.025 - $10 = -$7.5
+
+Solving for the number of drums hit:
+* (Drums hit - 200) * $0.025 = -$7.5 + $10
+* Drums hit - 200 = 100
+* Drums hit = 300
+
+Answer: 300

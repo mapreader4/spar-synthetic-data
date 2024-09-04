@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Jenna gets two tickets from the website for $50 each, so the cost of those tickets is 2 x $50 = $100.
+
+2. The scalper offers Jenna 2 more tickets for 240% of the normal price. To find the normal price, we can set up an equation: 240% of x = 240/100 x = 2.4x. Since we know that 2.4x = 2 tickets, we can solve for x to get x = 50. So the normal price is $50. The scalper offers Jenna the 2 tickets for 240% of the normal price, which is 2 x 50 x 2.4 = 120. After getting $10 off, the total cost of the 2 tickets from the scalper is 120 - 10 = 110.
+
+3. One of her friends gets a discounted ticket through her job for 60% of the normal price. 60% of 50 is 0.6 x 50 = 30.
+
+4. To find the total cost of the tickets, we add up the cost of the 4 tickets: 100 + 110 + 30 = 240.
+
+Answer: 240

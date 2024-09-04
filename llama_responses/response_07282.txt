@@ -1,0 +1,13 @@
+Let's start by identifying the information given in the problem.
+
+Oliver has $40 and 200 quarters. This means he has a total of $40 + 200/4 = $50.
+
+He gives his sister $5 and 120 quarters. This means he gives her $5 and 30 quarters.
+
+So, we subtract the amount he gives away from the total amount he had.
+
+$50 - $5 = $45
+
+$50 - 30 = $20
+
+So, Oliver is left with $20.

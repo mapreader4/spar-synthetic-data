@@ -1,0 +1,7 @@
+Let's break down the information given:
+
+1. The team scored twice as many points at their last home game than at their first away game. Since they scored 62 points at their last home game, they scored 62 ÷ 2 = 31 points at their first away game.
+2. At their second away game, they scored 18 more points than at their first away game, so they scored 31 + 18 = 49 points at their second away game.
+3. At their third away game, they scored 2 more points than at their second away game, so they scored 49 + 2 = 51 points at their third away game.
+
+The total points they scored at their away games are 31 + 49 + 51 = 131 points. To get their cumulative points up to four times the score from their last home game, they need to score 4 * 62 = 248 points in total. They already have 131 points, so they need to score 248 - 131 = 117 more points.

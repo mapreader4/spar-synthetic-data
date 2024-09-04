@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+There were originally 25 peaches in each basket, and there were 5 baskets. So, there were a total of 25 * 5 = 125 peaches.
+
+The farmers have eaten 5 peaches. So, there are 125 - 5 = 120 peaches left.
+
+The remaining peaches are packed into smaller boxes of 15 each. To find out how many boxes, we need to divide 120 peaches by 15.
+
+120 ÷ 15 = 8
+
+Answer: 8

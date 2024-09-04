@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. First, we need to find out how many hours Bob works in a week. The problem states that he works for 5 days a week, and each day he works 10 hours. So, to find the total hours he works in a week, we multiply the number of days by the number of hours:
+
+5 days * 10 hours = 50 hours
+
+2. Next, we need to find out how many hours he works in a month. Since there are 4 weeks in a month, we multiply the total hours he works in a week by the number of weeks:
+
+50 hours * 4 weeks = 200 hours
+
+Answer: 200

@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* Erika and her 3 siblings are drawing with chalk
+* 3 more friends join them
+* So the total number of people drawing is 7 (Erika, her 3 siblings, and 3 friends)
+* Erika loses 2 pieces of chalk while counting
+* Erika's mom brings out another 12 pieces of chalk
+* Now there is enough chalk for everyone to have 3 pieces each
+
+To find the original number of pieces of chalk Erika and her siblings had, we can use the following logic:
+* If there are 7 people and each person has 3 pieces of chalk, then the total number of pieces of chalk is 7 * 3 = 21
+* Erika lost 2 pieces of chalk, so the original number of pieces of chalk was 21 + 2 = 23
+* Erika's mom brought out 12 more pieces of chalk, so the original number of pieces of chalk was 23 - 12 = 11
+
+Answer: 11

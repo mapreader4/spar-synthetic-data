@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Beth bakes 4, 2 dozen batches of cookies in a week
+* 1 dozen = 12 cookies
+* So, 4 batches of 2 dozen each = 4 x 2 x 12 = 96 cookies
+* These cookies are shared amongst 16 people equally
+* To find how many cookies each person consumes, we divide the total number of cookies (96) by the number of people (16)
+
+Answer: 6

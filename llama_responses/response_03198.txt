@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start with the information given: Drew got 20 questions correct, and 6 questions wrong. That means that the total number of questions asked is 20 + 6 = 26.
+
+Now, the problem states that Carla got twice as many questions wrong as the number of questions Drew got wrong. So, if Drew got 6 questions wrong, Carla got 6 * 2 = 12 questions wrong.
+
+The total number of questions asked is the sum of the number of questions Drew got correct and the number of questions Carla got correct. So, the total number of questions asked is 20 + 12 = 32.
+
+However, this is not the number of questions asked in the competition. The problem states that each competitor was asked a different question. So, we need to find the least common multiple of 20 and 32 that is also a multiple of 2, because each question was asked to both Drew and Carla.
+
+The least common multiple of 20 and 32 is 8. So, there were 8 questions asked in the competition.
+
+Answer: 8

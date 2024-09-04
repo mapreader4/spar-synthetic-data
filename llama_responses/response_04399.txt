@@ -1,0 +1,17 @@
+Let's break down the cost of each item:
+
+* Celery: $5
+* Cereal: 50% off $12 means 50% of $12 is 0.5 * $12 = $6. So, cereal costs $6.
+* Bread: $8
+* Milk: 10% off $10 means 10% of $10 is 0.1 * $10 = $1. So, milk costs $9.
+* Potatoes: $1 each for 6 potatoes means 6 * $1 = $6
+
+Now, let's add up the cost of all the items:
+
+$5 + $6 + $8 + $9 + $6 = $26
+
+Lily started with $60 and spent $26. So, to find out how much she has left, we subtract $26 from $60:
+
+$60 - $26 = $34
+
+Answer: 34

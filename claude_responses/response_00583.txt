@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The largest hole leaks at a rate of 3 ounces of water per minute.
+* The medium-sized hole leaks at one-half the rate of the largest hole, which is 3 ÷ 2 = 1.5 ounces per minute.
+* The smallest hole leaks at one-third the rate of the medium-sized hole, which is 1.5 ÷ 3 = 0.5 ounces per minute.
+* The time period given is 2 hours, which is 120 minutes.
+* To calculate the total amount of water leaked from all three holes over 120 minutes:
+* Largest hole: 3 ounces/minute × 120 minutes = 360 ounces
+* Medium-sized hole: 1.5 ounces/minute × 120 minutes = 180 ounces
+* Smallest hole: 0.5 ounces/minute × 120 minutes = 60 ounces
+* Adding these together:
+* 360 ounces + 180 ounces + 60 ounces = 600 ounces
+
+Answer: 600 ounces

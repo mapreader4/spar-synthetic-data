@@ -1,0 +1,9 @@
+To find the total amount of water used in 4 weeks, we can first find the amount of water used per day, then multiply it by 28 (the number of days in 4 weeks).
+
+The shower uses 2 gallons of water per minute, so in 10 minutes, it uses 10 gallons. So in a day, it uses 10 * 2 = 20 gallons. 
+
+Now, we can multiply this by the number of days in a week, which is 7. So in a week, it uses 20 * 7 = 140 gallons.
+
+Now we can multiply this by the number of weeks in 4 weeks, which is 4. So in 4 weeks, it uses 140 * 4 = 560 gallons. 
+
+So the answer is: Answer: 560

@@ -1,0 +1,6 @@
+Let's break it down step by step:
+
+1. The total number of apartments in each building is 10 + 20 + 5 = 35.
+2. The total number of apartments in all 4 buildings is 35 * 4 = 140.
+3. Since the apartment complex has 75% of its maximum occupancy, we need to find 75% of 140. To do this, we can multiply 140 by 0.75. 140 * 0.75 = 105.
+4. Therefore, 105 people live in the apartment complex.

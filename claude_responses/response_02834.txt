@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Marvin solved 40 math problems yesterday
+* The number of problems Marvin practiced today is three times as many as the number he solved yesterday
+* So, the number of problems Marvin practiced today is 3 x 40 = 120 problems
+* Arvin has practiced twice as many math problems on each day
+* So, the number of problems Arvin practiced yesterday is 2 x 40 = 80 problems
+* The number of problems Arvin practiced today is 2 x 120 = 240 problems
+* To find the total number of math problems they have practiced altogether, we add up the number of problems Marvin practiced today (120) and the number of problems Arvin practiced yesterday (80) and today (240):
+* 120 + 80 + 240 = 440 problems
+
+Answer: 440

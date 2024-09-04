@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The sum of Cooper's, Dante's, and Maria's ages is 31.
+2) Dante is twice as old as Cooper. So if Cooper's age is x, then Dante's age is 2x.
+3) Maria is one year older than Dante. So if Dante's age is 2x, then Maria's age is 2x + 1.
+4) Now we can set up an equation to solve for x:
+   x + 2x + (2x + 1) = 31
+   5x + 1 = 31
+   5x = 30
+   x = 6
+Therefore, Cooper is 6 years old.
+
+Answer: 6

@@ -1,0 +1,11 @@
+Let's start by calculating the number of pages in Miles' collection. Since 1 inch equals 5 pages, we can multiply the height of his collection (240 inches) by 5 to get the number of pages:
+
+240 inches * 5 pages/inch = 1200 pages
+
+Now, let's calculate the number of pages in Daphne's collection. Since 1 inch equals 50 pages, we can multiply the height of her collection (25 inches) by 50 to get the number of pages:
+
+25 inches * 50 pages/inch = 1250 pages
+
+Since Daphne's collection is taller, we need to compare the number of pages in each collection to determine which one has more pages. Since 1250 is greater than 1200, Daphne's collection has more pages.
+
+Answer: 1250

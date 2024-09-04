@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the height of the tree at the end of 2018. Since the tree grows 10% more each year, and 10% of 100 is 10, the height of the tree at the end of 2018 is 110.
+
+Now, let's find the height of the tree at the end of 2019. Since the tree grows 10% each year, the height of the tree at the end of 2019 is 10 more than the height at the end of 2018. So, the height of the tree at the end of 2019 is 120.
+
+So, the difference in the height of the tree between the end of 2017 and the end of 2019 is 20.

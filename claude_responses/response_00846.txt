@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Kurt's old refrigerator cost $0.85 per day in electricity
+* The new energy-efficient refrigerator costs $0.45 per day in electricity
+* We want to calculate the savings in a 30-day month
+
+To calculate the savings, we need to find the difference in cost between the old and new refrigerators over the 30-day period.
+
+Cost of old refrigerator over 30 days:
+* $0.85 per day x 30 days = $25.50
+
+Cost of new refrigerator over 30 days:
+* $0.45 per day x 30 days = $13.50
+
+Savings:
+* $25.50 - $13.50 = $12.00
+
+Answer: $12

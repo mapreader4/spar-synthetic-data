@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John buys 3 reels of 100m fishing line
+* Each reel is 100m long
+* He cuts the fishing line into 10m sections
+* To find the total number of sections, we need to:
+1. Calculate the total length of the fishing line
+2. Divide the total length by the length of each section
+
+Step 1: Calculate the total length of the fishing line
+* Total length = 3 reels x 100m per reel = 300m
+
+Step 2: Divide the total length by the length of each section
+* Number of sections = 300m / 10m per section = 30 sections
+
+Answer: 30

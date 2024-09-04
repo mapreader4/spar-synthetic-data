@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The battery charger can fully charge a smartphone in 26 minutes
+* The battery charger can fully charge a tablet in 53 minutes
+* Ana charged her tablet fully and her phone halfway
+* To charge the tablet fully, it would take 53 minutes
+* To charge the phone halfway, it would take half the time it takes to charge the phone fully, which is 26 / 2 = 13 minutes
+* Therefore, the total time it took to charge the tablet fully and the phone halfway is 53 minutes + 13 minutes = 66 minutes
+
+Answer: 66 minutes

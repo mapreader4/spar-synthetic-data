@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The ratio of blue, green, and white paint is 1 : 2 : 5
+* Andy is using 6 gallons of green paint
+* Since the ratio of green to the other colors is 2, we can use this to find the amount of blue and white paint
+* If Andy is using 2 parts green, then he must be using 1 part blue and 5 parts white
+* Since he is using 6 gallons of green, we can use the ratio to find the amount of blue and white:
+* Blue: 1 part out of 8 total parts, so 6 / 8 = 3/4 gallons of blue
+* White: 5 parts out of 8 total parts, so 6 * 5/2 = 15 gallons of white
+
+Adding up the amounts of each color:
+* Blue: 3/4 gallons
+* Green: 6 gallons 
+* White: 15 gallons
+* Total: 3/4 + 6 + 15 = 21 3/4 gallons
+
+Answer: 22 gallons

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The bathroom has 10 tiles along its width, each 6 inches wide.
+2) The total width of the bathroom is therefore 10 tiles x 6 inches per tile = 60 inches.
+3) The bathroom has 20 tiles along its length, each 6 inches long.
+4) The total length of the bathroom is therefore 20 tiles x 6 inches per tile = 120 inches.
+5) To calculate the square footage, we multiply the width (60 inches) by the length (120 inches).
+6) 60 inches x 120 inches = 7,200 square inches.
+7) To convert to square feet, we divide by 144 (since there are 144 square inches in 1 square foot).
+8) 7,200 square inches / 144 = 50 square feet.
+
+Answer: 50

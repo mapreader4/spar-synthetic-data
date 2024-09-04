@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* Tirzah has a total of 26 purses and 24 handbags
+* Half of the purses are fake, so the number of genuine purses is 26 - (26 / 2) = 13 genuine purses
+* 1/4 of the handbags are fake, so the number of genuine handbags is 24 - (24 / 4) = 18 genuine handbags
+* The total number of genuine purses and handbags is 13 + 18 = 31
+
+Answer: 31

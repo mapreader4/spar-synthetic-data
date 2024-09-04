@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Keenan needs to write an essay that is 1200 words
+* She writes 400 words per hour for the first two hours
+* After that, she writes 200 words per hour
+* The essay is due at midnight
+
+First, let's calculate how many words she can write in the first two hours:
+* 2 hours x 400 words/hour = 800 words
+
+Now, we need to calculate how many words she has left to write:
+* 1200 words - 800 words = 400 words
+
+Next, we need to calculate how long it will take her to write the remaining 400 words at 200 words per hour:
+* 400 words / 200 words/hour = 2 hours
+
+Therefore, Keenan needs to start 2 hours before the deadline to finish the essay on time.
+
+Answer: 2

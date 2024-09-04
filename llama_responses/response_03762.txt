@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say Mark has x parking tickets. Since Mark has twice as many parking tickets as Sarah, and Sarah has 6 speeding tickets, we can set up an equation to represent the number of parking tickets Mark has:
+
+x = 2x
+
+Since Sarah has 6 speeding tickets, we know that x must be equal to 3, because 2x = 2 * 3 = 6. So, Mark has 6 parking tickets.
+
+Answer: 6

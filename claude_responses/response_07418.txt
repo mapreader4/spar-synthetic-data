@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+* We know that 7 bottle caps weigh exactly 1 ounce
+* We also know that Josh's entire bottle cap collection weighs 18 pounds
+* To convert 18 pounds to ounces, we multiply 18 by 16 (since there are 16 ounces in a pound)
+* 18 pounds x 16 ounces/pound = 288 ounces
+* Now, we need to find how many sets of 7 bottle caps are in 288 ounces
+* 288 ounces / 1 ounce per 7 bottle caps = 288 / 7 = 41.14 sets of 7 bottle caps
+* Since we can't have a fractional number of bottle caps, we round down to 41 sets of 7 bottle caps
+* Therefore, the total number of bottle caps in Josh's collection is:
+* 41 sets of 7 bottle caps = 41 x 7 = 287 bottle caps
+
+Answer: 287 bottle caps

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Mabel counts fish, and 25% of them are sharks. On day one, she counts 15 fish, and on day 2, she counts three times as many, which means she counts 3 x 15 = 45 fish on day 2. To find the total number of fish, we add the number of fish counted on day 1 and day 2: 15 + 45 = 60.
+
+Now, we need to find the number of sharks. We know that 25% of the total fish are sharks. So, we can set up a proportion to solve for the number of sharks: 25% = (number of sharks) / (total number of fish).
+
+Let's substitute the total number of fish (60) into the proportion: 25% = (number of sharks) / 60.
+
+To solve for the number of sharks, we can multiply both sides of the proportion by 4 to eliminate the percent sign: 25 x 4 = (number of sharks) / 240.
+
+Now, we can multiply both sides of the equation by 3 to eliminate the fraction: 100 = (number of sharks) / 720.
+
+The answer is 180.

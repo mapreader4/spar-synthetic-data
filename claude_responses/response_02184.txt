@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Frankie has 6 more snakes than he has cats. So if he has x cats, he has x + 6 snakes.
+2) Frankie has one less parrot than cats. So if he has x cats, he has x - 1 parrots.
+3) Six of his pets have four legs. We know he has 2 dogs, so the other 4 four-legged pets must be the cats and snakes. Since he has x cats and x + 6 snakes, that means he has 2x + 6 four-legged pets.
+4) In total, Frankie has:
+- 2 dogs
+- x cats
+- x + 6 snakes
+- x - 1 parrots
+So the total number of pets is 2 + x + (x + 6) + (x - 1) = 4x + 7.
+
+Answer: 4x + 7

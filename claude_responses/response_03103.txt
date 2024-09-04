@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Taegan won tickets from 5 carnival games
+* She also found 5 tickets on the floor
+* Each ticket is worth $3
+* The total value of the tickets is $30
+
+First, let's calculate the total number of tickets Taegan has:
+* Total value of tickets = $30
+* Value of each ticket = $3
+* Total number of tickets = $30 / $3 = 10 tickets
+
+Now, we know that Taegan won an equal number of tickets from each of the 5 games, and she also found 5 tickets on the floor.
+* Total tickets = 10
+* Tickets found on the floor = 5
+* Tickets won from each game = (10 - 5) / 5 = 1
+
+Therefore, Taegan won 1 ticket from each of the 5 carnival games.
+
+Answer: 1

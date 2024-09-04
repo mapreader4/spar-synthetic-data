@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* James buys 3 packs of candy
+* He pays with a $20 bill
+* He gets $11 in change
+
+To find the cost of each pack of candy, we need to first find the total cost of the 3 packs of candy.
+
+We know that James paid $20 and received $11 in change, so the total cost of the 3 packs of candy must have been:
+* $20 - $11 = $9
+
+Since James bought 3 packs of candy, we can divide the total cost by 3 to find the cost of each pack:
+* $9 / 3 = $3
+
+Therefore, the cost of each pack of candy is $3.
+
+Answer: 3

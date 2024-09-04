@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Annalise was sent to buy 10 boxes of Kleenex Ultra Soft Facial Tissues
+* Each box has 20 packs of tissues
+* Each pack contains 100 tissues
+* Each tissue is sold at 5 cents
+
+To calculate the total amount of money Annalise spent, we need to:
+1. Calculate the total number of tissues in 10 boxes:
+   * 10 boxes x 20 packs per box x 100 tissues per pack = 20,000 tissues
+2. Calculate the total cost of the 20,000 tissues:
+   * 20,000 tissues x $0.05 per tissue = $1,000
+
+Therefore, the total amount of money Annalise spent to buy the ten boxes is:
+
+Answer: $1,000

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Phantom's mom gave him $50 to buy printer inks
+* He bought:
+    - 2 black printer inks at $11 each, so 2 x $11 = $22
+    - 3 red printer inks at $15 each, so 3 x $15 = $45
+    - 2 yellow printer inks at $13 each, so 2 x $13 = $26
+* The total cost of all the printer inks is:
+    - $22 + $45 + $26 = $93
+* Phantom's mom gave him $50, but the total cost is $93
+* To find how much more money he needs, we subtract the amount he has ($50) from the total cost ($93):
+    - $93 - $50 = $43
+
+Answer: $43

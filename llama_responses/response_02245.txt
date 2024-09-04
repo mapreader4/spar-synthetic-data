@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of lion cubs born in a year.
+
+Number of lion cubs born in a year = Number of lion cubs born in a month * 12
+
+Number of lion cubs born in a year = 5 * 12 = 60
+
+Now, let's find the number of lions that die in a year.
+
+Number of lions that die in a year = Number of lions that die in a month * 12
+
+Number of lions that die in a year = 1 * 12 = 12
+
+Now, let's find the total number of lions in Londolozi after 1 year.
+
+Total number of lions = Total number of lion cubs born in a year - Total number of lions that die in a year
+
+Total number of lions = 60 - 12
+
+Answer: 48

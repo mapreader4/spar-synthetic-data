@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of baths that Isabelle needs to run. There are 13 rooms for couples and 14 single rooms, so the total number of rooms is 27.
+
+Next, let's find the total capacity of the baths. Each bath requires 10ml of bubble bath, and each room is filled to maximum capacity. So, the total capacity is 27 x 10 = 270ml.
+
+So, Isabelle needs 270ml of bubble bath.

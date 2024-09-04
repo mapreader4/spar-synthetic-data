@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say Tim has x cans of soda initially. After Jeff takes 6 cans, Tim will have x - 6 cans left. Then, Tim goes and buys another half of the amount of cans he had left. Half of x - 6 is (x - 6) / 2 = (x - 6) / 2. So, Tim buys (x - 6) / 2 more cans. 
+
+After buying those cans, Tim will have (x - 6) - (x - 6) / 2 cans. This equals x - (x - 6) / 2 cans. Tim is left with x - (x - 6) / 2 + 6 cans.
+
+We know that Tim is left with 24 cans in the end, so we can set up an equation: x - (x - 6) / 2 + 6 = 24. To solve for x, we can add (x - 6) / 2 + 6 - 24 to both sides of the equation. This gives us x - (x - 6) / 2 = 18. We can add x to both sides to get 2x - (x - 6) = 18. We can add 6 to both sides to get 2x = 24 + 6.
+
+Answer: 30

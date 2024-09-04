@@ -1,0 +1,9 @@
+Let's break down the trip into 2 parts.
+
+1. The first part is the trip to the destination, which is 55 miles. The bus can drive 1 mile in 2 minutes, so it can drive 55 miles in 55 * 2 = 110 minutes. To convert this to hours, we can divide by 60, which is the number of minutes in an hour. 110 / 60 = 1.83 hours.
+
+2. The second part is the return trip. The bus will drive 10 miles farther, so it will drive 10 * 2 = 20 minutes. To convert this to hours, we can divide by 60, which is the number of minutes in an hour. 20 / 60 = 0.33 hours.
+
+3. The total time it will take the bus driver to do the entire tour is the sum of the time it takes to drive to the destination and the time it takes to drive back. 1.83 + 0.33 = 2.16 hours.
+
+Answer: 2.16

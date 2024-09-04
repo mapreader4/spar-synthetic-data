@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. In the first hour, 50 guests enter the gym, so they use 50 towels.
+
+2. In the second hour, 20% more guests enter than during the first hour. 
+   * 20% of 50 is 10, so 50 + 10 = 60 guests enter in the second hour.
+   * They use 60 towels.
+
+3. In the third hour, 25% more guests enter than in the second hour.
+   * 25% of 60 is 15, so 60 + 15 = 75 guests enter in the third hour. 
+   * They use 75 towels.
+
+4. In the fourth hour, one third more guests enter than in the third hour.
+   * One third of 75 is 25, so 75 + 25 = 100 guests enter in the fourth hour.
+   * They use 100 towels.
+
+5. In total, the number of towels used is:
+   * 50 + 60 + 75 + 100 = 285 towels
+
+Therefore, the gym needs to wash 285 towels that evening.
+
+Answer: 285

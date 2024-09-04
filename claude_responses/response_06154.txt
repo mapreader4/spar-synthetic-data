@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mary has a total of 60 characters in her story
+* Half of the characters have the initial A, so that's 30 characters with the initial A
+* Half of the 30 characters with the initial A have the initial C, so that's 15 characters with the initial C
+* The remaining characters have the initials D and E
+* There are twice as many characters with the initial D as there are characters with the initial E
+* Let's call the number of characters with the initial D as x
+* Then the number of characters with the initial E is x/2
+* The total number of characters with the initials D and E is 60 - 30 - 15 = 15
+* So we can write the equation: x + x/2 = 15
+* Solving for x, we get: 3x/2 = 15
+* x = 10
+
+Answer: 10

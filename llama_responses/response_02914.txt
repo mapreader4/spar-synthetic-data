@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, I'll calculate the total number of grams of birdseed Leah has:
+
+3 boxes of birdseed (new) = 3 x 225 grams = 675 grams
+5 boxes of birdseed (already in pantry) = 5 x 225 grams = 1125 grams
+Total birdseed = 675 grams + 1125 grams = 1800 grams
+
+Next, I'll calculate the total number of grams of birdseed consumed by the parrot and cockatiel per week:
+
+Parrot eats 100 grams/week
+Cockatiel eats 50 grams/week
+Total birdseed consumed per week = 100 grams + 50 grams = 150 grams
+
+Now, I'll divide the total birdseed Leah has by the total birdseed consumed per week to find out how many weeks the birdseed will last:
+
+1800 grams (total birdseed) ÷ 150 grams (total birdseed consumed per week) = 12 weeks
+
+Answer: 12

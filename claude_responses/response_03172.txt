@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+* There are 3 friends who agreed to pay an equal amount of money for 5 bags of chips
+* Each friend paid $5
+* To find the cost of each bag of chips, we need to divide the total amount paid by the number of bags
+* The total amount paid is 3 * $5 = $15
+* The number of bags is 5
+* To find the cost of each bag, we divide the total amount paid by the number of bags:
+* $15 / 5 = $3 per bag
+
+Answer: 3

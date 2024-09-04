@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) We are given that there are 480 zombies in the shopping mall currently.
+2) The number of zombies is doubling every day.
+3) We want to find out how many days ago there were less than 50 zombies in the mall.
+4) Let's work backwards from the current number of zombies (480) to find the number of days.
+5) If the number of zombies is doubling every day, then the number of zombies yesterday was 480 / 2 = 240.
+6) The day before yesterday, the number of zombies was 240 / 2 = 120.
+7) The day before that, the number of zombies was 120 / 2 = 60.
+8) The day before that, the number of zombies was 60 / 2 = 30.
+9) The day before that, the number of zombies was 30 / 2 = 15.
+10) The day before that, the number of zombies was 15 / 2 = 7.5 (which is less than 50).
+11) Therefore, 6 days ago, there were less than 50 zombies in the mall.
+
+Answer: 6

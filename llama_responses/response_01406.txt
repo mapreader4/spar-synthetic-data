@@ -1,0 +1,9 @@
+Let's start by thinking step by step.
+
+Let's say the 8 toddlers Bill double-counted are toddlers that Bill already counted. So, the total number of toddlers Bill counted is 26 - 8 = 18.
+
+Now, Bill also missed 3 toddlers. So, we need to add those 3 toddlers to the total count.
+
+So, the total number of toddlers is 18 + 3 = 21.
+
+Answer: 21

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 5 rooms with 4 walls each, so that's 5 * 4 = 20 walls
+* There are 4 rooms with 5 walls each, so that's 4 * 5 = 20 walls
+* In total, there are 20 + 20 = 40 walls in the house
+* There are 5 people in Amanda's family
+* To divide the work evenly, we need to divide the total number of walls (40) by the number of people (5)
+* 40 / 5 = 8
+
+Answer: 8

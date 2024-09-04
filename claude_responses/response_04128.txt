@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Sonia and Joss spend 15 minutes filling the car with their stuff
+* They then spend 30 minutes driving from the previous house to the new house
+* They do not waste any time unloading the car
+* They make a total of 6 trips to complete the move
+
+To calculate the total time spent moving, we need to add up the time for each trip:
+* 15 minutes filling the car + 30 minutes driving = 45 minutes per trip
+* 45 minutes per trip x 6 trips = 270 minutes total
+
+Now, we need to convert the total time from minutes to hours:
+* 270 minutes / 60 minutes per hour = 4.5 hours
+
+Answer: 4 hours

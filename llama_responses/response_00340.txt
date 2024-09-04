@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Tom needs to lower the rope 6 stories. So he needs to lower the rope 6 x 10 feet = 60 feet.
+
+Step 2: The rope being sold is 20 feet long. But when lashing them together, he loses 25%. So, 20 - (25% of 20) = 20 - 5 = 15 feet.
+
+Step 3: Now, he needs to lower the rope 60 feet using the 15 feet rope. 60 / 15 = 4.
+
+Answer: 4

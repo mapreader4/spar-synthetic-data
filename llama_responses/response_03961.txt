@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Janet walks 3 blocks north, so she is 3 blocks away from her home.
+
+Then, she walks 7 times as many blocks west, which means she walks 7 x 3 = 21 blocks west.
+
+Next, she turns around and walks 8 blocks south, which means she is now 8 blocks away from her home.
+
+Finally, she walks twice as many blocks east in the direction of her home, which is 2 x 8 = 16 blocks east.
+
+To find the total distance she needs to walk to get home, we need to add the distances together: 3 blocks north + 21 blocks west + 8 blocks south + 16 blocks east = 48 blocks.
+
+Since Janet can walk 2 blocks/minute, we can divide the total distance by the rate at which she walks to find the time it will take her to get home:
+
+48 blocks / 2 blocks/minute = 24 minutes
+
+Answer: 24

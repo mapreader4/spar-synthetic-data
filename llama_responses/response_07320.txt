@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Alicia has 20 gumballs. Pedro has 20 + 3 * 20 = 60 gumballs. So, in total, there are 80 gumballs.
+
+They put the gumballs in a bowl. Then, Pedro takes 40% of the gumballs. 40% of 80 is 0.4 * 80 = 32 gumballs.
+
+So, after Pedro takes the gumballs, there are 80 - 32 = 48 gumballs remaining in the bowl.
+
+Answer: 48

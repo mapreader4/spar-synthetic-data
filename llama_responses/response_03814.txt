@@ -1,0 +1,3 @@
+To find the total number of dots for all the ladybugs, we need to multiply the number of ladybugs by the number of dots each ladybug has. So, if each ladybug has 6 dots, and there are 8 ladybugs on Monday and 5 ladybugs on Tuesday, then the total number of dots is:
+
+8 * 6 + 5 * 6 = 48

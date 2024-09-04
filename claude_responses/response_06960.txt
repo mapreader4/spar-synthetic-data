@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Mowing the lawn takes 1 hour and pays $15
+* Jake wants to make $20/hour working for the neighbors
+* Planting the flowers takes 2 hours
+
+To calculate how much Jake should charge for planting the flowers, we need to find the total amount he would make for the entire job (mowing and planting).
+
+For mowing the lawn, he makes $15 in 1 hour. To make $20/hour, he would need to charge:
+* $20/hour x 1 hour = $20 for mowing the lawn
+
+For planting the flowers, he needs to work for 2 hours to make $20/hour. So the total charge for planting the flowers should be:
+* $20/hour x 2 hours = $40 for planting the flowers
+
+Therefore, the total amount Jake should charge for the entire job (mowing and planting) is:
+* $20 (mowing) + $40 (planting) = $60
+
+Answer: $60

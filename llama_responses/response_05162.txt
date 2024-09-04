@@ -1,0 +1,15 @@
+To solve this problem, we need to know the rate of speed of the train. Let's let's call this rate of speed "r". The rate of speed is given as 360 miles in 3 hours, so we can write this as an equation:
+
+r = 360 miles / 3 hours = 120 miles per hour
+
+The question asks us to find out how many hours it would take to travel an additional 240 miles at this rate. We can use the formula:
+
+time = distance / rate
+
+Substituting the given values, we get:
+
+time = 240 miles / 120 miles per hour
+
+time = 2 hours
+
+Answer: 2

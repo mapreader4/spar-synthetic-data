@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There were 3 baskets, each with 900 strawberries
+* So the total number of strawberries was 3 * 900 = 2,700
+* 2/9 of the strawberries were remaining
+* This means that 7/9 of the strawberries were eaten
+* Since there were two hedgehogs, they each ate half of the 7/9 of the strawberries
+* So each hedgehog ate 7/18 of the total strawberries
+
+Now, let's calculate the total number of strawberries each hedgehog ate:
+* 7/18 of 2,700 = (7/18) * 2,700 = 1,050
+
+Answer: 1,050

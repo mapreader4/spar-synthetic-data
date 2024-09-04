@@ -1,0 +1,7 @@
+Let's start by identifying the total amount of money Uncle Bradley wants to change. He wants to change 3/10 of the money, which is 300 dollars, into $50 bills. That means the rest of the money is 1000 - 300 = 700 dollars. 
+
+Since he wants the rest of the money to be in $100 bills, he will have 7 hundreds in 100 dollar bills. 
+
+So, Uncle Bradley will have 3 $50 bills and 7 $100 bills. 
+
+Answer: 10

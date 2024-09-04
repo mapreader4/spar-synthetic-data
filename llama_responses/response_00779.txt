@@ -1,0 +1,9 @@
+Let's start by letting the flower be represented by x.  The cost of the flowers is x dollars.  The cost of the clay pot is 9 + 20 = 29 dollars more than the cost of the flower, so the cost of the clay pot is x + 29.  The cost of the bag of soil is 20 - 2 = 18 dollars less than the cost of the flower, so the cost of the bag of soil is x - 18.
+
+The total cost to plant the flowers is the cost of the flowers plus the cost of the clay pot plus the cost of the bag of soil.  This is x + (x + 29) + (x - 18).  We can combine the terms with addition, and simplify to get x + x + x - 18.
+
+We know that x is the cost of the flowers, so we can replace x with x in the expression.  This gives us x + x + x - 18.
+
+We can now solve for x.  We can add x to both sides of the equation to get 2x + x - 18 = 0.  Then, we can add 18 to both sides to get 2x + 18 = 18.  This means that 2x = 18 - 18 = 0.  This is 2x = 0, which is not possible.  Therefore, the equation has no solution.
+
+There is no solution.

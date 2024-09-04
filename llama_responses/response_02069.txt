@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the number of shoes Page has initially. She has 80 pairs of shoes, so she has 80 x 2 = 160 shoes.
+
+Next, she decides to donate 30% of her collection. 30% of 160 is 0.3 x 160 = 48 shoes.
+
+After donating 48 shoes, she has 160 - 48 = 112 shoes left.
+
+Then, she buys 6 more pairs of shoes to add to her collection. 6 pairs is 12 shoes.
+
+So, she now has 112 + 12 = 124 shoes.
+
+Answer: 124

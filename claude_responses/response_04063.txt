@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Big stack pancakes have 5 pancakes each
+* Short stack pancakes have 3 pancakes each
+* 9 customers ordered the short stack
+* 6 customers ordered the big stack
+
+First, let's calculate the number of pancakes needed for the short stack orders:
+* 9 customers x 3 pancakes per short stack = 27 pancakes
+
+Next, let's calculate the number of pancakes needed for the big stack orders:
+* 6 customers x 5 pancakes per big stack = 30 pancakes
+
+Finally, to get the total number of pancakes Hank needs to make, we add the pancakes for the short stack and big stack orders:
+* 27 pancakes + 30 pancakes = 57 pancakes
+
+Answer: 57

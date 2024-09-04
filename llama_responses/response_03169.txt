@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's first calculate the number of months it takes for the grass to grow from 2 inches to 4 inches.
+
+The grass grows 0.5 inches per month, so to get from 2 inches to 4 inches, it will take:
+
+4 inches - 2 inches = 2 inches of growth
+2 inches / 0.5 inches/month = 4 months
+
+So, it takes 4 months for the grass to grow from 2 inches to 4 inches.
+
+Now, let's calculate the cost per year:
+
+Cost per year = Cost per month x 12 months
+Cost per year = 100 / 12
+Cost per year = 100 / 12 = 8.33
+
+Answer: 8.33

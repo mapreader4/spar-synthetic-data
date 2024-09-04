@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of apples each person will have. Greg and Sarah have 18 apples. Since they will split the apples evenly, Susan will have half of the 18 apples, which is 9 apples. Mark will have the other half, which is also 9 apples.
+
+We know that Mark has 5 fewer apples than Susan, so we can subtract 5 from Susan's 9 apples to find out how many apples Mark will have. 9 - 5 = 4.
+
+Now, their mom needs 40 apples to make an apple pie. Let's assume she has already used some of the apples to make the pie. Let's subtract the number of apples Susan and Mark have from the total number of apples their mom needs. 9 + 4 = 13. Since their mom needs 40 apples, she will have 40 - 13 = 27 apples left over.

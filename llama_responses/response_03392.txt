@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's say the number of portraits Bethany saw is x.
+
+Then, she saw 4 times more still lifes than portraits, so the number of still lifes she saw is 4x.
+
+The total number of paintings she saw is the sum of the number of portraits and the number of still lifes: x + 4x = 80.
+
+We can combine like terms: x + 4x = 80.
+
+This is a linear equation. We can solve it by subtracting 4x from both sides of the equation, like so:
+
+x + 4x = 80
+x = 80 - 4x
+x = 80 / 5
+x = 16
+
+Answer: 16

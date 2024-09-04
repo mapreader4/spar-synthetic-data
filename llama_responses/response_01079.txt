@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of money Mr. Roberts will pay for the television if he pays in cash.
+
+The total amount of money Mr. Roberts will pay is the sum of the down payment and the monthly payments.
+
+The down payment is $120, and the monthly payment is $30. The total amount of money Mr. Roberts will pay is:
+
+$120 + 12 * $30 = $120 + $360
+
+So, the total amount of money Mr. Roberts will pay in cash is $480.
+
+Now, let's calculate the amount of money he can save by paying in cash.
+
+The amount of money Mr. Roberts can save is the difference between the total amount of money he would pay if he pays cash and the total amount of money he would pay if he pays in installments.
+
+The total amount of money Mr. Roberts can save is:
+
+$480 - $480 = $0
+
+So, the answer is:
+
+Answer: 0

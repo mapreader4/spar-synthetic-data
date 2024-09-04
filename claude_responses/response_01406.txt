@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Bill thinks he counted 26 toddlers.
+2) He double-counted 8 toddlers, which means he counted 8 toddlers twice.
+3) He missed 3 toddlers who were hiding.
+4) To get the actual number of toddlers, we need to subtract the 8 double-counted toddlers and add the 3 missed toddlers.
+5) 26 (Bill's count) - 8 (double-counted) + 3 (missed) = 21 toddlers.
+
+Answer: 21

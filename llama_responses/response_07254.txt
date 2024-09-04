@@ -1,0 +1,11 @@
+Let's break down the information given in the problem:
+
+* Henry has 3 more country CDs than rock CDs.
+* He has twice as many rock CDs as classical CDs.
+* He has 23 country CDs.
+
+Let's start by letting x be the number of rock CDs. Since he has 3 more country CDs than rock CDs, that means that x - 3 = 23 - x. So, we can set up an equation: x - 3 = 23 - x. Adding 3 to both sides of the equation gives us 2x = 26. So, the value of x is 13.
+
+Now, we can find the number of classical CDs by multiplying the number of rock CDs by 2, because he has twice as many rock CDs as classical CDs. So, the number of classical CDs is 2 * 13 = 26. So, the answer is:
+
+Answer: 26

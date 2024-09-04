@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The total concert duration is 1 hour and 20 minutes, which is 80 minutes.
+* There was a 10-minute intermission, so the actual performance time is 80 minutes - 10 minutes = 70 minutes.
+* Each song, except for one, was 5 minutes long.
+* There was one song that lasted 10 minutes.
+* To find the number of 5-minute songs, we can divide the remaining time (70 minutes - 10 minutes) by 5 minutes per song:
+  * (70 minutes - 10 minutes) / 5 minutes per song = 12 songs
+* In addition to the 12 songs that were 5 minutes each, there was one song that was 10 minutes long.
+* Therefore, the total number of songs she sang is 12 + 1 = 13 songs.
+
+Answer: 13

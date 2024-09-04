@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Each wall has 30 bricks in a single row
+* There are 50 rows in each wall
+* To calculate the total number of bricks in one wall, we multiply the number of bricks per row (30) by the number of rows (50):
+* 30 bricks per row x 50 rows = 1,500 bricks per wall
+* Since there are two walls being built, we need to multiply the number of bricks per wall (1,500) by 2 to get the total number of bricks used for both walls:
+* 1,500 bricks per wall x 2 walls = 3,000 bricks
+
+Answer: 3,000

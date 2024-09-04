@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On the first try, Homer scored 400 points.
+* On the second try, Homer scored 70 points fewer than the first try, which means he scored 400 - 70 = 330 points.
+* On the third try, Homer scored twice the number of points he scored on the second try, which means he scored 2 * 330 = 660 points.
+
+Now, to find the total number of points scored in all tries, we add up the points from each try:
+* Total points = 400 + 330 + 660
+* Total points = 1390
+
+Answer: 1390

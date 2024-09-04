@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Gnuff charges a flat rate of $20 per tutoring session, so the rate per minute is $20 / 60 = $0.33 per minute.
+
+The total amount paid for Gnuff for tutoring for one session is $146. We can set up an equation to represent this:
+
+0.33x = 146
+
+We can solve for x by dividing both sides by 0.33:
+
+x = 146 / 0.33
+
+x = 440
+
+So, Gnuff tutored for 440 minutes.

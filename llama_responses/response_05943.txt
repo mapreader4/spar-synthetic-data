@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Carly had 42 lollipops.
+* Half of the lollipops were cherry, which is 42 ÷ 2 = 21.
+* The rest of the lollipops are not cherry, which is 42 - 21 = 21.
+* The remaining 21 lollipops are not cherry, and are equal amounts of watermelon, sour apple, and grape. Since they are equal, we can divide 21 by 3 (the number of flavors) to find the number of lollipops in each flavor: 21 ÷ 3 = 7.
+
+So, the number of grape lollipops is 7.
+
+Answer: 7

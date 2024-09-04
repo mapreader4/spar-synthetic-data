@@ -1,0 +1,11 @@
+Let's start by identifying the number of sheets of paper in each category:
+
+* Bundles of colored paper: 3 bundles, each holding 2 sheets of paper, so 3 x 2 = 6 sheets of paper
+* Bunches of white paper: 2 bunches, each holding 4 sheets of paper, so 2 x 4 = 8 sheets of paper
+* Heaps of scrap paper: 5 heaps, each holding 20 sheets of paper, so 5 x 20 = 100 sheets of paper
+
+To find the total number of sheets of paper Barbara removed, we add the number of sheets from each category:
+
+6 (colored paper) + 8 (white paper) + 100 (scrap paper) = 114
+
+Answer: 114

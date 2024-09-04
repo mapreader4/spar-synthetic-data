@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The train carried 100 passengers from one station to the other on the first trip
+* On the return trip, the train carried 60 passengers
+* The train made a total of 4 round trips that day (1 round trip initially, plus 3 more)
+* Each round trip carried the same number of passengers as the first trip
+
+To calculate the total number of passengers transported, we need to:
+1. Calculate the number of passengers transported in each round trip
+2. Multiply the number of passengers per round trip by the total number of round trips
+
+Step 1: Number of passengers per round trip
+* First trip: 100 passengers one way, 60 passengers return
+* Total passengers per round trip = 100 + 60 = 160 passengers
+
+Step 2: Total number of passengers transported
+* Number of passengers per round trip = 160
+* Total number of round trips = 4
+* Total passengers transported = 160 * 4 = 640 passengers
+
+Answer: 640

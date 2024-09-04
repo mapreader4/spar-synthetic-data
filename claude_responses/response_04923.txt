@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The building has 9 floors
+* Jake uses the stairs, descending 3 steps every second
+* The stairs have 30 steps across each floor
+* The elevator takes 1 minute (60 seconds) to get to ground level
+
+First, let's calculate how long it will take Jake to get to the ground floor using the stairs:
+* There are 9 floors, with 30 steps per floor
+* So, Jake has to descend 9 * 30 = 270 steps
+* He descends 3 steps per second
+* Therefore, it will take him 270 / 3 = 90 seconds to get to the ground floor
+
+Now, let's calculate how long it will take the elevator to get to the ground floor:
+* The elevator takes 1 minute (60 seconds) to get to the ground floor
+
+Finally, to find the difference in time between when Jake and Austin reach the ground floor:
+* Jake takes 90 seconds to reach the ground floor
+* Austin takes 60 seconds to reach the ground floor
+* Therefore, Jake reaches the ground floor 90 - 60 = 30 seconds later than Austin
+
+Answer: 30

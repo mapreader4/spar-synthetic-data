@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The museum has 8 different wings
+* 3 of the wings are dedicated to paintings
+* The remaining 5 wings are dedicated to artifacts
+* The museum has 4 times as many artifacts as paintings
+* The two wings with smaller paintings have 12 paintings each
+* The one wing with the large painting has 1 painting
+
+First, let's find out how many paintings are in the museum:
+* 2 wings with 12 paintings each = 24 paintings
+* 1 wing with 1 large painting = 1 painting
+* Total paintings = 24 + 1 = 25 paintings
+
+Now, we know that the museum has 4 times as many artifacts as paintings, so:
+* Total artifacts = 4 * 25 = 100 artifacts
+
+The artifacts are divided evenly among the remaining 5 wings, so:
+* Artifacts per artifact wing = 100 / 5 = 20 artifacts
+
+Answer: 20 artifacts

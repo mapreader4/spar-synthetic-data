@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of school faculty and staff. 10% of the 100 attendees were school faculty and staff, which is 10% of 100, which is 10.
+
+Next, let's find the number of girls. Two-thirds of the remaining attendees were girls, which is 2/3 of the remaining attendees. 100 - 10 = 90, and 2/3 of 90 is 60.
+
+To find the number of boys, we subtract the number of girls from the total number of attendees: 100 - 60 = 40.
+
+Answer: 40

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's figure out how many eggs Roberta needs for the savory soufflés. She wants to make 3 savory soufflés, and each soufflé requires 8 eggs. So, the total number of eggs needed for the savory soufflés is 3 x 8 = 24 eggs.
+
+Next, let's figure out how many eggs she needs for the dessert soufflés. She wants to make 5 dessert soufflés, and each one requires 6 eggs. So, the total number of eggs needed for the dessert soufflés is 5 x 6 = 30 eggs.
+
+Now, let's add the total number of eggs needed for both the savory and dessert soufflés. We have 24 eggs for the savory soufflés and 30 eggs for the dessert soufflés. The total number of eggs needed is 24 + 30 = 54 eggs.
+
+Answer: 54

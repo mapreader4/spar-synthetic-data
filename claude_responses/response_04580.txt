@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Sarah played 100 games in total
+* She tied 40 of those games
+* She lost $30 overall
+* For each game she wins, she earns $1
+* For each game she ties, she earns $0
+* For each game she loses, she loses $2
+
+First, let's calculate how much she lost from the games she lost:
+* If she lost $30 in total, and she loses $2 per game she loses, then the number of games she lost must be:
+* $30 / $2 per loss = 15 games lost
+
+Now, we can calculate the number of games she won:
+* Total games played = 100
+* Games tied = 40
+* Games lost = 15
+* Games won = Total games - Games tied - Games lost
+* Games won = 100 - 40 - 15 = 45 games won
+
+Therefore, the answer is:
+Answer: 45

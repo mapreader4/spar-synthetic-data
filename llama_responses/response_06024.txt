@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many hours they will be driving in total. They will drive 8 hours to their destination and then 8 hours to return home, so the total driving time is 8 + 8 = 16 hours.
+
+Next, we need to find out how many bottles of water each person will need. Each person will want to drink 1/2 a bottle of water every hour, so for 16 hours, each person will need 16 x 1/2 = 8 bottles of water.
+
+Since there are 4 people in total, the total number of bottles of water they will need is 4 x 8 = 32 bottles of water.
+
+Answer: 32

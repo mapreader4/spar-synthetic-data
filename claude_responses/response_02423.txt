@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Rory starts with 100 L of rainwater in his tank.
+* During the heavy rainstorm, water flows into the tank at a rate of 2 L/min.
+* The heavy rainstorm lasts for 90 minutes.
+
+To calculate the total amount of water in the tank at the end of the heavy rain, we need to:
+1. Calculate the amount of water that flows into the tank during the 90-minute rainstorm.
+2. Add that amount to the initial 100 L of rainwater.
+
+Step 1: Calculate the amount of water that flows into the tank during the 90-minute rainstorm.
+* The flow rate is 2 L/min.
+* The rainstorm lasts for 90 minutes.
+* Therefore, the total amount of water that flows into the tank is:
+2 L/min × 90 min = 180 L
+
+Step 2: Add the amount of water that flowed into the tank to the initial 100 L of rainwater.
+* Initial amount of water: 100 L
+* Amount of water that flowed in: 180 L
+* Total amount of water in the tank: 100 L + 180 L = 280 L
+
+Answer: 280 L

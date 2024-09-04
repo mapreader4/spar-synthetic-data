@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The first year of a dog's life equals 15 human years
+* The second year of a dog's life equals 9 human years
+* After the second year, every year of a dog's life equals 5 human years
+* Your dog is 10 years old
+
+So, to calculate the total number of human years your 10-year-old dog has lived:
+* The first year equals 15 human years
+* The second year equals 9 human years
+* The remaining 8 years (10 - 2) each equal 5 human years, so 8 * 5 = 40 human years
+* Adding it all up:
+  - 15 (first year) + 9 (second year) + 40 (remaining 8 years) = 64 human years
+
+Answer: 64

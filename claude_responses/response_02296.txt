@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+Mancino's Gardens:
+* Mancino has 3 gardens
+* Each garden measures 16 feet by 5 feet
+* To find the area of each garden, we multiply the length and width:
+  * 16 feet x 5 feet = 80 square feet per garden
+* To find the total area of Mancino's gardens, we multiply the area of one garden by the number of gardens:
+  * 80 square feet x 3 gardens = 240 square feet
+
+Marquita's Gardens:
+* Marquita has 2 gardens
+* Each garden measures 8 feet by 4 feet
+* To find the area of each garden, we multiply the length and width:
+  * 8 feet x 4 feet = 32 square feet per garden
+* To find the total area of Marquita's gardens, we multiply the area of one garden by the number of gardens:
+  * 32 square feet x 2 gardens = 64 square feet
+
+Total Area of All Gardens:
+* To find the total area of all the gardens, we add the areas of Mancino's gardens and Marquita's gardens:
+  * 240 square feet + 64 square feet = 304 square feet
+
+Answer: 304

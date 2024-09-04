@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The number of students who wish to go on the skiing trip is twice as many as those who wish to go on the scavenger hunting trip.
+2) The number of students who wish to go on the scavenger hunting trip is 4000.
+3) Since the number of students who wish to go on the skiing trip is twice as many as those who wish to go on the scavenger hunting trip, we can calculate the number of students who wish to go on the skiing trip as:
+   * Number of students who wish to go on the skiing trip = 2 x 4000 = 8000
+4) The total number of students is the sum of the students who wish to go on the skiing trip and the students who wish to go on the scavenger hunting trip.
+   * Total number of students = 8000 + 4000 = 12000
+
+Answer: 12000

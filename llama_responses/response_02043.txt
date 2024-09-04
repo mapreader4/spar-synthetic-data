@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* William read 6 books last month.
+* Brad read three times as many books as William did, which is 6 * 3 = 18 books.
+* This month, William read twice as much as Brad, who read 8 books.
+
+Now, let's figure out how many books William read this month. Since William read 6 books last month, and he read twice as much as Brad this month, who read 8 books, we can find the number of books William read this month by multiplying the number of books William read last month by 2:
+
+William read 6 books last month, and he read twice as much as Brad this month, who read 8 books. So, William read 6 * 2 = 12 books this month.
+
+So, the total number of books read by William across the two months is 6 + 12 = 18.
+
+Answer: 18

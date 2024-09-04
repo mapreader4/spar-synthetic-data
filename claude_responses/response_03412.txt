@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each glass of chocolate milk requires 6.5 ounces of milk and 1.5 ounces of chocolate syrup
+* So each glass of chocolate milk requires a total of 8 ounces (6.5 ounces of milk + 1.5 ounces of chocolate syrup)
+* Charles has 130 ounces of milk and 60 ounces of chocolate syrup
+* To determine the limiting ingredient, we need to calculate how many glasses he can make with each:
+* With 130 ounces of milk, he can make 130 / 6.5 = 20 glasses
+* With 60 ounces of chocolate syrup, he can make 60 / 1.5 = 40 glasses
+* The limiting ingredient is the milk, so he can make 20 glasses of chocolate milk
+* Each glass is 8 ounces, so the total ounces of chocolate milk he will drink is:
+* 20 glasses x 8 ounces per glass = 160 ounces
+
+Answer: 160

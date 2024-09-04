@@ -1,0 +1,14 @@
+Let's start by identifying the number of legs from the given information.
+
+From the problem statement, we know that:
+
+1. There are 4 tables with 2 chairs each, so that is 8 legs.
+2. There are 3 tables with 3 legs each, so that is 9 legs.
+3. There is 1 table with 1 leg, so that is 1 leg.
+4. There is 1 rocking chair with 2 legs, so that is 2 legs.
+
+Now, let's add up the total number of legs:
+
+8 (from the 2 chairs) + 9 (from the 3 tables) + 1 (from the 1 table) + 2 (from the rocking chair) = 20
+
+Answer: 20

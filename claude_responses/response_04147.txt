@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Tom originally had 3,000 stamps in his collection.
+2) His brother Mike gave him 17 stamps.
+3) His best friend Harry gave him 10 more stamps than twice Mike's gift.
+   * Mike's gift was 17 stamps.
+   * Twice Mike's gift is 2 x 17 = 34 stamps.
+   * Harry's gift is 10 more than 34 stamps, which is 34 + 10 = 44 stamps.
+4) To find the total number of stamps in Tom's collection now, we add the original 3,000 stamps to the 17 stamps from Mike and the 44 stamps from Harry.
+   * 3,000 + 17 + 44 = 3,061 stamps.
+
+Answer: 3,061

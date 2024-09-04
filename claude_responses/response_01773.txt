@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Savannah has 3 rolls of wrapping paper
+* She has 12 gifts to wrap
+* 1 roll of wrapping paper can wrap 3 gifts
+* 1 roll of wrapping paper can wrap 5 other gifts
+* We need to find how many gifts she wrapped with the third roll of paper
+
+First, let's calculate how many gifts she wrapped with the first two rolls of paper:
+* 1 roll for 3 gifts
+* 1 roll for 5 other gifts
+* That's a total of 8 gifts wrapped with the first two rolls
+
+Now, we know that she wrapped a total of 12 gifts, and she used 8 of them with the first two rolls. 
+* So, the number of gifts she wrapped with the third roll is 12 - 8 = 4
+
+Answer: 4

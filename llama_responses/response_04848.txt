@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of women who work at Sarah's company.
+
+We know that 60% of the employees are women. So, the number of women is 0.6 x (0.6 x) = 0.6x = x. We want to find x.
+
+We know that the rest of the employees are men, which is 100% - 60% = 40%. We know that 75% of the men have a college degree and 8 do not. So, the number of men with a college degree is 0.75x and the number of men without a college degree is 0.25x.
+
+We can set up an equation to represent the number of women and the number of men with a college degree. Let's call the number of women x. We can set up an equation to represent the number of men with a college degree as 0.75x. We know that the total number of men is 0.75x + 0.25x = 0.25x. We can set up an equation to represent the number of women and the number of men with a college degree. Let's call the number of women x. We can set up an equation to represent the number of men with a college degree as 0.75x. We know that the total number of men is 0.75x + 0.25x = 0.25x.

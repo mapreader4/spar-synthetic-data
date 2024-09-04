@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Phoebe has 2 pizzas, each with 16 slices, for a total of 32 slices
+* Phoebe is sharing the pizzas with 3 friends, for a total of 4 people
+* One friend eats only pepperoni, so the remaining 3 people (Phoebe and 2 friends) have an equal number of slices of each type of pizza
+* At the end, there is 1 slice of pepperoni left and 7 slices of cheese left
+* So the total number of slices eaten is 32 - 1 - 7 = 24 slices
+* Since the 3 people who had an equal number of slices of each pizza ate 24 slices, each of them ate 24 / 3 = 8 slices
+* The friend who ate only pepperoni ate the remaining 1 slice of pepperoni
+
+Answer: 8 slices

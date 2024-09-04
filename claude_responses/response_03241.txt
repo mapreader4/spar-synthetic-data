@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* James needs 40 fish to make one sushi roll
+* He bought 400 fish from the market
+* 20% of the 400 fish have gone bad and cannot be used
+* To find the number of fish that have gone bad, we take 20% of 400:
+  * 20% of 400 = 0.20 * 400 = 80 fish have gone bad
+* Now, we find the number of fish that are still good:
+  * Total fish bought = 400
+  * Fish gone bad = 80
+  * Fish remaining = 400 - 80 = 320 fish
+* To find the number of sushi rolls James can make, we divide the remaining fish by the number of fish needed per roll:
+  * 320 fish / 40 fish per roll = 8 sushi rolls
+
+Answer: 8

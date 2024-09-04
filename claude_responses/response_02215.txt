@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 80 men in the race.
+2) 1/4 of the men tripped and were unable to finish. That means 1/4 of 80 = 20 men were unable to finish due to tripping.
+3) The remaining number of men is 80 - 20 = 60 men.
+4) 2/3 of the remaining 60 men were dehydrated. That means 2/3 of 60 = 40 men were dehydrated.
+5) 1/5 of the 40 dehydrated men couldn't finish the race. That means 1/5 of 40 = 8 men couldn't finish due to dehydration.
+6) The total number of men who finished the race is the original 80 men, minus the 20 who tripped, and minus the 8 who couldn't finish due to dehydration.
+7) Therefore, the number of men who finished the race is 80 - 20 - 8 = 52 men.
+
+Answer: 52

@@ -1,0 +1,17 @@
+Okay, let's think through this step-by-step:
+1) Bob runs 6 miles per hour, and Jim runs 9 miles per hour.
+2) Bob has a 1 mile head-start.
+3) We need to find the time it takes for Jim to catch up to Bob.
+4) Let's define the variables:
+   - t = time in hours for Jim to catch up to Bob
+   - d = distance Jim travels to catch up to Bob
+5) Since Bob has a 1 mile head-start, the distance Jim needs to travel is 1 mile.
+6) The distance Jim travels in t hours is 9t miles.
+7) The distance Bob travels in t hours is 6t miles.
+8) Since Jim catches up to Bob, the distance traveled by both is the same, so:
+   9t = 6t + 1
+   3t = 1
+   t = 1/3 hours
+9) Converting to minutes:
+   1/3 hours = 20 minutes
+Answer: 20 minutes

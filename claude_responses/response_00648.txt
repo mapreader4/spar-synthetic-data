@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The school band has 30 songs in their repertoire
+* They played 5 songs in the first set and 7 songs in the second set
+* That's a total of 12 songs played so far
+* They will play 2 songs for the encore
+* That leaves 30 - 12 - 2 = 16 songs remaining to be played
+* Since the band will play through their entire repertoire, the remaining 16 songs will be played in the third and fourth sets
+* To find the average number of songs played in the third and fourth sets, we divide the remaining 16 songs by 2 sets
+* 16 songs / 2 sets = 8 songs per set on average
+
+Answer: 8

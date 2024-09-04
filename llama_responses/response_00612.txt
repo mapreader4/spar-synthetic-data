@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of green caps he has. We are given that Ali has 125 bottle caps. We are asked to find the percentage of green caps.
+
+Let's call the number of green caps he has 'G'. Then, we can use the formula to find the percentage of green caps:
+
+G / 125 =?
+
+To find the percentage, we can multiply the number of green caps by 100 and then divide by 125:
+
+G / 125 = 40
+
+So, the percentage of green caps is 40%.
+
+Answer: 40

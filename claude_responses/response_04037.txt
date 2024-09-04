@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Initially, Susan has 21 cats and Bob has 3 cats.
+* Susan gives 4 of her cats to Bob.
+* So, after the transfer, Susan has 21 - 4 = 17 cats.
+* Bob now has 3 + 4 = 7 cats.
+* To find how many more cats Susan has than Bob, we subtract Bob's cats from Susan's cats:
+* 17 - 7 = 10 cats.
+
+Answer: 10

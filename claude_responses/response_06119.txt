@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Peter has 4 horses
+* Each horse eats 4 pounds of oats, twice a day
+* So, each horse eats 4 x 2 = 8 pounds of oats per day
+* Each horse also eats 3 pounds of grain once a day
+* So, each horse eats 3 pounds of grain per day
+* We need to calculate the total food needed for 3 days
+* For oats:
+  - Each horse eats 8 pounds per day
+  - With 4 horses, that's 4 x 8 = 32 pounds per day
+  - For 3 days, that's 32 x 3 = 96 pounds of oats
+* For grain:
+  - Each horse eats 3 pounds per day
+  - With 4 horses, that's 4 x 3 = 12 pounds per day
+  - For 3 days, that's 12 x 3 = 36 pounds of grain
+* The total food needed is the sum of the oats and grain:
+  - 96 pounds of oats + 36 pounds of grain = 132 pounds
+
+Answer: 132

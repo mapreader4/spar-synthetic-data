@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* 40% of the students receive a free lunch
+* This means 60% of the students are paying for their lunch
+* If it costs $210 to feed 50 students, then the cost per student is $210 / 50 = $4.20
+* Since 60% of the students are paying, we need to find the number of paying students
+* 60% of 50 students = 0.6 * 50 = 30 paying students
+* The total amount paid by the 30 paying students is 30 * $4.20 = $126
+
+Answer: $4.20

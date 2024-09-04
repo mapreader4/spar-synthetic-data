@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the distance Lou runs in one day. Since the track is one-quarter of a mile long, and Lou runs 3 miles a day, the distance he runs is:
+
+3 miles = 3 * 0.25 miles (since 1 mile = 4 quarters of a mile, so 0.25 miles = 1/4 of a mile)
+
+Now, since Rosie runs at twice the speed of her husband, she runs:
+
+2 * 3 miles = 6 miles
+
+Since Rosie runs 6 miles, and the track is 0.25 miles long, she circles the track:
+
+6 miles / 0.25 miles = 24 times
+
+Answer: 24

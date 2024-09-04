@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Bella eats 6 apples a day
+2) In a week, there are 7 days
+3) So in a week, Bella eats 6 apples per day * 7 days = 42 apples
+4) Grace picks a certain number of apples, and Bella consumes a third of that amount
+5) So if Bella consumes a third of Grace's apples, that means Grace picked 3 times as many apples as Bella consumed, which is 3 * 42 = 126 apples
+6) This happens over the course of 1 week
+7) Over 6 weeks, Grace will pick 6 * 126 = 756 apples
+
+Answer: 756 apples

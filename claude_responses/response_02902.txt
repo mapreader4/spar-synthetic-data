@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Dane's two daughters each need to plant 5 flowers, so the initial number of flowers is 2 * 5 = 10 flowers.
+2) As the days passed, the flowers grew into 20 more, so the total number of flowers is now 10 + 20 = 30 flowers.
+3) However, 10 of the flowers died, so the final number of flowers is 30 - 10 = 20 flowers.
+4) Dane's daughters harvested the 20 flowers and split them between 5 different baskets.
+5) To find the number of flowers in each basket, we divide the total number of flowers (20) by the number of baskets (5).
+
+Answer: 4

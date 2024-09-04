@@ -1,0 +1,10 @@
+To solve this problem, I will count the number of insects that are still in the playground.
+
+There are 3 spiders, which are already present.
+There are 12 ants climbing the wall, so I will add 12 to the total number of insects.
+Ming finds 8 ladybugs, but 2 of them fly away, so I will subtract 2 from the total number of ladybugs. That leaves 6 ladybugs.
+Adding all the insects together, I get:
+
+3 (spiders) + 12 (ants) + 6 (ladybugs) = 21
+
+So, the answer is: Answer: 21

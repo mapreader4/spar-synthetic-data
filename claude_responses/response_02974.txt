@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+1. It takes James 2 hours to learn the rules of chess.
+2. It then takes him 49 times that long to get a level of proficiency to start playing in local tournaments.
+   * Time to get proficient = 2 hours x 49 = 98 hours
+3. After that, he devotes his life to chess and spends 100 times as much as the combined time to get proficient to becoming a master.
+   * Combined time to get proficient = 2 hours + 98 hours = 100 hours
+   * Time to become a master = 100 hours x 100 = 10,000 hours
+
+Now, we can calculate the total time James spent:
+* Total time = Time to learn rules + Time to get proficient + Time to become a master
+* Total time = 2 hours + 98 hours + 10,000 hours
+* Total time = 10,100 hours
+
+Answer: 10,100

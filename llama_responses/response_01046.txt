@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by finding out how many flowers Susan had initially. She had 3 dozen roses, which is equal to 3 x 12 = 36 flowers.
+
+She gave half of the flowers to her daughter, which is 36 / 2 = 18 flowers. So, she has 36 - 18 = 18 flowers left.
+
+Then, one-third of the flowers in the vase were wilted. We can find one-third of 18 by dividing it by 3, which is 18 / 3 = 6 wilted flowers.
+
+After removing the wilted flowers, we need to subtract 6 from the total flowers in the vase. So, we have 18 - 6 = 12 flowers left.
+
+Answer: 12

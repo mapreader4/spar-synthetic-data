@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of flowers in each centerpiece. We know that each centerpiece has 8 roses and twice as many orchids as roses, so that is 8 * 2 = 16. So, each centerpiece has 8 + 16 = 24 flowers.
+
+We know that Martha is using 6 centerpieces, and each centerpiece uses 24 flowers. So, the total number of flowers is 6 * 24 = 144. 
+
+We know that each flower costs $15, and the total amount of money Martha wants to spend is $2700. So, we can set up an equation: 144 * 15 = 2700.
+
+To find the number of lilies, we need to divide 2700 by 15, which is 2700 / 15 = 180. 
+
+Answer: 180

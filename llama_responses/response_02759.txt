@@ -1,0 +1,19 @@
+Let's break down Ryan's commute into its components:
+
+1. Biking: 30 minutes
+2. Bus: 30 + 10 = 40 minutes (since it takes 10 minutes longer)
+3. Ride from a friend: 30 - (2/3 * 30) = 30 - 20 = 10 minutes (since his friend cuts off 2/3 of the biking time)
+
+To find the total time spent commuting per day, we add up the time spent for each mode of transportation:
+
+Biking: 30 minutes
+Bus: 40 minutes
+Ride from a friend: 10 minutes
+
+Total time per day: 30 + 40 + 10 = 80 minutes
+
+Since Ryan commutes to work 4 days a week (1 day by bike, 3 days by bus and 1 day by ride from a friend), we multiply the total time per day by 4:
+
+80 minutes/day * 4 days = 320 minutes
+
+Answer: 320

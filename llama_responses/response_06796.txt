@@ -1,0 +1,7 @@
+Let's solve this problem step by step.
+
+There are 35 bottles of milk on the grocery store shelf initially.
+Jason buys 5 bottles of milk, so the number of bottles of milk left is 35 - 5 = 30.
+Then Harry buys 6 more bottles of milk, so the number of bottles of milk left is 30 - 6 = 24.
+
+Answer: 24

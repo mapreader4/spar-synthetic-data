@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Tom swims for 2 hours at a speed of 2 miles per hour.
+   * Distance covered while swimming = 2 hours x 2 miles per hour = 4 miles
+
+2) Tom then runs for half the time (1 hour) at 4 times the speed.
+   * Speed while running = 4 x 2 miles per hour = 8 miles per hour
+   * Distance covered while running = 1 hour x 8 miles per hour = 8 miles
+
+3) The total distance covered is the sum of the distance covered while swimming and the distance covered while running.
+   * Total distance covered = 4 miles + 8 miles = 12 miles
+
+Answer: 12 miles

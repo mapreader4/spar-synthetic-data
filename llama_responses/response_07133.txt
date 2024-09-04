@@ -1,0 +1,15 @@
+Let's start by identifying the number of children the farmer has. Let's call this number x.
+
+Since each bag has 15 apples, and there were 4 children, the total number of apples initially is 4 * 15 = 60.
+
+Now, 2 children ate 4 apples each, so the total number of apples eaten is 2 * 4 = 8.
+
+Another child sold 7 apples, so the total number of apples eaten and sold is 8 + 7 = 15.
+
+The total number of apples left is 60 - 15 = 45.
+
+Since the farmer had 60 apples initially, the number of children is x, we can set up the equation 60 - 45 = x.
+
+Solving for x, we get x = 15.
+
+Answer: 15

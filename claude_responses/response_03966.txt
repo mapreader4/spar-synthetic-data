@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 10 pieces made with silk
+* There are half as many pieces made with cashmere, which means there are 5 pieces made with cashmere
+* The total number of pieces in the latest line is 13
+* To find the number of pieces that use a blend of cashmere and silk, we need to subtract the number of pieces made with only silk and the number of pieces made with only cashmere from the total number of pieces.
+* 13 total pieces - 10 silk pieces - 5 cashmere pieces = 13 - 10 - 5 = -2
+* However, this is not possible, as there cannot be a negative number of blended pieces.
+* Therefore, the number of pieces that use a blend of cashmere and silk must be 0.
+
+Answer: 0

@@ -1,0 +1,17 @@
+Let's start by identifying the variables. Let's call the cost of one little car $x. We know that the cost of the set of Legos is unknown. We know that the total amount of money earned is $45. We know that 3 little cars were sold, and one of them was sold for $5. So, we can set up an equation to solve for the cost of the set of Legos.
+
+The equation would be: 3 * x + 3 * 5 + cost of the set of Legos = 45.
+
+Since we know the cost of one little car is $5, we can substitute that into the equation:
+
+3 * x + 3 * 5 + cost of the set of Legos = 45
+
+Subtracting 3 * 5 from both sides of the equation, we get:
+
+3 * x + cost of the set of Legos = 40
+
+Subtracting 3 from both sides again, we get:
+
+cost of the set of Legos = 40 - 3
+
+Answer: 37

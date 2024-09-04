@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+* There are 5 squirrels
+* They have collected a total of 575 acorns
+* Each squirrel needs 130 acorns to get through the winter
+* To find how many more acorns each squirrel needs to collect, we need to:
+  1. Calculate the total number of acorns needed by all 5 squirrels
+  2. Subtract the total number of acorns collected (575) from the total number of acorns needed
+  3. Divide the remaining acorns by the number of squirrels (5)
+
+Calculations:
+1. Total acorns needed by all 5 squirrels: 5 squirrels x 130 acorns per squirrel = 650 acorns
+2. Remaining acorns needed: 650 acorns - 575 acorns = 75 acorns
+3. Acorns needed per squirrel: 75 acorns / 5 squirrels = 15 acorns
+
+Answer: 15 acorns

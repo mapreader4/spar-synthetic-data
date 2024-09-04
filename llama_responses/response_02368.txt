@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, let's find the average of Clayton's points from the first three games. To do this, we need to add up his points from the first three games and divide by 3.
+
+10 + 14 + 6 = 30
+
+30 / 3 = 10
+
+So, the average of Clayton's points from the first three games is 10.
+
+Since Clayton scored 10 points in the fourth game, which is the average of his points from the first three games, we can add 10 to the total points he scored in the first three games.
+
+30 + 10 = 40
+
+So, Clayton scored a total of 40 points during the first four games.

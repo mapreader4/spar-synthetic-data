@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Jerry was in the pool for 3 minutes.
+
+Elaine stayed in the pool for twice as long as Jerry, so Elaine was in the pool for 2 x 3 = 6 minutes.
+
+George could only stay in the pool for one-third as long as Elaine, so George was in the pool for 1/3 x 6 = 2 minutes.
+
+Kramer, who accidentally locked himself in the bathroom, could not find the pool, so he was not in the pool at all.
+
+To find the combined total of minutes that Jerry and his friends were in the cold water, we add up the minutes each of them was in the pool:
+
+3 (Jerry) + 6 (Elaine) + 2 (George) = 11
+
+Answer: 11

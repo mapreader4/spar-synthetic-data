@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the time Jennifer spends grooming each dog. Since it takes her 20 minutes to groom each dog, and she has 2 dogs, she spends 20 * 2 = 40 minutes grooming each dog.
+
+To find the total time spent grooming all the dogs, we multiply the time spent grooming one dog by the number of dogs, so 40 * 30 = 1200 minutes.
+
+Now, to convert the time from minutes to hours, we divide the total minutes by 60. 1200 ÷ 60 = 20 hours.
+
+So, the answer is: Answer: 20

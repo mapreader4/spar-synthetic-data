@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total number of people on the bus. We know that the total number of boys is 50.
+
+The problem states that Mr. Gordon has taken 2/5 times more girls than boys, so the number of girls is 2/5 * 50 = 20. Therefore, the total number of girls is 20.
+
+The bus has a driver and an assistant, so the total number of people on the bus is the number of boys, the number of girls, the driver, and the assistant. This is 50 + 20 + 2 = 72.
+
+However, the teacher also drives with the students, so we need to add the teacher to the total count. The total number of people on the bus is 72 + 1 = 73.
+
+Answer: 73

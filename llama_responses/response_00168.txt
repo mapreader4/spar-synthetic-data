@@ -1,0 +1,13 @@
+To find the total cost of the order, we need to calculate the cost of each item, then add them up and then apply the 10% discount.
+
+The cost of the 2 quiches is 2 x 15.00 = 30.00.
+The cost of the 6 croissants is 6 x 3.00 = 18.00.
+The cost of the 6 buttermilk biscuits is 6 x 2.00 = 12.00.
+
+The total cost of the items is 30.00 + 18.00 + 12.00 = 60.00.
+
+With a 10% discount of 10% of 60.00 is 10% x 0.10 x 60.00 = 6.00.
+
+The total cost with the discount is 60.00 - 6.00 = 54.00.
+
+Answer: 54.00

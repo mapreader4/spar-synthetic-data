@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jonathan eats 2500 calories every day except for Saturday
+* On Saturday, he consumes an extra 1000 calories
+* He burns 3000 calories every day
+
+To calculate his weekly caloric deficit, we need to find the total number of calories he consumes in a week and subtract the total number of calories he burns in a week.
+
+Calories consumed in a week:
+* Monday-Friday (5 days): 2500 calories per day x 5 days = 12,500 calories
+* Saturday: 2500 + 1000 = 3,500 calories
+* Sunday: 2500 calories
+* Total calories consumed in a week: 12,500 + 3,500 + 2,500 = 18,500 calories
+
+Calories burned in a week:
+* 7 days x 3000 calories per day = 21,000 calories
+
+Caloric deficit:
+* Calories consumed - Calories burned = 18,500 - 21,000 = -2,500 calories
+
+Answer: -2,500

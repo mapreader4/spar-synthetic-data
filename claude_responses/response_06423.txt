@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The basketball team has won 35 out of the 50 games they have played so far.
+* This means they have lost 15 games (50 - 35 = 15).
+* They still have 25 games left to play for the season.
+* We want to find how many of the remaining 25 games they must win so that their percentage of wins in the entire season is 64%.
+* The total number of games they will play in the entire season is 50 + 25 = 75.
+* 64% of 75 games is 0.64 * 75 = 48 wins.
+* They have already won 35 games, so they need to win 48 - 35 = 13 more games out of the remaining 25 games.
+
+Answer: 13

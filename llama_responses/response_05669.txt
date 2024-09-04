@@ -1,0 +1,22 @@
+Let's break down the problem step by step.
+
+1. Jett bought the cow for $600.
+
+2. He spent $20 every day to buy food for the cow. So, after 40 days, he spent a total of $20 * 40 = $800 on food.
+
+3. He used $500 to vaccinate and deworm the cow.
+
+4. After selling the cow for $2500, he got $2500.
+
+5. To find the profit, we subtract the cost of the cow and the cost of food and vaccinations from the selling price.
+
+Cost of cow: $600
+Cost of food: $800
+Cost of vaccinations and deworming: $500
+Total cost: $600 + $800 + $500 = $1400
+
+Profit = Selling price - Total cost
+= $2500 - $1400
+= $1100
+
+Answer: 1100

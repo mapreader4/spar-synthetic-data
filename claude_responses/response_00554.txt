@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 60 individuals total
+* 24 out of 60 individuals like football
+* 50% of those who like football play it
+To find the number of people who play football:
+1) Calculate the percentage of people who like football: 24/60 = 40%
+2) Calculate the number of people who play football: 40% of 24 = 50% of 24 = 12 people
+Now, to find the number of people who play football out of a group of 250:
+* Since 12 out of 60 people play football, we can use a proportion to find the number out of 250:
+* 12/60 = x/250
+* Solving for x, we get x = 50
+Answer: 50

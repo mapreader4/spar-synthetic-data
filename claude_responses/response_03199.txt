@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each sonnet is 14 lines long
+* Horatio's lady fair told him to leave after he read her 7 sonnets
+* The 70 romantic lines he wrote that she never heard were the remaining lines from the sonnets he had written
+
+To find the total number of sonnets Horatio wrote, we need to calculate the total number of lines he wrote and then divide that by the number of lines per sonnet.
+
+The total number of lines he wrote is:
+* 7 sonnets read + 70 lines unread = 7 * 14 + 70 = 148 lines
+
+Now, we divide the total number of lines by the number of lines per sonnet to get the total number of sonnets:
+* 148 lines / 14 lines per sonnet = 10.57 sonnets
+
+Since we can't have a fractional number of sonnets, we round up to the nearest whole number.
+
+Answer: 11 sonnets

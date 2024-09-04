@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+Step 1: Alex has 600 meters of silk in storage.
+Step 2: He gives 20 meters of silk to his friends, so he has 600 - 20 * 5 = 580 meters of silk left.
+
+Step 3: Each dress needs 5 meters of silk. So, to make 1 dress, he needs 5 meters of silk. To find out how many dresses he can make, we can divide the remaining silk by 5: 580 / 5 = 116.
+
+Answer: 116

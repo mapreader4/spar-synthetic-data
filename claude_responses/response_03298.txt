@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Bill has played 200 games of poker and won 63% of them.
+   * This means he has won 63% of 200 games, which is 0.63 * 200 = 126 games.
+   * The number of games he has lost is 200 - 126 = 74 games.
+
+2. Bill now plays 100 more games and loses 43 of them.
+   * This means he has won 100 - 43 = 57 games out of the 100 new games.
+   * The total number of games he has played is now 200 + 100 = 300.
+   * The total number of games he has won is 126 + 57 = 183.
+
+3. To calculate his new win percentage, we divide the total number of games won by the total number of games played:
+   * Win percentage = 183 / 300 = 0.61 or 61%.
+
+Answer: 61%

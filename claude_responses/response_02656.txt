@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) W is tagged with the number 200.
+2) X is tagged with half the number W is tagged with, which is 200/2 = 100.
+3) Y is tagged with the total of X and W's tags, which is 100 + 200 = 300.
+4) Z is tagged with the number 400.
+5) To calculate the total of all the tagged numbers, we add up the values of W, X, Y, and Z:
+200 + 100 + 300 + 400 = 1000.
+
+Answer: 1000

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Tyler weighs 25 pounds more than Sam.
+2) Peter weighs half as much as Tyler.
+3) Peter weighs 65 pounds.
+4) Since Peter weighs half as much as Tyler, we can calculate Tyler's weight:
+   - Tyler's weight = 2 * Peter's weight = 2 * 65 pounds = 130 pounds
+5) Now that we know Tyler's weight, we can calculate Sam's weight:
+   - Tyler's weight = Sam's weight + 25 pounds
+   - 130 pounds = Sam's weight + 25 pounds
+   - Sam's weight = 130 pounds - 25 pounds = 105 pounds
+
+Answer: 105 pounds

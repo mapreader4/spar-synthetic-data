@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many watermelons Jeremy has in total. He buys 30 watermelons initially.
+
+Next, he eats 3 watermelons per week. So, in one week, he will eat 3 * 7 = 21 watermelons. 
+
+Now, he gives 2 watermelons to his dad each week. So, in one week, he gives 2 * 7 = 14 watermelons.
+
+Now, let's subtract the total number of watermelons he eats from the total number of watermelons he has. We have 30 - 21 - 14 = 5 watermelons left.
+
+So, the watermelons will last 5 weeks. 
+
+Answer: 5

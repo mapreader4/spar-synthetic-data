@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Kate has to fill 52 balloons
+* Each balloon holds 5 gallons of air
+* For the first 10 minutes, she can fill the balloons at a rate of 8 gallons of air per minute
+* For the next 5 minutes, she fills them at half that rate, which is 4 gallons of air per minute
+* After that, she fills the rest of the balloons at a rate of 2 gallons of air per minute
+
+First, let's calculate how many gallons of air she can fill in the first 10 minutes:
+* 8 gallons/minute x 10 minutes = 80 gallons
+
+Next, let's calculate how many gallons of air she can fill in the next 5 minutes:
+* 4 gallons/minute x 5 minutes = 20 gallons
+
+Now, let's calculate how many balloons are left to fill after the first 15 minutes:
+* 52 balloons - (80 gallons / 5 gallons per balloon) - (20 gallons / 5 gallons per balloon) = 32 balloons
+
+Finally, let's calculate how long it will take to fill the remaining 32 balloons at a rate of 2 gallons per minute:
+* 32 balloons x 5 gallons per balloon = 160 gallons
+* 160 gallons / 2 gallons per minute = 80 minutes
+
+Therefore, the total time it will take Kate to fill all 52 balloons is:
+* 10 minutes + 5 minutes + 80 minutes = 95 minutes
+
+Answer: 95

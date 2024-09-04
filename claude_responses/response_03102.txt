@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mrs. Gable brought 20 lunches for the 20 students in her class
+* Each lunch bag included a pack of animal crackers with 10 animal crackers
+* 2 students did not eat their animal crackers
+
+First, we need to calculate the total number of animal crackers that were brought:
+* 20 lunch bags x 10 animal crackers per pack = 200 animal crackers
+
+Next, we need to subtract the number of animal crackers that were not eaten:
+* 2 students did not eat their animal crackers, so 2 x 10 = 20 animal crackers were not eaten
+
+Finally, we can calculate the total number of animal crackers that were eaten:
+* 200 animal crackers - 20 animal crackers not eaten = 180 animal crackers eaten
+
+Answer: 180

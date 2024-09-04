@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of hens, which is 3/4 of the total number of chickens. Since 3/4 of 80 chickens is the same as 3/4 * 80, which is 60. So, there are 60 hens.
+
+The problem states that only 1/4 of those 60 hens lay eggs. So, we need to find 1/4 of 60. 1/4 of 60 is the same as 1/4 * 60, which is 15. So, 15 hens lay eggs.
+
+Now, let's find the number of chickens that do not lay eggs. We know that 15 hens lay eggs, and we know that 60 hens are in total. So, the number of chickens that do not lay eggs is the difference between the total number of hens and the number of hens that lay eggs. This is 60 - 15 = 45.
+
+Answer: 45

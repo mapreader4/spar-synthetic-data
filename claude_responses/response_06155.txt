@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The pickup truck can fill 20 eight-gallon water cans in three hours.
+2) Each can is filled three-quarters of its capacity, so each can holds 6 gallons of water (3/4 of 8 gallons).
+3) In total, the 20 cans can hold 20 * 6 = 120 gallons of water.
+4) Now, if each can is filled to full capacity (8 gallons), the total capacity of the 20 cans would be 20 * 8 = 160 gallons.
+5) To find the time it takes to fill 160 gallons, we can use the given information that it takes 3 hours to fill 120 gallons.
+6) The rate of filling is 120 gallons / 3 hours = 40 gallons per hour.
+7) To fill 160 gallons, it would take 160 gallons / 40 gallons per hour = 4 hours.
+8) Now, we need to find how long it would take to fill 25 cans, each with 8 gallons of capacity.
+9) The total capacity of 25 cans is 25 * 8 = 200 gallons.
+10) At the rate of 40 gallons per hour, it would take 200 gallons / 40 gallons per hour = 5 hours.
+
+Answer: 5 hours

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tom reads 10 hours over 5 days
+* He can read 50 pages per hour
+* We need to find how many pages he reads in 7 days, assuming he reads the same amount every day
+
+First, let's calculate how many pages he reads in 5 days:
+* 10 hours of reading over 5 days means he reads 2 hours per day
+* 2 hours per day x 50 pages per hour = 100 pages per day
+* 100 pages per day x 5 days = 500 pages in 5 days
+
+Now, let's calculate how many pages he reads in 7 days:
+* Since he reads the same amount every day, we can assume he reads 100 pages per day
+* 100 pages per day x 7 days = 700 pages in 7 days
+
+Answer: 700

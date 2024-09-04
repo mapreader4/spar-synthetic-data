@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information.
+
+* Rob has 24 baseball cards.
+* One third of Rob's cards are doubles.
+* Jess has 5 times as many doubles as Rob.
+
+Let's identify the number of doubles Rob has. Since one third of Rob's cards are doubles, and Rob has 24 cards, the number of doubles Rob has is 24 / 3 = 8.
+
+Now, let's find the number of doubles Jess has. Jess has 5 times as many doubles as Rob, so Jess has 8 * 5 = 40 doubles.
+
+Answer: 40

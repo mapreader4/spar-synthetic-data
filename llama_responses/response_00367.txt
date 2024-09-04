@@ -1,0 +1,12 @@
+Let's break this down step by step.
+
+Step 1: Determine the total salary of the 10 employees.
+10 employees making $20,000 per year would have a total salary of 10 * $20,000 = $200,000.
+
+Step 2: Determine the portion of Emily's salary that will be used to ensure that her employees make $35,000 per year.
+The total salary of the 10 employees is $200,000. If Emily wants to ensure that her employees make $35,000 per year, then the portion of her salary that will be used for this purpose is the difference between $35,000 and $200,000, which is $200,000 - $35,000 = $165,000.
+
+Step 3: Calculate Emily's new salary.
+Emily's original salary is $1,000,000. She will take $165,000 from her salary to ensure her employees make $35,000 per year, so her new salary will be $1,000,000 - $165,000 = $835,000.
+
+Answer: $835,000.

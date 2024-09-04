@@ -1,0 +1,10 @@
+Let's start by identifying the information given in the problem:
+
+1. Jordan's dog, Max, was born on the same day that Luka turned 4 years old.
+2. Luka is exactly 2 years older than is Aubrey.
+
+From the first statement, we know that Max was born on the day Luka turned 4 years old, so Max is also 4 years old.
+From the second statement, we know that Luka is 2 years older than Aubrey. This means that Aubrey is Luka minus 2 years, so Aubrey is 2 years old.
+Since Aubrey is 8 years old on his birthday, we can subtract 2 years from 8 to get the age of Aubrey when Max was born, which is 6 years old.
+
+Answer: 6

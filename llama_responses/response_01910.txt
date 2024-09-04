@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. Johnson's one hectare cornfield can yield 80 corn every two months, so it can yield 40 corn every month.
+2. The neighbor's two hectare cornfield can yield twice the amount as Johnson's, so it can yield 80 corn every month.
+3. Since both cornfields are harvested every month, we can find the total amount of corn they can harvest in a year by multiplying the amount per hectare per month by the number of months in a year.
+4. Johnson's hectare cornfield can harvest 40 corn per month, and the neighbor's hectare cornfield can harvest 80 corn per month. So, the total amount of corn they can harvest in a year would be:
+40 * 12 = 480 for Johnson and 80 * 12 = 960 for the neighbor.
+5. Adding the total amount of corn, we get 480 + 960 = 1440.
+
+Answer: 1440

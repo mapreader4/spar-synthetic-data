@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+The cost of the appetizer is $9.00.
+
+The cost of their entrees was $20.00 each, so the total cost of the entrees is $20.00 * 2 = $40.00.
+
+The cost of the dessert was $11.00, which is the cost of the shared dessert.
+
+To find the total cost of the meal, we need to add the cost of the appetizer, the cost of the entrees, and the cost of the dessert, and then add the 30% tip.
+
+The total cost of the meal is $9.00 + $40.00 + $11.00 = $60.00.
+
+The 30% tip is 0.30 * $60.00 = $18.00.
+
+The total cost of the meal is $60.00 + $18.00 = $78.00.
+
+Answer: 78

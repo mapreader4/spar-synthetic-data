@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. On Tuesday, Max's mom gave him $8 for a hot dog.
+
+2. On Wednesday, his mom gave him 5 times as much money as she gave him on Tuesday.
+   * Tuesday's amount: $8
+   * Wednesday's amount: 5 x $8 = $40
+
+3. On Thursday, his mom gave him $9 more in money than she gave him on Wednesday.
+   * Wednesday's amount: $40
+   * Thursday's amount: $40 + $9 = $49
+
+4. To find how much more money his mom gave him on Thursday than she gave him on Tuesday, we subtract the Tuesday amount from the Thursday amount:
+   * Thursday amount: $49
+   * Tuesday amount: $8
+   * Difference: $49 - $8 = $41
+
+Answer: $41

@@ -1,0 +1,11 @@
+To find the number of times Keanu has to refill his motorcycle with gasoline, we need to find the total distance of the round trip and divide it by the distance his motorcycle can travel on 8 liters of gasoline.
+
+The total distance of the round trip is 2 times the distance to the destination, which is 2 x 280 = 560 miles.
+
+Keanu's motorcycle consumes 8 liters of gasoline per 40 miles, so to find the number of times he needs to refill his motorcycle, we divide the total distance of the round trip by 40 miles and then multiply the result by 8 liters.
+
+First, we find the distance of the round trip in miles by dividing 560 by 40: 560 ÷ 40 = 14.
+
+Then, we multiply the result by 8 liters to find the number of times Keanu needs to refill his motorcycle with gasoline: 14 x 8 = 112.
+
+Answer: 112

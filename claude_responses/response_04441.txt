@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Two months ago, Wilson had $150 in his bank account.
+* Last month, he deposited $17.
+* After that, he made a withdrawal.
+* This month, he deposited $21 and now has $16 more than what was in his account two months ago.
+
+To find the amount he withdrew last month, we can use the following logic:
+* Two months ago, he had $150.
+* Last month, he deposited $17, so his balance was $150 + $17 = $167.
+* This month, he deposited $21 and now has $16 more than two months ago, so his current balance is $150 + $16 = $166.
+* Therefore, the amount he withdrew last month must have been $167 - $166 = $1.
+
+Answer: $1

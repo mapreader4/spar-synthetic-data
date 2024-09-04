@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find out how much Joe spent on notebooks. Each notebook costs $4, and Joe bought 7 notebooks. So, the total cost of notebooks is:
+
+7 x 4 = 28
+
+So, Joe spent $28 on notebooks.
+
+Next, let's find out how much Joe spent on books. Each book costs $7, and Joe bought 2 books. So, the total cost of books is:
+
+2 x 7 = 14
+
+So, Joe spent $14 on books.
+
+Now, let's find out how much Joe has left. Joe started with $56, and he spent a total of:
+
+28 + 14 = 42
+
+So, Joe has $14 left.
+
+Answer: 14

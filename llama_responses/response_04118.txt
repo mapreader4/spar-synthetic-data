@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the total number of servings in the 3 pies. We know that 3 pies each contain 8 servings, so the total number of servings is 3 x 8 = 24.
+
+Since there are 12 guests, the total number of servings must be divided by the number of guests. To find the number of servings each guest eats, we can divide the total number of servings by the number of guests:
+
+24 servings ÷ 12 guests = 2.
+
+So, each guest eats 2 servings.

@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Bob grew 50 bushels of corn
+* His friend Terry took 8 bushels
+* His friend Jerry took 3 bushels
+* He gave 12 bushels to his friend Linda
+* He gave 21 ears of corn to his neighbor Stacy
+
+First, let's calculate how many ears of corn were in the 50 bushels he grew:
+* 50 bushels x 14 ears per bushel = 700 ears of corn
+
+Now, let's calculate how many ears of corn he gave away:
+* Terry took 8 bushels, which is 8 x 14 = 112 ears
+* Jerry took 3 bushels, which is 3 x 14 = 42 ears
+* Linda took 12 bushels, which is 12 x 14 = 168 ears
+* Stacy took 21 ears
+
+Adding up the total ears of corn given away:
+* 112 + 42 + 168 + 21 = 343 ears
+
+Finally, to calculate the number of ears of corn Bob has left:
+* 700 ears - 343 ears = 357 ears
+
+Answer: 357

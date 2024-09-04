@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+* Let's say your current age is x.
+* Six years ago, your age was x - 6.
+* The problem states that you are three times older than you were six years ago.
+* So, your current age (x) is three times your age six years ago (x - 6).
+* We can write this as an equation: x = 3(x - 6)
+* Solving for x:
+* x = 3x - 18
+* -2x = -18
+* x = 9
+* Therefore, your current age is 9 years old.
+
+Answer: 9

@@ -1,0 +1,7 @@
+To find the volume of the box, we need to find the area of the base and multiply it by the height.
+
+The area of the base is the length times the width. Since the length of the box is 3 times its height and 4 times its width, we can write the length of the box as 3x and the width as 4y. So, the area of the base is 3x times 4y, which is 12y.
+
+The volume is the area of the base times the height. So, the volume is 12y times 12, which is 144y.
+
+Answer: 144

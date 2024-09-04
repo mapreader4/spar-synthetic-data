@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's start by finding the number of face-masks Manolo makes in the first hour. Since he can make face-masks at the rate of one every four minutes, we can set up a proportion to represent the number of face-masks he makes in one hour.
+
+Let's set up the proportion: 1 face-mask per 4 minutes = x face-masks per 60 minutes.
+
+Now, to find the number of face-masks Manolo makes in the first hour, we can multiply the proportion by 60 minutes, since there are 60 minutes in an hour.
+
+1 face-mask per 4 minutes * 15 = x face-masks per 60 minutes
+
+x = 15
+
+So, Manolo makes 15 face-masks in the first hour.
+
+Now, we know that Manolo can make face-masks at the rate of one every six minutes after the first hour. So, we need to find the number of face-masks he makes in the remaining three hours.
+
+Since he makes 15 face-masks in the first hour, and he makes one every six minutes, we can find the number of face-masks he makes in three hours by multiplying the 15 face-masks by the number of 6-minute intervals in three hours.
+
+15 face-masks * 60 / 6 = 25
+
+25 face-masks in three hours.
+
+Now, we add the number of face-masks Manolo makes in the first hour to the number of face-masks he makes in the remaining three hours.
+
+15 + 25 = 40
+
+Answer: 40

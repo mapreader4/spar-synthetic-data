@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. The truck's gas mileage is 3 miles per gallon, and the distance to the cheaper gas station is 90 miles. We know that the truck driver already has 12 gallons of gas in his tank.
+
+We can use the formula distance = rate * time to find the time it takes to travel the distance. We can set this up as an equation: 
+
+distance = rate * time
+
+distance = 90 miles = 3 * time
+
+We know the distance, so we can solve for the time:
+
+time = distance / rate
+
+time = 90 miles / 3
+
+time = 30 hours
+
+Now, we know the time it takes to travel the distance, and we know the truck driver has 12 gallons of gas. We can find the number of gallons of gas needed to reach the cheaper gas station by subtracting the number of gallons already in the tank from the total gallons needed:
+
+gallons needed = total gallons - gallons already in tank
+
+gallons needed = 12 - (12 / 3) * 30
+
+gallons needed = 12 - 40
+
+gallons needed = 12
+
+So, the truck driver needs 12 gallons of gas to reach the cheaper gas station.

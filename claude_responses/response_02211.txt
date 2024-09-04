@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* The trip from Philip's house to the children's school is 2.5 miles
+* The trip to the market is 2 miles
+* Philip makes the round trip to school two times every day for 4 days a week
+   * Round trip to school = 2 * 2.5 miles = 5 miles
+   * Total miles for school trips in a week = 5 miles * 2 trips per day * 4 days = 40 miles
+* Philip makes a round trip to the market once during weekends
+   * Round trip to market = 2 * 2 miles = 4 miles
+
+Now, to calculate the total mileage for a typical week, we add the miles for the school trips and the market trip:
+* Total mileage for a typical week = 40 miles + 4 miles = 44 miles
+
+Answer: 44

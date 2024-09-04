@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate how much money Sally needs to save up for the trip.
+
+To get to Sea World, Sally needs to save up for the following expenses:
+
+1. Parking: $10
+2. Meal pass: $25
+3. Gas: The distance to Sea World is 165 miles, and her car gets 30 miles per gallon of gas. So, the number of gallons of gas she needs is 165 / 30 = 5.5. Since gas costs $3 a gallon, the cost of gas is 5.5 * 3 = $16.5. So, the total cost of gas is $16.5.
+
+The total amount Sally needs to save up is the sum of the costs of these expenses:
+
+$10 + $25 + $16.5 = $51.5
+
+Step 2: Calculate how much more Sally needs to save up.
+
+Sally already has $28 saved. To find out how much more she needs to save up, we subtract the amount she already has from the total amount needed:
+
+$51.5 - $28 = $23.5
+
+Answer: 23.5

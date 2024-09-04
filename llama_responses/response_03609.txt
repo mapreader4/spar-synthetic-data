@@ -1,0 +1,7 @@
+To find the total number of students that the school can accommodate, we need to multiply the number of columns by the number of rows.
+
+The school has 4 columns, which can be thought of as the number of seats in each row. Since there are 10 rows, we multiply the number of columns by the number of rows to get the total number of seats.
+
+4 x 10 = 40
+
+Answer: 40

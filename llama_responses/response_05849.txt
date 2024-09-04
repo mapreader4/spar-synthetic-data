@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total number of hours the show airs per week. Since the show airs from 2:00 pm to 2:30 pm, that is 0.5 hours per day. Since the show airs 5 days a week, the total hours per week is 0.5 * 5 = 2.5 hours.
+
+Step 2: Determine the number of episodes Max watches during the week. Since Max watches every episode during the week, that is 7 episodes.
+
+Step 3: Calculate the total number of hours Max watches. Max watches 7 episodes, each episode is 0.5 hours long, so the total hours he watches is 0.5 * 7 = 3.5 hours.
+
+However, Max misses the Friday episode. So, he watches 6 episodes, not 7.
+
+Step 4: Calculate the total hours Max actually watched. Max watches 3.5 hours, but he misses 0.5 hours. So, the total hours he actually watched is 3.5 - 0.5 = 3 hours.
+
+Answer: 3

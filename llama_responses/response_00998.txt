@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of water that Lydia's pool can hold. Since the pool holds 60 gallons of water, we can set that as our target amount.
+
+Now, let's find the total amount of water that the pool leaks per minute. Since the pool leaks at a rate of 0.1 gallons per minute, we can multiply the rate of leakage by the time in minutes to find the total amount of water leaked.
+
+To do this, we can multiply the rate of leakage (0.1 gallons per minute) by the total time in minutes. Since the question doesn't specify the total time it takes to fill the pool, we can let's assume that the time is unknown. Let's call this unknown time x.
+
+We can set up an equation to represent the total amount of water leaked, which is 0.1x. Since the pool leaks at this rate, the total amount of water leaked will be 0.1x.
+
+Now, let's set up an equation to represent the total amount of water in the pool. Since the pool can hold 60 gallons of water, we can set up the equation as follows:
+
+0.1x = 60 - 0.1x
+
+We can solve for x by subtracting 0.1x from both sides of the equation:
+
+0.1x = 60 - 0.1x
+0.1x - 0.1x = 60
+0.1x = 60
+
+So, the value of x is 600 minutes.

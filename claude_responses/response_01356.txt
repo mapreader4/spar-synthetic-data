@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Johan has a 10-bedroom house, and each room has 8 walls.
+2) He paints 3/5 of the rooms green, which means he paints 2/5 of the rooms purple.
+3) To find the number of rooms he paints purple, we take 2/5 of the total number of rooms, which is 2/5 * 10 = 4 rooms.
+4) Each room has 8 walls, so the total number of walls he paints purple is 4 rooms * 8 walls per room = 32 walls.
+
+Answer: 32

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1. James creates a movie for $2000.
+2. Each DVD costs $6 to make.
+3. He sells the movie for 2.5 times the cost to make, which is 2.5 * $6 = $15 per movie.
+4. He sells 500 movies a day for 5 days a week.
+5. So in one week, he sells 500 * 5 = 2500 movies.
+6. The revenue from selling 2500 movies at $15 each is 2500 * $15 = $37,500 per week.
+7. The cost to make 2500 movies at $6 each is 2500 * $6 = $15,000 per week.
+8. The profit per week is the revenue minus the cost, which is $37,500 - $15,000 = $22,500.
+9. Over 20 weeks, the total profit would be 20 * $22,500 = $450,000.
+
+Answer: $450,000

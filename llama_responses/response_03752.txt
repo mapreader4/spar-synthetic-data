@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Lucca has 100 balls and 10 percent of them are basketballs. So, we can find 10% of 100 by multiplying 100 by 0.1. 100 * 0.1 = 10.
+
+So, Lucca has 10 basketballs.
+
+Step 2: Lucien has 200 balls and 20 percent of them are basketballs. We can find 20% of 200 by multiplying 200 by 0.2. 200 * 0.2 = 40.
+
+So, Lucien has 40 basketballs.
+
+Step 3: To find the total number of basketballs, we add the number of basketballs Lucca has with the number of basketballs Lucien has. 10 + 40 = 50.
+
+Answer: 50

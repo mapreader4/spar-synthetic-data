@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+GiGi cut each mushroom into 4 pieces, so for each mushroom, she got 4 pieces.
+
+Kenny took 38 mushroom pieces and Karla took 42 mushroom pieces.
+
+There were 8 pieces of mushrooms remaining on the cutting board.
+
+To find the total number of mushroom pieces, we add up the pieces taken by Kenny and Karla, and the remaining pieces: 38 + 42 + 8 = 88
+
+Since each mushroom gives us 4 pieces, we can divide the total number of pieces by 4 to find the number of mushrooms: 88 ÷ 4 = 22
+
+So, GiGi cut up 22 mushrooms at the beginning.
+
+Answer: 22

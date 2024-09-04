@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Bella has 10 earrings, which is 25% of Monica's earrings.
+2) To find how many earrings Monica has, we can use the following equation:
+   Bella's earrings = 25% of Monica's earrings
+   10 = 0.25 * Monica's earrings
+   Monica's earrings = 10 / 0.25 = 40 earrings
+3) Monica has twice as many earrings as Rachel.
+   Monica's earrings = 40
+   Rachel's earrings = 40 / 2 = 20 earrings
+4) To find the total number of earrings all the friends have, we add up their individual earrings:
+   Bella's earrings = 10
+   Monica's earrings = 40
+   Rachel's earrings = 20
+   Total earrings = 10 + 40 + 20 = 70
+
+Answer: 70

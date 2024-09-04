@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Xena has a 600 foot head start
+* The dragon can burn Xena if it gets within 120 feet of her
+* Xena runs at 15 feet per second
+* The dragon flies at 30 feet per second
+
+To find how many seconds Xena has to get to the cave, we need to calculate the time it takes for the dragon to catch up to Xena.
+
+The dragon's closing speed is the difference between its speed and Xena's speed:
+* Closing speed = 30 feet/second - 15 feet/second = 15 feet/second
+
+The distance the dragon needs to cover to catch up to Xena is the sum of Xena's head start (600 feet) and the distance the dragon can burn her (120 feet):
+* Total distance = 600 feet + 120 feet = 720 feet
+
+The time it takes for the dragon to catch up to Xena is the total distance divided by the closing speed:
+* Time = 720 feet / 15 feet/second = 48 seconds
+
+Therefore, Xena has 48 seconds to get to the safety of the cave.
+
+Answer: 48

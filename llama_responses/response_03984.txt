@@ -1,0 +1,41 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of money Judson contributed. Let's call this amount "x".
+
+Since Kenny contributed 20% more than Judson, and we know that Judson contributed x, we can set up an equation to represent the situation:
+
+x + 0.2x = Judson's contribution
+
+We can simplify this equation by subtracting x from both sides:
+
+x = Judson's contribution - 0.2x
+
+Now, we know that Camilo contributed $200 more than Kenny. We can set up an equation to represent this:
+
+Camilo's contribution = Kenny's contribution + 200
+
+We can simplify this equation by subtracting Kenny's contribution from both sides:
+
+Camilo's contribution = Kenny's contribution - 200
+
+We know that Kenny contributed 20% of the amount Judson contributed, which is x. So, we can substitute x for Kenny's contribution:
+
+Camilo's contribution = x - 200
+
+Now, we know that the total amount of money Judson and Kenny contributed is the total cost of painting the house. We can add their contributions together:
+
+Total contribution = Judson's contribution + Kenny's contribution
+
+We can simplify this equation by adding x and x:
+
+Total contribution = x + x
+
+We know that Judson contributed $500, so we can substitute this value for x:
+
+Total contribution = 500 + x
+
+We also know that Camilo contributed $200 more than Kenny, so we can substitute 200 for x:
+
+Total contribution = 500 + 200
+
+The total cost of painting the house is the total contribution, which is 700.

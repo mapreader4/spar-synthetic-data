@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Tom got 40 oranges and 70 apples.
+2) He sold 1/4 of the oranges, which means he sold 40 * 1/4 = 10 oranges.
+3) He sold 1/2 of the apples, which means he sold 70 * 1/2 = 35 apples.
+4) So, the number of oranges left is 40 - 10 = 30 oranges.
+5) The number of apples left is 70 - 35 = 35 apples.
+6) The total number of fruits left is 30 oranges + 35 apples = 65 fruits.
+
+Answer: 65

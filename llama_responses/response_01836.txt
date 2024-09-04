@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+First, let's find the total number of candies Billy and Caleb had initially. Billy took 6 candies, and Caleb took 11, so together they had 6 + 11 = 17 candies.
+
+Then, their father gave Billy 8 candies, so Billy now has 6 + 8 = 14 candies. Caleb took 11 candies, and their father gave him 11 candies, so Caleb now has 11 + 11 = 22 candies.
+
+Now, their father gave the rest of the 36 candies to Andy, which is 36 - (14 + 22) = 0 candies.
+
+So, Andy has 9 candies initially, and their father gave him 0 candies, so Andy still has 9 candies.
+
+Now, let's find the difference between the number of candies Andy has and the number of candies Caleb has. Andy has 9 candies, and Caleb has 22 candies. The difference is 22 - 9 = 13.

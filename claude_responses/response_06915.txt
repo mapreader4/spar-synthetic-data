@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Total number of players who signed up: 1000
+* Two-fifths of the players are aged between 25 and 35 years
+* To calculate the number of players aged between 25 and 35 years:
+    - Two-fifths of 1000 = 2/5 * 1000 = 400 players
+* Three-eighths of the players are older than 35 years
+* To calculate the number of players older than 35 years:
+    - Three-eighths of 1000 = 3/8 * 1000 = 375 players
+* Now, to find the number of players younger than 25 years, we need to subtract the number of players aged between 25-35 and the number of players older than 35 from the total number of players:
+    - 1000 - 400 - 375 = 225 players
+
+Answer: 225

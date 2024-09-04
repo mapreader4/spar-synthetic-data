@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Angie's monthly salary is $80
+* She contributes $42 a month for necessities
+* At the end of the month, she had $18 left over
+* To find how much she paid in taxes, we need to subtract her contribution to necessities and the amount she had left over from her total salary
+
+First, let's calculate her total expenses:
+* Contribution to necessities: $42
+* Amount left over: $18
+* Total expenses: $42 + $18 = $60
+
+Now, we can calculate her taxes by subtracting her total expenses from her total salary:
+* Total salary: $80
+* Total expenses: $60
+* Taxes paid: $80 - $60 = $20
+
+Answer: $20

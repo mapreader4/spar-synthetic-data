@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Ali has 7 bills of 5 dollars each
+* So, the total value of the 7 bills of 5 dollars is:
+  * 7 bills x $5 per bill = $35
+* Ali also has 1 bill of 10 dollars
+* To calculate the total amount of money Ali has, we add the value of the 7 bills of 5 dollars and the 1 bill of 10 dollars:
+  * $35 + $10 = $45
+
+Answer: 45

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Jennifer bought 40 cans of milk initially. Mark bought 50 cans. Jennifer bought 6 cans for every 5 cans Mark bought. So, for every 5 cans Mark bought, Jennifer bought 6 cans. So, to find out how many cans Jennifer bought, we need to find out how many groups of 5 cans Mark bought. 
+
+To find the number of groups of 5 cans Mark bought, we can divide the number of cans Mark bought (50) by 5. 
+
+50 ÷ 5 = 10
+
+So, Mark bought 10 groups of 5 cans. And Jennifer bought 6 cans for each group. So, the number of cans Jennifer bought is 6 x 10 = 60. 
+
+Jennifer bought 40 cans initially, and 60 cans after buying with Mark. So, the total number of cans Jennifer brought home is 40 + 60 = 100. 
+
+Answer: 100

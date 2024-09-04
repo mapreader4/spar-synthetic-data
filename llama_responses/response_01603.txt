@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Let's first calculate how many cookies Theo can eat in a day. He can eat 13 cookies, 3 times a day. So, in a day, he can eat 13 * 3 = 39 cookies.
+2. Now, let's calculate how many cookies Theo can eat in a month. A month has 30 days. So, in a month, he can eat 39 * 30 = 1170 cookies.
+3. Finally, let's calculate how many cookies Theo can eat in 3 months. 3 months is equal to 3 * 30 = 90 days. So, in 3 months, he can eat 1170 cookies.
+
+Answer: 1170

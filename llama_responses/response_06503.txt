@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of camels. Since Carla saw 12 zebras and there are half as many camels, we can set up an equation: 12 = 2x, where x is the number of camels. Solving for x, we get x = 6.
+
+Next, we know that there are 4 times as many monkeys as camels, so we can set up another equation: 4x = 6. Solving for x, we get x = 1.5.
+
+Since Carla saw 1.5 times as many monkeys as camels, and there are 2 giraffes, we can set up an equation: 1.5x = 2. Solving for x, we get x = 1.33.
+
+To find the difference between the number of monkeys and giraffes, we subtract 2 from 1.33: 1.33 - 2 = -0.67.
+
+Answer: -1

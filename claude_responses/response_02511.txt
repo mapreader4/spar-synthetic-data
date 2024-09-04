@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* James is charged with 2 counts of arson, each carrying a 6-year sentence
+* So the total arson sentence is 2 * 6 = 12 years
+* The explosives charge has a sentence that is twice as long as the total arson sentence
+* The total arson sentence is 12 years, so the explosives charge sentence is 2 * 12 = 24 years
+* The domestic terrorism charge carries a 20-year sentence
+* To calculate the total sentence, we add up the sentences for each charge:
+* Arson: 12 years
+* Explosives: 24 years
+* Domestic Terrorism: 20 years
+* Total sentence = 12 + 24 + 20 = 56 years
+
+Answer: 56 years

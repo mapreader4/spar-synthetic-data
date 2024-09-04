@@ -1,0 +1,7 @@
+Let's break this problem down step by step. The tallest building is 100 feet tall. The second tallest building is half that tall, so it is 100 / 2 = 50 feet tall. The third tallest building is half as tall as the second, so it is 50 / 2 = 25 feet tall. The fourth tallest building is one-fifth as tall as the third, so it is 25 / 5 = 5 feet tall.
+
+Now, we can add up the heights of the 4 buildings:
+
+100 + 50 + 25 + 5 = 185 feet.
+
+Answer: 185

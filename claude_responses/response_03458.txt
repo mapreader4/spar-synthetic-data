@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jake delivers 234 newspapers a week
+* Miranda delivers twice as many newspapers a week as Jake
+* To find how many newspapers Miranda delivers a week, we multiply Jake's weekly delivery by 2:
+    * 234 newspapers x 2 = 468 newspapers per week for Miranda
+* Now, to find how many more newspapers Miranda delivers than Jake in a month, we need to multiply each of their weekly deliveries by 4 (since there are 4 weeks in a month):
+    * Jake's monthly delivery: 234 newspapers x 4 = 936 newspapers
+    * Miranda's monthly delivery: 468 newspapers x 4 = 1,872 newspapers
+* To find the difference, we subtract Jake's monthly delivery from Miranda's monthly delivery:
+    * 1,872 newspapers - 936 newspapers = 936 more newspapers
+
+Answer: 936

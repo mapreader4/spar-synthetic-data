@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the sprinkler system waters the garden with 4 liters of water in the morning and 6 liters in the evening. That means the total amount of water used in a day is 4 + 6 = 10 liters.
+
+Since the sprinkler system runs twice a day, it will use 10 liters of water twice a day.
+
+To find out how many days it takes the sprinkler system to use 50 liters of water, we can divide the total amount of water it uses (50 liters) by the amount of water it uses in a day (10 liters).
+
+50 ÷ 10 = 5
+
+Answer: 5

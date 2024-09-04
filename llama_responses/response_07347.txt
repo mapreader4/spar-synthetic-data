@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total number of hours of the short show. The short show is 30 minutes per episode, and there are 24 episodes, so the total number of hours of the short show is 24 x 0.5 = 12 hours.
+
+The long show is 1 hour per episode, and there are 12 episodes, so the total number of hours of the long show is 1 x 12 = 12 hours.
+
+The total number of hours of TV Tim watched is the sum of the short show and the long show, which is 12 + 12 = 24 hours.
+
+Answer: 24

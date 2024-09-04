@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given: Jill's basket can hold twice as much as Jack's basket when both are full. This means that if Jack's basket is full with 12 apples, Jill's basket can hold 2 x 12 = 24 apples when it is full.
+
+Since Jack's basket is full with 12 apples and currently has space for 4 more, it means that it has 12 - 4 = 8 apples in it right now.
+
+Since Jill's basket can hold twice as much as Jack's basket, we can multiply the number of apples in Jack's basket by 2 to find the number of apples that can fit into Jill's basket. So, we multiply 8 by 2, which gives us 16.
+
+Answer: 16

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* George wants to borrow $100 from a loan shark
+* The finance fee starts at 5% and doubles every week
+* George plans to borrow the money for 2 weeks
+
+Week 1:
+* The finance fee starts at 5% of $100, which is $5
+
+Week 2:
+* The finance fee doubles from the previous week, so it is now 10% of $100, which is $10
+
+Total finance fees:
+* Week 1 fee: $5
+* Week 2 fee: $10
+* Total finance fees = $5 + $10 = $15
+
+Answer: 15

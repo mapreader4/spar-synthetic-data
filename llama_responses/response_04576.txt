@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Carter goes through 5 sets of drum sticks per show. He does this for 30 nights, so he does it 30 times.
+
+To find the total number of sets of drum sticks, we multiply the number of sets per show by the number of shows:
+
+5 sets per show * 30 shows = 150 sets
+
+So, the answer is:
+
+Answer: 150

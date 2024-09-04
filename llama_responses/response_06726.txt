@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. The poem currently has 24 lines.
+2. If the poem has 3 lines added to it every month, then in each month, the poem will have 24 + 3 lines.
+3. This will happen for 90 months, so in 90 months, the poem will have 24 + 90 * 3 lines.
+4. 24 + 90 * 3 = 288.
+
+Answer: 288

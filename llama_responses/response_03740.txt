@@ -1,0 +1,29 @@
+Let's start by using the information given in the problem.
+
+Let's say Grace's age is x.
+
+Since Grace's age is 3/8th the age of her grandmother, we can write an equation to represent this:
+
+x = (3/8) * grandmother's age
+
+We know that Grace's grandmother is 3/8th the age of her mother. So we can write another equation to represent this:
+
+grandmother's age = (3/8) * mother's age
+
+We are given that Grace's mother is 80 years old, so we can substitute this into the equation:
+
+grandmother's age = (3/8) * 80
+
+We can solve for grandmother's age by multiplying 80 by 3/8:
+
+grandmother's age = 80 * 3/8 = 30
+
+Now we can substitute grandmother's age back into the equation to solve for x:
+
+x = (3/8) * grandmother's age
+x = (3/8) * 30
+x = 30
+
+So, the answer is:
+
+Answer: 30

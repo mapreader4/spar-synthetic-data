@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+The company paved 4 miles of road on the first day. Then, they paved one mile less than double that on the second day. This means they paved 4 miles + (2*4 - 1) miles = 7 miles on the second day.
+
+The total distance paved on both days is 4 + 7 = 11 miles. The remaining road is 16 - 11 = 5 miles.
+
+Each mile of road requires 3 truckloads of asphalt. Therefore, the remaining road requires 5 miles * 3 truckloads/mile = 15 truckloads of asphalt.
+
+Each truckload of asphalt uses 5 times as many bags of gravel as it does barrels of pitch. This means for every barrel of pitch, there are 5 bags of gravel. Since each truckload uses 2 bags of gravel, each barrel of pitch is used with 2/5 of a bag of gravel.
+
+The company uses 2 bags of gravel per truckload, so for 15 truckloads, they will need 15 * 2 = 30 bags of gravel. Since each barrel of pitch is used with 2/5 of a bag of gravel, the number of barrels of pitch required is 30 bags / (2/5 bag/barrel) = 30 * (5/2) = 75 barrels.
+
+Answer: 75

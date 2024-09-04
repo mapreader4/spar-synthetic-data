@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's say the entree costs x dollars.
+
+The dessert costs y dollars.
+
+The total cost is 23 dollars.
+
+We know that the entree costs 5 dollars more than the dessert. So, the equation we have is:
+
+x + y = 23
+
+The dessert cost y dollars. So, we know that y = 23 - x.
+
+So, we can write the equation as:
+
+x + (23 - x) = x.
+
+We can subtract x from both sides of the equation to get:
+
+x = 23 - x.
+
+So, the entree costs 11 dollars.

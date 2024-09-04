@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The carpenter has 8 logs that can make 5 woodblocks each, so the total number of woodblocks he can make is 8 * 5 = 40.
+
+The carpenter needs 80 woodblocks in total. So, to find out how many more he needs, we need to subtract 40 from 80.
+
+80 - 40 = 40.
+
+Answer: 40

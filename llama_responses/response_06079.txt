@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that "One-fourth of the curlers are small pink ones." This means that the number of small pink curlers is one-fourth of the total number of curlers. Let's call this number x.
+
+The next piece of information is that "There are twice as many medium blue curlers as there are pink ones." This means that the number of medium blue curlers is twice the number of pink curlers. So, we can write an equation to represent this information: 2x = x.
+
+The last piece of information is that "The rest are large green curlers." This means that the number of large green curlers is the total number of curlers minus the number of small pink curlers and the number of medium blue curlers. We can represent this with the equation x - x - 2x.
+
+Now, we can substitute the expression for the number of small pink curlers (x) into the equation: x - x - 2x = 16 - x - 2x.
+
+We can add x to both sides of the equation to get 2x - 2x = 16 - x.
+
+We can add x to both sides again to get 4x = 16 - x.
+
+Now, we can subtract 4x from both sides of the equation to get 0 = 16 - 4x.
+
+We can subtract 16 from both sides of the equation to get x = 16 - 4x = 12.
+
+So, the answer is: Answer: 12

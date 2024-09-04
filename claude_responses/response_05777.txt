@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* Peter is buying 16 pounds of bone-in chicken
+* He's buying half the amount of chicken in hamburgers
+* So, the amount of hamburgers is 16 / 2 = 8 pounds
+* He's buying 2 more pounds of hot dogs than hamburgers
+* So, the amount of hot dogs is 8 + 2 = 10 pounds
+* The amount of sides is half the amount of hot dogs
+* So, the amount of sides is 10 / 2 = 5 pounds
+
+Now, we can add up all the amounts to get the total pounds of food:
+* 16 pounds of chicken
+* 8 pounds of hamburgers
+* 10 pounds of hot dogs
+* 5 pounds of sides
+* Total = 16 + 8 + 10 + 5 = 39 pounds
+
+Answer: 39

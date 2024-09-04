@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start with the number of novels read in a month. If I read 4 novels with 200 pages each in a month, that means that the total number of pages read in a month is 4 x 200 = 800.
+
+To find the total number of pages read in a year, we need to multiply the number of pages read in a month by 12, since there are 12 months in a year. So, the total number of pages read in a year is 800 x 12 = 9600.
+
+Answer: 9600

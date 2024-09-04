@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) There are 5 geckos on the kitchen window.
+2) Each gecko eats 6 insects.
+3) So the total number of insects eaten by the geckos is:
+   5 geckos x 6 insects per gecko = 30 insects
+4) There are 3 lizards.
+5) Each lizard eats twice as much as each gecko, which is 2 x 6 = 12 insects.
+6) So the total number of insects eaten by the 3 lizards is:
+   3 lizards x 12 insects per lizard = 36 insects
+7) The total number of insects eaten is the sum of the insects eaten by the geckos and the lizards:
+   30 insects + 36 insects = 66 insects
+
+Answer: 66

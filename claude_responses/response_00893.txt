@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* On Monday, Kylie made 10 beaded necklaces
+* Each beaded necklace requires 20 beads
+* So for the 10 beaded necklaces made on Monday, Kylie used 10 * 20 = 200 beads
+* On Tuesday, Kylie made 2 beaded necklaces
+* Each beaded necklace requires 20 beads
+* So for the 2 beaded necklaces made on Tuesday, Kylie used 2 * 20 = 40 beads
+* On Wednesday, Kylie made 5 beaded bracelets
+* Each beaded bracelet requires 10 beads
+* So for the 5 beaded bracelets made on Wednesday, Kylie used 5 * 10 = 50 beads
+* On Wednesday, Kylie also made 7 beaded earrings
+* Each beaded earring requires 5 beads
+* So for the 7 beaded earrings made on Wednesday, Kylie used 7 * 5 = 35 beads
+* To calculate the total number of beads used:
+* 200 + 40 + 50 + 35 = 325 beads
+
+Answer: 325

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. In the first month, Jill makes $10 per day for 30 days.
+   * Total for the first month = $10 x 30 = $300
+
+2. In the second month, Jill makes $20 per day for 30 days.
+   * Total for the second month = $20 x 30 = $600
+
+3. In the third month, Jill makes $20 per day, but only works every other day (15 days).
+   * Total for the third month = $20 x 15 = $300
+
+4. To calculate the total amount Jill made over the three months, we add up the amounts from each month:
+   * Total = $300 + $600 + $300 = $1,200
+
+Answer: $1,200

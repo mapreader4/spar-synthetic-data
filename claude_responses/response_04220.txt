@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each carton contains 5 packs of gum
+* Each pack contains 3 sticks of gum
+* So, each carton contains 5 packs x 3 sticks per pack = 15 sticks of gum
+* Each brown box contains 4 cartons of gum
+* So, each brown box contains 4 cartons x 15 sticks per carton = 60 sticks of gum
+* We are asked how many sticks of gum are in 8 brown boxes
+* So, we need to multiply the number of sticks per brown box (60) by the number of brown boxes (8)
+* 60 sticks per box x 8 boxes = 480 sticks of gum
+
+Answer: 480

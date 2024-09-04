@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Let's first find the total capacity of the benches. There are 50 benches, each with a capacity of 4 people. So, the total capacity is 50 x 4 = 200 people.
+
+On a Sunday afternoon, 80 people were sitting on the benches. So, we need to find the number of people who are not sitting on the benches yet. To do this, we subtract the number of people who are already sitting on the benches from the total capacity of the benches. 200 - 80 = 120.
+
+Answer: 120

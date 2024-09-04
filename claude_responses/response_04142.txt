@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The middle building is 100 feet tall.
+2) The building on the left is 80% of the height of the middle one. So, the height of the building on the left is:
+   80% of 100 feet = 0.8 * 100 = 80 feet
+3) The building on the right is 20 feet shorter than if the building on the left and middle were stacked on top of each other. 
+   The height of the building on the left and middle stacked is 100 + 80 = 180 feet.
+   The height of the building on the right is 180 - 20 = 160 feet.
+4) To calculate the total height, we add the heights of the three buildings:
+   100 feet + 80 feet + 160 feet = 340 feet.
+
+Answer: 340

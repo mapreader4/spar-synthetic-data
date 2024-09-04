@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Gloria wants to buy a mountain cabin that costs $129,000
+* She only has $150 in cash
+* She plans to sell her trees to raise the remaining amount
+* She has:
+  - 20 cypress trees, each worth $100
+  - 600 pine trees, each worth $200
+  - 24 maple trees, each worth $300
+* To calculate the total amount she can raise from selling the trees:
+  - Cypress trees: 20 x $100 = $2,000
+  - Pine trees: 600 x $200 = $120,000
+  - Maple trees: 24 x $300 = $7,200
+  - Total from selling trees: $2,000 + $120,000 + $7,200 = $129,200
+* So the total amount she can raise is $129,200
+* She only needs $129,000 to buy the cabin
+* Therefore, the amount of money Gloria will have left after buying the cabin is:
+  - $129,200 - $129,000 = $200
+
+Answer: $200

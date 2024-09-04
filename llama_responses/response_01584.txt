@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the first segment is 2x minutes long, where x is the length of the second and third segments combined. Since the third segment is half as long as the second, the length of the second segment is 2x/2 = x. Since the first segment is twice as long as the other two segments combined, the length of the second and third segments combined is x. So, the equation is 2x = x + x. We can simplify this equation to get 2x = 2x, which means that x = 2x.
+
+Now, we know that the third segment is 10 minutes long, so we can set up the equation as 10 = x/2. We can solve for x by multiplying both sides by 2 to get 20 = x. Therefore, x = 20.
+
+The entire show is the sum of the three segments, which is 2x + x + 10. Since we know that x = 20, we can plug that value back into the equation to get 2(20) + 20 + 10. The sum is 60.

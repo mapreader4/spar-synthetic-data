@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* In February, Bennett sold twice as many window screens as he did in January.
+* In February, Bennett sold a fourth of what he sold in March.
+* In March, Bennett sold 8800 window screens.
+
+First, let's find out how many screens Bennett sold in February:
+* Since Bennett sold a fourth of what he sold in March, and he sold 8800 screens in March, we can calculate that he sold 8800 / 4 = 2200 screens in February.
+
+Next, let's find out how many screens Bennett sold in January:
+* Since Bennett sold twice as many screens in February as he did in January, we can calculate that he sold 2200 / 2 = 1100 screens in January.
+
+Finally, to find the total number of screens Bennett sold from January to March, we add up the screens sold in each month:
+* January: 1100 screens
+* February: 2200 screens
+* March: 8800 screens
+* Total: 1100 + 2200 + 8800 = 12,100 screens
+
+Answer: 12,100

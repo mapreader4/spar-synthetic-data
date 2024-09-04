@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Gina can paint 6 rose cups per hour
+* Gina can paint 7 lily cups per hour
+* The order is for 6 rose cups and 14 lily cups
+* To calculate the total time it takes Gina to complete the order:
+    - For the 6 rose cups, it will take her 6 / 6 = 1 hour
+    - For the 14 lily cups, it will take her 14 / 7 = 2 hours
+    - Total time = 1 hour + 2 hours = 3 hours
+* Gina gets paid $90 total for the order
+* To calculate her hourly rate:
+    - Hourly rate = Total pay / Total hours
+    - Hourly rate = $90 / 3 hours
+    - Hourly rate = $30 per hour
+
+Answer: 30

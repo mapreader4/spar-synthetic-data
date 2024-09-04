@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each dandelion produces 300 seeds
+* 1/3 of the seeds land in water and die
+* So, 2/3 of the seeds survive this first step
+* 2/3 * 300 = 200 seeds survive
+* 1/6 of the starting number (300) are eaten by insects
+* 1/6 * 300 = 50 seeds are eaten by insects
+* So, 200 - 50 = 150 seeds remain
+* Half of the remaining 150 seeds sprout and are immediately eaten
+* 150 / 2 = 75 seeds sprout and are eaten
+* Therefore, the number of dandelions that survive long enough to flower is the remaining 75 seeds.
+
+Answer: 75

@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Roman initially had $20 worth of gold coins
+* He sold 3 gold coins to Dorothy
+* After the transaction, he had $12
+* To find the number of gold coins Roman has left, we need to calculate the value of the coins he had after the transaction and then divide that by the value of a single gold coin.
+
+The value of the coins he had after the transaction was $12.
+We know that he initially had $20 worth of gold coins.
+So, the value of the coins he had after the transaction was $20 - the value of the 3 coins he sold.
+The value of 3 gold coins is 3 * the value of a single gold coin.
+So, the value of the coins he had after the transaction was $20 - 3 * the value of a single gold coin.
+
+Now, we know that the value of the coins he had after the transaction was $12, so we can set up an equation:
+$12 = $20 - 3 * the value of a single gold coin
+Solving for the value of a single gold coin, we get:
+the value of a single gold coin = ($20 - $12) / 3 = $8 / 3 = $2.67
+
+So, the value of a single gold coin is $2.67.
+Now, we can calculate the number of gold coins Roman has left by dividing the $12 he has left by the value of a single gold coin:
+$12 / $2.67 = 4.5 gold coins
+
+Since we can't have a fractional number of gold coins, we round down to the nearest integer.
+
+Answer: 4 gold coins

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jenny brought in 40 peanut butter cookies and 50 chocolate chip cookies
+* Marcus brought in 30 peanut butter cookies and 20 lemon cookies
+* In total, there are:
+    - 40 + 30 = 70 peanut butter cookies
+    - 50 chocolate chip cookies
+    - 20 lemon cookies
+* Renee, who is allergic to peanuts, is picking a cookie at random
+* The total number of cookies is 70 + 50 + 20 = 140
+* The number of cookies Renee could have an allergic reaction to is 70 (the peanut butter cookies)
+* The probability of Renee having an allergic reaction is 70/140 = 0.5
+* To express this as a percentage, we multiply by 100:
+* 0.5 * 100 = 50%
+
+Answer: 50%

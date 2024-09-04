@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) We know that 4 pugs can clean the house in 45 minutes.
+2) This means that the rate at which the 4 pugs can clean the house is 4 / 45 = 1/11.25 pugs per minute.
+3) Now, we want to know how long it will take 15 pugs to clean the house.
+4) The rate at which the 15 pugs can clean the house is 15 times the rate of 4 pugs, which is 15 * 1/11.25 = 15/11.25 = 4/3.75 pugs per minute.
+5) To find the time it will take 15 pugs to clean the house, we divide the number of pugs (15) by the rate (4/3.75) pugs per minute.
+6) 15 / (4/3.75) = 15 * 3.75/4 = 14.0625 minutes.
+
+Answer: 14 minutes.

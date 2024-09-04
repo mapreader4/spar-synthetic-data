@@ -1,0 +1,15 @@
+To find the total number of hours used by the fan in a month, we multiply the number of hours used per day by the number of days in a month.
+
+The number of days in a month is 30, and the number of hours used per day is 8, so the total number of hours used in a month is:
+
+8 hours per day x 30 days = 240 hours
+
+The wattage of the fan is 75 watts. To find the total amount of energy consumed in a month, we multiply the wattage by the total number of hours used:
+
+75 watts x 240 hours = 18,000 watt-hours
+
+Since 1 kilowatt-hour (kWh) is equal to 1000 watt-hours, we can convert the total energy consumed from watt-hours to kilowatt-hours:
+
+18,000 watt-hours / 1000 = 18 kWh
+
+Answer: 18

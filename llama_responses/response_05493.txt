@@ -1,0 +1,15 @@
+Let's start by identifying the variables. Let's say Christina's current age is x. Since Christina's age will be half of 80 in 5 years, her age in 5 years will be 80/2 = 40.
+
+Since Oscar's age will be 3/5 times as old as Christina in 15 years, Oscar's age in 15 years will be 3/5 * 15 = 9 times Christina's current age. So, Oscar's age now is 9/5 times Christina's current age.
+
+To find Christina's current age, we can set up an equation. 9/5 * x = x + 15 - 9. We can solve this equation to find Christina's current age.
+
+9/5 * x = x + 15 - 9
+9/5 * x = x - 9/5
+x = 9/5 * 5 = 15 - 9
+x = 9
+x = 9
+
+So, Christina is currently 9 years old.
+
+Answer: 9

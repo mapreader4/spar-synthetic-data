@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of games Tara's dad attended in her first year playing soccer. We know that Tara's dad attended 90% of the games she played. So, if Tara played 20 games, Tara's dad attended 0.9 * 20 = 18 games in her first year playing soccer.
+
+Now, we know that Tara's dad attended 4 fewer games in her second year. So, if he attended 18 games in her first year, he attended 18 - 4 = 14 games in her second year.
+
+Answer: 14

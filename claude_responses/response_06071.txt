@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The pizza has 8 slices
+* Each slice is 300 calories
+* Bob eats half of the pizza
+
+To calculate the total calories Bob ate, we need to:
+1. Calculate the total calories in the entire pizza:
+   * 8 slices x 300 calories per slice = 2,400 total calories in the pizza
+2. Calculate how many slices Bob ate:
+   * Bob ate half of the pizza, so he ate 4 slices (half of 8 slices)
+3. Calculate the total calories Bob ate:
+   * 4 slices x 300 calories per slice = 1,200 calories
+
+Answer: 1,200

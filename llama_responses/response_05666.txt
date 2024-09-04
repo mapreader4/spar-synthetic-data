@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that Steve has a total of 70 cents, which is the sum of the value of the nickels and dimes he is holding. We also know that he has 4 more dimes than nickels. Let's use a variable, let's say x, to represent the number of nickels he is holding.
+
+We can set up an equation to represent the problem: x + 5x = 70. This is because each nickel is 5 cents, so the value of the nickels is 5x. We can solve for x by subtracting 5 from both sides of the equation: x + 5x = 70 - 5x = 70 - 5 = 65. This means x = 13. Since Steve has 4 more dimes than nickels, we can subtract 4 from 13 to find the number of dimes he is holding: 13 - 4 = 9. Therefore, Steve is holding 9 dimes.
+
+Now, we can conclude that Steve is holding 13 nickels.

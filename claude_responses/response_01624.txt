@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* A kilogram of pork costs $6
+* A kilogram of chicken costs $2 less than a kilogram of pork
+* So, a kilogram of chicken costs $6 - $2 = $4
+* We need to find the cost of 3 kilograms of chicken and 1 kilogram of pork
+* 3 kilograms of chicken at $4 per kilogram costs 3 * $4 = $12
+* 1 kilogram of pork at $6 per kilogram costs $6
+* The total cost is $12 + $6 = $18
+
+Answer: 18

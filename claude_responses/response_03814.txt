@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* On Monday, Andre caught 8 ladybugs
+* On Tuesday, Andre caught 5 ladybugs
+* Each ladybug has 6 dots
+* To find the total number of dots, we need to:
+  1. Calculate the total number of ladybugs caught
+  2. Multiply the total number of ladybugs by the number of dots per ladybug
+
+Step 1: Calculate the total number of ladybugs caught
+* Monday: 8 ladybugs
+* Tuesday: 5 ladybugs
+* Total ladybugs caught = 8 + 5 = 13 ladybugs
+
+Step 2: Multiply the total number of ladybugs by the number of dots per ladybug
+* Each ladybug has 6 dots
+* Total dots = 13 ladybugs x 6 dots/ladybug = 78 dots
+
+Answer: 78

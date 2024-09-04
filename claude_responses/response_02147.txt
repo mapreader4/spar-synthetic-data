@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) There are 10 more newborn elephants than baby hippos.
+2) The entire herd starts with 20 elephants and 35 hippos.
+3) The female hippos, whose number is 5/7 of the total number of hippos, give birth to 5 new baby hippos each.
+
+First, let's find the number of female hippos:
+* 5/7 of the total number of hippos = 5/7 * 35 = 25 female hippos
+
+Now, each female hippo gives birth to 5 new baby hippos, so the total number of new baby hippos is:
+* 25 female hippos * 5 new baby hippos each = 125 new baby hippos
+
+Since there are 10 more newborn elephants than baby hippos, the number of newborn elephants is:
+* 125 new baby hippos + 10 = 135 newborn elephants
+
+Now, we can calculate the total number of animals in the herd:
+* 20 elephants + 135 newborn elephants + 35 hippos + 125 new baby hippos = 315 animals
+
+Answer: 315

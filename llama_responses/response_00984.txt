@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of koalas. We know that each koala has 5 kangaroos. So, if we multiply the number of koalas by the number of kangaroos per koala, we can find the total number of kangaroos.
+
+The number of koalas is given as 180, so we can multiply this by the number of kangaroos per koala, which is 5:
+
+180 * 5 = 900
+
+So, there are 900 kangaroos.
+
+Now, to find the total number of koalas and kangaroos, we can add the number of koalas to the number of kangaroos:
+
+180 (koalas) + 900 (kangaroos) = 1080
+
+Answer: 1080

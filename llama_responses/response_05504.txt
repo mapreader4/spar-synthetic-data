@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Thomas starts with 200 books and sells them for $1.5 each. To find out how much money he makes, we can multiply 200 by 1.5.
+
+200 * 1.5 = 300
+
+Thomas makes 300 dollars.
+
+Next, he uses this money to buy records. Each record costs $3, so to find out how many records he can buy, we can divide 300 by 3.
+
+300 ÷ 3 = 100
+
+Thomas can buy 100 records.
+
+Finally, to find out how much money he has left over, we subtract the cost of the records from the money he made.
+
+300 - (100 * 3) = 200
+
+Thomas has 200 dollars left over.

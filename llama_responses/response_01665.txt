@@ -1,0 +1,3 @@
+Let's break this problem down step by step.
+
+Jamie had 16 red balls initially. Then, he had 2 times more blue balls, which means he had 16 + 2 = 18 balls. After losing 6 of the red balls, he had 16 - 6 = 10 red balls left. He bought some yellow balls to fill up his collection, and we are told that he now has 74 balls in total. We know that the number of red balls plus the number of blue balls equals the total number of balls, so we can set up the equation 10 + 18 = 28. The question asks how many yellow balls he bought, so we can subtract the number of red balls from the total number of balls to find the number of yellow balls. 74 - 28 = 46. So, the answer is that Jamie bought 46 yellow balls.

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first identify the number of decorations in one box. There are 4 pieces of tinsel, 1 Christmas tree, and 5 snow globes in one box, so the total number of decorations in one box is 4 + 1 + 5 = 10.
+
+Next, we know that 11 families receive a box of decorations, and another box is given to the community center. So, the total number of decorations given out is the total number of decorations in one box times the number of boxes given out, which is 10 * 2 = 20.
+
+So, the total number of decorations handed out is 20.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Building A has 4 floors
+* Building B has 9 more floors than Building A
+* So, Building B has 4 + 9 = 13 floors
+* Building C has six less than five times as many floors as Building B
+* Five times as many floors as Building B is 5 * 13 = 65
+* Building C has six less than 65, which is 65 - 6 = 59 floors
+
+Answer: 59

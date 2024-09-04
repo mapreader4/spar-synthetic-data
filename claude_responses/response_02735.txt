@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+In the first week, Bob worked 44 hours.
+* The first 40 hours are considered regular hours, and he gets paid $5 per hour for those.
+* The remaining 4 hours are considered overtime hours, and he gets paid $6 per hour for those.
+
+So, for the first week:
+* Regular hours: 40 hours x $5 per hour = $200
+* Overtime hours: 4 hours x $6 per hour = $24
+* Total for the first week: $200 + $24 = $224
+
+In the second week, Bob worked 48 hours.
+* The first 40 hours are considered regular hours, and he gets paid $5 per hour for those.
+* The remaining 8 hours are considered overtime hours, and he gets paid $6 per hour for those.
+
+So, for the second week:
+* Regular hours: 40 hours x $5 per hour = $200
+* Overtime hours: 8 hours x $6 per hour = $48
+* Total for the second week: $200 + $48 = $248
+
+Now, to calculate the total amount Bob made:
+* Total for the first week: $224
+* Total for the second week: $248
+* Total amount Bob made: $224 + $248 = $472
+
+Answer: $472

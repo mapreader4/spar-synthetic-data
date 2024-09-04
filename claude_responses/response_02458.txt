@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Robert's basic salary is $1250 per month.
+2. He earns a 10% commission on his monthly sales.
+3. Last month, his total sales were $23600.
+4. To calculate his commission, we take 10% of his total sales:
+   * Commission = 10% of $23600 = 0.10 * $23600 = $2360
+5. His total earnings for the month are his basic salary plus his commission:
+   * Total Earnings = $1250 + $2360 = $3610
+6. He allocated 20% of his total earnings to savings:
+   * Savings = 20% of $3610 = 0.20 * $3610 = $722
+7. The rest of his money goes to his monthly expenses:
+   * Monthly Expenses = Total Earnings - Savings
+   * Monthly Expenses = $3610 - $722 = $2888
+
+Answer: $2888

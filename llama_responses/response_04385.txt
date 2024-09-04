@@ -1,0 +1,11 @@
+To make a yellow score mixture, Taylor has to combine white and black scores in the ratio of 7:6. This means that for every 7 white scores, she uses 6 black scores. 
+
+Let's denote the number of white scores as W and the number of black scores as B. We know that the total number of scores is 78, and the ratio of white to black is 7:6, so we can write the equation:
+
+W + B = 78
+
+We know that for every 7 white scores, Taylor uses 6 black scores, so the difference between the number of white and black scores is 7 - 6 = 1. To find 2/3 of this difference, we multiply it by 3:
+
+2/3 × (7 - 6) = 2/3 × 1 = 2/3
+
+Answer: 2

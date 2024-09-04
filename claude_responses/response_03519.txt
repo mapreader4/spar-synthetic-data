@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* A box of ice cream bars costs $7.50 and contains 3 bars
+* 6 friends want to each eat 2 bars
+* To calculate the total number of bars needed:
+  * 6 friends x 2 bars each = 12 bars
+* To calculate the number of boxes needed:
+  * 12 bars / 3 bars per box = 4 boxes
+* To calculate the total cost:
+  * 4 boxes x $7.50 per box = $30.00
+* To calculate the cost per person:
+  * $30.00 / 6 friends = $5.00 per person
+
+Answer: $5

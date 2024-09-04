@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jerry is paid $40 per task
+* Each task takes him 2 hours to complete
+* He works 10 hours a day
+* He works for a whole week (7 days)
+
+First, let's calculate how many tasks he can complete in a day:
+* 10 hours of work per day / 2 hours per task = 5 tasks per day
+
+Next, let's calculate how many tasks he can complete in a week:
+* 5 tasks per day x 7 days = 35 tasks per week
+
+Finally, let's calculate the total amount of money he would earn:
+* 35 tasks per week x $40 per task = $1,400
+
+Answer: $1,400

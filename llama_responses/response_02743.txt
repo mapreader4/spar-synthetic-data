@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total amount of money that the store would have made if they sold all 2000 items at the normal price of $50 each:
+
+2000 items x $50 per item = $100,000
+
+Next, let's calculate the amount of money they would have made with the 80% discount:
+
+$100,000 x 0.8 = $80,000
+
+Now, let's calculate the amount of money they actually made, since they sold 90% of the items:
+
+$80,000 x 0.9 = $72,000
+
+The store owes $15,000 to their creditors, so we subtract that from the amount they made:
+
+$72,000 - $15,000 = $57,000
+
+Therefore, the store has $57,000 left after the sale.
+
+Answer: 57,000

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Kim originally takes 4 classes
+* Each class lasts 2 hours
+* So the total hours of classes per day is:
+    - 4 classes x 2 hours per class = 8 hours
+* Kim then drops 1 class
+* So the new total hours of classes per day is:
+    - 3 classes x 2 hours per class = 6 hours
+
+Answer: 6 hours

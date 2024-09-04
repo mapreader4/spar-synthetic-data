@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The minimum weight of a robot is 5 pounds.
+* The maximum weight of a robot is twice the minimum weight, which is 5 x 2 = 10 pounds.
+* The maximum weight is no less than the standard robot, which is 100 pounds.
+
+Let's combine the two conditions:
+
+* The maximum weight is no less than 100 pounds.
+* The maximum weight of a robot is 10 pounds.
+
+Now, let's combine these conditions. We can say that the maximum weight of a robot in the competition is 100 pounds.

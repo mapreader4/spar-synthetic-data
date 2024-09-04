@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The ratio of Oreos to cookies in the box is 4:9.
+2) The total number of items in the box is 65.
+3) To find the number of Oreos, we can use the ratio:
+   * Let x be the number of Oreos
+   * Then the number of cookies is 9/4 * x
+   * The total number of items is x + 9/4 * x = 65
+   * Solving for x, we get x = 20
+4) The number of cookies is 9/4 * 20 = 45
+5) Zane bought each Oreo at $2 and each cookie at $3.
+6) The total cost of the Oreos is 20 * $2 = $40.
+7) The total cost of the cookies is 45 * $3 = $135.
+8) The difference between the cost of the cookies and the cost of the Oreos is $135 - $40 = $95.
+
+Answer: 95

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Pauline has a total of 125 matchbox cars
+* 64% of them are regular cars
+* 8% of them are trucks
+* To find the number of convertibles, we need to subtract the number of regular cars and trucks from the total number of cars
+
+First, let's find the number of regular cars:
+* 64% of 125 = 0.64 * 125 = 80 regular cars
+
+Next, let's find the number of trucks:
+* 8% of 125 = 0.08 * 125 = 10 trucks
+
+Now, we can find the number of convertibles by subtracting the regular cars and trucks from the total:
+* 125 - 80 - 10 = 35 convertibles
+
+Answer: 35

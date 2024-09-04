@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Dimitri eats 3 burgers per day
+* Each burger has 20 calories
+* We want to find the total calories he will get after two days
+
+First, let's calculate the calories he will get in one day:
+* 3 burgers per day x 20 calories per burger = 60 calories per day
+
+Now, to find the total calories after two days, we multiply the calories per day by the number of days:
+* 60 calories per day x 2 days = 120 calories
+
+Answer: 120

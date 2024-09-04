@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Pete has 10 marbles initially. 40% of those are blue, which is 0.4 x 10 = 4 blue marbles. The rest are red, so the number of red marbles is 10 - 4 = 6.
+
+Pete's friend will trade 2 blue marbles for every red marble, so Pete will give away 2 blue marbles for each of the 6 red marbles. So, Pete will give away a total of 2 x 6 = 12 blue marbles.
+
+After giving away 12 blue marbles, Pete will have 4 blue marbles left. He will keep 1 red marble, which is the same as before.
+
+So, Pete will have a total of 4 + 1 = 5 marbles after trading with his friend.
+
+Answer: 5

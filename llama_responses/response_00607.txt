@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how many tokens Sandy has left after keeping half of them to herself. Half of 1 million is 0.5 million. So, Sandy will keep 0.5 million tokens to herself.
+
+Now, let's find out how many tokens Sandy has left. 1 million - 0.5 million is 0.5 million. So, Sandy has 0.5 million tokens left.
+
+Now, she wants to divide the remaining tokens among her 4 siblings. To do this, we need to find out how many tokens each of her siblings will get. To do this, we divide 0.5 million tokens by 4. 0.5 million / 4 = 0.125 million.
+
+So, Sandy has 0.125 million tokens left, and each of her siblings will get 0.125 million tokens. Sandy will have 0.125 million tokens more than any of her siblings.

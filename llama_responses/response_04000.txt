@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, let's find the distance Jenny's bottle cap travels.
+
+Jenny's bottle cap flies 18 feet straight, then bounces off a street light and flies another 1/3 of the distance it already went.
+
+The distance it already went is 18 feet, and 1/3 of 18 is 6 feet, so Jenny's bottle cap flies another 6 feet.
+
+So, the total distance Jenny's bottle cap travels is 18 + 6 = 24 feet.
+
+Next, let's find the distance Mark's bottle cap travels.
+
+Mark's bottle cap flies 15 feet forward, then bounces off a window and flies twice as far as it already did.
+
+Mark's bottle cap flies 15 feet forward, and twice as far is 2 x 15 = 30 feet.
+
+So, the total distance Mark's bottle cap travels is 15 + 30 = 45 feet.
+
+To find out how much further Mark's bottle cap goes than Jenny's, we subtract the distance Jenny's bottle cap travels from the distance Mark's bottle cap travels.
+
+Mark's bottle cap travels 45 feet, and Jenny's bottle cap travels 24 feet. The difference is 45 - 24 = 21 feet.
+
+So, Mark's bottle cap goes 21 feet further than Jenny's.
+
+Answer: 21

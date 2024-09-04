@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The weight vest initially weighed 60 pounds.
+2) Thomas wants to increase the weight by 60%.
+3) 60% of 60 pounds is 0.6 * 60 = 36 pounds.
+4) So the new total weight he wants is 60 pounds + 36 pounds = 96 pounds.
+5) The weights come in 2-pound steel ingots, so he needs 96 / 2 = 48 ingots.
+6) Each ingot costs $5.
+7) If he buys more than 10 ingots, he gets a 20% discount.
+8) 48 ingots is more than 10, so he gets the 20% discount.
+9) The total cost without the discount would be 48 * $5 = $240.
+10) With the 20% discount, the total cost is $240 * 0.8 = $192.
+
+Answer: $192

@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+* Tobias sold 2 red tractors and 3 green tractors this week
+* He gets paid 10% of the sales price for each red tractor he sells
+* He gets paid 20% of the sales price for each green tractor he sells
+* The price of a single red tractor is $20,000
+* Tobias's total salary this week was $7,000
+
+To find the full price of a single green tractor, we can use the following information:
+* Tobias's total salary this week was $7,000
+* He gets paid 10% of the sales price for each red tractor he sells
+* He gets paid 20% of the sales price for each green tractor he sells
+
+First, let's calculate how much Tobias earned from selling the red tractors:
+* 2 red tractors sold
+* Each red tractor costs $20,000
+* Tobias gets 10% of the sales price for each red tractor
+* So, Tobias earned 2 * $20,000 * 0.10 = $4,000 from the red tractors
+
+Now, let's calculate how much Tobias earned from selling the green tractors:
+* 3 green tractors sold
+* Tobias gets 20% of the sales price for each green tractor
+* We don't know the full price of a single green tractor yet, so let's call it x
+* So, Tobias earned 3 * x * 0.20 = $3,000 from the green tractors
+
+We know that Tobias's total salary this week was $7,000, so:
+* $4,000 (from red tractors) + $3,000 (from green tractors) = $7,000
+* Solving for x, we get: 3x * 0.20 = $3,000
+* x = $50,000
+
+Answer: $50,000

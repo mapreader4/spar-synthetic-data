@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jason bought 4 dozen cupcakes
+* 1 dozen = 12 cupcakes
+* So, 4 dozen cupcakes = 4 x 12 = 48 cupcakes
+* Jason plans to give 3 cupcakes to each of his cousins
+* To find the number of cousins, we need to divide the total number of cupcakes (48) by the number of cupcakes given to each cousin (3)
+* 48 cupcakes / 3 cupcakes per cousin = 16 cousins
+
+Answer: 16

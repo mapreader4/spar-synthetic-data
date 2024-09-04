@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) We harvested 405 kg of apples.
+2) 90 kg were used to make fruit juice.
+3) 60 kg were given to a restaurant.
+4) The remaining apples were sold in 5 kg bags.
+5) The sale of the bags brought in $408.
+6) To find the number of bags sold, we take the remaining apples (405 - 90 - 60 = 255 kg) and divide by 5 kg per bag:
+255 kg / 5 kg per bag = 51 bags
+7) The selling price per bag is the total revenue ($408) divided by the number of bags sold (51):
+$408 / 51 bags = $8 per bag
+
+Answer: $8

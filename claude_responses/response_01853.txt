@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* Shenny is planning to use the same shirt when departing on Monday and returning on Sunday.
+* For the other days (Tuesday, Wednesday, Thursday, Friday, Saturday), she plans to use two different shirts each day.
+* So, for the 5 days in between Monday and Sunday, she needs 10 shirts (2 shirts per day).
+* Plus, she needs 1 shirt for the day of departure (Monday) and 1 shirt for the day of return (Sunday).
+* Therefore, the total number of shirts Shenny should pack is:
+Answer: 12

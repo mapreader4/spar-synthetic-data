@@ -1,0 +1,20 @@
+Let's break this down step by step.
+
+On Friday, Hank started with an unknown number of bicycles. He sold 10 bicycles, so he had fewer bicycles. Then, he bought 15 more, so now he has more bicycles.
+
+On Saturday, he sold 12 bicycles, so he had fewer bicycles. Then, he bought 8 more, so now he has more bicycles.
+
+On Sunday, he sold 9 bicycles, so he had fewer bicycles. Then, he bought 11 more, so now he has more bicycles.
+
+To find the net increase, we need to add up the number of bicycles he bought and subtract the number he sold. Let's do that:
+
+Friday: -10 (bicycles sold) + 15 (bicycles bought) = 5
+Saturday: -12 (bicycles sold) + 8 (bicycles bought) = -4
+Sunday: -9 (bicycles sold) + 11 (bicycles bought) = 2
+
+Adding these up, we get:
+5 - 4 + 2 = 3
+
+So, the net increase in the number of bicycles in stock over the three days is 3.
+
+Answer: 3

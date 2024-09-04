@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+There are 20 lamps with 7 light bulbs each. So, the total number of light bulbs is 20 * 7 = 140.
+
+1/4 of the 140 light bulbs have 2 burnt-out light bulbs each. So, 1/4 * 140 = 35 burnt-out light bulbs.
+
+Now, let's find the total number of working light bulbs. We have 140 - 35 = 105 light bulbs.
+
+Answer: 105

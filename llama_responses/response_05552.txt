@@ -1,0 +1,20 @@
+Let's start by adding the lengths of the first three episodes together to get the total time for the first three episodes:
+
+58 + 62 + 65 = 185
+
+Then, we know that the four episodes last 4 hours, so we can set up an equation to solve for the fourth episode's length:
+
+Total time = 4 hours = 240 minutes
+
+Since we know the total time for the first three episodes, we can set up the equation:
+
+240 = 185 + x
+
+To solve for x, we subtract 185 from both sides:
+
+x = 240 - 185
+x = 55
+
+So, the fourth episode is 55 minutes long.
+
+Answer: 55

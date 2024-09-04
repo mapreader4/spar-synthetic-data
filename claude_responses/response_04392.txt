@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The town has 10 neighborhoods
+* Each neighborhood has 4 roads passing through it
+* Each road has 250 street lights on each opposite side
+
+To calculate the total number of street lights, we need to:
+1. Calculate the total number of street lights on each road
+2. Multiply that by the total number of roads in the town
+3. Multiply that by the total number of neighborhoods in the town
+
+Step 1: Calculate the total number of street lights on each road
+* Each road has 250 street lights on each opposite side
+* So the total number of street lights on each road is 250 + 250 = 500
+
+Step 2: Calculate the total number of roads in the town
+* Each neighborhood has 4 roads
+* There are 10 neighborhoods
+* So the total number of roads is 10 x 4 = 40
+
+Step 3: Calculate the total number of street lights in the town
+* Each road has 500 street lights
+* There are 40 roads in total
+* So the total number of street lights is 500 x 40 = 20,000
+
+Answer: 20,000

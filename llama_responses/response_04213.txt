@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, we find the area of each square.
+
+The first square is 8 feet by 5 feet, so its area is 8 * 5 = 40 square feet.
+
+The second square is 10 feet by 7 feet, so its area is 10 * 7 = 70 square feet.
+
+The third square is 5 feet by 5 feet, so its area is 5 * 5 = 25 square feet.
+
+Now, we need to find the total area of all the squares and then add it to get the area of the flag.
+
+The total area is 40 + 70 + 25 = 135 square feet.
+
+Now, we need to find the height of the flag. The flag will be 15 feet long. Since the area is 135 square feet, the height of the flag is 135 / 15 = 9 feet.
+
+Answer: 9

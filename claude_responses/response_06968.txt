@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The class has 32 students
+* Each student needs 5 minutes to present their project
+* Each period is 40 minutes long
+
+To calculate the number of periods it will take for every student to present their project, we need to find out how many students can present their projects in one period.
+
+* In one 40-minute period, there are 40 minutes / 5 minutes per presentation = 8 students who can present their projects.
+
+Now, we need to find out how many periods it will take to accommodate all 32 students.
+
+* 32 students / 8 students per period = 4 periods
+
+Therefore, it will take 4 periods for every student to present their project.
+
+Answer: 4

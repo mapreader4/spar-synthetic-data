@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The airplane can seat 10 people in first class, 30 in business class, and 50 in economy class.
+* Economy class is half full, so there are 25 people in economy class.
+* Business class and first class have the same number of people together as economy class, which means there are 25 people in business class and first class combined.
+* Since there are only 3 people in first class, that means there are 22 people in business class.
+* The total number of seats in the airplane is 10 + 30 + 50 = 90.
+* The total number of occupied seats is 3 + 22 + 25 = 50.
+* Therefore, the number of unoccupied seats in business class is 30 - 22 = 8.
+
+Answer: 8

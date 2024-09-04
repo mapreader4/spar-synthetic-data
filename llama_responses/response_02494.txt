@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Initially, Sydney has 837 rocks and Conner has 723 rocks.
+
+On day one, Sydney collects 4 rocks and Conner collects 8 times as many, which is 8 x 4 = 32 rocks.
+
+So, after day one, Sydney has 837 + 4 = 841 rocks and Conner has 723 + 32 = 755 rocks.
+
+On day two, Sydney rests and Conner collects 123 rocks.
+
+So, after day two, Sydney still has 841 rocks and Conner has 755 + 123 = 878 rocks.
+
+On the third day, Sydney collects twice as many as Conner did on the first day, which is 2 x 32 = 64 rocks.
+
+So, after day three, Sydney will have 841 + 64 = 905 rocks.
+
+Conner needs to collect at least the same number of rocks as Sydney to tie. Therefore, he needs to collect 905 - 878 = 27 rocks on day three.
+
+Answer: 27

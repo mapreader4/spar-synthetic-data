@@ -1,0 +1,5 @@
+Let's start by identifying the number of pets that are not dogs or cats.
+
+We know that 25% of the pets are dogs, and 50% are cats. So, the total number of dogs and cats is 25 + 50 = 75. This leaves 36 - 75 = 36 pets that are bunnies. So, the answer is:
+
+Answer: 36

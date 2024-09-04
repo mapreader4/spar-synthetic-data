@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the cost of each meal.
+
+Curtis ordered the Salisbury Steak that costs $16.00. Since they ate between 2-4 pm, the Early Bird discount applies. The discount is 50% off the menu price, so the discounted price is:
+
+$16.00 - (50% of $16.00) = $16.00 - $8.00 = $8.00
+
+Rob ordered the Chicken Fried Steak at $18.00. Since they ate between 2-4 pm, the Early Bird discount applies. The discount is 50% off the menu price, so the discounted price is:
+
+$18.00 - (50% of $18.00) = $18.00 - $9.00 = $9.00
+
+Now, let's add the cost of both meals together:
+
+$8.00 + $9.00 = $17.00
+
+Answer: 17

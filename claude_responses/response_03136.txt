@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) Mark has $24 to spend on balloons.
+2) The small bags cost $4 and contain 50 balloons each.
+3) The medium bags cost $6 and contain 75 balloons each.
+4) The extra large bags cost $12 and contain 200 balloons each.
+5) To get the most balloons, we need to find the combination of bags that will give the maximum number of balloons for $24.
+6) Let's start by trying to buy as many extra large bags as possible. With $24, we can buy 2 extra large bags (2 * $12 = $24).
+7) That gives us 2 * 200 = 400 balloons.
+8) Now, we have $0 left to spend on the other bags.
+9) Therefore, the greatest number of balloons Mark can buy is 400.
+
+Answer: 400

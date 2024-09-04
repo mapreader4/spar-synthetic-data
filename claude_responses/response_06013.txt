@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The bill amount is not given, but we know that the 15% tip was $42.
+* To find the 15% tip amount, we can use the formula:
+Tip amount = Tip percentage x Bill amount
+$42 = 0.15 x Bill amount
+Bill amount = $42 / 0.15 = $280
+* Now, we want to find the 20% tip amount. We can use the same formula:
+Tip amount = Tip percentage x Bill amount
+20% tip amount = 0.20 x $280 = $56
+
+Answer: $56

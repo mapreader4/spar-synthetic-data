@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Amon and Rhonda have a combined total of 215 marbles.
+2) Amon owns 55 marbles more than Rhonda.
+3) Let's represent Rhonda's marbles as x.
+4) Since Amon has 55 more marbles than Rhonda, Amon's marbles can be represented as x + 55.
+5) The total number of marbles is 215, so we can write the equation:
+x + (x + 55) = 215
+6) Simplifying the equation:
+2x + 55 = 215
+7) Subtracting 55 from both sides:
+2x = 160
+8) Dividing both sides by 2:
+x = 80
+Answer: Rhonda has 80 marbles.

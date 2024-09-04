@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Connor wants to order some new books
+* The website offers free shipping over $50.00
+* When you buy 4 books, the first two are 25% off
+* Book 1 costs $13.00
+* Book 2 costs $15.00
+* Book 3 and Book 4 both cost $10.00 each
+
+First, let's calculate the cost of the first two books with the 25% discount:
+* Book 1 original price: $13.00
+* Book 1 discounted price: $13.00 * (1 - 0.25) = $9.75
+* Book 2 original price: $15.00
+* Book 2 discounted price: $15.00 * (1 - 0.25) = $11.25
+
+Now, let's calculate the total cost of all 4 books:
+* Book 1 discounted price: $9.75
+* Book 2 discounted price: $11.25
+* Book 3 price: $10.00
+* Book 4 price: $10.00
+* Total cost: $9.75 + $11.25 + $10.00 + $10.00 = $41.00
+
+The website offers free shipping over $50.00, so Connor needs to spend $9.00 more to reach the free shipping threshold.
+
+Answer: $9

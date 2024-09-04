@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Bill has two 2-gallon jugs.
+2) Each jug is filled 70% full with sand.
+3) The density of sand is 5 pounds per gallon.
+
+To calculate the total weight of the improvised weights:
+* Each jug has a capacity of 2 gallons.
+* Since each jug is filled 70% full, the amount of sand in each jug is:
+  * 2 gallons x 0.70 = 1.4 gallons
+* The weight of the sand in each jug is:
+  * 1.4 gallons x 5 pounds/gallon = 7 pounds
+* Since there are two jugs, the total weight is:
+  * 7 pounds x 2 = 14 pounds
+
+Answer: 14 pounds

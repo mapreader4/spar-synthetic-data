@@ -1,0 +1,37 @@
+Let's break down the information given into parts:
+
+* A third of the profit on Monday.
+* A quarter of the profit on Tuesday.
+* The rest of the profit on Wednesday.
+
+The total profit is $1,200. We can represent this as a total profit, P, where P is the profit made on Monday, Q is the profit made on Tuesday, and R is the profit made on Wednesday.
+
+We can set up an equation to represent this information:
+
+P = (1/3)P + (1/4)Q + R
+
+We know that P = 1200. So, we can substitute 1200 for P:
+
+(1/3)P + (1/4)Q + R = 1200
+
+We can solve for R by subtracting (1/3)P + (1/4)Q from both sides:
+
+R = 1200 - (1/3)P - (1/4)Q
+
+Now, we need to find the profit made on Monday. We know that P = 1200, so we can substitute 1200 for P:
+
+R = 1200 - (1/3)(1200) - (1/4)Q
+
+R = 0 - (1/3)(400) - (1/4)Q
+
+R = -133.33 - (1/4)Q
+
+We know that R is the profit made on Wednesday. We can solve for Q by multiplying both sides by 4:
+
+R = -133.33 - (1/4)Q
+
+4R = -533.32
+
+Q = 133.32
+
+So, the profit made on Wednesday is 133.32.

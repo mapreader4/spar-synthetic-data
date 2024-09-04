@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+First, Vermont found 12 ads on the first web page. Then, he found twice as many ads on the second web page as the first web page. So, the number of ads on the second web page is 2 x 12 = 24.
+
+Next, he found 24 more ads on the third web page than the second web page. So, the number of ads on the third web page is 24 + 24 = 48.
+
+Finally, the fourth web page had 3/4 times as many ads as the second web page. So, the number of ads on the fourth web page is (3/4) x 24 = 18.
+
+Now, let's add up the number of ads on all four web pages: 12 + 24 + 48 + 18 = 102.
+
+Vermont clicked on 2/3 of these ads, so the total number of ads he clicked on is (2/3) x 102 = 68.
+
+Answer: 68

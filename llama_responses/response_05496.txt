@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The trolley starts with 10 people on it.
+2. On the next stop, 3 people get off, leaving 10 - 3 = 7 people on the trolley.
+3. Then, twice as many people from the 1st stop got on, so that's 2 x 10 = 20 people getting on. The total number of people on the trolley is now 7 + 20 = 27.
+4. On the third stop, 18 people get off, leaving 27 - 18 = 9 people on the trolley.
+5. 2 people get on the trolley, so the final number of people on the trolley is 9 + 2 = 11.
+
+Answer: 11

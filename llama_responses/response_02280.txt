@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Orlan had 20 meters of rope initially.
+2. He gave one-fourth of the rope to Allan, so he gave 20/4 = 5 meters of rope to Allan.
+3. He had 20 - 5 = 15 meters of rope left.
+4. He then gave two-thirds of the remaining rope to Jack. Two-thirds of 15 is 15/3 = 5.
+5. So he gave 5 meters of rope to Jack.
+6. Now, Orlan has 15 - 5 = 10 meters of rope left.
+
+Answer: 10

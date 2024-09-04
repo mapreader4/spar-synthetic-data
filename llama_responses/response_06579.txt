@@ -1,0 +1,11 @@
+Let's solve this problem step by step.
+
+Let's first find the number of times Megan was the lead actress.
+
+Megan was the lead actress in 80% of her work. So, we can say that 80% of her 100 plays, Megan was the lead actress.
+
+To find the number of times Megan was not the lead actress, we can subtract the number of times she was the lead actress from the total number of plays. So, we get:
+
+100 - 80 = 20
+
+Answer: 20

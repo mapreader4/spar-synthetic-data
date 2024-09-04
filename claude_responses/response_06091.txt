@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The store put out a product sample every Saturday
+* Last Saturday, the sample product came in boxes of 20
+* They had to open 12 boxes
+* They had 5 samples left over at the end of the day
+
+To find the number of customers who tried a sample, we need to calculate the total number of samples available and then subtract the number of samples left over.
+
+First, let's calculate the total number of samples available:
+* 12 boxes x 20 samples per box = 240 total samples
+
+Now, we subtract the 5 samples left over:
+* 240 total samples - 5 samples left over = 235 samples taken by customers
+
+Therefore, the number of customers who tried a sample is:
+Answer: 235

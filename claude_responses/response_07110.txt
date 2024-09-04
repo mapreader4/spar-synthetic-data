@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) The tank can hold 600 gallons of water.
+2) Each bucket holds 5 gallons of water.
+3) Jack can carry 2 buckets at a time, so he can bring 10 gallons per trip.
+4) Jill can only carry 1 bucket at a time, so she can bring 5 gallons per trip.
+5) Jack can make 3 trips in the time it takes Jill to make 2 trips.
+6) To calculate how many trips Jill will make, we need to figure out how much water Jack can bring in the time it takes Jill to make 2 trips.
+7) In the time it takes Jill to make 2 trips, Jack can make 3 trips.
+8) In 3 trips, Jack can bring 3 * 10 = 30 gallons.
+9) So the remaining amount of water that Jill needs to bring is 600 - 30 = 570 gallons.
+10) Since Jill can bring 5 gallons per trip, she will need to make 570 / 5 = 114 trips.
+
+Answer: 114

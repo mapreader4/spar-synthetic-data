@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. Angela's kitchen supplies:
+   - 20 pots
+   - 6 more than three times as many plates as the pots
+     - Plates = (3 x 20) + 6 = 66
+   - Half as many cutlery as the plates
+     - Cutlery = 66 / 2 = 33
+
+2. Sharon's kitchen supplies:
+   - Pots = Half as many as Angela
+     - Pots = 20 / 2 = 10
+   - Plates = 20 less than three times as many as Angela
+     - Plates = (3 x 66) - 20 = 178
+   - Cutlery = Twice as much as Angela
+     - Cutlery = 33 x 2 = 66
+
+3. Total number of kitchen supplies Sharon wants to buy:
+   - Pots: 10
+   - Plates: 178
+   - Cutlery: 66
+   - Total = 10 + 178 + 66 = 254
+
+Answer: 254

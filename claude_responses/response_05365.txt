@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* We know that 3 beehives can produce enough wax to make 12 candles.
+* We want to find how many beehives are needed to make 96 candles.
+* To do this, we need to find the ratio of candles to beehives.
+* From the given information, we can see that the ratio is 12 candles to 3 beehives, or 4 candles per beehive.
+* To find the number of beehives needed for 96 candles, we divide 96 by 4:
+* 96 candles / 4 candles per beehive = 24 beehives.
+
+Answer: 24

@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Let's start by finding the total number of months for the arson charges:
+
+3 counts of arson, each with a 36-month sentence, is 3 x 36 = 108 months.
+
+Next, let's find the total number of months for the burglary charges:
+
+2 burglary charges, each with an 18-month sentence, is 2 x 18 = 36 months.
+
+Now, let's find the total number of months for the petty larceny charges:
+
+6 times as many petty larceny charges as burglary charges, with each petty larceny charge being 1/3rd the length of a burglary charge, so 6 x (18/3) = 12 months.
+
+Now, let's add up the total number of months for all the charges:
+
+108 months (arson) + 36 months (burglary) + 12 months (petty larceny) = 156 months
+
+So, Jean is facing 156 months in jail.

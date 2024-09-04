@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Alexander was 50 inches tall on his 8th birthday
+* He grows 1/2 a foot per year
+* We need to find his height on his 12th birthday
+
+First, we need to convert the growth rate from feet to inches:
+* 1/2 foot = 6 inches
+
+Next, we need to calculate how much he will grow from his 8th birthday to his 12th birthday:
+* Growth from 8th to 12th birthday = 4 years x 6 inches/year = 24 inches
+
+Finally, we add the growth to his initial height to get his height on his 12th birthday:
+* Height on 12th birthday = 50 inches + 24 inches = 74 inches
+
+Answer: 74 inches

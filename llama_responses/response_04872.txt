@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total number of braids that need to be done. Each dancer has 5 braids, and there are 8 dancers, so the total number of braids is 5 x 8 = 40.
+
+Step 2: Determine the time it takes to do one braid. It takes 30 seconds to do one braid, so the total time to do one braid is 30 seconds.
+
+Step 3: Determine the total time it will take to do all the braids. Since there are 40 braids and each braid takes 30 seconds, the total time it will take to do all the braids is 40 x 30 seconds = 1200 seconds.
+
+Step 4: Convert the total time from seconds to minutes. There are 60 seconds in one minute, so 1200 seconds is equal to 20 minutes.
+
+Answer: 20

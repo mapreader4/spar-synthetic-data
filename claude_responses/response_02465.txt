@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The bird has already put 12 twigs together to make a circle.
+2) For each of those 12 twigs, the bird wants to weave in 6 more twigs to fill out the nest.
+3) So the total number of twigs needed for the nest is:
+12 twigs (the initial circle) + (12 twigs * 6 additional twigs per twig) = 12 + 72 = 84 twigs.
+4) The bird knows a tree that has dropped a third of the twigs it needs.
+5) A third of 84 twigs is 84 / 3 = 28 twigs.
+6) Therefore, the bird still needs to find 84 - 28 = 56 twigs to finish its nest.
+
+Answer: 56

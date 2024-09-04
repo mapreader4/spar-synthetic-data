@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Initially, the man had 39 cows.
+
+Last year, 25 cows died, so the number of cows decreased by 25. So, the number of cows is now:
+
+39 - 25 = 14
+
+Then, the man sold 6 cows, so the number of cows decreased by 6. So, the number of cows is now:
+
+14 - 6 = 8
+
+This year, the number of cows increased by 24. So, the number of cows is now:
+
+8 + 24 = 32
+
+The man's friend gave him 8 cows as a gift, so the number of cows increased by 8. So, the number of cows is now:
+
+32 + 8 = 40
+
+The man now has 40 cows.

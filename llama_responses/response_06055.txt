@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's say the number of pages Beatrix read is x.
+
+Then, Cristobal read 15 more than three times the number of pages Beatrix read, so Cristobal read 3x pages more than Beatrix.
+
+So, Cristobal read 3x + 15 pages.
+
+We know that Beatrix read 704 pages. So, we can set up an equation:
+
+3x + 15 = 704
+
+Subtract 15 from both sides of the equation to get:
+
+3x = 704 - 15
+
+3x = 689
+
+So, Cristobal read 689 pages.
+
+Answer: 689

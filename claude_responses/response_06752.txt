@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Cassandra bought 4 dozen Granny Smith apples
+* 1 dozen = 12 apples
+* So, 4 dozen = 4 x 12 = 48 apples
+* She used these 48 apples to make 4 apple pies
+* Each pie was cut into 6 large pieces
+* So, the total number of slices of pie is 4 pies x 6 slices per pie = 24 slices
+* To find the number of apples in each slice, we divide the total number of apples (48) by the total number of slices (24)
+* 48 apples / 24 slices = 2 apples per slice
+
+Answer: 2

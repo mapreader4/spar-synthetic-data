@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* The condo development has 23 floors in total
+* The regular floors have 12 units each
+* The top 2 floors are assigned for penthouse units, which have 2 units each
+* To calculate the total number of units, we need to:
+  1. Calculate the number of regular floors
+  2. Multiply the number of regular floors by the number of units per regular floor
+  3. Add the number of penthouse units
+
+Step 1: Calculate the number of regular floors
+* There are 23 floors in total
+* The top 2 floors are penthouse floors
+* Therefore, the number of regular floors is 23 - 2 = 21 floors
+
+Step 2: Multiply the number of regular floors by the number of units per regular floor
+* There are 21 regular floors
+* Each regular floor has 12 units
+* 21 floors x 12 units/floor = 252 units
+
+Step 3: Add the number of penthouse units
+* There are 2 penthouse floors
+* Each penthouse floor has 2 units
+* 2 floors x 2 units/floor = 4 units
+
+Therefore, the total number of units in the condo development is:
+252 regular units + 4 penthouse units = 256 units
+
+Answer: 256

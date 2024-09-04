@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first calculate the cost of the new computer option:
+
+New computer: $600, lasts 6 years, so the cost per year is $600 / 6 = $100.
+
+Now, let's calculate the cost of the used computers:
+
+2 used computers, each lasts 3 years, so the cost per year is $200 / 3 = $66.67.
+
+Since the cost per year of the used computers is less than the cost per year of the new computer, James would save money by choosing the used option.
+
+Let's calculate the total cost of the used computers over 6 years:
+
+2 used computers, each lasts 3 years, so the total cost over 6 years is 2 * 3 * 200 = $1200.
+
+The cost of the used option is $1200, and the cost of the new option is $600 * 6 = $3600. Therefore, James will save $360 by choosing the used option.
+
+Answer: 360.

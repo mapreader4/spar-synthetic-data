@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of apples and oranges. Since there are twice as many apples as oranges, and there are 5 bananas, we know that there are 2 times the number of bananas as oranges. So, if there are 5 bananas, then there are 2 times the number of oranges, which is 10.
+
+Next, we need to find the total number of fruits. We know that there are 5 bananas and 10 oranges. To find the total number of fruits, we add the number of bananas and the number of oranges: 5 + 10 = 15.
+
+Answer: 15

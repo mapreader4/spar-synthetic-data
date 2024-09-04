@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Conner's dune buggy can travel at 60 miles per hour on flat sand.
+* When traveling on downhill slopes, it can travel 12 miles per hour faster, so 60 + 12 = 72 miles per hour.
+* When traveling on uphill slopes, it travels 18 miles per hour slower, so 60 - 18 = 42 miles per hour.
+* Conner rides his dune buggy one-third of the time on flat sand, one-third of the time on uphill slopes, and one-third of the time on downhill slopes.
+* To calculate the average speed, we need to find the weighted average of the three speeds:
+* (1/3 * 60) + (1/3 * 42) + (1/3 * 72) = 20 + 14 + 24 = 58 miles per hour.
+
+Answer: 58 miles per hour.

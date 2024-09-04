@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's say the price of an adult ticket is x. Since the price of an adult ticket is twice that of a child's ticket, the price of a child's ticket is x/2.
+
+The total amount collected is 400 adults + 200 children. Since the price of an adult ticket is x, the total amount collected from adults is 400 * x. The price of a child's ticket is x/2, so the total amount collected from children is 200 * (x/2).
+
+The total amount collected is 400 adults + 200 children. So, we can set up the equation as:
+
+400x + 200 * (x/2) = 16000
+
+Simplifying the equation, we get:
+
+400x + 100x = 16000
+
+Subtract 400 from both sides of the equation:
+
+x = 16000 - 400 = 16000 - 400
+
+x = 16000 - 400 = 16000 - 400
+
+x = 40
+
+Answer: 40

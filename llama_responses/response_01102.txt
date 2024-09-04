@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+On Monday, Carla counts the tiles on the ceiling once, so that's 1 count.
+
+On Tuesday, Carla counts the tiles twice in a row, so that's 2 counts.
+
+In total, Carla has counted the tiles 1 + 2 = 3 times.
+
+On Tuesday, Carla also counts the books three times in a row, so that's 3 counts.
+
+In total, Carla has counted the books 3 times.
+
+To find the total number of times Carla has counted something on Tuesday, we add the number of times she counted the tiles and the number of times she counted the books: 3 (tiles) + 3 (books) = 6.
+
+Answer: 6

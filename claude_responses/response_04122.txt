@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Alex has 960 pictures to process
+* The program can process each picture in 2 minutes
+* To find the total time it will take to process all 960 pictures, we need to multiply the number of pictures by the time it takes to process each one:
+* 960 pictures x 2 minutes per picture = 1,920 minutes
+* To convert this to hours, we divide the total minutes by 60 minutes per hour:
+* 1,920 minutes / 60 minutes per hour = 32 hours
+
+Answer: 32 hours

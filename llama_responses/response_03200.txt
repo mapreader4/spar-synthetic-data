@@ -1,0 +1,17 @@
+Let's solve this problem step by step.
+
+Let's first find the total length of the 100 pieces of ribbon. Each piece is 15 centimeters long, so the total length is:
+
+100 x 15 = 1500 centimeters
+
+Now, the ribbon is 51 meters long. We can convert this to centimeters by multiplying by 100 (since 1 meter is equal to 100 centimeters):
+
+51 x 100 = 5100 centimeters
+
+Now, we can subtract the length of the 100 pieces from the total length of the ribbon:
+
+5100 - 1500 = 3600 centimeters
+
+So, the amount of ribbon that remains is 3600 centimeters.
+
+Answer: 3600

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We know that John's pool is 5 feet deeper than 2 times Sarah's pool. This means we can represent the depth of John's pool as:
+   John's pool depth = 2 * Sarah's pool depth + 5
+2) We also know that John's pool is 15 feet deep. So we can substitute this into the equation from step 1:
+   15 = 2 * Sarah's pool depth + 5
+3) Solving for Sarah's pool depth:
+   15 - 5 = 2 * Sarah's pool depth
+   10 = 2 * Sarah's pool depth
+   Sarah's pool depth = 10 / 2
+   Sarah's pool depth = 5 feet
+
+Answer: 5

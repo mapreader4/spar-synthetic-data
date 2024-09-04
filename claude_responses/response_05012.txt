@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Carlton has twice as many sweater vests as button-up shirts.
+2) He has 3 button-up shirts.
+3) Since he has twice as many sweater vests as button-up shirts, and he has 3 button-up shirts, he must have 6 sweater vests.
+4) Each unique combination of vest and shirt is considered an outfit.
+5) With 6 sweater vests and 3 button-up shirts, Carlton can create 6 * 3 = 18 unique outfits.
+
+Answer: 18

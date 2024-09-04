@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Polly spends 20 minutes cooking breakfast every day. This means that in 7 days, she will spend a total of 20 x 7 = 140 minutes cooking breakfast.
+
+She spends 5 minutes cooking lunch. This is a constant, so she will spend 5 x 7 = 35 minutes cooking lunch this week.
+
+She spends 10 minutes cooking dinner 4 days this week. This is 10 x 4 = 40 minutes.
+
+The rest of the days she spends 30 minutes cooking dinner. There are 3 days left, so she will spend 30 x 3 = 90 minutes cooking dinner.
+
+In total, Polly spends 140 + 35 + 40 + 90 = 265 minutes cooking this week.

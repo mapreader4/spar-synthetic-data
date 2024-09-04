@@ -1,0 +1,7 @@
+Let's start by identifying the total number of squares that Yuri moved on his first turn. He rolled a 2, a 4, and a 5, so the total number of squares he moved is 2 + 4 + 5 = 11.
+
+Since Yuko's goal is to move in front of his brother, he needs to move a total of 12 or more squares. The last die that Yuko rolled is a X, which we don't know the value of yet. Let's assume the value of X is x.
+
+The total number of squares that Yuko must move is 12 - 11 = 1. Since the last die is X, Yuko must roll a 1 to move 1 square and catch up with his brother.
+
+Answer: 1

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Ali has $5 less than Nada. We can let's say Nada has x dollars, so Ali has x - 5 dollars. 
+
+Then, John has 4 times more than Nada, so John has 4x dollars. 
+
+We know that Ali, Nada, and John have a total of 67 dollars. So, we can set up an equation:
+
+x - 5 + 4x = 67
+
+We can add 5 to both sides of the equation to get:
+
+x + 4x = 72
+
+Then, we can subtract 4 from both sides to get:
+
+x = 18
+
+So, John has 18 dollars.

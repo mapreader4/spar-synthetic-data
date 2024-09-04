@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of flies Betty catches in a day. She catches 5 flies in the morning and 6 flies in the afternoon, but 1 fly escapes. So, the total number of flies she catches is 5 + 6 - 1 = 10.
+
+Since Betty wants to gather the whole week's food for her frog, we need to multiply the daily total by 7 (since there are 7 days in a week).
+
+So, the total number of flies Betty needs is 10 * 7 = 70.
+
+Answer: 70

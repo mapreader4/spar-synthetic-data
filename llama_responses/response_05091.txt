@@ -1,0 +1,12 @@
+Let's break down the problem step by step.
+
+1. Paul needs 3 layer cakes, which requires 3 cans of frosting.
+2. He needs 6 dozen cupcakes, which is 6 x 12 = 72 cupcakes. For each cupcake, he uses half a can of frosting, so he needs 72 / 2 = 36 cans of frosting for the cupcakes.
+3. He needs 12 single cakes, which is 12 cakes. Each cake requires half a can of frosting, so he needs 12 / 2 = 6 cans of frosting for the single cakes.
+4. He needs 18 pans of brownies, which is 18 pans. Each pan requires half a can of frosting, so he needs 18 / 2 = 9 cans of frosting for the brownies.
+
+To find the total number of cans of frosting needed, we add the number of cans needed for each item:
+
+3 + 36 + 6 + 9 = 50
+
+Answer: 50

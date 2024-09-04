@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The store sells pencils and erasers
+* For every pencil bought, 2 erasers must be bought
+* The erasers cost 1/2 the price of the pencils
+* The store sold 20 pencils and earned $80
+
+To find the cost of the erasers, we need to first find the cost of the pencils.
+* If the store earned $80 from selling 20 pencils, then the cost of each pencil is $80 / 20 = $4
+
+Now, we know that for every pencil bought, 2 erasers must be bought, and the erasers cost 1/2 the price of the pencils.
+* So, the cost of each eraser is 1/2 * $4 = $2
+
+Therefore, the cost of the erasers is $2.
+
+Answer: 2

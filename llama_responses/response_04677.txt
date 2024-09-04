@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of rolls Nellie has sold so far. She has sold 1 roll to her grandmother, 10 rolls to her uncle, and 6 rolls to a neighbor. So, we can add those numbers together: 1 + 10 + 6 = 17.
+
+So, Nellie has sold 17 rolls of gift wrap so far.
+
+She needs to sell 45 rolls in total. To find out how many more rolls she needs to sell, we can subtract the number of rolls she has already sold from the total number of rolls: 45 - 17 = 28.
+
+So, Nellie needs to sell 28 more rolls of gift wrap.

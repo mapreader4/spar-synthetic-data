@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of goldfish that will die in 7 weeks. Each week, 5 goldfish die, so in 7 weeks, 7 * 5 = 35 goldfish will die.
+
+Now, let's find the number of goldfish Martin will have at the end of 7 weeks. Martin starts with 18 goldfish. After 1 week, he will have 18 - 5 = 13 goldfish left. After 2 weeks, he will have 13 - 5 = 8 goldfish. After 3 weeks, he will have 8 - 5 = 3 goldfish. After 4 weeks, he will have 3 - 5 = -2 goldfish. After 5 weeks, he will have -2 goldfish. After 6 weeks, he will have -2 - 5 = -7 goldfish. After 7 weeks, he will have -7 goldfish.
+
+So, Martin will have -7 goldfish at the end of 7 weeks. Answer: -7.

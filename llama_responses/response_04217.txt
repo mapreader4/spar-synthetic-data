@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of tourists initially. There are 30 tourists to start with.
+
+Then, 2 tourists are eaten by anacondas, leaving 30 - 2 = 28 tourists.
+
+Then, half the remaining tourists try to pet poisonous dart frogs and get poisoned. So, 28 / 2 = 14 tourists get poisoned.
+
+Then, if 1/7 of the poisoned tourists recover, 1/7 of 14 tourists recover.
+
+So, the number of tourists left at the end of the tour is 14 - 1 = 13.
+
+Answer: 13

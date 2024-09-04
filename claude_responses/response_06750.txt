@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The first two shipments of couscous were 7 pounds and 13 pounds, arriving on the same day.
+2) The total amount of couscous from the first two shipments is 7 + 13 = 20 pounds.
+3) The next day, the restaurant received a shipment of 45 pounds of couscous.
+4) The total amount of couscous received is 20 + 45 = 65 pounds.
+5) It takes 5 pounds of couscous to make one dish.
+6) To calculate the number of dishes the restaurant can make, we divide the total amount of couscous (65 pounds) by the amount of couscous needed per dish (5 pounds).
+7) 65 pounds / 5 pounds per dish = 13 dishes.
+
+Answer: 13

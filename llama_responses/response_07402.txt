@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Step 1: Identify the given information:
+
+* The Great Wall is 7300 kilometers long.
+* The towers are spaced 5 kilometers apart.
+* Each tower has 2 soldiers.
+
+Step 2: Calculate the number of towers:
+
+Since the towers are spaced 5 kilometers apart, and the Great Wall is 7300 kilometers long, we can calculate the number of towers by dividing the length of the wall by the distance between the towers:
+
+7300 km (length of the wall) ÷ 5 km (distance between towers) = 1460 towers
+
+Step 3: Calculate the total number of soldiers:
+
+Since each tower has 2 soldiers, we can multiply the number of towers by the number of soldiers per tower:
+
+1460 towers × 2 soldiers per tower = 2920 soldiers
+
+Answer: 2920

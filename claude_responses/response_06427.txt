@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jury selection takes 2 days
+* The trial itself lasts 4 times as long as jury selection
+* So the trial lasts 4 x 2 = 8 days
+* The number of hours spent in jury deliberation was the equivalent of 6 full days
+* They spend 16 hours a day in deliberation
+* So the number of hours spent in deliberation is 6 x 16 = 96 hours
+* To find the number of days, we divide the total hours of deliberation by the number of hours per day:
+* 96 hours / 16 hours per day = 6 days
+
+Therefore, the total number of days John spends on jury duty is:
+* Jury selection: 2 days
+* Trial: 8 days
+* Deliberation: 6 days
+* Total: 2 + 8 + 6 = 16 days
+
+Answer: 16 days

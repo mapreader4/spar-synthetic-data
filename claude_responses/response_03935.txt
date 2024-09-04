@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Initially, the shelter has:
+  - 30 dogs
+  - 28 cats
+  - 20 lizards
+* Every month:
+  - 50% of the dogs are adopted, which means 15 dogs are adopted (0.5 * 30 = 15)
+  - 25% of the cats are adopted, which means 7 cats are adopted (0.25 * 28 = 7)
+  - 20% of the lizards are adopted, which means 4 lizards are adopted (0.2 * 20 = 4)
+* The shelter takes in 13 new pets a month
+* To calculate the total number of pets after one month:
+  - Dogs: 30 - 15 + 13 = 28
+  - Cats: 28 - 7 + 13 = 34
+  - Lizards: 20 - 4 + 13 = 29
+* Adding up the total number of pets:
+  - 28 + 34 + 29 = 91
+
+Answer: 91

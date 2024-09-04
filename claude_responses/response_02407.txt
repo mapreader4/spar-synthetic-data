@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+
+1. Jane brings 75% as many pieces of bread as treats.
+2. Wanda brings half as many treats as Jane.
+3. Wanda brings three times as many pieces of bread as treats.
+4. Wanda brings 90 pieces of bread.
+
+Let's start with Wanda's information:
+* Wanda brings 90 pieces of bread
+* Wanda brings three times as many pieces of bread as treats
+* So, the number of treats Wanda brings is 90 / 3 = 30 treats
+
+Now, let's look at Jane's information:
+* Jane brings 75% as many pieces of bread as treats
+* So, if Wanda brings 30 treats, Jane brings 75% of 30, which is 0.75 * 30 = 22.5 treats
+* Since Jane brings 75% as many pieces of bread as treats, she brings 0.75 * 22.5 = 16.875 pieces of bread
+
+Now, we can add up the total number of pieces of bread and treats that Wanda and Jane brought:
+* Wanda brought 90 pieces of bread and 30 treats
+* Jane brought 16.875 pieces of bread and 22.5 treats
+* Total pieces of bread = 90 + 16.875 = 106.875
+* Total treats = 30 + 22.5 = 52.5
+* Total pieces of bread and treats = 106.875 + 52.5 = 159.375
+
+Answer: 159

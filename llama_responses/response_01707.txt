@@ -1,0 +1,22 @@
+Let's start by identifying the information given in the problem:
+
+* Anais has more toys than Kamari.
+* The total number of toys is 160.
+
+Let's use the given information to set up an equation. Let's say Kamari has x toys. Then, we can write the equation:
+
+x + (number of toys Anais has) = 160
+
+We know that Anais has 30 more toys than Kamari, so we can subtract 30 from both sides of the equation to get:
+
+x + (number of toys Anais has - 30) = 160
+
+The number of toys Anais has is 30 more than Kamari, so the number of toys Anais has is 30 + x. So, we can replace x with 30 + x:
+
+30 + x = 160
+
+Subtract 30 from both sides of the equation to get:
+
+x = 130
+
+So, the number of toys in Kamari's box is 130.

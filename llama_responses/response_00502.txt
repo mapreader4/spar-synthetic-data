@@ -1,0 +1,35 @@
+Let's start by using variables to represent the cost of the items:
+
+Let M be the cost of the magnet, S be the cost of the sticker, and A be the cost of a single stuffed animal.
+
+We know that the magnet cost 3 times more than the sticker, so:
+
+M = 3S
+
+We also know that the cost of the two stuffed animals is the same as the cost of one stuffed animal, so:
+
+2A = A
+
+We also know that the cost of the magnet is 3 times the cost of the sticker, so:
+
+M = 3S
+
+We also know that the cost of the magnet is $3, so:
+
+3S = 3
+
+We can solve for S:
+
+S = 1
+
+We also know that the cost of the two stuffed animals is the cost of one stuffed animal, so:
+
+2A = A
+
+2A = A
+
+We can solve for A:
+
+A = 6
+
+The cost of a single stuffed animal is 6 dollars.

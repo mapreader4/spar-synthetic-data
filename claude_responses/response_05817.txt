@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+Neighborhood A:
+- There are 10 homes in Neighborhood A
+- Each home in Neighborhood A will buy 2 boxes of cookies
+- So, the total number of boxes of cookies sold in Neighborhood A is:
+  - 10 homes x 2 boxes per home = 20 boxes
+
+Neighborhood B:
+- There are 5 homes in Neighborhood B
+- Each home in Neighborhood B will buy 5 boxes of cookies
+- So, the total number of boxes of cookies sold in Neighborhood B is:
+  - 5 homes x 5 boxes per home = 25 boxes
+
+Now, we need to calculate the total revenue Jenny will make at each neighborhood:
+- Each box of cookies costs $2
+- Neighborhood A revenue: 20 boxes x $2 per box = $40
+- Neighborhood B revenue: 25 boxes x $2 per box = $50
+
+Since Neighborhood B has a higher total revenue, that is the better choice for Jenny.
+
+Answer: $50

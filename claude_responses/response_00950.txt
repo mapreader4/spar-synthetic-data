@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Theodore can craft 10 stone statues and 20 wooden statues every month.
+2. A stone statue costs $20 and a wooden statue costs $5.
+3. To calculate his total earnings before taxes, we need to find the total revenue from selling the statues:
+   * Revenue from stone statues: 10 statues x $20 per statue = $200
+   * Revenue from wooden statues: 20 statues x $5 per statue = $100
+   * Total revenue = $200 + $100 = $300
+
+4. He pays 10 percent of his total earnings in taxes.
+   * Total earnings = $300
+   * Taxes = 10% of $300 = $30
+
+5. His total earnings after taxes is:
+   * Total earnings = $300 - $30 = $270
+
+Answer: $270

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Gus eats 2 eggs for his egg-omelet breakfast
+* He then has an egg salad sandwich made with 3 eggs for lunch
+* Finally, he has an egg drop soup made with 1 egg for dinner
+* To calculate the total number of eggs Gus ate, we add up the eggs from each meal:
+* Breakfast: 2 eggs
+* Lunch: 3 eggs
+* Dinner: 1 egg
+* Total eggs eaten: 2 + 3 + 1 = 6 eggs
+
+Answer: 6

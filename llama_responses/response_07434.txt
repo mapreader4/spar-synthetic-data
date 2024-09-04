@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the number of boxes that can be made with the 10000 apples. Since 10000 apples can fit in each box, and 50 apples fit in each box, we can divide 10000 by 50 to find the number of boxes: 10000 ÷ 50 = 200.
+
+So, Travis can make 200 boxes with the 10000 apples.
+
+Now, let's find the total amount of money Travis will be able to take home. Since each box is sold for $35, we can multiply the number of boxes by the price of each box to find the total amount of money: 200 x $35 = $7000.
+
+So, Travis will be able to take home $7000.

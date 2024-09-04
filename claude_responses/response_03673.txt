@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lucille's house is 80 feet tall.
+2) The first neighbor's house is 70 feet tall.
+3) The second neighbor's house is 99 feet tall.
+4) To find the average height of the houses, we add up the heights and divide by the number of houses:
+   (80 + 70 + 99) / 3 = 249 / 3 = 83 feet
+5) To find how much shorter Lucille's house is than the average, we subtract Lucille's house height from the average height:
+   83 feet - 80 feet = 3 feet
+
+Answer: 3

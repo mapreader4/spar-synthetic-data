@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The man drives 60 mph for 3 hours
+* To find the total distance traveled in the first 3 hours, we multiply the speed (60 mph) by the time (3 hours):
+    * 60 mph x 3 hours = 180 miles
+* The total distance traveled in the first 3 hours is 180 miles
+* The man wants to achieve an average speed of 70 mph over the entire 5-hour trip
+* To find the total distance he needs to travel in 5 hours at an average speed of 70 mph, we multiply the speed (70 mph) by the time (5 hours):
+    * 70 mph x 5 hours = 350 miles
+* Now we need to find the speed he must drive in the remaining 2 hours to cover the remaining distance of 170 miles (350 miles - 180 miles)
+* To find this speed, we divide the remaining distance (170 miles) by the remaining time (2 hours):
+    * 170 miles / 2 hours = 85 mph
+
+Answer: 85 mph

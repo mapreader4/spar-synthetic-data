@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. In the first season, the apple tree produced 200 apples.
+
+2. In the second season, the tree produced 20% fewer fruits than the first season. To calculate this, we take 20% of 200, which is 40. So, the tree produced 200 - 40 = 160 apples in the second season.
+
+3. In the third season, the tree's fruit production doubled from the second season. So, if the tree produced 160 apples in the second season, it would produce 160 x 2 = 320 apples in the third season.
+
+Now, to calculate the total number of fruits the apple tree grew in the three seasons, we add up the number of apples produced in each season:
+200 + 160 + 320 = 680
+
+Answer: 680

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Tyrone has 2 $1 bills, which is 2 x $1 = $2
+* Tyrone has 1 $5 bill, which is $5
+* Tyrone has 13 quarters, which is 13 x $0.25 = $3.25
+* Tyrone has 20 dimes, which is 20 x $0.10 = $2.00
+* Tyrone has 8 nickels, which is 8 x $0.05 = $0.40
+* Tyrone has 35 pennies, which is 35 x $0.01 = $0.35
+
+Now, we add up all the amounts:
+$2 + $5 + $3.25 + $2.00 + $0.40 + $0.35 = $13.00
+
+Answer: $13

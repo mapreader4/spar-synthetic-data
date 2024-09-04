@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's first calculate the number of hours the cobbler works in a week. From Monday to Thursday, the cobbler works for 8 hours each day. So, the total number of hours the cobbler works in the first 4 days is 4 * 8 = 32 hours.
+
+On Friday, the cobbler works from 8am to 11am, which is 3 hours. So, the total number of hours the cobbler works in a week is 32 + 3 = 35 hours.
+
+Now, the problem states that the cobbler can mend 3 pairs of shoes in an hour. To find the total number of pairs of shoes the cobbler can mend in a week, we need to multiply the number of hours worked in a week by the number of pairs of shoes mended in an hour. So, the total number of pairs of shoes the cobbler can mend in a week is 35 * 3 = 105.
+
+Answer: 105

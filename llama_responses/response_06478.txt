@@ -1,0 +1,11 @@
+Let's break this down step by step:
+
+1. The corn plants grew 2 inches in the first week.
+2. In the second week, they grew twice as much as they did the first week. Since they grew 2 inches in the first week, they grew 2 * 2 = 4 inches in the second week.
+3. In the third week, they grew 4 times as much as they did the week before. Since they grew 4 inches in the second week, they grew 4 * 4 = 16 inches in the third week.
+
+To find the total height of the corn plants, we add up the inches they grew in each week:
+
+2 inches (first week) + 4 inches (second week) + 16 inches (third week) = 22 inches
+
+Answer: 22

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many marbles each person has initially. We know that Sam has twice as many marbles as Steve, and Sally has 5 less than Sam. So, let's say Sam has x marbles. Then, Steve has x marbles.
+
+We know that Sally has 5 less than Sam, so Sally has x - 5 marbles.
+
+Sam has given Sally and Steve 3 marbles each. So, Sam has given away 6 marbles (3 + 3 = 6).
+
+Now, Sam has 8 marbles left. So, Sam has 8 - 6 = 2 marbles left.
+
+Steve has been given 3 marbles. So, Steve has 3 marbles.
+
+Answer: 3

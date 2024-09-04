@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's assume the number of pots produced in the first hour is x.
+
+In the first hour, it takes 6 minutes to produce each pot, so the total number of pots produced is x * 6.
+
+In the last hour, it takes 5 minutes to produce each pot, so the total number of pots produced is x * 5.
+
+We need to find the difference in the number of pots produced in the last hour compared to the first. To do this, we need to subtract the total number of pots produced in the last hour from the total number of pots produced in the first hour.
+
+So, the difference is (x * 6) - (x * 5).
+
+To simplify this expression, we can simplify it by combining like terms: (x * 6) - (x * 5) = x * (6 - 5).
+
+Since 6 - 5 = 1, we have x * (1) = x.
+
+So, the answer is x pots.
+
+Answer: 1

@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+1. Thomas started saving for a car almost 2 years ago. Since he got a weekly allowance of $50 for the first year, he saved 50 * 52 = $2600 in a year. 
+
+2. In the second year, Thomas got a job that pays $9 an hour and worked 30 hours a week. So, he earned 9 * 30 = $270 per week. In a year, that's 270 * 52 = $14,040. 
+
+3. In the second year, Thomas spent $35 a week on himself. In a year, that's 35 * 52 = $1820. 
+
+4. Thomas saved $2600 in the first year and $14,040 - $1820 = $78,120 in the second year. 
+
+5. The car Thomas wants to buy is $15,000. To find out how much more he needs, we subtract the total amount he has from the price of the car: $15,000 - $78,120 = $3,880.
+
+Answer: 3880

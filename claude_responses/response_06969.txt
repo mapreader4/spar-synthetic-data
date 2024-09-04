@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Turner wants to ride the rollercoaster 3 times
+* Each ride on the rollercoaster costs 4 tickets
+* So for the rollercoaster, he needs 3 x 4 = 12 tickets
+
+* Turner wants to ride the Catapult 2 times
+* Each ride on the Catapult costs 4 tickets
+* So for the Catapult, he needs 2 x 4 = 8 tickets
+
+* Turner wants to ride the Ferris wheel once
+* Each ride on the Ferris wheel costs 1 ticket
+* So for the Ferris wheel, he needs 1 ticket
+
+* To calculate the total number of tickets Turner needs, we add up the tickets for each ride:
+* 12 + 8 + 1 = 21 tickets
+
+Answer: 21

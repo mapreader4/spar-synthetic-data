@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* James has 3 fish tanks
+* 1 of the tanks has 20 fish in it
+* The other two tanks have twice as many fish each as the first tank
+
+To find the total number of fish, we need to:
+1. Calculate the number of fish in the first tank: 20 fish
+2. Calculate the number of fish in the other two tanks:
+   * Each of the other two tanks has twice as many fish as the first tank, so that's 20 x 2 = 40 fish per tank
+   * There are two of these tanks, so the total number of fish in these two tanks is 40 x 2 = 80 fish
+3. Add the number of fish in all three tanks:
+   * 20 fish (first tank) + 80 fish (other two tanks) = 100 total fish
+
+Answer: 100

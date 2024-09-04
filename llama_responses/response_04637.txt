@@ -1,0 +1,9 @@
+To find the total amount of cereal that Travis spends in a year, we need to multiply the amount of cereal he eats per week by the number of weeks in a year.
+
+The amount of cereal he eats per week is 2 boxes, and the cost of each box is $3.00, so the cost per week is 2 * 3.00 = $6.00.
+
+The number of weeks in a year is 52, so we multiply the cost per week by the number of weeks in a year to get the total cost of cereal in a year.
+
+6.00 * 52 = 312.00.
+
+Answer: 312.00

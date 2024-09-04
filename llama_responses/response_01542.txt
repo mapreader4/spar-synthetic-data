@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of nylon needed for the dog collars. It takes 18 inches of nylon to make a dog collar, so to make 9 dog collars, we need:
+
+9 * 18 inches = 162 inches
+
+Next, let's calculate the total amount of nylon needed for the cat collars. It takes 10 inches of nylon to make a cat collar, so to make 3 cat collars, we need:
+
+3 * 10 inches = 30 inches
+
+Now, let's add the total amount of nylon needed for the dog collars and cat collars:
+
+162 inches (for the dog collars) + 30 inches (for the cat collars) = 192 inches
+
+So, Janet needs 192 inches of nylon to make 9 dog collars and 3 cat collars.
+
+Answer: 192

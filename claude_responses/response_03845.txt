@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* On the first day, Keziah and her mom sold all the mushrooms they picked for a total of $58.
+* On the second day, they picked 12 mushrooms.
+* On the third day, they picked double the amount of mushrooms they had picked the previous day, which is 12 x 2 = 24 mushrooms.
+* The price per mushroom was $2.
+
+To find the total number of mushrooms they picked, we need to calculate the number of mushrooms they sold on the first day, and add that to the number of mushrooms they picked on the second and third days.
+
+The number of mushrooms they sold on the first day can be calculated by dividing the total amount they received ($58) by the price per mushroom ($2):
+* 58 / 2 = 29 mushrooms
+
+So, the total number of mushrooms they picked is:
+* 29 (first day) + 12 (second day) + 24 (third day) = 65 mushrooms
+
+Answer: 65

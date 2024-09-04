@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many pictures Alex has taken. She has 960 pictures.
+
+Next, we need to find out how long it takes the program to process each picture. It takes 2 minutes to process each picture.
+
+To find out how many hours it will take to process all the pictures, we can multiply the number of pictures by the time it takes to process one picture. So, we multiply 960 (the number of pictures) by 2 (the time it takes to process one picture).
+
+960 (the number of pictures) * 2 (the time it takes to process one picture) = 1920
+
+Answer: 1920

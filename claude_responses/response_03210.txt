@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+* Anna has a certain number of phone chargers
+* She has five times more laptop chargers than phone chargers
+* She has a total of 24 chargers
+
+Let's call the number of phone chargers 'x'.
+* Then the number of laptop chargers is 5x.
+* The total number of chargers is x + 5x = 6x.
+* We are told the total number of chargers is 24.
+* So 6x = 24
+* Solving for x, we get x = 4
+
+Therefore, Anna has 4 phone chargers.
+
+Answer: 4

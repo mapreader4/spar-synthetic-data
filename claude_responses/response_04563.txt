@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Sharks are fed 4 buckets of fish each day
+* Dolphins are fed half as many buckets as the sharks, so 2 buckets each day
+* Other sea animals are fed 5 times as many buckets as the sharks, so 20 buckets each day
+* In total, the aquarium uses:
+    - Sharks: 4 buckets per day
+    - Dolphins: 2 buckets per day
+    - Other sea animals: 20 buckets per day
+    - Total: 4 + 2 + 20 = 26 buckets per day
+* There are 546 buckets of fish available
+* To find how many weeks this will last, we divide the total number of buckets by the number of buckets used per day:
+    - 546 buckets / 26 buckets per day = 21 days
+* Since there are 7 days in a week, 21 days is equivalent to 3 weeks.
+
+Answer: 3 weeks

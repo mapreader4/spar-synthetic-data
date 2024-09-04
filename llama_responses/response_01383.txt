@@ -1,0 +1,13 @@
+Let's start by using the information that Issac bought 12 more than 5 times the number of pencils than pens. This means that if we let the number of pencils be x, then the number of pens is x - 5. So, we can write an equation to solve for x.
+
+Let's start with the information that the total number of writing utensils is 108. Since there are 12 more pencils than pens, we can write:
+
+x - 5 + x = 108
+
+We can solve for x by subtracting 5 from both sides of the equation:
+
+x - 5 + x = 108
+x - 5 - 5 = 108 - 5
+x = 103
+
+So, Issac bought 103 pens.

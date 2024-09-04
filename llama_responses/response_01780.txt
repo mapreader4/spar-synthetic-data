@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Faith gets paid $13.50 per hour. She works 8 hours a day. So, her daily earnings are:
+
+8 * 13.50 = 108
+
+She works 5 days a week, so her weekly earnings are:
+
+5 * 108 = 540
+
+She also gets 2 hours of overtime per day. So, she earns 2 * 13.50 = 27.00 per day. And she works 5 days a week, so her overtime earnings are:
+
+5 * 27 = 135
+
+Now, let's add her regular earnings to her overtime earnings:
+
+540 + 135 = 675
+
+So, Faith will earn 675 dollars by the end of the week.

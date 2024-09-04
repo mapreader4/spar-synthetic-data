@@ -1,0 +1,5 @@
+Let's start by identifying the total number of hippos. We know that 35 hippos are in the herd, and 5/7 of those are female. To find the number of female hippos, we multiply 35 by 5/7, which gives us 25. The total number of hippos is 25. The number of newborn hippos is 5, so the total number of hippos in the herd is 30.
+
+Now, let's find the total number of elephants. We know that 20 elephants are in the herd, and we want to find the number of newborn elephants. Since the number of newborn elephants is the same as the number of newborn hippos, we can say that the number of newborn elephants is also 5.
+
+The total number of elephants and hippos in the herd is the sum of 20 elephants and 30 hippos. 20 + 30 = 50. There are 50 animals in the herd.

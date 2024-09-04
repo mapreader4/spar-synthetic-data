@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) LaKeisha charges $0.10 for every square foot of lawn.
+2) The book set costs $150.
+3) She has already mowed three 20 x 15 foot lawns.
+4) To calculate the total square feet of the three lawns she has already mowed:
+   - Each lawn is 20 x 15 feet
+   - So each lawn is 20 * 15 = 300 square feet
+   - She has mowed 3 lawns, so the total square feet is 3 * 300 = 900 square feet
+5) To calculate how much money she has earned so far:
+   - She charges $0.10 per square foot
+   - So for 900 square feet, she has earned 900 * $0.10 = $90
+6) The book set costs $150, and she has already earned $90, so she needs to earn $150 - $90 = $60 more.
+7) To calculate how many more square feet she needs to mow:
+   - She charges $0.10 per square foot
+   - So to earn $60 more, she needs to mow 60 / $0.10 = 600 more square feet.
+
+Answer: 600

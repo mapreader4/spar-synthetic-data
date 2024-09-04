@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Janet goes to the gym for 5 hours a week
+* She goes on Monday, Tuesday, Wednesday, and Friday
+* On Monday and Wednesday, she spends 1.5 hours each day
+* So on Monday and Wednesday, she spends a total of 3 hours (1.5 hours x 2 days)
+* That leaves 2 hours (5 hours total - 3 hours on Monday and Wednesday)
+* Since she spends the same amount of time on Tuesday and Friday, and we know she spends 2 hours total on those two days, that means she spends 1 hour on Friday.
+
+Answer: 1 hour

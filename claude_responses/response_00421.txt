@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mrs. Wilsborough saved $500 to buy concert tickets
+* She bought:
+  - 2 VIP tickets at $100 each
+  - 3 regular tickets at $50 each
+* To calculate the total cost of the tickets:
+  - 2 VIP tickets at $100 each = 2 x $100 = $200
+  - 3 regular tickets at $50 each = 3 x $50 = $150
+  - Total cost of tickets = $200 + $150 = $350
+* Now, to calculate how much of her savings Mrs. Wilsborough has left:
+  - She saved $500
+  - She spent $350 on the tickets
+  - $500 - $350 = $150
+
+Answer: 150

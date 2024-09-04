@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Santana has 7 brothers
+* 3 of them have birthdays in March (first half of the year)
+* 1 of them has a birthday in October (second half of the year)
+* 1 of them has a birthday in November (second half of the year)
+* 2 of them have birthdays in December (second half of the year)
+
+For the first half of the year (January to June):
+* Santana buys 3 birthday presents (one for each brother with a March birthday)
+* Santana buys 7 Christmas presents (one for each brother)
+* Total presents in the first half of the year: 3 + 7 = 10
+
+For the second half of the year (July to December):
+* Santana buys 3 birthday presents (one for each brother with an October, November, and December birthday)
+* Santana buys 7 Christmas presents (one for each brother)
+* Total presents in the second half of the year: 3 + 7 = 10
+
+The difference between the number of presents Santana has to buy in the second half of the year and the first half of the year is:
+* 10 - 10 = 0
+
+Answer: 0

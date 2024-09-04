@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The first dig site is 352 years more recent than the second dig site.
+* The third dig site is 3700 years older than the first dig site.
+* The fourth dig site is twice as old as the third dig site.
+* The fourth dig site is dated 8400 BC.
+
+First, let's find the date of the third dig site:
+* The fourth dig site is dated 8400 BC.
+* The fourth dig site is twice as old as the third dig site.
+* So, the third dig site is dated 8400 BC / 2 = 4200 BC.
+
+Now, let's find the date of the first dig site:
+* The third dig site is 3700 years older than the first dig site.
+* So, the first dig site is dated 4200 BC - 3700 years = 500 BC.
+
+Finally, let's find the date of the second dig site:
+* The first dig site is 352 years more recent than the second dig site.
+* So, the second dig site is dated 500 BC + 352 years = 852 BC.
+
+Answer: 852 BC

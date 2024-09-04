@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Philip makes 2 paintings per day
+* He already has 20 paintings
+* We want to know how many paintings he will have after 30 days
+
+To calculate the total number of paintings he will have after 30 days, we need to:
+1. Calculate the number of paintings he will make in 30 days
+2. Add that to the 20 paintings he already has
+
+Step 1: Calculating the number of paintings he will make in 30 days
+* He makes 2 paintings per day
+* So in 30 days, he will make 2 paintings x 30 days = 60 paintings
+
+Step 2: Adding the 60 paintings he will make to the 20 he already has
+* 20 paintings + 60 paintings = 80 paintings
+
+Answer: 80 paintings

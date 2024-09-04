@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 13 rabbits in the cage initially
+* 7 more rabbits are added to the cage
+* So the total number of rabbits in the cage is 13 + 7 = 20
+* The number of rabbits in the cage is 1/3 the number of rabbits Jasper saw in the park today
+* Let's call the number of rabbits Jasper saw in the park today as "x"
+* Then we can say: 20 = 1/3 * x
+* Solving for x, we get: x = 20 * 3 = 60
+
+Answer: 60

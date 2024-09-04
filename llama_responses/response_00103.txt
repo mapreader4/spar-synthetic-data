@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+Janice types 6 sentences per minute. She typed for 20 minutes, which is 6 x 20 = 120 sentences. Then, she typed for 15 more minutes, which is 6 x 15 = 90 sentences. In total, she typed 120 + 90 = 210 sentences. Then, she erased 40 sentences, so she has 210 - 40 = 170 sentences left.
+
+After a meeting, she typed for 18 minutes, which is 6 x 18 = 108 sentences. So, in total, she typed 170 + 108 = 278 sentences. But we know that the paper had 536 sentences by the end of the day. So, she must have started with 536 - 278 = 258 sentences. Therefore, Janice started with 258 sentences today.
+
+Answer: 258

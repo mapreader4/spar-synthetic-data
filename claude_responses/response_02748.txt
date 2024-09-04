@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The initial price of the book is $400.
+2) The book's price is decreased by 15%. To calculate the new price, we take the initial price and subtract 15% of it:
+   $400 - (0.15 * $400) = $400 - $60 = $340
+3) The book's price is then increased by 40%. To calculate the new price, we take the current price and add 40% of it:
+   $340 + (0.40 * $340) = $340 + $136 = $476
+Therefore, the final price of the book is:
+Answer: 476

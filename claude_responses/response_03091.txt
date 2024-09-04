@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Marcy had 22 sodas in her fridge initially
+* Tina gave her 12 plus two times the number of sodas Marcy had before
+* To find the number of sodas Tina gave, we need to calculate two times the number of sodas Marcy had before, which is 2 * 22 = 44
+* Then Tina gave her 12 more sodas, so the total number of sodas Tina gave is 44 + 12 = 56
+* To find the total number of sodas Marcy will have for the party, we add the initial 22 sodas to the 56 sodas Tina gave:
+* 22 + 56 = 78
+
+Answer: 78

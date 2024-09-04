@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many tadpoles there are. Since there are 3 times as many tadpoles as fish, and there are 50 fish, that means there are 3 x 50 = 150 tadpoles.
+
+Curtis catches 7 fish, so the number of fish decreases by 7. So, there are now 50 - 7 = 43 fish in the pond.
+
+Now, half the tadpoles develop into frogs, so half of 150 tadpoles develop into frogs. Half of 150 is 75.
+
+To find out how many tadpoles are left, we subtract the number of tadpoles that developed into frogs from the total number of tadpoles: 150 - 75 = 75 tadpoles.
+
+So, there are 75 tadpoles left. To find out how many more tadpoles there are than fish, we subtract the number of tadpoles from the number of fish: 75 - 43 = 32.
+
+Answer: 32

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. The first suit is an off-the-rack suit that costs $300.
+
+2. The second suit is a tailored suit. The cost of the tailored suit is three times the cost of the off-the-rack suit, plus an extra $200 for tailoring.
+   * Cost of tailored suit = (3 x $300) + $200 = $1,100
+
+3. To find the total cost of both suits, we add the cost of the off-the-rack suit and the cost of the tailored suit:
+   * Total cost = $300 + $1,100 = $1,400
+
+Answer: $1,400

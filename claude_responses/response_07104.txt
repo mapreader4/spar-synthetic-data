@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The truck can carry a maximum of 13,500 kgs of supplies
+* Yesterday, the truck was loaded with:
+  - 100 boxes that weigh 100 kgs each, so 100 * 100 = 10,000 kgs
+  - 10 crates which weigh 60 kgs each, so 10 * 60 = 600 kgs
+  - Total weight from yesterday's load: 10,000 + 600 = 10,600 kgs
+* Today, the truck was loaded with:
+  - 50 sacks which weigh 50 kgs each, so 50 * 50 = 2,500 kgs
+  - Total weight from today's load: 2,500 kgs
+* Total weight loaded so far: 10,600 + 2,500 = 13,100 kgs
+* The truck's maximum capacity is 13,500 kgs
+* Therefore, the remaining capacity is 13,500 - 13,100 = 400 kgs
+* Each bag weighs 40 kgs
+* 400 kgs / 40 kgs per bag = 10 bags
+
+Answer: 10

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of students: 5 third-grade classes with 30 students each is 5 x 30 = 150 students. 4 fourth-grade classes with 28 students each is 4 x 28 = 112 students. 4 fifth-grade classes with 27 students each is 4 x 27 = 108 students. The total number of students is 150 + 112 + 108 = 370 students.
+
+Next, let's find the cost of one lunch for one student: hamburger ($2.10) + carrots ($0.50) + cookie ($0.20) = $2.80.
+
+Now, let's multiply the cost of one lunch by the total number of students: $2.80 x 370 = $1036.
+
+So, the answer is: Answer: 1036

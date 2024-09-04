@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The first center processes 10000 packages per day, and the second center processes three times that volume, so it processes 30000 packages per day. To find the total packages processed per day, we add the two numbers: 10000 + 30000 = 40000.
+
+Now, Amazon makes 5 cents of profit per package. To find the total profit per day, we multiply the total packages processed by the profit per package: 40000 x 0.05 = 2000.
+
+Since the problem asks for the profit per week, we multiply the daily profit by 7, since there are 7 days in a week: 2000 x 7 = 14000.
+
+Answer: 14000

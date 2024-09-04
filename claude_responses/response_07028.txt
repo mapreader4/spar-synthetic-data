@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The studio audience has 100 people.
+2) 40% of the 100 people have an envelope taped underneath their chairs.
+   * 40% of 100 = 0.40 * 100 = 40 people have envelopes.
+3) 20% of the 40 people with envelopes will have "You Won" in their envelope.
+   * 20% of 40 = 0.20 * 40 = 8 people will have "You Won" in their envelope.
+4) The remaining 32 people (40 - 8) will have empty envelopes.
+
+Answer: 8 people will win a prize.

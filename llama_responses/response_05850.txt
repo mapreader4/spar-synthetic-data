@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total amount of money the company pays to its employees.
+
+The total amount of money the company pays to its employees is the total number of employees multiplied by the amount each employee earns. The total number of employees is 450, and each employee earns $2000 per month.
+
+450 x $2000 =?
+
+Step 2: Calculate the total amount of money the company pays to the employees who were not laid off.
+
+The company laid off 1/3 of its employees. 1/3 of 450 is 150.
+
+The company pays the remaining employees, which is 300 employees, $2000 each. The total amount of money the company pays to the remaining employees is:
+
+300 x $2000 =?
+
+Answer: 600,000

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Gunther can type 160 words every 3 minutes. This means that in 1 minute, he can type 160 ÷ 3 = 53.33 words.
+
+Gunther works 480 minutes per day. To find out how many words he can type in a day, we can multiply the number of words he can type in a minute by the number of minutes in a day:
+
+480 minutes / 3 = 160 minutes per minute * 60 = 9600 words
+
+So, Gunther can type 9600 words in a day.

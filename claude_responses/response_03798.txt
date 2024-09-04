@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* John joins the country club with 3 other members of his family
+* The fee to join is $4000 per person
+* There is also a monthly cost of $1000 per person
+* John pays half the cost
+
+First, let's calculate the total cost to join the club:
+* 4 people x $4000 per person = $16,000 total
+
+Now, let's calculate the monthly cost for the first year:
+* 4 people x $1000 per person per month = $4,000 per month
+* $4,000 per month x 12 months = $48,000 total
+
+Since John pays half the cost, we need to divide the total cost by 2:
+* $16,000 + $48,000 = $64,000 total
+* $64,000 / 2 = $32,000
+
+Answer: $32,000

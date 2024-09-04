@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Andrew worked 300 days last year
+* For every 10 days worked, he gets 1 vacation day
+* So, for 300 days worked, he should have earned 30 vacation days (300 / 10 = 30)
+* However, he took 5 days off in March and twice as many in September, which is 10 days (5 x 2 = 10)
+* So, the number of vacation days he has taken so far is 10
+* To calculate the number of vacation days he can still take, we take the total vacation days he has earned (30) and subtract the number he has taken (10)
+* 30 - 10 = 20
+
+Answer: 20

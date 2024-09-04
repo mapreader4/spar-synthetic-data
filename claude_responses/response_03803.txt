@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Tom buys 5 t-shirts from each of his 4 favorite fandoms, so that's a total of 20 t-shirts.
+2. The normal price of each t-shirt is $15.
+3. There is a 20% off sale, so the discounted price of each t-shirt is $15 - (20% of $15) = $15 - $3 = $12 per t-shirt.
+4. The total cost of the 20 t-shirts at the discounted price is 20 * $12 = $240.
+5. The order qualified for free shipping, so there is no additional shipping cost.
+6. Tom needs to pay 10% tax on the $240 total cost. 10% of $240 is $24.
+7. The total amount Tom paid is the discounted cost of the t-shirts plus the tax: $240 + $24 = $264.
+
+Answer: $264

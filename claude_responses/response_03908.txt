@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Michael takes a bath twice a week
+* He takes a shower once a week
+* There are 52 weeks in a year (about one year)
+
+So, in 52 weeks:
+* Baths per year: 2 baths per week x 52 weeks = 104 baths
+* Showers per year: 1 shower per week x 52 weeks = 52 showers
+
+Now, to get the total number of times Michael cleans himself in 52 weeks, we add the number of baths and showers:
+* Total cleanings = 104 baths + 52 showers = 156 cleanings
+
+Answer: 156

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Tim owns two apartment complexes
+* Each apartment complex has 12 apartments
+* He needs to replace the locks in all the apartments
+* He needs 3 keys per lock
+
+First, we need to calculate the total number of apartments:
+* 2 apartment complexes x 12 apartments per complex = 24 total apartments
+
+Next, we need to calculate the total number of keys needed:
+* 24 apartments x 3 keys per lock = 72 keys
+
+Therefore, the answer is:
+Answer: 72

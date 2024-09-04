@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+First, let's find the area of the box. The area of a rectangle is the length times the width. So, the area of the box is 4 * 6 = 24 square inches.
+
+Next, let's find the area of the square block. The area of a square is the side times the side. So, the area of the block is 4 * 4 = 16 square inches.
+
+Now, let's find the area of the box without the block. We need to subtract the area of the block from the area of the box. So, the area of the box without the block is 24 - 16 = 8 square inches.
+
+Answer: 8

@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many ounces of dog food the puppy needs in total. For the first 60 days, it needs 2 ounces per day, so for 60 days, it needs:
+
+60 days x 2 ounces/day = 120 ounces
+
+After the first 60 days, it needs 4 ounces per day, and it will need to eat this special food for another 300 days (1 year - 60 days). So, it needs:
+
+300 days x 4 ounces/day = 1200 ounces
+
+In total, the puppy needs:
+
+120 ounces + 1200 ounces = 1320 ounces
+
+Now, we need to convert this total amount of ounces to pounds. Since there are 16 ounces in a pound, we can divide the total ounces by 16:
+
+1320 ounces / 16 ounces/pound = 82.5 pounds
+
+Since the special dog food is only sold in 5-pound bags, we can divide the total pounds needed by 5:
+
+82.5 pounds / 5 pounds/bag = 16.5 bags
+
+Since we can't buy a fraction of a bag, we need to round up to the nearest whole number. Therefore, the family needs to buy:
+
+Answer: 17

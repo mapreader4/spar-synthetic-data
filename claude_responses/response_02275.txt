@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mary bought 6 apples from the store
+* For each apple that Mary ate, she planted 2 trees from the remaining ones
+* To find the number of apples Mary ate, we need to find the number of apples that were left after she planted the trees
+* Let's call the number of apples Mary ate 'x'
+* The number of apples left after she ate 'x' apples would be 6 - x
+* For each of the (6 - x) apples left, she planted 2 trees
+* So the total number of trees planted would be 2(6 - x)
+* We know that the number of trees planted is equal to 2 times the number of apples eaten, since she planted 2 trees for each apple she ate
+* Therefore, 2(6 - x) = 2x
+* Solving this equation, we get x = 2
+* Therefore, Mary ate 2 apples.
+
+Answer: 2

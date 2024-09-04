@@ -1,0 +1,11 @@
+Let's start by identifying the number of large beads: 528.
+
+Since each bracelet uses 12 large beads, and there are equal amounts of large and small beads, we know that the number of small beads is also 528.
+
+Let's find the total number of beads in total: 528 + 528 = 1056.
+
+Since each bracelet uses 12 large beads, the number of bracelets Caitlin can make is 528 / 12 = 44.
+
+So, Caitlin can make 44 bracelets this weekend.
+
+Answer: 44

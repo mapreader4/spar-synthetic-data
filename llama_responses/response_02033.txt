@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's think about it: each level has the same size. So, if each level can fit the same number of cars, then we can find the number of cars that can fit on each level by dividing the total number of cars by the number of levels.
+
+We know the total number of cars that can fit on each level, so let's call that number x. We know that the total number of cars on all levels is 425.
+
+We also know that there are 5 levels, so we can set up an equation:
+
+x * 5 = 425
+
+To solve for x, we can divide both sides of the equation by 5:
+
+x = 425 / 5
+
+x = 85
+
+So, the number of cars that can fit on each level is 85.
+
+Answer: 85

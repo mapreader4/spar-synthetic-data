@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Grant lost 20 teeth, but he lost two of them accidentally, so he actually lost 20 - 2 = 18 teeth. The tooth fairy left him $20 for his first tooth, so that's one piece of information we can use.
+
+We know that the total amount of money Grant received is $54. We can set up an equation to represent the situation:
+
+Total money = Money for first tooth + Money for remaining teeth
+54 = 20 + (Number of remaining teeth) * (Money per remaining tooth)
+
+We know that the tooth fairy left Grant $20 for his first tooth, so we can substitute that into the equation:
+
+54 = 20 + (18 - 1) * (Money per remaining tooth)
+54 = 20 + 17 * (Money per remaining tooth)
+
+Now we can solve for the money per remaining tooth. First, we can subtract 20 from both sides of the equation:
+
+34 = 17 * (Money per remaining tooth)
+
+Next, we can divide both sides of the equation by 17:
+
+2 = (Money per remaining tooth)
+
+So the tooth fairy left Grant $2 per tooth for each of the remaining 17 teeth. Answer: 2

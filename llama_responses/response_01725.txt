@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total cost of the x-ray and MRI. The cost of the x-ray is $250 and the MRI is triple that cost, so the total cost is 250 + (250 * 3) = 750.
+
+Since the insurance covers 80%, we need to calculate 80% of the total cost. 80% of 750 is 750 * 0.8 = 600.
+
+So, Mike paid 600 dollars for the x-ray and MRI.

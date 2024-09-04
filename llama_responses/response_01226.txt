@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Nina sold 5 necklaces at $25.00 each, so the total amount of money she made from necklaces is 5 x 25 = 125.00.
+
+Nina sold 10 bracelets at $15.00 each, so the total amount of money she made from bracelets is 10 x 15 = 150.00.
+
+Nina sold 20 earrings at $10.00 each, so the total amount of money she made from earrings is 20 x 10 = 200.00.
+
+Nina sold 2 complete jewelry ensembles at $45.00 each, so the total amount of money she made from ensembles is 2 x 45 = 90.00.
+
+Now, let's add up the total amount of money Nina made from all her sales:
+
+125.00 + 150.00 + 200.00 + 90.00 = 465.00
+
+Answer: 465

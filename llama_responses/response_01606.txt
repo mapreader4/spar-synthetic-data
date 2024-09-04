@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, let's find out how much Maya can lift initially. Since she can lift a fourth of what America can lift, and America can lift 240 pounds, Maya can lift 240 / 4 = 60 pounds.
+
+Now, America can lift 300 pounds after growing stronger. Maya can add 10 pounds to what she previously could lift, so she can lift 60 + 10 = 70 pounds.
+
+Maya reaches her absolute peak and can lift half of what America can lift, which is 300 / 2 = 150 pounds.
+
+To find out how many more pounds Maya can lift now than when she started, we need to subtract her initial lift from her current lift: 150 - 60 = 90 pounds.
+
+Answer: 90

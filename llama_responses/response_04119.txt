@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+The first month, Grant made 350$.  The second month, he made 50 more than double the first month, so he made 350 + 50 = 400.  The third month, he quadrupled the sum of the first two months, so he made 350 + 400 * 4 = 1540.
+
+The total amount Grant made in his first three months is the sum of the three months: 350 + 400 + 1540 = 1890.
+
+Answer: 1890.

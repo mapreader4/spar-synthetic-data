@@ -1,0 +1,17 @@
+Let's call the number of cookies in the jar "x". 
+
+If taking 1 cookie away would leave half as many cookies in the jar as if 5 were added, that means that 1 cookie is the same as 5 cookies. 
+
+So, if we take away 1 cookie, the number of cookies left is x - 1. If that is the same as if 5 were added, then the number of cookies left is x - 1 = x + 5.
+
+This means that x - 1 = x + 5. 
+
+Subtracting x from both sides of the equation, we get:
+
+x - 1 - x = x + 5 - x. 
+
+This simplifies to 0 = 5. 
+
+So, 0 = 5. 
+
+Answer: 5

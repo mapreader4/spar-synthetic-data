@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The team has 11 players
+* 5 of the players didn't receive any yellow cards
+* The remaining 6 players each received 1 yellow card
+* Each red card corresponds to 2 yellow cards
+
+To find the number of red cards the whole team would collect, we need to first find the total number of yellow cards received by the team.
+
+The total number of yellow cards received by the team is:
+* 6 players x 1 yellow card each = 6 yellow cards
+
+Now, we know that each red card corresponds to 2 yellow cards, so we can divide the total number of yellow cards by 2 to find the number of red cards.
+
+The number of red cards the whole team would collect is:
+* 6 yellow cards / 2 = 3 red cards
+
+Answer: 3

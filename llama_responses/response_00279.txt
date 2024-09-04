@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Robi starts by saving $2 in January, so the total savings in January is $2.
+
+In February, he saves $4, so the total savings becomes $2 + $4 = $6.
+
+In March, he saves $8, so the total savings becomes $6 + $8 = $14.
+
+Let's continue this pattern for 6 months. In each month, Robi saves an amount that is 2 more than the previous month. So, the amounts he saves in the next months are:
+
+April: $10
+May: $12
+June: $14
+
+The total savings in the 4th month is $14, and in the 5th month is $16, and in the 6th month is $18.
+
+To find the total savings after 6 months, we add the amounts saved in each month:
+
+$2 + $4 + $8 + $10 + $12 + $14 + $16 + $18 = $54
+
+Answer: 54

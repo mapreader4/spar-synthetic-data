@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Michael scored 260 points during his junior year
+* During his senior year, he scored 20% more points than his junior year
+* To calculate 20% more points:
+    - 20% of 260 points = 0.20 * 260 = 52 points
+    - So he scored 260 + 52 = 312 points during his senior year
+* To calculate the total points he scored during both years:
+    - Junior year: 260 points
+    - Senior year: 312 points
+    - Total points scored during both years = 260 + 312 = 572 points
+
+Answer: 572

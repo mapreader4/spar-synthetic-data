@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Sienna gave Bailey half of her suckers. Let's call the number of suckers Sienna has initially as x. So, Bailey got x/2 suckers.
+
+Jen ate half of what Bailey got, so Jen ate (x/2)/2 = x/4 suckers.
+
+Molly got the rest, which is x - x/2 - x/4 = x/4 suckers.
+
+Molly ate 2 and gave the rest to Harmony. Harmony got x/4 - 2 suckers.
+
+Harmony kept 3 and passed the remainder to Taylor. Taylor got x/4 - 2 - 3 = x/4 - 5 suckers.
+
+Taylor ate one and gave the last 5 to Callie. So, Callie got x/4 - 5 - 1 = x/4 - 6 suckers.
+
+Now, we can set up an equation to represent Jen's suckers eaten:
+
+x/4 = number of suckers Jen ate
+
+We know that x is the total number of suckers Sienna had initially, and Jen ate half of Bailey's suckers, which is x/2, and then half of that, which is x/4.
+
+Answer: 2

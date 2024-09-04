@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John buys 3 dress shirts
+2) Each dress shirt sells for $20
+3) To calculate the total cost of the shirts before tax, we multiply the number of shirts (3) by the price per shirt ($20):
+   3 x $20 = $60
+4) Now we need to calculate the tax, which is 10% of the total cost before tax.
+   10% of $60 = 0.10 x $60 = $6
+5) To get the total amount John paid, we add the cost of the shirts ($60) and the tax ($6):
+   $60 + $6 = $66
+
+Answer: $66

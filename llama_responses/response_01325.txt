@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's first calculate the money she earned last month. She earned $1000.
+
+This month, she received a 10% raise. To find out how much she will earn this month, we multiply her previous earnings by 1.1 (1 + 0.1). This is because a 10% raise is the same as a 1.1 times her previous amount.
+
+1000 * 1.1 = 1100
+
+So, she will earn 1100 this month. To find the total amount for the two months, we add her earnings for both months.
+
+1000 + 1100 = 1200
+
+Answer: 1200

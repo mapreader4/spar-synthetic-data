@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. The building has 4 floors, and each floor has 10 rooms, so the total number of rooms is 4 * 10 = 40 rooms.
+
+2. It takes Legacy 6 hours to clean one room, so the total number of hours to clean all the rooms is 6 * 40 = 240 hours.
+
+3. Legacy earns $15 per hour of work, so the total amount of money she makes is 240 hours * $15 = 3600.
+
+Answer: 3600

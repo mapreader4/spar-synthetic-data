@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The casino table pays 3:2 for a blackjack with the first 2 cards.
+2) This means that if you bet $1, you would receive $1.50 if you get a blackjack.
+3) You were paid $60 for your blackjack.
+4) To find your original bet, we can use the 3:2 payout ratio:
+* If you bet $x and received $60, then $60 = 1.5x
+* Solving for x, we get x = $60 / 1.5 = $40
+
+Answer: $40

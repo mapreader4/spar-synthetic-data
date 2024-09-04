@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The full marker has enough ink to paint three 4 inch by 4 inch squares.
+2) The area of each 4 inch by 4 inch square is 4 inches x 4 inches = 16 square inches.
+3) The total area that can be painted with the full marker is 3 x 16 square inches = 48 square inches.
+4) TreShaun colors in two 6 inch by 2 inch rectangles.
+5) The area of each 6 inch by 2 inch rectangle is 6 inches x 2 inches = 12 square inches.
+6) The total area colored in is 2 x 12 square inches = 24 square inches.
+7) The remaining area that can be painted is 48 square inches - 24 square inches = 24 square inches.
+8) To calculate the percentage of ink left, we take the remaining area (24 square inches) and divide it by the total area (48 square inches), then multiply by 100:
+(24 / 48) x 100 = 50%
+
+Answer: 50

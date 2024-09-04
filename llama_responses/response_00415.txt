@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start with the puppy's initial weight, which is 6 pounds at 7 weeks old.
+
+At 9 weeks old, the puppy doubled in weight, so its weight is 6 * 2 = 12 pounds.
+
+At 3 months old, the puppy doubled in weight again, so its weight is 12 * 2 = 24 pounds.
+
+At 5 months old, the puppy doubled in weight again, so its weight is 24 * 2 = 48 pounds.
+
+Finally, by the time the dog is one year old, it added 30 pounds to its weight, so its final weight is 48 + 30 = 78 pounds.
+
+Answer: 78

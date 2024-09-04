@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+1) Euston had 20 more carriages than Norfolk.
+2) Norwich had 100 carriages.
+3) Flying Scotsman had 20 more carriages than Norwich.
+4) Euston had 130 carriages.
+
+Since Euston had 20 more carriages than Norfolk, we can say that Norfolk had 130 - 20 = 110 carriages.
+
+Since Flying Scotsman had 20 more carriages than Norwich, we can say that Flying Scotsman had 100 + 20 = 120 carriages.
+
+Now, to find the total number of carriages, we add up the carriages from each town:
+Euston: 130 carriages
+Norfolk: 110 carriages
+Norwich: 100 carriages
+Flying Scotsman: 120 carriages
+
+Total carriages = 130 + 110 + 100 + 120 = 460 carriages.
+
+Answer: 460

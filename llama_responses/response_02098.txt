@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many eggs each hen lays. Since each hen lays one egg, we don't need to do anything here - it's already stated that each hen lays one egg.
+
+Next, we need to find out how many eggs are laid by all the hens. There are 270 hens, and each hen lays one egg, so we can multiply the number of hens by the number of eggs each hen lays:
+
+270 hens x 1 egg/hen = 270 eggs
+
+Now, we need to add the number of eggs laid by the roosters. Since it's not specified how many eggs each rooster lays, we can assume that each rooster lays zero eggs (since roosters don't typically lay eggs). There are 3 roosters, so we can multiply the number of roosters by the number of eggs each rooster lays:
+
+3 roosters x 0 eggs/rooster = 0 eggs
+
+Now, we can add the number of eggs laid by the hens and the roosters to get the total number of eggs:
+
+270 eggs + 0 eggs = 270 eggs
+
+Since Ms. Mosel puts the eggs in boxes of 6, we can divide the total number of eggs by 6 to find out how many boxes she fills:
+
+270 eggs ÷ 6 eggs/box = 45 boxes
+
+Since Ms. Mosel does this every day from Monday to Sunday, we can multiply the number of boxes she fills each day by 7 to find out how many boxes she fills each week:
+
+45 boxes/day x 7 days/week = 315 boxes
+
+Answer: 315

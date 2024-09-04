@@ -1,0 +1,22 @@
+Let's break down the problem step by step.
+
+First, let's find out how many dozens are in a dozen.
+
+A dozen is equal to 12. So, if Chloe bought 50 dozen, she has 50 * 12 = 600 strawberries.
+
+Next, let's find out how many strawberries she sold. She sold half a dozen, which is equal to 6.
+
+She sold 6 dozens, which is equal to 6 * 12 = 72 strawberries.
+
+So, she sold 72 strawberries. She bought 600 strawberries for 50 dollars. So, the cost price of each strawberry is 600 / 50 = 12.
+
+She sold 72 strawberries for 30 dollars. So, the selling price of each strawberry is 72 / 6 = 12.
+
+To find out her profit, we need to subtract the cost price from the selling price.
+
+Cost price per strawberry = 12
+Selling price per strawberry = 12
+
+Profit = Selling price - Cost price = 12 - 12 = 0
+
+Chloe's profit is 0 dollars.

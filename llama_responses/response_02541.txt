@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's first find the distance the bald eagle travels in 30 seconds.
+
+The bald eagle's speed is 100 miles per hour. To find the distance it travels in 30 seconds, we need to convert 30 seconds to hours. We can do this by dividing 30 seconds by 3600 (since there are 60 seconds in a minute and 60 minutes in an hour).
+
+30 seconds ÷ 60 = 0.5 hours
+
+Now, the distance the bald eagle travels in 0.5 hours is:
+
+0.5 hours × 100 miles per hour = 50 miles
+
+The peregrine falcon's speed is twice the speed of the bald eagle, so its speed is 200 miles per hour. To find the time it takes for the peregrine falcon to dive the same distance, we can use the formula:
+
+time = distance / speed
+
+We can plug in the values:
+
+time = distance / 200
+
+time = 50 miles / 200
+
+time = 0.25 hours
+
+Since there are 3600 seconds in an hour, we can convert 0.25 hours to seconds by multiplying by 3600:
+
+0.25 hours × 3600 = 900 seconds
+
+Answer: 900

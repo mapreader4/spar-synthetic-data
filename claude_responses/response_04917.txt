@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lizzy has 540 pounds of fish to ship
+2) The fish are packed into 30-pound crates
+3) To find the number of crates needed, we divide the total weight (540 pounds) by the weight per crate (30 pounds):
+   540 pounds / 30 pounds per crate = 18 crates
+4) The shipping cost for each crate is $1.5
+5) To find the total shipping cost, we multiply the number of crates (18) by the cost per crate ($1.5):
+   18 crates x $1.5 per crate = $27
+
+Answer: $27

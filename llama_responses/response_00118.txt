@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the number of objects Jeanette can juggle in the first week is 3.
+
+In the second week, she can juggle 3 + 2 = 5 objects, so she can juggle 5 objects.
+
+In the third week, she can juggle 5 + 2 = 7 objects, so she can juggle 7 objects.
+
+In the fourth week, she can juggle 7 + 2 = 9 objects, so she can juggle 9 objects.
+
+In the fifth week, she can juggle 9 + 2 = 11 objects, so she can juggle 11 objects.
+
+Answer: 11

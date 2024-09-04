@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of marbles that are not yellow. Since 20 marbles are yellow, the remaining marbles are not yellow. Since half as many are green, that means 20/2 = 10 are green. The remaining marbles are red and blue. We can set up an equation to represent this:
+
+Let x be the number of blue marbles.
+
+The total number of marbles that are not yellow is 20 + 10 = 30. The total number of marbles is 60. So, the number of blue marbles is x, and the number of red marbles is 60 - x.
+
+We can set up an equation to represent this:
+
+x + (60 - x) = 30
+
+To solve for x, we can subtract 60 from both sides of the equation:
+
+x = 30 - 60 + x
+
+x = 30
+
+x = 30
+
+So, the number of blue marbles is 30. To express this as a percentage, we can divide 30 by 60:
+
+(30 / 60) * 100 = 50%
+
+Answer: 50

@@ -1,0 +1,5 @@
+To solve this problem, I will first calculate the number of letters James writes in a year.
+
+James writes a 3-page letter to 2 different friends twice a week. 2 * 3 = 6 pages are written each week. There are 52 weeks in a year. So, James writes 6 * 52 = 312 pages in a year.
+
+Answer: 312

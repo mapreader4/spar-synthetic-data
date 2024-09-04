@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. Lowella got 35% of the 100-item exam correct.
+   * 35% of 100 = 0.35 * 100 = 35 correct answers
+
+2. Pamela got 20% more correct answers than Lowella.
+   * 20% more than 35 = 1.2 * 35 = 42 correct answers
+
+3. Mandy got twice Pamela's score.
+   * Pamela got 42 correct answers
+   * Mandy got 2 * 42 = 84 correct answers
+
+Answer: 84

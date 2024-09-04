@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The school initially has 14 boys and 10 girls.
+2) 4 boys and 3 girls drop out.
+3) To find the number of boys left, we take the initial number of boys (14) and subtract the number of boys who dropped out (4).
+   * Number of boys left = 14 - 4 = 10
+4) To find the number of girls left, we take the initial number of girls (10) and subtract the number of girls who dropped out (3).
+   * Number of girls left = 10 - 3 = 7
+5) Therefore, the total number of students left is the sum of the boys and girls left.
+   * Total students left = 10 boys + 7 girls = 17
+
+Answer: 17

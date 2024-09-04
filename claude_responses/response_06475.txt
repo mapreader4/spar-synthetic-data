@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) We are given that three times the sum of marbles that Atticus, Jensen, and Cruz have is equal to 60.
+2) We are also given that Atticus has half as many marbles as Jensen, and Atticus has 4 marbles.
+3) Since Atticus has half as many marbles as Jensen, we can say that Jensen has 8 marbles (2 times Atticus' 4 marbles).
+4) Now, we can set up an equation to solve for the number of marbles Cruz has:
+3 * (Atticus' marbles + Jensen's marbles + Cruz's marbles) = 60
+3 * (4 + 8 + Cruz's marbles) = 60
+3 * (12 + Cruz's marbles) = 60
+36 + 3 * Cruz's marbles = 60
+3 * Cruz's marbles = 24
+Cruz's marbles = 8
+
+Answer: 8

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of 10 books. The cost of each book is $5, so the total cost of 10 books is 10 x 5 = 50.
+
+Next, we need to find the discount. The discount is $0.5 per book, and there are 10 books, so the total discount is 10 x 0.5 = 5.
+
+Now, we need to subtract the discount from the total cost of the books. 50 - 5 = 45.
+
+Answer: 45

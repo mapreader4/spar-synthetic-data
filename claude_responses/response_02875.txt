@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) We are given that Ken's house is twice as far from Dawn's house as Mary's house along a certain road.
+2) We are also given that Ken's house is 4 miles away from Dawn's house along this same road.
+3) This means that Mary's house is 2 miles away from Dawn's house along this road.
+4) If Ken goes from his house to Dawn's house, then to Mary's house, and then back to Dawn's house before going back to his own house, the total distance he will cover is:
+* 4 miles (from Ken's house to Dawn's house)
+* 2 miles (from Dawn's house to Mary's house)
+* 4 miles (from Mary's house back to Dawn's house)
+* 4 miles (from Dawn's house back to Ken's house)
+5) Adding these distances, we get:
+4 + 2 + 4 + 4 = 14 miles
+
+Answer: 14 miles

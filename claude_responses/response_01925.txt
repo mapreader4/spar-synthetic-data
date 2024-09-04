@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Tyson can swim at a speed of 3 miles per hour in a lake
+* Tyson can swim at a speed of 2.5 miles per hour in an ocean
+* This season, half his races happened in lakes and half his races happened in the ocean
+* He had 10 total races, each of which was 3 miles long
+
+To calculate the total time spent in his races, we need to find the time it took him to complete each race and then add them all up.
+
+For the races in the lake:
+* Speed in the lake = 3 miles per hour
+* Distance of each race = 3 miles
+* Time for each lake race = Distance / Speed = 3 miles / 3 miles per hour = 1 hour
+
+For the races in the ocean:
+* Speed in the ocean = 2.5 miles per hour
+* Distance of each race = 3 miles
+* Time for each ocean race = Distance / Speed = 3 miles / 2.5 miles per hour = 1.2 hours
+
+Total time spent in all races:
+* 5 races in the lake at 1 hour each = 5 hours
+* 5 races in the ocean at 1.2 hours each = 6 hours
+* Total time = 5 hours + 6 hours = 11 hours
+
+Answer: 11 hours

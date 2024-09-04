@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Mike bought the DVD for $5 at the store.
+2) Steve needed to order the DVD online, which cost him twice as much as Mike paid.
+   * Since Mike paid $5, Steve's DVD cost 2 x $5 = $10.
+3) In addition, Steve needed to pay the shipping costs, which were 80% of the price of the film he ordered.
+   * The price of the film he ordered was $10.
+   * The shipping costs were 80% of $10, which is 0.8 x $10 = $8.
+4) To get the total amount Steve paid, we add the cost of the DVD ($10) and the shipping costs ($8):
+   * $10 + $8 = $18.
+
+Answer: 18

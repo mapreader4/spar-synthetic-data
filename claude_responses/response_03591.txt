@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Pima invested $400 in Ethereum.
+2) In the first week, the investment gained 25% in value.
+   * 25% of $400 = 0.25 * $400 = $100
+   * So, the investment is now worth $400 + $100 = $500.
+3) In the second week, the investment gained an additional 50% on top of the previous gain.
+   * 50% of $500 = 0.50 * $500 = $250
+   * So, the investment is now worth $500 + $250 = $750.
+
+Answer: $750

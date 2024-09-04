@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* John buys 2 dozen cookies
+* 1 dozen = 12 cookies
+* So, 2 dozen = 2 x 12 = 24 cookies
+* John eats 3 cookies
+* To find the number of cookies he has left, we take the total number of cookies (24) and subtract the number he ate (3)
+* 24 - 3 = 21
+
+Answer: 21

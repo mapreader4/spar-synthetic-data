@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* The t-shirt is $10 more expensive than the socks.
+* The socks cost $5.
+* The jeans are twice the price of the t-shirt.
+
+Let's represent the price of the socks as x.
+The equation for the price of the jeans is 2x, since they are twice the price of the t-shirt.
+
+We know that the price of the socks is $5, so we can set up an equation for the price of the jeans:
+
+2x = 5 + 10
+
+We can subtract 5 from both sides of the equation to get:
+
+2x = 5
+
+Now, we can solve for x:
+
+x = 5/2
+x = 2.5
+
+So, the price of the jeans is $2.50.
+
+Answer: 2.50

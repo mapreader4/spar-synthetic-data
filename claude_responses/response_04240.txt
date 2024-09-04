@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Diane is currently 16 years old
+* When Diane turns 30, she will be half the age of Alex
+* When Diane turns 30, she will be twice as old as Allison
+* So, when Diane is 30, Alex will be 60 (twice Diane's age)
+* And when Diane is 30, Allison will be 15 (half Diane's age)
+* Therefore, the current ages of Alex and Allison are:
+* Alex's current age = 60 - 14 = 46
+* Allison's current age = 15 - 14 = 1
+
+To find the sum of their current ages:
+* Alex's current age: 46
+* Allison's current age: 1
+* Sum of their ages: 46 + 1 = 47
+
+Answer: 47

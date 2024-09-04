@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the sum of the scores Randy got in his first four quizzes.
+
+90 + 98 + 92 + 94 = 374
+
+Next, we need to find the average of these scores. To do this, we divide the sum by the number of quizzes.
+
+374 ÷ 4 = 93.5
+
+Randy wants a 94 average, so we need to find the score that will bring his average to 94.
+
+94 - 93.5 = 0.5
+
+To get a 0.5 above 93.5, Randy needs to get a score of 95 in the 5th quiz.
+
+Answer: 95

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The builder purchased 7 boxes of bolts, with each box containing 11 bolts.
+   * Total number of bolts = 7 boxes x 11 bolts per box = 77 bolts
+2) The builder purchased 3 boxes of nuts, with each box containing 15 nuts.
+   * Total number of nuts = 3 boxes x 15 nuts per box = 45 nuts
+3) The builder had 3 bolts and 6 nuts left over after finishing the project.
+   * Bolts used = 77 bolts - 3 bolts left over = 74 bolts
+   * Nuts used = 45 nuts - 6 nuts left over = 39 nuts
+Therefore, the number of bolts and nuts used for the project is:
+Answer: 74 bolts and 39 nuts.

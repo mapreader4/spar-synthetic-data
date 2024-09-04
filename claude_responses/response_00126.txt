@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Bob has 10 roommates
+* John has five more roommates than twice as many as Bob
+* To find the number of roommates John has, we first need to calculate twice as many as Bob
+* Twice as many as Bob is 2 x 10 = 20 roommates
+* John has five more roommates than 20, which is 20 + 5 = 25 roommates
+
+Answer: 25

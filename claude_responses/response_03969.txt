@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Students normally get 20 minutes for recess
+* Every A got them 2 extra minutes of recess
+* There were 10 As, so that's 10 * 2 = 20 extra minutes
+* Every B got them 1 extra minute of recess
+* There were 12 Bs, so that's 12 * 1 = 12 extra minutes
+* Every C got them 0 extra minutes
+* There were 14 Cs, so that's 0 extra minutes
+* Every D got them 1 less minute
+* There were 5 Ds, so that's 5 * (-1) = -5 minutes
+
+Now, we add up all the extra minutes:
+* 20 + 12 + 0 - 5 = 27 extra minutes
+
+Finally, we add the extra minutes to the normal 20 minutes of recess:
+* 20 + 27 = 47 minutes
+
+Answer: 47

@@ -1,0 +1,13 @@
+Let's start by identifying the information given in the problem. We know that Bridget counted 14 shooting stars, Reginald counted two fewer shooting stars than Bridget, and Sam counted four more shooting stars than Reginald.
+
+Let's let the number of shooting stars that Reginald counted be x. Then, the number of shooting stars that Bridget counted is x - 2. The number of shooting stars that Sam counted is x + 4.
+
+The average number of shooting stars observed for the three of them is the average of the number of shooting stars counted by each of them. This can be calculated as (14 + (x - 2) + (x + 4)) / 3.
+
+To find the number of shooting stars counted by Sam that is more than the average, we need to find the value of x. We can do this by solving the equation (14 + (x - 2) + (x + 4)) / 3 = 16.
+
+We can solve for x in the equation by adding 2 to both sides of the equation and then subtracting 16 from both sides to get 14. This gives us the value of x, which is 7.
+
+Sam counted 7 + 4 = 11 shooting stars, which is more than the average number of shooting stars observed for the three of them. Therefore, the answer is:
+
+Answer: 11

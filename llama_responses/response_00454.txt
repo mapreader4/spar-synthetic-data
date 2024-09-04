@@ -1,0 +1,10 @@
+Let's break down the newscast into its components:
+
+* 12 minutes of national news
+* 5 minutes of international news
+* 5 minutes of sports
+* 2 minutes of weather forecasts
+
+The total time for the news is 12 + 5 + 5 + 2 = 22 minutes. The remaining time is the time for advertisements, which is the difference between the total time for the news and the total time for the newscast, which is 30 minutes. 
+
+Answer: 30

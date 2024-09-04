@@ -1,0 +1,29 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the number of books in each level of the pyramid. Since the top level has 64 books, we know that the fourth level has 64 books.
+
+Since the number of books in each level is 80% of the number of books in the previous level, we can calculate the number of books in the third level by multiplying 64 by 0.8 (or 80% as a decimal):
+
+64 x 0.8 = 51.2
+
+So, the third level has 51.2 books.
+
+Since the number of books in each level is 80% of the number of books in the previous level, we can calculate the number of books in the second level by multiplying 51.2 by 0.8 (or 80% as a decimal):
+
+51.2 x 0.8 = 40.96
+
+So, the second level has 40.96 books.
+
+Finally, the number of books in the first level is 40.96 x 0.8 (or 80% as a decimal):
+
+40.96 x 0.8 = 32.768
+
+So, the first level has 32.768 books.
+
+To find the total number of books in the pyramid, we add the number of books in each level:
+
+64 + 51.2 + 40.96 + 32.768 = 148.968
+
+Rounding the answer to the nearest whole number, we get:
+
+Answer: 149

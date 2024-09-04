@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Sadie runs through the forest at an average speed of 3 miles per hour for 2 hours.
+   * Distance covered by Sadie = 3 miles per hour x 2 hours = 6 miles
+
+2. Ariana sprints across the open field at 6 miles per hour for 0.5 hours (half an hour).
+   * Distance covered by Ariana = 6 miles per hour x 0.5 hours = 3 miles
+
+3. Sarah runs along the beach at 4 miles per hour.
+   * To find the time Sarah ran, we need to subtract the time Sadie and Ariana ran from the total time of 4.5 hours:
+   * Total time = 4.5 hours
+   * Time Sadie ran = 2 hours
+   * Time Ariana ran = 0.5 hours
+   * Time Sarah ran = 4.5 hours - 2 hours - 0.5 hours = 2 hours
+   * Distance covered by Sarah = 4 miles per hour x 2 hours = 8 miles
+
+4. To find the total distance of the race, we add the distances covered by each runner:
+   * Total distance = Distance covered by Sadie + Distance covered by Ariana + Distance covered by Sarah
+   * Total distance = 6 miles + 3 miles + 8 miles = 17 miles
+
+Answer: 17 miles

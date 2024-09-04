@@ -1,0 +1,7 @@
+Let's start by calculating the amount of money each member pays towards snacks. Each member pays 150 dollars for snacks, so the total amount paid for snacks is 6 x 150 = 900 dollars.
+
+Next, let's calculate the cost for hardcover books. Each member pays 30 dollars each for 6 hardcover books, so the total cost for hardcover books is 6 x 30 = 180 dollars. Then, let's calculate the cost for paperback books. Each member pays 12 dollars each for 6 paperback books, so the total cost for paperback books is 6 x 12 = 72 dollars.
+
+Now, let's add the total cost for snacks and the cost for hardcover and paperback books to get the total amount Niles collects. The total is 900 + 180 + 72 = 1152 dollars. 
+
+Answer: 1152

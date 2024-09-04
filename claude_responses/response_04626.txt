@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) The cost of building the certain house is 100,000 more than the construction cost of each of the other houses in the area.
+2) The other houses sell for $320,000 each.
+3) The certain house sells for 1.5 times as much as the other houses.
+4) To calculate the selling price of the certain house:
+   - The other houses sell for $320,000 each
+   - The certain house sells for 1.5 times as much
+   - So the selling price of the certain house is 1.5 * $320,000 = $480,000
+5) To calculate the profit made by spending the extra money to build the certain house:
+   - The construction cost of the other houses is unknown, but we know the certain house costs 100,000 more to build
+   - The selling price of the certain house is $480,000
+   - The selling price of the other houses is $320,000
+   - So the extra profit made by spending the extra $100,000 to build the certain house is $480,000 - $320,000 = $160,000
+
+Answer: $160,000

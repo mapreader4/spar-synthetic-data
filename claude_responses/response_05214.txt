@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* When Derek was 6 years old, he had 3 times as many dogs as cars.
+* So if he had 90 dogs, then he must have had 30 cars (90 / 3 = 30).
+* 10 years later, he sold some of his dogs and bought 210 more cars.
+* The number of cars then became twice the number of dogs.
+* Let's call the current number of dogs 'x'.
+* Then the number of cars is 2x.
+* We know that 10 years after Derek was 6, the number of cars became 240 (30 + 210).
+* So 2x = 240, which means x = 120.
+* Therefore, Derek currently has 120 dogs.
+
+Answer: 120

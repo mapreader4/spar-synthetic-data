@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the price of the computer at the first store. The price is 950, and with a 6% discount, the discounted price is:
+
+950 - (6/100 * 950) = 950 - 57 = 893
+
+Now, let's find the price of the computer at the second store. The price is 920, and with a 5% discount, the discounted price is:
+
+920 - (5/100 * 920) = 920 - 46 = 874
+
+Now, let's find the difference in price between the two stores:
+
+874 - 893 = 19
+
+Answer: 19

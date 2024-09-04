@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the number of students who have puppies. We know that 80% of the 40 students have puppies, so we can multiply 0.8 x 40 = 32 students have puppies.
+
+Next, we know that 25% of these students with puppies also have parrots. So, we can multiply 0.25 x 32 = 8 students have both puppies and parrots.
+
+Answer: 8

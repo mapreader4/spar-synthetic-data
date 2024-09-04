@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Hortense planted 25 daisy seeds and 25 sunflower seeds.
+2) 60% of the daisy seeds germinate. To calculate this, we take 60% of 25 daisy seeds:
+   * 60% of 25 = 0.6 * 25 = 15 daisy plants germinate
+3) 80% of the sunflower seeds germinate. To calculate this, we take 80% of 25 sunflower seeds:
+   * 80% of 25 = 0.8 * 25 = 20 sunflower plants germinate
+4) 80% of the resulting plants produce flowers. This means that 80% of the 15 daisy plants and 80% of the 20 sunflower plants will produce flowers.
+   * 80% of 15 daisy plants = 0.8 * 15 = 12 daisy plants produce flowers
+   * 80% of 20 sunflower plants = 0.8 * 20 = 16 sunflower plants produce flowers
+5) In total, Hortense will grow 12 daisy plants and 16 sunflower plants that produce flowers.
+
+Answer: 28

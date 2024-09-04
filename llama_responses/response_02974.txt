@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+James first learns the rules of chess in 2 hours. Then, it takes him 49 times that long to get a level of proficiency to start playing in local tournaments. 
+
+So, the time spent learning the rules and getting proficient is 2 + 49 = 51 hours.
+
+After that, he devotes his life to chess and spends 100 times as much as the combined time to get proficient to becoming a master. 
+
+Since 100 * 51 = 5100, the total time spent is 51 + 5100 = 5151.
+
+Answer: 5151

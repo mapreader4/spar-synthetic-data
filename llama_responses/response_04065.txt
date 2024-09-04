@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by identifying the information we know. Max has 5 points, and Dulce has 3 points. We also know that Val has twice the combined points of Max and Dulce. We can represent this as 2(5 + 3) = 8.
+
+Now, if we add the points of Max, Dulce, and Val together, we get 5 + 3 + 8 = 16. The opponents' team has a total of 40 points. So, to find the points their team is behind, we subtract 16 from 40. The answer is:
+
+Answer: 24.

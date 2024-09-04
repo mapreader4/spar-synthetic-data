@@ -1,0 +1,27 @@
+Let's break it down step by step.
+
+Let's say Jackson has x dollars, and Williams has y dollars. The problem states that Jackson has 5 times as much money as Williams, so we know that x = 5y.
+
+We know that the total money they have is 150 dollars, so we can set up the equation as:
+
+x + y = 150
+
+We can subtract y from both sides of the equation to get x = 150 - y.
+
+The problem asks for Jackson's money, so we need to know what x is. We can substitute x for x in the equation to get:
+
+x = 150 - y
+
+We don't know what y is, but we know that x = 5y. We can substitute this in the equation:
+
+5y = 150 - y
+
+We can subtract y from both sides of the equation to get 5y - y = 150.
+
+We can subtract y from both sides of the equation to get:
+
+5 - 1 = 150
+
+The answer is:
+
+Answer: 5

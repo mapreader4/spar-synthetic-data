@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+First, let's find the number of students in the orchestra and the band. The problem states that there are 20 students in the orchestra and twice that number in the band. So, the number of students in the band is 2 x 20 = 40.
+
+Now, let's find the number of students in the choir. The problem states that there are 12 boys and 16 girls in the choir. Since we are only counting the total number of students, we can add the number of boys and girls: 12 + 16 = 28.
+
+Now, let's find the total number of students in the orchestra, the band, and the choir. We already found the number of students in the orchestra and the band, which is 20 + 40 = 60. We also found the number of students in the choir, which is 28. To find the total number of students, we add the number of students in the orchestra, the band, and the choir: 60 + 28 = 88.
+
+Answer: 88

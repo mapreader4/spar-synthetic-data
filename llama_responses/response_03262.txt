@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The room is 8 feet tall, and the curtains need to pool at the bottom. This means we need to add 5 inches to the length of the curtains to ensure they pool at the bottom.
+2. To find the length of the curtains, we need to convert the height of the room from feet to inches. 1 foot is equal to 12 inches, so we multiply the height of the room by 12 to get the height in inches: 8 feet * 12 inches = 96 inches.
+3. Now, we add the 5 inches to the length of the curtains to ensure they pool at the bottom: 96 inches + 5 inches = 101 inches.
+4. Therefore, the curtains need to be 101 inches long to pool at the bottom.
+
+Answer: 101

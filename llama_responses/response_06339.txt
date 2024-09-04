@@ -1,0 +1,20 @@
+Let's break down the problem step by step:
+
+1. Initially, Sofia and her mother buy 10 kgs of oranges.
+
+2. Then, they add 5 more kgs to the initial quantity because their neighbor wants some supplies.
+
+So, the total quantity of oranges they buy initially is 10 kgs + 5 kgs = 15 kgs.
+
+3. For the next two weeks, they need to buy twice as many oranges each week. This means they need to buy 15 kgs * 2 = 30 kgs of oranges for each week.
+
+4. Since they need to buy for two weeks, they need to buy 30 kgs * 2 = 60 kgs of oranges in total for the next two weeks.
+
+5. To find the total quantity of oranges they would have bought after three weeks, we add the initial quantity to the quantity needed for the next two weeks:
+
+Initial quantity: 15 kgs
+Quantity for next two weeks: 60 kgs
+
+Total quantity: 15 kgs + 60 kgs = 75 kgs
+
+Answer: 75

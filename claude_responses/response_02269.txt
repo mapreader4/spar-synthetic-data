@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+
+1. On the first day, the total number of students in the class is 280.
+2. On the second day, the number of students in the class was 40 more than the first day. So, the number of students on the second day is 280 + 40 = 320.
+3. The number of students who didn't turn up on the second day was twice the number of students who didn't turn up on the third day. Let's call the number of students who didn't turn up on the third day "x". Then, the number of students who didn't turn up on the second day is 2x.
+4. On the third day, 1/7 of the total number of students in the class called in sick. That means 280/7 = 40 students were absent on the third day.
+5. Now, we can calculate the total number of absent students in the three days:
+   - First day: 280 - (total students present) = 0 absent students
+   - Second day: 320 - (total students present) = 2x absent students
+   - Third day: 40 absent students
+6. The total number of absent students is 0 + 2x + 40.
+
+Answer: 40 + 2x

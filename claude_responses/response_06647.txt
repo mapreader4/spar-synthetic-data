@@ -1,0 +1,16 @@
+To solve this problem, we need to find the total number of cans collected yesterday and today, and then calculate the difference.
+
+Yesterday's cans collected:
+* Sarah collected 50 cans
+* Lara collected 30 more cans than Sarah, which is 50 + 30 = 80 cans
+* Total cans collected yesterday = 50 + 80 = 130 cans
+
+Today's cans collected:
+* Sarah collected 40 cans
+* Lara collected 70 cans
+* Total cans collected today = 40 + 70 = 110 cans
+
+Difference in cans collected:
+* Total cans collected yesterday - Total cans collected today = 130 - 110 = 20 cans
+
+Answer: 20

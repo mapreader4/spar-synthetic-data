@@ -1,0 +1,11 @@
+Let's break down the information step by step.
+
+Arabella spends 30 minutes learning the first step.
+
+For the second step, she masters it in half the time it took her to learn the first step. Since 30 / 2 = 15, she spends 15 minutes learning the second step.
+
+The third step is more complex, so it takes her as long as both the other steps to learn. Since it takes 30 minutes to learn the first step and 15 minutes to learn the second step, the third step takes 30 + 15 = 45 minutes.
+
+To find the total time spent learning all three steps, we add up the time spent on each step: 30 + 15 + 45 = 90.
+
+Answer: 90

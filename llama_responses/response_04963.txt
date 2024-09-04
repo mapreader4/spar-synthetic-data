@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+1. The first season had 12 episodes and cost $100,000. So, the cost for the first season is 12 x $100,000 = $1,200,000.
+2. The second season had 12 + 50% more episodes than the first season. So, it had 12 + 12 * 0.5 = 18 episodes.
+3. The cost of the second season is 2 * $100,000 = $200,000.
+4. The third season had 18 episodes. The cost is the same as the second season.
+5. The fourth season had 18 + 50% more episodes than the third season. So, it had 18 + 18 * 0.5 = 27 episodes.
+6. The cost of the fourth season is 3 * $200,000 = $600,000.
+7. The last season had 24 episodes. The cost is the same as the fourth season.
+8. The cost of the last season is 4 * $600,000 = $240,000.
+9. To find the total cost of all episodes, we add up the costs of all seasons. So, the total cost is $1,200,000 + $200,000 + $600,000 + $600,000 + $240,000 = $2,940,000.
+
+Answer: 2,940,000

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Anna puts 3 slices of ham in each sandwich
+* She has 31 slices of ham
+* She wants to make 50 ham sandwiches
+
+To find out how many more slices of ham she needs, we need to first calculate how many slices of ham she can use to make 50 sandwiches.
+* 3 slices of ham per sandwich x 50 sandwiches = 150 slices of ham needed
+
+Now, we can subtract the 31 slices of ham she already has from the 150 slices needed:
+* 150 slices needed - 31 slices she has = 119 more slices of ham needed
+
+Answer: 119

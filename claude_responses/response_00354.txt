@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) Seth bought some boxes of oranges.
+2) He gave one box to his mother.
+3) He then gave away half of the remaining boxes.
+4) After giving away half the remaining boxes, he has 4 boxes left.
+
+Let's use variables to represent the unknown quantities:
+* Let x = the number of boxes Seth bought originally.
+* After giving one box to his mother, he has (x-1) boxes remaining.
+* He then gave away half of the remaining boxes, so he gave away (x-1)/2 boxes.
+* He has 4 boxes left, so we can set up the equation:
+(x-1) - (x-1)/2 = 4
+* Solving this equation:
+(x-1) - (x-1)/2 = 4
+(x-1) - 0.5(x-1) = 4
+0.5(x-1) = 4
+x-1 = 8
+x = 9
+
+Therefore, Seth bought 9 boxes of oranges in the first place.
+
+Answer: 9

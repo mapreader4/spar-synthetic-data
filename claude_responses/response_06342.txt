@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The big box store sees 175 people enter their store every hour.
+2) During the holiday season, this number doubles, so the store sees 175 * 2 = 350 people enter per hour.
+3) We want to know how many customers the store will see in 8 hours during the holiday season.
+4) To calculate this, we take the number of people entering per hour (350) and multiply it by the number of hours (8).
+5) 350 people per hour * 8 hours = 2,800 customers.
+
+Answer: 2,800

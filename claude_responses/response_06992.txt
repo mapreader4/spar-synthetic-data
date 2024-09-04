@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Tiffany has $3 to play the ring toss game
+* Each play costs $1 and she gets 5 rings per play
+* For every red bucket she tosses a ring into, she gets 2 points
+* For every green bucket she tosses a ring into, she gets 3 points
+* She has already played 2 games and gotten 4 red buckets and 5 green buckets
+* We need to find the maximum total points she can get for all 3 games
+
+First, let's calculate the points she has already earned:
+* 4 red buckets x 2 points = 8 points
+* 5 green buckets x 3 points = 15 points
+* Total points already earned = 8 + 15 = 23 points
+
+Now, let's calculate how many more plays she can make with her remaining $2:
+* 2 plays at $1 each = 2 plays
+
+In each of these 2 plays, she can get a maximum of 5 points per play (if she gets all green buckets).
+* 2 plays x 5 points per play = 10 more points
+
+Therefore, the maximum total points she can get for all 3 games is:
+* 23 points (from the first 2 games) + 10 points (from the last game) = 33 points
+
+Answer: 33

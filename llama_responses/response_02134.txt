@@ -1,0 +1,5 @@
+Let's start by first finding out how many cans Diego collected. Since Martha collected 90 cans and Diego collected 10 more than half of the cans collected by Martha, that means Diego collected 90 + 10 = 100 cans.
+
+We know that the total number of cans collected by both of them should be 150. So, if they have 90 + 100 cans, they have already collected 190 cans. To find out how many more cans they need to collect, we need to subtract 190 from 150.
+
+Answer: 150 - 190 = -40.

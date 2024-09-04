@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Tony drives 50 miles round trip to work each day, so he drives 50 x 2 = 100 miles per day. Since he drives 5 days a week, his total miles driven in a week is 100 x 5 = 500 miles.
+2. Tony's car gets 25 miles to the gallon, so he uses 500 / 25 = 20 gallons of gas per week.
+3. Tony's tank holds 10 gallons. He starts the week with a full tank, so he has 10 gallons of gas.
+4. He uses 20 gallons of gas in a week, so he needs to fill up his tank 20 - 10 = 10 gallons at the end of the week.
+5. The gas costs $2 a gallon, so he spends 10 x 2 = $20 to fill up his tank.
+
+Answer: 20

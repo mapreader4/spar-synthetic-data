@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Max attended 40 college courses in 2 years
+* Sid attended four times as many college courses as Max in the same period
+* To find the number of college courses Sid attended, we multiply Max's courses by 4:
+* 40 courses x 4 = 160 courses
+* Now, to find the total number of college courses they both attended, we add Max's courses and Sid's courses:
+* 40 courses + 160 courses = 200 courses
+
+Answer: 200

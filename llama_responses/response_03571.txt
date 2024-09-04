@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Vins rides his bike 6 miles to school and back, which is a total of 12 miles.
+2. He does this 5 times this week, so the total distance he rode to school and back is 5 x 12 = 60 miles.
+3. He also rides his bike a different route that is 7 miles long, which is an additional distance.
+4. The total distance Vins rode his bike this week is the sum of these two distances: 60 miles + 7 miles = 67 miles.
+
+Answer: 67

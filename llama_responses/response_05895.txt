@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the height Mark can jump, which is 6 inches.
+
+Lisa can jump double the height as Mark, so Lisa can jump 2 * 6 = 12 inches.
+
+Jacob can jump double the height of Lisa, so Jacob can jump 2 * 12 = 24 inches.
+
+James jumps 2/3 as high as Jacob, so James can jump 2/3 * 24 = 16 inches.
+
+Answer: 16

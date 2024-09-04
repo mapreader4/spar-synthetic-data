@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Natalia has 145 novels, 271 comics, 419 documentaries, and 209 albums to store.
+2) She wants to put these items in crates that can hold 9 items each.
+3) To find the total number of items, we add up the individual counts:
+145 novels + 271 comics + 419 documentaries + 209 albums = 1044 items
+4) To find the number of crates needed, we divide the total number of items by the capacity of each crate:
+1044 items / 9 items per crate = 116 crates
+5) Since we can't have a fractional crate, we need to round up to the nearest whole number.
+
+Answer: 116 crates

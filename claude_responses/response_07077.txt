@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* On the first day of winter, Boston had 0.5 feet of snow.
+* The next day, they got an additional 8 inches of snow.
+* 8 inches is equal to 2/3 feet.
+* So, the total amount of snow after the first two days is 0.5 feet + 2/3 feet = 1.17 feet.
+* Over the next 2 days, 2 inches of the snow melted.
+* 2 inches is equal to 1/6 feet.
+* So, the total amount of snow after the 4 days is 1.17 feet - 1/6 feet = 1 foot.
+* On the fifth day, they received another 2 times the amount of snow they received on the first day, which is 2 * 0.5 feet = 1 foot.
+* Therefore, the total amount of snow they now have is 1 foot + 1 foot = 2 feet.
+
+Answer: 2 feet

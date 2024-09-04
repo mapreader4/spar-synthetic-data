@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the number of photos used in each type of page. For the 12 pages with 2 photos, that's 2 photos per page, so there are 12 * 2 = 24 photos. For the other 9 pages with 3 photos, that's 9 * 3 = 27 photos.
+
+Then, we need to add these together to find the total number of photos used in the newspaper. 24 + 27 = 51.
+
+So, the answer is:
+
+Answer: 51

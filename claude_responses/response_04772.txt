@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Dogs have 42 teeth each, and Vann is doing 5 dogs. So for the dogs, the total number of teeth is:
+   5 dogs x 42 teeth per dog = 210 teeth
+2) Cats have 30 teeth each, and Vann is doing 10 cats. So for the cats, the total number of teeth is:
+   10 cats x 30 teeth per cat = 300 teeth
+3) Pigs have 28 teeth each, and Vann is doing 7 pigs. So for the pigs, the total number of teeth is:
+   7 pigs x 28 teeth per pig = 196 teeth
+4) To get the total number of teeth Vann will clean, we add up the teeth for the dogs, cats, and pigs:
+   210 + 300 + 196 = 706 teeth
+
+Answer: 706

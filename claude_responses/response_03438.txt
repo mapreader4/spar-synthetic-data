@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+* On the first day, Penn made $10.
+* Every day after that, she made $4 more than the previous day.
+* We want to know how much money she made after 5 days.
+
+Let's calculate the amount she made each day:
+* Day 1: $10
+* Day 2: $10 + $4 = $14
+* Day 3: $14 + $4 = $18
+* Day 4: $18 + $4 = $22
+* Day 5: $22 + $4 = $26
+
+Now, we can add up the total amount she made over the 5 days:
+* $10 + $14 + $18 + $22 + $26 = $90
+
+Answer: 90

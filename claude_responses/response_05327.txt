@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Initial prices:
+   - Jewelry: $30 each
+   - Paintings: $100 each
+
+2. Price increase:
+   - Jewelry: Increased by $10 each, so new price is $30 + $10 = $40 each
+   - Paintings: Increased by 20%, so new price is $100 + (20% of $100) = $100 + $20 = $120 each
+
+3. Buyer purchases:
+   - 2 pieces of jewelry at $40 each
+   - 5 paintings at $120 each
+
+4. Total cost:
+   - Jewelry: 2 x $40 = $80
+   - Paintings: 5 x $120 = $600
+   - Total price = $80 + $600 = $680
+
+Answer: 680

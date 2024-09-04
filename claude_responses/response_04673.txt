@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Leon ordered 3 sets of toy organizers at $78 per set.
+   * Total cost of toy organizers = 3 x $78 = $234
+
+2. Leon also ordered 2 gaming chairs at $83 each.
+   * Total cost of gaming chairs = 2 x $83 = $166
+
+3. The total sales before the delivery fee is the sum of the toy organizers and gaming chairs:
+   * Total sales = $234 + $166 = $400
+
+4. The delivery fee is 5% of the total sales.
+   * Delivery fee = 5% of $400 = 0.05 x $400 = $20
+
+5. The total amount Leon paid is the sum of the total sales and the delivery fee:
+   * Total amount paid = $400 + $20 = $420
+
+Answer: $420

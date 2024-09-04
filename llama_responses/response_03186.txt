@@ -1,0 +1,15 @@
+Let's break this problem down step by step!
+
+Day 1: Chandra sees 2 monsters.
+
+Day 2: Since she saw double the amount as the day before, she sees 2 x 2 = 4 monsters.
+
+Day 3: She sees double the amount as the day before, which is 4 x 2 = 8 monsters.
+
+Day 4: She sees double the amount as the day before, which is 8 x 2 = 16 monsters.
+
+Day 5: She sees double the amount as the day before, which is 16 x 2 = 32 monsters.
+
+To find the total number of monsters, we add up the number of monsters she saw each day: 2 + 4 + 8 + 16 + 32 = 62.
+
+Answer: 62

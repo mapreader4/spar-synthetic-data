@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Marcel buys 10 ears of corn, and Dale buys half that amount, which is 10/2 = 5 ears of corn. So, in total, they have 10 + 5 = 15 ears of corn.
+
+Dale buys 8 potatoes. Marcel also buys some potatoes, but we don't know how many yet. Let's call the number of potatoes Marcel bought "x". So, in total, they have 8 + x potatoes.
+
+The total number of vegetables they buy is 15 ears of corn and x potatoes. We know that the total number of vegetables is 27. So, we can set up the equation 15 + x = 27. To solve for x, we subtract 15 from both sides of the equation, which gives us x = 27 - 15 = x = 12.
+
+Answer: 12

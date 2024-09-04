@@ -1,0 +1,40 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of blowfish. We know that 26 blowfish stay in their own tank, and the remaining blowfish swim into the display tank. Let's call the number of remaining blowfish x. Since there are an equal number of clownfish and blowfish, and the total number of fish is 100, we can set up the equation:
+
+26 + x + x = 100
+
+We can solve for x by subtracting 26 from both sides:
+
+x + x = 100 - 26
+x + x = 74
+
+Next, we know that an equal number of clownfish join the blowfish in the display tank. This means that the number of clownfish is equal to the number of blowfish that swam into the display tank, which is x. Let's call this number y. We can set up the equation:
+
+y = x
+
+Then, we know that a third of these clownfish swim back into their own tank. This means that the number of clownfish in the display tank is reduced by a third of y, or (1/3)y. We can set up the equation:
+
+y - (1/3)y =?
+
+We know that the total number of clownfish in the display tank is the sum of the number of blowfish that swam into the display tank and the number of clownfish that joined the display tank, minus the number of clownfish that swam back into their own tank. We can set up the equation:
+
+y - (1/3)y = x
+
+We can solve for y by adding (1/3)y to both sides:
+
+y = x + (1/3)y
+
+Now we can substitute y = x into the equation:
+
+x + (1/3)x = x
+
+We can solve for x by subtracting x from both sides:
+
+(1/3)x = 0
+
+x = 0
+
+So, the number of blowfish that swam into the display tank is 0. This means that the display tank only contains the 26 blowfish that stayed in their own tank. Therefore, the number of clownfish in the display tank is also 0, since they swam back into their own tank.
+
+Answer: 0

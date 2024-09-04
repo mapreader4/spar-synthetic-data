@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Erwan purchased a pair of shoes at $200 but with a 30% discount, so the discounted price is 0.7 x 200 = 140.
+
+He purchased two shirts at $80 each, so the total cost of the shirts is 2 x 80 = 160.
+
+The total cost before the additional 5% discount is 140 + 160 = 300.
+
+The cashier said there is an additional 5% discount, so we need to calculate 5% of 300. 5% of 300 is 0.05 x 300 = 15.
+
+The total discount is 15, so the final cost is 300 - 15 = 285.
+
+Answer: 285

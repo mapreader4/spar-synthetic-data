@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Eric runs for 20 minutes to reach the park. So, it takes him 20 minutes to get to the park.
+2. Then, he jogs for 10 minutes to reach the park. So, it takes him an additional 10 minutes.
+3. When he returns, he takes a different route home and this takes him 3 times as long as his trip there. So, the time it takes him to get there is 3 times the time it took to get to the park.
+4. So, the total time it takes Eric to return home is the time it took to get to the park plus the time it took to get back home, which is 3 times as long as the time it took to get to the park.
+
+Let's calculate the total time it took to get to the park. 20 minutes + 10 minutes = 30 minutes. Now, we multiply this by 3, because it takes him 3 times as long as his trip there. 30 * 3 = 90 minutes.
+
+Answer: 90

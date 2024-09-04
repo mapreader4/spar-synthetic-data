@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) 900 tickets were sold to the concert.
+2) Three-fourths of those who bought the ticket came before the start of the concert. 
+   * 3/4 of 900 = 675 people came before the start of the concert.
+3) The remaining 900 - 675 = 225 people did not come before the start of the concert.
+4) Five-ninths of the remaining 225 people came a few minutes after the first song.
+   * 5/9 of 225 = 125 people came a few minutes after the first song.
+5) The remaining 225 - 125 = 100 people did not come a few minutes after the first song.
+6) 80 people arrived during the middle part of the concert.
+7) The remaining 100 - 80 = 20 people did not go to the concert.
+
+Answer: 20 people who bought the tickets did not go.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Cape May and Daytona Beach have a total of 40 shark sightings per year
+* Cape May has 8 less than double the number of shark sightings of Daytona Beach
+* Let's call the number of shark sightings in Daytona Beach as x
+* Then, the number of shark sightings in Cape May is 2x - 8
+* The total number of shark sightings is 40, so we can set up the equation:
+x + (2x - 8) = 40
+* Solving for x, we get:
+3x - 8 = 40
+3x = 48
+x = 16
+* Therefore, the number of shark sightings in Daytona Beach is 16
+* And the number of shark sightings in Cape May is 2x - 8 = 2(16) - 8 = 24
+
+Answer: 24

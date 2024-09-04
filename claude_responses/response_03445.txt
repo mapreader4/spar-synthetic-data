@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. The cost of a regular burger meal (burger, fries, and soft drink) is $9.50.
+2. The cost of buying the individual items for a regular meal is $5 (burger) + $3 (fries) + $3 (soft drink) = $11.
+3. The cost of a kid's meal (kid's burger, kid's fries, and kid's juice box) is $5.
+4. The cost of buying the individual kid's items is $3 (kid's burger) + $2 (kid's fries) + $2 (kid's juice box) = $7.
+
+Now, let's calculate the total cost for Mr. Parker's order:
+
+2 regular burger meals at $9.50 each = $19.00
+2 regular burger meals at $11 each = $22.00
+2 kid's meals at $5 each = $10.00
+2 kid's meals at $7 each = $14.00
+
+Total cost of buying the 6 meals individually = $22.00 + $14.00 = $36.00
+Total cost of buying the 6 meals as 4 special meals = $19.00 + $10.00 = $29.00
+
+The amount saved by buying the 6 meals as 4 special meals is:
+$36.00 - $29.00 = $7.00
+
+Answer: $7

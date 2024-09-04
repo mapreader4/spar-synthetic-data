@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+The family buys 4 hard shell tacos for $5 each, so the family spends 4 x $5 = $20 on hard shell tacos. They also buy 3 soft tacos for $2 each, so they spend 3 x $2 = $6 on soft tacos. The total spent by the family is $20 + $6 = $26.
+
+After the family, there are 10 customers who buy 2 soft tacos each. Each soft taco costs $2, so the total spent by these customers is 10 x 2 x $2 = $20.
+
+The total amount of money made by the taco truck during the lunch rush is the total spent by the family plus the total spent by the remaining customers. This is $26 + $20 = $46.
+
+Answer: 46

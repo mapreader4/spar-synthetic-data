@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Phil has 10 books, each with 100 pages. So, the total number of pages is 10 * 100 = 1000.
+
+During the move, 2 books are lost. This means that the total number of pages lost is 2 * 100 = 200.
+
+To find the number of pages Phil has left, we subtract the number of pages lost from the total number of pages. So, we have:
+
+1000 - 200 = 800
+
+Answer: 800

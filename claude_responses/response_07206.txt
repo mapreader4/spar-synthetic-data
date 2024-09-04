@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The box of chocolates has an equal number of chocolates with nuts and without nuts.
+* The students eat 80% of the chocolates with nuts.
+* The students eat half of the chocolates without nuts.
+* There are 28 chocolates left.
+
+Let's call the total number of chocolates in the box 'x'.
+
+Since half of the chocolates have nuts and half do not, the number of chocolates with nuts is x/2 and the number of chocolates without nuts is also x/2.
+
+The students ate 80% of the chocolates with nuts, so the number of chocolates with nuts that were eaten is 0.8 * (x/2) = 0.4x.
+
+The students ate half of the chocolates without nuts, so the number of chocolates without nuts that were eaten is 0.5 * (x/2) = 0.25x.
+
+The total number of chocolates eaten is 0.4x + 0.25x = 0.65x.
+
+The number of chocolates left is x - 0.65x = 0.35x.
+
+We are told that there are 28 chocolates left, so 0.35x = 28.
+
+Solving for x, we get x = 80.
+
+Answer: 80

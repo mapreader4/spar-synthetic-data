@@ -1,0 +1,15 @@
+Let's break it down step by step:
+
+Martha's cat catches 3 rats.
+Cara's cat catches 3 less than five times as many animals as Martha's cat.
+Let's calculate the number of animals caught by Cara's cat. If Martha's cat catches 3 rats, and Cara's cat catches 3 less than five times that, then we can write an equation to solve for the number of animals caught by Cara's cat:
+
+Let x be the number of animals caught by Cara's cat. Then, we know that Cara's cat catches 3 less than five times as many animals as Martha's cat, which is 3, so we can write:
+
+x = 3 - (5 * 3) = 0
+
+x = 3 - 15 = -12
+
+So, Cara's cat catches -12 animals.
+
+Answer: -12

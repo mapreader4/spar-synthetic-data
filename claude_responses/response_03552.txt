@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 60 ridges on a vinyl record.
+2) Jerry has 4 cases, each with 3 shelves that can hold 20 records each.
+3) This means Jerry has a total of 4 * 3 = 12 shelves.
+4) Each shelf can hold 20 records, so the total number of records Jerry can store is 12 * 20 = 240 records.
+5) The shelves are 60% full, so the number of records Jerry currently has is 60% of 240, which is 0.6 * 240 = 144 records.
+6) To find the total number of ridges on all his records, we multiply the number of records (144) by the number of ridges per record (60):
+144 * 60 = 8,640 ridges.
+
+Answer: 8,640

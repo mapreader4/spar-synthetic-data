@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first figure out how many oversized beach towels are used in total. Each person uses 1 oversized beach towel per day, and there are 4 people, so the total number of towels used is 4 x 7 = 28.
+
+Next, let's figure out how many loads of laundry it will take to wash these towels. The washing machine can hold 14 oversized beach towels per load. To find the number of loads, we can divide the total number of towels by the capacity of the washing machine: 28 (total towels) ÷ 14 (capacity of washing machine) = 2.
+
+So, it will take 2 loads of laundry to wash all the oversized beach towels.

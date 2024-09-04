@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+
+1. Maddie watches 8 episodes of a TV show this week.
+2. Each episode is about 44 minutes long.
+3. On Monday, she watches 138 minutes.
+4. She does not watch any TV on Tuesday and Wednesday.
+5. On Thursday, she watches 21 minutes.
+6. On Friday, she watches 2 episodes, which is 88 minutes (2 x 44).
+
+Now, let's calculate the total minutes she watched during the week:
+* Monday: 138 minutes
+* Thursday: 21 minutes
+* Friday: 88 minutes
+* Total minutes watched during the week: 138 + 21 + 88 = 247 minutes
+
+Now, let's calculate the total minutes she watched in the 8 episodes:
+* 8 episodes x 44 minutes per episode = 352 minutes
+
+The difference between the total minutes watched and the minutes in the 8 episodes is the amount of minutes she watched over the weekend:
+* 352 minutes - 247 minutes = 105 minutes
+
+Answer: 105 minutes

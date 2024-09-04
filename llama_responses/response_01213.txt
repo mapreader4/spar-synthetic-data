@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find out how many correct answers Precious got. We know that Precious got 12 mistakes. To find the number of correct answers, we need to subtract the number of mistakes from the total number of questions. There were 75 questions in the exam. So, we subtract 12 from 75:
+
+75 - 12 = 63
+
+Now, we know Precious got 63 correct answers.
+
+Now, we need to find how many correct answers Lyssa got. We know that Lyssa got 20% of the items incorrect. Since there were 75 items in the exam, we can find the number of correct answers Lyssa got by multiplying the percentage by the total number of questions:
+
+0.2 * 75 = 15
+
+So, Lyssa got 15 correct answers.
+
+Now, we can compare the number of correct answers Lyssa got with the number of correct answers Precious got:
+
+15 < 63
+
+So, Lyssa got fewer correct answers than Precious.

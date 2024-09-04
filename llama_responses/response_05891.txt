@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+In the first period, The Kickers scored 2 goals. In the second period, they scored 2 * 2 = 4 goals. The other team, The Spiders, scored half of the 2 goals that The Kickers scored in the first period. So, they scored 2/2 = 1 goal. They also scored twice the amount that The Kickers scored in their second period, which is 4 goals. So, the total amount of goals scored by The Spiders is 1 + 4 = 5.
+
+The total amount of goals scored by both teams is 2 + 4 + 5 = 11.
+
+Answer: 11

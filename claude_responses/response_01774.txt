@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Sedrach has 13 apple pies
+* Each apple pie can be divided into 2 halves
+* So, 13 apple pies can be divided into 13 * 2 = 26 half-pies
+* Each half-pie can be split into 5 bite-size samples
+* So, 26 half-pies can be split into 26 * 5 = 130 bite-size samples
+
+Therefore, the total number of people who can taste Sedrach's apple pies if he divides them all into bite-size samples is:
+
+Answer: 130

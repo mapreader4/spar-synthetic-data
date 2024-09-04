@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The floor is a rectangle with dimensions 10 m x 8 m.
+2) The area of the rectangular floor is 10 m x 8 m = 80 square meters.
+3) The carpet is a square with sides of 4 m.
+4) The area of the square carpet is 4 m x 4 m = 16 square meters.
+5) The area of the floor that is uncovered is the total area of the floor (80 square meters) minus the area of the carpet (16 square meters).
+6) 80 square meters - 16 square meters = 64 square meters.
+
+Answer: 64

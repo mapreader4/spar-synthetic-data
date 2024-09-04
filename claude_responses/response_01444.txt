@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Emily has 20 high school credits
+* Spencer has half the number of credits as Emily, so Spencer has 10 credits (20 / 2 = 10)
+* Aria has twice the number of credits as Emily, so Aria has 40 credits (20 x 2 = 40)
+
+Now, to find the total number of credits the three have:
+* Emily has 20 credits
+* Spencer has 10 credits
+* Aria has 40 credits
+* Total credits = 20 + 10 + 40 = 70 credits
+
+To find twice the total number of credits, we multiply 70 by 2:
+* Twice the total number of credits = 70 x 2 = 140
+
+Answer: 140

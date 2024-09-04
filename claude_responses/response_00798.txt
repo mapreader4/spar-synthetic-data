@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Patsy needs 6 appetizers per guest
+* She has 30 guests
+* So, the total number of appetizers she needs is 6 x 30 = 180 appetizers
+* She is making:
+  - 3 dozen deviled eggs = 3 x 12 = 36 deviled eggs
+  - 2 dozen pigs in a blanket = 2 x 12 = 24 pigs in a blanket
+  - 2 dozen kebabs = 2 x 12 = 24 kebabs
+* The total number of appetizers she has made so far is 36 + 24 + 24 = 84 appetizers
+* To calculate the number of additional dozen appetizers she needs to make, we take the total number of appetizers needed (180) and subtract the number of appetizers she has already made (84), which gives us 180 - 84 = 96 additional appetizers needed
+* Since each dozen is 12 appetizers, we need to divide the 96 additional appetizers needed by 12 to get the number of additional dozen appetizers needed
+* 96 / 12 = 8 dozen
+
+Answer: 8 dozen

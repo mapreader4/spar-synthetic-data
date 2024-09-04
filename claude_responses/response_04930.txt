@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. In the first 2 days, James cuts down 20 trees each day.
+   * So, in the first 2 days, James cuts down 20 + 20 = 40 trees.
+
+2. For the next 3 days, James and his 2 brothers work together.
+   * They cut 20% fewer trees per day than James alone.
+   * So, if James cuts down 20 trees per day, his brothers will cut down 20 * (1 - 0.2) = 16 trees per day.
+   * Together, they cut down 20 + 16 + 16 = 52 trees per day.
+   * Over the 3 days, they cut down 52 * 3 = 156 trees.
+
+3. To find the total number of trees cut down, we add the trees cut down in the first 2 days and the trees cut down in the next 3 days:
+   * 40 + 156 = 196 trees
+
+Answer: 196

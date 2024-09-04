@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Emery can read 5 times as fast as Serena
+* It takes Emery 20 days to read the book
+* We need to find the average number of days the two take to read the book
+
+First, let's find how long it takes Serena to read the book:
+* If Emery can read 5 times as fast as Serena, then Serena must take 5 times as long as Emery to read the book
+* So, if it takes Emery 20 days, it must take Serena 20 x 5 = 100 days to read the book
+
+Now, we can calculate the average number of days:
+* Emery takes 20 days
+* Serena takes 100 days
+* The total number of days is 20 + 100 = 120 days
+* The average number of days is 120 / 2 = 60 days
+
+Answer: 60

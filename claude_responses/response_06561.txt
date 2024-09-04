@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+1. Bob buys 50 feet of rope.
+2. He uses a 5th of it to make a small piece of art. 
+   * 50 feet / 5 = 10 feet used for the art piece.
+   * 50 feet - 10 feet = 40 feet remaining.
+3. He takes the remaining 40 feet and gives half of it to his friend.
+   * 40 feet / 2 = 20 feet given to the friend.
+   * 40 feet - 20 feet = 20 feet remaining.
+4. He cuts the remaining 20 feet into 2-foot sections.
+   * 20 feet / 2 feet per section = 10 sections.
+
+Answer: 10 sections.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Vicky has an internet connection that can download up to 50 MB/second
+* The program she needs to download is 360 GB in size
+* There are 1000 MB per GB
+
+First, we need to convert the program size from GB to MB:
+* 360 GB x 1000 MB/GB = 360,000 MB
+
+Next, we need to calculate how long it will take to download the program at the maximum speed of 50 MB/second:
+* 360,000 MB / 50 MB/second = 7,200 seconds
+
+Finally, we need to convert the time from seconds to hours:
+* 7,200 seconds / 3600 seconds/hour = 2 hours
+
+Answer: 2 hours

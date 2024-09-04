@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The shop sells laptops at $600 each
+* The shop sells smartphones at $400 each
+* Celine buys:
+  - 2 laptops
+  - 4 smartphones
+* To calculate the total cost of her purchase:
+  - 2 laptops at $600 each = $1,200
+  - 4 smartphones at $400 each = $1,600
+  - Total cost = $1,200 + $1,600 = $2,800
+* Celine has $3,000
+* To calculate the change she gets back:
+  - Change = $3,000 - $2,800 = $200
+
+Answer: 200

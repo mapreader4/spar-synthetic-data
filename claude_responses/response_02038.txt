@@ -1,0 +1,22 @@
+To solve this problem, we need to calculate the total time Joe spent cutting hair.
+
+Given information:
+- It takes 50 minutes to cut a woman's hair.
+- It takes 15 minutes to cut a man's hair.
+- It takes 25 minutes to cut a kid's hair.
+- Joe cut 3 women's, 2 men's, and 3 children's hair.
+
+Step 1: Calculate the time spent cutting women's hair.
+Time spent cutting women's hair = 3 × 50 minutes = 150 minutes
+
+Step 2: Calculate the time spent cutting men's hair.
+Time spent cutting men's hair = 2 × 15 minutes = 30 minutes
+
+Step 3: Calculate the time spent cutting children's hair.
+Time spent cutting children's hair = 3 × 25 minutes = 75 minutes
+
+Step 4: Calculate the total time spent cutting hair.
+Total time spent cutting hair = Time spent cutting women's hair + Time spent cutting men's hair + Time spent cutting children's hair
+Total time spent cutting hair = 150 minutes + 30 minutes + 75 minutes = 255 minutes
+
+Answer: 255 minutes

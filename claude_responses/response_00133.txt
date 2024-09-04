@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 40 students in the class.
+2) 1/10 of the students are absent. To find the number of absent students, we take 1/10 of 40, which is 4 students.
+3) So the number of students present is 40 - 4 = 36 students.
+4) 3/4 of the 36 students present are in the classroom. To find the number of students in the classroom, we take 3/4 of 36, which is 27 students.
+5) The remaining students are in the canteen. To find the number of students in the canteen, we take the total number of students present (36) and subtract the number of students in the classroom (27).
+6) 36 - 27 = 9 students in the canteen.
+
+Answer: 9

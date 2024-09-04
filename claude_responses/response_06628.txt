@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* 20 people came to look at Tracy's art
+* 4 of those customers bought 2 paintings each
+* 4 customers x 2 paintings each = 8 paintings sold
+* 12 of those customers bought 1 painting each
+* 12 customers x 1 painting each = 12 paintings sold
+* 4 of the last customers bought 4 paintings each
+* 4 customers x 4 paintings each = 16 paintings sold
+* To find the total number of paintings sold, we add up the paintings sold in each category:
+* 8 + 12 + 16 = 36 paintings sold
+
+Answer: 36

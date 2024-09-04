@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Oliver had 135 stickers initially.
+* He used 1/3 of his stickers. So, he used 135 / 3 = 45 stickers.
+* Then, he gave 2/5 of the remaining stickers to his friend. 2/5 of the remaining 90 stickers (135 - 45 = 90) are given to his friend.
+
+To find the number of stickers Oliver kept, we subtract the number of stickers given to his friend from the total number of stickers he had initially. 90 (the number of stickers given away) from 135 (the initial number of stickers) leaves us with the number of stickers Oliver kept. 
+
+Answer: 45.

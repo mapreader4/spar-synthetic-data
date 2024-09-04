@@ -1,0 +1,11 @@
+Let's start by identifying the number of lemons in the last basket. We know that the last two baskets have the same number of kiwi and lemon, so the number of lemons is the same as the number of kiwi. We are given that the last two baskets have the same number of kiwi and lemons. 
+
+Let's denote the number of kiwi and lemons in the last two baskets as x. 
+
+The total number of fruits in the last two baskets is 2x. We are given that the total number of fruits in the last two baskets is 2. So, 2 = 2x. We can solve for x by dividing 2 by 2. 
+
+x = 1.
+
+So, the number of lemons in the last basket is 1. 
+
+Answer: 1

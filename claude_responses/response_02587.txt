@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* On day 1, Rocky ran 4 miles.
+* On day 2, Rocky doubled the miles from day 1, so he ran 4 x 2 = 8 miles.
+* On day 3, Rocky tripled the miles from day 2, so he ran 8 x 3 = 24 miles.
+
+To calculate the total miles Rocky ran in the first three days of training, we add up the miles from each day:
+* Total miles = 4 + 8 + 24 = 36 miles
+
+Answer: 36

@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. The plant supplier sold 20 pieces of orchids for $50 each. So, the total amount of money earned from the sale of orchids is 20 x $50 = $1000.
+
+2. The plant supplier then sold 15 pieces of potted Chinese money plant for $25 each. So, the total amount of money earned from the sale of potted Chinese money plant is 15 x $25 = $375.
+
+3. The total amount of money earned from the sale of orchids and potted Chinese money plant is $1000 + $375 = $1375.
+
+4. The money earned was then used to pay his two workers $40 each. So, the amount of money spent on the two workers is 2 x $40 = $80.
+
+5. After paying the workers, the money left is $1375 - $80 = $1295.
+
+Answer: 1295

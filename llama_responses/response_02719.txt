@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by thinking about how long it takes to rise the dough. It takes 3 hours to rise 1 ball of dough. Then, it takes another 2 hours to bake it. That's a total of 3 + 2 = 5 hours.
+
+Then, she makes 4 balls of dough one after another. This means that each ball of dough takes 5 hours to rise and bake. So, to make 4 balls, it will take 5 x 4 = 20 hours to make all the dough rise. Then, she bakes them one after another. This will take another 20 hours. So, the total time it takes to make and bake all the dough is 20 + 20 = 40 hours.
+
+Answer: 40

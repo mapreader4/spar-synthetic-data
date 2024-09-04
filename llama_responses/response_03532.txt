@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Donna makes 20 sandwiches. She cuts them in half, so now she has 20 / 2 = 10 halves.
+
+Step 2: She cuts the halves in half again, so now she has 10 halves / 2 = 5 quarters.
+
+Step 3: She gives everyone 8 portions. Since each quarter is a portion, she can feed 5 people.
+
+Answer: 5

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by determining how much Valerie has to spend on small light bulbs. She needs 3 small light bulbs, and each one costs $8. So, the cost of the small light bulbs is 3 x $8 = $24.
+
+Next, let's determine how much she has to spend on large light bulbs. She needs 1 large light bulb, and it costs $12. So, the cost of the large light bulb is $12.
+
+Now, let's add the cost of the small light bulbs and the cost of the large light bulb to find out how much Valerie has to spend in total. The total cost of the light bulbs is $24 + $12 = $36.
+
+Now, let's subtract the total cost from the amount Valerie has to spend, which is $60. We get the amount of money Valerie will have left over by subtracting $36 from $60. The answer is:
+
+Answer: $24.

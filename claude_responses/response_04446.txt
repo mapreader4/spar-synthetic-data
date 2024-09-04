@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Hans reserved a table for 12 people
+* The deposit is a flat $20 plus an extra $3 per adult and $1 per child
+* 2 of the people in Hans's party are his kid cousins (children)
+* The remaining 10 people are adults
+
+First, let's calculate the extra deposit for the adults:
+* 10 adults x $3 per adult = $30
+
+Next, let's calculate the extra deposit for the children:
+* 2 children x $1 per child = $2
+
+Now, we can add the flat $20 deposit, the adult deposit, and the child deposit:
+* $20 + $30 + $2 = $52
+
+Therefore, the total deposit that Hans has to pay for the restaurant reservation is:
+Answer: $52

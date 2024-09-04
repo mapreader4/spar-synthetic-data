@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+There are 6 monkeys and 6 birds initially. So, there are 6 + 6 = 12 animals outside her window.
+
+Then, 2 monkeys eat 2 birds. So, the number of birds is 6 - 2 = 4.
+
+So, there are 4 birds left.
+
+So, there are 6 monkeys - 2 monkeys = 4 monkeys left.
+
+The total number of animals outside her window is 4 + 4 = 8.
+
+So, the percentage of the animals outside her window that are monkeys is 4/8 = 50%.
+
+Answer: 50.

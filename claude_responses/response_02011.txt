@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Oliver has 4 friends he is inviting to the party.
+2) Game tokens cost 30 for $1.
+3) Each game costs 2 tokens.
+4) Oliver wants each of his 4 friends to play 60 games.
+
+To calculate the total cost:
+1) Each friend needs 60 games x 2 tokens per game = 120 tokens per friend.
+2) For 4 friends, the total number of tokens needed is 120 tokens x 4 friends = 480 tokens.
+3) Since 30 tokens cost $1, 480 tokens will cost $16 (480 tokens / 30 tokens per $1 = $16).
+
+Answer: $16

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Cynthia harvested 67 potatoes from her garden
+* She cut 13 of them into wedges
+* That means she had 67 - 13 = 54 potatoes remaining
+* She halved the remaining 54 potatoes
+* So she had 27 potatoes to make french fries with, and 27 potatoes to make potato chips with
+* Each potato can be cut into 8 wedges
+* So the 13 potatoes she cut into wedges made 13 * 8 = 104 wedges
+* Each potato can make 20 potato chips
+* So the 27 potatoes she used to make potato chips made 27 * 20 = 540 potato chips
+* To find the difference between the number of potato chips and wedges, we subtract:
+* 540 potato chips - 104 wedges = 436 more potato chips than wedges
+
+Answer: 436

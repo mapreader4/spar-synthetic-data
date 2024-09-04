@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) We know the difference between the number of boys and girls is 400.
+2) We also know that there are 600 boys at the event.
+3) Since the number of girls is more than the number of boys, we can say that the number of girls is 600 + 400 = 1000.
+4) The total number of boys and girls at the event is 600 + 1000 = 1600.
+5) 60% of the total number of boys and girls is 0.6 * 1600 = 960.
+
+Answer: 960

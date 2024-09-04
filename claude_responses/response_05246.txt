@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1) Greg charges $20 per dog plus $1 per minute per dog.
+2) For the first dog, he walked it for 10 minutes. So the charge for that dog would be:
+   - $20 (base charge) + $1 per minute x 10 minutes = $30
+3) For the two dogs walked for 7 minutes, the charge would be:
+   - $20 per dog x 2 dogs = $40
+   - $1 per minute x 7 minutes x 2 dogs = $14
+   - Total for two dogs = $40 + $14 = $54
+4) For the three dogs walked for 9 minutes, the charge would be:
+   - $20 per dog x 3 dogs = $60
+   - $1 per minute x 9 minutes x 3 dogs = $27
+   - Total for three dogs = $60 + $27 = $87
+5) To calculate the total amount of money Greg earns, we add up the charges for each set of dogs:
+   - $30 + $54 + $87 = $171
+
+Answer: $171

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On Monday, Kekai made 40 sundaes, and he put 6 m&ms on each sundae.
+* So the total number of m&ms used on Monday is:
+40 sundaes x 6 m&ms per sundae = 240 m&ms
+* On Tuesday, Kekai made 20 sundaes, and he put 10 m&ms on each sundae.
+* So the total number of m&ms used on Tuesday is:
+20 sundaes x 10 m&ms per sundae = 200 m&ms
+* The total number of m&ms used over the two days is:
+240 m&ms + 200 m&ms = 440 m&ms
+* Each m&m pack contains 40 m&ms.
+* To calculate the number of m&m packs Kekai used, we divide the total number of m&ms by the number of m&ms per pack:
+440 m&ms / 40 m&ms per pack = 11 packs
+
+Answer: 11

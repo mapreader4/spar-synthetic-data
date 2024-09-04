@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Sally wants 1/4 of the cookies to have nuts in them
+* 1/4 of 60 cookies = 15 cookies with nuts
+* Sally wants 40% of the cookies to have chocolate chips in them
+* 40% of 60 cookies = 24 cookies with chocolate chips
+* The remaining cookies will have both nuts and chocolate chips
+* 60 cookies - 15 cookies with nuts - 24 cookies with chocolate chips = 21 cookies with both nuts and chocolate chips
+* For the 15 cookies with just nuts, she needs 2 nuts per cookie, so 15 cookies x 2 nuts = 30 nuts
+* For the 21 cookies with both nuts and chocolate chips, she needs 2 nuts per cookie, so 21 cookies x 2 nuts = 42 nuts
+* In total, she needs 30 nuts + 42 nuts = 72 nuts
+
+Answer: 72

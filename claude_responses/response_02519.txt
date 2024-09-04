@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The sneakers cost $90
+* Lee already has $15 saved
+* He plans to sell 10 action figures to make the rest
+* After buying the sneakers, he has $25 left
+
+First, we need to calculate how much money Lee needs to make from selling the action figures:
+* Cost of sneakers: $90
+* Amount Lee already has: $15
+* Amount needed from selling action figures: $90 - $15 = $75
+
+Now, we know that Lee has $25 left after buying the sneakers, so we can calculate the total amount he made from selling the action figures:
+* Total amount made from selling action figures: $75 + $25 = $100
+
+Finally, we can calculate the amount he charged per action figure:
+* Number of action figures sold: 10
+* Amount charged per action figure: $100 / 10 = $10
+
+Answer: $10

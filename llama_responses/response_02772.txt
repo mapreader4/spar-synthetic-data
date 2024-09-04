@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+First, we need to find the total number of seeds Shyne can grow. She can grow 14 eggplants in every seed packet, and she has 4 seed packets of eggplants, so she can grow a total of 14 * 4 = 56 eggplants. She can also grow 10 sunflowers in every seed packet, and she has 6 seed packets of sunflowers, so she can grow a total of 10 * 6 = 60 sunflowers.
+
+To find the total number of plants Shyne can grow, we need to add the number of eggplants and sunflowers together. So, 56 (eggplants) + 60 (sunflowers) = 116 plants.
+
+Answer: 116

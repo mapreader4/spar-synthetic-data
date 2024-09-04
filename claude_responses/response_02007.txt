@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Merry is taking care of 10 lambs
+* Her brother takes care of 3 more lambs than Merry
+* To find the total number of lambs Merry and her brother have, we need to add the number of lambs Merry has and the number of lambs her brother has
+
+First, let's find the number of lambs her brother has:
+* Merry has 10 lambs
+* Her brother has 3 more lambs than Merry
+* So her brother has 10 + 3 = 13 lambs
+
+Now, to find the total number of lambs Merry and her brother have:
+* Merry has 10 lambs
+* Her brother has 13 lambs
+* So the total number of lambs is 10 + 13 = 23 lambs
+
+Answer: 23

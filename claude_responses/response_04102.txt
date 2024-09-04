@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The price is reduced by 20% if you buy more than 15 units
+* You paid $500 to buy 18 units
+* To find the original price, we need to work backwards from the discounted price
+
+First, let's calculate the discounted price per unit:
+* Total cost = $500
+* Number of units = 18
+* Discounted price per unit = $500 / 18 = $27.78
+
+Now, we need to find the original price per unit before the 20% discount. To do this, we can use the formula:
+* Discounted price = Original price * (1 - Discount percentage)
+* $27.78 = Original price * (1 - 0.20)
+* Original price = $27.78 / (1 - 0.20)
+* Original price = $34.72
+
+Therefore, the original price per unit is $34.72.
+
+Answer: 35

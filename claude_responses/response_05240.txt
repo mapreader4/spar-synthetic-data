@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Theresa has 5 more than thrice as many video games as Julia.
+   * Let's say Julia has x video games.
+   * Then Theresa has 3x + 5 video games.
+2) Julia has a third as many video games as Tory.
+   * Tory has 6 video games.
+   * So Julia has 6 / 3 = 2 video games.
+   * Therefore, x = 2.
+3) Plugging in the value for Julia, we can calculate Theresa's video games:
+   * Theresa has 3x + 5 = 3(2) + 5 = 11 video games.
+
+Answer: 11

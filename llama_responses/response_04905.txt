@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Hilary can fit 100 toenails in the jar, but the two big toenails are twice as big as the rest. So, the two big toenails take up the space of 40 regular toenails. She has already put in 20 big toenails, which is half of the space taken up by the big toenails, so the big toenails have taken up 40 regular toenails worth of space.
+
+So, the remaining space is 100 - 40 = 60. Since the big toenails take up 40 regular toenails worth of space, the remaining space can fit 60 - 40 = 20 regular toenails.
+
+Answer: 20

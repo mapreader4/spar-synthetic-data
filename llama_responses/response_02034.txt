@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Luke takes a bus to the town center. This is the first part of his trip, so we need to find the time it takes him to get there. We are not given this information, so we will have to make an assumption that it is x minutes. Let's call this variable x.
+
+Step 2: Luke walks for 15 minutes to the train center. This is the second part of his trip, so we need to add this to the time it took him to get to the town center. We can write this as 15 + x.
+
+Step 3: Luke waits for twice this long for the train to arrive. This is the third part of his trip, so we need to multiply the time it takes to wait by 2. We are not given this time, so we will have to make an assumption that it is y minutes. Let's call this variable y. We can write this as 2y.
+
+Step 4: Luke takes the 6-hour train ride to London. This is the last part of his trip, so we need to add this to the total time. We can write this as 6 * 60.
+
+Now, we can put it all together. The total time it takes Luke to get to London is x + 15 + 2y + 360. But we are given that his entire trip takes him 8 hours. We can write this as 8 * 60.
+
+So, we can set up an equation to solve for x. We can write this as x + 15 + 2y + 360 = 480. We can subtract 360 from both sides to get x + 2y = 120.
+
+Now, we can solve for y. We can subtract 15 from both sides to get x = 105. This is the time it takes Luke to get to the town center.
+
+So, the answer is: Answer: 105

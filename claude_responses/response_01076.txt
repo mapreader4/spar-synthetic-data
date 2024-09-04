@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Stella has 3 dolls, 2 clocks, and 5 glasses for sale.
+2) The dolls are priced at $5 each, the clocks are priced at $15 each, and the glasses are priced at $4 each.
+3) Stella spent $40 to buy everything.
+4) To calculate the total revenue from selling all the merchandise:
+   - 3 dolls at $5 each = 3 * $5 = $15
+   - 2 clocks at $15 each = 2 * $15 = $30
+   - 5 glasses at $4 each = 5 * $4 = $20
+   - Total revenue = $15 + $30 + $20 = $65
+5) To calculate the profit, we take the total revenue and subtract the amount Stella spent to buy the merchandise:
+   - Profit = Total revenue - Amount spent
+   - Profit = $65 - $40 = $25
+
+Answer: $25

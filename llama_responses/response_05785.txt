@@ -1,0 +1,18 @@
+Let's break this down step by step.
+
+Let's start with the given information:
+
+* There are 35 books on the cart.
+* There are 5 fiction books.
+* There are 4 more non-fiction books than fiction books.
+* There are 2 times as many autobiographies as fiction books.
+
+Let's denote the number of fiction books as F, the number of non-fiction books as N, and the number of autobiographies as A.
+
+We know that F = 5.
+We know that N = F + 4 = 9 (since there are 4 more non-fiction books than fiction books).
+We know that A = F * 2 = 10 (since there are 2 times as many autobiographies as fiction books).
+
+We know that the number of picture books is the remaining books. So, the number of picture books is 35 - (F + N + A) = 35 - (5 + 9 + 10) = 10.
+
+Answer: 10

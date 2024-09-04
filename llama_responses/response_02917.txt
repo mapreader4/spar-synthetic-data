@@ -1,0 +1,17 @@
+Let's start by using a variable for the number of toys in the smaller pile. Let's call it x.
+
+The larger pile is twice as big as the smaller one, so the number of toys in the larger pile is 2x.
+
+The total number of toys is 120, which is the sum of the number of toys in the two piles. So, we can set up the equation:
+
+x + 2x = 120
+
+We can solve for x by subtracting 2x from both sides of the equation:
+
+x + 2x - 2x = 120 - 2x
+
+This simplifies to:
+
+x = 60
+
+So, the number of toys in the smaller pile is 60. The number of toys in the larger pile is 2x, which is 2 x 60 = 120.

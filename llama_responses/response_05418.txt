@@ -1,0 +1,11 @@
+Let's think step by step.
+
+Let's say that the number of zombies doubled every day. That means that the number of zombies doubles every day. For example, if there were 480 zombies initially, then after one day, there would be 960 zombies. After two days, there would be 1920 zombies. After three days, there would be 3840 zombies. And so on.
+
+We want to find out how many days ago were there less than 50 zombies in the mall. Let's look at the number of days ago when there were less than 50 zombies in the mall. This means that we need to find out how many days ago we need to go back in time to find out how many days ago there were less than 50 zombies.
+
+Let's start by going back in time. If we go back in time, we can find the day when the number of zombies was 240. This is because 240 is half of 480, and the number of zombies doubles every day.
+
+So, 240 is the number of zombies when the number of zombies was less than 50. This is 3 days ago. Therefore, the answer is:
+
+Answer: 3

@@ -1,0 +1,8 @@
+Let's break down the problem step by step.
+
+1. The house was purchased for $80000.
+2. The house was sold for a 20% profit, which means the selling price is 120% of the original price, or 1.2 * 80000 = 96000.
+3. The broker's commission is 5% of the original price, which is 0.05 * 80000 = 4000.
+4. The total selling price is the sum of the selling price and the broker's commission: 96000 + 4000 = 100400.
+
+Answer: 100400

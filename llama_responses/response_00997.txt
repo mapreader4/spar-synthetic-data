@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that the total number of eyes from the fish caught by Ittymangnark is equal to the number of eyes eaten by Oomyapeck (22) plus the number of eyes given to Oomyapeck's dog (2). So, the total number of eyes from the fish is 22 + 2 = 24.
+
+Next, we know that the fish are split equally between the three of them. This means that each person gets an equal share of the fish. Let's call the number of fish each person gets x.
+
+Since there are 24 eyes in total, and each fish has two eyes, the total number of fish is 24 / 2 = 12.
+
+Since the fish are split equally between the three of them, each person gets 1/3 of the total number of fish. So, each person gets 12 / 3 = 4 fish.
+
+Answer: 4

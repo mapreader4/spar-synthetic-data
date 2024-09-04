@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The tractor can scoop up compost at a rate of 75 pounds per minute, and Darrel can scoop up 10 pounds per minute. So, together they can scoop up:
+
+75 pounds/minute (tractor) + 10 pounds/minute (Darrel) = 85 pounds/minute
+
+Now, we need to find the time it would take to load up 2550 pounds of compost. To do this, we can divide the total amount of compost needed by the rate at which they can scoop it up:
+
+2550 pounds / 85 pounds/minute = 30 minutes
+
+Answer: 30

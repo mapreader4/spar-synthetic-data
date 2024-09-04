@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Felicity needs 400 sticks to finish her fort
+* She gets a lollipop every time she goes to the store
+* Her family goes to the store 3 times a week, and she always goes with them
+* The fort is currently 60% complete
+
+First, we need to find out how many sticks she has collected so far. Since the fort is 60% complete, we can calculate this by taking 60% of the total number of sticks needed:
+* 60% of 400 = 0.6 * 400 = 240 sticks
+
+Now, we need to find out how many weeks it has taken her to collect 240 sticks. We know that she gets a lollipop every time she goes to the store, and her family goes 3 times a week, so she gets 3 lollipops per week.
+* 240 sticks / 3 sticks per week = 80 weeks
+
+Therefore, Felicity has been collecting lollipops for 80 weeks.
+
+Answer: 80

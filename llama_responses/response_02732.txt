@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+The baker bakes 5 loaves of bread in one hour. So, in 5 hours, he bakes 5 * 5 = 25 loaves.
+
+From Monday to Friday, he bakes for 5 hours, so he bakes 25 * 5 = 125 loaves.
+
+On Saturday and Sunday, he bakes for 2 hours, so he bakes 25 * 2 = 50 loaves.
+
+In 3 weeks, there are 15 days (7 days * 2 = 14 days, since Sunday is the 7th day of the week, and he doesn't bake on Sunday). In 15 days, the baker bakes 125 + 50 = 175 loaves.
+
+Answer: 175

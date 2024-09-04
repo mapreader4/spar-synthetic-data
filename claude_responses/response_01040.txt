@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 66 goats at the farm.
+2) There are twice as many chickens as goats, so the number of chickens is 2 * 66 = 132.
+3) The number of ducks is half of the total of the goats and chickens, so the number of ducks is (66 + 132) / 2 = 99.
+4) The number of pigs is a third of the number of ducks, so the number of pigs is 99 / 3 = 33.
+5) The difference between the number of goats and the number of pigs is 66 - 33 = 33.
+
+Answer: 33

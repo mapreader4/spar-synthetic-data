@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Alicia bought 2 math books, 3 art books, and 6 science books
+* The total cost of all the books is $30
+* The math books and science books each cost $3 each
+
+First, let's calculate the total cost of the math books and science books:
+* 2 math books x $3 per book = $6
+* 6 science books x $3 per book = $18
+* Total cost of math and science books = $6 + $18 = $24
+
+Now, we can calculate the total cost of the art books by subtracting the cost of the math and science books from the total cost:
+* Total cost - Cost of math and science books = Cost of art books
+* $30 - $24 = $6
+
+Finally, we can calculate the cost of each art book by dividing the total cost of the art books by the number of art books:
+* Cost of art books / Number of art books = Cost per art book
+* $6 / 3 = $2
+
+Answer: $2

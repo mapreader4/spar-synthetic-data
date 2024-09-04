@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the amount of battery used by Brody's calculator.
+
+Brody has used three quarters of the battery, which means that he has used 3/4 of the total battery.
+
+Step 2: Find the total battery capacity.
+
+The total battery capacity is 60 hours.
+
+Step 3: Calculate the remaining battery capacity.
+
+To find the remaining battery capacity, we subtract the used battery capacity from the total battery capacity.
+
+Used battery capacity = 3/4 * 60 = 45 hours
+Total battery capacity - used battery capacity = 60 - 45 = 15 hours
+
+Answer: 15

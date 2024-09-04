@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jen did 16 triple-flips during practice
+* A triple-flip is 3 flips in the air
+* So, the total number of flips Jen did is 16 * 3 = 48 flips
+* Tyler flipped in the air half the number of times Jen did
+* Since Jen did 48 flips, Tyler did half of that, which is 48 / 2 = 24 flips
+* A double-flip is 2 flips in the air
+* Therefore, the number of double-flips Tyler did is 24 / 2 = 12 double-flips
+
+Answer: 12

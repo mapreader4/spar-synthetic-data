@@ -1,0 +1,9 @@
+Let's start by converting Carla's brush length from inches to centimeters. We know that 1 inch is equal to 2.5 centimeters, so we can multiply 12 inches by 2.5 to get the length of Carla's brush in centimeters.
+
+12 inches * 2.5 = 30 centimeters
+
+Carmen's brush is 50% longer than Carla's brush, so we can add 50% of 30 centimeters to get the length of Carmen's brush.
+
+30 + 0.5 * 30 = 45
+
+So, Carmen's brush is 45 centimeters long.

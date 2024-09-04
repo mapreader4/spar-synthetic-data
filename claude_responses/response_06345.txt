@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Karen has 6 ferns around her house
+* Each fern has 7 fronds
+* Each frond has 30 leaves
+
+To find the total number of leaves, we need to:
+1. Calculate the number of leaves per fern
+2. Multiply the number of leaves per fern by the total number of ferns
+
+First, let's find the number of leaves per fern:
+* Each fern has 7 fronds
+* Each frond has 30 leaves
+* So, each fern has 7 x 30 = 210 leaves
+
+Now, let's find the total number of leaves across all 6 ferns:
+* Each fern has 210 leaves
+* There are 6 ferns
+* So, the total number of leaves is 6 x 210 = 1,260
+
+Answer: 1,260

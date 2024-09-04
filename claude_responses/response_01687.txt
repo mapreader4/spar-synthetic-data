@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The maximum load on a truck is 900 kilograms.
+2) Each bag of lemons has a mass of 8 kilograms.
+3) There are 100 bags of lemons.
+4) To calculate the total mass of the 100 bags of lemons, we multiply the number of bags (100) by the mass of each bag (8 kilograms):
+100 bags x 8 kilograms/bag = 800 kilograms
+5) The maximum load on the truck is 900 kilograms, and the total mass of the 100 bags of lemons is 800 kilograms.
+6) To calculate the additional kilograms that can still be loaded into the truck, we subtract the total mass of the lemons from the maximum load:
+900 kilograms - 800 kilograms = 100 kilograms
+
+Answer: 100

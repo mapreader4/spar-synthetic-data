@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* James has counted 52 vehicles so far today
+* He saw:
+  - 12 trucks
+  - A couple of buses (let's assume 2 buses)
+  - Twice as many taxis as buses, so 4 taxis
+  - Some motorbikes (we don't know the exact number)
+  - 30 cars
+* The trucks held 2 people each, so the total number of people in the trucks is:
+  - 12 trucks x 2 people per truck = 24 people
+* The buses held 15 people each, so the total number of people in the buses is:
+  - 2 buses x 15 people per bus = 30 people
+* The taxis held 2 people each, so the total number of people in the taxis is:
+  - 4 taxis x 2 people per taxi = 8 people
+* The motorbikes held 1 person each, so the total number of people on the motorbikes is unknown
+* The cars held 3 people each, so the total number of people in the cars is:
+  - 30 cars x 3 people per car = 90 people
+* Adding up the known totals:
+  - 24 people in the trucks
+  - 30 people in the buses
+  - 8 people in the taxis
+  - 90 people in the cars
+* The total number of passengers James has seen today is:
+  - 24 + 30 + 8 + 90 = 152 people
+
+Answer: 152

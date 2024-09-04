@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The exam had 75 items total.
+2) Lyssa answered 20% of the items incorrectly. This means she answered 80% of the items correctly.
+3) 20% of 75 is 0.2 * 75 = 15 items answered incorrectly by Lyssa.
+4) This means Lyssa answered 75 - 15 = 60 items correctly.
+5) Precious got 12 mistakes, which means she answered 75 - 12 = 63 items correctly.
+6) The difference between Lyssa's correct answers and Precious' correct answers is 60 - 63 = -3.
+
+Answer: -3

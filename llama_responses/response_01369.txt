@@ -1,0 +1,7 @@
+Let the first bowler score x points. The second bowler scored x points. The third bowler scored 3 times the points of the second bowler. So the third bowler scored 3x points.
+
+The total points scored by the three bowlers is 810. So, x + x + 3x = 810.
+
+So, 3x = 810 - x - x.
+
+So, the third bowler scored 3 times the points of the second bowler, which is 3x.

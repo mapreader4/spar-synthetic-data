@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The farm initially has:
+  - 300 chickens
+  - 200 turkeys
+  - 80 guinea fowls
+* The farmer loses the following each day:
+  - 20 chickens
+  - 8 turkeys
+  - 5 guinea fowls
+* After 1 week (7 days), the total losses will be:
+  - Chickens: 20 x 7 = 140
+  - Turkeys: 8 x 7 = 56
+  - Guinea Fowls: 5 x 7 = 35
+* So the remaining birds will be:
+  - Chickens: 300 - 140 = 160
+  - Turkeys: 200 - 56 = 144
+  - Guinea Fowls: 80 - 35 = 45
+* Adding up the remaining birds:
+  - 160 + 144 + 45 = 349
+
+Answer: 349

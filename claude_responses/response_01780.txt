@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Faith is paid $13.50 per hour
+* She normally works 8 hours a day, 5 days a week
+* That's 8 hours x 5 days = 40 hours per week at her normal rate
+* She also works 2 hours of overtime per day
+* That's 2 hours x 5 days = 10 hours of overtime per week
+* Her normal pay for 40 hours is:
+  * 40 hours x $13.50 per hour = $540
+* Her overtime pay for 10 hours is:
+  * 10 hours x $13.50 per hour x 1.5 (overtime rate) = $202.50
+* So her total earnings for the week are:
+  * $540 + $202.50 = $742.50
+
+Answer: $742

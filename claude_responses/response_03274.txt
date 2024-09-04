@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The aquarium started with 60 fish
+* The Bobbit worm eats 2 fish per day
+* After two weeks (14 days), the Bobbit worm has eaten 2 fish x 14 days = 28 fish
+* So after two weeks, the aquarium has 60 - 28 = 32 fish
+* James then adds 8 more fish to the aquarium
+* So the aquarium now has 32 + 8 = 40 fish
+* A week later, James discovers the Bobbit worm
+
+Therefore, the number of fish in the aquarium when James discovers the Bobbit worm is:
+Answer: 40

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+1. Roger's age is 5 more than twice Jill's age. This means:
+   Roger's age = 2 * Jill's age + 5
+
+2. Jill is 20 years old now, so:
+   Roger's age = 2 * 20 + 5 = 45
+
+3. In 15 years, their age difference will be 30 years less than Finley's age. This means:
+   (Roger's age + 15) - (Jill's age + 15) = Finley's age - 30
+
+4. Substituting the values we know:
+   (45 + 15) - (20 + 15) = Finley's age - 30
+   60 - 35 = Finley's age - 30
+   25 = Finley's age - 30
+
+5. Solving for Finley's age:
+   Finley's age = 25 + 30 = 55
+
+Answer: 55

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's assume that George and Harry make a round trip to the pool, so they will each carry buckets back to the pool. 
+
+Let's first calculate how many buckets George can carry in a round. Since George can carry 2 buckets each round, we can multiply the number of buckets he can carry in a round by the number of rounds it takes to fill the pool. So, the number of buckets George can carry in a round is 2 * 110 = 220.
+
+Now, let's calculate how many buckets Harry can carry in a round. Since Harry can carry 3 buckets each round, we can multiply the number of buckets he can carry in a round by the number of rounds it takes to fill the pool. So, the number of buckets Harry can carry in a round is 3 * 110 = 330.
+
+Now, we need to find the total number of buckets that George and Harry can carry in a round. We can do this by adding the number of buckets George can carry in a round to the number of buckets Harry can carry in a round. 220 + 330 = 550.
+
+Since George and Harry make a round trip to the pool, we need to divide the total number of buckets they can carry in a round by the number of buckets in a round to find the number of rounds they need to fill the pool. 550 ÷ 110 = 5.
+
+Therefore, it will take 5 rounds to fill the pool.

@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) We know that Tony went on 5 rollercoasters, and the speeds of the first 4 were 50 mph, 62 mph, 73 mph, and 70 mph.
+2) We also know that his average speed for the day was 59 mph.
+3) To find the speed of the fifth coaster, we can use the formula for average speed:
+Average speed = (Sum of all speeds) / (Number of coasters)
+4) Rearranging this, we get:
+Sum of all speeds = Average speed * Number of coasters
+5) Plugging in the values we know:
+Sum of all speeds = 59 mph * 5 coasters = 295 mph
+6) Now we can subtract the speeds of the first 4 coasters to find the speed of the fifth coaster:
+Speed of 5th coaster = 295 mph - 50 mph - 62 mph - 73 mph - 70 mph = 40 mph
+
+Answer: 40 mph

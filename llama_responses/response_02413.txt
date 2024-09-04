@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Let's say the number of nickels Val has initially is x.
+2. According to the problem, Val has three times as many dimes as nickels, so the number of dimes she has is 3x.
+3. She finds twice as many nickels as she has in her older brother's treasure box. Since she has x nickels, she finds 2x nickels, which is 2x.
+4. So, the total number of nickels she has now is x + 2x = 3x.
+5. Each nickel is worth $0.05, so the total value of the nickels she has is 0.05(3x) = 0.15x.
+6. She had 20 nickels initially, which is 0.05(20) = $1.00. After finding the new nickels, she has 0.15x = 0.15(3x) = 0.45x.
+7. The total value of the money she has is the sum of the value of the initial nickels and the value of the new nickels, which is 1.00 + 0.45x.
+
+Answer: $1.45

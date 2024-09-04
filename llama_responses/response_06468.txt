@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Alan bought a $2000 phone online.
+* John bought it 2% more expensive in a local store.
+
+To find the amount John spent, we need to find the difference between the two prices. We know the price of the phone online is $2000. To find the price of the phone in the local store, we need to multiply the 2% increase by the original price. So, we do 2% of $2000 is 0.04. So, the price in the local store is $2000 + 0.04 * 2000 = $2000 + $80 = $2080.
+
+So, John spent $2080 on his phone.

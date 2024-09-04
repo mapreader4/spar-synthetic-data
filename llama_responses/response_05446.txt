@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first calculate the time it takes to go up to the first floor, since it's an even-numbered floor. It takes 15 seconds.
+
+Then, we need to find the time it takes to go up to the 2nd floor, 4th floor, 6th floor, 8th floor, 10th floor, and so on.
+
+Since the pattern is 15 seconds for even-numbered floors, we can say that it takes 15 seconds to go up to the 2nd, 4th, 6th, 8th, 10th floor, and so on.

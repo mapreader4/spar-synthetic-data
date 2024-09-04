@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, Daniel delivers 20 yards of fabric.
+2. On Tuesday, he delivers twice the amount of fabric he delivered on Monday, which is 2 x 20 = 40 yards of fabric.
+3. On Wednesday, he delivers 1/4 of the amount of fabric he delivered on Tuesday, which is 1/4 x 40 = 10 yards of fabric.
+
+Now, let's calculate the total revenue from Monday to Wednesday:
+* Monday: 20 yards of fabric at $2 per yard = 20 x $2 = $40
+* Tuesday: 40 yards of fabric at $2 per yard = 40 x $2 = $80
+* Wednesday: 10 yards of fabric at $2 per yard = 10 x $2 = $20
+
+Total revenue from Monday to Wednesday = $40 + $80 + $20 = $140
+
+Answer: 140

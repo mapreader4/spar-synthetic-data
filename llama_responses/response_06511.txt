@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+First, let's find the total number of Hoopits on the school bus. Each Hoopit has 3 toes on each of their 4 hands, so each Hoopit has a total of 3 x 4 = 12 toes. Since there are 7 Hoopits on the bus, the total number of Hoopit toes is 7 x 12 = 84.
+
+Next, let's find the total number of Neglarts on the school bus. Each Neglart has 2 toes on each of their 5 hands, so each Neglart has a total of 2 x 5 = 10 toes. Since there are 8 Neglarts on the bus, the total number of Neglart toes is 8 x 10 = 80.
+
+Now, let's add the total number of Hoopit toes and Neglart toes to find the total number of toes on the school bus. 84 (Hoopit toes) + 80 (Neglart toes) = 164.
+
+Answer: 164

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say Carson counts 6 clouds that look like funny animals. That's the first part of the problem.
+
+His little brother counts three times as many clouds that look like dragons. So, the number of clouds that look like dragons is 6 * 3 = 18.
+
+To find the total number of clouds, we need to add the number of clouds that look like funny animals to the number of clouds that look like dragons. So, the total number of clouds is 6 + 18 = 24.
+
+Answer: 24

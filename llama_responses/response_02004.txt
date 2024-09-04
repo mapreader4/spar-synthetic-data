@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say the number of marks Jake scored in the third test is x.
+
+The total marks Jake scored in the first and second test are 80 and 10, respectively. The average of these marks is 90.
+
+The marks Jake scored in the third and fourth test are equal, so let's call them y. Then, the total marks Jake scored in the third and fourth test are 2y. Since the average marks Jake scored in the first two tests is 90, the average of the marks he scored in the third and fourth tests is also 90.
+
+The total marks Jake scored in the first, second, and third tests are 80 + 10 + 2y. This is equal to 90 + 2y. Since the average marks Jake scored in the third test is x, we can set up an equation.
+
+90 + 2y = x
+
+We are looking for the value of x. We can subtract 90 from both sides of the equation to get:
+
+x = 90 - 90
+
+x = 0
+
+So, the answer is 0.

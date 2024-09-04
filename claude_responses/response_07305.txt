@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Originally, the number of dogs was half the number of cats in the neighborhood.
+2) 20 new dogs were born, so the current number of dogs is the original number of dogs plus 20.
+3) Now, there are twice as many dogs as cats.
+4) There are 20 cats in the neighborhood currently.
+5) Let's call the original number of cats 'x'.
+6) Since the original number of dogs was half the number of cats, the original number of dogs was x/2.
+7) Now, the number of dogs is twice the number of cats, so the current number of dogs is 2 * 20 = 40.
+8) The original number of dogs was x/2, and 20 new dogs were born, so the current number of dogs is x/2 + 20 = 40.
+9) Solving this equation, we get x = 40.
+
+Answer: 40 cats were in the neighborhood originally.

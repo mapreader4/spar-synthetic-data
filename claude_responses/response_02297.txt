@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 9 members of the crafts club
+* Each member is making 2 necklaces
+* It takes 50 beads to make each necklace
+* To calculate the total number of beads needed, we need to:
+1. Calculate the total number of necklaces being made:
+   * 9 members x 2 necklaces each = 18 necklaces
+2. Calculate the total number of beads needed:
+   * 18 necklaces x 50 beads per necklace = 900 beads
+
+Answer: 900

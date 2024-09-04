@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The school bought 10 cases of bottled water
+* Each case contains 20 bottles
+* So the total number of bottles bought is 10 cases x 20 bottles per case = 200 bottles
+* After the first game, 70 bottles were used
+* So the remaining number of bottles after the first game is 200 - 70 = 130 bottles
+* After the second game, only 20 bottles were left
+* Therefore, the number of bottles used during the second game is 130 - 20 = 110 bottles
+
+Answer: 110 bottles

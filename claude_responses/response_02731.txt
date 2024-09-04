@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jeff's coach required him to swim 98 laps over the weekend
+* On Saturday, Jeff swam 27 laps
+* On Sunday morning, he swam 15 laps
+* To find the number of laps remaining when he took the break, we need to subtract the laps he has already swam from the total laps required
+
+First, let's calculate the total number of laps he has swam so far:
+* Laps on Saturday: 27
+* Laps on Sunday morning: 15
+* Total laps swam: 27 + 15 = 42
+
+Now, we can subtract the total laps swam from the total laps required:
+* Total laps required: 98
+* Total laps swam: 42
+* Laps remaining: 98 - 42 = 56
+
+Answer: 56

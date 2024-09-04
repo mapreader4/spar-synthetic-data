@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Hector gave 4 gumballs to Todd.
+2) Hector then gave twice as many gumballs to Alisha as he had given to Todd, which is 2 * 4 = 8 gumballs.
+3) Hector then gave 5 less than four times as many gumballs to Bobby as he had given to Alisha. So, he gave 4 * 8 - 5 = 27 gumballs to Bobby.
+4) Hector had 6 gumballs remaining.
+5) To find the total number of gumballs Hector purchased, we add up the number of gumballs he gave away and the number of gumballs he had remaining:
+4 + 8 + 27 + 6 = 45 gumballs.
+
+Answer: 45

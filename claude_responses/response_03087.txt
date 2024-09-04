@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jessy plans to read a 140-page book in one week
+* She initially decides to read 3 times daily, 6 pages each time, every day of the week
+* To calculate the total number of pages she would read in a week with this plan:
+    - 3 times daily x 6 pages per time = 18 pages per day
+    - 18 pages per day x 7 days in a week = 126 pages per week
+* The book has 140 pages, so she needs to read 140 pages in total
+* The difference between the total pages in the book (140) and the total pages she would read in a week with her initial plan (126) is:
+    - 140 pages - 126 pages = 14 pages
+* Therefore, Jessy should read 14 more pages per day to achieve her goal.
+
+Answer: 14

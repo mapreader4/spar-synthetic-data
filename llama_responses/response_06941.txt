@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's say the number of male adults is 60. We know that the total number of people in the church is 200.
+
+We know that the number of female adults is the total number of people minus the number of male adults. So, let's call the number of female adults x.
+
+We can write the equation as follows:
+
+60 (number of male adults) + x (number of female adults) = 200 (total number of people)
+
+We can subtract the number of male adults from both sides of the equation to get:
+
+x = 200 - 60
+x = 140
+
+So, the number of female adults is 140.
+
+Answer: 140

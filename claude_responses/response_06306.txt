@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Apples weigh 4 ounces each, and oranges weigh 3 ounces each.
+2) Each bag can hold 49 ounces of fruit before it splits.
+3) Marta wants to put an equal number of apples and oranges in each bag.
+4) Marta wants to buy 3 full bags of fruit.
+5) To find the total ounces of apples Marta should buy, we need to first find the total ounces of fruit in 3 full bags.
+6) 3 full bags x 49 ounces per bag = 147 ounces of total fruit.
+7) Since Marta wants an equal number of apples and oranges, the total ounces of apples and oranges should be equal.
+8) So the total ounces of apples should be 147/2 = 73.5 ounces.
+9) Since we need a whole number of apples, we round up to the nearest integer.
+
+Answer: 74 ounces of apples.

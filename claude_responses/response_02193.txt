@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) There are 6 members in the book club.
+2) Each member pays $150 per year towards snacks.
+3) Each member also pays $30 for 6 hardcover books.
+4) Each member also pays $12 for 6 paperback books.
+
+To calculate the total amount Niles collects:
+1) Snack fees: 6 members x $150 = $900
+2) Hardcover book fees: 6 members x $30 = $180
+3) Paperback book fees: 6 members x $12 = $72
+
+Adding these together:
+$900 + $180 + $72 = $1,152
+
+Answer: $1,152

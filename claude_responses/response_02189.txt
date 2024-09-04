@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tom weighs 150 kg
+* He can hold 1.5 times his weight in each hand
+* He is wearing a weight vest that weighs half his weight
+
+First, let's calculate how much weight he can hold in each hand:
+* 1.5 times his weight in each hand = 1.5 * 150 kg = 225 kg per hand
+
+Next, let's calculate the weight of the vest:
+* The vest weighs half his weight = 0.5 * 150 kg = 75 kg
+
+Now, we can calculate the total weight he is moving with:
+* Weight in left hand + weight in right hand + weight of vest = 225 kg + 225 kg + 75 kg = 525 kg
+
+Answer: 525

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Grace has 30 pastries
+* Calvin and Phoebe each have 5 less pastries than Grace
+* So, Calvin and Phoebe each have 30 - 5 = 25 pastries
+* Frank has 8 less pastries than Calvin and Phoebe
+* So, Frank has 25 - 8 = 17 pastries
+* To find the total number of pastries, we add up the pastries of all four:
+* Grace: 30 pastries
+* Calvin: 25 pastries
+* Phoebe: 25 pastries
+* Frank: 17 pastries
+* Total = 30 + 25 + 25 + 17 = 97 pastries
+
+Answer: 97

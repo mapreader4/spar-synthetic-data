@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The farmer has 52 cows
+* Each cow gives 5 liters of milk per day
+* We want to find the total amount of milk the farmer gets in a week
+
+To calculate the total amount of milk in a week, we need to:
+1. Calculate the total amount of milk per day
+2. Multiply the daily amount by the number of days in a week
+
+Step 1: Calculating the total amount of milk per day
+* Each cow gives 5 liters of milk per day
+* There are 52 cows
+* So the total amount of milk per day is 52 cows x 5 liters/cow = 260 liters
+
+Step 2: Calculating the total amount of milk in a week
+* There are 7 days in a week
+* So the total amount of milk in a week is 260 liters/day x 7 days = 1,820 liters
+
+Answer: 1,820 liters

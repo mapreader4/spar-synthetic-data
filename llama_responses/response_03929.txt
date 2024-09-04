@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+1. Matthew eats three times as many egg rolls as Patrick eats.
+2. Patrick eats half as many egg rolls as Alvin eats.
+3. Alvin ate 4 egg rolls.
+
+From the second statement, we know that Patrick eats half as many egg rolls as Alvin eats. Since Alvin ate 4 egg rolls, Patrick must have eaten 2 egg rolls (half of 4 is 2).
+
+From the first statement, we know that Matthew eats three times as many egg rolls as Patrick eats. Since Patrick ate 2 egg rolls, Matthew must have eaten 3 * 2 = 6 egg rolls.
+
+Answer: 6

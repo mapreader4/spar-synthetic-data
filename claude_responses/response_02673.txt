@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* In the first month, Alice saved $10.
+* In the second month, she saved $10 + $30 = $40.
+* In the third month, she saved $10 + $30 + $30 = $70.
+* To find the total amount she saved by the end of the third month, we add up the amounts from each month:
+* $10 + $40 + $70 = $120.
+
+Answer: 120

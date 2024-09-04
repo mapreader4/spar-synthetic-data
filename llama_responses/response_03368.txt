@@ -1,0 +1,17 @@
+Let's start by identifying the number of strawberries picked by Lilibeth. Since Lilibeth fills 6 baskets, and each basket holds 50 strawberries, Lilibeth picks 6 x 50 = 300 strawberries.
+
+Next, we need to find out how many strawberries Lilibeth's friends pick. The problem states that 3 of Lilibeth's friends pick the same amount as her. Since Lilibeth picks 300 strawberries, 3 of her friends pick 300 strawberries as well. So, we can set up an equation to represent the total number of strawberries picked by Lilibeth and her friends.
+
+Let's let x be the number of strawberries picked by each of Lilibeth's friends. Then, the equation would be:
+
+x + x + x = 300
+
+We know that 3 friends pick the same amount as Lilibeth, so we can set x = 300 / 3 = 100.
+
+Now, we can find the total number of strawberries picked by Lilibeth and her friends. We can add the number of strawberries picked by Lilibeth (300) to the number of strawberries picked by her friends (100 * 3 = 300):
+
+300 + 300 = 600
+
+So, the answer is:
+
+Answer: 600

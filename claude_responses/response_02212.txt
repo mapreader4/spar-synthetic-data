@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The first half of the season has 22 episodes
+* Each episode in the first half costs $1000
+* The total cost for the first half of the season is:
+    - 22 episodes x $1000 per episode = $22,000
+* The second half of the season also has 22 episodes
+* Each episode in the second half costs 120% more than the first half, which means each episode costs $1000 x 2.2 = $2,200
+* The total cost for the second half of the season is:
+    - 22 episodes x $2,200 per episode = $48,400
+* The total cost for the entire season is the sum of the first half and the second half:
+    - $22,000 + $48,400 = $70,400
+
+Answer: 70,400

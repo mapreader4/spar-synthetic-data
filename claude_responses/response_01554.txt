@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jerry can carry 4 cans at a time
+* It takes him 30 seconds to drain those 4 cans
+* It takes him 10 seconds each way to walk to the sink and recycling bin, and then back to his desk
+* There are 28 cans on Jerry's desk
+
+First, we need to calculate how many trips Jerry needs to make to the sink and recycling bin to drain all 28 cans.
+* 28 cans / 4 cans per trip = 7 trips
+
+Now, we can calculate the total time it takes for Jerry to complete all 7 trips:
+* 7 trips x (30 seconds to drain 4 cans + 10 seconds to walk to the sink/bin + 10 seconds to walk back) = 7 x 50 seconds = 350 seconds
+
+Finally, we convert the total time from seconds to minutes:
+* 350 seconds / 60 seconds per minute = 5.83 minutes
+
+Answer: 6 minutes

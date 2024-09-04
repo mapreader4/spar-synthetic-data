@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many jars of jam she packs in each box.
+
+Cassy packs 12 jars of jam in 10 boxes, so she packs 12/10 = 1.2 jars of jam in each box. Similarly, she packs 10 jars of jam in 30 boxes, so she packs 10/30 = 0.33 jars of jam in each box.
+
+Now, let's find the total number of jars of jam she packs in all the boxes. In the 10 boxes with 1.2 jars of jam each, she packs 10 * 1.2 = 12 jars of jam. In the 20 boxes with 0.33 jars of jam each, she packs 30 * 0.33 = 9.9 jars of jam. So, in total, she packs 12 + 9.9 = 21.9 jars of jam.
+
+Cassy has 500 jars of jam, so she will have 500 - 21.9 = 478.1 jars of jam left when all the boxes are full. So, the answer is:
+
+Answer: 478.1

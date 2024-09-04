@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 13 3-year-olds and 20 4-year-olds. Together, there are 13 + 20 = 33 children in the 3 and 4-year-old class.
+2) There are 15 5-year-olds and 22 6-year-olds. Together, there are 15 + 22 = 37 children in the 5 and 6-year-old class.
+3) To find the average class size, we need to add the number of children in each class and divide by the number of classes.
+4) The total number of children is 33 + 37 = 70.
+5) There are 2 classes, so the average class size is 70 / 2 = 35.
+
+Answer: 35

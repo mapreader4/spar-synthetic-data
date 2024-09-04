@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) There were 50 doughnuts served at the staff meeting.
+2) There were 19 staff members at the meeting.
+3) Each staff member ate 2 doughnuts.
+4) To calculate the total number of doughnuts eaten, we multiply the number of staff (19) by the number of doughnuts each staff member ate (2):
+19 staff x 2 doughnuts per staff = 38 doughnuts eaten
+5) To calculate the number of doughnuts left, we subtract the number of doughnuts eaten (38) from the total number of doughnuts served (50):
+50 doughnuts - 38 doughnuts eaten = 12 doughnuts left
+
+Answer: 12

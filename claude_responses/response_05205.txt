@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The marathon is 26 miles long.
+2) The runner can run the first 10 miles in 1 hour.
+3) For the remaining 16 miles, the runner runs at 80% of the pace they ran the first 10 miles.
+4) The pace for the first 10 miles was 10 miles per hour.
+5) The pace for the remaining 16 miles is 80% of 10 miles per hour, which is 8 miles per hour.
+6) The time to run the remaining 16 miles at 8 miles per hour is 16 miles / 8 miles per hour = 2 hours.
+7) The total time for the race is the time for the first 10 miles (1 hour) plus the time for the remaining 16 miles (2 hours), which is 3 hours.
+
+Answer: 3 hours

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The club has 30 members.
+2) Two-fifths of the 30 members ordered lemon juice. Two-fifths of 30 is 12, so 12 members ordered lemon juice.
+3) The remaining members who did not order lemon juice is 30 - 12 = 18 members.
+4) One-third of the remaining 18 members ordered mango juice. One-third of 18 is 6, so 6 members ordered mango juice.
+5) The remaining members who did not order lemon or mango juice is 18 - 6 = 12 members.
+Therefore, 12 members ordered orange juice.
+
+Answer: 12

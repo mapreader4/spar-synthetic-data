@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 2 puppies, 2 kittens, and 3 parakeets for sale
+* The puppies are 3 times more expensive than the parakeets
+* The parakeets are half as expensive as the kittens
+* The cost of one parakeet is $10
+
+First, let's find the cost of the parakeets:
+* Since the parakeets are half as expensive as the kittens, the cost of one kitten is 2 x $10 = $20
+* The cost of the 3 parakeets is 3 x $10 = $30
+
+Next, let's find the cost of the puppies:
+* Since the puppies are 3 times more expensive than the parakeets, the cost of one puppy is 3 x $10 = $30
+* The cost of the 2 puppies is 2 x $30 = $60
+
+Finally, let's add up the cost of all the pets:
+* Total cost = Cost of parakeets + Cost of kittens + Cost of puppies
+* Total cost = $30 + (2 x $20) + $60 = $130
+
+Answer: $130

@@ -1,0 +1,13 @@
+To solve this problem, we need to find the total number of stars Kyle needs to buy. 
+
+Kyle bought 2 glass bottles that can hold 15 origami stars each. That means each bottle can hold 15 stars. So, the total number of stars Kyle can hold is 2 * 15 = 30 stars.
+
+Kyle bought 3 more identical glass bottles, so he has a total of 2 + 3 = 5 bottles. 
+
+Since each bottle can hold 15 stars, Kyle needs 5 * 15 = 75 stars. 
+
+Kyle has 30 stars he can hold and he needs 75 stars. So, the difference between 75 and 30 is 45. 
+
+Kyle must buy 45 more stars. 
+
+Answer: 45

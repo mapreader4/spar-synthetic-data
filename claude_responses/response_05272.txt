@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Table B had twice as much money on it as table C
+* Table C had $20 more than table A
+* Table A had $40 on it
+
+First, let's find out how much money was on table C:
+* Table C had $20 more than table A
+* Table A had $40
+* Therefore, table C had $40 + $20 = $60
+
+Now, let's find out how much money was on table B:
+* Table B had twice as much money on it as table C
+* Table C had $60
+* Therefore, table B had $60 x 2 = $120
+
+Now, we can calculate the total amount of money on all the tables:
+* Table A had $40
+* Table B had $120
+* Table C had $60
+* Total = $40 + $120 + $60 = $220
+
+Answer: $220

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Bob paid $6000 for his acorns
+* Alice purchased 3600 acorns
+* Alice paid nine times the price Bob paid for his acorns
+* To find the price Alice paid for each acorn, we need to:
+1. Calculate the total amount Alice paid for her 3600 acorns
+2. Divide the total amount by 3600 to get the price per acorn
+
+Step 1: Calculate the total amount Alice paid
+* Bob paid $6000 for his acorns
+* Alice paid nine times the price Bob paid
+* So, Alice paid 9 x $6000 = $54,000 for her 3600 acorns
+
+Step 2: Calculate the price per acorn
+* Alice paid $54,000 for 3600 acorns
+* To get the price per acorn, we divide $54,000 by 3600
+* $54,000 / 3600 = $15 per acorn
+
+Answer: $15 per acorn.

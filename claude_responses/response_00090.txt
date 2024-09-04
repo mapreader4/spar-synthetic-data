@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Herman feeds the birds in December, January, and February
+* He feeds them 1/2 cup in the morning and 1/2 cup in the afternoon
+* So, for each day, he feeds them a total of 1 cup (1/2 cup in the morning + 1/2 cup in the afternoon)
+* There are 31 days in December, 31 days in January, and 28 days in February (assuming it's not a leap year)
+* So, the total number of days he feeds the birds is:
+  - December: 31 days
+  - January: 31 days
+  - February: 28 days
+  - Total: 31 + 31 + 28 = 90 days
+* Since he feeds them 1 cup per day, the total number of cups of food he will need is:
+  - 90 days x 1 cup per day = 90 cups
+
+Answer: 90

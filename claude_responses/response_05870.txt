@@ -1,0 +1,29 @@
+To solve this problem, we need to calculate the total amount of money Keaton can earn from selling his oranges and apples in a year.
+
+Given information:
+- Keaton can harvest oranges every 2 months and sell them for $50.
+- Keaton can harvest apples every 3 months and sell them for $30.
+
+Step 1: Calculate the number of times Keaton can harvest oranges in a year.
+Number of months in a year = 12
+Number of months between each orange harvest = 2
+Number of orange harvests in a year = 12 months / 2 months = 6 harvests
+
+Step 2: Calculate the total amount of money Keaton can earn from selling oranges in a year.
+Total money from oranges = Number of orange harvests × Price per harvest
+Total money from oranges = 6 × $50 = $300
+
+Step 3: Calculate the number of times Keaton can harvest apples in a year.
+Number of months in a year = 12
+Number of months between each apple harvest = 3
+Number of apple harvests in a year = 12 months / 3 months = 4 harvests
+
+Step 4: Calculate the total amount of money Keaton can earn from selling apples in a year.
+Total money from apples = Number of apple harvests × Price per harvest
+Total money from apples = 4 × $30 = $120
+
+Step 5: Calculate the total amount of money Keaton can earn in a year.
+Total money earned = Total money from oranges + Total money from apples
+Total money earned = $300 + $120 = $420
+
+Answer: $420

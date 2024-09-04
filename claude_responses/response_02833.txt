@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+
+1. In Miss Johnson's class, 1/6 of the students preferred goldfish. Since the class has 30 students, we can calculate the number of students who preferred goldfish:
+   * 1/6 of 30 = 30 / 6 = 5 students
+
+2. In Mr. Feldstein's class, 2/3rds of the students preferred goldfish. Since the class has 30 students, we can calculate the number of students who preferred goldfish:
+   * 2/3 of 30 = 20 students
+
+3. In Ms. Henderson's class, 1/5 of the students preferred goldfish. Since the class has 30 students, we can calculate the number of students who preferred goldfish:
+   * 1/5 of 30 = 30 / 5 = 6 students
+
+4. To find the total number of students who prefer goldfish, we add up the number of students from each class:
+   * 5 + 20 + 6 = 31 students
+
+Answer: 31

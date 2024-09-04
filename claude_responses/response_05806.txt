@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Dylan had 8 ice cubes in his glass.
+2) When he made the pitcher of lemonade, he put in two times as many ice cubes as he had in the glass. 
+   * 2 x 8 = 16 ice cubes in the pitcher
+3) The ice cube trays have 12 spaces each for ice cubes.
+4) To find the total number of ice cubes used, we add the 8 in the glass and the 16 in the pitcher:
+   * 8 + 16 = 24 ice cubes used
+5) Since the trays have 12 spaces each, to find the number of trays needed, we divide the total number of ice cubes used by 12:
+   * 24 / 12 = 2 trays
+
+Answer: 2

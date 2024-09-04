@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The air conditioner consumes 7.2 kilowatts when running for 8 hours.
+* We want to find the consumption for 6 hours a day for 5 days.
+* To find the consumption for 6 hours, we can use a proportion:
+* 8 hours : 7.2 kilowatts = 6 hours : x kilowatts
+* Solving for x, we get:
+* x = (6 * 7.2) / 8 = 5.4 kilowatts per day
+* Now, we need to find the total consumption for 5 days:
+* 5.4 kilowatts per day * 5 days = 27 kilowatts
+
+Answer: 27 kilowatts

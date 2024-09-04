@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Charles bought 20 papers to draw
+* Today, he drew 6 pictures
+* Yesterday, he drew 6 pictures before going to work, and some more pictures when he came back
+* We know that he has 2 papers left
+
+To find the number of pictures he drew when he came back from work, we can use the following logic:
+* He started with 20 papers
+* He used 6 papers today and 6 papers yesterday before going to work
+* That means he used a total of 12 papers so far
+* He has 2 papers left
+* So the number of papers he used when he came back from work is:
+    - Total papers (20) - Papers used so far (12) - Papers left (2) = 6 papers
+
+Therefore, the number of pictures he drew when he came back from work is:
+Answer: 6

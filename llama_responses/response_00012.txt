@@ -1,0 +1,3 @@
+Let's start by identifying the number of mango trees. Randy has 60 mango trees. Let's denote this as M. He also has 5 less than half as many coconut trees as mango trees. We can express this as (M/2) = 5. So, the number of coconut trees is 60 - 5 = 55. Then, we can add the number of mango trees with the number of coconut trees to get the total number of trees. M + 55 = 60 + 55 = 115.
+
+Answer: 115

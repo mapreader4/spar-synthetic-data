@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* GiGi cut each mushroom into 4 pieces
+* Kenny sprinkled 38 mushroom pieces on his pizza
+* Karla sprinkled 42 mushroom pieces on her pizza
+* There were 8 pieces of mushrooms remaining on the cutting board
+
+To find the total number of mushrooms GiGi cut up, we need to add up the number of mushroom pieces used by Kenny and Karla, as well as the remaining 8 pieces.
+
+Kenny used 38 mushroom pieces, and Karla used 42 mushroom pieces. So the total number of mushroom pieces used is:
+* 38 + 42 = 80 mushroom pieces
+
+There were also 8 remaining pieces on the cutting board.
+* 80 + 8 = 88 mushroom pieces
+
+Since each mushroom was cut into 4 pieces, we can divide the total number of pieces by 4 to find the original number of mushrooms:
+* 88 / 4 = 22 mushrooms
+
+Answer: 22

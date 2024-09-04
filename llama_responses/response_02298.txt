@@ -1,0 +1,7 @@
+Let's think step by step.
+
+Eunice has 10 seeds and 4 pots. Each pot can hold 3 seeds. So, if 3 seeds can be planted in 1 pot, then we can find the number of seeds that can be planted in 4 pots by multiplying 3 by 4.
+
+3 * 4 = 12
+
+Answer: 12

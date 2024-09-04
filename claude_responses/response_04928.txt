@@ -1,0 +1,17 @@
+Okay, let's think this through step-by-step:
+* The number of swans in Rita's pond doubles every 2 years
+* Currently, there are 15 swans in the pond
+* We want to know how many swans there will be in 10 years
+
+To calculate the number of swans in 10 years, we need to determine how many doubling periods there are in 10 years.
+* Since the number of swans doubles every 2 years, there are 10 years / 2 years per doubling = 5 doubling periods in 10 years.
+
+Now, we can calculate the number of swans after 5 doubling periods:
+* Starting with 15 swans
+* After 1 doubling period (2 years), there will be 15 * 2 = 30 swans
+* After 2 doubling periods (4 years), there will be 30 * 2 = 60 swans
+* After 3 doubling periods (6 years), there will be 60 * 2 = 120 swans
+* After 4 doubling periods (8 years), there will be 120 * 2 = 240 swans
+* After 5 doubling periods (10 years), there will be 240 * 2 = 480 swans
+
+Answer: 480 swans

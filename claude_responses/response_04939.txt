@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 300 senior students
+* 5% of 300 students got a full merit college scholarship
+* To calculate 5% of 300:
+  - 5% = 0.05
+  - 0.05 * 300 = 15 students got a full merit scholarship
+* 10% of the 300 students got a half merit scholarship
+* To calculate 10% of 300:
+  - 10% = 0.10
+  - 0.10 * 300 = 30 students got a half merit scholarship
+* Now, to find how many senior students did not get any scholarships, we need to subtract the number of students who got scholarships from the total number of students:
+  - Total students: 300
+  - Students with full merit scholarship: 15
+  - Students with half merit scholarship: 30
+  - Students without any scholarship: 300 - 15 - 30 = 255
+
+Answer: 255

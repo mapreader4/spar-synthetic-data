@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Autumn started with 20 pencils
+* In the first month of school:
+  - She misplaced 7 pencils
+  - She broke 3 pencils and had to throw them away
+  - She found 4 pencils
+  - She bought 2 more pencils
+* To calculate the number of pencils she has left:
+  - She started with 20 pencils
+  - She lost 7 + 3 = 10 pencils
+  - She found 4 pencils
+  - She bought 2 more pencils
+  - So the total number of pencils she has left is:
+    20 - 10 + 4 + 2 = 16
+
+Answer: 16

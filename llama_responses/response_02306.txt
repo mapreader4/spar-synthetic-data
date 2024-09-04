@@ -1,0 +1,8 @@
+Let's break this down step by step.
+
+1. The cost of two children's tickets is 4.25 * 4 = 17.00.
+2. The cost of two adult tickets is 3.25 * 2 = 6.50.
+3. They got a 2 discount for buying more than 3 tickets. So, the total discount is 2 * 3 = 6.
+4. The total cost is 17.00 + 6.50 - 6 = 17.00 + 0.50 = 17.50.
+
+Answer: 17.50

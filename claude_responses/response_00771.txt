@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jimmy makes 8 sandwiches in total
+* Each sandwich requires 2 slices of bread
+* So the total number of slices of bread needed is 8 sandwiches x 2 slices per sandwich = 16 slices of bread
+* Each pack of bread has 4 slices
+* To determine how many packs of bread Jimmy needs to buy, we divide the total number of slices needed (16) by the number of slices per pack (4)
+* 16 slices / 4 slices per pack = 4 packs of bread
+
+Answer: 4

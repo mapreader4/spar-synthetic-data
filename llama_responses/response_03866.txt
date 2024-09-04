@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of bikes the shop owner had at the beginning of the month is x.
+
+At the end of the month, the shop owner had 45 bikes in stock. After selling 18 bikes, she had 45 - 18 = 27 bikes left.
+
+Since she adds 3 bikes every week, we can say that the number of bikes she had at the beginning of the month is x - 4 * 4 = x - 16.
+
+So, x - 16 = 45. Solving for x, we get x = 61.
+
+Answer: 61.

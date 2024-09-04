@@ -1,0 +1,16 @@
+Let's break down the information given in the problem:
+
+1. In the first period, Jordan blocked 4 shots.
+2. In the second period, he blocked twice as many shots as in the first period, so he blocked 4 * 2 = 8 shots.
+3. In the third period, he blocked three fewer shots than in the second period, so he blocked 8 - 3 = 5 shots.
+4. After the fourth period, Jordan had blocked 21 shots in total.
+
+Let's add up the number of shots blocked in each period to find the total:
+
+4 + 8 + 5 = 17
+
+However, we know that Jordan blocked 21 shots in total, so we need to find the number of shots he blocked in the fourth period. To do this, we can subtract the total number of shots blocked so far (17) from the total:
+
+21 - 17 = 4
+
+Answer: 4

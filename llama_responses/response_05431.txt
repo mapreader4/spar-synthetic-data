@@ -1,0 +1,25 @@
+Let's break this down step by step:
+
+Let's say the number of gallons of gas Adhira used for her trip is x.
+
+We know that Felicity used 5 less gallons of gas than four times the number of gallons that Adhira used, so we can set up an equation:
+
+Felicity's gas used = Adhira's gas used - 5
+
+Since Felicity and Adhira used 30 gallons of gas together, we know that the sum of their gas usage is 30. So, we can set up another equation:
+
+Adhira's gas used + Felicity's gas used = 30
+
+We can solve for Adhira's gas used by subtracting 5 from both sides of the equation:
+
+Adhira's gas used = 30 - 5
+
+Adhira's gas used = 25
+
+Now we know that Adhira used 25 gallons of gas. We can use this information to find Felicity's gas used by subtracting 25 from the total gas used:
+
+Felicity's gas used = 30 - 25
+
+Felicity's gas used = 5
+
+Answer: 5

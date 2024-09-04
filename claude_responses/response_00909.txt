@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The number of cats is 20% less than the number of dogs. This means that if the number of dogs is x, then the number of cats is 0.8x.
+2) There are twice as many frogs as the number of dogs. This means that if the number of dogs is x, then the number of frogs is 2x.
+3) We are told that there are 160 frogs. So, 2x = 160, which means x = 80.
+4) If the number of dogs is 80, then the number of cats is 0.8 * 80 = 64.
+5) The total number of animals is the sum of the number of dogs, cats, and frogs.
+6) The total number of animals = 80 dogs + 64 cats + 160 frogs = 304.
+
+Answer: 304

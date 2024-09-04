@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+
+1. The first box has a capacity of 80 oranges and is filled 3/4 of the way full.
+   * To calculate the number of oranges in the first box, we multiply the capacity (80) by the fraction of the box that is filled (3/4).
+   * 80 * 3/4 = 60 oranges
+
+2. The second box has a capacity of 50 oranges and is filled 3/5 of the way full.
+   * To calculate the number of oranges in the second box, we multiply the capacity (50) by the fraction of the box that is filled (3/5).
+   * 50 * 3/5 = 30 oranges
+
+3. To find the total number of oranges in both boxes, we add the number of oranges in the first box (60) and the number of oranges in the second box (30).
+   * 60 + 30 = 90 oranges
+
+Answer: 90

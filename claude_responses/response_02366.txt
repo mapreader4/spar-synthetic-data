@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Alyssa took 100 photos on vacation
+* She wants to put them in a photo album with 30 pages
+* She can place 3 photos each on the first 10 pages
+* That means she can place 3 x 10 = 30 photos on the first 10 pages
+* She can then place 4 photos each on the next 10 pages
+* That means she can place 4 x 10 = 40 photos on the next 10 pages
+* So in total, she has placed 30 + 40 = 70 photos in the first 20 pages
+* That leaves 100 - 70 = 30 photos to be placed on the remaining 10 pages
+* To place an equal number of photos on each of the remaining pages, we divide 30 by 10, which gives us 3 photos per page.
+
+Answer: 3

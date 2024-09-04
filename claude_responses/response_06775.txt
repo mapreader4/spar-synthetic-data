@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Iris has 3 uncles and 4 aunts
+* Each aunt and uncle has a son and a daughter
+* Iris also has a brother and her mother
+* So the total number of people coming to the party is:
+    - 3 uncles
+    - 4 aunts
+    - 8 cousins (2 per aunt/uncle)
+    - 1 brother
+    - 1 mother
+* Adding these up, we get:
+    - 3 uncles + 4 aunts + 8 cousins + 1 brother + 1 mother = 17 people
+
+Answer: 17

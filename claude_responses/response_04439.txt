@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The store buys the shirt for $20.
+2) The store charges 30% for profit. To calculate the selling price before the sale, we take the $20 cost and add 30% to it:
+   * $20 + (30% of $20) = $20 + $6 = $26
+3) The shirt is on sale for 50% off the selling price. To calculate the sale price, we take the $26 selling price and subtract 50% of it:
+   * $26 - (50% of $26) = $26 - $13 = $13
+Therefore, the price of the shirt after the 50% discount is $13.
+Answer: 13

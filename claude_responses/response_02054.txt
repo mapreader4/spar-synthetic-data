@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* On Wednesday, the book sold 15 copies
+* On Thursday, the book sold three times the number of copies it sold on Wednesday
+* To calculate the number of copies sold on Thursday:
+  * Copies sold on Wednesday: 15
+  * Copies sold on Thursday: 3 x 15 = 45
+* On Friday, the book sold one-fifth the number of copies it did on Thursday
+* To calculate the number of copies sold on Friday:
+  * Copies sold on Thursday: 45
+  * Copies sold on Friday: 45 / 5 = 9
+
+Now, to calculate the total number of copies sold by Friday:
+* Copies sold on Wednesday: 15
+* Copies sold on Thursday: 45
+* Copies sold on Friday: 9
+* Total copies sold by Friday: 15 + 45 + 9 = 69
+
+Answer: 69

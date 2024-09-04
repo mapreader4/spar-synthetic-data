@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+We know that each fence panel is made of 3 metal sheets, and each metal beam is made of 4 metal rods. So, each fence panel is made of 3 x 4 = 12 metal rods.
+
+Since the fence is made of 10 fence panels, the total number of metal rods needed for the fence is 10 x 12 = 120 metal rods.
+
+Answer: 120

@@ -1,0 +1,7 @@
+Let's start by letting x be the cost of the juice. Since the juice was two times more expensive than the sandwich, and the sandwich cost $4, then the cost of the juice is 2 x 4 = 8.
+
+The milk cost 75% of the total cost of the sandwich and juice. Let's let y be the cost of the sandwich and juice together. Then, we know that the cost of the milk is 0.75y.
+
+The total cost of the sandwich and juice together is 4 + 8 = 12. So, 0.75y = 12. To find the cost of the sandwich and juice together, we can solve for y by dividing both sides by 0.75: y = 12 / 0.75 = 16.
+
+The total cost of the food is the sum of the cost of the sandwich, juice, and milk. So, the total cost is 4 + 8 + 16 = 28. Therefore, George paid 28.

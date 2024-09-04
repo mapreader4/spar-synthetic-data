@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Paul uses 1 can of frosting to frost a layer cake
+* He uses a half can of frosting for a single cake, a single pan of brownies, or a dozen cupcakes
+* For Saturday, he needs to have:
+    - 3 layer cakes
+    - 6 dozen cupcakes (6 x 12 = 72 cupcakes)
+    - 12 single cakes
+    - 18 pans of brownies
+* To calculate the total number of cans of frosting needed:
+    - For the 3 layer cakes, he needs 3 cans of frosting
+    - For the 72 cupcakes, he needs 72 / 12 = 6 cans of frosting
+    - For the 12 single cakes, he needs 12 x 0.5 = 6 cans of frosting
+    - For the 18 pans of brownies, he needs 18 x 0.5 = 9 cans of frosting
+* Adding these up:
+    - 3 + 6 + 6 + 9 = 24 cans of frosting
+
+Answer: 24

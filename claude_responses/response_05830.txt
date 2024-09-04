@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Hansel's album originally had 25 songs
+* Each song is 3 minutes long
+* So the total duration of the original 25 songs is:
+    * 25 songs x 3 minutes per song = 75 minutes
+* Hansel then adds 10 more songs to the album
+* Each of these 10 new songs is also 3 minutes long
+* So the total duration of the 10 new songs is:
+    * 10 songs x 3 minutes per song = 30 minutes
+* To find the total duration of the entire album, we add the duration of the original 25 songs and the 10 new songs:
+    * 75 minutes + 30 minutes = 105 minutes
+
+Answer: 105

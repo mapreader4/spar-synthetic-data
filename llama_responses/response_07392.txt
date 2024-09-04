@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's say Gina's sister watches x shows in a week. Gina and her sister watch the same shows, so Gina also watches x shows in a week.
+
+Since Gina's sister watches 24 shows in a week, we know that x = 24.
+
+Each show is 50 minutes long, so Gina and her sister watch a total of 50x minutes of shows per week.
+
+We know that Gina and her sister watch the same shows, so Gina also watches 50x minutes of shows per week.
+
+Now, we need to find the total number of minutes of shows Gina gets to choose. We know that 50x = 50x.
+
+We can multiply both sides of the equation to find the value of x. 50x = 50x = 24, so Gina gets 1200 minutes of shows to choose.
+
+Answer: 1200

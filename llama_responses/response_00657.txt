@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Pete has to take a 10-minute walk down to the train station.
+2. After that, he has to take a 1hr 20-minute train to LA.
+3. The total time for the walk and the train ride is 10 minutes + 1hr 20 minutes = 1hr 10 minutes.
+4. Since he cannot get to LA later than 0900 hours, Pete has to leave at 0900 hours.
+
+So, the time for Pete to leave is 0900 hours.

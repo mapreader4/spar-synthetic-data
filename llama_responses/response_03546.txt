@@ -1,0 +1,11 @@
+To solve this problem, we can start by calculating the number of alligators eaten per week, which is given as 1. Then, we can multiply this number by the number of weeks to find the total number of alligators eaten in three weeks.
+
+Let's first convert the time period from weeks to days. There are 7 days in a week, so 3 weeks is equal to 21 days. Then, we can multiply the number of alligators eaten per week by the number of days to find the total number of alligators eaten in three weeks:
+
+1 alligator/week * 21 days = 21 alligators
+
+Since we are given that each alligator is 50 cm, we need to divide the total number of alligators by 50 to find the number of Burmese pythons needed:
+
+21 alligators / 50 cm = 0.42
+
+So, the answer is 0.42 Burmese pythons.

@@ -1,0 +1,20 @@
+Okay, let's break this down step by step:
+
+1. John is performing in 3 plays, and each play has 5 Acts.
+2. He wears 2 wigs per act.
+3. Each wig costs $5.
+4. He drops one of the plays and sells all of the wigs for that play for $4 each.
+
+First, let's calculate the total number of wigs he needs for the 3 plays:
+* 3 plays x 5 acts per play x 2 wigs per act = 30 wigs
+
+Now, let's calculate the total cost of the wigs:
+* 30 wigs x $5 per wig = $150
+
+Next, let's calculate the amount he gets back from selling the wigs for the dropped play:
+* 10 wigs (from the dropped play) x $4 per wig = $40
+
+Finally, to calculate the total amount of money he spent, we take the total cost of the wigs and subtract the amount he got back from selling the wigs:
+* $150 - $40 = $110
+
+Answer: $110

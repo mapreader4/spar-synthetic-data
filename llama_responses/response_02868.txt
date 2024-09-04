@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the information given: "There are 8 red pens in Maria's desk drawer." This means that the number of red pens is 8.
+
+The next statement is "There are 10 more black pens than red pens." This means that the number of black pens is 10, but we don't know what the number of red pens is yet. Let's say the number of red pens is x. Then, we know that the number of black pens is 10, which is 2 more than the number of red pens. So, the number of red pens is x - 2.
+
+The next statement is "There are 7 more blue pens than red pens." This means that the number of blue pens is 7, and we don't know what the number of red pens is yet. Let's say the number of red pens is x. Then, we know that the number of blue pens is 7, which is 1 more than the number of red pens. So, the number of red pens is x - 1.
+
+We can now set up an equation to solve for the number of red pens. Let's call the number of red pens x. We can set up the equation as follows: x - 2 = 10 and x - 1 = 7. We can add the two equations to get 2x - 3 = 17. Then, we can add 3 to both sides to get 2x = 20.
+
+So, the number of red pens is 10.

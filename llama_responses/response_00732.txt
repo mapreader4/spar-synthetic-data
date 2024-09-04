@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of legs in one tarantula egg sac. Since each egg sac can contain 1000 tarantulas, and each tarantula has 8 legs, the total number of legs in one egg sac would be 8 x 1000 = 8000 legs.
+
+Now, we need to find the number of legs in less than 5 egg sacs. We can do this by subtracting the legs from the total legs in one egg sac (8000) by the legs in 1 egg sac (8). We get:
+
+8000 - 8 = 7992
+
+So, the answer is:
+
+Answer: 7992

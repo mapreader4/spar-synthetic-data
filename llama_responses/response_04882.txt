@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's assume that 5/8 of shoppers prefer to avoid the check-out line on weekends and instead go through the express lane. This means that 5/8 of 480 shoppers will choose to go through the express lane.
+
+To find the number of shoppers who pay at the check-out lane, we can multiply 480 (the total number of shoppers) by 3/8 to get the number of shoppers who choose to go through the express lane.
+
+480 * 3/8 = 180
+
+Answer: 180

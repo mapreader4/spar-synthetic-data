@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Sean played cricket for 50 minutes each day for 14 days
+* So, the total time Sean played cricket is:
+    - 50 minutes x 14 days = 700 minutes
+* Indira and Sean played cricket together for a total of 1512 minutes
+* To find how many minutes Indira played cricket, we need to subtract the time Sean played from the total time:
+    - 1512 minutes - 700 minutes = 812 minutes
+
+Answer: 812 minutes

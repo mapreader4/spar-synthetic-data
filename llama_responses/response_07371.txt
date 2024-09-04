@@ -1,0 +1,11 @@
+To earn a $500 bonus, the average score must be above 75. Since Karen already has an average score of 70, she is 5 points below the bonus threshold. So, the last two tests need to have a combined score of at least 75 + 5 = 80. For every additional point above 75, she gets an extra $10 bonus, so we can set up an equation:
+
+Let x be the score of the last two tests. Then, we have:
+
+x + x = 80 + 10k
+
+where k is the number of points above 75. Since the maximum score is 150, we know that x + x <= 150. So, we can solve for k:
+
+k = (150 - 80) / 10 = 7
+
+So, the last two tests need to have a combined score of 80 + 70 = 150 - 70 = 80. Therefore, the last two tests need to have a combined score of 80.

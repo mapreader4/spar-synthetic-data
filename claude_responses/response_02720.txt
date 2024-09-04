@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Kaylee needs to sell a total of 33 boxes of biscuits
+* So far, she has sold:
+    - 12 boxes of lemon biscuits to her aunt
+    - 5 boxes of chocolate biscuits to her mother
+    - 4 boxes of oatmeal biscuits to a neighbor
+* To calculate the total number of boxes she has sold so far, we add these up:
+    - 12 + 5 + 4 = 21 boxes sold
+* Now, to find out how many more boxes she needs to sell, we subtract the number of boxes she has already sold from the total she needs to sell:
+    - 33 - 21 = 12 boxes
+
+Answer: 12

@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+* Carly trimmed 164 nails in total
+* Each dog has 4 paws, and each paw has 4 nails
+* So, for each dog, Carly would have trimmed 4 x 4 = 16 nails
+* However, 3 of the dogs had only 3 legs, so Carly would have trimmed 3 x 3 = 9 nails for each of those dogs
+* So, the total number of nails trimmed for the 3 dogs with 3 legs is 3 x 9 = 27 nails
+* The remaining nails, 164 - 27 = 137, were trimmed from dogs with 4 legs
+* Since each dog with 4 legs had 16 nails trimmed, we can divide 137 by 16 to get the number of dogs with 4 legs:
+* 137 / 16 = 8.5625
+* Since we can't have a fractional number of dogs, we round down to the nearest whole number, which is 8 dogs
+* Therefore, the total number of dogs Carly worked on is 8 + 3 = 11 dogs.
+
+Answer: 11

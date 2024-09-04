@@ -1,0 +1,9 @@
+To find the total number of eggs they can decorate per hour, we can add the number of eggs they can decorate per hour together. Mia can decorate 2 dozen eggs per hour, and Billy can decorate 10 eggs per hour, so together they can decorate 12 eggs per hour.
+
+The total number of eggs they can decorate per hour is 2 + 10 = 12 eggs per hour.
+
+Now, to find the total time it will take them to decorate all the eggs, we can divide the total number of eggs by the total number of eggs they can decorate per hour.
+
+The total number of eggs is 170, and the number of eggs they can decorate per hour is 12. So, the total time will be 170 eggs / 12 eggs per hour = 14.25 hours.
+
+Answer: 14.25

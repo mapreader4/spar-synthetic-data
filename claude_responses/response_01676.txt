@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Mikaela bought 16 containers of paint to cover the four equally-sized walls in the bathroom
+* Since there are four equally-sized walls, that means each wall requires 4 containers of paint (16 containers / 4 walls = 4 containers per wall)
+* However, Mikaela decided to put tile on one wall, so she only needs to paint three walls
+* That means she only needs 12 containers of paint for the three walls (3 walls x 4 containers per wall = 12 containers)
+* Mikaela also decided to paint flowers on the ceiling, which requires 1 container of paint
+* So in total, Mikaela will use 12 containers for the walls and 1 container for the ceiling, which is 13 containers
+* She originally bought 16 containers, so the number of containers she will have left over is:
+Answer: 16 - 13 = 3

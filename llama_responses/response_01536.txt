@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's start with the cost of the movie ticket. The cost of the movie ticket is $5.
+
+The cost of the popcorn is 80% of the cost of the ticket, so the cost of the popcorn is 0.8 * 5 = $4.
+
+The cost of a can of soda is 50% of the cost of the popcorn, so the cost of the soda is 0.5 * 4 = $2.
+
+The family bought 4 tickets, so the total cost of the tickets is 4 * 5 = $20.
+
+The family also bought 2 sets of popcorn, so the cost of the popcorn is 2 * 4 = $8.
+
+The family also bought 4 cans of soda, so the total cost of the soda is 4 * 2 = $8.
+
+To find the total cost, we add the cost of the tickets, popcorn, and soda: 20 + 8 + 8 = $36.
+
+Answer: 36

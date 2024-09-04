@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) There are 6 boxes of crayons that hold 8 orange crayons each.
+   * To find the total number of orange crayons, we multiply 6 (the number of boxes) by 8 (the number of orange crayons per box).
+   * 6 x 8 = 48 orange crayons
+
+2) There are 7 boxes of crayons that have 5 blue crayons each.
+   * To find the total number of blue crayons, we multiply 7 (the number of boxes) by 5 (the number of blue crayons per box).
+   * 7 x 5 = 35 blue crayons
+
+3) There is 1 box of 11 red crayons.
+   * The total number of red crayons is 11.
+
+4) To find the total number of crayons, we add up the orange, blue, and red crayons:
+   * 48 orange + 35 blue + 11 red = 94 crayons
+
+Answer: 94

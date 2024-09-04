@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The team has 3 goalies and 10 defenders
+* The team has twice as many midfielders as defenders
+* The remaining players are strikers
+
+First, let's calculate the number of midfielders:
+* The team has twice as many midfielders as defenders
+* So, the number of midfielders is 2 x 10 = 20
+
+Now, we can calculate the total number of players that are not strikers:
+* 3 goalies + 10 defenders + 20 midfielders = 33 players
+
+Finally, we can calculate the number of strikers:
+* The team has 40 players total
+* The number of non-strikers is 33
+* So, the number of strikers is 40 - 33 = 7
+
+Answer: 7

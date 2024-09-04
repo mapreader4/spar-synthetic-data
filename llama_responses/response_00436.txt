@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the number of pens she gave to her friends.
+
+She gave 8 pens to each of her 7 friends. So, the total number of pens she gave is 8 x 7 = 56.
+
+Now, she had 60 pens initially. So, she gave away 56 pens, so the number of pens she has left is:
+
+60 - 56 = 4
+
+Answer: 4

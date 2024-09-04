@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total number of pages to be copied.
+The manuscript is 400 pages. Since Clarissa wants to get 10 copies, we need to multiply the number of pages by 10.
+10 * 400 = 4000 pages
+
+Step 2: Calculate the cost of copying the pages.
+The cost per page is $0.05, so for 4000 pages, the total cost would be:
+4000 * 0.05 = 200
+
+Step 3: Calculate the cost of binding the manuscript.
+The cost per manuscript is $5.00, and Clarissa wants to get 10 copies. So, the total cost would be:
+10 * 5.00 = 50
+
+Step 4: Add the cost of copying and binding together.
+The total cost would be the sum of the cost of copying and binding:
+200 + 50 = 250
+
+Answer: 250

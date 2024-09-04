@@ -1,0 +1,9 @@
+To solve this problem, I will break it down step by step.
+
+1. Jamie earns $10 per hour.
+2. She delivers flyers 2 days each week, which means she delivers flyers for a total of 2 * 7 = 14 days in a month.
+3. Each time she delivers flyers, it takes her 3 hours.
+4. So, the total time she spends on delivering flyers in a month is 3 * 14 = 42 hours.
+5. Since she earns $10 per hour, she earns 10 * 42 = $420 in a month.
+
+Answer: 420

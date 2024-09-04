@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Eric has 4 chickens on his farm
+* Each chicken lays 3 eggs per day
+* We want to know how many eggs Eric will have collected after 3 days
+
+To calculate the total number of eggs collected, we need to:
+1. Calculate the number of eggs laid per day
+2. Multiply the number of eggs laid per day by the number of days
+
+Step 1: Calculating the number of eggs laid per day
+* Each chicken lays 3 eggs per day
+* There are 4 chickens on the farm
+* So, the total number of eggs laid per day is 4 chickens x 3 eggs per chicken = 12 eggs per day
+
+Step 2: Calculating the total number of eggs collected after 3 days
+* The chickens lay 12 eggs per day
+* After 3 days, the total number of eggs collected is 12 eggs per day x 3 days = 36 eggs
+
+Answer: 36

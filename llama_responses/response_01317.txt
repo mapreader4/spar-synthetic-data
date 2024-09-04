@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total distance the racers need to run. Carlos runs around the entire block in 3 minutes, so the distance is 3 minutes * 60 seconds = 180 seconds. Diego runs around half the block in 2.5 minutes, so the distance is 2.5 * 60 seconds = 150 seconds. Since Diego trips and can't finish, we can find the time it would take him to finish the entire block by adding 150 seconds to 2.5 minutes, which is 2.5 + 150 = 3.5 minutes. So the total time it would take Diego to finish the entire block is 3.5 minutes * 60 seconds = 210 seconds.
+
+Now we can find the average time for the racers by adding the time it would take Carlos and Diego to finish the entire block. The time it would take Carlos to finish the block is 180 seconds, and the time it would take Diego is 210 seconds. To find the average time, we add the two times and divide by 2, since there are two racers. The average time is (180 + 210) / 2 = 195 seconds.
+
+Answer: 195

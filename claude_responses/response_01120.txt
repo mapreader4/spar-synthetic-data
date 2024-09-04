@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The printing press is printing 20 single-page spreads
+* It is also printing twice as many double-page spreads, which is 40 double-page spreads
+* For every 4 pages printed for the spreads, the press prints a block of 4 ads, each taking up a quarter of a page
+* So, the total number of pages printed is the sum of the single-page spreads (20 pages), the double-page spreads (80 pages), and the ad blocks (4 pages)
+* 20 + 80 + 4 = 104 total pages printed
+* The brochures can be arranged in any order as long as they are made up of 5 pages each
+* To find the number of brochures, we divide the total pages printed (104) by the number of pages per brochure (5)
+* 104 / 5 = 20.8
+* Since we can only have whole brochures, we round down to the nearest integer
+* Answer: 20 brochures

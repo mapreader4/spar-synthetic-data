@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the number of miles Rocky runs on day 1, which is 4 miles.
+
+For day 2, Rocky runs double the number of miles he ran on day 1, which is 4 * 2 = 8 miles.
+
+For day 3, Rocky runs triple the number of miles he ran on day 2, which is 8 * 3 = 24 miles.
+
+To find the total number of miles Rocky ran in the first three days, we add the miles from each day: 4 + 8 + 24 = 36.
+
+Answer: 36

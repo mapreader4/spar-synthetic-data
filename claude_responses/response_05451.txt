@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Cuffs: Each cuff is 50 cm long, and there are 2 cuffs, so the total length of lace for the cuffs is 2 * 50 cm = 100 cm
+* Waist: The waist is a third of the length of the hem, which is 300 cm. So the waist is 300 cm / 3 = 100 cm
+* Hem: The hem is 300 cm long
+* Neckline: There are 5 ruffles, and each ruffle uses 20 cm of lace, so the total length of lace for the neckline is 5 * 20 cm = 100 cm
+
+Now we add up the total length of lace needed:
+* Total length of lace = 100 cm + 100 cm + 300 cm + 100 cm = 600 cm
+
+We need to convert this to meters to calculate the cost:
+* 600 cm = 6 m
+
+The lace costs $6 per meter, so the total cost is:
+* 6 m * $6/m = $36
+
+Answer: $36

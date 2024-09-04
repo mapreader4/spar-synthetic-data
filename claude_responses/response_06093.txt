@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* On the first day, you did 30 squats
+* Each day, you plan to increase the number of squats by 5 more than the previous day
+* You will do your workout for four consecutive days
+
+So, let's calculate the number of squats for each day:
+* Day 1: 30 squats
+* Day 2: 30 + 5 = 35 squats
+* Day 3: 35 + 5 = 40 squats
+* Day 4: 40 + 5 = 45 squats
+
+The day after tomorrow is the fifth day, so the number of squats you will perform is:
+* Day 5: 45 + 5 = 50 squats
+
+Answer: 50

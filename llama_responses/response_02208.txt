@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total length of wood that Steve needs. He needs 6 lengths of wood that measure 4 feet each, so that is 6 x 4 = 24 feet. He also needs 2 lengths of wood that measure 2 feet each, so that is 2 x 2 = 4 feet. To find the total amount of wood he needs, we add the two together: 24 + 4 = 28 feet.
+
+Answer: 28

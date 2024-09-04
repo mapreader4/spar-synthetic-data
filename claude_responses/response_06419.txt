@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) Amber has $7 to spend.
+2) The candy costs $1 per bag and contains 12 ounces per bag.
+3) The chips cost $1.40 per bag and contain 17 ounces per bag.
+4) To find the most ounces, we need to calculate how many bags of each item she can buy with $7.
+5) For the candy, she can buy 7 bags ($7 / $1 per bag = 7 bags).
+6) For the chips, she can buy 5 bags ($7 / $1.40 per bag = 5 bags).
+7) 7 bags of candy at 12 ounces per bag is 84 ounces.
+8) 5 bags of chips at 17 ounces per bag is 85 ounces.
+9) Since 85 ounces is greater than 84 ounces, the item that gives her the most ounces is the chips.
+
+Answer: 85

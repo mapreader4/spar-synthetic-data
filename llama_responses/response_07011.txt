@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that the number of elephants at Gestures For Good park is 3 times as many as the number of elephants at We Preserve For Future park.
+
+Let's use the variable "x" to represent the number of elephants at We Preserve For Future park. Then, the number of elephants at Gestures For Good park is 3x.
+
+We are asked to calculate the total number of elephants in the two parks. To do this, we need to multiply the number of elephants at We Preserve For Future park (x) by 3 to get the number of elephants at Gestures For Good park, and then add the two numbers together.
+
+The equation to solve this problem is:
+
+x + 3x
+
+We are given that there are 70 elephants at We Preserve For Future park. So, we can set up the equation like this:
+
+3x = 70
+
+To solve for x, we can divide both sides of the equation by 3:
+
+x = 70 / 3
+
+x = 23.33
+
+So, the number of elephants at We Preserve For Future park is 23.33. To find the total number of elephants in the two parks, we need to multiply 23.33 by 3 to get:
+
+23.33 * 3 = 69.99
+
+Answer: 70

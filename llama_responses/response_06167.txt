@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of potato chips made from the half that Cynthia used to make potato chips. Since one potato can make 20 potato chips, and she used half of the remaining potatoes, the number of potato chips made is:
+
+20 potato chips per potato / 2 = 10 potato chips
+
+Now, let's find the number of wedges made from the total potatoes. Cynthia cut 13 potatoes into wedges, and then halved the remaining potatoes. So, the number of potatoes remaining after cutting 13 wedges is:
+
+67 - 13 = 54 potatoes
+
+The half of 54 potatoes is 27 potatoes. Since one potato can make 8 wedges, the number of wedges made is:
+
+27 potatoes * 8 wedges/potato = 216 wedges
+
+Now, let's find the difference between the number of potato chips and wedges:
+
+10 potato chips - 216 wedges = -206 potato chips
+
+So, Cynthia made 206 more potato chips than wedges.

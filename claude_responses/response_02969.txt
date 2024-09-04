@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Frank's laundry detergent is double concentrated and will wash 80 loads of laundry per bottle
+* The regular price of the detergent is $25.00 per bottle
+* If Frank buys 2 bottles, the price of each bottle drops to $20.00
+
+To calculate the cost per load of laundry, we need to:
+1. Calculate the total cost of 2 bottles of detergent:
+   * 2 bottles x $20.00 per bottle = $40.00
+2. Calculate the total number of loads of laundry that can be washed with 2 bottles:
+   * 2 bottles x 80 loads per bottle = 160 loads
+3. Calculate the cost per load of laundry:
+   * $40.00 / 160 loads = $0.25 per load
+
+Answer: 25 cents per load of laundry.

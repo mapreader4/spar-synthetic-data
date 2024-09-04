@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start with the total number of spaces in the parking lot: 1000.
+
+Section 1 has 320 spaces. So, 320 spaces are available in section 1.
+
+Section 2 has 200 more spaces than section 3. So, section 2 has 320 + 200 = 520 spaces.
+
+Section 3 has 1000 - (320 + 520) = 260 spaces.
+
+To find the total number of spaces in section 2, we add the spaces in sections 1 and 2: 320 + 520 = 840.
+
+Answer: 840

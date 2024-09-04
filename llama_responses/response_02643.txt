@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Brian watches a 4-minute video of cats.
+2. He watches a video twice as long as the cat video, which is 2 x 4 = 8 minutes, involving dogs.
+3. He then watches a video on gorillas that's twice as long as the previous two videos combined. The total time of the previous two videos is 4 + 8 = 12 minutes. Twice that is 2 x 12 = 24 minutes.
+
+So, Brian watches a 4-minute video of cats, an 8-minute video of dogs, and a 24-minute video of gorillas. To find the total time, we add these together: 4 + 8 + 24 = 36.
+
+Answer: 36

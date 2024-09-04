@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+* There are 12 dogs on stage
+* Half of the dogs (6 dogs) are standing on their back legs
+* The other half (6 dogs) are standing on all 4 legs
+* For the 6 dogs standing on their back legs, each dog has 2 paws on the ground
+* For the 6 dogs standing on all 4 legs, each dog has 4 paws on the ground
+* To calculate the total number of paws on the ground:
+* 6 dogs with 2 paws each = 6 x 2 = 12 paws
+* 6 dogs with 4 paws each = 6 x 4 = 24 paws
+* Total paws on the ground = 12 + 24 = 36 paws
+
+Answer: 36

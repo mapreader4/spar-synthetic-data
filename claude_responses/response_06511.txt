@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Each Hoopit has 3 toes on each of their 4 hands, so each Hoopit has 3 * 4 = 12 toes
+* Each Neglart has 2 toes on each of their 5 hands, so each Neglart has 2 * 5 = 10 toes
+* The school bus carries 7 Hoopit students and 8 Neglart students
+* To find the total number of toes on the school bus, we need to multiply the number of Hoopit students by the number of toes per Hoopit, and the number of Neglart students by the number of toes per Neglart, then add the two together.
+* 7 Hoopit students x 12 toes per Hoopit = 84 toes
+* 8 Neglart students x 10 toes per Neglart = 80 toes
+* 84 toes + 80 toes = 164 toes
+
+Answer: 164

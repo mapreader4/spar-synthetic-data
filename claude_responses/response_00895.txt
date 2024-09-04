@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The living room walls take up 600 square feet.
+2) Henrietta has three bedrooms, and each bedroom's walls take up 400 square feet.
+3) So the total square feet of wall space in the bedrooms is 3 * 400 = 1200 square feet.
+4) The total square feet of wall space in the house is the living room (600 square feet) plus the three bedrooms (1200 square feet), which is 600 + 1200 = 1800 square feet.
+5) One gallon of paint can cover 600 square feet.
+6) To calculate the number of gallons of paint needed, we divide the total square feet of wall space (1800) by the square feet that one gallon can cover (600).
+7) 1800 / 600 = 3
+
+Answer: 3

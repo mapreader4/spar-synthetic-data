@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Reese practices piano for 4 hours every week
+* We want to know how many hours he will practice after 5 months
+* There are 4 weeks in a month
+* So in 5 months, there are 5 * 4 = 20 weeks
+* In 20 weeks, he will practice for 20 * 4 = 80 hours
+
+Answer: 80

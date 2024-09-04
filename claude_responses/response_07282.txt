@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Oliver has $40 and 200 quarters.
+2) 1 quarter is equal to $0.25.
+3) 200 quarters is equal to 200 * $0.25 = $50.
+4) So Oliver's total money is $40 + $50 = $90.
+5) Oliver gives his sister $5 and 120 quarters.
+6) 120 quarters is equal to 120 * $0.25 = $30.
+7) So Oliver gives his sister a total of $5 + $30 = $35.
+8) To find how much money Oliver is left with, we take his total money ($90) and subtract the amount he gave his sister ($35).
+9) $90 - $35 = $55.
+
+Answer: 55

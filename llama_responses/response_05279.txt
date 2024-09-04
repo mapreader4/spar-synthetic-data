@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find out how many phones were produced this year. Since a quarter of this year's production is sold, we can find this year's production by multiplying the quarter by 4.
+
+This year's production is 4/4 of this year's production.
+
+We know last year's production was 5000 phones, so this year's production is 5000 * 4 = 20000 phones.
+
+Now, let's find how many phones are left in the factory. We can find this by subtracting the sold phones from the total production.
+
+20000 - 1/4 * 20000 = 16000.
+
+Answer: 16000

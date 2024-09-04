@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There are 4 clowns and 30 children attending the carousel
+* The total number of people attending is 4 + 30 = 34
+* The candy seller had 700 candies to start with
+* The candy seller sold 20 candies to each of the 34 people attending
+* To calculate the total number of candies sold, we multiply 20 by 34: 20 x 34 = 680
+* To calculate the number of candies left, we subtract the number of candies sold from the initial number of candies: 700 - 680 = 20
+
+Answer: 20

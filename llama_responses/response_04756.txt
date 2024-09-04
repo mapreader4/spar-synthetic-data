@@ -1,0 +1,11 @@
+To solve this problem, I will think step by step.
+
+Step 1: Let's start by identifying the information given in the problem. We know that the temperature drops by 2.1 degrees for each tree planted. We also know that the local temperature is initially at 80 degrees. We also know that the local temperature needs to drop to 78.2 degrees.
+
+Step 2: Let's calculate the difference between the initial temperature and the final temperature. The difference is 80 - 78.2 = 1.8 degrees.
+
+Step 3: Now, we know that the temperature drops by 2.1 degrees for each tree. So, to drop the temperature by 1.8 degrees, we need to plant 1.8 / 2.1 trees. 1.8 / 2.1 = 0.86.
+
+Step 4: The cost of each tree is $6. So, to plant the trees, it would cost 0.86 * 6 = $5.16.
+
+Answer: 5.16

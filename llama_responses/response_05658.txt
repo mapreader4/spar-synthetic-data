@@ -1,0 +1,16 @@
+Let's start by finding the total number of marbles they had initially:
+
+Dilan had 14 marbles
+Martha had 20 marbles
+Phillip had 19 marbles
+Veronica had 7 marbles
+
+Total number of marbles = 14 + 20 + 19 + 7 = 60
+
+Since they wanted to redistribute the marbles so they each had an equal number, we need to find the total number of marbles divided by the number of friends. There are 4 friends, so:
+
+60 (total marbles) ÷ 4 (number of friends) = 15
+
+This means each friend will have 15 marbles at the end of the day.
+
+Answer: 15

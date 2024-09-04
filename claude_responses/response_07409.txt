@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Bill goes to the bathroom 3 times a day
+* Each time, he uses 5 squares of toilet paper
+* So, in a day, Bill uses 3 * 5 = 15 squares of toilet paper
+* Bill has 1000 rolls of toilet paper
+* Each roll has 300 squares of toilet paper
+* So, the total number of squares of toilet paper Bill has is 1000 * 300 = 300,000 squares
+* To find how many days his toilet paper supply will last, we divide the total number of squares by the number of squares he uses per day:
+* 300,000 squares / 15 squares per day = 20,000 days
+
+Answer: 20,000

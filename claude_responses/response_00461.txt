@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Clarissa needs to get 10 copies of the manuscript printed and bound
+* The manuscript is 400 pages long
+* The printers charge $0.05 per page to copy it
+* The printers charge $5.00 per manuscript to have it bound
+
+First, let's calculate the cost of copying the manuscript 10 times:
+* 400 pages per manuscript x 10 copies = 4,000 total pages
+* 4,000 total pages x $0.05 per page = $200 for copying
+
+Next, let's calculate the cost of binding the 10 manuscripts:
+* 10 manuscripts x $5.00 per manuscript = $50 for binding
+
+Finally, to get the total cost, we add the copying and binding costs:
+* $200 (copying) + $50 (binding) = $250 total
+
+Answer: $250

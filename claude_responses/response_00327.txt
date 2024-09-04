@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Andy buys 30 minks
+2) Each mink has 6 babies, so the total number of minks is 30 + (30 * 6) = 210
+3) Half of the total minks are set free by activists, so the remaining number of minks is 210 / 2 = 105
+4) It takes 15 mink skins to make a coat, so the number of coats that can be made is 105 / 15 = 7
+
+Answer: 7

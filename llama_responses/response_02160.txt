@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say John's shirt costs x dollars.  If his shirt is 60% more than his pants, then we can set up an equation to solve for x.
+
+x + 0.6x = 50 + x
+
+We can subtract 50 from both sides of the equation to get:
+
+0.4x = x
+
+So, we know that 0.4x = x, which means that x = 125.
+
+So, John's shirt cost 125.

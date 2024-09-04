@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Anna gets 14 pieces of candy per house in the first subdivision
+* The first subdivision has 60 houses
+* So, the total number of pieces of candy Anna gets is:
+    - 14 pieces per house x 60 houses = 840 pieces of candy
+* Billy gets 11 pieces of candy per house in the second subdivision
+* The second subdivision has 75 houses
+* So, the total number of pieces of candy Billy gets is:
+    - 11 pieces per house x 75 houses = 825 pieces of candy
+* To find the difference, we subtract Billy's total from Anna's total:
+    - 840 pieces of candy - 825 pieces of candy = 15 pieces of candy
+
+Answer: 15

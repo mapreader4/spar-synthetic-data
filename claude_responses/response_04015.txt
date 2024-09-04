@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jackson starts with a whole lot of emails that he can delete
+* While he deletes 50 emails, he gets 15 more emails
+* So after deleting 50 emails, he has 50 - 15 = 35 emails left
+* Then he deletes 20 more emails, but gets 5 more emails
+* So after deleting 20 emails, he has 35 - 20 + 5 = 20 emails left
+* After deleting all his old emails, he has 10 more emails sent to him
+* So the total number of emails in his inbox now is 20 + 10 = 30 emails
+
+Answer: 30

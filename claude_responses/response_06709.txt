@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Rita bought:
+  - 5 short dresses at $20 each, so the total cost of the dresses is 5 x $20 = $100
+  - 3 pairs of pants at $12 each, so the total cost of the pants is 3 x $12 = $36
+  - 4 jackets at $30 each, so the total cost of the jackets is 4 x $30 = $120
+* The total cost of the items she bought is $100 + $36 + $120 = $256
+* She also spent $5 on transportation
+* So the total amount she spent is $256 + $5 = $261
+* She had $400 initially
+* To calculate how much she has now, we take the initial amount ($400) and subtract the total amount spent ($261)
+* $400 - $261 = $139
+
+Answer: 139

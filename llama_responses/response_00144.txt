@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's say the number of packages delivered by the third butcher is x.
+
+We know that the total weight of the ground beef delivered is 100 pounds. Since each package weighs 4 pounds, the total number of packages delivered is 100 / 4 = 25.
+
+We know that the first butcher delivered 10 packages and the second butcher delivered 7 packages. So, the total number of packages delivered by the first two butchers is 10 + 7 = 17.
+
+Since the total number of packages delivered is 25, and 17 packages were delivered by the first two butchers, the number of packages delivered by the third butcher is 25 - 17 = 8.
+
+Answer: 8

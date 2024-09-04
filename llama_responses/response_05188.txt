@@ -1,0 +1,7 @@
+To find the number of students who do not have glasses, we can subtract 40 percent of the total number of students from the total number of students.
+
+Let's first find 40% of 325. 40% of 325 is 130.
+
+So, 325 - 130 = 195.
+
+Answer: 195

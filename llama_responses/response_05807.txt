@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Emmalyn and her research team, the Polar Bears, took 30 minutes to navigate around a volcanic island. So, the total time for the first round is 30 minutes.
+
+They then re-grouped and planned out the rest of their weekend research schedule. They completed 10 more rounds that day and then went home. So, the total time for the first day is 30 + 10*60 = 150 minutes.
+
+On Sunday, they came back and were able to complete 15 more rounds. The total time for the second day is 15*60 = 900 minutes.
+
+To find the total time, in minutes, the Polar Bears spent circling the island over that weekend, we add the time for both days. The total time is 150 + 900 = 1050 minutes.
+
+Answer: 1050

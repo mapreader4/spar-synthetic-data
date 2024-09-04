@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+On Saturday:
+* Scout worked 4 hours
+* His base pay is $10.00 per hour
+* He delivered groceries to 5 people
+* He earned $5.00 per customer
+* So, his Saturday earnings are:
+    - Base pay: 4 hours x $10.00 per hour = $40.00
+    - Tips: 5 customers x $5.00 per customer = $25.00
+    - Total Saturday earnings: $40.00 + $25.00 = $65.00
+
+On Sunday:
+* Scout worked 5 hours
+* His base pay is $10.00 per hour
+* He delivered groceries to 8 people
+* He earned $5.00 per customer
+* So, his Sunday earnings are:
+    - Base pay: 5 hours x $10.00 per hour = $50.00
+    - Tips: 8 customers x $5.00 per customer = $40.00
+    - Total Sunday earnings: $50.00 + $40.00 = $90.00
+
+Now, to calculate his total earnings over the weekend:
+* Total earnings = Saturday earnings + Sunday earnings
+* Total earnings = $65.00 + $90.00 = $155.00
+
+Answer: $155

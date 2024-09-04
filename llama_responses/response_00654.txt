@@ -1,0 +1,9 @@
+Let's start by identifying the given information.
+
+There are 12 compartments in Roshenina's piggy bank, and each compartment has 2 pennies. So, initially, she has a total of 12 x 2 = 24 pennies.
+
+Then, she adds 6 more pennies to each compartment, which means she adds a total of 12 x 6 = 72 pennies.
+
+To find the total number of pennies she has, we add the initial 24 pennies to the additional 72 pennies. So, the total number of pennies Roshenina has is 24 + 72 = 96 pennies.
+
+Answer: 96

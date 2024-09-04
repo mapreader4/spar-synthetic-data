@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of red beads. We know that there are twice as many red beads as green beads, and there are 3 green beads, so the number of red beads is 3 x 2 = 6.
+
+Now, we know that the pattern repeats 3 times per bracelet and 5 times per necklace. So, for 1 bracelet, the number of beads is 3 x (3) = 9. For 10 necklaces, the number of beads is 5 x 10 = 50.
+
+To find the total number of beads needed for 1 bracelet and 10 necklaces, we can add the number of beads for each. 9 + 50 = 59.
+
+Answer: 59

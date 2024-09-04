@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. The plane takes 4 hours to fly from New York to Chicago.
+2. The plane stays at the port in Chicago for 1 hour.
+3. The plane takes three times as many hours to fly from Chicago to Miami as it took to fly from New York to Chicago. Since it took 4 hours to fly from New York to Chicago, it will take 4 * 3 = 12 hours to fly from Chicago to Miami.
+
+To find the total time it takes to travel from New York to Miami, we add the time it takes to fly from New York to Chicago (4 hours) to the time it takes to stay at the port in Chicago (1 hour) and the time it takes to fly from Chicago to Miami (12 hours). This gives us:
+
+4 hours (New York to Chicago) + 1 hour (stay in Chicago) + 12 hours (Chicago to Miami) = 17 hours
+
+Answer: 17

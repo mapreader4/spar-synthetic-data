@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Brenda picks 250 peaches.
+2) Only 60% of the peaches are fresh. To find the number of fresh peaches, we take 60% of 250:
+   * 60% of 250 = 0.60 * 250 = 150 fresh peaches
+3) Brenda has to throw away 15 peaches for being too small.
+4) To find the number of peaches Brenda has left, we take the number of fresh peaches (150) and subtract the 15 peaches she had to throw away:
+   * 150 - 15 = 135 peaches
+
+Answer: 135

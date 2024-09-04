@@ -1,0 +1,9 @@
+Let's start by identifying the information given in the problem. We know that Krista has 10 hens who lay eggs, and she sells them for $3 a dozen. We are given that she sold $120 worth of eggs in 4 weeks.
+
+Let's first convert the cost of the eggs into the number of eggs. $120 / 3 = 40 dozen. Since there are 12 eggs in a dozen, we can conclude that Krista sold 40 dozen eggs.
+
+Now, we need to find the number of eggs each hen lays in a week. We know that Krista sold 40 dozen eggs in 4 weeks. To find the number of eggs each hen lays, we need to divide the total number of eggs by the number of weeks.
+
+40 dozen eggs / 4 weeks = 10 eggs per week.
+
+Answer: 10

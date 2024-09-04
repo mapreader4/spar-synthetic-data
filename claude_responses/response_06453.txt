@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Each batch of guacamole requires 4 avocados
+* Each batch serves about 6 people
+* There will be 42 people at the party, including Allie
+* To determine how many avocados Allie needs, we first need to figure out how many batches of guacamole she needs to make.
+* Since each batch serves 6 people, and there will be 42 people at the party, Allie needs to make enough guacamole for 42 / 6 = 7 batches.
+* Since each batch requires 4 avocados, Allie needs 7 * 4 = 28 avocados.
+
+Answer: 28 avocados.

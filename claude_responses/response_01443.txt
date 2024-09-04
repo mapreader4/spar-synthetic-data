@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The original price of the jeans was $125.
+2) The jeans were on sale for 20% off. To calculate the sale price, we take the original price and subtract 20%:
+   $125 - (20% of $125) = $125 - $25 = $100
+3) After the 20% discount, Todd then applied a coupon that took off $10. So the price after the coupon is:
+   $100 - $10 = $90
+4) Todd then paid with a store credit card that gave him another 10% off the remaining amount. To calculate this, we take the $90 and subtract 10%:
+   $90 - (10% of $90) = $90 - $9 = $81
+5) To calculate the total amount saved, we take the original price of $125 and subtract the final price of $81:
+   $125 - $81 = $44
+
+Answer: $44

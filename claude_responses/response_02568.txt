@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+* The carton contains 12 eggs
+* 5 of those eggs have double yolks
+* For the 5 eggs with double yolks, there are 10 yolks (5 eggs x 2 yolks per egg)
+* For the remaining 7 eggs with single yolks, there are 7 yolks
+* To find the total number of yolks in the carton, we add the yolks from the double-yolk eggs and the single-yolk eggs:
+* 10 yolks (from the double-yolk eggs) + 7 yolks (from the single-yolk eggs) = 17 yolks
+
+Answer: 17

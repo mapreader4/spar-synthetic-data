@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Ginger has 2 children
+* She bakes a cake for each child on their birthdays, Christmas, Easter, and Halloween
+* That's 4 cakes per child per year
+* 2 children x 4 cakes per child per year = 8 cakes per year for the children
+* She has a husband
+* She makes a cake for him on their birthdays, Christmas, Easter, Halloween, anniversary, and Valentine's Day
+* That's 6 cakes per year for her husband
+* She also makes cakes for her parents, but only on their birthdays
+* That's 2 cakes per year for her parents
+* In total, that's:
+    - 8 cakes per year for the children
+    - 6 cakes per year for her husband
+    - 2 cakes per year for her parents
+    - 8 + 6 + 2 = 16 cakes per year
+* Over 10 years, that's:
+    - 16 cakes per year x 10 years = 160 cakes
+
+Answer: 160

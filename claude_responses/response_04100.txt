@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The marathon is a 26-mile circular course.
+2) There are 4 checkpoints inside the course.
+3) The first checkpoint is 1 mile from the start/finish line, and the last checkpoint is 1 mile from the start/finish line.
+4) The checkpoints have equal spacing between them.
+5) To find the distance between each consecutive checkpoint, we need to subtract the distance from the start/finish line to the first checkpoint (1 mile) and the distance from the last checkpoint to the start/finish line (1 mile) from the total course length (26 miles).
+6) 26 miles - 1 mile - 1 mile = 24 miles.
+7) Since there are 4 checkpoints, there are 3 spaces between them.
+8) 24 miles / 3 spaces = 8 miles.
+
+Answer: 8 miles

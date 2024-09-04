@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The cake has 8 slices, and each slice contains 347 calories.
+2) To find the total calories in the cake, we multiply the number of slices (8) by the calories per slice (347):
+8 slices x 347 calories/slice = 2,776 calories
+3) The pan of brownies has 6 brownies, and each brownie contains 375 calories.
+4) To find the total calories in the brownies, we multiply the number of brownies (6) by the calories per brownie (375):
+6 brownies x 375 calories/brownie = 2,250 calories
+5) To find the difference in calories between the cake and the brownies, we subtract the calories in the brownies from the calories in the cake:
+2,776 calories (cake) - 2,250 calories (brownies) = 526 calories
+
+Answer: 526

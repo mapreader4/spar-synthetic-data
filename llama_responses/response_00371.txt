@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first calculate how many hamburgers Ronald has cooked so far.  He has cooked 40 hamburgers, and he needs to cook 115 hamburgers in total.  To find out how many more hamburgers he has to cook, we can subtract the hamburgers he has cooked from the total hamburgers he needs to cook.
+
+115 - 40 = 75
+
+So, Ronald has to cook 75 hamburgers more hamburgers.  Since he can grill 15 hamburgers per session, we can divide the number of hamburgers he needs to cook by the number of hamburgers he can grill per session.
+
+75 ÷ 15 = 5
+
+Ronald needs to cook 5 sessions to finish cooking all 115 hamburgers.

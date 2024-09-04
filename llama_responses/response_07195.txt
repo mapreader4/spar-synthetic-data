@@ -1,0 +1,25 @@
+Let's break it down step by step.
+
+Let's say x be the number of puppies Dorchester washed.
+
+Dorchester earns $40 per day, so his total earnings will be $40.
+
+Dorchester earned $2.25 for each puppy he washed, so the total amount he earned from washing puppies is 2.25x.
+
+The total amount Dorchester earned is $76. So we can set up the equation as:
+
+40 + 2.25x = 76
+
+To solve for x, we can subtract 40 from both sides:
+
+2.25x = 76 - 40
+
+Subtracting 40 from both sides, we get:
+
+2.25x = 36
+
+Divide both sides by 2.25 to get:
+
+x = 16
+
+So, Dorchester washed 16 puppies that day.

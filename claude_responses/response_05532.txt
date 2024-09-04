@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Emma bought 8 kg of cheese and 7 kg of vegetables.
+2) The cost of 1 kg of cheese is $4.
+3) The cost of 1 kg of vegetables is $2 more expensive than the cheese, so it costs $6 per kg.
+4) To calculate the total cost of the cheese, we multiply the weight (8 kg) by the cost per kg ($4):
+   8 kg x $4/kg = $32
+5) To calculate the total cost of the vegetables, we multiply the weight (7 kg) by the cost per kg ($6):
+   7 kg x $6/kg = $42
+6) To get the total cost, we add the cost of the cheese and the cost of the vegetables:
+   $32 + $42 = $74
+
+Answer: $74

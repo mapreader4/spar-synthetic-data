@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jonathan's first name has 8 letters
+* Jonathan's surname has 10 letters
+* Jonathan's full name has 8 + 10 = 18 letters
+* His sister's first name has 5 letters
+* His sister's surname has 10 letters
+* His sister's full name has 5 + 10 = 15 letters
+* The total number of letters in their names is 18 + 15 = 33 letters
+
+Answer: 33

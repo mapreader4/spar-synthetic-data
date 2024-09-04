@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Mitch works 5 hours every day from Monday to Friday.
+   * That's 5 hours x 5 days = 25 hours during the weekdays.
+
+2. Mitch works 3 hours every Saturday and Sunday.
+   * That's 3 hours x 2 days = 6 hours during the weekends.
+
+3. Mitch earns $3 per hour during the weekdays.
+   * So, for the 25 hours during the weekdays, she earns 25 x $3 = $75.
+
+4. Mitch earns double on weekends, which means she earns $6 per hour.
+   * So, for the 6 hours during the weekends, she earns 6 x $6 = $36.
+
+5. To calculate her total weekly earnings, we add the weekday and weekend earnings:
+   * $75 + $36 = $111
+
+Answer: $111

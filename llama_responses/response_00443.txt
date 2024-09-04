@@ -1,0 +1,21 @@
+Let's break it down step by step.
+
+Let's start by finding the total amount of money earned by Sab and Dane.
+
+Sab and Dane sold 6 pairs of shoes that cost $3 each. So, the total amount of money earned from selling the shoes is:
+
+6 * 3 = 18
+
+Sab and Dane sold 18 shirts that cost $2 each. So, the total amount of money earned from selling the shirts is:
+
+18 * 2 = 36
+
+The total amount of money earned by Sab and Dane is the sum of the money earned from the shoes and the shirts:
+
+18 + 36 = 54
+
+Since there are 2 people, we need to divide the total amount of money earned by 2:
+
+54 / 2 = 27
+
+Answer: 27

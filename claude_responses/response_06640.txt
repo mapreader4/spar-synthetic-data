@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Noah calls his Grammy every week
+* Each call lasts 30 minutes
+* He is charged $0.05 per call minute
+
+To calculate the total cost for a year, we need to:
+1. Calculate the total minutes of calls in a year
+2. Multiply the total minutes by the cost per minute
+
+First, let's calculate the total minutes of calls in a year:
+* 30 minutes per call
+* 52 weeks in a year
+* 30 minutes x 52 weeks = 1,560 minutes per year
+
+Now, let's calculate the total cost:
+* 1,560 minutes per year
+* $0.05 per minute
+* 1,560 minutes x $0.05 per minute = $78
+
+Therefore, the total amount Noah would be billed for a year of calls to his Grammy is:
+
+Answer: $78

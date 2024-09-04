@@ -1,0 +1,24 @@
+Let's break down the cost of the food items:
+
+* The burger costs x dollars.
+* The pack of fries costs 2 dollars.
+* The salad costs 3 times the cost of the burger, so the salad costs 3x.
+* The total cost is 15 dollars.
+
+Let's let x be the cost of the burger. Then, the cost of the salad is 3x, so the cost of the salad is 3x. The cost of the burger and the salad is the cost of the burger plus the cost of the salad, which is x + 3x.
+
+We know the total cost is 15 dollars. So, we can set up the equation:
+
+x + 3x + x = 15
+
+We can subtract x from both sides of the equation to get:
+
+2x + 3x = 15 - x
+
+Now, we can subtract 2x from both sides to get:
+
+x = 15 - 2x
+
+So, the cost of the burger is 15 - 2x. Since one pack of fries costs 2 dollars, the burger costs 15 - 2 = 13. So, the cost of the burger is 13 dollars.
+
+Answer: 13

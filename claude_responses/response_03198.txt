@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Drew got 20 questions correct and 6 questions wrong
+* Carla got 14 questions correct
+* Carla got twice as many questions wrong as the number of questions Drew got wrong, which is 2 * 6 = 12 questions wrong
+
+Now, we need to find the total number of questions asked in the competition.
+
+The total number of questions asked is the sum of the questions answered correctly and the questions answered incorrectly by both competitors.
+
+Drew answered 20 questions correctly and 6 questions incorrectly, so that's 20 + 6 = 26 questions.
+Carla answered 14 questions correctly and 12 questions incorrectly, so that's 14 + 12 = 26 questions.
+
+The total number of questions asked in the competition is the sum of the questions answered by both competitors:
+26 + 26 = 52 questions
+
+Answer: 52

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Johnson gives Gina 69 potatoes.
+2) Johnson gives Tom twice as much potatoes as he gave Gina. So, Tom receives 2 x 69 = 138 potatoes.
+3) Johnson gives Anne one-third of the amount of potatoes he gave Tom. So, Anne receives 1/3 x 138 = 46 potatoes.
+4) Now, we need to find the total number of potatoes Johnson has given away:
+   - Gina: 69 potatoes
+   - Tom: 138 potatoes
+   - Anne: 46 potatoes
+   - Total given away: 69 + 138 + 46 = 253 potatoes
+5) The sack originally contained 300 potatoes.
+6) So, the number of potatoes Johnson has left is:
+   - Potatoes in sack - Potatoes given away = 300 - 253 = 47 potatoes.
+
+Answer: 47 potatoes.

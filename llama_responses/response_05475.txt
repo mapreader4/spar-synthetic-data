@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the new height of Devin after he grows 3 inches. If he is 65 inches tall and grows 3 inches, then his new height is:
+
+65 + 3 = 68 inches
+
+Since the team's height requirement is 66 inches, and Devin's new height is 68 inches, we can see that he is 2 inches above the required height.
+
+To make the team, he needs to lose 2 inches. If he loses 10% of his height for every additional inch of height, then we can calculate the number of inches he needs to lose as follows:
+
+Let's first convert the required height of 66 inches to a decimal: 66 ÷ 10 = 6.6
+
+Since Devin needs to lose 2 inches, we can divide 2 by 6.6 to find out how many times he needs to lose 10% of his height:
+
+2 ÷ 6.6 = 0.3
+
+So, Devin needs to lose 0.3 inches for every 10% of his height. Since he is 68 inches tall, he needs to lose 0.3 x 68 inches = 20.4 inches.
+
+Since he is already 2 inches above the required height, he only needs to lose 20.4 - 2 = 18.4 inches to make the team.
+
+So, the answer is: Answer: 18.4

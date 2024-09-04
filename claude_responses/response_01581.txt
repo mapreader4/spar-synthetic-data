@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1) Jamie owns 4 Persian cats and 2 Maine Coons.
+2) Gordon owns half as many Persians as Jamie, which is 2 Persian cats.
+3) Gordon owns one more Maine Coon than Jamie, which is 3 Maine Coons.
+4) Hawkeye owns one less Maine Coon than Gordon, which is 2 Maine Coons.
+5) Hawkeye owns no Persian cats.
+
+Now, let's add up all the cats:
+* Jamie's cats: 4 Persian + 2 Maine Coon = 6 cats
+* Gordon's cats: 2 Persian + 3 Maine Coon = 5 cats
+* Hawkeye's cats: 2 Maine Coon = 2 cats
+
+Total number of cats: 6 + 5 + 2 = 13 cats
+
+Answer: 13

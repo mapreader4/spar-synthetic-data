@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Kendall has a total of $4 in quarters, dimes, and nickels.
+2) She has 10 quarters and 12 dimes.
+3) The value of the quarters is 10 x $0.25 = $2.50.
+4) The value of the dimes is 12 x $0.10 = $1.20.
+5) The total value of the quarters and dimes is $2.50 + $1.20 = $3.70.
+6) The remaining amount is $4.00 - $3.70 = $0.30.
+7) Since each nickel is worth $0.05, the number of nickels Kendall has is $0.30 / $0.05 = 6 nickels.
+
+Answer: 6

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The repeating pattern has 3 green beads, 5 purple beads, and twice as many red beads as green beads, which is 6 red beads.
+* The pattern repeats 3 times per bracelet and 5 times per necklace.
+* To make 1 bracelet, the pattern repeats 3 times, so we need:
+    - 3 x 3 = 9 green beads
+    - 3 x 5 = 15 purple beads
+    - 3 x 6 = 18 red beads
+* To make 10 necklaces, the pattern repeats 5 times per necklace, so 10 x 5 = 50 times total. Therefore, we need:
+    - 50 x 3 = 150 green beads
+    - 50 x 5 = 250 purple beads
+    - 50 x 6 = 300 red beads
+* To make 1 bracelet and 10 necklaces, we need a total of:
+    - 9 + 150 = 159 green beads
+    - 15 + 250 = 265 purple beads
+    - 18 + 300 = 318 red beads
+
+Answer: 742 beads

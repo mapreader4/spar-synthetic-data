@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Jack ran up the first half of the hill in 19 seconds
+* Jack finished the race 7 seconds before Jill
+* Jill finished the race in 32 seconds
+
+We can use this information to calculate how long it took Jack to run up the second half of the hill.
+
+First, let's calculate how long it took Jack to complete the entire race:
+* Jill finished the race in 32 seconds
+* Jack finished 7 seconds before Jill
+* So, Jack finished the race in 32 - 7 = 25 seconds
+
+Now, we can calculate how long it took Jack to run up the second half of the hill:
+* Jack ran up the first half of the hill in 19 seconds
+* Jack ran up the entire hill in 25 seconds
+* So, Jack ran up the second half of the hill in 25 - 19 = 6 seconds
+
+Answer: 6 seconds

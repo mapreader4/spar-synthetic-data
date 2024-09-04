@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start with the information given: there are 70 scientists in total, and half of them are from Europe. This means that 70 / 2 = 35 scientists are from Europe.
+
+We are left with 70 - 35 = 35 scientists from the USA.
+
+So, the number of scientists from the USA is: Answer: 35.

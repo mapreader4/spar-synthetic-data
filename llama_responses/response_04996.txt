@@ -1,0 +1,77 @@
+Let's break this down step by step.
+
+Rebecca drinks half a bottle of soda a day, so that's 0.5 bottles of soda per day.
+
+She bought 3 six-packs, which is 3 * 6 = 18 bottles of soda.
+
+After one day, she will have 18 - 0.5 = 17.5 bottles left.
+
+For the next day, she will have 17.5 - 0.5 = 17 bottles left.
+
+For the next day, she will have 17 - 0.5 = 16.5 bottles left.
+
+For the next day, she will have 16.5 - 0.5 = 16 bottles left.
+
+For the next day, she will have 16 - 0.5 = 15.5 bottles left.
+
+For the next day, she will have 15.5 - 0.5 = 15 bottles left.
+
+For the next day, she will have 15 - 0.5 = 14.5 bottles left.
+
+For the next day, she will have 14.5 - 0.5 = 14 bottles left.
+
+For the next day, she will have 14 - 0.5 = 13.5 bottles left.
+
+For the next day, she will have 13.5 - 0.5 = 13 bottles left.
+
+For the next day, she will have 13 - 0.5 = 12.5 bottles left.
+
+For the next day, she will have 12.5 - 0.5 = 12 bottles left.
+
+For the next day, she will have 12 - 0.5 = 11.5 bottles left.
+
+For the next day, she will have 11.5 - 0.5 = 11 bottles left.
+
+For the next day, she will have 11 - 0.5 = 10.5 bottles left.
+
+For the next day, she will have 10.5 - 0.5 = 10 bottles left.
+
+For the next day, she will have 10 - 0.5 = 9.5 bottles left.
+
+For the next day, she will have 9.5 - 0.5 = 9 bottles left.
+
+For the next day, she will have 9 - 0.5 = 8.5 bottles left.
+
+For the next day, she will have 8.5 - 0.5 = 8 bottles left.
+
+For the next day, she will have 8 - 0.5 = 7.5 bottles left.
+
+For the next day, she will have 7.5 - 0.5 = 7 bottles left.
+
+For the next day, she will have 7 - 0.5 = 6.5 bottles left.
+
+For the next day, she will have 6.5 - 0.5 = 6 bottles left.
+
+For the next day, she will have 6 - 0.5 = 5.5 bottles left.
+
+For the next day, she will have 5.5 - 0.5 = 5 bottles left.
+
+For the next day, she will have 5 - 0.5 = 4.5 bottles left.
+
+For the next day, she will have 4.5 - 0.5 = 4 bottles left.
+
+For the next day, she will have 4 - 0.5 = 3.5 bottles left.
+
+For the next day, she will have 3.5 - 0.5 = 3 bottles left.
+
+For the next day, she will have 3 - 0.5 = 2.5 bottles left.
+
+For the next day, she will have 2.5 - 0.5 = 2 bottles left.
+
+For the next day, she will have 2 - 0.5 = 1.5 bottles left.
+
+For the next day, she will have 1.5 - 0.5 = 1 bottle left.
+
+For the last day, she will have 1 - 0.5 = 0.5 bottles left.
+
+Answer: 0.5

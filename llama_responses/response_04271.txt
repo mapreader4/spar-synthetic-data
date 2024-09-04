@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Dante takes 15 minutes to go to Hidden Lake. Then, he takes 7 minutes to walk back to the Park Office. This means that the total time he is gone is 15 + 7 = 22 minutes.
+
+After he gets to the Park Office, he will have been gone for 22 minutes. He then goes to the Lake Park restaurant. The problem asks how long it takes him to get to the Lake Park restaurant from the Park Office. Let's call this unknown time x.
+
+We know that the total time he is gone for is 32 minutes. Since he was already gone for 22 minutes, we can subtract 22 from 32 to get the time it takes to get to the Lake Park restaurant from the Park Office. 32 - 22 = 10.
+
+So, the walk from Park Office to the Lake Park restaurant takes 10 minutes.
+
+Answer: 10

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 6 more white birds next to the cage than grey birds in the cage.
+2) The number of grey birds in the cage is 40.
+3) Therefore, the number of white birds next to the cage is 40 + 6 = 46.
+4) After 10 minutes, half of the birds in the cage are freed and fly away.
+5) The number of birds in the cage before the birds were freed is 40 (grey birds).
+6) Half of 40 is 20, so 20 birds were freed and flew away.
+7) The number of birds remaining in the cage is 40 - 20 = 20.
+8) The number of white birds next to the cage is still 46.
+9) The total number of birds remaining is 20 (in the cage) + 46 (white birds next to the cage) = 66.
+
+Answer: 66

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us. We know that a roll of 25 m wire weighs 5 kg. This means that the weight of 1 meter of wire is 0.2 kg.
+
+Now, we need to find the weight of a 75 m roll. We can do this by multiplying the weight of 1 m wire by the number of meters. So, we have:
+
+0.2 kg/m * 75 m =?
+
+To find the answer, we multiply 0.2 kg by 75:
+
+0.2 kg * 75 = 15 kg
+
+So, the weight of a 75 m roll is 15 kg.
+
+Answer: 15

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Abigail needs to write a 1000-word report
+* She has already written 200 words
+* She can type 300 words in half an hour (30 minutes)
+
+First, we need to calculate how many more words Abigail needs to write:
+* Total words needed: 1000
+* Words already written: 200
+* Remaining words to write: 1000 - 200 = 800 words
+
+Next, we need to calculate how long it will take her to write the remaining 800 words. We know she can type 300 words in 30 minutes, so:
+* 800 words / 300 words per 30 minutes = 80/30 = 2.67 half-hours
+* 2.67 half-hours x 30 minutes per half-hour = 80 minutes
+
+Therefore, it will take Abigail 80 more minutes to finish the report.
+
+Answer: 80

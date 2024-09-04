@@ -1,0 +1,10 @@
+Let's break down the problem step by step.
+
+1. The original cost of the project is the sum of the cost of lumber, nails, and fabric, which is 450 + 30 + 80 = 560 dollars.
+2. The price of lumber increases by 20%, so the new cost of lumber is 1.2 * 450 = 540.
+3. The price of nails increases by 10%, so the new cost of nails is 1.1 * 30 = 33.
+4. The price of fabric increases by 5%, so the new cost of fabric is 1.05 * 80 = 84.
+5. The total cost of the project after inflation is 540 + 33 + 84 = 657.
+6. The difference between the original cost and the new cost is 657 - 560 = 97.
+
+Answer: 97

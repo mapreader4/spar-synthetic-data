@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The difference between the price of an orange and the price of a pear equals the price of a banana.
+2) The total cost of an orange and a pear is $120.
+3) A pear costs $90.
+4) Let's call the price of an orange 'x' and the price of a banana 'y'.
+5) From step 1, we know that x - 90 = y.
+6) From step 2, we know that x + 90 = 120, so x = 30.
+7) Substituting x = 30 into the equation from step 5, we get y = 30.
+8) The total price of buying 200 bananas is 200 * 30 = $6,000.
+9) The total price of buying twice as many oranges as bananas is 2 * 200 * 30 = $12,000.
+10) The total price of buying 200 bananas and twice as many oranges as bananas is $6,000 + $12,000 = $18,000.
+
+Answer: 18000

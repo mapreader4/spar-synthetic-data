@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's call the size of the first ball "x". Since the second ball is half the size of the first ball, the size of the second ball is x / 2.
+
+The third ball is three times as large as the first ball, so the size of the third ball is 3x.
+
+The total amount of yarn used for the third ball is 27 feet. We know that the third ball is three times as large as the first ball, so we can write an equation:
+
+27 = 3x
+
+We can solve for x by dividing both sides of the equation by 3:
+
+x = 27 / 3
+
+x = 9
+
+The size of the first ball is 9 feet.
+
+Since the second ball is half the size of the first ball, the size of the second ball is 9 / 2 = 4.5 feet.
+
+Answer: 4.5

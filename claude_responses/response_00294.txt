@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Phillip's mother gave him $95 to go to the supermarket
+* He spent:
+    - $14 on oranges
+    - $25 on apples
+    - $6 on candy
+* To calculate the amount of money he has left, we need to subtract the total amount he spent from the amount he was given.
+* Total amount spent:
+    - $14 + $25 + $6 = $45
+* Amount of money left:
+    - $95 - $45 = $50
+
+Answer: 50

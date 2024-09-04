@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Barney owns 18 towels
+* He uses 2 towels per day
+* He washes his towels once a week
+* He missed one week of laundry
+
+First, let's calculate how many towels he used during the week he missed laundry:
+* 2 towels per day x 7 days in a week = 14 towels used
+
+Now, let's calculate how many clean towels he has left:
+* 18 towels - 14 towels used = 4 clean towels
+
+Since he uses 2 towels per day, the number of days he will not have clean towels is:
+* 4 clean towels / 2 towels per day = 2 days
+
+Answer: 2 days

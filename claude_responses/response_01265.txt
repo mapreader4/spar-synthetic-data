@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The family's water and electricity bills average $30 a month for the first 4 months
+* The family's water and electricity bills average $24 a month for the last 2 months
+* We need to find the average monthly bill over all 6 months
+
+To calculate the average monthly bill over all 6 months, we need to find the total amount spent over the 6 months and divide it by 6.
+
+The total amount spent over the 6 months is:
+* 4 months at $30 per month = $120
+* 2 months at $24 per month = $48
+* Total = $120 + $48 = $168
+
+Now, to find the average monthly bill, we divide the total by 6 months:
+* $168 / 6 months = $28 per month
+
+Answer: 28

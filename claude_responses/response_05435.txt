@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Matt's protein powder is 80% protein
+* Matt weighs 80 kg
+* Matt wants to eat 2 grams of protein per kilogram of body weight each day
+* To calculate the amount of protein Matt needs per day:
+    - 2 grams of protein per kilogram of body weight
+    - Matt weighs 80 kg
+    - 2 grams per kg x 80 kg = 160 grams of protein per day
+* Since the protein powder is 80% protein, we need to calculate how much powder Matt needs to get 160 grams of protein:
+    - 160 grams of protein / 0.8 (80% protein) = 200 grams of protein powder per day
+* To calculate the amount of protein powder needed per week:
+    - 200 grams of protein powder per day x 7 days per week = 1,400 grams of protein powder per week
+
+Answer: 1,400 grams

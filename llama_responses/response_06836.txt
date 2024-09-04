@@ -1,0 +1,29 @@
+Let's break it down step by step:
+
+Let's say Darius scored x points. Since Marius scored 3 points more than Darius, Marius scored x + 3 points.
+
+Since Darius scored 5 points less than Matt, Matt scored x + 5 points.
+
+The total points scored by all three friends is the sum of their individual scores: x + (x + 3) + (x + 5).
+
+We know that Darius scored 10 points, so we can set up the equation as follows:
+
+x + (x + 3) + (x + 5) = 10
+
+We can simplify the equation by combining like terms:
+
+2x + 8 = 10
+
+Subtract 8 from both sides of the equation to get:
+
+2x = 2
+
+Multiply both sides by 1 to get:
+
+x = 1
+
+So, Darius scored 1 point.
+
+The total points scored by all three friends is the sum of their individual scores: 1 + (1 + 3) + (1 + 5) = 10.
+
+Answer: 10

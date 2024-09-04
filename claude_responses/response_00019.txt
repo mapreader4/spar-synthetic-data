@@ -1,0 +1,19 @@
+To solve this problem, we need to calculate the total distance Tim bikes in a week and then divide it by his biking speed to find the total time spent biking.
+
+Given information:
+- Tim's work is 20 miles away.
+- Tim rides his bike back and forth to work for each of his 5 workdays.
+- Tim goes for a weekend bike ride of 200 miles.
+- Tim can bike at 25 mph.
+
+Step 1: Calculate the total distance Tim bikes in a week.
+Distance to work and back (per day) = 20 miles × 2 = 40 miles
+Total distance for 5 workdays = 40 miles × 5 = 200 miles
+Weekend bike ride = 200 miles
+Total distance biked in a week = 200 miles + 200 miles = 400 miles
+
+Step 2: Calculate the total time Tim spends biking in a week.
+Total time spent biking = Total distance biked / Biking speed
+Total time spent biking = 400 miles / 25 mph = 16 hours
+
+Answer: 16 hours

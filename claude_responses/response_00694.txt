@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 5 batches of 80 engines each
+* So the total number of engines is 5 x 80 = 400 engines
+* One fourth of the engines are defective
+* To calculate the number of defective engines, we take one fourth of the total number of engines:
+* 1/4 of 400 = 400 / 4 = 100 defective engines
+* To find the number of engines that are not defective, we subtract the number of defective engines from the total number of engines:
+* 400 - 100 = 300 engines that are not defective
+
+Answer: 300

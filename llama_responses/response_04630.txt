@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+First, we know that each model will wear 2 sets of bathing suits and 3 sets of evening wear clothing. This means each model will make a total of 2 + 3 = 5 trips up and back the runway.
+
+Since there are 6 models, the total number of trips up and back the runway is 6 models x 5 trips per model = 30 trips.
+
+Each trip takes 2 minutes, so the total time it takes to complete all the runway trips is 30 trips x 2 minutes per trip = 60 minutes.
+
+Answer: 60

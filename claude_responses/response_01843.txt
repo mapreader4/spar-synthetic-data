@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Darlene's car gets 20 miles/gallon.
+2) Martha's car gets half as many miles per gallon as Darlene's car. 
+   - This means Martha's car gets 20 / 2 = 10 miles/gallon.
+3) The trip is 300 miles.
+4) To calculate how many gallons Martha's car requires, we divide the total distance by the miles per gallon:
+   - 300 miles / 10 miles/gallon = 30 gallons.
+
+Answer: 30

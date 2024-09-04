@@ -1,0 +1,11 @@
+Let's break down the information given into smaller parts:
+
+1. She packs 20 pounds of water, 10 pounds of food, and 20 pounds of gear. So, she packs a total of 20 + 10 + 20 = 30 pounds of items.
+
+2. She drinks 2 pounds of water per hour, so after 6 hours, she will drink 2 * 6 = 12 pounds of water.
+
+3. She eats 1/3rd the weight of food per hour, so she eats 1/3 * 10 = 3.3 pounds of food per hour. After 6 hours, she eats 3.3 * 6 = 19.8 pounds of food.
+
+4. So, she starts with 30 pounds and loses 12 pounds of water and 19.8 pounds of food. So, she has 30 - 12 - 19.8 = 18.2 pounds left.
+
+Answer: 18.2

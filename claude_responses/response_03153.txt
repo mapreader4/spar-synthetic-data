@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Initially, Carolyn counted 6 monkeys and 6 birds, for a total of 12 animals.
+2) Two of the monkeys each eat one bird, so now there are 4 monkeys and 4 birds, for a total of 8 animals.
+3) To calculate the percentage of animals that are monkeys, we take the number of monkeys (4) and divide it by the total number of animals (8), then multiply by 100.
+4) 4 monkeys / 8 total animals = 0.5
+5) 0.5 * 100 = 50%
+
+Answer: 50%

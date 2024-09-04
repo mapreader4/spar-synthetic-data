@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Léa bought 1 book for $16
+* Léa bought 3 binders for $2 each
+* To calculate the cost of the binders, we multiply the number of binders (3) by the cost per binder ($2):
+  * 3 binders x $2 per binder = $6
+* Léa bought 6 notebooks for $1 each
+* To calculate the cost of the notebooks, we multiply the number of notebooks (6) by the cost per notebook ($1):
+  * 6 notebooks x $1 per notebook = $6
+* To calculate the total cost, we add up the cost of the book, binders, and notebooks:
+  * $16 (book) + $6 (binders) + $6 (notebooks) = $28
+
+Answer: 28

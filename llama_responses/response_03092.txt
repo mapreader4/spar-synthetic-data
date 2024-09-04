@@ -1,0 +1,12 @@
+Let's start by calculating the total cost of each type of item:
+
+* Graphics cards: 10 units x $600 per unit = $6000
+* Hard drives: 14 units x $80 per unit = $1120
+* CPUs: 8 units x $200 per unit = $1600
+* RAM: 4 units x $60 per unit = $240
+
+Now, let's add up the total cost of all the items:
+
+$6000 + $1120 + $1600 + $240 = $7160
+
+The store earned a total of $7160 this week.

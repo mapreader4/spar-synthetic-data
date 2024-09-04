@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) We know that the sunflowers from Packet A are 20% taller than the sunflowers from Packet B.
+2) We also know that the sunflowers from Packet A are 192 inches tall.
+3) To find the height of the sunflowers from Packet B, we need to find the difference in height between the two packets, and then subtract that difference from the height of the sunflowers from Packet A.
+4) The difference in height is 20% of the height of the sunflowers from Packet B.
+5) Let's call the height of the sunflowers from Packet B "x".
+6) The difference in height is 20% of x, which is 0.2x.
+7) The sunflowers from Packet A are 192 inches tall, and they are 0.2x taller than the sunflowers from Packet B.
+8) So, 192 = x + 0.2x
+9) Solving for x, we get: 192 = 1.2x
+10) x = 192 / 1.2 = 160 inches.
+
+Answer: 160 inches.

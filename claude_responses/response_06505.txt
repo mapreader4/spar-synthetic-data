@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. Dorothy scored 90 marks.
+2. Ivanna scored 3/5 times as many marks as Dorothy.
+   * Ivanna's marks = 3/5 * 90 = 54 marks
+3. Tatuya scored twice as much as Ivanna.
+   * Tatuya's marks = 2 * 54 = 108 marks
+4. To calculate the average marks scored by the three, we add up the marks and divide by 3:
+   * Total marks = 90 + 54 + 108 = 252
+   * Average marks = 252 / 3 = 84
+
+Answer: 84

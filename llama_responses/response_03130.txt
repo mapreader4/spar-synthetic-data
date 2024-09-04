@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the distance Jace travels during the first 4 hours. We know that Jace drives 60 miles per hour, so:
+
+Distance = Rate * Time = 60 * 4 = 240 miles
+
+So, Jace travels 240 miles in the first 4 hours.
+
+Next, he takes a 30-minute break. Since he drives 60 miles per hour, he travels 30 miles during the break.
+
+Finally, Jace drives for another 9 hours. At a rate of 60 miles per hour, he travels:
+
+Distance = Rate * Time = 60 * 9 = 540 miles
+
+Adding the distance he traveled during the break to the distance he traveled in the first 4 hours, Jace travels a total of:
+
+240 + 30 + 540 = 810 miles
+
+Answer: 810

@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the given information:
+
+* Calvin had scored 500 points.
+* Paislee scored 3/4 times as many points as Calvin.
+
+To find the points Paislee needed to achieve to have a chance of tying the game, we need to multiply Calvin's points by 4/3 to get Paislee's points.
+
+500 x (4/3) =?
+
+To calculate this, we can multiply 500 by 4 and then divide the result by 3.
+
+500 x 4 = 2000
+2000 ÷ 3 = 666.67
+
+So, Paislee needed at least 667 points to have a chance of tying the game.

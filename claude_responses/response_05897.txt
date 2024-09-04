@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Olaf initially had 150 toy cars
+* Grandpa gave Olaf twice as many toy cars as the uncle
+* Let's call the number of toy cars the uncle gave Olaf as 'x'
+* Then, Grandpa gave Olaf 2x toy cars
+* Dad gave Olaf 10 toy cars, 5 less than Mum
+* So, Mum gave Olaf 15 toy cars
+* Auntie gave Olaf 6 toy cars, 1 more than the uncle
+* So, the uncle gave Olaf x toy cars, and Auntie gave Olaf x+1 toy cars
+
+Now, let's add up all the toy cars Olaf received:
+* Grandpa: 2x
+* Uncle: x
+* Auntie: x+1
+* Dad: 10
+* Mum: 15
+
+Total toy cars received = 2x + x + x+1 + 10 + 15 = 4x + 26
+
+Adding this to Olaf's initial 150 toy cars:
+* Total toy cars = 150 + 4x + 26
+
+Answer: 176

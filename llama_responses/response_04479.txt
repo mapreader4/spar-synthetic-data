@@ -1,0 +1,23 @@
+Let's break this down step by step!
+
+Bob started with 50 bushels of corn. Terry took 8 bushels, so Bob has:
+
+50 - 8 = 42 bushels left
+
+Then, Jerry took 3 bushels, leaving Bob with:
+
+42 - 3 = 39 bushels
+
+Next, Bob gave 12 bushels to Linda, leaving him with:
+
+39 - 12 = 27 bushels
+
+Finally, Stacy took 21 ears of corn (not bushels, but ears!), which is equivalent to 21 / 14 = 1.5 bushels (since each bushel contains 14 ears). So, Bob gave away 1.5 bushels to Stacy, leaving him with:
+
+27 - 1.5 = 25.5 bushels
+
+To convert this back to ears of corn, we multiply the remaining bushels by 14:
+
+25.5 bushels * 14 ears/bushel = 357 ears of corn
+
+Answer: 357

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the number of ounces of cleaner that can run through the pipe initially.
+
+For 2 ounces of cleaner, it takes 1 minute to run through the pipe. So, in 15 minutes, 2 * 15 = 30 ounces of cleaner can run through the pipe.
+
+After 15 minutes, the clog is cleared enough for 3 ounces to run through per minute. So, 3 * 15 = 45 ounces of cleaner can run through the pipe.
+
+Then, 10 minutes later, the clog is cleared enough for 4 ounces to run through per minute. So, 4 * 5 = 20 ounces of cleaner can run through the pipe.
+
+In total, 30 minutes, 30 + 45 + 20 = 95 ounces of cleaner were used.
+
+Answer: 95

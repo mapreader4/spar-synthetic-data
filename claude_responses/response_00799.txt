@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. We have 4 tables, 1 sofa, and 2 chairs, each with 4 legs.
+   * 4 tables x 4 legs = 16 legs
+   * 1 sofa x 4 legs = 4 legs
+   * 2 chairs x 4 legs = 8 legs
+   * Total from these items: 16 + 4 + 8 = 28 legs
+
+2. We have 3 tables with 3 legs each.
+   * 3 tables x 3 legs = 9 legs
+
+3. We have 1 table with 1 leg.
+   * 1 table x 1 leg = 1 leg
+
+4. We have 1 rocking chair with 2 legs.
+   * 1 rocking chair x 2 legs = 2 legs
+
+5. To calculate the total number of legs in the room, we add up the legs from all the items:
+   * 28 + 9 + 1 + 2 = 40 legs
+
+Answer: 40

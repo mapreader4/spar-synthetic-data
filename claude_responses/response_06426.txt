@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The blind cave scorpion needs to eat a total of 800 body segments every day
+* It has already eaten:
+  - 1 millipede with 60 segments
+  - 2 millipedes that are twice as long, so each has 2 * 60 = 120 segments
+* So the total segments it has already eaten is:
+  - 60 + (2 * 120) = 300 segments
+* Now we need to calculate how many 50-segment millipedes it needs to eat to reach its daily total of 800 segments
+* To do this, we take the total segments needed (800) and subtract the segments already eaten (300)
+* 800 - 300 = 500 segments still needed
+* Since each 50-segment millipede provides 50 segments, we divide the remaining 500 segments by 50 to get the number of 50-segment millipedes needed
+* 500 / 50 = 10 millipedes
+
+Answer: 10

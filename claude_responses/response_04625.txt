@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) Alma has 47 baby carrots to feed the 4 goats.
+2) She wants to give the exact same amount of carrots to each goat.
+3) To find the number of carrots each goat will get, we divide the total number of carrots (47) by the number of goats (4):
+47 ÷ 4 = 11 carrots per goat.
+4) Since Alma wants to feed them all the carrots she can, there will be some leftover carrots.
+5) To find the number of leftover carrots, we take the total number of carrots (47) and subtract the number of carrots given to each goat (4 x 11 = 44):
+47 - 44 = 3 carrots left over.
+
+Answer: 3

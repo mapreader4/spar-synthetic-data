@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Matilda had 20 chocolate bars and shared them evenly amongst herself and her 4 sisters. That means each person got 20 / 5 = 4 chocolate bars.
+2) When their father got home, they each gave up half of their chocolate bars for him. That means each person gave up 4 / 2 = 2 chocolate bars.
+3) Their father then gave 3 chocolate bars to their mother and ate 2 himself.
+4) So, the total number of chocolate bars their father had was:
+   - 5 people gave up 2 chocolate bars each, so that's 5 * 2 = 10 chocolate bars
+   - Their father gave 3 to their mother, and ate 2 himself, so he had 10 - 3 - 2 = 5 chocolate bars left.
+
+Answer: 5

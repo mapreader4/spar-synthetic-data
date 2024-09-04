@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+Let's start by identifying the number of plates, which is given as "6 more than three times as many plates as the pots". This means that the number of plates is 6 + 3x, where x is the number of pots. We know that the number of pots is 20, so the number of plates is 6 + 3(20) = 66.
+
+Next, we need to find the number of cutlery. This is given as "half as many cutlery as the plates", so it's half of 66, which is 33.
+
+Now, we need to find the number of pots Sharon wants to buy. This is given as "half as many pots as Angela, 20 less than three times as many plates as Angela". We know that Angela has 20 pots, so three times as many plates as Angela is 3(20) = 60. Half of this is 30. 20 less than this is 30 - 20 = 10.
+
+So, the total number of kitchen supplies Sharon wants to buy is the number of pots, the number of plates, and the number of cutlery, which are 10, 66, and 33 respectively. We add these together to get:
+
+10 + 66 + 33 = 109
+
+Answer: 109

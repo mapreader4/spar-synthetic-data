@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Neil charges $5.00 to trim each boxwood, so to trim the entire 30 boxwood hedge, he will charge 30 x $5.00 = $150.00.
+
+The customer wants 4 boxwoods shaped into spheres, so Neil will charge $15.00 for each sphere. So, he will charge 4 x $15.00 = $60.00 for the spheres.
+
+The total amount Neil will charge is the sum of the cost of trimming the hedge and the cost of the spheres, which is $150.00 + $60.00 = $210.00.
+
+Answer: 210

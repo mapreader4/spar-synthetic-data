@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The alien abducted 200 people initially
+* He then returned 80% of the 200 people abducted
+* To calculate 80% of 200, we can do:
+    * 80% of 200 = 0.8 * 200 = 160
+* So, the alien returned 160 people
+* After that, the alien took 10 people to another planet
+* To find the number of people the alien took to his home planet, we need to subtract the number of people returned (160) and the number of people taken to another planet (10) from the initial number of people abducted (200)
+* 200 - 160 - 10 = 30
+
+Answer: 30

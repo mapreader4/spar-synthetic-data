@@ -1,0 +1,50 @@
+Let's start by finding the total number of students. Since 40% are girls, that means 60% are boys. Let's call the total number of students "x". We can set up an equation:
+
+40% of x = number of girls
+60% of x = number of boys
+
+We know that the number of boys is equal to the total number of students minus the number of girls, so we can set up another equation:
+
+60% of x = x - 40% of x
+
+Simplifying the equation, we get:
+
+0.6x = 0.4x
+0.2x = 0
+x = 0.4/0.2
+x = 20
+
+So, there are 20 students in total. Since there are 8 monitors, and 2 monitors for every 15 students, we can set up an equation:
+
+8 = 2x/15
+8*15 = 2x
+120 = 2x
+x = 120/2
+x = 60
+
+However, we already found that x = 20, not 60. This is because we made an assumption earlier that 2 monitors for every 15 students was true, but this is not the case. Since there are only 8 monitors, we can divide 8 by 2 to find the actual number of students per monitor:
+
+8/2 = 4
+
+So, there are 4 students per monitor. Since 2 monitors are present, we can multiply the number of students per monitor by 2 to find the total number of students:
+
+4*2 = 8
+
+This matches our earlier answer of 20 students. Now, let's find the number of boys and girls. We know that 40% are girls, and 60% are boys. We can multiply the total number of students by these percentages to find the number of girls and boys:
+
+Girls: 20*0.4 = 8
+Boys: 20*0.6 = 12
+
+Now, let's find the total number of cartons of milk consumed. Every boy drinks 1 carton of milk, so the total number of cartons consumed by boys is:
+
+12*1 = 12
+
+Every girl drinks 2 cartons of milk, so the total number of cartons consumed by girls is:
+
+8*2 = 16
+
+The total number of cartons consumed is the sum of the cartons consumed by boys and girls:
+
+12 + 16 = 28
+
+Answer: 28

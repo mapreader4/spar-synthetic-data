@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 85 paper stars are required to fill a glass jar
+* Luke has already made 33 stars
+* Luke needs to fill 4 bottles
+
+To find the number of additional stars Luke must make, we need to:
+1. Calculate the total number of stars required for 4 bottles
+2. Subtract the number of stars Luke has already made (33)
+
+Step 1: Total number of stars required for 4 bottles
+* 85 stars per bottle x 4 bottles = 340 stars
+
+Step 2: Subtract the number of stars Luke has already made
+* 340 stars - 33 stars = 307 stars
+
+Answer: 307

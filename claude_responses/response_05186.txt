@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+
+1. 8 years ago, James was twice Janet's age.
+   * Let's call Janet's age 8 years ago as x.
+   * Then, James' age 8 years ago was 2x.
+
+2. In 15 years, James will turn 37.
+   * James' current age is 37 - 15 = 22.
+   * So, James' age 8 years ago was 22 - 8 = 14.
+   * Therefore, 2x = 14, and x = 7.
+   * Janet's age 8 years ago was 7.
+
+3. Susan was born when Janet turned 3.
+   * Janet is currently 7 + 8 = 15 years old.
+   * Susan is currently 15 - 3 = 12 years old.
+
+4. In 5 years, Susan will turn 12 + 5 = 17 years old.
+
+Answer: 17

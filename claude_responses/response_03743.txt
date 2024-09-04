@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Calum needs to buy 4 disco balls and 10 boxes of food
+* Each box of food costs $25
+* Calum's budget for the disco balls and food is $330
+
+First, let's calculate the total cost of the food:
+* 10 boxes of food x $25 per box = $250
+
+Now, we can subtract the cost of the food from the total budget to get the amount left for the disco balls:
+* $330 - $250 = $80
+
+Since Calum needs to buy 4 disco balls, we can divide the remaining budget by 4 to get the amount he can afford to spend on each disco ball:
+* $80 / 4 = $20
+
+Answer: $20

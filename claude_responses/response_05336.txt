@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tammy wants to run 3500 meters per week
+* Her track is 50 meters around
+* She wants to run the same amount each day
+
+To find the number of loops she should make per day, we need to:
+1. Calculate the number of meters she needs to run per day
+2. Divide the number of meters per day by the track length (50 meters) to get the number of loops per day
+
+Step 1: Calculate the number of meters per day
+* 3500 meters per week / 7 days per week = 500 meters per day
+
+Step 2: Divide the meters per day by the track length
+* 500 meters per day / 50 meters per loop = 10 loops per day
+
+Answer: 10 loops per day

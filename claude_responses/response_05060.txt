@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* 2 packs of 500 mL milk cost $2.50
+* 1 pack of 500 mL milk costs $1.30
+* To find the total cost of buying 10 sets of 2 packs of 500 mL milk:
+   - 10 sets of 2 packs = 20 packs
+   - 20 packs at $2.50 per set = $25.00
+* To find the total cost of buying 20 individual packs of 500 mL milk:
+   - 20 packs at $1.30 each = $26.00
+* To calculate the total savings:
+   - Total cost of individual packs: $26.00
+   - Total cost of 10 sets of 2 packs: $25.00
+   - Total savings = $26.00 - $25.00 = $1.00
+
+Answer: $1.00

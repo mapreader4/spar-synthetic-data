@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Ignatius owns 4 bicycles
+* Each bicycle has 2 tires
+* So Ignatius's bikes have a total of 4 * 2 = 8 tires
+
+* The friend's cycles have 3 times as many tires as Ignatius's bikes
+* So the friend's cycles have a total of 3 * 8 = 24 tires
+
+* The friend has 1 unicycle, which has 1 tire
+* The friend has 1 tricycle, which has 3 tires
+* The remaining tires must be from bicycles
+
+* To find the number of bicycles the friend has, we need to subtract the tires from the unicycle and tricycle from the total tires:
+* 24 tires - 1 tire (unicycle) - 3 tires (tricycle) = 20 tires
+* Since each bicycle has 2 tires, the number of bicycles the friend has is 20 / 2 = 10 bicycles
+
+Answer: 10

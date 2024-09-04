@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Benjamin collects 6 dozen eggs a day.
+2. Carla collects 3 times the number of eggs that Benjamin collects.
+   * Benjamin collects 6 dozen eggs, so Carla collects 3 x 6 = 18 dozen eggs.
+3. Trisha collects 4 dozen less than Benjamin.
+   * Benjamin collects 6 dozen eggs, so Trisha collects 6 - 4 = 2 dozen eggs.
+
+Now, to find the total number of dozen eggs collected by the three:
+* Benjamin: 6 dozen
+* Carla: 18 dozen
+* Trisha: 2 dozen
+* Total: 6 + 18 + 2 = 26 dozen eggs
+
+Answer: 26

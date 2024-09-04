@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The first lock stalls the raccoons for 5 minutes.
+* The second lock stalls the raccoons for 3 minutes less than three times as long as the first lock.
+* To find the time for the second lock, we can use the following equation:
+    * Time for second lock = 3 x Time for first lock - 3 minutes
+    * Time for second lock = 3 x 5 minutes - 3 minutes
+    * Time for second lock = 12 minutes
+* When both locks are used together, it stalls the raccoons for five times as long as the second lock alone.
+* So, the total time the raccoons are stalled when both locks are used is:
+    * Total time = 5 x Time for second lock
+    * Total time = 5 x 12 minutes
+    * Total time = 60 minutes
+
+Answer: 60

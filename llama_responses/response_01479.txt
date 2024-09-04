@@ -1,0 +1,9 @@
+Let's break this problem down step by step!
+
+1. Wallace has 20 bags of jerky already made, and the customer ordered 60 bags. To fulfill the customer's order, Wallace needs to make 60 - 20 = 40 more bags of jerky.
+2. Each batch of jerky takes all night to make and can make 10 bags. To find out how many batches Wallace needs to make, we can divide the number of bags needed (40) by the number of bags each batch makes (10): 40 ÷ 10 = 4.
+3. Since each batch takes all night to make, it will take Wallace 4 nights to make the necessary 4 batches.
+4. Since Wallace already has 20 bags of jerky, he will have a total of 20 + 40 = 60 bags after making the additional 4 batches.
+5. Since the customer ordered 60 bags, Wallace will be able to fulfill the customer's order after making the additional 4 batches, which will take 4 nights.
+
+Answer: 4

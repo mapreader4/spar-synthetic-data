@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Rafael works 10 hours on Monday
+* Rafael works 8 hours on Tuesday
+* So, in the first two days, Rafael has worked 10 + 8 = 18 hours
+* Rafael has 20 hours left to work in the week
+* So, the total number of hours Rafael will work in the week is 18 + 20 = 38 hours
+* Rafael is paid $20 per hour
+* To calculate his total earnings, we multiply the total hours worked (38) by the hourly rate ($20)
+* 38 hours x $20 per hour = $760
+
+Answer: $760

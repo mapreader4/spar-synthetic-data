@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, we need to find MegaCorp's annual profits. The profit from mining is $3,000,000 and the profit from oil refining is $5,000,000. The total profit is the sum of these two, so:
+
+Profit = $3,000,000 + $5,000,000 = $8,000,000
+
+Next, we need to find 1% of this profit. To find 1% of a number, we multiply the number by 0.01.
+
+1% = 0.01
+
+So, 0.01 x $8,000,000 = $80,000
+
+So, the fine is $80,000.
+
+Answer: 80000

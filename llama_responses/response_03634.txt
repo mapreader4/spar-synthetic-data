@@ -1,0 +1,9 @@
+Let's first calculate the total cost for each salon:
+
+Gustran Salon: Haircut ($45) + Facial cleaning ($22) + Nails ($30) = $97
+Barbara's Shop: Nails ($40) + Haircut ($30) + Facial cleaning ($28) = $98
+The Fancy Salon: Facial cleaning ($30) + Haircut ($34) + Nails ($20) = $84
+
+Now, we need to find the cheapest salon. The Fancy Salon has the lowest total cost, which is $84.
+
+Answer: 84

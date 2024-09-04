@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* May can knit 3 scarves using one yarn
+* She bought 2 red yarns, 6 blue yarns, and 4 yellow yarns
+* To find the total number of scarves she can make, we need to calculate the number of scarves for each color yarn and then add them together
+
+For the red yarns:
+* 2 red yarns x 3 scarves per yarn = 6 red scarves
+
+For the blue yarns:
+* 6 blue yarns x 3 scarves per yarn = 18 blue scarves
+
+For the yellow yarns:
+* 4 yellow yarns x 3 scarves per yarn = 12 yellow scarves
+
+Now we add them all together:
+* 6 red scarves + 18 blue scarves + 12 yellow scarves = 36 scarves
+
+Answer: 36

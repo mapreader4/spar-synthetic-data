@@ -1,0 +1,20 @@
+Okay, let's break this down step by step:
+* There are 2 clotheslines for every house on the street
+* There are a total of 11 children and 20 adults
+* Each child has 4 items of clothing on the clotheslines
+* Each adult has 3 items of clothing on the clotheslines
+* Each clothesline can hold 2 items of clothing
+* All of the clotheslines are full
+
+First, let's calculate the total number of items of clothing on the clotheslines:
+* 11 children x 4 items each = 44 items
+* 20 adults x 3 items each = 60 items
+* Total items of clothing = 44 + 60 = 104 items
+
+Since each clothesline can hold 2 items, and all clotheslines are full, we can divide the total number of items by 2 to get the number of clotheslines:
+* 104 items / 2 items per clothesline = 52 clotheslines
+
+Finally, since there are 2 clotheslines per house, we can divide the number of clotheslines by 2 to get the number of houses on the street:
+* 52 clotheslines / 2 clotheslines per house = 26 houses
+
+Answer: 26 houses

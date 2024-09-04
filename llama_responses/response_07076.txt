@@ -1,0 +1,44 @@
+Let's break this down step by step.
+
+Let's start by identifying the total number of Oreos and cookies in the box. The ratio is 4:9, so the number of Oreos is 4x and the number of cookies is 9x. Since the total number of items is 65, we can set up an equation to represent this:
+
+4x + 9x = 65
+
+We can solve for x by subtracting 4x from both sides of the equation:
+
+5x = 65
+
+Now, we can multiply both sides of the equation by 1 to get:
+
+5x = 65 * 1
+
+5x = 65
+
+Now, we can divide both sides of the equation by 5 to get:
+
+x = 13
+
+Since Zane bought each Oreo at $2 and each cookie at $3, we can multiply the number of Oreos and cookies by the cost of each to get the total cost:
+
+Oreos: 4x * 2 = 8x
+Cookies: 9x * 3 = 27x
+
+The total cost of the Oreos is 8x and the total cost of the cookies is 27x. To find the difference in cost, we can subtract the cost of the Oreos from the cost of the cookies:
+
+27x - 8x =?
+
+We can substitute the value of x from earlier, which is 13:
+
+27 * 13 - 8 * 13 =?
+
+We can multiply 27 and 13 first:
+
+27 * 13 = 351
+
+Then, we can subtract 8 * 13:
+
+351 - 104 = 247
+
+The answer is:
+
+Answer: 247

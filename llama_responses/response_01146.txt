@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that Jane planted 20 tulip bulbs.  Jane's mother agreed to pay her $.50 for every flower bulb that Jane planted.  So, the amount of money Jane earned from the tulip bulbs is 20 x $.50 = $10.
+
+Next, we know that Jane planted half as much iris bulbs as tulip bulbs.  So, Jane planted 20 / 2 = 10 iris bulbs.  Jane's mother agreed to pay her $.50 for every flower bulb, so the amount of money Jane earned from the iris bulbs is 10 x $.50 = $5.
+
+Next, we know that Jane planted 30 daffodil bulbs and three times that amount of crocus bulbs.  So, Jane planted 30 + 3 x 30 = 90 crocus bulbs.  Jane's mother agreed to pay her $.50 for every flower bulb that Jane planted.  So, the amount of money Jane earned from the daffodil and crocus bulbs is 30 x $.50 + 90 x $.50 = 90.
+
+Finally, we can add up the amount of money Jane earned from all the flower bulbs: $10 + $5 + 90 = $95.
+
+Answer: 95

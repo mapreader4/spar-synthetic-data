@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Step 1: Determine the total amount of water that flows into the tank during the 90 minutes.
+
+Since the water flows in at a rate of 2 L/min, and there are 60 minutes in an hour, the total amount of water that flows in during the 90 minutes is:
+
+2 L/min x 90 minutes = 180 L
+
+Step 2: Add this to the initial 100 L of rainwater in the tank.
+
+Initial amount of rainwater in the tank = 100 L
+Total amount of water that flows in during the 90 minutes = 180 L
+
+Total amount of rainwater in the tank at the end of the heavy rain = 100 L + 180 L = 280 L
+
+Answer: 280

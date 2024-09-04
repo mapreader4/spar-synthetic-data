@@ -1,0 +1,5 @@
+Let's start by identifying the information given in the problem. We know that each closet can fit 1/4 as much as Ali's closet, and Ali's closet can fit 200 pairs of jeans. So, the amount of jeans that each closet can fit is 200/4 = 50.
+
+We are trying to find the total amount of jeans that both closets can fit. Since there are two closets, we can multiply the amount of jeans each closet can fit by 2, which is 50 * 2 = 100.
+
+So, the answer is: Answer: 100.

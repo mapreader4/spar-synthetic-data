@@ -1,0 +1,33 @@
+Let's break this down step by step.
+
+Let's start with what we know. Mason is three times younger than Sydney. Sydney's age is unknown, but we can call it x. So, we can write an equation:
+
+Mason's age = 3 * Sydney's age.
+
+Now, we know Mason is 20 years old. So, we can write another equation:
+
+20 = 3 * Sydney's age.
+
+We can solve for Sydney's age by dividing both sides of the equation by 3:
+
+Sydney's age = 20 / 3
+Sydney's age = 6.67
+
+Since Sydney is six years younger than Mason's father, we know that Sydney's age is 6 years less than his father's age. So, we can write another equation:
+
+Sydney's age + 6 = father's age
+
+We don't know the father's age, but we can write another equation:
+
+father's age - 6 = Sydney's age
+father's age = 6 + Sydney's age
+
+We can solve for the father's age by subtracting 6 from both sides of the equation:
+
+father's age = 6 + Sydney's age
+father's age = 6 + 6.67
+father's age = 12.67
+
+So, the father is 12.67 years old.
+
+Answer: 12.67

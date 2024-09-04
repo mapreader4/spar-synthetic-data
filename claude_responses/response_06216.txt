@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The school has a gym budget.
+2) They decided to add 20% to the gym budget.
+3) In a normal month, they could buy 15 dodgeballs for $5 each if they spent the entire budget on that.
+4) If they only buy softballs instead, which cost $9 each, we need to find how many they can buy with the new budget.
+
+First, let's calculate the original gym budget:
+* 15 dodgeballs x $5 each = $75 original gym budget
+
+Now, let's calculate the new gym budget after the 20% increase:
+* $75 original budget x 1.20 (20% increase) = $90 new gym budget
+
+Finally, let's calculate how many softballs they can buy with the new $90 budget:
+* $90 new budget / $9 per softball = 10 softballs
+
+Answer: 10

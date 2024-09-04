@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+Tommy needs 12 loaves of bread, which requires 4 pounds of flour per loaf. So, he needs a total of 12 x 4 = 48 pounds of flour.
+
+Let's consider the options:
+
+* 10-pound bag of flour: 48 pounds of flour would require 48 / 10 = 4.8 bags, which would cost 4.8 x $10 = $48. But he can't buy a fraction of a bag, so he would need to buy 5 bags, which would cost 5 x $10 = $50.
+* 12-pound bag of flour: 48 pounds of flour would require 48 / 12 = 4 bags, which would cost 4 x $13 = $52. This option is more expensive than buying 5 10-pound bags, so we can rule it out.
+
+So, Tommy should buy the 10-pound bags of flour, which would cost $50.

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Mary brought 50 stickers to class.
+2) She gave 4 stickers to each of her 5 friends. That's 4 x 5 = 20 stickers given to her friends.
+3) She gave everyone else in class two stickers each. We don't know how many students are in the class yet, but we know she has 8 stickers left over.
+4) So the total number of stickers she gave out to the other students (not including her friends) is 50 - 20 - 8 = 22 stickers.
+5) Since she gave each of the other students 2 stickers, we can divide the total number of stickers given out to the other students (22) by 2 to get the number of other students in the class.
+6) 22 / 2 = 11 other students in the class.
+7) Adding the 5 friends and Mary herself, the total number of students in the class is 5 + 1 + 11 = 17.
+
+Answer: 17

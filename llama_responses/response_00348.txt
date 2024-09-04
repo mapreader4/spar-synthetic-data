@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Brian can hold his breath for 10 seconds initially. After a week, he doubles this amount, so he can hold his breath for 20 seconds. After another week, he doubles this again, so he can hold his breath for 40 seconds. Finally, after the last week, he increases it by 50% from 40 seconds, which is 60 seconds.
+
+So, the final answer is:
+
+Answer: 60

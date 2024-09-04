@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by finding the total area of the walls in the house. The living room is 600 square feet, and there are 3 bedrooms, each with 400 square feet of walls. So, the total area of the walls is 600 + 3 * 400 = 600 + 1200 = 1800 square feet.
+
+Since one gallon of paint can cover 600 square feet, we need to find how many gallons of paint it would take to cover the total area of the walls, which is 1800 square feet. Since 1800 is greater than 600, we know that we will need more than one gallon of paint.
+
+To find the number of gallons of paint needed, we can divide the total area by the area that one gallon of paint can cover. 1800 / 600 = 3. So, Henrietta needs 3 gallons of paint.

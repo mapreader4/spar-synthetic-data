@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The number of students who ordered burgers is 30.
+2) The number of students who ordered hot dogs is twice the number of students who ordered burgers.
+3) To find the number of students who ordered hot dogs, we multiply the number of students who ordered burgers by 2:
+   * Number of students who ordered hot dogs = 30 x 2 = 60
+4) To find the total number of students at the restaurant, we add the number of students who ordered burgers and the number of students who ordered hot dogs:
+   * Total number of students = 30 + 60 = 90
+
+Answer: 90

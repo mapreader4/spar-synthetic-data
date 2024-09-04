@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The judge oversaw 17 court cases
+* 2 cases were immediately dismissed
+* That leaves 17 - 2 = 15 remaining cases
+* Two-thirds of the remaining 15 cases were ruled innocent
+* Two-thirds of 15 is 10 cases that were ruled innocent
+* That leaves 15 - 10 = 5 cases that were not ruled innocent
+* 1 of those 5 cases had a delayed ruling
+* That leaves 4 cases that were ruled guilty
+
+Answer: 4

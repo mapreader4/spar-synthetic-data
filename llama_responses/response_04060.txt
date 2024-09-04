@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+First, we need to find the area of the playground. The playground is a rectangle with a length of 12 meters and a width of 12 meters. The area of the playground is:
+
+Area = length * width = 12 * 12 = 144 square meters
+
+Next, we need to find the area of the maintenance building. The maintenance building is a rectangle with a length of 8 meters and a width of 5 meters. The area of the maintenance building is:
+
+Area = length * width = 8 * 5 = 40 square meters
+
+Now, we need to find the area of the playground that is not covered by the maintenance building. To do this, we subtract the area of the maintenance building from the area of the playground:
+
+Area of playground - area of maintenance building = 144 - 40 = 104 square meters
+
+So, the area of the playground that is not covered by the maintenance building is 104 square meters.
+
+Answer: 104

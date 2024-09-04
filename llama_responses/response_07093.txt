@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of people at the party, which is 15, including Carl himself.
+
+Next, we need to determine how many glasses of punch each person will have. We know that each glass holds 12 ounces of punch, and we want everyone to have at least 2 glasses. So, each person will have 2 glasses of punch, which is a total of 2 x 12 ounces per person.
+
+To find the total amount of ounces of punch needed, we multiply the number of people by the number of ounces per person: 15 people x 2 x 12 ounces = 15 x 24 = 360 ounces.
+
+So, Carl needs to buy 360 ounces of punch for the party.
+
+Answer: 360

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 14 caterpillars on the tree.
+* 4 more eggs hatch, and the baby caterpillars climb out to munch on the leaves.
+* So, the total number of caterpillars on the tree is now 14 + 4 = 18.
+* 8 fat caterpillars leave the tree to cocoon themselves to be butterflies.
+* So, the number of caterpillars left on the tree is 18 - 8 = 10.
+
+Answer: 10

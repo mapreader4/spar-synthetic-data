@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we need to find the total points scored by the team in the entire season. The team has 4 players, and there are 10 rounds in the season. The old record is an average score per player of 287 per round, so the total points scored by the team in the entire season would be:
+
+4 players x 287 points per player x 10 rounds = 11,480 points
+
+However, the team has already scored 10,440 points through the first 9 rounds. To tie the league record, they would need to score:
+
+11,480 - 10,440 = 1,040 points
+
+in the final round.
+
+Since there are 4 players, the minimum average they need to score per player in the final round to tie the league record would be:
+
+1,040 points / 4 players = 260 points per player
+
+The old record is an average score per player of 287 points per round. To find out how many points less than the current league record per game average the minimum average they need to score is, we subtract the minimum average from the old record:
+
+287 - 260 = 27
+
+So, the minimum average they need to score per player in the final round to tie the league record is 27 points less than the current league record per game average.
+
+Answer: 27

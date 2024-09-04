@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+1) The puzzle has a total of 500 pieces.
+2) The border of the puzzle is 75 pieces.
+3) Trevor was able to place 105 pieces of the puzzle.
+4) Joe was able to place three times the number of puzzle pieces as Trevor, which means Joe placed 3 x 105 = 315 pieces.
+5) The total number of pieces placed by Trevor and Joe is 105 + 315 = 420 pieces.
+6) The number of puzzle pieces missing is the total number of pieces (500) minus the number of pieces placed (420).
+
+Answer: 80

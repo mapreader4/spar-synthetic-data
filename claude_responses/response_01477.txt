@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Jack goes hunting 6 times a month
+* The hunting season lasts for 1 quarter of the year (3 months)
+* He catches 2 deers each time he goes hunting
+* Each deer weighs 600 pounds
+* He keeps half the weight of the deer a year
+
+First, let's calculate the total number of deers he catches in a year:
+* 6 times a month x 3 months = 18 times a year
+* 2 deers each time x 18 times a year = 36 deers a year
+
+Next, let's calculate the total weight of the deers he catches in a year:
+* 36 deers a year x 600 pounds per deer = 21,600 pounds of deer a year
+
+Finally, he keeps half the weight of the deer a year, so:
+* 21,600 pounds of deer a year / 2 = 10,800 pounds of deer he keeps a year
+
+Answer: 10,800 pounds

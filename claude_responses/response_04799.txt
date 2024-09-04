@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+1. The regular seminar fee is $150 per teacher.
+2. If they register 2 days before the scheduled seminar, there is a 5% discount.
+3. The school registered 10 teachers for the seminar a week before the schedule.
+4. The school also released a $10 food allowance for each of the teachers.
+
+To calculate the total amount the school spent:
+1. Without the discount, the total cost for the 10 teachers would be:
+   10 teachers x $150 per teacher = $1,500
+2. With the 5% discount for registering 2 days before the scheduled seminar, the total cost would be:
+   $1,500 - (5% of $1,500) = $1,500 - $75 = $1,425
+3. The school also released a $10 food allowance for each of the 10 teachers, so the total food allowance would be:
+   10 teachers x $10 per teacher = $100
+4. The total amount the school spent is the sum of the seminar cost and the food allowance:
+   $1,425 + $100 = $1,525
+
+Answer: $1,525

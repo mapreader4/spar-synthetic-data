@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+On Monday, Charlotte walks 4 poodles and 2 Chihuahuas. It takes 2 hours to walk a poodle, so 4 poodles will take 4 x 2 = 8 hours. It takes 1 hour to walk a Chihuahua, so 2 Chihuahuas will take 2 x 1 = 2 hours. In total, it takes 8 + 2 = 10 hours to walk the dogs on Monday.
+
+On Wednesday, Charlotte walks 4 Labradors. It takes 3 hours to walk a Labrador, so 4 Labradors will take 4 x 3 = 12 hours.
+
+So far, Charlotte has spent 10 hours on Monday and 12 hours on Wednesday. That's a total of 10 + 12 = 22 hours.
+
+She has a total of 32 hours available for dog-walking this week. To find out how many hours she has left, we subtract the hours she has already spent from the total hours available:
+
+32 - 22 = 10 hours
+
+This means Charlotte has 10 hours left to walk dogs on Tuesday.
+
+On Tuesday, she walks the same amount of Chihuahuas as on Monday, which is 2 Chihuahuas. It takes 1 hour to walk a Chihuahua, so 2 Chihuahuas will take 2 x 1 = 2 hours. This leaves 10 - 2 = 8 hours for walking poodles.
+
+It takes 2 hours to walk a poodle, so we can divide the remaining hours by 2 to find out how many poodles Charlotte can walk on Tuesday:
+
+8 hours / 2 hours per poodle = 4 poodles
+
+Answer: 4

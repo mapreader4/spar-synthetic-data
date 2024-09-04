@@ -1,0 +1,13 @@
+To find the total number of words, we need to find the total number of words in each essay and add them together.
+
+Madeline's essay has 150 words.
+Johnny's essay is double in length, so it also has 150 words.
+Timothy's essay has 30 words more than Madeline's, so it has 180 words.
+
+To find the total number of words, we add the number of words in each essay together:
+
+150 + 150 + 180 = 380
+
+So, the total number of words is 380.
+
+Answer: 380

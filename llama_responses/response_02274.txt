@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+James has 20 friends initially. Then, he got into an argument with 2 of his friends, which means he no longer considers them as friends, so he has 20 - 2 = 18 friends left.
+
+Then, he made one more friend, so he now has 18 - 1 = 17 friends.
+
+Answer: 17

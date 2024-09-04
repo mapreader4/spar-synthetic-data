@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* William and Harry played 15 rounds of tic-tac-toe
+* William won 5 more rounds than Harry
+* Let's say Harry won x rounds
+* Then, William won (x + 5) rounds
+* The total number of rounds won is 15, so:
+* x + (x + 5) = 15
+* 2x + 5 = 15
+* 2x = 10
+* x = 5
+* Therefore, Harry won 5 rounds
+* And William won (5 + 5) = 10 rounds
+
+Answer: 10

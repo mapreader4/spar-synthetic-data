@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There were a total of 42 baby sea turtles that hatched
+* One-third of them got swept to the sea by a wave
+* To find the number of turtles that got swept to the sea, we take one-third of the total:
+* 1/3 of 42 = 42 / 3 = 14 turtles got swept to the sea
+* Now, to find the number of turtles still on the sand, we take the total number of turtles (42) and subtract the number that got swept to the sea (14):
+* 42 - 14 = 28 turtles are still on the sand
+
+Answer: 28

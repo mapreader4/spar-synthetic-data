@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Nadine spent a total of $56 at the garage sale
+* She bought a table for $34
+* She also bought 2 chairs
+* Each chair cost the same amount
+
+To find the cost of one chair, we need to subtract the cost of the table from the total amount spent, and then divide the remaining amount by the number of chairs.
+
+* Total amount spent: $56
+* Cost of table: $34
+* Remaining amount: $56 - $34 = $22
+* Number of chairs: 2
+* Cost of one chair: $22 / 2 = $11
+
+Answer: $11

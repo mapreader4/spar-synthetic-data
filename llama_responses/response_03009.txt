@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Let's first find the number of vehicles passing through the old bridge. Since the old bridge had 2000 vehicles passing through it every month, and the new bridge has twice the capacity, it means the new bridge can handle 2000 * 2 = 4000 vehicles. The number of vehicles passing through the new bridge is 60% more than the old bridge, so we can set up an equation:
+
+2000 + (60% * 2000) = 2000 + 1200 = 3200
+
+So, the new bridge can handle 3200 vehicles.
+
+Since the old bridge and the new bridge work concurrently for a year, we can add the number of vehicles passing through both bridges:
+
+2000 (old bridge) + 3200 (new bridge) = 5200
+
+Answer: 5200

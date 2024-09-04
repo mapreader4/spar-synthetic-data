@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. We know that Naomi takes 1/4 times more time than Katherine to complete a website. Since Katherine takes 20 hours, Naomi takes 20 + 1/4 * 20 = 20 + 5 = 25 hours to complete a website.
+
+2. Since Naomi is given 30 websites to develop, we need to find out the total number of hours she took to complete all 30 websites. To do this, we can multiply the number of websites by the time it takes her to complete one website: 30 * 25 = 750 hours.
+
+Answer: 750

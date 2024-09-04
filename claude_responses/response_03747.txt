@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The teacher had $100 to spend.
+2) A basic calculator costs $8.
+3) A scientific calculator costs twice the price of the basic calculator, which is $16.
+4) A graphing calculator costs thrice the price of the scientific calculator, which is $48.
+5) To find the total cost of the three calculators, we add up the prices:
+   $8 + $16 + $48 = $72
+6) To find the change the teacher received, we subtract the total cost from the initial $100:
+   $100 - $72 = $28
+
+Answer: $28

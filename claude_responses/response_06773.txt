@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jerry works 5 days a week
+* The past 4 nights, he earned $20, $60, $15, and $40 in tips
+* He wants to make an average of $50 in tips per night
+
+To calculate the total amount of tips he has earned so far, we add up the tips from the past 4 nights:
+* $20 + $60 + $15 + $40 = $135
+
+Now, to find the average tips per night, we divide the total tips by the number of nights:
+* $135 / 4 = $33.75
+
+So, the average tips per night so far is $33.75.
+
+To find the amount he needs to earn tonight to make an average of $50 per night, we can use the following formula:
+* (Total tips so far + Tips needed tonight) / 5 nights = $50 per night
+* ($135 + Tips needed tonight) / 5 = $50
+* Tips needed tonight = $50 * 5 - $135
+* Tips needed tonight = $250 - $135
+* Tips needed tonight = $115
+
+Answer: $115

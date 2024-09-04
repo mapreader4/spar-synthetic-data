@@ -1,0 +1,9 @@
+Let's start by identifying the number of soldiers on each side. The first side has 4000 soldiers, and the other side has 500 fewer, so the other side has 4000 - 500 = 3500 soldiers.
+
+The first side's soldiers need 10 pounds of food each, so the total amount of food they need is 4000 x 10 = 40000 pounds.
+
+The other side's soldiers need 2 pounds less food than the first side, so they need 10 - 2 = 8 pounds of food each. The total amount of food they need is 3500 x 8 = 28000 pounds.
+
+To find the total amount of pounds of food both sides are eating altogether every day, we add the amount of food needed by each side: 40000 + 28000 = 68000.
+
+Answer: 68000

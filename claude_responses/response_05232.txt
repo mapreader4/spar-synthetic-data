@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Jill makes the same amount of each scent for every candle.
+2) She made twice as many lavender candles as coconut candles.
+3) She ran out of almond scent after making 10 almond candles.
+4) She had one and a half times as much coconut scent as almond scent, and used all her coconut scent up.
+
+Let's start by finding the number of coconut candles she made:
+* Since she used all her coconut scent, and had one and a half times as much coconut scent as almond scent, the number of coconut candles is 1.5 times the number of almond candles.
+* She made 10 almond candles, so the number of coconut candles is 1.5 * 10 = 15 coconut candles.
+
+Now, we know that she made twice as many lavender candles as coconut candles. So the number of lavender candles is 2 * 15 = 30 lavender candles.
+
+Answer: 30 lavender candles.

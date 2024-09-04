@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start by finding the amount of weight John can front squat.
+
+John can front squat 80% of the total weight he can squat. 80% of the total weight is 80% * (total weight) = 0.8 * (total weight).
+
+We don't know the total weight yet, but we can represent it as a variable, let's call it W. So, 0.8 * W = 80% * W.
+
+Now, let's find the total weight John can back squat.
+
+John used to back squat 200 kg, but increased that by 50 kg. 200 kg + 50 kg = 250 kg.
+
+So, John can back squat 250 kg.
+
+Now, John can do a triple equal to 90% of the amount he front squats. 90% of the amount he front squats is 90% * (0.8 * W) = 0.9 * 0.8 * W = 0.72 * W.
+
+We know John can front squat 0.8 * W, so we can substitute 0.72 * W for 0.9 * 0.8 * W.
+
+Now, John does three triples. Each triple is equal to 0.72 * W. So, three triples is 3 * 0.72 * W.
+
+We know John can back squat 250 kg, so we can substitute 250 kg for W.
+
+So, John does three triples of 250 kg, which is 3 * 250 = 750 kg.
+
+Answer: 750

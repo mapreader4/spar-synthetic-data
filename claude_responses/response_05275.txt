@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Peggy has 75 stamps in her collection
+* Ernie has 3 times as many stamps as Peggy
+* So, Ernie has 3 * 75 = 225 stamps
+* Bert has 4 times as many stamps as Ernie
+* So, Bert has 4 * 225 = 900 stamps
+* To find how many stamps Peggy needs to add to her collection to have a collection as large as Bert's, we subtract Peggy's current collection from Bert's collection:
+* 900 - 75 = 825
+
+Answer: 825

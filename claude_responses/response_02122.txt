@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Each customer needs 1 can of hairspray during the styling
+* Each customer is also given 1 can of hairspray to take home
+* So, each customer uses 2 cans of hairspray in total
+* The salon also buys an extra 5 cans of hairspray each day to ensure there is never a shortage
+* The salon buys 33 cans of hairspray every day
+* To find the number of customers, we need to subtract the extra 5 cans from the total 33 cans, and then divide the remaining 28 cans by 2 (since each customer uses 2 cans)
+
+Therefore, the number of customers the salon has each day is:
+Answer: 14

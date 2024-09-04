@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mark buys:
+  - 6 cans of soup at $2 each, so 6 x $2 = $12
+  - 2 loaves of bread at $5 each, so 2 x $5 = $10
+  - 2 boxes of cereal at $3 each, so 2 x $3 = $6
+  - 2 gallons of milk at $4 each, so 2 x $4 = $8
+* Adding up all the purchases, the total cost is:
+  - $12 + $10 + $6 + $8 = $36
+* Mark has only $10 bills in his wallet, so he needs to use as many $10 bills as possible to pay the $36 total.
+* To calculate the number of $10 bills needed, we divide the total cost by $10:
+  - $36 / $10 = 3.6
+* Since we can't have a fractional number of bills, we round up to the nearest whole number.
+* Therefore, Mark needs to use 4 $10 bills to pay the $36 total.
+
+Answer: 4

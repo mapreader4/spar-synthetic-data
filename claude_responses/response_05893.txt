@@ -1,0 +1,25 @@
+To solve this problem, we need to calculate the total number of balloons that can be inflated by the three people in the given time.
+
+Given information:
+- Mary inflates 10 balloons per minute.
+- Jess inflates 7 balloons per minute.
+- Christina inflates 4 balloons per minute and arrived 15 minutes late.
+- They have 30 minutes to inflate the balloons.
+
+Step 1: Calculate the number of balloons inflated by Mary.
+Mary's balloons per minute × Time available = Total balloons inflated by Mary
+10 balloons per minute × 30 minutes = 300 balloons
+
+Step 2: Calculate the number of balloons inflated by Jess.
+Jess's balloons per minute × Time available = Total balloons inflated by Jess
+7 balloons per minute × 30 minutes = 210 balloons
+
+Step 3: Calculate the number of balloons inflated by Christina.
+Christina's balloons per minute × Time available (after arriving 15 minutes late) = Total balloons inflated by Christina
+4 balloons per minute × 15 minutes = 60 balloons
+
+Step 4: Calculate the total number of balloons inflated by the three people.
+Total balloons inflated = Balloons inflated by Mary + Balloons inflated by Jess + Balloons inflated by Christina
+Total balloons inflated = 300 + 210 + 60 = 570 balloons
+
+Answer: 570 balloons

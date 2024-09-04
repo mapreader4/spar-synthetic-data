@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lily had $55 in her account.
+2) She spent $7 on a shirt.
+3) She then went to another shop and spent thrice as much as she spent on the shirt.
+   * Thrice as much as $7 is 3 x $7 = $21.
+4) So the total amount Lily spent is $7 (on the shirt) + $21 (at the other shop) = $28.
+5) To find the amount of money left in Lily's account, we take the initial amount ($55) and subtract the total amount spent ($28).
+   * $55 - $28 = $27.
+
+Answer: $27.

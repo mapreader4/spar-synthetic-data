@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Martin initially had some number of fruits, which we will call x.
+2) He ate half of the fruits, so he ate x/2 fruits.
+3) After eating half the fruits, he remained with twice as many oranges as limes.
+4) We know that he has 50 oranges now, so let's call the number of limes y.
+5) Since he has twice as many oranges as limes, we can say that 50 = 2y.
+6) Solving for y, we get y = 25.
+7) So he has 25 limes and 50 oranges, for a total of 75 fruits remaining.
+8) Since he ate half the fruits, the initial number of fruits must have been 2 * 75 = 150.
+
+Answer: 150

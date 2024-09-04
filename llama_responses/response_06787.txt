@@ -1,0 +1,13 @@
+Let's start by adding the number of sparklers and whistlers from Koby's boxes.
+
+Koby's boxes have 2 x 3 = 6 sparklers and 2 x 5 = 10 whistlers, so in total, Koby has 6 + 10 = 16 fireworks.
+
+Now, let's add the number of sparklers and whistlers from Cherie's box.
+
+Cherie's box has 8 sparklers and 9 whistlers, so in total, Cherie has 8 + 9 = 17 fireworks.
+
+To find the total number of fireworks that Koby and Cherie have, we add the number of fireworks from both of their boxes.
+
+Koby has 16 fireworks and Cherie has 17 fireworks, so in total, they have 16 + 17 = 33 fireworks.
+
+Answer: 33

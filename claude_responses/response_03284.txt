@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Antonella has 10 Canadian coins in her purse
+* The coins are either loonies (worth $1) or toonies (worth $2)
+* She bought a Frappuccino that cost $3
+* She still has $11 left
+
+To find the number of toonies she initially had, we can set up an equation:
+* Let x = the number of toonies she had
+* Then the number of loonies she had is 10 - x
+* The total value of the coins she had was:
+    - x * $2 (for the toonies)
+    - (10 - x) * $1 (for the loonies)
+    - This total value is $11 (the amount she has left after buying the Frappuccino)
+* So the equation is:
+    - x * $2 + (10 - x) * $1 = $11 + $3 (the cost of the Frappuccino)
+    - 2x + 10 - x = 14
+    - x = 4
+
+Answer: 4 toonies.

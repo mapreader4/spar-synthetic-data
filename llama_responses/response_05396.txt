@@ -1,0 +1,12 @@
+Let's break this down step by step:
+
+1. We know Justin needs to read at least 100 pages in a week.
+2. He has already read 10 pages on the first day.
+3. We need to find out how many pages he needs to read in the remaining 6 days.
+4. Since he reads twice the amount of pages as the first day each day, we can multiply the number of pages read on the first day by 2 to get the amount of pages he reads each day.
+5. We can set up an equation to represent this: 10 * 2 = x, where x is the number of pages he reads each day.
+6. Simplifying the equation, we get x = 20.
+7. We know that Justin has 6 days left to read, so we multiply the number of pages he reads each day by 6: 20 * 6 = 120.
+8. Finally, we add the number of pages he has already read (10) to the number of pages he will read in the remaining days (120): 10 + 120 = 130.
+
+Answer: 130

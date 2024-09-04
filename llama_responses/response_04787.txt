@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what Marla needs to buy a horse. According to the problem, 1 horse is worth 80 gallons of water. Since Marla scavenge for 20 bottle caps each day, we need to find out how many days it takes her to collect 80 * 4 = 320 bottle caps to buy the horse.
+
+Now, let's look at how Marla can collect bottle caps. She can collect 20 bottle caps each day, but she needs to pay 4 bottle caps per night for food and shelter. So, she has 20 - 4 = 16 bottle caps left over each day. This means it will take her 320 / 16 = 20 days to collect the 320 bottle caps needed to buy the horse.
+
+Answer: 20

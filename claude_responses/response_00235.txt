@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Max asks for 1 train for every birthday
+* He asks for 2 trains each Christmas
+* He asks for these gifts every year for 5 years
+* At the end of the 5 years, his parents give him double the number of trains he already has
+
+First, let's calculate the number of trains he gets each year:
+* Birthdays: 1 train per year for 5 years = 5 trains
+* Christmases: 2 trains per year for 5 years = 10 trains
+* Total trains per year = 5 + 10 = 15 trains
+
+Now, let's calculate the total number of trains he has after 5 years:
+* Total trains after 5 years = 15 trains per year x 5 years = 75 trains
+
+Finally, his parents give him double the number of trains he already has:
+* Double the number of trains he already has = 75 x 2 = 150 trains
+
+Answer: 150 trains

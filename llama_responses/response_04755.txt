@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of red pebbles Nadine has. If she has half as many red pebbles as white pebbles, and she has 20 white pebbles, then we can find the number of red pebbles as follows:
+
+20 / 2 = 10
+
+So Nadine has 10 red pebbles.
+
+Now, to find the total number of pebbles, we add the number of white pebbles and the number of red pebbles:
+
+20 (white pebbles) + 10 (red pebbles) = 30
+
+So Nadine has 30 pebbles in all.

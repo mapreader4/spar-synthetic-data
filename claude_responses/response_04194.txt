@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Each box contains 14 apples
+* Henry and his brother are eating 3 boxes of apples
+* They each eat 1 apple per day
+* We need to find out how many weeks they can spend eating the 3 boxes of apples
+
+First, let's calculate the total number of apples in the 3 boxes:
+* 3 boxes x 14 apples per box = 42 apples
+
+Now, since Henry and his brother each eat 1 apple per day, the total number of apples they consume per day is 2.
+* 1 apple per day for Henry + 1 apple per day for his brother = 2 apples per day
+
+To find out how many days the 42 apples will last, we divide the total number of apples by the number of apples consumed per day:
+* 42 apples / 2 apples per day = 21 days
+
+Finally, to convert the number of days into weeks, we divide the number of days by 7:
+* 21 days / 7 days per week = 3 weeks
+
+Answer: 3 weeks

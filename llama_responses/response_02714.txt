@@ -1,0 +1,9 @@
+Let's start by using variables to represent the cost of the pets. Let's say the cost of one puppy is P, the cost of one kitten is K, and the cost of one parakeet is P/2.
+
+The cost of two puppies is 3P, since they are three times more expensive than the parakeets. The cost of two puppies is 2(3P), or 6P. The cost of two kittens is 2K, since they are the same cost as the parakeets. The cost of two kittens is 2K.
+
+The cost of three parakeets is 3P, since the parakeets are half as expensive as the kittens. The cost of three parakeets is 3(10), or 30.
+
+To find the total cost of all the pets, we can add the cost of all the pets together: 6P + 2K + 30. The answer is:
+
+Answer: 38

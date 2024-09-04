@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The Indigo Restaurant receives a total of 18 online customer reviews.
+2) They receive:
+   - 6 reviews with 5 stars
+   - 7 reviews with 4 stars
+   - 4 reviews with 3 stars
+   - 1 review with 2 stars
+3) To calculate the average star rating, we need to find the total number of stars received and divide it by the total number of reviews.
+4) The total number of stars received is:
+   - 6 reviews x 5 stars = 30 stars
+   - 7 reviews x 4 stars = 28 stars
+   - 4 reviews x 3 stars = 12 stars
+   - 1 review x 2 stars = 2 stars
+   - Total stars = 30 + 28 + 12 + 2 = 72 stars
+5) The total number of reviews is 18.
+6) The average star rating is 72 stars / 18 reviews = 4 stars.
+
+Answer: 4

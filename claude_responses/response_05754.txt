@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Alex started his bike trip this morning and maintained an average speed of 20 miles per hour.
+* He maintained this speed for 4.5 hours.
+* So in the first 4.5 hours, he traveled 20 miles/hour * 4.5 hours = 90 miles.
+* The road then started to incline, and he could only manage 12 miles per hour for the next 2.5 hours.
+* In this 2.5 hour period, he traveled 12 miles/hour * 2.5 hours = 30 miles.
+* The road then declined, and he was able to coast at 24 miles per hour for 1.5 hours.
+* In this 1.5 hour period, he traveled 24 miles/hour * 1.5 hours = 36 miles.
+* So in total, before the puncture, he had traveled 90 + 30 + 36 = 156 miles.
+* The next town was 164 miles from where he started.
+* Therefore, the distance he had to walk was 164 miles - 156 miles = 8 miles.
+
+Answer: 8 miles

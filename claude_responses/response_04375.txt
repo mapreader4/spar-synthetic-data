@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The quarterback throws a total of 50 passes in the game
+* He throws twice as many passes to the right side of the field than to the left side
+* Let's say he throws x passes to the left side of the field
+* Since he throws twice as many to the right, he throws 2x passes to the right side
+* He also throws 2 more passes to the center than to the left
+* So, the number of passes to the center is x + 2
+* The total number of passes is 50, so we can set up an equation:
+x + 2x + (x + 2) = 50
+4x + 2 = 50
+4x = 48
+x = 12
+
+Answer: 12

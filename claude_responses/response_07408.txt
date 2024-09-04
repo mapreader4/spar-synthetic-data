@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* In the first 30 minutes, the storm dropped 5 inches of rain.
+* In the next 30 minutes, the storm dropped half of that amount, which is 2.5 inches.
+* For the next hour, the storm dropped 1/2 inch of rain.
+* To calculate the total rainfall, we add up the amounts:
+  - 5 inches (first 30 minutes)
+  - 2.5 inches (next 30 minutes)
+  - 0.5 inches (next hour)
+* The total rainfall is 5 + 2.5 + 0.5 = 8 inches.
+* To calculate the average rainfall, we divide the total rainfall by the duration of the storm, which is 2 hours.
+* The average rainfall is 8 inches / 2 hours = 4 inches per hour.
+
+Answer: 4

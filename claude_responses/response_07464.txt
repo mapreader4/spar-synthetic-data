@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Hilary gets 4 ears of corn per stalk, and she has 108 stalks growing.
+2) So the total number of ears of corn is 4 x 108 = 432 ears of corn.
+3) Half of the ears of corn have 500 kernels, and the other half have 100 more, which is 600 kernels.
+4) So the number of ears with 500 kernels is 432 / 2 = 216.
+5) The number of ears with 600 kernels is also 216.
+6) The total number of kernels is:
+   - 216 ears x 500 kernels = 108,000 kernels
+   - 216 ears x 600 kernels = 129,600 kernels
+7) Adding these together, the total number of kernels of corn Hilary has to shuck is:
+   108,000 + 129,600 = 237,600 kernels.
+
+Answer: 237,600

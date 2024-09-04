@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The area of a triangle is given by the formula: 1/2 * base * height
+2) We are given that the height of the triangle is 8 units
+3) We are also given that the area of the triangle is 24 square units
+4) Plugging in the values, we get:
+1/2 * base * 8 = 24
+5) Solving for the base, we get:
+base = 24 / (1/2 * 8)
+base = 24 / 4
+base = 6 units
+
+Answer: 6

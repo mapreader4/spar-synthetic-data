@@ -1,0 +1,15 @@
+Let's break down the information given:
+
+Marcy can make 3 spears out of a sapling, so the number of spears per sapling is 3.
+
+Marcy can make 9 spears out of a log, so the number of spears per log is 9.
+
+Now, we are given 6 saplings and 1 log. We can make a ratio of saplings to logs, which is 6:1. If we multiply this ratio by the number of spears per sapling, we get the number of spears per sapling and log, which is 3 * 6 = 18.
+
+So, we can make 18 spears out of the 6 saplings. Since the number of spears per log is 9, we can make 9 spears out of the 1 log.
+
+So, to find the total number of spears that Marcy can make out of 6 saplings and a log, we can add the number of spears from the saplings to the number of spears from the log. This gives us:
+
+6 * 3 + 9 = 18 + 9 = 27
+
+Answer: 27

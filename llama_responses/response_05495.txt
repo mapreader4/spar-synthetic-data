@@ -1,0 +1,47 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that DeShawn made 12 free-throws, and Kayla made 50% more than DeShawn. We can represent this as an equation:
+
+DeShawn + 50% = Kayla
+
+We also know that Annieka made 4 fewer than Kayla. We can represent this as an equation:
+
+Kayla - 4 = Annieka
+
+Now we have two equations and two unknowns. We can solve for Annieka by subtracting 50% from both sides of the first equation to get:
+
+DeShawn + 50% - 50% = Kayla - 4
+
+This simplifies to:
+
+DeShawn = Kayla - 4
+
+We know that DeShawn made 12 free-throws, so we can substitute that in for DeShawn:
+
+12 = Kayla - 4
+
+Subtract 4 from both sides to get:
+
+12 - 4 = Kayla
+
+This simplifies to:
+
+8 = Kayla
+
+Now we can solve for Kayla by adding 4 to both sides:
+
+Kayla = 12
+
+Finally, we can solve for Annieka by subtracting 4 from Kayla:
+
+Kayla - 4 = Annieka
+
+Subtracting 4 from both sides gives us:
+
+8 - 4 = Annieka
+
+This simplifies to:
+
+4 = Annieka
+
+Answer: 4

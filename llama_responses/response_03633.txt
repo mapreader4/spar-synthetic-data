@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start by identifying the variables:
+
+* The volume of the bottle of water is 2 liters.
+* The volume of each sip is 40 ml.
+* Marcy takes a sip every 5 minutes.
+
+Let's start by finding the total volume of water she drinks in 1 minute. Since she takes a sip every 5 minutes, it means that in 1 minute, she takes 1/5 of the total number of sips. The volume of 1 sip is 40 ml, so the total volume of water she drinks in 1 minute is 40 ml.
+
+Now, let's find the total volume of water she drinks in 1 hour. There are 60 minutes in 1 hour, so in 1 hour, she drinks 60/5 = 12 times. The volume of 1 sip is 40 ml, so the total volume of water she drinks in 1 hour is 12 * 40 = 480 ml.
+
+The bottle is 2 liters, and 1000 ml = 1000 ml. So, it takes Marcy 1000 / 480 = 2.1 hours to drink the whole bottle of water. Answer: 2.

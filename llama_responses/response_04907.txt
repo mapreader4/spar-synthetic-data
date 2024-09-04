@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of units in the first building, which is 4000.
+
+The second building has 2/5 times as many units as the first building, so the number of units in the second building is 2/5 * 4000 = 1600.
+
+The third building has 20% more units than the second building, so the number of units in the third building is 1600 + 20% of 1600.
+
+To find 20% of 1600, we can multiply 1600 by 0.20 = 320.
+
+So, the number of units in the third building is 1600 + 320 = 1920.
+
+To find the total number of units, we add the number of units in all three buildings:
+
+4000 (first building) + 1600 (second building) + 1920 (third building) = 7520
+
+Answer: 7520

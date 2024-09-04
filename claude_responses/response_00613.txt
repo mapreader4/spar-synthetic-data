@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John needs to replace both of his hearing aids
+* Each hearing aid costs $2500
+* So the total cost for both hearing aids is:
+    * 2 x $2500 = $5000
+* Insurance covers 80% of the cost
+* To calculate the amount covered by insurance:
+    * 80% of $5000 = 0.8 x $5000 = $4000
+* To calculate the amount John has to pay personally:
+    * Total cost - Amount covered by insurance = $5000 - $4000 = $1000
+* Therefore, the amount John has to pay personally is:
+Answer: $1000

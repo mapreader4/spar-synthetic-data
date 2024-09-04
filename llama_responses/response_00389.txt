@@ -1,0 +1,13 @@
+Let us call the amount of rainfall in inches per day for the first 15 days as R1 and the amount of rainfall in inches per day for the rest of the month as R2. Then, we can set up an equation for the total rainfall in inches.
+
+R1 = 4
+
+R2 = 2 * R1
+
+R1 + R2 = 4 * 15 + 2 * 30
+
+R1 + R2 = 4 * 15 + 60
+
+R1 + R2 = 4 * 15 + 60 = 60 + 60
+
+Answer: 120

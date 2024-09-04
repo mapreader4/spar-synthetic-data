@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Lisa took 10 photos of animals.
+* She took 3 times as many photos of flowers as animals.
+* She took 10 fewer photos of flowers than animals.
+* She took 15 fewer photos last weekend.
+
+We can start by finding the number of photos of flowers:
+
+* If she took 10 photos of animals and took 3 times as many photos of flowers, then she took 10 x 3 = 30 photos of flowers.
+* Since she took 10 fewer photos of flowers than animals, then she took 30 - 10 = 20 photos of flowers.
+* If she took 15 fewer photos last weekend, then she took 15 + 20 = 35 photos.
+
+So, the total number of photos Lisa took last weekend is:
+
+Answer: 35

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The total bill from the hospital is $5000.
+2) 50% of the bill is for medication, which means the medication cost is $2500.
+3) The remaining bill after the medication cost is $5000 - $2500 = $2500.
+4) 25% of the remaining bill is for overnight stays, which means the overnight stay cost is 0.25 * $2500 = $625.
+5) The bill also includes $175 for food.
+6) The remaining cost must be for the ambulance ride.
+7) To calculate the cost of the ambulance ride, we take the total bill ($5000) and subtract the medication cost ($2500), the overnight stay cost ($625), and the food cost ($175).
+8) $5000 - $2500 - $625 - $175 = $1700.
+
+Answer: $1700.

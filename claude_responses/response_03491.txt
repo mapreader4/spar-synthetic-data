@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Taylor has 12 cups of weak coffee and 12 cups of strong coffee
+* For the weak coffee, he uses 1 tablespoon of coffee per cup of water
+* So for the 12 cups of weak coffee, he will need 12 tablespoons of coffee
+* For the strong coffee, he doubles the amount of coffee per cup of water
+* So for the 12 cups of strong coffee, he will need 24 tablespoons of coffee (12 cups x 2 tablespoons per cup)
+* To find the total amount of coffee needed, we add the amounts for the weak and strong coffee:
+* 12 tablespoons (weak coffee) + 24 tablespoons (strong coffee) = 36 tablespoons
+
+Answer: 36

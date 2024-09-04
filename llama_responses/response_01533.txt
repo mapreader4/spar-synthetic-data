@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that Jen ate 3/4 of the bag on the first day. This means that the bag had 4/4 * 3 = 12 cookies. After eating 3/4 of the bag, there are 12 - 3 = 9 cookies left.
+
+On the second day, she ate half of the remaining cookies. So, we know that 9/2 = 4.5 cookies were eaten. So, the total number of cookies eaten is 3 + 4.5 = 7.5. This means that 12 - 7.5 = 4.5 cookies are left.
+
+So, the answer is:
+
+Answer: 4

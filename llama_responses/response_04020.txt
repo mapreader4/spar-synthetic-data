@@ -1,0 +1,7 @@
+Let's start by identifying the number of books that are reading books and math books.
+
+Two-fifths of the 10 books are reading books, so that is 2 x 2 = 4 books. Three-tenths of the 10 books are math books, so that is 3 x 1/10 = 3 books. The number of math books is 3, and the number of science books is 2 less than that, so the number of science books is 3 - 2 = 1.
+
+So, the number of history books is the total number of books minus the number of reading books and math books minus the number of science books. That is, 10 - 4 - 3 - 1 = 2 books.
+
+Answer: 2

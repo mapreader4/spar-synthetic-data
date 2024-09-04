@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The sandbox is a square, so the length and width are both 3 ft.
+2) The area of the sandbox is the length times the width, which is 3 ft x 3 ft = 9 sq ft.
+3) Josh can buy sand in 3 sq ft bags for $4.00 per bag.
+4) To calculate the number of bags needed, we divide the total area of the sandbox (9 sq ft) by the area covered by each bag (3 sq ft):
+9 sq ft / 3 sq ft per bag = 3 bags
+5) The total cost to fill the sandbox is 3 bags x $4.00 per bag = $12.00.
+
+Answer: $12.00

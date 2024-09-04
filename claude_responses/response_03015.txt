@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Sam has 19 dimes and 6 quarters.
+2) Each dime is worth 10 cents, so 19 dimes are worth 19 x 10 = 190 cents.
+3) Each quarter is worth 25 cents, so 6 quarters are worth 6 x 25 = 150 cents.
+4) In total, Sam has 190 + 150 = 340 cents.
+5) She buys 4 candy bars for 3 dimes each, which is 4 x (3 x 10) = 120 cents.
+6) She also buys 1 lollipop for 1 quarter, which is 25 cents.
+7) The total amount she spent is 120 + 25 = 145 cents.
+8) To calculate the amount of money she has left, we subtract the amount she spent (145 cents) from the total amount she had (340 cents).
+9) 340 - 145 = 195 cents.
+
+Answer: 195

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+I went to the music shop and saw the CDs of The Life Journey for $100, A Day a Life for $50, and When You Rescind for $85. I want to buy 3 of each CD to share with my friends.
+
+The total cost of the 3 CDs of The Life Journey would be 3 x $100 = $300.
+The total cost of the 3 CDs of A Day a Life would be 3 x $50 = $150.
+The total cost of the 3 CDs of When You Rescind would be 3 x $85 = $255.
+
+Adding up the total cost of the 3 CDs, we get: $300 + $150 + $255 = $605.
+
+So, the total amount of money I spent in the shop is $605.
+
+Answer: 605

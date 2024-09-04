@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Noah ate 8 burgers, and each burger weighs 5 ounces
+* So the total weight of Noah's burgers is 8 * 5 = 40 ounces
+* Jacob eats 3 fewer pies than Noah eats burgers
+* So if Noah eats 8 burgers, Jacob eats 8 - 3 = 5 pies
+* Each pie weighs 10 ounces
+* So the total weight of Jacob's pies is 5 * 10 = 50 ounces
+* Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob
+* So Mason eats 3 * 5 = 15 hotdogs
+* Each hotdog weighs 2 ounces
+* So the total weight of Mason's hotdogs is 15 * 2 = 30 ounces
+
+Answer: 30 ounces

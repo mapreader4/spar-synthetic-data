@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of wax Haleigh has in total. She has 5 candles of 20 ounces each, so she has 5 x 20 = 100 ounces of wax. She also has 5 candles of 5 ounces each, so she has 5 x 5 = 25 ounces of wax. Finally, she has 25 candles of 1 ounce each, so she has 25 x 1 = 25 ounces of wax.
+
+In total, Haleigh has 100 + 25 = 125 ounces of wax.
+
+Now, let's find out how many 5 ounce candles she can make. Since each candle requires 5 ounces of wax, we can divide the total wax by 5 ounces per candle. We get 125 ÷ 5 = 25 candles. So, the answer is:
+
+Answer: 25

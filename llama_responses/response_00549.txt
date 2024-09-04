@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. Kenzo has 80 office chairs with five legs each, so the total number of legs is 80 * 5 = 400 legs.
+
+2. Kenzo has 20 round tables with three legs each, so the total number of legs is 20 * 3 = 60 legs.
+
+3. In total, Kenzo has 400 + 60 = 460 legs.
+
+4. After 40% of the legs are damaged and have to be disposed of, 40% of 460 legs will be disposed of. 40% of 460 is 40 * 4 = 1840 / 100 = 18.4. Since 18.4 is not a whole number of legs, we round down to the nearest whole number, which is 18.
+
+5. The total number of legs of furniture Kenzo has remaining is 460 - 18 = 442.
+
+Answer: 442

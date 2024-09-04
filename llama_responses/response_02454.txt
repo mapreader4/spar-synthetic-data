@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's say the number of students wearing striped shirts is x.
+
+The number of students wearing checkered shirts is 2/3 of the total number of students, which is 81.
+
+The number of students wearing shorts is x + 19.
+
+The number of students wearing striped shirts is the difference between the total number of students and the number of students wearing shorts, which is 81 - (x + 19).
+
+The problem statement says that 19 more students are wearing checkered shirts than striped shirts. So, the number of students wearing striped shirts is x - (x + 19).
+
+The number of students wearing striped shirts is x - (x + 19) = 19.
+
+x - (x + 19) = 19
+
+x - x = 38
+
+x = 38 + x
+
+So, the number of students wearing striped shirts is 38.
+
+Answer: 38

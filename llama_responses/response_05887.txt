@@ -1,0 +1,9 @@
+Let's start by identifying the information given in the problem. We know that Nina has four times as much math homework as Ruby, and eight times as much reading homework as Ruby. Ruby has six math homework and two reading homework.
+
+Let's start by identifying the number of math homework Ruby has: 6. Then, we can find the number of math homework Nina has by multiplying the number Ruby has by 4. 6 * 4 = 24.
+
+Next, we identify the number of reading homework Ruby has: 2. Then, we can find the number of reading homework Nina has by multiplying the number Ruby has by 8. 2 * 8 = 16.
+
+Now, we add the number of math homework Nina has (24) to the number of reading homework Nina has (16) to get the total number of homework Nina has: 24 + 16 = 40.
+
+So, Nina has 40 homework altogether.

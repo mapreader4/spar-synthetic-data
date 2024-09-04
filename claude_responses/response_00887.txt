@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) Kyle is 5 years older than Julian.
+2) Julian is 20 years younger than Frederick.
+3) Frederick is 2 times older than Tyson.
+4) Tyson is 20 years old.
+
+First, let's find out how old Frederick is:
+* Frederick is 2 times older than Tyson, and Tyson is 20 years old.
+* Therefore, Frederick is 2 * 20 = 40 years old.
+
+Next, let's find out how old Julian is:
+* Julian is 20 years younger than Frederick.
+* Therefore, Julian is 40 - 20 = 20 years old.
+
+Finally, let's find out how old Kyle is:
+* Kyle is 5 years older than Julian.
+* Julian is 20 years old.
+* Therefore, Kyle is 20 + 5 = 25 years old.
+
+Answer: 25

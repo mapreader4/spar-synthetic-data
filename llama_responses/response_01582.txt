@@ -1,0 +1,13 @@
+Let's break it down step by step:
+
+1. Connie redeemed all her arcade tickets today.
+2. She spent half of them on a stuffed koala bear. This means that Connie spent half of the total number of tickets on the bear, so if we let x be the total number of tickets, then she spent 0.5x on the bear.
+3. She spent 10 tickets on a pair of earbuds.
+4. She spent another 15 tickets on glow bracelets.
+5. We know that the total number of tickets Connie spent on earbuds and bracelets is 10 + 15 = 25.
+6. Since she spent half of the total number of tickets on the bear, and 25 tickets were spent on earbuds and bracelets, we can set up the equation 0.5x + 25 = x.
+7. To solve for x, we add 25 to both sides of the equation and get 0.5x + 25 + 25 = 0.5x + 50.
+8. To solve for x, we subtract 50 from both sides of the equation and get 0.5x = 50.
+9. Finally, to find the value of x, we divide both sides of the equation by 0.5 and get x = 100.
+
+Answer: 100

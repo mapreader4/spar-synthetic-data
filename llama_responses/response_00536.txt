@@ -1,0 +1,25 @@
+Let's break it down step by step.
+
+Let's say the number of votes for the witch cake is x.
+
+The number of votes for the unicorn cake is 3x.
+
+The number of votes for the dragon cake is 7 + 25.
+
+The total number of votes is the sum of the number of votes for the witch cake, the number of votes for the unicorn cake, and the number of votes for the dragon cake.
+
+The total number of votes is x + 3x + (7 + 25).
+
+The total number of votes can be simplified to x + 3x + 32.
+
+We are given that 7 people voted for the witch cake. So, we know that x = 7.
+
+We can substitute x with 7 into the equation for the total number of votes.
+
+The total number of votes is 7 + 3 * 7 + 32.
+
+The total number of votes is 7 + 21 + 32.
+
+The total number of votes is 58.
+
+Answer: 58

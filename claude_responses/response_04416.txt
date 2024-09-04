@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The car-rental agency charges $30/day for a car
+* For a rental that lasts an entire week or longer, the agency charges $190 for the first week
+* Jennie rented a car for 11 days
+
+To calculate the total cost, we need to consider the cost for the first week and the cost for the remaining days.
+
+For the first week (7 days), the cost is $190.
+For the remaining 4 days, the cost is 4 * $30 = $120.
+
+Therefore, the total cost for Jennie's 11-day rental is:
+$190 + $120 = $310
+
+Answer: 310

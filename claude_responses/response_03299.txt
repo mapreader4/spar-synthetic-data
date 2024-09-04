@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Each short-answer question takes 3 minutes to answer
+* Each paragraph takes 15 minutes to write
+* Each essay takes an hour (60 minutes) to write
+* Karen assigns 2 essays and 5 paragraphs
+* The total time for the essays is:
+  - 2 essays x 60 minutes = 120 minutes
+* The total time for the paragraphs is:
+  - 5 paragraphs x 15 minutes = 75 minutes
+* The total time for the essays and paragraphs is:
+  - 120 minutes + 75 minutes = 195 minutes
+* Karen wants to assign 4 hours of homework total
+* 4 hours = 240 minutes
+* The remaining time for short-answer questions is:
+  - 240 minutes - 195 minutes = 45 minutes
+* Each short-answer question takes 3 minutes
+* Therefore, the number of short-answer questions should be:
+  - 45 minutes / 3 minutes per question = 15 questions
+
+Answer: 15

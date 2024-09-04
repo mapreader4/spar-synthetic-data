@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total amount of money Mr. Dubois needs to pay for the car. He pays $5,400 upfront, so we can subtract that from the total cost of the car: $13,380 - $5,400 = $7,980. This is how much more he needs to pay.
+
+Now, Mr. Dubois is paying $420 each month. We can divide the amount he still needs to pay by the monthly payment: $7,980 ÷ $420 = 19 months.
+
+So, the car will be fully paid for in 19 months.

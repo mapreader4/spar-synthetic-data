@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+First, we know that 20 students bought tickets, and each ticket costs $6 for students. So, the total cost for the student tickets is:
+
+20 * 6 = 120
+
+Next, we know that 12 adults bought tickets, and each ticket costs $8 for adults. So, the total cost for the adult tickets is:
+
+12 * 8 = 96
+
+To find the total amount of money spent, we add the cost of the student tickets and the cost of the adult tickets:
+
+120 + 96 = 216
+
+So, the total amount of money worth of tickets sold is $216.

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Johnny has 3 colors of guitar picks: red, blue, and yellow
+* Half of his picks are red
+* One-third of his picks are blue
+* The remaining picks are yellow
+* We know that he has 12 blue picks
+
+First, let's find the total number of picks he has:
+* We know that one-third of his picks are blue, and he has 12 blue picks
+* So, the total number of picks = 12 / (1/3) = 36 picks
+
+Now, let's find the number of red picks:
+* We know that half of his picks are red
+* So, the number of red picks = 36 / 2 = 18 picks
+
+Finally, we can find the number of yellow picks:
+* We know the total number of picks is 36
+* We know the number of red picks is 18
+* We know the number of blue picks is 12
+* So, the number of yellow picks = 36 - 18 - 12 = 6 picks
+
+Answer: 6

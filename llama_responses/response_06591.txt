@@ -1,0 +1,9 @@
+Let's break it down step by step. 
+
+Gabe has 3 songs on his playlist. The total time of the songs is 3 + 2 + 3 = 8 minutes. The ride to his wrestling match is 40 minutes. 
+
+To find the number of times Gabe can listen to his entire playlist, we need to find how many 8 minutes are in 40 minutes. 
+
+40 minutes is 40 * 60 seconds = 2400 seconds. 2400 seconds is 8 * 300 seconds. So, 8 * 300 = 2400 / 8 = 300. 
+
+Answer: 300

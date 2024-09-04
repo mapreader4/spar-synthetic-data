@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Melissa is repairing two shoes
+* For each shoe, it takes her:
+  - 5 minutes to replace the buckle
+  - 10 minutes to even out the heel
+* To calculate the total time for one shoe:
+  - 5 minutes + 10 minutes = 15 minutes
+* To calculate the total time for both shoes:
+  - 15 minutes x 2 shoes = 30 minutes
+
+Answer: 30 minutes

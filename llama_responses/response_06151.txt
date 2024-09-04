@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Justin can run 2 blocks in 1.5 minutes, and he is 8 blocks from home.
+
+To find the time it will take Justin to run home, we need to find the time it takes him to run 8 blocks. We know that it takes him 1.5 minutes to run 2 blocks. To find the time it takes him to run 8 blocks, we can multiply 1.5 minutes by 4, since 2 blocks is half of 8 blocks. So, 1.5 * 4 is 6.
+
+So, it will take Justin 6 minutes to run home.

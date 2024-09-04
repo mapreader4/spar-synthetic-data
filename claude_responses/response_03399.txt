@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The American flag has 13 stripes
+* The first stripe is red
+* Half of the remaining stripes are also red
+* So, the number of red stripes on one flag is:
+  - 1 (the first stripe)
+  - Plus half of the remaining 12 stripes, which is 6
+  - Therefore, the total number of red stripes on one flag is 1 + 6 = 7
+* John buys 10 flags
+* To find the total number of red stripes, we multiply the number of red stripes per flag (7) by the number of flags (10)
+* 7 red stripes per flag x 10 flags = 70 red stripes
+
+Answer: 70

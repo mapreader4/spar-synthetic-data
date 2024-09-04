@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Johnny wrote an essay with 150 words.
+2) Madeline wrote an essay that was double the length of Johnny's, which means it had 150 x 2 = 300 words.
+3) Timothy wrote an essay that had 30 words more than Madeline's, which means it had 300 + 30 = 330 words.
+4) One page contains 260 words.
+5) To find the number of pages each essay fills, we divide the number of words in each essay by the number of words per page (260):
+   - Johnny's essay: 150 words / 260 words per page = 0.577 pages, which rounds up to 1 page.
+   - Madeline's essay: 300 words / 260 words per page = 1.154 pages, which rounds up to 2 pages.
+   - Timothy's essay: 330 words / 260 words per page = 1.269 pages, which rounds up to 2 pages.
+
+Answer: Johnny's essay fills 1 page, Madeline's essay fills 2 pages, and Timothy's essay fills 2 pages.

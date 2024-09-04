@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The games console costs $282
+* Woody already has $42
+* Woody receives an allowance of $24 every week
+* To find how many weeks it will take Woody to save the money he needs, we need to calculate how much more money he needs to save, and then divide that by the amount he saves each week.
+
+First, let's calculate how much more money Woody needs to save:
+* Cost of the games console: $282
+* Amount Woody already has: $42
+* Amount Woody still needs to save: $282 - $42 = $240
+
+Now, let's calculate how much Woody saves each week:
+* Woody's weekly allowance: $24
+
+Finally, to find how many weeks it will take Woody to save the remaining $240, we divide $240 by $24:
+* $240 / $24 = 10 weeks
+
+Answer: 10

@@ -1,0 +1,20 @@
+Let's start by using the information that one box had 72 raisins. Since the other three boxes had the same number of raisins, let's call this number x. We know that the total number of raisins in the four boxes is 437.
+
+We can set up an equation to represent this:
+
+72 + x + x + x = 437
+
+We can subtract 72 from both sides of the equation to get:
+
+x + x + x = 437 - 72
+x + x + x = 365
+
+We can then subtract 1 from both sides of the equation to get:
+
+x + x = 364
+
+We can factor the left side of the equation by taking out the common factor of 4:
+
+4(x) = 364
+
+This means that x = 91. Since we know that the other three boxes have the same number of raisins as the first box, we can conclude that each of the other three boxes has 91 raisins.

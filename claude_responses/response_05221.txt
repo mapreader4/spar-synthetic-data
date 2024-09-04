@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The chef has 60 eggs in total
+* He puts 10 eggs in the fridge, leaving him with 60 - 10 = 50 eggs
+* He uses the remaining 50 eggs to make cakes
+* Each cake requires 5 eggs
+* To find the number of cakes, we divide the total number of eggs used (50) by the number of eggs per cake (5)
+* 50 eggs / 5 eggs per cake = 10 cakes
+
+Answer: 10

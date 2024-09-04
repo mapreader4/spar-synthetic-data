@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John climbs up 9 flights of stairs
+* Each flight is 10 feet
+* Each step is 18 inches
+
+To calculate the total number of steps, we need to first find the total height of the stairs:
+* 9 flights x 10 feet per flight = 90 feet
+
+Now, we need to convert the total height from feet to inches:
+* 90 feet x 12 inches per foot = 1080 inches
+
+Finally, we divide the total height in inches by the height of each step (18 inches) to get the total number of steps:
+* 1080 inches / 18 inches per step = 60 steps
+
+Answer: 60

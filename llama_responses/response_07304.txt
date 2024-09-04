@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Initially, there are 2400 pollywogs in the pond.
+
+Every day, 50 pollywogs mature into toads and leave the pond. This means that the number of pollywogs in the pond decreases by 50 each day.
+
+For the first 20 days, Melvin catches 10 pollywogs per day and releases them into the stream. This means that the number of pollywogs in the pond decreases by 50 - 10 = 40 pollywogs per day for the first 20 days.
+
+So, after 20 days, the number of pollywogs in the pond is 2400 - (20 x 40) = 2000.
+
+After the first 20 days, there are no more pollywogs being caught by Melvin, so the number of pollywogs in the pond decreases by 50 per day.
+
+It will take 40 more days for the remaining 2000 pollywogs to disappear from the pond, since 2000 / 50 = 40.
+
+Adding the 20 days when Melvin was catching pollywogs to the 40 days it takes for the remaining pollywogs to disappear, we get a total of 20 + 40 = 60 days.
+
+Answer: 60

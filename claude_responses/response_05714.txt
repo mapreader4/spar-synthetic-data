@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each sausage sandwich comes with 4 strips of jalapeno pepper
+* 1 jalapeno pepper makes 8 slices
+* The Sandwich Shop serves a sandwich every 5 minutes
+* The Sandwich Shop operates for 8 hours (480 minutes) in a day
+
+First, let's calculate how many sandwiches the Sandwich Shop serves in an 8-hour day:
+* 480 minutes / 5 minutes per sandwich = 96 sandwiches
+
+Next, let's calculate how many strips of jalapeno pepper are needed for all 96 sandwiches:
+* 4 strips per sandwich x 96 sandwiches = 384 strips of jalapeno pepper
+
+Finally, let's calculate how many jalapeno peppers are required to make 384 strips:
+* 384 strips / 8 strips per pepper = 48 jalapeno peppers
+
+Answer: 48 jalapeno peppers are required by the Sandwich Shop to serve all customers during an 8-hour day.

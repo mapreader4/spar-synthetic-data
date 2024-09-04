@@ -1,0 +1,5 @@
+Let's start by counting the number of flowers of each color. We know that there are 125 seeds for each color. However, some of these flowers were killed by the fungus, so we need to subtract the number of flowers that were killed from the total. The number of red flowers that were killed is 45, so we subtract 45 from the 125 red flowers to get 80. The number of yellow flowers that were killed is 61, so we subtract 61 from the 125 yellow flowers to get 64. The number of orange flowers that were killed is 30, so we subtract 30 from the 125 orange flowers to get 95. The number of purple flowers that were killed is 40, so we subtract 40 from the 125 purple flowers to get 85.
+
+Now, let's add up the number of flowers of each color. We have 80 red flowers, 64 yellow flowers, 95 orange flowers, and 85 purple flowers. To get the total number of flowers, we add these up: 80 + 64 + 95 + 85 = 229.
+
+Now, the florist can make 229 bouquets with the remaining flowers.

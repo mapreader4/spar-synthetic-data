@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The total number of people in the church was 200
+* The number of children present was 80
+* The number of male adults present was 60
+* To find the number of female adults, we need to subtract the number of children and male adults from the total number of people
+
+First, let's calculate the total number of adults:
+* Total number of people = 200
+* Number of children = 80
+* Number of adults = Total number of people - Number of children
+* Number of adults = 200 - 80 = 120
+
+Now, we know the number of male adults is 60, so the number of female adults must be the remaining adults:
+* Number of female adults = Total number of adults - Number of male adults
+* Number of female adults = 120 - 60 = 60
+
+Answer: 60

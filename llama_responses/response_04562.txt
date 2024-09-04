@@ -1,0 +1,9 @@
+Let's solve the problem step by step.
+
+Let's first find the total number of holes that Maynard dug in the lawn. We know that Maynard dug 8 holes, but then he filled in 75% of the holes with dirt. 
+
+We can find the total number of holes by multiplying the number of holes by the fraction 75%: 8 * 0.75 = 6. 
+
+So, 6 holes are filled in with dirt, and 2 holes are unfilled. 
+
+Answer: 2

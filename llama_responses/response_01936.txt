@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. First, we know that everyone puts 5 dollars into the pot. So, the total amount in the pot is 7 * 5 = 35 dollars.
+
+2. We know that the first person gets 80% of the money.  80% of 35 dollars is 0.8 * 35 = 28.
+
+3. The remaining money is 35 - 28 = 7. So, the money left is split between the second and third place.
+
+4. The second and third place split the remaining money equally. So, the money each gets is 7 / 2 = 3.5 dollars.
+
+Answer: 3.

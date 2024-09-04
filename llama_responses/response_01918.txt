@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the height from the ground to the top of the building. Since the building is 96 feet tall, and the ball bounces to half the height from which it fell on each bounce, we know that the ball will bounce to 48 feet on the first bounce.
+
+On the second bounce, it will bounce to half of that, which is 24 feet. On the third bounce, it will bounce to half of that, which is 12 feet. On the fourth bounce, it will bounce to half of that, which is 6 feet. And on the fifth bounce, it will bounce to half of that, which is 3 feet.
+
+So, the ball will bounce to 3 feet on the fifth bounce. So, the answer is:
+
+Answer: 3

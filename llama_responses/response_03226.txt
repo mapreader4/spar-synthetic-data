@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Wade makes $2.00 in tips per customer, and he served:
+
+* 28 customers on Friday
+* 3 x 28 = 84 customers on Saturday
+* 36 customers on Sunday
+
+So, the total number of customers he served is 28 + 84 + 36 = 148 customers.
+
+Since he makes $2.00 in tips per customer, the total tips he made is:
+
+148 customers * $2.00 per customer = $296.00
+
+Answer: 296

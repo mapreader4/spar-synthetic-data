@@ -1,0 +1,15 @@
+Let's start by identifying the total number of cards Jim gave away.
+
+Jim gave 8 sets to his brother.
+8 sets of cards = 8 x 13 = 104 cards
+
+Jim gave 5 sets to his sister.
+5 sets of cards = 5 x 13 = 65 cards
+
+Jim gave 2 sets to his friend.
+2 sets of cards = 2 x 13 = 26 cards
+
+The total number of cards Jim gave away is the sum of the number of cards he gave to his brother, his sister, and his friend.
+104 + 65 + 26 = 195
+
+Answer: 195

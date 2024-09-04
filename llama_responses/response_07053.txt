@@ -1,0 +1,13 @@
+Let's start by analyzing the information given. The magician has 20 red marbles in the red hat and 30 blue marbles in the blue hat. 
+
+He takes away 3 red marbles, so now he has 20 - 3 = 17 red marbles left.
+
+Then, he takes away 4 times as many blue marbles as red marbles, which is 4 x 3 = 12 blue marbles. So, the magician takes away 12 blue marbles. 
+
+The magician now has 30 - 12 = 18 blue marbles left. 
+
+Now, let's add the remaining red and blue marbles together. 
+
+17 red marbles + 18 blue marbles = 35 marbles.
+
+Answer: 35

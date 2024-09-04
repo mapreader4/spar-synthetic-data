@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Hanna has $300 to spend on roses.
+2) Each rose costs $2.
+3) Hanna wants to give some of the roses to her friends Jenna and Imma.
+4) Jenna will receive 1/3 of the roses.
+5) Imma will receive 1/2 of the roses.
+6) To find the total number of roses Hanna can buy with $300, we divide $300 by $2 per rose:
+   $300 / $2 per rose = 150 roses
+7) To find how many roses Jenna will receive, we take 1/3 of the total roses:
+   1/3 of 150 roses = 50 roses
+8) To find how many roses Imma will receive, we take 1/2 of the total roses:
+   1/2 of 150 roses = 75 roses
+9) Therefore, the total number of roses Hanna gives to her friends is:
+   50 roses (Jenna) + 75 roses (Imma) = 125 roses
+
+Answer: 125

@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) The concert ticket costs $40 per ticket.
+2) Mr. Benson bought 12 tickets.
+3) He received a 5% discount for every ticket bought that exceeds 10.
+4) The number of tickets that exceed 10 is 12 - 10 = 2.
+5) The discount for each of those 2 tickets is 5% of $40, which is $2 per ticket.
+6) The total discount is 2 * $2 = $4.
+7) The total cost without the discount would be 12 * $40 = $480.
+8) The total cost with the discount is $480 - $4 = $476.
+
+Answer: 476

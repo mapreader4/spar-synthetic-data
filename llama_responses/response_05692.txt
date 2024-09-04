@@ -1,0 +1,31 @@
+Let's break this down step by step.
+
+Let's start by letting x be the father's age. Then, 5 years ago, the sum of Sebastian's age and his sister's age was 3/4 of the father's age. So, 5 years ago, the sum of their ages was (3/4)*x.
+
+Let's represent Sebastian's age as s and his sister's age as s - 10. So, 5 years ago, the sum of their ages was s + (s - 10).
+
+Now, we know that 5 years ago, the sum of their ages was 3/4 of the father's age. So, we can set up an equation.
+
+(3/4)*x = s + (s - 10)
+
+We know that Sebastian is 10 years younger than his father. So, we can substitute x = x - 10.
+
+Now, we can solve for x.
+
+x - 10 = 3/4*x - 10
+
+We can simplify this by multiplying both sides by 4.
+
+4*(x - 10) = 3*x - 40
+
+We can solve for x.
+
+x = (40 + 10)/3
+
+x = 30
+
+Now, we can find the father's age today.
+
+The father is 30 + 5 = 35.
+
+Answer: 35

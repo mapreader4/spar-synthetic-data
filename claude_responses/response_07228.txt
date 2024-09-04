@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Last year, Pete read twice as many books as Matt did.
+   * If Matt read 75 books in his second year, then in his first year he read 75 / 1.5 = 50 books.
+   * Therefore, last year Pete read 2 * 50 = 100 books.
+
+2. This year, Pete doubles the number of books he read last year.
+   * This year, Pete reads 2 * 100 = 200 books.
+
+3. This year, Matt reads 50% more than he did last year.
+   * Last year, Matt read 50 books.
+   * This year, Matt reads 50 * 1.5 = 75 books.
+
+4. The total number of books Pete reads across both years is:
+   * Pete's books in year 1 + Pete's books in year 2 = 100 + 200 = 300 books.
+
+Answer: 300

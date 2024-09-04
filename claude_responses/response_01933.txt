@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Wendy went to the dentist for a cleaning, two fillings, and a tooth extraction.
+2) The dentist charges $70 for a cleaning and $120 for a filling.
+3) Wendy's dentist bill was five times the cost of a filling.
+4) Let's calculate the cost of the fillings first:
+   - 2 fillings at $120 each = $240
+5) Now, let's calculate the total cost of the dentist bill:
+   - Total cost = 5 x $120 = $600
+6) To find the cost of the tooth extraction, we need to subtract the cost of the cleaning and fillings from the total cost:
+   - Cost of tooth extraction = $600 - $70 - $240 = $290
+
+Answer: $290

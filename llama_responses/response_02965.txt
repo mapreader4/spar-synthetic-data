@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Bertha starts with 2 balls.
+2. Every 10 games, she loses a ball. This means that after 10 games, she has 2 - 1 = 1 ball.
+3. Every 5 games, she buys a canister of 3 balls. So, after 5 games, she has 1 ball, and after 10 games, she has 1 - 1 = 0 balls.
+4. After 20 games, she gave one ball to her partner. This means that she gave away 1 ball, so she has 0 balls left.
+5. So, the answer is: Answer: 0

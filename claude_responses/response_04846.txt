@@ -1,0 +1,20 @@
+To solve this problem, we need to find the number of times the bacterial population doubles in 4 hours and then calculate the final number of bacterial cells.
+
+Given information:
+- The doubling time of the E.coli bacterial strain is 20 minutes.
+- The culture is grown for 4 hours.
+
+Step 1: Convert the time from hours to minutes.
+4 hours = 4 × 60 minutes = 240 minutes
+
+Step 2: Find the number of times the bacterial population doubles in 240 minutes.
+Number of doublings = 240 minutes / 20 minutes per doubling = 12 doublings
+
+Step 3: Calculate the final number of bacterial cells.
+Initial number of bacterial cells = 1
+Final number of bacterial cells = Initial number of bacterial cells × 2^(number of doublings)
+Final number of bacterial cells = 1 × 2^12 = 4,096
+
+Therefore, after the culture is grown for 4 hours, there will be 4,096 bacterial cells.
+
+Answer: 4,096

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Aubrey starts with a deck of 52 cards.
+2) She then adds 2 additional cards to the deck, so the total number of cards is now 52 + 2 = 54.
+3) Aubrey is splitting the deck evenly among herself and two other players.
+4) To find the number of cards each player has, we divide the total number of cards (54) by the number of players (3).
+5) 54 ÷ 3 = 18.
+
+Answer: 18

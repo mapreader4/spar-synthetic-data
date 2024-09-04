@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. Jesse starts with an unknown number of building blocks. Let's call this number x.
+2. He builds a building with 80 building blocks, so he uses 80 building blocks. This means he has x - 80 building blocks left.
+3. Then, he builds a farmhouse with 123 building blocks, so he uses 123 building blocks. This means he has (x - 80) - 123 building blocks left.
+4. After building the fenced-in area, he has 84 building blocks left. This means that (x - 80) - 123 = 84, so x - 80 = 203.
+
+Answer: 203

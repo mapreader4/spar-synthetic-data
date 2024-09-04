@@ -1,0 +1,5 @@
+We know the current population of Mojave is 4000. The population increases three times is 3 * 4000 = 12000. After 5 years, it will increase 40% of this, so we can calculate the population after 5 years as follows:
+
+12000 * 1.4 = 16800.
+
+Answer: 16800

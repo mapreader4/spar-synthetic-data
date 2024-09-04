@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* James buys 10 boxes of Capri-sun
+* Each box has 6 pouches
+* So the total number of pouches James bought is 10 boxes x 6 pouches per box = 60 pouches
+* James paid $12 for the 60 pouches
+* To find the cost per pouch, we divide the total cost ($12) by the total number of pouches (60)
+* $12 / 60 pouches = $0.20 per pouch
+* To convert this to cents, we multiply by 100:
+* $0.20 per pouch x 100 cents/dollar = 20 cents per pouch
+
+Answer: 20 cents

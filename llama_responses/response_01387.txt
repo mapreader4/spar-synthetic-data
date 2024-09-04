@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of pieces of gum they have.
+
+John has 54 pieces of gum and Cole has 45 pieces of gum. To find the total number of pieces of gum they have, we add the number of pieces of gum they have:
+
+54 + 45 = 99
+
+So, the total number of pieces of gum is 99.
+
+Since they want to share the gum equally, they will divide the 99 pieces of gum by 3.
+
+To divide 99 by 3, we can use the division algorithm:
+
+99 ÷ 3 = 33
+
+So, each of them will get 33 pieces of gum.
+
+Answer: 33

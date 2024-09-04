@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The library has a collection of 100 historical novels on the shelf.
+* On the first day, 5 people borrow 2 books each from the shelf.
+* To calculate the number of books borrowed on the first day, we multiply the number of people (5) by the number of books each person borrowed (2):
+  * 5 people x 2 books each = 10 books borrowed on the first day.
+* On the second day, 20 more books are borrowed from the shelf.
+* To calculate the total number of books borrowed over the two days, we add the number of books borrowed on the first day (10) to the number of books borrowed on the second day (20):
+  * 10 books + 20 books = 30 books borrowed in total.
+* To calculate the number of books remaining on the shelf after the second day, we take the initial number of books on the shelf (100) and subtract the total number of books borrowed (30):
+  * 100 books - 30 books = 70 books remaining on the shelf.
+
+Answer: 70

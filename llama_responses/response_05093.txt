@@ -1,0 +1,14 @@
+Let's start by identifying the number of times Matt rode during the two weeks. Matt rode 8 times with Maurice, and 16 additional times. So, the total number of times Matt rode is 8 + 16 = 24.
+
+The problem states that the total number of times Matt rode is three times the number of times Maurice had ridden before his visit. Let's call the number of times Maurice had ridden before his visit "x". Then, the total number of times Matt rode can be written as 3x.
+
+We know that the total number of times Matt rode is 24, so we can set up the equation:
+
+3x = 24
+
+To solve for x, we can divide both sides of the equation by 3:
+
+x = 24 / 3
+x = 8
+
+So, Maurice had ridden 8 times before visiting Matt.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The first floor has 3 rooms, each costing $15 per month
+* The second floor has 3 rooms, each costing $20 per month
+* The third floor has 3 rooms, but only 2 are occupied, and each room costs twice as much as the first floor rooms, which is $30 per month
+* To calculate the total monthly earnings:
+* First floor: 3 rooms x $15 = $45
+* Second floor: 3 rooms x $20 = $60
+* Third floor: 2 rooms x $30 = $60
+* Total monthly earnings = $45 + $60 + $60 = $165
+
+Answer: $165

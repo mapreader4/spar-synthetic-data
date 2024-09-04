@@ -1,0 +1,25 @@
+Let's break it down step by step.
+
+Let's start by calculating the cost of the 80 games that Daniel bought for $12 each.
+
+80 * 12 = 960
+
+Then, let's calculate the cost of the 50 games that Daniel bought for $7.
+
+50 * 7 = 350
+
+The total cost of these two types of games is:
+
+960 + 350 = 1310
+
+Now, let's calculate the cost of the remaining games that had a price of $3 each.
+
+The total number of these games is 346 - 80 - 50 = 196.
+
+196 * 3 = 588
+
+So, the total cost of all the games in Daniel's collection is:
+
+1310 + 588 = 1898
+
+Answer: 1898

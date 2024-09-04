@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The quilt size is 16 feet by 20 feet, which means the total area of the quilt is 16 x 20 = 320 square feet.
+2) Each patch is 4 square feet, so we need to find how many patches are required to cover the 320 square feet.
+3) 320 square feet / 4 square feet per patch = 80 patches.
+4) The first 10 patches cost $10 each, so the cost of the first 10 patches is 10 x $10 = $100.
+5) The remaining 70 patches cost half as much, which is $5 each, so the cost of the remaining 70 patches is 70 x $5 = $350.
+6) The total cost of the patches is $100 + $350 = $450.
+
+Answer: $450

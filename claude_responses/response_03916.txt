@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Thomas has been saving $40 per month for 6 years
+* 6 years = 72 months
+* So, the total amount Thomas has saved is:
+    * $40 per month x 72 months = $2,880
+* Joseph has been saving 2/5 times less money per month than Thomas
+* 2/5 of $40 is $16
+* So, Joseph has been saving $40 - $16 = $24 per month
+* Joseph has also been saving for 72 months
+* So, the total amount Joseph has saved is:
+    * $24 per month x 72 months = $1,728
+* The total amount they have saved together is:
+    * $2,880 + $1,728 = $4,608
+
+Answer: 4,608

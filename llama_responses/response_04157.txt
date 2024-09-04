@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of biscuits needed. The Junior League club has 18 members, and each member will get 2 biscuits, so the total number of biscuits needed is 18 * 2 = 36.
+
+Now, we need to find out how many cups of flour are needed to make 36 biscuits. According to the problem, 1 1/4 cup flour makes 9 biscuits. So, to find the number of cups of flour needed, we can set up a proportion.
+
+Let's set up a proportion: 9 biscuits / 1 1/4 cup = x biscuits / x cups. To find the number of cups needed, we can cross-multiply: 9 x x = 36 biscuits. To get x, we can divide both sides of the equation by 9: x = 36 / 9 = 4.
+
+So, Lady Bird will need 4 cups of flour to make the biscuits.

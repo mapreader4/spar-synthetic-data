@@ -1,0 +1,18 @@
+Let's break down the pizza order:
+
+* Ruby's son wants a pepperoni pizza, which is 1 pizza and 1 topping (pepperoni).
+* Ruby's daughter wants a sausage pizza, which is 1 pizza and 1 topping (sausage).
+* Ruby and her husband want a black olive and mushroom pizza, which is 1 pizza and 2 toppings (black olive and mushroom).
+
+So, in total, Ruby needs to order 3 pizzas and 4 toppings.
+
+The cost of each pizza is $10.00, so the total cost of the pizzas is:
+3 pizzas x $10.00 per pizza = $30.00
+
+The cost of each topping is $1.00, so the total cost of the toppings is:
+4 toppings x $1.00 per topping = $4.00
+
+The total cost of the pizza order, including the tip, is:
+$30.00 (pizzas) + $4.00 (toppings) + $5.00 (tip) = $39.00
+
+Answer: 39

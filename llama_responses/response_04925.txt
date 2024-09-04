@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Bernie starts with 18 postcards.
+He sells half of his postcards, which is 18 / 2 = 9 postcards.
+He earns 9 x 15 = 135 dollars.
+He then spends all the money to buy postcards for 5 dollars each. Since he buys postcards for 5 dollars each, he buys 135 / 5 = 27 postcards.
+He now has 18 - 9 + 27 = 36 postcards left.
+
+Answer: 36

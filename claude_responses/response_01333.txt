@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+* Louise needs 60 cakes in total
+* She has already produced half of this amount, which is 60 / 2 = 30 cakes
+* So, she has 60 - 30 = 30 cakes left to make
+* Today, she bakes half of the remaining 30 cakes, which is 30 / 2 = 15 cakes
+* So, she now has 30 - 15 = 15 cakes left to make
+* The next day, she bakes a third of the remaining 15 cakes, which is 15 / 3 = 5 cakes
+* So, she now has 15 - 5 = 10 cakes left to make
+
+Answer: 10

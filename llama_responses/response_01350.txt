@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. We know that John has 4 jars of 10 caterpillars each. So, the total number of caterpillars is 4 x 10 = 40.
+
+2. 40 caterpillars become butterflies, but 40% of them fail to become butterflies. This means that 40% of 40 is equal to 16 caterpillars fail to become butterflies.
+
+3. The remaining 24 caterpillars become butterflies. So, the number of butterflies is 24.
+
+4. John sells the butterflies for $3 each. So, the total amount of money John makes is 24 x $3 = $72.
+
+Answer: 72

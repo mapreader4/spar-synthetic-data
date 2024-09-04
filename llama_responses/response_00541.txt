@@ -1,0 +1,16 @@
+Let's break down the problem step by step.
+
+Tonya has 2 sisters, and she wants to spend the same amount on each. She buys 4 dolls that cost $15 each for her younger sister, so the total cost for the dolls is 4 x $15 = $60. She plans to buy lego sets for her older sister. The cost of each lego set is $20.
+
+Let's think about the total amount Tonya has for her older sister. She has $60 for the dolls and wants to spend the same amount on the lego sets. To find the number of lego sets, we can set up an equation.
+
+Let x be the number of lego sets Tonya buys. We know that the total cost of the lego sets is equal to the total amount she has for her older sister, which is $60. So, we can set up the equation as follows:
+
+20x = 60
+
+To solve for x, we can divide both sides of the equation by 20:
+
+x = 60 / 20
+x = 3
+
+Answer: 3

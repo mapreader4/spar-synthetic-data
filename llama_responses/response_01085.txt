@@ -1,0 +1,5 @@
+Let's count the number of suitcases the family is bringing:
+
+The 4 siblings are bringing 4 * 2 = 8 suitcases, and the 2 parents are bringing 3 suitcases. In total, the family is bringing 8 + 3 = 11 suitcases.
+
+Answer: 11

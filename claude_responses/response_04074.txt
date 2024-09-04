@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mr. Doré bought:
+    - $140 worth of pants
+    - $43 shirt
+    - $15 tie
+* So the total amount he spent is:
+    - $140 + $43 + $15 = $198
+* He paid with a $200 bill
+* To calculate the amount he will get back, we take the amount he paid ($200) and subtract the total amount he spent ($198)
+* $200 - $198 = $2
+
+Answer: 2

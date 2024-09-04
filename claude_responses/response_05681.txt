@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jill bought 5 packs of red bouncy balls.
+2) Each pack of red bouncy balls contains 18 balls.
+3) So the total number of red bouncy balls Jill bought is 5 packs x 18 balls per pack = 90 red bouncy balls.
+4) Jill bought 4 packs of yellow bouncy balls.
+5) Each pack of yellow bouncy balls contains 18 balls.
+6) So the total number of yellow bouncy balls Jill bought is 4 packs x 18 balls per pack = 72 yellow bouncy balls.
+7) To find the difference between the number of red and yellow bouncy balls, we subtract the number of yellow bouncy balls from the number of red bouncy balls.
+8) 90 red bouncy balls - 72 yellow bouncy balls = 18 more red bouncy balls than yellow bouncy balls.
+
+Answer: 18

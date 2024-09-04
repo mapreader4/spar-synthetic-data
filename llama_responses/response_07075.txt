@@ -1,0 +1,5 @@
+Let's start by identifying the information given to us. We know that each pack has 20 grams of sugar left, and there are 12 packs. So, to find the total number of grams of sugar left, we can multiply 20 grams by 12 packs to get 240 grams of sugar left.
+
+Now, we need to find the total number of grams of sugar the owner started with. To do this, we can subtract the grams of sugar left (240) from the total grams of sugar divided into packs (250 * 12), which is 3000 grams. So, the answer is:
+
+Answer: 3000 - 240 = 2760.

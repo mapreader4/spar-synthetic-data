@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Valerie's cookie recipe makes 16 dozen cookies and requires 4 pounds of butter.
+* 1 dozen = 12 cookies, so 16 dozen = 16 x 12 = 192 cookies.
+* Valerie only wants to make 4 dozen cookies.
+* 4 dozen = 4 x 12 = 48 cookies.
+* The ratio of cookies to butter is 192 cookies to 4 pounds of butter.
+* To find the amount of butter needed for 48 cookies, we can set up a proportion:
+192 cookies / 4 pounds of butter = 48 cookies / x pounds of butter
+* Solving for x, we get:
+x = (48 * 4) / 192 = 1 pound of butter.
+
+Answer: 1 pound of butter.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: There are 5 dozen eggs in one store and 30 eggs in another store each day. So, the total number of eggs in one day is 5 + 30 = 35.
+
+Step 2: Since there are 7 days in a week, we need to multiply the number of eggs in one day by 7.
+
+Step 3: 35 eggs per day multiplied by 7 days in a week is 35 * 7 = 245.
+
+Answer: 245

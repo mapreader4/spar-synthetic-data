@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: The printer crumples every seventh page. So, the pages that are not crumpled are multiples of 7.
+
+Step 2: The printer blurs the ink on every third page. So, the pages that are not blurred are multiples of 3.
+
+Step 3: The problem states that James prints 42 pages. We need to find the number of pages that are neither crumpled nor blurred.
+
+Step 4: The multiples of 7 that are not blurred are 7, 14, 21, 28, 35, and 42. The multiples of 3 that are not crumpled are 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, and 42.
+
+Step 5: The pages that are neither crumpled nor blurred are the pages that are not multiples of 7 nor multiples of 3. The common multiples are 21, 28, and 42.
+
+Answer: 3

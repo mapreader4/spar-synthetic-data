@@ -1,0 +1,38 @@
+Let's break this problem down step by step.
+
+First, let's find the total weight of the cans Jenny can carry. Since each can weighs 2 ounces, and she can carry a total of 20 cans, the total weight of the cans is:
+
+20 cans x 2 ounces/can = 40 ounces
+
+Next, let's find the total weight of the bottles Jenny can carry. Since each bottle weighs 6 ounces, and she can carry as many bottles as she can carry, let's assume she can carry a total of x bottles. The total weight of the bottles is then:
+
+x bottles x 6 ounces/bottle = 6x ounces
+
+The total weight of the cans and bottles together is the sum of the weight of the cans and the weight of the bottles:
+
+40 ounces (cans) + 6x ounces (bottles) = 100 ounces
+
+Since Jenny can carry a total of 100 ounces, we can set up an equation:
+
+40 + 6x = 100
+
+To solve for x, we can subtract 40 from both sides:
+
+6x = 100 - 40
+6x = 60
+
+So x = 10
+
+Now that we know Jenny can carry 10 bottles, we can find the total money she makes. Each bottle is paid 10 cents, so:
+
+10 bottles x 10 cents/bottle = 100 cents
+
+Each can is paid 3 cents, and Jenny can carry 20 cans. The total money she makes from cans is:
+
+20 cans x 3 cents/can = 60 cents
+
+The total money Jenny makes is the sum of the money from the bottles and the money from the cans:
+
+100 cents (bottles) + 60 cents (cans) = 160 cents
+
+Answer: 160

@@ -1,0 +1,5 @@
+To find the total number of cups of water needed to fill up 10 whole bottles and 5 half-capacity bottles, we need to calculate the total number of cups of water needed for 15 bottles.
+
+Each whole bottle can hold 2 cups of water, and a half-capacity bottle can hold 1 cup of water. So, for 10 whole bottles, we need 10 * 2 = 20 cups of water. For the 5 half-capacity bottles, we need 5 * 0.5 = 2.5 cups of water.
+
+So, the total number of cups of water needed is 20 + 2.5 = 22.5 cups.

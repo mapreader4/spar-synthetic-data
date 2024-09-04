@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Kevin has a shoebox filled with toads
+* Each toad is fed 3 worms per day
+* It takes Kevin 15 minutes to find each worm
+* It takes Kevin 6 hours to find enough worms to feed all of his toads
+
+First, let's calculate how many worms Kevin needs to find in total:
+* 6 hours = 360 minutes
+* 360 minutes / 15 minutes per worm = 24 worms per day
+
+Now, let's calculate how many toads Kevin has in his shoebox:
+* 24 worms per day / 3 worms per toad = 8 toads per day
+* Since it takes Kevin 6 hours to find enough worms to feed all of his toads, he must have 8 toads in his shoebox.
+
+Answer: 8

@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+
+1. Salaria has 50% of tree A and 50% of tree B.
+2. Tree A gives her 10 oranges a month, and 60% of them are good.
+   * So, for Tree A, she gets 10 * 0.6 = 6 good oranges per month.
+3. Tree B gives her 15 oranges a month, and 1/3 of them are good.
+   * So, for Tree B, she gets 15 * (1/3) = 5 good oranges per month.
+4. In total, she gets 6 + 5 = 11 good oranges per month from both types of trees.
+5. We know that she gets 55 good oranges per month.
+6. To find the total number of trees, we need to set up an equation:
+   * 11 good oranges per month / tree = 55 good oranges per month
+   * Therefore, the total number of trees = 55 / 11 = 5 trees
+
+Answer: 5 trees

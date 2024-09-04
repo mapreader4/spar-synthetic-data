@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The pumpkin patch charges $3 per person for a pumpkin
+* They made $96 selling pumpkins for carving
+* To find the number of pumpkins sold for carving, we divide the total revenue by the price per pumpkin:
+$96 / $3 per pumpkin = 32 pumpkins sold for carving
+* They grew a total of 83 pumpkins this year
+* To find the number of pumpkins remaining for pie filling, we subtract the number of pumpkins sold for carving from the total pumpkins grown:
+83 total pumpkins - 32 pumpkins sold for carving = 51 pumpkins remaining
+* They make 3 pumpkins into 1 can of pie filling
+* To find the number of cans of pie filling, we divide the number of remaining pumpkins by 3:
+51 pumpkins / 3 pumpkins per can = 17 cans of pie filling
+
+Answer: 17

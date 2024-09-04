@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Liam has 10 students in his art class
+* He has 20 art kits that he hands out, 1 art kit for 2 students
+* Half the students (5 students) make 3 artworks each
+* The other half of the students (5 students) make 4 artworks each
+
+First, let's calculate the number of artworks made by the 5 students who made 3 artworks each:
+* 5 students x 3 artworks each = 15 artworks
+
+Next, let's calculate the number of artworks made by the 5 students who made 4 artworks each:
+* 5 students x 4 artworks each = 20 artworks
+
+Now, we add the two numbers together to get the total number of artistic works created by the whole class:
+* 15 artworks + 20 artworks = 35 artworks
+
+Answer: 35

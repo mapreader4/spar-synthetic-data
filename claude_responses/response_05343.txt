@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Gillian's usual phone bill is $50 per month.
+2) The monthly bill increases by 10%.
+3) To calculate the new monthly bill, we take the original bill of $50 and increase it by 10%:
+   $50 + (10% of $50) = $50 + ($50 * 0.10) = $50 + $5 = $55
+4) So Gillian's new monthly phone bill is $55.
+5) To calculate the total phone bill for the entire next year, we multiply the new monthly bill of $55 by 12 months:
+   $55 * 12 = $660
+
+Answer: $660

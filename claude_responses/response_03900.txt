@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+* We have 15 workers who worked for 6 days and earned a total of $9450
+* To find the daily wage of each worker, we divide the total wages by the number of worker-days:
+   - 15 workers x 6 days = 90 worker-days
+   - $9450 / 90 worker-days = $105 per worker-day
+* Now, we want to find the wages for 19 workers for 5 days
+* The number of worker-days is 19 workers x 5 days = 95 worker-days
+* To calculate the total wages, we multiply the number of worker-days by the daily wage:
+   - 95 worker-days x $105 per worker-day = $9975
+
+Answer: $9975

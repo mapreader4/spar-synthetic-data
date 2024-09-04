@@ -1,0 +1,15 @@
+Let's break this down step by step:
+
+1. Shara borrowed money 6 months ago. Let's call the amount she borrowed "x".
+
+2. She returns $10 per month to her brother. So, after 6 months, she returns 6 * 10 = 60 dollars.
+
+3. Currently, she has returned half of the money she borrowed. So, she has returned 60 / 2 = 30 dollars.
+
+4. She still owes her brother the remaining amount. Since she has returned 30 dollars, she still owes the rest of the amount.
+
+5. Since she owes her brother 4 months from now, we need to calculate how much she owes after 4 months of $10 per month. 4 * 10 = 40.
+
+6. We need to subtract the 30 dollars she has already returned from the total amount she owes. So, the remaining amount she owes is 40 - 30 = 10.
+
+Answer: 10

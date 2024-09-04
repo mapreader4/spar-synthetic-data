@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) John travels 1 foot vertically for every 2 feet horizontally.
+2) His elevation increases from 100 feet to 1450 feet.
+3) To find the horizontal distance, we can set up a proportion:
+   Vertical distance / Horizontal distance = 1 / 2
+   (1450 feet - 100 feet) / Horizontal distance = 1 / 2
+4) Solving for the horizontal distance, we get:
+   Horizontal distance = (1450 feet - 100 feet) * 2 = 2700 feet.
+
+Answer: 2700

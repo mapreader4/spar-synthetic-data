@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* A bar of steel weighs twice the mass of a bar of tin.
+* A steel bar also weighs 20 kgs more than a copper bar.
+* A copper bar weighs 90 kgs.
+
+Let's say the mass of a bar of tin is x kgs. Then, the mass of a steel bar is 2x kgs.
+Then, the mass of a copper bar is 90 - 20 = 70 kgs.
+
+Now, we need to calculate the total weight of a container with 20 bars of each type of metal. For each type of metal, the mass is the mass of the metal multiplied by the number of bars. So, the total weight of a container with 20 bars of each type of metal is:
+
+Steel: 20 x (2x) = 40x kgs
+Copper: 20 x 70 = 1400 kgs
+
+The total weight of the container with 20 bars of each type of metal is 40x + 1400 = 1440 kgs.
+
+Answer: 1440

@@ -1,0 +1,23 @@
+To solve this problem, we need to calculate the total distance the flag moved up and down the flagpole throughout the day.
+
+Given information:
+- The flagpole is 60 feet long.
+- The flag is initially raised to the top of the pole.
+- The flag is then lowered to half-mast, which is halfway down the pole.
+- The flag is then raised back to the top of the pole.
+- Finally, the flag is completely lowered and taken off the pole.
+
+Step 1: Calculate the distance the flag moved when it was lowered to half-mast.
+Distance moved = 60 feet (full length of the pole) / 2 = 30 feet
+
+Step 2: Calculate the distance the flag moved when it was raised back to the top of the pole.
+Distance moved = 30 feet (from half-mast to the top)
+
+Step 3: Calculate the distance the flag moved when it was completely lowered and taken off the pole.
+Distance moved = 60 feet (full length of the pole)
+
+Step 4: Calculate the total distance the flag moved up and down the pole.
+Total distance = Distance moved when lowered to half-mast + Distance moved when raised to the top + Distance moved when completely lowered
+Total distance = 30 feet + 30 feet + 60 feet = 120 feet
+
+Answer: 120 feet

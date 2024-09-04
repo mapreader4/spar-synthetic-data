@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by finding the marks scored by Tatuya. Since Tatuya scored twice as much as Ivanna, and Ivanna scored 3/5 times as many marks as Dorothy, we know that Tatuya scored 2 * (3/5) * Dorothy's marks.
+
+We know that Dorothy scored 90 marks. So, we can substitute Dorothy's marks into the equation:
+
+2 * (3/5) * 90 = 2 * 18 = 36
+
+So, Tatuya scored 36 marks.
+
+Now, we need to find the total marks scored by Tatuya, Ivanna, and Dorothy. We know that Tatuya scored 36 marks, and we know that Ivanna scored 3/5 times Dorothy's marks, which is 3/5 * 90 = 54. So, Ivanna scored 54 marks.
+
+To find the total marks scored by the three, we add the marks scored by Tatuya, Ivanna, and Dorothy:
+
+36 + 54 + 90 = 180
+
+The average marks scored by the three is 180/3 = 60.
+
+Answer: 60

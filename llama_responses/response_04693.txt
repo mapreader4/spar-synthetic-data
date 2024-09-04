@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Barbara's normal typing speed is 212 words per minute.
+2. Due to her injury, her typing speed is now 40 words less per minute, so we need to subtract 40 from 212. 212 - 40 = 172 words per minute.
+3. The document is 3440 words long. To find out how many minutes it will take her to finish typing the document, we need to divide the total number of words by her new typing speed. 3440 words / 172 words per minute = 20 minutes.
+
+Answer: 20

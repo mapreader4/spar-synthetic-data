@@ -1,0 +1,13 @@
+Let's break down the time Amaya spent watching the movie and rewinding:
+
+1. First, she watches 35 minutes of the movie.
+2. Then, she rewinds the movie, adding 5 minutes to her total time. So, the total time spent watching the movie so far is 35 + 5 = 40 minutes.
+3. Next, she watches another 45 minutes of the movie.
+4. After that, she rewinds the movie again, adding 15 minutes to her total time. So, the total time spent watching the movie so far is 40 + 45 + 15 = 100 minutes.
+5. Finally, she watches the last 20 minutes of the movie uninterrupted.
+
+To find the total time it took Amaya to watch the movie, we add the last 20 minutes to the total time spent watching the movie so far:
+
+100 + 20 = 120 minutes
+
+Answer: 120

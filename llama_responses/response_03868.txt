@@ -1,0 +1,17 @@
+Let's solve this problem step by step.
+
+Let's start by identifying the initial amount of liters in the barrel. The barrel has 220 liters.
+
+Now, let's identify the amount of liters that leaked. The barrel lost 10% of its contents, which means that 10% of 220 liters leaked out.
+
+To find the amount of liters that leaked, we can multiply the initial amount of liters by the percentage that leaked. 10% of 220 is the same as 0.1 x 220, which is 22.
+
+So, the amount of liters that leaked is 22 liters.
+
+Now, to find the amount of liters left in the barrel, we subtract the amount that leaked from the initial amount. We subtract 22 from 220, which leaves us with:
+
+220 - 22 = 198
+
+So, the answer is:
+
+Answer: 198

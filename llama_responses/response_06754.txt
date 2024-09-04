@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+1. Peter drew 8 pictures.
+2. Quincy drew 20 more pictures than Peter, so Quincy drew 8 + 20 = 28 pictures.
+3. Randy, Peter, and Quincy drew 41 pictures altogether.
+4. We know that Randy drew some pictures, but we don't know how many Randy drew. We know that Randy drew some, but we don't know how many.
+
+To find the number of pictures Randy drew, we can subtract the number of pictures Peter and Quincy drew from the total number of pictures drawn. So, we have:
+
+41 (total number of pictures) - 8 (number of pictures Peter drew) - 28 (number of pictures Quincy drew) =?
+
+Let's do the subtraction.
+
+41 - 8 = 33
+41 - 28 = 13
+
+So, Randy drew 13 pictures.

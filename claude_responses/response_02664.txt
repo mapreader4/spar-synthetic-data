@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) There are 4 pizzas, and each pizza is cut into 12 slices.
+2) So the total number of slices available is 4 pizzas x 12 slices per pizza = 48 slices.
+3) The guests ate 39 slices.
+4) To find the number of slices left, we subtract the number of slices eaten from the total number of slices available:
+48 slices - 39 slices = 9 slices.
+
+Answer: 9

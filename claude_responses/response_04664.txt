@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Phill starts with one unsliced pizza.
+2) He cuts the pizza in half, creating 2 slices.
+3) He then cuts each of those 2 slices in half, creating 4 slices.
+4) He then cuts each of those 4 slices in half, creating 8 slices.
+5) Phill then passes out 1 slice to 3 of his friends, which is 3 slices.
+6) Phill then passes out 2 slices to 2 of his friends, which is 4 slices.
+7) In total, Phill has passed out 3 + 4 = 7 slices.
+8) Therefore, the number of slices of pizza left for Phill is 8 - 7 = 1 slice.
+
+Answer: 1

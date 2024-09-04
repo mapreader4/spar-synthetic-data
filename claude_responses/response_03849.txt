@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+1. Randy had some amount of money at first.
+2. He spent $10 on his lunch.
+3. He then spent a quarter of the remaining money on an ice cream cone that cost $5.
+
+Let's call the initial amount of money Randy had as "x" dollars.
+
+After spending $10 on his lunch, he had (x - 10) dollars left.
+
+He then spent a quarter of that, which is (x - 10) / 4 = $5 on the ice cream cone.
+
+We know the ice cream cone cost $5, so we can set up an equation:
+(x - 10) / 4 = 5
+Solving for x, we get:
+x - 10 = 20
+x = 30
+
+Answer: $30

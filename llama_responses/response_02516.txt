@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Step 1: Kate has 2 red balloons and 4 blue balloons initially.
+
+Step 2: She inflates 4 more balloons, 2 red and 2 blue.
+
+Step 3: Now Kate has 2 red balloons and 6 blue balloons.
+
+Step 4: The total number of balloons is 8, 2 red and 6 blue.
+
+Step 5: If one balloon is selected at random, the probability of it being red is the number of red balloons divided by the total number of balloons.
+
+Answer: 2 / 8 = 0.25.

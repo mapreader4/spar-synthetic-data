@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) James won a money prize at a charity raffle.
+2) He donated half of his winnings back to the charity.
+3) He then spent $2 on a hot dog to celebrate his win.
+4) He had $55 left over.
+
+To find the amount he won, we can work backwards:
+* He had $55 left over after donating half and spending $2.
+* So, before spending the $2 on the hot dog, he had $57 left over.
+* Since he donated half of his winnings, the amount he won was twice the $57 he had left over, which is $114.
+
+Answer: $114

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bacon sandwiches ordered by the 3 local offices: 3 x 10 = 30.
+
+Then, half of the group has asked for 4 bacon sandwiches each, so the number of customers who ordered 4 bacon sandwiches is half of the total group. Let's call this number x.
+
+The total number of bacon sandwiches is 54. The number of bacon sandwiches ordered by the 3 local offices is 30. So, the number of bacon sandwiches ordered by the customers in the group is 54 - 30 = 24.
+
+Since each of these customers ordered 4 bacon sandwiches, the number of customers in the group is 24 / 4 = 6.
+
+Answer: 6

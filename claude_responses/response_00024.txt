@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Mary has a credit limit of $100 for her grocery shopping.
+2) That week, she spent the full credit limit of $100.
+3) On Tuesday, she paid $15 towards her credit.
+4) On Thursday, she paid $23 towards her credit.
+5) To calculate how much credit she has left to pay, we need to subtract the amounts she has already paid from the total credit limit.
+6) Total credit limit: $100
+7) Amount paid on Tuesday: $15
+8) Amount paid on Thursday: $23
+9) Total amount paid: $15 + $23 = $38
+10) Amount remaining to pay: $100 - $38 = $62
+
+Answer: 62

@@ -1,0 +1,6 @@
+Let's break this down step by step.
+
+The total bill for the first 4 months is 4 * 30 = 120 dollars.
+The total bill for the last 2 months is 2 * 24 = 48 dollars.
+The total bill for the 6 months is 120 + 48 = 168 dollars.
+The average bill per month would be 168 / 6 = 28.

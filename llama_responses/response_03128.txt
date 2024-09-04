@@ -1,0 +1,3 @@
+Let's start by finding the total number of students. There are 10 students on each van, and there are 6 vans, so the total number of students on the vans is 10 * 6 = 60. Then, there are 24 students on each minibus, and there are 4 minibuses, so the total number of students on the minibuses is 24 * 4 = 96. The total number of students on the field trip is the sum of the number of students on the vans and minibuses, which is 60 + 96 = 156. So, the answer is:
+
+Answer: 156

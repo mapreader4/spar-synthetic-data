@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of frogs that laid eggs. There are 5 frogs in the pond, and they laid eggs. This means that the number of tadpoles is 3 times the number of frogs, so 5 x 3 = 15 tadpoles.
+
+Now, we know that two-thirds of the tadpoles will survive to maturity as frogs. To find the number of surviving tadpoles, we multiply the total number of tadpoles by 2/3: 15 x 2/3 = 10.
+
+Finally, we know that the pond can only sustain 8 frogs. This means that 8 is the maximum number of frogs the pond can support. Since 10 tadpoles will survive, and the pond can only support 8 frogs, we need to find a new pond for the 2 remaining tadpoles that will not survive.
+
+So, the answer is: Answer: 2

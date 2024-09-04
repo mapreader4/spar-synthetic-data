@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Michael decides to use only half of his pile of matchsticks
+* He creates 30 matchstick houses
+* Each matchstick house uses 10 matchsticks
+
+So, we know that:
+* The total number of matchsticks used = 30 houses x 10 matchsticks per house = 300 matchsticks
+
+Since Michael used only half of his original pile of matchsticks, we can double the number of matchsticks used to find the original amount.
+
+* Original amount of matchsticks = 300 matchsticks x 2 = 600 matchsticks
+
+Answer: 600 matchsticks

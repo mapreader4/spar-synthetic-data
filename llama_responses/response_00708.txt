@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+First, we need to find the net amount of water that Robi Ney is able to fill the tub with in each cycle of 2 minutes. During the first minute, the water tap is open and 12 liters of water flow in. During the second minute, the water tap is closed and 1 liter of water escapes. So, the net amount of water that Robi Ney is able to fill the tub with in each cycle is 12 - 1 = 11 liters.
+
+Since the tub has a capacity of 120 liters, we can divide the capacity by the net amount of water filled in each cycle to find the number of cycles needed to fill the tub:
+
+120 liters / 11 liters per cycle = 10.91 cycles
+
+Since Robi Ney is alternating between opening and closing the water supply, he will need to complete 11 cycles to fill the tub (because 10.91 cycles would leave a small amount of water remaining).
+
+Now, let's find the total time it takes to complete 11 cycles. Each cycle takes 2 minutes, so:
+
+11 cycles x 2 minutes per cycle = 22 minutes
+
+However, we need to add the extra minute it takes for the water to escape from the tub after the last cycle. This means Robi Ney will need an additional minute to fill the tub.
+
+Total time = 22 minutes + 1 minute = 23 minutes
+
+Answer: 23

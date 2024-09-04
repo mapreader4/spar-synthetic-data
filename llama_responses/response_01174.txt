@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the number of blue butterflies be x.
+
+Martha has twice as many blue butterflies as yellow butterflies, so if she has 5 black butterflies, then she has x + 5 blue butterflies.
+
+We know that the total number of butterflies is 11, so we can set up an equation to solve for x.
+
+x + 5 + x = 11
+
+We can subtract 5 from both sides of the equation to get:
+
+x = 11 - 5
+
+x = 6
+
+So Martha has 6 blue butterflies.

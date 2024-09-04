@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+
+1. Amaya scored 20 marks fewer in Maths than she scored in Arts. This means that if her Arts score is x, then her Maths score is x - 20.
+
+2. Amaya got 10 marks more in Social Studies than she got in Music. This means that if her Music score is 70, then her Social Studies score is 70 + 10 = 80.
+
+3. Amaya scored 1/10 less in Maths than her Arts score. This means that if her Arts score is x, then her Maths score is x - (x/10) = 9x/10.
+
+Now, let's calculate the total marks Amaya scored in all the subjects:
+* Arts: x
+* Maths: 9x/10
+* Social Studies: 80
+* Music: 70
+
+Total marks = x + 9x/10 + 80 + 70
+= x + 0.9x + 80 + 70
+= 1.9x + 150
+
+To find the value of x, we can use the information that Amaya scored 20 marks fewer in Maths than she scored in Arts:
+* x - (9x/10) = 20
+* 0.1x = 20
+* x = 200
+
+Therefore, the total number of marks Amaya scored in all the subjects is:
+* 1.9(200) + 150 = 530
+
+Answer: 530

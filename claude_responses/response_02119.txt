@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The class has 12 students.
+2) Initially, there were 108 oranges to be shared equally among the 12 students.
+3) 36 of the oranges were bad and had to be thrown away.
+4) The remaining number of oranges is 108 - 36 = 72 oranges.
+5) If no oranges had to be thrown away, each student would have gotten 108 / 12 = 9 oranges.
+6) Now, with 72 oranges to be shared, each student will get 72 / 12 = 6 oranges.
+7) The difference between the original number of oranges per student (9) and the new number of oranges per student (6) is 9 - 6 = 3 oranges.
+
+Answer: 3

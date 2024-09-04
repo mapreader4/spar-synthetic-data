@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* John takes 3 days off of streaming per week
+* That means he streams for 4 days per week
+* On the days he does stream, he streams for 4 hours at a time
+* He makes $10 an hour while streaming
+* To calculate his weekly earnings, we need to:
+  1. Calculate the total number of hours he streams per week
+  2. Multiply the total hours by his hourly rate
+
+Step 1: Calculate the total number of hours he streams per week
+* He streams for 4 days per week
+* He streams for 4 hours at a time
+* So, the total number of hours he streams per week is 4 days x 4 hours = 16 hours
+
+Step 2: Multiply the total hours by his hourly rate
+* He makes $10 an hour
+* 16 hours x $10 per hour = $160
+
+Answer: $160

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 19 students in the 3rd grade.
+2) There are twice as many students in the 4th grade as in the 3rd grade. So, there are 2 * 19 = 38 students in the 4th grade.
+3) In the 2nd grade, there are 10 boys and 19 girls, so the total number of students in the 2nd grade is 10 + 19 = 29.
+4) To find the total number of students, we add up the number of students in each grade:
+   3rd grade: 19 students
+   4th grade: 38 students
+   2nd grade: 29 students
+   Total: 19 + 38 + 29 = 86 students.
+
+Answer: 86

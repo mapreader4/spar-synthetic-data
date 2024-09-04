@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Bob can skip a rock 12 times
+* Jim can skip a rock 15 times
+* They each skipped 10 rocks
+
+To find the total number of skips, we need to calculate the number of skips for Bob and Jim separately, and then add them together.
+
+For Bob:
+* Bob skipped 10 rocks
+* Each rock was skipped 12 times
+* So, Bob's total skips = 10 rocks x 12 skips per rock = 120 skips
+
+For Jim:
+* Jim skipped 10 rocks
+* Each rock was skipped 15 times
+* So, Jim's total skips = 10 rocks x 15 skips per rock = 150 skips
+
+Now, to find the total number of skips:
+* Total skips = Bob's skips + Jim's skips
+* Total skips = 120 + 150 = 270 skips
+
+Answer: 270

@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+1. The first tank has a capacity of 7000 gallons and is filled up to 3/4 of its capacity. To find the amount of water in the first tank, we can multiply the capacity by the fraction:
+
+7000 * 3/4 = 5250 gallons
+
+So, the first tank has 5250 gallons of water.
+
+2. The second tank has a capacity of 5000 gallons and is filled up to 4/5 of its capacity. To find the amount of water in the second tank, we can multiply the capacity by the fraction:
+
+5000 * 4/5 = 4000 gallons
+
+So, the second tank has 4000 gallons of water.
+
+3. The third tank has a capacity of 3000 gallons and is filled up to half of its capacity. To find the amount of water in the third tank, we can multiply the capacity by 1/2:
+
+3000 * 1/2 = 1500 gallons
+
+So, the third tank has 1500 gallons of water.
+
+Now, let's add up the amount of water in all three tanks:
+
+5250 + 4000 + 1500 = 10750 gallons
+
+Answer: 10750

@@ -1,0 +1,15 @@
+Let's start by identifying the information given to us:
+
+* Ember is half as old as Nate.
+* Nate is 14 years old.
+
+We can let's denote Nate's age as N. Since Ember is half as old as Nate, we can set up an equation to represent this:
+
+N/2 = 14
+
+We can solve for N by multiplying both sides by 2:
+
+N = 2 * 14
+N = 28
+
+So, Nate will be 28 years old when Ember is 14 years old.

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The initial chance of making the junior high basketball team is 10% if you're 66 inches tall.
+* The chance increases by 10% for every additional inch of height.
+* Devin starts out at 65 inches tall.
+* Devin then grows 3 inches, so his final height is 65 + 3 = 68 inches.
+
+Now, let's calculate Devin's chances of making the team:
+* At 66 inches, the chance is 10%.
+* For each inch above 66 inches, the chance increases by 10%.
+* Devin is 2 inches taller than 66 inches, so his chance increases by 2 * 10% = 20%.
+* Therefore, Devin's chances of making the basketball team are 10% + 20% = 30%.
+
+Answer: 30

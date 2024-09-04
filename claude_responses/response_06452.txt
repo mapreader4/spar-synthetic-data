@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+* Elizabeth starts with 10 reusable water bottles
+* She loses 2 water bottles at school, so she now has 10 - 2 = 8 water bottles
+* Someone steals 1 of her water bottles at dance practice, so she now has 8 - 1 = 7 water bottles
+* To avoid future theft, Elizabeth places 3 stickers on each of her remaining 7 water bottles
+
+To calculate the total number of stickers used:
+* Elizabeth places 3 stickers on each of her 7 remaining water bottles
+* 3 stickers per bottle x 7 bottles = 21 stickers
+
+Answer: 21

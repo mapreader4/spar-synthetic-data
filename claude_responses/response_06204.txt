@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The Tigers played 56 home games this year
+* They had 12 losses
+* They had half as many ties as losses
+
+First, let's calculate the number of ties:
+* Ties = 1/2 * Losses
+* Ties = 1/2 * 12 = 6
+
+Now, we can calculate the number of wins:
+* Wins = Total games - Losses - Ties
+* Wins = 56 - 12 - 6 = 38
+
+Therefore, the Tigers won 38 games.
+
+Answer: 38

@@ -1,0 +1,22 @@
+To solve this problem, we need to calculate the total cost of the seeds that Harry wants to buy.
+
+Given information:
+- Pumpkin seeds cost $2.50 per packet.
+- Tomato seeds cost $1.50 per packet.
+- Chili pepper seeds cost $0.90 per packet.
+- Harry wants to buy 3 packets of pumpkin seeds, 4 packets of tomato seeds, and 5 packets of chili pepper seeds.
+
+Step 1: Calculate the cost of the pumpkin seeds.
+Cost of pumpkin seeds = 3 packets × $2.50 per packet = $7.50
+
+Step 2: Calculate the cost of the tomato seeds.
+Cost of tomato seeds = 4 packets × $1.50 per packet = $6.00
+
+Step 3: Calculate the cost of the chili pepper seeds.
+Cost of chili pepper seeds = 5 packets × $0.90 per packet = $4.50
+
+Step 4: Calculate the total cost by adding the costs of the three types of seeds.
+Total cost = Cost of pumpkin seeds + Cost of tomato seeds + Cost of chili pepper seeds
+Total cost = $7.50 + $6.00 + $4.50 = $18.00
+
+Answer: $18.

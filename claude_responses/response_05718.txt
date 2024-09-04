@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Tony made 1 sandwich per day for 5 days (Monday through Friday)
+* Each sandwich requires 2 slices of bread
+* So for the 5 days, Tony used 5 x 2 = 10 slices of bread
+* On Saturday, Tony made 2 sandwiches
+* Each sandwich requires 2 slices of bread
+* So on Saturday, Tony used 2 x 2 = 4 slices of bread
+* In total, Tony used 10 + 4 = 14 slices of bread
+* He started with a 22-slice loaf
+* So the number of slices of bread left is 22 - 14 = 8
+
+Answer: 8

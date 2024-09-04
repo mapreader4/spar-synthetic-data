@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start with the first 40 questions, where John got 90% correct. 90% of 40 is 36.
+
+Next, let's look at the next 40 questions, where John gets 95% correct. 95% of 40 is 38.
+
+Now, let's add the number of correct answers from both parts. 36 + 38 = 74.
+
+So, John got a total of 74 correct answers.
+
+Answer: 74

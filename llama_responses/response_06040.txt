@@ -1,0 +1,11 @@
+Let's break this down step by step:
+
+1. Let's first find the total number of flyers Jack and Rose handed out. We know that Jack handed 120 flyers and Rose handed 320 flyers, so the total number of flyers they handed out is:
+
+120 + 320 = 440
+
+2. Since they want to hand out flyers around their neighborhood, we need to know how many are left. If they handed out 440 flyers and want to hand out the remaining ones around, we can subtract the total number of flyers handed out from the total number of flyers they had:
+
+440 - 440 = 0
+
+So, there are 0 flyers left to be handed out around.

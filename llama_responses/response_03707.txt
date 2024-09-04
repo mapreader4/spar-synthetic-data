@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of chocolate chips and M&M's that Colleen is adding to the batch.
+
+She's adding 108 chocolate chips.
+She's adding one-third as many M&M's as there are chocolate chips, which is 108 / 3 = 36 M&M's.
+
+The total number of chocolate chips and M&M's is 108 + 36 = 144.
+
+Now, to find the average number of chocolate pieces in each cookie, we divide the total number of chocolate pieces by the total number of cookies.
+
+The total number of cookies is 48, and the total number of chocolate pieces is 144. So, the average number of chocolate pieces in each cookie is:
+
+144 / 48 = 3
+
+Answer: 3

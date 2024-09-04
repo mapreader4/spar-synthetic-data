@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of men and women Aimee polled. She wants 50% of each, so the total number of people she polled must be even. Let's call this total number x.
+
+The problem states that 35% of women are in favor of shortening the school day by 30 minutes, and 39 women are opposed. This means that 61% of the women are opposed to shortening the school day. Since Aimee wants 50% women, the number of women opposed must be 39.
+
+Now, we know that 39 women are opposed, and 61% of the women are opposed. So, we can find the total number of women by subtracting 61% from 50% of the total number x:
+
+50% * x = 39
+
+50% * x = 50x / 100 = 50x
+
+39 = 50x - 0.61 * 50x
+
+39 = 50x - 30.5
+
+50x = 19.5
+
+So, Aimee polled 19.5 people.

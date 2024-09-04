@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lizzy had $30 initially.
+2) She loaned out $15 to her friend.
+3) This means Lizzy had $30 - $15 = $15 remaining.
+4) Her friend returned the $15 loan, plus an additional 20% interest.
+5) The interest on $15 at 20% is 20% of $15, which is $3.
+6) So her friend returned $15 + $3 = $18.
+7) Lizzy now has the $15 she had remaining, plus the $18 that was returned, for a total of $15 + $18 = $33.
+
+Answer: 33

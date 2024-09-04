@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Fiona completed 36 math questions in an hour
+* Shirley completed twice as many math questions as Fiona in the same time, so Shirley completed 2 * 36 = 72 math questions in an hour
+* Kiana completed half of the sum of Fiona and Shirley's math questions, so Kiana completed (36 + 72) / 2 = 54 math questions in an hour
+* If they each did the same number of questions the following hour, then in the second hour:
+    - Fiona completed 36 more questions
+    - Shirley completed 72 more questions
+    - Kiana completed 54 more questions
+* So in total, over the 2 hours:
+    - Fiona completed 36 + 36 = 72 questions
+    - Shirley completed 72 + 72 = 144 questions
+    - Kiana completed 54 + 54 = 108 questions
+* The total number of math questions completed by all three girls in 2 hours is:
+    - 72 + 144 + 108 = 324 questions
+
+Answer: 324

@@ -1,0 +1,17 @@
+Okay, let's solve this step-by-step:
+* Harriett found 10 quarters
+* Each quarter is worth $0.25
+* So the value of the quarters is 10 x $0.25 = $2.50
+* Harriett found 3 dimes
+* Each dime is worth $0.10
+* So the value of the dimes is 3 x $0.10 = $0.30
+* Harriett found 3 nickels
+* Each nickel is worth $0.05
+* So the value of the nickels is 3 x $0.05 = $0.15
+* Harriett found 5 pennies
+* Each penny is worth $0.01
+* So the value of the pennies is 5 x $0.01 = $0.05
+* To calculate the total amount of money Harriett found, we add up the values of the quarters, dimes, nickels, and pennies:
+* $2.50 + $0.30 + $0.15 + $0.05 = $3.00
+
+Answer: $3

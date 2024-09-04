@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The vampire drains 3 people per week
+* The werewolf eats 5 fresh people per week
+* The village has 72 people
+* We need to find how many weeks the village will last them both
+
+First, let's calculate the total number of people they consume per week:
+* Vampire: 3 people per week
+* Werewolf: 5 people per week
+* Total: 3 + 5 = 8 people per week
+
+Now, we can calculate how many weeks the village of 72 people will last them:
+* 72 people / 8 people per week = 9 weeks
+
+Answer: 9 weeks

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Era had 5 burgers
+* Each burger was sliced into halves, so there were 10 slices in total (5 burgers x 2 slices per burger)
+* The first friend got 1 slice
+* The second friend got 2 slices
+* The third friend got 3 slices
+* The fourth friend got 3 slices
+* So the total number of slices taken by the friends is:
+  - 1 + 2 + 3 + 3 = 9 slices
+* The number of slices left for Era is the total number of slices (10) minus the number of slices taken by the friends (9)
+* 10 - 9 = 1 slice left for Era
+
+Answer: 1

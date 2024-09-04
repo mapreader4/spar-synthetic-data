@@ -1,0 +1,29 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given:
+
+* The town square is 3/4 of a mile long.
+* The winner finished the race in 42 minutes.
+* Last year's winner finished in 47.25 minutes.
+
+To find the distance of the town square in miles, we can multiply the length of the town square by 4/3, since 3/4 of a mile is the same as 4/3 of a mile. So, the distance of the town square is (3/4) x 1 mile = 3/4 mile.
+
+Since the winner finished the race in 42 minutes, we can find the speed by dividing the distance by the time:
+
+Speed = Distance / Time = (3/4) / 42
+
+Speed = (3/4) / 42 = 0.07142857142857143 miles per minute
+
+Now, we need to find the speed of last year's winner. We know that last year's winner finished in 47.25 minutes, so we can find the speed by dividing the distance by the time:
+
+Speed = Distance / Time = (3/4) / 47.25
+
+Speed = (3/4) / 47.25 = 0.0637586206896555 miles per minute
+
+Now, we can find the difference in speed between the two winners:
+
+Difference in speed = Winner's speed - Last year's winner's speed
+= 0.07142857142857143 - 0.0637586206896555
+= 0.0076709517389163
+
+So, the winner this year ran 0.0076709517389163 miles per minute faster than last year's winner.

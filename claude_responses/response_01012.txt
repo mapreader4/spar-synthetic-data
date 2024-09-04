@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) Brian makes a 2% commission on each sale.
+2) The first house sold for $157,000.
+   * 2% of $157,000 = 0.02 * $157,000 = $3,140
+3) The second house sold for $499,000.
+   * 2% of $499,000 = 0.02 * $499,000 = $9,980
+4) The third house sold for $125,000.
+   * 2% of $125,000 = 0.02 * $125,000 = $2,500
+5) To find Brian's total commission, we add up the commissions from each sale:
+   * $3,140 + $9,980 + $2,500 = $15,620
+Answer: $15,620

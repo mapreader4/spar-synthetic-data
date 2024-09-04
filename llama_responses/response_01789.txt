@@ -1,0 +1,7 @@
+Let's first consider the cards that Padma traded to Robert. Padma traded 2 of her cards for 10 of Robert's cards, so the number of cards that were traded in this transaction is 2 + 10 = 12. 
+
+Now, let's consider the cards that Robert traded to Padma. Robert traded 8 of his cards for 15 of Padma's cards, so the number of cards that were traded in this transaction is 8 + 15 = 23. 
+
+To find the total number of cards that were traded, we add the number of cards traded in each transaction: 12 + 23 = 35. 
+
+Answer: 35

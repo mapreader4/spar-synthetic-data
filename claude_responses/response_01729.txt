@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Calvin has 12 giant roaches
+* Calvin has 3 scorpions
+* Calvin has half as many crickets as roaches, which means he has 12 / 2 = 6 crickets
+* Calvin has twice as many caterpillars as scorpions, which means he has 3 * 2 = 6 caterpillars
+
+Now, to find the total number of insects in Calvin's collection, we add up all the insects:
+* 12 giant roaches + 3 scorpions + 6 crickets + 6 caterpillars = 27 insects
+
+Answer: 27

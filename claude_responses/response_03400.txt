@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Rodney, Roger, and Ron can lift a combined weight of 239 pounds.
+2. Rodney can lift twice as much as Roger.
+   * Let's say Roger can lift x pounds.
+   * Then Rodney can lift 2x pounds.
+3. Roger can lift 7 pounds less than 4 times the amount that Ron can lift.
+   * Let's say Ron can lift y pounds.
+   * Then Roger can lift 4y - 7 pounds.
+4. We know the combined weight they can lift is 239 pounds.
+   * So we can write the equation: 2x + 4y - 7 + y = 239
+   * Simplifying, we get: 2x + 5y - 7 = 239
+   * Solving for y, we get: y = (239 - 2x + 7) / 5 = (246 - 2x) / 5
+5. Now we can solve for x (the amount Roger can lift):
+   * Roger can lift 4y - 7 pounds
+   * Substituting y = (246 - 2x) / 5, we get:
+   * Roger can lift 4 * (246 - 2x) / 5 - 7 = 984 / 5 - 2x - 7 = 196.8 - 2x - 7 = 189.8 - 2x
+   * Therefore, x = 94.9 pounds, so Roger can lift 94.9 pounds.
+6. Since Rodney can lift twice as much as Roger, Rodney can lift 2 * 94.9 = 189.8 pounds.
+
+Answer: 189 pounds

@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Step 1: Determine the total number of paws Olly has.
+
+Olly has 3 dogs, which have 4 paws each. So, he has 3 * 4 = 12 dog paws.
+
+Olly also has 2 cats, which have 4 paws each. So, he has 2 * 4 = 8 cat paws.
+
+Olly also has a ferret, which has 4 paws. So, he has 1 * 4 = 4 ferret paws.
+
+Now, let's add up the number of paws Olly has:
+
+12 (dog paws) + 8 (cat paws) + 4 (ferret paws) = 24
+
+So, Olly needs 24 shoes to protect his pets’ paws.
+
+Answer: 24

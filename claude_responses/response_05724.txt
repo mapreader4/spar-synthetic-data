@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jason has to drive 120 miles home
+* He drives at 60 miles per hour for the first 30 minutes
+* In 30 minutes, he will have driven 60 miles / 2 = 30 miles
+* So, he has 120 miles - 30 miles = 90 miles left to drive
+* The total time he has to complete the drive is 1 hour 30 minutes = 90 minutes
+* He has already used 30 minutes, so he has 90 minutes - 30 minutes = 60 minutes left to drive the remaining 90 miles
+* To calculate the average speed he needs to maintain for the remaining 60 minutes, we divide the remaining distance (90 miles) by the remaining time (60 minutes):
+* 90 miles / 60 minutes = 1.5 miles per minute
+* Converting this to miles per hour, we get 1.5 miles per minute * 60 minutes per hour = 90 miles per hour
+
+Answer: 90 miles per hour

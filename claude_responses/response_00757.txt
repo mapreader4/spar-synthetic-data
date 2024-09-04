@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Luna is supposed to eat 2 cups of kibble every day
+* Mary gave Luna 1 cup in the morning and 1 cup in the evening, so that's 2 cups
+* Frank gave Luna 1 cup in the afternoon and twice as much in the late evening, so that's 1 cup + 2 cups = 3 cups
+* In total, Luna ate 2 cups + 3 cups = 5 cups of kibble that day
+* The bag originally had 12 cups of kibble
+* So the amount of kibble remaining in the bag the next morning is:
+Answer: 12 cups - 5 cups = 7 cups

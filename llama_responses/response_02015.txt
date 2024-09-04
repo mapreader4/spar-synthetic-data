@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's first find out how much Mark used to earn per hour.
+
+Mark used to earn 40 dollars per hour. He works 8 hours a day. So, his daily income was 40 * 8 = 320 dollars a day. 5 days a week, so his weekly income was 320 * 5 = 1600 dollars.
+
+He got a 5% raise. So, his new hourly wage is 40 * (1 + 0.05) = 42.
+
+Now, let's find out how much he earns in a week.
+
+He works 8 hours a day. 5 days a week, so he works 8 * 5 = 40 hours a week. At 42 dollars an hour, he earns 42 * 40 = 1680 dollars a week.
+
+He has to pay 100 dollars a week for a personal trainer. So, he has 1680 - 100 = 1580 dollars left over a week.
+
+Answer: 1580

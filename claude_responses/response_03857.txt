@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The quarterback steps back to throw 80 times in the game.
+2) 30% of the time, he does not get a pass thrown.
+3) 30% of 80 is 24, so he does not get a pass thrown 24 times.
+4) Half of the times that he does not throw the ball, he is sacked for a loss.
+5) Half of 24 is 12, so he is sacked for a loss 12 times.
+
+Answer: 12

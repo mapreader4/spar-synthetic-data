@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+First, we know that Bill and Dale eat 50% of the pizzas, which is half of the total pizzas. So, they eat 4 * 0.5 = 2 pizzas.
+
+Next, Ann and Cate eat 75% of the pizzas. 75% of the pizzas is 0.75. So, they eat 4 * 0.75 = 3 pizzas.
+
+Now, we know that the total number of pizzas eaten is 2 + 3 = 5. There are 16 pieces of pizza in total, and 16 - 5 = 11 are left uneaten.

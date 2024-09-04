@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the original price of each pin. The original price is $20 each. 
+
+Then, we need to calculate the discount. The discount is 15% off, which is 0.15. 
+
+To find the discount, we multiply the original price by the discount. 0.15 * 20 = 3.00. 
+
+Then, we subtract the discount from the original price. 20 - 3.00 = 17.00.
+
+So, John spent 17.00 on the pins. 
+
+Answer: 17

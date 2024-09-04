@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, let's find the area of the first TV:
+
+Area of the first TV = Length x Width = 24 x 16 = 384 square inches
+
+Next, let's find the area of the new TV:
+
+Area of the new TV = Length x Width = 48 x 32 = 1536 square inches
+
+Now, let's find the cost of the first TV per square inch:
+
+Cost of the first TV = $672 / 384 = $1.75 per square inch
+
+Now, let's find the cost of the new TV per square inch:
+
+Cost of the new TV = $1152 / 1536 = $0.75 per square inch
+
+Now, let's find the difference in cost per square inch between the two TVs:
+
+$0.75 - $1.75 = -$1.00 per square inch
+
+So, the new TV is $1.00 less expensive per square inch compared to the first TV.

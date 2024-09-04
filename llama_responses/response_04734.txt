@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of chairs of each color.
+
+* Blue chairs: 10
+* Green chairs: 10 * 3 = 30 (since green chairs are 3 times as many as the blue chairs)
+* White chairs: 30 + 10 - 13 = 17 (since there are 13 fewer white chairs than the green and blue chairs combined)
+
+Now, let's add the number of chairs of each color to get the total number of chairs in the classroom.
+
+10 (blue) + 30 (green) + 17 (white) = 57
+
+Answer: 57

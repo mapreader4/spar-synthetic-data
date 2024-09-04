@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+On the first 6 days, Tim's website got 100 visitors per day. So, the total number of visitors for the first 6 days is 6 * 100 = 600.
+
+On the last day, it got twice as many visitors as every other day combined. That means it got 6 * 100 + 6 * 100 = 1200 visitors on the last day.
+
+So, the total number of visitors on the last day is 1200.
+
+The total number of visitors for the entire week is the sum of the visitors for the first 6 days and the visitors on the last day. So, the total is 600 + 1200 = 1800.
+
+Now, to find the total amount of money Tim made, we multiply the total number of visitors by the cost per visit, which is $.01. So, the total amount of money Tim made is 1800 *.01 = 18.
+
+Answer: 18

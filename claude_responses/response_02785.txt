@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The venue cost is $10,000.
+2) The cost per guest is $500.
+3) John wants 50 guests.
+4) John's wife wants 60% more guests than John.
+   * 60% of 50 is 30.
+   * So John's wife wants 50 + 30 = 80 guests.
+5) The total number of guests is 80.
+6) The total cost of the guests is 80 * $500 = $40,000.
+7) The total cost of the wedding is the venue cost ($10,000) plus the cost of the guests ($40,000), which is $10,000 + $40,000 = $50,000.
+
+Answer: $50,000

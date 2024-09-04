@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Kimmie received $450 from her handmade crafts at the supermarket. Let's call this amount "K".
+
+Zahra received 1/3 less money than Kimmie, so Zahra received K - (1/3) = K - (1/3)K = 2/3K.
+
+We know that K = 450, so 2/3K = 2/3(450) = 300. Zahra received $300.
+
+Kimmie and Zahra both save half of their earnings on the same savings account. Kimmie saves K/2 = 450/2 = 225. Zahra saves 300/2 = 150.
+
+The total amount of money in the joint savings account is the sum of Kimmie's savings and Zahra's savings. 225 + 150 = 375.
+
+Answer: 375

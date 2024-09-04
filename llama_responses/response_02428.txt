@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of times he sleds down the tall hills. The problem states that he sleds down the 2 tall hills, so he does that 2 times.
+
+Next, let's identify the number of times he sleds down the small hills. The problem states that he sleds down the 3 small hills, but since he sleds down the tall hills 2 times, the problem says that he sleds down the small hills half as often, which means he sleds down the small hills 1 time.
+
+Now, let's add the number of times he sleds down the tall hills and the number of times he sleds down the small hills. He sleds down the tall hills 2 times and sleds down the small hills 1 time, so we add 2 + 1 to get a total of 3.
+
+Answer: 3

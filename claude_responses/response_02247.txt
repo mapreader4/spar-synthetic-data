@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Each ring group in the trees consists of 2 fat rings and 4 thin rings, for a total of 6 rings per group.
+* The first tree has 70 ring groups, so the total number of rings in the first tree is:
+  * 70 ring groups x 6 rings per group = 420 rings
+* The second tree has 40 ring groups, so the total number of rings in the second tree is:
+  * 40 ring groups x 6 rings per group = 240 rings
+* Since the trees grow 1 ring per year, the difference in the number of rings between the two trees is the difference in their ages.
+* The first tree has 420 rings, and the second tree has 240 rings.
+* Therefore, the first tree is 420 - 240 = 180 years older than the second tree.
+
+Answer: 180

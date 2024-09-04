@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* There are 3 people running for president
+* John manages to capture 150 votes
+* James captures 70% of the remaining vote
+* There were 1150 people voting in total
+
+First, let's calculate the remaining votes after John's 150 votes:
+* Total votes = 1150
+* John's votes = 150
+* Remaining votes = 1150 - 150 = 1000
+
+Now, James captures 70% of the remaining 1000 votes:
+* James' votes = 70% of 1000 = 0.7 * 1000 = 700
+
+Finally, we can calculate the number of votes the third candidate received:
+* Total votes = 1150
+* John's votes = 150
+* James' votes = 700
+* Third candidate's votes = 1150 - 150 - 700 = 300
+
+The question asks how many more votes the third candidate got than John. To calculate this, we subtract John's votes from the third candidate's votes:
+* Third candidate's votes - John's votes = 300 - 150 = 150
+
+Answer: 150

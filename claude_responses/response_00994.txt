@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Dean ordered 2 large pizzas, each cut into 12 slices
+* So the total number of slices is 2 * 12 = 24 slices
+* Dean ate half of the Hawaiian pizza, which is 12 / 2 = 6 slices
+* Frank ate 3 slices of the Hawaiian pizza
+* Sammy ate a third of the cheese pizza, which is 12 / 3 = 4 slices
+* So the total number of slices eaten is 6 + 3 + 4 = 13 slices
+* The total number of slices left over is 24 - 13 = 11 slices
+
+Answer: 11

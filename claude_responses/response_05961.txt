@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+* 450 cars drove through the toll booth in a week
+* 50 vehicles went through the toll booth on Monday
+* 50 vehicles went through the toll booth on Tuesday
+* On Wednesday and Thursday, twice the number of cars that passed through the toll booth on Monday went through the toll booth
+* For the remaining days of the week, an equal number of vehicles passed through the toll booth
+
+First, let's calculate the number of cars that went through the toll booth on Wednesday and Thursday:
+* Wednesday: 2 x 50 = 100 cars
+* Thursday: 2 x 50 = 100 cars
+
+Now, we know the total number of cars that went through the toll booth in the first 4 days:
+* Monday: 50 cars
+* Tuesday: 50 cars
+* Wednesday: 100 cars
+* Thursday: 100 cars
+* Total: 50 + 50 + 100 + 100 = 300 cars
+
+We also know that the total number of cars that went through the toll booth in the week was 450.
+* Remaining cars to be accounted for: 450 - 300 = 150 cars
+
+Since the remaining days had an equal number of cars, we can divide the remaining 150 cars by the number of remaining days (3) to get the number of cars per day:
+* 150 / 3 = 50 cars per day
+
+Therefore, the total number of cars that passed through the toll booth in each of the remaining days is 50.
+
+Answer: 50

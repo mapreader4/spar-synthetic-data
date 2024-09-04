@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Sebastian bought tickets for 3 people: himself and his parents
+* The ticket price per person is $44
+* There is an additional $18 service fee for the online transaction
+To calculate the total amount paid, we need to:
+1. Multiply the ticket price per person ($44) by the number of people (3) to get the total cost of the tickets:
+   * $44 x 3 = $132
+2. Add the $18 service fee to the total cost of the tickets:
+   * $132 + $18 = $150
+Therefore, the total amount Sebastian paid for the tickets is:
+Answer: $150

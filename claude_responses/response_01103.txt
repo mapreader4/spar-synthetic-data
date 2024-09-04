@@ -1,0 +1,29 @@
+Okay, let's break this down step-by-step:
+* There are 6 centerpieces
+* Each centerpiece uses 8 roses
+* Each centerpiece uses twice as many orchids as roses
+* Each centerpiece uses a certain number of lilies
+* Each flower costs $15
+* Martha wants to spend $2700 total
+
+First, let's calculate the total number of roses needed:
+* 6 centerpieces x 8 roses per centerpiece = 48 roses
+
+Next, let's calculate the total number of orchids needed:
+* 2 x 8 roses per centerpiece = 16 orchids per centerpiece
+* 6 centerpieces x 16 orchids per centerpiece = 96 orchids
+
+Now, let's calculate the total cost of the roses and orchids:
+* 48 roses x $15 per rose = $720
+* 96 orchids x $15 per orchid = $1440
+* Total cost of roses and orchids = $720 + $1440 = $2160
+
+Finally, we can calculate the number of lilies needed:
+* Total budget = $2700
+* Total cost of roses and orchids = $2160
+* Remaining budget for lilies = $2700 - $2160 = $540
+* Cost per lily = $15
+* Number of lilies = $540 / $15 = 36 lilies
+* Number of lilies per centerpiece = 36 lilies / 6 centerpieces = 6 lilies per centerpiece
+
+Answer: 6 lilies per centerpiece.

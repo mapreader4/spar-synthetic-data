@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Chad has 100 apples of different sizes and price ranges
+* Small apples cost $1.5 each
+* Medium apples cost $2 each
+* Big apples cost $3 each
+* Donny bought:
+    - 6 small and medium apples
+    - 8 big apples
+To calculate the total cost, we need to find the cost of the small/medium apples and the big apples separately, then add them together.
+
+Cost of small/medium apples:
+* 6 apples at $1.5 each = 6 * $1.5 = $9
+* 6 apples at $2 each = 6 * $2 = $12
+* Total cost of small/medium apples = $9 + $12 = $21
+
+Cost of big apples:
+* 8 apples at $3 each = 8 * $3 = $24
+
+Total cost:
+* Cost of small/medium apples + Cost of big apples = $21 + $24 = $45
+
+Answer: $45

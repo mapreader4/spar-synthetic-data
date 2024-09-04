@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of guitars Steve has. We know that Barbeck has two times as many guitars as Steve, so Barbeck has 2x guitars. We also know that Davey has three times as many guitars as Barbeck. So, Davey has 3(2x) = 6x guitars.
+
+We know that there are 27 guitars altogether. So, we can set up an equation to solve for x:
+
+2x + 6x = 27
+
+We can subtract 2x from both sides of the equation to get:
+
+6x = 27 - 2x
+6x = 25
+
+So, we can divide both sides by 6 to get:
+
+x = 25/6
+x = 4
+
+So, Davey has 4 guitars.

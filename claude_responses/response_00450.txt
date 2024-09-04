@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Dr. Juan has asked Flora to drink 105 gallons of milk within 3 weeks
+* Flora thinks that drinking 3 gallons of milk daily will be enough
+* We need to determine how many more gallons Flora must drink daily to fulfill Dr. Juan's requirement
+
+First, let's calculate how many gallons of milk Flora would drink in 3 weeks if she drank 3 gallons per day:
+* 3 gallons per day x 7 days per week x 3 weeks = 63 gallons
+
+Now, we need to find the difference between the required 105 gallons and the 63 gallons she would drink in 3 weeks:
+* 105 gallons - 63 gallons = 42 gallons
+
+Therefore, to fulfill Dr. Juan's requirement, Flora must drink 42 more gallons of milk over the 3 weeks.
+
+To find the additional amount she must drink daily, we divide the 42 gallons by the 21 days in 3 weeks:
+* 42 gallons / 21 days = 2 gallons per day
+
+Answer: 2 gallons

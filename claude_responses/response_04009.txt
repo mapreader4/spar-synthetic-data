@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jim had 365 trading cards
+* He gave 8 sets of cards to his brother
+* Each set has 13 trading cards
+* So for his brother, he gave away 8 sets x 13 cards per set = 104 cards
+* He gave 5 sets of cards to his sister
+* Each set has 13 trading cards
+* So for his sister, he gave away 5 sets x 13 cards per set = 65 cards
+* He gave 2 sets of cards to his friend
+* Each set has 13 trading cards
+* So for his friend, he gave away 2 sets x 13 cards per set = 26 cards
+* To calculate the total number of cards he gave away, we add up the cards given to his brother, sister, and friend:
+* 104 + 65 + 26 = 195 cards
+
+Answer: 195

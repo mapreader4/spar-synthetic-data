@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: We are given that John has 4 pens for emu and each pen has 6 emus in it. This means that John has 4 * 6 = 24 emus in total.
+
+Step 2: We are also given that each female emu lays 1 egg per day. If half the emu are females, then the number of female emus is 12.
+
+Step 3: Since each female emu lays 1 egg per day, the total number of eggs laid by the female emus in a week would be 12 * 7 = 84 eggs.
+
+Answer: 84

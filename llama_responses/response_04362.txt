@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Phillip has a math test with 40 questions and he gets 75% of them right. To find the number of questions he gets right, we can multiply the total number of questions by the percentage of questions he gets right.
+
+75% of 40 = 0.75 * 40 = 30
+
+Phillip gets 30 out of 40 math questions right.
+
+Phillip also has an English test with 50 questions and he gets 98% of them right. To find the number of questions he gets right, we can multiply the total number of questions by the percentage of questions he gets right.
+
+98% of 50 = 0.98 * 50 = 49
+
+Phillip gets 49 out of 50 English questions right.
+
+Now, to find the total number of questions he gets right, we can add the number of questions he gets right in math and English.
+
+30 + 49 = 79
+
+Phillip gets a total of 79 questions right.

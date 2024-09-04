@@ -1,0 +1,7 @@
+To find the cost of the coffee, we need to calculate the number of coffee pods she will need for the entire vacation. 
+
+Since she will have 40 days, and she will have 3 cups of coffee each morning, the total number of cups is 40 * 3 = 120 cups. 
+
+Each box of coffee pods contains 30 pods.  So, the total number of pods she will need is 120 cups / 3 pods per cup = 40 boxes. 
+
+The cost of each box is $8.00. 40 boxes will cost 40 x 8.00 = 320.00.  So, the total cost of the coffee will be 320.00.

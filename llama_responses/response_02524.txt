@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The total volume of helium is 1800cm³.
+2. 50 balloons need 50cm³ of helium each. So, the total helium needed for the 50 balloons is 50 * 50 = 2500cm³.
+3. After filling the 50 balloons, the remaining helium is 1800 - 2500 = 1300cm³.
+4. Since 50cm³ is needed for one balloon to touch the ceiling, we can fill the remaining 1300cm³ of helium into balloons that need 50cm³ each. We can calculate the number of balloons that can be filled with 1300cm³ of helium as follows: 1300cm³ ÷ 50cm³ = 26.
+5. These 26 balloons will not be filled with helium, so the number of balloons that are touching the ceiling is 50 - 26 = 24.
+
+Answer: 24

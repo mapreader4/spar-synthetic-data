@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Natalie bought 2 cheesecakes, 1 apple pie, and 1 six-pack of muffins.
+2) The six-pack of muffins was 2 times more expensive than the cheesecake.
+3) One cheesecake was 25% cheaper than the apple pie.
+4) The apple pie cost $12.
+5) To find the cost of the cheesecake, we can use the information that it is 25% cheaper than the apple pie.
+   * The apple pie costs $12, so the cheesecake must cost 75% of $12, which is $9.
+6) Since the six-pack of muffins is 2 times more expensive than the cheesecake, the six-pack of muffins must cost $18.
+7) To find the total cost, we add up the cost of the 2 cheesecakes ($9 x 2 = $18), the apple pie ($12), and the six-pack of muffins ($18).
+   * Total cost = $18 + $12 + $18 = $48
+
+Answer: $48

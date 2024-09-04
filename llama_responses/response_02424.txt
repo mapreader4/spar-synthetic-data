@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Bryan's score is 20. We know that Jen scored 10 more than Bryan, so Jen's score is 20 + 10 = 30.
+
+Next, we know that Sammy scored 2 fewer than Jen. So, Sammy's score is 30 - 2 = 28.
+
+Since the total score is 35, we know that the total of Bryan's, Jen's, and Sammy's scores must be 35. We can set up an equation:
+
+Bryan's score + Jen's score + Sammy's score = 35
+
+We can substitute the scores we found earlier:
+
+20 + 30 + 28 = 35
+
+This equation is true, so it checks out. Now, we can solve for the number of mistakes Sammy made. We know that Sammy scored 28, and the total score is 35. To find the number of mistakes, we can subtract Sammy's score from the total score:
+
+35 - 28 = 7
+
+So, Sammy made 7 mistakes.

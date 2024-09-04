@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 40 ducks in the pond.
+2) 50% of the ducks are Muscovy ducks.
+   * 50% of 40 = 0.5 * 40 = 20 Muscovy ducks
+3) 30% of the Muscovy ducks are female.
+   * 30% of 20 = 0.3 * 20 = 6 female Muscovy ducks.
+
+Answer: 6

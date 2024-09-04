@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The first rocket can travel 500 ft in the air.
+2) The second rocket can travel twice as high as the first rocket.
+3) To find the height of the second rocket, we multiply the height of the first rocket by 2:
+   * Height of second rocket = 500 ft x 2 = 1000 ft
+4) To find the combined height of the two rockets, we add the height of the first rocket and the height of the second rocket:
+   * Combined height = 500 ft + 1000 ft = 1500 ft
+
+Answer: 1500

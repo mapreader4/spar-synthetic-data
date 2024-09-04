@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) The bag contains 50 fewer baseball cards than football cards.
+2) There are 4 times as many football cards as hockey cards.
+3) There are 200 hockey cards in the bag.
+
+To find the total number of cards in the bag, we need to first find the number of football cards and baseball cards.
+
+Step 1: Find the number of football cards.
+Since there are 4 times as many football cards as hockey cards, and there are 200 hockey cards, we can calculate the number of football cards as:
+Number of football cards = 4 x 200 = 800
+
+Step 2: Find the number of baseball cards.
+Since there are 50 fewer baseball cards than football cards, we can calculate the number of baseball cards as:
+Number of baseball cards = 800 - 50 = 750
+
+Step 3: Find the total number of cards in the bag.
+Total number of cards = Number of football cards + Number of baseball cards + Number of hockey cards
+Total number of cards = 800 + 750 + 200 = 1750
+
+Answer: 1750

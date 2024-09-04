@@ -1,0 +1,9 @@
+Let's break it down step by step:
+
+Let's start by identifying the number of baguettes in each batch: 3 batches, each with 48 baguettes, so that's a total of 3 * 48 = 144 baguettes.
+
+Now, let's see how many baguettes were sold in total: 37 + 52 + 49 = 138.
+
+Now, let's subtract the total baguettes sold from the total baguettes: 144 - 138 = 6.
+
+Answer: 6

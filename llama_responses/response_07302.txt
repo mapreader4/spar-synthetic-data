@@ -1,0 +1,17 @@
+Let's break down the problem step by step:
+
+The room is 20 feet wide by 20 feet long by 8 feet tall. The area of the room is the area of a rectangle, which is the product of the length and width, so it is 20 x 20 x 8 = 320 square feet.
+
+The wall with the 3-foot by 7-foot doorway has an area of 3 x 7 = 21 square feet.
+
+The wall with the 6-foot by 4-foot window has an area of 6 x 4 = 24 square feet.
+
+The wall with the 5-foot by 7-foot doorway to the walk-in-closet has an area of 5 x 7 = 35 square feet.
+
+The fourth wall is completely solid, so it has an area of 20 x 8 = 160 square feet.
+
+To find the total area of the wall space that Linda will have to paint, we need to add up the areas of all the walls. So, the total area is:
+
+21 + 24 + 35 + 160 = 220 square feet.
+
+Answer: 220

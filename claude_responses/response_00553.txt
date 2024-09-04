@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Emma buys 2 containers of milk every school day
+* She does not go to school on the weekends
+* We need to find out how many containers of milk she buys in 3 weeks
+
+First, let's calculate how many school days are in 3 weeks:
+* There are 5 school days in a week
+* 3 weeks = 15 school days
+
+Now, we can calculate the number of containers of milk she buys in 3 weeks:
+* Emma buys 2 containers of milk per school day
+* In 15 school days, she buys 2 x 15 = 30 containers of milk
+
+Answer: 30

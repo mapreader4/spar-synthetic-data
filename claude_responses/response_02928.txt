@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Oxford High School has 48 teachers
+* Oxford High School has 1 principal
+* Oxford High School has 15 classes
+* Each class has 20 students
+
+To find the total number of people in Oxford High School, we need to add up the number of teachers, the principal, and the total number of students.
+
+The number of students can be calculated as:
+* 15 classes x 20 students per class = 300 students
+
+Now, we can add up the total:
+* 48 teachers + 1 principal + 300 students = 349 people
+
+Answer: 349

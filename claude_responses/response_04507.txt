@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John takes 3 naps a week
+* Each nap is 2 hours long
+* We want to know the total number of hours of naps in 70 days
+
+First, let's calculate the number of hours of naps per week:
+* 3 naps per week x 2 hours per nap = 6 hours of naps per week
+
+Now, let's calculate the number of weeks in 70 days:
+* 70 days / 7 days per week = 10 weeks
+
+Finally, we can calculate the total number of hours of naps in 70 days:
+* 6 hours of naps per week x 10 weeks = 60 hours of naps
+
+Answer: 60

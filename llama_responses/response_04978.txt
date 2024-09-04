@@ -1,0 +1,7 @@
+To find the number of seeds Bob can plant in each row, we need to find the number of inches in a row, and then divide that by the space each seed needs.
+
+The length of each row is 120 feet, and each seed needs 18 inches, so to find the number of seeds, we divide 120 by 12.
+
+120 / 12 = 10
+
+Answer: 10

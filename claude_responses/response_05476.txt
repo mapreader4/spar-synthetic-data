@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. The pizza cost is $12 per pizza.
+2. The delivery charge is an additional $2 if the area is farther than 1 km from the pizzeria.
+3. Jimmy delivered 3 pizzas in the park, which is 100 meters away from the pizzeria. Since this is less than 1 km, there is no additional delivery charge.
+   * Cost of 3 pizzas in the park: 3 x $12 = $36
+4. Jimmy delivered 2 pizzas in a building 2 km away from the pizzeria. Since this is farther than 1 km, there is an additional $2 delivery charge per pizza.
+   * Cost of 2 pizzas in the building: 2 x $12 = $24
+   * Delivery charge for the 2 pizzas: 2 x $2 = $4
+   * Total cost for the 2 pizzas in the building: $24 + $4 = $28
+
+Now, to calculate the total amount Jimmy got paid:
+* Total amount paid = Cost of 3 pizzas in the park + Cost of 2 pizzas in the building
+* Total amount paid = $36 + $28 = $64
+
+Answer: $64

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Initially, there are:
+  - 2 cows
+  - 3 pigs
+  - 6 goats
+* The farmer plans to add:
+  - 3 cows
+  - 5 pigs
+  - 2 goats
+* To find the total number of animals on the farm, we need to add the initial number of animals and the additional animals:
+  - Cows: 2 + 3 = 5
+  - Pigs: 3 + 5 = 8
+  - Goats: 6 + 2 = 8
+* Adding up all the animals, the total number of animals on the farm will be:
+  - 5 cows + 8 pigs + 8 goats = 21 animals
+
+Answer: 21

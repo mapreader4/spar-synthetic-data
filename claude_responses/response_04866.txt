@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The number of female students is 4 times the number of male students.
+2) There are 29 male students.
+3) Therefore, the number of female students is 4 x 29 = 116.
+4) The total number of students is 29 (male) + 116 (female) = 145.
+5) There are 29 benches in the hall.
+6) To ensure all students can fit in the hall, we need to have at least 145 / 29 = 5 students per bench.
+
+Answer: 5

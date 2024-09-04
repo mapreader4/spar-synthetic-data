@@ -1,0 +1,11 @@
+To find the amount of money the company will earn, we need to calculate the total number of computers produced in a week and multiply it by the price per computer.
+
+A week has 7 days. Since the factory produces 1500 computers per day, the total number of computers produced in a week is:
+
+1500 * 7 = 10500
+
+The company sells each computer for 150 dollars. To find the total amount of money earned, we multiply the total number of computers by the price per computer:
+
+10500 * 150 = 157500
+
+Answer: 157500

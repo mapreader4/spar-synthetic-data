@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of open parking spots on each level:
+
+* First level: 58 open spots
+* Second level: 58 + 2 = 60 open spots (since there are 2 more open spots on the second level than on the first)
+* Third level: 60 + 5 = 65 open spots (since there are 5 more open spots on the third level than on the second)
+* Fourth level: 31 open spots
+
+To find the total number of open parking spots, we need to add the number of open spots on each level:
+
+58 + 60 + 65 + 31 = 214
+
+So, there are 214 open parking spots in all.

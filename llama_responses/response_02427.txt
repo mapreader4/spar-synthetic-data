@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the total amount of beef sold:
+
+* On Thursday, 210 pounds of beef were sold.
+* On Friday, 210 * 2 = 420 pounds of beef were sold.
+* On Saturday, 150 pounds of beef were sold.
+
+To find the total amount of beef sold, we add the amounts sold on Thursday, Friday, and Saturday: 210 + 420 + 150 = 780 pounds of beef were sold.
+
+To find the average amount of beef sold per day, we divide the total amount sold by the number of days: 780 pounds of beef / 3 days = 260 pounds of beef per day.
+
+Answer: 260

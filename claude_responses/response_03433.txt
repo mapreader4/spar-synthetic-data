@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The first runner runs at an average pace of 8 minutes per mile
+* The second runner runs at an average pace of 7 minutes per mile
+* After 56 minutes, the second runner stops for a drink of water
+* We need to find how many minutes the second runner could remain stopped before the first runner catches up with him
+
+First, let's calculate how far each runner has gone in 56 minutes:
+* First runner: 56 minutes / 8 minutes per mile = 7 miles
+* Second runner: 56 minutes / 7 minutes per mile = 8 miles
+
+So, the second runner has gone 1 mile further than the first runner.
+
+Now, let's calculate how long it would take the first runner to catch up to the second runner, who is stopped.
+* The first runner is running at 8 minutes per mile, so it would take him 8 minutes to cover the 1 mile distance.
+
+Therefore, the second runner could remain stopped for 8 minutes before the first runner catches up with him.
+
+Answer: 8 minutes

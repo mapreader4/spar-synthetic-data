@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Nigel won $45.
+2) He gave some of that $45 away.
+3) His mother then gave him $80 more.
+4) Now, Nigel has $10 more than twice the amount he originally had.
+
+Let's call the amount he gave away 'x'.
+* Originally, Nigel had $45 - x
+* After his mother gave him $80, he had $45 - x + $80 = $125 - x
+* The question states that he now has $10 more than twice the amount he originally had.
+* Twice the amount he originally had is 2 * ($45 - x) = $90 - 2x
+* He has $10 more than that, so his current amount is $90 - 2x + $10 = $100 - 2x
+
+We can set up an equation:
+$100 - 2x = $125 - x
+-x = $25
+x = $25
+
+Therefore, the amount of money Nigel gave away is $25.
+
+Answer: $25

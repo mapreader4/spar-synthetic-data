@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Eric has 6 points.
+2) Mark has 50% more points than Eric. This means that Mark has 1.5 times the number of points that Eric has.
+   * Mark's points = 1.5 x Eric's points = 1.5 x 6 = 9 points
+3) Samanta has 8 more points than Mark.
+   * Samanta's points = Mark's points + 8 = 9 + 8 = 17 points
+4) To find the total points of Samanta, Mark, and Eric, we add their individual points:
+   * Total points = Samanta's points + Mark's points + Eric's points
+   * Total points = 17 + 9 + 6 = 32 points
+
+Answer: 32

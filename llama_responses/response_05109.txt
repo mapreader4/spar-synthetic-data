@@ -1,0 +1,7 @@
+Let's break down the information given in the problem.
+
+The company doubled its mask production every month, so we can multiply the production by 2 each month.
+
+The company produced 3000 masks in March, so in April, the production would be 3000 * 2 = 6000. In May, the production would be 6000 * 2 = 12000. In June, the production would be 12000 * 2 = 24000. In July, the production would be 24000 * 2 = 48000.
+
+So, the total mask production of July is 48000.

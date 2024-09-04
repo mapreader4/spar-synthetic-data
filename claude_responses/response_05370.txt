@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The circle has a radius of 14 feet.
+2) The diameter of the circle is twice the radius, so the diameter is 28 feet.
+3) We want to find how many 6-inch pencils can be placed end-to-end across the diameter of the circle.
+4) To do this, we need to convert the diameter from feet to inches.
+5) 28 feet x 12 inches/foot = 336 inches.
+6) Each pencil is 6 inches long.
+7) 336 inches / 6 inches per pencil = 56 pencils.
+
+Answer: 56

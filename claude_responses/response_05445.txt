@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Kennedy's car can drive 19 miles per gallon of gas
+* She drove 15 miles to school
+* Then she drove 6 miles to the softball park
+* Then she drove 2 miles to the burger restaurant
+* Then she drove 4 miles to her friend's house
+* Finally, she drove 11 miles home
+* So the total distance she drove was:
+    - 15 miles + 6 miles + 2 miles + 4 miles + 11 miles = 38 miles
+* Since her car can drive 19 miles per gallon, we can calculate the number of gallons of gas she started with:
+    - 38 miles / 19 miles per gallon = 2 gallons
+
+Answer: 2 gallons

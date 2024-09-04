@@ -1,0 +1,9 @@
+Let's break it down step by step:
+
+1. Jaime saves $50 each week.
+2. She spends $46 every 2 weeks, which is equivalent to $23 per week.
+3. To find out how many weeks it will take her to save $135, we can divide $135 by $23. This is because we want to find the number of times it will take Jaime to save $135, given that she spends $23 each week.
+
+$135 ÷ 23 = 5.83 (round down to the nearest whole number, since we can't save a fraction of a week)
+
+Answer: 6

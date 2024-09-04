@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Mark plays a gig every other day, so he plays 7 days a week.  For each gig, he plays 3 songs.  The total number of songs played in a week is 3 * 7 = 21.
+
+2 of the songs are 5 minutes long, so those 2 songs take 2 * 5 = 10 minutes. The last song is twice as long, so that is 2 * 5 * 2 = 10 minutes. So the total time for those 3 songs is 10 + 10 + 10 = 30 minutes.
+
+Adding all the minutes together, we get 21 * 30 = 630 minutes.
+
+Answer: 630

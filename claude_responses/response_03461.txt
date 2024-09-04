@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The lion consumes 25 kilograms of meat per day
+* The tiger consumes 20 kilograms of meat per day
+* They have a total of 90 kilograms of meat
+
+To find how many days the meat will last, we need to calculate the total amount of meat consumed per day by both the lion and the tiger, and then divide the total amount of meat (90 kilograms) by the daily consumption.
+
+The total amount of meat consumed per day is:
+* 25 kilograms (lion) + 20 kilograms (tiger) = 45 kilograms per day
+
+Now, we divide the total amount of meat (90 kilograms) by the daily consumption (45 kilograms per day):
+* 90 kilograms / 45 kilograms per day = 2 days
+
+Answer: 2

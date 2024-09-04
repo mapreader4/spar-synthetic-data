@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. On the weekend, Jeff spends three times as many hours catching up with his Facebook pals as he does working.
+   * If he spends 3 hours every day catching up, that means he spends 6 hours on the weekend catching up.
+   * Since he spends three times as many hours catching up as he does working, that means he spends 2 hours on the weekend working.
+
+2. Monday through Friday, Jeff spends four times as many hours working as he does catching up.
+   * If he spends 3 hours every day catching up, that means he spends 15 hours working each weekday.
+
+3. To calculate the total hours he spends working in an entire week:
+   * Weekend working hours: 2 hours per day x 2 days = 4 hours
+   * Weekday working hours: 15 hours per day x 5 days = 75 hours
+   * Total working hours in a week = 4 hours + 75 hours = 79 hours
+
+Answer: 79 hours

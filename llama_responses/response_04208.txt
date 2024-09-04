@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Let's first find the number of pages that are filled with images. Since half of the pages are filled with images, we can find the number of pages with images as follows:
+
+98 / 2 = 49
+
+Now, the introduction takes up 11 pages. So, we subtract 11 from the number of pages with images:
+
+49 - 11 = 38
+
+The remaining pages are filled with text. Since half of these pages are filled with text, we can find the number of pages with text as follows:
+
+38 / 2 = 19
+
+Answer: 19

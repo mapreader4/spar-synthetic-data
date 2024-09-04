@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+We have 13 rows of seats. Each row is split into two sections, so each row has 2 sections. So, for each row, we can fit 2 students.
+
+For each row, we can fit 2 students. So, we can fit 2 * 13 students in the bus.
+
+Answer: 26

@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+* Laran sells 5 posters per day
+* 2 of those posters are large, which sell for $10 each
+* The large posters cost $5 each to produce
+* The remaining 3 posters are small, which sell for $6 each
+* The small posters cost $3 each to produce
+* We want to calculate the profit for a 5-day school week
+
+First, let's calculate the revenue for the large posters:
+* 2 large posters per day x $10 per poster = $20 per day
+* $20 per day x 5 days = $100 total revenue from large posters
+
+Next, let's calculate the cost of the large posters:
+* 2 large posters per day x $5 per poster = $10 per day
+* $10 per day x 5 days = $50 total cost of large posters
+
+Now, let's calculate the revenue for the small posters:
+* 3 small posters per day x $6 per poster = $18 per day
+* $18 per day x 5 days = $90 total revenue from small posters
+
+The cost of the small posters is:
+* 3 small posters per day x $3 per poster = $9 per day
+* $9 per day x 5 days = $45 total cost of small posters
+
+Finally, to calculate the total profit:
+* Total revenue = $100 (large posters) + $90 (small posters) = $190
+* Total cost = $50 (large posters) + $45 (small posters) = $95
+* Profit = Total revenue - Total cost = $190 - $95 = $95
+
+Answer: $95

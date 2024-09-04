@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Marcy has a 2-liter bottle of water
+* Each sip is 40 ml
+* She takes a sip every 5 minutes
+
+First, we need to convert the 2-liter bottle to milliliters (ml):
+* 2 liters = 2000 ml
+
+Next, we need to calculate how many sips it will take to drink the entire 2000 ml bottle:
+* 2000 ml / 40 ml per sip = 50 sips
+
+Now, we need to calculate how long it will take Marcy to take 50 sips, given that she takes a sip every 5 minutes:
+* 50 sips x 5 minutes per sip = 250 minutes
+
+Answer: 250 minutes

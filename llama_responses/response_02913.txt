@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* There are 100 tickets to be sold.
+* Andrea sold twice as many tickets as Jude.
+* Sandra sold 4 more tickets than half the number of tickets Jude sold.
+
+We know that Jude sold 16 tickets. So, we can start by finding the number of tickets Andrea sold. Since Andrea sold twice as many tickets as Jude, and Jude sold 16 tickets, Andrea must have sold 16 * 2 = 32 tickets.
+
+Now, we know Sandra sold 4 more tickets than half the number of tickets Jude sold. Since half of the number of tickets Jude sold is 16 / 2 = 8, Sandra sold 8 + 4 = 12 tickets.
+
+To find the number of tickets that need to be sold, we subtract the total number of tickets sold from the total number of tickets: 100 - (16 + 32 + 12) = 44.
+
+Answer: 44

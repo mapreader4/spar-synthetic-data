@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. The distance Kim drives to her friend's house is 30 miles.
+2. The detour is 20% longer, so the total distance she drives is 30 + 30 * 0.2 = 30 + 6 = 36 miles.
+3. She spends 30 minutes at her friend's house, which is 0.5 hours.
+4. She drives at a speed of 44 mph, so the time taken to drive to and from her friend's house is 36 / 44 = 0.81 hours.
+5. The time spent away from home is the sum of the time taken to drive there and back, which is 0.81 + 0.5 = 1.31 hours.
+
+Answer: 131

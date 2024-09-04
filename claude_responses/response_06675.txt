@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James buys 6 t-shirts
+* Each t-shirt costs $20 originally
+* The t-shirts are 50% off
+
+To calculate the total cost:
+* Each t-shirt is 50% off, so the discounted price is $20 * 0.5 = $10 per t-shirt
+* With 6 t-shirts at $10 each, the total cost is 6 * $10 = $60
+
+Answer: 60

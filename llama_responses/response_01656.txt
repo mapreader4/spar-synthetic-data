@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of trees needed to run along the fence.  The fence is 25 yards long, and the trees are 1.5 feet wide, so we can find the total number of trees needed by dividing the length of the fence by the width of each tree.  That's 25 / 1.5 = 16.67.  So, Holly needs 17 trees.
+
+Now, let's calculate the total cost of the trees.  The cost of each tree is $8.00, and she needs 17 trees, so the total cost is 17 x 8.00 = $136.00.
+
+So, the answer is: Answer: 136.

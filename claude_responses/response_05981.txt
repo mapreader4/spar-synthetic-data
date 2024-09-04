@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Cortney's internet speed is 2 megabits per minute
+* She is downloading 3 files with sizes of 80 megabits, 90 megabits, and 70 megabits
+* To calculate the total time it will take to download all the files, we need to find the time for each file and then add them together.
+
+For the first file (80 megabits):
+* Time to download = 80 megabits / 2 megabits per minute = 40 minutes
+
+For the second file (90 megabits):
+* Time to download = 90 megabits / 2 megabits per minute = 45 minutes 
+
+For the third file (70 megabits):
+* Time to download = 70 megabits / 2 megabits per minute = 35 minutes
+
+Now, we add up the time for all 3 files:
+* Total time = 40 minutes + 45 minutes + 35 minutes = 120 minutes
+
+To convert this to hours, we divide by 60 minutes per hour:
+* Total time in hours = 120 minutes / 60 minutes per hour = 2 hours
+
+Answer: 2 hours

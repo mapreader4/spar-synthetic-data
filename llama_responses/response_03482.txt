@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Cersei started with 50 cotton candies. She gave her brother and sister 5 each, so she gave away 10 cotton candies in total.
+
+Then, she gave one-fourth of the remaining cotton candies to her cousin. To find one-fourth of the remaining cotton candies, we can multiply 40 (the remaining cotton candies) by one-fourth, which is 10.
+
+So, she gave 10 cotton candies to her cousin.
+
+Now, she ate 12 cotton candies.
+
+To find the remaining cotton candies, we subtract the 12 cotton candies she ate from the 30 cotton candies she had left after giving 10 away:
+
+30 - 12 = 18
+
+So, the number of cotton candies left is 18.
+
+Answer: 18

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Sarah was approved for a business loan
+* The loan has 0% interest if she pays the entire amount back in 5 years
+* She decides to pay the loan back in 5 years
+* She put $10,000 down as a down payment
+* Her monthly payments are $600.00
+
+To find the total amount of the loan (including the down payment), we need to calculate the total amount she will pay over the 5-year period.
+
+* Monthly payment: $600.00
+* Number of months in 5 years: 5 years x 12 months/year = 60 months
+* Total amount paid over 5 years: $600.00 x 60 months = $36,000.00
+
+Now, we add the down payment of $10,000 to the total amount paid over 5 years to get the total loan amount:
+* Total loan amount = $36,000.00 + $10,000.00 = $46,000.00
+
+Answer: $46,000

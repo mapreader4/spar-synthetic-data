@@ -1,0 +1,10 @@
+Let's break this down step by step.
+
+1. The cost of the car rental is $150.
+2. For each mile, there is a 50 cents fee.
+3. He drove 620 miles on Monday.
+4. He drove 744 miles on Thursday.
+5. To find the total distance driven, we add the miles driven on Monday and Thursday: 620 + 744 = 1364 miles.
+6. To find the total cost, we multiply the distance by the fee: 1364 * 0.50 = $682.
+
+Answer: 682

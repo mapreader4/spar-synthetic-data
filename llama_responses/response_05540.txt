@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Mary ran 3/8 of a 24-kilometer field, which means she ran 24 * 3 / 8 = 9 kilometers.
+
+Edna ran 2/3 of the distance of Edna, which means she ran 2/3 of the distance Mary ran. Since Mary ran 9 kilometers, Edna ran 9 * 2/3 = 6 kilometers.
+
+Lucy ran 5/6 of the distance of Edna, which means she ran 6 * 5/6 = 5 kilometers.
+
+To find out how much more Lucy needs to run to cover the same distance as Mary, we subtract the distance Lucy ran from the distance Mary ran: 9 - 5 = 4 kilometers.
+
+Answer: 4

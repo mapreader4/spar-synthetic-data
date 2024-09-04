@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Nikka has a total of 100 stamps in her collection.
+2) 35% of the stamps are Chinese. To calculate the number of Chinese stamps, we take 35% of 100:
+35% of 100 = 0.35 * 100 = 35 Chinese stamps
+3) 20% of the stamps are US stamps. To calculate the number of US stamps, we take 20% of 100:
+20% of 100 = 0.20 * 100 = 20 US stamps
+4) The remaining stamps must be Japanese stamps. To calculate the number of Japanese stamps, we take the total number of stamps (100) and subtract the number of Chinese stamps (35) and the number of US stamps (20):
+100 - 35 - 20 = 45 Japanese stamps
+
+Answer: 45

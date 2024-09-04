@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that Jon's textbooks weigh three times as much as Brandon's textbooks, so if we let x be the weight of Brandon's textbooks, then Jon's textbooks will be 3x.
+
+We are also given the weights of Jon's textbooks as 2, 8, and 9 pounds. So, we can write the equation 2 + 8 + 9 = 19. Since this is equal to 3x, we can divide both sides of the equation by 3 to get x = 19/3 = 6.33.
+
+However, since the problem asks for an integer answer, we round 6.33 to the nearest integer, which is 6.
+
+Answer: 6

@@ -1,0 +1,14 @@
+Let's start by calculating the total time it will take to paint each type of flower:
+
+* Lilies: 17 x 5 minutes = 85 minutes
+* Roses: 10 x 7 minutes = 70 minutes
+* Orchids: 6 x 3 minutes = 18 minutes
+* Vines: 20 x 2 minutes = 40 minutes
+
+To find the total time, we add up the time it will take to paint each type of flower:
+
+85 + 70 + 18 + 40 = 213 minutes
+
+So, it will take Ellen a total of 213 minutes to paint 17 lilies, 10 roses, 6 orchids, and 20 vines.
+
+Answer: 213

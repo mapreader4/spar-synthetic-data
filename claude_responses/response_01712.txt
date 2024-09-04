@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Marlene wants to buy half a dozen shirts, which is 6 shirts.
+2) The regular price of a shirt is $50.
+3) The shirts are on sale at a 20% discount.
+4) To calculate the discounted price of a shirt, we take the regular price ($50) and subtract 20% of that price:
+   * 20% of $50 = 0.20 * $50 = $10
+   * Discounted price = $50 - $10 = $40 per shirt
+5) To calculate the total cost for 6 shirts, we multiply the discounted price ($40) by the number of shirts (6):
+   * Total cost = $40 * 6 = $240
+
+Answer: $240

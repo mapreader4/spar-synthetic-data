@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The raft could hold 21 people if no one wore life jackets
+* If everyone wore life jackets, 7 fewer people could fit on the raft
+* 8 people on the raft needed life jackets
+
+First, let's find out how many people could fit on the raft if everyone wore life jackets:
+* If 7 fewer people could fit on the raft with life jackets, then the new capacity would be 21 - 7 = 14 people
+
+Now, we know that 8 people on the raft needed life jackets. Since the raft can hold 14 people with life jackets, and 8 of those people needed life jackets, the answer is:
+Answer: 14

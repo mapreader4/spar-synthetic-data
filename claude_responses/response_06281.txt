@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that Jenna's eel is 1/3 as long as Bill's eel.
+2) We also know that the combined length of their eels is 64 inches.
+3) Let's call the length of Bill's eel "x".
+4) Since Jenna's eel is 1/3 as long as Bill's eel, the length of Jenna's eel is 1/3 * x.
+5) The combined length of their eels is 64 inches, so we can write the equation:
+   x + 1/3 * x = 64
+6) Solving for x, we get:
+   4/3 * x = 64
+   x = 48
+7) Therefore, the length of Jenna's eel is 1/3 * 48 = 16 inches.
+
+Answer: 16

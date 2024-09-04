@@ -1,0 +1,8 @@
+Let's think step by step.
+
+1. 12 people go out for lunch and order 3 pizzas.
+2. Each pizza is cut into 8 slices.
+3. To find the number of slices each person gets, we need to divide the total number of slices (total slices) by the number of people (12).
+
+Answer: 3 * 8 = 24.
+24 ÷ 12 = 2.

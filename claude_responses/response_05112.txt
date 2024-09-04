@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Alissa folds 5 pieces of letter-size paper 3 times. This means she is creating 5 smaller note papers from each set of 5 letter-size papers.
+2) Each set of 5 letter-size papers will create 5 smaller note papers.
+3) If someone writes 10 notes per day, and each notepad contains a certain number of note papers, we can calculate how long 1 notepad will last.
+4) Let's assume each notepad contains X note papers.
+5) If someone writes 10 notes per day, then 1 notepad will last X/10 days.
+
+Answer: 50

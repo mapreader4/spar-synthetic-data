@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 290 liters of oil in 24 cans
+* 10 of the cans are holding 8 liters each
+* To find the amount of oil in the remaining 14 cans, we need to:
+  1. Calculate the total amount of oil in the 10 cans holding 8 liters each:
+     * 10 cans x 8 liters per can = 80 liters
+  2. Subtract the amount of oil in the 10 cans from the total amount of oil:
+     * 290 liters - 80 liters = 210 liters
+  3. Divide the remaining 210 liters by the 14 remaining cans to find the amount of oil in each remaining can:
+     * 210 liters / 14 cans = 15 liters per can
+
+Answer: 15 liters

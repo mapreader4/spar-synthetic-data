@@ -1,0 +1,20 @@
+To solve this problem, we need to follow these steps:
+
+1. Calculate the number of lemons produced by a normal lemon tree in 5 years:
+   * A normal lemon tree produces 60 lemons per year.
+   * In 5 years, a normal lemon tree would produce 60 × 5 = 300 lemons.
+
+2. Calculate the number of lemons produced by Jim's specially engineered lemon trees in 5 years:
+   * Jim's trees produce 50% more lemons per year than a normal lemon tree.
+   * A normal lemon tree produces 60 lemons per year, so Jim's trees produce 60 × 1.5 = 90 lemons per year.
+   * In 5 years, Jim's trees would produce 90 × 5 = 450 lemons.
+
+3. Calculate the total number of trees in Jim's grove:
+   * The grove is 50 trees by 30 trees.
+   * The total number of trees in the grove is 50 × 30 = 1,500 trees.
+
+4. Calculate the total number of lemons produced in Jim's grove in 5 years:
+   * Each of Jim's trees produces 450 lemons in 5 years.
+   * The total number of lemons produced in 5 years is 1,500 × 450 = 675,000 lemons.
+
+Answer: 675,000

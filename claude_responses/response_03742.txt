@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* You originally bought 2 shirts and 3 pairs of pants for a total of $120
+* Let's call the price of a shirt 'x' and the price of a pants 'y'
+* So the original purchase was: 2x + 3y = $120
+* You then returned the 3 pairs of pants and received a 25% refund
+* The refund amount would be 0.25 * 3y = 0.75y
+* So the final amount you paid is $120 - 0.75y
+* We know that the final amount paid is for the 2 shirts, so 2x = $120 - 0.75y
+* Solving for x, we get:
+* x = ($120 - 0.75y) / 2
+* Therefore, the price of 1 shirt is:
+Answer: $60

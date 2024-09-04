@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) There are 25 different layers of rock in the canyon's strata.
+2) 5 of the layers are limestone.
+3) The remaining 20 layers are not limestone.
+4) Half of the remaining 20 layers are sandstone, which means 10 layers are sandstone.
+5) The remaining 10 layers are not sandstone.
+6) 4 of the remaining 10 layers are quartz.
+7) The remaining 6 layers are not quartz.
+8) Half of the remaining 6 layers are shale, which means 3 layers are shale.
+9) The remaining 3 layers are not shale.
+10) Therefore, the number of kinds of rock that make up only one layer in the canyon's strata is 3.
+
+Answer: 3

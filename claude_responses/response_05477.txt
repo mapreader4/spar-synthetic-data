@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Regina has 20 cows
+* She has four times more pigs than cows, so she has 4 x 20 = 80 pigs
+* She can sell each cow for $800
+* She can sell each pig for $400
+* To calculate the total money she would earn, we need to:
+   - Multiply the number of cows (20) by the price per cow ($800) to get the total for the cows: 20 x $800 = $16,000
+   - Multiply the number of pigs (80) by the price per pig ($400) to get the total for the pigs: 80 x $400 = $32,000
+   - Add the total for the cows and the total for the pigs to get the total money she would earn: $16,000 + $32,000 = $48,000
+
+Answer: $48,000

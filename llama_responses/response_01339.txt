@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+The plumber bought 10 meters of copper and 5 meters of plastic pipe. The total number of meters is 10 + 5 = 15.
+
+Each meter of copper costs $4, so the cost of 10 meters of copper is 10 * 4 = 40. Each meter of plastic pipe costs $4, so the cost of 5 meters of plastic pipe is 5 * 4 = 20.
+
+The total cost is the sum of the cost of copper and plastic pipe: 40 + 20 = 60.
+
+Answer: 60

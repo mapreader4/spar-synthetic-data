@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Grace charges $6 per hour for mowing lawns
+* She mowed lawns for 63 hours in September
+* So for mowing lawns, she earned:
+    - 63 hours x $6 per hour = $378
+* Grace charges $11 per hour for pulling weeds
+* She pulled weeds for 9 hours in September
+* So for pulling weeds, she earned:
+    - 9 hours x $11 per hour = $99
+* Grace charges $9 per hour for putting down mulch
+* She put down mulch for 10 hours in September
+* So for putting down mulch, she earned:
+    - 10 hours x $9 per hour = $90
+* To calculate her total earnings in September, we add up the earnings from each task:
+    - $378 + $99 + $90 = $567
+
+Answer: $567

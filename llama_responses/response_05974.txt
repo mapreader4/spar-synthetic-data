@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's say the number of drunk drivers is x.
+
+We know that the number of drunk drivers is less than 7 times the number of speeders, so we can write this as the equation: x < 7n, where n is the number of speeders.
+
+We are also given that the total number of students is 45. We can write this as the equation: x + 3n = 45.
+
+We can solve this equation by subtracting 3n from both sides to get: x = 45 - 3n.
+
+We know that x is less than 7n, so we can solve for n by dividing both sides of the equation by 7: n = (45 - x) / 4.
+
+We can now substitute x into the equation x < 7n to get: 7n < (45 - x) / 4.
+
+We can simplify this by multiplying both sides by 4 to get: 28n < 45 - x.
+
+Now we can subtract 45 from both sides to get: 28n < -x.
+
+We can subtract x from both sides to get: 28 = -x.
+
+So, we can subtract 28 from both sides to get: 0 = -x.
+
+We can add x to both sides to get: x = 0.
+
+So, the number of drunk drivers is 0.
+
+Answer: 0

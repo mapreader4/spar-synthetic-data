@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Donna cut the pizza into 12 slices.  So, we have 12 slices.
+
+She ate half of them for lunch, which is 12 / 2 = 6 slices.
+
+Then, she ate 1/3 of the remaining pizza for dinner.  1/3 of 6 is 6 / 3 = 2 slices.
+
+So, she ate 2 slices for dinner.
+
+To find out how many slices are left for Donna's lunch tomorrow, we subtract the 2 slices she ate for dinner from the remaining 6 slices: 6 - 2 = 4 slices.
+
+Answer: 4

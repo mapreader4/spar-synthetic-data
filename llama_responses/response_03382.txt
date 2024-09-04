@@ -1,0 +1,11 @@
+Let's break down the information given. Andrew works in a company that provides a generous vacation allotment. For every 10 days worked, you get 1 vacation day.
+
+Andrew worked 300 days last year. Since Andrew took 5 days off in March, he worked 300 - 5 = 295 days in March. 
+
+Andrew took twice as many days off in September as he did in March. He took 5 days off in March, so in September, he took 5 * 2 = 10 days off.
+
+To find out how many more vacation days Andrew can still take, we need to subtract the total vacation days taken from the total days worked. 
+
+Andrew worked 295 days, and took 15 days off. 295 - 15 = 280. So Andrew can still take 280 - 280 = 0 days off. 
+
+Andrew can take 0 days off.

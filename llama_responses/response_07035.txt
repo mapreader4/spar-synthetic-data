@@ -1,0 +1,30 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Ahmed has a total of 91 points, Emily has a total of 92 points, and the final assignment is worth the same amount as all the other assignments. We know that the total number of assignments is 9, and the final assignment is one of those assignments.
+
+We can set up an equation to represent the situation:
+
+Ahmed's total = 91
+Emily's total = 92
+
+Since the final assignment is worth the same as all the other assignments, we can subtract the final assignment from both totals to find the sum of the first 8 assignments:
+
+Ahmed's total - final assignment = 91
+Emily's total - final assignment = 92
+
+This gives us:
+
+Ahmed's 8-assignment total = 91 - 1 = 90
+Emily's 8-assignment total = 92 - 1 = 91
+
+We know that Ahmed needs to get a higher total than Emily's 8-assignment total to beat her. So, Ahmed needs to get at least 92 points on the final assignment. If he gets a 92 on the final assignment, his total would be:
+
+Ahmed's new total = 91 + 92 = 183
+
+But we know that the total number of assignments is 9, so we can add the remaining 1 point to Ahmed's new total:
+
+Ahmed's new total = 183 + 1 = 184
+
+Since Ahmed's new total is higher than Emily's 92, he has beaten her. Therefore, the minimum grade Ahmed needs to get to beat Emily is 92 on the final assignment.
+
+Answer: 92

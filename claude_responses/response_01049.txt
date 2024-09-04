@@ -1,0 +1,6 @@
+Okay, let's break this down step-by-step:
+1) The range of the scores is 75. This means the difference between the highest and lowest score is 75.
+2) The highest score is 98. So the lowest score must be 98 - 75 = 23.
+3) Mark scored twice as much as the least score, which is 23. So Mark's score must be 2 * 23 = 46.
+
+Answer: 46

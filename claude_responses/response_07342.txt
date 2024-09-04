@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* If you buy 1 shirt, you pay $10
+* If you buy 2 shirts, the first one is $10, the second one is 50% off, so it's $5. Total cost for 2 shirts is $10 + $5 = $15
+* If you buy 3 shirts, the first one is $10, the second one is 50% off at $5, and the third one is 60% off at $4. Total cost for 3 shirts is $10 + $5 + $4 = $19
+* The regular price for 3 shirts would be 3 x $10 = $30
+* The amount saved is the regular price ($30) minus the discounted price ($19)
+* Amount saved = $30 - $19 = $11
+
+Answer: 11

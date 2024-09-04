@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Ava planted 9 apple trees in her backyard
+* Lily planted 3 fewer apple trees than Ava
+* To find the number of apple trees Lily planted, we subtract 3 from the number Ava planted:
+   - Lily planted 9 - 3 = 6 apple trees
+* To find the total number of apple trees planted in their backyards collectively, we add the number Ava planted and the number Lily planted:
+   - Total apple trees planted = 9 + 6 = 15
+
+Answer: 15

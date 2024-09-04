@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the speed of each coaster. The first coaster went 50 miles per hour. The second went 62 miles per hour. The third went 73 miles per hour. The fourth went 70 miles per hour.
+
+Next, we add the speeds to find the total distance traveled by each coaster. The first coaster traveled 50 miles. The second traveled 62 miles. The third traveled 73 miles. The fourth traveled 70 miles. The total distance traveled is 50 + 62 + 73 + 70 = 245 miles.
+
+Now, we can find the average speed of the fifth coaster by dividing the total distance traveled by the time. We know the total time is the total distance traveled divided by the average speed. The average speed was 59 miles per hour. The time is 245 miles / 59 miles per hour = 4.166 hours. The speed of the fifth coaster is 59 miles per hour.
+
+Answer: 59

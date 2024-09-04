@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's first find the amount of money Aurelia made from selling her used electronics. Since Aurelia made 70% of what Lauryn made, and Lauryn made $2000, we can set up an equation to solve for Aurelia's amount:
+
+Let x be the amount Aurelia made.
+Lauryn made $2000 and Aurelia made 70% of that, so we can write the equation:
+
+x = 0.7 * 2000
+
+To solve for x, we multiply both sides by 100 to get:
+
+x = 1400
+
+So Aurelia made $1400 from selling her used electronics.
+
+Now, we need to find the total amount of money the two friends made. To do this, we add the amounts together:
+
+Lauryn made $2000 and Aurelia made $1400, so the total amount is:
+
+2000 + 1400 = 3400
+
+Answer: 3400

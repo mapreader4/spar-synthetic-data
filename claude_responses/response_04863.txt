@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The auction starts at $300.
+2) Harry is the first to bid, adding $200 to the starting value. So the bid is now $300 + $200 = $500.
+3) The second bidder doubles the bid, so the bid is now $500 x 2 = $1,000.
+4) The third bidder adds three times Harry's bid, which is 3 x $500 = $1,500. So the bid is now $1,000 + $1,500 = $2,500.
+5) Finally, Harry bids $4,000.
+6) To find how much Harry's final bid exceeded that of the third bidder, we subtract the third bidder's bid from Harry's final bid:
+$4,000 - $2,500 = $1,500.
+
+Answer: 1,500

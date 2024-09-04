@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The garbage truck passes through Daniel's neighborhood on Tuesdays, Thursdays, and Saturdays.
+* In each garbage collection, an average of 200 kg is taken.
+* The garbage truck stops passing through for two weeks due to road obstruction.
+* During the first week, people in Daniel's neighborhood pile the extra garbage around the dumpster.
+* During the second week, they apply a policy of cutting their amount of garbage in half.
+
+To calculate the total amount of garbage accumulated during the 2 weeks:
+* In a normal week, the garbage truck would collect 3 times (Tues, Thurs, Sat) x 200 kg = 600 kg.
+* During the first week with no collection, the garbage accumulated would be 600 kg.
+* During the second week, the people cut their garbage in half, so the accumulated garbage would be 600 kg / 2 = 300 kg.
+* The total accumulated garbage over the 2 weeks would be 600 kg + 300 kg = 900 kg.
+
+Answer: 900 kg

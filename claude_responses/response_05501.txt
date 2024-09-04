@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Originally, there were 32 green apples in the store.
+2) There are 200 more red apples than green apples in the store.
+3) This means that the original number of red apples was 32 + 200 = 232 red apples.
+4) A truck then delivered 340 more green apples.
+5) So the new total number of green apples is 32 + 340 = 372 green apples.
+6) The new total number of red apples is still 232.
+7) The difference between the green apples and red apples is now 372 - 232 = 140 more green apples than red apples.
+
+Answer: 140

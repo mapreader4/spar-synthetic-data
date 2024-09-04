@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Initially, there are 22 people in the waiting room
+* 3 more people arrive, so now there are 22 + 3 = 25 people in the waiting room
+* The number of people in the waiting room is now five times the number of people in the interview room
+* Let's call the number of people in the interview room "x"
+* We know that 25 = 5x, so we can solve for x
+* 25 = 5x
+* x = 25 / 5
+* x = 5
+
+Therefore, the number of people in the interview room is 5.
+
+Answer: 5

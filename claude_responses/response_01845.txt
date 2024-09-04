@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 4 types of CDs: rock and roll, pop, dance, and country
+* The prices of each type of CD are:
+  - Rock and roll: $5 each
+  - Pop: $10 each
+  - Dance: $3 each
+  - Country: $7 each
+* Julia wants to buy 4 of each type of CD
+* So the total number of CDs she wants to buy is 4 x 4 = 16 CDs
+* The total cost of the CDs would be:
+  - 4 rock and roll CDs at $5 each = $20
+  - 4 pop CDs at $10 each = $40
+  - 4 dance CDs at $3 each = $12
+  - 4 country CDs at $7 each = $28
+* The total cost of all 16 CDs is $20 + $40 + $12 + $28 = $100
+* Julia only has $75 to spend
+* Therefore, the amount of money she is short is $100 - $75 = $25
+
+Answer: $25

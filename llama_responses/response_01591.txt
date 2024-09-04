@@ -1,0 +1,9 @@
+Let's first find the total number of balloons, which is 3414 + 1762 = 5176.
+
+Now, we need to divide this by the number of schools, which is 10.
+
+5176 ÷ 10 = 517.6
+
+We can't divide the total number of balloons evenly among 10 schools, so we need to round down to the nearest whole number. In this case, that would be 517.
+
+So, each school will receive 517 balloons.

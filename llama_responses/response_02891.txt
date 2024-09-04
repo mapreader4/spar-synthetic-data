@@ -1,0 +1,11 @@
+Let the vertical distance between the riverbed and the peak of the hill be x.
+
+The given condition is that the depth of the base of the hill is 300m. So, we can set up an equation: 300 = 1/4x.
+
+To solve for x, we can multiply both sides of the equation by 4:
+
+300 = 4/4x
+300 * 4 = x
+1200 = x
+
+Answer: 1200

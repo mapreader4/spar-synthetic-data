@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who own a pet. Since 1/5 of the students are freshmen and sophomores who own a pet, and 50 percent of the students are freshmen and sophomores, then the number of students who own a pet is equal to 1/5 * 50 = 10.
+
+The total number of students is 400, and 10 own a pet, so the number of students who do not own a pet is 400 - 10 = 390.
+
+Answer: 390

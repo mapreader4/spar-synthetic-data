@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Oshea has 200 basil seeds to plant.
+2) He has 4 large planters that can hold 20 seeds each.
+3) So the large planters can hold a total of 4 * 20 = 80 seeds.
+4) That leaves 200 - 80 = 120 seeds that need to be planted in the small planters.
+5) Each small planter can hold 4 seeds.
+6) To calculate how many small planters are needed, we divide the remaining 120 seeds by 4 seeds per planter.
+7) 120 / 4 = 30 small planters.
+
+Answer: 30

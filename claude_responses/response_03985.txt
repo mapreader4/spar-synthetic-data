@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Lefty scores 20 points
+* Righty scores half as many as Lefty, so Righty scores 20 / 2 = 10 points
+* The other teammate scores 6 times as much as Righty, so the other teammate scores 10 * 6 = 60 points
+* The total points scored by the team is 20 + 10 + 60 = 90 points
+* There are 3 players on the team
+* To find the average points scored per player, we divide the total points by the number of players:
+* 90 points / 3 players = 30 points per player on average
+
+Answer: 30

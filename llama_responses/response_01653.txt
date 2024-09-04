@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's find the number of chapters left to read. There are 8 chapters in the book, and Beth has read 2 chapters already. So, the number of chapters left to read is 8 - 2 = 6.
+
+Now, let's find how many hours she needs to read the remaining chapters. If she reads 2 chapters in 3 hours, then she reads 2 / 3 = 0.67 chapters per hour. If she needs to read 6 chapters, how many hours will it take her? To find this out, we can multiply the number of chapters left to read (6) by the number of chapters she reads per hour (0.67). 6 * 0.67 = 4.
+
+Answer: 4

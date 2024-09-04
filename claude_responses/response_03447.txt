@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Chandler can eat 23 apples per week
+* Lucy can eat 19 apples per week
+* The farmer delivers 1 time per month
+* To find the total number of apples they need to order for a month, we need to:
+1. Calculate the total number of apples they can eat in a week:
+   * Chandler: 23 apples
+   * Lucy: 19 apples
+   * Total per week: 23 + 19 = 42 apples
+2. Since the farmer delivers 1 time per month, we need to multiply the weekly total by 4 weeks to get the monthly total:
+   * 42 apples per week x 4 weeks = 168 apples per month
+
+Answer: 168 apples

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Mr. Fletcher hired 2 men to dig a well
+* On the first day, they worked for 10 hours
+* On the second day, they worked for 8 hours
+* On the third day, they worked for 15 hours
+* Each man was paid $10 per hour of work
+
+To calculate the total amount of money they received, we need to:
+1. Calculate the total number of hours worked by each man
+2. Multiply the total hours worked by each man by the hourly rate of $10
+3. Multiply the result by 2, since there are 2 men
+
+Let's start with step 1:
+* Total hours worked by each man = 10 + 8 + 15 = 33 hours
+
+Now step 2:
+* Total pay for each man = 33 hours x $10 per hour = $330
+
+Finally, step 3:
+* Total pay for both men = $330 x 2 = $660
+
+Answer: $660

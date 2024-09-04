@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. Megan spends 2 hours preparing as many dishes as she can.  This means that she will make 2 hours * (60 minutes per hour) / 20 minutes per dish = 12 dishes.
+
+2. Each dish feeds 5 people.  So, the total number of people she can feed is 12 * 5 = 60 people.
+
+Answer: 60

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The public official wants to donate 5 new soccer balls per class
+* There are two schools
+* Each school has 4 elementary school classes and 5 middle school classes
+* For the first school:
+  - 4 elementary school classes x 5 soccer balls per class = 20 soccer balls
+  - 5 middle school classes x 5 soccer balls per class = 25 soccer balls
+  - Total for the first school = 20 + 25 = 45 soccer balls
+* For the second school:
+  - 4 elementary school classes x 5 soccer balls per class = 20 soccer balls
+  - 5 middle school classes x 5 soccer balls per class = 25 soccer balls
+  - Total for the second school = 20 + 25 = 45 soccer balls
+* The total number of soccer balls donated by the public official is:
+  - 45 + 45 = 90 soccer balls
+
+Answer: 90

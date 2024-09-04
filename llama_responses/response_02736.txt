@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of trips Paul makes in a day. Since he makes 3 trips out and back to his apartment each day, that is 6 trips per day. Since there are 7 days in a week, Paul makes 6 * 7 = 42 trips in a week.
+
+Next, we need to find the total distance traveled vertically. Since each story is 10 feet tall, and Paul makes 42 trips, we can multiply the number of trips by the height of each story to find the total distance.
+
+42 trips * 10 feet = 420 feet
+
+Answer: 420

@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information: there are 6 times as many lab coats as uniforms in the lab. This means that the number of lab coats is 6 times the number of uniforms. We are also given that the number of lab techs is half of the number of uniforms. 
+
+Let's let the number of uniforms be x. Then, we know that the number of lab coats is 6x. 
+
+We are also given that the number of lab techs is half of the number of uniforms, which is x. This means that the number of lab techs is x/2. 
+
+We are also given that there are 12 uniforms in the lab. We know that the number of lab coats is 6x, so we can set up an equation to solve for x. 
+
+6x = 12
+
+To solve for x, we can divide both sides by 6:
+
+x = 12 / 6
+x = 2
+
+So, each lab tech gets 2 coats and uniforms in total.

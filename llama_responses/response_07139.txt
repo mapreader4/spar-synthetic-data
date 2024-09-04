@@ -1,0 +1,7 @@
+Let's start by dividing 400 books into 2 groups, each with 200 books. 400 divided by 2 is 200.
+
+Then, each of these groups is further divided into 2 groups of 100 books each. 200 divided by 2 is 100.
+
+Then, each of these groups is divided into 3 groups of 33 books each. 100 divided by 3 is 33.
+
+Therefore, the books are divided into 3 levels of groups, each with 100, 100, and 33 books respectively.

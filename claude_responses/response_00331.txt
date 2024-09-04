@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The road is 16 miles long
+* On the first day, they paved 4 miles of the road
+* On the second day, they paved 1 mile less than double the first day, which is 7 miles
+* So the total miles paved so far is 4 + 7 = 11 miles
+* That leaves 16 - 11 = 5 miles of road remaining to be paved
+* It takes 3 truckloads of asphalt to pave 1 mile of road
+* So for the 5 remaining miles, it will take 3 * 5 = 15 truckloads of asphalt
+* Each truckload of asphalt uses 5 times as many bags of gravel as it does barrels of pitch
+* So if each truckload uses x barrels of pitch, it uses 5x bags of gravel
+* And each truckload uses 2 bags of gravel
+* So 5x = 2, which means x = 2/5 = 0.4 barrels of pitch per truckload
+* For the 15 remaining truckloads, the company will need 15 * 0.4 = 6 barrels of pitch
+
+Answer: 6 barrels of pitch

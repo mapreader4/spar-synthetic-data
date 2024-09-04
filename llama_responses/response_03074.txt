@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Initially, Carter has 20 green M&Ms and 20 red M&Ms.
+
+He eats 12 of the green M&Ms, leaving 8 green M&Ms.
+
+His sister eats half of the red M&Ms, which is 10, leaving 10 red M&Ms. Then, she adds 14 yellow M&Ms.
+
+Now, there are 8 green M&Ms, 10 red M&Ms, and 14 yellow M&Ms. In total, there are 8 + 10 + 14 = 32 M&Ms.
+
+Out of these 32 M&Ms, 8 are green, so the probability of picking a green M&M is:
+
+8 / 32 = 1/4 or 25%.
+
+So, the answer is:
+
+Answer: 25

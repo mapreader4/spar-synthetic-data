@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of passengers: 50 + 60 + 40 = 150.
+
+Since each passenger makes the plane go 2 MPH slower, we can subtract 2 MPH for each passenger. So, for 50 passengers, we subtract 100 MPH, for 60 passengers we subtract 120 MPH, and for 40 passengers we subtract 80 MPH.
+
+To find the average speed, we need to find the total distance traveled by each plane and then divide it by the total number of passengers. Let's first find the distance traveled for each plane:
+
+For the first plane, with 50 passengers, the distance traveled is 600 MPH. For the second plane, with 60 passengers, the distance traveled is 600 - 100 = 500 MPH. For the third plane, with 40 passengers, the distance traveled is 600 - 80 = 520 MPH.
+
+Now, we add the distances traveled by each plane and divide by the total number of passengers:
+
+(600 + 500 + 520) / 150 = 520 / 150 = 3.47 MPH.
+
+Answer: 3.47

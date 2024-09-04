@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+First, let's calculate the total cost of the items:
+
+10 paintings at $40 each = 10 x 40 = $400
+8 wooden toys at $20 each = 8 x 20 = $160
+Total cost = $400 + $160 = $560
+
+Mr. Callen wants to sell the items at a profit. So, he will add a profit to the total cost. Let's calculate the selling price of the paintings:
+
+Selling price of a painting = $40 + (10% of $40) = $40 + $4 = $44
+Selling price of a toy = $20 + (15% of $20) = $20 + $3 = $23
+
+Now, let's calculate the total selling price of the items:
+
+10 paintings at $44 each = 10 x 44 = $440
+8 wooden toys at $23 each = 8 x 23 = $184
+Total selling price = $440 + $184 = $624
+
+Now, let's calculate the total loss:
+
+Total selling price = $624
+Total cost = $560
+Loss = Total selling price - Total cost = $624 - $560 = $64
+
+Answer: 64

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jerome bought 5 new toy cars last month
+* This month, he bought twice as many, so he bought 10 new toy cars
+* Now, he has a total of 40 toy cars
+
+To find the number of toy cars he had originally, we can subtract the number of new cars he bought from the total number of cars he has now:
+* Total cars now: 40
+* Cars bought this month: 10
+* Cars bought last month: 5
+* Original number of cars: 40 - 10 - 5 = 25
+
+Answer: 25

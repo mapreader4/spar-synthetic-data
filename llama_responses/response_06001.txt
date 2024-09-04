@@ -1,0 +1,19 @@
+To find the average temperature, we need to add up all the temperatures and divide by the number of days.
+
+Let's start by adding up the temperatures:
+
+Sunday: 99.1
+Monday: 98.2
+Tuesday: 98.7
+Wednesday: 99.3
+Thursday: 99.8
+Friday: 99
+Saturday: 98.9
+
+Total temperature: 99.1 + 98.2 + 98.7 + 99.3 + 99.8 + 99 = 594.1
+
+There are 6 days in the week, so we divide the total temperature by 6:
+
+594.1 ÷ 6 = 99
+
+Answer: 99

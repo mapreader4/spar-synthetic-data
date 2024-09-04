@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) 75% of the cars have valid tickets. 75% of 300 cars is 0.75 * 300 = 225 cars with valid tickets.
+2) 1/5th of the 225 cars with valid tickets have permanent parking passes. 1/5 of 225 is 225 / 5 = 45 cars with permanent parking passes.
+3) The total number of cars that paid for parking is the sum of the cars with valid tickets and the cars with permanent parking passes: 225 + 45 = 270 cars.
+4) The number of cars that tried to park without paying is the total number of cars (300) minus the number of cars that paid for parking (270): 300 - 270 = 30 cars.
+
+Answer: 30

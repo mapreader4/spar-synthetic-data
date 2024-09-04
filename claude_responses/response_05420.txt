@@ -1,0 +1,13 @@
+Okay, let's solve this step-by-step:
+1) There are 19 marbles in the bowl in total.
+2) 5 of the marbles are yellow.
+3) The remaining 14 marbles (19 - 5 = 14) are split into blue and red marbles in the ratio 3:4.
+4) To find the number of blue marbles, we can use the ratio 3:4. Since the total of the blue and red marbles is 14, we can set up the following equation:
+3x + 4x = 14
+7x = 14
+x = 2
+Therefore, there are 3 * 2 = 6 blue marbles.
+5) The number of red marbles is 4 * 2 = 8.
+6) The number of red marbles (8) minus the number of yellow marbles (5) is 8 - 5 = 3.
+
+Answer: 3

@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) We are given that the sum of two numbers is 33.
+2) We are also given that the second number is twice the first number.
+3) Let's call the first number x.
+4) Then the second number is 2x.
+5) The sum of the two numbers is 33, so we can write the equation:
+x + 2x = 33
+6) Simplifying, we get:
+3x = 33
+7) Dividing both sides by 3, we get:
+x = 11
+8) Since the second number is twice the first number, the second number is 2x = 2(11) = 22.
+
+Answer: 22

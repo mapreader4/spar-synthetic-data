@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total revenue from selling pumpkins for carving. The cost is $3 per person, and they made $96. So, the number of people who came to carve pumpkins is:
+
+$96 ÷ $3 = 32
+
+So, 32 people came to carve pumpkins.
+
+Now, let's find the number of pumpkins used for carving. Since each person gets a pumpkin, and 32 people came, we can multiply the number of people by 1 to find the number of pumpkins used:
+
+32 x 1 = 32
+
+So, 32 pumpkins were used for carving.
+
+Now, let's find the number of pumpkins left over. They grew 83 pumpkins in total. After using 32 for carving, we can subtract the number of pumpkins used from the total number of pumpkins:
+
+83 - 32 = 51
+
+So, 51 pumpkins are left over.
+
+Finally, we need to find the number of cans of pie filling. They use 3 pumpkins to make 1 can of pie filling. So, we can divide the number of pumpkins left over by 3 to find the number of cans of pie filling:
+
+51 ÷ 3 = 17
+
+Answer: 17

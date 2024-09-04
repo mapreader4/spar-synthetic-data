@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Elisa and her two friends each ordered a meal worth $10
+* So the total cost of the meals was 3 x $10 = $30
+* Afterwards, they each had a scoop of the same kind of ice cream
+* Elisa had $45 and that was enough to pay for everything
+* So the total cost of the dinner, including the ice cream, was $45
+* To find the cost of a scoop of ice cream, we need to subtract the cost of the meals from the total cost:
+* Total cost: $45
+* Cost of meals: $30
+* Cost of ice cream: $45 - $30 = $15
+* Since there were 3 people, the cost of a scoop of ice cream was $15 / 3 = $5
+
+Answer: 5

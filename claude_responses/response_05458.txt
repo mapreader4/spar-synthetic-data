@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Each barrel stores 3 gallons more than twice as much as the large cask.
+2) The large cask stores 20 gallons.
+3) Twice the amount of the large cask is 2 * 20 = 40 gallons.
+4) Adding 3 gallons to that, we get 40 + 3 = 43 gallons per barrel.
+5) James has 4 barrels, so the total amount of water he can store in the barrels is 4 * 43 = 172 gallons.
+6) He also has 1 large cask that stores 20 gallons.
+7) Therefore, the total amount of water James can store is 172 + 20 = 192 gallons.
+
+Answer: 192

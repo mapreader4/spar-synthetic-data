@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Taipei 101 is 1,673 feet tall with 101 floors.
+2) The first to 100th floors each have a height of 16.5 feet.
+3) To find the height of the 101st floor, we need to subtract the total height of the first 100 floors from the total height of Taipei 101.
+4) The total height of the first 100 floors is 100 * 16.5 = 1,650 feet.
+5) The height of the 101st floor is the total height of Taipei 101 (1,673 feet) minus the total height of the first 100 floors (1,650 feet).
+6) 1,673 feet - 1,650 feet = 23 feet.
+
+Answer: 23 feet.

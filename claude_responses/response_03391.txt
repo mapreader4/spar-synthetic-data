@@ -1,0 +1,31 @@
+Okay, let's break this down step-by-step:
+* Kelly booked a 3-week vacation
+* The first day, she spent traveling
+* The next 5 days, she spent at her Grandparents' house
+* The next day, she spent traveling
+* Then, she spent the next 5 days at her brother's house
+* Then she spent two days traveling to her sister's house
+* She then spent several days at her sister's house
+* Finally, she spent two more days traveling home
+
+To find the number of days she spent at her sister's house, we need to subtract the number of days spent traveling and the number of days spent at her grandparents' and brother's houses from the total number of days in the 3-week vacation.
+
+Total number of days in 3-week vacation = 3 weeks x 7 days/week = 21 days
+
+Days spent traveling:
+* 1 day to her grandparents' house
+* 1 day to her brother's house
+* 2 days to her sister's house
+* 2 days traveling home
+Total days spent traveling = 6 days
+
+Days spent at her grandparents' and brother's houses:
+* 5 days at her grandparents' house
+* 5 days at her brother's house
+Total days spent at relatives' houses = 10 days
+
+Days spent at her sister's house = Total days - Days spent traveling - Days spent at other relatives' houses
+= 21 days - 6 days - 10 days
+= 5 days
+
+Answer: 5 days

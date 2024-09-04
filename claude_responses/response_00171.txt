@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1. James has 2 trees.
+2. Each tree has 20 plants.
+3. Each plant has 1 seed.
+4. James plants 60% of the total seeds.
+
+To calculate the total number of seeds:
+* 2 trees x 20 plants per tree = 40 plants total
+* 40 plants x 1 seed per plant = 40 seeds total
+
+Now, to calculate the number of seeds James planted:
+* 40 seeds total x 60% = 24 seeds planted
+
+Since each seed will grow into a new tree, the answer is:
+Answer: 24

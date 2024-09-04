@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* 60% of the citizens own a pet
+* Half of the pet owners own a dog
+* 30 citizens own a cat
+
+First, let's find the number of citizens who own a dog:
+* If half of the pet owners own a dog, and 60% of the citizens own a pet, then the number of dog owners is 60% / 2 = 30% of the total citizens.
+
+Now, let's find the total number of citizens in the town:
+* We know that 30 citizens own a cat, and this represents 30% of the total citizens (since 30% of citizens own a pet, and half of those own a cat).
+* Therefore, the total number of citizens is 30 / 0.3 = 100.
+
+Answer: 100

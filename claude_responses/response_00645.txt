@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The block of flats has 12 floors.
+2) Half of the floors have 6 apartments, and the other half have 5 apartments.
+3) So, the number of floors with 6 apartments is 12 / 2 = 6.
+4) The number of floors with 5 apartments is also 6.
+5) The total number of apartments in the block is:
+   - 6 floors with 6 apartments each = 6 * 6 = 36 apartments
+   - 6 floors with 5 apartments each = 6 * 5 = 30 apartments
+   - Total apartments = 36 + 30 = 66 apartments
+6) Each apartment can accommodate a maximum of 4 residents.
+7) Therefore, the maximum number of residents that can live in this block of flats is:
+   - 66 apartments * 4 residents per apartment = 264 residents
+
+Answer: 264

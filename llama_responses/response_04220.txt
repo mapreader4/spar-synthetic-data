@@ -1,0 +1,5 @@
+To solve this problem, we can start by identifying the number of cartons of gum in each brown box. Since each brown box contains 4 cartons of gum, then there are 4 x 3 = 12 cartons of gum in 1 brown box.
+
+Each carton contains 5 packs of gum, so there are 5 x 12 = 60 packs of gum in 12 cartons. Each pack contains 3 sticks of gum, so there are 60 x 3 = 180 sticks of gum in 12 cartons.
+
+Therefore, there are 180 sticks of gum in 8 brown boxes.

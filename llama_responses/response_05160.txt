@@ -1,0 +1,7 @@
+Let's start by identifying the number of ducks and geese that Rayden bought. Rayden bought 3 times as many ducks as Lily, and Lily bought 20 ducks, so Rayden bought 3 x 20 = 60 ducks. Rayden also bought 4 times as many geese as Lily, and Lily bought 10 geese, so Rayden bought 4 x 10 = 40 geese.
+
+To find the total number of ducks and geese that Rayden has, we need to add the number of ducks and geese he bought: 60 ducks + 40 geese = 100.
+
+To find how many more ducks and geese Rayden has more than Lily, we need to subtract the number of ducks and geese Lily bought from the number of ducks and geese Rayden bought. Lily bought 20 ducks, so Rayden has 60 - 20 = 40 more ducks than Lily. Lily bought 10 geese, so Rayden has 40 - 10 = 30 more geese than Lily.
+
+Answer: 30

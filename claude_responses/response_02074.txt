@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Samanta invited 12 guests to the party
+* Each guest contributed $5 towards the gift
+* Samanta herself contributed $10
+* So the total amount of money raised was:
+    - 12 guests x $5 each = $60
+    - Plus Samanta's $10 contribution = $60 + $10 = $70
+* The gift cost was lower than expected, and there was $15 leftover
+* To find the price of the gift, we take the total amount raised ($70) and subtract the leftover amount ($15)
+* $70 - $15 = $55
+
+Answer: $55

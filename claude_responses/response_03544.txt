@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The company has 100 employees.
+2) 60% of the employees drive to work. This means 60% of 100 employees, which is 60 employees, drive to work.
+3) The remaining 40% of employees do not drive to work. This means 40% of 100 employees, which is 40 employees, do not drive to work.
+4) Of the 40 employees who do not drive to work, half take public transportation. This means 50% of 40 employees, which is 20 employees, take public transportation.
+
+Answer: 20

@@ -1,0 +1,28 @@
+Let's count the number of people in the orchestra step by step.
+
+1. In the brass section, there are:
+	* 4 people playing trombone
+	* 2 people playing trumpet
+	* 1 person playing French horn
+	Total: 4 + 2 + 1 = 7 people in the brass section
+2. In the strings section, there are:
+	* 3 violinists
+	* 1 cellist
+	* 1 contrabassist
+	Total: 3 + 1 + 1 = 5 people in the strings section
+3. In the woodwinds section, there are:
+	* 3 people playing clarinets (trio)
+	* 4 people playing flutes (quartet)
+	Total: 3 + 4 = 7 people in the woodwinds section
+4. Sebastian, the drummer, is also part of the orchestra.
+5. The maestro, who conducts the orchestra, is also counted.
+
+Adding up the numbers, we get:
+	* 7 people in the brass section
+	* 5 people in the strings section
+	* 7 people in the woodwinds section
+	* 1 drummer (Sebastian)
+	* 1 maestro
+	Total: 7 + 5 + 7 + 1 + 1 = 21 people in the orchestra
+
+Answer: 21

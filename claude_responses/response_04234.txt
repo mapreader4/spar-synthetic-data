@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) We know that there are three times as many hogs as cats in King Henry's kingdom.
+2) We are told that there are 75 hogs.
+3) To find the number of cats, we can divide the number of hogs by 3:
+   * Number of cats = 75 / 3 = 25
+4) Now we need to find 60% of the number of cats:
+   * 60% of 25 = 0.6 * 25 = 15
+5) Finally, we need to find 5 less than 15:
+   * 15 - 5 = 10
+
+Answer: 10

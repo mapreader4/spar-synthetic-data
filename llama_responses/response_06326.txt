@@ -1,0 +1,8 @@
+Let's break down the problem step by step:
+
+Ali has $480 initially.
+He spent half of it on food. Half of 480 is 240.
+He had 480 - 240 = 240 left.
+Then, he spent a third of what was left on a pair of glasses. A third of 240 is 80.
+He spent 80 on the glasses, so he had 240 - 80 = 160 left.
+Answer: 160

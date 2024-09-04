@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The English exam has 30 questions and the Math exam has 15 questions.
+2) The English exam is to be completed in 1 hour, which is 60 minutes.
+3) The Math exam is to be completed in 1.5 hours, which is 90 minutes.
+4) To find the time spent on each question, we divide the total time by the number of questions:
+   - English exam: 60 minutes / 30 questions = 2 minutes per question
+   - Math exam: 90 minutes / 15 questions = 6 minutes per question
+5) The difference in time spent on each question is:
+   - 6 minutes per question (Math exam) - 2 minutes per question (English exam) = 4 minutes
+
+Answer: 4

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Mrs. Taylor bought two smart televisions
+2) Each television cost $650
+3) The total sales price had a 25% discount
+4) To find the total cost before the discount, we multiply the cost of each television by the number of televisions:
+   $650 x 2 = $1,300
+5) To find the discount amount, we take 25% of the total cost before the discount:
+   $1,300 x 0.25 = $325
+6) To find the total cost after the discount, we subtract the discount amount from the total cost before the discount:
+   $1,300 - $325 = $975
+Answer: $975

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Punger buys 60 packs of baseball cards
+* Each pack has 7 cards inside
+* To calculate the total number of cards Punger has, we multiply the number of packs (60) by the number of cards per pack (7):
+* 60 packs x 7 cards per pack = 420 cards
+* Each page can hold 10 cards
+* To calculate the number of pages Punger needs to buy, we divide the total number of cards (420) by the number of cards per page (10):
+* 420 cards / 10 cards per page = 42 pages
+
+Answer: 42

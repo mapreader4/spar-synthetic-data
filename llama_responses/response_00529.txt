@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's say the number of rides is represented by the variable "r".
+
+We know that the cost of a one-way ticket is $2, so the cost per ride is $2. We want to find the minimum number of rides so that the 30-day pass is strictly cheaper per ride.
+
+The cost of a 30-day pass is $50. So, the total cost of the 30-day pass is $50.
+
+The cost per ride is $2, so the total cost of the 30-day pass is 50 / 2 = 25 rides.
+
+So, the minimum number of rides you will need to take every month so that the 30-day pass is strictly cheaper per ride is 25.

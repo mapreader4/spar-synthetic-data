@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) The pool has a volume of 15,000 gallons.
+2) Gentry is using 4 hoses to fill the pool:
+   - 2 hoses each deliver 2 gallons per minute
+   - 2 hoses each deliver 3 gallons per minute
+3) To calculate the total rate of water delivery, we need to add up the rates of all 4 hoses:
+   - 2 hoses at 2 gallons per minute = 4 gallons per minute
+   - 2 hoses at 3 gallons per minute = 6 gallons per minute
+   - Total rate = 4 + 6 = 10 gallons per minute
+4) To find the time it takes to fill the 15,000 gallon pool, we divide the pool volume by the total rate of water delivery:
+   - Time = 15,000 gallons / 10 gallons per minute = 1,500 minutes
+5) Converting minutes to hours:
+   - 1,500 minutes / 60 minutes per hour = 25 hours
+
+Answer: 25 hours

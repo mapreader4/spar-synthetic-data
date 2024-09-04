@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mara rode the bumper car 2 times, and each ticket cost $2. So Mara spent 2 * $2 = $4 on the bumper car.
+* Riley rode the space shuttle 4 times, and each ticket cost $4. So Riley spent 4 * $4 = $16 on the space shuttle.
+* Mara and Riley both rode the Ferris wheel 3 times, and each ticket cost $5. So they both spent 3 * $5 = $15 on the Ferris wheel.
+* To calculate the total amount they spent, we add up the costs for each ride:
+* Mara's bumper car: $4
+* Riley's space shuttle: $16
+* Ferris wheel: $15
+* Total: $4 + $16 + $15 = $35
+
+Answer: 35

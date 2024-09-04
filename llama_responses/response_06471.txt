@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of grasshoppers Jemma found initially. She found 7 grasshoppers.
+
+Then, she found 2 dozen baby grasshoppers. To convert the number of baby grasshoppers to a numerical value, we can multiply 2 by 12 (since 12 is the number of grasshoppers in a dozen). So, Jemma found 2 x 12 = 24 baby grasshoppers.
+
+Now, let's add the number of grasshoppers Jemma found initially with the number of baby grasshoppers. 7 + 24 = 31.
+
+Answer: 31

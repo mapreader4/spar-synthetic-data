@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's say the number of tickets Amanda needs to sell on the third day be x.
+
+The total number of tickets she has sold is the sum of the number of tickets she sold on the first day (5 * 4 = 20) and the number of tickets she sold on the second day (32), which is 20 + 32 = 52.
+
+She needs to sell x tickets on the third day to make 80 - 52 = 28 tickets.

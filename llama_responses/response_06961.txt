@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* There are 10 cases of bottled water.
+* Each case contains 20 bottles.
+* 70 bottles of water were used during the first game.
+* After the first game, there are 20 bottles left.
+
+Let's use a variable, say 'b', to represent the number of bottles used during the second game.
+
+We know that the total number of bottles used during both games is 70, and we know that 70 - 20 = 50 bottles were used during the second game.
+
+So, the answer is: Answer: 50

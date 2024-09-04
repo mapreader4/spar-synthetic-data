@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The café has 3 local offices that each ordered 10 bacon sandwiches. That's a total of 3 * 10 = 30 bacon sandwiches for the offices.
+2) The group of customers that arrived have asked for 4 bacon sandwiches each, and half of the total 54 bacon sandwiches are for this group.
+3) So, the number of bacon sandwiches for the group of customers is 54 - 30 = 24 sandwiches.
+4) Since each customer in the group ordered 4 bacon sandwiches, the number of customers in the group is 24 / 4 = 6 customers.
+
+Answer: 6

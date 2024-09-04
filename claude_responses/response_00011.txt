@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Tobias is buying a new pair of shoes that costs $95
+* He has been saving up his money for the past 3 months
+* He gets a $5 allowance a month
+* He charges $15 to mow a lawn and $7 to shovel a driveway
+* He mowed 4 lawns
+* After buying the shoes, he has $15 in change
+
+First, let's calculate how much money Tobias saved up over the 3 months:
+* Allowance: $5 per month x 3 months = $15
+* Mowing lawns: $15 per lawn x 4 lawns = $60
+* Shoveling driveways: $7 per driveway x ? driveways = $7 x ? 
+
+Now, we know that after buying the $95 shoes, he has $15 in change. So the total amount of money he had before buying the shoes was $95 + $15 = $110.
+
+We can now set up an equation to solve for the number of driveways he shoveled:
+* Total money = Allowance + Mowing + Shoveling
+* $110 = $15 + $60 + $7 x ?
+* $35 = $7 x ?
+* ? = 5 driveways
+
+Answer: 5 driveways

@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Initially, there are 50 passengers on the bus.
+
+At the first stop, 16 more passengers get on the bus, so the total number of passengers becomes:
+
+50 + 16 = 66
+
+At the other stops, 22 passengers get off the bus, leaving the remaining:
+
+66 - 22 = 44 passengers on the bus.
+
+Then, 5 passengers get on the bus, so the total number of passengers becomes:
+
+44 + 5 = 49
+
+So, the answer is:
+
+Answer: 49

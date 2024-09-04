@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Pearl wants to order 5 monogrammed Christmas stockings for each of her 5 grandchildren and her own 4 children.
+   * Total number of stockings = 5 grandchildren x 5 stockings + 4 children x 5 stockings = 45 stockings
+
+2. The stockings are $20.00 each and currently 10% off.
+   * Original price per stocking = $20.00
+   * Discount = 10% of $20.00 = $2.00
+   * Discounted price per stocking = $20.00 - $2.00 = $18.00
+
+3. The monogramming will cost $5.00 per stocking.
+   * Total monogramming cost = 45 stockings x $5.00 = $225.00
+
+4. To calculate the total cost:
+   * Cost of stockings = 45 stockings x $18.00 = $810.00
+   * Total cost = Cost of stockings + Monogramming cost = $810.00 + $225.00 = $1,035.00
+
+Answer: $1,035

@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) We are given the perimeter of a triangle, which is 160 cm.
+2) We are also given the lengths of two of the sides, which are 40 cm and 50 cm.
+3) To find the length of the third side, we can use the formula for the perimeter of a triangle:
+Perimeter = Side 1 + Side 2 + Side 3
+4) Plugging in the values we know, we get:
+160 cm = 40 cm + 50 cm + Side 3
+5) Solving for Side 3, we get:
+Side 3 = 160 cm - 40 cm - 50 cm
+Side 3 = 70 cm
+
+Answer: 70 cm

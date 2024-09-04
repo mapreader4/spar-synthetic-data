@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Yesterday, Uncle Jerry reaped 120 tomatoes
+* Today, he reaped 50 more tomatoes than yesterday
+* To find the total number of tomatoes reaped, we need to add the number of tomatoes reaped yesterday and the number of tomatoes reaped today
+
+First, let's calculate the number of tomatoes reaped today:
+* Yesterday, he reaped 120 tomatoes
+* Today, he reaped 50 more than yesterday
+* So, today he reaped 120 + 50 = 170 tomatoes
+
+Now, to find the total number of tomatoes reaped, we add the number of tomatoes reaped yesterday and today:
+* Yesterday: 120 tomatoes
+* Today: 170 tomatoes
+* Total: 120 + 170 = 290 tomatoes
+
+Answer: 290

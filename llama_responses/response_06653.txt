@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Lillian has 3 cups of sugar initially. She buys 2 bags of sugar, each containing 6 cups of sugar. So she now has 3 + 2 * 6 = 6 + 3 = 9 cups of sugar.
+
+She uses 1 cup of sugar per 12 cupcakes, so for a dozen cupcakes, she will use 1 * 12 = 12 cups of sugar. She needs 2 cups of sugar for the frosting, so she will have 9 - 2 = 7 cups of sugar left over.
+
+She can make 7 / 1 = 7 cupcakes with the sugar she has left. So, the answer is:
+
+Answer: 7

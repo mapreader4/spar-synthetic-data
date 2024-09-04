@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Noah's bedroom light uses 6 watts per hour.
+2. His office light uses three times as much energy as his bedroom light. So, the office light uses 3 x 6 = 18 watts per hour.
+3. The living room light uses four times as much energy as his bedroom light. So, the living room light uses 4 x 6 = 24 watts per hour.
+4. Noah leaves all three lights on for two hours.
+5. To calculate the total watts used:
+   - Bedroom light: 6 watts per hour x 2 hours = 12 watts
+   - Office light: 18 watts per hour x 2 hours = 36 watts
+   - Living room light: 24 watts per hour x 2 hours = 48 watts
+6. Adding up the total watts used:
+   - 12 watts + 36 watts + 48 watts = 96 watts
+
+Answer: 96 watts

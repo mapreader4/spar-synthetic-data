@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Quinton brought 40 cupcakes to school
+* He gave 1 cupcake to each of the 18 students in Ms. Delmont's class
+* He gave 1 cupcake to each of the 16 students in Mrs. Donnelly's class
+* He gave 1 cupcake to Ms. Delmont, Mrs. Donnelly, the school nurse, and the school principal
+* To calculate the total number of cupcakes given away:
+    - 18 students in Ms. Delmont's class + 16 students in Mrs. Donnelly's class = 34 students
+    - 4 additional cupcakes given to the teachers and staff
+    - 34 students + 4 additional = 38 cupcakes given away
+* To calculate the number of cupcakes left over:
+    - Quinton brought 40 cupcakes
+    - 40 cupcakes - 38 cupcakes given away = 2 cupcakes left over
+
+Answer: 2

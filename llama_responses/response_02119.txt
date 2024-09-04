@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of oranges initially given to the students. 12 students were given 108 oranges.
+
+Let's subtract the 36 bad oranges from the total, since they were thrown away. 108 - 36 = 72.
+
+Now, to find out how many oranges each student will get, we divide the 72 oranges by the number of students, which is 12.
+
+72 / 12 = 6
+
+So, the students will get 6 oranges each.
+
+Answer: 6

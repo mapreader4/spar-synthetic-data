@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* John adopts a dog from a shelter
+* The dog has health problems that require 3 vet appointments
+* Each vet appointment costs $400
+* After the first appointment, John paid $100 for pet insurance that covers 80% of the subsequent visits
+
+So, the first vet appointment cost $400, and John paid the full amount.
+
+For the second and third vet appointments, the insurance covers 80% of the cost, so John only has to pay 20% of the $400 cost for each visit.
+
+* Second visit cost: $400 * 0.20 = $80
+* Third visit cost: $400 * 0.20 = $80
+
+Now, we can calculate the total amount John paid:
+* First visit: $400
+* Second visit: $80
+* Third visit: $80
+* Pet insurance: $100
+
+Total amount paid = $400 + $80 + $80 + $100 = $660
+
+Answer: $660

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the total number of flowers. If she has 8 bunches of flowers with 9 flowers in each bunch, she has a total of 8 x 9 = 72 flowers.
+
+If she puts 12 flowers in each bunch instead, she will have a total of 8 x 12 = 96 flowers.
+
+So, the difference between the two is 96 - 72 = 24.
+
+So, the number of bunches needed to get 96 flowers is 24 / 12 = 2.
+
+So, the answer is:
+
+Answer: 2

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 3 meatballs on each spaghetti plate
+* Theresa has 3 sons
+* Each of Theresa's sons eats two-thirds of the meatballs on their respective plates
+
+First, we need to calculate how many meatballs each son eats:
+* Each plate has 3 meatballs
+* Each son eats two-thirds of the meatballs on their plate
+* So, each son eats 2 meatballs (2/3 of 3 meatballs)
+
+Now, we need to calculate how many meatballs are left on the plates altogether:
+* There are 3 sons
+* Each son eats 2 meatballs
+* So, the total number of meatballs eaten is 3 x 2 = 6 meatballs
+* There were originally 3 meatballs on each plate, so the total number of meatballs was 3 x 3 = 9 meatballs
+* The number of meatballs left on the plates is the total number of meatballs (9) minus the number of meatballs eaten (6)
+* 9 - 6 = 3 meatballs
+
+Answer: 3

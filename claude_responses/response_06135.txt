@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) The trader initially had 55 bags of rice in stock.
+2) She then sold off some bags of rice and restocked 132 bags.
+3) After the selling and restocking, she now has 164 bags of rice.
+4) To find out how many bags of rice she sold, we can use the following equation:
+Initial Bags - Bags Sold + Restocked Bags = Final Bags
+5) Plugging in the values, we get:
+55 - Bags Sold + 132 = 164
+6) Solving for Bags Sold, we get:
+Bags Sold = 55 + 132 - 164 = 23
+
+Answer: 23

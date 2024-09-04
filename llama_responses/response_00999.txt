@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total cost of the trip for all the students. Since there are 20 students, and the cost is $7 per student, the total cost is 20 x $7 = $140.
+
+Now, the class raised $50, and each student contributed $5. So, the total amount raised is 20 x $5 = $100. The total cost of the trip is $140, so the total amount raised minus the cost of the trip is $140 - $140 = $0.
+
+So, the answer is: Answer: 0.

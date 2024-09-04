@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Bob won the 100 dollar grand prize for the first 2 weeks
+* So, he has earned 2 * $100 = $200 so far
+* The puppy he wants to buy costs $1000
+* To find the minimum number of additional weeks Bob must win first place, we need to find how many more weeks he needs to earn to reach the $1000 goal
+* To do this, we subtract the amount he has already earned ($200) from the total cost of the puppy ($1000)
+* $1000 - $200 = $800
+* Since Bob wins $100 each week he wins first place, he needs to win first place an additional 8 times to earn the remaining $800
+* Therefore, the minimum number of additional weeks Bob must win first place is 8.
+
+Answer: 8

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Let's assume that Kevin has x toads in his shoebox.
+2. Each toad is fed 3 worms.
+3. It takes 15 minutes to find each worm. 15 minutes is equivalent to 0.25 hours.
+4. It takes 6 hours to find enough worms to feed all of his toads. 6 hours is equivalent to 24 times 0.25 hours.
+5. Since 24 times 0.25 is 6, it means that 24 worms are needed to feed all of his toads.
+6. Since each toad is fed 3 worms, 24 worms are equivalent to 8 toads.
+7. Kevin has 8 toads.
+
+Answer: 8

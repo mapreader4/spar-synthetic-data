@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of crackers and cookies: 15 crackers contain 0 calories each, and cookies contain 50 calories each. So, the total number of calories in a cracker is 0 and the total number of calories in a cookie is 50.
+
+Now, we need to find the total number of crackers and cookies Jimmy needs to eat to reach a total of 500 calories.
+
+Let's call the number of crackers Jimmy needs to eat x. Then, the number of cookies he needs to eat will be the remainder of the total number of calories he needs to consume minus the total number of calories in crackers. We can set up an equation to represent this:
+
+x * 0 + 7 * 50 = 500
+
+We know that Jimmy ate 7 cookies, so we can substitute 7 for x. Now, we can solve the equation:
+
+0 + 7 * 50 = 0 + 350 = 500
+
+We can simplify the left side of the equation by combining the 0 and 0:
+
+350 = 500
+
+So, the number of crackers Jimmy needs to eat is 35.

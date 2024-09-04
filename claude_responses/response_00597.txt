@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John has 3 half-full decks of cards
+* Each half-full deck has 26 cards (half of 52)
+* So the 3 half-full decks have a total of 3 * 26 = 78 cards
+* John also has 3 full decks of cards
+* Each full deck has 52 cards
+* So the 3 full decks have a total of 3 * 52 = 156 cards
+* In total, John has 78 + 156 = 234 cards
+* John then decides to throw away 34 cards
+* So the final number of cards John has is 234 - 34 = 200 cards
+
+Answer: 200

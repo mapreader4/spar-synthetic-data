@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) We are given that the region east of plain A is 50 square miles less than the region east of plain B.
+2) We are also given that plain B has 200 square miles.
+3) Let's call the size of the region east of plain A as x.
+4) Then, the size of the region east of plain B is x + 50, since it is 50 square miles more than the region east of plain A.
+5) We know that plain B has 200 square miles, so the region east of plain B must also have 200 square miles.
+6) Therefore, x + 50 = 200, which means x = 150.
+7) So the region east of plain A has 150 square miles.
+8) The total area of the two plains is the sum of plain A and plain B, which is 150 + 200 = 350 square miles.
+
+Answer: 350 square miles.

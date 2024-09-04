@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 4 cars in the shop already
+* 6 more customers come in throughout the week
+* That's a total of 10 cars that come into the shop
+* Each car has 4 tires, so the total number of tires needed is 10 * 4 = 40 tires
+* However, 2 customers only want half their tires changed, so that's 2 * 2 = 4 tires less
+* So the total number of tires needed is 40 - 4 = 36 tires
+* The shop had 20 tires left at the end of the week
+* So the number of tires used is 36 - 20 = 16 tires
+* Since each car needs 4 tires, the number of customers who decided they did not want their tires changed is 16 / 4 = 4 customers
+
+Answer: 4 customers decided they did not want their tires changing.

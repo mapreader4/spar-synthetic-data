@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* John plays the game for 4 hours a day for 2 weeks
+* 2 weeks = 14 days
+* 4 hours per day for 14 days = 56 hours of gameplay
+* After 56 hours of gameplay, he is only 40% done with the game
+* This means the total time required to complete the game is 56 hours / 0.4 = 140 hours
+* He then increases his playtime to 7 hours per day
+* To find how long it will take him to finish the remaining 84 hours (140 hours - 56 hours), we divide 84 by 7 hours per day
+* 84 hours / 7 hours per day = 12 days
+
+Answer: 12 days

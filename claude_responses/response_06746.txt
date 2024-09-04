@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The club currently has 10 members.
+2) The club wants to have 5 more than twice their current number of members.
+3) To find the desired number of members, we can use the equation:
+Desired number of members = 2 × Current number of members + 5
+4) Plugging in the current number of members (10), we get:
+Desired number of members = 2 × 10 + 5 = 25
+5) To find the number of additional members needed, we subtract the current number of members from the desired number of members:
+Additional members needed = 25 - 10 = 15
+
+Answer: 15

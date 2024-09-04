@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+1. The team had 24 players prepared for the game. Let's say the number of players who played in the first half is represented by the variable 'x'.
+
+2. The first half saw 11 players start the game. This means that x = 11.
+
+3. The team made 2 substitutions in the first half. This means that the number of players who did not play in the first half is the number of players who started minus 2, or x - 2.
+
+4. The team made twice as many substitutions as it made in the first half. This means that the number of players who did not play in the second half is 2 * (x - 2).
+
+5. The total number of players who did not play the game is the sum of the number of players who did not play in the first half and the number of players who did not play in the second half. This is (x - 2) + 2 * (x - 2).
+
+6. To find the total number of players who did not play, we need to evaluate the expression.
+
+Answer: x - 11 - 2 + 2 * (11 - 2) = x - 11 - 2 + 2 * 9 = 9.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with Chuck. Chuck can ride the merry-go-round 5 times longer than Dave, which means he can ride it for 5 x 10 = 50 minutes before getting sick. 
+
+Now, let's look at Erica. Erica can stay on the merry-go-round 30% longer than Chuck, which is 50 + 0.3 x 30 = 15 minutes. 
+
+So, Erica can stay on the merry-go-round for 50 + 15 = 65 minutes. 
+
+Answer: 65

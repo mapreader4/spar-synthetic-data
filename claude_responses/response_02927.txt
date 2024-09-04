@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The shoe company sells $4000 worth of shoes every month
+* They want to make $60000 in an entire year
+* To calculate how much more they need to make per month, we need to:
+    1. Calculate the total amount they make in a year at the current rate of $4000 per month
+    2. Subtract that amount from the desired $60000 to get the additional amount needed
+    3. Divide the additional amount needed by the number of months in a year to get the additional amount needed per month
+
+Step 1: Calculate the total amount they make in a year at the current rate of $4000 per month
+* $4000 per month x 12 months = $48000 per year
+
+Step 2: Subtract the current yearly amount from the desired $60000 to get the additional amount needed
+* $60000 - $48000 = $12000 additional needed
+
+Step 3: Divide the additional $12000 by 12 months to get the additional amount needed per month
+* $12000 / 12 months = $1000 additional per month
+
+Answer: $1000

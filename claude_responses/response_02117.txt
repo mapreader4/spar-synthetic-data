@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The first friend runs 3 miles in 21 minutes
+* This means their pace is 3 miles / 21 minutes = 0.143 miles per minute
+* The second friend runs 3 miles in 24 minutes
+* This means their pace is 3 miles / 24 minutes = 0.125 miles per minute
+* Now, we need to find how long it will take each of them to run 5 miles at their respective paces
+* For the first friend:
+  * Pace = 0.143 miles per minute
+  * Time to run 5 miles = 5 miles / 0.143 miles per minute = 35 minutes
+* For the second friend:
+  * Pace = 0.125 miles per minute
+  * Time to run 5 miles = 5 miles / 0.125 miles per minute = 40 minutes
+* To find the combined time, we add the times for each friend:
+  * 35 minutes + 40 minutes = 75 minutes
+
+Answer: 75 minutes

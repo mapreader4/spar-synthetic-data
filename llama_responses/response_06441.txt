@@ -1,0 +1,17 @@
+Let's break down the problem step by step:
+
+1. The total amount of gifts Jaco wants to buy is 8 gifts for his friends that are worth $9 each, which is 8 * 9 = 72 dollars. He also wants to buy gifts for his mother and father that are of the same amount, so he wants 2 gifts of that same amount.
+
+2. The total amount of gifts he wants to buy for his mother and father is 2 * (gift amount) = 2 * gift amount.
+
+3. The total amount of gifts Jaco wants to buy for his friends, his mother and father is 72 + 2 * gift amount.
+
+4. The total amount of gifts Jaco has to spend is $100.
+
+5. To find the gift amount, we need to set up an equation: 72 + 2 * gift amount = 100.
+
+6. To solve for the gift amount, we need to subtract 72 from both sides of the equation: gift amount = 100 - 72.
+
+7. The gift amount is 100 - 72 = 28.
+
+Answer: 28

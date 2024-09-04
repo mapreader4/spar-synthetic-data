@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of people who will be at the party. We know that there will be 42 people at the party.
+
+We know that each batch of guacamole requires 4 avocados. To find the total number of avocados needed, we need to multiply the number of batches needed by the number of people.
+
+The number of batches of guacamole needed is 42 people / 6 people per batch = 7 batches.
+
+Since each batch requires 4 avocados, the total number of avocados needed is 7 batches * 4 avocados = 28 avocados.
+
+Answer: 28

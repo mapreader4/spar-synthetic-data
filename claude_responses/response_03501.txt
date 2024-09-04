@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Chenny bought 9 plates at $2 each
+* So the total cost of the plates is 9 x $2 = $18
+* Chenny also bought spoons at $1.50 each
+* The total amount Chenny paid was $24
+* To find the number of spoons Chenny bought, we need to subtract the cost of the plates from the total amount paid, and then divide the remaining amount by the cost of each spoon.
+* $24 - $18 = $6
+* $6 / $1.50 = 4 spoons
+
+Answer: 4

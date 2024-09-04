@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Bobby buys 2 packets of candy
+* He eats 2 candies every day from Monday through Friday (5 days)
+* That's 2 candies x 5 days = 10 candies per week
+* He eats 1 candy each during the remaining days of the week (Saturday and Sunday)
+* That's 1 candy x 2 days = 2 candies per week
+* So in total, he eats 10 + 2 = 12 candies per week
+* It takes him 3 such weeks to finish the 2 packets
+* Therefore, the total number of candies he eats is 12 candies per week x 3 weeks = 36 candies
+
+Answer: 18 candies per packet

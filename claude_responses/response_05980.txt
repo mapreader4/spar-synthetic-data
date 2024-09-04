@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Chuck has 3 pregnant dogs
+* Each dog gives birth to 4 puppies
+* So the total number of puppies born is 3 dogs x 4 puppies per dog = 12 puppies
+* Each puppy needs 2 shots
+* So the total number of shots needed is 12 puppies x 2 shots per puppy = 24 shots
+* Each shot costs $5
+* So the total cost of the shots is 24 shots x $5 per shot = $120
+
+Answer: $120

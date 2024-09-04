@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the amount in Yasmin's account before the check was deposited was x.
+
+When she deposited the check, her new balance will be x + 50.
+
+Since the check is a quarter of her new balance, that means that 25 is 1/4 of her new balance.
+
+So, 4 x 25 = 100, which means that x = 100.
+
+So, the amount in Yasmin's account before the check was deposited was 100.

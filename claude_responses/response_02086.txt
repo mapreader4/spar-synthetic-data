@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1) The necklace stand can hold 12 necklaces, and it currently holds 5 necklaces. So, the store needs to restock 12 - 5 = 7 necklaces.
+2) The ring display can hold 30 rings, and it currently holds 18 rings. So, the store needs to restock 30 - 18 = 12 rings.
+3) The bracelet display can hold 15 bracelets, and it currently holds 8 bracelets. So, the store needs to restock 15 - 8 = 7 bracelets.
+4) The supplier charges $4 per necklace, $10 per ring, and $5 per bracelet.
+5) To calculate the total cost, we need to multiply the number of items needed by the cost per item and then add them all together.
+6) For the necklaces, the cost is 7 * $4 = $28.
+7) For the rings, the cost is 12 * $10 = $120.
+8) For the bracelets, the cost is 7 * $5 = $35.
+9) The total cost is $28 + $120 + $35 = $183.
+
+Answer: $183

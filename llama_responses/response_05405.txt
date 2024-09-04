@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Socorro needs to train for a total of 5 hours. She spends 10 minutes on multiplication problems each day and 20 minutes on division problems each day. So, the total time spent on multiplication problems in a day is 10 minutes, and the total time spent on division problems in a day is 20 minutes.
+
+To find the total time spent on multiplication problems in a day, we can multiply the time spent on multiplication problems per day by the number of days:
+
+10 minutes/day * number of days = 10 * 1 = 10
+
+To find the total time spent on division problems in a day, we can multiply the time spent on division problems per day by the number of days:
+
+20 minutes/day * number of days = 20 * 1 = 20
+
+Now, we need to find the total time spent on multiplication problems in 5 hours. We can do this by adding the time spent on multiplication problems in a day to the total time spent on multiplication problems in a day, and then multiply the result by the number of days:
+
+10 * 1 + 20 * 1 = 30
+
+So, the total time spent on multiplication problems is 30 minutes. To find the total time spent on division problems, we can multiply the time spent on division problems by the number of days:
+
+30 * 1 = 30
+
+Now, we can add the total time spent on multiplication problems and the total time spent on division problems:
+
+30 + 30 = 60
+
+The total time spent on multiplication problems is 30 minutes, and the total time spent on division problems is 30 minutes. To find the total time it will take for Socorro to complete her training, we can add the total time spent on multiplication problems and the total time spent on division problems:
+
+60 minutes
+
+Answer: 60

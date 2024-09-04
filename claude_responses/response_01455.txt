@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. In the first garden, Phyllis has 20 plants, and 10% of them are tomato plants.
+   * 10% of 20 plants = 0.10 * 20 = 2 tomato plants in the first garden.
+
+2. In the second garden, Phyllis has 15 plants, and 1/3 of them are tomato plants.
+   * 1/3 of 15 plants = 15 * (1/3) = 5 tomato plants in the second garden.
+
+3. Now we need to find the total number of plants in both gardens:
+   * Total plants = 20 (first garden) + 15 (second garden) = 35 plants.
+
+4. The total number of tomato plants is the sum of the tomato plants in each garden:
+   * Total tomato plants = 2 (first garden) + 5 (second garden) = 7 tomato plants.
+
+5. To find the percentage of all the plants that are tomato plants, we divide the total tomato plants by the total plants and multiply by 100:
+   * Percentage of tomato plants = (7 / 35) * 100 = 20%
+
+Answer: 20%

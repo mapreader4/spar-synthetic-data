@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* James takes a spinning class 3 times a week
+* Each class lasts 1.5 hours
+* He burns 7 calories per minute
+
+First, we need to calculate the total number of minutes he spends in the spinning class per week:
+* 3 classes per week x 1.5 hours per class = 4.5 hours per week
+* 4.5 hours per week x 60 minutes per hour = 270 minutes per week
+
+Next, we need to calculate the number of calories he burns per week:
+* 270 minutes per week x 7 calories per minute = 1,890 calories per week
+
+Answer: 1,890 calories

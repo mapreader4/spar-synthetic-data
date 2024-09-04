@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Brenda and her 9 friends want to order a pizza, so there are 10 people total.
+2) Each person will eat 2 slices of pizza.
+3) So the total number of slices needed is 10 people x 2 slices per person = 20 slices.
+4) Each pizza has 4 slices.
+5) To find the number of pizzas needed, we divide the total number of slices needed (20) by the number of slices per pizza (4).
+6) 20 slices / 4 slices per pizza = 5 pizzas.
+
+Answer: 5

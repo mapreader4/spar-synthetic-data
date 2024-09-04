@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Albert has to run 99 meters in total
+* The track is 9 meters around
+* He has already run 6 times around the track
+* To find how many more complete laps he will have made, we need to calculate the total distance he has run so far and subtract it from the total distance he needs to run.
+
+The total distance he has run so far:
+* 6 laps around the 9-meter track = 6 * 9 = 54 meters
+
+The remaining distance he needs to run:
+* 99 meters - 54 meters = 45 meters
+
+Now, to find how many more complete laps he will make, we divide the remaining distance by the length of the track:
+* 45 meters / 9 meters per lap = 5 laps
+
+Therefore, once he finishes, he will have made 5 more complete laps around the track.
+
+Answer: 5

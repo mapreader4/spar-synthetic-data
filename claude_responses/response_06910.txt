@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John can make 20 widgets per hour
+* He works for 8 hours a day
+* He works 5 days a week
+* To calculate the number of widgets he makes per day, we multiply the number of widgets per hour (20) by the number of hours he works per day (8):
+20 widgets/hour x 8 hours/day = 160 widgets/day
+* To calculate the number of widgets he makes per week, we multiply the number of widgets per day (160) by the number of days he works per week (5):
+160 widgets/day x 5 days/week = 800 widgets/week
+
+Answer: 800

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of boys in the class. Since 60% of the students are girls, and 40% are boys, we can find the number of boys by multiplying 60% by 25 (the total number of students) to get 10.
+
+The number of boys who like playing basketball is 40% of the boys. The number of boys who don't like playing basketball is 100 - 40 = 60.
+
+The number of girls who like playing basketball is 60%. Since the number of girls who like playing basketball is double the number of boys who don't like to, we can set up the equation as:
+
+60 = 2 * 60.
+
+Now, we can solve for the number of girls who like playing basketball. 60 / 2 = 30.
+
+Answer: 30

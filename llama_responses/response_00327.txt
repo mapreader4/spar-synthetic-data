@@ -1,0 +1,11 @@
+Let's break it down step by step:
+
+1. The problem states that it takes 15 mink skins to make a coat. So, if we know how many minks are needed, we can find the number of coats Andy can make.
+
+2. The problem also states that Andy buys 30 minks. Since each mink has 6 babies, and half of the total minks are set free by activists, we can find the number of minks that are not set free.
+
+3. To find the number of minks that are not set free, we can subtract the number of minks set free from the total number of minks. 30 - (30/2) = 15 minks are not set free.
+
+4. Now, we can use the fact that it takes 15 mink skins to make a coat to find the number of coats Andy can make. Since 15 mink skins are needed to make a coat, and 15 minks are not set free, we can find the number of coats Andy can make.
+
+Answer: 1

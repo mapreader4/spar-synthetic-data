@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+The living room is a 40x40 square feet room, so the area of the three walls that Matt needs to paint is 2(40*40) + 40 = 160 square feet. The bedroom is a 10x12 rectangle, so the area of the four walls is 2(10*12) + 2(10) = 44 square feet. Adding these together, Matt needs to paint 160 + 44 = 204 square feet of wall.
+
+Answer: 204

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Ray took 10 chickens
+2) Ray took 6 chickens less than Mary, so Mary must have taken 16 chickens (10 + 6)
+3) John took 5 more chickens than Mary, so John must have taken 21 chickens (16 + 5)
+4) To find how many more chickens John took than Ray, we subtract Ray's chickens from John's chickens:
+21 chickens (John) - 10 chickens (Ray) = 11 chickens
+
+Answer: 11

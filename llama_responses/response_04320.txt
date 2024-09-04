@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, let's find the area of the mural. The area is 6m x 3m = 18 square meters.
+
+Next, let's calculate the cost of the paint. The cost of paint is $4 per square meter, so for 18 square meters, the cost would be 18 x $4 = $72.
+
+Now, let's calculate the time it takes the artist to paint the mural. The artist can paint 1.5 square meters per hour, so for 18 square meters, it would take 18 / 1.5 = 12 hours.
+
+Finally, let's calculate the cost of the artist's labor. The artist charges $10 per hour, and for 12 hours, the cost would be 12 x $10 = $120.
+
+So, the total cost of the mural would be the cost of the paint ($72) plus the cost of the artist's labor ($120), which is $72 + $120 = $192.
+
+Answer: $192.

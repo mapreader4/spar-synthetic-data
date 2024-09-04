@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's calculate the cost of the adult tickets. There are 2 adults and 1 senior citizen. So, the total cost for adult tickets is 2 x 11 + 1 x 9 = 22.
+
+Next, let's calculate the cost of the children's tickets. There are 3 children. The cost for each child is 8, so the total cost for the children's tickets is 3 x 8 = 24.
+
+Now, let's add the cost of the adult tickets and the children's tickets. 22 + 24 = 46.
+
+So, Mrs. Lopez needs to buy 46 dollars worth of movie tickets.

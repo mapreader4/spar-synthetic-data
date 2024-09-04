@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* On Wednesday, Vincent washed 6 loads of clothes.
+* On Thursday, he washed double the number of loads he did on Wednesday, which is 6 x 2 = 12 loads.
+* On Friday, he washed half the number of loads he did on Thursday, which is 12 / 2 = 6 loads.
+* On Saturday, he washed a third of the number of loads he did on Wednesday, which is 6 / 3 = 2 loads.
+
+Now, to find the total number of loads of laundry he washed that week, we add up the loads from each day:
+6 + 12 + 6 + 2 = 26 loads
+
+Answer: 26

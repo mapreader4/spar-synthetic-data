@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* For every moose, there are 2 beavers
+* For every beaver, there are 19 humans
+* There are 38 million people in Canada
+
+First, we can find the number of beavers in Canada:
+* Since there are 38 million people, and each beaver has 19 humans, we can divide 38 million by 19 to get the number of beavers
+* 38 million / 19 = 2 million beavers
+
+Next, we can find the number of moose in Canada:
+* Since there are 2 beavers for every moose, we can divide the number of beavers (2 million) by 2 to get the number of moose
+* 2 million beavers / 2 = 1 million moose
+
+Therefore, the moose population of Canada is 1 million.
+
+Answer: 1

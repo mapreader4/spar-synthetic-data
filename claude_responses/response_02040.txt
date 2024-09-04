@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Phil and Andre ordered a small cheese pizza with 8 slices and a large pepperoni pizza with 14 slices.
+* They have both eaten 9 slices already.
+* To find the number of slices left per person, we need to:
+1. Calculate the total number of slices in both pizzas:
+   * Small pizza: 8 slices
+   * Large pizza: 14 slices
+   * Total slices: 8 + 14 = 22 slices
+2. Subtract the 9 slices they have already eaten:
+   * 22 slices - 9 slices = 13 slices left
+3. Divide the remaining 13 slices evenly between Phil and Andre:
+   * 13 slices / 2 people = 6.5 slices per person
+
+Since we cannot have a half slice, we round down to the nearest whole number.
+
+Answer: 6 slices per person.

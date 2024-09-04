@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jon makes 3/4 the salary that Karen makes. This means that if Karen makes $x per month, then Jon makes 3/4 * $x = $0.75x per month.
+2) We know that Jon makes $3000 per month, so we can solve for x:
+   $3000 = 0.75x
+   x = $3000 / 0.75 = $4000
+3) This means that Karen makes $4000 per month.
+4) In 3 months, Karen makes 3 * $4000 = $12,000.
+5) To find how long it will take Jon to make the same $12,000, we divide $12,000 by his monthly salary of $3000:
+   $12,000 / $3000 = 4 months.
+
+Answer: 4 months.

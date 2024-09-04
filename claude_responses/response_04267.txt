@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* Kallie received 4000 views on the first day
+* 4 days later, the number of views had increased by a number ten times more than the views on the first day
+* 50000 more people viewed the video after another two days
+
+First, let's calculate the number of views after the first 4 days:
+* The number of views increased by a number ten times more than the first day
+* So, the increase in views = 4000 x 10 = 40,000
+* Total views after 4 days = 4000 + 40,000 = 44,000
+
+Now, after another two days, 50,000 more people viewed the video.
+* Total views = 44,000 + 50,000 = 94,000
+
+Answer: 94,000

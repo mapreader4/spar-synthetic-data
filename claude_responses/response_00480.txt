@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Kirt's initial monthly salary is $6000.
+2) After 1 year, his salary increased by 30%. To calculate the new salary, we take the initial salary and add 30% of it:
+   $6000 + (0.30 * $6000) = $6000 + $1800 = $7800 per month
+3) Kirt's salary after the 30% increase is $7800 per month.
+4) To calculate his total earnings after 3 years, we need to multiply his monthly salary by the number of months in 3 years:
+   $7800 per month * 36 months = $280,800
+
+Answer: $280,800

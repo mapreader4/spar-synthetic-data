@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out how many m&m's Cheryl had after lunch. She ate 7 m&m's after lunch, so we subtract 7 from the original 25 m&m's to find out how many she had left. 25 - 7 = 18.
+
+Now, let's find out how many m&m's she gave to her sister. She gave some to her sister, but we don't know how many. Let's say she gave x m&m's to her sister. Then, we know that Cheryl had 18 m&m's left, and we know that she gave x m&m's away. So, we can set up the equation: 18 - x = 25 - 7, because she had 25 m&m's initially and ate 7 after lunch.
+
+18 - x = 25 - 7, so x = 18 - 7, and x = 11. Therefore, Cheryl gave 11 m&m's to her sister.

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. Kona drives 9 miles from his apartment to the bakery.
+2. From the bakery, he drives 24 miles to his grandmother's house.
+3. From his grandmother's house, he drives 27 miles straight back to his apartment.
+
+Now, let's calculate the total distance he drove with the bakery stop:
+* Apartment to Bakery: 9 miles
+* Bakery to Grandmother's House: 24 miles
+* Grandmother's House to Apartment: 27 miles
+* Total distance with bakery stop: 9 + 24 + 27 = 60 miles
+
+Now, let's calculate the total distance he would have driven without the bakery stop:
+* Apartment to Grandmother's House: 27 miles
+* Grandmother's House to Apartment: 27 miles
+* Total distance without bakery stop: 27 + 27 = 54 miles
+
+To find the additional miles Kona drove with the bakery stop, we subtract the distance without the bakery stop from the distance with the bakery stop:
+* Additional miles with bakery stop: 60 - 54 = 6 miles
+
+Answer: 6 miles

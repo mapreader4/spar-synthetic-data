@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by calculating how much money Alex has left to save for the car.
+
+Alex has $14,500 to save and the car costs $14,600. So, the amount left is:
+
+$14,600 - $14,500 = $100
+
+Now, he wants to make the last of the money he will deliver groceries. He charges $1.5 per trip and then 5% of the price of the groceries. So, let's calculate how much money he will make in total.
+
+Alex makes 40 trips, so he will make 40 x $1.5 = $60 in total.
+
+Now, he will make 5% of the price of the groceries, so he will make 5% of 5% of the price of the groceries, which is 5% of 100. 5% of 100 is $5.
+
+Now, let's calculate the total money he will make:
+
+$60 + $5 = $65
+
+Now, let's see how much money he will make in total. Alex has $100 left to save, and he has made $65. So, he has:
+
+$100 - $65 = $35
+
+Alex has $35 left to save for the car. The answer is:
+
+Answer: 35

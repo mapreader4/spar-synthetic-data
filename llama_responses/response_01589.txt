@@ -1,0 +1,13 @@
+To solve this problem, we need to calculate the total amount of money the movie theater makes.
+
+First, let's calculate the total amount of money made from matinee tickets: 200 tickets at $5 each will be 200 * 5 = $1000.
+
+Next, let's calculate the total amount of money made from evening tickets: 300 tickets at $12 each will be 300 * 12 = $3600.
+
+Finally, let's calculate the total amount of money made from 3D tickets: 100 tickets at $20 each will be 100 * 20 = $2000.
+
+Now, we add the total amount of money made from each type of ticket:
+
+$1000 + $3600 + $2000 = $4600.
+
+Answer: 4600

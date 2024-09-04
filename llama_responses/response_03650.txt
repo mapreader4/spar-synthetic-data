@@ -1,0 +1,17 @@
+I will solve this problem step by step.
+
+First, Martin decided to spend no more than $1,000. Let's call this amount as x. So, x = 1000.
+
+The sales clerk offered Martin the TV for $100 less than the original price. So, the price of the TV is x - 100.
+
+The clerk also offered Martin an additional 20% off the price. To calculate the discount, I will multiply the price by 0.2.
+
+The formula to calculate the discount is: (x - 100) * 0.2 = (1000 - 100) * 0.2 = 200.
+
+To find the price of the TV, I will subtract the discount from the original price: (1000 - 100) - (100 - 20) = 100 - 20 = 80.
+
+So, the price of the TV is $80.
+
+To find how much lower the price is than Martin decided to spend, I will subtract the original amount from the price: 1000 - 80 = 920.
+
+Answer: 920

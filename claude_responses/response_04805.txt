@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 40 chess players on the island of Castor
+* A quarter of the island's chess players have never lost to an AI
+* To find the number of people who have lost to a computer at least once, we need to find the number of people who have not lost to an AI, and then subtract that from the total number of chess players
+
+First, let's find the number of people who have never lost to an AI:
+* A quarter of 40 is 40 * 1/4 = 10
+* So, 10 people on the island have never lost to an AI
+
+Now, to find the number of people who have lost to a computer at least once, we subtract the number of people who have never lost to an AI from the total number of chess players:
+* 40 - 10 = 30
+
+Answer: 30

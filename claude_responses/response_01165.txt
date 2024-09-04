@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+1) Jerry needs to shingle 3 roofs.
+2) Each roof has two slanted rectangular sides, each measuring 20 feet by 40 feet.
+3) To find the total area of one roof, we need to calculate the area of each side and then add them together.
+4) The area of one side is 20 feet x 40 feet = 800 square feet.
+5) Since there are two sides, the total area of one roof is 800 square feet + 800 square feet = 1,600 square feet.
+6) Since Jerry needs 8 shingles to cover one square foot of roof, we can calculate the total number of shingles needed for one roof by multiplying 1,600 square feet by 8 shingles per square foot.
+7) 1,600 square feet x 8 shingles per square foot = 12,800 shingles per roof.
+8) Since Jerry needs to shingle 3 roofs, the total number of shingles needed is 12,800 shingles per roof x 3 roofs = 38,400 shingles.
+
+Answer: 38,400

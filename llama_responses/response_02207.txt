@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: The football coach makes his players run up and down the bleachers 40 times.
+
+Step 2: Each time they run up and down 32 stairs one way, which means they run 64 stairs in total.
+
+Step 3: Each stair burns 2 calories.
+
+Step 4: Since they run up and down the stairs 40 times, they run 40 * 64 stairs in total.
+
+Step 5: To find the total calories burned, we multiply the total number of stairs run by the calories per stair. So, 40 * 64 * 2 = 640 calories.
+
+Answer: 640

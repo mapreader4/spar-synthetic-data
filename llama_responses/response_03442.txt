@@ -1,0 +1,10 @@
+Let's break this down step by step.
+
+1. Gary has 6 pounds of flour, which is the total amount of flour he has.
+2. He uses 4 pounds of flour to make cakes. Each cake requires 0.5 pounds of flour. So, the total amount of flour used for cakes is 4 * 0.5 = 2 pounds.
+3. The remaining amount of flour is 6 - 2 = 4 = 2 pounds.
+4. The cupcakes require 1/5 pounds of flour. 1/5 of 2 pounds is 0.2 pounds.
+5. Gary sells the cakes for $2.5 each, and the cupcakes for $1 each. The total amount of money earned from cakes is 4 * 2.5 = 10 dollars. The total amount of money earned from cupcakes is 2 * 1 = 2 dollars.
+6. Gary will earn 10 + 2 dollars = 12 dollars.
+
+Answer: 12

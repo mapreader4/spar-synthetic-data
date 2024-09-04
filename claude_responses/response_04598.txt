@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Juan bought t-shirts for his employees, both men and women
+* Women's t-shirts are $5 cheaper than men's t-shirts of the same color
+* The company has 2 sectors, one in white t-shirts and the other in black t-shirts
+* He paid $20 for white men's t-shirts and $18 for black men's t-shirts
+* The 2 sectors have the same number of men and women, with a total of 40 employees
+
+To calculate the total amount spent, we need to find the cost of each type of t-shirt and then multiply it by the number of employees.
+
+For the white t-shirts:
+* Men's white t-shirts cost $20 each
+* Women's white t-shirts cost $20 - $5 = $15 each
+* Since there are 20 employees in the white t-shirt sector, and they are split evenly between men and women, there are 10 men and 10 women
+* Total cost for white t-shirts = (10 * $20) + (10 * $15) = $350
+
+For the black t-shirts:
+* Men's black t-shirts cost $18 each
+* Women's black t-shirts cost $18 - $5 = $13 each
+* Since there are 20 employees in the black t-shirt sector, and they are split evenly between men and women, there are 10 men and 10 women
+* Total cost for black t-shirts = (10 * $18) + (10 * $13) = $310
+
+The total amount spent by Juan is the sum of the costs for the white and black t-shirts:
+* Total amount spent = $350 + $310 = $660
+
+Answer: $660

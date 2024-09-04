@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+* Samuel has $5, $10, and $20 bills in his wallet
+* The total amount in his wallet is $150
+* The $10-bills amount to $50, which means he has 5 $10-bills
+* He has 4 $20-bills
+* Now we need to find the number of $5-bills he has
+* The total amount of $5, $10, and $20 bills is $150
+* We know the $10-bills amount to $50 and the $20-bills amount to $80 (4 x $20)
+* So the remaining amount must be from the $5-bills
+* $150 - $50 - $80 = $20
+* Since each $5-bill is worth $5, the number of $5-bills he has is $20 / $5 = 4
+* Therefore, Samuel has a total of 5 $10-bills, 4 $20-bills, and 4 $5-bills in his wallet.
+
+Answer: 13 bills

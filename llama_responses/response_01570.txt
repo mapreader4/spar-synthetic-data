@@ -1,0 +1,31 @@
+Let's break down Holly's chocolate milk consumption step by step:
+
+1. She starts the day with an unknown amount of chocolate milk.
+2. She drinks 8 ounces of chocolate milk with her breakfast.
+3. Then, she buys a new 64-ounce container of chocolate milk and drinks 8 ounces of it, leaving her with 56 ounces remaining.
+4. She drinks another 8 ounces of chocolate milk with her dinner.
+5. At the end of the day, she has 56 ounces of chocolate milk left.
+
+Now, let's use the information to find out how many ounces of chocolate milk she began the day with:
+
+Let x be the number of ounces of chocolate milk Holly started with.
+
+After drinking 8 ounces with breakfast, she had x - 8 ounces left.
+
+After drinking 8 ounces from the new container, she had (x - 8) - 8 ounces left.
+
+After drinking 8 ounces with dinner, she had 56 ounces left.
+
+So, we can set up the equation:
+
+x - 8 - 8 - 8 = 56
+
+Simplifying the equation, we get:
+
+x - 24 = 56
+
+Adding 24 to both sides, we get:
+
+x = 80
+
+Answer: 80

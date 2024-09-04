@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 80 total passengers on the airplane
+* The number of men and women is equal
+* There are 30 men
+* Therefore, the number of women must also be 30, since the number of men and women is equal
+* The remaining passengers are children
+* To find the number of children, we need to subtract the number of men and women from the total number of passengers
+* Total passengers = 80
+* Number of men = 30
+* Number of women = 30
+* Number of children = 80 - 30 - 30 = 20
+
+Answer: 20

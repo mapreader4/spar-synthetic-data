@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) James gets 3 parking tickets.
+2) The first 2 tickets cost $150 each.
+3) The third ticket costs 1/3 as much as one of the first 2 tickets.
+   * 1/3 of $150 = $50
+   * So the third ticket costs $50.
+4) The total cost of the 3 tickets is:
+   * 2 x $150 = $300
+   * 1 x $50 = $50
+   * Total = $300 + $50 = $350
+5) James' roommate agrees to pay half the cost.
+   * Half of $350 = $175
+6) James has to pay the other half of the cost.
+   * $350 - $175 = $175
+7) James had $500 in the bank.
+   * $500 - $175 = $325
+
+Answer: $325

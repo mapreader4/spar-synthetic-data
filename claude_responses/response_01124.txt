@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Brie has 12 blouses, 6 skirts, and 8 slacks in her closet
+* In her hamper, she has:
+    - 75% of her blouses, which is 0.75 * 12 = 9 blouses
+    - 50% of her skirts, which is 0.50 * 6 = 3 skirts
+    - 25% of her slacks, which is 0.25 * 8 = 2 slacks
+* To calculate the total number of pieces of clothing she needs to put in the washer, we add up the number of items in the hamper:
+    - 9 blouses + 3 skirts + 2 slacks = 14 pieces of clothing
+
+Answer: 14

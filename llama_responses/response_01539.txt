@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Chris wants to sell his car for $5200. The first offer is to pay the full price if Chris pays for the car maintenance inspection, which costs a tenth of Chris's asking price. So, the offer is 1/10th of 5200, which is 520.
+
+The second offer is to pay the price if Chris replaces the headlights for $80 and the tires for three times as much. The cost of the headlights replacement is 80, and the cost of the tire replacement is 80 * 3 = 240. So, the total cost is 80 + 240 = 320.
+
+The first offer is 520, and the second offer is 320. To find the difference, we subtract 320 from 5200, and we get:
+
+5200 - 320 = 4880
+
+Answer: 4880

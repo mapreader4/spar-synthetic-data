@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There have been 15 "Where's Waldo?" books published
+* Each book has 30 puzzles to find Waldo
+* The average person takes 3 minutes to find Waldo in a puzzle
+
+To find the total time it would take to find every Waldo, we need to:
+1. Calculate the total number of puzzles across all 15 books
+2. Multiply the total number of puzzles by the average time it takes to find Waldo in a puzzle
+
+Step 1: Calculating the total number of puzzles
+* 15 books x 30 puzzles per book = 450 total puzzles
+
+Step 2: Calculating the total time to find every Waldo
+* 450 total puzzles x 3 minutes per puzzle = 1,350 minutes
+
+Therefore, it would take 1,350 minutes to find every Waldo.
+
+Answer: 1,350

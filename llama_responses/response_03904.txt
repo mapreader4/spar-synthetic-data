@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. Mary needs 6 folders, one for each class, so the total cost of folders is 6 x $6 = $36.
+2. Mary needs 6 classes x 3 pencils per class = 18 pencils. Since she needs 1 eraser for every 6 pencils, she needs 18/6 = 3 erasers. The total cost of pencils and erasers is 18 x $2 + 3 x $1 = $39.
+3. The total amount she spends is $80, so the amount spent on the set of paints is $80 - ($36 + $39) = $80 - $75 = $5.
+
+Answer: $5

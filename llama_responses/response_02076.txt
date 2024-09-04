@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Lightning McQueen, the race car, cost 140,000$.
+* Mater, the car, cost 10 percent of what Lightning McQueen cost, which is 10/100 * 140,000 = 14,000$.
+* Sally McQueen, the car, cost triple what Mater costs, which is 3 * 14,000 = 42,000$.
+
+Now, to find the cost of Sally McQueen, we can add 14,000 to 42,000 to get the total cost, which is 56,000$.
+
+Answer: 56000

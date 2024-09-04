@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Javier threw the javelin three times in the last Olympics
+* The first throw was twice as far as the second throw
+* The third throw was twice as far as the first throw
+* The sum of all three throws was 1050 meters
+
+Let's represent the distances of the three throws as:
+* First throw: x meters
+* Second throw: x/2 meters
+* Third throw: 2x meters
+
+We know that the sum of all three throws is 1050 meters, so we can set up an equation:
+x + x/2 + 2x = 1050
+
+Solving for x:
+3.5x = 1050
+x = 300 meters
+
+Therefore, Javier threw the javelin 300 meters on his first throw.
+
+Answer: 300 meters

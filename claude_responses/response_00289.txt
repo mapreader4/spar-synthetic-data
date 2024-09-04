@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Jim has a total of 301 model cars
+2) Jim has 4 times as many Buicks as Fords
+   * Let's call the number of Fords 'x'
+   * Then the number of Buicks is 4x
+3) Jim has 3 more than twice the number of Fords than Chevys
+   * The number of Chevys is 2x - 3
+4) Now we can set up an equation to solve for the number of Fords (x):
+   * Total cars = Buicks + Fords + Chevys
+   * 301 = 4x + x + 2x - 3
+   * 301 = 7x - 3
+   * 304 = 7x
+   * x = 43 (the number of Fords)
+5) Now we can calculate the number of Buicks:
+   * Buicks = 4x = 4 * 43 = 172
+
+Answer: 172

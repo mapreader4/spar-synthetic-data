@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Each horse needs twice as much water as a pig, so a horse needs 3 * 2 = 6 gallons of water.
+2. Since there are 10 horses, the total amount of water needed for the horses is 10 * 6 = 60 gallons.
+3. The chickens drink from one tank that needs 30 gallons.
+4. To find the total amount of water needed, we need to add the amount needed for the horses and the chickens. So, we add 60 + 30 = 90 gallons.
+
+Answer: 90

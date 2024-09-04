@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Carla needs to drive 8 miles to the grocery store.
+2) Then she needs to drive 6 miles to pick up her kids from school.
+3) Next, she needs to drive 12 miles to drop her kids off at soccer practice.
+4) Finally, she needs to drive twice the distance from the school to soccer practice to get everyone home again. That's 2 * 12 = 24 miles.
+5) So the total distance Carla needs to drive is 8 + 6 + 12 + 24 = 50 miles.
+6) Carla's car gets 25 miles per gallon, so to calculate the amount of gas she needs, we divide the total distance by 25:
+50 miles / 25 miles per gallon = 2 gallons of gas.
+7) Gas costs $2.50 per gallon, so the total cost of gas for Carla's trip will be:
+2 gallons * $2.50 per gallon = $5.00.
+
+Answer: $5.00.

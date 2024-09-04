@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Maurice bought 4 packages of ground beef, each package containing 5 pounds
+* So the total amount of ground beef he bought is 4 x 5 = 20 pounds
+* He wants to make one 2-pound burger for each person that attends
+* To find the number of people he can invite, we need to divide the total amount of ground beef (20 pounds) by the size of each burger (2 pounds)
+* 20 pounds / 2 pounds per burger = 10 burgers
+* Since Maurice is also attending, he can invite 9 other people to the cookout.
+
+Answer: 10

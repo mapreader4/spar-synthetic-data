@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's let x be the number of cars the factory made yesterday. The factory made 60 cars yesterday, so x = 60.
+
+Today, the factory made twice the number of cars than yesterday, so the number of cars made today is 2x. We know that 2x = 2 * x = 2 * 60 = 120.
+
+So, the factory made 120 cars today. So, the answer is:
+
+Answer: 120

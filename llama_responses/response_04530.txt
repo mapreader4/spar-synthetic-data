@@ -1,0 +1,15 @@
+Let's solve this problem step by step.
+
+Let's say Ella got 4 incorrect answers. So, she scored 4 points for those incorrect answers. If Ella's total score is x, then we know that Ella's score is 40 - 4 = x.
+
+Now, we know that Marion got 6 more than half of Ella's score. So, Marion's score is 6 + x/2.
+
+We know that Ella's score is x - 4 = 40. We can solve for x by subtracting 4 from both sides of the equation:
+
+x - 4 = 40
+
+x = 44
+
+So, Marion's score is 44 - 6 = 38.
+
+Answer: 38

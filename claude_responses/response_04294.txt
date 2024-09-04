@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Sarah saves $5.00 a week for the first 4 weeks
+* So, for the first 4 weeks, she saves:
+  * 4 weeks x $5.00 per week = $20.00
+* Then, she saves $10.00 a week for the next 4 weeks
+* So, for the next 4 weeks, she saves:
+  * 4 weeks x $10.00 per week = $40.00
+* Finally, she saves $20.00 a week for the last 4 weeks
+* So, for the last 4 weeks, she saves:
+  * 4 weeks x $20.00 per week = $80.00
+* To calculate the total amount she has saved over 12 weeks, we add up the amounts from each of the three periods:
+  * $20.00 + $40.00 + $80.00 = $140.00
+
+Answer: 140

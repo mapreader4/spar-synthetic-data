@@ -1,0 +1,30 @@
+Let's break down the problem step by step.
+
+On the first day, Remi planted 200 seedlings.
+
+On the second day, Remi planted twice the number of seedlings he planted on the first day, which is 2 x 200 = 400 seedlings.
+
+The total number of seedlings transferred to the farm on these two days is 1200. We can set up an equation to represent the situation:
+
+200 + 400 = 1200
+
+To solve for the total number of seedlings, we can subtract 200 from both sides of the equation:
+
+400 = 1200 - 200
+400 = 1000
+
+Now, we can subtract 400 from both sides of the equation to find the number of seedlings Remi's father planted:
+
+0 = 1000 - 400
+0 = 600
+
+However, this is not possible since Remi's father planted some number of seedlings. Let's re-examine the problem. We know that Remi's father planted some number of seedlings on the second day, and the total number of seedlings on both days is 1200. We can set up an equation to represent the situation:
+
+200 + x = 1200
+
+Where x is the number of seedlings Remi's father planted. To solve for x, we can subtract 200 from both sides of the equation:
+
+x = 1200 - 200
+x = 1000
+
+So, Remi's father planted 1000 seedlings on the second day. Answer: 1000

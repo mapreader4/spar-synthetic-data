@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the distance the ball travels in 8 seconds:
+
+Distance = Speed * Time
+= 20 feet/second * 8 seconds
+= 160 feet
+
+Now, let's find the distance the border collie can cover in 1 second:
+
+Distance = Speed * Time
+= 5 feet/second * 1 second
+= 5 feet
+
+Now, we need to find out how many seconds it will take the border collie to cover the distance the ball has traveled. To do this, we can divide the total distance by the distance the border collie can cover in 1 second:
+
+Number of seconds = Total distance / Distance covered in 1 second
+= 160 feet / 5 feet
+= 32 seconds
+
+So, it will take the border collie 32 seconds to catch up to the ball.

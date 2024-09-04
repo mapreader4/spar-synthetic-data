@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's assume that Andy blew up balloons for 50 minutes, and he blew 2 balloons every 5 minutes. 
+
+Since Andy blew 50 balloons, and he blew 2 balloons every 5 minutes, we can divide 50 by 2 to get the number of times he blew balloons: 50 ÷ 2 = 25.
+
+So, Andy blew balloons for 25 times, or for 25 minutes.
+
+Answer: 25

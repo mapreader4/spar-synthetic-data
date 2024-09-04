@@ -1,0 +1,9 @@
+Let's start by using variables. Let's say the number of books that Zig wrote is x.
+
+We know that Flo wrote four times as many books as Zig. So, if Zig wrote x books, Flo wrote 4x books. We also know that Flo wrote 60 books, so we can set up the equation 4x = 60.
+
+We can solve for x. To do this, we can divide both sides of the equation by 4. We get that x = 15.
+
+So, the number of books that Zig wrote is 15.
+
+Answer: 15

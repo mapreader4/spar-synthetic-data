@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Heisenberg earns $80 from 100 mg amoxicillin and $60 from 500 mg amoxicillin every week.
+* Each capsule of 100 mg amoxicillin costs $5, and each capsule of 500 mg amoxicillin costs $2.
+* To find the total number of capsules sold every 2 weeks, we need to calculate the number of capsules sold for each type of amoxicillin, and then add them together.
+
+For the 100 mg amoxicillin:
+* Heisenberg earns $80 per week from 100 mg amoxicillin.
+* Each capsule costs $5, so the number of capsules sold per week is $80 / $5 = 16 capsules.
+* Over 2 weeks, the number of 100 mg amoxicillin capsules sold is 16 x 2 = 32 capsules.
+
+For the 500 mg amoxicillin:
+* Heisenberg earns $60 per week from 500 mg amoxicillin.
+* Each capsule costs $2, so the number of capsules sold per week is $60 / $2 = 30 capsules.
+* Over 2 weeks, the number of 500 mg amoxicillin capsules sold is 30 x 2 = 60 capsules.
+
+Now, we add the number of capsules sold for each type of amoxicillin:
+* Total capsules sold every 2 weeks = 32 + 60 = 92 capsules.
+
+Answer: 92 capsules.

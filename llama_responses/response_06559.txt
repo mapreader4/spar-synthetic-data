@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the total number of tiles, which is 20.
+
+The number of blue tiles is one more than the number of yellow tiles, so let's say the number of yellow tiles is x. Then, the number of blue tiles is x + 1.
+
+The number of purple tiles is 6, so we know that x + 1 + 6 = 20. This means that x = 14, since 14 + 1 = 15, and 15 is the number of blue tiles.
+
+The number of white tiles is the remaining tiles, so the number of white tiles is 20 - (x + 1 + 6) = 20 - 15 = 5.
+
+Answer: 5

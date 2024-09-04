@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* There are 3 families of 4 people each, so that's 12 people total.
+* Each person uses 1 oversized beach towel per day.
+* The vacation rental was for 7 days.
+* So the total number of oversized beach towels used is:
+  * 12 people x 7 days = 84 oversized beach towels
+* The washing machine can hold 14 oversized beach towels per load.
+* To calculate the number of loads, we divide the total number of towels by the capacity of the washing machine:
+  * 84 towels / 14 towels per load = 6 loads
+
+Answer: 6

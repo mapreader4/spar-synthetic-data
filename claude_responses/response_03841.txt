@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Laura bought 2 pairs of pants for $54 each
+* So the total cost of the pants is 2 * $54 = $108
+* She also bought 4 shirts for $33 each
+* So the total cost of the shirts is 4 * $33 = $132
+* The total cost of the pants and shirts is $108 + $132 = $240
+* Laura gave the cashier $250
+* To calculate the change, we subtract the total cost from the amount given:
+* $250 - $240 = $10
+
+Answer: 10

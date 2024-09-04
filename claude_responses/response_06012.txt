@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The mother planted a 16-inch tree on the boy's first birthday
+* On the day the tree was planted, the boy was 24 inches tall
+* The tree grows twice as fast as the boy
+* We want to find the height of the tree when the boy is 36 inches tall
+
+First, let's calculate how much the boy has grown since the tree was planted:
+* The boy was 24 inches tall when the tree was planted
+* The boy will be 36 inches tall when we want to find the tree's height
+* So the boy has grown 36 inches - 24 inches = 12 inches
+
+Since the tree grows twice as fast as the boy, we can calculate the tree's growth:
+* The tree grows twice as fast as the boy
+* The boy has grown 12 inches
+* So the tree has grown 2 * 12 inches = 24 inches
+
+Now we can add the tree's initial height to its growth to find the final height:
+* The tree was initially 16 inches tall
+* The tree has grown 24 inches
+* So the final height of the tree is 16 inches + 24 inches = 40 inches
+
+Answer: 40 inches

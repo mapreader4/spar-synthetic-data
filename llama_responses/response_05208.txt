@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the problem. We know that the total cost of the tickets is $720. We also know that the price of an adult ticket is $15, and a child ticket is $8.
+
+Let's use the information to set up an equation. Let's say the number of adult tickets is x, and the number of child tickets is y. We know that the cost of the adult tickets is 15x, and the cost of the child tickets is 8y.
+
+We know that the total cost of the tickets is 15x + 8y = 720. We can subtract 15x from both sides of the equation to get 8y = 720 - 15x. This simplifies to 8y = 720 - 15x.
+
+Now, we can solve for y. We can divide both sides of the equation by 8 to get y = (720 - 15x) / 8.
+
+Since 720 - 15x is 720 - 15 * 25 = 360, we get y = 45.
+
+So, there are 45 children in the group.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Initially, Jordan gave Danielle 2 dozen roses, which is equivalent to 2 x 12 = 24 roses.
+
+Later, Danielle traded the box of chocolates for another dozen roses, which is 12 more roses. So, Danielle now has a total of 24 + 12 = 36 roses.
+
+Overnight, half of the roses wilted, which means 36 / 2 = 18 roses wilted. Danielle threw these away, leaving her with 36 - 18 = 18 unwilted roses.
+
+On the second day, another half of the remaining flowers wilted. Since there are 18 remaining unwilted flowers, half of them would be 18 / 2 = 9. Danielle threw these away, leaving her with 18 - 9 = 9 unwilted flowers.
+
+Answer: 9

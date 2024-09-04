@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The company has 1000 employees initially.
+* There will be three rounds of layoffs.
+* For each round of layoff, 10% of the remaining employees will be laid off.
+
+Let's calculate the number of employees laid off in each round:
+
+Round 1:
+* 10% of 1000 employees = 0.1 * 1000 = 100 employees laid off
+* Remaining employees = 1000 - 100 = 900
+
+Round 2:
+* 10% of 900 employees = 0.1 * 900 = 90 employees laid off
+* Remaining employees = 900 - 90 = 810
+
+Round 3:
+* 10% of 810 employees = 0.1 * 810 = 81 employees laid off
+* Remaining employees = 810 - 81 = 729
+
+Now, let's calculate the total number of employees laid off:
+* Total employees laid off = 100 + 90 + 81 = 271
+
+Answer: 271

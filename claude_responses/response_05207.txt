@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Kyla has 2 fewer bills than Jessa
+* Geric has twice as many bills as Kyla
+* Jessa has 7 bills left after giving 3 bills to Geric
+
+First, let's find out how many bills Jessa had originally:
+* Jessa has 7 bills left after giving 3 to Geric
+* So Jessa originally had 7 + 3 = 10 bills
+
+Next, we can find out how many bills Kyla had:
+* Kyla has 2 fewer bills than Jessa
+* So Kyla had 10 - 2 = 8 bills
+
+Now, we can find out how many bills Geric had:
+* Geric has twice as many bills as Kyla
+* So Geric had 8 x 2 = 16 bills
+
+Answer: 16

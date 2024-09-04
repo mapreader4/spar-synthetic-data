@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John reads his bible for 2 hours a day
+* He reads at a rate of 50 pages per hour
+* The bible is 2800 pages long
+
+To calculate how many pages John can read in a day:
+* 2 hours per day x 50 pages per hour = 100 pages per day
+
+Now, to calculate how many days it will take him to read the entire 2800 page bible:
+* 2800 pages / 100 pages per day = 28 days
+
+Finally, to convert this to weeks:
+* 28 days / 7 days per week = 4 weeks
+
+Answer: 4 weeks

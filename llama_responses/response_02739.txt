@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Legacy has 5 bars of gold.
+* Aleena has 2 bars fewer than Legacy.
+* A bar of gold is worth $2200.
+
+Since Legacy has 5 bars, and Aleena has 2 bars fewer than Legacy, we can find the number of bars Aleena has by subtracting 2 from 5:
+
+5 - 2 = 3
+
+So, Aleena has 3 bars of gold.
+
+The total number of bars of gold the three have together is the sum of the number of bars each has:
+
+5 (Legacy) + 3 (Aleena) = 8
+
+Now, we can multiply the number of bars by the value of a bar to find the total value of gold:
+
+8 x $2200 = $17600
+
+Answer: 17600

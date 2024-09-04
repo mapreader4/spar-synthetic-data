@@ -1,0 +1,27 @@
+Let's break this down step by step.
+
+Let's say Chris takes t hours to walk 9 miles to school. Since Chris walks at a speed of 3 miles per hour, we can set up an equation to represent the time it takes Chris to get to school:
+
+t * 3 = 9
+
+We can solve for t by dividing both sides by 3:
+
+t = 9 / 3
+t = 3
+
+So it takes Chris 3 hours to get to school.
+
+Now, Mark walks 3 miles and then turns around and goes home. This means that Mark walks a total of 6 miles. Since Mark also walks at a speed of 3 miles per hour, we can find the time it takes Mark to get home by setting up an equation:
+
+6 / 3 = t
+
+We can solve for t by dividing both sides by 3:
+
+t = 6 / 3
+t = 2
+
+So it takes Mark 2 hours to get home.
+
+Since Mark and Chris leave at the same time, Mark spends 2 hours more than Chris to get home. So the answer is:
+
+Answer: 2

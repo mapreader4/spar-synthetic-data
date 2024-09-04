@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) We know that the price of 2 kg of sugar and 5 kg of salt is $5.50.
+2) We also know that the price of 1 kg of sugar is $1.50.
+3) We want to find the price of 3 kg of sugar and 1 kg of salt.
+4) First, let's find the price of 1 kg of salt:
+   - The total price of 2 kg of sugar and 5 kg of salt is $5.50.
+   - The cost of 2 kg of sugar is 2 * $1.50 = $3.00.
+   - So the cost of 5 kg of salt must be $5.50 - $3.00 = $2.50.
+   - Therefore, the price of 1 kg of salt is $2.50 / 5 = $0.50.
+5) Now, the price of 3 kg of sugar and 1 kg of salt is:
+   - 3 kg of sugar at $1.50 per kg = 3 * $1.50 = $4.50
+   - 1 kg of salt at $0.50 per kg = 1 * $0.50 = $0.50
+   - Total price = $4.50 + $0.50 = $5.00
+
+Answer: $5.00

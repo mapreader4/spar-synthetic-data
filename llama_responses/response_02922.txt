@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Sabrina needs twice as many basil leaves as sage leaves. So, if she needs 12 basil leaves, she needs 12 x 2 = 24 basil leaves.
+
+She also needs 5 fewer sage leaves than verbena leaves. Let's assume she needs x sage leaves. Then, she needs x - 5 sage leaves.
+
+The total number of leaves needed is the sum of basil leaves and sage leaves: 24 (basil) + x (sage) + verbena leaves.
+
+Since she needs 12 basil leaves, she needs 24 basil leaves. The equation becomes 24 + x - 5 + verbena leaves.
+
+We know that she needs 12 basil leaves, so we can substitute 24 with 12: 12 + x - 5 + verbena leaves.
+
+We can add 12 to both sides of the equation to get 12 + x + 12 - 5 + verbena leaves.
+
+This is the same as 12 + x + 7 + verbena leaves.
+
+We know that 12 + 7 = 19, so the total number of leaves is 19 + verbena leaves.
+
+Answer: 19

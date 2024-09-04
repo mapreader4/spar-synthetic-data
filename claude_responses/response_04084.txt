@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Rose bought her mother one dozen flowers, which is 12 flowers.
+2) Two of the flowers are daisies, so that leaves 12 - 2 = 10 flowers that are not daisies.
+3) Three-fifths of the remaining 10 flowers are tulips. To find how many tulips there are, we take 3/5 of 10, which is 3/5 * 10 = 6 tulips.
+4) The remaining flowers that are not daisies or tulips must be sunflowers. To find how many sunflowers there are, we take the total number of non-daisy flowers (10) and subtract the number of tulips (6):
+10 - 6 = 4 sunflowers.
+
+Answer: 4

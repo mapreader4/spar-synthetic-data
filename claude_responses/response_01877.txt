@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Last week, Maya read 5 books
+* Each book had 300 pages of text
+* So, the total number of pages read last week is:
+    - 5 books x 300 pages per book = 1,500 pages
+* This week, Maya read twice as much as last week
+* So, the total number of pages read this week is:
+    - 2 x 1,500 pages = 3,000 pages
+* To find the total number of pages read, we add the pages read last week and this week:
+    - 1,500 pages + 3,000 pages = 4,500 pages
+
+Answer: 4,500

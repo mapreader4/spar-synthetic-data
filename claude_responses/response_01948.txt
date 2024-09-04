@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Tonya sold lemonade in small, medium, and large cups
+* The prices for the cups are $1 for small, $2 for medium, and $3 for large
+* Tonya made a total of $50 at the end of the day
+* She sold $11 worth of small lemonades and $24 worth of medium lemonades
+
+To find the number of large lemonades sold, we can use the following equation:
+
+Total Revenue = Revenue from Small Lemonades + Revenue from Medium Lemonades + Revenue from Large Lemonades
+
+We know the total revenue is $50, and we know the revenue from small and medium lemonades, so we can plug those values in:
+
+$50 = $11 + $24 + Revenue from Large Lemonades
+
+Solving for the revenue from large lemonades:
+Revenue from Large Lemonades = $50 - $11 - $24
+Revenue from Large Lemonades = $15
+
+Since the price of a large lemonade is $3, we can divide the revenue from large lemonades by $3 to find the number of large lemonades sold:
+
+Number of Large Lemonades Sold = $15 / $3 = 5
+
+Answer: 5

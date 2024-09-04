@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Tim learns 10 words from the book per day
+* In 2 years, the number of words he knows has increased by 50%
+* We need to find the original number of words he knew
+
+First, let's calculate how many words he learned in 2 years:
+* 10 words per day x 365 days per year x 2 years = 7,300 words learned
+
+Now, we know that the total number of words he knows has increased by 50%. This means that the original number of words he knew plus the 7,300 words he learned is 150% of the original number.
+
+Let's call the original number of words he knew "x".
+* x + 7,300 = 1.5x
+* 0.5x = 7,300
+* x = 14,600
+
+Therefore, the original number of words Tim knew was 14,600.
+
+Answer: 14,600

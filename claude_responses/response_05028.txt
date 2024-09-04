@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+* The problem states that it takes 1 person 10 hours to solve the problem.
+* This means the amount of work required to solve the problem is 10 hours.
+* If we add a second person who is equally good at math, the two of them can work together to solve the problem.
+* Since they are equally good, the amount of work they can complete in 1 hour is double the amount of work 1 person can complete in 1 hour.
+* Therefore, the two people working together can complete the 10 hours of work in half the time, which is 5 hours.
+
+Answer: 5

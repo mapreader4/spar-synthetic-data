@@ -1,0 +1,21 @@
+Let's start by identifying the information given in the problem:
+
+* Gracie is 7 inches shorter than Grayson.
+* Grayson is 2 inches taller than Griffin.
+* Griffin is 61 inches tall.
+
+From the information given, we can set up an equation to find the height of Gracie:
+
+Gracie = Grayson - 7
+Grayson = Griffin + 2
+Grayson = Griffin - 61
+
+We can solve the equation step by step:
+
+Grayson = Griffin - 61 + 2 = Grayson - 59
+Grayson - 7 = Grayson - 59
+Gracie = Grayson - 7 - 7
+Gracie = 59 - 7
+Gracie = 52
+
+So, Gracie is 52 inches tall.

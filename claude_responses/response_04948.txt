@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Each box of decorations contains:
+  - 4 pieces of tinsel
+  - 1 Christmas tree
+  - 5 snow globes
+* 11 families receive a box of decorations
+* 1 more box is given to the community center
+* To calculate the total number of decorations handed out:
+  - For the 11 families:
+    - 11 boxes x 4 pieces of tinsel = 44 pieces of tinsel
+    - 11 boxes x 1 Christmas tree = 11 Christmas trees
+    - 11 boxes x 5 snow globes = 55 snow globes
+  - For the 1 box given to the community center:
+    - 1 box x 4 pieces of tinsel = 4 pieces of tinsel
+    - 1 box x 1 Christmas tree = 1 Christmas tree
+    - 1 box x 5 snow globes = 5 snow globes
+* Summing up the totals:
+  - Total pieces of tinsel: 44 + 4 = 48
+  - Total Christmas trees: 11 + 1 = 12
+  - Total snow globes: 55 + 5 = 60
+
+Answer: 120 decorations have been handed out.

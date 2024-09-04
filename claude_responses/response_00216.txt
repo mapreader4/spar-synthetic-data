@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Missy had a giant piggy bank in her bedroom
+* Every day, she would search the house for change to put in her bank
+* After 4 years, the bank was opened and it contained $450 in change
+* The second, third, and fourth-year, she doubled the amount of money she put in the bank from the previous year
+
+Let's call the amount of money she put in the bank in the first year "x".
+
+In the second year, she put in 2x.
+In the third year, she put in 2(2x) = 4x.
+In the fourth year, she put in 2(4x) = 8x.
+
+The total amount of money in the bank after 4 years is the sum of these amounts:
+x + 2x + 4x + 8x = 15x = $450
+
+Solving for x, we get:
+x = $450 / 15 = $30
+
+Therefore, Missy put $30 in the bank the first year.
+
+Answer: $30

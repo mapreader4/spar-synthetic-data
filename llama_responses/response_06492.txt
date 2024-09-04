@@ -1,0 +1,5 @@
+Let's start by identifying the number of worms that 3 crows can eat in one hour. If 3 crows can eat 30 worms in one hour, then in 1 hour, they can eat 30 / 3 = 10 worms.
+
+Now, if we want to find the number of worms that 5 crows can eat in 2 hours, we can multiply the worms per hour by 2. If 10 worms are eaten in 1 hour, then in 2 hours, they can eat 10 * 2 = 20 worms.
+
+Answer: 20

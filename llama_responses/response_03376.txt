@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+John's initial lifts were:
+
+* Squat: 700
+* Bench: 400
+* Deadlift: 800
+
+He lost 30% of his squat lift, which is 0.3 x 700 = 210 pounds. So his new squat lift is 700 - 210 = 490 pounds.
+
+He didn't lose any weight on bench, so his bench lift remains the same, which is 400 pounds.
+
+He lost 200 pounds on deadlift, so his new deadlift lift is 800 - 200 = 600 pounds.
+
+To find John's new total, we add up his new squat, bench, and deadlift lifts:
+
+490 + 400 + 600 = 1490
+
+Answer: 1490

@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Let's start by letting x be the number of games Dana won.  Perry won 5 more games than Dana, so Perry won x + 5 games.  Charlie won 2 fewer games than Dana, so Charlie won x - 2 games.  Phil won 3 more games than Charlie, so Phil won x + 3 games.  Phil won a total of 12 games, so we can set up an equation to represent the number of games each of them won.
+
+x + 5 - (x - 2) + (x + 3) = 12
+
+We can combine like terms on the left side of the equation.  We get x + (3 - 2) + x + 3 = 12.  We can combine like terms on the right side of the equation.  We get x + 1 + 12.  This is a linear equation, and we can solve for x.
+
+x + 1 + 12 = 12
+
+Subtract 1 from both sides of the equation.  We get x + 11 = 11.
+
+x = 11
+
+So Perry won 11 games more than Phil.
+
+Answer: 11

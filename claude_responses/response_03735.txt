@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Camille saw 3 cardinals
+* She saw four times as many robins as cardinals
+* So the number of robins she saw is 4 x 3 = 12
+* She saw twice as many blue jays as cardinals
+* So the number of blue jays she saw is 2 x 3 = 6
+* She saw 1 more than three times as many sparrows as cardinals
+* So the number of sparrows she saw is (3 x 3) + 1 = 10
+
+Now, to find the total number of birds Camille saw, we add up all the birds:
+* 3 cardinals + 12 robins + 6 blue jays + 10 sparrows = 31 birds
+
+Answer: 31

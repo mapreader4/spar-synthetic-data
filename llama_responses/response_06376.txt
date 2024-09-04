@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the total amount of money that the school would have made if 400 people attended. We can do this by multiplying the number of people by the amount of money each person contributes. 
+
+The school would have made 400 * 2000 = 800000.
+
+Now, let's find the amount of money the school would have made if 300 people attended. We can do this by multiplying the number of people by the amount of money each person contributes.
+
+The school would have made 300 * 2000 = 600000.
+
+So, the difference between the two amounts is 800000 - 600000 = 200000.

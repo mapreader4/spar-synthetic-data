@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Georgie can run 40 yards within 5 seconds. This means that his speed can be calculated as 40 yards per 5 seconds, or 8 yards per second.
+
+Now, if Georgie can improve his speed by 40%, we need to find 40% of his original speed. To do this, we can multiply his original speed by 0.4:
+
+8 yards per second * 0.4 = 3.2 yards per second
+
+So, Georgie's new speed is 3.2 yards per second.
+
+To find out how many yards he can run within 10 seconds, we can multiply his new speed by the time:
+
+3.2 yards per second * 10 seconds = 32 yards
+
+Answer: 32

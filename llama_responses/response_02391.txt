@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we know that Lucas makes 4 pieces of chocolate candy for each of his students on Monday. So, if all of his students come to class, he will make 4 * 37 = 148 pieces of chocolate candy.
+
+However, 3 of his students will not be coming to class, so we need to subtract those students from the total number of students. 37 (since 40 - 3 = 37) will be the number of students coming to class.
+
+So, Lucas will make 4 pieces of chocolate candy for each of the 37 students coming to class. To find the total number of chocolate candies, we multiply 4 by 37, which is equal to 148.
+
+Answer: 148

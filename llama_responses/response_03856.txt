@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+In the first year, Lilith collects 3 caps per month, so in total, she collects 3 * 12 = 36 caps in the first year.
+
+In each subsequent year, she collects 5 caps per month, so in total, she collects 5 * 12 = 60 caps per year. Since she collects caps for 5 years, she collects 60 * 4 = 240 caps in the remaining 4 years.
+
+Each Christmas, she receives 40 caps from friends and family, so she receives 40 * 5 = 200 caps in total.
+
+In total, Lilith collects 36 + 240 + 200 = 476 caps in the 5 years.
+
+However, Lilith loses 15 caps each year, so she loses 15 * 5 = 75 caps. Therefore, she has 476 - 75 = 401 caps left.
+
+Answer: 401

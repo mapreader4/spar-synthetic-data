@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The washing machine uses:
+  - 20 gallons for a heavy wash
+  - 10 gallons for a regular wash
+  - 2 gallons for a light wash
+* There are:
+  - 2 heavy washes
+  - 3 regular washes
+  - 1 light wash
+* 2 of the loads need to be bleached, which means an extra light wash cycle is added for rinsing.
+* To calculate the total gallons of water needed:
+  - 2 heavy washes x 20 gallons = 40 gallons
+  - 3 regular washes x 10 gallons = 30 gallons
+  - 1 light wash x 2 gallons = 2 gallons
+  - 2 extra light washes for bleached loads x 2 gallons = 4 gallons
+* Adding these up:
+  - 40 + 30 + 2 + 4 = 76 gallons
+
+Answer: 76 gallons

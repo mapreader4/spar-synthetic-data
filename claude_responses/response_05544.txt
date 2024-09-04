@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) The cooperative must ship 6500 kg of potatoes.
+2) During transport, 150 kg are damaged and cannot be sold.
+3) The remaining potatoes are distributed in 50 kg bags.
+4) Each bag is sold for $72.
+
+To calculate the total sale of the potatoes, we need to first find the amount of potatoes that can be sold:
+* Total potatoes shipped: 6500 kg
+* Potatoes damaged: 150 kg
+* Potatoes available for sale: 6500 kg - 150 kg = 6350 kg
+
+Next, we need to find how many 50 kg bags can be filled with the 6350 kg of potatoes:
+* Potatoes per bag: 50 kg
+* Number of bags: 6350 kg / 50 kg = 127 bags
+
+Finally, we can calculate the total sale of the potatoes:
+* Price per bag: $72
+* Total sale: 127 bags x $72 per bag = $9,144
+
+Answer: $9,144

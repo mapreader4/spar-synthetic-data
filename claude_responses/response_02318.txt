@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* It takes the dog groomer 10 minutes to dry a short-haired dog like a beagle.
+* It takes him twice as long to dry a full-haired, fluffy dog like a german shepherd, which is 20 minutes.
+* He has 6 short-haired dogs to dry and 9 full-haired dogs to dry.
+
+To calculate the total time it takes him to dry all the dogs:
+* For the 6 short-haired dogs:
+  - 6 dogs x 10 minutes per dog = 60 minutes
+* For the 9 full-haired dogs:
+  - 9 dogs x 20 minutes per dog = 180 minutes
+* Total time = 60 minutes + 180 minutes = 240 minutes
+
+Now, to convert the total time from minutes to hours:
+* 240 minutes / 60 minutes per hour = 4 hours
+
+Answer: 4 hours

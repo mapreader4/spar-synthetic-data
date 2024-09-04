@@ -1,0 +1,10 @@
+Let's break it down step by step:
+
+1. Mrs. Crocker made 11 pieces of fried chicken.
+2. Lyndee ate one piece, so that leaves 11 - 1 = 10 pieces of chicken left.
+3. Each of Lyndee's friends got to eat 2 pieces, so the total number of pieces eaten by her friends is 2 x? (since each friend ate 2 pieces).
+4. Let's call the number of friends x. Then, the total number of pieces eaten by friends is 2x.
+5. Since the total number of pieces eaten by friends is 10 (from step 2), we can set up the equation: 2x = 10.
+6. To solve for x, we can divide both sides by 2: x = 10 / 2 = 5.
+
+Answer: 5

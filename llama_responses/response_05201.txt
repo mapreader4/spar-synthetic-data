@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Find the distance between the first and second station, which is 2 hours. Since 2 hours is 120 minutes, we know that Kira will travel 120 minutes from the first to the second station.
+
+Step 2: Kira takes a 30 minutes break at the second station. So, the time spent at the second station is 30 minutes.
+
+Step 3: Now, we need to find the total time taken to travel from the first to the third station. We know that the distance between the first and third station is 2 hours, which is 120 minutes. Since Kira takes a 30 minutes break at the second station, we need to subtract the break time from the total time. So, the total time taken to travel from the first to the third station is 120 - 30 = 90 minutes.
+
+Answer: 90

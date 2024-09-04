@@ -1,0 +1,53 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+* Luna's monthly food budget is 60% of her house rental budget.
+* Luna's phone bill budget is 10% of her food budget.
+* The total budget of house rental and food budget is $240.
+
+Let's first find Luna's house rental budget. We can do this by setting up an equation based on the given information. Let's say her house rental budget is x.
+
+The equation will be: 0.6x = 0.1x + 0.4x = 240
+
+Now, let's solve for x.
+
+0.6x + 0.4x = 240
+
+Subtract 0.4x from both sides of the equation to get:
+
+0.6x = 240 - 0.4x
+
+0.2x = 240
+
+Divide both sides by 0.2 to get:
+
+x = 240 / 0.2
+
+x = 1200
+
+So Luna's house rental budget is 1200.
+
+Now, we can find her phone bill budget. We know that it is 10% of her food budget. Let's find Luna's food budget. We can set up an equation based on the given information. Let's say her food budget is y.
+
+The equation will be: 0.1y = 0.6x
+
+Now, we can solve for y.
+
+0.1y = 0.6x
+
+0.9y = 0.6x
+
+Now, we can substitute y with 1200, which is Luna's house rental budget.
+
+0.9y = 0.6(1200)
+
+0.9y = 720
+
+So, Luna's phone bill budget is 720.
+
+Now, we can find her total monthly budget to pay all those expenses. We can add her house rental budget and phone bill budget together.
+
+Luna's total monthly budget is: 1200 + 720
+
+Answer: 1920

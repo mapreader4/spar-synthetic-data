@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Jan starts with 1000 feet of cable, which is the total amount she has.
+
+She splits it into 25-foot sections, so 1000 ÷ 25 = 40.
+
+She gives 1/4 of that to a friend, which is 1/4 * 40 = 10.
+
+So, she gives 10 feet to her friend.
+
+She then puts half of the rest in storage, which is 40 - 10 = 30.
+
+So, she puts 30 feet in storage.
+
+She keeps the remaining 10 feet on hand.
+
+Answer: 10

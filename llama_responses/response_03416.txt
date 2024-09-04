@@ -1,0 +1,11 @@
+To find the average temperature, we need to add up all the temperatures and divide by the number of days in the week, which is 7. 
+
+Let's add up the temperatures:
+
+40 + 50 + 65 + 36 + 82 + 72 + 26 = 265
+
+Then, we divide by 7:
+
+265 / 7 = 38
+
+So, the average temperature was 38.

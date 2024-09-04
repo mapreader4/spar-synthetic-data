@@ -1,0 +1,9 @@
+Let's break down the information given in the problem. Tamtam collected 65 shells in total. We know that the number of orange shells are the remaining shells after subtracting the other colors. So, let's subtract the number of shells of other colors from the total number of shells:
+
+13 (purple) + 8 (pink) + 18 (yellow) + 12 (blue) = 43
+
+Subtracting 43 from 65, we get:
+
+65 - 43 = 22
+
+So, there are 22 orange shells.

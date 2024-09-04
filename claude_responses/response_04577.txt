@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Augustus can make 3 milkshakes per hour
+* Luna can make 7 milkshakes per hour
+* They have been making milkshakes for 8 hours
+
+To find the total number of milkshakes they have made, we need to calculate the number of milkshakes made by each person and then add them together.
+
+For Augustus:
+* Augustus can make 3 milkshakes per hour
+* He has been working for 8 hours
+* So, Augustus has made 3 x 8 = 24 milkshakes
+
+For Luna:
+* Luna can make 7 milkshakes per hour
+* She has been working for 8 hours
+* So, Luna has made 7 x 8 = 56 milkshakes
+
+Now, we add the number of milkshakes made by each person:
+* Total milkshakes = 24 + 56 = 80
+
+Answer: 80

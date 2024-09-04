@@ -1,0 +1,9 @@
+Let's start by finding the number of vampires and wights. We know that 3 cloves of garlic can repel 2 vampires, 8 vampire bats or 3 wights. So, we can set up the following equations:
+
+1. 3 cloves of garlic can repel 2 vampires, so 1 clove of garlic can repel 2/3 vampires. 
+2. 3 cloves of garlic can repel 8 vampire bats, so 1 clove of garlic can repel 8/3 vampire bats. 
+3. 3 cloves of garlic can repel 3 wights, so 1 clove of garlic can repel 3/3 wights.
+
+Now, let's find the least common multiple of the number of vampires, vampire bats, and wights. The least common multiple of 2, 3, and 8 is 24. Since we need to repel 30 vampires, 12 wights, and 40 vampire bats, we need 4 times the number of cloves of garlic. 
+
+Answer: 4

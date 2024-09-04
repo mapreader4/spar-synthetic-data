@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John has to wait 20 minutes for the first dose of the vaccine.
+* The second dose has a wait time that is half as long as the first dose.
+* To calculate the wait time for the second dose, we take the wait time for the first dose (20 minutes) and divide it by 2.
+* 20 minutes / 2 = 10 minutes
+* So the wait time for the second dose is 10 minutes.
+* To calculate the total wait time, we add the wait time for the first dose (20 minutes) and the wait time for the second dose (10 minutes).
+* 20 minutes + 10 minutes = 30 minutes
+
+Answer: 30

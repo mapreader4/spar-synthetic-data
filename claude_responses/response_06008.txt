@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Tom has 8 crab buckets that he checks every day
+* Each crab bucket gets 12 crabs
+* So, the total number of crabs he catches per day is:
+  * 8 buckets x 12 crabs per bucket = 96 crabs per day
+* He sells each crab for $5
+* So, the total amount of money he makes per day is:
+  * 96 crabs per day x $5 per crab = $480 per day
+* There are 7 days in a week
+* So, the total amount of money he makes per week is:
+  * $480 per day x 7 days per week = $3,360 per week
+
+Answer: $3,360

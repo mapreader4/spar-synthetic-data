@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Chef Michel made shepherd's pie cut into 4 pieces
+* 52 customers ordered slices of shepherd's pie
+* To find the number of shepherd's pies sold, we divide the number of slices sold (52) by the number of slices per pie (4)
+* 52 slices / 4 slices per pie = 13 shepherd's pies sold
+
+* Chef Michel made chicken pot pie cut into 5 pieces
+* 80 customers ordered slices of chicken pot pie
+* To find the number of chicken pot pies sold, we divide the number of slices sold (80) by the number of slices per pie (5)
+* 80 slices / 5 slices per pie = 16 chicken pot pies sold
+
+* To find the total number of pies sold, we add the number of shepherd's pies and chicken pot pies sold:
+* 13 shepherd's pies + 16 chicken pot pies = 29 total pies sold
+
+Answer: 29

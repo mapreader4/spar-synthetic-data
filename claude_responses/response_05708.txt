@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Reuben sells 10 Reubens and 5 Pastrami sandwiches
+* Pastrami costs $2 more than the Reuben
+* The total earnings from selling these sandwiches is $55
+
+Let's define the variables:
+* Let x = the cost of a Reuben sandwich
+* Then the cost of a Pastrami sandwich is x + $2
+
+The total earnings can be calculated as:
+* 10 Reubens at x each, plus 5 Pastrami sandwiches at x + $2 each
+* Total earnings = 10x + 5(x + $2) = 10x + 5x + $10 = 15x + $10
+
+We are told the total earnings is $55, so we can set up an equation:
+* 15x + $10 = $55
+* 15x = $45
+* x = $3
+
+Since the Pastrami sandwich costs $2 more than the Reuben, the cost of a Pastrami sandwich is:
+* x + $2 = $3 + $2 = $5
+
+Answer: $5

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Trent walked 4 blocks from his house to the bus stop.
+2) He then rode the bus 7 blocks to the library.
+3) To get home, he retraced his steps, so he rode the bus 7 blocks back to the bus stop, and then walked 4 blocks back home.
+4) In total, Trent traveled:
+   - 4 blocks from home to bus stop
+   - 7 blocks from bus stop to library
+   - 7 blocks from library to bus stop
+   - 4 blocks from bus stop to home
+5) Adding these up, we get:
+   4 + 7 + 7 + 4 = 22 blocks
+
+Answer: 22

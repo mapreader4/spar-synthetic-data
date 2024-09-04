@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Chip takes 2 pages of notes every day
+* He does this 5 days a week
+* He has 5 classes
+* So, in one week, Chip uses:
+  - 2 pages per day x 5 days per week = 10 pages per week
+  - 10 pages per week x 5 classes = 50 pages per week
+* After 6 weeks, Chip will use:
+  - 50 pages per week x 6 weeks = 300 pages
+* Each pack of notebook paper has 100 sheets
+* To calculate the number of packs Chip will use:
+  - 300 pages / 100 sheets per pack = 3 packs
+
+Answer: 3 packs

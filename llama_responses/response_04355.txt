@@ -1,0 +1,15 @@
+Let's break down the information given in the problem:
+
+* On Saturday, there were 80 people.
+* On Monday, 20 fewer people were at the game, so the number of people on Monday is 80 - 20 = 60.
+* On Wednesday, 50 more people were at the game than on Monday, so the number of people on Wednesday is 60 + 50 = 110.
+* The total number of people on Saturday and Monday is 80 + 60 = 140.
+* The expected total audience at the football game for a week is 350.
+
+To find the number of people who attended the games more than they had expected, we need to subtract the total number of people on Saturday and Monday from the expected total audience:
+
+350 (total audience) - 140 (Saturday + Monday) = 210
+
+So, the number of people who attended the games more than they had expected is:
+
+Answer: 210

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Michelle had some leftover cans of silly string from her birthday party
+* She split them among Roger and 3 of his friends
+* So if we assume she had x cans to start with, then each person (Roger and his 3 friends) received x/4 cans
+* Then Roger decided to give 2 of his cans to his brothers, so he now has 4 cans for himself
+* That means Roger originally had 4 + 2 = 6 cans
+* Since each person received x/4 cans, we can set up an equation:
+* Roger's original 6 cans = x/4
+* Solving for x, we get:
+* x = 6 * 4 = 24
+
+Answer: 24

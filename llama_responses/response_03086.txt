@@ -1,0 +1,13 @@
+To find the total amount the company will pay the 50 new employees, we can multiply the number of hours each employee works in a day (8) by the number of days (5) and then by the hourly wage. This will give us the total amount each employee will earn in 5 days:
+
+8 hours/day * 5 days = 40 hours
+
+Next, we multiply the total hours by the hourly wage to find the total amount each employee will earn:
+
+40 hours * 14.00/hour = 560.00
+
+Since there are 50 employees, we multiply the total amount each employee will earn by the number of employees:
+
+560.00 * 50 = 28,000.00
+
+The company will pay the 50 new employees a total of 28,000.00.

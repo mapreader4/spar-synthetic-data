@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Tara already has $10 saved
+* The clarinet costs $90
+* She sells each book for $5
+* When she is halfway towards her goal, she loses all her savings and has to start over
+
+First, let's calculate how much money she needs to save in total:
+* Clarinet costs $90
+* She already has $10 saved
+* So, she needs to save $90 - $10 = $80 more
+
+Now, let's calculate how much she needs to save when she is halfway towards her goal:
+* Halfway towards her goal is $80 / 2 = $40
+
+When she loses all her savings, she has to start over from $0. So, she needs to save the full $80 again.
+
+In total, she needs to save $40 + $80 = $120.
+
+Each book she sells gives her $5, so we can calculate the total number of books she needs to sell:
+* $120 / $5 per book = 24 books
+
+Answer: 24

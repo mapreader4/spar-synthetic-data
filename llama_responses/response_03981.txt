@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. James visits 20 houses the first day and sells something in every house, so he sells 20 items.
+2. The next day, James visits twice as many houses as the first day, so he visits 2 * 20 = 40 houses.
+3. On the second day, he sells to 80% of houses, so he sells 0.8 * 40 = 32 items.
+4. Since James sells two things at each house, he sells 2 * 32 = 64 items.
+
+Answer: 64

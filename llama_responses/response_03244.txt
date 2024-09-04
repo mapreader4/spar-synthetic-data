@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+The radio show plays for 3 hours a day, which is equivalent to 180 minutes (since there are 60 minutes in an hour).
+
+The show includes 3 talking segments, each lasting 10 minutes. So, the total time spent on talking segments is:
+
+3 talking segments × 10 minutes per segment = 30 minutes
+
+The show also includes 5 ad breaks, each lasting 5 minutes. So, the total time spent on ad breaks is:
+
+5 ad breaks × 5 minutes per break = 25 minutes
+
+Now, let's subtract the time spent on talking segments and ad breaks from the total show time:
+
+180 minutes (total show time) - 30 minutes (talking segments) - 25 minutes (ad breaks) = 125 minutes
+
+This means the show plays songs for 125 minutes.
+
+Answer: 125

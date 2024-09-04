@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start with the number of song requests Ziggy gets every night. Ziggy gets 30 song requests every night.
+
+Half the song requests are electropop. So, we have:
+
+30 / 2 = 15 electropop requests.
+
+A third of the electropop requests are requests for dance music. So, we have:
+
+15 / 3 = 5 dance music requests.
+
+Five song requests are rock music. The number of requests for oldies is three less than the number of rock requests. So, we have:
+
+5 - 3 = 2 oldies requests.
+
+Ziggy plays a DJ’s choice song half the number of times he plays an oldie. Let's calculate half the number of oldies requests:
+
+2 / 2 = 1 oldie.
+
+Ziggy also sometimes gets rap song requests. We are not given the number of rap song requests, but we know that the total number of song requests is 30, and the number of other genres is 15 (electropop, dance, rock, and oldies), so the number of rap requests is the remaining 30 - 15 - 5 - 2 = 8.
+
+So, Ziggy gets 8 rap song requests every night.
+
+Answer: 8

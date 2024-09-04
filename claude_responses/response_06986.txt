@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Briar has to take a cab ride to the event and back home every day for a one-week event
+* The event is 200 miles away from Briar's home
+* The cab ride costs $2.5 per mile
+
+To calculate the total cost of the cab rides, we need to:
+1. Calculate the total distance Briar has to travel each day
+2. Multiply the total distance by the cost per mile to get the cost per day
+3. Multiply the cost per day by the number of days (7) to get the total cost
+
+1. Total distance per day:
+   * Distance to the event: 200 miles
+   * Distance back home: 200 miles
+   * Total distance per day: 200 + 200 = 400 miles
+
+2. Cost per day:
+   * Cost per mile: $2.5
+   * Total cost per day: 400 miles x $2.5 per mile = $1,000
+
+3. Total cost for the week:
+   * Number of days: 7
+   * Total cost: $1,000 per day x 7 days = $7,000
+
+Answer: $7,000

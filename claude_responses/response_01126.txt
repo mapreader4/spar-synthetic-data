@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Mike needs at least 40 bricks of type A
+* Mike needs at least 20 bricks of type B (half the amount of type A)
+* In total, Mike needs to use 150 bricks
+
+Now, let's calculate the number of bricks of other types he will need to use:
+* Total bricks needed: 150
+* Bricks of type A: 40
+* Bricks of type B: 20
+* Total bricks of type A and B: 40 + 20 = 60
+* Bricks of other types needed: 150 - 60 = 90
+
+Answer: 90

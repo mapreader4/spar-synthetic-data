@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. The first gym membership costs $10 per month and has a sign-up fee of $50.
+   * For the first year (12 months), the cost of the first gym membership would be:
+     * 12 months x $10 per month = $120
+     * Plus the sign-up fee of $50
+     * Total cost for the first gym membership in the first year = $120 + $50 = $170
+
+2. The second gym membership is 3 times more expensive than the first one, so it costs $30 per month.
+   * The sign-up fee for the second gym is 4 months membership, so:
+     * 4 months x $30 per month = $120 sign-up fee
+
+3. To find the total cost for both gym memberships in the first year, we add the costs:
+   * Total cost = Cost of first gym + Cost of second gym
+   * Total cost = $170 + $120 + (12 months x $30 per month)
+   * Total cost = $290 + $360
+   * Total cost = $650
+
+Answer: $650

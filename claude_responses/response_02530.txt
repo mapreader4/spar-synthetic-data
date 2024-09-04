@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Katie's family eats 3 dozen donuts
+* Each donut requires 2 ounces of coffee to dunk it
+* So for 3 dozen donuts (36 donuts), they need 36 * 2 = 72 ounces of coffee
+* Each pot of coffee contains 12 ounces
+* So they need 72 ounces / 12 ounces per pot = 6 pots of coffee
+* Each pot of coffee costs $3 to make
+* So for 6 pots of coffee, the total cost is 6 * $3 = $18
+
+Answer: $18

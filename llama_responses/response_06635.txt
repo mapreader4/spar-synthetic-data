@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Sarah had 25 apples initially. She gave away 5 apples to 5 friends, so she gave away 5 apples. She also gave an apple to each teacher she saw, so she gave away 1 apple to each of 3 teachers, so she gave away 3 apples. In total, Sarah gave away 5 + 3 apples, which is 8 apples. So, Sarah gave away 8 apples in total. She ate 1 apple while walking home, so that leaves her with 25 - 8 - 1 = 16 apples. Sarah had 16 apples left in her bag when she got home.
+
+Answer: 8

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The file size is 90 megabytes.
+2) The download rate is 5 megabytes per second for the first 60 megabytes.
+3) The download rate is 10 megabytes per second for the remaining 30 megabytes.
+4) To calculate the time for the first 60 megabytes:
+   - 60 megabytes / 5 megabytes per second = 12 seconds
+5) To calculate the time for the remaining 30 megabytes:
+   - 30 megabytes / 10 megabytes per second = 3 seconds
+6) The total time is the sum of the two:
+   - 12 seconds + 3 seconds = 15 seconds
+
+Answer: 15

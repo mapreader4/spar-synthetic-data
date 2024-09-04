@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+* Miles has fewer trumpets than he has fingers
+* He has 3 fewer trumpets than he has fingers
+* We can assume that Miles has 10 fingers, as that is the typical number of fingers for a human
+* Therefore, Miles has 10 - 3 = 7 trumpets
+
+* Miles has 2 more guitars than he has hands
+* We can assume that Miles has 2 hands, as that is the typical number of hands for a human
+* Therefore, Miles has 2 + 2 = 4 guitars
+
+* Miles has 2 more trombones than he has heads
+* We can assume that Miles has 1 head, as that is the typical number of heads for a human
+* Therefore, Miles has 1 + 2 = 3 trombones
+
+* Miles has 1 fewer French horn than he has guitars
+* We determined that Miles has 4 guitars
+* Therefore, Miles has 4 - 1 = 3 French horns
+
+Now, let's add up the total number of musical instruments that Miles owns:
+* 7 trumpets + 4 guitars + 3 trombones + 3 French horns = 17 musical instruments
+
+Answer: 17

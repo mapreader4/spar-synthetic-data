@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The triangle is a right-angle triangle, which means one of the angles is a 90-degree angle.
+2) The base of the triangle is 4 inches, and the height is 3 inches.
+3) To find the length of the hypotenuse, we can use the Pythagorean Theorem, which states that in a right-angle triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides.
+4) So, the length of the hypotenuse is given by the formula: hypotenuse^2 = base^2 + height^2
+5) Plugging in the values, we get: hypotenuse^2 = 4^2 + 3^2 = 16 + 9 = 25
+6) Taking the square root of both sides, we get: hypotenuse = √25 = 5 inches.
+7) The perimeter of the triangle is the sum of the lengths of all three sides, so the perimeter is 4 inches + 3 inches + 5 inches = 12 inches.
+
+Answer: 12 inches.

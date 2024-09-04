@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) We know that Samuel swept the porch and cleared nine-tenths of the dust particles from it.
+2) This means that one-tenth of the original dust particles remained on the porch after he swept.
+3) After Samuel walked across the porch, there were 331 dust particles on the porch.
+4) Of those 331 dust particles, 223 were left by his shoes.
+5) So the number of dust particles that were on the porch before Samuel walked across it was 331 - 223 = 108.
+6) Since one-tenth of the original dust particles remained on the porch after he swept, we can calculate the original number of dust particles as follows:
+   * 108 is one-tenth of the original number
+   * So the original number of dust particles was 108 * 10 = 1080.
+
+Answer: 1080

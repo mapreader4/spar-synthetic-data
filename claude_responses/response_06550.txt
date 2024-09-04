@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total number of cars in the dealership is 600.
+2) 60% of the cars are hybrids. To find the number of hybrids, we multiply 600 by 0.60 (60% expressed as a decimal):
+600 * 0.60 = 360 hybrids
+3) 40% of the hybrids contain only one headlight. To find the number of hybrids with one headlight, we multiply 360 by 0.40 (40% expressed as a decimal):
+360 * 0.40 = 144 hybrids with one headlight
+4) To find the number of hybrids with full headlights, we subtract the number of hybrids with one headlight from the total number of hybrids:
+360 - 144 = 216 hybrids with full headlights
+
+Answer: 216

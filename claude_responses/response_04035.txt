@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Randy feeds each pig 10 pounds of feed per day
+* Randy has 2 pigs
+* To calculate the total pounds of feed per day, we multiply the number of pigs (2) by the amount of feed per pig per day (10 pounds):
+2 pigs x 10 pounds per pig per day = 20 pounds of feed per day
+* There are 7 days in a week
+* To calculate the total pounds of feed per week, we multiply the pounds of feed per day (20 pounds) by the number of days in a week (7 days):
+20 pounds per day x 7 days per week = 140 pounds of feed per week
+
+Answer: 140

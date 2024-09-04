@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The clinic administered the covid vaccine to 650 people in total.
+* 80% of the people were adults.
+* To find the number of children, we need to find the remaining percentage that were not adults.
+* 100% - 80% = 20% of the people were children.
+* To find the number of children, we take 20% of the total 650 people:
+* 20% of 650 = 0.20 * 650 = 130 children.
+
+Answer: 130

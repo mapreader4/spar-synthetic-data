@@ -1,0 +1,11 @@
+To solve this problem, we can start by identifying the number of cars Oprah has left after giving away some cars. Let's call this number x.
+
+The number of cars Oprah gives away each year is 50, so the number of years it will take to give away 3500 - 500 cars is:
+
+3500 - 500 = 2900
+
+To find the number of years it will take to give away 2900 cars, we can divide 2900 by the number of cars Oprah gives away each year:
+
+2900 ÷ 50 = 58
+
+Answer: 58

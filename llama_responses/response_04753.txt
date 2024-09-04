@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+Let's start by finding the perimeter of the yard. Since the yard is a rectangle, the perimeter is the sum of the lengths of all its sides. Since there are three sides, the perimeter is the sum of the lengths of all three sides, which is:
+
+Perimeter = side1 + side2 + side3
+
+We are given that each side is 16 feet long, so:
+
+Perimeter = 16 + 16 + 16
+
+Perimeter = 48
+
+Now, since each bush fills 4 feet, we need to find the total number of bushes. We can do this by dividing the perimeter by the length of each bush:
+
+Total number of bushes = Perimeter / length of each bush
+= 48 / 4
+= 12
+
+So, Alice needs to buy 12 bushes.

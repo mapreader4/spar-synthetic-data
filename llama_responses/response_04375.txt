@@ -1,0 +1,21 @@
+Let's break down the information given:
+
+1. The quarterback throws 50 passes in total.
+2. He throws twice as many passes to the right as he does to the left.
+3. He throws 2 more passes to the center than he did to the left.
+
+Let's denote the number of passes to the left side of the field as x.
+
+Since the quarterback throws twice as many passes to the right as to the left, we can write an equation to represent this information:
+
+2x = 50 / 2 = 25
+
+So, the number of passes to the left side is 25.
+
+He throws 2 more passes to the center than he did to the left. So, the number of passes to the center is 25 + 2 = 27.
+
+Now, we can add the number of passes to the left and the center:
+
+25 + 2 = 27
+
+So, the quarterback threw 27 passes to the left side of the field.

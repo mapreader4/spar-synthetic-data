@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John is allowed to watch cartoons for 2 hours on Sundays
+* For every 10 minutes of cartoons, he has to do 8 minutes of chores
+* To find the total minutes of chores, we need to first find the total minutes of cartoons
+
+First, we convert the 2 hours of cartoons to minutes:
+* 2 hours = 120 minutes
+
+Now, we can use the ratio of 10 minutes of cartoons to 8 minutes of chores to find the total minutes of chores:
+* 120 minutes of cartoons / 10 minutes = 12 sets of 10 minutes
+* 12 sets of 10 minutes x 8 minutes of chores = 96 minutes of chores
+
+Therefore, the answer is:
+Answer: 96 minutes

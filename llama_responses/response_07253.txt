@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start with the number of red chairs, which is given as 4.
+
+There are 2 times as many yellow chairs as red chairs, so there are 4 x 2 = 8 yellow chairs.
+
+There are 2 fewer blue chairs than yellow chairs, so the number of blue chairs is 8 - 2 = 6.
+
+In the afternoon, Lisa borrows 3 chairs. So, the number of chairs left is 4 + 8 + 6 - 3 = 15.
+
+Answer: 15

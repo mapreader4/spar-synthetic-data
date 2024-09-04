@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+Tiffany runs 6 blocks in 3 minutes.
+* Tiffany's speed = 6 blocks / 3 minutes = 2 blocks per minute
+
+Moses runs 12 blocks in 8 minutes.
+* Moses' speed = 12 blocks / 8 minutes = 1.5 blocks per minute
+
+The runner with the higher average speed is Tiffany, who runs at 2 blocks per minute.
+
+Answer: 2

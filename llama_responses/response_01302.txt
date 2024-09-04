@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Reina has three times the number of counters as Kevin, and four times the number of marbles as Kevin.
+
+We are given that Kevin has 40 counters and 50 marbles. To find the number of counters and marbles that Reina has, we need to multiply the given numbers by the respective multipliers.
+
+For the counters, we have the multiplier 3, so we multiply 40 by 3 to get 120.
+
+For the marbles, we have the multiplier 4, so we multiply 50 by 4 to get 200.
+
+So, Reina has 120 counters and 200 marbles.
+
+Answer: 120, 200

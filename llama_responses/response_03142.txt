@@ -1,0 +1,24 @@
+Let's start by identifying the information given in the problem:
+
+* The tank initially had 4000 liters of oil.
+* Three-quarters of the oil from the tank was poured into the 20000-liter capacity tanker.
+* The tanker already had 3000 liters of oil.
+
+Let's find out how much oil was poured from the tank:
+
+4000 x (3/4) = 3000
+4000 x (3/4) = 3000
+3/4 = 0.75
+0.75 x 4000 = 3000
+0.75 x 4000 = 3000
+0.75 x 1000 = 750
+3000 - 750 = 2250
+
+So, 2250 liters of oil was poured from the tank.
+
+Now, we need to find how many more liters of oil would be needed to make the large tanker half-full. To find this, we need to know how much the tanker can hold:
+
+20000 - 3000 = 17000
+17000 / 2 = 8500
+
+So, 8500 liters of oil would be needed to make the large tanker half-full.

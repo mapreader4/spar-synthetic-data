@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Asparagus:
+   * Gary added 60 bundles of asparagus
+   * Each bundle costs $3.00
+   * Total cost of asparagus = 60 bundles x $3.00 per bundle = $180.00
+
+2. Grapes:
+   * Gary added 40 boxes of grapes
+   * Each box costs $2.50
+   * Total cost of grapes = 40 boxes x $2.50 per box = $100.00
+
+3. Apples:
+   * Gary added 700 apples
+   * Each apple costs $0.50
+   * Total cost of apples = 700 apples x $0.50 per apple = $350.00
+
+4. Total value of all the produce:
+   * Total value = Value of asparagus + Value of grapes + Value of apples
+   * Total value = $180.00 + $100.00 + $350.00 = $630.00
+
+Answer: $630

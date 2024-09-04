@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Gary normally earns $12 per hour
+* He worked overtime, where every hour after 40 he earns 1.5 times his normal wage
+* His paycheck before taxes was $696
+
+First, let's calculate his normal wage for 40 hours:
+* 40 hours x $12 per hour = $480
+
+Now, let's calculate the overtime pay:
+* The remaining hours (total hours - 40) are paid at 1.5 times the normal wage
+* Let's call the total hours worked 'x'
+* Overtime pay = (x - 40) * 1.5 * $12
+
+Now, we can set up an equation to solve for the total hours worked:
+* Total pay = Normal wage + Overtime pay
+* $696 = $480 + (x - 40) * 1.5 * $12
+* $696 = $480 + $18(x - 40)
+* $216 = $18x - $720
+* $936 = $18x
+* x = 52
+
+Therefore, Gary worked 52 hours that week.
+
+Answer: 52

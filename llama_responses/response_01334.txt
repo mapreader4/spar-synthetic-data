@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of envelopes Rachel has stuffed so far. She stuffed 135 envelopes in the first hour, and 141 envelopes in the second hour. The total number of envelopes stuffed is:
+
+135 + 141 = 276
+
+Now, Rachel has 1,500 envelopes left to stuff. To find out how many envelopes she needs to stuff per hour to finish the job, we need to divide the total number of envelopes left by the time she has left:
+
+1,500 - 276 = 1,224
+
+Rachel has 1,224 envelopes left to stuff. Since she has 8 hours left, we can divide the number of envelopes left by the number of hours:
+
+1,224 ÷ 8 = 153
+
+Rachel needs to stuff 153 envelopes per hour to finish the job.

@@ -1,0 +1,29 @@
+Let's break down the information given in the problem:
+
+* In the first week, Tracy collects a certain number of books.
+* In the next five weeks, she collects ten times as many books as she did in the first week.
+
+Let's represent the number of books she collected in the first week as x.
+
+Then, in the next five weeks, she collects 10x books. So, the total number of books she collects in the next five weeks is 10x.
+
+The total number of books she collects in the first week plus the number of books she collects in the next five weeks is 1x + 10x.
+
+We know that the total number of books she collects now is 99. So, we can set up an equation:
+
+1x + 10x = 99
+
+To solve for x, we can subtract 1 from both sides of the equation:
+
+x + 10x - x = 99 - 1
+10x = 98
+
+Then, we can divide both sides of the equation by 10 to get:
+
+x = 98 / 9
+
+x = 10.88
+
+Since x must be an integer, we can round down to the nearest whole number. In this case, the whole number is 10.
+
+So, Tracy collected 10 books in the first week.

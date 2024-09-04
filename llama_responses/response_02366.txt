@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of photos Alyssa can place on the first 10 pages. She can place 3 photos each on the first 10 pages, so the total number of photos on the first 10 pages is 30.
+
+Next, she can place 4 photos each on the next 10 pages. The total number of photos on the next 10 pages is 40.
+
+The remaining pages are 20 pages, and she wants to put an equal number of photos on each of the remaining pages. So, she can divide the 20 pages into 20 equal groups. 20 divided by 4 is 5, so she can place 5 photos on each of the remaining pages.
+
+Therefore, the answer is 5.

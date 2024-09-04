@@ -1,0 +1,13 @@
+Let's start by identifying the information given to us.
+
+Jairus read 20 pages of the newspaper. 
+Arniel read 2 more than twice the number of pages Jairus read.
+
+The number of pages Jairus read is 20. So, 2 more than twice the number of pages Jairus read will be 2 * 20 = 40. So, Arniel read 40 pages.
+
+Jairus read 20 pages. Arniel read 40 pages.
+
+To find the total number of pages they read, we add the number of pages Jairus read with the number of pages Arniel read: 
+20 + 40 = 60.
+
+Answer: 60

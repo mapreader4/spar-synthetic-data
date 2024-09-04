@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+The total area of the living room is 16' x 20' = 320 sq ft.
+
+Tom has already put down 250 sq ft of flooring. To find out how many more boxes he needs, we need to subtract the already laid flooring from the total area:
+
+320 sq ft (total area) - 250 sq ft (already laid) = 70 sq ft (remaining area)
+
+Since each box covers 10 sq ft, we can divide the remaining area by 10 to find the number of boxes needed:
+
+70 sq ft (remaining area) ÷ 10 sq ft (per box) = 7 boxes
+
+Answer: 7

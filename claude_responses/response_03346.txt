@@ -1,0 +1,16 @@
+Okay, let's solve this step-by-step:
+1) Susan had a sum of money at the start.
+2) In September, she spent 1/5 of this money.
+3) In October, she spent 1/4 of this money.
+4) In November, she spent $120.
+5) After these expenses, she had $540 left.
+6) Let's call the initial sum of money that Susan had "x".
+7) In September, she spent 1/5 of x, which is 0.2x.
+8) In October, she spent 1/4 of x, which is 0.25x.
+9) In November, she spent $120.
+10) The total amount she spent is 0.2x + 0.25x + $120 = 0.45x + $120.
+11) The amount she had left is $540.
+12) So, 0.45x + $120 = $540.
+13) Solving for x, we get x = $940.
+
+Answer: 940

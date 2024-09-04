@@ -1,0 +1,19 @@
+Okay, let's think this through step-by-step:
+* The pool holds 2000 L of water
+* Each time someone jumps in, 400 ml of water splashes out and evaporates
+* We need to find how many times people can jump in before the pool gets below 80% full
+
+First, let's convert the pool capacity to milliliters:
+* 2000 L = 2,000,000 ml
+
+Now, let's calculate 80% of the pool capacity:
+* 80% of 2,000,000 ml = 0.8 * 2,000,000 ml = 1,600,000 ml
+
+So, the pool needs to be refilled when it gets below 1,600,000 ml.
+
+Now, let's calculate how many times people can jump in before the pool gets below 1,600,000 ml:
+* Each jump causes 400 ml of water to be lost
+* To get below 1,600,000 ml, the pool needs to lose 2,000,000 ml - 1,600,000 ml = 400,000 ml
+* 400,000 ml / 400 ml per jump = 1,000 jumps
+
+Answer: 1,000

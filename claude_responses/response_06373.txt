@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Tim's website got 100 visitors a day for the first 6 days
+* On the last day of the week, it got twice as many visitors as every other day combined
+* He gets $0.01 per visit
+
+First, let's calculate the total number of visitors for the first 6 days:
+* 100 visitors per day x 6 days = 600 visitors
+
+Now, let's calculate the number of visitors on the last day:
+* Every other day had 100 visitors each, so 100 x 6 = 600 visitors
+* On the last day, it got twice as many visitors as 600, so 600 x 2 = 1,200 visitors
+
+Now, let's calculate the total number of visitors for the week:
+* 600 visitors (first 6 days) + 1,200 visitors (last day) = 1,800 visitors
+
+Finally, let's calculate how much he made that week:
+* 1,800 visitors x $0.01 per visit = $18.00
+
+Answer: $18.00

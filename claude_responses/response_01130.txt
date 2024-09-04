@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Max can deliver a maximum of 35 packages per day
+* During the week, he delivered the maximum number of packages (35) only twice
+* On two other days, he delivered a total of 50 packages
+* On one day, he delivered only one-seventh of the maximum possible daily performance
+* On the last two days, the sum of the packages transported was only four-fifths of the maximum daily performance
+
+First, let's calculate the total number of packages delivered during the week:
+* 2 days at maximum performance: 2 x 35 = 70 packages
+* 2 days with a total of 50 packages: 50 packages
+* 1 day at one-seventh of maximum performance: 35 / 7 = 5 packages
+* 2 days at four-fifths of maximum performance: 2 x (35 x 4/5) = 56 packages
+
+Total packages delivered during the week: 70 + 50 + 5 + 56 = 181 packages
+
+Now, let's calculate the maximum possible number of packages that could have been delivered during the week:
+* 5 days at maximum performance: 5 x 35 = 175 packages
+
+The difference between the maximum possible and the actual number of packages delivered is:
+* 175 - 181 = -6 packages
+
+Therefore, Max could not have delivered any more packages during that week, as he already exceeded the maximum possible number of packages that could have been delivered.
+
+Answer: -6

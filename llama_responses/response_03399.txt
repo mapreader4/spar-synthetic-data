@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. There are 13 stripes in total.
+2. The first stripe is red, and half of the remaining stripes are also red.
+3. So, half of 13 is 6.5, but since we can't have half of a stripe, we round up to the nearest whole number, which is 7.
+4. The first stripe is red, and 7 of the remaining stripes are also red.
+5. So, there are 7 red stripes.
+
+Answer: 7

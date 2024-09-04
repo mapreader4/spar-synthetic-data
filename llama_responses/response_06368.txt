@@ -1,0 +1,43 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Nigella earns a base salary of $3,000 a month plus a 2% commission on every house she sells. We know that she earns $8,000 total, so we can set up an equation to represent this:
+
+3,000 + 2% of total house value = 8,000
+
+We can simplify this equation by multiplying both sides by 100 to get rid of the percentage:
+
+3,000 + 0.02(total house value) = 8,000 * 100
+
+This becomes:
+
+3000 + 0.02x = 8000
+
+Subtract 3000 from both sides to isolate the term with the variable:
+
+0.02x = 5000
+
+Divide both sides by 0.02 to solve for x:
+
+x = 250,000
+
+Now we know that the total value of the houses is $250,000. We are also given that House B costs three times as much as House A, and House C costs twice as much as House A minus $110,000. Let's use these relationships to find the value of House A.
+
+Let's say the value of House A is x. Then, the value of House B is 3x, and the value of House C is 2x - 110,000.
+
+We know that the total value of the houses is $250,000, so we can set up the equation:
+
+x + 3x + (2x - 110,000) = 250,000
+
+Combine like terms:
+
+4x - 110,000 = 250,000
+
+Add 110,000 to both sides to get:
+
+4x = 360,000
+
+Divide both sides by 4:
+
+x = 90,000
+
+So House A costs $90,000.

@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) If you buy 1 dozen of doughnuts, it costs $8.
+2) If you buy 2 dozens of doughnuts, it costs $14.
+3) This means that the cost per dozen is $8 for 1 dozen, and $7 for 2 dozens.
+4) To buy 3 sets of 2 dozens, it would cost 3 * $14 = $42.
+5) To buy 6 sets of 1 dozen, it would cost 6 * $8 = $48.
+6) The difference between the two is $48 - $42 = $6.
+Answer: 6

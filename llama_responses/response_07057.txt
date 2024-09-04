@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by identifying the total number of flowers: 9 green flowers, 3 times as many red flowers, and the total number of blue flowers.
+
+The total number of blue flowers is given as 50%. Let's represent this as a fraction: 50/100. To find the total number of flowers, we can multiply the total number of flowers by this fraction. 50/100 of 96 flowers is 48 flowers. 
+
+There are 9 green flowers, and the total number of red flowers is 3 times as many as the green flowers, so the total number of red flowers is 9 * 3 = 27 flowers. The total number of blue flowers is 48. So, the total number of yellow flowers is 96 - 9 - 27 - 48 = 2. 
+
+Answer: 2

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 24 students in the class
+* Half of the students are doing silent reading
+* One-third of the students are playing board games
+* The rest are catching up on homework
+
+First, let's calculate how many students are doing silent reading:
+* Half of 24 students = 24 / 2 = 12 students
+
+Next, let's calculate how many students are playing board games:
+* One-third of 24 students = 24 / 3 = 8 students
+
+Now, we can calculate the number of students catching up on homework by subtracting the number of students doing silent reading and playing board games from the total number of students:
+* 24 students - 12 students (silent reading) - 8 students (board games) = 4 students
+
+Answer: 4

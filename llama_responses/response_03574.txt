@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Let's find the number of cookies with nuts. Sally says 1/4 of her cookies have nuts in them. 1/4 of 60 cookies is 15 cookies. So, Maria needs nuts for 15 cookies.
+
+2. Then, let's find the number of cookies with chocolate chips. Sally says 40% of her cookies have chocolate chips in them. 40% of 60 cookies is 24 cookies. So, Maria needs chocolate chips for 24 cookies.
+
+3. The remainder of the cookies are the ones with both nuts and chocolate chips. The total number of cookies is 60, and 15 + 24 = 39 cookies are already accounted for. So, the remainder is 60 - 39 = 21 cookies.
+
+4. Since each cookie with nuts and chocolate chips has 2 nuts, Maria needs 2 * 21 = 42 nuts for the remainder cookies.
+
+Answer: 42

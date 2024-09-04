@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Duke found 10 movies in the first box that were priced at $2.00 each.
+2. He also found 5 movies in the second box that were priced at $5.00 each.
+3. To calculate the average price, we need to find the total cost of all the movies he bought, and then divide that by the total number of movies.
+
+Total cost of the movies from the first box:
+* 10 movies x $2.00 each = $20.00
+
+Total cost of the movies from the second box:
+* 5 movies x $5.00 each = $25.00
+
+Total cost of all the movies:
+* $20.00 + $25.00 = $45.00
+
+Total number of movies:
+* 10 + 5 = 15 movies
+
+Average price per DVD:
+* $45.00 / 15 movies = $3.00 per DVD
+
+Answer: 3

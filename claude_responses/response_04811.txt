@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* There are 100 people in the theater
+* 19 of them have blue eyes
+* Half of the people have brown eyes
+* A quarter of the people have black eyes
+* The rest have green eyes
+
+First, let's calculate the number of people with brown eyes:
+* Half of 100 people = 50 people have brown eyes
+
+Next, let's calculate the number of people with black eyes:
+* A quarter of 100 people = 25 people have black eyes
+
+Now, we can calculate the number of people with green eyes:
+* Total people = 100
+* People with blue eyes = 19
+* People with brown eyes = 50
+* People with black eyes = 25
+* People with green eyes = 100 - 19 - 50 - 25 = 6
+
+Answer: 6

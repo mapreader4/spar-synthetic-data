@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Let's first find the daily average of the baker's sales.
+
+The baker usually sells 20 pastries and 10 loaves of bread, so his daily average is:
+
+20 pastries x 2 = 40 dollars
+10 loaves of bread x 4 = 40 dollars
+Total daily average = 40 + 40 = 80 dollars
+
+Now, let's find the total sales for today.
+
+The baker sold 14 pastries for 2 dollars each, which is 14 x 2 = 28 dollars. He sold 25 loaves of bread for 4 dollars each, which is 25 x 4 = 100 dollars. The total sales for today is 28 + 100 = 128 dollars.
+
+To find the difference between the daily average and the total for today, we subtract the total from the average:
+
+128 - 80 = 48
+
+Answer: 48

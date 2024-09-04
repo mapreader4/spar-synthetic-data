@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Delta took 8 donuts
+* Beta took three times as many donuts as Gamma
+* The total number of donuts is 40
+
+First, we need to find out how many donuts Beta took. Since Beta took three times as many as Gamma, we can represent this as:
+* Beta's donuts = 3 * Gamma's donuts
+
+Now, we know that the total number of donuts is 40, and Delta took 8 donuts. So the remaining donuts are:
+* Remaining donuts = 40 - 8 = 32
+
+We also know that Beta's donuts plus Gamma's donuts must equal the remaining 32 donuts. So we can set up an equation:
+* Beta's donuts + Gamma's donuts = 32
+* 3 * Gamma's donuts + Gamma's donuts = 32
+* 4 * Gamma's donuts = 32
+* Gamma's donuts = 32 / 4 = 8
+
+Therefore, Gamma received 8 donuts.
+
+Answer: 8

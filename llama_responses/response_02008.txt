@@ -1,0 +1,17 @@
+To find the number of dives needed, we can set up a proportion.
+
+Let's say x be the number of dives Jamie has to make. We know that 25% of oysters have pearls in them, which means that 25% of the oysters he collects will have pearls.
+
+Since Jamie collects 16 oysters in each dive, we know that 16 is 25% of the total number of oysters he collects. So, the total number of oysters he collects in all dives will be 16x.
+
+We know that Jamie wants to collect 56 pearls. So, we can set up a proportion to find the value of x:
+
+16x = 56
+
+To solve for x, we can divide both sides of the equation by 16:
+
+x = 56 / 16
+
+x = 3.5
+
+So, Jamie has to make 3.5 dives to collect 56 pearls.

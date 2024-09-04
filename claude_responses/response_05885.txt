@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+In the first hour:
+* Dan makes one t-shirt every 12 minutes
+* There are 60 minutes in an hour
+* So in the first hour, he can make 60 minutes / 12 minutes per t-shirt = 5 t-shirts
+
+In the second hour:
+* Dan makes one t-shirt every 6 minutes
+* There are 60 minutes in an hour
+* So in the second hour, he can make 60 minutes / 6 minutes per t-shirt = 10 t-shirts
+
+Now, to find the total number of t-shirts he makes over the two hours:
+* Total t-shirts = t-shirts in first hour + t-shirts in second hour
+* Total t-shirts = 5 + 10 = 15 t-shirts
+
+Answer: 15

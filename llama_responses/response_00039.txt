@@ -1,0 +1,13 @@
+Let's start by calculating the total number of pieces of candy Anna gets in the first subdivision. Since she gets 14 pieces of candy per house and there are 60 houses, she gets:
+
+60 x 14 = 840
+
+Next, let's calculate the total number of pieces of candy Billy gets. Billy gets 11 pieces of candy per house and there are 75 houses, so he gets:
+
+75 x 11 = 825
+
+To find the difference between the number of pieces of candy Anna gets and the number of pieces of candy Billy gets, we subtract the number of pieces of candy Billy gets from the number of pieces of candy Anna gets:
+
+840 - 825 = 15
+
+So, Anna gets 15 more pieces of candy than Billy.

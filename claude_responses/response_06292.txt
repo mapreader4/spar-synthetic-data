@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Allen is 25 years younger than his mother
+* In 3 years, the sum of their ages will be 41
+
+We can represent this as an equation:
+* Let x = Allen's mother's age
+* Then Allen's age = x - 25
+
+In 3 years, the sum of their ages will be 41, so:
+* (x - 25) + (x + 3) = 41
+* 2x - 22 = 41
+* 2x = 63
+* x = 31.5
+
+However, since we are looking for the present age of Allen's mother, we do not include the 3 years. 
+
+Answer: 31

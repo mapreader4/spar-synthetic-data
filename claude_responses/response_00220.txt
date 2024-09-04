@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The car uses 20 gallons of gas to travel 400 miles
+* This means the car's fuel efficiency is 20 gallons / 400 miles = 0.05 gallons per mile
+* Mr. Montero's car has 8 gallons of gas in it
+* To travel 600 miles, the car will need:
+    - 600 miles * 0.05 gallons/mile = 30 gallons of gas
+* Since Mr. Montero's car has 8 gallons, he needs:
+    - 30 gallons - 8 gallons = 22 more gallons of gas
+
+Answer: 22

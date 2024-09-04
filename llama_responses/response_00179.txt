@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many stickers Colton gave to his 3 friends:
+
+Colton gave his 3 friends 4 stickers each, which is a total of 3 * 4 = 12 stickers.
+
+Then, he gave his friend Mandy 2 more than he gave his 3 friends. So, he gave Mandy 2 + 12 = 14 stickers.
+
+Finally, he gave his friend Justin 10 less than he gave Mandy. So, he gave Justin 14 - 10 = 4 stickers.
+
+To find the total number of stickers Colton has left, we subtract the total number of stickers he gave to his 3 friends (12) and Mandy (14) and Justin (4) from the total number of stickers he started with (72):
+
+72 - (12 + 14 + 4) = 72 - 30 = 42
+
+So, Colton has 42 stickers left.

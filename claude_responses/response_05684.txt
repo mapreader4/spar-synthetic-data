@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 3 kindergartner groups
+* The first group has 9 students
+* The second group has 10 students
+* The third group has 11 students
+* Each student needs to bring 1 mini tissue box
+* Each mini tissue box contains 40 tissues
+
+To find the total number of tissues brought by the kindergartner groups, we need to:
+1. Calculate the total number of students across all 3 groups
+2. Multiply the total number of students by the number of tissues per mini tissue box
+
+Step 1: Calculate the total number of students
+* 9 students + 10 students + 11 students = 30 total students
+
+Step 2: Multiply the total number of students by the number of tissues per mini tissue box
+* 30 students x 40 tissues per box = 1,200 tissues
+
+Answer: 1,200

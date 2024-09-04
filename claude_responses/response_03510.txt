@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Alfred's goal is to save $1,000.00 over 12 months for his Christmas shopping
+* He has $100.00 left over from last year's holiday to put towards this year's goal
+* To calculate how much he needs to save each month, we need to:
+  1. Subtract the $100.00 he has left over from the $1,000.00 goal
+  2. Divide the remaining amount ($900.00) by the number of months (12)
+
+Step 1: Subtract the $100.00 he has left over from the $1,000.00 goal
+* $1,000.00 - $100.00 = $900.00
+
+Step 2: Divide the remaining amount ($900.00) by the number of months (12)
+* $900.00 / 12 = $75.00
+
+Therefore, Alfred needs to save $75.00 each month in order to reach his $1,000.00 goal in 12 months.
+
+Answer: $75

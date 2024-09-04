@@ -1,0 +1,7 @@
+To solve this problem, let's first identify the items Raine is buying.
+
+Raine buys 3 bracelets at $15 each, so that's $45. Raine buys 2 gold heart necklaces at $10 each, so that's $20. Raine buys 1 coffee mug at $20.  To get the total cost of the items, we add up the cost of each item: $45 + $20 + $20. The total cost is $85.
+
+Raine gives a $100 bill, and we need to find the change. We can subtract the total cost from the $100 bill to find the change. $100 - $85 is $15. The answer is:
+
+Answer: 15

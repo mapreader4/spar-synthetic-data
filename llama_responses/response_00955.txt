@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we know that there are 10 gallons of juice. Each gallon has 10 cups, so we can multiply 10 gallons by 10 cups to find the total number of cups: 10 x 10 = 100 cups.
+
+Since 100 cups of juice were originally bought, but 5 cups were left, we need to subtract 5 from 100 to find the number of cups that were drunk: 100 - 5 = 95.
+
+Answer: 95

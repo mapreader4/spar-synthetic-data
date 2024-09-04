@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+First, Carla made 45 batches of cupcakes. Each batch has 65 cupcakes. So, the total number of cupcakes is 45 * 65 = 2,925 cupcakes.
+
+Then, Carla took 5 cupcakes from each batch, and fed them to her dogs. So, she took 5 * 45 = 225 cupcakes from the total. That leaves 2,925 - 225 = 2,700 cupcakes left.
+
+Now, Carla's daughter has 19 friends, including herself. To find out how many cupcakes each of her friends ate, we need to divide the remaining cupcakes by the number of friends. So, 2,700 ÷ 20 = 135. Answer: 135

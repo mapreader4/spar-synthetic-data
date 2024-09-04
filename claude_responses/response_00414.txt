@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. The first energy drink is 12 ounces and has 250 grams of caffeine.
+
+2. The second energy drink is 2 ounces and has 3 times more caffeine per ounce than the first drink.
+   - Since the first drink has 250 grams of caffeine in 12 ounces, that means it has 250/12 = 20.83 grams of caffeine per ounce.
+   - The second drink has 3 times more caffeine per ounce, so it has 3 * 20.83 = 62.5 grams of caffeine per ounce.
+   - Since the second drink is 2 ounces, it has 2 * 62.5 = 125 grams of caffeine.
+
+3. The total caffeine from the two energy drinks is:
+   - 250 grams (first drink) + 125 grams (second drink) = 375 grams
+
+4. The caffeine pill has as much caffeine as the two drinks combined, which is 375 grams.
+
+Therefore, the total amount of caffeine John consumed is:
+- 375 grams (from the two energy drinks) + 375 grams (from the caffeine pill) = 750 grams
+
+Answer: 750

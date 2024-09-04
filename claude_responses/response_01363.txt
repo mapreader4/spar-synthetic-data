@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Prudence made 2 dozen (24) cupcakes, but 2 dozen were burnt and had to be thrown out.
+* That leaves 0 cupcakes from the first batch.
+* She then made 2 more dozen (24) cupcakes, and ate 5 of them.
+* That leaves 19 cupcakes from the second batch.
+* She then made 2 more dozen (24) cupcakes, and ate 4 of them.
+* That leaves 20 cupcakes from the third batch.
+* In total, she has 19 + 20 = 39 cupcakes remaining.
+* Each cupcake costs $0.75 to make.
+* She sells each cupcake for $2.00.
+* Her total revenue is 39 cupcakes x $2.00 = $78.
+* Her total cost is 39 cupcakes x $0.75 = $29.25.
+* Her net profit is her total revenue minus her total cost:
+* $78 - $29.25 = $48.75.
+
+Answer: $48.75.

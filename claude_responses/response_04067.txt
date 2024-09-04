@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+
+1. Ferris wheel:
+   - 3 children rode the Ferris wheel
+   - Cost per child: $5
+   - Total cost for Ferris wheel: 3 × $5 = $15
+
+2. Merry-go-round:
+   - All 5 children rode the merry-go-round
+   - Cost per child: $3
+   - Total cost for merry-go-round: 5 × $3 = $15
+
+3. Ice cream:
+   - Each child bought 2 cones of ice cream
+   - Cost per cone: $8
+   - Total cost for ice cream: 5 × 2 × $8 = $80
+
+4. Total cost:
+   - Total cost = Cost of Ferris wheel + Cost of merry-go-round + Cost of ice cream
+   - Total cost = $15 + $15 + $80 = $110
+
+Answer: 110

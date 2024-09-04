@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's first find the total number of crickets she eats in total.
+
+The first day, she eats 30% of the crickets, which is 0.3 x 70 = 21 crickets.
+
+The second day, she eats 6 less than the first day, so she eats 21 - 6 = 15 crickets.
+
+The third day, she finishes up the remaining crickets. The remaining crickets are 70 - 21 - 15 = 34.
+
+So, she eats 34 crickets on the third day.
+
+Answer: 34

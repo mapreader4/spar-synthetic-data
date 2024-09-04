@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Catherine had an equal number of pencils and pens, so if she had 60 pens, she must have had 60 pencils as well.
+2) She gave 8 pens and 6 pencils to each of her 7 friends.
+3) For each friend, she gave away 8 pens and 6 pencils, so that's 14 items per friend.
+4) With 7 friends, she gave away a total of 7 * 14 = 98 items.
+5) Since she had an equal number of pens and pencils, she gave away 49 pens and 49 pencils.
+6) She started with 60 pens and 60 pencils, so after giving away 49 of each, she had 60 - 49 = 11 pens and 60 - 49 = 11 pencils left.
+
+Answer: 11 pens and 11 pencils.

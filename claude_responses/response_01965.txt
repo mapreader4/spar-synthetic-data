@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+Year 1: Grandma Molly created 4 turtle statues and placed them on her front lawn.
+Number of statues at the end of Year 1: 4
+
+Year 2: Grandma Molly quadrupled the number of statues on her front lawn.
+Number of statues at the end of Year 2: 4 x 4 = 16
+
+Year 3: Grandma Molly added 12 more statues to the front lawn, but 3 were broken and thrown away.
+Number of statues added in Year 3: 12
+Number of statues broken in Year 3: 3
+Number of statues at the end of Year 3: 16 + 12 - 3 = 25
+
+Year 4: Grandma Molly added twice as many new statues as had been broken the year before.
+Number of statues added in Year 4: 2 x 3 = 6
+Number of statues at the end of Year 4: 25 + 6 = 31
+
+Answer: 31 turtle statues were on Grandma Molly's front lawn at the end of the four years.

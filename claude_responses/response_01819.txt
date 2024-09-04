@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Teresa orders 2 fancy ham and cheese sandwiches at $7.75 each
+* 2 sandwiches x $7.75 each = $15.50 for the sandwiches
+* She also buys:
+  - Salami for $4.00
+  - Brie, which is 3 times the price of the salami, so 3 x $4.00 = $12.00
+  - 1/4 pound of olives at $10.00 per pound, so 1/4 x $10.00 = $2.50
+  - 1/2 pound of feta cheese at $8.00 per pound, so 1/2 x $8.00 = $4.00
+  - 1 loaf of french bread for $2.00
+* Adding up all the items:
+  - Sandwiches: $15.50
+  - Salami: $4.00
+  - Brie: $12.00
+  - Olives: $2.50
+  - Feta cheese: $4.00
+  - French bread: $2.00
+* Total amount spent at the local shop:
+  $15.50 + $4.00 + $12.00 + $2.50 + $4.00 + $2.00 = $40.00
+
+Answer: 40

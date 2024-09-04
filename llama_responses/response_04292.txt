@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many fish Jordan caught. Jordan caught 4 fish.
+
+Perry caught double what Jordan caught, so Perry caught 4 * 2 = 8 fish.
+
+The total number of fish they caught is 4 + 8 = 12.
+
+On the way back to shore, they lost one-fourth of their total catch. One-fourth of 12 is 12 / 4 = 3.
+
+So, they lost 3 fish.
+
+To find the number of fish that remain, we subtract the number of fish they lost from the total number of fish they caught: 12 - 3 = 9.
+
+Answer: 9

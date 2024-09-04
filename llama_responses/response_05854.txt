@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 3: Determine the value of the gold coins. Since each gold coin is worth 50 dollars, 3 gold coins is worth 3 * 50 = 150 dollars.
+
+Step 4: Determine the value of the silver coins. Since each silver coin is worth 25 dollars, 5 silver coins is worth 5 * 25 = 125 dollars.
+
+Step 5: Add the value of the gold coins and the value of the silver coins. The total value of the coins is 150 + 125 = 275 dollars.
+
+Step 6: Add the cash to the total value of the coins. The total value of the coins and cash is 275 + 30 = 305 dollars.
+
+Answer: 305

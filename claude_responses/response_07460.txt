@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The school is adding 5 rows of seats to the auditorium
+* Each row has 8 seats
+* So the total number of new seats is 5 rows x 8 seats per row = 40 seats
+* Each seat costs $30
+* So the total cost of the seats without any discount would be 40 seats x $30 per seat = $1,200
+* The parent offered a 10% discount on each group of 10 seats purchased
+* Since there are 40 seats, that's 4 groups of 10 seats
+* The discount would be 10% of $300 (the cost of each group of 10 seats) = $30 per group
+* So the total discount would be 4 groups x $30 per group = $120
+* Therefore, the total amount the school will pay for the new seats is $1,200 - $120 = $1,080
+
+Answer: $1,080

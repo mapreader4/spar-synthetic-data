@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 6 oranges in the fruit basket
+* There are 2 fewer apples than oranges, so the number of apples is 6 - 2 = 4
+* There are 3 times as many bananas as apples, so the number of bananas is 4 x 3 = 12
+* There are half as many peaches as bananas, so the number of peaches is 12 / 2 = 6
+
+Now, to find the total number of pieces of fruit in the basket, we add up the number of each type of fruit:
+* 6 oranges + 4 apples + 12 bananas + 6 peaches = 28 pieces of fruit
+
+Answer: 28

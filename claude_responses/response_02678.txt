@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Nunzio eats 3 pieces of pizza every day for lunch
+* Each piece of pizza represents 1/8 of the entire pie
+* We need to find how many pizzas Nunzio eats in 72 days
+
+First, let's calculate how many pieces of pizza Nunzio eats in 72 days:
+* 3 pieces per day x 72 days = 216 pieces of pizza
+
+Now, we need to convert the number of pieces to the number of pizzas. Since each piece represents 1/8 of a pizza, we can divide the total number of pieces by 8 to get the number of pizzas:
+* 216 pieces / 8 pieces per pizza = 27 pizzas
+
+Therefore, the answer is:
+Answer: 27

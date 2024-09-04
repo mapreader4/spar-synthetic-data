@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+The country originally had a tax rate of 20%.  Let's find the amount of taxes John paid in the first year, when the tax rate was 20%: 1,000,000 * 0.2 = 200,000.
+
+The country raised the tax rate to 30%.  Now, the amount of taxes John pays will be 1,500,000 * 0.3 = 450,000.
+
+To find the difference in the amount of taxes John pays, we subtract the original amount from the new amount: 450,000 - 200,000 = 250,000.
+
+Answer: 250,000

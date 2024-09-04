@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The choir had 30 singers total.
+* In the first verse, only half of them sang. 
+  * Half of 30 is 15, so 15 singers sang in the first verse.
+* In the second verse, a third of the remaining singers joined in.
+  * The remaining singers are 30 - 15 = 15.
+  * A third of 15 is 5, so 5 more singers joined in the second verse.
+* In the final third verse, the whole choir sang together.
+  * The total number of singers in the final verse is the original 30.
+
+Answer: 30

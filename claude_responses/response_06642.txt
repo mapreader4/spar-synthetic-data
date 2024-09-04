@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+1. Larry started off with 150 channels.
+2. They took away 20 channels and replaced them with 12 channels.
+   * So, the new total is 150 - 20 + 12 = 142 channels.
+3. Larry then asked to reduce his package by 10 more channels, but add the sports package which is 8 channels.
+   * So, the new total is 142 - 10 + 8 = 140 channels.
+4. Larry then added the supreme sports package, which adds 7 more channels.
+   * So, the final total is 140 + 7 = 147 channels.
+
+Answer: 147

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: The first 10 pages have 5 rows of 30 stamps each. So, the number of stamps in the first 10 pages is 5 * 30 = 150.
+
+Step 2: The remaining pages are 50 each. So, the number of stamps in the remaining pages is 50 * (50 - 10) = 40.
+
+Step 3: The total number of stamps in the album is the sum of the stamps in the first 10 pages and the stamps in the remaining pages. 150 + 40 = 190.
+
+Answer: 190

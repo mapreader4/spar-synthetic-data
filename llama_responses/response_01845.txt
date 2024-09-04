@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's first find the cost of the CDs Julia wants to buy:
+
+* Rock CDs: 4 * 5 = 20
+* Pop CDs: 4 * 10 = 40
+* Dance CDs: 4 * 3 = 12
+* Country CDs: 4 * 7 = 28
+
+The total cost is 20 + 40 + 12 + 28 = 100.
+
+Julia has 75 dollars. To find out how much she is short, we need to subtract the total cost from 75:
+
+75 - 100 = -25
+
+Answer: 25

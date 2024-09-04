@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Governor Sandoval gave 12 commencement addresses.
+2) Governor Sandoval gave twice as many commencement addresses as Governor Hawkins.
+   * This means that Governor Hawkins gave 12 / 2 = 6 commencement addresses.
+3) Governor Sloan gave ten more commencement addresses than Governor Sandoval.
+   * This means that Governor Sloan gave 12 + 10 = 22 commencement addresses.
+4) To find the total number of commencement addresses given by the three governors, we add up their individual totals:
+   * Governor Sandoval: 12
+   * Governor Hawkins: 6
+   * Governor Sloan: 22
+   * Total: 12 + 6 + 22 = 40
+
+Answer: 40

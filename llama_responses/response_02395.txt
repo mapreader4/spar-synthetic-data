@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start with the number of adults. The problem states that the chef has served 58 adults. Let's call this number A.
+
+The problem also states that there are 35 fewer children than the number of adults, so the number of children is A - 35.
+
+The problem also states that there are twice as many seniors as children, so the number of seniors is (A - 35) * 2.
+
+We can now write an equation to represent the number of seniors: A - 35 * 2 = 70.
+
+The total number of guests served is the sum of the number of adults, children, and seniors: A + (A - 35) + 70.
+
+Substituting the values we found for A, we get:
+
+58 + (58 - 35) + 70 = 58 + 23 + 70 = 151
+
+Answer: 151

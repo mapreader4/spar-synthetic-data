@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* James originally had 18 chocolate bars to sell
+* He sold 5 last week
+* He sold 7 this week
+* So, the total number of chocolate bars he has sold so far is 5 + 7 = 12
+* To find how many more he needs to sell, we take the original 18 and subtract the 12 he has already sold:
+* 18 - 12 = 6
+
+Answer: 6

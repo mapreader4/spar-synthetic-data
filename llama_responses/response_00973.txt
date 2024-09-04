@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of sales that Mr. Brandon made yesterday. This is given as $80.
+
+Next, we are told that 2/5 of the total amount of sales were credit sales. This means that the remaining 3/5 of the total amount of sales were cash sales.
+
+To find the amount of cash sales, we need to find 3/5 of the total amount of sales. To do this, we can multiply the total amount of sales by 3/5.
+
+$80 * 3/5 = $48
+
+So, Mr. Brandon got $48 from cash sales.
+
+Answer: 48

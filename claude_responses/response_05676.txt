@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Don can paint 3 tiles per minute
+2) Ken can paint 2 more tiles per minute than Don, so Ken can paint 5 tiles per minute
+3) Laura can paint twice as many tiles as Ken, so Laura can paint 10 tiles per minute
+4) Kim can paint 3 fewer tiles than Laura, so Kim can paint 7 tiles per minute
+5) In 15 minutes:
+   - Don can paint 3 tiles/minute * 15 minutes = 45 tiles
+   - Ken can paint 5 tiles/minute * 15 minutes = 75 tiles
+   - Laura can paint 10 tiles/minute * 15 minutes = 150 tiles
+   - Kim can paint 7 tiles/minute * 15 minutes = 105 tiles
+6) Adding up the tiles painted by each person:
+   - Don: 45 tiles
+   - Ken: 75 tiles
+   - Laura: 150 tiles
+   - Kim: 105 tiles
+   - Total: 45 + 75 + 150 + 105 = 375 tiles
+
+Answer: 375 tiles

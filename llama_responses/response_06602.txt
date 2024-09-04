@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the number of questions answered correctly by Riley. Riley got 3 mistakes, which means the number of questions answered correctly is 35 - 3 = 32.
+
+Now, we are given that Ofelia got 5 more than half the score of Riley. Since Riley got 32 questions correct, half of that is 32 / 2 = 16. Ofelia got 5 more than that, so she got 16 + 5 = 21 questions correct.
+
+To find the total number of incorrect answers, we add the number of incorrect answers of both students. Riley got 3 incorrect answers, and Ofelia got 13 (since 35 - 21 = 14, and 14 - 1 = 13). So, the total number of incorrect answers is 3 + 13 = 16.
+
+Answer: 16

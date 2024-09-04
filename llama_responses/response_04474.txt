@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's start with what we know:
+
+* Brittany has half as much money as Alison, so if Brittany has x amount of money, then Alison has x/2 amount of money.
+* Brooke has 4 times as much money as Kent, so Brooke has 4x amount of money.
+* Kent has $1,000, so Brooke has 4 times that amount, which is 4,000.
+
+Now we can write an equation for Alison's money in terms of Brooke's money: Alison has x/2 = Brooke/2. Since Brooke has 4,000, we can substitute Brooke for Brooke's money in the equation: Alison = Brooke/2 = 4,000/2.
+
+To solve for Alison's money, we need to divide Brooke's money by 2: Alison = Brooke/2 = 4,000/2 = 2,000.
+
+Answer: 2000

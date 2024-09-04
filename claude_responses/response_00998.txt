@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The pool holds 60 gallons of water when full
+* The garden hose provides water at a rate of 1.6 gallons per minute
+* The pool has a leak that drains water at a rate of 0.1 gallons per minute
+* To find the time it takes to fill the pool, we need to calculate the net rate of water flow into the pool
+
+The net rate of water flow is the rate of water coming in (from the hose) minus the rate of water leaking out:
+* Net rate of water flow = 1.6 gallons/minute - 0.1 gallons/minute = 1.5 gallons/minute
+
+Now, to find the time it takes to fill the 60-gallon pool, we divide the pool capacity by the net rate of water flow:
+* Time to fill pool = 60 gallons / 1.5 gallons/minute = 40 minutes
+
+Answer: 40

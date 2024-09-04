@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1. Darrel has the following coins:
+   - 76 quarters
+   - 85 dimes
+   - 20 nickels
+   - 150 pennies
+
+2. To calculate the total value of his coins, we need to convert each type of coin to its dollar value:
+   - 76 quarters x $0.25 = $19.00
+   - 85 dimes x $0.10 = $8.50
+   - 20 nickels x $0.05 = $1.00
+   - 150 pennies x $0.01 = $1.50
+
+3. Adding up the values of all the coins:
+   - $19.00 + $8.50 + $1.00 + $1.50 = $30.00
+
+4. Now, we need to calculate the 10% fee that will be charged:
+   - 10% of $30.00 = $3.00
+
+5. To find the amount Darrel will receive after the 10% fee, we subtract the fee from the total value of the coins:
+   - $30.00 - $3.00 = $27.00
+
+Answer: $27

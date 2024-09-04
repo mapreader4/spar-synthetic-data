@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The couple registered for 2 steak knife sets
+* Each set contains 4 steak knives
+* So the total number of steak knives is 2 sets x 4 knives per set = 8 steak knives
+* The cost of each set is $80.00
+* So the total cost for the 2 sets is 2 x $80.00 = $160.00
+* To find the cost of each single steak knife, we divide the total cost ($160.00) by the total number of steak knives (8)
+* $160.00 / 8 = $20.00
+
+Answer: $20.00

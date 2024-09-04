@@ -1,0 +1,1 @@
+Let's start by counting the number of legs of each type of pet. Each bird has 2 legs, so 3 birds have 3 x 2 = 6 legs. Each dog has 4 legs, so 5 dogs have 5 x 4 = 20 legs. Each snake has 0 legs, so 4 snakes have 0 x 0 = 0 legs. The spider has 8 legs. Now, let's add up the total number of legs. 6 + 20 + 0 + 8 = 26.

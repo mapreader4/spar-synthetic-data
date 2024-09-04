@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+1. Jamal has a cart full of books to put away in different sections.
+2. In the history section, he shelves 12 books.
+3. In the fiction section, he shelves 19 books.
+4. In the children's section, he shelves 8 books but finds 4 that were left in the wrong place that he adds to his cart to shelve elsewhere.
+5. He still has 16 books to shelve.
+
+Now, let's find the total number of books he started with in the cart.
+
+Step 1: Jamal has a cart full of books.
+Step 2: He shelves 12 books in the history section.
+Step 3: He shelves 19 books in the fiction section.
+Step 4: He shelves 8 books in the children's section and finds 4 that were left in the wrong place, so he adds them to his cart to shelve elsewhere.
+Step 5: He still has 16 books to shelve.
+
+To find the total number of books he started with in the cart, we need to add the books he shelves in each section. So, we have:
+
+12 + 19 + 8 = 39
+
+Answer: 39

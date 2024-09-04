@@ -1,0 +1,7 @@
+Okay, let's think through this step-by-step:
+1) There are 28 dominoes in the set.
+2) Jean and her three friends are playing the game, so there are 4 players in total.
+3) Jean wants each player to receive the same number of dominoes.
+4) To find the number of dominoes each player will receive, we need to divide the total number of dominoes (28) by the number of players (4).
+5) 28 ÷ 4 = 7.
+Answer: 7

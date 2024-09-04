@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Adam picks 4 apples from his orchard every day for 30 days
+* To calculate the total number of apples picked during those 30 days, we multiply the number of apples picked per day (4) by the number of days (30):
+* 4 apples per day x 30 days = 120 apples
+* After the 30 days, Adam collects the remaining 230 apples
+* To find the total number of apples collected, we add the 120 apples picked over the 30 days to the 230 remaining apples:
+* 120 apples + 230 apples = 350 apples
+
+Answer: 350

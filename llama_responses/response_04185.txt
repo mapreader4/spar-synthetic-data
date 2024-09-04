@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of candy necklaces that Emily started with. Since each pack has 8 candy necklaces, and Emily bought 9 packs, the total number of candy necklaces is 9 * 8 = 72.
+
+Now, let's find the number of candy necklaces that were given out. Since there were 40 necklaces left after her classmates took some, the number of necklaces given out is 72 - 40 = 32.
+
+Now, we need to find the number of packs that Emily opened to give out the necklaces. Since each pack has 8 necklaces, and 32 necklaces were given out, we can divide 32 by 8 to get the number of packs opened. 32 / 8 = 4.
+
+So, Emily opened 4 packs to give her classmates the necklaces.

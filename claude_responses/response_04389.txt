@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+1) The cost of the house is $480,000 and the cost of the trailer is $120,000.
+2) Both loans will be paid in monthly installments over 20 years.
+3) To calculate the monthly payment, we can use the formula: Monthly Payment = Loan Amount / (Number of Payments)
+4) For the house:
+   - Loan Amount = $480,000
+   - Number of Payments = 20 years x 12 months/year = 240 payments
+   - Monthly Payment = $480,000 / 240 = $2,000
+5) For the trailer:
+   - Loan Amount = $120,000
+   - Number of Payments = 20 years x 12 months/year = 240 payments
+   - Monthly Payment = $120,000 / 240 = $500
+6) The difference in monthly payments between the house and the trailer is:
+   - $2,000 - $500 = $1,500
+Answer: $1,500

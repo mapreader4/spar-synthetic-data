@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* During the first hour, the pool fills at a rate of 8 gallons per hour. So in the first hour, 8 gallons are added to the pool.
+* During the next two hours, the pool fills at a rate of 10 gallons per hour. So in the next two hours, 2 * 10 = 20 gallons are added to the pool.
+* During the fourth hour, the pool fills at a rate of 14 gallons per hour. So in the fourth hour, 14 gallons are added to the pool.
+* During the fifth hour, the pool develops a leak and loses 8 gallons of water.
+* So the total amount of water in the pool after 5 hours is:
+8 + 20 + 14 - 8 = 34 gallons.
+
+Answer: 34 gallons.

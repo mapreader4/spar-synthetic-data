@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Let's start by calculating the cost of the nuts. Adam bought 3 kilograms of nuts, and each kilogram of nuts costs $12. So, the total cost of the nuts is 3 * 12 = 36 dollars.
+
+Next, let's calculate the cost of the dried fruits. Adam bought 2.5 kilograms of dried fruits, and each kilogram of dried fruits costs $8. To calculate the cost of the dried fruits, we need to multiply the number of kilograms by the cost per kilogram. 2.5 kilograms is equal to 2.5 * 1 = 2.5. So, the cost of the dried fruits is 2.5 * 8 = 20 dollars.
+
+Now, let's add the cost of the nuts and the cost of the dried fruits to get the total cost of Adam's purchases. 36 + 20 = 56.
+
+Answer: 56

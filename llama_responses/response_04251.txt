@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+The first week, Carly runs 2 miles.
+
+The second week, she runs twice as long plus 3 extra miles. Since she ran 2 miles the first week, twice as long would be 2 x 2 = 4 miles. Adding 3 extra miles, she runs 4 + 3 = 7 miles the second week.
+
+The third week, she runs 9/7 as much as she ran the second week. Since she ran 7 miles the second week, 9/7 of that is 9/7 x 7 = 9 miles.
+
+The week after that, she sprains her ankle and reduces her running time by 5 miles. So, she runs 9 - 5 = 4 miles.
+
+Answer: 4

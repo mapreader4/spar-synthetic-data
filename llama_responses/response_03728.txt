@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. It takes Marcus 20 minutes to saute the onions.
+2. It takes Marcus a quarter of the time it takes to saute the onions to saute the garlic and peppers. So, it takes Marcus 20/4 = 5 minutes to saute the garlic and peppers.
+3. It takes Marcus 30 minutes to knead the dough.
+4. It takes Marcus twice as long to let it rest, so it takes Marcus 2 x 30 = 60 minutes to let it rest.
+5. It takes Marcus 1/10th the combined kneading and resting time to assemble the calzones. The combined time is 30 + 60 = 90 minutes, so it takes Marcus 1/10th of that to assemble the calzones. 90/10 = 9 minutes.
+
+So, the total time is 20 + 5 + 30 + 60 + 9 = 135 minutes.
+
+Answer: 135

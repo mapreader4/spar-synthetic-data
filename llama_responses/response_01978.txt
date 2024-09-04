@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Alice walks 10 miles to school on Monday to Friday morning. That's a total of 5 days.
+
+Step 2: She walks 12 miles through the forest on Friday. So, she walks 5 days * 12 miles = 60 miles through the forest.
+
+Step 3: The total distance she walks to and from school is 10 miles * 5 = 50 miles.
+
+Step 4: The total distance she walks in a week is the sum of the distance she walks to school and the distance she walks through the forest. So, the total distance is 50 + 60 = 110 miles.
+
+Answer: 110

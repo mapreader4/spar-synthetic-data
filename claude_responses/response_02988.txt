@@ -1,0 +1,21 @@
+To solve this problem, we need to find the rate at which Hadassah paints the paintings and then use that rate to calculate the total time it would take her to paint 20 more paintings.
+
+Given information:
+- Hadassah took 6 hours to paint 12 paintings.
+
+Step 1: Find the rate at which Hadassah paints the paintings.
+Rate of painting = Number of paintings / Time taken
+Rate of painting = 12 paintings / 6 hours
+Rate of painting = 2 paintings per hour
+
+Step 2: Calculate the total time it would take Hadassah to paint 20 more paintings.
+Total time = Number of additional paintings / Rate of painting
+Total time = 20 paintings / 2 paintings per hour
+Total time = 10 hours
+
+Step 3: Calculate the total time Hadassah would take to finish all the paintings.
+Total time = Time taken for the first 12 paintings + Time taken for the additional 20 paintings
+Total time = 6 hours + 10 hours
+Total time = 16 hours
+
+Answer: 16 hours

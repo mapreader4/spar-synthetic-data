@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's first write the lifespan of the hamster as an equation: h. Let's call the lifespan of the bat as b.
+
+We know that the lifespan of the hamster is 6 years less than the lifespan of the bat, so we can write an equation: b = h + 6.
+
+We also know that the lifespan of the frog is 4 times that of the hamster, so we can write another equation: f = 4h.
+
+We are given that the lifespan of the frog and the lifespan of the bat together is 30 years. So, we can set up an equation to solve for the lifespan of the bat: f + h = 30.
+
+We can substitute the equation with the equation we found earlier: f = 4h, so we get: 4h + h = 30.
+
+We can then solve for the lifespan of the hamster (h) by subtracting 30 - 4h from both sides of the equation: 30 - 4h = h.
+
+h = 6.
+
+So, the lifespan of the bat is 30 - 6 = 24.

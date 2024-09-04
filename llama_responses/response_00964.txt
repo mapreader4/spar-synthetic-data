@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Kevin can eat 64 wings in 8 minutes, so we can find his rate of eating wings by dividing 64 by 8:
+
+64 wings / 8 minutes = 8 wings per minute
+
+Now, we know that Alan can eat 5 wings per minute. To beat Kevin's record, Alan needs to eat more wings per minute. Let's find the difference:
+
+8 wings/minute (Kevin's rate) - 5 wings/minute (Alan's rate) = 3 wings/minute
+
+So, Alan needs to eat 3 more wings per minute to beat Kevin's record.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) James buys 20 coins of a cryptocurrency at $15 each.
+2) The total amount James spent on the coins is 20 coins x $15 per coin = $300.
+3) The value of the coins increases by 2/3. This means the new value of each coin is $15 + (2/3 x $15) = $25.
+4) James wants to sell enough coins to recoup his original investment of $300.
+5) To calculate how many coins he needs to sell, we divide the original investment ($300) by the new value of each coin ($25).
+6) $300 / $25 per coin = 12 coins.
+
+Answer: 12

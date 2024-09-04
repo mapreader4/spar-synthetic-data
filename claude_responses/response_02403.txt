@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Onur bikes 250 kilometers per day, 5 times a week
+* To calculate Onur's total distance in a week:
+  * 250 kilometers per day x 5 days per week = 1,250 kilometers per week
+* Hanil bikes 40 more kilometers than Onur per day
+  * 250 kilometers + 40 kilometers = 290 kilometers per day
+  * 290 kilometers per day x 5 days per week = 1,450 kilometers per week
+* To calculate the total distance the two friends bike in a week:
+  * Onur's distance: 1,250 kilometers
+  * Hanil's distance: 1,450 kilometers
+  * Total distance: 1,250 kilometers + 1,450 kilometers = 2,700 kilometers
+
+Answer: 2,700

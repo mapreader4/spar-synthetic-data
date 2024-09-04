@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's say the amount of money Isabel had initially is x.
+
+She spent half of the amount, which is x/2.
+
+She then spent half of the remaining money, which is (x - x/2)/2 = (x/2)/2.
+
+So, she has x - (x/2) left.
+
+We know that she has 51 dollars left, so x - (x/2) = 51.
+
+We can solve for x:
+
+x - (x/2) = 51
+x - x/2 = 51
+x - x/2 + x/2 = 51
+x - x = 102
+
+So, x = 102.
+
+Answer: 102

@@ -1,0 +1,13 @@
+Let's break down the cost of the fruits:
+
+Lemons: 6 * 2 = 12
+Papayas: 4 * 1 = 4
+Mangos: 2 * 4 = 8
+
+Total cost before discount: 12 + 4 + 8 = 24
+
+The store offers a $1 discount for every 4 fruits. Since Tom bought 12 fruits in total, he will get a discount of 3 times $1, which is 3 * 1 = 3.
+
+So, the total cost will be 24 - 3 = 21.
+
+Answer: 21

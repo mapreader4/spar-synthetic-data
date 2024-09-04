@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The camera's value is $5000.
+2) The rental fee is 10% of the value per week.
+   * Rental fee per week = 10% of $5000 = $500
+   * Rental fee for 4 weeks = $500 x 4 = $2000
+3) John's friend agreed to pay 40% of the rental fee.
+   * 40% of $2000 = $800
+4) John's portion of the rental fee is the remaining 60%.
+   * 60% of $2000 = $1200
+Therefore, the amount John paid is:
+Answer: $1200

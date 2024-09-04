@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) The group pays a total of $720 for admission tickets.
+2) The price of an adult ticket is $15, and the price of a child ticket is $8.
+3) There are 25 more adults than children in the group.
+Let's define the variables:
+* Let x = the number of children in the group
+* Then the number of adults is x + 25
+4) The total cost of the tickets is the sum of the cost of the adult tickets and the cost of the child tickets:
+* Total cost = (x + 25) * $15 + x * $8
+* Total cost = 15x + 375 + 8x
+* Total cost = 23x + 375
+5) We know the total cost is $720, so we can set up an equation:
+* 23x + 375 = 720
+* 23x = 345
+* x = 15
+Therefore, the number of children in the group is 15.
+
+Answer: 15

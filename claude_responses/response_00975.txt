@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) John hits 70% of his free throws. This means he misses 30% of his free throws.
+2) For every foul, he gets 2 shots.
+3) He gets fouled 5 times a game.
+4) So in one game, he gets 5 * 2 = 10 free throw attempts.
+5) The team plays 20 games.
+6) John plays in 80% of the 20 games, which is 0.8 * 20 = 16 games.
+7) In 16 games, he will have 16 * 10 = 160 free throw attempts.
+8) Since he hits 70% of his free throws, he will make 0.7 * 160 = 112 free throws.
+
+Answer: 112

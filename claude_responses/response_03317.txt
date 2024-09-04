@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 180 days in a school year.
+2) A senior can skip their final exams if they miss 5% or less of the school year.
+3) 5% of 180 days is 0.05 * 180 = 9 days.
+4) Hazel has missed 6 days of school due to illness.
+5) To calculate how many more days Hazel can miss and still not have to take her exams, we need to subtract the 6 days she has already missed from the 9 days allowed:
+9 days - 6 days = 3 days.
+
+Answer: 3 days

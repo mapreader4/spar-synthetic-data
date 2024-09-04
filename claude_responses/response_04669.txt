@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tom's deck has 19 rare cards, each costing $1
+* So the total cost of the rare cards is 19 * $1 = $19
+* The deck also has 11 uncommon cards, each costing $0.50
+* So the total cost of the uncommon cards is 11 * $0.50 = $5.50
+* Finally, the deck has 30 common cards, each costing $0.25
+* So the total cost of the common cards is 30 * $0.25 = $7.50
+* To calculate the total cost of the deck, we add up the costs of the rare, uncommon, and common cards:
+* $19 + $5.50 + $7.50 = $32
+
+Answer: 32

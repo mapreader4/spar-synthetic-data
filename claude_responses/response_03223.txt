@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) We are told that there are 9,000 chickens on the chicken farm.
+2) We are also told that the roosters outnumber the hens 2 to 1.
+3) This means that for every 3 chickens, 2 are roosters and 1 is a hen.
+4) To find the number of roosters, we can set up a proportion:
+   Total Chickens / 3 = Roosters / 2
+5) Plugging in the values, we get:
+   9,000 / 3 = Roosters / 2
+6) Solving for Roosters, we get:
+   Roosters = (9,000 / 3) * 2 = 6,000
+
+Answer: 6,000

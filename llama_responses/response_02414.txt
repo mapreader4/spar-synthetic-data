@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Step 1: Convert the length of the track to meters: 10000 meters.
+
+Step 2: Divide the length of the track in meters by the speed at which Amanda can run the length of a 2000-meter football field in 2 hours.
+
+To find the speed, we need to know how long it takes her to run 2000 meters. The formula to find the speed is: Speed = Distance / Time. So, Speed = 2000 meters / 2 hours = 1000 meters per hour.
+
+Step 3: Now, we need to find the time it would take her to run the length of the 10000-meter track. To do this, we can use the formula: Time = Distance / Speed. So, Time = 10000 meters / 1000 meters per hour = 10 hours.
+
+Answer: 10

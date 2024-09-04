@@ -1,0 +1,39 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the cost of the six-pack of muffins. Since it's two times more expensive than the cheesecake, and we know that one cheesecake is 25% cheaper than the apple pie, we can set up an equation to represent the cost of the six-pack of muffins:
+
+Let x be the cost of the cheesecake. Then, the cost of the six-pack of muffins is 2x, and the cost of the apple pie is x + (25% of x).
+
+We know the cost of the apple pie is $12, so we can set up the equation: x + (25% of x) = 12.
+
+To solve for x, we can subtract 25% of x from both sides of the equation: x + (25% of x) - 25% of x = 12 - 25% of x.
+
+Simplifying the equation, we get: x = 12 - 25% of x.
+
+We can solve for x by subtracting 12 from both sides of the equation: x - 12 = -25% of x.
+
+Now, we can convert the percentage to a decimal: -25% = -0.25.
+
+Subtracting 0.25x from both sides of the equation, we get: x - 12 = -0.25x.
+
+Adding 12 to both sides of the equation, we get: x = 12 - 0.25x.
+
+We can now find the cost of the cheesecake by solving for x: x = 12 - 0.25x.
+
+Since the cost of the six-pack of muffins is 2x, we can substitute 2x for x in the equation: 2x = 12 - 0.25(2x).
+
+Simplifying the equation, we get: 2x = 12 - 0.5x.
+
+We can solve for 2x by adding 0.5x to both sides of the equation: 2x + 0.5x = 12.
+
+Combining like terms, we get: 2.5x = 12.
+
+Dividing both sides of the equation by 2.5, we get: x = 12/2.5.
+
+x = 4.8.
+
+The cost of the cheesecake is $4.8, and the cost of the six-pack of muffins is 2 times that: 2(4.8) = 9.6.
+
+The cost of the apple pie is $12, and the cost of the two cheesecakes is 2(4.8) = 9.6. To find the total cost, we add the costs: 9.6 + 9.6 + 12 = 31.
+
+Answer: 31

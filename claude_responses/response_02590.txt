@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Damien has 3 cupboards:
+  - Tall cupboard: can hold 20 glasses
+  - Wide cupboard: can hold twice as many as the tall cupboard, which is 40 glasses
+  - Narrow cupboard: can hold 15 glasses, with the glasses divided equally among the three shelves
+* The narrow cupboard has 3 shelves, so each shelf can hold 5 glasses (15 glasses divided by 3 shelves)
+* However, Damien accidentally broke one of the shelves in the narrow cupboard, so now it can only hold 10 glasses (2 shelves x 5 glasses per shelf)
+* In total, Damien has:
+  - Tall cupboard: 20 glasses
+  - Wide cupboard: 40 glasses
+  - Narrow cupboard: 10 glasses
+* Adding these up, the total number of glasses being displayed is:
+  - 20 + 40 + 10 = 70 glasses
+
+Answer: 70

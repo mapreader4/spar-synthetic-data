@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The business executive is gone for 4 days
+* On the first day, he receives 16 new emails
+* On each subsequent day, he receives half as many new emails as the prior day
+
+So, let's calculate the number of new emails received each day:
+* Day 1: 16 new emails
+* Day 2: 16 / 2 = 8 new emails
+* Day 3: 8 / 2 = 4 new emails
+* Day 4: 4 / 2 = 2 new emails
+
+Now, to find the total number of new emails received over the 4 days, we add up the emails received each day:
+* Total new emails = 16 + 8 + 4 + 2 = 30
+
+Answer: 30

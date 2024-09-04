@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Carlos read 28 books in July and 30 books in August. We need to find out how many books he read in June to meet his goal of 100 books.
+
+Let's subtract the number of books he read in July and August from the total number of books he needed to read:
+
+100 (total books needed) - 28 (books in July) - 30 (books in August) = 42
+
+So, Carlos read 42 books in July and August. To find out how many books he read in June, we need to subtract the number of books he read in July and August from the total number of books he needed to read:
+
+42 (books read in July and August) - 42 = 0
+
+Answer: 0

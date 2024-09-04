@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jessica figured it would take three bags of jelly beans to fill up the fishbowl
+* She assumed each bag had a similar distribution of colors
+* She bought one bag and counted the colors: 24 red, 13 black, 36 green, 28 purple, 32 yellow, and 18 white
+* Since she assumed each bag had a similar distribution, we can multiply the number of each color by 3 to get the total number of each color in the fishbowl
+* Red: 24 x 3 = 72 red jelly beans
+* White: 18 x 3 = 54 white jelly beans
+* Therefore, Jessica's guess as to the total number of red and white jelly beans in the fishbowl is:
+
+Answer: 126

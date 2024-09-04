@@ -1,0 +1,9 @@
+To solve this problem, we need to convert the dimensions of the park from feet to square feet. We can do this by multiplying the length and width of the park:
+
+1000 feet (length) * 2000 feet (width) = 2,000,000 square feet
+
+Since there is 1 tree per 20 square feet, we can divide the total area of the park by 20 to get the number of trees:
+
+2,000,000 square feet / 20 = 100,000
+
+So, there are 100,000 trees in the park.

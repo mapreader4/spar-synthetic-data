@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Billy has $10 to spend on ketchup. He wants to get the best deal, which means he wants to get the most ounces of ketchup for his money.
+
+The first option is a 10 oz bottle for $1. This is a good option, but it's not the best deal since he has more money to spend.
+
+The second option is a 16 oz bottle for $2. This is a better deal than the first option, but he still has $8 left.
+
+The third option is a 25 oz bottle for $2.5. This is a good option, as he gets more ounces for his money than the second option.
+
+The fourth option is a 50 oz bottle for $5. This is a good option, as he gets even more ounces for his money than the third option.
+
+The fifth option is a 200 oz bottle for $10. This is the best option, as he gets the most ounces for his money.
+
+Since Billy has $10 to spend, he will buy the 200 oz bottle. He will not buy the 10 oz or 16 oz bottles because they are not the best deal. He will not buy the 25 oz bottle because it is more expensive than the 50 oz bottle. He will not buy the 50 oz bottle because it is more expensive than the 200 oz bottle.
+
+Answer: 1

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Robert originally had 25 balls
+* Tim gave Robert half of his 40 balls
+* To find how many balls Tim gave Robert, we take half of 40:
+  * 40 / 2 = 20
+* So, Tim gave Robert 20 balls
+* Now, to find the total number of balls Robert has, we add the number of balls Tim gave him to the number of balls Robert originally had:
+  * 25 + 20 = 45
+
+Answer: 45

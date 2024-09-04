@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) There are 5 dozens of people attending the family reunion, which is 5 x 12 = 60 people.
+2) Each person is assumed to consume 2 cans of soda.
+3) Therefore, the total number of cans of soda needed is 60 people x 2 cans per person = 120 cans.
+4) Each box of soda contains 10 cans and costs $2 per box.
+5) To calculate the total number of boxes needed, we divide the total cans needed (120) by the cans per box (10), which is 120 / 10 = 12 boxes.
+6) The total cost of the 12 boxes of soda is 12 boxes x $2 per box = $24.
+7) There are 6 people in your family, so the cost per family member is $24 / 6 = $4.
+
+Answer: $4

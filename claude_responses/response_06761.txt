@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jill watched a show that was 30 minutes long
+* She then watched another show that was 4 times longer than the first show
+* To find the length of the second show, we multiply the length of the first show by 4:
+  * 30 minutes x 4 = 120 minutes
+* To find the total time Jill spent watching shows, we add the length of the first show and the second show:
+  * 30 minutes + 120 minutes = 150 minutes
+
+Answer: 150

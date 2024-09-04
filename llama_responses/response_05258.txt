@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Jim runs 5 miles a day for 30 days, which is a total of 5 x 30 = 150 miles.
+
+Then, he runs 10 miles a day for the next 30 days, which is a total of 10 x 30 = 300 miles.
+
+Finally, he runs 20 miles a day for the last 30 days, which is a total of 20 x 30 = 600 miles.
+
+To find the total number of miles Jim runs in 90 days, we add up these three parts: 150 + 300 + 600 = 1050.
+
+Answer: 1050

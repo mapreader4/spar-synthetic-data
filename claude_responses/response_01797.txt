@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John buys 3 t-shirts
+* Each t-shirt costs $20
+* So the total cost of the t-shirts is:
+  * 3 t-shirts x $20 per t-shirt = $60
+* John also buys $50 in pants
+* To calculate the total amount John spends, we add the cost of the t-shirts and the cost of the pants:
+  * $60 (t-shirts) + $50 (pants) = $110
+
+Answer: $110

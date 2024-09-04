@@ -1,0 +1,7 @@
+Okay, let's solve this step-by-step:
+1) The area of square A is 25. The formula for the area of a square is A = s^2, where s is the length of the side of the square.
+2) Solving for the side length of square A, we get: 25 = s^2, so s = √25 = 5.
+3) The area of square B is 81. Using the same formula, we get: 81 = s^2, so s = √81 = 9.
+4) The length difference between the sides of square A and square B is 9 - 5 = 4.
+
+Answer: 4

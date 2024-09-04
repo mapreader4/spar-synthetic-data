@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There are 40 Judges in the state of Rhode Island
+* 10% of the Judges are under 30 years old
+* 60% of the Judges are 30-50 years old
+* The remaining Judges are over 50 years old
+
+First, let's calculate how many Judges are under 30 years old:
+* 10% of 40 Judges = 0.10 * 40 = 4 Judges under 30 years old
+
+Next, let's calculate how many Judges are 30-50 years old:
+* 60% of 40 Judges = 0.60 * 40 = 24 Judges 30-50 years old
+
+Now, we can calculate how many Judges are over 50 years old:
+* Total Judges = 40
+* Judges under 30 = 4
+* Judges 30-50 = 24
+* Judges over 50 = Total - Judges under 30 - Judges 30-50
+* Judges over 50 = 40 - 4 - 24 = 12 Judges over 50 years old
+
+Answer: 12

@@ -1,0 +1,17 @@
+To solve this problem, we need to find the percentage of the discount.
+
+Given information:
+- The original price of the bag was $150.
+- The sale price of the bag is $135.
+
+To find the percentage of the discount, we need to calculate the difference between the original price and the sale price, and then divide it by the original price and multiply by 100.
+
+Step 1: Calculate the difference between the original price and the sale price.
+Difference = Original price - Sale price
+Difference = $150 - $135 = $15
+
+Step 2: Calculate the percentage of the discount.
+Percentage of discount = (Difference / Original price) × 100
+Percentage of discount = ($15 / $150) × 100 = 0.1 × 100 = 10%
+
+Answer: 10%

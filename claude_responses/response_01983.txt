@@ -1,0 +1,31 @@
+Okay, let's break this down step-by-step:
+
+1. Calculating the cost of the broccoli:
+   * 3 pounds of broccoli at $4 per pound
+   * 3 x $4 = $12
+
+2. Calculating the cost of the oranges:
+   * 3 oranges at $0.75 each
+   * 3 x $0.75 = $2.25
+
+3. Calculating the cost of the cabbage:
+   * 1 cabbage for $3.75
+
+4. Calculating the cost of the bacon:
+   * 1 pound of bacon for $3
+
+5. Calculating the cost of the chicken:
+   * 2 pounds of chicken at $3 per pound
+   * 2 x $3 = $6
+
+6. Calculating the total grocery cost:
+   * $12 (broccoli) + $2.25 (oranges) + $3.75 (cabbage) + $3 (bacon) + $6 (chicken) = $27
+
+7. Calculating the cost of the meat:
+   * $3 (bacon) + $6 (chicken) = $9
+
+8. Calculating the percentage of the grocery budget spent on meat:
+   * Meat cost / Total grocery cost x 100 = $9 / $27 x 100 = 33.33%
+
+Rounding to the nearest percent:
+Answer: 33%

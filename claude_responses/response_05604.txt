@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. In the first half, Team A scored 8 points, and Team B scored only half as many points. 
+   * Team B's first half score = 8 / 2 = 4 points
+
+2. In the second half, Team B was able to get as many points as Team A in the first half.
+   * Team B's second half score = 8 points
+
+3. In the second half, Team A scored only 2 goals less than Team B.
+   * Team A's second half score = 8 - 2 = 6 points
+
+4. To calculate the total goals scored by both teams:
+   * Team A's total score = 8 + 6 = 14 points
+   * Team B's total score = 4 + 8 = 12 points
+   * Total goals scored = 14 + 12 = 26 points
+
+Answer: 26

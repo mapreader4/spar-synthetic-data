@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the cost of one pencil. Since for every pencil, we must buy 2 erasers which cost 1/2 the price of the pencil, the total cost of erasers is 2x the cost of pencils. The total cost of the pencils is 20, so the total cost of erasers is 2x20x. But the total cost of erasers is $80, so we can set up the equation as:
+
+2x20x = 80
+
+Now we can solve for x. To do this, we can divide both sides of the equation by 2, which gives us:
+
+x = 80 / 40
+
+x = 2
+
+So the cost of one pencil is 2. Since the cost of erasers is 1/2 the cost of pencils, the cost of erasers is 1/2x2 = 1x. So, the cost of erasers is $1.
+
+Answer: 1

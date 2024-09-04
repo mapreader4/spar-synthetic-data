@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+* Ruel has 4 books of 10 stamps each
+* So, the number of stamps in the 4 books of 10 stamps is:
+  * 4 books x 10 stamps per book = 40 stamps
+* Ruel also has 6 books of 15 stamps each
+* So, the number of stamps in the 6 books of 15 stamps is:
+  * 6 books x 15 stamps per book = 90 stamps
+* To find the total number of stamps Ruel has, we add the stamps from the two types of books:
+  * 40 stamps + 90 stamps = 130 stamps
+
+Answer: 130

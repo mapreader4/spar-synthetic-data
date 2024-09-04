@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The cost to rent a sailboat is $60.
+2) The cost to rent a ski boat is $80 per hour.
+3) Ken rented a sailboat for 3 hours a day for 2 days.
+4) The total cost for Ken to rent the sailboat would be:
+   * $60 per rental x 2 days = $120
+5) Aldrich rented a ski boat for 3 hours a day for 2 days.
+6) The total cost for Aldrich to rent the ski boat would be:
+   * $80 per hour x 3 hours per day x 2 days = $480
+7) The difference in cost between Aldrich renting the ski boat and Ken renting the sailboat is:
+   * $480 - $120 = $360
+
+Answer: $360

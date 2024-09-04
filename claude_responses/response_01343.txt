@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) There are a total of 1250 pairs of shoes in the warehouse.
+2) Out of those 1250 pairs, 540 pairs are blue.
+3) The remaining pairs are either green or purple.
+4) The number of green shoes is equal to the number of purple shoes.
+5) Let's call the number of green/purple pairs 'x'.
+6) We know that the total number of shoes is 1250, and 540 of them are blue. So the number of non-blue shoes must be 1250 - 540 = 710.
+7) Since the number of green shoes is equal to the number of purple shoes, we can say that the number of green shoes plus the number of purple shoes is 2x.
+8) We know that the total number of non-blue shoes is 710, so we can say that 2x = 710.
+9) Solving for x, we get x = 355.
+10) Therefore, the number of purple shoes in the warehouse is 355.
+
+Answer: 355

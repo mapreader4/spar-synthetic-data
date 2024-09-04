@@ -1,0 +1,9 @@
+Let's start by finding the number of legs of the kangaroos. Since kangaroos have 2 legs each, and Mark has 23 kangaroos, the total number of legs of the kangaroos would be:
+
+2 x 23 = 46
+
+Now, Mark has three times as many goats as kangaroos, so the number of goats would be 3 x 23 = 69.
+
+The total number of legs of all his animals is the sum of the legs of kangaroos and goats, which is 46 + 69 = 115.
+
+Answer: 115

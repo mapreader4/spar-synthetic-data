@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Thomas originally ordered 3 dozen chairs for 3 dozen guests. 3 dozen is 36 chairs.
+2) Then, 1/3 of the guests want to bring a guest of their own. 1/3 of 36 guests is 12 additional guests.
+3) So Thomas needs to order 12 more chairs for the additional guests.
+4) However, 5 of the original 36 guests can't make it, so Thomas doesn't need chairs for those 5 guests.
+5) Finally, Thomas wants to order 12 extra chairs just in case they need them.
+
+Putting it all together:
+* Original 36 chairs
+* Plus 12 chairs for additional guests
+* Minus 5 chairs for guests who can't make it
+* Plus 12 extra chairs
+* Total chairs ordered = 36 + 12 - 5 + 12 = 55 chairs
+
+Answer: 55

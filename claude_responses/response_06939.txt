@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* There were 9 seasons before the announcement
+* Each season has 22 episodes, except for the last season which has 4 more episodes
+* The last season has 22 + 4 = 26 episodes
+* Each episode is 0.5 hours long
+
+To calculate the total time to watch all the episodes:
+* 9 seasons x 22 episodes per season = 198 episodes
+* 1 season x 26 episodes = 26 episodes
+* Total episodes = 198 + 26 = 224 episodes
+* 224 episodes x 0.5 hours per episode = 112 hours
+
+Answer: 112 hours

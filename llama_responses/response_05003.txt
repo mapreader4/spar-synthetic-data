@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. Sandra eats 3 beignets every morning.
+2. We want to find out how many beignets she will eat in 16 weeks.
+3. Since Sandra eats 3 beignets every morning, we can multiply the number of beignets she eats per day by the number of days in a week.
+4. There are 7 days in a week, so Sandra eats 3 * 7 = 21 beignets in a week.
+5. Now, we need to multiply the number of beignets in a week by the number of weeks.
+6. Sandra will eat 21 * 16 = 336 beignets in 16 weeks.
+
+Answer: 336

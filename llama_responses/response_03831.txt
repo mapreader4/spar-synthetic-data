@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Jerry bought 48 firecrackers.
+2. 12 were confiscated by the police, leaving 48 - 12 = 36 firecrackers.
+3. 1/6 of the remaining firecrackers are defective, so 1/6 * 36 = 6 firecrackers are defective.
+4. The number of good firecrackers left is 36 - 6 = 30.
+5. Jerry set off half of the good firecrackers, so 30 / 2 = 15 firecrackers were set off.
+
+Answer: 15

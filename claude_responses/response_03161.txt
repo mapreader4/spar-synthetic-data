@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Trevor collected 4 eggs from Gertrude
+* Trevor collected 3 eggs from Blanche
+* Nancy laid 2 eggs
+* Martha laid 2 eggs
+* So the total number of eggs collected is:
+  - 4 (from Gertrude)
+  - 3 (from Blanche)
+  - 2 (from Nancy)
+  - 2 (from Martha)
+  - Total = 4 + 3 + 2 + 2 = 11 eggs
+* Trevor then dropped 2 eggs
+* So the final number of eggs Trevor had left is:
+  - 11 eggs (total collected)
+  - 2 eggs (dropped)
+  - 11 - 2 = 9 eggs
+
+Answer: 9

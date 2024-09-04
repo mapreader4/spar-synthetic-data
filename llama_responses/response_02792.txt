@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. Liam has 20 art kits and he hands out 1 art kit for 2 students. That means 2 students get an art kit, and the remaining 8 students don't get an art kit.
+
+2. Half the students make 3 artworks each, which means that 5 students make 3 artworks (2 students get 1 art kit, so 10 artworks are made).
+
+3. The other half of the students make 4 artworks each, which means that the remaining 5 students make 5 artworks.
+
+4. The total number of artworks made is the sum of the artworks made by both groups: 10 artworks (from the first group) + 5 artworks (from the second group). So, the total number of artworks is 10 + 5 = 15.
+
+Answer: 15

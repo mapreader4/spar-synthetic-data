@@ -1,0 +1,9 @@
+When Matty was born, the cost of a ticket to Mars was $1,000,000. The cost is halved every 10 years. So, we can find the cost of a ticket in 10 years by dividing the initial cost by 2. Then, we can find the cost in 20 years by multiplying the result by 2, and in 30 years by multiplying that by 2 again.
+
+Let's start by dividing the initial cost by 2: 1,000,000 / 2 = 500,000.
+
+Then, we multiply the result by 2: 500,000 * 2 = 1,000,000.
+
+Then, we multiply that by 2: 1,000,000 * 2 = 2,000,000.
+
+So, the cost in 30 years is 2,000,000.

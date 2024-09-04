@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+1. Convert the length of the room from feet to inches: 10 feet is equal to 12 * 10 = 120 inches.
+2. Convert the length of the room in inches to square inches: 120 inches is equal to 120 * 120 = 14400 square inches.
+3. The area of the room is the length of the room multiplied by the width of the room, so the area is 14400 * 14400 = 2073600 square inches.
+
+Answer: 2073600

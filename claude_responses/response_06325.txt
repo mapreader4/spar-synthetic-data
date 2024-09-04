@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Rihanna has $50 to go to the supermarket
+* She bought 6 mangoes, and each mango costs $3
+* So the total cost of the mangoes is 6 * $3 = $18
+* She also bought 6 cartons of apple juice, and each carton costs $3
+* So the total cost of the apple juice is 6 * $3 = $18
+* The total amount Rihanna spent is $18 (mangoes) + $18 (apple juice) = $36
+* To find how much money Rihanna has left, we take the initial $50 and subtract the $36 she spent:
+* $50 - $36 = $14
+
+Answer: $14

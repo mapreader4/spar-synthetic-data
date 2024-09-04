@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The total number of beads is 23 + 16 = 39.
+2. The total is divided into 3 equal parts, so each part has 39 ÷ 3 = 13 beads.
+3. After removing some beads from each part, the number of beads in each part is reduced. Let's call the number of beads removed from each part x. Then, the number of beads in each part after removing some beads is 13 - x.
+4. Since the number of beads in each part is doubled, the new number of beads in each part is 2x = 2(13 - x).
+5. The number of beads in each part is now 6, so 2(13 - x) = 6.
+6. To find the number of beads removed from each part, we can solve the equation 13 - x = 6. Subtract 6 from both sides of the equation to get x = 7.
+
+Answer: 7

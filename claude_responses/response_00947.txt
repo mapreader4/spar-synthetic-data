@@ -1,0 +1,35 @@
+Okay, let's break this down step-by-step:
+* Johnny has been practicing the same amount each day
+* 20 days ago, he had half as much practice as he has currently
+* We want to find how many days will pass before he has 3 times as much practice as he has currently
+
+Let's call the amount of practice Johnny has currently as "x".
+* 20 days ago, he had 1/2 of x, which is x/2
+* We want to find how many days it will take for him to have 3x
+
+We can set up an equation:
+* x/2 + (current number of days) = 3x
+
+Solving for the current number of days:
+* x/2 + (current number of days) = 3x
+* x/2 + (current number of days) = 3x
+* x/2 = 2x
+* x = 2x
+* x = 0
+
+This is not possible, as Johnny currently has a non-zero amount of practice.
+
+Let's try a different approach:
+* 20 days ago, he had x/2 practice
+* Currently, he has x practice
+* In (x) more days, he will have 3x practice
+
+We can set up an equation:
+* x/2 + x + x = 3x
+* 2.5x = 3x
+* 0.5x = x
+* x = 2
+
+Therefore, it will take 2 more days for Johnny to have 3 times as much practice as he does currently.
+
+Answer: 2

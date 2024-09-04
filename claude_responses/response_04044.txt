@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Janice gets paid $10 per hour for the first 40 hours she works each week.
+2) For any hours worked over 40 hours, she gets paid $15 per hour.
+3) In this case, Janice worked 60 hours.
+4) For the first 40 hours, she earns 40 * $10 = $400.
+5) For the remaining 20 hours (60 - 40 = 20), she earns 20 * $15 = $300.
+6) Adding the two amounts together, we get $400 + $300 = $700.
+
+Answer: 700

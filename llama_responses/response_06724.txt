@@ -1,0 +1,7 @@
+Let's start by adding the number of fruits in the first three baskets:
+
+9 apples, 15 oranges, and 14 bananas. This gives us a total of 9 + 15 + 14 = 38 fruits.
+
+Now, the fourth basket has 2 less of each fruit, which means we need to subtract 2 from the total. So, 38 - 2 = 36.
+
+Answer: 36

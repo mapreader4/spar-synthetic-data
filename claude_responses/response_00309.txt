@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Carl types at a speed of 50 words per minute
+* He types continuously for 4 hours per day
+* We need to find how many words he can type in 7 days
+
+First, let's calculate how many words he can type in 1 day:
+* 50 words per minute x 60 minutes per hour x 4 hours per day = 12,000 words per day
+
+Now, we can calculate how many words he can type in 7 days:
+* 12,000 words per day x 7 days = 84,000 words
+
+Therefore, the answer is:
+Answer: 84,000

@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The car manufacturing company currently produces 100 cars per month.
+2) The target is to produce 1800 cars per year.
+3) To calculate the current annual production, we multiply the monthly production by 12 months:
+100 cars per month x 12 months = 1200 cars per year.
+4) To reach the target of 1800 cars per year, the company needs to increase its annual production by 1800 - 1200 = 600 cars.
+5) To increase the annual production by 600 cars, the company needs to increase its monthly production by 600 / 12 = 50 cars per month.
+
+Answer: 50

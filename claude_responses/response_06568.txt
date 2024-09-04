@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Aunt Gemma has 4 dogs
+* Each dog eats 250 grams of food per meal
+* Aunt Gemma feeds the dogs twice a day
+* So the total amount of food consumed by all 4 dogs per day is:
+    - 4 dogs x 250 grams per meal x 2 meals per day = 2,000 grams per day
+* Aunt Gemma bought 2 sacks of dog food, each weighing 50 kilograms
+* 1 kilogram = 1,000 grams
+* So the total amount of dog food Aunt Gemma bought is:
+    - 2 sacks x 50 kilograms per sack = 100 kilograms
+    - 100 kilograms x 1,000 grams per kilogram = 100,000 grams
+* To calculate how many days the dog food will last, we divide the total amount of dog food by the daily consumption:
+    - 100,000 grams / 2,000 grams per day = 50 days
+
+Answer: 50 days

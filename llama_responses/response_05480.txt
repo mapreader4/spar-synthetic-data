@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Helga works 4 hours a day 5 days a week, so she works 4 * 5 = 20 hours a week.
+
+On Thursday, she worked 2 extra hours, so we subtract those from her total hours for the week: 20 - 2 = 18 hours.
+
+On Friday, she worked 3 extra hours, so we subtract those from her total hours for the week: 18 - 3 = 15 hours.
+
+Helga writes 5 articles every 30 minutes, so we need to convert her total hours to minutes. 15 hours * 60 minutes per hour = 900 minutes. Then we divide by 30 minutes to get the number of articles she wrote: 900 ÷ 30 = 30.
+
+Answer: 30

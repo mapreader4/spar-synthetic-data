@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) The total number of visitors to the aquarium is 500.
+2) 40% of the visitors fell ill from the mysterious disease.
+3) To find the number of visitors who did not fall ill, we need to find the number of visitors who did fall ill and subtract that from the total number of visitors.
+4) To find the number of visitors who fell ill, we take 40% of 500:
+   * 40% of 500 = 0.40 * 500 = 200 visitors fell ill.
+5) To find the number of visitors who did not fall ill, we subtract the number who fell ill from the total number of visitors:
+   * 500 - 200 = 300 visitors did not fall ill.
+
+Answer: 300

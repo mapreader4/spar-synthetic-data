@@ -1,0 +1,13 @@
+Let's start by identifying the information we know:
+
+* Zora is 8 inches shorter than Brixton.
+* Zara is 64 inches tall.
+* Brixton is Zara's height.
+
+So, Brixton is 64 + 8 = 72 inches tall.
+
+Now, to find the average height of the four people, we add up the heights and divide by 4.
+
+(64 + 64 + 72) / 4 = 200 / 4 = 50
+
+Answer: 50

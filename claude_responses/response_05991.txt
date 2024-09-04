@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Megan's starting balance is $125.
+2) She increased the account by 25%. To calculate this, we take the starting balance of $125 and multiply it by 1.25 (since 25% increase is the same as multiplying by 1.25).
+   $125 x 1.25 = $156.25
+3) Then, the account decreased by 20%. To calculate this, we take the new balance of $156.25 and multiply it by 0.8 (since 20% decrease is the same as multiplying by 0.8).
+   $156.25 x 0.8 = $125
+4) So, Megan's final balance is $125.
+5) To calculate the final balance as a percentage of the starting balance, we divide the final balance by the starting balance and multiply by 100.
+   $125 / $125 = 1
+   1 x 100 = 100%
+
+Answer: 100%

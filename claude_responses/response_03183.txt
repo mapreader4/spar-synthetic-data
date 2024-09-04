@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 400 students total
+* 120 students take dance as their elective
+* 200 students take art as their elective
+* The rest take music
+
+To find the number of students who take music, we need to subtract the number of students taking dance and art from the total number of students:
+* 400 - 120 - 200 = 80 students take music
+
+Now, to find the percentage of students who take music, we divide the number of students taking music by the total number of students and multiply by 100:
+* (80 / 400) * 100 = 20%
+
+Answer: 20%

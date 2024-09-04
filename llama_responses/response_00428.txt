@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Day 1: The frog lays 50 eggs.
+
+Day 2: The frog doubles her production of eggs, so she lays 2 x 50 = 100 eggs.
+
+Day 3: The frog lays 20 more than the second day, which is 100 + 20 = 120 eggs.
+
+Day 4: The frog doubles the first three days total, which is 50 + 100 + 120 = 270 eggs.
+
+So, the frog lays a total of 50 + 100 + 120 = 270 eggs over the span of the 4 days.
+
+Answer: 270

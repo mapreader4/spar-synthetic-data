@@ -1,0 +1,28 @@
+Let's break down the information given:
+
+* Nancy shelved 12 history books, 8 romance books, and 4 poetry books from the top section of the cart.
+* The total number of books shelved from the top section is 12 + 8 + 4 = 24 books.
+* Half of the books on the bottom section were mystery books, which means the number of mystery books is x/2, where x is the total number of books on the bottom section.
+* Then, she shelved 5 Western novels and 6 biographies from the bottom section.
+* The total number of books shelved from the bottom section is x/2 + 5 + 6 = x/2 + 11.
+* Since Nancy shelved a total of 24 books from the top section and x/2 + 11 books from the bottom section, the total number of books on the cart initially is 24 + (x/2 + 11).
+
+We can set up an equation based on this information:
+
+24 + (x/2 + 11) = total number of books on the cart initially
+
+To solve for x, we can first combine the constant terms:
+
+24 + x/2 + 11 = total number of books on the cart initially
+
+Then, we can subtract 24 and 11 from both sides to get:
+
+x/2 = total number of books on the cart initially - 35
+
+Finally, we can multiply both sides by 2 to get:
+
+x = 2(total number of books on the cart initially - 35)
+
+Now, we can plug in the values we know: 24 books were shelved from the top section, and 5 Western novels and 6 biographies were shelved from the bottom section. The total number of books shelved is 24 + 5 + 6 = 35. So, the total number of books on the cart initially is 35 + 35 = 70.
+
+Answer: 70

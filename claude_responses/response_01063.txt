@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) Nina made a two-layer cake and a dozen cupcakes.
+2) Each layer of cake takes the same amount of sugar as a dozen cupcakes.
+3) Nina used a total of 720 grams of sugar to bake everything.
+4) Let's call the amount of sugar in one layer of cake or a dozen cupcakes "x".
+5) Since there are two layers of cake, and a dozen cupcakes, the total amount of sugar used is 2x + 12x = 14x.
+6) We know the total amount of sugar used is 720 grams, so 14x = 720.
+7) Solving for x, we get x = 720/14 = 51.43 grams.
+8) Since we are looking for the amount of sugar in one cupcake, we divide 51.43 by 12 to get 4.29 grams.
+
+Answer: 4 grams

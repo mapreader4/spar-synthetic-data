@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* We know that on average, every 6 cows produce 108 liters of milk per week.
+* We also know that in 5 weeks, the cows produced 2160 liters of milk.
+* To find the number of cows on the farm, we need to first find the average amount of milk produced per week.
+* To do this, we divide the total amount of milk produced (2160 liters) by the number of weeks (5).
+* 2160 liters / 5 weeks = 432 liters per week.
+* Now we know that every 6 cows produce 108 liters per week on average.
+* So we can divide the average weekly production (432 liters) by the average production per 6 cows (108 liters) to get the number of groups of 6 cows.
+* 432 liters / 108 liters per 6 cows = 4 groups of 6 cows.
+* Therefore, the total number of cows on the farm is 4 groups of 6 cows, which is 24 cows.
+
+Answer: 24

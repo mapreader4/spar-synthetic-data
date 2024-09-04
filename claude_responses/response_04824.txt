@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 88 dogs in the park
+* 12 of the dogs are running
+* Half of the 12 running dogs are playing with toys
+* 1/4 of the 12 running dogs are barking
+
+First, let's find out how many dogs are playing with toys:
+* Half of 12 running dogs = 12 / 2 = 6 dogs are playing with toys
+
+Next, let's find out how many dogs are barking:
+* 1/4 of 12 running dogs = 12 / 4 = 3 dogs are barking
+
+Now, we can find out how many dogs are not doing anything:
+* Total dogs (88) - running dogs (12) - playing dogs (6) - barking dogs (3) = 88 - 12 - 6 - 3 = 67 dogs are not doing anything
+
+Answer: 67

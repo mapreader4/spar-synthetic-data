@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of clay pots Nancy created on each day.
+
+On Monday, Nancy creates 12 clay pots.
+On Tuesday, she creates twice as many clay pots as she created on Monday, which is 12 * 2 = 24.
+On Wednesday, she creates a few more pots than she created on Tuesday. If she created 24 on Tuesday, then the number of pots on Wednesday must be 24 + x, where x is the number of pots she created on Wednesday. The problem states that she ends the week with 50 clay pots, so the total number of pots created on Monday, Tuesday, and Wednesday must add up to 50. So, we can set up an equation: 12 + 24 + x = 50. To solve for x, we can subtract 12 and 24 from both sides of the equation: 24 + x = 50 - 12 - 24. This gives us x = 14. So, Nancy created 14 clay pots on Wednesday.

@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* The tub has a capacity of 120 liters
+* The tap has a flow rate of 12 liters per minute
+* The cap at the bottom of the tub lets 1 liter of water escape per minute
+* Robi Ney alternates between letting the water run for 1 minute and then closing the water supply for 1 minute
+
+In the first minute, the water runs and 12 liters are added to the tub. However, 1 liter also escapes, so the net gain is 11 liters.
+In the second minute, the water is turned off, so no water is added, but 1 liter still escapes, resulting in a net loss of 1 liter.
+
+This pattern of 1 minute on, 1 minute off, continues. 
+In the on minutes, 11 liters are added.
+In the off minutes, 1 liter is lost.
+
+To fill the 120-liter tub, we need to add 120 liters of water. 
+In each 2-minute cycle (1 minute on, 1 minute off), the net gain is 10 liters (11 liters added, 1 liter lost).
+
+Therefore, the number of 2-minute cycles required to fill the 120-liter tub is:
+120 liters / 10 liters per cycle = 12 cycles
+
+Each cycle takes 2 minutes, so the total time to fill the tub is:
+12 cycles x 2 minutes/cycle = 24 minutes
+
+Answer: 24 minutes

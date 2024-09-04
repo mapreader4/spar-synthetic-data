@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) Zack's number of marbles can be divided equally among three people, leaving Zack with 5.
+2) This means that Zack's initial number of marbles was a multiple of 3, plus 5.
+3) Zack then gave his three friends 20 marbles each, which is 60 marbles total.
+4) Zack kept 5 marbles for himself.
+5) So the total number of marbles Zack had initially was the 60 marbles he gave away, plus the 5 he kept, which is 65.
+
+Answer: 65

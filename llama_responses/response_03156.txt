@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that Kendra made 3 batches of cookies. Each batch has 12 cookies. So, in total, Kendra made 3 x 12 = 36 cookies.
+
+Next, we know that each cookie has 2 chocolate chips. So, the total number of chocolate chips is 36 x 2 = 72.
+
+Since there are 4 people in Kendra's family, and they all get the same number of cookies, we can divide the total number of chocolate chips by 4 to find out how many each person gets.
+
+72 / 4 = 18
+
+Answer: 18

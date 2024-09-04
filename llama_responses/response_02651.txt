@@ -1,0 +1,19 @@
+Let's think step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Felix needs to sharpen his axe every 13 trees he chops down.
+* It costs $5 to sharpen his axe.
+* He spent $35 on axe sharpening.
+
+Let's find the number of times Felix sharpened his axe:
+
+$35 ÷ $5 = 7
+
+So, Felix sharpened his axe 7 times.
+
+Now, let's find the number of trees Felix chopped down:
+
+7 (number of times axe sharpened) × 13 (trees per sharpening) = 91
+
+So, Felix chopped down at least 91 trees.

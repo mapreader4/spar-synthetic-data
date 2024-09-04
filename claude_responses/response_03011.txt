@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Thomas trained for 5 hours every day for a month (30 days)
+* So, the total number of hours he trained in the first month is:
+  * 5 hours per day x 30 days = 150 hours
+* He will continue to train for the next 12 days
+* So, the additional number of hours he will train is:
+  * 5 hours per day x 12 days = 60 hours
+* To find the total number of hours he will spend on training, we add the hours from the first month and the additional 12 days:
+  * 150 hours + 60 hours = 210 hours
+
+Answer: 210

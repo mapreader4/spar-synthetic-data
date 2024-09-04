@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+Let's start with what we know: the area of the rectangle is 100 m2. We know that the area of a rectangle is equal to its length times its width. So, if the area is 100 m2, we can set up an equation:
+
+Area = Length * Width
+
+We know that the area is 100, so we can rewrite the equation like this:
+
+100 = Length * Width
+
+Now, we want to solve for the length. We can do this by dividing both sides of the equation by the width, like this:
+
+100 / Width = Length
+
+This will give us the length of the rectangle.
+
+Answer: 10

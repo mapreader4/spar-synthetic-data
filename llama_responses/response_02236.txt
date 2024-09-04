@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us.
+
+* Evie collects her favorite 10 shells each day.
+* At the end of 6 days, she gives 2 shells to her brother.
+
+Let's calculate the total number of shells Evie collects in 6 days:
+
+10 shells per day * 6 days = 60 shells
+
+Now, we need to subtract the 2 shells she gives to her brother.
+
+60 shells - 2 shells = 58 shells
+
+So, Evie has 58 shells left.
+
+Answer: 58

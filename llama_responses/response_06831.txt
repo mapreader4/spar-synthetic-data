@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. The first student thinks the jar contains 100 jellybeans.
+2. The second student says there are 8 times as many jellybeans, so the second student guesses 8 * 100 = 800 jellybeans.
+3. The third student guesses 200 less than the second student, so the third student guesses 800 - 200 = 600 jellybeans.
+4. The fourth student takes the average of the first three guesses, which is (100 + 800 + 600) / 3 = 500. Then, the fourth student adds 25 to this average, so the fourth student guesses 500 + 25 = 525 jellybeans.
+
+Answer: 525

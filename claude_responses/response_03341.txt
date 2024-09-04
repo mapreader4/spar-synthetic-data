@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. In the first week, there were 5000 new coronavirus cases recorded.
+
+2. In the second week, half as many new cases were recorded compared to the first week. That means the number of new cases in the second week was 5000 / 2 = 2500.
+
+3. In the third week, 2000 more cases were recorded compared to the second week. That means the number of new cases in the third week was 2500 + 2000 = 4500.
+
+Now, to find the total number of recorded new coronavirus cases in the state after the three weeks, we add up the new cases from each week:
+
+Total new cases = 5000 + 2500 + 4500 = 12000
+
+Answer: 12000

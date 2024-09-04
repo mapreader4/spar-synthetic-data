@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* Draymond earned 12 points
+* Curry earned twice the points as Draymond, so Curry earned 2 * 12 = 24 points
+* Kelly earned 9 points
+* Durant earned twice the points as Kelly, so Durant earned 2 * 9 = 18 points
+* Klay earned half the points as Draymond, so Klay earned 1/2 * 12 = 6 points
+
+Now, to find the total points earned by the Golden State team, we add up the points earned by each player:
+* Total points = Draymond's points + Curry's points + Kelly's points + Durant's points + Klay's points
+* Total points = 12 + 24 + 9 + 18 + 6 = 69
+
+Answer: 69

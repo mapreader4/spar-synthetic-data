@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) Selena and Josh ran a total of 36 miles together.
+2) Josh ran half the distance that Selena ran.
+3) Let's represent Selena's distance as x miles.
+4) Since Josh ran half the distance that Selena ran, his distance is x/2 miles.
+5) The total distance they ran is the sum of Selena's distance and Josh's distance: x + x/2 = 36
+6) Solving for x, we get:
+x + x/2 = 36
+1.5x = 36
+x = 24
+
+Answer: 24 miles

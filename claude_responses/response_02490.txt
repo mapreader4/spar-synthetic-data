@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The pet store has 6 dogs for sale
+* They have half as many cats as dogs, so that's 6 / 2 = 3 cats
+* They have twice as many birds as dogs, so that's 6 * 2 = 12 birds
+* They have thrice as many fish as dogs, so that's 6 * 3 = 18 fish
+
+Now, to find the total number of animals for sale, we add up all the animals:
+* 6 dogs + 3 cats + 12 birds + 18 fish = 39 animals
+
+Answer: 39

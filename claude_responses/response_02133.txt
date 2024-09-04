@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) The total cost of purchasing the two commodities is $827.
+2) The purchase price of the first commodity exceeds the purchase price of the second commodity by $127.
+3) Let's call the purchase price of the first commodity "x" and the purchase price of the second commodity "y".
+4) We know that x = y + 127, since the first one exceeds the other by $127.
+5) We also know that the total cost is $827, so we can write the equation: x + y = 827.
+6) Substituting x = y + 127 into the equation, we get: (y + 127) + y = 827.
+7) Simplifying, we get: 2y + 127 = 827.
+8) Subtracting 127 from both sides, we get: 2y = 700.
+9) Dividing both sides by 2, we get: y = 350.
+10) Substituting y = 350 into the equation x = y + 127, we get: x = 350 + 127 = 477.
+
+Answer: 477

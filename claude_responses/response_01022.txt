@@ -1,0 +1,16 @@
+Okay, let's think this through step-by-step:
+1) We are given that Rachel is 4 years older than Leah.
+2) We are also given that the sum of their ages is 34.
+3) Let's represent Leah's age as x.
+4) Since Rachel is 4 years older than Leah, Rachel's age can be represented as x + 4.
+5) The sum of their ages is 34, so we can write the equation:
+x + (x + 4) = 34
+6) Simplifying this equation, we get:
+2x + 4 = 34
+7) Subtracting 4 from both sides, we get:
+2x = 30
+8) Dividing both sides by 2, we get:
+x = 15
+9) Since Leah's age is 15, and Rachel is 4 years older, Rachel's age is 15 + 4 = 19.
+
+Answer: 19

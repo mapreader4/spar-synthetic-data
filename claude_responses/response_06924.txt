@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 18 contestants in total
+* One-third of the contestants are female
+* The remaining contestants are male
+
+To find the number of male contestants, we first need to find the number of female contestants.
+
+Since one-third of the contestants are female, we can calculate the number of female contestants as:
+* 1/3 of 18 = 6 female contestants
+
+Now, to find the number of male contestants, we subtract the number of female contestants from the total number of contestants:
+* 18 total contestants - 6 female contestants = 12 male contestants
+
+Therefore, the answer is:
+Answer: 12

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total miles she ran in the first half of the year. Since she ran 20 miles per week for 26 weeks, the total miles in the first half is:
+
+20 miles/week * 26 weeks = 520 miles
+
+Next, let's find the total miles she ran in the second half of the year. Since she ran 30 miles per week for 26 weeks, the total miles in the second half is:
+
+30 miles/week * 26 weeks = 780 miles
+
+Now, let's find the total miles she ran for the whole year. We can add the miles from the first half and the second half together:
+
+520 miles + 780 miles = 1300 miles
+
+Answer: 1300

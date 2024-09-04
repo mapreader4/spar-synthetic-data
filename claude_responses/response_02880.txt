@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) The nail salon was completely booked at 2 pm for manicures.
+2) Each manicure costs $20.00 per client.
+3) The salon made $200.00 in total.
+4) There are 210 fingers in the salon at 2 pm.
+5) Everyone has 10 fingers.
+6) To find the number of people in the salon, we divide the total number of fingers (210) by the number of fingers per person (10).
+7) 210 fingers / 10 fingers per person = 21 people in the salon.
+8) The salon made $200.00 in total, and each manicure costs $20.00 per client.
+9) To find the number of clients, we divide the total revenue ($200.00) by the cost per manicure ($20.00).
+10) $200.00 / $20.00 per manicure = 10 clients.
+11) Therefore, the number of people in the salon who are not clients is 21 - 10 = 11.
+
+Answer: 11

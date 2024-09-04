@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+
+On the first day:
+* Gina scored 2 goals
+* Tom scored 3 more goals than Gina, so Tom scored 2 + 3 = 5 goals
+
+On the second day:
+* Gina scored 2 goals less than Tom
+* Tom scored 6 goals
+* So Gina scored 6 - 2 = 4 goals
+
+Now, let's calculate the total goals scored by Gina and Tom over the two days:
+
+Gina's total goals:
+* Day 1: 2 goals
+* Day 2: 4 goals
+* Total: 2 + 4 = 6 goals
+
+Tom's total goals:
+* Day 1: 5 goals
+* Day 2: 6 goals
+* Total: 5 + 6 = 11 goals
+
+Therefore, the total number of goals scored by Gina and Tom during these two days is:
+
+Answer: 6 + 11 = 17 goals

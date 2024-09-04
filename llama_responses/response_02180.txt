@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The cost of the car is $1700. The friends want to share the cost equally, which means they would each pay $1700 / 6 = $283.33.
+
+Step 2: The friends earn $500 at the car wash, which will be taken out of the total cost of the car. So, the remaining cost would be $1700 - $500 = $1200.
+
+Step 3: Since Brad is not participating, the remaining cost would be split among the remaining 5 friends. $1200 / 5 = $240.
+
+Step 4: Since each friend would have paid $283.33 initially, and now they need to pay $240, the amount each friend needs to pay now is $283.33 - $240 = $43.67.
+
+Answer: 43

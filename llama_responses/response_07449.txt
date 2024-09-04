@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of goats, which is given as 9. Then, we are told that there are 4 times as many goats as cows. Since there are 9 goats, that means there are 9 / 4 = 2.25 goats. But we are given that the number of goats is an integer, so the number of goats must be 2. This means that the number of chickens must be 2 times the number of goats. Since the number of goats is 2, the number of chickens is 2 * 2 = 4.
+
+Answer: 4

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that Ali is 8 years old this year and is 3 years older than Yusaf.
+
+Since Ali is 8 years old, that means Yusaf is 8 - 3 = 5 years old.
+
+Now, we know that Umar is twice Yusaf's age. So, if Yusaf is 5 years old, then Umar is 2 * 5 = 10 years old.
+
+Answer: 10

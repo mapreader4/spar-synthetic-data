@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Tony starts with $87
+* He needs to buy:
+  - Cheese, which costs $7 per pound
+  - Beef, which costs $5 per pound
+* After buying the beef and cheese, he has $61 left
+
+To find the amount of cheese he bought, we can set up an equation:
+* Let x = the number of pounds of cheese he bought
+* Total cost of cheese = $7 * x
+* Total cost of beef = $5 * (87 - 61 - 7x) / 5 = $5 * 5 = $25
+* Total amount spent = $7x + $25
+* Total amount spent = $87 - $61 = $26
+* $7x + $25 = $26
+* $7x = $1
+* x = 1/7 = 0.14 pounds
+
+Since we are looking for the number of pounds of cheese, and the answer must be an integer, we round down to 0 pounds.
+
+Answer: 0

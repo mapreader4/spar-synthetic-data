@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Step 1: First, we need to find the total number of children in the school. To do this, we need to add the number of 3-year-olds, 4-year-olds, 5-year-olds, and 6-year-olds:
+
+3 + 20 + 15 + 22 = 40
+
+Step 2: Since the 3 and 4-year-olds are in one class, we need to add the number of 3-year-olds and 4-year-olds together:
+
+3 + 20 = 23
+
+Step 3: Since the 5 and 6-year-olds are in another class, we need to add the number of 5-year-olds and 6-year-olds together:
+
+15 + 22 = 37
+
+Step 4: Now, we need to find the average class size. To do this, we need to add the number of children in the first class (23) and the number of children in the second class (37) and divide the total by 2:
+
+(23 + 37) / 2
+
+Answer: 30

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* 9 years from now, John will be 3 times as old as he was 11 years ago
+* Let's call John's current age "x"
+* 9 years from now, John's age will be x + 9
+* 11 years ago, John's age was x - 11
+* The problem statement says that x + 9 = 3(x - 11)
+* Solving this equation:
+    * x + 9 = 3x - 33
+    * -2x = -42
+    * x = 21
+Therefore, John is currently 21 years old.
+
+Answer: 21

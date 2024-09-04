@@ -1,0 +1,21 @@
+To solve this problem, we will use the formula to find the circumference of the circle. The formula is:
+
+Circumference = 2 * pi * r, where r is the radius of the circle.
+
+Given the radius is 14 feet, we can plug this value into the formula:
+
+Circumference = 2 * pi * 14
+
+We know that pi is approximately 3.14159, so:
+
+Circumference = 2 * 3.14159 * 14
+
+Circumference = 25.13274
+
+Now, we need to find the number of 6-inch pencils that can be placed end-to-end across the diameter of the circle. Since the diameter is 28 inches, we can divide the circumference by 6 inches:
+
+28 inches / 6 = 4.6
+
+So, 4.6 is the number of 6-inch pencils that can be placed end-to-end across the diameter of the circle.
+
+Answer: 4

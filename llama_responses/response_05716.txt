@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of cups of popcorn needed: 3 (for Joanie) + 4 (for Mitchell) + 6 (for Miles) + 3 (for Cliff) = 16 cups of popcorn.
+
+Since each 2 tablespoons of popcorn kernels makes 1 cup of popcorn, we need to find how many tablespoons of popcorn kernels it takes to make 16 cups of popcorn. To do this, we can multiply the number of cups of popcorn by the number of tablespoons in 1 cup of popcorn. Since 1 cup of popcorn is equal to 16 tablespoons, we can multiply 16 cups by 16 tablespoons to get the total number of tablespoons needed.
+
+16 cups * 16 tablespoons = 256 tablespoons.
+
+Answer: 256

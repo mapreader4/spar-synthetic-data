@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mandy bought 3 packs of black shirts
+* Each pack of black shirts contains 5 shirts
+* So the total number of black shirts is 3 packs x 5 shirts per pack = 15 black shirts
+* Mandy also bought 3 packs of yellow shirts
+* Each pack of yellow shirts contains 2 shirts
+* So the total number of yellow shirts is 3 packs x 2 shirts per pack = 6 yellow shirts
+* To find the total number of shirts Mandy bought, we add the black shirts and yellow shirts:
+* 15 black shirts + 6 yellow shirts = 21 shirts
+
+Answer: 21

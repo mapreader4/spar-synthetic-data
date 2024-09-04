@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Marcia needs to buy:
+  - 3 skirts at $20.00 each
+  - 2 pairs of pants at $30.00 each
+  - 5 blouses at $15.00 each
+* The pants are on sale: buy 1 pair, get 1 pair 1/2 off
+  - So for the 2 pairs of pants, she'll pay full price for 1 pair ($30.00) and 1/2 price for the other pair ($15.00)
+* Now let's calculate the total cost:
+  - 3 skirts at $20.00 each = 3 * $20.00 = $60.00
+  - 2 pairs of pants: 1 at $30.00, 1 at $15.00 = $30.00 + $15.00 = $45.00
+  - 5 blouses at $15.00 each = 5 * $15.00 = $75.00
+* Adding up the total:
+  - $60.00 + $45.00 + $75.00 = $180.00
+
+Answer: $180

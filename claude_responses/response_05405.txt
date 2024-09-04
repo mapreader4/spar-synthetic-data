@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Socorro needs to train for a total of 5 hours
+* Each day, she trains for 10 minutes on multiplication problems and 20 minutes on division problems
+* So, each day she trains for a total of 30 minutes (10 minutes + 20 minutes)
+
+To find the number of days it will take for her to complete her training, we need to divide the total training time (5 hours) by the time she trains each day (30 minutes).
+
+* 5 hours = 300 minutes
+* 300 minutes / 30 minutes per day = 10 days
+
+Answer: 10

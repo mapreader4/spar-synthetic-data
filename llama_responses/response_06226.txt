@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many 3 egg omelettes and 4 egg omelettes Theo needs to make in total.
+
+For the 3 egg omelettes, he needs to make 5 + 3 = 8 omelettes in the first 2 hours, and no more after that. So, he needs to make a total of 8 omelettes.
+
+For the 4 egg omelettes, he needs to make 7 + 8 = 15 omelettes.
+
+Now, let's calculate the total number of eggs needed for each type of omelette:
+
+For the 3 egg omelettes, he needs to make 8 omelettes, so he needs 8 x 3 = 24 eggs.
+
+For the 4 egg omelettes, he needs to make 15 omelettes, so he needs 15 x 4 = 60 eggs.
+
+To find the total number of eggs needed, we add the number of eggs needed for each type of omelette: 24 + 60 = 84 eggs.
+
+Answer: 84

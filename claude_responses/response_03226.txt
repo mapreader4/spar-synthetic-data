@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. On Friday, Wade served 28 customers and made $2.00 in tips per customer.
+   * Tips made on Friday = 28 customers x $2.00 per customer = $56.00
+
+2. On Saturday, Wade served three times the amount of customers he served on Friday.
+   * Customers served on Saturday = 28 customers x 3 = 84 customers
+   * Tips made on Saturday = 84 customers x $2.00 per customer = $168.00
+
+3. On Sunday, Wade served 36 customers and made $2.00 in tips per customer.
+   * Tips made on Sunday = 36 customers x $2.00 per customer = $72.00
+
+4. To calculate the total tips made between the 3 days, we add up the tips from each day:
+   * Total tips = $56.00 + $168.00 + $72.00 = $296.00
+
+Answer: $296.00

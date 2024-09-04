@@ -1,0 +1,5 @@
+Let's break down the problem step by step.
+
+Edward needs 40 feet of copper pipe. For every 5 feet, he needs one tightening bolt, and for every bolt, he needs two washers. So, for 40 feet, he needs 40 / 5 = 8 bolts, which means he uses 8 bolts. For each bolt, he uses 2 washers, so he uses 8 * 2 = 16 washers. He buys a bag of 20 washers. So, he uses 16 washers, and he has 20 - 16 = 4 washers remaining.
+
+Answer: 4

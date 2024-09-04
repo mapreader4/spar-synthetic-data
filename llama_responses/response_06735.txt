@@ -1,0 +1,8 @@
+Let's break down the problem step by step:
+
+1. Avery puts 4 shirts in the donation box.
+2. He adds twice as many pants as shirts in the box. 4 * 2 = 8.
+3. He throws in half as many shorts as pants in the box. 8 / 2 = 4.
+4. In total, how many pieces of clothes is Avery donating? 4 + 8 + 4 = 16.
+
+Answer: 16

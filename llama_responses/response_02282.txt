@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Marcus wants to buy a pair of shoes and is willing to pay no more than $130. He found a pair for $120, but he got a discount of 30% on it.
+
+To find the discount, we need to calculate 30% of the original price. To do this, we multiply the original price by 0.3.
+
+120 * 0.3 = 36
+
+So, the discount is $36. To find the price after the discount, we subtract the discount from the original price.
+
+120 - 36 = 84
+
+Marcus will pay $84 for the shoes, which is $46 less than his initial budget of $130. So, he will save $46.
+
+Answer: 46

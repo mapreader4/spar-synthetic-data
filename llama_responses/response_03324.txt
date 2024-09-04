@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Monica and Sheila start with $50. They spend $12 on toilet paper, so they have:
+
+$50 - $12 = $38
+
+They then spend twice the cost of the toilet paper on groceries, which is:
+
+$12 x 2 = $24
+
+So they spend a total of $24 + $12 = $36 on toilet paper and groceries. They have:
+
+$50 - $36 = $14 left over.
+
+They are allowed to use this amount to buy something for themselves, and they want to buy a pair of boots that costs 3 times the amount they have left. So, the cost of the boots is:
+
+$14 x 3 = $42
+
+They want to buy two pairs of boots, so the total cost is:
+
+$42 x 2 = $84
+
+Since they want to split the cost evenly, they will each need to pay:
+
+$84 ÷ 2 = $42
+
+They have $14 left over, so they will need to add:
+
+$42 - $14 = $28
+
+to their own money to buy the boots.

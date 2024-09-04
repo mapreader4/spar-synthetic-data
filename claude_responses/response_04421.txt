@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Patricia has $6
+* Lisa has five times Patricia's money, which is 5 * $6 = $30
+* Lisa also has double Charlotte's money, so Charlotte has half of Lisa's money, which is $30 / 2 = $15
+* The total amount of money they have is $6 + $30 + $15 = $51
+* The rare baseball card costs $100
+* To find how much more money they require, we subtract the amount they have ($51) from the cost of the card ($100)
+* $100 - $51 = $49
+
+Answer: $49

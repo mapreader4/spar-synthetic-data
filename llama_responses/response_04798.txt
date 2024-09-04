@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Initially, the storage tank has 30,000 gallons of milk.
+
+For the next 4 hours, the workers pumped out 2,880 gallons per hour, so they pumped out a total of:
+
+2,880 gallons/hour * 4 hours = 11,520 gallons
+
+So, after 4 hours, the storage tank had:
+
+30,000 gallons - 11,520 gallons = 18,480 gallons
+
+For the next 7 hours, the workers added milk to the storage tank at a rate of 1,500 gallons per hour, so they added a total of:
+
+1,500 gallons/hour * 7 hours = 10,500 gallons
+
+So, the total amount of milk added is:
+
+18,480 gallons + 10,500 gallons = 28,980 gallons
+
+Therefore, the amount of milk left in the storage tank is:
+
+30,000 gallons - 28,980 gallons = 1,020 gallons
+
+Answer: 1,020

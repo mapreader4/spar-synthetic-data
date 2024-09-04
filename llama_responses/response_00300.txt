@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The cost to print one page is $.10.
+2. Jenny wants to print 7 copies of her 25-page essay, which means the total cost is 7 x 25 x $.10 = $7.50.
+3. She also wants to buy 7 pens that each cost $1.50, which is 7 x $1.50 = $10.50.
+4. So the total cost is $7.50 + $10.50 = $17.00.
+5. Jenny pays the store with 2 twenty dollar bills, which is $20.
+6. To find out how much money she will get in change, we need to subtract the cost from the payment. $20 - $17.00 = $3.00.
+
+Answer: 3.

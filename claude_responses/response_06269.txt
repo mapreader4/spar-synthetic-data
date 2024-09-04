@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Tommy has 13 items in his pencil case
+* The number of pens is twice the number of pencils
+* There is one eraser
+
+Let's represent the number of pencils as x.
+* Then the number of pens is 2x
+* The total number of items is 13, which is the sum of the pencils, pens, and the eraser
+* So, x + 2x + 1 = 13
+
+Solving this equation:
+* 3x + 1 = 13
+* 3x = 12
+* x = 4
+
+Therefore, the number of pencils is 4.
+
+Answer: 4

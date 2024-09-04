@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+1) Maria gave a third of her money to her friend Isha.
+2) She then gave half of what she gave to Isha to Florence.
+3) Florence received three times as much money as Maria's cousin Rene.
+4) Rene received $300.
+
+Let's start by finding out how much Maria gave to Isha:
+* If Maria gave a third of her money to Isha, then Isha received 1/3 of Maria's total money.
+
+Next, let's find out how much Maria gave to Florence:
+* Maria gave half of what she gave to Isha to Florence.
+* So, Florence received 1/2 of 1/3 of Maria's total money.
+
+Now, let's find out how much money Rene received:
+* Florence received three times as much money as Rene.
+* Rene received $300.
+* So, Florence received 3 x $300 = $900.
+
+Finally, let's add up the total amount of money Maria gave to her three friends:
+* Isha received 1/3 of Maria's total money.
+* Florence received 1/2 of 1/3 of Maria's total money.
+* Rene received $300.
+* So, the total amount of money Maria gave to her three friends is:
+1/3 + (1/2 of 1/3) + $300 = 1/3 + 1/6 + $300 = 1/2 + $300 = $500.
+
+Answer: $500.

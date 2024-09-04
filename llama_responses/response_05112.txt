@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Alissa folds 5 pieces of letter-size paper 3 times, so she will have 5 * 3 = 15 smaller pieces of paper.
+2. She cuts each of these 15 pieces of paper along the edges, so she will have 15 * 4 = 60 small squares.
+3. She stacks these 60 small squares together, so she will have 1 notepad.
+4. She writes 10 notes per day, so she will use 10 * 1 = 10 notes per day.
+5. Since each notepad can hold all 60 small squares, she will last 60 / 10 = 6 days.
+
+Answer: 6

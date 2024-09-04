@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Anderson currently adds 3 sprigs of mint and 2 green tea leaves for every sprig of mint. So, for 3 sprigs of mint, he adds 2 * 3 = 6 green tea leaves.
+
+Now, he switches to a different kind of mud, which makes the other ingredients half as effective. This means that the new green tea leaves will have half the effect of the old green tea leaves. To get the same efficacy as before, he needs to add twice as many green tea leaves as before. So, he needs to add 6 * 2 = 12 green tea leaves.

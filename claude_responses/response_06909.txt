@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) We know that 8 carpenters can make 50 chairs in 10 days.
+2) This means that the rate of chair production is 50 chairs / 10 days = 5 chairs per day.
+3) We also know that we need to make 75 chairs in 10 days.
+4) To find the number of carpenters needed, we need to find the rate of chair production needed to make 75 chairs in 10 days.
+5) The rate of chair production needed is 75 chairs / 10 days = 7.5 chairs per day.
+6) Since each carpenter produces 5 chairs per day, we need to find how many carpenters are needed to produce 7.5 chairs per day.
+7) 7.5 chairs per day / 5 chairs per carpenter per day = 1.5 carpenters.
+8) Since we can't have a fractional number of carpenters, we need to round up to the nearest whole number.
+9) Therefore, the number of carpenters needed to make 75 chairs in 10 days is 2.
+
+Answer: 2

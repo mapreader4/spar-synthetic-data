@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) In the first week, 40 pounds of food were donated.
+2) In the second week, donations were twice as high as the first week. So, the amount of food donated in the second week was 2 * 40 = 80 pounds.
+3) The total amount of food donated in the first two weeks is 40 + 80 = 120 pounds.
+4) In the third week, Lyanna gave out 70% of the donated food to the homeless. 
+5) To calculate the amount of food remaining, we take the total donated food (120 pounds) and subtract 70% of that amount:
+120 pounds - (0.7 * 120 pounds) = 120 pounds - 84 pounds = 36 pounds.
+
+Answer: 36 pounds.

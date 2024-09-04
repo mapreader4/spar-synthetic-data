@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each cake takes 12 minutes to mix
+* Each cake needs 9 more minutes to bake than mix
+* So, each cake takes 12 + 9 = 21 minutes to bake
+* Each cake then takes 6 more minutes to cool and decorate than to bake
+* So, each cake takes 21 + 6 = 27 minutes to cool and decorate
+* In total, each cake takes 12 + 21 + 27 = 60 minutes to make
+* There are 6 cakes that need to be made
+* So, the total time to make all 6 cakes is 6 * 60 = 360 minutes
+* To convert this to hours, we divide 360 by 60 to get 6 hours
+
+Answer: 6 hours

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Melissa drives to town twice each month
+* It takes her 3 hours to drive to town and back
+* We need to find how many hours she spends driving in a year
+
+First, let's calculate how many hours she spends driving in a month:
+* 2 trips per month x 3 hours per trip = 6 hours per month
+
+Now, to find the total hours in a year, we multiply the monthly hours by 12 months:
+* 6 hours per month x 12 months = 72 hours per year
+
+Answer: 72

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Carla can cook a batch of waffles in 10 minutes
+* Carla can cook chicken-fried steak in 6 minutes
+* She needs to cook 3 steaks and a batch of waffles
+* To cook the 3 steaks, it will take her 3 * 6 = 18 minutes
+* To cook the batch of waffles, it will take her 10 minutes
+* To cook the 3 steaks and the batch of waffles, it will take her the total time of 18 minutes + 10 minutes = 28 minutes
+
+Answer: 28 minutes

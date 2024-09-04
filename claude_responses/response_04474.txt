@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Alison has half as much money as Brittany. This means that if Brittany has $x, then Alison has $x/2.
+2) Brittany has 4 times as much money as Brooke. This means that if Brooke has $y, then Brittany has $4y.
+3) Brooke has twice as much money as Kent. This means that if Kent has $1,000, then Brooke has $2,000.
+4) Putting this all together:
+- Kent has $1,000
+- Brooke has $2,000 (twice as much as Kent)
+- Brittany has $8,000 (4 times as much as Brooke)
+- Alison has $4,000 (half as much as Brittany)
+
+Answer: $4,000

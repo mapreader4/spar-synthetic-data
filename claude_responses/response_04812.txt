@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, the restaurant sold 40 dinners.
+
+2. On Tuesday, the restaurant sold 40 more dinners than it did on Monday. So, on Tuesday, the restaurant sold 40 + 40 = 80 dinners.
+
+3. On Wednesday, the restaurant sold half the amount of dinners it sold on Tuesday. So, on Wednesday, the restaurant sold 80 / 2 = 40 dinners.
+
+4. On Thursday, the restaurant changed their recipe and sold 3 more dinners than they did on Wednesday. So, on Thursday, the restaurant sold 40 + 3 = 43 dinners.
+
+Now, to find the total number of dinners sold in those 4 days, we add up the dinners sold each day:
+Monday: 40 dinners
+Tuesday: 80 dinners
+Wednesday: 40 dinners
+Thursday: 43 dinners
+
+Total dinners sold = 40 + 80 + 40 + 43 = 203 dinners
+
+Answer: 203

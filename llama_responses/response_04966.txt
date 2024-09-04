@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. Paul made two bank transfers of $90 and $60 respectively. So, before the transactions, his account balance is $400.
+
+2. A service charge of 2% was added to each transaction. So, the total charge is 2% of ($90 + $60) = 2% * $150 = $3. So, the new balance after the transactions is $400 - $3 = $397.
+
+3. Now, the second transaction was reversed. So, the $60 is subtracted from the balance. The new balance is $397 - $60 = $337.
+
+Answer: 337

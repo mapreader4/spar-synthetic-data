@@ -1,0 +1,3 @@
+Let the number of fair tickets sold be x. Then, we know that the number of baseball game tickets sold is 2x. We also know that the number of baseball game tickets sold is 6 more than the number of fair tickets sold. Therefore, we can set up the equation 2x = x + 6. We can subtract 6 from both sides of the equation to get x = 2x - 6. Since the problem states that 25 fair tickets were sold, we can substitute 25 for x. Then we can solve the equation 2(25) - 6 = x. 2(25) - 6 = 19. Therefore, the answer is 19.
+
+Answer: 19

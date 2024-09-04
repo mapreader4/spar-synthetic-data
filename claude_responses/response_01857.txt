@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* There were 50 more female adults than male adults
+* If there were 100 male adults, then there were 150 female adults (100 + 50)
+* The total number of adults is the sum of male and female adults, which is 100 + 150 = 250
+* The number of children is twice the total number of adults, which is 2 * 250 = 500
+* The total number of people attending the family reunion is the sum of the adults and children, which is 250 + 500 = 750
+
+Answer: 750

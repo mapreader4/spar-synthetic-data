@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The bus driver drives an average of 2 hours each day, 5 days a week.
+2) From Monday to Wednesday, he drove at an average speed of 12 kilometers per hour.
+3) From Thursday to Friday, he drove at an average speed of 9 kilometers per hour.
+4) To calculate the total distance traveled, we need to find the distance traveled each day and then add them up.
+5) For Monday to Wednesday, the distance traveled each day is 2 hours * 12 kilometers per hour = 24 kilometers.
+6) For Thursday and Friday, the distance traveled each day is 2 hours * 9 kilometers per hour = 18 kilometers.
+7) The total distance traveled over the 5 days is:
+   - Monday to Wednesday: 3 days * 24 kilometers = 72 kilometers
+   - Thursday and Friday: 2 days * 18 kilometers = 36 kilometers
+   - Total distance = 72 kilometers + 36 kilometers = 108 kilometers
+
+Answer: 108 kilometers

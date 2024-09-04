@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the original price of one pair of jeans: $40.
+
+Now, if the store gives a 10% discount on every two pairs of jeans, then for every two pairs of jeans, the discount will be 10% of $40, which is $4.
+
+Since the customer is buying 3 pairs of jeans, the total discount will be 3/2 * 4 = $6.
+
+So, the total amount the customer needs to pay will be the original price minus the discount, which is $40 - $6 = $34.
+
+Answer: 34

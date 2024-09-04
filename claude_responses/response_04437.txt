@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Last year, the race was 300 meters long.
+2) This year, the race will be 4 times as long, so the new race length is 4 * 300 = 1200 meters.
+3) There will be 6 tables set up for the relay run.
+4) The distance between the tables must be the same, and the last table will be at the finish line.
+5) To find the distance between table 1 and table 3, we need to divide the total race distance by the number of spaces between the tables.
+6) The number of spaces between the tables is one less than the number of tables, so 6 - 1 = 5 spaces.
+7) Therefore, the distance between each table is 1200 meters / 5 spaces = 240 meters.
+8) The distance between table 1 and table 3 is 2 * 240 meters = 480 meters.
+
+Answer: 480 meters

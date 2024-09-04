@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Phoebe eats 1 serving of peanut butter per day
+* Her dog eats 1 serving of peanut butter per day
+* Each jar of peanut butter has 15 servings
+* They need enough peanut butter for 30 days
+
+To calculate the total number of servings needed for 30 days:
+* Phoebe's servings per day: 1
+* Dog's servings per day: 1
+* Total servings per day: 1 + 1 = 2
+* Total servings needed for 30 days: 2 servings per day x 30 days = 60 servings
+
+Now, to calculate the number of jars needed:
+* Each jar has 15 servings
+* 60 servings needed / 15 servings per jar = 4 jars
+
+Therefore, Phoebe will need 4 jars of peanut butter to make sure she and her dog have enough for 30 days.
+
+Answer: 4

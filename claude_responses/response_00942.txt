@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Paul can run a mile in 12 minutes
+* He watches two movies, each with an average length of 1.5 hours
+* 1.5 hours = 90 minutes
+* So the total time he watches movies is 2 x 90 minutes = 180 minutes
+* Now, we need to convert the total movie-watching time to miles run
+* Since Paul can run a mile in 12 minutes, we can divide the total movie-watching time (180 minutes) by 12 to get the number of miles he ran
+* 180 minutes / 12 minutes per mile = 15 miles
+
+Answer: 15

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* On Monday, Sydney sends 5 texts to Allison and 5 texts to Brittney.
+* So the total number of texts sent on Monday is 5 + 5 = 10 texts.
+* On Tuesday, Sydney sends 15 texts to Allison and 15 texts to Brittney.
+* So the total number of texts sent on Tuesday is 15 + 15 = 30 texts.
+* To find the total number of texts sent on both days, we add the number of texts sent on Monday and Tuesday:
+* 10 texts + 30 texts = 40 texts.
+
+Answer: 40

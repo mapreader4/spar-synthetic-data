@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+1) Sally already has $28 saved.
+2) The costs for the trip are:
+   - $10 for parking
+   - $55 for park admission
+   - $25 for a meal pass
+3) The total cost of the trip so far is:
+   - $10 + $55 + $25 = $90
+4) The distance to Sea World is 165 miles.
+5) Sally's car gets 30 miles per gallon of gas.
+6) Gas costs $3 per gallon.
+7) To calculate the cost of gas, we first need to find how many gallons of gas she will need:
+   - 165 miles / 30 miles per gallon = 5.5 gallons
+8) The cost of gas will be:
+   - 5.5 gallons x $3 per gallon = $16.50
+9) The total cost of the trip is:
+   - $90 + $16.50 = $106.50
+10) Since Sally already has $28 saved, the amount she still needs to save is:
+    - $106.50 - $28 = $78.50
+
+Answer: $78

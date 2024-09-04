@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Olaf has 25 men, including himself, on the boat.
+2) Each man needs 1/2 a gallon of water per day.
+3) The boat can travel 200 miles per day.
+4) Olaf needs to travel 4,000 miles.
+
+To calculate the total number of gallons of water needed, we need to:
+1) Calculate the number of days it will take to travel 4,000 miles.
+2) Multiply the number of days by the number of men and the amount of water needed per man per day.
+
+Step 1: Calculating the number of days to travel 4,000 miles.
+* The boat can travel 200 miles per day.
+* 4,000 miles / 200 miles per day = 20 days
+
+Step 2: Calculating the total amount of water needed.
+* 25 men x 1/2 gallon per day x 20 days = 250 gallons
+
+Answer: 250 gallons

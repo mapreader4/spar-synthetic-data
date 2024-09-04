@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+Day 1:
+* There were 50 oysters on the rocks
+* There were 72 crabs by the beach
+
+Day 2:
+* The number of oysters on the rocks was only half of the previous day, so 50 / 2 = 25 oysters
+* The number of crabs by the beach was only 2/3 of the previous day, so 72 * 2/3 = 48 crabs
+
+Now, to find the total number of oysters and crabs counted over the two days:
+* Day 1: 50 oysters + 72 crabs = 122 total
+* Day 2: 25 oysters + 48 crabs = 73 total
+* Total over the two days: 122 + 73 = 195 total
+
+Answer: 195

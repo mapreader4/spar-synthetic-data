@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the revenue from selling the movies. James sells 500 movies a day for 5 days a week, which is a total of 500 * 5 = 2500 movies a week. Since he sells each movie for 2.5 times the cost, the total revenue from selling the movies is 2500 * 2.5 = 6250.
+
+The cost of making each movie is $6, so the total cost of making the movies is 2500 * 6 = 15000. So, the profit from selling the movies is 6250 - 15000 = 4750.
+
+James makes this profit for 20 weeks. So, the total profit in 20 weeks is 4750 * 20 = 95000.
+
+Answer: 95000

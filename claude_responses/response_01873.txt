@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) The sum of the ages of Jeremy, Sebastian, and Sophia in three years is 150.
+2) Currently, Sebastian is 4 years older than Jeremy.
+3) Jeremy's age is 40.
+
+First, let's find Sebastian's current age:
+* Jeremy's current age is 40
+* Sebastian is 4 years older than Jeremy
+* Therefore, Sebastian's current age is 40 + 4 = 44
+
+Now, let's find Sophia's current age:
+* The sum of the ages of Jeremy, Sebastian, and Sophia in three years is 150
+* Jeremy will be 43 in three years (40 + 3)
+* Sebastian will be 47 in three years (44 + 3) 
+* So the sum of their ages in three years is 43 + 47 + Sophia's age in three years
+* 43 + 47 + Sophia's age in three years = 150
+* Sophia's age in three years = 150 - 43 - 47 = 60
+* Therefore, Sophia's current age is 60 - 3 = 57
+
+Answer: 60

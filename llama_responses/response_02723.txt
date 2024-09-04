@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's say the length of the straight part of the river is x.
+
+Since the length of the river is 80 miles, and the length of the straight part is 3 times shorter, we can set up an equation.
+
+x + 3x = 80
+
+We can subtract 3x from both sides of the equation to get:
+
+x = 80 / 4
+x = 20
+
+So, the length of the straight part of the river is 20 miles.
+
+Answer: 20

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Cheryl harvests 16 cups of basil every week for 8 weeks. So, she harvests 16 * 8 = 128 cups of basil in total.
+
+2. She needs 4 cups of basil to make 1 cup of pesto. So, to make pesto, she needs 1 cup of basil. 128 / 4 = 32 cups of basil is needed to make 32 cups of pesto.
+
+3. To make 32 cups of pesto, she can harvest 32 cups of basil. Cheryl has 128 cups of basil. So, she can make 32 / 128 = 0.75 cups of pesto.
+
+Answer: 0

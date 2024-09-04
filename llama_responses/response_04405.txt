@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Matt rode his bike a total of 1000 feet.  He passed a stop sign that was 350 feet away from his house.  He rode an additional 275 feet after passing the second sign.
+
+Let's find the distance between the first and second signs.  The first sign is 350 feet away from the house.  The second sign is 350 + 275 = 625 feet away from the house.  So, the distance between the first and second signs is 625 - 350 = 275 feet.
+
+Answer: 275

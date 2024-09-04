@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* John bought 3 barbells
+* He gave $850 and received $40 in change
+* To find the cost of each barbell, we need to calculate the total cost of the 3 barbells
+
+First, let's find the total cost of the 3 barbells:
+* Total cost = Amount given - Change received
+* Total cost = $850 - $40 = $810
+
+Now, to find the cost of each barbell, we divide the total cost by the number of barbells:
+* Cost per barbell = Total cost / Number of barbells
+* Cost per barbell = $810 / 3 = $270
+
+Therefore, the cost of each barbell is $270.
+
+Answer: 270

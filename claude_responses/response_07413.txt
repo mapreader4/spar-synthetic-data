@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Company A receives 60% of the combined profits under the new merger
+* Company B receives 40% of the combined profits under the new merger
+* Company B gets a total of $60,000 in profit
+* To find how much Company A gets, we need to first find the total combined profits
+
+Since Company B gets 40% of the combined profits, and they get $60,000, we can use this to find the total combined profits:
+* 40% of total combined profits = $60,000
+* Total combined profits = $60,000 / 0.4 = $150,000
+
+Now that we know the total combined profits is $150,000, we can find how much Company A gets:
+* Company A gets 60% of $150,000
+* 60% of $150,000 = 0.6 * $150,000 = $90,000
+
+Answer: $90,000

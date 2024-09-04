@@ -1,0 +1,7 @@
+Let's start by calculating the number of milkshakes made by Augustus. Augustus can make 3 milkshakes per hour. For 8 hours, Augustus can make 3 * 8 = 24 milkshakes.
+
+Next, let's calculate the number of milkshakes made by Luna. Luna can make 7 milkshakes per hour. For 8 hours, Luna can make 7 * 8 = 56 milkshakes.
+
+To find the total number of milkshakes made by both Augustus and Luna, we add the number of milkshakes made by each of them: 24 + 56 = 80 milkshakes.
+
+Answer: 80

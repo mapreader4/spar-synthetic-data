@@ -1,0 +1,15 @@
+Let's start by identifying the given information. We know that Bart bought notebooks for $1.25 each, and each notebook has 60 pages. We also know that Bart bought $10 worth of notebooks.
+
+To find the number of notebooks, we can set up a proportion:
+
+Let x be the number of notebooks Bart bought. The cost of the notebooks is $10. The cost of each notebook is $1.25. We can set up the proportion as follows:
+
+$\frac{1.25x}{x} = \frac{10}{1.25}$
+
+We can cross-multiply to get:
+
+$\frac{x}{1} = \frac{10}{1.25} \times \frac{1}{1} = 8$
+
+So, Bart bought 8 notebooks.
+
+Answer: 8

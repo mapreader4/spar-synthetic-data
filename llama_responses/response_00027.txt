@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Brennan downloaded 800 files initially. He then deleted 70% of them, which is 0.7 x 800 = 560 files. So he was left with 800 - 560 = 240 files.
+
+Then, he downloaded 400 more files, but 3/5 of them were irrelevant. To find 3/5 of 400, we can multiply 400 by 3 and divide by 5: 400 x 3 = 1200, then divide by 5 = 240.
+
+So, 240 files were irrelevant. To find the total number of files he was left with, we subtract 240 from 240 (the number of files he had after deleting the first 560 files) and 400 (the number of files he downloaded in the second round): 400 - 240 = 160.
+
+Answer: 160

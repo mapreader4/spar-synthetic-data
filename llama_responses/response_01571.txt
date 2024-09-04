@@ -1,0 +1,7 @@
+To find the number of tiles needed, we need to calculate the area of the wall.
+
+The area of the wall is 10 feet tall and 15 feet long, which is 10 * 15 = 150 square feet. Each tile is 1 inch square, which means each tile covers 1 square inches. So, to find the number of tiles needed, we need to divide the total area in square inches by the area of each tile.
+
+The area in square inches is 150 square feet * 12 inches * 12 inches = 1800 square inches. To find the number of tiles, we divide 1800 square inches by the area of each tile, which is 1 square inches. The answer is 1800 / 1 = 1800 tiles.
+
+Answer: 1800

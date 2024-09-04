@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Radhika got 12 new video games on Christmas, and 8 more on her birthday. So, in total, she got 12 + 8 = 20 new video games.
+
+She already owned 1/2 the number of games as what she was given on Christmas and her birthday. Since she was given 20 games, 1/2 of that would be 10 games. So, she already owned 10 games before getting the new ones.
+
+To find out how many games she owned in total, we need to add the number of games she already owned to the number of new games she got. So, we add 10 (the number of games she already owned) to 20 (the number of new games she got). This gives us:
+
+10 + 20 = 30
+
+So, Radhika owns 30 video games now.
+
+Answer: 30

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The total number of marbles is 600.
+2) The ratio of marbles between Brittany, Alex, and Jamy is 3:5:7.
+3) To find the number of marbles each person has, we need to divide the total marbles (600) by the sum of the ratio (3 + 5 + 7 = 15).
+4) 600 / 15 = 40 marbles per unit of the ratio.
+5) Brittany has 3 units, so she has 3 * 40 = 120 marbles.
+6) Alex has 5 units, so he has 5 * 40 = 200 marbles.
+7) Jamy has 7 units, so he has 7 * 40 = 280 marbles.
+8) Brittany gives Alex half of her marbles, which is 120 / 2 = 60 marbles.
+9) So the total number of marbles that Alex has is 200 + 60 = 260 marbles.
+
+Answer: 260

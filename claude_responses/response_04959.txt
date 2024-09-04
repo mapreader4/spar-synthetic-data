@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Meryll wants to write 35 multiple-choice questions
+* She has already written 2/5 of the 35 multiple-choice questions
+* To calculate how many multiple-choice questions she has already written:
+    * 2/5 of 35 = 2/5 * 35 = 14 multiple-choice questions
+* So, she has 35 - 14 = 21 multiple-choice questions left to write
+* Meryll also wants to write 15 problem-solving questions
+* She has already written 1/3 of the 15 problem-solving questions
+* To calculate how many problem-solving questions she has already written:
+    * 1/3 of 15 = 1/3 * 15 = 5 problem-solving questions
+* So, she has 15 - 5 = 10 problem-solving questions left to write
+* In total, she needs to write 21 more multiple-choice questions and 10 more problem-solving questions
+
+Answer: 31

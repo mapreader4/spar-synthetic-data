@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The store normally gets 120 customer complaints per day.
+2. When the store is short-staffed, the number of complaints increases by 1/3rd, so the new number of complaints is 1/3rd of 120, which is 40 more complaints. So, the new number of complaints when the store is short-staffed is 120 + 40 = 160.
+3. When the self-checkout is broken, the number of complaints increases by another 20%, which is 20% of 160, which is 32. So, the new number of complaints is 160 + 32 = 192.
+4. Since the store was short-staffed and the self-checkout was broken for 3 days, we need to multiply the new number of complaints by 3 to get the total number of complaints. 192 * 3 = 576.
+
+Answer: 576

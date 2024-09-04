@@ -1,0 +1,5 @@
+Let's break this down step by step. The brothers want to make sure they get enough pizza, so they want to order enough slices to cover all the slices. The total number of slices is 12, and they want to share them equally. 
+
+Since they have 2 brothers, they want to divide the 12 slices equally between them. 12 / 2 is 6. They have 1 small pizza, which has 8 slices. The number of large pizzas needed is the remainder of the total number of slices minus the number of slices on the small pizza. 12 - 8 = 4. So they need to order 4 large pizzas. 
+
+Answer: 4

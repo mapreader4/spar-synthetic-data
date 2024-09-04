@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Paula wants to ride the go-karts 1 time
+* It costs 4 tickets to ride the go-karts
+* So for the go-karts, Paula needs 4 tickets
+* Paula also wants to ride the bumper cars 4 times
+* It costs 5 tickets to ride the bumper cars
+* So for the bumper cars, Paula needs 4 * 5 = 20 tickets
+* To get the total number of tickets Paula needs, we add the tickets for the go-karts and the bumper cars:
+* 4 + 20 = 24 tickets
+
+Answer: 24

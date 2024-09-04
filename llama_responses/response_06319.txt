@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+1. First, we need to find the original price of the pants. The pants normally retail for $45 each, so the total cost of 10 pants would be 10 x 45 = 450.
+
+2. Next, we need to apply the 20% discount. The discount is 20% of the original price, which is 20% of 450. To find 20% of 450, we can multiply 450 by 0.20 = 90.
+
+3. Now, we need to subtract the discount from the original price to find the discounted price. 450 - 90 = 360.
+
+4. Next, we need to apply the 10% tax. The tax is 10% of the discounted price, which is 10% of 360. To find 10% of 360, we can multiply 360 by 0.10 = 36.
+
+5. Finally, we need to add the tax to the discounted price to find the final price. 360 + 36 = 396.
+
+Answer: 396

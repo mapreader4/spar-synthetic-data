@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Teddy has 7 dogs and 8 cats.
+2. Ben has 9 more dogs than Teddy, so Ben has 7 + 9 = 16 dogs.
+3. Dave has 13 more cats than Teddy, so Dave has 8 + 13 = 21 cats.
+4. Dave has 5 less dogs than Teddy, so Dave has 7 - 5 = 2 dogs.
+
+Now, let's add up the total number of pets:
+Teddy: 7 dogs + 8 cats = 15 pets
+Ben: 16 dogs
+Dave: 2 dogs + 21 cats = 23 pets
+
+Total pets = 15 + 16 + 23 = 54
+
+Answer: 54

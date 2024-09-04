@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's start by letting the variable "x" represent the number of pencils Asaf has. Since Asaf has 60 more pencils than Alexander, we know that Alexander has x - 60 pencils.
+
+The problem states that the sum of their ages is 140, so we can set up an equation:
+
+Asaf's age + Alexander's age = 140
+
+We know Asaf's age is 50, so we can substitute that into the equation:
+
+50 + (x - 60) = 140
+
+Now we can simplify the equation:
+
+50 + x - 60 = 140
+
+Subtract 60 from both sides of the equation to get:
+
+x = 190
+
+Now we know that Asaf has 190 pencils. To find the total number of pencils they have together, we add the number of pencils Asaf has to the number of pencils Alexander has:
+
+Asaf has 190 pencils, and Alexander has x - 60 pencils. So, the total number of pencils they have together is:
+
+190 + (x - 60)
+
+We can combine the numbers to get:
+
+190 + x
+
+So, the answer is:
+
+Answer: 190 + x

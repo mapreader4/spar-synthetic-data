@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Barry can reach apples that are 5 feet high.
+2) Larry is 5 feet tall, but his shoulder height is 20% less than his full height.
+3) To find Larry's shoulder height, we take his full height of 5 feet and subtract 20% of that:
+   * 20% of 5 feet = 0.2 * 5 = 1 foot
+   * Larry's shoulder height = 5 feet - 1 foot = 4 feet
+4) If Barry stands on Larry's shoulders, the total height they can reach is the sum of Barry's reach and Larry's shoulder height:
+   * Total height = Barry's reach + Larry's shoulder height
+   * Total height = 5 feet + 4 feet = 9 feet
+
+Answer: 9

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* In the morning, Kira downloads 10 songs
+* Later in the day, she downloads 15 more songs
+* At night, she downloads 3 more songs
+* So the total number of songs she downloaded is 10 + 15 + 3 = 28 songs
+* Each song has a size of 5 MB
+* To calculate the total memory space occupied by the new songs, we multiply the total number of songs (28) by the size of each song (5 MB)
+* 28 songs x 5 MB per song = 140 MB
+
+Answer: 140

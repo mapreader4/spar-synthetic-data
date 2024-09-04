@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Erwin eats 2 chocolates on weekdays
+* Erwin eats 1 chocolate on weekends
+* He ate 24 chocolates in total
+
+To find the number of weeks it took to finish all the chocolate, we need to find the number of weekdays and weekends in the time period.
+
+Let's assume the number of weeks is x.
+* On weekdays, he eats 2 chocolates per day, and there are 5 weekdays per week.
+* So on weekdays, he eats 2 * 5 * x = 10x chocolates.
+* On weekends, he eats 1 chocolate per day, and there are 2 weekend days per week.
+* So on weekends, he eats 1 * 2 * x = 2x chocolates.
+* The total number of chocolates he eats is 10x + 2x = 12x.
+
+We know that he ate 24 chocolates in total, so:
+* 12x = 24
+* x = 2
+
+Therefore, it took Erwin 2 weeks to finish all the chocolate.
+
+Answer: 2

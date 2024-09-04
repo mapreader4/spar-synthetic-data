@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+* We know that there are 24 legs/paws in the pool
+* Humans have 2 legs each
+* Dogs have 4 legs each
+* So the total number of legs/paws can be represented as:
+* 2 legs for Daisy + 2 legs for Rose + 4 legs for each dog
+* Let's call the number of dogs "x"
+* So the equation is: 2 + 2 + 4x = 24
+* Simplifying, we get: 4 + 4x = 24
+* Subtracting 4 from both sides, we get: 4x = 20
+* Dividing both sides by 4, we get: x = 5
+* Therefore, Daisy and Rose have 5 dogs.
+
+Answer: 5

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of customers who bought watermelons. We know that 17 customers bought 1 melon, and 3 customers bought 3 melons. We also know that the rest of the customers bought 2 melons.
+
+We can set up an equation to represent the number of customers who bought watermelons. Let's say the number of customers who bought watermelons is x.
+
+We can set up the equation as follows:
+
+17 + 3 + 2 = x
+
+We know that 17 + 3 = 20. Therefore, x = 20.
+
+Answer: 20

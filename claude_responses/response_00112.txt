@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The family gallery has 400 photos initially.
+2) On the first day of the trip, they took half as many photos as they have in the family gallery, which is 400 / 2 = 200 photos.
+3) On the second day of the trip, they took 120 more photos than they took on the first day, which is 200 + 120 = 320 photos.
+4) In total, they took 200 + 320 = 520 photos on the trip.
+5) Adding these 520 photos to the initial 400 photos in the family gallery, the total number of photos in the gallery is 400 + 520 = 920 photos.
+
+Answer: 920

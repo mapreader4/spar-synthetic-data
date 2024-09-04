@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+There were 12000 dolls made, and each doll requires 45 seconds to make. So the total time required to make the dolls is:
+
+12000 dolls * 45 seconds/doll = 540000 seconds
+
+The accessories for each doll include 2 shoes, 3 bags, 1 set of cosmetics, and 5 hats. So, for each doll, there are 2 + 3 + 1 + 5 = 11 accessories. Since there are 12000 dolls, the total number of accessories is:
+
+12000 dolls * 11 accessories/doll = 132000 accessories
+
+Each accessory takes 10 seconds to make, so the total time required to make the accessories is:
+
+132000 accessories * 10 seconds/accessory = 1320000 seconds
+
+To find the total combined machine operation time, we add the time required to make the dolls and the accessories:
+
+540000 seconds (dolls) + 1320000 seconds (accessories) = 1860000 seconds
+
+Answer: 1860000

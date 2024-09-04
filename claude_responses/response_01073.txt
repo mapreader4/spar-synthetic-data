@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* 1,800 fish swim westward
+* 3,200 fish swim eastward
+* 500 fish swim north
+* Fishers catch 2/5 of the fish that swam eastward
+* Fishers catch 3/4 of the fish that swam westward
+
+First, let's calculate how many fish were caught:
+* Eastward fish caught: 2/5 of 3,200 = 1,280 fish
+* Westward fish caught: 3/4 of 1,800 = 1,350 fish
+
+Now, let's calculate the total number of fish that were caught:
+* Total fish caught = 1,280 + 1,350 = 2,630 fish
+
+Finally, let's calculate the number of fish left in the sea:
+* Total fish = 1,800 + 3,200 + 500 = 5,500 fish
+* Fish left in the sea = 5,500 - 2,630 = 2,870 fish
+
+Answer: 2,870

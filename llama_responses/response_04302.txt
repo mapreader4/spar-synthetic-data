@@ -1,0 +1,7 @@
+To find the number of pizzas and hot dogs the restaurant will make in June, we need to multiply the number of pizzas and hot dogs it makes per day by the number of days in June.
+
+The restaurant makes 40 more pizzas than hot dogs every day, so it makes 40 + 1 = 41 pizzas and hot dogs every day.
+
+There are 30 days in June. So, we need to multiply the number of pizzas and hot dogs it makes per day by the number of days in June: 41 x 30 = 1230 pizzas and hot dogs.
+
+Answer: 1230

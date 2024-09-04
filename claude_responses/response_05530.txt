@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Simon picks 100 blueberries from his own bushes
+* He picks another 200 blueberries from nearby bushes
+* So the total number of blueberries he has picked is 100 + 200 = 300 blueberries
+* Each pie needs 100 blueberries
+* To find how many pies he can make, we divide the total number of blueberries by the number of blueberries needed per pie:
+* 300 blueberries / 100 blueberries per pie = 3 pies
+
+Answer: 3

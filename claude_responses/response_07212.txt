@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The three next highest jumpers can jump 23 inches, 27 inches, and 28 inches.
+2) To find the average jump of these three jumpers, we add up the heights and divide by 3:
+   (23 + 27 + 28) / 3 = 78 / 3 = 26 inches
+3) Ravi can jump 1.5 times higher than the average jump of the three next highest jumpers.
+4) So, to find Ravi's jump height, we multiply the average jump of 26 inches by 1.5:
+   26 inches * 1.5 = 39 inches
+
+Answer: 39 inches

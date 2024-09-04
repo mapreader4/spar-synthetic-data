@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+* The sunset lasts for 2 hours, which is 120 minutes
+* Every 10 minutes, the sky changes to a new color
+* So, in 120 minutes, there will be 120 / 10 = 12 color changes
+* Therefore, the sky turned 12 different colors over the 2-hour sunset.
+
+Answer: 12

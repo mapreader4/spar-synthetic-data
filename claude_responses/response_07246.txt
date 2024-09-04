@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+
+1. Pastor Paul prays 20 times per day, except on Sunday, when he prays twice as much.
+   * On Sunday, Pastor Paul prays 20 x 2 = 40 times.
+   * On the other 6 days of the week, Pastor Paul prays 20 times per day.
+   * Total number of times Pastor Paul prays in a week = (40 + 20 x 6) = 160 times.
+
+2. Pastor Bruce prays half as much as Pastor Paul, except on Sundays, when he prays twice as much as Pastor Paul.
+   * On Sunday, Pastor Bruce prays 40 x 2 = 80 times.
+   * On the other 6 days of the week, Pastor Bruce prays 20 / 2 = 10 times per day.
+   * Total number of times Pastor Bruce prays in a week = (80 + 10 x 6) = 140 times.
+
+3. To find the difference between the number of times Pastor Paul prays and the number of times Pastor Bruce prays in a week:
+   * Pastor Paul prays 160 times, and Pastor Bruce prays 140 times.
+   * The difference is 160 - 140 = 20 times.
+
+Answer: 20

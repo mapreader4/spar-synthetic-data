@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* A normal doctor charges $200 for a visit
+* Tom goes to a discount clinic that is 70% cheaper
+* It takes two visits to the discount clinic instead of one visit to the normal doctor
+
+First, let's calculate the cost of the discount clinic:
+* The discount clinic is 70% cheaper, so the cost per visit is 30% of $200, which is $60
+
+Now, since Tom needs to go to the discount clinic twice, the total cost is:
+* 2 visits x $60 per visit = $120
+
+If Tom had gone to the normal doctor, the total cost would have been:
+* 1 visit x $200 per visit = $200
+
+The amount of money Tom saves is the difference between the normal doctor cost and the discount clinic cost:
+* $200 - $120 = $80
+
+Answer: $80

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There were twice as many people who ordered vanilla ice cream as ordered chocolate ice cream
+* 220 people ordered ice cream on Saturday
+* 20% of the 220 people ordered vanilla ice cream
+
+First, let's calculate how many people ordered vanilla ice cream:
+* 20% of 220 = 0.20 * 220 = 44 people ordered vanilla ice cream
+
+Now, since there were twice as many people who ordered vanilla ice cream as ordered chocolate ice cream, we can use this to find the number of people who ordered chocolate ice cream:
+* If 44 people ordered vanilla ice cream, and that's twice as many as ordered chocolate ice cream, then the number of people who ordered chocolate ice cream must be half of 44, which is 22 people.
+
+Answer: 22 people ordered chocolate ice cream.

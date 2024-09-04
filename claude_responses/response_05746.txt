@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 12 archeology students
+* Each student ticket costs $1
+* So the total cost for the student tickets is 12 * $1 = $12
+* There are 4 teachers
+* Each adult ticket costs $3
+* So the total cost for the adult tickets is 4 * $3 = $12
+* To find the total cost of all the tickets, we add the cost of the student tickets and the adult tickets:
+* $12 + $12 = $24
+* Answer: $24

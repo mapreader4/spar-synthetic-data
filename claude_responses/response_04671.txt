@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The pizza delivery person has 12 pizzas to deliver
+* 2 of the stops are for orders of 2 pizzas each
+* The remaining stops are for single pizzas
+* The delivery person needs to deliver all 12 pizzas in 40 minutes
+
+First, let's calculate the number of pizzas that are for single orders:
+* 12 pizzas total
+* 2 stops with 2 pizzas each, so 4 pizzas for those 2 stops
+* 12 pizzas total - 4 pizzas for the 2 double orders = 8 pizzas for single orders
+
+Now, let's calculate the number of stops the delivery person needs to make:
+* 2 stops for the double orders
+* 8 pizzas for single orders, so 8 single order stops
+
+So the total number of stops is 2 + 8 = 10 stops.
+
+To deliver all 12 pizzas in 40 minutes, the delivery person needs to average:
+* 40 minutes / 10 stops = 4 minutes per stop
+
+Answer: 4

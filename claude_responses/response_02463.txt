@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. Initially, there were 300 athletes at the camp.
+2. Over the next 4 hours, athletes left the camp at a rate of 28 per hour.
+   - In 4 hours, 28 athletes x 4 hours = 112 athletes left the camp.
+   - So, the number of athletes remaining in the camp is 300 - 112 = 188.
+3. Over the next 7 hours, a new group of athletes trickled into the camp at a rate of 15 per hour.
+   - In 7 hours, 15 athletes x 7 hours = 105 new athletes arrived at the camp.
+   - So, the total number of athletes in the camp is now 188 + 105 = 293.
+4. The difference in the total number of athletes in the camp over the two nights is:
+   - Initial number of athletes: 300
+   - Final number of athletes: 293
+   - Difference: 300 - 293 = 7
+
+Answer: 7

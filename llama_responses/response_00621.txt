@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by calculating how many seagulls are scared away by throwing stones. We are told that 1/4 of the seagulls are scared away, so we can multiply the total number of seagulls by 1/4 to find the number of seagulls that are scared away:
+
+1/4 * 36 = 9
+
+So, 9 seagulls are scared away.
+
+Now, let's calculate how many seagulls are left. We are told that 1/3 of the remaining seagulls decide to fly to McDonald's parking lot, and we are left with the remaining seagulls. We can subtract the number of seagulls that flew away from the total number of seagulls:
+
+36 - 9 = 27
+
+So, 27 seagulls are left.
+
+Answer: 27

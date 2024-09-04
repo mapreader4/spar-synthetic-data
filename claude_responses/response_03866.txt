@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The bicycle shop owner adds 3 bikes to her stock every week
+* After 1 month (4 weeks), she had sold 18 bikes
+* She still had 45 bikes in stock
+
+To find the original number of bikes, we need to:
+1. Calculate the total number of bikes added to the stock over the 4 weeks:
+   * 3 bikes per week x 4 weeks = 12 bikes added
+2. Calculate the total number of bikes in the stock after the 4 weeks:
+   * Original number of bikes + 12 bikes added - 18 bikes sold = 45 bikes in stock
+3. Solve for the original number of bikes:
+   * Original number of bikes = 45 bikes in stock + 18 bikes sold - 12 bikes added
+   * Original number of bikes = 45 + 18 - 12 = 51 bikes
+
+Answer: 51

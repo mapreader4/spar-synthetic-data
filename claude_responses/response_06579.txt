@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Megan participated in a total of 100 plays
+* She was the lead actress in 80% of her work
+* To find the number of times she was not the lead actress, we need to find the number of plays where she was not the lead actress
+
+First, let's find the number of plays where she was the lead actress:
+* 80% of 100 plays = 0.80 * 100 = 80 plays
+
+Now, we can find the number of plays where she was not the lead actress:
+* Total plays - Plays where she was the lead actress = 100 - 80 = 20 plays
+
+Answer: 20

@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+
+For the first lawsuit:
+* Chance of winning: 30%
+* Payout if won: $5,000,000
+* Payout if lost: $0
+
+For the second lawsuit:
+* Chance of winning: 50%
+* Payout if won: $2,000,000
+* Payout if lost: $1,000,000
+
+Now, let's calculate the probability of winning both lawsuits:
+* Probability of winning both lawsuits = 0.3 x 0.5 = 0.15 or 15%
+
+Next, let's calculate the probability of losing both lawsuits:
+* Probability of losing the first lawsuit = 0.7
+* Probability of losing the second lawsuit = 0.5
+* Probability of losing both lawsuits = 0.7 x 0.5 = 0.35 or 35%
+
+To find the percentage difference between the probability of losing both lawsuits and winning both lawsuits, we can use the formula:
+* Percentage difference = (Probability of losing both - Probability of winning both) / Probability of winning both * 100
+* Percentage difference = (0.35 - 0.15) / 0.15 * 100 = 133.33%
+
+Answer: 133.33%

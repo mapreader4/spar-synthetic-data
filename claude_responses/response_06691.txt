@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Amanda received $50 as a gift.
+2) She plans to buy:
+   - 2 cassette tapes that cost $9 each, so 2 * $9 = $18 for the tapes
+   - 1 headphone set that costs $25
+3) To calculate the total amount she plans to spend:
+   - Tapes: $18
+   - Headphones: $25
+   - Total: $18 + $25 = $43
+4) Now, to calculate how much money she will have left:
+   - Initial gift: $50
+   - Total spent: $43
+   - Amount left: $50 - $43 = $7
+
+Answer: $7

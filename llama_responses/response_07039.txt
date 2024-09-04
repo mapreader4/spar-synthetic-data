@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Jerry can run from his house to his school and back in the time it takes his brother Carson to run to the school. This means that Jerry runs a round trip. Since it takes Jerry 15 minutes to make a one-way trip from his house to his school and the school is 4 miles away, we know that the round trip distance is 8 miles.
+
+The distance Jerry runs in the round trip is 8 miles. The time it takes Jerry to run this distance is 15 minutes. We need to find the speed Jerry runs in miles per hour. We can use the formula:
+
+Time = Distance / Speed
+
+Time = 15 minutes = Distance / Speed
+
+We can rearrange the formula to solve for speed:
+
+Speed = Distance / Time
+
+Speed = 8 miles / 0.25 hours
+
+Speed = 32 miles per hour
+
+Answer: 32

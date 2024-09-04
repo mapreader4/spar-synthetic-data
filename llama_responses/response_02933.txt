@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+There are 235 books initially. On Tuesday, 227 books are taken out, so we subtract 227 from 235 to get:
+
+235 - 227 = 8
+
+So, there are 8 books left.
+
+On Thursday, 56 books are brought back, so we add 56 to the 8 books we have:
+
+8 + 56 = 64
+
+So, there are now 64 books.
+
+On Friday, 35 books are taken out again. So, we subtract 35 from 64 to get:
+
+64 - 35 = 29
+
+So, there are now 29 books.
+
+Answer: 29

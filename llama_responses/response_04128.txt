@@ -1,0 +1,16 @@
+Let's break down the time spent on each trip:
+
+* 15 minutes to fill the car with stuff
+* 30 minutes to drive from the previous house to the new house
+
+Total time for one trip = 15 minutes + 30 minutes = 45 minutes
+
+Since they made 6 trips, the total time spent on trips is:
+
+6 trips * 45 minutes per trip = 6 * 45 = 270 minutes
+
+To convert the total time from minutes to hours, we can divide by 60 (since there are 60 minutes in an hour):
+
+270 minutes ÷ 60 = 4.5 hours
+
+Answer: 4

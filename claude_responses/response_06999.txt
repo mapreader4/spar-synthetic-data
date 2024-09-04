@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Initially, James eats:
+  - 1/4 pound of asparagus per day
+  - 1/4 pound of broccoli per day
+* So, in 1 week (7 days), he eats:
+  - 1/4 pound x 7 days = 1.75 pounds of asparagus
+  - 1/4 pound x 7 days = 1.75 pounds of broccoli
+  - Total: 1.75 + 1.75 = 3.5 pounds of vegetables per week
+* After 2 weeks, he doubles the amount of asparagus and broccoli:
+  - 1/2 pound of asparagus per day
+  - 1/2 pound of broccoli per day
+* So, in 1 week (7 days), he eats:
+  - 1/2 pound x 7 days = 3.5 pounds of asparagus
+  - 1/2 pound x 7 days = 3.5 pounds of broccoli
+  - Total: 3.5 + 3.5 = 7 pounds of vegetables per week
+* He also adds 3 pounds of kale per week
+* So, the total amount of vegetables he eats per week is:
+  - 7 pounds (asparagus and broccoli) + 3 pounds (kale) = 10 pounds
+
+Answer: 10 pounds

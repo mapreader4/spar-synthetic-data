@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The aquarium has fish in 3 different colors: orange, green, and blue.
+2) Blue fish make up half of all the fish in the aquarium.
+3) There are 15 fewer orange fish than blue fish.
+4) The total number of fish in the aquarium is 80.
+
+Let's start by finding the number of blue fish:
+* Blue fish make up half of all the fish, so the number of blue fish is 80 / 2 = 40.
+
+Now, let's find the number of orange fish:
+* There are 15 fewer orange fish than blue fish, so the number of orange fish is 40 - 15 = 25.
+
+Finally, we can find the number of green fish:
+* The total number of fish is 80, and we know the number of blue fish (40) and the number of orange fish (25).
+* So the number of green fish must be 80 - 40 - 25 = 15.
+
+Answer: 15

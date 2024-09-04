@@ -1,0 +1,20 @@
+To solve this problem, we need to find the total monthly savings and then divide it equally between Richard and Sarah.
+
+Given information:
+- It will take Richard and Sarah 3 years to save enough for a down payment on a house.
+- The down payment on the house is $108,000.
+
+Step 1: Calculate the total amount they need to save.
+Total amount to save = $108,000
+
+Step 2: Calculate the total amount they need to save per month.
+Total amount to save per month = Total amount to save / (3 years × 12 months per year)
+Total amount to save per month = $108,000 / (3 × 12)
+Total amount to save per month = $3,000
+
+Step 3: Calculate the amount each person saves per month.
+Amount each person saves per month = Total amount to save per month / 2
+Amount each person saves per month = $3,000 / 2
+Amount each person saves per month = $1,500
+
+Answer: $1,500

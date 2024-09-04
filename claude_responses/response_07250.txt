@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Dylan's mother is expecting 40 guests
+* The guests arrive in 10 cars
+* Each car has 4 wheels
+* Dylan's mother and father's cars are also in the parking lot
+
+To calculate the total number of car wheels in the parking lot, we need to:
+1. Calculate the number of wheels from the 10 guest cars
+2. Add the wheels from Dylan's mother's car and Dylan's father's jeep
+
+Step 1: Number of wheels from the 10 guest cars
+* Each car has 4 wheels
+* There are 10 cars
+* So, 10 cars x 4 wheels per car = 40 wheels from the guest cars
+
+Step 2: Add the wheels from Dylan's mother's car and Dylan's father's jeep
+* Dylan's mother's car has 4 wheels
+* Dylan's father's jeep has 4 wheels
+* So, 4 wheels + 4 wheels = 8 wheels
+
+Step 3: Add the wheels from the guest cars and Dylan's parents' cars
+* 40 wheels (guest cars) + 8 wheels (Dylan's parents' cars) = 48 wheels
+
+Answer: 48

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The temperature in New York in June 2020 was 80 degrees.
+2) The temperature in Miami was 10 degrees hotter than the temperature in New York.
+   * So, the temperature in Miami was 80 + 10 = 90 degrees.
+3) The temperature in San Diego was 25 degrees hotter than the temperature in Miami.
+   * So, the temperature in San Diego was 90 + 25 = 115 degrees.
+4) To find the average temperature for the three cities, we add the temperatures and divide by 3:
+   * (80 + 90 + 115) / 3 = 285 / 3 = 95 degrees.
+
+Answer: 95

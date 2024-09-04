@@ -1,0 +1,13 @@
+Let's start by calculating the total number of cookies and brownies they have.
+
+Betty has baked 4 dozen chocolate chip cookies, which is 4 x 12 = 48 cookies. She also has 6 dozen oatmeal raisin cookies, which is 6 x 12 = 72 cookies. So, in total, Betty has 48 + 72 = 120 cookies.
+
+Paige has baked 6 dozen sugar cookies, which is 6 x 12 = 72 cookies. She also has 3 dozen blondies, which is 3 x 12 = 36 blondies. And, she has 5 dozen cream cheese swirled brownies, which is 5 x 12 = 60 brownies. So, in total, Paige has 72 + 36 + 60 = 168 cookies and brownies.
+
+In total, they have 120 + 168 = 288 cookies and brownies.
+
+They will sell the cookies for $1.00 apiece, so they will get 288 x $1.00 = $288 for the cookies.
+
+They will sell the blondies and brownies for $2.00 apiece, so they will get 36 + 60 = 96 x $2.00 = $192 for the blondies and brownies.
+
+In total, they will raise $288 + $192 = Answer: 480

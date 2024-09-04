@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Luke catches 2 fish every day
+* He does this for 30 days
+* Each fish gives him 2 fillets
+
+To calculate the total number of fish fillets, we need to:
+1. Calculate the total number of fish caught:
+   * 2 fish per day x 30 days = 60 fish
+2. Calculate the total number of fillets:
+   * 60 fish x 2 fillets per fish = 120 fillets
+
+Answer: 120

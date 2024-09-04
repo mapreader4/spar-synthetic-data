@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Maiya has two sisters
+* The first sister is twice as old as Maiya
+* The first sister is 1 year younger than Maiya
+* The average age of the three sisters is 5
+
+Let's call Maiya's age "x".
+* The first sister's age is 2x, since she is twice as old as Maiya.
+* The first sister is 1 year younger than Maiya, so her age is x - 1.
+
+Now we can set up an equation to solve for x:
+* (x + (x - 1) + 2x) / 3 = 5
+* (4x - 1) / 3 = 5
+* 4x - 1 = 15
+* 4x = 16
+* x = 4
+
+Therefore, Maiya is 4 years old.
+
+Answer: 4

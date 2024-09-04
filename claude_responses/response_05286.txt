@@ -1,0 +1,7 @@
+Okay, let's think this through step-by-step:
+1) The florist has 75 narcissus flowers and 90 chrysanthemums.
+2) Each bouquet will contain 5 flowers.
+3) To find the total number of flowers, we add the narcissus and chrysanthemums: 75 + 90 = 165 flowers.
+4) To find the number of bouquets, we divide the total number of flowers by the number of flowers per bouquet: 165 / 5 = 33 bouquets.
+
+Answer: 33

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Sam and Drew have a combined age of 54.
+2) Sam is half of Drew's age. This means that if Drew's age is x, then Sam's age is x/2.
+3) We can set up an equation to represent this:
+   x + x/2 = 54
+4) Solving for x, we get:
+   3x/2 = 54
+   x = 36
+5) Since Sam is half of Drew's age, and Drew's age is 36, then Sam's age is 36/2 = 18.
+
+Answer: 18

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The psychiatrist has 4 patients in total
+* The 4 patients need 25 sessions in total
+* One patient needs 6 sessions
+* Another patient needs 5 more sessions than the first patient, which is 6 + 5 = 11 sessions
+
+Now, we need to find out how many sessions the remaining 2 patients need.
+
+To do this, we can subtract the sessions needed by the first two patients from the total sessions needed:
+* Total sessions needed: 25
+* Sessions needed by first patient: 6
+* Sessions needed by second patient: 11
+* Sessions needed by the remaining 2 patients: 25 - 6 - 11 = 8
+
+Therefore, the remaining 2 patients would need 8 sessions in total.
+
+Answer: 8

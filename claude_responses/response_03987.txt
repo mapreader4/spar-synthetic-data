@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* The survey asked students about their favorite sports
+* 40% said they like basketball
+* 10% said they like chess
+* 28% said they like soccer
+* The remaining students said they like badminton
+* The total number of students interviewed was 250
+
+To find the number of students who identified chess or basketball as their favorite sport, we need to calculate the number of students for each of those sports:
+
+Basketball:
+* 40% of 250 students = 0.40 * 250 = 100 students
+
+Chess: 
+* 10% of 250 students = 0.10 * 250 = 25 students
+
+Adding these together, we get:
+* 100 basketball students + 25 chess students = 125 students
+
+Answer: 125

@@ -1,0 +1,16 @@
+Let's break this down step by step.
+
+Let's say the original travel time is x hours. Since Kevin travels at 50 miles per hour, he covers a distance of 50x miles in x hours. This means that 50x = 600. So, x = 12.
+
+Now, if Kevin wants to decrease his travel time by 4 hours, we can subtract 4 from x. So, the new travel time would be x - 4.
+
+We know that 50x = 600, so we can solve for x - 4. We subtract 4 from both sides of the equation to get:
+
+50x - 4 = 600 - 4.
+50x - 4 = 596.
+
+So, x = 596/50 = 11.8.
+
+So, the new travel time would be 11.8 hours.
+
+Answer: 11.8

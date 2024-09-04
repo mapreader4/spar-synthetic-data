@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by using the information that a large pizza has 18 slices. Since the teacher orders 6 total pizzas, the total number of slices is 6 x 18 = 108.
+
+We know that each student gets 2 pieces of cheese, so the total number of cheese pieces is 2 x (number of students) = 2x. We also know that there are 8 pieces of cheese leftover, so 2x + 8 = 108. We can solve for x by subtracting 8 from both sides of the equation:
+
+2x + 8 = 108
+2x = 108 - 8
+2x = 100
+
+Now, we can divide both sides by 2 to solve for x:
+
+x = 100 / 2
+x = 50
+
+So, there are 50 students in the class.

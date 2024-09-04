@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The school has a deaf student population that is three times the size of the blind student population.
+2) The number of deaf students is 180.
+3) Since the deaf student population is three times the size of the blind student population, we can set up the following equation:
+   Deaf students = 3 x Blind students
+   180 = 3 x Blind students
+   Blind students = 180 / 3 = 60
+4) The total number of students is the sum of the deaf and blind students:
+   Total students = Deaf students + Blind students
+   Total students = 180 + 60 = 240
+
+Answer: 240

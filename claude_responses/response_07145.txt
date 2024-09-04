@@ -1,0 +1,18 @@
+Okay, let's solve this step-by-step:
+
+1. Calculate the volume of the cube:
+   The cube has sides of 6 cm, so the volume is 6 cm x 6 cm x 6 cm = 216 cubic cm.
+
+2. Calculate the mass of the gold:
+   The density of gold is 19 grams per cubic centimeter, so the mass of the gold is 216 cubic cm x 19 grams/cubic cm = 4,104 grams.
+
+3. Calculate the cost of the gold:
+   The gold is bought for $60 per gram, so the total cost of the gold is 4,104 grams x $60/gram = $246,240.
+
+4. Calculate the selling price of the gold:
+   The gold is sold for 1.5 times its gold value, so the selling price is $246,240 x 1.5 = $369,360.
+
+5. Calculate the profit:
+   The profit is the selling price minus the cost of the gold, so the profit is $369,360 - $246,240 = $123,120.
+
+Answer: $123,120

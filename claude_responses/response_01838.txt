@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 18 red blocks in Jacob's toy bin
+* There are 7 more yellow blocks than red blocks
+* So, the number of yellow blocks is 18 + 7 = 25
+* There are 14 more blue blocks than red blocks
+* So, the number of blue blocks is 18 + 14 = 32
+* To find the total number of blocks, we add the red, yellow, and blue blocks:
+* 18 red blocks + 25 yellow blocks + 32 blue blocks = 75 blocks
+
+Answer: 75

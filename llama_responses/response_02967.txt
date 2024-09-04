@@ -1,0 +1,7 @@
+Let's start by finding the weight that Dave can bench press.  Dave can bench press 3 times his body weight, and his body weight is 175 pounds.  So, he can bench press 3 * 175 = 525 pounds.
+
+Craig can bench press 20% of the amount Dave can, which is 20% of 525, or 0.2 * 525 = 105 pounds.
+
+Mark is new and can bench press 50 pounds less than Craig, so he can bench press 105 - 50 = 55 pounds.
+
+Answer: 55

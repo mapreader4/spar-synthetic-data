@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each candy bar costs $2
+* Each bag of chips costs $0.50
+* Each student wants 1 candy bar and 2 bags of chips
+* There are 5 students
+
+First, let's calculate the cost for each student:
+* 1 candy bar at $2 = $2
+* 2 bags of chips at $0.50 each = $1.00
+* Total cost per student = $2 + $1.00 = $3
+
+Now, to find the total cost for all 5 students, we multiply the cost per student by the number of students:
+* Total cost = $3 x 5 = $15
+
+Answer: $15

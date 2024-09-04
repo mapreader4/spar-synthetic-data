@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Quinton wants to plant 2 apple trees that are 10 feet wide each.
+2. He needs 12 feet between the two apple trees.
+3. So the total width taken up by the 2 apple trees and the space between them is:
+   - 2 x 10 feet (width of the trees) + 12 feet (space between them) = 32 feet
+
+4. Quinton also wants to plant 2 peach trees that are 12 feet wide each.
+5. He needs 15 feet between each peach tree.
+6. So the total width taken up by the 2 peach trees and the space between them is:
+   - 2 x 12 feet (width of the trees) + 15 feet (space between them) = 39 feet
+
+7. To find the total space taken up by all 4 trees, we add the width of the apple trees and the peach trees:
+   - 32 feet + 39 feet = 71 feet
+
+Answer: 71 feet

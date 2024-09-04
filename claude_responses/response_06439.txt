@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Geli starts with 10 push-ups on the first day
+* Her fitness trainer encourages her to add 5 more push-ups each day
+* We need to find the total number of push-ups she will do in her first week
+
+Day 1: 10 push-ups
+Day 2: 10 + 5 = 15 push-ups
+Day 3: 15 + 5 = 20 push-ups
+
+Now, let's add up the total number of push-ups for the first week:
+* Day 1: 10 push-ups
+* Day 2: 15 push-ups
+* Day 3: 20 push-ups
+* Total = 10 + 15 + 20 = 45 push-ups
+
+Answer: 45

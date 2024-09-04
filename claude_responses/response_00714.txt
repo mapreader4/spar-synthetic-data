@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* John's website gets 30,000 visits per month
+* Each visit earns him $0.01
+* We want to find out how much he makes per day
+
+First, let's calculate his monthly earnings:
+* 30,000 visits per month x $0.01 per visit = $300 per month
+
+Now, to find his daily earnings, we need to divide his monthly earnings by the number of days in a month:
+* $300 per month / 30 days per month = $10 per day
+
+Therefore, the answer is:
+Answer: 10

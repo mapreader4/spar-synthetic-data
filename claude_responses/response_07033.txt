@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The night shift is 9 hours long
+* The first guard takes 3 hours
+* The last guard takes 2 hours
+* The remaining 4 hours need to be split between the middle two guards
+
+To find how many hours each middle guard will take, we need to subtract the hours taken by the first and last guards from the total hours of the night shift, and then divide the remaining hours by 2 (since there are two middle guards).
+
+* Total hours of the night shift: 9 hours
+* Hours taken by the first guard: 3 hours
+* Hours taken by the last guard: 2 hours
+* Remaining hours to be split between the middle guards: 9 - 3 - 2 = 4 hours
+* Hours each middle guard will take: 4 / 2 = 2 hours
+
+Answer: 2 hours

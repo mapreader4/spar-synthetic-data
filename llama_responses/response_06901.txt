@@ -1,0 +1,16 @@
+Let's break it down step by step.
+
+Let's say the number of friends with Ron is x.
+
+The pizza was cut into 12 slices, and each of the friends ate 4 slices. So, the total number of slices eaten is 4 * x.
+
+We know that the total number of slices eaten is equal to the total number of slices in the pizza, which is 12. So, we can set up an equation:
+
+4 * x = 12
+
+To solve for x, we can divide both sides by 4:
+
+x = 12 / 4
+x = 3
+
+So, there were 3 friends with Ron.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Adah practiced the cello for a total of 7.5 hours last week.
+2) He practiced for 86 minutes on each of 2 days.
+   * 86 minutes x 2 days = 172 minutes
+3) To find the total minutes he practiced on the other days, we need to subtract the minutes he practiced on the 2 days from the total minutes he practiced last week.
+   * 7.5 hours x 60 minutes/hour = 450 minutes
+   * 450 minutes - 172 minutes = 278 minutes
+
+Answer: 278 minutes

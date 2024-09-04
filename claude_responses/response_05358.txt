@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Kataleya bought 400 peaches
+* Each peach costs $0.40
+* To calculate the total cost of the peaches without any discounts:
+  * 400 peaches x $0.40 per peach = $160
+* The store offers a $2 discount for every $10 spent
+* To calculate the total discount:
+  * $160 / $10 = 16 (number of $10 increments)
+  * 16 x $2 = $32 (total discount)
+* To calculate the final amount paid:
+  * $160 - $32 = $128
+
+Answer: 128

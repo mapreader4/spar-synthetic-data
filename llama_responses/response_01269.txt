@@ -1,0 +1,9 @@
+To find the total revenue for the day, we need to calculate the total cost of the returns. The cost for a federal return is $50, the cost for a state return is $30, and the cost for a quarterly return is $80. The number of federal returns is 60, the number of state returns is 20, and the number of quarterly returns is 10.
+
+The total revenue is the sum of the cost of the returns. So, the total revenue for the day is:
+
+$50 * 60 + $30 * 20 + $80 * 10 = $30 * 60 + $80 * 10
+
+$300 + $600 + $800 = $1800
+
+The answer is: 1800.

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jolyn is 2 months older than Therese
+* Therese is 5 months older than Aivo
+* Leon is 2 months older than Aivo
+
+First, we can find Aivo's age relative to the others:
+* Therese is 5 months older than Aivo
+* Leon is 2 months older than Aivo
+* So, Leon is 2 months older than Aivo, and Aivo is 5 months younger than Therese
+
+Next, we can find Jolyn's age relative to the others:
+* Jolyn is 2 months older than Therese
+* Therese is 5 months older than Aivo
+* So, Jolyn is 7 months older than Aivo
+
+Finally, we can find the difference in age between Jolyn and Leon:
+* Jolyn is 7 months older than Aivo
+* Leon is 2 months older than Aivo
+* So, Jolyn is 5 months older than Leon
+
+Answer: 5

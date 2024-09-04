@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The original group of turtles on the log was 9.
+2) Two less than three times the original number of turtles climbed onto the log, which means:
+   * 3 x 9 = 27
+   * 27 - 2 = 25
+   * So 25 additional turtles climbed onto the log.
+3) The total number of turtles on the log is now 9 + 25 = 34.
+4) Half of the large group of 34 turtles were frightened and jumped off the log, which means:
+   * 34 / 2 = 17 turtles jumped off the log.
+5) The number of turtles that remained on the log is 34 - 17 = 17.
+
+Answer: 17

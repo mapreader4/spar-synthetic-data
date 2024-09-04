@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the problem.
+
+* Maddy's 4th grade class needs to make Valentine's Day cards.
+* There are 30 kids in the class.
+* Each kid will make 8 cards.
+
+We can find the total number of cards that will be made by multiplying the number of kids by the number of cards each kid will make. 30 * 8 = 240.
+
+To get a pizza party, they will need more than 240 cards. So, the number of cards they need to make more is 1000 - 240 = 760.
+
+Answer: 760

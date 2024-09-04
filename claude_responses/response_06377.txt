@@ -1,0 +1,10 @@
+Okay, let's break this down step by step:
+
+1. The apple tree produced 200 apples this year.
+2. On the first day, Magdalena picked 1/5 of the 200 apples, which is 200 / 5 = 40 apples.
+3. On the second day, Magdalena picked twice the number of apples he picked on the first day, which is 2 * 40 = 80 apples.
+4. On the third day, Magdalena picked 20 more apples than he picked on the first day, which is 40 + 20 = 60 apples.
+5. The total number of apples picked over the three days is 40 + 80 + 60 = 180 apples.
+6. The total number of apples remaining in the tree is the original 200 apples minus the 180 apples that were picked, which is 200 - 180 = 20 apples.
+
+Answer: 20

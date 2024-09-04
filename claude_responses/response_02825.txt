@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The man owned 1/2 of the lot.
+2) He sold 1/10 of his share, which is 1/10 of 1/2 = 1/20 of the entire lot.
+3) He sold this 1/20 share for $460.
+4) To find the worth of the entire lot, we need to find the value of the 1/2 share that the man owned.
+5) Since he sold 1/20 of the lot for $460, we can calculate the value of the 1/2 share as follows:
+   - 1/20 of the lot is worth $460
+   - Therefore, the full lot is worth 20 * $460 = $9,200
+   - The man's 1/2 share is worth 1/2 * $9,200 = $4,600
+6) Therefore, the worth of the entire lot is $9,200.
+
+Answer: 9200

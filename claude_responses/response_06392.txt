@@ -1,0 +1,31 @@
+Okay, let's break this down step-by-step:
+
+1. First bill:
+   - Amount: $200
+   - Interest rate: 10% simple interest per month
+   - Overdue: 2 months
+   - Interest owed = $200 * 0.10 * 2 = $40
+   - Total owed for first bill = $200 + $40 = $240
+
+2. Second bill:
+   - Amount: $130
+   - Late fee: $50 per month
+   - Overdue: 6 months
+   - Late fees owed = $50 * 6 = $300
+   - Total owed for second bill = $130 + $300 = $430
+
+3. Third bill:
+   - Amount: $444
+   - First month late fee: $40
+   - Second month late fee: $80 (2 * $40)
+   - Overdue: 2 months
+   - Total late fees owed = $40 + $80 = $120
+   - Total owed for third bill = $444 + $120 = $564
+
+4. Total amount owed:
+   - First bill: $240
+   - Second bill: $430
+   - Third bill: $564
+   - Total owed = $240 + $430 + $564 = $1,234
+
+Answer: $1,234

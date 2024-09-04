@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* On Wednesday morning, Suzy had 98 books ready for checkout.
+* On Wednesday, 43 books were checked out, so the number of books Suzy had decreased by 43.
+* 98 - 43 = 55 books remaining.
+* On Thursday, 23 books were returned, so the number of books Suzy had increased by 23.
+* 55 + 23 = 78 books.
+* On Thursday, 5 books were checked out, so the number of books Suzy had decreased by 5.
+* 78 - 5 = 73 books.
+* On Friday, 7 books were returned, so the number of books Suzy had increased by 7.
+* 73 + 7 = 80 books.
+
+Answer: 80 books.

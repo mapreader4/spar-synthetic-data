@@ -1,0 +1,19 @@
+Let's break it down step by step.
+
+First, we need to convert the size of the program from GB to MB. Since there are 1000 MB in 1 GB, we can multiply 360 GB by 1000 to get the size in MB:
+
+360 GB × 1000 MB/GB = 360,000 MB
+
+Next, we need to find out how many seconds it would take to download the program at the maximum speed of 50 MB/second:
+
+360,000 MB ÷ 50 MB/second = 7,200 seconds
+
+Since there are 60 seconds in 1 minute, we can convert the seconds to minutes:
+
+7,200 seconds ÷ 60 = 120 minutes
+
+Finally, we need to convert the minutes to hours:
+
+120 minutes ÷ 60 = 2 hours
+
+So, Vicky would have to wait 2 hours until the program is fully downloaded at maximum speed.

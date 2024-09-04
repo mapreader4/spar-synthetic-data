@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+On Monday, Oliver worked out for 4 hours.
+
+On Tuesday, Oliver worked out for 2 hours less than Monday, so he worked out for 4 - 2 = 2 hours.
+
+On Wednesday, Oliver worked out twice as much as on Monday, so he worked out 2 * 4 = 8 hours.
+
+On Thursday, Oliver worked out at home and took twice as much time as on Tuesday, so he worked out 2 * 2 = 4 hours.
+
+To find the total hours Oliver worked out in these four days, we add up the hours:
+
+4 (Monday) + 2 (Tuesday) + 8 (Wednesday) + 4 (Thursday) = 18
+
+Answer: 18

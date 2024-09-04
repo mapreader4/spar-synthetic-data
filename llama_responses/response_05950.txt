@@ -1,0 +1,25 @@
+Let's break down the problem step by step.
+
+Let's start with what we know:
+
+* Latch caught four less than three times as many necklaces as did Rhonda.
+* Rhonda caught x necklaces.
+* Boudreaux caught half as many necklaces as did Rhonda, which is x/2.
+* Boudreaux caught twelve necklaces.
+
+We can write an equation to represent the situation:
+
+4 = 3x - x
+
+We know that Rhonda caught x necklaces. So, we can substitute x into the equation:
+
+4 = 3x - x
+x = 3x - x
+x = 4
+
+We can add x to both sides of the equation to get:
+
+4 + x = 4
+x = 4
+
+So, Latch caught 4 necklaces.

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+We know that John books 3 nights at a hotel room for $250 a night. We are asked to find out how much he pays.
+
+The problem tells us that he has a $100 discount.  This means that he gets a discount of $100 on the $250 price.
+
+So, we need to subtract the discount from the original price.  To do this, we subtract $100 from $250.
+
+$250 - $100 = $150
+
+So, John pays $150.
+
+Answer: 150

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Edith had 60 files to start with
+* She organized half of them in the morning
+* To find how many files she organized in the morning, we take half of 60:
+    * 60 / 2 = 30 files
+* She has another 15 files to organize in the afternoon
+* To find the total number of files she has organized, we add the 30 files from the morning and the 15 files from the afternoon:
+    * 30 + 15 = 45 files
+* To find the number of files that are missing, we take the original 60 files and subtract the 45 files that have been organized:
+    * 60 - 45 = 15 files
+
+Answer: 15

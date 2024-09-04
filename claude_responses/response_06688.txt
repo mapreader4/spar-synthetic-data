@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* There are 82 students currently
+* There are 2 students for each computer
+* So, the number of computers is 82 / 2 = 41 computers
+* Now, there are 16 more students, so the total number of students is 82 + 16 = 98 students
+* To maintain the ratio of 2 students per computer, the number of computers needed is 98 / 2 = 49 computers
+
+Answer: 49

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Janet has 24 dresses total
+* Half of the dresses have pockets, which means 12 dresses have pockets
+* Of the 12 dresses with pockets, a third have 2 pockets and the rest have 3 pockets
+* To find the number of dresses with 2 pockets, we take a third of 12, which is 4 dresses
+* The remaining 8 dresses have 3 pockets each
+* So the total number of pockets is:
+  - 4 dresses with 2 pockets each, which is 4 x 2 = 8 pockets
+  - 8 dresses with 3 pockets each, which is 8 x 3 = 24 pockets
+* Adding these together, the total number of pockets is 8 + 24 = 32 pockets
+
+Answer: 32

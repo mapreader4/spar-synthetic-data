@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find out how many cookies Uncle Jude gave to Tim. We know that he gave Tim 15 cookies. Let's call this number "x".
+
+Next, we know that Uncle Jude gave Anna twice as many cookies as he gave to Tim. So, he gave Anna 2x = 2 * 15 = 30 cookies.
+
+Now, let's find out how many cookies Uncle Jude kept in the fridge. We know that he gave 30 cookies to Anna and 15 to Tim, so the total number of cookies he gave out is 30 + 15 = 45. This is the total number of cookies he had. So, to find out how many he put in the fridge, we subtract 45 from the total number of cookies he had. The answer is 256 - 45 = 211.
+
+Answer: 211

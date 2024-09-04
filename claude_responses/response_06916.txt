@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The book costs $50.
+2) The store marks the book 30% above the cost. This means the selling price before the discount is:
+   $50 + (0.30 * $50) = $50 + $15 = $65
+3) During the sale, a 10% discount is given. This means the final selling price is:
+   $65 - (0.10 * $65) = $65 - $6.50 = $58.50
+4) The percent profit is calculated as: (Selling Price - Cost) / Cost * 100
+   Percent profit = ($58.50 - $50) / $50 * 100 = 17%
+
+Answer: 17

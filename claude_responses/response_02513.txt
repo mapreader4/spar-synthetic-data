@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The cafe initially has 16 chefs and 16 waiters
+* 6 chefs and 3 waiters drop out
+* To find the number of chefs and waiters left, we need to subtract the number of chefs and waiters who dropped out from the initial numbers
+* For the chefs:
+  * Initial number of chefs: 16
+  * Number of chefs who dropped out: 6
+  * Number of chefs left: 16 - 6 = 10
+* For the waiters:
+  * Initial number of waiters: 16
+  * Number of waiters who dropped out: 3
+  * Number of waiters left: 16 - 3 = 13
+
+Answer: 10 chefs and 13 waiters are left.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The school has 2000 students.
+2) Only 25% of the students voted, which means 2000 * 0.25 = 500 students voted.
+3) The winner got 55% of the votes, which means 500 * 0.55 = 275 votes.
+4) The loser got the remaining 45% of the votes, which means 500 * 0.45 = 225 votes.
+5) To find the difference between the winner's votes and the loser's votes, we subtract:
+275 - 225 = 50.
+
+Answer: 50

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+James buys a coffee machine for $200 and gets a $20 discount, so the machine actually costs him $180.
+
+James figures it will cost him $3 a day to make his coffee. This means that the machine will make 180 / 3 = 60 cups of coffee before it pays for itself.
+
+James used to buy 2 coffees a day for $4 each. This means that he spends $8 a day on coffee. Since the machine will make 60 cups of coffee, he will be able to make 30 days of coffee with the machine before it pays for itself.
+
+Answer: 30

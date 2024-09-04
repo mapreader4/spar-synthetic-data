@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Fabian wants to buy:
+  - 5 kilograms of apples
+  - 3 packs of sugar
+  - 500 grams of walnuts
+* The cost of 1 kilogram of apples is $2
+* The cost of 1 kilogram of walnuts is $6
+* The cost of 1 pack of sugar is $1 cheaper than 1 kilogram of apples
+
+First, let's calculate the cost of the apples:
+* 5 kilograms of apples at $2 per kilogram = 5 x $2 = $10
+
+Next, let's calculate the cost of the sugar:
+* 1 pack of sugar is $1 cheaper than 1 kilogram of apples, so 1 pack of sugar costs $1
+* 3 packs of sugar at $1 per pack = 3 x $1 = $3
+
+Finally, let's calculate the cost of the walnuts:
+* 500 grams of walnuts is 0.5 kilograms
+* 1 kilogram of walnuts costs $6
+* 0.5 kilograms of walnuts at $6 per kilogram = 0.5 x $6 = $3
+
+Now, let's add up the total cost:
+* Total cost = Cost of apples + Cost of sugar + Cost of walnuts
+* Total cost = $10 + $3 + $3 = $16
+
+Answer: 16

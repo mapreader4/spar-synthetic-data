@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The Giants have played 20 games and won 12 of them
+* To make the playoffs, they need to win 2/3 of their games over the season
+* There are 10 games left
+
+First, let's calculate the total number of games they will play:
+* 20 games played + 10 games left = 30 total games
+
+Now, to win 2/3 of their games, they need to win 2/3 * 30 = 20 games.
+
+They have already won 12 games, so they need to win 20 - 12 = 8 more games to make the playoffs.
+
+Answer: 8

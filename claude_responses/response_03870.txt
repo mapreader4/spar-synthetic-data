@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Alexander bought 22 more joggers than Tyson
+2) Christopher bought twenty times as many joggers as Tyson
+3) Christopher bought 80 joggers
+4) Since Christopher bought 20 times as many joggers as Tyson, we can divide 80 by 20 to find how many joggers Tyson bought:
+   * Tyson bought 80 / 20 = 4 joggers
+5) Since Alexander bought 22 more joggers than Tyson, we can add 22 to 4 to find how many joggers Alexander bought:
+   * Alexander bought 4 + 22 = 26 joggers
+6) Now we can find the difference between how many joggers Christopher bought and how many joggers Alexander bought:
+   * Christopher bought 80 joggers
+   * Alexander bought 26 joggers
+   * 80 - 26 = 54 more joggers that Christopher bought than Alexander
+
+Answer: 54

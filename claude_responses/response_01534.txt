@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) We know that 35% of the books are intended for children.
+2) We also know that 104 of the books are for adults.
+3) Let's call the total number of books in the library 'x'.
+4) Since 35% of the books are for children, the number of children's books is 0.35x.
+5) The number of adult books is 0.65x (since the remaining 65% are for adults).
+6) We know that the number of adult books is 104, so 0.65x = 104.
+7) Solving for x, we get x = 104 / 0.65 = 160.
+
+Answer: 160

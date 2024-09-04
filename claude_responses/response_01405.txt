@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 16 boys and 14 girls attending the party, for a total of 30 people.
+2) Three-fourths of the 16 boys brought gifts. To calculate this, we take 3/4 * 16 = 12 boys brought gifts.
+3) Six-sevenths of the 14 girls brought gifts. To calculate this, we take 6/7 * 14 = 12 girls brought gifts.
+4) In total, 12 boys and 12 girls brought gifts, for a total of 24 people who brought gifts.
+5) To find the number of people who did not bring gifts, we subtract the number of people who brought gifts from the total number of people attending: 30 - 24 = 6 people did not bring gifts.
+
+Answer: 6

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Belinda made 200 flyers to distribute around town.
+2) Ryan passed out 42 flyers, Alyssa passed out 67 flyers, and Scott passed out 51 flyers.
+3) To find the number of flyers Belinda passed out, we need to subtract the number of flyers passed out by her friends from the total number of flyers:
+   * Total flyers: 200
+   * Flyers passed out by Ryan: 42
+   * Flyers passed out by Alyssa: 67
+   * Flyers passed out by Scott: 51
+   * Flyers passed out by Belinda = 200 - 42 - 67 - 51 = 40
+4) To find the percentage of flyers Belinda passed out, we divide the number of flyers she passed out by the total number of flyers and multiply by 100:
+   * Percentage of flyers Belinda passed out = (40 / 200) * 100 = 20%
+
+Answer: 20

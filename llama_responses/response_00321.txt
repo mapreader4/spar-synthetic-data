@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that 5 months ago, Mike earned 10 times more money than Fred. So, let's let's call Fred's salary 1000. We also know that Mike's salary has increased by 40 percent now.
+
+To find Mike's current salary, we need to multiply his salary by 1.4 (100% + 40%). So, his new salary is 1.4 times his old salary. Since we know his old salary was 10 times Fred's salary, which is 1000, his new salary is:
+
+1000 * 1.4 = 1400
+
+So, Mike's salary now is 1400.
+
+Answer: 1400

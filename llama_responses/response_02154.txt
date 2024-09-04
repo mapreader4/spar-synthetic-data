@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total capacity of the spacecraft. The spacecraft can carry 300 family units with 4 people per family, which means the total capacity is 300 * 4 = 1200 people.
+
+However, the spacecraft will not be carrying 100 people less than one-third of the ship's capacity. So, to find the number of people on the ship, we need to subtract 100 from the total capacity. 1200 - 100 = 1100.
+
+Answer: 1100

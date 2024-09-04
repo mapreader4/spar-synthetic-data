@@ -1,0 +1,25 @@
+To solve this problem, we need to find the number of pages read by each person and then add them together to get the total number of pages read.
+
+Given information:
+- Rene can read 30 pages in 60 minutes.
+- Lulu can read 27 pages in 60 minutes.
+- Cherry can read 25 pages in 60 minutes.
+- They have been reading for 240 minutes.
+
+Step 1: Find the number of pages read by Rene.
+Rene's reading rate = 30 pages / 60 minutes = 0.5 pages/minute
+Rene's total pages read = 0.5 pages/minute × 240 minutes = 120 pages
+
+Step 2: Find the number of pages read by Lulu.
+Lulu's reading rate = 27 pages / 60 minutes = 0.45 pages/minute
+Lulu's total pages read = 0.45 pages/minute × 240 minutes = 108 pages
+
+Step 3: Find the number of pages read by Cherry.
+Cherry's reading rate = 25 pages / 60 minutes = 0.417 pages/minute
+Cherry's total pages read = 0.417 pages/minute × 240 minutes = 100 pages
+
+Step 4: Find the total number of pages read.
+Total pages read = Rene's pages + Lulu's pages + Cherry's pages
+Total pages read = 120 + 108 + 100 = 328 pages
+
+Answer: 328 pages

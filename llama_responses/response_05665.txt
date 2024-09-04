@@ -1,0 +1,11 @@
+To solve this problem, I will think step by step.
+
+Let's say the number of homes on one side of the road is x. Then, the number of homes on the other side of the road will be 3x. The total number of homes will be the sum of the number of homes on one side and the number of homes on the other side.
+
+Let's write the equation: x + 3x = 40. Since there are 40 homes on one side of the road, we can say that x + 3x = 40, so we can solve for x.
+
+To solve for x, we can subtract 40 from both sides of the equation to get 0, which gives us x = 40/4 = 10.
+
+So, there are 10 homes on one side of the road. Since there are three times as many homes on the other side of the road, the total number of homes will be 10 * 3 = 30.
+
+So, the answer is: Answer: 30

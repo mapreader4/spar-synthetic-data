@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Robin's friends are Jessica, Tori, Lily, and Patrice
+* For each friend, Robin will buy one bracelet for each letter in their first name
+* Jessica has 7 letters, so Robin will buy 7 bracelets for Jessica
+* Tori has 4 letters, so Robin will buy 4 bracelets for Tori
+* Lily has 4 letters, so Robin will buy 4 bracelets for Lily
+* Patrice has 7 letters, so Robin will buy 7 bracelets for Patrice
+* Each bracelet costs $2
+* To calculate the total, we add up the number of bracelets for each friend:
+7 + 4 + 4 + 7 = 22 bracelets
+* Since each bracelet costs $2, the total Robin will spend is:
+22 bracelets x $2 per bracelet = $44
+
+Answer: 44

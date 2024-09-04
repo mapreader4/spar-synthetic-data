@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+* Bobby initially has 16 toy cars.
+* The number of cars increases by 50% every year.
+* To calculate the number of cars after 1 year, we take the initial number (16) and increase it by 50%:
+    * 16 + (16 * 0.5) = 16 + 8 = 24 cars
+* To calculate the number of cars after 2 years, we take the number of cars from the previous year (24) and increase it by 50%:
+    * 24 + (24 * 0.5) = 24 + 12 = 36 cars
+* To calculate the number of cars after 3 years, we take the number of cars from the previous year (36) and increase it by 50%:
+    * 36 + (36 * 0.5) = 36 + 18 = 54 cars
+
+Answer: 54

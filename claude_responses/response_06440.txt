@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+1) Without the group discount, the cost for each team member's uniform would be:
+   - Shirt: $7.50
+   - Pants: $15.00
+   - Socks: $4.50
+   - Total cost per member: $7.50 + $15.00 + $4.50 = $27.00
+
+2) With the group discount, the cost for each team member's uniform would be:
+   - Shirt: $6.75
+   - Pants: $13.50
+   - Socks: $3.75
+   - Total cost per member: $6.75 + $13.50 + $3.75 = $24.00
+
+3) The total cost for the team of 12 members without the group discount would be:
+   - 12 members x $27.00 per member = $324.00
+
+4) The total cost for the team of 12 members with the group discount would be:
+   - 12 members x $24.00 per member = $288.00
+
+5) The amount the team would save with the group discount is:
+   - $324.00 - $288.00 = $36.00
+
+Answer: $36

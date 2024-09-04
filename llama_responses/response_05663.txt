@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. David mowed for 2 hours a day for a week, so he mowed for a total of 2 * 7 = 14 hours.
+
+2. He made 14 dollars per hour, so he made 14 * 14 = 196 dollars in total.
+
+3. He spent half of the money on a pair of shoes, so he spent 196 / 2 = 98 dollars on the shoes.
+
+4. He gave half of the remaining money to his mom, so he gave 98 / 2 = 49 dollars to his mom.
+
+5. The money he has left is the total amount he made minus the money he spent on the shoes and the money he gave to his mom. So, the money he has left is 196 - 98 - 49 = 49 dollars.
+
+Answer: 49

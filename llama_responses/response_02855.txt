@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+On Monday, Wednesday, and Friday, Erica gets a $2.00 orange creamsicle. So, for 3 days, she spends 3 x $2.00 = $6.00.
+
+On Tuesday and Thursday, Erica gets a $1.50 ice cream sandwich. So, for 2 days, she spends 2 x $1.50 = $3.00.
+
+On Saturday and Sunday, Erica gets a $3.00 Nutty-Buddy. So, for 2 days, she spends 2 x $3.00 = $6.00.
+
+In total, Erica spends $6.00 + $3.00 + $6.00 = $15.00.
+
+Answer: 15

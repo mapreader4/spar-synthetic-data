@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+Let's first find the total number of hours Mike practices in a week. He practices for 3 hours every weekday, so that's 3 x 5 = 15 hours. He practices for 5 hours on Saturdays, so that's 1 day. So, in a week, he practices 15 + 1 = 16 hours.
+
+Now, we need to find the number of hours he practices from now until the next game in 3 weeks. There are 7 days in a week, so 3 weeks is 3 x 7 = 21 days. From today, we need to subtract the number of days until the next game, which is 3 days. So, we subtract 3 from 21, which gives us 18.
+
+Mike practices 18 - 16 = 2 hours. So, he practices 2 hours before the next game.

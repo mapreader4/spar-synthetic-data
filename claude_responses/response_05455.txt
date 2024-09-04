@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+1. Hank gave Delphine a box of 24 chocolates.
+
+2. On the first day, Delphine ate 4 chocolates.
+   * Chocolates remaining: 24 - 4 = 20
+
+3. On the second day, she ate 3 less than twice as many chocolates as she ate the first day.
+   * Chocolates eaten on the second day: 2 x 4 - 3 = 5
+   * Chocolates remaining: 20 - 5 = 15
+
+4. On the third day, she ate two less than the number she ate on the first day.
+   * Chocolates eaten on the third day: 4 - 2 = 2
+   * Chocolates remaining: 15 - 2 = 13
+
+5. On the fourth day, she ate one less than she ate the previous day.
+   * Chocolates eaten on the fourth day: 2 - 1 = 1
+   * Chocolates remaining: 13 - 1 = 12
+
+6. On the fifth day, how many chocolates remained uneaten?
+   * Chocolates remaining: 12
+
+Answer: 12

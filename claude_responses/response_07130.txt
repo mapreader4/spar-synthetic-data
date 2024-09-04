@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Initially, there were some people lifting weights at the start of Bethany's shift.
+* Then, 5 more people came in and started running on the treadmill.
+* 2 people then left the gym.
+* Now, there are 19 people in the gym.
+
+To find the number of people lifting weights at the start of Bethany's shift, we can work backwards:
+* The total number of people in the gym at the end is 19.
+* 2 people left, so the total number of people before they left was 19 + 2 = 21.
+* 5 more people came in, so the total number of people before they came in was 21 - 5 = 16.
+* Therefore, the number of people lifting weights at the start of Bethany's shift was 16.
+
+Answer: 16

@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Mason has downloaded 310 MB so far, and the game is 880 MB. The difference between the two is 880 MB. To find the time it will take him to download the game, we can divide the difference by the speed of his internet connection.
+
+The speed of his internet connection is 3 MB/minute, so the time it will take to download the game is 880 MB / 3 MB/minute = 293.33 minutes.
+
+Answer: 293.33

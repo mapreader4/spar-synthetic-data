@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Pebbles make a splash that is 1/4 meter wide
+* TreQuan tosses 6 pebbles
+* So the total width of the splashes from the pebbles is:
+    6 pebbles x 1/4 meter = 1.5 meters
+* Rocks make a splash that is 1/2 a meter wide
+* TreQuan tosses 3 rocks
+* So the total width of the splashes from the rocks is:
+    3 rocks x 1/2 meter = 1.5 meters
+* Boulders create a splash that is 2 meters wide
+* TreQuan tosses 2 boulders
+* So the total width of the splashes from the boulders is:
+    2 boulders x 2 meters = 4 meters
+* To get the total width of all the splashes, we add up the widths from the pebbles, rocks, and boulders:
+    1.5 meters + 1.5 meters + 4 meters = 7 meters
+
+Answer: 7

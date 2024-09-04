@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start with agate, which has 30 precious stones.
+
+Let's say olivine has x precious stones.
+
+Then, diamond has 11 more precious stones than olivine, so diamond has x + 11 precious stones.
+
+We know that olivine has 5 more precious stones than agate, so olivine has 30 - 5 = 25 precious stones.
+
+Now, we know that diamond has x + 11 precious stones, and we know that olivine has 25 precious stones. We can set up an equation to find the value of x.
+
+x + 11 = 25
+
+x = 25 - 11
+
+x = 14
+
+So, agate has 30 precious stones, olivine has 25 precious stones, and diamond has 14 precious stones.
+
+Answer: 14

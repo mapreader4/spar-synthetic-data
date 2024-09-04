@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first find the number of fish in the first tank. There are 20 fish in the first tank.
+
+The other two tanks have twice as many fish as the first tank. So, if the first tank has 20 fish, the other two tanks have 2 * 20 = 40 fish each.
+
+To find the total number of fish, we add the number of fish from each tank:
+
+20 (from the first tank) + 40 (from the second tank) + 40 (from the third tank) = 100
+
+Answer: 100

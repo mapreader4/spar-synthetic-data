@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Susie babysits for 3 hours a day, at $10 per hour. So she earns 3 * 10 = 30 dollars per day. She earns 30 dollars a day.
+2. She spent 3/10 of the money she earned from last week to buy a make-up set. 3/10 of 30 is 3 * 3 = 9. So she spent 9 dollars on the make-up set.
+3. She spent 2/5 of her money on her skincare products. 2/5 of 30 is 2 * 6 = 12. So she spent 12 dollars on her skincare products.
+4. She has 30 - 9 - 12 dollars left. 30 - 9 = 21 and 21 - 12 = 9. So she has 9 dollars left.
+
+Answer: 9

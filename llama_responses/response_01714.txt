@@ -1,0 +1,14 @@
+Let's break this down step by step.
+
+Let's say the number of boxes in the second warehouse is x. Since the first warehouse has twice as many boxes as the second warehouse, the number of boxes in the first warehouse is 2x.
+
+The problem states that the first warehouse has 400 boxes. So, we can set up an equation: 2x = 400.
+
+To solve for x, we can divide both sides of the equation by 2, which gives us:
+
+x = 400 / 2
+x = 200
+
+So, there are 200 boxes in the second warehouse.
+
+Answer: 200

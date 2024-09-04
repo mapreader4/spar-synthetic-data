@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Laticia initially knitted 4 pairs of socks. Then, in the first week, she knitted 12 pairs of socks, making a total of 4 + 12 = 16 pairs.
+
+In the second week, she knitted 4 more pairs than the week before. Since she knitted 12 pairs in the first week, she knitted 12 + 4 = 16 pairs in the second week. This makes a total of 16 + 16 = 32 pairs.
+
+In the third week, she only knitted half of the total of the first two weeks. Since the total of the first two weeks is 32, she knitted half of that, which is 32 / 2 = 16 pairs.
+
+In the fourth week, she knitted 3 fewer pairs than the week before. Since she knitted 16 pairs in the third week, she knitted 16 - 3 = 13 pairs in the fourth week.
+
+To find the total number of pairs of socks Laticia knitted, we add up the number of pairs from each week: 4 + 12 + 16 + 16 + 13 =?
+
+Answer: 61

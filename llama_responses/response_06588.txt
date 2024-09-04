@@ -1,0 +1,7 @@
+Let's start by counting the number of pens initially. There are 9 blue pens, 21 black pens, and 6 red pens, so the total number of pens is 9 + 21 + 6 = 36 pens.
+
+Then, 4 blue pens are removed, so we subtract 4 from the total number of pens: 36 - 4 = 32 pens.
+
+Then, 7 black pens are removed, so we subtract 7 from the remaining pens: 32 - 7 = 25 pens.
+
+So, the answer is: Answer: 25

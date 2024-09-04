@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+1) Smaug has 100 gold coins, 60 silver coins, and 33 copper coins.
+2) Each silver coin is worth 8 copper coins.
+3) Each gold coin is worth 3 silver coins.
+4) To find the total value of the hoard in copper coins, we need to:
+   a) Convert the gold coins to silver coins, then to copper coins.
+   b) Convert the silver coins to copper coins.
+   c) Add the copper coins.
+5) Converting the gold coins:
+   - Each gold coin is worth 3 silver coins.
+   - So 100 gold coins = 100 * 3 = 300 silver coins.
+6) Converting the silver coins to copper coins:
+   - Each silver coin is worth 8 copper coins.
+   - So 300 silver coins + 60 silver coins = 360 * 8 = 2,880 copper coins.
+7) Adding the copper coins:
+   - 2,880 copper coins + 33 copper coins = 2,913 copper coins.
+
+Answer: 2,913

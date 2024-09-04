@@ -1,0 +1,8 @@
+Okay, let's break this down step by step:
+1. Phil started with 50 state quarters that his parents gave him.
+2. Over the next year, he doubled this collection, so he had 50 x 2 = 100 quarters.
+3. The following year, he collected 3 each month, so he had 3 x 12 = 36 additional quarters, for a total of 100 + 36 = 136 quarters.
+4. The year after that, he collected 1 every third month, so he had 1 x 4 = 4 additional quarters, for a total of 136 + 4 = 140 quarters.
+5. The year after that, he lost a quarter of his collection, which means he lost 140 x 0.25 = 35 quarters, leaving him with 140 - 35 = 105 quarters.
+
+Answer: 105

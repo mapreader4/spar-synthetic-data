@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Randy has $30 initially. He spent $10 on his lunch, so he has $20 left.
+
+Then, he spent a quarter of the money he had left on an ice cream cone. A quarter of $20 is $5.
+
+So, Randy has $20 - $5 = $15 left.
+
+Answer: 15

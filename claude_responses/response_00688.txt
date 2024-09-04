@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Trent caught 180 tadpoles
+* He then let 75% of them go
+* To find out how many he kept, we need to find the remaining 25% of the tadpoles
+
+First, let's calculate 75% of 180:
+* 75% of 180 = 0.75 * 180 = 135
+
+Now, we can subtract the number of tadpoles he let go (135) from the total number of tadpoles he caught (180) to find the number of tadpoles he kept:
+* 180 - 135 = 45
+
+Answer: 45

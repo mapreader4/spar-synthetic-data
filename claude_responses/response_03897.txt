@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Lake Michigan has 100 ducks.
+2) The number of ducks that go to North Pond is twice as many as the number of ducks that go to Lake Michigan, plus 6 more.
+3) To find the number of ducks at North Pond, we need to first find twice the number of ducks at Lake Michigan, and then add 6 to that.
+4) Twice the number of ducks at Lake Michigan is 2 * 100 = 200.
+5) Adding 6 to 200 gives us 206.
+
+Answer: 206

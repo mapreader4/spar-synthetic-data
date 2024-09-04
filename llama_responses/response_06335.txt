@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+Let's say the number of cucumbers is x.
+
+The problem states that there are thrice as many tomatoes as cucumbers. So, if there are x cucumbers, then there will be 3x tomatoes.
+
+The total number of vegetables used is 280. So, we can set up an equation:
+
+x + 3x = 280
+
+We can solve for x by subtracting 3x from both sides:
+
+x + 3x - 3x = 280 - 3x
+
+This simplifies to:
+
+x = 280 / 2
+
+x = 140
+
+So, the number of cucumbers used in the salad is 140.
+
+Answer: 140

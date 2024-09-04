@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 120 cards in the box.
+2) 2/5 of the cards are red. To find the number of red cards, we multiply 120 by 2/5: 120 * 2/5 = 48 red cards.
+3) The remaining cards are either black or green. To find the number of remaining cards, we subtract the red cards from the total: 120 - 48 = 72 remaining cards.
+4) 5/9 of the remaining 72 cards are black. To find the number of black cards, we multiply 72 by 5/9: 72 * 5/9 = 40 black cards.
+5) The remaining cards must be green. To find the number of green cards, we subtract the red and black cards from the total: 120 - 48 - 40 = 32 green cards.
+
+Answer: 32

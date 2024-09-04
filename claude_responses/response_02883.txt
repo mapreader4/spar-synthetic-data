@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 6 people in total (John and his 5 friends)
+* They ordered 3 pizzas
+* Each pizza has 8 slices
+* They all finished and ate the same amount of pizza
+
+First, we need to calculate the total number of pizza slices:
+* 3 pizzas x 8 slices per pizza = 24 total slices
+
+Now, we need to divide the total number of slices by the number of people to find how many slices each person ate:
+* 24 total slices / 6 people = 4 slices per person
+
+Answer: 4

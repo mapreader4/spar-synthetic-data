@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+First, we need to convert the given amounts to cents.
+
+Lance has 70 cents, which is the same as 0.7 dollars.
+Margaret has three-fourths of a dollar, which is the same as 0.75 dollars. 0.75 dollars is equal to 75 cents.
+Guy has two quarters and a dime, which is the same as 2 quarters and 1 dime. 2 quarters is 50 cents and 1 dime is 10 cents, so Guy has a total of 60 cents.
+Bill has six dimes, which is 60 cents.
+
+Now, let's add the amounts together.
+
+0.7 + 0.75 + 0.6 + 0.6 = 1.95
+
+Answer: 195

@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+1) The truck driver spends $2 per gallon of gas.
+2) The truck driver can drive 10 miles per gallon.
+3) The truck driver drives at a rate of 30 miles per hour.
+4) The truck driver is paid $0.50 per mile.
+5) The truck driver drives for 10 hours.
+
+To calculate the total distance driven in 10 hours:
+* Distance driven = Rate of driving x Time driven
+* Distance driven = 30 miles/hour x 10 hours = 300 miles
+
+To calculate the total cost of gas for 300 miles:
+* Gas used = Distance driven / Miles per gallon
+* Gas used = 300 miles / 10 miles/gallon = 30 gallons
+* Cost of gas = 30 gallons x $2/gallon = $60
+
+To calculate the total amount the truck driver makes:
+* Amount earned = Distance driven x Pay per mile
+* Amount earned = 300 miles x $0.50/mile = $150
+
+Subtracting the cost of gas from the amount earned gives us the net amount the truck driver makes:
+* Net amount = Amount earned - Cost of gas
+* Net amount = $150 - $60 = $90
+
+Answer: $90

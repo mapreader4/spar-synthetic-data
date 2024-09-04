@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Alexander draws 9 pictures for the first exhibition
+* He then draws pictures for 5 new galleries
+* Each of the 5 new galleries receives the same amount of pictures
+* For each picture, Alexander needs 4 pencils
+* For each exhibition, he needs another 2 pencils for signing his signature on the pictures
+* In total, Alexander uses 88 pencils on drawing and signing his pictures for all of the exhibitions
+
+First, let's calculate the total number of pictures drawn:
+* 9 pictures for the first exhibition
+* Plus the 5 new galleries, each receiving the same amount of pictures
+* So the total number of pictures is 9 + 5x, where x is the number of pictures per new gallery
+
+Next, let's calculate the total number of pencils used:
+* 4 pencils per picture
+* Plus 2 pencils per exhibition
+* So the total number of pencils used is 4(9 + 5x) + 2(9 + 5) = 36 + 20x + 18 = 54 + 20x
+
+We know that the total number of pencils used is 88, so we can set up an equation:
+* 54 + 20x = 88
+* Solving for x, we get x = 1.7
+
+Since we cannot have a fractional number of paintings per gallery, the answer must be an integer. Rounding down, the number of paintings at each of the 5 new galleries is 1.
+
+Answer: 1

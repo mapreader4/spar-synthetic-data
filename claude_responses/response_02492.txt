@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Vanessa sold 7 dresses and 4 shirts
+* She made a total of $69 from the sales
+* Each shirt was sold for $5
+
+First, let's calculate the total amount earned from the shirt sales:
+* 4 shirts x $5 per shirt = $20
+
+Now, we can calculate the amount earned from the dress sales:
+* Total earnings = $69
+* Earnings from shirts = $20
+* Earnings from dresses = $69 - $20 = $49
+
+Finally, we can calculate the price of each dress:
+* 7 dresses sold for a total of $49
+* Price per dress = $49 / 7 = $7
+
+Answer: $7

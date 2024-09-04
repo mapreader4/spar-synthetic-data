@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Davida worked 35 hours on each of Weeks 1 and 2
+* So the total hours worked on Weeks 1 and 2 is:
+  - 35 hours x 2 weeks = 70 hours
+* Davida worked 48 hours each of Weeks 3 and 4
+* So the total hours worked on Weeks 3 and 4 is:
+  - 48 hours x 2 weeks = 96 hours
+* To find the difference in hours worked between Weeks 3 and 4 and Weeks 1 and 2, we subtract:
+  - 96 hours - 70 hours = 26 hours
+
+Answer: 26

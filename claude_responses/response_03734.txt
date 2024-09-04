@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Jerry needs 500 cherries per quart of syrup
+* It takes him 2 hours to pick 300 cherries
+* It takes him 3 hours to make the syrup
+* He needs to make 9 quarts of syrup
+
+First, we need to calculate how many cherries he needs for 9 quarts of syrup:
+* 500 cherries per quart x 9 quarts = 4,500 cherries
+
+Next, we need to calculate how long it will take him to pick 4,500 cherries:
+* 2 hours to pick 300 cherries
+* 4,500 cherries / 300 cherries per 2 hours = 30 * 2 hours = 60 hours
+
+Finally, we need to add the time it takes to make the syrup:
+* 3 hours per quart x 9 quarts = 27 hours
+
+The total time it will take Jerry to make 9 quarts of syrup is:
+* 60 hours + 27 hours = 87 hours
+
+Answer: 87

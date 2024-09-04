@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of peaches Susan wants to put in the knapsack. We know that she put half as many peaches in the knapsack as she put in each of the two cloth bags. This means that if we let x be the number of peaches in the knapsack, we can write an equation to represent this situation:
+
+x = 1/2 × (number of peaches in each cloth bag)
+
+We know that Susan brought two cloth bags and placed half as many peaches in each bag. So, the number of peaches in each cloth bag is x. Therefore, we can write:
+
+x = x
+
+Now, we know that Susan brought 5 dozen peaches in total. A dozen is equal to 12, so she brought 5 × 12 = 60 peaches. We know that she placed half as many peaches in the knapsack as in each cloth bag. So, we can write:
+
+x = 1/2 × 60
+
+To solve for x, we can simplify the fraction:
+
+x = 1/2 × 60 = 30
+
+So, Susan put 30 peaches in the knapsack.

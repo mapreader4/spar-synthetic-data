@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 516 cars in the parking lot
+* One-third of the cars are blue
+* To find the number of blue cars, we take one-third of 516:
+    * 516 / 3 = 172 blue cars
+* One-half of the cars are red
+* To find the number of red cars, we take one-half of 516:
+    * 516 / 2 = 258 red cars
+* The remaining cars must be black
+* To find the number of black cars, we subtract the blue and red cars from the total:
+    * 516 - 172 - 258 = 86 black cars
+
+Answer: 86

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+There are 30 branches on the tree, and each branch has 90 twigs. So, there are a total of 30 x 90 = 2700 twigs.
+
+30% of the twigs sprout 4 leaves, and the rest sprout 5 leaves. To find the total number of leaves, we need to multiply the number of twigs that sprout 4 leaves by 4, and the number of twigs that sprout 5 leaves by 5.
+
+The number of twigs that sprout 4 leaves is 0.3 x 2700 = 810. The number of twigs that sprout 5 leaves is 0.7 x 2700 = 1890.
+
+To find the total number of leaves, we add the two numbers together: 810 + 1890 = 2700.
+
+Answer: 2700

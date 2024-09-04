@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Mary ran 3/8 of a 24-kilometer field.
+   * Mary's distance = 3/8 * 24 = 9 kilometers
+
+2) Edna ran 2/3 of the distance of Edna.
+   * This is a typo, it should be "Edna ran 2/3 of the distance of Mary".
+   * Edna's distance = 2/3 * 9 = 6 kilometers
+
+3) Lucy ran 5/6 of the distance of Edna.
+   * Lucy's distance = 5/6 * 6 = 5 kilometers
+
+4) To find how many more kilometers Lucy should run to cover the same distance as Mary, we subtract Lucy's distance from Mary's distance.
+   * Difference = Mary's distance - Lucy's distance
+   * Difference = 9 kilometers - 5 kilometers = 4 kilometers
+
+Answer: 4 kilometers

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 200 apples in the orchard.
+2) 40% of the 200 apples are rotten.
+3) To calculate the number of rotten apples, we take 40% of 200:
+   * 40% of 200 = 0.40 * 200 = 80 rotten apples.
+4) 70% of the 80 rotten apples smelled.
+5) To calculate the number of rotten apples that smelled, we take 70% of 80:
+   * 70% of 80 = 0.70 * 80 = 56 rotten apples that smelled.
+6) To calculate the number of rotten apples that did not smell, we take the total number of rotten apples (80) and subtract the number of rotten apples that smelled (56):
+   * 80 - 56 = 24 rotten apples that did not smell.
+
+Answer: 24

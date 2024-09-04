@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Ann bakes 3 dozen oatmeal raisin cookies, which is 3 x 12 = 36 cookies
+* Ann bakes 2 dozen sugar cookies, which is 2 x 12 = 24 cookies
+* Ann bakes 4 dozen chocolate chip cookies, which is 4 x 12 = 48 cookies
+* So the total number of cookies baked is 36 + 24 + 48 = 108 cookies
+
+Now, Ann gives away:
+* 2 dozen oatmeal raisin cookies, which is 2 x 12 = 24 cookies
+* 1.5 dozen sugar cookies, which is 1.5 x 12 = 18 cookies
+* 2.5 dozen chocolate chip cookies, which is 2.5 x 12 = 30 cookies
+
+So the total number of cookies given away is 24 + 18 + 30 = 72 cookies
+
+To find the number of cookies Ann keeps, we take the total cookies baked (108) and subtract the total cookies given away (72):
+108 - 72 = 36 cookies
+
+Answer: 36

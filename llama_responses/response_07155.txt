@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Find the total number of pieces Pablo has to put together. He has 8 puzzles with 300 pieces each, and 5 puzzles with 500 pieces each. So, the total number of pieces is 8 * 300 + 5 * 500 = 2800.
+
+Step 2: Find the number of hours Pablo can work on puzzles per day. He can work on puzzles for a maximum of 7 hours each day.
+
+Step 3: Find the total number of days Pablo needs to complete all the puzzles. To find this, we need to divide the total number of pieces by the number of pieces he can do per hour.
+
+Step 4: Calculate the total number of days. 2800 pieces / 100 pieces per hour * 7 hours per day = 320 hours. Since Pablo can only work for a maximum of 7 hours a day, we need to find the number of days it will take him to complete all the puzzles. 
+
+Answer: 45

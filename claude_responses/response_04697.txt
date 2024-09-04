@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Bobby has twice as many fish as Sarah, so if Sarah has x fish, Bobby has 2x fish.
+2) Sarah has 5 more fish than Tony, so if Tony has y fish, Sarah has y + 5 fish.
+3) Tony has 3 times as many fish as Billy, so if Billy has 10 fish, Tony has 3 * 10 = 30 fish.
+4) Since Sarah has y + 5 fish, and Tony has 30 fish, we can say that y + 5 = 30, so y = 25.
+5) If Tony has 25 fish, and Sarah has y + 5 = 30 fish, then Bobby has 2 * 30 = 60 fish.
+6) Adding up all the fish:
+   - Billy has 10 fish
+   - Tony has 25 fish
+   - Sarah has 30 fish
+   - Bobby has 60 fish
+   - Total fish = 10 + 25 + 30 + 60 = 125
+
+Answer: 125

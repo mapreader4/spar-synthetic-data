@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* There are 4 rounds in a typical tennis tournament
+* In the first round, there are 8 games
+* In the second round, there are 4 games
+* In the third round, there are 2 games
+* In the finals, there is 1 game
+* Each game requires new tennis balls
+* On average, each game uses 5 cans of tennis balls
+* Each can has 3 tennis balls
+
+To calculate the total number of tennis balls used:
+* First round: 8 games x 5 cans/game x 3 balls/can = 120 tennis balls
+* Second round: 4 games x 5 cans/game x 3 balls/can = 60 tennis balls
+* Third round: 2 games x 5 cans/game x 3 balls/can = 30 tennis balls
+* Finals: 1 game x 5 cans/game x 3 balls/can = 15 tennis balls
+
+Adding these up:
+120 + 60 + 30 + 15 = 225 tennis balls
+
+Answer: 225

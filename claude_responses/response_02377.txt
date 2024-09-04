@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tickets for students cost $6 each
+* 20 students bought tickets
+* So the total cost for student tickets is 20 * $6 = $120
+* Tickets for adults cost $8 each
+* 12 adults bought tickets
+* So the total cost for adult tickets is 12 * $8 = $96
+* To find the total dollars' worth of tickets sold, we add the student ticket cost and the adult ticket cost:
+* $120 + $96 = $216
+
+Answer: $216

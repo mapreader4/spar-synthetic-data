@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Chad sandwiches 2 crackers with a scoop of peanut butter.
+2) He has 5 of these crackers a night before bed.
+3) A box of crackers has 4 sleeves, with each sleeve holding 28 crackers.
+4) So each box of crackers has 4 * 28 = 112 crackers.
+5) Chad uses 2 crackers per sandwich, and he has 5 sandwiches per night.
+6) So each night he uses 2 * 5 = 10 crackers.
+7) With 5 boxes of crackers, he has 5 * 112 = 560 crackers.
+8) Dividing the total number of crackers (560) by the number of crackers used per night (10), we get 560 / 10 = 56 nights.
+
+Answer: 56

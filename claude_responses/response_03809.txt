@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Norma leaves 9 T-shirts in the washer
+* She also leaves twice as many sweaters as T-shirts, which means she leaves 18 sweaters in the washer
+* So the total number of items she leaves in the washer is 9 T-shirts + 18 sweaters = 27 items
+* When she returns, she finds 3 sweaters and triple the number of T-shirts, which means she finds 27 T-shirts
+* So the total number of items she finds is 3 sweaters + 27 T-shirts = 30 items
+* The number of items missing is the difference between the total items she left and the total items she found, which is 27 - 30 = -3 items
+
+Answer: -3

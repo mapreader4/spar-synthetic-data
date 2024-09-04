@@ -1,0 +1,20 @@
+Okay, let's solve this step-by-step:
+1) Joseph initially invested $1000 into the hedge fund.
+2) The fund promised a yearly interest rate of 10%.
+3) Joseph deposited an additional $100 every month into the account.
+4) We need to calculate the total amount of money he will have in the fund after two years.
+
+To do this, we can break it down into the following steps:
+1) Calculate the interest earned on the initial $1000 investment over the two-year period:
+   - Interest earned in year 1: $1000 x 0.10 = $100
+   - Interest earned in year 2: $1100 x 0.10 = $110
+   - Total interest earned: $100 + $110 = $210
+
+2) Calculate the total amount of additional deposits made over the two-year period:
+   - $100 per month for 24 months = $2400
+
+3) Add the initial investment, the interest earned, and the additional deposits:
+   - $1000 + $210 + $2400 = $3610
+
+Therefore, the total amount of money Joseph will have in the fund after two years is:
+Answer: $3610

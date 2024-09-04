@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Kylie uses 3 bath towels in one month
+* Her 2 daughters use a total of 6 bath towels in one month
+* Her husband uses a total of 3 bath towels in one month
+* The total number of bath towels used in one month is:
+    - Kylie's towels: 3
+    - Daughters' towels: 6
+    - Husband's towels: 3
+    - Total: 3 + 6 + 3 = 12 bath towels
+* The washing machine can fit 4 bath towels per load
+* To calculate the number of loads needed, we divide the total number of towels by the number of towels per load:
+    - 12 towels / 4 towels per load = 3 loads
+
+Answer: 3

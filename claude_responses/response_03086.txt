@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The retail store wants to hire 50 new phone reps
+* Each phone rep will work 8 hours a day
+* Each phone rep will be paid $14.00 an hour
+* We need to calculate the total amount the company will pay all 50 new employees after 5 days
+
+First, let's calculate the daily pay for each phone rep:
+* 8 hours per day x $14.00 per hour = $112.00 per day
+
+Now, let's calculate the total pay for all 50 phone reps over 5 days:
+* $112.00 per day x 50 phone reps = $5,600.00 per day
+* $5,600.00 per day x 5 days = $28,000.00 total
+
+Answer: $28,000

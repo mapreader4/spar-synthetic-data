@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's start by finding the total time spent waiting and traveling on her first bus. The wait time is 12 minutes and the trip time is 30 minutes, so the total time is 12 + 30 = 42 minutes.
+
+The second bus ride is half of the total time spent waiting and traveling on the first bus, which is 42 / 2 = 21 minutes.
+
+Answer: 21

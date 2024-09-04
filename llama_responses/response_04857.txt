@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pigeons initially. There are 40 pigeons, and each pigeon has 6 chicks. So, there are 40 * 6 = 240 pigeons initially.
+
+Now, if the peregrines eat 30% of the pigeons, we need to find 30% of 240 pigeons. To do this, we can multiply 30 by 240, which is the same as multiplying 0.3 by 240.
+
+0.3 * 240 = 72
+
+So, the peregrines eat 72 pigeons. To find the number of pigeons left, we need to subtract 72 from the original 240.
+
+240 - 72 = 168
+
+Answer: 168

@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Raine's house is a walking distance from her school
+* It takes her 150 steps to walk to the school
+* We need to find the total number of steps she takes walking to and from school in five days
+
+To calculate the total number of steps, we need to:
+1. Calculate the number of steps for one round trip (to school and back home)
+2. Multiply that by the number of days (5)
+
+Step 1: Number of steps for one round trip
+* Walking to school: 150 steps
+* Walking back home: 150 steps
+* Total steps for one round trip: 150 + 150 = 300 steps
+
+Step 2: Total steps in five days
+* 300 steps per round trip x 5 days = 1,500 steps
+
+Answer: 1,500

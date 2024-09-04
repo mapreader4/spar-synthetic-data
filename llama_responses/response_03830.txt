@@ -1,0 +1,7 @@
+Let's start by identifying the number of patients with ZYX syndrome. Since the psychologist believes one in every 4 people has the syndrome, and the clinic has doubled its previous number of 26 patients, we can find the total number of patients with the syndrome as follows:
+
+1. The number of patients with ZYX syndrome = 1 in every 4 people
+2. The number of people with ZYX syndrome = 1/4 * 26 = 6.5
+3. Since we can't have a fraction of a patient, we round up to the nearest whole number of patients, so 7.
+
+Answer: 7

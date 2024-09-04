@@ -1,0 +1,13 @@
+Let's break this down step by step:
+
+Mark starts with 100 friends.
+
+He keeps 40% of his friends, which is 40% of 100, which is 0.4 x 100 = 40.
+
+He contacts the rest, which is 100 - 40 = 60 friends.
+
+50% of 60 respond, which is 0.5 x 60 = 30.
+
+He removes everyone who didn't respond, which is 60 - 30 = 30 friends.
+
+So, Mark has 40 + 30 = 70 friends left.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of zits in Ms. Swanson's class. Since there are 25 kids in her class, and each kid has an average of 5 zits, we multiply the number of kids by the number of zits each kid has: 25 x 5 = 125 zits.
+
+Next, we need to find the total number of zits in Mr. Jones' class. Since there are 32 kids in his class, and each kid has an average of 6 zits, we multiply the number of kids by the number of zits each kid has: 32 x 6 = 192 zits.
+
+To find the difference in the number of zits, we subtract the number of zits in Ms. Swanson's class from the number of zits in Mr. Jones' class: 192 - 125 = 67.
+
+Answer: 67

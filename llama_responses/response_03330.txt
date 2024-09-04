@@ -1,0 +1,13 @@
+Let's solve this problem step by step. 
+
+1. First, let's find the total number of pens they had in the pool. They started with 62 red pens and 43 black pens, so the total number of pens they had was 62 + 43 = 105 pens.
+
+2. After the first month, they took 37 pens. So, the remaining pens left in the pool were 105 - 37 = 68 pens.
+
+3. After the second month, they took another 41 pens. So, the remaining pens in the pool were 68 - 41 = 27 pens.
+
+4. To find out how many pens each student will get, we need to divide the remaining 27 pens by 3 students. We can do this by dividing 27 by 3: 27 ÷ 3 = 9.
+
+5. Therefore, each student will get 9 pens.
+
+Answer: 9

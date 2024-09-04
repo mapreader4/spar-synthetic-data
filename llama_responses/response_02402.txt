@@ -1,0 +1,7 @@
+To find the number of students who did not participate in the competition, we need to subtract the number of students who did participate from the total number of students.
+
+Let's first find the number of students who participated in the competition. We know that one-third of the class participated, which is 39 / 3 = 13. So, the number of students who participated is 13.
+
+Now, we subtract the number of students who participated from the total number of students to find the number who did not participate. The total number of students is 39, so we subtract 13 from it to get 39 - 13 = 26.
+
+Answer: 26

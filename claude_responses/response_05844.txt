@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We are given that there are 3 consecutive odd integers with a sum of -147.
+2) Let's represent the smallest of the 3 integers as x. Then the other two integers would be x+2 and x+4, since they are consecutive odd integers.
+3) The sum of the 3 integers is -147, so we can write the equation:
+x + (x+2) + (x+4) = -147
+4) Simplifying the equation, we get:
+3x + 6 = -147
+5) Solving for x, we get:
+3x = -153
+x = -51
+6) Therefore, the largest of the 3 integers is x+4 = -51 + 4 = -47.
+
+Answer: -47

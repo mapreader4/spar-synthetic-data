@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say Mike wants to buy a car for $35,000. He needs to take a loan from the bank, and he's willing to take 15% of the total amount as interest. This means that the total amount he needs to pay is the original price of the car plus the interest.
+
+The 15% interest is the amount of money Mike needs to pay to the bank as interest. To find the interest, we can multiply the original price by the interest rate:
+
+$35,000 x 0.15 = $5,250
+
+So, the total amount Mike needs to pay is the original price of the car ($35,000) plus the interest ($5,250). To find the total amount, we add the two amounts together:
+
+$35,000 + $5,250 = $40,250
+
+However, Mike is only taking a loan of $20,000 from the bank. So, he needs to pay the remaining amount of:
+
+$40,250 - $20,000 = $20,250
+
+Answer: 20250

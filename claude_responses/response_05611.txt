@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The outdoor scouts took 3 cars, 6 taxis, and 2 vans to get to the hike.
+* Each car had 4 people, each taxi had 6 people, and each van had 5 people.
+* To find the total number of people, we need to calculate the number of people in each type of vehicle and then add them up.
+
+For the cars:
+* 3 cars with 4 people each
+* 3 x 4 = 12 people in the cars
+
+For the taxis:
+* 6 taxis with 6 people each
+* 6 x 6 = 36 people in the taxis
+
+For the vans:
+* 2 vans with 5 people each
+* 2 x 5 = 10 people in the vans
+
+Now, we add up the total number of people:
+* 12 + 36 + 10 = 58 people
+
+Answer: 58

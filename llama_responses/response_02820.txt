@@ -1,0 +1,11 @@
+Let's start by identifying the number of spots on the left side of the cow. The problem states that the cow has 16 spots on its left side. Let's call this number "L". 
+
+Then, the problem states that the cow has three times that number plus 7 on its right side. So, the number of spots on the right side of the cow is 3L + 7. 
+
+To find the total number of spots, we need to add the number of spots on the left side and the number of spots on the right side. So, the total number of spots is L + 3L + 7. Since L is 16, we can substitute 16 for L in the equation. 
+
+The equation becomes 16 + 3(16) + 7. The parentheses in the equation tell us to multiply 16 by 3, so we need to multiply 16 by 3. This gives us 48. 
+
+Now, we add 48 to 16 to get the total number of spots. 48 + 16 is 64. 
+
+Answer: 64

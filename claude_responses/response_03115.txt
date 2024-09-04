@@ -1,0 +1,12 @@
+Okay, let's solve this step-by-step:
+1) Susie has 572 beans in the jar.
+2) One-fourth of the 572 beans are red. 
+   * 1/4 of 572 = 572 * 1/4 = 143 red beans
+3) The remaining beans are 572 - 143 = 429 beans.
+4) One-third of the remaining 429 beans are white.
+   * 1/3 of 429 = 429 * 1/3 = 143 white beans
+5) The remaining beans are 429 - 143 = 286 beans.
+6) Half of the remaining 286 beans are green.
+   * 1/2 of 286 = 286 * 1/2 = 143 green beans
+
+Answer: 143

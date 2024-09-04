@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* On Monday, Nancy created 12 clay pots.
+* On Tuesday, she created twice as many as she did on Monday, which is 2 x 12 = 24 clay pots.
+* On Wednesday, she created a few more clay pots.
+* By the end of the week, she had a total of 50 clay pots.
+
+To find out how many she created on Wednesday, we can add up the number of clay pots she created on Monday and Tuesday, and then subtract that from the total number of clay pots she had at the end of the week:
+* Total clay pots created on Monday and Tuesday: 12 + 24 = 36
+* Total clay pots created by the end of the week: 50
+* Clay pots created on Wednesday: 50 - 36 = 14
+
+Answer: 14

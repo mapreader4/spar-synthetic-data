@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Milly needs to fold the dough 4 times, and each folding takes 5 minutes.
+2) So the total time for folding the dough is 4 x 5 minutes = 20 minutes.
+3) After each folding, the dough needs to rest for 75 minutes.
+4) So the total time for resting the dough is 4 x 75 minutes = 300 minutes.
+5) Mixing the ingredients takes 10 minutes.
+6) Baking the croissants takes 30 minutes.
+7) To calculate the total time, we add up all the steps:
+   - Folding the dough: 20 minutes
+   - Resting the dough: 300 minutes
+   - Mixing the ingredients: 10 minutes
+   - Baking the croissants: 30 minutes
+8) The total time is 20 + 300 + 10 + 30 = 360 minutes.
+9) Converting 360 minutes to hours, we get 360 / 60 = 6 hours.
+
+Answer: 6 hours

@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's say the current temperature of the mountain is 84 degrees. If it decreases to 3/4 of its temperature, we need to find 3/4 of 84.
+
+To find 3/4 of 84, we can multiply 84 by 3 and divide by 4:
+
+84 * 3 = 252
+252 ÷ 4 = 63
+
+So, the temperature will decrease by 63 degrees.
+
+Answer: 63

@@ -1,0 +1,5 @@
+Let's start by breaking down the information given in the problem. We know that Calvin has 12 roaches, 3 scorpions, and 12/2 = 6 crickets. We also know that Calvin has 6 caterpillars since there are twice as many caterpillars as scorpions, and there are 3 scorpions.
+
+To find the total number of insects in Calvin's collection, we need to add the number of roaches, crickets, and caterpillars. 12 + 6 + 3 = 21.
+
+Answer: 21

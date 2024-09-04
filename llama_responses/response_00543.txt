@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's first identify the amount that each student paid. Since 4 students paid half, that means the 4 students paid 25 dollars each. So, the total amount paid by the 4 students is 4 x 25 = 100 dollars.
+
+Now, the total amount paid by all 25 students is the total amount paid by the 4 students that paid half, plus the amount paid by the 21 students who paid the full amount. So, the total amount paid by all 25 students is 100 + 50 x 21 = 100 + 1050 = 1150.
+
+Answer: 1150

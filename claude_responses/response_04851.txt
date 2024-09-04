@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) For herself, Stephanie needs 5 of each type of silverware: 5 spoons, 5 butter knives, 5 steak knives, and 5 forks.
+2) She wants to have 10 extra pieces of each type of silverware in case she has guests: 10 extra spoons, 10 extra butter knives, 10 extra steak knives, and 10 extra forks.
+3) However, she decides to purchase 4 fewer spoons, 4 fewer butter knives, 5 fewer steak knives, and 3 fewer forks to have enough room in her silverware drawer.
+4) So the total pieces of silverware she will buy are:
+   - Spoons: 5 + 10 - 4 = 11
+   - Butter knives: 5 + 10 - 4 = 11
+   - Steak knives: 5 + 10 - 5 = 10
+   - Forks: 5 + 10 - 3 = 12
+5) Adding up all the pieces of silverware:
+   11 + 11 + 10 + 12 = 44
+
+Answer: 44

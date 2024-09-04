@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* John takes a 10-minute shower every other day
+* He does this for 4 weeks
+* His shower uses 2 gallons of water per minute
+
+First, we need to calculate the number of showers he takes in 4 weeks:
+* There are 28 days in 4 weeks
+* He showers every other day, so he showers 14 times in 4 weeks
+
+Next, we need to calculate the amount of water used per shower:
+* Each shower is 10 minutes long
+* His shower uses 2 gallons of water per minute
+* So each shower uses 10 minutes x 2 gallons/minute = 20 gallons of water
+
+Finally, we can calculate the total amount of water used in 4 weeks:
+* He takes 14 showers
+* Each shower uses 20 gallons of water
+* So the total water used is 14 showers x 20 gallons/shower = 280 gallons
+
+Answer: 280 gallons

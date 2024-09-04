@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* Shannon bought 5 pints of frozen yogurt, two packs of chewing gum, and five trays of jumbo shrimp
+* The total cost of these items was $55
+* The price of a tray of jumbo shrimp is $5
+* The price of a pack of chewing gum costs half as much as a pint of frozen yogurt
+
+First, let's calculate the total cost of the jumbo shrimp:
+* 5 trays of jumbo shrimp at $5 each = 5 x $5 = $25
+
+Now, let's calculate the total cost of the chewing gum:
+* The price of a pack of chewing gum is half the price of a pint of frozen yogurt
+* Let's call the price of a pint of frozen yogurt x
+* Then the price of a pack of chewing gum is x/2
+* Shannon bought 2 packs of chewing gum, so the total cost of the chewing gum is 2 x (x/2) = x
+
+Finally, we can calculate the total cost of the frozen yogurt:
+* Shannon bought 5 pints of frozen yogurt at x dollars each, so the total cost of the frozen yogurt is 5x
+
+Now we can set up an equation to solve for x:
+* Total cost = Cost of jumbo shrimp + Cost of chewing gum + Cost of frozen yogurt
+* $55 = $25 + x + 5x
+* $55 = $25 + 6x
+* $30 = 6x
+* x = $5
+
+Therefore, the price of a pint of frozen yogurt is $5.
+
+Answer: $5

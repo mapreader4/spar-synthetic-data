@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Brendan makes $6/hour as a waiter.
+2) He's scheduled for 2 8-hour shifts and 1 12-hour shift this week.
+   * 2 shifts of 8 hours = 16 hours
+   * 1 shift of 12 hours = 12 hours
+   * Total hours worked = 16 + 12 = 28 hours
+3) He also makes an average of $12 in tips each hour.
+   * Total tips = 28 hours * $12/hour = $336
+4) Brendan is supposed to pay 20% of his income in taxes.
+   * However, he only reports 1/3rd of his tips to the IRS.
+   * Reported tips = $336 / 3 = $112
+   * Total income = (28 hours * $6/hour) + $112 = $280
+5) Taxes owed = 20% of $280 = 0.2 * $280 = $56
+
+Answer: $56

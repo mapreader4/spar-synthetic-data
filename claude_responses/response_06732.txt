@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) For the first 3 years, Nancy's ex made $30,000/year.
+2) The child support payment is 30% of his income, so for the first 3 years, the annual child support payment should have been:
+   * 30% of $30,000 = $9,000 per year
+   * For the 3 years, the total should have been: 3 * $9,000 = $27,000
+3) After the first 3 years, he got a 20% raise, so his new annual income was:
+   * $30,000 + (20% of $30,000) = $30,000 + $6,000 = $36,000 per year
+4) The child support payment for the next 4 years should have been:
+   * 30% of $36,000 = $10,800 per year
+   * For the 4 years, the total should have been: 4 * $10,800 = $43,200
+5) The total child support he should have paid over the 7 years is:
+   * $27,000 + $43,200 = $70,200
+6) However, he has only paid $1,200 so far.
+7) Therefore, the amount he still owes is:
+   * $70,200 - $1,200 = $69,000
+
+Answer: $69,000

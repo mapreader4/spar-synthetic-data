@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say John used to get 20 text messages a day. He is now getting 55. The difference between the two is 35. This means that he is getting 35 more text messages per day. 
+
+Since there are 7 days in a week, the total number of extra text messages per week is 35 * 7 = 245. 
+
+Answer: 245

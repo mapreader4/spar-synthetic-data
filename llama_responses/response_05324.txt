@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's start by finding the total amount of money that Parker and Richie split. We know that the ratio is 2:3, so the total amount is 2x as much as Richie's share. So, Richie's share is 3x.
+
+We know that Parker got $50, which is the smaller share. So, we can set up the equation: 50 = 2x + 3x.
+
+To solve for x, we can subtract 50 - 3x from both sides of the equation to get 50 - 3x = 2x.
+
+50 - 3x = 2x
+
+2x = 50 - 15
+
+2x = 35
+
+x = 35/2
+
+Answer: 17

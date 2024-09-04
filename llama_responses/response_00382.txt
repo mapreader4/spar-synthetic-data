@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. David takes 10 minutes to wash 4 windows. So, the time taken to wash 1 window is 10 minutes.
+2. The total number of windows is 64.
+3. The total time taken to wash all the windows is 64 * 10 = 640 minutes.
+
+Answer: 640

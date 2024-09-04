@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. The living room is a square, so each wall is 40 feet long and 10 feet tall.
+2. There are 3 walls in the living room that need to be painted.
+3. The area of each living room wall is 40 feet x 10 feet = 400 square feet.
+4. The total area of the 3 living room walls is 3 x 400 square feet = 1,200 square feet.
+
+5. The bedroom is a rectangle, so the walls are 10 feet long and 12 feet long, and 10 feet tall.
+6. There are 4 walls in the bedroom that need to be painted.
+7. The area of each bedroom wall is 10 feet x 10 feet = 100 square feet.
+8. The total area of the 4 bedroom walls is 4 x 100 square feet = 400 square feet.
+
+9. To calculate the total square feet of wall that Matt needs to paint, we add the living room and bedroom wall areas:
+1,200 square feet + 400 square feet = 1,600 square feet.
+
+Answer: 1,600

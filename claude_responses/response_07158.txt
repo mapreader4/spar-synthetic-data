@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* There are 15 students in the art club
+* Each student makes 2 artworks by the end of each quarter
+* There are 4 quarters in a school year
+* We need to calculate the number of artworks collected in two school years
+
+First, let's calculate the number of artworks collected in one school year:
+* Each student makes 2 artworks per quarter
+* There are 4 quarters in a school year
+* So each student makes 2 x 4 = 8 artworks in one school year
+* With 15 students, the total number of artworks collected in one school year is 15 x 8 = 120 artworks
+
+Now, to calculate the number of artworks collected in two school years:
+* In two school years, the total number of artworks collected is 2 x 120 = 240 artworks
+
+Answer: 240

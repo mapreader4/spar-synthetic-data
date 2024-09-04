@@ -1,0 +1,17 @@
+Let's break this down step by step:
+
+Let the number of women be x.
+
+The number of cannoneers is double the number of women, so the number of cannoneers is 2x.
+
+We are given that there are 63 cannoneers. So, we can set up an equation: 2x = 63.
+
+To solve for x, we can divide both sides of the equation by 2, which gives us x = 31.5.
+
+Since x is the number of women, there are 31 women.
+
+The total number of men is twice the number of women, so the total number of men is 2x, which is 2 * 31 = 62.
+
+To find the total number of people, we add the number of women and men: 31 + 62 = 93.
+
+Answer: 93

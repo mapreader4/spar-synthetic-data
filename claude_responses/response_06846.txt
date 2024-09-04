@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Giselle has $120
+* Isabella has $45 more than Sam
+* Isabella has $15 more than Giselle
+* So, if Giselle has $120, then Isabella has $120 + $15 = $135
+* And if Isabella has $135, then Sam has $135 - $45 = $90
+
+Now, we need to find the total amount of money that Isabella, Sam, and Giselle have:
+* Total money = $135 + $90 + $120 = $345
+
+The three shoppers at the local town's supermarket will share this money equally, so we need to divide the total money by 3:
+* $345 / 3 = $115
+
+Answer: $115

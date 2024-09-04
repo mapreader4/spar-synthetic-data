@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* An adult panda can eat 138 pounds of bamboo per day
+* A baby panda can eat 50 pounds of bamboo per day
+* We want to know how many pounds of bamboo the pandas will eat in a week
+
+To calculate the total, we need to:
+1. Determine how many adult pandas and baby pandas there are
+2. Multiply the daily consumption of each type of panda by the number of days in a week (7 days)
+3. Add the total consumption of the adult pandas and baby pandas together
+
+Let's assume there is 1 adult panda and 1 baby panda.
+
+Adult panda consumption per week:
+* 138 pounds per day x 7 days = 966 pounds
+
+Baby panda consumption per week: 
+* 50 pounds per day x 7 days = 350 pounds
+
+Total bamboo consumption per week:
+* 966 pounds + 350 pounds = 1,316 pounds
+
+Answer: 1,316 pounds

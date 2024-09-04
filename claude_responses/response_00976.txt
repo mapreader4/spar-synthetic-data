@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Ludwig works 7 days a week
+* On Friday, Saturday, and Sunday, he works half of the day
+* His daily salary is $10
+
+To calculate his weekly earnings, we need to:
+1. Calculate his earnings for the 4 days he works a full day (Monday, Tuesday, Wednesday, Thursday)
+   * 4 days x $10 per day = $40
+2. Calculate his earnings for the 3 days he works half a day (Friday, Saturday, Sunday)
+   * 3 days x $5 per day (half day) = $15
+3. Add the two amounts together to get his total weekly earnings
+   * $40 + $15 = $55
+
+Answer: $55

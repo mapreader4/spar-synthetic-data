@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of questions the mathematician needs to write. The total number of questions is the sum of the number of questions for both projects: 518 + 476 = 994.
+
+Since the mathematician has one week to complete the questions, we can find the number of questions he needs to complete each day by dividing the total number of questions by 7 (the number of days in a week):
+
+994 ÷ 7 = 142
+
+So, the mathematician should aim to complete 142 questions each day.

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Let's assume the time it takes to paint a house is 20 minutes. If it takes 20 minutes to paint a house, then the time it takes to paint one house is 20 minutes.
+
+Now, let's think about the time it would take to paint 3 houses. If it takes 20 minutes to paint one house, then it would take 3 * 20 = 60 minutes to paint 3 houses.
+
+But we want to find the number of houses that can be painted in 3 hours. To do that, we need to convert 60 minutes into hours. There are 60 minutes in an hour, so 60 minutes is equal to 1 hour.
+
+So, 3 hours is equal to 3 * 60 = 180 minutes. Now, let's convert 180 minutes into hours. There are 60 minutes in an hour, so 180 minutes is equal to 3 hours.
+
+Now, we can divide 3 hours by the time it takes to paint one house, which is 20 minutes. 3 hours / 20 minutes = 15. So, the answer is:
+
+Answer: 15

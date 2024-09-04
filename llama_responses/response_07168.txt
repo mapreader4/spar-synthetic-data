@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of field goals Wario attempted. He attempted 60 field goals.
+
+Next, let's find the number of field goals he missed. Since he missed 1/4 of the field goals, we can multiply the total number of field goals by 1/4 to find the number of missed field goals. 60 * 1/4 = 15.
+
+Now, let's find the number of field goals that were wide right. Of the field goals he missed, 20 percent were wide right. To find the number of field goals that went wide right, we can multiply the total number of missed field goals by 20 percent. 15 * 20/100 = 3.
+
+So, the number of field goals that went wide right is 3.

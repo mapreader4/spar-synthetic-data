@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Bailey needs to buy 2 sets of towels for the guest bathroom, and each set costs $40.00.
+2) So the total cost for the guest bathroom towels is 2 x $40.00 = $80.00.
+3) Bailey also needs to buy 4 sets of towels for the master bathroom, and each set costs $50.00.
+4) So the total cost for the master bathroom towels is 4 x $50.00 = $200.00.
+5) The store is offering a 20% discount on all towel sets.
+6) To calculate the discount, we take 20% of the total cost before the discount:
+   * Total cost before discount = $80.00 + $200.00 = $280.00
+   * Discount = 20% of $280.00 = 0.20 x $280.00 = $56.00
+7) The total cost after the 20% discount is the original total cost minus the discount:
+   * $280.00 - $56.00 = $224.00
+
+Answer: $224

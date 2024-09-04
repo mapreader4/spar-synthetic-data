@@ -1,0 +1,11 @@
+To find the length difference between the sides of square A and B, we need to find the difference between the lengths of the sides of the two squares.
+
+The area of square A is 25, so the length of its side is √25 = 5.
+
+The area of square B is 81, so the length of its side is √81 = 9.
+
+To find the difference between the lengths of the sides, we subtract the length of the side of square A from the length of the side of square B:
+
+9 - 5 = 4
+
+So, the length difference between the sides of square A and B is 4.

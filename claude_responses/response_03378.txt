@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Krista has 10 hens that lay eggs
+* She sells the eggs for $3 per dozen
+* In four weeks, she sold $120 worth of eggs
+* We need to find how many eggs each hen lays per week
+
+First, let's calculate how many dozens of eggs she sold in four weeks:
+* $120 worth of eggs at $3 per dozen = 40 dozens of eggs sold in four weeks
+
+Now, we can calculate how many eggs she sold in total:
+* 40 dozens of eggs = 40 x 12 = 480 eggs sold in four weeks
+
+Next, we can calculate how many eggs each hen laid per week:
+* 480 eggs sold in four weeks / 10 hens = 48 eggs per hen in four weeks
+* 48 eggs per hen in four weeks / 4 weeks = 12 eggs per hen per week
+
+Therefore, the answer is:
+Answer: 12

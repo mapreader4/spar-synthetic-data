@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The first bell takes 50 pounds of bronze.
+2) The second bell is twice the size of the first bell, so it takes 2 * 50 = 100 pounds of bronze.
+3) The third bell is four times the size of the second bell, so it takes 4 * 100 = 400 pounds of bronze.
+4) To find the total amount of bronze needed, we add up the amounts for each bell:
+50 + 100 + 400 = 550 pounds of bronze.
+
+Answer: 550

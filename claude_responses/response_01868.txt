@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* At the beginning of the race, Alex and Max are even for 200 feet.
+* Then Alex gets ahead of Max by 300 feet.
+* So, Alex is now 300 feet ahead of Max.
+* Then Max gets ahead of Alex by 170 feet.
+* So, Max is now 170 feet ahead of Alex.
+* But then Alex gets ahead of Max by 440 feet.
+* So, Alex is now 440 feet ahead of Max.
+* The total length of the road is 5000 feet.
+* To find how many feet are left for Max to catch up to Alex, we need to subtract the distance Alex is ahead of Max from the total length of the road.
+* 5000 feet - 440 feet = 4560 feet.
+
+Answer: 4560 feet.

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Martine has 6 more than twice as many peaches as Benjy.
+   * Let's call the number of peaches Benjy has as "x".
+   * Then, Martine has 2x + 6 peaches.
+2) We know that Martine has 16 peaches.
+   * So, 2x + 6 = 16
+   * Solving for x, we get x = 5.
+3) Benjy has one-third as many peaches as Gabrielle.
+   * Let's call the number of peaches Gabrielle has as "y".
+   * Then, Benjy has y/3 peaches.
+4) We know that Benjy has 5 peaches.
+   * So, y/3 = 5
+   * Solving for y, we get y = 15.
+
+Answer: 15

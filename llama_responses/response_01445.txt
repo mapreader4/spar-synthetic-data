@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to find the total number of words in all three books: 200 + 400 + 300 = 900 words.
+
+Next, we need to find the total number of hours Jenny can read in 10 days: 10 days * 60 minutes per hour = 600 minutes.
+
+Now, we need to find the number of minutes Jenny should read each book. The total number of words in all three books is 900, and she can read 100 words per hour. To find the number of hours she can read each book, we can divide the total number of words by the number of words she can read per hour: 900 / 100 = 9 hours.
+
+Since there are 60 minutes in an hour, we can convert the number of hours to minutes by multiplying by 60: 9 hours * 60 = 540 minutes.
+
+Answer: 540

@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) Marcus wants to buy a new pair of shoes and is willing to pay up to $130 for them.
+2) He found a pair of shoes for $120.
+3) He got a 30% discount on the $120 pair of shoes.
+4) To calculate the discounted price, we take the original price ($120) and multiply it by (1 - 0.30) to get the discounted price:
+$120 * (1 - 0.30) = $120 * 0.70 = $84
+5) The maximum amount Marcus was willing to pay was $130.
+6) The amount he saved is the difference between the maximum amount ($130) and the discounted price ($84):
+$130 - $84 = $46
+
+Answer: $46

@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The insurance plan is 20% of the MSRP, so we need to find 20% of the MSRP. 20% of 30 is 6.
+2. The state tax rate is 50% of the insurance plan, which is 6, so the state tax rate is 3.
+3. To find the total cost, we add the insurance plan and the state tax rate: 6 + 3 = 9.
+4. The total cost is the cost of the toaster plus the total of the insurance plan and the state tax rate: 30 + 9 = 39.
+
+Answer: 39

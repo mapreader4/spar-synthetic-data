@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each bunny comes out of its burrow 3 times per minute
+* There are 20 bunnies
+* We want to calculate the combined number of times the 20 bunnies will have come out of their burrows in 10 hours
+
+First, let's calculate the number of times each bunny will come out of its burrow in 10 hours:
+* 3 times per minute x 60 minutes per hour x 10 hours = 1,800 times
+
+Now, let's calculate the combined number of times the 20 bunnies will have come out of their burrows in 10 hours:
+* 1,800 times per bunny x 20 bunnies = 36,000 times
+
+Answer: 36,000

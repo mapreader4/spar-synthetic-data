@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The quarterback steps back to throw 80 times.
+* 30% of the time, he does not get a pass thrown.
+* Half of the times that he does not throw the ball, he is sacked for a loss.
+
+Let's define the variables:
+
+* Let's say the number of times the quarterback is sacked for a loss be x.
+
+We know that 30% of the 80 times he throws the ball is when he does not get a pass. So, 0.3 * 80 = 24 times he does not get a pass.
+
+Now, half of the times that he does not throw the ball, he is sacked for a loss. So, x = 0.5 * 24 = 12.
+
+Answer: 12

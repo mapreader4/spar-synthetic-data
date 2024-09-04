@@ -1,0 +1,15 @@
+Let's start by adding up the rainfall amounts for each month:
+
+March: 3.79 inches
+April: 4.5 inches
+May: 3.95 inches
+June: 3.09 inches
+July: 4.67 inches
+
+The total rainfall is 3.79 + 4.5 + 3.95 + 3.09 + 4.67 = 16.00 inches
+
+To find the average rainfall, we can divide the total rainfall by the number of months:
+
+16.00 / 4 = 4
+
+Answer: 4

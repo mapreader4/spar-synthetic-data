@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Jack cycles from his home to the store. We don't know the distance, but we'll call it 'x' miles.
+2) It takes Jack twice as long to go from his home to the store as it does to go from the store to his friend Peter. This means the distance from the store to Peter's house is 'x/2' miles.
+3) Jack then cycles 50 miles to his friend Peter's house.
+4) So the total distance Jack has cycled so far is x + x/2 + 50 = 1.5x + 50 miles.
+5) Now, Jack and Peter cycle back to the store together. The distance from Peter's house to the store is also x/2 miles.
+6) So the total distance they have cycled today is 1.5x + 50 + x/2 = 2x + 50 miles.
+
+Answer: 2x + 50 miles.

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Tony can lift 90 pounds with one arm in the exercise known as "the curl"
+* In the exercise known as "the military press," he can lift over his head twice the weight that he can curl
+* To calculate the weight he can lift in the military press:
+    - He can curl 90 pounds with one arm
+    - So with both arms, he can curl 90 x 2 = 180 pounds
+    - In the military press, he can lift twice the weight, so 180 x 2 = 360 pounds
+* His favorite exercise is known as "the squat" and he can squat 5 times the weight that he can lift in the military press
+* To calculate the weight he can lift in the squat exercise:
+    - He can lift 360 pounds in the military press
+    - In the squat exercise, he can lift 5 times that weight, so 360 x 5 = 1,800 pounds
+
+Answer: 1,800 pounds

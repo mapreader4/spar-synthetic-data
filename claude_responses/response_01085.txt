@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Lily has 4 siblings
+* Each of her 4 siblings is bringing 2 suitcases
+* So, the total number of suitcases brought by the 4 siblings is:
+  * 4 siblings x 2 suitcases each = 8 suitcases
+* Lily's parents are bringing 3 suitcases
+* Lily is not bringing any suitcases
+* To find the total number of suitcases the entire family is bringing, we add the suitcases brought by the siblings and the parents:
+  * 8 suitcases (siblings) + 3 suitcases (parents) = 11 suitcases
+
+Answer: 11

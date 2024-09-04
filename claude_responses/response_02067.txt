@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+1) The group of 6 students needs at least $450 each to go on the trip.
+2) They also need $3000 for their collective expenses.
+3) So the total amount they need to raise is:
+   - 6 students x $450 each = $2,700
+   - Plus $3,000 for collective expenses
+   - Total needed = $2,700 + $3,000 = $5,700
+4) On the first 3 days, they raised:
+   - Day 1: $600
+   - Day 2: $900
+   - Day 3: $400
+   - Total raised in first 3 days = $600 + $900 + $400 = $1,900
+5) For the next 4 days, they raised half of what they raised in the first 3 days:
+   - Half of $1,900 = $950
+6) The total they have raised so far is:
+   - $1,900 + $950 = $2,850
+7) The amount they still need to raise is:
+   - $5,700 - $2,850 = $2,850
+8) Dividing the remaining amount by the 6 students, we get:
+   - $2,850 / 6 = $475
+
+Answer: $475

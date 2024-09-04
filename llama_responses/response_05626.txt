@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's first find the number of students who voted.
+
+25% of 2000 is 25/100 * 2000 = 500.
+
+The winner got 55% of the votes, so the winner got 55/100 * 2000 = 1100 votes.
+
+The loser got the rest, which is 2000 - 500 = 1500 votes.
+
+To find the difference in votes, we subtract the loser's votes from the winner's votes.
+
+1100 - 1500 = 400.
+
+So, the winner got 400 more votes than the loser.
+
+Answer: 400

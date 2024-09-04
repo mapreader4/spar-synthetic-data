@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* On Monday, Jason sent 220 text messages.
+* On Tuesday, Jason sent half as many text messages as Monday, which is 220 / 2 = 110 text messages.
+* On Wednesday, Thursday, and Friday, Jason sent 50 text messages each day.
+* To calculate the total number of text messages sent over the 5 days, we add up the individual days:
+  - Monday: 220 text messages
+  - Tuesday: 110 text messages
+  - Wednesday: 50 text messages
+  - Thursday: 50 text messages
+  - Friday: 50 text messages
+* The total number of text messages sent is 220 + 110 + 50 + 50 + 50 = 480 text messages.
+* To calculate the average number of text messages sent per day, we divide the total by the number of days:
+  - 480 text messages / 5 days = 96 text messages per day on average.
+
+Answer: 96

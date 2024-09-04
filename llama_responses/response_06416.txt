@@ -1,0 +1,10 @@
+Let's break down the dance move step by step.
+
+1. Frank takes 5 steps back.
+2. Then, he takes 10 steps forward.
+3. Then, he takes 2 steps back.
+4. Then, he takes 2 * 10 = 20 steps forward.
+
+So, the total number of steps forward is 5 - 5 + 10 - 2 + 20 = 18.
+
+Answer: 18

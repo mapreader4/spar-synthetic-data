@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the total number of maggots Bogan served the beetle is 20.
+
+The beetle ate 1 maggots the first time, so we subtract 1 from 20, leaving us with 19 maggots left.
+
+The beetle ate 3 maggots the second time, so we subtract 3 from 19, leaving us with 16 maggots left.
+
+So, the number of maggots Bogan attempted to feed the beetle the second time is 3.
+
+Answer: 3

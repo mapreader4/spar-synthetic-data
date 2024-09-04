@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* The man has 3 hectares of land
+* He divides this land evenly among his 8 sons
+* Each son gets 3 hectares / 8 sons = 0.375 hectares of land
+* 1 hectare = 10,000 m^2
+* So each son gets 0.375 hectares x 10,000 m^2/hectare = 3,750 m^2 of land
+* Every 750 m^2 of this land can be used to make a profit of $500 from every 3 months of commercial farming
+* So in 1 year (4 quarters), each 750 m^2 can make a profit of 4 x $500 = $2,000
+* Each son has 3,750 m^2 of land
+* 3,750 m^2 / 750 m^2 = 5 units of 750 m^2
+* So each son can make a profit of 5 x $2,000 = $10,000 in 1 year.
+
+Answer: $10,000

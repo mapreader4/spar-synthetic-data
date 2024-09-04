@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we need to find out how many scoops are needed in total. Ethan wants 1 scoop of vanilla and 1 scoop of chocolate, so that's 2 scoops. Lucas, Danny, and Connor want 2 scoops of chocolate each, so that's 6 scoops. Olivia wants 1 scoop of vanilla and 1 scoop of strawberry, so that's 2 scoops. Shannon wants twice as much as Olivia, so that's 4 scoops.
+
+In total, we have: 2 + 6 + 2 + 4 = 14 scoops.
+
+The carton has 10 scoops in total. 10 - 14 = 4 scoops will be left.

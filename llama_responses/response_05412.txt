@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+First, the coach pours 200 milliliters of water for each of the 30 players. So, the total amount of water poured is:
+
+30 players * 200 milliliters = 6000 milliliters
+
+Now, 250 milliliters of water was spilled. So, we need to subtract 250 from the total amount of water poured:
+
+6000 milliliters - 250 milliliters = 5750 milliliters
+
+So, the amount of water left over is 5750 milliliters.
+
+Answer: 5750

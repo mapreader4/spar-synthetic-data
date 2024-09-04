@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* On Saturday, Lassie ate half of her bones.
+* On Sunday, she received 10 more bones.
+* She now has a total of 35 bones.
+
+Let's start by finding out how many bones she had after eating half of them on Saturday.
+* If she ate half of her bones on Saturday, then the remaining bones would be half of the original amount.
+* Let's call the original amount of bones "x".
+* After eating half on Saturday, she would have x/2 bones.
+
+Now, on Sunday she received 10 more bones, so the total number of bones she has is:
+* x/2 + 10 = 35
+
+Solving for x:
+* x/2 + 10 = 35
+* x/2 = 25
+* x = 50
+
+Therefore, Lassie started with 50 bones before eating them on Saturday.
+
+Answer: 50

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The warehouse is 600 feet long and 400 feet wide
+* The perimeter of the warehouse is 2 * (600 feet + 400 feet) = 2000 feet
+* Carson is supposed to circle the warehouse 10 times
+* However, he skips 2 times
+* So, he circles the warehouse 8 times
+* The total distance he walks is 8 * 2000 feet = 16,000 feet
+
+Answer: 16,000 feet

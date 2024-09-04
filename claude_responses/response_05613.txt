@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Pete's memory card can hold 3,000 pictures of 8 megabytes each
+* We want to find how many pictures it can hold of 6 megabytes each
+
+To do this, we need to calculate the total storage capacity of the memory card:
+* Total storage capacity = 3,000 pictures x 8 megabytes per picture = 24,000 megabytes
+
+Now, we can divide the total storage capacity by the size of each picture to find the number of pictures it can hold:
+* Number of pictures = 24,000 megabytes / 6 megabytes per picture = 4,000 pictures
+
+Answer: 4,000

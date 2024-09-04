@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Melissa bought 4 packs of tennis balls
+* Each pack costs $24 in total
+* Each pack contains 3 balls per pack
+* To find the cost per tennis ball, we need to divide the total cost by the total number of tennis balls
+
+First, let's find the total number of tennis balls:
+* 4 packs x 3 balls per pack = 12 tennis balls
+
+Now, let's find the cost per tennis ball:
+* Total cost: $24
+* Total number of tennis balls: 12
+* Cost per tennis ball: $24 / 12 = $2
+
+Answer: 2

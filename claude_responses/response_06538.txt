@@ -1,0 +1,12 @@
+Okay, let's think this through step-by-step:
+1) The total length of the path is 900 feet.
+2) A fence pole is placed every 6 feet along the path.
+3) The entire path is lined with a fence, except for a 42-foot bridge.
+4) To find the number of fence poles, we need to subtract the length of the bridge (42 feet) from the total length of the path (900 feet).
+5) 900 feet - 42 feet = 858 feet.
+6) Since a fence pole is placed every 6 feet, we divide the remaining length (858 feet) by 6 to find the number of fence poles.
+7) 858 feet / 6 feet per pole = 143 poles.
+8) Since the fence is placed on both sides of the path, we need to double the number of poles.
+9) 143 poles x 2 = 286 poles.
+
+Answer: 286

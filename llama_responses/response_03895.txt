@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Joseph has 16 baseball cards initially.
+2. He gave 3/8 of the cards to his brother. To find 3/8 of the cards, we can multiply 16 by 3 and divide by 8, which gives us 6.
+3. Then, he gave 2 cards to his brother. This leaves Joseph with 16 - 6 - 2 = 8 cards.
+4. So, the percentage of cards left to Joseph is 8/16, which is 50%.
+
+Answer: 50.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Mark pays the cashier $7.00 with a $7.00 bill. So, the cashier will give Mark the change.
+
+Step 2: The change is $0.00, since the bill was paid in full.
+
+Step 3: The cashier only has a 1 quarter and a 1 dime, which is $0.25. Since the change is $0.00, the cashier does not have enough coins to give Mark as change.
+
+Step 4: Mark will receive 0 quarters and 0 dimes.
+
+Answer: 0

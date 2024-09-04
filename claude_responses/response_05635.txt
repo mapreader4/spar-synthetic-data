@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Mr. Ray has 100 customers waiting at his fish market
+* He has 10 tuna, each weighing 200 pounds
+* Each customer wants 25 pounds of tuna
+* The store is first come, first served
+
+First, we need to calculate the total amount of tuna available:
+* 10 tuna x 200 pounds per tuna = 2,000 pounds of tuna
+
+Next, we need to calculate how many customers can be served with the available tuna:
+* 2,000 pounds of tuna / 25 pounds per customer = 80 customers
+
+Finally, we can calculate how many customers will go home without any fish:
+* 100 customers - 80 customers served = 20 customers will go home without any fish
+
+Answer: 20

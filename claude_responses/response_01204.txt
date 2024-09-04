@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 8 more solar systems for every planet in the galaxy
+* There are 20 planets in the galaxy
+* To find the total number of solar systems, we need to multiply the number of planets (20) by the number of solar systems per planet (8)
+* 20 planets x 8 solar systems per planet = 160 solar systems
+* To find the total number of planets, we know there are 20 planets
+* Therefore, the total number of solar systems and planets is the sum of the number of solar systems (160) and the number of planets (20)
+* 160 solar systems + 20 planets = 180 total
+
+Answer: 180

@@ -1,0 +1,19 @@
+Let's break down the information we have:
+
+* Billy swims his first 5 laps in 2 minutes, which is 120 seconds.
+* He swims the next 3 laps in 4 minutes, which is 240 seconds.
+* He swims the next lap in 1 minute, which is 60 seconds.
+* Billy finishes all his laps 30 seconds before Margaret, who finishes in 10 minutes, which is 600 seconds.
+* We can set up an equation to represent the time it takes Billy to finish all his laps: 120 + 240 + 60 + x = 600 - 30, where x is the time it takes Billy to swim his final lap.
+
+Now, let's solve for x:
+
+120 + 240 + 60 + x = 570
+
+x = 570 - 420
+
+x = 150
+
+So, it takes Billy 150 seconds to swim his final lap.
+
+Answer: 150

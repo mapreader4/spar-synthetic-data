@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+1. The total amount of the loan is $100.00 per month for 12 months. To find the total amount, we multiply the monthly payment by the number of months:
+
+$100.00 x 12 = $1200.00
+
+2. The one-time interest fee is 10% of the total amount, which is:
+
+$1200.00 x 0.10 = $120.00
+
+3. The total amount Aaron owes his dad is the total loan amount plus the interest fee:
+
+$1200.00 + $120.00 = $1320.00
+
+Answer: 1320

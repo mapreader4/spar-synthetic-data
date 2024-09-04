@@ -1,0 +1,11 @@
+Let's start by identifying the information given in the problem. Cheryl has thrice as many colored pencils as Cyrus. So if Cheryl has 63 colored pencils, then Cyrus has 21 colored pencils. Madeline has half of what Cheryl has, which is 21. 
+
+So, we have:
+
+* Cheryl has 63 colored pencils
+* Cyrus has 21 colored pencils
+* Madeline has 21 colored pencils
+
+To find the total number of colored pencils the three of them have, we need to add the number of colored pencils each of them has: 63 + 21 + 21. 
+
+Answer: 105

@@ -1,0 +1,14 @@
+Okay, let's break this down step by step:
+* Each candy necklace is made up of 10 pieces of candy
+* Each block of candy produces 30 pieces of candy
+* Jan breaks down 3 blocks of candy
+
+First, we need to calculate the total number of pieces of candy that Jan has:
+* 3 blocks of candy x 30 pieces per block = 90 pieces of candy
+
+Now, we need to figure out how many candy necklaces can be made with 90 pieces of candy:
+* 90 pieces of candy / 10 pieces per necklace = 9 candy necklaces
+
+Since Jan is making a necklace for herself, the remaining 8 necklaces are for her friends.
+
+Answer: 8

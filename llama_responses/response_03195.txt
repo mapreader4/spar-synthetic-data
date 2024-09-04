@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+James has 5 packs of sodas, and each pack has 12 sodas. So, he has a total of 5 x 12 = 60 sodas.
+
+He has 10 sodas already, so he has 60 - 10 = 50 sodas left.
+
+He finishes all the sodas in 7 days, so he drinks 50 / 7 = 7 sodas a day.
+
+Answer: 7

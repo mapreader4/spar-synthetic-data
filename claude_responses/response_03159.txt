@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Layla has 2 Goldfish, and each Goldfish gets 1 teaspoon of food.
+* So for the 2 Goldfish, the total amount of food is 2 * 1 = 2 teaspoons.
+* Layla has 3 Swordtails, and each Swordtail gets 2 teaspoons of food.
+* So for the 3 Swordtails, the total amount of food is 3 * 2 = 6 teaspoons.
+* Layla has 8 Guppies, and each Guppy gets 0.5 (half) a teaspoon of food.
+* So for the 8 Guppies, the total amount of food is 8 * 0.5 = 4 teaspoons.
+* To get the total amount of food, we add up the amounts for each type of fish:
+* 2 teaspoons (Goldfish) + 6 teaspoons (Swordtails) + 4 teaspoons (Guppies) = 12 teaspoons.
+
+Answer: 12

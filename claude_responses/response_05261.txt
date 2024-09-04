@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Jerry's household can only use 1000 gallons of water during July
+* Jerry uses 100 gallons for drinking and cooking
+* Jerry uses 20 gallons per shower
+* Jerry wants to fill his pool, which measures 10 feet by 10 feet by 6 feet
+* Each gallon of water fills 1 cubic foot of the pool
+
+First, we need to calculate the volume of the pool:
+* Volume of the pool = 10 feet x 10 feet x 6 feet = 600 cubic feet
+
+Since each gallon of water fills 1 cubic foot of the pool, we know that Jerry can use 600 gallons of water to fill the pool.
+
+Now, we need to calculate how many gallons of water Jerry has left for showers:
+* Total water usage = 100 gallons (drinking and cooking) + 600 gallons (pool) = 700 gallons
+* Remaining water for showers = 1000 gallons - 700 gallons = 300 gallons
+
+Finally, we can calculate how many showers Jerry can take:
+* Each shower uses 20 gallons
+* 300 gallons / 20 gallons per shower = 15 showers
+
+Answer: 15 showers

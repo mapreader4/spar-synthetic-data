@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many hours Yella's computer usage was last week. It was 91 hours.
+
+Next, let's find out how many hours Yella plans to use the computer this week. She plans to use it 8 hours a day for 7 days in a week. That is a total of 56 hours.
+
+Now, to find out how much less her computer usage is this week, we need to subtract the hours she plans to use this week from the hours she used last week.
+
+91 - 56 = 35
+
+Answer: 35

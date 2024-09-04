@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Paul's dad promised him $5 for every B+ he gets
+* He promised twice that amount, which is $10, for every A
+* If Paul obtains at least two A+, he'll double the previous rewards
+* He would receive a flat $15 for every A+ obtained (with no extra bonus)
+* There are 10 courses with grades in Paul's scorecard
+
+First, let's calculate the maximum number of A+ grades Paul could get. Since there are 10 courses, the maximum number of A+ grades is 10.
+
+Next, let's calculate the maximum number of A grades Paul could get. Since the reward for A+ is $15, and the reward for A is $10, it would be better for Paul to get as many A+ as possible. So, the maximum number of A grades he could get is 10 - (number of A+ grades).
+
+Finally, let's calculate the maximum number of B+ grades Paul could get. Since the reward for A+ is $15, and the reward for A is $10, it would be better for Paul to get as many A+ and A grades as possible. So, the maximum number of B+ grades he could get is 10 - (number of A+ grades) - (number of A grades).
+
+Now, let's calculate the maximum amount Paul could receive from his dad:
+* Maximum number of A+ grades: 10
+* Maximum number of A grades: 10 - 10 = 0
+* Maximum number of B+ grades: 10 - 10 - 0 = 0
+* Total reward:
+  - A+: 10 x $15 = $150
+  - A: 0 x $10 = $0
+  - B+: 0 x $5 = $0
+  - Total: $150
+
+Answer: $150

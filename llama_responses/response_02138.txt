@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the number of tables the carpenter made last month was x. Then, this month, he made 10 tables. So, the difference between the number of tables made this month and the number of tables made last month is 10 - x.
+
+We can represent this difference as an equation: 10 - x = 10.
+
+To solve for x, we can add 10 to both sides of the equation to get:
+
+10 + x = 20.
+
+Then, we can subtract 10 from both sides of the equation to get:
+
+x = 10.
+
+So, the carpenter made 10 tables last month, and 10 tables this month. Therefore, the total number of tables made by the carpenter in total is 10 + 10 = 20.
+
+Answer: 20

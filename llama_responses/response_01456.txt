@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of fishes caught by Jackson per day: 6 fishes per day.
+
+Next, let's find the total number of fishes caught by Jonah per day: 4 fishes per day.
+
+Now, let's find the total number of fishes caught by George per day: 8 fishes per day.
+
+Now, let's find the total number of fishes caught by all three fishermen combined. To do this, we need to add the number of fishes caught by Jackson, Jonah, and George. We have:
+
+6 + 4 + 8 = 18
+
+So, the total number of fishes caught by all three fishermen combined is 18.
+
+Answer: 18

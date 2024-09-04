@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* 1 cup of chickpeas = 6 ounces
+* 1 can of chickpeas = 16 ounces
+
+We want to make 20 servings of hummus. To find out how many cans of chickpeas Thomas should buy, we need to find how many ounces of chickpeas are needed for 20 servings.
+
+Since 1 cup of chickpeas = 6 ounces, we know that 20 servings will require 20 x 6 ounces = 120 ounces of chickpeas.
+
+Since 16 ounces is the amount in one can of chickpeas, we can divide the total ounces needed (120) by the ounces in one can (16) to find how many cans of chickpeas Thomas should buy:
+
+120 ounces / 16 ounces = 7.5 cans
+
+So, Thomas should buy 8 cans of chickpeas.

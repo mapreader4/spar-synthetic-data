@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Steven has three trucks that can each carry up to 2,000 pounds of cargo
+* The boxes come in two weights: 10 pounds and 40 pounds
+* The customer has ordered equal quantities of both the lighter and heavier products
+* Since partially filled boxes can't be shipped, we need to find the maximum number of complete boxes that can be shipped in each delivery
+
+First, let's calculate the total weight capacity of the three trucks:
+* 3 trucks x 2,000 pounds per truck = 6,000 pounds total capacity
+
+Now, let's consider the weight of the boxes:
+* 10 pound boxes and 40 pound boxes
+* The customer has ordered equal quantities of both
+* So we need to ship an equal number of 10 pound and 40 pound boxes
+
+The total weight of the boxes shipped must be less than or equal to the total truck capacity of 6,000 pounds.
+* Let x = number of 10 pound boxes
+* Let y = number of 40 pound boxes
+* Total weight = 10x + 40y ≤ 6,000 pounds
+* Since x = y, we can substitute y for x:
+* 10y + 40y ≤ 6,000
+* 50y ≤ 6,000
+* y ≤ 120
+
+Therefore, the maximum number of boxes that can be shipped in each delivery is 120 boxes of each type, for a total of 240 boxes.
+
+Answer: 240

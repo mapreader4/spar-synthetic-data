@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Minnie mounts three more horses per day than there are days in a week.
+   * There are 7 days in a week.
+   * So Minnie mounts 7 + 3 = 10 horses per day.
+2) Mickey mounts six less than twice as many horses per day as Minnie.
+   * Twice as many as Minnie is 2 * 10 = 20 horses per day.
+   * Six less than that is 20 - 6 = 14 horses per day.
+3) To find how many horses Mickey mounts per week, we multiply his daily amount by the number of days in a week.
+   * 14 horses per day * 7 days per week = 98 horses per week.
+
+Answer: 98

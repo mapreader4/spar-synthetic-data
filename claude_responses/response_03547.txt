@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) James gets a total of 6 vans.
+2) 2 of the vans have a capacity of 8000 gallons each.
+3) 1 of the vans has a capacity that is 30% less than the 8000 gallons vans.
+   * 30% of 8000 gallons is 0.3 * 8000 = 2400 gallons.
+   * So the capacity of this van is 8000 - 2400 = 5600 gallons.
+4) The remaining 3 vans have a capacity that is 50% larger than the 8000 gallons vans.
+   * 50% of 8000 gallons is 0.5 * 8000 = 4000 gallons.
+   * So the capacity of each of these 3 vans is 8000 + 4000 = 12000 gallons.
+5) Now we can calculate the total transport capacity:
+   * 2 vans at 8000 gallons each = 16000 gallons
+   * 1 van at 5600 gallons = 5600 gallons
+   * 3 vans at 12000 gallons each = 36000 gallons
+   * Total transport capacity = 16000 + 5600 + 36000 = 57600 gallons
+
+Answer: 57600 gallons

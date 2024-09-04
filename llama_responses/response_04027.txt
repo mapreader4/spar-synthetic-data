@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Lionel bought 14 boxes of Graham crackers and 15 packets of Oreos.
+
+To make an Oreo cheesecake, Lionel needs 2 boxes of Graham crackers and 3 packets of Oreos.
+
+To find the maximum number of Oreo cheesecakes Lionel can make, we need to divide the total number of Oreos by 3. 15 packets of Oreos divided by 3 is 5.
+
+So, Lionel can make 5 Oreo cheesecakes.
+
+Each Oreo cheesecake requires 2 boxes of Graham crackers. So, Lionel uses 2 * 5 = 10 boxes of Graham crackers for the Oreo cheesecakes.
+
+Lionel bought 14 boxes of Graham crackers initially. After using 10 boxes for the Oreo cheesecakes, he has:
+
+14 - 10 = 4
+
+So, Lionel has 4 boxes of Graham crackers left over.
+
+Answer: 4

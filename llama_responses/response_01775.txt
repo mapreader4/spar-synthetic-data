@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the first student counted x squirrels. Then, the second student counted x + 3 squirrels. We know that the second student counted a third more squirrels than the first student, so we know that x + 3 < x. We can solve for x, which is the number of squirrels the first student counted.
+
+x = x + 3 - 12 = 3
+
+So, the first student counted 9 squirrels.
+
+To find the total number of squirrels counted by both students, we can add the number of squirrels counted by each student:
+
+9 + 12 = 21
+
+Answer: 21

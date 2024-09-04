@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+We know that there were 349 pieces of candy initially in the bowl.
+
+Talitha took 108 pieces, so we subtract 108 from the total amount to get the remaining amount:
+
+349 - 108 = 241
+
+Then Solomon took 153 pieces, so we subtract 153 from the remaining amount:
+
+241 - 153 = 88
+
+So, the number of pieces of candy remaining in the bowl is 88.

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Tom invites his parents and 3 siblings, so that's a total of 6 people (Tom, his parents, and 3 siblings)
+* Each person eats 3 times a day
+* Each person uses 2 plates per meal
+* They are there for 4 days
+
+To calculate the total number of plates used:
+* Number of people: 6
+* Meals per day: 3
+* Plates per meal: 2
+* Days: 4
+* Total plates used = 6 people x 3 meals per day x 2 plates per meal x 4 days
+* = 6 x 3 x 2 x 4
+* = 144
+
+Answer: 144

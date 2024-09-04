@@ -1,0 +1,25 @@
+Let's break this down step by step.
+
+Let's start by finding out how many days it will take John to get to 15 reps.
+
+John starts with 0 reps and adds 1 rep each day. So, the number of reps increases by 1 each day. To find the number of days it will take him to get to 15 reps, we can use the formula:
+
+Total number of reps = Initial number of reps + Number of reps added per day x Number of days
+
+In this case, the initial number of reps is 0, the number of reps added per day is 1, and the number of days is x. So, we can set up the equation:
+
+0 + 1x = 15
+
+To solve for x, we can subtract 0 from both sides of the equation:
+
+1x = 15
+
+x = 15
+
+So, it will take John 15 days to get to 15 reps.
+
+Now, John will then do high elevation push-ups, and then low elevation push-ups, and finally floor push-ups. Let's assume it takes him the same number of days to do each type of push-ups. So, we can multiply the total number of days it took him to get to 15 reps by 3 (since he does each type of push-ups once):
+
+15 days x 3 = 45 days
+
+So, it will take John 45 days to get to floor push-ups.

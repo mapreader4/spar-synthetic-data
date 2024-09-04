@@ -1,0 +1,7 @@
+Let's break down the problem step by step:
+
+1. Guitar Center has a 15% off deal, so the discounted price would be 1000 - (1000 * 0.15) = 1000 - 150 = $850.
+2. Sweetwater has a 10% off deal with free shipping, so the discounted price would be 1000 - (1000 * 0.10) = 1000 - 100 = $900.
+3. To find the difference in price between the two stores, we need to subtract the Guitar Center price from the Sweetwater price: 900 - 850 = $50.
+
+Answer: 50

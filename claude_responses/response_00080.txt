@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Jennifer initially purchased 40 cans of milk
+* For every 5 cans Mark bought, Jennifer bought 6 additional cans
+* Mark purchased 50 cans
+
+To calculate how many additional cans Jennifer bought:
+* Mark bought 50 cans
+* For every 5 cans Mark bought, Jennifer bought 6 additional cans
+* So, 50 cans / 5 cans per set = 10 sets
+* 10 sets * 6 additional cans per set = 60 additional cans
+
+Now, we can calculate the total number of cans Jennifer brought home:
+* Jennifer initially bought 40 cans
+* Jennifer bought an additional 60 cans
+* Total cans Jennifer brought home = 40 + 60 = 100 cans
+
+Answer: 100

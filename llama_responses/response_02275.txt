@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by letting x be the number of apples Mary ate. We know that Mary bought 6 apples and from the apples she bought, for each that Mary ate, she planted two trees from the remaining ones. So, the number of apples Mary ate is 6 - 2x.
+
+We can represent this as the equation 6 - 2x = 4.
+
+Since Mary ate some apples, she must have eaten some of the apples. So, the number of apples Mary ate is 4.
+
+Answer: 4

@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Tommy's mother lets him ride his bike:
+
+2 blocks north = 2 blocks
+3 blocks east = 3 blocks
+2 blocks west = -2 blocks (because he is going in the opposite direction)
+2 blocks south = -2 blocks (because he is going in the opposite direction)
+
+So, Tommy's total distance is 2 + 3 - 2 - 2 = 1 block.
+
+His friend's father lets his friend ride his bike 80 square blocks.
+
+To find the area, we need to multiply the number of blocks by the number of blocks per side. So, it's 80 * 80 = 6400 square blocks.
+
+To find the difference between the two, we need to subtract 1 block from 6400. So, it's 6400 - 1 = 6399.
+
+Answer: 6399

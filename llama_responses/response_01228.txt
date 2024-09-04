@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's say the number of drums of paint the paint mixer makes in one day is x.
+
+Then, to make 18 drums of paint, it takes him 3 days. So, the number of drums of paint the paint mixer makes in one day is 18/3 = 6.
+
+Now, to make 360 drums of paint, we need to find out how many days it will take. We know that 360/6 = 60.
+
+So, the paint mixer will take 60 days to make 360 drums of paint.
+
+Answer: 60

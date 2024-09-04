@@ -1,0 +1,13 @@
+Let's break down the information given:
+
+1/4 of the 400 emails are spam emails, which is equal to 100 emails.
+2/5 of the remaining emails are promotional messages, which is equal to 160 emails.
+The remaining emails are the important emails.
+
+We can find the number of important emails by subtracting the spam and promotional emails from the total number of emails:
+
+400 - 100 (spam) - 160 (promotional) = 140
+
+So, the total number of important emails in her inbox is 140.
+
+Answer: 140

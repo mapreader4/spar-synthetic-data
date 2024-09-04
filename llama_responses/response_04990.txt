@@ -1,0 +1,26 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Leo dropped off 10 pairs of trousers and some shirts at Sudsy Laundry.
+* The bill was $140, which is the total cost of the shirts and trousers.
+* The cost of each shirt is $5, and the cost of each pair of trousers is $9.
+* The attendant initially said that Leo had only dropped off 2 shirts.
+
+We can start by finding the cost of the 2 shirts that the attendant reported that Leo dropped off. 2 shirts x $5 per shirt = 2 x 5 = 10.
+
+So, the total cost of the 2 shirts that Leo dropped off is $10.
+
+Now, we know that the total cost of the bill was $140. The cost of the 10 pairs of trousers is 10 x 9 = 90. 90 + 10 = 100. So, the total cost of the trousers and shirts should be $100.
+
+But the total cost of the bill was $140, which is 40 less than the expected total cost of the trousers and shirts. This means that some shirts are missing.
+
+Let's find the difference between the total cost of the bill and the expected total cost:
+
+$140 - 100 = 40.
+
+Since the cost of each shirt is $5, we can divide the difference by 5 to find the number of missing shirts:
+
+40 ÷ 5 = 8.
+
+So, 8 shirts were missing.

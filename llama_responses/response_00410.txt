@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Let's first convert the number of jumps to the number of hours.  Mark jumps 3 times a second, so he jumps 3 x 60,000 times a second.  The total number of jumps is 3 x 60,000.
+
+2. Since there are 60 seconds in an hour, we can convert the number of jumps to hours. 60,000 jumps / 60 seconds = 1,000 jumps per hour.
+
+3. Mark jumps 1,000 times a second, so he jumps 1,000 times per hour.  If he does this for 24 hours, he jumps 24 x 1,000 = 24,000 times in a day.
+
+4. So, to set the record for most consecutive ropes jumped, Mark would need to jump 24,000 times.
+
+Answer: 24,000

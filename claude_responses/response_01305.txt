@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Randy has 1 more baseball glove than 7 times the number of bats he has.
+* This means that the number of baseball gloves he has is equal to 7 times the number of bats plus 1.
+* We are told that he has 29 baseball gloves.
+* So we can set up an equation:
+* 29 = 7x + 1, where x is the number of bats he has.
+* Solving for x, we get:
+* 29 - 1 = 7x
+* 28 = 7x
+* x = 4
+
+Answer: 4

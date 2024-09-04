@@ -1,0 +1,11 @@
+Let's start by identifying the number of zebras. We know there are 15 foxes and three times as many zebras as foxes, so the number of zebras is 3 x 15 = 45.
+
+We also know there are 20 cows and 15 foxes, so the total number of cows and foxes is 20 + 15 = 35.
+
+Now, let's add the number of zebras to the number of cows and foxes: 35 + 45 = 80.
+
+We know the total number of animals needs to be 100 to ensure a smooth sail, so we need to add more animals to the yacht. Since we're adding sheep, we can subtract the number of cows, foxes, and zebras from the total number of animals: 100 - 80 = 20.
+
+This means we need to add 20 sheep to the yacht to make it sail-worthy.
+
+Answer: 20

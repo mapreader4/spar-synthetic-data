@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Sarah starts with an unknown amount of money.
+
+She buys 2 toy cars for $11 each, so she spends 2 x 11 = 22 dollars.
+
+After spending 22 dollars, she has some money left.
+
+Then, she buys a scarf for $10, so she spends another 10 dollars.
+
+After spending 10 dollars, she has some money left.
+
+Then, she buys a beanie for $14, so she spends another 14 dollars.
+
+After spending 14 dollars, she has 7 dollars left.
+
+This means that before buying the beanie, she had 7 + 14 = 21 dollars left.
+
+So, Sarah started with 21 + 22 + 10 = 53 dollars.

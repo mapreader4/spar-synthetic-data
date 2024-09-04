@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+There are 4 tiger enclosures in a row. Behind each of these are 2 zebra enclosures, so there are 4 x 2 = 8 zebra enclosures. There are 3 times as many giraffe enclosures as zebra enclosures, so there are 8 x 3 = 24 giraffe enclosures.
+
+The tiger enclosures hold 4 tigers, the zebra enclosures hold 10 zebras, and the giraffe enclosures hold 2 giraffes. So, the total number of animals is 4 + 10 + 2 = 16.
+
+Answer: 16

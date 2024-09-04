@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of berries they picked:
+
+Iris picked 30 blueberries, her sister picked 20 cranberries, and her brother picked 10 raspberries. So, the total number of berries they picked is:
+
+30 (blueberries) + 20 (cranberries) + 10 (raspberries) = 60
+
+Now, 1/3 of the total berries are rotten. So, the rotten berries are:
+
+60 x 1/3 = 20
+
+So, the remaining berries that are not rotten are:
+
+60 - 20 = 40
+
+Now, 1/2 of the fresh berries need to be kept. So, the number of berries they will be able to sell is:
+
+40 x 1/2 = 20
+
+Answer: 20

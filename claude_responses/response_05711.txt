@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Biff spends $11 on the ticket, $3 on drinks and snacks, and $16 on a new pair of headphones
+* The total amount Biff has spent so far is $11 + $3 + $16 = $30
+* Biff makes $12/hour working online, but has to pay $2/hour to access the bus's WiFi
+* So, Biff's net earnings per hour is $12 - $2 = $10/hour
+* For Biff to break even, he needs to earn $30 from working online
+* To calculate how many hours the bus ride needs to be, we divide the total amount spent ($30) by Biff's net earnings per hour ($10/hour)
+* $30 / $10/hour = 3 hours
+
+Answer: 3

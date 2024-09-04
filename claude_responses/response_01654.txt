@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* The garden is a rectangular plot 225 feet long by 125 feet wide.
+* Bob wants to have a 3-foot wide gate and a 10-foot wide gate.
+* To calculate the total fencing needed, we need to find the perimeter of the garden, and then subtract the width of the two gates.
+
+The perimeter of the garden is:
+* 2 x (225 feet + 125 feet) = 2 x 350 feet = 700 feet
+
+The width of the two gates is:
+* 3 feet + 10 feet = 13 feet
+
+Therefore, the total fencing needed is:
+* 700 feet - 13 feet = 687 feet
+
+Answer: 687

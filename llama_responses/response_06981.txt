@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Boris has 100 pieces of Halloween candy initially.
+
+He eats 8 pieces of candy, so he is left with 100 - 8 = 92 pieces of candy.
+
+He separates the 92 pieces of candy into 4 equal portions into 4 different bowls. So, 92 / 4 = 23 pieces of candy are in each bowl.
+
+Then, he takes away 3 pieces of candy from each bowl to keep for himself. So, he takes 3 * 4 = 12 pieces of candy for himself.
+
+So, each bowl has 23 - 12 = 11 pieces of candy left.
+
+Answer: 11

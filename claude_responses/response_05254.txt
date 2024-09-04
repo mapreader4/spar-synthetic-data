@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) Shawn collected 40 plain pebbles.
+2) He painted 9 pebbles red and 13 pebbles blue.
+3) The remaining pebbles are 40 - 9 - 13 = 18 pebbles.
+4) He divided the remaining 18 pebbles equally into 3 groups, so each group has 18 / 3 = 6 pebbles.
+5) He painted one group purple, one group yellow, and one group green.
+6) So the number of blue pebbles is 13, and the number of yellow pebbles is 6.
+7) The difference between the number of blue and yellow pebbles is 13 - 6 = 7.
+
+Answer: 7

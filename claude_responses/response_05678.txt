@@ -1,0 +1,14 @@
+Okay, let's think this through step-by-step:
+1) The train has some number of passenger cars, let's call this number x.
+2) The number of cargo cars is equal to half the number of passenger cars plus three. So the number of cargo cars is (x/2) + 3.
+3) The total number of cars in the train is 71, counting the engine and caboose.
+4) So the total number of cars is x + (x/2) + 3 + 2 = 71.
+5) Solving this equation, we get:
+x + (x/2) + 5 = 71
+3x/2 + 5 = 71
+3x = 132
+x = 44
+
+Therefore, the number of passenger cars in the train is 44.
+
+Answer: 44

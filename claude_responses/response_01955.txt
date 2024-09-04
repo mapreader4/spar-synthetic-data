@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Ned sells left-handed mice, which cost 30% more than normal mice.
+2) Normal mice cost $120.
+3) The left-handed mice cost $120 + (30% of $120) = $120 + $36 = $156.
+4) Ned sells 25 left-handed mice per day.
+5) The store is open every day except Sunday, Thursday, and Friday, which is 4 days per week.
+6) Therefore, Ned sells 25 mice x 4 days = 100 mice per week.
+7) Each mouse sells for $156.
+8) The total revenue per week is 100 mice x $156 = $15,600.
+
+Answer: $15,600.

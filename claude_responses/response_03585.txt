@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Colt and Curt originally prepared 113 meals.
+2) Sole Mart provided an additional 50 meals.
+3) So the total number of meals available is 113 + 50 = 163 meals.
+4) Colt and Curt have already given away 85 meals.
+5) To find the number of meals left to be distributed, we take the total number of meals (163) and subtract the number of meals already given away (85).
+6) 163 - 85 = 78 meals.
+
+Answer: 78

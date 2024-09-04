@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by adding the number of spelling badges that Hermione and Luna have together. Hermione has 14 and Luna has 17, so we add those numbers together to get 14 + 17 = 31.
+
+Since Celestia has a total of 83 spelling badges, and Hermione and Luna have 31, we can subtract 31 from 83 to find the number of spelling badges Celestia has. 
+
+83 - 31 = 52.
+
+Answer: 52

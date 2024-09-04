@@ -1,0 +1,21 @@
+Let's break this down step by step:
+
+Let's start by identifying the total number of marbles Percius has. 40% are clear, 20% are black, and the remainder are other colors. To find the total number of marbles, we can set up an equation:
+
+40% + 20% + (100% - 40% - 20%) = 100%
+
+40% + 20% = 60%
+100% - 40% = 60%
+100% - 20% = 80%
+
+So, the total number of marbles is 80.
+
+Now, his friend wants to take 5 marbles. We need to find out how many of these marbles are not clear and not black. We can set up an equation to represent the number of marbles of other colors:
+
+Let x be the number of marbles of other colors. The total number of marbles is 80, and his friend is taking 5 marbles, so the number of marbles left is 80 - 5 = 75.
+
+The number of marbles of other colors is 80% - 40% - 20% = 20%. So, the number of marbles of other colors Percius's friend will get is:
+
+20% of 75 = 15
+
+Answer: 15

@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Molly has 2 parents and 3 brothers, so that's a total of 5 relatives.
+2. Each of her brothers has 2 children, so that's an additional 6 children.
+3. In total, Molly has a total of 5 (relatives) + 6 (children) = 11 relatives.
+4. She sends one package to each relative, so she needs 11 packages.
+5. The cost of each package is $5, so the total cost is 11 x 5 = 55.
+
+Answer: 55

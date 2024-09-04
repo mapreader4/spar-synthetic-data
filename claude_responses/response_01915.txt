@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Building one birdhouse requires 7 planks and 20 nails
+* 1 nail costs $0.05
+* 1 plank costs $3
+* We need to build 4 birdhouses
+
+First, let's calculate the cost of the nails for 4 birdhouses:
+* 20 nails per birdhouse x 4 birdhouses = 80 nails
+* 80 nails x $0.05 per nail = $4
+
+Next, let's calculate the cost of the planks for 4 birdhouses:
+* 7 planks per birdhouse x 4 birdhouses = 28 planks
+* 28 planks x $3 per plank = $84
+
+Finally, to get the total cost, we add the cost of the nails and the cost of the planks:
+* $4 + $84 = $88
+
+Answer: $88

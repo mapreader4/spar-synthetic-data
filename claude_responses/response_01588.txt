@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. The rectangular sail measures 5 inches by 8 inches. To find the area of the rectangular sail, we multiply the length and width:
+   Area of rectangular sail = 5 inches x 8 inches = 40 square inches
+
+2. The first right triangular sail has a base of 3 inches and a height of 4 inches. To find the area of this triangle, we can use the formula: Area = 1/2 * base * height
+   Area of first triangular sail = 1/2 * 3 inches * 4 inches = 6 square inches
+
+3. The second right triangular sail has a base of 4 inches and a height of 6 inches. To find the area of this triangle, we can use the same formula:
+   Area of second triangular sail = 1/2 * 4 inches * 6 inches = 12 square inches
+
+4. To find the total area of canvas needed, we add the areas of the rectangular sail and the two triangular sails:
+   Total area of canvas needed = 40 square inches + 6 square inches + 12 square inches = 58 square inches
+
+Answer: 58 square inches

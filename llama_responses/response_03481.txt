@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start by using the information that Miriam currently has 30 marbles. Let's call the number of marbles Miriam started with x.
+
+Miriam gave her brother 60 marbles, so she now has x - 60 marbles.
+
+She then gave her sister twice that amount, so she gave her sister 2 x 60 = 120 marbles. So, she now has x - 60 - 120 marbles.
+
+She gave her friend Savanna three times the amount she currently has, which is 3 x 30 = 90 marbles. So, she now has x - 60 - 120 - 90 marbles.
+
+We can set up an equation to represent the situation: x - 60 - 120 - 90 = 30.
+
+Simplifying the equation, we get:
+
+x - 210 = 30.
+
+Adding 210 to both sides of the equation, we get:
+
+x = 240.
+
+Answer: 240

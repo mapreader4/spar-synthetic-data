@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students in each class:
+
+* Ms. Cole's fourth-level math class: x
+* Ms. Cole's sixth-level math class: 40
+* Ms. Cole's seventh-level math class: 2x
+
+Since there are four times as many students in the sixth-level math class as in the fourth-level math class, we can set up the equation:
+
+x = 40 / 4
+
+To solve for x, we can divide 40 by 4:
+
+x = 40 / 4
+x = 10
+
+So, Ms. Cole's fourth-level math class has 10 students.
+
+Now, the number of students in the seventh-level math class is twice that of the fourth-level math class:
+
+2x = 2 * 10
+2x = 20
+
+So, Ms. Cole's seventh-level math class has 20 students.
+
+To find the total number of math students Ms. Cole teaches, we add the number of students in all three classes:
+
+10 (fourth-level) + 40 (sixth-level) + 20 (seventh-level) = 70
+
+Answer: 70

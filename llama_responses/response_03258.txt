@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Mr. Castiel prepared 600 boar sausages initially.
+2. He ate 2/5 of them on Monday, which is 2/5 * 600 = 240 sausages.
+3. After eating 240 sausages, the remaining sausages are 600 - 240 = 360.
+4. He ate half of the remaining sausages on Tuesday, which is 1/2 * 360 = 180 sausages.
+5. After eating 180 sausages, the remaining sausages are 360 - 180 = 180.
+6. He ate 3/4 of the remaining sausages on Friday, which is 3/4 * 180 = 135 sausages.
+7. After eating 135 sausages, the remaining sausages are 180 - 135 = 45.
+
+Answer: 45

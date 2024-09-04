@@ -1,0 +1,7 @@
+Let's start by converting the volume of milk in milliliters to ounces. 1 fluid ounce is equal to 30 ml, so 250 ml is equal to 250/30 = 8.33 ounces. 
+
+Since the shopkeeper bought 150 packets of milk, and each packet contains 250 ml of milk, the total volume of milk is 150 * 250 = 37,500 ml. 
+
+To convert this to ounces, we multiply 37,500 ml by 30 ml/1 fl oz, which gives us 1250 ounces. 
+
+Answer: 1250

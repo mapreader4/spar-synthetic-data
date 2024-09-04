@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Carter has a 14-hour road trip
+* He wants to stop every 2 hours to stretch his legs
+* He also wants to make 2 additional stops for food
+* He also wants to make 3 additional stops for gas
+* Each pit stop takes 20 minutes
+
+First, let's calculate the number of stops for stretching his legs:
+* 14 hours / 2 hours per stop = 7 stops
+
+Next, let's add the additional stops for food and gas:
+* 7 stops (for stretching) + 2 stops (for food) + 3 stops (for gas) = 12 total stops
+
+Now, let's calculate the total time spent on the pit stops:
+* 12 stops x 20 minutes per stop = 240 minutes
+* 240 minutes / 60 minutes per hour = 4 hours
+
+Finally, we add the time spent on pit stops to the original 14-hour road trip:
+* 14 hours + 4 hours = 18 hours
+
+Answer: 18 hours

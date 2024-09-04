@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, the Skipper sailed his ship halfway to the destination. Since he traveled due east for 20 hours at a speed of 30 kilometers per hour, we can calculate the distance he traveled:
+
+Distance = Speed x Time = 30 km/h x 20 hours = 600 kilometers
+
+This means the Skipper is 600 kilometers away from the starting point. Since he traveled halfway to the destination, the destination is 2 x 600 = 1200 kilometers away from the starting point.
+
+Now, let's consider the situation after the storm. The Skipper finds out that he is only one-third of the way to his destination. Since the destination is 1200 kilometers away, one-third of the way would be:
+
+1/3 x 1200 = 400 kilometers
+
+This means the Skipper is currently 400 kilometers away from the starting point. However, he was initially 600 kilometers away from the starting point after sailing due east. To find out how many kilometers he was blown backward by the storm, we can subtract the new distance from the initial distance:
+
+600 km - 400 km = 200 kilometers
+
+Answer: 200

@@ -1,0 +1,5 @@
+Let's start by using the information that Michael has 100 cards. We know that Mark has 10 fewer cards than Michael, so Mark has 100 - 10 = 90 cards. We also know that Lloyd has thrice as many cards as Mark, so Lloyd has 90 * 3 = 270 cards.
+
+To find out how many more cards they need in total, we need to find the difference between the total number of cards they have now and the total number of cards they want to have. The total number of cards they have now is 100 + 90 + 270 = 460. They want to have 300 cards in total. The difference is 300 - 460 = -160. So, they need to collect 160 more cards.
+
+Answer: 160

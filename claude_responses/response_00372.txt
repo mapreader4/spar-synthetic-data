@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+* The race distance is 10K (10 kilometers)
+* TJ ran the first half in 20 minutes
+* TJ ran the second half in 30 minutes
+* To calculate the total time, we add the times for the two halves:
+    - 20 minutes + 30 minutes = 50 minutes
+* To calculate the average time per kilometer, we divide the total time by the total distance:
+    - 50 minutes / 10 kilometers = 5 minutes per kilometer
+Answer: 5

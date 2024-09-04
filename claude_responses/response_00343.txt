@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Kim's TV uses 125 watts of electricity per hour
+* She runs it for 4 hours a day
+* So, the total electricity usage per day is:
+    - 125 watts/hour x 4 hours/day = 500 watts/day
+* Electricity costs 14 cents per kW/h
+* To convert to kW/h, we divide by 1000 (since 1 kW = 1000 watts):
+    - 500 watts/day / 1000 = 0.5 kW/h
+* So, the cost per day is:
+    - 0.5 kW/h x 14 cents/kW/h = 7 cents/day
+* To calculate the cost for a week (7 days):
+    - 7 cents/day x 7 days = 49 cents
+
+Answer: 49 cents

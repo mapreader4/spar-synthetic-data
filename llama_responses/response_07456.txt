@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Mary buys 5 apples, which cost $5.
+2. Mary buys 3 oranges, which cost $6.
+3. Mary buys 2 bananas, which cost $6.
+4. For every 5 fruits, the store offers a $1 discount. Since Mary buys a total of 5 + 3 + 2 = 10 fruits, she will get a discount of $10.
+5. Mary will pay the total cost minus the discount, which is $5 + $6 + $6 - $10 = $7.
+
+Answer: 7

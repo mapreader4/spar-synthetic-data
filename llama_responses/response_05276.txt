@@ -1,0 +1,17 @@
+Let's break it down step by step.
+
+There are 20 people in the classroom initially, and 40 of them are girls. This means that the percentage of girls is 40%.
+
+5 new boys join the classroom. This means that the total number of students in the classroom becomes 20 + 5 = 25.
+
+The number of girls remains the same, which is 20. The number of boys is 5.
+
+To find the new percentage of girls, we can use the formula: (number of girls) / (total number of students) * 100.
+
+In this case, the number of girls is 20 and the total number of students is 25. So, we can plug these values into the formula:
+
+(20) / (25) * 100 = (20 / 25) * 100 = 80%
+
+The answer is:
+
+Answer: 80

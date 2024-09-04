@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* In the first hour, Tina puts in 20 coins.
+* In the next two hours, she puts in 30 coins each time, so that's 30 + 30 = 60 coins.
+* In the fourth hour, she puts in 40 coins.
+* So the total number of coins put in so far is 20 + 60 + 40 = 120 coins.
+* In the fifth hour, her mother borrows 20 coins, so the final number of coins left is 120 - 20 = 100 coins.
+
+Answer: 100

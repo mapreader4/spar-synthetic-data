@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Carla has 6 sunflowers and 8 dandelions.
+2) The sunflowers have 9 seeds per plant, so the total number of seeds from the sunflowers is 6 * 9 = 54 seeds.
+3) The dandelions have 12 seeds per plant, so the total number of seeds from the dandelions is 8 * 12 = 96 seeds.
+4) The total number of seeds Carla has is 54 + 96 = 150 seeds.
+5) The number of seeds from the dandelions (96) is 96/150 = 0.64 or 64% of the total seeds.
+
+Answer: 64

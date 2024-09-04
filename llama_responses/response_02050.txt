@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+The first protest lasted for 4 days.  The second protest lasted for 25% longer than the first.  To find the duration of the second protest, we can add 25% to the duration of the first protest.  25% of 4 is 1, so the second protest lasted for 4 + 1 = 5 days.
+
+The total number of days John spent protesting is the sum of the number of days in the first protest and the number of days in the second protest.  4 + 5 = 9.
+
+Answer: 9

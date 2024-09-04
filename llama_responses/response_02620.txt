@@ -1,0 +1,17 @@
+Let's break down the problem step by step:
+
+Ryan started with 36 tokens at the arcade.
+
+Ryan wasted a third of his tokens on Pac-Man, which is 36/3 = 12 tokens.
+
+Ryan wasted a fourth of his tokens on Candy Crush, which is 36/4 = 9 tokens.
+
+Ryan spent 7 tokens on Ski-ball.
+
+Then, his parents bought him seven times as many tokens as he spent on Ski-ball, which is 7 * 7 = 49 tokens.
+
+In total, Ryan wasted 12 + 9 + 49 = 70 tokens.
+
+So, Ryan ended up with 36 - 70 = 26 tokens.
+
+Answer: 26

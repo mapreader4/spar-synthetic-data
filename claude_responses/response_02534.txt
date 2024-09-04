@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+* Rebecca bought 2 pies
+* Each pie was sliced into 8 slices, so there were 16 slices total (2 pies x 8 slices per pie)
+* Rebecca ate 1 slice from each pie, so she ate 2 slices
+* That leaves 14 slices remaining (16 slices - 2 slices)
+* Her family and friends ate 50% of the remaining pies, which is 7 slices (14 slices x 0.5)
+* That leaves 7 slices remaining (14 slices - 7 slices)
+* On Sunday evening, Rebecca and her husband each had another slice, so 2 more slices were eaten
+* That leaves 5 slices remaining (7 slices - 2 slices)
+
+Answer: 5

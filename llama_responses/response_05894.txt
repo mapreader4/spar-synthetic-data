@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+1. The employee makes 30 dollars for the first 40 hours in the workweek. That is 30 * 40 = 1200 dollars.
+
+2. The employee makes an additional 50% for every hour above 40 in the week. That is, for the 6 hours worked in the first 3 days, the employee gets 6 * 50 = 300 dollars. For the remaining 12 hours, the employee gets 12 * 50 = 600 dollars. So the total amount for the extra hours is 300 + 600 = 900 dollars.
+
+3. The employee makes a total of 1200 + 900 = 2100 dollars.

@@ -1,0 +1,17 @@
+Okay, let's solve this step-by-step:
+* Liza reads 20 pages per hour
+* Suzie reads 15 pages per hour
+* We want to find how many more pages Liza reads than Suzie in 3 hours
+
+First, let's calculate how many pages Liza reads in 3 hours:
+* Liza reads 20 pages per hour
+* In 3 hours, Liza reads 20 pages x 3 hours = 60 pages
+
+Next, let's calculate how many pages Suzie reads in 3 hours:
+* Suzie reads 15 pages per hour
+* In 3 hours, Suzie reads 15 pages x 3 hours = 45 pages
+
+Finally, to find how many more pages Liza reads than Suzie in 3 hours, we subtract Suzie's pages from Liza's pages:
+* 60 pages (Liza) - 45 pages (Suzie) = 15 pages
+
+Answer: 15

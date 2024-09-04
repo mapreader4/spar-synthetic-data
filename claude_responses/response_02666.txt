@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) We have 3 people: Jim, Jane, and Jerry.
+2) Jim has 20 apples, Jane has 60 apples, and Jerry has 40 apples.
+3) To find the average amount of apples per person, we add up the total number of apples and divide by the number of people:
+Total apples = 20 + 60 + 40 = 120
+Number of people = 3
+Average apples per person = 120 / 3 = 40
+4) Now we need to find how many times Jim's 20 apples can fit into the average of 40 apples per person.
+5) 40 apples / 20 apples per person = 2
+
+Answer: 2

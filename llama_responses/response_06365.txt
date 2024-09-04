@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the time it took for the first train to reach its destination. We know that the distance is 200 miles, and the speed is 50 MPH, so we can find the time it took by dividing the distance by the speed:
+
+Time = Distance / Speed = 200 miles / 50 MPH = 4 hours
+
+Now, let's find the time it took for the second train to reach its destination. We know that the distance is 240 miles, and the speed is 80 MPH, so we can find the time it took by dividing the distance by the speed:
+
+Time = Distance / Speed = 240 miles / 80 MPH = 3 hours
+
+Now, to find the average time it took for both trains, we can take the average of the two times:
+
+(4 hours + 3 hours) / 2 = 3.5 hours
+
+Since we need to round this to the nearest integer, we round it to 4 hours.
+
+Answer: 4

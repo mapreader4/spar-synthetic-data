@@ -1,0 +1,15 @@
+Okay, let's think through this step-by-step:
+1) The bald eagle can dive at a speed of 100 miles per hour.
+2) The peregrine falcon can dive at a speed of twice that of the bald eagle, which is 200 miles per hour.
+3) It takes the bald eagle 30 seconds to dive to the ground.
+4) To find the time it takes the peregrine falcon to dive the same distance, we can use the formula:
+   Time = Distance / Speed
+5) Since the bald eagle and peregrine falcon start from the same treetop and dive the same distance, the distance is the same for both.
+6) The bald eagle takes 30 seconds to dive the distance, so the distance is the bald eagle's speed (100 miles per hour) multiplied by the time (30 seconds), which is 50 miles.
+7) The peregrine falcon's speed is 200 miles per hour, so the time it takes to dive the same 50 miles is:
+   Time = Distance / Speed
+   Time = 50 miles / 200 miles per hour
+   Time = 0.25 hours
+8) Converting 0.25 hours to seconds:
+   0.25 hours x 3600 seconds per hour = 900 seconds
+Answer: 900 seconds

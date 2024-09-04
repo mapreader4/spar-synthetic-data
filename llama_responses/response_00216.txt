@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let x be the amount of money Missy put in the bank the first year.
+
+Since the second year, she doubled the amount of money she put in the bank from the amount she had put in the previous year, the amount of money she put in the bank the second year is 2x.
+
+Similarly, the amount of money she put in the bank the third year is 2(2x) = 4x, and the amount of money she put in the bank the fourth year is 2(4x) = 8x.
+
+The total amount of money Missy put in the bank over the four years is the sum of the amounts she put in each year:
+
+x + 2x + 4x + 8x = 15x
+
+We know that the total amount of money in the bank after four years is $450, so we can set up the equation:
+
+15x = 450
+
+To solve for x, we can divide both sides of the equation by 15:
+
+x = 450 / 15
+
+x = 30
+
+Answer: 30

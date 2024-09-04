@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The Period 1 gym class has 5 fewer than twice as many students as in the Period 2 gym class.
+2) Let's call the number of students in the Period 2 gym class "x".
+3) Then, the number of students in the Period 1 gym class is 2x - 5.
+4) We are told that there are 11 students in the Period 1 gym class, so:
+2x - 5 = 11
+5) Solving for x, we get:
+2x - 5 = 11
+2x = 16
+x = 8
+
+Answer: 8

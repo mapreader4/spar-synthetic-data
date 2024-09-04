@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The initial thickness of the blanket is 3 inches.
+2) Each time Janet folds the blanket, its thickness doubles.
+3) We want to find the thickness after 4 foldings.
+4) After the first folding, the thickness will be 3 inches x 2 = 6 inches.
+5) After the second folding, the thickness will be 6 inches x 2 = 12 inches.
+6) After the third folding, the thickness will be 12 inches x 2 = 24 inches.
+7) After the fourth folding, the thickness will be 24 inches x 2 = 48 inches.
+
+Answer: 48 inches

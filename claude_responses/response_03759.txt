@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are a total of 180 bottles of drinks
+* 40 of the bottles contain only cider
+* 80 of the bottles contain only beer
+* The remaining bottles are a mixture of cider and beer
+* To find the number of mixed bottles, we subtract the number of cider-only and beer-only bottles from the total:
+* 180 - 40 - 80 = 60 mixed bottles
+* The delivery man gives half the number of each bottle of drink to the first house
+* For the cider-only bottles, half of 40 is 20 bottles
+* For the beer-only bottles, half of 80 is 40 bottles
+* For the mixed bottles, half of 60 is 30 bottles
+* So the first house gets:
+* 20 cider bottles + 40 beer bottles + 30 mixed bottles = 90 bottles
+
+Answer: 90

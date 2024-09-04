@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Matt takes 2 minutes per problem with a calculator
+* Matt takes 5 minutes per problem without a calculator
+* The assignment has 20 problems
+
+First, let's calculate the total time it would take Matt to complete the assignment with a calculator:
+* 2 minutes per problem x 20 problems = 40 minutes
+
+Now, let's calculate the total time it would take Matt to complete the assignment without a calculator:
+* 5 minutes per problem x 20 problems = 100 minutes
+
+To find the time saved by using a calculator, we subtract the time with a calculator from the time without a calculator:
+* 100 minutes - 40 minutes = 60 minutes
+
+Answer: 60 minutes

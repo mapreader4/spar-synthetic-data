@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) We know that there are 19 cars in the parking lot.
+2) Each car has 5 wheels (including one spare).
+3) So the total number of wheels for the cars is 19 * 5 = 95 wheels.
+4) We also know that the total number of wheels for all vehicles in the parking lot is 117.
+5) To find the number of motorcycles, we need to subtract the number of wheels for the cars from the total number of wheels, and then divide the remaining number of wheels by 2 (since each motorcycle has 2 wheels).
+6) The remaining number of wheels after subtracting the car wheels is 117 - 95 = 22.
+7) Dividing 22 by 2 gives us the number of motorcycles, which is 11.
+
+Answer: 11

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the distance from home to school. We are given that Shane drives 10 miles every day. Since there are 180 days in a semester, we can multiply 10 miles by 180 to find the total distance from home to school and back:
+
+10 miles/day * 180 days = 1800 miles
+
+Now, we can find the total distance Shane drives in an 80 day semester from home to school and back by adding the round trip distance to the total distance:
+
+1800 miles * 2 = 3600 miles
+
+Answer: 3600

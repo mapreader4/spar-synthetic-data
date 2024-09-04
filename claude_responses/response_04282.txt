@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+1) Rohan's coconut farm is 20 square meters in size.
+2) Each square meter has 2 coconut trees.
+3) Each coconut tree has 6 coconuts.
+4) The coconuts can be harvested every 3 months.
+5) Each coconut costs $0.50.
+6) We need to find Rohan's earnings after 6 months.
+
+First, let's calculate the total number of coconuts Rohan can harvest in 6 months:
+* Each square meter has 2 trees, and each tree has 6 coconuts.
+* So, each square meter has 2 * 6 = 12 coconuts.
+* Since the farm is 20 square meters, the total number of coconuts is 20 * 12 = 240 coconuts.
+* In 6 months, Rohan can harvest the coconuts twice (every 3 months).
+* So, the total number of coconuts harvested in 6 months is 240 * 2 = 480 coconuts.
+
+Now, let's calculate Rohan's earnings:
+* Each coconut costs $0.50.
+* So, the total earnings from 480 coconuts is 480 * $0.50 = $240.
+
+Answer: $240

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Joey has 30 pages to read for history class
+* He will take a break after reading 70% of the pages
+* To find 70% of 30 pages, we multiply 30 by 0.70:
+  * 30 x 0.70 = 21 pages
+* So, Joey will read 21 pages before taking a break
+* To find how many pages he has left to read after the break, we subtract 21 from the total of 30 pages:
+  * 30 - 21 = 9 pages
+
+Answer: 9

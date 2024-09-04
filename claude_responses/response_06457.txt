@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+
+1. James has a room that is 13 feet by 18 feet.
+2. He increases each dimension by 2 feet, so the new dimensions are 15 feet by 20 feet.
+3. The area of this room is 15 feet x 20 feet = 300 square feet.
+4. He builds 3 more rooms of equal size, so the total area of those 3 rooms is 3 x 300 square feet = 900 square feet.
+5. He also builds 1 room of twice the size, which means it is 30 feet by 40 feet, with an area of 30 feet x 40 feet = 1,200 square feet.
+6. The total area is the sum of the first room and the 4 additional rooms:
+   300 square feet + 900 square feet + 1,200 square feet = 2,400 square feet.
+
+Answer: 2,400

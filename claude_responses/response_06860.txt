@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Calvin started with a weight of 250 pounds
+* He lost 8 pounds every month during the training sessions
+* We want to find his weight after one year (12 months)
+
+To calculate his weight after one year, we need to subtract the weight he lost each month from his starting weight.
+* Weight lost in 1 month = 8 pounds
+* Weight lost in 12 months = 8 pounds x 12 months = 96 pounds
+
+Now, we can subtract the total weight lost from his starting weight to get his final weight:
+* Starting weight = 250 pounds
+* Weight lost = 96 pounds
+* Final weight = 250 pounds - 96 pounds = 154 pounds
+
+Answer: 154 pounds

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+On Monday, Kendra visited 5 sites and saw an average of 7 birds at each site, so the total number of birds she saw is 5 x 7 = 35.
+
+On Tuesday, Kendra visited 5 sites and saw an average of 5 birds at each site, so the total number of birds she saw is 5 x 5 = 25.
+
+On Wednesday, Kendra visited 10 sites and saw an average of 8 birds at each site, so the total number of birds she saw is 10 x 8 = 80.
+
+To find the average number of birds Kendra saw on each site, we need to add the total number of birds she saw on each day and divide by the total number of sites visited. The total number of birds is 35 + 25 + 80 = 140. The total number of sites visited is 5 + 5 + 10 = 20. So, the average number of birds Kendra saw on each site is 140 / 20 = 7.
+
+Answer: 7

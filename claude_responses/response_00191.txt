@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Initially, there are 100 weasels and 50 rabbits in the forest section.
+2) Three foxes invade the region and hunt the rodents.
+3) Each fox catches an average of 4 weasels and 2 rabbits per week.
+4) We need to calculate how many weasels and rabbits will be left after 3 weeks.
+
+First, let's calculate how many weasels and rabbits the three foxes will catch in 3 weeks:
+* Each fox catches 4 weasels per week, so 3 foxes will catch 3 * 4 = 12 weasels per week.
+* In 3 weeks, the foxes will catch 12 * 3 = 36 weasels.
+* Each fox catches 2 rabbits per week, so 3 foxes will catch 3 * 2 = 6 rabbits per week.
+* In 3 weeks, the foxes will catch 6 * 3 = 18 rabbits.
+
+Now, let's calculate how many weasels and rabbits will be left:
+* Initially, there were 100 weasels. After 3 weeks, 36 weasels will be caught, so 100 - 36 = 64 weasels will be left.
+* Initially, there were 50 rabbits. After 3 weeks, 18 rabbits will be caught, so 50 - 18 = 32 rabbits will be left.
+
+Answer: 64 weasels and 32 rabbits will be left after 3 weeks.

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Veronica needs 3 pounds of pitted cherries to make the pie.
+2) There are 80 single cherries in one pound of cherries.
+3) Therefore, the total number of cherries Veronica needs is:
+   3 pounds x 80 cherries/pound = 240 cherries
+4) It takes 10 minutes to pit 20 cherries.
+5) To find the total time it takes to pit 240 cherries, we can set up a proportion:
+   20 cherries / 10 minutes = 240 cherries / x minutes
+6) Solving for x, we get:
+   x = (240 cherries * 10 minutes) / 20 cherries = 120 minutes
+7) To convert minutes to hours, we divide 120 minutes by 60 minutes/hour:
+   120 minutes / 60 minutes/hour = 2 hours
+
+Answer: 2 hours

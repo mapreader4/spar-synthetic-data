@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Archie holds the school record with 89 touchdowns in 16 games.
+* Richard is close to breaking the record, with 6 touchdowns per game in the first 14 games.
+
+We are asked to find out how many touchdowns Richard must average in the final 2 games to break Archie's record.
+
+Let's first find Richard's total number of touchdowns in the first 14 games:
+
+6 touchdowns per game in 14 games is the same as 84 touchdowns in 14 games.
+
+Richard's total touchdowns in the first 14 games = 14 * 6 = 84
+
+Now, to break Archie's record, Richard needs to get at least 89 - 84 = 5 more touchdowns in the last 2 games.
+
+Richard needs to average 5 more touchdowns in 2 games.
+
+So, the answer is:
+
+Answer: 2.5

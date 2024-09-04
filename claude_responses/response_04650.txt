@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* On Saturday, Sally eats 2 sandwiches
+* Each sandwich uses 2 pieces of bread
+* So on Saturday, Sally eats 2 sandwiches x 2 pieces of bread per sandwich = 4 pieces of bread
+
+* On Sunday, Sally eats 1 sandwich
+* Each sandwich uses 2 pieces of bread
+* So on Sunday, Sally eats 1 sandwich x 2 pieces of bread per sandwich = 2 pieces of bread
+
+* To find the total pieces of bread Sally eats across Saturday and Sunday, we add the pieces of bread from each day:
+* 4 pieces of bread (Saturday) + 2 pieces of bread (Sunday) = 6 pieces of bread
+
+Answer: 6

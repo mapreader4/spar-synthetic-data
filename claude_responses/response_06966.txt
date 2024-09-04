@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Darnell pays $12 for unlimited texting and calling on his current plan
+* The alternative plan charges:
+  - $1 per 30 texts
+  - $3 per 20 minutes of calls
+* Darnell sends 60 texts and spends 60 minutes on the phone each month
+
+First, let's calculate the cost of the alternative plan:
+* Texts: 60 texts / 30 texts per $1 = 2 x $1 = $2
+* Calls: 60 minutes / 20 minutes per $3 = 3 x $3 = $9
+* Total cost of alternative plan: $2 + $9 = $11
+
+Now, let's compare the two plans:
+* Darnell's current plan costs $12 per month
+* The alternative plan costs $11 per month
+* The difference between the two plans is $12 - $11 = $1
+
+Answer: $1

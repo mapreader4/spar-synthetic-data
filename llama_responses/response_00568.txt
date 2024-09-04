@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+The cost for the first 8 years is 10,000 dollars per year, so for 8 years that would be 8 * 10,000 = 80,000 dollars.  After that, the cost increases to 20,000 dollars per year, so the total cost for the next 10 years would be 10 * 20,000 = 200,000 dollars.  Then the total cost is 80,000 + 200,000 = 280,000 dollars.  Then the university tuition is an additional 250,000 dollars.  The total cost is 280,000 + 250,000 = 530,000 dollars.
+
+Answer: 530,000

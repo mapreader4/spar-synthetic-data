@@ -1,0 +1,8 @@
+Let's break this down step by step:
+
+1. There are 15 books with 30 puzzles each, so there are 15 * 30 = 450 puzzles in total.
+2. The average time it takes to find Waldo in a puzzle is 3 minutes. To find Waldo in all 450 puzzles, it would take 450 * 3 = 1350 minutes.
+3. There are 60 minutes in an hour, so to convert minutes to hours, we can divide 1350 minutes by 60 to get 22.5 hours.
+4. So, it would take approximately 22.5 hours to find every Waldo.
+
+Answer: 22.5

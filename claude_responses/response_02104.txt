@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* It takes Bill 3 minutes to chop one pepper
+* He needs to chop 4 peppers
+* So the total time to chop the peppers is 4 * 3 = 12 minutes
+* It takes Bill 4 minutes to chop one onion
+* He needs to chop 2 onions
+* So the total time to chop the onions is 2 * 4 = 8 minutes
+* It takes Bill 1 minute to grate enough cheese for one omelet
+* He needs to grate cheese for 5 omelets
+* So the total time to grate the cheese is 5 * 1 = 5 minutes
+* It takes Bill 5 minutes to assemble and cook one omelet
+* He needs to cook 5 omelets
+* So the total time to assemble and cook the omelets is 5 * 5 = 25 minutes
+* Adding up all the times:
+* Chopping peppers: 12 minutes
+* Chopping onions: 8 minutes
+* Grating cheese: 5 minutes
+* Assembling and cooking: 25 minutes
+* Total time: 12 + 8 + 5 + 25 = 50 minutes
+
+Answer: 50 minutes

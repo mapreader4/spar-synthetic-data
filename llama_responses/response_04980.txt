@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Let's say the capacity of the second bowl is x.
+
+Then, the capacity of the first bowl is 3/4x.
+
+The total number of marbles in both bowls is the sum of the marbles in the first bowl and the marbles in the second bowl. The first bowl has 3/4x marbles, and the second bowl has x marbles. So, the total number of marbles is 3/4x + x.
+
+We are given that the second bowl has 600 marbles, so we can set up an equation:
+
+3/4x + x = 600
+
+To solve for x, we can subtract 3/4 from both sides of the equation:
+
+x = (600 - 3/4x)/3/4
+
+To simplify the right side of the equation, we can multiply both sides by 4:
+
+x = (600 - 3x)/3
+
+We can now solve for x by dividing both sides of the equation by 3:
+
+x = (600 - 3x)/3/3
+
+x = (200)/1
+
+x = 200
+
+Answer: 200

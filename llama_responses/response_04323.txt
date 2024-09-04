@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The number of puppies: 7
+* The total amount of formula given: 105
+* The number of days: 5
+
+We need to find out how many times a day Sandra should feed the puppies. To do this, we can divide the total amount of formula by the number of days and the number of puppies.
+
+Let's divide 105 by 5: 105 ÷ 5 = 21
+
+So, Sandra should feed the puppies 21 times a day.

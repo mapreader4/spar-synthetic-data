@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of gnomes in Westerville woods: 20 gnomes.
+
+Next, let's find the number of gnomes in Ravenswood forest. Since Ravenswood forest has four times as many gnomes as Westerville woods, we can multiply 20 by 4 to get the number of gnomes in Ravenswood forest: 20 * 4 = 80 gnomes.
+
+Now, let's determine how many gnomes would be taken for use by the forest owner if 40% of the gnomes are taken. To find this, we can multiply the total number of gnomes in Ravenswood forest (80) by 0.4 to get the number of gnomes taken: 80 * 0.4 = 32 gnomes.
+
+To find the number of gnomes remaining, we subtract the number of gnomes taken (32) from the total number of gnomes in Ravenswood forest (80): 80 - 32 = 48.
+
+Answer: 48

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Apples cost $40 per dozen
+* Hank bought 14 dozen apples
+* So the cost of the apples is:
+    - 14 dozen x $40 per dozen = $560
+* Pears cost $50 per dozen
+* Hank bought 14 dozen pears
+* So the cost of the pears is:
+    - 14 dozen x $50 per dozen = $700
+* To calculate the total amount Hank spent, we add the cost of the apples and the cost of the pears:
+    - $560 + $700 = $1,260
+
+Answer: 1260

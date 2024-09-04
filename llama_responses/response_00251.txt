@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many pie pieces the bakery can make in one hour. Since each pie is having 3 pieces, and the bakery can make 12 pies in one hour, the bakery can make 12 * 3 = 36 pie pieces in one hour.
+
+Each pie costs $0.5, and the bakery can make 36 pie pieces, so the total cost for making 36 pie pieces is 36 * 0.5 = $18.
+
+Now, let's find out how much money the bakery would make if it sells all the pie pieces. If each pie piece is sold for $4, then the bakery would make 36 * 4 = 144.
+
+So, the bakery would make 144 dollars if it sells all the pie pieces.

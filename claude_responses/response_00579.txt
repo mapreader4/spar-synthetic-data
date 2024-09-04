@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* In the first hour, 7 leaves fell
+* In the second and third hour, the leaves fell at a rate of 4 per hour
+* So in the second hour, 4 leaves fell
+* And in the third hour, 4 more leaves fell
+* In total, 7 + 4 + 4 = 15 leaves fell
+* The total time period was 3 hours
+* To find the average number of leaves that fell per hour, we divide the total number of leaves (15) by the total number of hours (3)
+* 15 leaves / 3 hours = 5 leaves per hour
+
+Answer: 5

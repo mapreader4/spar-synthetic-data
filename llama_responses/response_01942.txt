@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. Let's say the total cost of 3 pairs of shorts is 3 x $10 = $30.
+2. There's a 10% discount on the total cost for people who purchase 3 or more pairs at once. So, the discount is 10% of $30, which is $3.
+3. So, the total cost of 3 pairs of shorts with the discount is $30 - $3 = $27.
+4. If Stacy were to buy the shorts individually at different times, the total cost would be 3 x $10 = $30.
+5. To find the difference between the total cost with the discount and the total cost without the discount, we subtract the discount from the total cost with the discount: $30 - $3 = $27.
+6. The difference is $3.
+
+Answer: 3

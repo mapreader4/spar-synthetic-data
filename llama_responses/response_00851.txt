@@ -1,0 +1,13 @@
+Let's start by identifying the problem. The problem is asking how many rounds Jane played, given that she has 60 points and lost 20 points.
+
+Let's think step by step. Jane has 60 points, and she lost 20 points. So, if she lost 20 points, that means she won 40 points. To find out how many rounds she played, we need to find the number of rounds it took her to lose 20 points.
+
+Let's say Jane played x rounds. Then, 40 points would be her total score, and 20 points would be the number of points she lost. So, we can set up the equation:
+
+40 + x = 60 - 20
+
+To solve for x, we can subtract 20 from both sides:
+
+x = 60 - 20 = 40
+
+So, Jane played 40 rounds.

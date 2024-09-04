@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Each pig needs 3 gallons of water
+* There are 8 pigs, so the total water needed for the pigs is:
+  * 8 pigs x 3 gallons per pig = 24 gallons
+* Each horse needs twice as much water as a pig, so each horse needs 6 gallons of water (2 x 3 gallons)
+* There are 10 horses, so the total water needed for the horses is:
+  * 10 horses x 6 gallons per horse = 60 gallons
+* The chickens need 30 gallons of water from one tank
+* To find the total water needed, we add up the water needed for the pigs, horses, and chickens:
+  * 24 gallons + 60 gallons + 30 gallons = 114 gallons
+
+Answer: 114 gallons

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Parker threw the ball 16 yards.
+* Grant threw the ball 25% farther than Parker, so Grant threw the ball 16 + (16 x 0.25) = 16 + 4 = 20 yards.
+* Kyle threw the ball 2 times farther than Grant, so Kyle threw the ball 20 + (20 x 2) = 20 + 40 = 60 yards.
+
+Now, we need to find out how much farther Kyle threw the ball compared to Parker. To do this, we subtract Parker's distance from Kyle's distance:
+
+60 - 16 = 44
+
+So, Kyle threw the ball 44 yards farther than Parker.

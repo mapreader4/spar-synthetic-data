@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* 1 chocolate bar costs $1.50 and can be broken into 3 sections to make 3 s'mores
+* Ron is hosting a boy scout camp out for 15 scouts
+* He wants to make sure that there are enough chocolate bars for everyone to have 2 s'mores each
+
+To calculate the total number of s'mores needed:
+* Each scout needs 2 s'mores
+* 15 scouts x 2 s'mores each = 30 s'mores needed
+
+Since each chocolate bar can make 3 s'mores, we need to divide the total number of s'mores needed by 3 to find the number of chocolate bars required:
+* 30 s'mores / 3 s'mores per chocolate bar = 10 chocolate bars needed
+
+Finally, to calculate the total cost:
+* 10 chocolate bars x $1.50 per chocolate bar = $15.00
+
+Answer: $15.00

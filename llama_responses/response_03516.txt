@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+The class has $90 in total to contribute for the school activity. They have $14 in class funds and they want to use it to lessen the contribution of each student. This means that the $14 will be subtracted from the total $90.
+
+To find the new total, we subtract $14 from $90:
+
+$90 - $14 = $76
+
+Now, the remaining $76 will be divided among 19 students. To find the amount each student will contribute, we divide $76 by 19:
+
+$76 ÷ 19 = $4
+
+Answer: 4

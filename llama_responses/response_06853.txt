@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total cost of the television. The total cost is $480, and they are given a 5% discount. So, the discounted price is:
+
+$480 - (5% of $480) = $480 - $24 = $456
+
+They pay a first installment of $150. So, the amount they still need to pay is:
+
+$456 - $150 = $306
+
+Now, we need to find the amount of each monthly payment. To do this, we need to divide the remaining amount by the number of installments. There are 3 installments, so:
+
+$306 ÷ 3 = $102
+
+Answer: 102

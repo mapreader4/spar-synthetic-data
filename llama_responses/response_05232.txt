@@ -1,0 +1,19 @@
+Let's break down the information given:
+
+* Jill made twice as many lavender candles as coconut candles, and she used all her coconut scent.
+* She used up all her coconut scent, and she used one and a half times as much coconut scent as almond scent.
+* She used one and a half times as much coconut scent as almond scent, so she used 2/3 of the coconut scent for the almond candles.
+
+Let's represent the amount of coconut scent used for the almond candles as x. Since she used 2/3 of the coconut scent for the almond candles, we can set up the equation:
+
+2x = 1.5 (since 2/3 is the same as 1.5)
+
+We know that the total amount of coconut scent used is the same as the total amount of coconut scent used for the lavender candles, which is 2 times the amount of coconut scent used for the lavender candles. So, we can set up another equation:
+
+2x = 2(2x)
+
+We can solve for x by dividing both sides of the equation by 2:
+
+x = 2
+
+So, Jill made 2 candles of lavender scent.

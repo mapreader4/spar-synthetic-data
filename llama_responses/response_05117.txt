@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+We know that the first floor has 2 apartment units. The rest of the floors, which are 3 floors, have 5 apartment units each. So, the total number of apartment units is the sum of these two parts.
+
+For the first floor, there are 2 apartment units.
+For the rest of the floors, there are 3 floors with 5 apartment units each. So, the total number of apartment units in these floors is 3 * 5 = 15.
+
+Now, we add the number of apartment units in the first floor with the number of apartment units in the rest of the floors. So, the total number of apartment units is 2 + 15 = 17.
+
+Answer: 17

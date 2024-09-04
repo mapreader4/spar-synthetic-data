@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Centerville spends 15% of its annual budget on the public library.
+2) Centerville spent $3,000 on the public library.
+3) To find the total annual budget, we can use the formula:
+Total Annual Budget = Amount Spent on Library / Percentage Spent on Library
+Total Annual Budget = $3,000 / 0.15 = $20,000
+4) Centerville also spent 24% of its annual budget on public parks.
+5) To find the amount spent on public parks, we can use the formula:
+Amount Spent on Parks = Total Annual Budget * Percentage Spent on Parks
+Amount Spent on Parks = $20,000 * 0.24 = $4,800
+6) To find the amount left in the annual budget, we can subtract the amounts spent on the library and parks from the total annual budget:
+Amount Left in Budget = Total Annual Budget - Amount Spent on Library - Amount Spent on Parks
+Amount Left in Budget = $20,000 - $3,000 - $4,800 = $12,200
+
+Answer: $12,200

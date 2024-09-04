@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) Initially, Billy had 6 candies, Caleb had 11 candies, and Andy had 9 candies.
+2) Their father bought a packet of 36 candies.
+3) He gave 8 candies to Billy, 11 to Caleb, and the remaining 17 to Andy.
+4) So now, Billy has 6 + 8 = 14 candies, Caleb has 11 + 11 = 22 candies, and Andy has 9 + 17 = 26 candies.
+5) To find how many more candies Andy has than Caleb, we subtract Caleb's candies from Andy's candies:
+26 - 22 = 4
+
+Answer: 4

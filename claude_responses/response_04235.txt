@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Initially, there were some number of people living in the town before the 100 new people moved in.
+* After the 100 new people moved in, the total population of the town was the original population plus the 100 new people.
+* Then, 400 of the original population moved out, so the population was the original population minus 400, plus the 100 new people.
+* Every year after that, the population is halved.
+* After 4 years, the population is 60 people.
+
+Let's work backwards from the final population of 60 people:
+* After 3 years, the population was 60 * 2 = 120 people.
+* After 2 years, the population was 120 * 2 = 240 people.
+* After 1 year, the population was 240 * 2 = 480 people.
+* Before the 100 new people moved in, the original population was 480 - 100 = 380 people.
+
+Answer: 380

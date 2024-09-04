@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) There are 110 calories in a serving of cheese.
+2) Rick buys the large blocks that have 16 servings per block.
+3) Rick has already eaten 5 servings of cheese.
+4) To calculate the remaining calories in the block, we first need to calculate the total calories in the block:
+   - 16 servings per block x 110 calories per serving = 1760 total calories per block
+5) Now, we need to subtract the calories that Rick has already eaten:
+   - 5 servings eaten x 110 calories per serving = 550 calories eaten
+6) To find the remaining calories, we subtract the calories eaten from the total calories in the block:
+   - 1760 total calories - 550 calories eaten = 1210 remaining calories
+
+Answer: 1210

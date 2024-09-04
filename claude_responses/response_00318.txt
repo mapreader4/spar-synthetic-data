@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Roselyn gives Mara three times as many books as she gives Rebecca
+* Roselyn remains with 60 books
+* Rebecca received 40 books
+
+Let's start by finding out how many books Roselyn gave to Mara:
+* Roselyn gave Mara three times as many books as she gave Rebecca
+* So, if Rebecca received 40 books, Mara received 3 * 40 = 120 books
+
+Now, we can find the total number of books Roselyn had before:
+* Roselyn remained with 60 books
+* Roselyn gave away 120 books to Mara and 40 books to Rebecca
+* So, the total number of books Roselyn had before was 60 + 120 + 40 = 220 books
+
+Answer: 220

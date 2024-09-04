@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that each slice of cheesecake contains 350 calories, and there are a total of 2800 calories in every cheesecake. We also know that Kiley ate 25% of the cheesecake.
+
+To find the total number of slices, we need to find 25% of 2800. To do this, we can convert the percentage to a decimal by dividing by 100: 2800 / 100 = 28. We then multiply this by 25 to get 25 * 28 = 700.
+
+So, Kiley ate 700 slices of cheesecake.

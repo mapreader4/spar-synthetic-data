@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+1) The problem states that "Fifteen more than a quarter of a number is 27".
+2) Let's represent the unknown number as "x".
+3) A quarter of the number is x/4.
+4) Fifteen more than a quarter of the number is (x/4) + 15.
+5) The problem states that (x/4) + 15 = 27.
+6) Solving for x, we get:
+x/4 + 15 = 27
+x/4 = 27 - 15
+x/4 = 12
+x = 12 * 4
+x = 48
+Answer: 48

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* John has 3 bedroom doors to replace
+* The cost of each bedroom door is half the cost of an outside door
+* The cost of each outside door is $20
+* Therefore, the cost of each bedroom door is $20 / 2 = $10
+* John has 2 outside doors to replace
+* The cost of the 2 outside doors is 2 * $20 = $40
+* John has 3 bedroom doors to replace
+* The cost of the 3 bedroom doors is 3 * $10 = $30
+* The total cost is the cost of the outside doors plus the cost of the bedroom doors
+* Total cost = $40 + $30 = $70
+
+Answer: 70

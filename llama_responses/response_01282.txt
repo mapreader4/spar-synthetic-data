@@ -1,0 +1,32 @@
+Let's start by identifying the number of crayons in Judah's box. Since Gilbert had four times as many crayons as were in Judah's box, and Karen had twice as many crayons as were in Beatrice's box, we can set up the following equation:
+
+Karen's box = 2 x Beatrice's box
+Beatrice's box = 2 x Gilbert's box
+Gilbert's box = 4 x Judah's box
+
+We know that Karen's box contains 128 crayons. So, we can substitute 128 for Karen's box in the equation:
+
+128 = 2 x Beatrice's box
+Beatrice's box = 2 x Gilbert's box
+Gilbert's box = 4 x Judah's box
+
+We can start by solving the first equation:
+
+Beatrice's box = 128 / 2
+Beatrice's box = 64
+
+Now we know that Beatrice's box contains 64 crayons. We can substitute this into the second equation:
+
+Beatrice's box = 2 x Gilbert's box
+64 = 2 x Gilbert's box
+Gilbert's box = 64 / 2
+Gilbert's box = 32
+
+Now we know that Gilbert's box contains 32 crayons. Finally, we can substitute this into the third equation:
+
+Gilbert's box = 4 x Judah's box
+32 = 4 x Judah's box
+Judah's box = 32 / 4
+Judah's box = 8
+
+Answer: 8

@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+1) The top level has 64 books.
+2) Each level has 80% as many books as the previous level.
+3) To find the number of books in the previous level, we multiply the number of books in the top level by 1/0.8 = 1.25.
+4) The number of books in the second level is 64 * 1.25 = 80 books.
+5) The number of books in the third level is 80 * 1.25 = 100 books.
+6) The number of books in the fourth level is 100 * 1.25 = 125 books.
+7) To find the total number of books in the pyramid, we add up the number of books in each level:
+64 + 80 + 100 + 125 = 369 books.
+
+Answer: 369

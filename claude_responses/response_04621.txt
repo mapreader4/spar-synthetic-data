@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) John has to restring 3 basses, each with 4 strings.
+   * For the 3 basses, he needs 3 * 4 = 12 strings.
+2) John has to restring twice as many guitars as basses, and each guitar has 6 strings.
+   * Since there are 3 basses, there are 2 * 3 = 6 guitars.
+   * For the 6 guitars, he needs 6 * 6 = 36 strings.
+3) John also has to restring 3 fewer 8 string guitars than the normal guitars.
+   * Since there are 6 normal guitars, there are 6 - 3 = 3 8 string guitars.
+   * For the 3 8 string guitars, he needs 3 * 8 = 24 strings.
+4) Adding up all the strings:
+   * 12 strings for the basses
+   * 36 strings for the guitars
+   * 24 strings for the 8 string guitars
+   * 12 + 36 + 24 = 72 strings
+
+Answer: 72

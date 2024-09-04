@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* There are 6 forks in the cutlery drawer.
+* There are 9 more knives than forks, which means there are 9 + 6 = 15 knives.
+* There are twice as many spoons as knives, which means there are 2 x 15 = 30 spoons.
+* There are half as many teaspoons as forks, which means there are (1/2) x 6 = 3 teaspoons.
+
+Now, let's add 2 of each cutlery to the drawer:
+
+* 6 forks + 2 = 8 forks
+* 15 knives + 2 = 17 knives
+* 30 spoons + 2 = 32 spoons
+* 3 teaspoons + 2 = 5 teaspoons
+
+Now, let's add all the cutlery together:
+
+8 + 17 + 32 + 5 = 52
+
+Answer: 52

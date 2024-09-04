@@ -1,0 +1,13 @@
+Let's start by identifying the number of pounds of coal each type of boxcar can hold.
+
+The black boxcars can hold 4000 pounds of coal. Since the blue boxcars can hold half as much as the black boxcars, the blue boxcars can hold 4000 / 2 = 2000 pounds of coal.
+
+The red boxcars can hold 3 times as much as the blue boxcars, so they can hold 2000 * 3 = 6000 pounds of coal.
+
+Now, let's add up the number of pounds of coal each type of boxcar can hold:
+
+4000 + 2000 + 6000 = 12000
+
+So, the train's boxcars can hold a total of 12000 pounds of coal.
+
+Answer: 12000

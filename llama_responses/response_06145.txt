@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's assume the machine can fill a barrel of soda in 3 minutes under normal circumstances.
+
+Since the machine took 5 minutes to fill one barrel this morning due to the leak, it means that the leak is wasting 2 minutes for every barrel.
+
+To find the total time it will take to fill 12 barrels, we need to calculate the total time wasted due to the leak. Since the leak is wasting 2 minutes per barrel, for 12 barrels, the total time wasted would be:
+
+2 minutes per barrel * 12 barrels = 24 minutes
+
+The machine would normally take 3 minutes to fill a barrel, so the total time to fill 12 barrels would be:
+
+3 minutes per barrel * 12 barrels = 36 minutes
+
+However, the machine took 24 minutes to fill the 12 barrels due to the leak, so the actual time it will take to fill the 12 barrels would be:
+
+36 minutes + 24 minutes = 60 minutes
+
+Therefore, the answer is:
+
+Answer: 60

@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Julia has $40 initially. She spends half of it to buy a new game for her phone. Half of 40 is 20. So she has 20 dollars left.
+
+Then, she spends a quarter of what she has left on in-game purchases. A quarter of 20 is 5. So, she spends 5 dollars on in-game purchases.
+
+Now, she has 20 - 5 = 15 dollars left.
+
+Answer: 15

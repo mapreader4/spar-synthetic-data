@@ -1,0 +1,18 @@
+Let's start by identifying the information given in the problem:
+
+* 30% of the class got thank you cards.
+* 1/3 of these cards contained a gift card for $10.
+
+We can start by finding the total number of cards that contained gift cards. Since 1/3 of the cards contained gift cards, we can multiply 30% by 3 to find the total number of cards that contained gift cards:
+
+30% * 3 = 90
+
+Since 90 cards contained gift cards, and each card is for $10, the total amount of gift cards is:
+
+90 * $10 = $900
+
+Ms. Jones received a total of $50 in gift cards. This is less than the total amount of gift cards, so we know that not all of the students in her class received a gift card. The amount of gift cards that she received is 50% of the total amount of gift cards. Therefore, the number of students in her class is:
+
+$50 / $900 = 5
+
+Answer: 5

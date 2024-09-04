@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us. We know that Vincent bought 15 packs of stickers yesterday, and today he bought 10 more packs than yesterday. So, let's denote the number of packs Vincent bought yesterday with x.
+
+We can set up an equation to represent the situation. Let's say that Vincent bought x packs of stickers yesterday and 10 more than yesterday. So, we can write an equation like this:
+
+x + 10 = 15
+
+To solve for x, we can subtract 15 from both sides of the equation to get:
+
+x = 5
+
+So, Vincent has 5 packs of stickers altogether.

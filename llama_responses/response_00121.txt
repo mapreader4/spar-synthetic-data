@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The capacity of the truck is 6000 blocks.
+2. Stella and Twinkle work for 4 hours at a rate of 250 blocks per hour. So, in 4 hours, they can fill 4 x 250 = 1000 blocks.
+3. The 6 additional people who join them work at the same rate. So, the total number of blocks that they can fill in one hour is 7 people x 250 = 1750 blocks.
+4. To find the total number of blocks that they can fill in 4 hours, we multiply the blocks they can fill in one hour by 4: 1750 x 4 = 7000.
+5. However, the truck can only hold 6000 blocks, and they have filled 7000 blocks, so they must have filled the truck in less than 4 hours. The answer is 3 hours and 45 minutes, because 3 hours and 45 minutes is the time it would take to fill 7000 blocks.
+
+Answer: 3 hours and 45 minutes.

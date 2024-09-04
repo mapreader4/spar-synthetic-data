@@ -1,0 +1,12 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of sessions needed for the first two patients.
+
+The first patient needs 6 sessions.
+The second patient needs 5 more sessions than the first patient, so the second patient needs 6 + 5 = 11 sessions.
+
+The total number of sessions for the first two patients is 6 + 11 = 17.
+
+The remaining patients need 25 - 17 = 8 sessions.
+
+Answer: 8

@@ -1,0 +1,9 @@
+Okay, let's break this down step by step:
+* The citrus grove has 16 orchards in total
+* Lemons will take up 8 orchards
+* Oranges will take up half as many orchards as lemons, which is 4 orchards
+* The remaining 4 orchards will be split between limes and grapefruits
+
+So, the number of orchards growing grapefruits is the remaining number of orchards after accounting for lemons, oranges, and limes.
+
+Answer: 2

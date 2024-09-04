@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+The cheap gym has a sign-up fee of $50, which is a one-time payment. The monthly cost is $10. To find the total cost for the first year, we need to multiply the monthly cost by 12 (since there are 12 months in a year) and then add the sign-up fee:
+
+$10 x 12 = $120
+$120 + $50 = $170
+
+So, John paid a total of $170 in the first year for the cheap gym membership.

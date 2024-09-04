@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. We know that 2/3 of the audience was there for the second band, and 1/3 was there for the first band.
+2. 50% of the audience there for the second band is under the age of 30.
+3. Of this group under 30, 60% are women and there are 20 men.
+
+Let's start by finding the number of people under 30 in the second band audience:
+* 50% of the second band audience is under 30
+* We know there are 20 men in this group
+* We also know that 60% of this group are women
+* So the number of women in this group is 60% of the total, which is 30 women
+* Therefore, the total number of people under 30 in the second band audience is 20 men + 30 women = 50 people
+
+Now, we can use this information to find the total size of the second band audience:
+* 50 people is 50% of the second band audience
+* Therefore, the total second band audience is 50 / 0.5 = 100 people
+
+Finally, we can use this to find the total size of the audience:
+* The second band audience is 2/3 of the total audience
+* So the total audience is 100 / (2/3) = 150 people
+
+Answer: 150

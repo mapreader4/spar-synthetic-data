@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Jimmy picked out 3 shorts from the $15 rack.
+   * The total cost of Jimmy's 3 shorts is 3 x $15 = $45.
+
+2. Irene grabbed 5 shirts from the $17 rack.
+   * The total cost of Irene's 5 shirts is 5 x $17 = $85.
+
+3. Since they are both senior citizens, they get a 10% discount on their purchases.
+   * The discount on Jimmy's $45 purchase is 10% of $45, which is $4.50.
+   * The discount on Irene's $85 purchase is 10% of $85, which is $8.50.
+
+4. The total amount they give to the cashier is the sum of their purchases minus the discounts.
+   * Jimmy's total after the discount is $45 - $4.50 = $40.50.
+   * Irene's total after the discount is $85 - $8.50 = $76.50.
+   * The total amount they give to the cashier is $40.50 + $76.50 = $117.
+
+Answer: 117

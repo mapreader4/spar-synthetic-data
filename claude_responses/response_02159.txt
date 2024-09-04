@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Marla has to drive 20 minutes one way to her son's school.
+2) She then spends 70 minutes attending parent-teacher night.
+3) After that, she has to drive the same amount of time (20 minutes) back home.
+4) To calculate the total time spent on this errand, we add up the time for the three parts:
+   - Driving to the school: 20 minutes
+   - Attending parent-teacher night: 70 minutes
+   - Driving back home: 20 minutes
+5) The total time is 20 + 70 + 20 = 110 minutes.
+
+Answer: 110

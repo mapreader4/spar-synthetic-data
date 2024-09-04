@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The first generation of kittens has tails that are 16 cm long.
+2) Each subsequent generation has tails that are 25% longer than the previous generation.
+3) To find the length of the third generation's tails, we need to calculate the length of the second generation's tails first.
+4) The second generation's tails are 25% longer than the first generation's tails. 
+5) 25% of 16 cm is 0.25 * 16 = 4 cm.
+6) So the second generation's tails are 16 cm + 4 cm = 20 cm long.
+7) The third generation's tails are 25% longer than the second generation's tails.
+8) 25% of 20 cm is 0.25 * 20 = 5 cm.
+9) So the third generation's tails are 20 cm + 5 cm = 25 cm long.
+
+Answer: 25 cm

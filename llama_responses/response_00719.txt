@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the number of visitors on Monday: 50 visitors.
+
+Step 2: Calculate the number of visitors on Tuesday: 50 * 2 = 100 visitors.
+
+Step 3: Calculate the total number of visitors for the remaining days of the week: 5 days (since there are 7 days in a week, and we've already counted Monday and Tuesday) * 20 visitors per day = 100 visitors.
+
+Step 4: Add the visitors for Monday and Tuesday to the total number of visitors for the remaining days: 50 + 100 = 150 visitors.
+
+Step 5: Add the total number of visitors for the remaining days to the total: 150 + 100 = 250 visitors.
+
+Answer: 250

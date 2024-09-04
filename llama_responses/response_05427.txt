@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+1. Blake spends $40 on oranges.
+2. He also spends $50 on apples.
+3. He also spends $60 on mangoes.
+
+To find the total amount spent, we need to add the cost of the three items:
+
+$40 + $50 + $60 = $150
+
+Blake has $300. We need to subtract the total amount spent from the initial $300:
+
+$300 - $150 = $150
+
+So, the change he was given is:
+
+Answer: 150

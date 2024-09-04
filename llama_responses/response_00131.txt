@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Mitchell had read 10 chapters before 4 o'clock. Each chapter has 40 pages, so she had read a total of 10 x 40 = 400 pages.
+
+After 4 o'clock, she read 20 pages of the 11th chapter. Since she didn't finish the 11th chapter, she still had 40 - 20 = 20 pages left in the 11th chapter.
+
+She then proceeded to read 2 more chapters, which is 2 x 40 = 80 pages.
+
+To find the total number of pages Mitchell had read, we add the pages she read before 4 o'clock (400 pages), the pages she read after 4 o'clock (20 pages from the 11th chapter and 80 pages from the next 2 chapters), and the pages she still has left in the 11th chapter (20 pages).
+
+400 + 20 + 80 + 20 = 520
+
+Answer: 520

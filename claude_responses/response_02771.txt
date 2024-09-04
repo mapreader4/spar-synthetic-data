@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jeff plays tennis for 2 hours
+* He scores a point every 5 minutes
+* He wins a match when he scores 8 points
+
+First, let's calculate how many points he can score in 2 hours:
+* 2 hours = 120 minutes
+* He scores a point every 5 minutes
+* So, in 120 minutes, he can score 120 / 5 = 24 points
+
+Now, to determine how many games he won, we need to divide the total points he scored by the number of points needed to win a game:
+* He scored 24 points
+* He needs 8 points to win a game
+* 24 points / 8 points per game = 3 games won
+
+Answer: 3

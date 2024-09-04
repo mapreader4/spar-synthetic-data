@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Elois needs 4 bananas to make 1 loaf of banana bread
+* On Monday, she makes 3 loaves of banana bread
+* To make 3 loaves of banana bread, she needs:
+  * 3 loaves x 4 bananas per loaf = 12 bananas
+* On Tuesday, she makes twice as many loaves of banana bread as Monday
+* On Monday, she made 3 loaves
+* So on Tuesday, she made 2 x 3 = 6 loaves of banana bread
+* To make 6 loaves of banana bread, she needs:
+  * 6 loaves x 4 bananas per loaf = 24 bananas
+* To calculate the total number of bananas used:
+  * Bananas used on Monday: 12
+  * Bananas used on Tuesday: 24
+  * Total bananas used = 12 + 24 = 36
+
+Answer: 36

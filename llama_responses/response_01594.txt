@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with Michaela's oranges. She needs 20 oranges to feel full. If Cassandra needs twice as many oranges as Michaela, then Cassandra needs 2 x 20 = 40 oranges.
+
+Now, let's combine the number of oranges they picked from the farm, 90, with the total number of oranges they need, 20 + 40 = 60. So, the total number of oranges they have is 90 + 60 = 150.
+
+After they eat until they are full, the number of oranges left would be the total number of oranges they picked, 90, minus the total number of oranges they need to eat, 150. So, the answer is:
+
+Answer: 90 - 150 = 60.

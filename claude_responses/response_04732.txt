@@ -1,0 +1,10 @@
+Okay, let's think through this step-by-step:
+1) The race is 500 yards long.
+2) Biff rows at a speed of 50 yards per minute.
+3) Kenneth rows at a speed of 51 yards per minute.
+4) To find how many yards past the finish line Kenneth will be when Biff crosses the finish line, we need to find the time it takes for Biff to reach the finish line, and then calculate how far Kenneth will have traveled in that same amount of time.
+5) The time it takes for Biff to reach the finish line is 500 yards / 50 yards per minute = 10 minutes.
+6) In 10 minutes, Kenneth will have traveled 51 yards per minute * 10 minutes = 510 yards.
+7) The finish line is at 500 yards, so Kenneth will be 510 yards - 500 yards = 10 yards past the finish line when Biff crosses the finish line.
+
+Answer: 10

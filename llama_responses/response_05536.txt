@@ -1,0 +1,19 @@
+Let's break down the information step by step.
+
+We know that the total earnings are $380.
+We know that the earnings from broccoli are $57.
+We know that the earnings from carrots are twice as much as the earnings from broccoli, so the earnings from carrots are 2 x $57 = $114.
+
+Now, let's find the earnings from spinach. The earnings from spinach are $16 more than half of the earnings from carrots. Half of the earnings from carrots is $114 / 2 = $57. Then, the earnings from spinach are $57 + $16 = $73.
+
+So far, we have the following earnings:
+
+* Broccoli: $57
+* Carrots: $114
+* Spinach: $73
+
+The total earnings are $380, and we have accounted for $57 + $114 + $73 = $244 of those earnings. To find the earnings from cauliflower, we subtract the earnings we have accounted for from the total earnings:
+
+$380 - $244 = $136
+
+Answer: 136

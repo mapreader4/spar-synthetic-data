@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) Joan is making two types of sandwiches: ham sandwiches and grilled cheese sandwiches.
+2) One ham sandwich requires 2 slices of cheese, and one grilled cheese sandwich requires 3 slices of cheese.
+3) She uses a total of 50 slices of cheese to make the sandwiches.
+4) We know that she makes 10 ham sandwiches.
+5) To calculate the number of slices of cheese used for the ham sandwiches, we multiply the number of ham sandwiches (10) by the number of slices of cheese per ham sandwich (2): 10 x 2 = 20 slices of cheese.
+6) The remaining slices of cheese (50 - 20 = 30) are used for the grilled cheese sandwiches.
+7) To calculate the number of grilled cheese sandwiches, we divide the remaining slices of cheese (30) by the number of slices of cheese per grilled cheese sandwich (3): 30 / 3 = 10 grilled cheese sandwiches.
+
+Answer: 10 grilled cheese sandwiches.

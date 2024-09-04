@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Shelly catches 2 less than 5 swordfish each time they go fishing
+* So Shelly catches 5 - 2 = 3 swordfish each time
+* Sam catches one less swordfish than Shelly
+* So Sam catches 3 - 1 = 2 swordfish each time
+* They go fishing 5 times
+* For each fishing trip:
+    - Shelly catches 3 swordfish
+    - Sam catches 2 swordfish
+* So for 5 fishing trips:
+    - Shelly catches 3 x 5 = 15 swordfish
+    - Sam catches 2 x 5 = 10 swordfish
+* The total number of swordfish caught is the sum of Shelly's and Sam's catches:
+    - 15 + 10 = 25 swordfish
+
+Answer: 25

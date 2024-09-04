@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1) Lucca has 100 balls, and 10% of them are basketballs.
+   * 10% of 100 = 0.1 * 100 = 10 basketballs
+
+2) Lucien has 200 balls, and 20% of them are basketballs.
+   * 20% of 200 = 0.2 * 200 = 40 basketballs
+
+3) To find the total number of basketballs that Lucca and Lucien have, we add the number of basketballs each of them has:
+   * 10 basketballs (Lucca) + 40 basketballs (Lucien) = 50 basketballs
+
+Answer: 50

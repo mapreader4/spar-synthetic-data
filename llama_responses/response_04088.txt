@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Bill gets paid $20 every hour he works up to a total of 40 hours, and he gets paid double that amount per hour after that. We know that 40 hours is the total number of hours he works, and the total amount he gets paid for that is $800. So, we know that the amount he gets paid per hour is $20.
+
+Now, let's find the amount he gets paid for a 50-hour workweek. To do this, we need to multiply the amount he gets paid per hour by the number of hours he works in a 50-hour workweek. The number of hours he works in a 50-hour workweek is 50. So, we can multiply the amount he gets paid per hour by the number of hours he works in a 50-hour workweek. This gives us the total amount he gets paid for a 50-hour workweek.
+
+$20 * 50 = $1000.
+
+Answer: 1000

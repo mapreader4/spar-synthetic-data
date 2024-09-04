@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Casey has 10 toenails and 10 fingernails, for a total of 20 nails.
+* For each nail, she needs to apply:
+  1. Base coat (20 minutes)
+  2. Coat of paint (20 minutes)
+  3. Coat of glitter (20 minutes)
+* Each coat takes 20 minutes to apply and 20 minutes to dry before the next coat can be applied.
+* So for each nail, the total time is:
+  * Base coat (20 minutes) + 20 minutes drying time
+  * Paint coat (20 minutes) + 20 minutes drying time
+  * Glitter coat (20 minutes) + 20 minutes drying time
+  * Total time per nail = 20 + 20 + 20 + 20 + 20 + 20 = 120 minutes
+* Since there are 20 nails, the total time to decorate all nails is:
+  * 20 nails x 120 minutes per nail = 2,400 minutes
+
+Answer: 2,400 minutes

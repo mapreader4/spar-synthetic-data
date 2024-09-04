@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of people waiting in line. There are 84 people waiting to ride the roller coaster.
+
+Next, let's identify the number of people each car can seat. Each car can seat 2 people, so the number of people each car can hold is 2.
+
+Now, let's find the total number of people each car can hold. Since there are 7 cars, we multiply the number of people each car can hold by the number of cars. 7 * 2 = 14.
+
+Now, let's find the total number of people the roller coaster can hold. Since there are 84 people waiting to ride, we divide the total number of people by the number of people each car can hold. 84 ÷ 14 = 6.
+
+So, the ride operator will have to run the roller coaster 6 times to give everyone in line a turn.

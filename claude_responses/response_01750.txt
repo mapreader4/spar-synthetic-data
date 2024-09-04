@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Alberto spent $2457 on a new engine for his car.
+* Samara spent:
+  - $25 on oil
+  - $467 on tires
+  - $79 on detailing
+* To calculate the total amount Samara spent, we add up the individual expenses:
+  - $25 + $467 + $79 = $571
+* To calculate the difference between what Alberto and Samara spent, we subtract Samara's total from Alberto's total:
+  - $2457 - $571 = $1886
+
+Answer: $1886

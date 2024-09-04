@@ -1,0 +1,17 @@
+Let's start by identifying the information given in the problem:
+
+* Joyce's new property is 10 times larger than her previous property.
+* Her previous property was 2 acres.
+* Her new land has a 1-acre pond where she cannot grow vegetables.
+
+To find the total area of her new property, we can multiply the size of her previous property by 10:
+
+2 acres (previous property) x 10 = 20 acres
+
+However, we need to subtract the area of the pond from the total area to find the area suitable for growing vegetables:
+
+20 acres (total area) - 1 acre (pond) = 19 acres
+
+So, Joyce now owns 19 acres of land that are suitable for growing vegetables.
+
+Answer: 19

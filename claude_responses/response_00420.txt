@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Miriam spent 30 minutes doing laundry
+* She spent 15 minutes cleaning the bathroom
+* She spent a certain amount of time cleaning her room
+* She spent 40 minutes doing homework
+* The total time spent on these tasks was 2 hours
+
+To find the time spent cleaning her room, we need to subtract the time spent on the other tasks from the total time:
+* Total time = 2 hours = 120 minutes
+* Time spent on laundry = 30 minutes
+* Time spent on bathroom cleaning = 15 minutes
+* Time spent on homework = 40 minutes
+* Time spent on cleaning room = Total time - (Time on laundry + Time on bathroom + Time on homework)
+* Time spent on cleaning room = 120 minutes - (30 minutes + 15 minutes + 40 minutes)
+* Time spent on cleaning room = 120 minutes - 85 minutes
+* Time spent on cleaning room = 35 minutes
+
+Answer: 35 minutes

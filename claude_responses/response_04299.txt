@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Kelsey had 2/5 of a tray of eggs
+* Stephanie had 1/2 of a tray of eggs
+* Alayah brought 40 more eggs than Kelsey and Stephanie combined
+* Willa had 2 trays of eggs already
+
+First, let's calculate how many eggs Kelsey and Stephanie brought:
+* Kelsey had 2/5 of a tray, which is 2/5 * 30 = 12 eggs
+* Stephanie had 1/2 of a tray, which is 1/2 * 30 = 15 eggs
+* Together, Kelsey and Stephanie brought 12 + 15 = 27 eggs
+
+Next, let's calculate how many eggs Alayah brought:
+* Alayah brought 40 more eggs than Kelsey and Stephanie combined
+* Kelsey and Stephanie brought 27 eggs, so Alayah brought 27 + 40 = 67 eggs
+
+Finally, let's add up the total number of eggs:
+* Willa had 2 trays, which is 2 * 30 = 60 eggs
+* Kelsey brought 12 eggs
+* Stephanie brought 15 eggs
+* Alayah brought 67 eggs
+* Total eggs = 60 + 12 + 15 + 67 = 154 eggs
+
+Answer: 154

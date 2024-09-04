@@ -1,0 +1,7 @@
+Let's start by using the information that Anne is 80cm tall. We know that Bella is 3 times as tall as Anne, so Bella's height is 80 * 3 = 240cm.
+
+Now, we need to find the height of Anne's sister. We know that Anne is 80cm tall and Bella is 3 times as tall as Anne, so Anne's sister is 80 / 3 = 26.67cm.
+
+The difference between Bella and Anne's sister is 240 - 26.67 = 213.33cm.
+
+Answer: 213

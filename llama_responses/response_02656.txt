@@ -1,0 +1,12 @@
+Let's start by identifying the tagged numbers.
+
+W is tagged with 200.
+X is tagged with half of W, which is 200 / 2 = 100.
+Y is tagged with the total of X and W's tags, which is 100 + 200 = 300.
+Z is tagged with 400.
+
+Now, let's add up all the tagged numbers:
+
+200 + 100 + 300 + 400 = 600
+
+Answer: 600

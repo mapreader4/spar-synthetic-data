@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of cars that pass on each day:
+
+Monday: 20% less than 25, so 25 - (20% of 25) = 25 - 5 = 20
+Tuesday: 25
+Wednesday: 2 more cars than Monday, so 20 + 2 = 22
+Thursday: 10
+Friday: 10
+Saturday and Sunday: 5 each
+
+Now, let's add up the number of cars for each day:
+
+20 + 25 + 22 + 10 + 10 + 5 + 5 = 92
+
+Answer: 92

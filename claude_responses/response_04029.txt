@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The school is selling ice-pops for $1.50 each.
+2) It costs 90 cents to make each pop.
+3) The money from the pops will be used to buy pencils, which cost $1.80 each.
+4) We need to find how many pops must be sold to buy 100 pencils.
+5) To calculate the profit per pop, we take the selling price ($1.50) and subtract the cost to make each pop (90 cents), which gives us a profit of 60 cents per pop.
+6) To calculate the total revenue needed to buy 100 pencils, we multiply the cost per pencil ($1.80) by the number of pencils (100), which gives us $180.
+7) To calculate the number of pops that need to be sold, we divide the total revenue needed ($180) by the profit per pop (60 cents), which gives us 300 pops.
+
+Answer: 300

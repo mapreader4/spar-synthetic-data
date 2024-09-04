@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* The frog pond initially has 5 frogs living in it.
+* Some frogs laid eggs, and now there are three times as many tadpoles growing into more frogs as there are frogs.
+* This means that the number of tadpoles is 3 x 5 = 15.
+* Two-thirds of the tadpoles will survive to maturity as frogs.
+* Two-thirds of 15 is 10, so 10 tadpoles will survive to maturity as frogs.
+* The pond can only sustain 8 frogs.
+* So, the number of frogs that will have to find a new pond when the tadpoles grow up is:
+* Total number of frogs = 5 (initial frogs) + 10 (tadpoles that survive) = 15
+* Number of frogs that have to find a new pond = 15 - 8 = 7
+
+Answer: 7

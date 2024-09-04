@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jeff has twice as many cars as trucks
+* Let's represent the number of trucks as 'x'
+* Then, the number of cars is '2x'
+* The total number of vehicles is 60
+* So, the total number of vehicles is the sum of the cars and trucks:
+* 2x + x = 60
+* 3x = 60
+* x = 20
+
+Therefore, the number of trucks Jeff has is:
+Answer: 20

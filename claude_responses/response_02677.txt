@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There were 10 adults and 11 children who went to the ball game
+* Adult tickets cost $8 each
+* The total bill was $124
+
+To find the cost of one child's ticket, we need to first calculate the total cost of the adult tickets, and then subtract that from the total bill to get the cost of the children's tickets. 
+
+The total cost of the adult tickets is:
+* 10 adults x $8 per ticket = $80
+
+Now, we subtract the adult ticket cost from the total bill to get the cost of the children's tickets:
+* $124 - $80 = $44
+
+Since there were 11 children, we can divide the total cost of the children's tickets by 11 to get the cost of one child's ticket:
+* $44 / 11 = $4
+
+Answer: $4

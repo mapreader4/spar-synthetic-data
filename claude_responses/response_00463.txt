@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* It takes 30 minutes to make the pizza dough
+* It takes another 30 minutes for the pizza to cook in the oven
+* One batch of pizza dough can make 3 pizzas
+* The oven can only fit 2 pizzas at a time
+
+To make 12 pizzas, we need to make 4 batches of pizza dough (12 pizzas / 3 pizzas per batch = 4 batches).
+
+Each batch of pizza dough takes 30 minutes to make, so 4 batches will take 4 * 30 minutes = 120 minutes.
+
+After making the dough, Camilla can fit 2 pizzas in the oven at a time. It takes 30 minutes to cook each set of 2 pizzas, so to cook 12 pizzas, it will take 6 sets of 2 pizzas, which is 6 * 30 minutes = 180 minutes.
+
+The total time to make 12 pizzas is the time to make the dough (120 minutes) plus the time to cook the pizzas (180 minutes), which is 120 + 180 = 300 minutes.
+
+Converting this to hours:
+300 minutes / 60 minutes per hour = 5 hours
+
+Answer: 5 hours

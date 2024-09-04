@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who ate their animal crackers. Since 2 students did not eat their animal crackers, that means that 20 - 2 = 18 students ate their animal crackers.
+
+Each pack of animal crackers contained 10 animal crackers. Since there were 18 students who ate their animal crackers, the total number of animal crackers eaten is 18 x 10 = 180.
+
+Answer: 180

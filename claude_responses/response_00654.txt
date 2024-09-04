@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Roshesmina's piggy bank has 12 compartments.
+2) There are 2 pennies in each compartment.
+3) To calculate the total number of pennies before adding 6 more to each compartment, we multiply the number of compartments (12) by the number of pennies in each compartment (2):
+12 compartments x 2 pennies per compartment = 24 pennies
+4) Now, Roshesmina adds 6 more pennies to each compartment.
+5) To calculate the total number of pennies after adding 6 more to each compartment, we multiply the number of compartments (12) by the new number of pennies in each compartment (2 + 6 = 8):
+12 compartments x 8 pennies per compartment = 96 pennies
+
+Answer: 96

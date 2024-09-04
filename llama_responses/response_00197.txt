@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+There are 16 people at the dinner party.
+
+Half of 16 is 8, so 8 people eat 1 1/2 rolls each. That's 8 x 1/2 = 4 rolls.
+
+The other half of the people, which is also 8, eat 1/2 a roll each. That's 8 x 1/2 = 4 rolls.
+
+So, the total number of rolls eaten is 4 + 4 = 8.
+
+To find the number of rolls leftover, we need to subtract the total number of rolls eaten from the total number of rolls available.
+
+The total number of rolls available is 40. The total number of rolls eaten is 8. So, the number of rolls leftover is 40 - 8 = 32.
+
+Answer: 32

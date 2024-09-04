@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The ticket price for adults is $26
+* The ticket price for children is half of the adult price, which is $13
+* There were 183 adults who attended the show
+* There were 28 children who attended the show
+* To calculate the total revenue, we need to multiply the number of tickets sold for each group by the respective ticket prices, and then add them together.
+
+For the adults:
+* 183 adults x $26 per ticket = $4,758
+
+For the children:
+* 28 children x $13 per ticket = $364
+
+Now, we add the revenue from the adults and the children to get the total revenue:
+* $4,758 + $364 = $5,122
+
+Answer: $5,122

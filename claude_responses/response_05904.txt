@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that Bill has one less than twice as many spots as Phil.
+2) Let's represent Phil's spots as x.
+3) Then, Bill's spots can be represented as 2x - 1.
+4) We know that the total number of spots between Bill and Phil is 59.
+5) So, we can set up an equation: x + (2x - 1) = 59
+6) Simplifying the equation: 3x - 1 = 59
+7) Adding 1 to both sides: 3x = 60
+8) Dividing both sides by 3: x = 20
+9) Therefore, Phil has 20 spots.
+10) Since Bill has one less than twice as many spots as Phil, we can calculate Bill's spots as: 2 * 20 - 1 = 39.
+
+Answer: 39

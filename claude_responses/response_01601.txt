@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The total number of students in the class is 400.
+2) The number of short students is 2/5 of the total number of students. 
+   * 2/5 of 400 = 0.4 * 400 = 160 short students.
+3) The number of tall students is given as 90.
+4) To find the number of students with average height, we need to subtract the number of short and tall students from the total number of students.
+   * Total students - short students - tall students = average height students
+   * 400 - 160 - 90 = 150 students with average height.
+
+Answer: 150

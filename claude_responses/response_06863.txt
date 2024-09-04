@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Each tree the lumberjack chops down produces 4 logs.
+2) Each log is then chopped into 5 pieces of firewood.
+3) So, each tree produces 4 logs x 5 pieces of firewood per log = 20 pieces of firewood.
+4) The lumberjack has chopped 500 pieces of firewood.
+5) To find the number of trees he chopped down, we need to divide the total pieces of firewood (500) by the number of pieces of firewood per tree (20).
+6) 500 pieces of firewood / 20 pieces of firewood per tree = 25 trees.
+
+Answer: 25

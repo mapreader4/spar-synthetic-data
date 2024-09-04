@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. We have 3 homes, and each home needs a concrete slab that is 100 feet by 100 feet by 0.5 feet.
+2. To calculate the volume of each slab, we multiply the length, width, and height:
+   * Volume of each slab = 100 feet x 100 feet x 0.5 feet = 5,000 cubic feet
+3. Since there are 3 homes, the total volume of concrete needed is:
+   * Total volume = 3 x 5,000 cubic feet = 15,000 cubic feet
+4. The density of concrete is 150 pounds per cubic foot, so the total weight of the concrete is:
+   * Total weight = 15,000 cubic feet x 150 pounds/cubic foot = 2,250,000 pounds
+5. The cost of concrete is $0.02 per pound, so the total cost of the concrete is:
+   * Total cost = 2,250,000 pounds x $0.02/pound = $45,000
+
+Answer: $45,000

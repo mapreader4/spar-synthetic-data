@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what we know:
+
+* 1 lemon provides 4 tablespoons of lemon juice.
+* Jose needs 12 tablespoons of lemon juice to make a dozen (12) cupcakes.
+* To make 3 dozen (3 x 12 = 36) cupcakes, Jose needs 3 times as much lemon juice as it takes to make a dozen (1 dozen = 12) cupcakes.
+
+Let's calculate the number of lemons needed:
+
+12 tablespoons of lemon juice needed for 1 dozen cupcakes = 1 lemon
+12 tablespoons of lemon juice needed for 2 dozen cupcakes = 2 lemons
+12 tablespoons of lemon juice needed for 3 dozen cupcakes = 3 lemons
+
+Jose needs 3 times as much lemon juice as it takes to make 3 dozen cupcakes. So, he needs 3 x 1 = 3 lemons.
+
+Answer: 3

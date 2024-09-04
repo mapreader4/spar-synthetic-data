@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given:
+
+* There are 10 cars parked in the mall's parking lot.
+* Each car has the same number of customers inside.
+* Each customer only makes 1 purchase.
+* The sports store makes 20 sales.
+* The music store makes 30 sales.
+
+We can start by identifying the total number of sales made by both stores. The total number of sales is 20 (from the sports store) + 30 (from the music store) = 50.
+
+Since each customer makes only 1 purchase, we can conclude that there are 50 customers in total. Since there are 10 cars, we can divide the total number of customers by the number of cars to find the number of customers per car:
+
+50 (total customers) ÷ 10 (number of cars) = 5
+
+Answer: 5

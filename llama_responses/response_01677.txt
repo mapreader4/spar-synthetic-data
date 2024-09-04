@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+First, the burgers are 2 x $3.20 each, so that's a total of 2 x 3.20 = 6.40. The fries are 2 x $1.90 each, so that's a total of 2 x 1.90 = 3.80. The milkshakes are 2 x $2.40 each, so that's a total of 2 x 2.40 = 4.80.
+
+So the total cost of the food is 6.40 + 3.80 + 4.80 = 14.00. To get the free delivery, Danny needs to order at least $18 worth of food. Therefore, he needs to order 14.00 - 18 = 4.00 more worth of food to get the free delivery.

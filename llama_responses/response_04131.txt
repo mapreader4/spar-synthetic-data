@@ -1,0 +1,18 @@
+Let's break it down step by step.
+
+Let's start by identifying the information given in the problem.
+
+1. Bill's take-home salary is $40,000.
+2. He pays $2,000 in property taxes.
+3. He pays $3,000 in sales taxes.
+4. 10% of his gross salary in income taxes.
+
+To find the gross salary, we need to add the income taxes back to the take-home salary.
+
+Step 1: Calculate the income taxes.
+10% of $40,000 is 0.1 x $40,000 = $4,000.
+
+Step 2: Add the income taxes to the take-home salary.
+$40,000 + $4,000 = $44,000.
+
+Answer: $44,000

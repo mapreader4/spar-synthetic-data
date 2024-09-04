@@ -1,0 +1,11 @@
+Let's break down Renata's transactions step by step:
+
+1. She started with $10 and made a $4 donation, leaving her with $10 - $4 = $6.
+2. She won the 5th prize of $90, adding it to her current amount: $6 + $90 = $96.
+3. She lost $50 at the first slot machine, leaving her with $96 - $50 = $46.
+4. She lost $10 at the second slot machine, leaving her with $46 - $10 = $36.
+5. She lost $5 at the last slot machine, leaving her with $36 - $5 = $31.
+6. She bought a $1 bottle of water and a $1 lottery ticket, spending a total of $1 + $1 = $2. She is left with $31 - $2 = $29.
+7. She won an instant prize of $65, adding it to her current amount: $29 + $65 = $94.
+
+Answer: 94

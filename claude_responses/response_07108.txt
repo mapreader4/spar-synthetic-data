@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* As a child, Bobby could jump rope 30 times per minute
+* As an adult, Bobby can jump 1 jump per second
+* To convert the adult jumps to jumps per minute, we need to multiply 1 jump per second by 60 seconds per minute
+* 1 jump per second x 60 seconds per minute = 60 jumps per minute
+* The difference between the adult jumps per minute (60) and the child jumps per minute (30) is:
+* 60 jumps per minute - 30 jumps per minute = 30 more jumps per minute
+
+Answer: 30

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of jelly beans needed for each glass.
+
+For the large drinking glasses, it takes 50 jelly beans to fill one glass, and there are 5 of them, so it will take 50 * 5 = 250 jelly beans to fill up all the large glasses.
+
+For the small drinking glasses, it takes half the amount, which is 50 / 2 = 25 jelly beans, and there are 3 of them, so it will take 25 * 3 = 75 jelly beans to fill up the small glasses.
+
+To find the total number of jelly beans needed, we add the number of jelly beans for the large glasses and the small glasses: 250 + 75 = 325.
+
+Answer: 325

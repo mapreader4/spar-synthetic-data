@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) For every 12 cans you recycle, you receive $0.50.
+2) For every 5 kilograms of newspapers, you receive $1.50.
+3) Your family collected 144 cans and 20 kilograms of newspapers.
+4) To calculate the money received for the cans:
+   - 144 cans / 12 cans per $0.50 = 12 sets of $0.50
+   - 12 sets of $0.50 = $6.00
+5) To calculate the money received for the newspapers:
+   - 20 kilograms / 5 kilograms per $1.50 = 4 sets of $1.50
+   - 4 sets of $1.50 = $6.00
+6) The total money received is the sum of the money received for the cans and the newspapers:
+   - $6.00 + $6.00 = $12.00
+
+Answer: $12

@@ -1,0 +1,15 @@
+Okay, let's solve this step-by-step:
+* Tom found 10 quarters, 3 dimes, and 4 nickels, and 200 pennies.
+* The value of each coin is:
+  - 1 quarter = $0.25
+  - 1 dime = $0.10
+  - 1 nickel = $0.05
+  - 1 penny = $0.01
+* To calculate the total value of the coins:
+  - 10 quarters x $0.25 = $2.50
+  - 3 dimes x $0.10 = $0.30
+  - 4 nickels x $0.05 = $0.20
+  - 200 pennies x $0.01 = $2.00
+* Adding up the values of all the coins:
+  - $2.50 + $0.30 + $0.20 + $2.00 = $5.00
+Answer: $5

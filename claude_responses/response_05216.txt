@@ -1,0 +1,14 @@
+Okay, let's think through this step-by-step:
+1) Jacob has taken 4 tests so far, with scores of 85, 79, 92, and 84.
+2) The total of these 4 scores is 85 + 79 + 92 + 84 = 340.
+3) The desired overall average is 85.
+4) The total number of tests is 5.
+5) To find the score needed on the 5th test, we can use the formula:
+   (Sum of 4 test scores + 5th test score) / 5 = 85
+6) Rearranging this, we get:
+   5 * 85 = Sum of 4 test scores + 5th test score
+   425 = 340 + 5th test score
+7) Solving for the 5th test score, we get:
+   5th test score = 425 - 340 = 85.
+
+Answer: 85

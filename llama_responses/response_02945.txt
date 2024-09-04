@@ -1,0 +1,19 @@
+Let's start by calculating the total time taken by Polly. Polly takes an average of 28 seconds per move, so for 30 moves, the total time taken by Polly will be:
+
+28 * 30 = 840 seconds
+
+Now, let's calculate the total time taken by Peter. Peter takes an average of 40 seconds per move, so for 30 moves, the total time taken by Peter will be:
+
+40 * 30 = 1200 seconds
+
+The total time taken by both players is the sum of the time taken by Polly and Peter:
+
+840 + 1200 = 2040 seconds
+
+There are 60 seconds in a minute, so to convert the total time to minutes, we can divide the total time by 60:
+
+2040 / 60 = 34
+
+The answer is:
+
+Answer: 34

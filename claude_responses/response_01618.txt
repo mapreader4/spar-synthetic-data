@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) James bought two pairs of shoes: the first pair for $40 and the second pair for $60.
+2) The offer was that the second pair of shoes would be half off the original price.
+   - So the second pair of shoes would cost $60 / 2 = $30.
+3) The total cost of the two pairs of shoes before the additional discount would be:
+   - $40 (first pair) + $30 (second pair) = $70.
+4) The lady then told James that he was selected for an extra discount of a fourth off the total amount.
+   - This means the final amount James would pay is 3/4 of the total, or 75% of the total.
+   - 75% of $70 = 0.75 * $70 = $52.50.
+
+Answer: 52

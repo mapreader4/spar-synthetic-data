@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of a normal mouse. We know that normal mice cost 120 dollars, so the left-handed mice cost 30% more than that, which is 120 * 1.3 = 156 dollars.
+
+Now, Ned sells 25 mice a day. In a 6-day week, he sells 25 * 6 = 150 mice. Since the store is open every day except for Sunday, Thursday, and Friday, that means he sells 150 - 3 = 147 mice in a week.
+
+Since each mouse costs 156 dollars, the total amount of money he makes is 147 * 156 = 22812 dollars.

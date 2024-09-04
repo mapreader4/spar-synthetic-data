@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with the fact that an emu has two legs. So, if we have a total of 60 heads in the flock, then each head must have two legs. We know that each head has two legs.
+
+So, if we divide the total number of legs by 2, we can get the number of heads:
+
+60 legs ÷ 2 = 30
+
+So, there are 30 emus in Farmer Brown's flock.

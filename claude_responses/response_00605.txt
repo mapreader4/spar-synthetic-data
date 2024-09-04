@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Ivan has 20 dice
+* Jerry has twice as many dice as Ivan
+* To find how many dice Jerry has, we multiply Ivan's dice by 2:
+  * Jerry's dice = 20 x 2 = 40 dice
+* To find the total number of dice they have altogether, we add Ivan's dice and Jerry's dice:
+  * Total dice = Ivan's dice + Jerry's dice
+  * Total dice = 20 + 40 = 60 dice
+
+Answer: 60

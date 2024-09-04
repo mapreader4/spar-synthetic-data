@@ -1,0 +1,17 @@
+Let's start by identifying the information given: "there are 4 more male attendees than female attendees".
+
+We can let the number of female attendees be x. Then, the number of male attendees would be x + 4.
+
+The total number of attendees is given as 120. So, we can set up an equation:
+
+x + 4 = 120
+
+To solve for x, we can subtract 4 from both sides of the equation:
+
+x = 120 - 4
+
+x = 116
+
+So, the number of male attendees is 116.
+
+Answer: 116

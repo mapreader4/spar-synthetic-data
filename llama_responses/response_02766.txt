@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Lara bought 52 stems of flowers initially.
+
+She gave 15 flowers to her mom, which means she has 52 - 15 = 37 flowers left.
+
+Then, she gave 6 more flowers than she gave to her mom to her grandma. This means she gave 6 more flowers to her grandma, so now she has 37 - 6 = 31 flowers left.
+
+So, Lara put the rest of the flowers, which is 31, in the vase.

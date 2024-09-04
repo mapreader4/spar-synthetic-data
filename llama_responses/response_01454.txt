@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. First, let's find the total number of miles Tom drives per week. He drives 50 miles on Monday, Wednesday, and Sunday, which is 3 days, and 100 miles on the other 4 days, which is 100 * 4 = 400 miles. So, the total number of miles he drives per week is 50 + 50 + 50 + 100 + 100 = 300 miles.
+
+2. Next, let's find the total cost per week. Tom has to pay $.1 per mile, and he drives 300 miles per week. So, the total cost per week is 300 *.1 = 30.
+
+3. He also has to pay a weekly fee of $100. So, the total amount he has to pay per week is 30 + 100 = 130.
+
+4. Since Tom has to pay this amount every week, and there are 52 weeks in a year, the total amount he has to pay in a year is 130 * 52 = 6760.
+
+Answer: 6760

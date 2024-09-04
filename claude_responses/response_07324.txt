@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The final score was 37-23, with the Seattle Seahawks winning
+* A touchdown is worth 7 points
+* A field goal is worth 3 points
+* The Seattle Seahawks scored 3 field goals
+
+To find the number of touchdowns the Seattle Seahawks scored, we need to subtract the points from the field goals from the total points scored by the Seattle Seahawks.
+
+The total points scored by the Seattle Seahawks is 37.
+The points from the 3 field goals is 3 x 3 = 9 points.
+So the remaining points must have come from touchdowns.
+
+37 total points - 9 points from field goals = 28 points from touchdowns.
+Since each touchdown is worth 7 points, we can divide the remaining 28 points by 7 to find the number of touchdowns.
+
+28 points / 7 points per touchdown = 4 touchdowns.
+
+Answer: 4

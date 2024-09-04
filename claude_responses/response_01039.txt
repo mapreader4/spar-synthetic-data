@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) There are 120 apartments in the block of flats.
+2) 85% of the apartments have at least 1 resident. This means that 85% of 120 apartments, which is 102 apartments, have at least 1 resident.
+3) 60% of the apartments have at least two residents. This means that 60% of 120 apartments, which is 72 apartments, have at least two residents.
+4) To find the number of apartments with only one resident, we need to subtract the number of apartments with at least two residents from the number of apartments with at least one resident.
+5) 102 apartments have at least one resident, and 72 apartments have at least two residents. So the number of apartments with only one resident is 102 - 72 = 30.
+
+Answer: 30

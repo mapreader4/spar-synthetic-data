@@ -1,0 +1,29 @@
+Let's break this problem down step by step:
+
+1. First, let's find the daily earnings of each employee:
+Robby earns $10 per hour, and works 10 hours a day, so his daily earnings are:
+$10 x 10 = $100
+
+Jaylen also earns $10 per hour and works 10 hours a day, so his daily earnings are:
+$10 x 10 = $100
+
+Miranda earns $10 per hour and works 10 hours a day, so her daily earnings are:
+$10 x 10 = $100
+
+2. Next, let's find the daily savings of each employee:
+Robby saves 2/5 of his salary, which is:
+$100 x 2/5 = $40
+
+Jaylen saves 3/5 of his salary, which is:
+$100 x 3/5 = $60
+
+Miranda saves half of her salary, which is:
+$100 x 1/2 = $50
+
+3. Now, let's find the combined daily savings of the three employees:
+$40 (Robby) + $60 (Jaylen) + $50 (Miranda) = $150
+
+4. Finally, we need to find the combined savings for four weeks. Since they work 5 days a week, and there are 4 weeks, we multiply the daily savings by 20 (5 days x 4 weeks):
+$150 x 20 = $3000
+
+Answer: 3000

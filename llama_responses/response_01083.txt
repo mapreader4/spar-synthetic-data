@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say the total production in the first year was x.
+
+In the second year, the production was reduced by 10 percent. So, the production rate is now 90% of the original rate.
+
+Let's call the new production rate R. We know that R is 90% of the original rate. So, R = 0.9x.
+
+The production in the second year is the original rate multiplied by the number of days in the second year. The number of days in the second year is 365, since it is a leap year.
+
+So, the total production in the second year is R * 365. Since R is 0.9x, the total production is 0.9x * 365.
+
+We are asked to find the total production in the second year. So, we need to multiply the production rate with the number of days.
+
+To find the total production, we multiply 0.9x * 365.
+
+Answer: 0.9 * 365 = 333.5.
+
+So, the total production in the second year is 333.5.

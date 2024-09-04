@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* You sold 220 chocolate cookies at $1 per cookie
+* So the total revenue from the chocolate cookies is:
+  * 220 cookies x $1 per cookie = $220
+* You also sold 70 vanilla cookies at $2 per cookie
+* So the total revenue from the vanilla cookies is:
+  * 70 cookies x $2 per cookie = $140
+* To calculate the total revenue, we add the revenue from the chocolate cookies and the revenue from the vanilla cookies:
+  * $220 + $140 = $360
+Answer: $360

@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+1) Vikki worked 42 hours in one week
+2) Her hourly pay rate is $10
+3) To calculate her weekly earnings, we multiply her hours worked (42) by her hourly pay rate ($10):
+   42 hours x $10 per hour = $420 weekly earnings
+4) From her weekly earnings, 20% is deducted as tax:
+   $420 x 0.20 = $84 tax deduction
+5) 5% is deducted as insurance cover:
+   $420 x 0.05 = $21 insurance deduction
+6) $5 is deducted for union dues
+7) To calculate the amount Vikki takes home after deductions, we subtract the deductions from her weekly earnings:
+   $420 - $84 (tax) - $21 (insurance) - $5 (union dues) = $310
+
+Answer: $310

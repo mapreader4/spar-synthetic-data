@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Bruce can make 15 batches of pizza dough using 1 sack of flour
+* He uses 5 sacks of flour per day
+* We need to find out how many pizza doughs he can make in a week
+
+First, let's calculate how many pizza doughs he can make in a day:
+* 15 batches per sack of flour
+* 5 sacks of flour per day
+* 15 batches x 5 sacks = 75 pizza doughs per day
+
+Now, to find the number of pizza doughs he can make in a week:
+* There are 7 days in a week
+* 75 pizza doughs per day x 7 days = 525 pizza doughs per week
+
+Answer: 525

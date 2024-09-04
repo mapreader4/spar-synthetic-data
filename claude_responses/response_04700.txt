@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* McKenna has 34 stuffed animals
+* Kenley has twice as many stuffed animals as McKenna
+* To find how many stuffed animals Kenley has, we multiply McKenna's 34 by 2:
+  * Kenley has 34 x 2 = 68 stuffed animals
+* Tenly has 5 more stuffed animals than Kenley
+* To find how many stuffed animals Tenly has, we add 5 to Kenley's 68:
+  * Tenly has 68 + 5 = 73 stuffed animals
+* To find the total number of stuffed animals the three girls have, we add up their individual amounts:
+  * McKenna has 34
+  * Kenley has 68
+  * Tenly has 73
+  * 34 + 68 + 73 = 175
+
+Answer: 175

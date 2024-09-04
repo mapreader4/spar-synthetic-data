@@ -1,0 +1,11 @@
+Let's break down the problem step by step:
+
+Josh has $20 initially.
+
+Josh buys a hat for $10, so he has $20 - $10 = $10 left.
+
+Then he buys a pencil for $2, so he has $10 - $2 = $8 left.
+
+Then he buys four cookies. Each cookie costs $1.25, so he buys 4 x $1.25 = $5 worth of cookies. So, he has $8 - $5 = $3 left.
+
+Answer: 3

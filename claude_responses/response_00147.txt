@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Mary initially has 5 green crayons and 8 blue crayons.
+2) She gives out 3 green crayons and 1 blue crayon to Becky.
+3) To find the number of crayons Mary has left, we need to subtract the number of crayons she gave out from the initial number of crayons she had.
+4) The number of green crayons she gave out is 3, so the number of green crayons she has left is 5 - 3 = 2.
+5) The number of blue crayons she gave out is 1, so the number of blue crayons she has left is 8 - 1 = 7.
+6) The total number of crayons Mary has left is the sum of the green crayons and the blue crayons: 2 + 7 = 9.
+
+Answer: 9

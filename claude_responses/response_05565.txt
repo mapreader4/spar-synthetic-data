@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Mr. Angstadt has a total of 120 students throughout the school day.
+2) Half of the students are enrolled in Statistics. That means there are 120 / 2 = 60 students enrolled in Statistics.
+3) Of the 60 students enrolled in Statistics, 90 percent are seniors. 
+4) To find the number of seniors enrolled in Statistics, we take 90% of 60:
+90% of 60 = 0.9 * 60 = 54
+
+Answer: 54

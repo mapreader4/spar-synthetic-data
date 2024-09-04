@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Jenn has 5 jars full of quarters.
+2) Each jar can hold 160 quarters.
+3) So the total number of quarters Jenn has is:
+   5 jars x 160 quarters per jar = 800 quarters
+4) Each quarter is worth $0.25.
+5) So the total amount of money Jenn has is:
+   800 quarters x $0.25 per quarter = $200
+6) The bike costs $180.
+7) To find the amount of money Jenn will have left over, we subtract the cost of the bike from the total amount of money she has:
+   $200 - $180 = $20
+
+Answer: $20

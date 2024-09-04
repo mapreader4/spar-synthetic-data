@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Noah charges $60 for a large painting
+* Noah charges $30 for a small painting
+* Last month, he sold 8 large paintings and 4 small paintings
+* To calculate his sales for last month:
+    - 8 large paintings x $60 = $480
+    - 4 small paintings x $30 = $120
+    - Total sales last month = $480 + $120 = $600
+* This month, he sold twice as much as last month
+    - 16 large paintings x $60 = $960
+    - 8 small paintings x $30 = $240
+    - Total sales this month = $960 + $240 = $1,200
+
+Answer: $1,200

@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+On Monday, the bird watcher sees 70 birds.
+
+On Tuesday, he sees half as many birds as he did on Monday. Half of 70 is 35, so he sees 35 birds on Tuesday.
+
+On Wednesday, he sees 8 more birds than he did on Tuesday. So, he sees 35 + 8 = 43 birds on Wednesday.
+
+To find the total number of birds he saw from Monday to Wednesday, we add the number of birds he saw each day:
+
+70 (Monday) + 35 (Tuesday) + 43 (Wednesday) = 148
+
+Answer: 148

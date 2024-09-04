@@ -1,0 +1,8 @@
+Okay, let's think through this step-by-step:
+1) Barbie can carry 4 coconuts at a time, and Bruno can carry 8 coconuts at a time.
+2) Together, they can carry 4 + 8 = 12 coconuts per trip.
+3) There are 144 coconuts in total that need to be moved.
+4) To calculate the number of trips needed, we divide the total number of coconuts (144) by the number of coconuts carried per trip (12):
+144 / 12 = 12 trips.
+
+Answer: 12

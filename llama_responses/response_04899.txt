@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of letters in the names of her friends. The names are Jessica, Tori, Lily, and Patrice. Let's count the letters:
+
+1. Jessica: 7 letters
+2. Tori: 5 letters
+3. Lily: 4 letters
+4. Patrice: 7 letters
+
+The total number of letters is 7 + 5 + 4 + 7 = 17.
+
+Since each bracelet costs $2, the total cost will be 17 x $2 = 34.
+
+Answer: 34

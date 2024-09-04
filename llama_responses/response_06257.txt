@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of bags of coffee beans used in the morning. Since Droid uses 3 bags of coffee beans every morning, that means he uses 3 bags in the morning.
+
+In the afternoon, he uses triple the number of bags in the morning, so he uses 3 x 3 = 9 bags of coffee beans.
+
+In the evening, he uses twice the number of bags used in the morning, which is 2 x 3 = 6 bags of coffee beans.
+
+To find the total number of bags of coffee beans used in a week, we need to add the number of bags used in the morning, the afternoon, and the evening. So, we have:
+
+3 (morning) + 9 (afternoon) + 6 (evening) = 18
+
+Answer: 18

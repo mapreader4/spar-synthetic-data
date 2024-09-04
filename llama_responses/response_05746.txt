@@ -1,0 +1,7 @@
+Let's break it down step by step:
+
+1. Let's start by calculating the cost of the student tickets. There are 12 students, and each ticket costs $1, so the total cost for the students is 12 * 1 = 12.
+2. The cost of the adult tickets is 4 * 3 = 12.
+3. To find the total cost of the museum tickets, we add the cost of the student tickets and the cost of the adult tickets: 12 + 12 = 24.
+
+Answer: 24

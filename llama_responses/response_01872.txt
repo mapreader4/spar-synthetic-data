@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: The birds fly from lake Jim to lake Disney in one season, which is 50 miles apart. This means that the total distance traveled in the first season is 50 miles.
+
+Step 2: The birds fly from lake Disney to lake London in the next season, which is 60 miles apart. This means that the total distance traveled in the second season is 60 miles.
+
+Step 3: To find the combined distance the birds have traveled in the two seasons, we add the distances traveled in each season. We add 50 miles (from lake Jim to lake Disney) + 60 miles (from lake Disney to lake London) = 110 miles.
+
+Answer: 110

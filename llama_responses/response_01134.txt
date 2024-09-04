@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the information given:
+
+* Henry has 30 more lollipops than Alison.
+* Alison has 60 lollipops.
+* Diane has half the number of lollipops Alison has.
+* If we call the number of lollipops Alison has x, we can write the equation: x = 60 / 2 = 30.
+
+So, Diane has 30 lollipops.
+
+Now, let's find the total number of lollipops they have: 30 (Henry) + 60 (Alison) + 30 (Diane) = 120.
+
+Next, we need to find the number of days it will take for them to finish the lollipops. If they eat 45 lollipops each day, we can divide the total number of lollipops by 45 to find the number of days:
+
+120 ÷ 45 = 2.67
+
+So, it will take them 3 days to finish the lollipops.
+
+Answer: 3

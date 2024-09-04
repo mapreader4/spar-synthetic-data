@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Austin bought 7 friends each a robot.
+* Each robot costs $8.75.
+* He was charged $7.22 for tax.
+* He left with $11.53 in change.
+
+Let's represent the total cost of the robots as 7 * 8.75 = 61.25.
+Then, let's subtract the tax from the total cost to find the amount Austin started with:
+61.25 - 7.22 = 54.03
+
+So, Austin started with $54.03.

@@ -1,0 +1,3 @@
+To solve this problem, we need to find the total number of miles driven, which is 210. Then we need to find the total number of miles driven on highways, which is 210 - 42, since 210 - 42 is 168. Then, we need to find the total number of miles driven on city streets, which is 42. We know that the car gets 18 miles for each gallon on city streets, so we can divide the total number of miles driven on city streets by the number of miles per gallon to find the total number of gallons used. 42 / 18 is 2.33. So, the total number of gallons used is 210 / 35 + 42 / 18 = 7.5 + 2.33 = 9.83. The answer is:
+
+Answer: 9.83

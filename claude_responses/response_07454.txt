@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jennifer has 2 long hair dachshunds
+* It takes her 20 minutes to groom each dog
+* She grooms her dogs every day
+* We need to find how many hours she spends grooming her dogs in 30 days
+
+First, let's calculate how long it takes her to groom both dogs in one day:
+* 20 minutes per dog x 2 dogs = 40 minutes per day
+
+Now, we need to convert this to hours for the 30-day period:
+* 40 minutes per day x 30 days = 1,200 minutes
+* 1,200 minutes / 60 minutes per hour = 20 hours
+
+Therefore, the answer is:
+Answer: 20 hours

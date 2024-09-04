@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by saying that Neil had x games at first. Since Henry gave 5 games to Neil, and now Henry has 4 times as many games as Neil, we can write an equation to represent the situation:
+
+x + 5 = 4x
+
+We can subtract 5 from both sides of the equation to get:
+
+x = 4x - 5
+
+We can add 5 to both sides of the equation to get:
+
+x + 5 = 5 + 4x
+
+We can subtract 5 from both sides of the equation to get:
+
+x = 5
+
+So, Neil had 5 games at first.

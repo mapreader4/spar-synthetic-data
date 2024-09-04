@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Tom started with 2 apples, and each apple was split into 8 slices, so the total number of apple slices is 2 * 8 = 16 slices.
+2) Tom then gave 3/8ths of the apple slices to his friend Jerry. 3/8ths of 16 slices is 3 * 16 / 8 = 6 slices.
+3) After giving 6 slices to Jerry, Tom had 16 - 6 = 10 slices remaining.
+4) Tom then ate half of the remaining 10 slices. Half of 10 is 5, so Tom ate 5 slices.
+5) After eating 5 slices, Tom had 10 - 5 = 5 slices remaining.
+
+Answer: 5

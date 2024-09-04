@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The bridge can hold 20,000 pounds.
+2) Donna's empty truck weighs 12,000 pounds.
+3) She's carrying 20 crates of soda, each weighing 50 pounds. So the total weight of the soda is 20 * 50 = 1,000 pounds.
+4) She's also carrying 3 dryers, each weighing 3,000 pounds. So the total weight of the dryers is 3 * 3,000 = 9,000 pounds.
+5) She's carrying twice as much weight in fresh produce as in soda. The weight of the soda is 1,000 pounds, so the weight of the fresh produce is 2 * 1,000 = 2,000 pounds.
+6) To calculate the total weight of the fully loaded truck, we add up the weight of the empty truck (12,000 pounds), the soda (1,000 pounds), the dryers (9,000 pounds), and the fresh produce (2,000 pounds).
+12,000 + 1,000 + 9,000 + 2,000 = 24,000 pounds.
+
+Answer: 24,000

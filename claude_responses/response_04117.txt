@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+* Ahmed is currently 11 years old
+* Fouad is currently 26 years old
+* We want to find how many years it will take for Fouad's age to be double Ahmed's current age
+* To do this, we need to find the difference between Fouad's age and double Ahmed's current age
+* Double Ahmed's current age is 2 x 11 = 22
+* Fouad's current age is 26
+* The difference between Fouad's age and double Ahmed's age is 26 - 22 = 4
+* Therefore, it will take 4 years for Fouad's age to be double Ahmed's current age.
+
+Answer: 4

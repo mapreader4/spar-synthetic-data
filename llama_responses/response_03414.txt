@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+1. John reels in 3 crab baskets a week.
+2. Each basket holds 4 crabs.
+3. He collects crabs twice a week.
+4. Each crab sells for $3.
+
+Let's calculate the total number of crabs per week:
+
+3 * 4 crabs per basket * 2 (since he collects crabs twice a week) = 12 crabs per week
+
+Now, let's calculate the total money John makes in a week:
+
+12 crabs per week * $3 per crab = 36 dollars per week
+
+Answer: 36

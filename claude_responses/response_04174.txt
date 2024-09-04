@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1. The train has 3 red boxcars, 4 blue boxcars, and 7 black boxcars.
+2. The black boxcars can each hold 4000 pounds of coal.
+3. The blue boxcars can hold twice as much as the black boxcars, so each blue boxcar can hold 8000 pounds of coal.
+4. The red boxcars can hold 3 times as much as the blue boxcars, so each red boxcar can hold 24,000 pounds of coal.
+
+Now, let's calculate the total capacity of all the boxcars:
+* Black boxcars: 7 boxcars x 4000 pounds = 28,000 pounds
+* Blue boxcars: 4 boxcars x 8000 pounds = 32,000 pounds
+* Red boxcars: 3 boxcars x 24,000 pounds = 72,000 pounds
+
+Adding these together, we get:
+* Total capacity = 28,000 + 32,000 + 72,000 = 132,000 pounds of coal
+
+Answer: 132,000 pounds

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's say Greg has x gold. We know that Katie has 4x more gold than Greg, so Katie has 4x + x gold.
+
+The total amount of gold is 100, so the equation is:
+
+x + 4x = 100
+
+We can solve for x by subtracting 4x from both sides of the equation, like so:
+
+x = 100 - 4x
+
+This gives us:
+
+x = 100 - 4x / 4
+
+x = 25
+
+So Greg has 25 gold.

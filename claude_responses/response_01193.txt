@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+
+1. Joe buys 3 oranges, each costing $4.50. So the total cost of the oranges is:
+   3 oranges x $4.50 per orange = $13.50
+
+2. Joe buys 7 juices, each costing 50 cents. So the total cost of the juices is:
+   7 juices x $0.50 per juice = $3.50
+
+3. Joe buys 3 jars of honey, each costing $5. So the total cost of the honey is:
+   3 jars x $5 per jar = $15
+
+4. Joe buys 4 plants, which are 2 for $18. So the total cost of the plants is:
+   4 plants / 2 plants per $18 = 2 sets x $18 per set = $36
+
+5. To calculate the total amount Joe spent at the market, we add up the costs of all the items:
+   $13.50 + $3.50 + $15 + $36 = $68
+
+Answer: $68

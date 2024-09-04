@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Amelia has 3 loads of laundry: whites, darks, and colors
+* The time for each load is:
+  - Whites: 72 minutes in the washing machine, 50 minutes in the dryer
+  - Darks: 58 minutes in the washing machine, 65 minutes in the dryer
+  - Colors: 45 minutes in the washing machine, 54 minutes in the dryer
+* Since she does one load at a time, the total time will be the sum of the times for each load
+* For the whites load:
+  - Washing: 72 minutes
+  - Drying: 50 minutes
+  - Total for whites: 72 + 50 = 122 minutes
+* For the darks load:
+  - Washing: 58 minutes
+  - Drying: 65 minutes
+  - Total for darks: 58 + 65 = 123 minutes
+* For the colors load:
+  - Washing: 45 minutes
+  - Drying: 54 minutes
+  - Total for colors: 45 + 54 = 99 minutes
+* Adding up the times for all 3 loads:
+  - 122 + 123 + 99 = 344 minutes
+
+Answer: 344

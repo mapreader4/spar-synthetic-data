@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 15 students in the classroom
+* The first 5 students each turned in essays with 2 pages
+* So the total pages for the first 5 students is 5 x 2 = 10 pages
+* The next 5 students each turned in essays with 3 pages
+* So the total pages for the next 5 students is 5 x 3 = 15 pages
+* The last 5 students each turned in essays with 1 page
+* So the total pages for the last 5 students is 5 x 1 = 5 pages
+* The total number of pages for all 15 students is 10 + 15 + 5 = 30 pages
+* To find the average page count per essay, we divide the total pages by the number of students:
+* 30 pages / 15 students = 2 pages per essay on average
+
+Answer: 2

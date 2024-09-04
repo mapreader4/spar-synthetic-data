@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Steve writes a letter every 3rd day, which means he writes 10 letters a month (since there are 30 days in a month, and 30 divided by 3 is 10).
+
+The regular letters take 20 minutes each to write, and there are 10 of them. So the total time spent writing regular letters is 20 * 10 = 200 minutes.
+
+The long letter takes 80 minutes per page, and it's written only once a month, so it takes 80 minutes in total.
+
+To find the total time spent writing, we add the time spent on regular letters and the long letter: 200 + 80 = 280 minutes.
+
+Now, we need to convert this to pages. Since it takes 10 minutes to write 1 page, we can divide the total time by 10 to get the total number of pages:
+
+280 minutes ÷ 10 = 28 pages
+
+So, Steve writes 28 pages a month.

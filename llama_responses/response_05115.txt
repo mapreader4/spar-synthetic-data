@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the number of regular hours Janet works in a week: 52 hours.
+
+Step 2: Calculate the number of overtime hours Janet works in a week: 52 - 40 = 12 hours.
+
+Step 3: Calculate the total amount Janet earns in a week: 52 * $20 = $1040.
+
+Step 4: Calculate the amount Janet earns in overtime: 12 * 1.5 * $20 = $36.
+
+Step 5: Calculate the total amount Janet earns in a week: $1040 + $36 = $1076.
+
+Step 6: Calculate how many weeks Janet needs to work to earn $4640: $4640 / $1076 = 4.33 weeks.
+
+Answer: 5

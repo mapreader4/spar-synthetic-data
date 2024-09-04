@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* 20% of the students are in the band
+* 168 students are in the band
+* We need to find the total number of students in the middle school
+
+To find the total number of students, we can use the following equation:
+* 20% of the total students = 168 students
+* 0.20 * total students = 168
+* Total students = 168 / 0.20
+* Total students = 840
+
+Therefore, the total number of students in the middle school is 840.
+
+Answer: 840

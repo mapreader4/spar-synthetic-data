@@ -1,0 +1,14 @@
+Let's break down the information step by step.
+
+Let's start by identifying the amount of food each animal eats per day:
+
+1. Penelope the pig eats 20 pounds of food per day.
+2. Greta the goose eats 1/10th of what Penelope the pig eats, which is 20/10 = 2 pounds of food per day.
+3. Milton the mouse eats 1/100th of what Greta the goose eats, which is 2 pounds per day.
+4. Elmer the elephant eats 4000 times more than Milton the mouse does per day. Milton the mouse eats 2 pounds per day, so Elmer the elephant eats 2 x 4000 = 8000 pounds of food per day.
+
+Now, let's find the difference in the amount of food eaten by Elmer the elephant and Penelope the pig:
+
+8000 (Elmer's daily food intake) - 20 (Penelope's daily food intake) = 7880
+
+Answer: 7880

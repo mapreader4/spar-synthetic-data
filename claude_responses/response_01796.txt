@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Dennis collected 10 rocks.
+2) He put all 10 rocks in his aquarium.
+3) His fish ate half of the rocks. Since he had 10 rocks, half of 10 is 5. So, the fish ate 5 rocks.
+4) Dennis was able to make the fish spit out 2 rocks.
+
+Now, let's calculate the number of rocks left:
+* Dennis started with 10 rocks.
+* The fish ate 5 rocks.
+* Dennis was able to get 2 rocks back.
+* So, the number of rocks left is: 10 - 5 + 2 = 7 rocks.
+
+Answer: 7

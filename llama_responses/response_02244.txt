@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's say the number of hens is x.
+
+The statement says that the farm has 5 less than 9 times the amount of hens as roosters. We can represent this as the equation:
+
+5 < 9x
+
+This equation is saying that the number of hens is 5 less than 9 times the number of roosters. To solve for x, we can subtract 5 from both sides of the equation:
+
+9x - 5 = 0
+
+This gives us:
+
+x = 5
+
+So, the number of hens is 5.
+
+Answer: 5

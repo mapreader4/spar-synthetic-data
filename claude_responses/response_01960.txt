@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 10 bags with 30 oranges each on the truck.
+2) That means the total number of oranges on the truck is 10 * 30 = 300 oranges.
+3) Out of the 300 oranges, 50 are rotten.
+4) That leaves 300 - 50 = 250 good oranges.
+5) 30 of the good oranges will be kept for making orange juice.
+6) That leaves 250 - 30 = 220 oranges to be sold.
+
+Answer: 220

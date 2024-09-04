@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Let's start with what we know:
+
+1. The team played 40 games and won 70% of the games.
+2. To find the number of games they won, we can multiply 40 by 0.7: 40 x 0.7 = 28.
+3. The team still had 10 games to play.
+4. To find the number of games they can lose to win 60% of their games, we can multiply 10 by 0.4: 10 x 0.4 = 4.
+5. Since they won 28 games, they can lose 4 games to win 60% of their games.
+
+Answer: 4

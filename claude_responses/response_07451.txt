@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+When the factory was making cars:
+* Cost of materials per month: $100
+* Number of cars made per month: 4
+* Selling price per car: $50
+* Revenue per month from selling cars: 4 cars x $50 per car = $200
+* Profit per month from selling cars: $200 revenue - $100 materials = $100 profit
+
+Now that the factory is making motorcycles:
+* Cost of materials per month: $250
+* Number of motorcycles made per month: 8
+* Selling price per motorcycle: $50
+* Revenue per month from selling motorcycles: 8 motorcycles x $50 per motorcycle = $400
+* Profit per month from selling motorcycles: $400 revenue - $250 materials = $150 profit
+
+To calculate the difference in profit:
+* Profit from motorcycles: $150
+* Profit from cars: $100
+* Difference in profit: $150 - $100 = $50
+
+Answer: $50

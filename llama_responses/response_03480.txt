@@ -1,0 +1,14 @@
+Let's break this down step by step:
+
+1. Chelsea made 4 batches of cupcakes.
+2. Each batch took 20 minutes to bake.
+3. Each batch took 30 minutes to ice.
+
+To find the total time taken to make the cupcakes, we need to multiply the baking time by the number of batches, and then add the icing time.
+
+20 minutes per batch * 4 = 80 minutes (baking time)
+30 minutes per batch * 4 = 120 minutes (icing time)
+
+Total time = Baking time + Icing time = 80 + 120 = 200 minutes
+
+Answer: 200

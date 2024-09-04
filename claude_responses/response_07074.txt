@@ -1,0 +1,15 @@
+To solve this problem, we need to find the speed of the car in miles per hour.
+
+Given information:
+- The car traveled 360 miles.
+- The car traveled for 4 hours and 30 minutes.
+
+Step 1: Convert the time from hours and minutes to just hours.
+4 hours and 30 minutes = 4.5 hours
+
+Step 2: Calculate the speed of the car in miles per hour.
+Speed = Distance / Time
+Speed = 360 miles / 4.5 hours
+Speed = 80 miles per hour
+
+Answer: 80 miles per hour.

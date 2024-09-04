@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+* Rick started with 130 cards
+* He decided to keep 15 cards for himself
+* He gave 12 cards each to 8 friends
+* The remaining cards were given equally to his 2 sisters, and each sister got 3 cards
+
+First, let's calculate how many cards Rick gave to his 8 friends:
+* 8 friends x 12 cards each = 96 cards
+
+Now, let's calculate the remaining cards after giving 15 to himself and 96 to his friends:
+* 130 cards - 15 cards - 96 cards = 19 cards
+
+Since each of his 2 sisters got 3 cards, that means:
+* 2 sisters x 3 cards each = 6 cards
+
+The remaining cards were given to Miguel, so:
+* 19 cards - 6 cards = 13 cards
+
+Answer: 13 cards

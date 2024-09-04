@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Jose's cellar currently holds 2400 bottles of imported wine.
+2) Jose's cellar also holds half as many bottles of domestic wine as imported wine. So, the number of domestic wine bottles is 2400 / 2 = 1200.
+3) The total number of bottles in Jose's cellar is the sum of the imported and domestic wine bottles: 2400 + 1200 = 3600.
+4) The guests drink one-third of all the wine. One-third of 3600 is 3600 / 3 = 1200.
+5) The number of bottles remaining in Jose's cellar is the total number of bottles (3600) minus the number of bottles the guests drank (1200).
+
+Answer: 2400

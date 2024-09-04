@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) The problem states that the shadows from the building stretch an extra 5 feet every hour past noon.
+2) The shadows start at 0 feet at noon.
+3) We want to find the length of the shadows 6 hours past noon.
+4) 6 hours past noon means the shadows have been growing for 6 hours.
+5) Since the shadows grow 5 feet per hour, after 6 hours the shadows will have grown 6 * 5 = 30 feet.
+6) To convert this to inches, we multiply 30 feet by 12 inches per foot.
+7) 30 feet * 12 inches/foot = 360 inches.
+
+Answer: 360 inches.

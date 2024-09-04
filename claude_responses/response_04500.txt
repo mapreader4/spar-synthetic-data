@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Uncle Bradley has a $1000 bill.
+2) He wants to change 3/10 of the money into $50 bills.
+3) To calculate 3/10 of $1000, we multiply $1000 by 3/10:
+   $1000 x 3/10 = $300
+4) So, $300 will be changed into $50 bills.
+5) To calculate how many $50 bills that is, we divide $300 by $50:
+   $300 / $50 = 6 bills
+6) The remaining 7/10 of the $1000 bill will be changed into $100 bills.
+7) To calculate 7/10 of $1000, we multiply $1000 by 7/10:
+   $1000 x 7/10 = $700
+8) To calculate how many $100 bills that is, we divide $700 by $100:
+   $700 / $100 = 7 bills
+9) In total, Uncle Bradley will have 6 $50 bills and 7 $100 bills.
+
+Answer: 13 bills

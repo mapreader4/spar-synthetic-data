@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Jean is wanted on 3 counts of arson, with each arson count having a 36-month sentence.
+2) Jean is also wanted on 2 burglary charges, with each burglary charge being 18 months.
+3) Jean is also wanted on six times as many petty larceny charges as burglary charges. 
+4) Each petty larceny charge is 1/3rd as long as a burglary charge, which means each petty larceny charge is 6 months.
+5) To calculate the total number of petty larceny charges, we take 2 burglary charges and multiply by 6, which gives us 12 petty larceny charges.
+
+Now, let's add up the total sentence:
+* 3 arson counts at 36 months each = 108 months
+* 2 burglary charges at 18 months each = 36 months 
+* 12 petty larceny charges at 6 months each = 72 months
+
+Adding these up, the total sentence Jean is facing is:
+Answer: 216 months

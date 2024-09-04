@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Grayson has 100 questions on the test
+* He answers some of the questions for 2 hours
+* He takes 2 minutes for each answer
+
+To find out how many questions he answered, we need to calculate how many questions he could answer in 2 hours:
+* 2 hours = 120 minutes
+* 120 minutes / 2 minutes per question = 60 questions
+
+So, Grayson answered 60 questions.
+
+Now, to find out how many questions he left unanswered, we subtract the number of questions he answered from the total number of questions:
+* 100 questions - 60 questions = 40 questions
+
+Answer: 40

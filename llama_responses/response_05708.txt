@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's start by letting x be the cost of a pastrami sandwich. Then, we know that the cost of a Reuben sandwich is x + 2, because it costs 2 more than the pastrami.
+
+We are told that Reuben sandwiches cost x times 10 and pastrami sandwiches cost x times 5. We are also told that the total earnings are 55.
+
+So, the total cost of the pastrami sandwiches is 5x, and the total cost of the Reuben sandwiches is 10x. We know that the total earnings are 55, so we can set up the equation:
+
+5x + 10x = 55
+
+Now, we can solve for x. First, we can subtract 10x from both sides of the equation to get:
+
+5x = 55 - 10x
+
+Then, we can divide both sides by 5 to get:
+
+x = 11
+
+So, a pastrami sandwich costs 11 dollars.

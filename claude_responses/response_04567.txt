@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* The bookshop initially had 743 books in their store.
+* On Saturday, they sold 37 books in-store and 128 books online.
+* So the total number of books sold on Saturday was 37 + 128 = 165 books.
+* On Sunday, they sold twice as many books in-store, which is 2 * 37 = 74 books.
+* They also increased their online sales by 34 books, so the total online sales on Sunday was 128 + 34 = 162 books.
+* The total number of books sold on Sunday was 74 + 162 = 236 books.
+* They also received a shipment of 160 books.
+
+Now, to calculate the current number of books they have:
+* Initial number of books: 743
+* Books sold on Saturday: 165
+* Books sold on Sunday: 236
+* Books received in shipment: 160
+* Current number of books = 743 - 165 - 236 + 160 = 502
+
+Answer: 502

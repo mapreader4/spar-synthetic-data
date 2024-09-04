@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The initial tank had 4000 liters of oil.
+2) Three-quarters of the 4000 liters were poured into the larger tanker. 
+3) Three-quarters of 4000 liters is 3000 liters.
+4) The larger tanker already had 3000 liters of oil in it.
+5) The total amount of oil in the larger tanker is now 3000 + 3000 = 6000 liters.
+6) The larger tanker has a capacity of 20000 liters.
+7) To make the larger tanker half-full, it needs to have 10000 liters of oil.
+8) The difference between the current amount of oil (6000 liters) and the amount needed to make it half-full (10000 liters) is 10000 - 6000 = 4000 liters.
+
+Answer: 4000 liters

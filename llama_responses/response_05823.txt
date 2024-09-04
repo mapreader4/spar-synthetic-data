@@ -1,0 +1,8 @@
+Let's break it down step by step.
+
+1. The faucet drips 10 times per minute.
+2. Since the faucet is dripping for 60 minutes, it drips 10 * 60 = 600 times in an hour.
+3. Each drop contains 0.05 mL of water.
+4. So, the total amount of water wasted in one hour is 600 * 0.05 = 30 mL.
+
+Answer: 30

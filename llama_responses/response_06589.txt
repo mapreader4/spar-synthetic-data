@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Billy has 8 hours of free time on each day of the weekend. So, he has 8 * 2 = 16 hours of free time in total.
+
+He wants to spend 75% of his time playing video games and the rest of his time reading. So, the time he spends on reading is 1 - 0.75 = 0.25 of his total time.
+
+0.25 * 16 = 4 hours.
+
+He can read 60 pages an hour. So, in 4 hours, he can read 4 * 60 = 240 pages.
+
+His books all contain 80 pages. So, he can read 240 / 80 = 3 books.
+
+Answer: 3

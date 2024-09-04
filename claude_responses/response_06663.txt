@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The horse is running at 20 feet per second.
+2) The bullet fired from the gun flies at a speed of 400 feet per second.
+3) If Wild Bill fires the gun in the same direction as the horse is running, the bullet's speed will be the sum of the horse's speed and the bullet's speed.
+4) The bullet's speed in the same direction as the horse is running = 400 feet per second + 20 feet per second = 420 feet per second.
+5) If Wild Bill fires the gun in the opposite direction of the horse's movement, the bullet's speed will be the difference between the horse's speed and the bullet's speed.
+6) The bullet's speed in the opposite direction of the horse is running = 400 feet per second - 20 feet per second = 380 feet per second.
+7) The difference in the bullet's speed between the two scenarios is:
+420 feet per second - 380 feet per second = 40 feet per second.
+
+Answer: 40 feet per second.

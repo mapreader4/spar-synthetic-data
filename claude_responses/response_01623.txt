@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) There were 60 women at the party.
+2) Three-fourths of the women were married, which means 3/4 * 60 = 45 women were married.
+3) Each of the 45 married women brought their husbands with them, so there were 45 men at the party.
+4) In total, there were 60 women and 45 men at the party.
+5) The question states that 3/4 of the men at the party were single, which means 3/4 * 45 = 33.75 men were single. Since we can't have a fractional number of people, we round this down to 33 single men.
+6) Adding up the total number of people at the party, we have:
+   - 60 women
+   - 45 married men
+   - 33 single men
+   - Total = 60 + 45 + 33 = 138 people
+
+Answer: 138

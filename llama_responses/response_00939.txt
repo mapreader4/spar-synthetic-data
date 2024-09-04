@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of students who play basketball and volleyball.
+
+Half of the students play basketball, which is 20 / 2 = 10 students.
+
+Two-fifths of the students play volleyball, which is 20 * 2/5 = 8 students.
+
+One-tenth of the students play both basketball and volleyball, which is 20 * 1/10 = 2 students.
+
+To find the total number of students who play basketball or volleyball, we add the number of students who play basketball and volleyball: 10 + 8 = 18.
+
+To find the number of students who do not play either game, we subtract the total number of students who play a game from the total number of students in the class, 20. 20 - 18 = 2.
+
+Answer: 2

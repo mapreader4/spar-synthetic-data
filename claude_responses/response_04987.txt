@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The current price of a bottle of wine is $20.00
+* In 2 months, the price of wine will increase by 25%
+* We want to find how much more expensive 5 bottles of wine will be in 2 months
+
+First, let's calculate the new price of a single bottle of wine after the 25% increase:
+* 25% of $20.00 = 0.25 * $20.00 = $5.00
+* New price of a bottle of wine = $20.00 + $5.00 = $25.00
+
+Now, let's calculate the total cost of 5 bottles of wine at the new price:
+* 5 bottles of wine at $25.00 each = 5 * $25.00 = $125.00
+
+Finally, let's calculate how much more expensive 5 bottles of wine will be in 2 months:
+* Original cost of 5 bottles of wine = 5 * $20.00 = $100.00
+* New cost of 5 bottles of wine = $125.00
+* Difference in cost = $125.00 - $100.00 = $25.00
+
+Answer: $25.00

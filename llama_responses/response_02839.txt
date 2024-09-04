@@ -1,0 +1,11 @@
+Let's think step by step.
+
+Let's say the number of marshmallows Jacob has is x.
+
+We know that Jacob has 6 marshmallows initially. We are asked how many more marshmallows he needs to buy.
+
+The number of marshmallows Jacob has is 6. He wants to make s'mores. Each s'more takes one marshmallow. So, to make 48 s'mores, Jacob will need 48 / 1 = 48 marshmallows.
+
+But Jacob has 6 marshmallows. So, he needs 48 - 6 = 42 more marshmallows.
+
+Answer: 42

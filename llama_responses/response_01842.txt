@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start with the number of trucks, which is 50. Half of the trucks are red, so that is 25. Then, 20% of the trucks are black, so that is 10. That means the number of black trucks is 10, and the number of red trucks is 15.
+
+Now, we need to find the number of cars. The total number of cars is 40. We don't have any information about the color of the cars, so we'll just leave that number as 40.
+
+To find the total number of trucks and cars, we add the number of trucks and cars: 50 + 40 = 90.
+
+Now, we need to find the number of white cars. Since the number of white cars is not given, we can find it by subtracting the number of red trucks and black trucks from the total number of trucks and cars. The number of red trucks is 25, and the number of black trucks is 10, so the number of white trucks and cars is 50 - 25 - 10 = 15.
+
+Now, we need to find the percentage of white trucks and cars. We know that the total number of trucks and cars is 90, and the number of white trucks and cars is 15. To find the percentage, we divide the number of white trucks and cars by the total number of trucks and cars and multiply by 100:
+
+(15 / 90) * 100 = 16.67
+
+Rounded to the nearest integer, the percentage of white trucks and cars is 17.

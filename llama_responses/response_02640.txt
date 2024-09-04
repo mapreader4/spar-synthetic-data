@@ -1,0 +1,15 @@
+To find the length of the rectangle, we can use the formula A = L * W, where A is the area and W is the width. 
+
+First, we need to find the length of the rectangle. We know the area is 1638 and the width is 42. 
+
+We can set up an equation: 
+
+1638 = L * 42
+
+We can solve for L by dividing both sides by 42:
+
+L = 1638 / 42
+
+L = 39
+
+So, the length of the rectangle is 39.

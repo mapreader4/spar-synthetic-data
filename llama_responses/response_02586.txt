@@ -1,0 +1,42 @@
+Let's break this down step by step!
+
+Initially, Keanu is surfing towards the shore at a speed of 20 miles per hour. The shark is swimming alongside him, also riding the same wave.
+
+When the shark doubles its speed, it becomes 2 x 20 = 40 miles per hour.
+
+The pilot fish is swimming alongside Keanu and the shark. When the shark increases its speed, the pilot fish also increases its speed. However, the pilot fish only increases its speed by half as much as the shark had increased its speed.
+
+So, the pilot fish increases its speed by half of 20 miles per hour, which is 10 miles per hour. This means the pilot fish's new speed is its initial speed plus 10 miles per hour.
+
+Let's call the pilot fish's initial speed "x". Then, its new speed is x + 10.
+
+We know that the pilot fish is swimming away from Keanu, so its speed is greater than Keanu's speed. Since Keanu is surfing towards the shore, his speed is 20 miles per hour. Therefore, the pilot fish's new speed must be greater than 20 miles per hour.
+
+We can set up an inequality to represent this:
+
+x + 10 > 20
+
+Subtracting 10 from both sides gives us:
+
+x > 10
+
+This means the pilot fish's initial speed is greater than 10 miles per hour.
+
+However, we don't know the pilot fish's initial speed. We can't find the pilot fish's initial speed, but we can find its new speed.
+
+The pilot fish's new speed is x + 10, and we know it's greater than 20 miles per hour. We can set up an inequality to represent this:
+
+x + 10 > 20
+
+Subtracting 10 from both sides gives us:
+
+x > 10
+
+Adding 10 to both sides gives us:
+
+x + 10 > 20 + 10
+x + 10 > 30
+
+So, the pilot fish's new speed is greater than 30 miles per hour.
+
+Answer: 30

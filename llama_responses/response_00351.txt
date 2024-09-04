@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by finding the number of days Jackson ate peanut butter and jelly sandwiches. He eats sandwiches on Wednesdays and Fridays, and he has missed 1 Wednesday and 2 Fridays. So, the number of days he ate sandwiches is 36 - (1 + 2) = 35.
+
+Next, we need to find the number of sandwiches he ate for lunch. There are 2 sides to a sandwich, so the number of sandwiches is 35 * 2 = 70.
+
+Answer: 70

@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's say the number of flowers Ali sold on Monday is x.
+
+Then, on Tuesday, he sold 8 flowers.
+
+Then, on Friday, he sold double the number of flowers he sold on Monday. So, on Friday, he sold 2x flowers.
+
+We can set up an equation to represent the total number of flowers Ali sold:
+
+x + 8 + 2x = Total flowers
+
+We know that the total number of flowers Ali sold is the sum of the number of flowers he sold on Monday and the number of flowers he sold on Friday.
+
+To solve for x, we can subtract 8 from both sides of the equation:
+
+x + 8 + 2x = Total flowers
+x + 8 = Total flowers - 8
+x = 8
+
+So, the number of flowers Ali sold on Monday is 8.
+
+Now, we can add 8 to that number to find the total number of flowers he sold:
+
+8 + 8 = 16
+
+Answer: 16

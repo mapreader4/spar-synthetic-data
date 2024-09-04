@@ -1,0 +1,30 @@
+Let's break this problem down step by step.
+
+Let's say Johnny has x amount of practice currently. Since he practices the same amount each day, that means that x is the number of days he has practiced so far.
+
+As of 20 days ago, he had half as much practice as he has currently. So, we can set up an equation:
+
+x - 20 = x/2
+
+We can solve for x by multiplying both sides by 2:
+
+x - 20 = x/2 * 2
+x - 20 = x
+
+Add 20 to both sides:
+
+x = x + 20
+
+So, Johnny had x + 20 practice 20 days ago.
+
+Now, he wants to have 3 times as much practice as he does currently. So, we can set up an equation:
+
+x + 20 + y = 3x
+
+We can subtract x from both sides:
+
+y = 2x
+
+Now, we know that y is the number of days it will take for Johnny to have 3 times as much practice as he does currently. So, the answer is:
+
+Answer: 2x

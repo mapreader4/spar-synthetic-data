@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* The math test has 75 problems
+* After 20 minutes, Georgia has completed 10 problems
+* After another 20 minutes (40 minutes total), she has completed twice as many problems, which is 20 problems
+* She has 40 minutes left to complete the rest of the test
+
+Now, let's calculate how many problems she has left to solve:
+* Total problems: 75
+* Problems completed so far: 20
+* Problems left to solve: 75 - 20 = 55
+
+Answer: 55

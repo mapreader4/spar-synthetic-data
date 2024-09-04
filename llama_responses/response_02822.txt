@@ -1,0 +1,16 @@
+To solve this problem, we can start by setting up an equation to represent the age of Jennifer's sister Jordana. Let's say Jordana's age can be represented by the variable 'x'. 
+
+In ten years, Jennifer will be 30 years old. So, we can set up the equation like this:
+
+x + 10 = 30
+
+We know that Jennifer's sister Jordana is three times Jennifer's age, so we can represent that with a multiplication factor of 3:
+
+x = 3 * x
+
+We can now solve for x, the current age of Jordana:
+
+x = 30 - 10
+x = 20
+
+Jordana is currently 20 years old.

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Joyce's previous property was 2 acres
+* Her new property is 10 times larger than her previous property
+* To calculate the size of her new property:
+    - Previous property: 2 acres
+    - New property: 2 acres x 10 = 20 acres
+* However, her new property has a 1-acre pond where she cannot grow vegetables
+* To calculate the amount of land suitable for growing vegetables:
+    - Total new property: 20 acres
+    - Pond area: 1 acre
+    - Land suitable for growing vegetables: 20 acres - 1 acre = 19 acres
+
+Answer: 19 acres

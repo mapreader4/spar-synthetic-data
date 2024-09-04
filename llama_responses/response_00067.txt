@@ -1,0 +1,17 @@
+Let's break down the problem step by step:
+
+1. Jesse runs (2/3) of a mile for the first 3 days, which is 2/3 * 3 = 2 miles per day. So, for the first 3 days, Jesse runs a total of 2 * 3 = 6 miles.
+
+2. Mia runs 3 miles a day for the first 4 days, so she runs a total of 3 * 4 = 12 miles for the first 4 days.
+
+3. To find the average of Jesse's average over the final 3 days, we need to find the total distance she needs to run over those 3 days. Since she has already run 6 miles in the first 3 days, she needs to run 30 - 6 = 24 miles over the final 3 days.
+
+4. To find the average, we divide the total distance by the number of days: 24 / 3 = 8 miles per day.
+
+5. Mia's average is 3 miles a day, so her total distance over the final 3 days is 3 * 3 = 9 miles.
+
+6. The average of Jesse's average over the final 3 days is 8 miles, and Mia's average over the final 3 days is 9 miles.
+
+So, the average of their averages is (8 + 9) / 2 = 8.5.
+
+Answer: 8

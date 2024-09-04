@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Aston has 150 pages that he found on the floor.
+2) Each comic has 25 pages.
+3) To find the number of comics that the 150 pages make up, we divide 150 by 25:
+150 / 25 = 6 comics
+4) There were already 5 untorn comics in the box.
+5) So the total number of comics in the box is 6 (the torn comics) + 5 (the untorn comics) = 11 comics.
+
+Answer: 11

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Tonya has 2 sisters
+* She wants to spend the exact same amount on each sister
+* For her younger sister, she bought 4 dolls that cost $15 each
+* So the total amount spent on the younger sister is:
+    - 4 dolls x $15 per doll = $60
+* For her older sister, she plans to buy Lego sets that cost $20 each
+* Since Tonya wants to spend the same amount on each sister, the amount spent on the older sister must also be $60
+* To find the number of Lego sets she buys for the older sister, we divide the total amount spent ($60) by the cost per Lego set ($20):
+    - $60 / $20 per Lego set = 3 Lego sets
+
+Answer: 3

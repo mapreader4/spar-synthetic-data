@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 15 tables in the school's cafeteria
+* Each table can seat 10 people
+* So the total number of seats in the cafeteria is 15 tables x 10 seats per table = 150 seats
+* Usually, only 1/10 of the seats are left unseated
+* That means 9/10 of the seats are usually taken
+* To calculate the number of seats usually taken, we take 9/10 of the total seats:
+* 9/10 x 150 seats = 135 seats
+
+Answer: 135

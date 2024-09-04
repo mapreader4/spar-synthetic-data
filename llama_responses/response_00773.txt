@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Let's first find the distance that Amoli travelled.
+
+Amoli drove for 3 hours at 42 miles per hour, so the distance travelled by Amoli is:
+
+Distance = Speed * Time = 42 * 3 = 126 miles
+
+Now let's find the distance travelled by Anayet.
+
+Anayet drove for 2 hours at 61 miles per hour, so the distance travelled by Anayet is:
+
+Distance = Speed * Time = 61 * 2 = 122 miles
+
+Now, we need to find the total distance they still need to travel. We can find this by subtracting the distance travelled by both of them from the total distance they need to travel.
+
+Total distance still needed = Total distance - Distance travelled by Amoli - Distance travelled by Anayet
+= 369 - 126 - 122 = 21
+
+So, the answer is:
+
+Answer: 21

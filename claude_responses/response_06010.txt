@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+
+1. James can do a farmer's walk with 300 pounds per hand for 20 meters.
+2. If he only goes 10 meters, he can lift 30% more, which means he can lift 300 + (300 * 0.3) = 390 pounds per hand.
+3. Using lifting straps gives him an additional 20% increase, so he can lift 390 + (390 * 0.2) = 468 pounds per hand.
+4. The question states that he increases his 20-meter distance without straps by 50 pounds, so now he can lift 300 + 50 = 350 pounds per hand.
+5. Since everything else increases in proportion, the 10-meter distance with straps would be 468 + (468 * 0.5) = 702 pounds per hand.
+
+Answer: 702 pounds

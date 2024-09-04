@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 2 men and 3 women
+* Each man bought 30 apples
+* Each woman bought 20 more apples than each man
+* So, each woman bought 30 + 20 = 50 apples
+
+Now, let's calculate the total number of apples bought:
+* 2 men x 30 apples each = 60 apples
+* 3 women x 50 apples each = 150 apples
+* Total apples bought = 60 + 150 = 210 apples
+
+Answer: 210

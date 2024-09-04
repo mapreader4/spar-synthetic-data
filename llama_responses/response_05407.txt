@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Day 1: Jill studies for 2 hours, which is 2 * 60 = 120 minutes.
+
+Day 2: Jill doubles the amount of time she studied the previous day, so she studies 2 * 120 = 240 minutes.
+
+Day 3: Jill studies one hour less than the previous day, so she studies 240 - 60 = 180 minutes.
+
+To find the total amount of time Jill studies, we add the minutes from each day:
+
+120 + 240 + 180 = 540
+
+Answer: 540

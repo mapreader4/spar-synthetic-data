@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The world record for longest fingernails is 26 inches
+* Sandy's fingernails are currently 2 inches long
+* Sandy's fingernails grow at a rate of one-tenth of an inch per month
+* We need to find out how old Sandy will be when her fingernails reach 26 inches
+
+To calculate this, we need to find out how many months it will take for her fingernails to grow from 2 inches to 26 inches.
+
+We know that her fingernails grow 0.1 inches per month, so we can calculate the number of months it will take:
+* 26 inches - 2 inches = 24 inches
+* 24 inches / 0.1 inches per month = 240 months
+
+Now, we know that Sandy just turned 12 this month, so we can add the 240 months to her current age:
+* 12 years + 240 months / 12 months per year = 32 years
+
+Answer: 32

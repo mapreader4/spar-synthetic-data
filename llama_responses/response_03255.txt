@@ -1,0 +1,23 @@
+Let's break this problem down step by step!
+
+Let's start by identifying the total number of people who were there for the second band. We know that 2/3 of the audience was there for the second band, and 50% of that group is under the age of 30. We also know that 60% of that group are women and there are 20 men.
+
+Let's use variables to represent the unknown values. Let x be the total number of people who were there for the second band. Then, the number of women under the age of 30 is 0.6x and the number of men under the age of 30 is 0.4x.
+
+We know that the number of men under the age of 30 is 20, so we can set up the equation:
+
+0.4x = 20
+
+To solve for x, we can divide both sides by 0.4:
+
+x = 20 / 0.4
+x = 50
+
+So, there are 50 people who were there for the second band.
+
+Now, we know that 2/3 of the audience was there for the second band, so the total number of people at the concert is:
+
+Total number of people = 3/2 x 50
+= 75
+
+Answer: 75

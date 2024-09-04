@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Blaine caught 5 fish
+* Keith caught twice as many fish as Blaine
+* To find how many fish Keith caught, we multiply Blaine's catch by 2:
+  * Keith's catch = 2 x 5 = 10 fish
+* To find the total number of fish they caught together, we add Blaine's catch and Keith's catch:
+  * Total fish caught = Blaine's catch + Keith's catch
+  * Total fish caught = 5 + 10 = 15 fish
+
+Answer: 15

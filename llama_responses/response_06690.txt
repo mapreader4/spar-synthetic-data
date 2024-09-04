@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+Let's first identify the given information:
+
+* The budget is $325.
+* They spent $150 on flasks.
+* They spent two-thirds of the test tube cost on safety gear.
+* The cost of test tubes is two-thirds of the cost of flasks.
+
+Let's calculate the cost of test tubes: $150 is two-thirds of the cost of flasks. To find the cost of test tubes, we need to find the cost of flasks, then multiply that by 3/2.
+
+The cost of flasks is $150. So, the cost of test tubes is 150 * 3/2 = $225.
+
+Now, they used half of the test tube cost on safety gear. Half of $225 is $112.50.
+
+Now, they spent $150 on flasks, and $112.50 on safety gear. So, the remaining amount is:
+
+$325 - $150 - $112.50 = $112.50.
+
+So, the answer is: Answer: 112.50.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total amount of sand in the two 2-gallon jugs. Since the jugs are 2 gallons each, the total amount of sand is 2 x 2 = 4 gallons. Since the jugs are 70% full, the amount of sand in each jug is 0.7 x 4 = 2.8 gallons. 
+
+Now, since the sand has a density of 5 pounds per gallon, we can find the total weight of the sand by multiplying the amount of sand by the density. 2.8 gallons x 5 pounds/gallon = 14 pounds.
+
+So, the total weight of the sand is 14 pounds.
+
+Answer: 14

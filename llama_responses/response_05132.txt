@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by calculating the total amount of money Cid earned from changing the oil of 5 cars. Cid charges $20 for an oil change, so for 5 cars, he would earn 5 x 20 = $100.
+
+Next, let's calculate the total amount of money Cid earned from repairing 10 cars. Cid charges $30 for a repair, so for 10 cars, he would earn 10 x 30 = $300.
+
+Finally, let's calculate the total amount of money Cid earned from washing 15 cars. Cid charges $5 for a car wash, so for 15 cars, he would earn 15 x 5 = $75.
+
+Now, let's add up the total amount of money Cid earned from each service: $100 for the oil changes, $300 for the repairs, and $75 for the car wash. To find the total, we can add these amounts together: $100 + $300 + $75 = $475.
+
+Answer: 475

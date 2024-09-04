@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The Kwik-e-Tax Center charges:
+  - $50 for a federal return
+  - $30 for a state return
+  - $80 for quarterly business taxes
+* They sold:
+  - 60 federal returns
+  - 20 state returns
+  - 10 quarterly returns
+* To calculate the total revenue for the day, we need to multiply the number of each type of return by the corresponding price, and then add them all up.
+
+Federal return revenue:
+* 60 federal returns x $50 per return = $3,000
+
+State return revenue:
+* 20 state returns x $30 per return = $600
+
+Quarterly return revenue:
+* 10 quarterly returns x $80 per return = $800
+
+Total revenue for the day:
+* $3,000 + $600 + $800 = $4,400
+
+Answer: $4,400

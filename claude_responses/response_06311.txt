@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Thomas ordered:
+  - 3 shirts at $12.00 each, so 3 x $12.00 = $36.00
+  - 1 pack of socks for $5.00
+  - 2 pairs of shorts at $15.00 each, so 2 x $15.00 = $30.00
+  - 1 pair of swim trunks for $14.00
+* The total purchase price is the sum of all these items:
+  - $36.00 + $5.00 + $30.00 + $14.00 = $85.00
+* Since the total purchase price is above $50.00, the shipping charge will be 20% of the purchase price:
+  - 20% of $85.00 = 0.20 x $85.00 = $17.00
+* Therefore, the total bill including shipping will be:
+  - $85.00 + $17.00 = $102.00
+
+Answer: $102

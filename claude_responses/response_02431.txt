@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Justin and Sabrina have a combined total of 50 pencils
+* Justin has 8 more than twice as many pencils as Sabrina
+* Let's represent Sabrina's number of pencils as x
+* Then, Justin's number of pencils is 2x + 8
+* The total number of pencils is 50, so we can write the equation:
+x + (2x + 8) = 50
+* Solving for x, we get:
+3x + 8 = 50
+3x = 42
+x = 14
+
+Therefore, Sabrina has 14 pencils.
+
+Answer: 14

@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by finding the total number of minutes it takes to film each episode. We know that each episode is 20 minutes long, and it takes 50% longer than that to film each episode, so it takes 30 minutes to film each episode. To convert minutes to hours, we can divide 30 minutes by 60 (since there are 60 minutes in an hour), which gives us 0.5 hours.
+
+Since there are 5 episodes per week, it would take 5 x 0.5 = 5 hours to film each week.
+
+Since there are 4 weeks, it would take 4 x 5 = 20 hours to film 4 weeks of episodes.
+
+Answer: 20

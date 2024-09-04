@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Liezl prepared 4 sets of 2-dozen paper cups
+* 2-dozen means 2 x 12 = 24 cups per set
+* So, the total number of cups prepared is 4 x 24 = 96 cups
+* 5 cups were damaged and not used
+* 30 cups were not used
+* To find the number of cups that were used, we need to subtract the damaged and unused cups from the total cups prepared:
+* Total cups prepared: 96
+* Damaged cups: 5
+* Unused cups: 30
+* Cups used = 96 - 5 - 30 = 61
+
+Answer: 61

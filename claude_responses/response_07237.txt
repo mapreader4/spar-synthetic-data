@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jack has $43 in his piggy bank to start with.
+* He gets an allowance of $10 a week.
+* He puts half of his allowance into his piggy bank every week.
+* We want to know how much he will have in his piggy bank after 8 weeks.
+
+First, let's calculate how much he will save each week:
+* Jack's weekly allowance is $10.
+* He puts half of that, which is $5, into his piggy bank each week.
+
+Now, let's calculate how much he will have saved after 8 weeks:
+* $5 per week x 8 weeks = $40 saved.
+* He started with $43 in his piggy bank.
+* So after 8 weeks, he will have $43 + $40 = $83 in his piggy bank.
+
+Answer: 83

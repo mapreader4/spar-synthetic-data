@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Each purple book has 230 pages
+* Mirella read 5 purple books
+* So, the total number of purple pages Mirella read is:
+  * 5 purple books x 230 pages per book = 1,150 purple pages
+* Each orange book contains 510 pages
+* Mirella read 4 orange books
+* So, the total number of orange pages Mirella read is:
+  * 4 orange books x 510 pages per book = 2,040 orange pages
+* To find the difference between the orange pages and purple pages, we subtract:
+  * 2,040 orange pages - 1,150 purple pages = 890 more orange pages
+
+Answer: 890

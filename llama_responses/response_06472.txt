@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first identify the number of shirts and pants that are plaid or purple.
+
+* Teairra has 5 shirts, and 3 of them are plaid, so the number of plaid shirts is 3.
+* Teairra has 24 pairs of pants, and 5 of them are purple, so the number of purple pants is 5.
+* The total number of shirts and pants that are either plaid or purple is 3 (plaid) + 5 (purple) = 8.
+
+Now, to find the number of shirts and pants that are neither plaid nor purple, we need to subtract the number of plaid and purple items from the total number of shirts and pants.
+
+* Teairra has 5 shirts in total, and 3 are plaid, so the number of non-plaid shirts is 5 - 3 = 2.
+* Teairra has 24 pairs of pants in total, and 5 are purple, so the number of non-purple pants is 24 - 5 = 19.
+* The total number of non-plaid and non-purple items is the sum of the non-plaid shirts and non-purple pants: 2 + 19 = 21.
+
+So, Teairra has 21 shirts and pants that are neither plaid nor purple.

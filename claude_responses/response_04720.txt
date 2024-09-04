@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Cara has 60 marbles in the bag
+* 20 of them are yellow
+* Half as many are green, which means 10 are green
+* The remaining marbles are equally divided between red and blue
+* To find the number of red and blue marbles, we take the total (60) and subtract the yellow (20) and green (10) marbles:
+    - 60 - 20 - 10 = 30 remaining marbles
+* Since the remaining marbles are equally divided between red and blue, there are 15 red marbles and 15 blue marbles
+* To find the odds of picking a blue marble, we divide the number of blue marbles by the total number of marbles:
+    - 15 / 60 = 0.25
+* To express this as a percentage, we multiply by 100:
+    - 0.25 * 100 = 25%
+
+Answer: 25%

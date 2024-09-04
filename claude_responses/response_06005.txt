@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* The building has 25 stories
+* Each floor has 4 apartments
+* Each apartment houses 2 people
+
+To find the total number of people in the building, we need to:
+1. Calculate the total number of apartments in the building
+2. Multiply the total number of apartments by the number of people per apartment
+
+Step 1: Calculating the total number of apartments
+* There are 4 apartments per floor
+* There are 25 floors in the building
+* Total number of apartments = 4 apartments per floor x 25 floors = 100 apartments
+
+Step 2: Multiplying the total number of apartments by the number of people per apartment
+* Each apartment houses 2 people
+* Total number of people = 100 apartments x 2 people per apartment = 200 people
+
+Answer: 200

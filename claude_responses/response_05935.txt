@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Kim drives 30 miles to her friend's house.
+2) On the way back, she has to take a detour that is 20% longer. This means the return trip is 30 miles + (20% of 30 miles) = 30 miles + 6 miles = 36 miles.
+3) She spends 30 minutes at her friend's house.
+4) She drives at a speed of 44 mph.
+5) To calculate the time spent driving, we can divide the total distance by the speed:
+   - Distance to friend's house: 30 miles
+   - Distance back: 36 miles
+   - Total distance: 30 miles + 36 miles = 66 miles
+   - Time spent driving: 66 miles / 44 mph = 1.5 hours = 1 hour and 30 minutes
+6) Total time spent away from home:
+   - Time spent driving: 1 hour and 30 minutes
+   - Time spent at friend's house: 30 minutes
+   - Total time spent away from home: 1 hour and 30 minutes + 30 minutes = 2 hours
+
+Answer: 2 hours

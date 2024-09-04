@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start with the total number of cars Pauline has, which is 125. Then, let's find the number of regular cars. 64% of the total number of cars are regular cars. To find 64% of 125, we multiply 0.64 * 125 = 80. So, 80 of the cars are regular cars.
+
+Now, let's find the number of trucks. 8% of the total number of cars are trucks. To find 8% of 125, we multiply 0.08 * 125 = 10. So, 10 of the cars are trucks.
+
+Now, let's find the number of convertibles. To find the number of convertibles, we subtract the number of regular cars (80) and the number of trucks (10) from the total number of cars (125). 125 - 80 - 10 = 35. So, Pauline owns 35 convertibles.
+
+Answer: 35

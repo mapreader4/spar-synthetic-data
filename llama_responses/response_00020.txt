@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of stamps Bella bought of each type.
+
+1. She bought 11 snowflake stamps.
+2. She bought 9 more truck stamps than snowflake stamps, so she bought 11 + 9 = 20 truck stamps.
+3. She bought 13 fewer rose stamps than truck stamps, so she bought 20 - 13 = 7 rose stamps.
+
+Now, let's add the number of stamps of each type:
+
+11 (snowflake) + 20 (truck) + 7 (rose) = 38
+
+Answer: 38

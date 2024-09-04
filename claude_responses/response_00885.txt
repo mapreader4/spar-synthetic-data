@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The cobbler charges $250 to make the mold.
+2) The cobbler charges $75 per hour for 8 hours to make the shoes.
+   * 8 hours x $75 per hour = $600 for the labor to make the shoes.
+3) The cobbler agrees to only charge 80% of the cost for the work to make the shoes.
+   * 80% of $600 = $480 for the labor to make the shoes.
+4) The total cost is the mold charge ($250) plus the discounted labor charge ($480).
+   * $250 + $480 = $730.
+
+Answer: $730

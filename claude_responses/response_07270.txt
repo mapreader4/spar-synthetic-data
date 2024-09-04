@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The plot of land is 110 feet wide and 120 feet long
+* The tiller digs a swath that is 2 feet wide
+* Bob can till 1 foot of ground in about 2 seconds
+
+To calculate the total time it will take Bob to till the entire plot, we need to find the total area of the plot and then divide it by the area he can till in a given time.
+
+The total area of the plot is:
+* 110 feet wide x 120 feet long = 13,200 square feet
+
+The tiller digs a swath that is 2 feet wide, so Bob will need to make multiple passes to cover the entire 110 feet width. The number of passes he needs to make is:
+* 110 feet / 2 feet per pass = 55 passes
+
+Each pass will cover 120 feet of length. So the total distance Bob needs to till is:
+* 55 passes x 120 feet per pass = 6,600 feet
+
+We know that Bob can till 1 foot of ground in 2 seconds. So the total time it will take him to till the entire 6,600 feet is:
+* 6,600 feet x 2 seconds per foot = 13,200 seconds
+
+To convert this to minutes, we divide by 60 seconds per minute:
+* 13,200 seconds / 60 seconds per minute = 220 minutes
+
+Therefore, it will take Bob 220 minutes to till the entire plot of land.
+
+Answer: 220

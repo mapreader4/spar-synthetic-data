@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Mark is 5 feet 3 inches tall
+* 1 foot is equal to 12 inches
+* So, Mark's height in inches is:
+    - 5 feet x 12 inches/foot = 60 inches
+    - 3 inches
+    - Total: 60 inches + 3 inches = 63 inches
+* Mike is 6 feet 1 inch tall
+* Mike's height in inches is:
+    - 6 feet x 12 inches/foot = 72 inches
+    - 1 inch
+    - Total: 72 inches + 1 inch = 73 inches
+* To find how much taller Mike is than Mark:
+    - Mike's height: 73 inches
+    - Mark's height: 63 inches
+    - Difference: 73 inches - 63 inches = 10 inches
+
+Answer: 10 inches

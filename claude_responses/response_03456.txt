@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The teacher divided the students into four groups
+* The first group had 5 students
+* The second group had 8 students
+* The third group had 7 students
+* The total number of students is 24
+
+To find the number of students in the fourth group, we need to subtract the number of students in the first three groups from the total number of students.
+
+The total number of students in the first three groups is:
+* 5 + 8 + 7 = 20 students
+
+Now, we subtract the number of students in the first three groups from the total number of students to get the number of students in the fourth group:
+* 24 - 20 = 4 students
+
+Answer: 4

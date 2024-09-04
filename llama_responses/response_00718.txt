@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's let Jake's snake be x inches long. Then, Jenny's snake is 12 inches shorter than Jake's snake, so Jenny's snake is x - 12 inches long.
+
+We know that the combined length of the two snakes is 70 inches. So, we can set up an equation to solve for x:
+
+x + (x - 12) = 70
+
+To solve for x, we can add 12 to both sides of the equation to get:
+
+x + x - 12 + 12 = 70 + 12
+
+This simplifies to:
+
+2x = 82
+
+To solve for x, we can divide both sides by 2:
+
+x = 82 / 2
+
+x = 41
+
+So, Jake's snake is 41 inches long.

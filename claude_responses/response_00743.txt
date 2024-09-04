@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* The empty plane needs 20 gallons of fuel per mile
+* Each person on the plane increases the fuel needed by 3 gallons per mile
+* There are 30 passengers and 5 flight crew, so 35 people total
+* Each person brought two bags, so there are 70 bags total
+* Each bag increases the fuel needed by 2 gallons per mile
+* The total distance of the trip is 400 miles
+
+First, let's calculate the fuel needed for the empty plane:
+* 20 gallons per mile x 400 miles = 8,000 gallons
+
+Next, let's calculate the additional fuel needed for the passengers and crew:
+* 35 people x 3 gallons per mile x 400 miles = 42,000 gallons
+
+Finally, let's calculate the additional fuel needed for the bags:
+* 70 bags x 2 gallons per mile x 400 miles = 56,000 gallons
+
+Now we can add up the total fuel needed:
+* 8,000 gallons + 42,000 gallons + 56,000 gallons = 106,000 gallons
+
+Answer: 106,000 gallons

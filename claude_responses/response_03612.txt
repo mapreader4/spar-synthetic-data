@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Carl gives each student 10 index cards
+* He teaches 6 periods a day
+* Each class has 30 students
+* A 50 pack of index cards costs $3
+
+First, let's calculate the total number of index cards needed per day:
+* 10 index cards per student x 30 students per class = 300 index cards per class
+* 300 index cards per class x 6 classes per day = 1,800 index cards per day
+
+Now, let's calculate the number of 50-packs of index cards needed:
+* 1,800 index cards per day / 50 index cards per pack = 36 packs per day
+
+Finally, let's calculate the total cost:
+* 36 packs per day x $3 per pack = $108 per day
+
+Answer: $108

@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's say the time it takes Tom to climb the hill is x hours. Since Tom takes four times as long as Elizabeth to climb the hill, then x = 4 * 30 = 120 minutes. To convert this to hours, we divide by 60, so x = 2 hours.
+
+Answer: 2

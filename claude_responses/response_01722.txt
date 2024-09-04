@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. For the first 3 kilometers, Skye's speed was 150 kilometers per hour.
+2. For the next 2 kilometers, his speed was 50 kilometers per hour more than the first 3 kilometers, so his speed was 150 + 50 = 200 kilometers per hour.
+3. For the remaining 1 kilometer, his speed was twice as fast as his speed on the first 3 kilometers, so his speed was 2 * 150 = 300 kilometers per hour.
+
+Now, to calculate the average speed for the entire race, we need to find the total distance traveled and the total time taken, then divide the distance by the time.
+
+Total distance traveled = 3 km + 2 km + 1 km = 6 km
+
+Total time taken:
+* First 3 km at 150 km/h: 3 km / 150 km/h = 0.02 hours
+* Next 2 km at 200 km/h: 2 km / 200 km/h = 0.01 hours
+* Last 1 km at 300 km/h: 1 km / 300 km/h = 0.00333 hours
+
+Total time = 0.02 + 0.01 + 0.00333 = 0.03333 hours
+
+Average speed = Total distance / Total time
+= 6 km / 0.03333 hours
+= 180 km/h
+
+Answer: 180

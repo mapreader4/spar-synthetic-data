@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The school has a deaf-student population that is 3 times its blind-student population.
+2) Let's represent the number of blind students as x.
+3) Then, the number of deaf students is 3x.
+4) The total number of students is 180.
+5) So, the total number of students is the sum of the deaf students and the blind students:
+x + 3x = 180
+4x = 180
+x = 45
+
+Answer: 45

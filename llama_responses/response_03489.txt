@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of pages Enrique needs to shred: 132.
+
+Since Enrique's paper shredder can only shred 6 pages at a time, we can divide the total number of pages by 6 to find out how many times he needs to shred:
+
+132 ÷ 6 = 22
+
+So Enrique will need to shred 22 times to shred all 132 pages.

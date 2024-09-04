@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The swim team took 2 cars and 3 vans
+* There were 5 people in each car, so 2 cars x 5 people = 10 people in the cars
+* There were 3 people in each van, so 3 vans x 3 people = 9 people in the vans
+* In total, the swim team transported 10 + 9 = 19 people
+* Each car can hold a maximum of 6 people, so 2 cars x 6 people = 12 people maximum in the cars
+* Each van can hold a maximum of 8 people, so 3 vans x 8 people = 24 people maximum in the vans
+* The total maximum capacity is 12 + 24 = 36 people
+* The difference between the maximum capacity and the actual number of people transported is 36 - 19 = 17 people
+
+Answer: 17

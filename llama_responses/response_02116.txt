@@ -1,0 +1,35 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem. We know that Rodney gets a commission of $25 for each system he sells. We also know that the total commission was $175. We also know that the first street gave him half the sales that the second street did, so let's call the number of sales on the second street "x".
+
+The first street gave him half the sales of the second street, so we can set up an equation to represent this:
+
+0.5x = x
+
+We know that the total commission was $175, so we can set up another equation to represent this:
+
+0.5x + x + (x) = 175
+
+We can subtract 0.5x from both sides of the equation to get:
+
+x + x = 175 - 0.5x
+
+We can then subtract x from both sides to get:
+
+x = 175 - 0.5x - x
+
+Since Rodney sold only one system on the fourth street, we know that the total number of sales was 1 + x. We can substitute this into the equation:
+
+x + 1 = 175 - 0.5x - x
+
+We can then solve for x by subtracting 175 from both sides:
+
+x = 174 - 0.5x
+
+To solve for x, we can divide both sides by -0.5:
+
+x / -0.5 = 174 - x
+
+x = 348
+
+So, Rodney sold 348 / 0.5 = 696 systems on the second street.

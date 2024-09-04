@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) James has 20 pairs of red socks, which means he has 20 * 2 = 40 red socks.
+2) He has half as many black socks as red socks, which means he has 40 / 2 = 20 black socks.
+3) He has twice as many white socks as red and black combined, which means he has 2 * (40 + 20) = 120 white socks.
+4) To find the total number of socks, we add up the red, black, and white socks:
+40 + 20 + 120 = 180 socks.
+
+Answer: 180

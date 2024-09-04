@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* In January, Derek puts away $2
+* In February, Derek puts away $4
+* In March, Derek puts away $8
+* In April, Derek puts away $16
+* The pattern continues, with the amount Derek puts away each month doubling from the previous month
+
+To find the total amount Derek has saved by December, we can use the formula for the sum of a geometric series:
+
+S = a * (1 - r^n) / (1 - r)
+
+Where:
+* S is the total amount saved
+* a is the first term (the amount saved in January, which is $2)
+* r is the common ratio (the amount each term is multiplied by, which is 2 since the amount doubles each month)
+* n is the number of terms (the number of months, which is 12)
+
+Plugging in the values:
+* a = $2
+* r = 2
+* n = 12
+
+S = $2 * (1 - 2^12) / (1 - 2)
+S = $2 * (1 - 4096) / (-1)
+S = $2 * (-4095) / (-1)
+S = $8,190
+
+Answer: $8,190

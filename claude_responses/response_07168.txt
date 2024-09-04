@@ -1,0 +1,6 @@
+Okay, let's break this down step-by-step:
+1) Wario attempts 60 field goals throughout the season.
+2) He misses 1/4 of the field goals. To calculate the number of missed field goals, we take 1/4 of 60, which is 15 missed field goals.
+3) Of the 15 missed field goals, 20% were wide right. To calculate the number of missed field goals that went wide right, we take 20% of 15, which is 3 missed field goals that went wide right.
+
+Answer: 3

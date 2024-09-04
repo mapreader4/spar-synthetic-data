@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Zainab earns $2 per hour passing out flyers
+* She passes out flyers on Monday, Wednesday, and Saturday each week
+* She passes out flyers for 4 hours at a time
+* She does this for 4 weeks
+
+First, let's calculate how much she earns per day:
+* 4 hours x $2 per hour = $8 per day
+
+Next, let's calculate how much she earns per week:
+* 3 days per week (Monday, Wednesday, Saturday) x $8 per day = $24 per week
+
+Finally, let's calculate how much she earns over the 4 weeks:
+* $24 per week x 4 weeks = $96
+
+Therefore, the answer is:
+Answer: $96

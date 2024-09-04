@@ -1,0 +1,27 @@
+Let's think step by step.
+
+Reggie starts with 0 games played and 100 marbles.
+
+In each game, they bet 10 marbles. So, after 1 game, Reggie has played 1 game and has 90 marbles left.
+
+After 2 games, Reggie has played 2 games and has 80 marbles left.
+
+After 3 games, Reggie has played 3 games and has 70 marbles left.
+
+After 4 games, Reggie has played 4 games and has 60 marbles left.
+
+After 5 games, Reggie has played 5 games and has 50 marbles left.
+
+After 6 games, Reggie has played 6 games and has 40 marbles left.
+
+After 7 games, Reggie has played 7 games and has 30 marbles left.
+
+After 8 games, Reggie has played 8 games and has 20 marbles left.
+
+After 9 games, Reggie has played 9 games and has 10 marbles left.
+
+Reggie has lost 1 game after 1 game, 2 games after 2 games, 3 games after 3 games, and so on.
+
+Reggie has lost 1 game in the first game, 2 games in the second game, 3 games in the third game, and so on. He has lost 9 games in total.
+
+Answer: 9

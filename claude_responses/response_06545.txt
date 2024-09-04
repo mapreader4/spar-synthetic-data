@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James buys a coffee machine for $200 and gets a $20 discount, so the final cost of the machine is $180.
+* He figures it will cost him $3 a day to make his own coffee.
+* Previously, he bought 2 coffees a day for $4 each, so he was spending $8 a day on coffee.
+* To find how long it will take for the machine to pay for itself, we need to calculate the difference between what he was spending on coffee and what he's now spending on making his own coffee.
+* The difference is $8 - $3 = $5 per day.
+* To find how many days it will take for the machine to pay for itself, we divide the cost of the machine ($180) by the daily savings ($5 per day).
+* $180 / $5 per day = 36 days.
+
+Answer: 36

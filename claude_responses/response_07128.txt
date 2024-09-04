@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Blake needs to prime and paint 5 rooms in his house
+* Each room requires 1 gallon of primer and 1 gallon of paint
+* The primer costs $30.00 per gallon, and there is a 20% discount
+* The paint costs $25.00 per gallon, and there is no discount
+
+First, let's calculate the cost of the primer:
+* 5 rooms x 1 gallon per room = 5 gallons of primer needed
+* Original price of primer: 5 gallons x $30.00 per gallon = $150.00
+* Discount of 20%: $150.00 x 0.20 = $30.00
+* Discounted price of primer: $150.00 - $30.00 = $120.00
+
+Next, let's calculate the cost of the paint:
+* 5 rooms x 1 gallon per room = 5 gallons of paint needed
+* Cost of paint: 5 gallons x $25.00 per gallon = $125.00
+
+Finally, let's add the cost of the primer and the paint:
+* Total cost = Cost of primer + Cost of paint
+* Total cost = $120.00 + $125.00 = $245.00
+
+Answer: $245

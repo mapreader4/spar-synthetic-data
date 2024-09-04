@@ -1,0 +1,3 @@
+Let's break it down step by step.
+
+Let's first calculate the total value of the bills Gail has in her wallet. She has 4 $5 bills which are worth 4 * 5 = 20. She has 3 $20 bills which are worth 3 * 20 = 60. She has the rest which are $10 bills, which are 100 - (20 + 20) = 60. So, the total value of the bills are 60 + 60 = 120. Since the total value of all the bills are 100, and the value of the $10 bills are 100 - 120 = -20. So, the number of $10 bills in her wallet is 0.

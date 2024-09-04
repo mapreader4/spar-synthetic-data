@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are three buckets labeled A, B, and C with a total of 100 seeds.
+* Bucket B has 30 seeds.
+* There are 10 more seeds in bucket A than in bucket B.
+* So, if bucket B has 30 seeds, then bucket A has 30 + 10 = 40 seeds.
+* Now, we know the total number of seeds is 100, and we know the number of seeds in buckets A and B, so we can calculate the number of seeds in bucket C.
+* Total seeds = 100
+* Bucket A has 40 seeds
+* Bucket B has 30 seeds
+* Therefore, the number of seeds in bucket C must be:
+* 100 - (40 + 30) = 30
+
+Answer: 30

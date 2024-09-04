@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 12 coworkers
+* They order 3 pizzas
+* Each pizza is cut into 8 slices
+* Each person should get the same number of slices
+
+First, we need to calculate the total number of slices:
+* 3 pizzas x 8 slices per pizza = 24 total slices
+
+Now, we need to divide the total number of slices by the number of people to determine how many slices each person will get:
+* 24 total slices / 12 people = 2 slices per person
+
+Therefore, the answer is:
+Answer: 2

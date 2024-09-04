@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* The grill burns 15 coals every 20 minutes of grilling.
+* There are 3 bags of coals.
+* Each bag of coals contains 60 coals.
+
+We want to find out how long the grill ran in total. To do this, we need to multiply the number of coals burned per 20 minutes by the total number of coals burned.
+
+First, let's calculate the total number of coals burned:
+
+3 bags of coals * 60 coals per bag = 3 * 60 = 180 coals
+
+Now, let's divide the total number of coals by the number of coals burned per 20 minutes:
+
+180 coals / 15 coals per 20 minutes = 12 times
+
+Since the grill burned for 20 minutes at a time, the total time is:
+
+12 * 20 minutes = 240 minutes
+
+Answer: 240

@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* There are 25 students in Bryce's class
+* 10 kids want chocolate doughnuts
+* 15 kids want glazed doughnuts
+* Chocolate doughnuts cost $2 each
+* Glazed doughnuts cost $1 each
+
+To calculate the total cost, we need to find the cost of the chocolate doughnuts and the cost of the glazed doughnuts, then add them together.
+
+Cost of chocolate doughnuts:
+* 10 kids want chocolate doughnuts
+* Each chocolate doughnut costs $2
+* So the total cost of chocolate doughnuts is 10 x $2 = $20
+
+Cost of glazed doughnuts:
+* 15 kids want glazed doughnuts
+* Each glazed doughnut costs $1
+* So the total cost of glazed doughnuts is 15 x $1 = $15
+
+Total cost of all doughnuts:
+* Total cost = Cost of chocolate doughnuts + Cost of glazed doughnuts
+* Total cost = $20 + $15 = $35
+
+Answer: $35

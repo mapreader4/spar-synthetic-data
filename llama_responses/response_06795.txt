@@ -1,0 +1,15 @@
+Let's start by calculating the total amount of lower sodium soy sauce needed for all three recipes.
+
+Recipe 1: 2 cups = 16 ounces (since 1 cup is equal to 8 ounces)
+Recipe 2: 1 cup = 8 ounces
+Recipe 3: 3 cups = 24 ounces
+
+Total amount needed: 16 + 8 + 24 = 48 ounces
+
+Since Stephanie can only buy whole bottles, we need to find the largest whole number that is less than or equal to 48. This is because she can't buy a fraction of a bottle.
+
+48 ÷ 16 = 3 (with a remainder of 0)
+
+So, Stephanie should buy 3 whole bottles of lower sodium soy sauce to allow for all three recipes.
+
+Answer: 3

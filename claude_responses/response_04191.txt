@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* James has 20 years of experience
+* 8 years ago, John had twice as much experience as James
+* 8 years ago, John had 2 * 20 - 8 = 32 years of experience
+* Mike started when John had 16 years of experience
+* So, Mike has been working for 16 years
+* John has 32 + 8 = 40 years of experience
+* Mike has 16 years of experience
+* James has 20 years of experience
+* Their combined experience is:
+Answer: 40 + 16 + 20 = 76 years

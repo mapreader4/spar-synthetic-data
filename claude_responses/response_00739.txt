@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The vampire needs 7 gallons of blood per week to survive.
+2) 1 gallon = 8 pints, so 7 gallons = 56 pints per week.
+3) The vampire sucks 2 pints of blood per person.
+4) To get 56 pints of blood per week, the vampire needs to suck blood from 56 / 2 = 28 people per week.
+5) To get the number of people per day, we divide 28 by 7 days in a week, which is 4 people per day.
+
+Answer: 4

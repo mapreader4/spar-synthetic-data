@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Andrew rides the subway for 10 hours.
+2) He then takes the train and rides for twice as much time as the subway ride, which is 2 x 10 = 20 hours.
+3) Finally, he bikes the remaining distance for 8 hours.
+4) To calculate the total time, we add up the time for each mode of transportation:
+   - Subway: 10 hours
+   - Train: 20 hours
+   - Biking: 8 hours
+5) The total time is 10 + 20 + 8 = 38 hours.
+
+Answer: 38

@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Initially, the tower has 54 blocks.
+
+In the first 5 rounds, each player removes one block, so the number of blocks remaining is:
+
+54 - 5 = 49
+
+Since there are 5 players, including Jess, each player removes one block in each round. The blocks are removed in a circular manner, so the order doesn't matter. We can assume Jess's father goes first in the sixth round.
+
+After the first 5 rounds, the number of blocks remaining is 49. Since Jess's father goes first in the sixth round, he removes one block, leaving:
+
+49 - 1 = 48
+
+Now it's Jess's turn. She removes a block, knocking down the tower. So, the number of blocks remaining before her turn is:
+
+48
+
+Answer: 48

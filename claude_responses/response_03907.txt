@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The field is a square with a side length of 5000 feet.
+2) The perimeter of the field is the total length of wire mesh needed to fence the field.
+3) The perimeter of a square is 4 times the length of one side.
+4) So the total length of wire mesh needed is 4 * 5000 = 20,000 feet.
+5) Melany has $120,000 to spend on the wire mesh.
+6) The cost of 1 foot of wire mesh is $30.
+7) So Melany can afford to buy 120,000 / 30 = 4,000 feet of wire mesh.
+8) The difference between the total length of wire mesh needed (20,000 feet) and the amount Melany can afford (4,000 feet) is 20,000 - 4,000 = 16,000 feet.
+
+Answer: 16,000 feet of the field will not be fenced.

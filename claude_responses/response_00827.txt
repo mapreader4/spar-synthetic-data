@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 6 chairs in each row in the church.
+2) There are 20 rows of chairs in the church.
+3) Each chair holds 5 people.
+4) To calculate the total number of people who can sit in the chairs, we need to:
+   a) Multiply the number of chairs in each row (6) by the number of rows (20) to get the total number of chairs: 6 * 20 = 120 chairs.
+   b) Multiply the number of people each chair can hold (5) by the total number of chairs (120) to get the total number of people who can sit in the chairs: 120 * 5 = 600 people.
+
+Answer: 600

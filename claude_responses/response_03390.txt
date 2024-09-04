@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The standard price for a pizza is $5
+* For the triple cheese pizzas, there is a buy-1-get-1-free special
+* For the meat lovers pizzas, there is a buy-2-get-1-free special
+* We need to purchase 10 triple cheese pizzas and 9 meat lovers pizzas
+
+For the triple cheese pizzas:
+* With the buy-1-get-1-free special, we get 10 pizzas for the price of 5
+* 5 pizzas at $5 each is $25
+
+For the meat lovers pizzas:
+* With the buy-2-get-1-free special, we get 9 pizzas for the price of 6
+* 6 pizzas at $5 each is $30
+
+Now, we add the cost of the two types of pizzas:
+* $25 + $30 = $55
+
+Answer: $55

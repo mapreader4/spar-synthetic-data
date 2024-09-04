@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of movies watched by each person:
+
+* Dalton watched 7 movies.
+* Hunter watched 12 movies.
+* Alex watched 15 movies.
+
+Next, we need to find the number of movies they watched together. They watched 2 movies together, but they are not all the same, so we need to subtract this from the total number of movies watched by each person.
+
+Let's subtract 2 from each person's total:
+
+* Dalton's total is 7, so subtract 2: 7 - 2 = 5
+* Hunter's total is 12, so subtract 2: 12 - 2 = 10
+* Alex's total is 15, so subtract 2: 15 - 2 = 13
+
+Now, we need to find the total number of different movies they watched. We can add up the number of different movies each person watched:
+
+5 + 10 + 13 = 28
+
+Answer: 28

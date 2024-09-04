@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Don can consume a maximum of 3 times 10oz of rum for a healthy diet.
+* Don already had 12oz of rum earlier that day.
+
+To find out how much rum Don can have after eating all the rum and pancakes, we need to subtract the 12oz he already had from the maximum amount he can consume.
+
+The maximum amount of rum Don can consume is 3 times 10oz, which is 30oz. So, we subtract the 12oz he already had from that:
+
+30oz - 12oz = 18oz
+
+So, after eating all the rum and pancakes, Don can have 18oz of rum.

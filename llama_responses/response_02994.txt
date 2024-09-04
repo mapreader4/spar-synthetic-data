@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. The dog rolls around in the mud, which doesn't take any time.
+2. She spends 10 minutes hosing him off outside.
+3. Then, she shampoos him three times, and each shampoo takes 15 minutes.
+
+To find the total time spent cleaning the dog, we can add up the time spent in each step:
+
+10 minutes (hosing) + 15 minutes (shampoo 1) + 15 minutes (shampoo 2) + 15 minutes (shampoo 3) = 40 minutes
+
+Answer: 40

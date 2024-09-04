@@ -1,0 +1,7 @@
+Let the current number of apps be x.
+
+Let the recommended number of apps be 35.
+
+Since the maximum number of apps is 50, and the recommended number of apps is 35, the difference between the two is 50 - 35 = 15.
+
+Roger must delete 15 apps for his phone to function optimally again.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Sara's house is 100 square feet larger than 2 times Nada's house
+* So we can represent this as: Sara's house = 2 * Nada's house + 100
+* We are told that Sara's house is 1000 square feet
+* So we can substitute this in: 1000 = 2 * Nada's house + 100
+* Subtracting 100 from both sides: 900 = 2 * Nada's house
+* Dividing both sides by 2: 450 = Nada's house
+
+Answer: 450

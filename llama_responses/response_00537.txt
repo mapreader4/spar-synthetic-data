@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+1. The number of experienced sailors is given as 17 - 5 = 12. The experienced sailors are paid 1/5 times more than the inexperienced sailors, so the experienced sailors are paid 1.2 times the 10 dollars per hour that the inexperienced sailors are paid.
+
+2. The inexperienced sailors are paid 10 dollars per hour for a 60-hour workweek, so they earn 10 * 60 = 600 dollars per month.
+
+3. The experienced sailors are paid 1.2 times the 10 dollars per hour that the inexperienced sailors are paid, so they earn 1.2 * 600 = 720 dollars per month.
+
+4. The total combined monthly earnings of the experienced sailors are the sum of their individual earnings, which is 12 * 720 = 8640 dollars.
+
+Answer: 8640

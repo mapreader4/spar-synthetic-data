@@ -1,0 +1,11 @@
+Let's analyze this problem step by step.
+
+Let's assume the three numbers are x, x+1, and x+2. We know that their sum is 18. We can write this as an equation: x + (x+1) + (x+2) = 18.
+
+We can simplify this equation to 2x + 3 = 18.
+
+We know that 2x + 3 = 18, so we can subtract 3 from both sides of the equation to get 2x = 15.
+
+Finally, we can divide both sides of the equation by 2 to get x = 7.5.
+
+So, the largest of the three numbers is x, which is 7.5.

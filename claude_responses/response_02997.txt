@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The YouTube video is 100 hours long.
+2) Lila watches the video at two times the average speed, which means she watches it in half the time, or 50 hours.
+3) Roger watches the video at the average speed, which means he watches it in 100 hours.
+4) They both watched six of the same videos.
+5) Lila's total watch time is 6 * 50 = 300 hours.
+6) Roger's total watch time is 6 * 100 = 600 hours.
+7) The total number of hours they watched is 300 + 600 = 900 hours.
+
+Answer: 900

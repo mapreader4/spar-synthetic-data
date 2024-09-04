@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Cassandra collected 5000 pennies
+* James collected 276 fewer pennies than Cassandra
+* To find how many pennies James collected, we subtract 276 from Cassandra's 5000 pennies:
+   * 5000 - 276 = 4724 pennies
+* To find the total number of pennies they donated to charity, we add Cassandra's 5000 pennies and James' 4724 pennies:
+   * 5000 + 4724 = 9724 pennies
+
+Answer: 9724

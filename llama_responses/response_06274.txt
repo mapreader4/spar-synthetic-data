@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+First, we need to find the total area of the yard, excluding the sidewalk and flower beds. The yard is 200 feet wide by 50 feet, so the area is:
+
+200 * 50 = 10,000 square feet
+
+Next, we need to subtract the area of the sidewalk, which is 3 feet wide by 50 feet. The area of the sidewalk is:
+
+3 * 50 = 150 square feet
+
+Next, we need to subtract the area of the four flower beds. The two larger beds are 4 feet by 25 feet, so their area is:
+
+4 * 25 = 100 square feet
+
+The medium-sized bed is 10 feet by 12 feet, so its area is:
+
+10 * 12 = 120 square feet
+
+The small bed is 7 feet by 8 feet, so its area is:
+
+7 * 8 = 56 square feet
+
+The total area of the flower beds is the sum of these three areas:
+
+100 + 120 + 56 = 276 square feet
+
+Now, we need to subtract the area of the flower beds from the total area of the yard:
+
+10,000 - 150 - 276 = 9,674 square feet
+
+So, Jill will need 9,674 square feet of sod to cover her yard, minus the sidewalk and flower beds.

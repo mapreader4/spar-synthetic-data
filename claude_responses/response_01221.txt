@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 2 ducks with 5 ducklings each
+* So, the number of ducklings from the 2 ducks is 2 x 5 = 10
+* There are 6 ducks with 3 ducklings each
+* So, the number of ducklings from the 6 ducks is 6 x 3 = 18
+* There are 9 ducks with 6 ducklings each
+* So, the number of ducklings from the 9 ducks is 9 x 6 = 54
+* To get the total number of ducks, we add the 2 ducks, 6 ducks, and 9 ducks:
+* 2 + 6 + 9 = 17 ducks
+* To get the total number of ducklings, we add the 10 ducklings, 18 ducklings, and 54 ducklings:
+* 10 + 18 + 54 = 82 ducklings
+* Therefore, the total number of ducks and ducklings is 17 ducks + 82 ducklings = 99
+
+Answer: 99

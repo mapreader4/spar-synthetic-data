@@ -1,0 +1,15 @@
+Let's break down the problem step by step:
+
+1. Mr. Grey sold the house to Mr. Brown at a profit of 10%. This means that Mr. Brown bought the house for $100,000 and sold it for a price that is 10% more than that. To find the selling price, we can multiply the original price by (1 + 0.1) = 1.1.
+
+100,000 x 1.1 = 110,000
+
+So, Mr. Brown bought the house for $110,000.
+
+2. Mr. Brown sold the house to his friend with a 10% loss. This means that the selling price is 10% less than the buying price. To find the selling price, we can multiply the buying price by (1 - 0.1) = 0.9.
+
+110,000 x 0.9 = 99,000
+
+So, Mr. Brown sold the house for $99,000.
+
+Answer: 99,000

@@ -1,0 +1,9 @@
+To find the number of cousins Jason has, we can subtract the number of cupcakes he gives away from the total number of cupcakes he has.
+
+Jason has 4 cupcakes and he gives 3 away. So, we can subtract 3 from 4 to find the number of cousins Jason has.
+
+4 - 3 = 1
+
+Jason has 1 cousin.
+
+Answer: 1

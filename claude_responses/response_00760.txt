@@ -1,0 +1,23 @@
+Okay, let's break this down step by step:
+* Susan is planning to have 30 guests at the party
+* The recipe she is making for dinner makes 2 servings per batch
+* Each batch of the recipe calls for 4 potatoes and 1 teaspoon of salt
+* A potato costs $0.10
+* A container of salt costs $2 and has 5 teaspoons
+
+First, we need to figure out how many batches of the recipe Susan needs to make to feed 30 guests:
+* 30 guests / 2 servings per batch = 15 batches
+
+Now, we can calculate the cost of the potatoes:
+* 15 batches x 4 potatoes per batch = 60 potatoes
+* 60 potatoes x $0.10 per potato = $6
+
+Next, we can calculate the cost of the salt:
+* 15 batches x 1 teaspoon per batch = 15 teaspoons of salt
+* 15 teaspoons / 5 teaspoons per container = 3 containers of salt
+* 3 containers x $2 per container = $6
+
+Finally, we can add the cost of the potatoes and the salt to get the total cost:
+* $6 (potatoes) + $6 (salt) = $12
+
+Answer: $12

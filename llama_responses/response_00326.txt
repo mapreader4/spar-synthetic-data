@@ -1,0 +1,9 @@
+Let's start by letting x be the cost of each book.
+
+Fred had 236 dollars initially. After buying the books, he had 14 dollars left. So, the amount he spent on the books must be 236 - 14 = 222.
+
+Since the cost of each book is x, then we can set up an equation: x * 6 = 222. We can divide both sides of the equation by 6 to get x = 37.
+
+So, the answer is:
+
+Answer: 37

@@ -1,0 +1,31 @@
+Let's break this down step by step.
+
+Let's say the total number of apartments is 120.
+
+We know that 85% of the apartments have at least 1 resident, so we can write that as an equation:
+
+85% of 120 = x
+
+We can solve for x by multiplying both sides by 100:
+
+x = 0.85 * 120 = 102
+
+So, 102 apartments have at least 1 resident.
+
+Now, we know that 60% of the apartments have at least 2 residents. We can set up an equation for this:
+
+60% of 120 = y
+
+We can solve for y by multiplying both sides by 100:
+
+y = 0.6 * 120 = 72
+
+So, 72 apartments have at least 2 residents.
+
+Now, we want to find the number of apartments that have only 1 resident. We know that the total number of apartments is 120, and we know that 102 have at least 1 resident, and 72 have at least 2 residents. So, to find the number of apartments that have only 1 resident, we subtract the number of apartments that have at least 1 resident from the total number of apartments, and then subtract the number of apartments that have at least 2 residents:
+
+120 - 102 - 72 = 6
+
+So, 6 apartments have only 1 resident.
+
+Answer: 6

@@ -1,0 +1,43 @@
+Let's break this problem down step by step.
+
+Let's start with what we know:
+
+* Natasha has 3 times as much money as Carla.
+* Carla has twice as much money as Cosima.
+* Natasha has $60.
+
+We can use the information to write an equation to find how much money Cosima has.
+
+Natasha has 3 times as much money as Carla, so if we let C be the amount of money Cosima has, we can write:
+
+C = Natasha's money / 3
+
+We know that Natasha has $60, so we can substitute this into the equation:
+
+60 / 3 = C
+
+This means C is 20.
+
+So Cosima has $20.
+
+Now we know the amount of money each person has. We can use this information to find the total amount of money they have together:
+
+Natasha has $60, Carla has $20, and Cosima has $20. The total amount of money they have is:
+
+60 + 20 + 20 = 100
+
+They have $100.
+
+Now that we know the total amount of money they have, we can find the profit they will make by selling the goods at 7/5 of the buying price.
+
+They will buy the goods at 7/5 of the buying price, which is:
+
+100 x 7/5 = 140
+
+They will sell the goods at 7/5 of the buying price, which is 140, and they will make a profit of:
+
+140 - 100 = 40
+
+They will make a profit of $40.
+
+Answer: 40

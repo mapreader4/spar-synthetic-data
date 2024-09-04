@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the total points James would have earned if he had answered all the questions correctly. He would have earned 2 points for each of the 5 rounds, which is 2 x 5 = 10 points. Then, he would have earned an additional 4 points for the bonus for answering all the questions correctly, so his total points would be 10 + 4 = 14 points.
+
+Since James missed one question, we need to subtract 2 points from his total. So, his total points would be 14 - 2 = 12.
+
+Answer: 12

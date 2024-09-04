@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Paul catches 5 fish for every 2 hours he is fishing
+* We are told he was fishing for 12 hours
+* To find the number of fish he caught, we need to first find how many 2-hour intervals are in 12 hours
+* 12 hours / 2 hours per interval = 6 intervals
+* Since Paul catches 5 fish per 2-hour interval, we can multiply 6 intervals by 5 fish per interval to get the total number of fish caught
+* 6 intervals x 5 fish/interval = 30 fish
+
+Answer: 30

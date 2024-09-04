@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+James had 18 chocolate bars initially.
+He sold 5 last week, so he has 18 - 5 = 13 chocolate bars left.
+He sold 7 this week, so he has 13 - 7 = 6 chocolate bars left.
+
+To find out how many more he needs to sell, we need to find the difference between the total number of chocolate bars he has (18) and the number he has left (6). This is 18 - 6 = 12.
+
+Answer: 12

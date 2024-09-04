@@ -1,0 +1,12 @@
+Okay, let's think through this step-by-step:
+1) The pool holds 120 liters of water.
+2) The drain can empty the pool in 4 hours.
+3) The hose can fill the pool in 6 hours.
+4) We want to know how much water will be left after 3 hours.
+5) In 3 hours, the drain will have removed (3/4) * 120 = 90 liters of water.
+6) In 3 hours, the hose will have added (3/6) * 120 = 60 liters of water.
+7) The net change in water volume is 90 liters removed - 60 liters added = 30 liters removed.
+8) The pool starts with 120 liters of water, and after 3 hours, 30 liters have been removed.
+9) Therefore, the amount of water left after 3 hours is 120 - 30 = 90 liters.
+
+Answer: 90

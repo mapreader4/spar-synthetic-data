@@ -1,0 +1,5 @@
+Let's start by finding the number of cookies Annie ate on Tuesday. Annie ate 2 times more cookies on Tuesday than on Monday. So, if she ate 5 cookies on Monday, she must have eaten 5 + 2 = 7 cookies on Tuesday.
+
+Then, Annie ate 40% more cookies on Wednesday than on Tuesday. 40% of 7 is 0.4 times 7 = 2.8. So, Annie ate 7 + 2.8 = 9.3 cookies on Wednesday.
+
+In total, Annie ate 5 + 7 + 9.3 = 21.3 cookies. However, the problem asks for the number of cookies in terms of an integer. So, we round down 21.3 to the nearest whole number. The answer is 21.

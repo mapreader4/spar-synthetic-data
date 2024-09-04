@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Mary has 4 times as many towels as Frances.
+2) Mary has 24 towels.
+3) Since Mary has 4 times as many towels as Frances, we can divide Mary's towels by 4 to find how many towels Frances has:
+24 towels / 4 = 6 towels
+4) The total weight of their towels is 60 pounds.
+5) To find the weight of Frances's towels, we need to subtract Mary's towels' weight from the total weight:
+60 pounds - (24 towels * weight per towel) = weight of Frances's towels
+6) We don't know the weight per towel, but we can use the total weight of 60 pounds to solve for it:
+60 pounds / (24 towels + 6 towels) = 2 pounds per towel
+7) Now we can calculate the weight of Frances's towels:
+6 towels * 2 pounds per towel = 12 pounds
+8) To convert the weight of Frances's towels to ounces, we multiply by 16 (since there are 16 ounces in a pound):
+12 pounds * 16 ounces/pound = 192 ounces
+
+Answer: 192 ounces

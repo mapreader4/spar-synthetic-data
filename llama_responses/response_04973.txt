@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+First, we need to find the number of pounds of trout James caught.  James caught 200 pounds of trout.
+
+Next, we need to find the number of pounds of salmon James caught.  James caught 50% more pounds of salmon, so 50% of 200 pounds of salmon is 0.5 * 200 = 100 pounds of salmon.
+
+Finally, we need to find the number of pounds of Tuna James caught.  James caught twice as much Tuna as salmon, so the number of pounds of Tuna is 2 * 100 = 200 pounds of Tuna.
+
+To find the total number of pounds of fish James caught, we add 200 pounds of trout, 100 pounds of salmon, and 200 pounds of Tuna. 200 + 100 + 200 = 400 pounds of fish.
+
+Answer: 400

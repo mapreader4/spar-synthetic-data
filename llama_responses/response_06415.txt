@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say the total number of people who can fit on the raft with life jackets is x.
+
+The problem states that if no one wears life jackets, there are 21 people who can fit on the raft. So, the maximum capacity of the raft is 21.
+
+The problem also states that if 7 people wear life jackets, there are fewer people who can fit on the raft. This means that the number of people who can fit on the raft is 14 (21 - 7 = 14).
+
+Now, if 8 people on the raft need life jackets, we need to subtract 8 from the 14 people who can fit on the raft. This leaves us with:
+
+14 - 8 = 6
+
+So, the answer is:
+
+Answer: 6

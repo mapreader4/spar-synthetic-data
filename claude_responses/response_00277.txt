@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Arven bought a total of 5 puppies
+* The total cost for all 5 puppies was $800
+* 3 of the puppies were on sale for $150 each
+* We need to find the cost of the remaining 2 puppies, which cost the same amount
+
+First, let's calculate the total cost of the 3 puppies that were on sale:
+* 3 puppies x $150 each = $450
+
+Now, we can subtract the cost of the 3 on-sale puppies from the total cost of $800 to get the cost of the remaining 2 puppies:
+* $800 - $450 = $350
+
+Since the remaining 2 puppies cost the same, we can divide the remaining $350 by 2 to get the cost of each of those 2 puppies:
+* $350 / 2 = $175
+
+Answer: $175

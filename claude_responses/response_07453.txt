@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) James has 75 friends.
+2) John has 3 times as many friends as James, which means John has 3 * 75 = 225 friends.
+3) They share 25 friends, so we need to subtract 25 from the total number of friends to avoid double-counting.
+4) The total number of friends on the combined list is James' friends (75) plus John's friends (225), minus the shared friends (25).
+5) 75 + 225 - 25 = 275.
+
+Answer: 275

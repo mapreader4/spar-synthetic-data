@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of pieces of glass Jerry sweeps up. We know that he sweeps up 20 amber pieces and 35 green pieces, and that the green pieces are 25% of the total. So, let's first find the total number of pieces of glass he sweeps up. The total number of pieces is 20 + 35 = 55.
+
+We know that the green pieces are 25% of the total, so the total number of pieces of glass is 0.25 * 55 = 13.75. Since we can't sweep up a fraction of a piece of glass, we need to round this up to the nearest whole number. The nearest whole number to 13.75 is 14.
+
+So, the number of clear pieces of glass is 14.
+
+Answer: 14

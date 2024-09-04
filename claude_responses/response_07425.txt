@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Lars can bake 10 loaves of bread in 1 hour
+* Lars can bake 30 baguettes in 2 hours
+* Lars bakes for 6 hours per day
+
+First, let's calculate how many loaves of bread Lars can bake in 6 hours:
+* 10 loaves per hour x 6 hours = 60 loaves of bread
+
+Next, let's calculate how many baguettes Lars can bake in 6 hours:
+* 30 baguettes per 2 hours x 3 (since 6 hours is 3 sets of 2 hours) = 90 baguettes
+
+Finally, to get the total number of breads Lars makes in 6 hours, we add the loaves of bread and baguettes:
+* 60 loaves + 90 baguettes = 150 breads
+
+Answer: 150

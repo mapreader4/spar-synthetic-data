@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's first find the total value of the gold quarters. If each quarter weighs 1/5 of an ounce, then the number of ounces of gold that Carlos has is the total number of quarters divided by 1/5.
+
+Let's let x be the total number of quarters. Then, the number of ounces of gold Carlos has is x / 5.
+
+The value of the gold in ounces is the number of ounces multiplied by the price per ounce, which is 100. So, the total value of the gold is x / 5 * 100.
+
+The value of the gold if he spends them in a store is the regular amount, which is not given. Let's call this value y. Then, we can set up the equation:
+
+x / 5 * 100 = y
+
+Now, we need to find the number of times more money Carlos would get from melting them down. Let's call this value z. Then, we can set up another equation:
+
+z * 100 = y
+
+To find z, we can divide both sides of the equation by 100:
+
+z = y / 100
+
+Now, we can substitute the first equation with the second:
+
+x / 5 * 100 = (x / 5 * 100) / 100
+
+We can simplify this by dividing both sides by 100:
+
+x / 5 = x / 100
+
+Now, we can cancel the x's:
+
+1 / 5 = 1 / 100
+
+So, Carlos would get 20 times more money from melting them down instead of spending them in a store.

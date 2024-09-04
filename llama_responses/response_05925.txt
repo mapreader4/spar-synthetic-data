@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of cases in California and Texas.
+
+In California, there were half the number of cases as New York, so if New York had 2000 cases, California had 2000 / 2 = 1000 cases.
+
+In Texas, there were 400 more cases than California, so if California had 1000 cases, Texas had 1000 + 400 = 1400 cases.
+
+Now, we need to add the number of cases in New York, California, and Texas.
+
+2000 (New York) + 1000 (California) + 1400 (Texas) = 3400
+
+Answer: 3400

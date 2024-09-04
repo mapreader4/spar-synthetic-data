@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+Let's first calculate the distance Hannah ran on Monday. We know that Hannah ran 9 kilometers on Monday, so we can convert that to meters by multiplying it by 1000. 9 x 1000 = 9000.
+
+Next, let's calculate the distance Hannah ran on Wednesday and Friday. We know she ran 4816 meters on Wednesday and 2095 meters on Friday. So, we can add those two distances together to get the total distance she ran on Wednesday and Friday: 4816 + 2095 = 6911.
+
+Finally, we want to find the difference between the distance Hannah ran on Monday and the total distance she ran on Wednesday and Friday. We can subtract the total distance on Wednesday and Friday from the distance she ran on Monday. 9000 - 6911 = -7911.
+
+So, the answer is:
+
+Answer: -7911

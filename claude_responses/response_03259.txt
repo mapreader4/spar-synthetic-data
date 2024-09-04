@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Michael has $42 to start with.
+2) Michael gives away half of his money to his brother. So, his brother receives $21.
+3) His brother then buys $3 worth of candy.
+4) His brother has $35 left.
+
+To find out how much money his brother had at first, we can work backwards:
+* His brother has $35 left after buying $3 worth of candy.
+* So, before buying the candy, his brother had $35 + $3 = $38.
+* We know that his brother received $21 from Michael.
+* Therefore, the amount of money his brother had at first was $38.
+
+Answer: $38.

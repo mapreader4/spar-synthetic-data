@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Michelle uses 40 beads in total to make the necklace.
+2) She uses 5 blue beads.
+3) She uses 2 times as many red beads as blue beads. So, the number of red beads is 2 x 5 = 10 red beads.
+4) She uses the same number of white beads as the blue and red beads combined. So, the number of white beads is 5 + 10 = 15 white beads.
+5) The remaining beads must be silver. To find the number of silver beads, we take the total number of beads (40) and subtract the number of blue, red, and white beads:
+40 - 5 - 10 - 15 = 10 silver beads.
+
+Answer: 10

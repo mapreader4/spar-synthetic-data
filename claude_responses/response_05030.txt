@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* One ticket to the underground costs $3
+* In one minute, the metro sells an average of 5 such tickets
+* We want to find the earnings from the tickets in 6 minutes
+
+To calculate the earnings in 6 minutes, we need to:
+1. Calculate the earnings in 1 minute
+2. Multiply the earnings in 1 minute by 6 to get the earnings in 6 minutes
+
+Earnings in 1 minute:
+* 5 tickets sold per minute
+* Each ticket costs $3
+* Earnings per minute = 5 tickets x $3 per ticket = $15
+
+Earnings in 6 minutes:
+* Earnings per minute = $15
+* Earnings in 6 minutes = $15 x 6 = $90
+
+Answer: $90

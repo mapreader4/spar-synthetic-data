@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+The shelter started with 12 cats.
+
+The shelter already had half that number of cats, so it had 12 / 2 = 6 cats.
+
+Two days later, 3 cats were adopted. So, the number of cats decreased by 3, leaving 6 - 3 = 3 cats.
+
+The next day, one of the cats had 5 kittens. So, the number of cats increased by 5, making it 3 + 5 = 8 cats.
+
+Then, one person came to pick up one of the cats that was their missing pet. So, the number of cats decreased by 1, leaving 8 - 1 = 7 cats.
+
+So, the shelter now has 7 cats.
+
+Answer: 7

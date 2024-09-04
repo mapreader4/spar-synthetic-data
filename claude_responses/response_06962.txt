@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Keanu gave his dog 40 fish.
+2) He gave his cat half as many fish as he gave to his dog. 
+   * So, he gave his cat 40 / 2 = 20 fish.
+3) The total number of fish he bought is the sum of the fish given to his dog and his cat.
+   * Total fish = 40 + 20 = 60 fish.
+4) Each fish cost $4.
+5) To calculate the total amount of money spent, we multiply the total number of fish by the cost per fish.
+   * Total amount spent = 60 fish * $4 per fish = $240.
+
+Answer: 240

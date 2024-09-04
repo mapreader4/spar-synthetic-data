@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Jerry's total debt was $50
+* Two months ago, he paid $12 towards his debt
+* Last month, he paid $3 more than the previous month, which is $12 + $3 = $15
+* So, the total amount Jerry has paid towards his debt so far is $12 + $15 = $27
+* To find how much he still has to pay, we take the original debt of $50 and subtract the amount he has already paid, which is $27
+* $50 - $27 = $23
+
+Answer: $23

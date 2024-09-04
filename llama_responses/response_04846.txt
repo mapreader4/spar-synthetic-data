@@ -1,0 +1,12 @@
+We are told that the bacterial strain E. coli has a doubling time of 20 minutes. This means that every 20 minutes, the number of bacterial cells will double. So, if we start with 1 cell, in 20 minutes, we will have 2 cells. In 40 minutes, we will have 4 cells, and in 60 minutes, we will have 8 cells, and so on.
+
+To find the number of cells after 4 hours, we can calculate it as follows:
+
+1. Start with 1 cell.
+2. Every 20 minutes, the number of cells doubles. So, in 40 minutes, we will have 2 cells, and in 60 minutes, we will have 4 cells, and in 80 minutes, we will have 8 cells, and in 100 minutes, we will have 16 cells, and in 120 minutes, we will have 32 cells, and in 140 minutes, we will have 64 cells, and in 160 minutes, we will have 128 cells.
+
+Since there are 60 minutes in an hour, we can convert 4 hours to 240 minutes. Therefore, in 240 minutes, we will have 2^12 cells.
+
+So, the answer is:
+
+Answer: 2048

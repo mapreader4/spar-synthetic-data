@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's start by identifying how many cookies Monica's father ate. We know that her father ate 10 cookies. Her mother ate half as much as the father. Since 10 cookies is half of the father's share, her mother ate 5 cookies.
+
+Then, her brother ate 2 more cookies than her mother. So, her brother ate 7 cookies in total.
+
+To find the number of cookies left for Monica, we need to subtract the total number of cookies eaten from the total number of cookies made. Monica made 30 cookies. So, we subtract 10 cookies eaten by her father, 5 cookies eaten by her mother, and 7 cookies eaten by her brother. The number of cookies left is:
+
+30 - 10 - 5 - 7 = 13
+
+Answer: 13

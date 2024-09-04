@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* James takes 2 Tylenol tablets every 6 hours
+* Each Tylenol tablet is 375 mg
+* To find the total mg he takes in a day, we need to calculate the total number of Tylenol tablets he takes in a day and multiply that by the mg per tablet.
+
+First, let's calculate the number of times he takes Tylenol in a day:
+* There are 24 hours in a day
+* He takes Tylenol every 6 hours
+* 24 hours / 6 hours = 4 times per day
+
+Now, let's calculate the total number of Tylenol tablets he takes in a day:
+* 2 tablets per dose x 4 doses per day = 8 tablets per day
+
+Finally, let's calculate the total mg of Tylenol he takes in a day:
+* 8 tablets per day x 375 mg per tablet = 3,000 mg per day
+
+Answer: 3,000 mg

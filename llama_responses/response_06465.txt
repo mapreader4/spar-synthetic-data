@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+On the second day, 34 cm of rain fell. On the third day, 12 cm less than the second day fell, so on the third day, 34 - 12 = 22 cm of rain fell.
+
+The total rainfall for the first three days is:
+26 + 34 + 22 = 82 cm
+
+The average rainfall for the first three days is 140 cm, so the difference between the actual rainfall and the average rainfall is:
+140 - 82 = 58 cm
+
+Answer: 58

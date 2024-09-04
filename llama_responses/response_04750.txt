@@ -1,0 +1,19 @@
+Let's break down the information given:
+
+* Onum Lake has 25 more trout than Boast Pool.
+* Boast Pool has 75 fish.
+* Riddle Pond has half as many fish as Onum Lake.
+
+Let's start by finding the number of fish in Onum Lake. If Boast Pool has 75 fish and Onum Lake has 25 more trout than Boast Pool, then Onum Lake must have 75 + 25 = 100 fish.
+
+The total number of fish in the three bodies of water is the sum of the fish in each body of water:
+
+75 (Boast Pool) + 100 (Onum Lake) + (Riddle Pond's number of fish, which is half of Onum Lake's number of fish) =?
+
+Since Riddle Pond has half as many fish as Onum Lake, and Onum Lake has 100 fish, Riddle Pond must have 100 / 2 = 50 fish.
+
+The total number of fish in all three bodies of water is:
+
+75 + 100 + 50 = 225
+
+Answer: 225

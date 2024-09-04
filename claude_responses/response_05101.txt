@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Each table needs a plank of wood for each of the 4 legs, so that's 4 planks per table.
+* Each table also needs 5 planks of wood for the surface.
+* So the total number of planks needed per table is 4 + 5 = 9 planks.
+* Johnny wants to build 5 tables.
+* To calculate the total number of planks needed, we multiply the number of planks per table (9) by the number of tables (5).
+* 9 planks per table x 5 tables = 45 planks.
+
+Answer: 45

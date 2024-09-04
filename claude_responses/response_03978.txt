@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James writes 10 pages per hour
+* He writes 5 pages a day to 2 different people
+* So, he writes 5 pages x 2 people = 10 pages per day
+* There are 7 days in a week
+* Therefore, he writes 10 pages per day x 7 days per week = 70 pages per week
+* To find the number of hours he spends writing per week, we divide the total pages per week (70) by the pages per hour (10)
+* 70 pages per week / 10 pages per hour = 7 hours per week
+
+Answer: 7 hours

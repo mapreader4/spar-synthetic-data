@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The cost of the phone is $1300.
+2) Mike already has 40% of the amount he needs.
+3) To calculate how much money Mike already has, we take 40% of $1300:
+   * 40% of $1300 = 0.4 * $1300 = $520
+4) Now, to calculate how much more money Mike needs, we subtract the amount he already has ($520) from the total cost of the phone ($1300):
+   * $1300 - $520 = $780
+Therefore, the amount of money Mike needs is $780.
+
+Answer: 780

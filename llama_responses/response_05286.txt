@@ -1,0 +1,5 @@
+To solve this problem, I will first find the total number of flowers. The florist has 75 narcissus flowers and 90 chrysanthemums. The total number of flowers is 75 + 90 = 165.
+
+Next, I will divide the total number of flowers by 5 to find the number of bouquets. 165 / 5 = 33.
+
+Answer: 33

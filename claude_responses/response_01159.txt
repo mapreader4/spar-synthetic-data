@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. Erwan purchased a pair of shoes at $200, with a 30% discount.
+   * The discounted price of the shoes is $200 - (30% of $200) = $200 - $60 = $140.
+
+2. Erwan also purchased two shirts at $80 each.
+   * The total cost of the two shirts is 2 x $80 = $160.
+
+3. The total cost of the items before any additional discounts is $140 + $160 = $300.
+
+4. The cashier said there is an additional 5% discount.
+   * The 5% discount on $300 is 5% of $300 = $15.
+
+5. The final amount Erwan spent after all the discounts is $300 - $15 = $285.
+
+Answer: 285

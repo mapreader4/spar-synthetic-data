@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Grandpa had 36 small tomatoes before going on vacation
+* When he came back, he counted 100 times more tomatoes
+* To find the number of tomatoes that grew in his absence, we need to subtract the original 36 tomatoes from the total number of tomatoes he counted when he returned
+
+First, let's calculate the total number of tomatoes he counted when he returned:
+* 36 tomatoes x 100 = 3,600 tomatoes
+
+Now, we subtract the original 36 tomatoes to find the number of tomatoes that grew in his absence:
+* 3,600 tomatoes - 36 tomatoes = 3,564 tomatoes
+
+Answer: 3,564

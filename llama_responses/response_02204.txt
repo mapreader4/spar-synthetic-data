@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's let the original price be 100% of the original price, since we know that the discount is a percentage of the original price. Let's call this original price x. So, we have:
+
+x * 100 = 150
+
+Now, we know that the sale price is 135. So, we can set up an equation to solve for x:
+
+x * 100 = 135
+
+To solve for x, we can divide both sides by 100:
+
+x = 135 / 100
+
+x = 1.35
+
+Now, we can find the percentage of the discount by subtracting 1 from 1.35, since 1 is the original price and 0.35 is the discount.
+
+1.35 - 1 = 0.35
+
+So, the discount is 35%.

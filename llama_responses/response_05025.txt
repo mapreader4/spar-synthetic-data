@@ -1,0 +1,23 @@
+Let's break down the information for each candidate:
+
+Candidate 1:
+
+* Salary: $42,000
+* Training cost: 3 months x $1,200/month = $3,600
+* Total cost: $42,000 + $3,600 = $45,600
+* Profit: $93,000 - $45,600 = $47,400
+
+Candidate 2:
+
+* Salary: $45,000
+* Hiring bonus: 1% of $45,000 = $450
+* Total cost: $45,000 + $450 = $45,450
+* Profit: $92,000 - $45,450 = $46,550
+
+To find out how much more one candidate will make the company than the other, we need to subtract the profit of Candidate 2 from the profit of Candidate 1:
+
+$47,400 (Candidate 1) - $46,550 (Candidate 2) = $850
+
+So, Candidate 1 will make the company $850 more than Candidate 2 in the first year.
+
+Answer: 850

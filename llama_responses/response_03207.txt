@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of liters in the containers with 2 liters each. There are 2 containers with 2 liters each, so that's 2 x 2 = 4 liters.
+
+Next, let's find the total number of liters in the containers with 0.75 liters each. There are 2 containers with 0.75 liters each, so that's 2 x 0.75 = 1.5 liters.
+
+Finally, let's find the total number of liters in the containers with 0.5 liters each. There are 5 containers with 0.5 liters each, so that's 5 x 0.5 = 2.5 liters.
+
+To find the total number of liters of milk sold, we add up the liters from each category:
+
+4 liters + 1.5 liters + 2.5 liters = 7.5 liters
+
+Answer: 7

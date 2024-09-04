@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Bill composes 20 total math questions
+* Ryan composes twice as many problems as Bill, so Ryan composes 2 * 20 = 40 problems
+* Frank composes 3 times as many problems as Ryan, so Frank composes 3 * 40 = 120 problems
+* Each person has to compose 4 different types of math problems in equal proportion out of the total amount
+* Since Frank composes 120 problems, and there are 4 different types of math problems, Frank composes 120 / 4 = 30 problems of each type
+
+Answer: 30

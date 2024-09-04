@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Mark visits 20 households a day
+* He does this for 5 days
+* So the total number of households he visits is 20 households per day x 5 days = 100 households
+* Half of the households give him a pair of 20s
+* A pair of 20s is $40
+* So the amount he collected from the half of the households that gave him a pair of 20s is:
+* 100 households / 2 = 50 households
+* 50 households x $40 per household = $2,000
+
+Answer: $2,000

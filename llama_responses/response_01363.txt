@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+First, Prudence made 2 dozen cupcakes, which is 24 cupcakes. However, 2 of them were burnt, so she had to throw them out. That leaves her with 24 - 2 = 22 cupcakes.
+
+Then, she ate 5 cupcakes, leaving her with 22 - 5 = 17 cupcakes.
+
+Later, she made 2 more dozen cupcakes, which is 24 cupcakes. Adding these to the remaining 17, she now has 17 + 24 = 41 cupcakes.
+
+She sells each cupcake at $2.00, so her total revenue is 41 * 2.00 = 82.00.
+
+To find the net profit, we need to subtract the cost of making the cupcakes from the revenue. Each cupcake costs $0.75 to make, so the total cost is 0.75 * 41 = 30.75. Subtracting the cost from the revenue, we get:
+
+82.00 - 30.75 = 51.25
+
+So, the net profit is $51.25.
+
+Answer: 51.25

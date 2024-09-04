@@ -1,0 +1,5 @@
+Let's start by finding the number of artworks made in one year. Each student makes 2 artworks in a quarter, and there are 4 quarters in a school year. So, the number of artworks made in a year is 2 * 4 = 8.
+
+Since there are 2 school years, the number of artworks in 2 years is 2 * 8 = 16.
+
+Answer: 16

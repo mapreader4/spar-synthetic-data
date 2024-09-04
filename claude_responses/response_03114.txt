@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jill's sales goal is at least 150 cookie boxes
+* Her first customer bought 5 boxes
+* Her second customer bought 4 times more than the first, which is 4 x 5 = 20 boxes
+* Her third customer bought half as much as the second, which is 20 / 2 = 10 boxes
+* Her fourth customer bought 3 times as much as the third, which is 3 x 10 = 30 boxes
+* Her final customer bought 10 boxes
+
+Now, let's add up the total number of boxes sold so far:
+* 5 + 20 + 10 + 30 + 10 = 75 boxes
+
+To find out how many boxes Jill has left to sell to hit her goal, we subtract the total boxes sold from her goal:
+* 150 - 75 = 75 boxes
+
+Answer: 75

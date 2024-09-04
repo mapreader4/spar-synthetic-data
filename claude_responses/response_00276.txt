@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The Rangers Apprentice series has 14 books
+* Each book has 200 pages
+* In the first month, Sabrina read 4 books
+* In the second month, Sabrina read half the remaining books
+
+First, let's calculate the number of pages Sabrina read in the first month:
+* 4 books x 200 pages per book = 800 pages
+
+Now, let's calculate the number of books remaining after the first month:
+* 14 books - 4 books = 10 books
+
+In the second month, Sabrina read half the remaining books:
+* 10 books / 2 = 5 books
+
+So, the total number of pages Sabrina read in the second month is:
+* 5 books x 200 pages per book = 1,000 pages
+
+Now, let's calculate the total number of pages Sabrina has left to read to finish the series:
+* 14 books x 200 pages per book = 2,800 pages
+* Pages read in first month: 800 pages
+* Pages read in second month: 1,000 pages
+* Pages remaining: 2,800 - 800 - 1,000 = 1,000 pages
+
+Answer: 1,000 pages

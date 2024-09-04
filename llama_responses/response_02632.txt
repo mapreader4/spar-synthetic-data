@@ -1,0 +1,17 @@
+Let's break this problem down step by step!
+
+Let's start by identifying the total number of people who actually went with the swim team:
+
+There are 2 cars and 3 vans. In each car, there are 5 people, so 2 x 5 = 10 people. In each van, there are 3 people, so 3 x 3 = 9 people. In total, there are 10 + 9 = 19 people who went with the swim team.
+
+Now, let's find the maximum capacity of the vehicles:
+
+Each car can hold a maximum of 6 people, and there are 2 cars, so the total car capacity is 2 x 6 = 12 people. Each van can hold a maximum of 8 people, and there are 3 vans, so the total van capacity is 3 x 8 = 24 people. The total capacity of all vehicles is 12 + 24 = 36 people.
+
+Now, let's subtract the actual number of people who went with the swim team from the total capacity:
+
+36 (total capacity) - 19 (actual people) = 17
+
+So, 17 people could have ridden with the swim team.
+
+Answer: 17

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 42 crepe myrtle trees in the park
+* One-third of them are pink
+* To calculate one-third of 42:
+  * 42 ÷ 3 = 14
+  * So there are 14 pink crepe myrtle trees
+* Only 2 of them are red
+* The remaining trees must be white
+* To calculate the number of white trees:
+  * Total trees: 42
+  * Pink trees: 14
+  * Red trees: 2
+  * White trees: 42 - 14 - 2 = 26
+
+Answer: 26

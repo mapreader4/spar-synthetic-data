@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+Jimmy stays in a hostel for the first 3 days, and the cost is $15 per night. So, the total cost for the hostel is:
+
+15 * 3 = 45
+
+For the next 2 days, Jimmy stays in a cabin with 2 friends, and the cost is $45 total per night. Since they are sharing the cost, we need to divide it by 3 to get the individual cost. So, the individual cost for each person is:
+
+45 / 3 = 15
+
+Since Jimmy is one of the people, his cost is:
+
+15
+
+To find the total cost, we need to add the cost for the hostel and the cabin:
+
+45 + 15 = 60
+
+Answer: 60

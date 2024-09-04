@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Miguel charges each picker $4 to access the strawberry fields
+* The standard price of a pound of strawberries is $20
+* Sally, Jenny, and Moses paid a total of $128 for their harvest
+* We need to find out how many pounds of strawberries they picked
+
+First, we need to subtract the entrance charge from the total amount they paid:
+* $128 - $4 = $124
+
+This means that the total value of the strawberries they picked is $124.
+
+Now, we can divide the total value of the strawberries by the standard price per pound to find the total number of pounds they picked:
+* $124 / $20 = 6.2 pounds
+
+Since we cannot have a fractional number of pounds, we need to round down to the nearest whole number.
+
+Answer: 6 pounds

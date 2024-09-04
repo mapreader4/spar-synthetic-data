@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Step 1: Calculate the distance traveled by Samuel in the first 3 hours at a speed of 50 miles/hour.
+
+Distance traveled = Speed * Time = 50 * 3 = 150 miles
+
+Step 2: Calculate the distance traveled by Samuel in the next 4 hours at a speed of 80 miles/hour.
+
+Distance traveled = Speed * Time = 80 * 4 = 320 miles
+
+Step 3: Calculate the total distance traveled by Samuel.
+
+Total distance = Distance 1 + Distance 2 = 150 + 320 = 470 miles
+
+Answer: 470

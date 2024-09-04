@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Fiona worked 40 hours per week
+* John worked 30 hours per week
+* Jeremy worked 25 hours per week
+* All employees are paid $20 per hour
+
+To calculate the total amount the boss spends paying all of them every month, we need to:
+1. Calculate the weekly pay for each employee:
+   * Fiona's weekly pay: 40 hours x $20 per hour = $800
+   * John's weekly pay: 30 hours x $20 per hour = $600
+   * Jeremy's weekly pay: 25 hours x $20 per hour = $500
+2. Add up the weekly pay for all three employees to get the total weekly pay:
+   * $800 + $600 + $500 = $1,900
+3. Multiply the total weekly pay by 4 to get the monthly pay:
+   * $1,900 x 4 = $7,600
+
+Answer: $7,600

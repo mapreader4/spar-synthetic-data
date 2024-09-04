@@ -1,0 +1,7 @@
+Okay, let's think through this step-by-step:
+1) Francine caught a total of 5 + 2 + 2 + 18 = 27 frogs.
+2) Out of the 27 frogs, 5 have extra legs, 2 have 2 heads, and 2 are bright red. This means a total of 5 + 2 + 2 = 9 frogs are mutated.
+3) To calculate the percentage of mutated frogs, we divide the number of mutated frogs by the total number of frogs and multiply by 100:
+(9 / 27) * 100 = 33.33%
+4) Rounding this to the nearest integer, we get:
+Answer: 33%

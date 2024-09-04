@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Stanley sold 4 cups of lemonade per hour
+* Carl sold 7 cups of lemonade per hour
+* We want to find how many more cups Carl sold than Stanley in 3 hours
+
+First, let's calculate how many cups each of them sold in 3 hours:
+* Stanley sold 4 cups per hour, so in 3 hours he sold 4 x 3 = 12 cups
+* Carl sold 7 cups per hour, so in 3 hours he sold 7 x 3 = 21 cups
+
+Now, to find how many more cups Carl sold than Stanley, we subtract Stanley's cups from Carl's cups:
+* 21 cups (Carl) - 12 cups (Stanley) = 9 cups
+
+Answer: 9

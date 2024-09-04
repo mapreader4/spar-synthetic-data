@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The movie theater can hold 50 people at a time.
+2) They charge $8.00 per ticket.
+3) On Tuesday night, they only sold 24 tickets.
+4) To calculate the maximum revenue they could have made, we multiply the total capacity (50) by the ticket price ($8.00):
+   50 * $8.00 = $400.00
+5) However, they only sold 24 tickets, so the actual revenue they made was:
+   24 * $8.00 = $192.00
+6) To calculate the money they lost by not selling out, we subtract the actual revenue from the maximum revenue:
+   $400.00 - $192.00 = $208.00
+
+Answer: $208

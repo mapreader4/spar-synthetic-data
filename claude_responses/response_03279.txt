@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+* We are given that 4 kids can wash 3 whiteboards in 20 minutes
+* We want to find how long it would take 1 kid to wash 6 whiteboards
+* First, we need to find the rate at which the 4 kids can wash the 3 whiteboards
+* The rate is 3 whiteboards / 20 minutes = 0.15 whiteboards per minute
+* Now, we need to find the rate at which 1 kid can wash whiteboards
+* Since the 4 kids can wash 0.15 whiteboards per minute, 1 kid can wash 0.15 / 4 = 0.0375 whiteboards per minute
+* To find how long it would take 1 kid to wash 6 whiteboards, we divide 6 whiteboards by the rate of 0.0375 whiteboards per minute
+* 6 whiteboards / 0.0375 whiteboards per minute = 160 minutes
+
+Answer: 160 minutes

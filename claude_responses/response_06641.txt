@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) The previous largest spider weighed 6.4 ounces.
+2) The new giant spider weighs 2.5 times the previous largest spider, so its weight is:
+   2.5 x 6.4 ounces = 16 ounces
+3) Each of the giant spider's legs has a cross-sectional area of 0.5 square inches.
+4) To calculate the pressure on each leg, we divide the weight of the spider by the total cross-sectional area of all the legs:
+   Weight of spider: 16 ounces
+   Total cross-sectional area of all legs: 8 x 0.5 square inches = 4 square inches
+   Pressure on each leg = 16 ounces / 4 square inches = 4 ounces per square inch
+
+Answer: 4 ounces per square inch

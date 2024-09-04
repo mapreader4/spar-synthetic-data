@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+The recipe calls for 2 ounces of butter for every 1 cup of baking mix. Since the chef wants to use as much butter as possible, he will use all the butter he has, which is 4 ounces. Since the recipe requires 2 ounces of butter for every 1 cup of baking mix, the chef can make 4/2 = 2 cups of baking mix using the 4 ounces of butter.
+
+The chef plans on using 6 cups of baking mix, so he will need to use coconut oil to make up the remaining 6 - 2 = 4 cups of baking mix. Since the recipe requires 2 ounces of butter (or coconut oil) for every 1 cup of baking mix, the chef will need to use 2 ounces of coconut oil for every 1 cup of baking mix. Therefore, the chef will need to use 2 ounces/cup x 4 cups = 8 ounces of coconut oil.
+
+Answer: 8

@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Andrew's bedroom took 8 planks
+* Andrew's living room took 20 planks
+* Andrew's kitchen took 11 planks
+* The guest bedroom took 2 fewer planks than Andrew's bedroom, so it took 8 - 2 = 6 planks
+* Each of the two hallways took 4 planks, so the total for the hallways was 4 + 4 = 8 planks
+* Andrew had to replace 3 planks in each bedroom, so that's 3 + 3 = 6 additional planks
+* At the end, Andrew had 6 leftover planks
+
+Now, let's add up the total number of planks used:
+* Bedroom: 8 + 6 = 14 planks
+* Living room: 20 planks
+* Kitchen: 11 planks
+* Guest bedroom: 6 planks
+* Hallways: 8 planks
+* Total planks used: 14 + 20 + 11 + 6 + 8 = 59 planks
+
+Finally, we add the 6 leftover planks to the 59 planks used to get the total number of planks Andrew bought:
+* Total planks bought = 59 + 6 = 65 planks
+
+Answer: 65

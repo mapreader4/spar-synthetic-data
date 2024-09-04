@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Adam has 7 goats.
+2) Andrew has 5 more than twice as many goats as Adam. 
+   * Twice as many as Adam is 2 x 7 = 14 goats.
+   * 5 more than 14 is 14 + 5 = 19 goats.
+3) Ahmed has 6 fewer goats than Andrew.
+   * Andrew has 19 goats.
+   * 6 fewer than 19 is 19 - 6 = 13 goats.
+
+Answer: 13 goats.

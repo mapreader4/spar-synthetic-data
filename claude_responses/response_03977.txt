@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Jane sews 6 rows of 8 blue sequins each. So, the total number of blue sequins is:
+   6 rows x 8 sequins per row = 48 blue sequins
+2) Jane sews 5 rows of 12 purple sequins each. So, the total number of purple sequins is:
+   5 rows x 12 sequins per row = 60 purple sequins
+3) Jane sews 9 rows of 6 green sequins each. So, the total number of green sequins is:
+   9 rows x 6 sequins per row = 54 green sequins
+4) To get the total number of sequins, we add up the blue, purple, and green sequins:
+   48 + 60 + 54 = 162 sequins
+
+Answer: 162

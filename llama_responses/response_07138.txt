@@ -1,0 +1,11 @@
+To find the difference in the distance driven, we can subtract the distance driven by Gervais from the total distance driven by Henri.
+
+Let's first find the distance driven by Gervais. Gervais drove 315 miles for 3 days. So, the distance driven by Gervais is 315 miles per day. To find the total distance driven by Gervais, we multiply 315 by 3:
+
+315 miles per day × 3 days = 945 miles
+
+Now, we can subtract the distance driven by Gervais from the total distance driven by Henri. The difference is:
+
+1,250 miles - 945 miles = 305 miles
+
+Answer: 305

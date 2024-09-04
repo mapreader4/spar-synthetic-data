@@ -1,0 +1,17 @@
+To find the total amount of time, we need to first find the time it took to drive the first part of the distance and the time it took to drive the remaining distance.
+
+Let's break it down step by step:
+
+1. The distance they drove the first part of the distance is 1/4 of the total distance. 1/4 of 200 miles is 50 miles.
+
+2. It took them 1 hour to drive 50 miles, so the speed is 50 miles per hour.
+
+3. They took a 1 hour lunch break.
+
+4. The remaining distance is 200 - 50 = 150 miles.
+
+5. The time it took to drive the remaining 150 miles is the same as the time it took to drive the first 50 miles, which is 1 hour.
+
+6. So, the total time taken to drive between the two towns is 1 hour + 1 hour = 2 hours.
+
+Answer: 2

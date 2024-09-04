@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Timothy has $50 to spend at a souvenir shop. He buys 2 t-shirts that cost $8 each, so he spends $16 on the t-shirts. This leaves him with $50 - $16 = $34.
+
+He also buys 2 bags that cost $10 each, so he spends $20 on the bags. This leaves him with $34 - $20 = $14.
+
+Now, he has $14 left to spend on key chains. Key chains cost $2 each, and he wants to know how many he can buy.
+
+To find the number of key chains he can buy, we can divide $14 by $2, which is the cost of each key chain. $14 ÷ $2 = 7.
+
+Answer: 7

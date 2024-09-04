@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+Harold makes $2500.00 a month from his job.
+
+His rent is $700.00, so we subtract that from his income:
+
+$2500.00 - $700.00 = $1800.00
+
+He has a car payment of $300.00, and his utilities cost 1/2 the amount of his car payment, so we calculate that as follows:
+
+$300.00 / 2 = $150.00
+
+So, his utilities cost $150.00. Now, we subtract that from his remaining income:
+
+$1800.00 - $150.00 = $1650.00
+
+He spends $50.00 on groceries, so we subtract that from his remaining income:
+
+$1650.00 - $50.00 = $1600.00
+
+He wants to put half of the remaining money into a retirement account, so we take half of $1600.00:
+
+$1600.00 / 2 = $800.00
+
+So, the money left over for Harold is:
+
+$1600.00 - $800.00 = $800.00
+
+Answer: $800.00

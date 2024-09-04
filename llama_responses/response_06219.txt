@@ -1,0 +1,10 @@
+Let's break this problem down step by step.
+
+1. The number of people attending the picnic is 4, including Theo and Tia.
+2. Each person gets an individual sandwich, so 4 sandwiches are needed. Sandwiches cost $5 each, so the total cost of sandwiches is 4 x 5 = $20.
+3. Each person gets an individual fruit salad, so 4 fruit salads are needed. Fruit salads cost $3 each, so the total cost of fruit salads is 4 x 3 = $12.
+4. Each person gets 2 sodas, so 8 sodas are needed. Sodas cost $2 each, so the total cost of sodas is 8 x 2 = $16.
+5. There are 4 people, including Theo and Tia, and they buy 3 bags of snacks to share. The cost of snack bags is $4 each, so the total cost of snack bags is 3 x 4 = $12.
+6. To find the total cost of the entire picnic, we add up the cost of sandwiches, fruit salads, sodas, and snack bags: 20 + 12 + 16 + 12 = $60.
+
+Answer: 60

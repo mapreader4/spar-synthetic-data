@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Bernie has a collection of 18 unique postcards.
+2) He decides to sell half of his collection, which is 18 / 2 = 9 postcards.
+3) He sells each postcard for $15, so the total amount of money he earns is 9 * $15 = $135.
+4) He then decides to spend all the $135 he earned to buy new postcards, each costing $5.
+5) The number of new postcards he can buy with $135 is $135 / $5 = 27 postcards.
+6) So, after all his transactions, Bernie has the 9 postcards he didn't sell, plus the 27 new postcards he bought, for a total of 9 + 27 = 36 postcards.
+
+Answer: 36

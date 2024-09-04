@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* John has a raw squat of 600 pounds without sleeves or wraps.
+* Sleeves add 30 pounds to his lift.
+* Wraps add 25% to his squat.
+
+First, let's find the weight of John's squat with sleeves:
+
+600 pounds (raw squat) + 30 pounds (sleeves) = 630 pounds
+
+Now, let's find the weight of John's squat with wraps:
+
+600 pounds (raw squat) + 25% (25/100) * 600 pounds = 600 pounds + 150 pounds = 750 pounds
+
+Now, let's find the difference in pounds between the weight of John's squat with wraps and the weight of his squat with sleeves:
+
+750 pounds (with wraps) - 630 pounds (with sleeves) = 120 pounds
+
+So, John gets 120 pounds more from wraps compared to sleeves.

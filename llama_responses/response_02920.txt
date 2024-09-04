@@ -1,0 +1,20 @@
+Let's break down the problem step by step.
+
+Let's say Hakimi's age is x.
+
+Since Molly's age is 30, Jared's age is 10 years older than Hakimi's age. So, Jared's age is x + 10.
+
+The total average age of the three friends is 40. So, we can set up the equation:
+
+x + (x + 10) + 30 = 40
+
+To solve for x, we can subtract 30 from both sides of the equation:
+
+x + (x + 10) = 40 - 30
+x + 10 = 10
+
+Now, we can subtract 10 from both sides of the equation to get:
+
+x = 10
+
+So, Hakimi's age is 10 years old.

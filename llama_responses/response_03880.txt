@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total cost of the original order of hay. There are 10 bales of hay to be delivered, and each bale costs $15. So the total cost is 10 x 15 = $150.
+
+Now, we need to find the cost of the better quality hay. The cost of the better quality hay is $18 per bale. Since the quantity remains the same, we multiply the cost per bale by the number of bales, so the total cost of the better quality hay is 10 x 18 = $180.
+
+To find the difference in cost, we subtract the cost of the original hay from the cost of the better quality hay: 180 - 150 = $30.
+
+Answer: 30

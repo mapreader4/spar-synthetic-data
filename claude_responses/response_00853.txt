@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Eugene used 75 toothpicks for each card in the deck of playing cards.
+2) The deck of playing cards had 52 cards.
+3) Eugene used all but 16 of the cards to build his house.
+4) So, the number of cards he used is 52 - 16 = 36 cards.
+5) For each of the 36 cards, he used 75 toothpicks.
+6) So, the total number of toothpicks used is 36 cards * 75 toothpicks per card = 2,700 toothpicks.
+7) A box of toothpicks contains 450 toothpicks.
+8) To find the number of boxes of toothpicks Eugene used, we divide the total number of toothpicks used (2,700) by the number of toothpicks in a box (450).
+9) 2,700 / 450 = 6 boxes of toothpicks.
+
+Answer: 6

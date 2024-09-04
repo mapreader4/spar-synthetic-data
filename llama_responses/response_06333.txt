@@ -1,0 +1,9 @@
+Let's start by identifying the total number of plants Justice has in her home. She has 3 ferns, 5 palms, and 7 succulent plants. We can add these numbers together to get the total number of plants she has:
+
+3 + 5 + 7 = 15
+
+Since Justice wants a total of 24 plants in her home, and she currently has 15 plants, we can find the number of plants she needs by subtracting the number she has from the total she wants:
+
+24 - 15 = 9
+
+Answer: 9

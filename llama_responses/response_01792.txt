@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+First, we need to find the number of roses, daisies, snapdragons, and lilies needed for each table. 
+
+Roses: 8
+Daisies: 12
+Snapdragons: 3
+Lilies: 2 * 3 = 6
+
+Now, we need to multiply the number of each type of flower by the number of tables.
+
+Roses: 8 * 10 = 80
+Daisies: 12 * 10 = 120
+Snapdragons: 3 * 10 = 30
+Lilies: 6 * 10 = 60
+
+Now, we need to add all the flowers together.
+
+80 + 120 + 30 + 60 = 250
+
+Answer: 250

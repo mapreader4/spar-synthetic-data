@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the total distance of the daily commute:
+
+The distance of the commute is 21 miles one way, so the total distance for a round trip is 2 x 21 = 42 miles.
+
+Step 2: Calculate the total amount of gas consumed per day:
+
+The car gets 30 miles/gallon, so the amount of gas consumed per day is 42 miles / 30 miles/gallon = 1.4 gallons.
+
+Step 3: Calculate the total amount of gas consumed per week:
+
+The carpool commutes 5 days a week, so the total amount of gas consumed per week is 5 x 1.4 = 7 gallons.
+
+Step 4: Calculate the total amount of gas consumed per month:
+
+The carpool commutes 4 weeks a month, so the total amount of gas consumed per month is 7 gallons x 4 = 28 gallons.
+
+Step 5: Calculate the cost of the gas consumed per person:
+
+The cost of gas is $2.50/gallon, so the total cost of the gas consumed is 28 gallons x $2.50/gallon = $70.
+
+Step 6: Calculate the cost per person:
+
+The cost of the gas is split equally among the 5 people in the carpool, so the cost per person is $70 / 5 = $14.
+
+Answer: 14

@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+First, James sells the house for 20% over market value, which means the house is sold for 1.2 times the market value. Let's call the market value x. Then, the revenue is 1.2x.
+
+Next, James splits the revenue with his 3 brothers. So, each brother gets 1/3 of the revenue, which is 1/3 * 1.2x = 0.4x.
+
+After that, James takes away 10% of the revenue, so each brother gets 0.9x.
+
+To find the amount each brother gets, we can multiply the remaining 0.9x by 100, which is the percentage 0.9. So, each brother gets 0.9x * 100 = 90.
+
+Answer: 90

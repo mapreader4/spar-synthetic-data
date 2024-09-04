@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of yards Tom Brady needs to break the record. He needs 5999 yards in total yards, and he has 4200 yards currently. So, the difference is 579 yards.
+
+Next, let's divide the difference by the number of games he has left in the season. There are 6 games left, so the difference per game is:
+
+5999 - 4200 = 579 / 6 = 96.5
+
+So, Tom Brady needs to average 96.5 yards per game to break the record.

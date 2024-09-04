@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. On the first day, Craig made 40 pizzas.
+2. Heather made four times as many pizzas as Craig on the first day, so Heather made 4 x 40 = 160 pizzas on the first day.
+3. On the second day, Craig made 60 more pizzas than on the first day, so Craig made 40 + 60 = 100 pizzas on the second day.
+4. On the second day, Heather made 20 fewer pizzas than Craig's number, so Heather made 100 - 20 = 80 pizzas on the second day.
+
+Now, let's calculate the total number of pizzas the two made together in the two days:
+* First day: Craig made 40 pizzas, Heather made 160 pizzas
+* Second day: Craig made 100 pizzas, Heather made 80 pizzas
+* Total pizzas made: 40 + 160 + 100 + 80 = 380
+
+Answer: 380

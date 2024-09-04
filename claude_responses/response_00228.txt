@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The company has 200 employees.
+2) 60% of the employees drive to work. To calculate this, we take 60% of 200, which is 0.6 * 200 = 120 employees who drive to work.
+3) The remaining employees who don't drive to work is 200 - 120 = 80 employees.
+4) Of the 80 employees who don't drive to work, half take public transportation. Half of 80 is 40 employees who take public transportation.
+5) The difference between the number of employees who drive to work (120) and the number who take public transportation (40) is 120 - 40 = 80.
+
+Answer: 80

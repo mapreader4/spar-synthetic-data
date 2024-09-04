@@ -1,0 +1,19 @@
+Let's start by using the given information to write an equation to represent the number of blue marbles. We know that Brett has 24 more blue marbles than red marbles. This means that the number of blue marbles is 24 more than the number of red marbles. Let's call the number of red marbles x. Since he has 5 times as many blue marbles as red marbles, this means that the number of blue marbles is 5x. So, we can write an equation to represent the number of blue marbles:
+
+x + x = 24
+
+To solve for x, we need to subtract 24 from both sides of the equation. This gives us:
+
+x = 24 - x
+
+Since Brett has 5 times as many blue marbles as red marbles, he must have 5x red marbles. So, we can substitute x with 5x:
+
+5x = 24
+
+Now, we can divide both sides of the equation by 5:
+
+x = 24 / 5
+
+x = 4.8
+
+So, Brett has 4.8 red marbles.

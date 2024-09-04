@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's start by identifying the information given: Kira's cat eats a pound of kibble every 4 hours. Kira fills her cat's bowl with 3 pounds of kibble before going to work. When she returns, Kira weighs the bowl and there is still 1 pound left.
+
+We know that the cat eats 1 pound of kibble each time Kira is away from home. So, if Kira is away for x hours, the cat will eat x/4 pounds of kibble. Since the bowl has 3 pounds of kibble initially, the amount left after Kira returns is 3 - 1 = 2 pounds.
+
+So, we can set up an equation: 2 = x/4. We can solve for x by multiplying both sides by 4, which gives us x = 8.
+
+Answer: 8

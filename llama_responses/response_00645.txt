@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by finding the total number of apartments. Half of the 12 floors have 6 apartments, so that's 6 x 2 = 12 apartments. The other half have 5 apartments, so that's 5 x 2 = 10 apartments. In total, there are 12 + 10 = 22 apartments.
+
+Now, we need to find the maximum number of residents that can live in this block of flats. One apartment can accommodate a maximum of 4 residents. So, to find the maximum number of residents, we need to divide the total number of apartments by 4.
+
+22 apartments / 4 = 5.5. Since we cannot have a fraction of a resident, we round down to the nearest whole number, which is 5.
+
+Answer: 5

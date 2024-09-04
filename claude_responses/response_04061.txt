@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* When it's raining, Ken can cycle 30 miles in 20 minutes
+* When it's snowing, Ken can cycle 10 miles in 20 minutes
+* It rains 3 times and snows 4 times in one week
+* Ken cycles for 1 hour a day
+
+First, let's calculate how many miles Ken can cycle in 1 hour when it's raining:
+* 30 miles in 20 minutes
+* 60 minutes / 20 minutes = 3 sets of 30 miles
+* 3 x 30 miles = 90 miles
+
+Next, let's calculate how many miles Ken can cycle in 1 hour when it's snowing:
+* 10 miles in 20 minutes
+* 60 minutes / 20 minutes = 3 sets of 10 miles
+* 3 x 10 miles = 30 miles
+
+Now, let's calculate the total miles Ken can cycle in one week:
+* 3 days of rain, 90 miles per day = 270 miles
+* 4 days of snow, 30 miles per day = 120 miles
+* Total miles = 270 + 120 = 390 miles
+
+Answer: 390 miles

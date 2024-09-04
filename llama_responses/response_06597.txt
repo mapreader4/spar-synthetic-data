@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information we know:
+
+* Jacob had 8 fish at the beginning.
+* Alex caught 7 times as many fish as Jacob, so Alex caught 7 x 8 = 56 fish.
+* Alex lost 23 fish back to the lake, so Alex now has 56 - 23 = 33 fish.
+* Jacob needs to beat Alex by just 1 fish, so Jacob needs to have 1 more fish than Alex.
+
+Now, let's find out how many fish Jacob needs to catch to beat Alex by 1 fish:
+
+* Alex has 33 fish, and Jacob needs to have 1 more fish than Alex. So, Jacob needs to have 33 + 1 = 34 fish.
+* Since Jacob started with 8 fish, he needs to catch 34 - 8 = 26 more fish to beat Alex by 1 fish.
+
+Answer: 26

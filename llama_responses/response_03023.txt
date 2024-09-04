@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Lola and Dora combined their allowance of $9 each, so they have a total of $18 to spend.
+2. They spent $10 on a deck of playing cards, so they have $8 left over.
+3. They also bought 2 boxes of stickers, which cost $2 each, so the total cost of the stickers was $4.
+4. They split the boxes evenly, so each of them gets 4 boxes of stickers.
+5. To find out how many stickers are in each box, we can divide the total number of stickers by the number of boxes. The total number of stickers is 2 * 12 = 24. So, the number of stickers in each box is 24 / 4 = 6.
+
+Answer: 6

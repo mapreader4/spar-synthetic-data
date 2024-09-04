@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+* Tom's fruit bowl initially contains 3 oranges and 6 lemons, for a total of 9 fruits.
+* Tom eats 3 of the fruits from the bowl.
+* To find the number of fruits remaining, we need to subtract the number of fruits eaten (3) from the initial total number of fruits (9).
+* 9 fruits - 3 fruits eaten = 6 fruits remaining.
+
+Answer: 6

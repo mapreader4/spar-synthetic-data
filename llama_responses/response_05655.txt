@@ -1,0 +1,15 @@
+Let's break it down step by step:
+
+1. During weekdays (Monday to Friday), Lolita can drink 3 boxes of milk.
+2. On Saturdays, she can drink twice the number of boxes of milk as on the weekdays, which is 3 * 2 = 6 boxes.
+3. On Sundays, she can drink thrice the number of boxes of milk as on the weekdays, which is 3 * 3 = 9 boxes.
+
+To find the total number of boxes of milk Lolita drinks per week, we add up the number of boxes she drinks on each day:
+
+Weekdays (Monday to Friday): 3 boxes
+Saturdays: 6 boxes
+Sundays: 9 boxes
+
+Total: 3 + 6 + 9 = 18 boxes
+
+Answer: 18

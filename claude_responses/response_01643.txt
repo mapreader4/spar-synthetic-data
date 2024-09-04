@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Valerie needs 3 small light bulbs and 1 large light bulb
+* Small light bulbs cost $8 each
+* Large light bulbs cost $12 each
+* Valerie has $60 to spend
+
+First, let's calculate the total cost of the light bulbs:
+* 3 small light bulbs x $8 = $24
+* 1 large light bulb x $12 = $12
+* Total cost = $24 + $12 = $36
+
+Now, we can calculate how much money Valerie will have left over:
+* Valerie has $60 to spend
+* Total cost of light bulbs is $36
+* $60 - $36 = $24
+
+Therefore, Valerie will have $24 left over.
+
+Answer: 24

@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Palmer started with 100 photos in her album.
+
+In the first week, she took 50 new pictures, so her total number of photos becomes:
+100 + 50 = 150
+
+In the second week, she took twice as many pictures as in the first week, which is 2 x 50 = 100. So, her total number of photos becomes:
+150 + 100 = 250
+
+In the third and fourth weeks, she took a total of 80 new photos. So, her total number of photos becomes:
+250 + 80 = 330
+
+Now, let's add the 330 photos she took in Bali to her original 100 photos. Her new total number of photos is:
+330 + 100 = 430
+
+Answer: 430

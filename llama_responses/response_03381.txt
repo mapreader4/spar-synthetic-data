@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of the 3 shirts that cost $15 each. Since there are 3 shirts at that price, the total cost of those 3 shirts is:
+
+3 x 15 = 45
+
+Next, we need to find the cost of the remaining 2 shirts that cost $20 each. Since there are 2 shirts at that price, the total cost of those 2 shirts is:
+
+2 x 20 = 40
+
+Now, we need to find the total cost of all 5 shirts. To do this, we add the cost of the 3 shirts that cost $15 each to the cost of the 2 shirts that cost $20 each. This gives us the total cost of all 5 shirts:
+
+45 + 40 = 85
+
+So, the cost of all 5 shirts is 85.

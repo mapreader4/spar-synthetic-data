@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jack has already sold:
+  - 4 brownies at $3 each, so that's 4 * $3 = $12
+  - 5 lemon squares at $2 each, so that's 5 * $2 = $10
+* So the total amount he has made so far is $12 + $10 = $22
+* Jack's goal is to make $50
+* He sells cookies for $4 each
+* To calculate how many cookies he needs to sell to reach his goal, we take the remaining amount he needs to make ($50 - $22 = $28) and divide it by the price of each cookie ($4)
+* $28 / $4 = 7 cookies
+
+Answer: 7

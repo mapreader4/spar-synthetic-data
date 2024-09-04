@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* 55% of Toby's friends are boys
+* Toby has 33 friends who are boys
+* To find the total number of friends Toby has, we can divide the number of boy friends (33) by the percentage of boy friends (55%)
+* 33 / 0.55 = 60 total friends
+* Since 55% of his friends are boys, the remaining 45% must be girls
+* To find the number of girl friends, we can take the total number of friends (60) and multiply it by the percentage of girl friends (45%)
+* 60 * 0.45 = 27 girl friends
+
+Answer: 27

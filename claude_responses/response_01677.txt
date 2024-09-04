@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Danny ordered:
+  - 2 quarter-pounder burgers at $3.20 each, so that's 2 x $3.20 = $6.40
+  - 2 large fries at $1.90 each, so that's 2 x $1.90 = $3.80
+  - 2 milkshakes at $2.40 each, so that's 2 x $2.40 = $4.80
+* The total cost of his order is $6.40 + $3.80 + $4.80 = $15.00
+* The minimum purchase for free delivery is $18.00
+* To avail of the free delivery, Danny needs to order $18.00 - $15.00 = $3.00 more worth of food.
+
+Answer: 3

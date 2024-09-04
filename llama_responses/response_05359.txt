@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by converting the number of cups to ounces. There are 8 ounces in a cup, so 1 cup is 8 ounces. Since Cassie wants to drink 12 cups, we can convert that to ounces by multiplying 12 * 8 = 96 ounces.
+
+Since Cassie's water bottle holds 16 ounces, we need to find out how many times she needs to refill her water bottle to get to 96 ounces. To do this, we can divide 96 by 16, which is the capacity of her water bottle.
+
+96 ÷ 16 = 6
+
+Answer: 6

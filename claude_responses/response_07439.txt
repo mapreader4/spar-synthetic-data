@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) There are 96 oranges in total.
+2) Half of the oranges were ripe, so there are 48 ripe oranges.
+3) 1/4 of the ripe oranges were eaten, so 1/4 of 48 = 12 ripe oranges were eaten.
+4) The remaining ripe oranges are 48 - 12 = 36.
+5) 1/8 of the unripe oranges were eaten, so 1/8 of 48 = 6 unripe oranges were eaten.
+6) The remaining unripe oranges are 48 - 6 = 42.
+7) The total number of oranges left uneaten is 36 + 42 = 78.
+
+Answer: 78

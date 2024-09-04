@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's say Lisa's hourly wage is x. Since Greta worked 40 hours and earned $12 per hour, her total earnings would be:
+
+40 hours * $12 per hour = 40 * 12 = $480
+
+Now, let's say Lisa wants to earn the same amount as Greta. So, we set up an equation:
+
+40 * x = 480
+
+To solve for x, we divide both sides by 40:
+
+x = 480 / 40
+x = 12
+
+So, Lisa would have to work 12 hours to equal Greta's earnings for 40 hours.

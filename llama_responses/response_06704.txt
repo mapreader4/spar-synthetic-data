@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's first find the total number of feet John travels vertically.  The difference in elevation is 1450 - 100 = 1350 feet.
+
+Since John travels 1 foot for every 2 feet horizontally, that means that for every 2 feet, he moves 1 foot horizontally.  To find the number of feet he moves horizontally, we can divide the total vertical distance by the number of feet he moves horizontally for each step.  In this case, that is 1350 feet / 2 = 675 feet.
+
+Answer: 675

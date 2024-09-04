@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Nina has 3 spiders and 50 ants as pets.
+2) Each spider has 8 eyes.
+3) To find the total number of eyes for the spiders, we multiply the number of spiders (3) by the number of eyes per spider (8):
+   3 spiders x 8 eyes per spider = 24 eyes for the spiders.
+4) Each ant has 2 eyes.
+5) To find the total number of eyes for the ants, we multiply the number of ants (50) by the number of eyes per ant (2):
+   50 ants x 2 eyes per ant = 100 eyes for the ants.
+6) To find the total number of eyes among Nina's pet insects, we add the eyes for the spiders and the eyes for the ants:
+   24 eyes (spiders) + 100 eyes (ants) = 124 eyes in total.
+
+Answer: 124

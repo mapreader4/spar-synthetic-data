@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Cameron usually answers 2 questions per tourist
+* He did 4 tours today
+* The first group had 6 people
+* The second group had 11 people
+* The third group had 8 people, but one person asked 3 times as many questions as usual
+* The fourth group had 7 people
+
+For the first group:
+* 6 people x 2 questions each = 12 questions
+
+For the second group:
+* 11 people x 2 questions each = 22 questions
+
+For the third group:
+* 7 people x 2 questions each = 14 questions
+* 1 person asked 3 times as many questions, so 3 x 2 = 6 additional questions
+* Total for third group = 14 + 6 = 20 questions
+
+For the fourth group:
+* 7 people x 2 questions each = 14 questions
+
+Now, we add up the total questions answered:
+* 12 + 22 + 20 + 14 = 68 questions
+
+Answer: 68

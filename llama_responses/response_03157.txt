@@ -1,0 +1,11 @@
+Let's break down the information given to us:
+
+* The monthly bill is $45 for 100 GB.
+* For every 1 GB over, the charge is $0.25.
+* The bill is $65.
+
+Let's first calculate the base charge of 100 GB. 100 GB - 45 = 55.
+
+The bill is $65, so the amount over is 65 - 55 = 10.
+
+The answer is: Answer: 10.

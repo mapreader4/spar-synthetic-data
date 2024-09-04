@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the price of the new camera. The new camera costs 30% more than the old camera, and the old camera costs $4000. So, the new camera costs $4000 + (30% of $4000) = $4000 + $1200 = $5200.
+
+Now, Mike got a $200 discount on the $400 lens. So, the total amount he paid for the lens is $400 - $200 = $200.
+
+Now, let's find the total amount Mike paid for the camera and lens. The camera costs $5200, and the lens costs $200. So, the total amount Mike paid is $5200 + $200 = $5400.
+
+Answer: 5400

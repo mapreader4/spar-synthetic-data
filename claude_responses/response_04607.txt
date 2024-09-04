@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Jim originally reads at a rate of 40 pages per hour.
+2. He reads a total of 600 pages per week.
+3. This means he reads for 600 / 40 = 15 hours per week.
+4. He now increases his reading speed to 150% of its former speed, which means he reads at a rate of 40 * 1.5 = 60 pages per hour.
+5. However, he now reads 4 hours less per week, so he reads for 15 - 4 = 11 hours per week.
+6. To calculate the new number of pages he reads per week, we multiply his new reading rate by the number of hours he reads per week:
+60 pages/hour * 11 hours/week = 660 pages/week.
+
+Answer: 660 pages

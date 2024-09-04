@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+John starts with an ability to run 8 hours straight, which is equivalent to 8 * 8 = 64 miles.
+
+Then, he increases his ability to run 75% of 8 hours, which is 0.75 * 8 = 6 hours. This means he can now run for 8 + 6 = 14 hours straight.
+
+Additionally, he increases his speed by 4 mph. This is added to the original speed of 8 mph, making his new speed 8 + 4 = 12 mph.
+
+So, to find out how far he can run now, we multiply his new speed by his new hours, which is 14, to get 14 * 12 = 168 miles.

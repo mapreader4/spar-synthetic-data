@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of open parking spots on each level:
+
+1. First level: 4
+2. Second level: 4 + 7 = 11
+3. Third level: 11 + 6 = 17
+4. Fourth level: 17 + 14 = 31
+
+Now, let's add up the number of open parking spots on each level:
+
+4 + 11 + 17 + 31 = 62
+
+Answer: 62

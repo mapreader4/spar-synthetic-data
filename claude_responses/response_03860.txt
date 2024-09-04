@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) There are 52 playing cards in a standard deck.
+2) Each card has 4 hearts on it.
+3) So, the total number of hearts on a standard deck of 52 playing cards is 52 * 4 = 208 hearts.
+4) Since there are twice as many cows in Devonshire as there are hearts on a standard deck of 52 playing cards, the number of cows in Devonshire is 2 * 208 = 416 cows.
+5) Each cow is sold at $200.
+6) Therefore, the total cost of the cows when they are sold is 416 * $200 = $83,200.
+
+Answer: 83,200

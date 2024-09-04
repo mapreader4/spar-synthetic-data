@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+
+1. Jenna gets 2 tickets from the concert website for $50 each.
+   * Cost of the 2 tickets from the website: 2 x $50 = $100
+
+2. The scalper offers to sell 2 more tickets for 240% of the normal price, but Jenna convinces him to give her $10 off the total.
+   * Normal price of each ticket: $50
+   * Scalper's price: 240% of $50 = 2.4 x $50 = $120 per ticket
+   * Total cost for 2 tickets from the scalper: 2 x $120 = $240
+   * Discount from the scalper: $10
+   * Net cost for 2 tickets from the scalper: $240 - $10 = $230
+
+3. One of Jenna's friends gets a discounted ticket through her job for 60% of the normal price.
+   * Normal price of each ticket: $50
+   * Discounted price: 60% of $50 = 0.6 x $50 = $30
+
+4. Total cost for all 5 tickets:
+   * 2 tickets from the website: $100
+   * 2 tickets from the scalper: $230
+   * 1 discounted ticket: $30
+   * Total cost: $100 + $230 + $30 = $360
+
+Answer: $360

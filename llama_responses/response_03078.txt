@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start with Barbi. Barbi lost 1.5 kilograms each month for a year. That means that in one year, Barbi lost 12 * 1.5 = 18 kilograms.
+
+Now, let's look at Luca. Luca lost 9 kilograms every year for 11 years. That means that Luca lost 9 * 11 = 99 kilograms.
+
+To find out how much more Luca lost than Barbi, we need to subtract the amount of weight Barbi lost from the amount Luca lost. So, 99 - 18 = 81 kilograms.
+
+Answer: 81

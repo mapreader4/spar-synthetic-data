@@ -1,0 +1,11 @@
+Let's break this problem down step by step!
+
+Initially, the tank is 2/5 filled with water, which means it has 2/5 × 100 = 40 liters of water.
+
+On the first day, the tank collected 15 liters of water, so the total amount of water in the tank becomes 40 + 15 = 55 liters.
+
+On the second day, the tank collected 5 liters more water than on the first day, so it collected 15 + 5 = 20 liters of water. The total amount of water in the tank becomes 55 + 20 = 75 liters.
+
+On the third day, the tank was already filled, which means it had 100 liters of water. Since the tank had 75 liters before, it must have collected 100 - 75 = 25 liters of water on the third day.
+
+Answer: 25

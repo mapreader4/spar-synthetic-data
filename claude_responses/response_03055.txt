@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) Anthony keeps the vinegar in his cupboard for 2 years.
+2) Each year, 20% of the vinegar evaporates.
+3) To calculate the amount of vinegar left after 2 years, we need to consider the evaporation for each year.
+4) In the first year, 20% of the vinegar evaporates, so 80% remains.
+5) In the second year, 20% of the remaining 80% evaporates, which is 16% of the original amount.
+6) So the total amount of vinegar left after 2 years is 80% - 16% = 64% of the original amount.
+
+Answer: 64

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Step 1: Find the time it takes to take route A to Boston and back to his home.
+
+The time it takes to take route A to Boston is 5 hours. To go back home, it will take the same amount of time, so the total time taken for route A is 5 hours * 2 = 10 hours.
+
+Step 2: Find the time it takes to take route B to Boston and back to his home.
+
+The time it takes to take route B to Boston is 2 hours. To go back home, it will take the same amount of time, so the total time taken for route B is 2 hours * 2 = 4 hours.
+
+Step 3: Calculate the difference in time taken for the two routes.
+
+The time saved by taking route B is the difference between the time taken for route A and the time taken for route B, which is 10 hours - 4 hours = 6 hours.
+
+Answer: 6

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Zoo entry tickets are $5 per person.
+2) Bus fare is $1.50 per person one way, so $3 per person round-trip.
+3) Noah and Ava are going to the zoo, so that's 2 people.
+4) The total cost for zoo entry and bus fare is:
+   - Zoo entry: 2 people x $5 = $10
+   - Bus fare: 2 people x $3 = $6
+   - Total cost: $10 + $6 = $16
+5) They have $40 to start with.
+6) The amount of money they have left to spend on lunch and snacks is:
+   - $40 - $16 = $24
+
+Answer: $24

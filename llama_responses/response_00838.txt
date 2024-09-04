@@ -1,0 +1,7 @@
+Let's break down the information given:
+
+* The boat capsized, so the sheep and cows went into the water.
+* The problem states that 3 sheep drowned, and 2 times the number of cows that drowned is 3, so the number of cows that drowned is 6.
+* The problem states that all of the dogs made it to shore, so the number of dogs that made it to the shore is 14.
+
+So, the total number of animals that made it to the shore is the sum of the number of sheep, cows, and dogs: 20 + 6 + 14 = 40.

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Anna can read 1 page in 1 minute
+* Carole can read as fast as Anna, so Carole can also read 1 page in 1 minute
+* Carole's reading speed is half the speed of Brianna's
+* So if Carole can read 1 page in 1 minute, then Brianna can read 2 pages in 1 minute (since Brianna's speed is twice as fast as Carole's)
+* The book has 100 pages
+* Therefore, it will take Brianna 100 pages / 2 pages per minute = 50 minutes to read the 100-page book
+
+Answer: 50

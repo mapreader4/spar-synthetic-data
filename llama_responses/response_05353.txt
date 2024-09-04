@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total cost of the puppies. There are 2 puppies, and each puppy costs $20. So, the total cost of the puppies is 2 x 20 = 40.
+
+Next, we know that the total cost of the kittens is $100. So, the cost of the kittens is $100.
+
+Let's find the cost of the kittens in terms of the puppies. Let's subtract the cost of the puppies from the total cost. $100 - 40 = $60.
+
+So, the pet shop has 6 kittens.

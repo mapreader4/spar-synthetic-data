@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the rates of the three families: Donaldsons, Merck, and Hille. We know that the Donaldsons pay $15 per hour, the Merck family pays $18 per hour, and the Hille family pays $20 per hour.
+
+Next, we know that Layla babysat for the Donaldsons for 7 hours, so the amount of money she earned from the Donaldsons is 7 x $15 = $105.
+
+Similarly, Layla babysat for the Merck family for 6 hours, so the amount of money she earned from the Merck family is 6 x $18 = $108.
+
+And finally, Layla babysat for the Hille family for 3 hours, so the amount of money she earned from the Hille family is 3 x $20 = $60.
+
+To find the total amount of money Layla earned, we add the amounts together: $105 + $108 + $60 = $273.
+
+So, Layla earned a total of $273 babysitting.

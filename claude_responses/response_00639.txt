@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 50 families in the community.
+2) 15 families own 2 dogs each, so that's 15 * 2 = 30 dogs.
+3) 20 families own 1 dog each, so that's 20 * 1 = 20 dogs.
+4) The remaining 50 - 15 - 20 = 15 families own 2 cats each, so that's 15 * 2 = 30 cats.
+5) Adding up the dogs and cats:
+   - 30 dogs + 20 dogs = 50 dogs
+   - 30 cats
+6) The total number of dogs and cats is 50 dogs + 30 cats = 80.
+
+Answer: 80

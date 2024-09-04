@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+Jim starts with $80 in his investment portfolio.
+
+After 1 year, his portfolio grows by 15%, so his new portfolio value is:
+
+80 + (80 x 0.15) = 92
+
+Then, he adds another $28 to his portfolio, so his new portfolio value is:
+
+92 + 28 = 120
+
+After 1 more year, the combined portfolio grows by 10%. So, we multiply the new portfolio value by 1.1 (which is the same as multiplying by 110%):
+
+120 x 1.1 = 132
+
+So, his final portfolio value after 2 years is:
+
+Answer: 132

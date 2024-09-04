@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say the age of the tree is x.  Then, the height of the tree is 5x.
+
+We know that the tree gains 3 feet per year, so the height of the tree after 1 year is 5 + 3 = 8 feet.  Then, after 2 years, the height is 8 + 3 = 11 feet, after 3 years, the height is 11 + 3 = 14 feet, and so on.
+
+We know that the tree is 23 feet tall when it is 23 years old.  We can set up an equation to solve for x:
+
+5x = 23
+
+To solve for x, we can divide both sides by 5:
+
+x = 23 / 5 = 4.6
+
+So, the tree is 4.6 years old when it is 23 feet tall.
+
+Answer: 4

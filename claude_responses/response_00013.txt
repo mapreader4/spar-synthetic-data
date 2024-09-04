@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jasper buys 2 pounds of cheddar cheese for $10
+* The cost of the cheddar cheese is $10 for 2 pounds, so the cost per pound of cheddar cheese is $10 / 2 = $5 per pound
+* Jasper also buys a pound of cream cheese that costs half the price of the cheddar cheese
+* The cost of the cream cheese is half the price of the cheddar cheese, which is $5 / 2 = $2.50 per pound
+* Jasper also buys a pack of cold cuts that costs twice the price of the cheddar cheese
+* The cost of the pack of cold cuts is twice the price of the cheddar cheese, which is $5 * 2 = $10
+
+Now, let's calculate the total cost:
+* Cost of 2 pounds of cheddar cheese: $10
+* Cost of 1 pound of cream cheese: $2.50
+* Cost of 1 pack of cold cuts: $10
+* Total cost = $10 + $2.50 + $10 = $22.50
+
+Answer: 23

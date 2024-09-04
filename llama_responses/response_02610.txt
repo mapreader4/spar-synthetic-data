@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. The farmer has 46 chickens.
+2. Each chicken gives him 6 eggs a week.
+3. So, in 8 weeks, the farmer will get 6 * 8 = 48 eggs from his 46 chickens.
+4. If he sells a dozen eggs for $3, then he will get 48 / 12 = 4 times for each dozen eggs.
+5. So, he will get 4 * 4 = 16 times for 48 eggs.
+6. The answer is 16 * 3 = 48.
+
+Answer: 48

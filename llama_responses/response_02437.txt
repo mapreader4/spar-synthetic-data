@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Emma starts with 100 dollars in her account. Each day, she spends 8 dollars, so after 7 days, she would have spent a total of 7 * 8 = 56 dollars. 
+
+So, subtract 56 from 100, we get:
+
+100 - 56 = 44
+
+Answer: 44

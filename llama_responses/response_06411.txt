@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Let's start by identifying the given information:
+
+* For each earring, Rebecca uses 2 magnets.
+* For each earring, Rebecca uses half as many buttons as magnets, so for each earring, she uses 1 button.
+* For each earring, Rebecca uses three times as many gemstones as buttons, so for each earring, she uses 3 buttons.
+* Rebecca wants to make 4 sets of earrings.
+
+Let's start by finding the total number of buttons used in each earring:
+
+* For each earring, Rebecca uses 1 button.
+* For 4 earrings, she needs 4 x 1 = 4 buttons.
+* Now, let's find the total number of gemstones used in each earring:
+* For each earring, Rebecca uses 3 buttons.
+* For 4 earrings, she needs 4 x 3 = 12 buttons.
+
+Now, let's find the total number of gemstones needed:
+* Rebecca needs 12 buttons for the buttons and 12 buttons for the gemstones, so she needs a total of 12 + 12 = 24 buttons.
+
+Answer: 24

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: Identify the information given in the problem.
+- The problem states that Emberly takes her morning walks every day.
+- The problem also states that each walk takes her 1 hour covering 4 miles.
+
+Step 2: Calculate the total number of miles walked.
+- Emberly walks every day, which means she takes 7 days walks in a week (assuming a 7-day week).
+- Each walk takes her 1 hour covering 4 miles, which means she walks 4 miles in 1 hour.
+- Multiply the number of walks by the number of hours in a day, which is 7, to get the total number of miles walked in a week.
+- 7 * 4 = 28
+
+Answer: 28

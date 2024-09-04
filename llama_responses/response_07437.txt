@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total amount of money they earned: $5 each for 100 single pieces, $10 each for 45 double pieces, and $15 each for 50 triple pieces. We can add these amounts together to get:
+
+$5 * 100 + $10 * 45 + $15 * 50 = $500 + $750 + $750 = $2000
+
+Since each quadruple piece costs 4 cents, we can divide the total amount of money earned by 4 to find the number of quadruple pieces sold:
+
+$2000 / 4 = 500
+
+Answer: 500

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Lolita has 54,000 strawberry seeds.
+2) In each planting zone, 3,123 seeds will be used.
+3) She will accumulate 7 planting zones.
+4) To calculate the total number of seeds used, we multiply the number of seeds used per zone (3,123) by the number of zones (7):
+3,123 x 7 = 21,861 seeds used
+5) To calculate the number of seeds remaining, we subtract the total seeds used from the initial number of seeds:
+54,000 - 21,861 = 32,139 seeds remaining
+
+Answer: 32,139

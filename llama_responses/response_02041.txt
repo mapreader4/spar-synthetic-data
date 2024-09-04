@@ -1,0 +1,40 @@
+Let's break this problem down step by step.
+
+First, let's find the volume of the sandbox in cubic feet:
+
+Length: 5 feet
+Width: 4 feet
+Depth: 2 feet
+Volume = Length x Width x Depth = 5 x 4 x 2 = 40 cubic feet
+
+Since a cubic foot of sand weighs 3 pounds, the total weight of the sand is:
+
+40 cubic feet x 3 pounds/cubic foot = 120 pounds
+
+Tony has 2 pounds of sand initially, and he wants to know how many trips he needs to make to get the rest of the sand. He has 120 pounds of sand needed and 2 pounds already, so he needs:
+
+120 - 2 = 118 pounds more
+
+Since each trip he takes, he drinks 3 ounces of water and gets 15 ounces of water in a bottle, he will need:
+
+118 pounds / 3 pounds per trip = 39.33 trips
+
+He will need 39 trips to get the rest of the sand. Since he drinks 3 ounces of water every 4 trips, he will drink:
+
+39 trips / 4 = 9.75 trips, but since you can't make a fraction of a trip, he will need to round up to the nearest whole number, so he will drink 10 times.
+
+10 trips x 3 ounces = 30 ounces of water
+
+Since a 15-ounce bottle of water costs $2, he will need:
+
+30 ounces / 15 ounces per bottle = 2 bottles of water
+
+He will need 2 bottles of water, which will cost:
+
+2 bottles x $2 per bottle = $4
+
+He has $10 initially, and he will spend $4 on water, so he will have:
+
+$10 - $4 = $6
+
+Tony will have $6 after buying all the water he needs.

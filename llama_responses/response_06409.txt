@@ -1,0 +1,9 @@
+Let's start by finding the number of black socks. Since James has half as many black socks as red socks, and he has 20 pairs of red socks, then the number of black socks is half of 20, which is 10.
+
+The total number of red and black socks is 20 + 10 = 30.
+
+The number of white socks is twice as many as red and black combined, so the number of white socks is 2 * 30 = 60.
+
+The total number of socks is the sum of the red, black, and white socks, which is 20 + 10 + 60 = 90.
+
+Answer: 90

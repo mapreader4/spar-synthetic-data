@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jackson is currently 20 years old
+* Mandy is 10 years older than Jackson, so Mandy is currently 30 years old
+* Adele is 3/4 as old as Jackson, so Adele is currently 15 years old (3/4 * 20 = 15)
+* We want to find the total of their ages 10 years from now
+
+In 10 years:
+* Jackson will be 20 + 10 = 30 years old
+* Mandy will be 30 + 10 = 40 years old
+* Adele will be 15 + 10 = 25 years old
+
+The total of their ages 10 years from now will be:
+* 30 + 40 + 25 = 95
+
+Answer: 95

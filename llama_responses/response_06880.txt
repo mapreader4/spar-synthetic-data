@@ -1,0 +1,7 @@
+Let's start by identifying the number of mosquito bites Cyrus got: 14 + 10 = 24.
+
+The rest of Cyrus' family got half of this number, which is 24 / 2 = 12.
+
+Since there are 6 members in the family, to find out how many mosquito bites each member got, we can divide the total number of bites they got by the number of family members: 12 / 6 = 2.
+
+Answer: 2

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Josephine sold milk in three containers, each with 2 liters of milk
+* So for the three 2-liter containers, the total amount of milk sold is:
+  * 3 containers x 2 liters per container = 6 liters
+* Josephine also sold milk in two containers, each with 0.75 liters of milk
+* So for the two 0.75-liter containers, the total amount of milk sold is:
+  * 2 containers x 0.75 liters per container = 1.5 liters
+* Lastly, Josephine sold milk in five containers, each with 0.5 liters of milk
+* So for the five 0.5-liter containers, the total amount of milk sold is:
+  * 5 containers x 0.5 liters per container = 2.5 liters
+* To calculate the total amount of milk sold, we add up the amounts from each set of containers:
+  * 6 liters + 1.5 liters + 2.5 liters = 10 liters
+
+Answer: 10 liters

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start with the number of cards Robie had in the beginning. Let's call this number x.
+
+Since Robie gave away 2 boxes, he must have had 2 x 10 = 20 cards in the boxes that he gave away. He has 5 boxes with him, so the number of cards he has with him is 5 x 10 = 50. Therefore, the total number of cards Robie had in the beginning is x - (20 + 50) = x - 70.
+
+Answer: 70

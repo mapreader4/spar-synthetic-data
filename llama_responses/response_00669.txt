@@ -1,0 +1,23 @@
+Let's break it down step by step.
+
+Bella has 2 times as many marbles as frisbees. So, let's assume she has x frisbees. Then, she has 2x frisbees.
+
+She also has 20 more frisbees than deck cards. So, she has 20 more than x. So, she has x + 20 frisbees.
+
+She buys 2/5 times more of each item. So, she buys 2/5 times x frisbees, and 2/5 times x deck cards.
+
+Let's multiply 2/5 times x to find out how many frisbees and deck cards she buys. 2/5 times x is the same as 2/5 * x, which is 2x/5.
+
+So, she buys 2x/5 frisbees and 2x/5 deck cards.
+
+She currently has 2x frisbees. She buys 2x/5 frisbees, which is the same as 4x/5 frisbees. So, she now has 2x + 4x/5 = 6x/5 frisbees.
+
+She also has x + 20 frisbees. She buys 2x/5 deck cards, which is the same as 4x/5 deck cards. So, she now has x + 4x/5 = 5x/5 deck cards.
+
+In total, she has 6x/5 frisbees and 5x/5 deck cards. Let's simplify the fraction by dividing both by 5. 6x/5 = 6x and 5x/5 = 5.
+
+So, the total number of items she will have is 6x + 5. Since she has 60 marbles, we can set up the equation 6x + 5 = 60. To solve for x, we can subtract 5 from both sides, which gives us 6x = 55.
+
+So, x = 55.
+
+Answer: 55

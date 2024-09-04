@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Charlie can make 5350 steps while running on a 3-kilometer running field.
+2) This means that for every 3 kilometers he runs, he makes 5350 steps.
+3) During the running session, he runs around the field 2 1/2 times.
+4) This means he runs a total distance of 2.5 * 3 = 7.5 kilometers.
+5) Since he makes 5350 steps for every 3 kilometers, for 7.5 kilometers he will make:
+(7.5 / 3) * 5350 = 13375 steps.
+
+Answer: 13375

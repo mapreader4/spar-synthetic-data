@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* There are 270 hens and 3 roosters in the chicken coop
+* Each hen lays 1 egg every morning
+* Ms. Mosel collects the eggs for 1 hour every morning
+* She then puts the eggs in boxes of 6
+* This takes her another 40 minutes
+* She does this every day, from Monday to Sunday
+
+First, let's calculate the total number of eggs collected each day:
+* 270 hens x 1 egg per hen = 270 eggs per day
+
+Next, let's calculate how many boxes she fills each day:
+* 270 eggs per day / 6 eggs per box = 45 boxes per day
+
+Finally, to calculate the total number of boxes filled each week:
+* 45 boxes per day x 7 days per week = 315 boxes per week
+
+Answer: 315

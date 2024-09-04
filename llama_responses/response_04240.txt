@@ -1,0 +1,16 @@
+Let's break it down step by step.
+
+Let's start by identifying the information given:
+
+1. Diane turns 30, so we know that 2 * Diane's current age is 30.
+2. Since Diane is 16 years old now, we know that 2 * Diane's current age is 2 * 16 = 32.
+3. Since Diane is half the age of Alex, we know that Alex's current age is 2 * Diane's current age = 2 * 16 = 32.
+4. Since Diane is twice as old as Allison, we know that Allison's current age is 2 * Diane's current age = 2 * 16 = 32.
+
+Now, let's add the ages of Alex and Allison together.
+
+Alex's age is 32 and Allison's age is also 32. The sum of their ages is:
+
+32 + 32 = 64.
+
+Answer: 64

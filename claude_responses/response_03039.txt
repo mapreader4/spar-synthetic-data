@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The company has 3 units of machinery that require a running current of 40A each.
+2) The machinery requires at least twice their running current for starting.
+3) The transformer must be able to handle the maximum current load.
+4) To calculate the maximum current load, we need to find the total running current and the total starting current.
+5) The total running current is 3 * 40A = 120A.
+6) The total starting current is 3 * (2 * 40A) = 3 * 80A = 240A.
+7) The transformer must be able to carry the maximum current load, which is the total starting current of 240A.
+
+Answer: 240

@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+The tank is leaking at a rate of 1.5 ounces per hour. To find the total amount of fluid that will leak over 12 hours, we can multiply the rate by the time:
+
+1.5 ounces/hour x 12 hours =?
+
+To multiply these numbers, we can multiply the numbers first and then the units:
+
+1.5 x 12 = 18
+
+So, the total amount of fluid that will leak over 12 hours is 18 ounces.
+
+Since Kevin wants to collect twice the amount of fluid that will leak over 12 hours, we need to multiply the total amount by 2:
+
+18 ounces x 2 =?
+
+Again, we can multiply the numbers first and then the units:
+
+18 x 2 = 36
+
+So, Kevin used a bucket that can hold 36 ounces of fluid.
+
+Answer: 36

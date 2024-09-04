@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Jackson's oldest son gets 4 cookies after school
+* Jackson's youngest son gets 2 cookies after school
+* There are 54 cookies in the box
+
+To find out how many days the box will last, we need to calculate the total number of cookies consumed per day.
+
+The total number of cookies consumed per day is:
+* Oldest son: 4 cookies
+* Youngest son: 2 cookies
+* Total cookies consumed per day: 4 + 2 = 6 cookies
+
+Now, we can divide the total number of cookies in the box (54) by the number of cookies consumed per day (6) to find out how many days the box will last.
+
+Answer: 54 / 6 = 9 days

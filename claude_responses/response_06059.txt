@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Kyle delivers papers to 100 houses every day from Monday through Saturday.
+* That's 6 days a week (Monday through Saturday).
+* So for the 6 days, he delivers 100 papers per day, which is 100 x 6 = 600 papers.
+* On Sunday, 10 of his customers do not get the Sunday paper.
+* However, he delivers 30 papers to other houses that get the newspaper only on Sunday.
+* So on Sunday, he delivers 100 - 10 + 30 = 120 papers.
+* To calculate the total number of papers he delivers each week, we add the 600 papers from Monday through Saturday and the 120 papers on Sunday.
+* 600 + 120 = 720 papers.
+
+Answer: 720

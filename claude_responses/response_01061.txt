@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* John Smith buys 3 cakes
+* Each cake costs $12
+* So the total cost of the 3 cakes is:
+    - 3 cakes x $12 per cake = $36
+* John Smith splits the cost with his brother
+* To find how much John Smith paid, we divide the total cost by 2:
+    - $36 / 2 = $18
+
+Answer: $18

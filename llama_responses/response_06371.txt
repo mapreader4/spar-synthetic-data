@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. First, let's calculate the profit per day. Marie sells 40 loaves of bread for $2 each, which is a total of 40 x 2 = $80. She also sells 6 cakes for $12 each, which is a total of 6 x 12 = $72. The total daily profit is the sum of these two amounts: 80 + 72 = $152.
+
+2. Marie has to pay $20 for rent and $2 for electricity each day, so her total daily expenses are 20 + 2 = $22. To find her daily profit, we subtract her expenses from her daily revenue: 152 - 22 = $130.
+
+3. To find out how many days it will take her to pay for the cash register, we divide the cost of the register ($1040) by her daily profit ($130): 1040 / 130 = 8.
+
+Answer: 8

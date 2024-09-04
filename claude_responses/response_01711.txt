@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+
+1. The waterpark charges $30 for admission.
+2. Kids' tickets are half price, so they cost $15 each.
+3. If a group brings a soda, they can get 20% off the total price of admission.
+4. Janet gets tickets for 10 people, and 4 of them are children.
+5. The total cost of admission for the 10 people would be:
+   * 6 adult tickets at $30 each = $180
+   * 4 child tickets at $15 each = $60
+   * Total admission cost = $180 + $60 = $240
+6. Since Janet brings a soda for $5, she gets a 20% discount on the total admission cost.
+   * 20% of $240 = $48
+   * Discounted admission cost = $240 - $48 = $192
+7. The total cost Janet paid is the discounted admission cost ($192) plus the cost of the soda ($5).
+
+Answer: $197

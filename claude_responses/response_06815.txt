@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) There are 4 tiger enclosures, and each enclosure holds 4 tigers.
+2) So the total number of tigers in the zoo is 4 enclosures * 4 tigers per enclosure = 16 tigers.
+3) Behind each of the 4 tiger enclosures, there are 2 zebra enclosures.
+4) So there are 4 * 2 = 8 zebra enclosures.
+5) Each zebra enclosure holds 10 zebras.
+6) So the total number of zebras in the zoo is 8 enclosures * 10 zebras per enclosure = 80 zebras.
+7) There are three times as many giraffe enclosures as zebra enclosures.
+8) So there are 8 * 3 = 24 giraffe enclosures.
+9) Each giraffe enclosure holds 2 giraffes.
+10) So the total number of giraffes in the zoo is 24 enclosures * 2 giraffes per enclosure = 48 giraffes.
+11) Adding up the total number of animals:
+16 tigers + 80 zebras + 48 giraffes = 144 animals.
+
+Answer: 144

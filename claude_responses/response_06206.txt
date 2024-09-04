@@ -1,0 +1,22 @@
+Okay, let's break this down step by step:
+
+1. The computer table costs $140, and Frank agreed to pay for this.
+2. The computer chair costs $100, and Eman agreed to pay for this.
+3. The joystick costs $20, and Frank agreed to pay 1/4 of the price, which is $5. The remaining $15 will be paid by Eman.
+
+Now, let's calculate the total amount that Frank and Eman will spend:
+
+Frank's total:
+* Computer table: $140
+* 1/4 of the joystick: $5
+* Total: $140 + $5 = $145
+
+Eman's total:
+* Computer chair: $100
+* 3/4 of the joystick: $15
+* Total: $100 + $15 = $115
+
+The difference between what Frank and Eman will spend is:
+* Frank's total - Eman's total = $145 - $115 = $30
+
+Answer: $30

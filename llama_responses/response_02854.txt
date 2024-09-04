@@ -1,0 +1,7 @@
+Let's break this problem down step by step:
+
+1. Javier exercises for 50 minutes every day for one week, so he exercises for 50 * 7 = 350 minutes.
+2. Sanda exercises for 90 minutes on each of three days, so she exercises for 90 * 3 = 270 minutes.
+3. To find the total minutes Javier and Sanda exercised, we add the minutes they exercised: 350 + 270 = 620.
+
+Answer: 620

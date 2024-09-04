@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Maddy is in college for 8 semesters
+* She needs 120 credits to graduate
+* Each class is 3 credits
+
+To find the number of classes she needs to take per semester, we need to:
+1. Calculate the total number of credits she needs to take
+2. Divide the total credits by the number of credits per class to get the total number of classes
+3. Divide the total number of classes by the number of semesters to get the number of classes per semester
+
+Step 1: Calculate the total number of credits
+* Total credits needed = 120
+
+Step 2: Calculate the total number of classes
+* Total classes = Total credits / Credits per class
+* Total classes = 120 / 3 = 40
+
+Step 3: Calculate the number of classes per semester
+* Classes per semester = Total classes / Number of semesters
+* Classes per semester = 40 / 8 = 5
+
+Answer: 5

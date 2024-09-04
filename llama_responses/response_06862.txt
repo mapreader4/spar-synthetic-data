@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the total revenue from the concert. The total revenue is the number of people who attended the concert, multiplied by the price of each ticket. So, the total revenue is 500 * 30 = 15000.
+
+Now, the band gets 70% of the revenue. So, the band gets 0.7 * 15000 = 10500.
+
+Now, there are 4 members of the band. So, we need to divide the total revenue the band gets by the number of band members to find out how much each band member gets. So, 10500 / 4 = 2625.
+
+Answer: 2625

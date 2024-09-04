@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jorge has 60 acres of property
+* 1/3 of the 60 acres is clay-rich soil, which means 2/3 of the 60 acres is good soil
+* Corn grown on good soil yields 400 bushels per acre
+* Corn grown on clay-rich soil yields half as much per acre as in good soil, which is 200 bushels per acre
+
+Now, let's calculate the total yield:
+* Good soil: 2/3 of 60 acres = 40 acres
+* Yield on good soil: 40 acres x 400 bushels/acre = 16,000 bushels
+* Clay-rich soil: 1/3 of 60 acres = 20 acres
+* Yield on clay-rich soil: 20 acres x 200 bushels/acre = 4,000 bushels
+* Total yield: 16,000 bushels + 4,000 bushels = 20,000 bushels
+
+Answer: 20,000 bushels

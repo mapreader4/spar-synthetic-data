@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the number of patients John sees in a week. He sees 20 patients at the first hospital each day, and 20% more patients at the second hospital each day. 20 + 20 = 40 patients. 5 days a week, so he sees 40 * 5 = 200 patients in a week.
+
+Now, let's find the number of patients John sees in a year. He works 50 weeks a year, and sees 200 patients in a week. 200 * 50 = 10,000 patients in a year.
+
+Answer: 10,000

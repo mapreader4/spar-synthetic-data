@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+
+1. James buys a weight vest for $250.
+2. He then buys 200 pounds of weight plates for $1.2 per pound.
+   * Cost of weight plates = 200 pounds x $1.2 per pound = $240
+3. A 200-pound weight vest would cost $700, but there is a $100 discount.
+   * Cost of 200-pound weight vest = $700 - $100 = $600
+4. To calculate the amount James saves with his vest:
+   * Cost of James' vest = $250 + $240 = $490
+   * Cost of 200-pound weight vest = $600
+   * Amount saved = $600 - $490 = $110
+
+Answer: $110

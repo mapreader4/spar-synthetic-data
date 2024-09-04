@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 4 members in the household
+* Each member consumes 3 slices of bread during breakfast
+* Each member consumes 2 slices of bread for snacks
+* So, the total number of slices of bread consumed per day is:
+    - Breakfast: 4 members x 3 slices = 12 slices
+    - Snacks: 4 members x 2 slices = 8 slices
+    - Total per day: 12 + 8 = 20 slices
+* A loaf of bread has 12 slices
+* There are 5 loaves of bread
+* So, the total number of slices of bread available is: 5 loaves x 12 slices/loaf = 60 slices
+* To find how many days the 5 loaves will last, we divide the total number of slices by the number of slices consumed per day:
+    - 60 slices / 20 slices per day = 3 days
+
+Answer: 3 days

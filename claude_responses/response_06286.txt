@@ -1,0 +1,9 @@
+Okay, let's solve this step-by-step:
+1) The queen starts with 12,500 bees.
+2) Every day, 3,000 new bees hatch from the queen's eggs.
+3) Every day, the queen loses 900 bees.
+4) So, the net increase in bees per day is 3,000 - 900 = 2,100.
+5) Over 7 days, the total increase in bees is 7 * 2,100 = 14,700.
+6) Adding the initial 12,500 bees, the total number of bees in the hive at the end of 7 days is 12,500 + 14,700 = 27,200.
+
+Answer: 27,200

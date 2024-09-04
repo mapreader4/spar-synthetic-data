@@ -1,0 +1,15 @@
+To solve this problem, we need to find the time it took for the group of alligators to walk from the Nile Delta to their home at the River Nile, and then add it to the time it took Paul to walk from his home to the Nile Delta.
+
+Given information:
+- It took Paul 4 hours to walk from his home at the River Nile to the Nile Delta.
+- On the return journey, Paul traveled with six other alligators, and the journey took 2 more hours than Paul's initial journey.
+
+Step 1: Find the time it took the group of alligators to walk from the Nile Delta to their home at the River Nile.
+Time taken for the return journey = Time taken by Paul + 2 hours
+Time taken for the return journey = 4 hours + 2 hours = 6 hours
+
+Step 2: Calculate the combined time the alligators walked.
+Combined time = Time taken by Paul to walk to the Nile Delta + Time taken by the group to walk back to the River Nile
+Combined time = 4 hours + 6 hours = 10 hours
+
+Answer: 10 hours

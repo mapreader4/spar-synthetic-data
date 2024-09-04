@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Mike and John each ordered the Taco Grande Plate as their main meal
+* Mike also ordered:
+    - A side salad for $2
+    - A plate of cheesy fries for $4
+    - A diet cola for $2
+* Mike's total bill was twice as large as John's bill
+* Let's call the cost of the Taco Grande Plate 'x'
+* Mike's bill = x + $2 + $4 + $2 = 2x
+* John's bill = x
+* The combined total cost of Mike and John's lunch = 2x + x = 3x
+
+Now, we need to find the value of 'x' to determine the combined total cost.
+* Since Mike's bill was twice as large as John's bill, we can say:
+    2x = 2 * x
+    2x = 2x
+    Therefore, x = $10
+
+Now we can calculate the combined total cost:
+* Combined total cost = 3x = 3 * $10 = $30
+
+Answer: $30

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of fleas each chicken has:
+
+* Gertrude has 10 fleas.
+* Maud has 5 times the amount of fleas as Olive, so Maud has 5 * 10 = 50 fleas.
+* Olive has half the amount of fleas as Gertrude, so Olive has 10 / 2 = 5 fleas.
+
+Now, let's add up the total number of fleas:
+
+10 (Gertrude) + 50 (Maud) + 5 (Olive) = 65
+
+Answer: 65

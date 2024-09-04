@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Janet reads 80 pages a day.
+* Belinda reads 30 pages a day.
+* We want to find out how many pages Janet reads in 6 weeks.
+
+To find the number of pages Janet reads in 6 weeks, we can multiply the number of pages Janet reads in a day by the number of days in 6 weeks.
+
+There are 7 days in a week, so there are 7 * 6 = 42 days in 6 weeks.
+
+Now, let's multiply the number of pages Janet reads in a day by the number of days in 6 weeks:
+
+80 pages per day * 42 days = 80 * 42 = 3360
+
+So, Janet reads 3360 pages in 6 weeks.
+
+Answer: 3360

@@ -1,0 +1,37 @@
+Let's break down the information given in the problem step by step.
+
+Sam went for a run in the morning. The distance of the run is unknown.
+
+In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning. This means that the distance of the run is 2x the distance he walked in the store.
+
+The distance he walked through the store is not given, so we don't know how much that is. So, let's call it x.
+
+So, the total distance walked in the store is 2x.
+
+He went on a bike ride with his family and biked for 12 miles. This distance is not related to the morning run, so we don't need to consider it.
+
+The total distance Sam went that day is the sum of the morning run and the distance walked in the store. This is 18 miles.
+
+Let's call the distance of the run r. We can write an equation to represent this:
+
+r + 2x = 18
+
+We know that 2x is the distance walked in the store, which is 2 times the distance of the run. So, we can substitute 2x with 2r.
+
+r + 2(2r) = 18
+
+This is a linear equation. We can solve for r.
+
+r + 2r = 18
+
+To solve for r, we can subtract 2r from both sides of the equation:
+
+r = 18 - 2r
+
+r = 18 - 2r
+
+r = 18/3
+
+r = 6
+
+Answer: 6

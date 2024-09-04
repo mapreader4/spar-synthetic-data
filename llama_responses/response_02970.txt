@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Marlon had 30 female baby bunnies initially.
+2. After 4 months, the bunnies matured and gave birth to more bunnies. Let's calculate the number of bunnies that matured in 4 months. 2/5 of the original 30 bunnies is 12, since 2/5 of 30 is 12. So, 30 - 12 = 18 bunnies matured in 4 months. So, the total number of bunnies that matured is 30 + 18 = 48.
+3. Now, after 3 more months, the bunnies that were born in the previous step, conceived and gave birth to 2 kittens each. Let's calculate the total number of kittens. 48 bunnies gave birth to 2 kittens each, so 48 * 2 = 96 kittens. 48 + 96 = 144.
+4. Now, Marlon has 30 (initial) + 48 (bunnies that matured) + 144 (kittens) = 222 bunnies in his hutch.
+
+Answer: 222

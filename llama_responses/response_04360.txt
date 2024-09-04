@@ -1,0 +1,30 @@
+Let's break this problem down step by step.
+
+Let's start by using variables to represent the prices of each item:
+
+* Let's say the price of the cheese is x.
+* The price of the butter is 80% of the price of the cheese, so it is 0.8x.
+* The price of the bread is 2 times cheaper than the butter, so it is 0.5x.
+* The price of the tea is twice the price of the cheese, so it is 2x.
+
+We know that the price of the tea is $10, so we can write an equation to represent the total cost of Ursula's purchases:
+
+0.5x + 0.8x + x + 2x = 10
+
+To solve for x, we can subtract 0.5x and 0.8x from both sides of the equation, leaving us with:
+
+x + x = 10 - 0.5x - 0.8x
+
+We can then combine like terms on the right side of the equation:
+
+x = 10 - 0.3x
+
+We can then subtract 0.3x from both sides of the equation to get:
+
+x = 10 - 0.3x
+
+To solve for x, we can add 0.3x to both sides of the equation:
+
+x = 10
+
+So, the price of the cheese is $10.

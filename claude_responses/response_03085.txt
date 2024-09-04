@@ -1,0 +1,27 @@
+Okay, let's break this down step-by-step:
+* Caden has 4 jars of coins: 1 jar of pennies, 1 jar of nickels, 1 jar of dimes, and 1 jar of quarters
+* He has twice as many quarters as he does dimes
+* He has five times as many nickels as he does dimes
+* He has three times as many pennies as he does nickels
+* He has 120 pennies
+
+First, let's find the number of nickels:
+* He has 3 times as many pennies as nickels
+* So, if he has 120 pennies, then he has 120 / 3 = 40 nickels
+
+Next, let's find the number of dimes:
+* He has 5 times as many nickels as dimes
+* So, if he has 40 nickels, then he has 40 / 5 = 8 dimes
+
+Now, let's find the number of quarters:
+* He has twice as many quarters as dimes
+* So, if he has 8 dimes, then he has 8 * 2 = 16 quarters
+
+Now, let's calculate the total value of his coins:
+* 120 pennies = $1.20
+* 40 nickels = $2.00
+* 8 dimes = $0.80
+* 16 quarters = $4.00
+* Total = $1.20 + $2.00 + $0.80 + $4.00 = $8.00
+
+Answer: $8.00

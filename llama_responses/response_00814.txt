@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Sean buys an almond croissant and a salami and cheese croissant for $4.50 each.  This will cost 2 x 4.50 = 9.00.
+
+He also buys a plain croissant for $3.00.
+
+He also buys a loaf of focaccia for $4.00.
+
+Finally, he buys 2 lattes for $2.50 each.
+
+So, let's add up the cost of all the items:
+
+9.00 + 3.00 + 4.00 + 2 x 2.50 = 9.00 + 3.00 + 5.00 = 17.00
+
+Sean spent a total of 17.00 dollars.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. Section A has 1 subsection with 60 seats and 3 subsections with 80 seats each.
+   - Total seats in Section A = 60 + (3 * 80) = 60 + 240 = 300 seats
+
+2. Section B has 20 more seats than 3 times as many seats as Section A has total.
+   - 3 times the total seats in Section A = 3 * 300 = 900 seats
+   - Section B has 20 more seats than 900 seats
+   - So, Section B has 900 + 20 = 920 seats
+
+Answer: 920

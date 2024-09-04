@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+We know that there are 10 rows of 15 chairs each. The first 3 rows are reserved, leaving 10 - 3 = 7 rows for students.
+
+The number of seats reserved for students is 7 * 15 = 105.
+
+Since only 4/5 of the seats are occupied, we need to find 1/5 of 105, which is 21. So, 21 seats are occupied.
+
+The number of vacant seats for students is 105 - 21 = 84.
+
+The last 2 rows are reserved for parents. The total number of seats reserved for parents is 2 * 15 = 30.
+
+Since we need to give the vacant seats from the students to the parents, we subtract the number of seats reserved for parents from the vacant seats for students:
+
+84 - 30 = 54
+
+Answer: 54

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Mandy started reading books with 8 pages when she was 6 years old.
+
+When she was twice that age, she was reading books 5 times longer. Since she was 6 years old when she started, 2 * 6 = 12 years old when she was reading books 5 times longer. So, she was reading books 5 * 8 = 40 pages.
+
+8 years later, she was reading books 3 times longer than that. 8 + 3 = 11. 40 * 3 = 120 pages.
+
+Presently, she reads books 4 times the previous length. 120 * 4 = 480 pages.
+
+Answer: 480

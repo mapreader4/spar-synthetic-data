@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say that the woodworker has made 40 legs in total. We know that each table has 4 legs, and each chair has 4 legs. 
+
+If they have used 6 chairs, that means they have used 6 x 4 = 24 legs for the chairs. 
+
+So, they have used 24 legs for the chairs. 
+
+Now, to find the number of tables, we can subtract the number of legs used for the chairs from the total number of legs made. 
+
+40 - 24 = 16
+
+Answer: 16

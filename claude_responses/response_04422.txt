@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* The cost of one iPhone X is $600
+* The seller is offering a 5% discount for customers who buy at least 2 smartphones at once
+* Melinda, Zoe and Joel each want to buy an iPhone X
+* If they buy the 3 iPhones individually, the total cost would be:
+  - 3 x $600 = $1,800
+* If they buy the 3 iPhones together, they would get a 5% discount:
+  - The discounted price per iPhone X is $600 - (5% of $600) = $600 - $30 = $570
+  - The total cost for 3 iPhones with the 5% discount is 3 x $570 = $1,710
+* The amount they can save by buying the 3 iPhones together is:
+  - $1,800 - $1,710 = $90
+
+Answer: $90

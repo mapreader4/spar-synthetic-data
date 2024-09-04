@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Step 1: Find the number of S'mores that 8 people will eat. There are 8 people, and each person will eat 3 S'mores. So, the total number of S'mores is:
+
+8 x 3 = 24
+
+So, 24 S'mores will be eaten.
+
+Step 2: Find the cost of supplies for 4 S'mores. It costs $3 to make 4 S'mores, so the cost of supplies for 1 S'mores is:
+
+$3 ÷ 4 = $0.75
+
+Step 3: Since we need to find the cost of supplies for 24 S'mores, we need to multiply the cost of supplies for 1 S'mores by the number of S'mores. So, the total cost is:
+
+24 x $0.75 = $18
+
+Answer: 18

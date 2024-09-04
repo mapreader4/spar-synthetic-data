@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 35 children in Janet's class
+* There are 5 volunteer chaperones
+* Janet herself is also getting a sack lunch
+* So the total number of people getting sack lunches is 35 + 5 + 1 = 41
+* Janet also ordered 3 additional sack lunches, just in case
+* So the total number of sack lunches ordered is 41 + 3 = 44
+* Each sack lunch costs $7
+* To calculate the total cost, we multiply the number of sack lunches (44) by the cost per sack lunch ($7)
+* 44 * $7 = $308
+
+Answer: $308

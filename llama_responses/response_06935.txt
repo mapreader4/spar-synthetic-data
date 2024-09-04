@@ -1,0 +1,5 @@
+To find the total number of kilowatts consumed, we need to multiply the number of hours the air conditioner runs per day by the number of days it runs per day.
+
+The air conditioner runs for 6 hours per day, and it runs for 5 days, so the total number of hours it runs is 6 * 5 = 30 hours.
+
+The air conditioner consumes 7.2 kilowatts per hour, so the total number of kilowatts consumed is 7.2 * 30 = 216 kilowatts.

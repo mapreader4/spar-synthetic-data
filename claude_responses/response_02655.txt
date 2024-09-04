@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Trey used a nail for two-thirds of the wall decorations.
+2) He used a thumbtack for two-fifths of the remaining one-third of the decorations.
+3) He used a sticky strip for the other decorations.
+4) We know that he used 15 sticky strips.
+5) Let's call the total number of wall decorations 'x'.
+6) Two-thirds of 'x' were hung with nails, so the number of nails used is (2/3)x.
+7) The remaining one-third of 'x' is (1/3)x.
+8) Two-fifths of (1/3)x were hung with thumbtacks, so the number of thumbtacks used is (2/5)(1/3)x = (2/15)x.
+9) The remaining decorations were hung with sticky strips, which we know is 15.
+10) So the number of decorations hung with sticky strips is 15.
+11) The total number of decorations is the sum of the nails, thumbtacks, and sticky strips: (2/3)x + (2/15)x + 15 = x.
+12) Solving for x, we get x = 45.
+13) Therefore, the number of nails used is (2/3)x = (2/3)45 = 30.
+
+Answer: 30

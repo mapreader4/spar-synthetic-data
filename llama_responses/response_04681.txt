@@ -1,0 +1,22 @@
+Let's break this problem down step by step.
+
+Coby needs to travel from Washington to Idaho, which is 640 miles. Since he is traveling at a speed of 80 miles per hour, we can calculate the time it takes him to get to Idaho as follows:
+
+Time = Distance / Speed
+Time = 640 miles / 80 miles/hour
+Time = 8 hours
+
+So, it takes Coby 8 hours to get to Idaho.
+
+Next, Coby needs to travel from Idaho to Nevada, which is 550 miles. Since he is traveling at a speed of 50 miles per hour, we can calculate the time it takes him to get to Nevada as follows:
+
+Time = Distance / Speed
+Time = 550 miles / 50 miles/hour
+Time = 11 hours
+
+Since Coby is traveling at different speeds for each leg of his journey, we need to add the times together to find the total time it takes him to complete the trip:
+
+Total Time = 8 hours + 11 hours
+Total Time = 19 hours
+
+Answer: 19

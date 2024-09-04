@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+First, let's find the total time it takes to ride the lift and ski back down the mountain. This is the sum of the time it takes to ride the lift and the time it takes to ski back down:
+
+15 minutes (to ride the lift) + 5 minutes (to ski back down) = 20 minutes
+
+Since there are 60 minutes in an hour, we can convert the time it takes to ride the lift and ski back down to hours:
+
+20 minutes / 60 = 1/3 hour
+
+Now, let's find the number of times a person can ski down the mountain in 2 hours. We can divide the total time available (2 hours) by the time it takes to ride the lift and ski back down:
+
+2 hours / (1/3 hour) = 6
+
+So, the most number of times a person can ski down the mountain in 2 hours is:
+
+Answer: 6

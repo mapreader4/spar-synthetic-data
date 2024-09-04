@@ -1,0 +1,8 @@
+Okay, let's solve this step-by-step:
+1) The factory manufactures 300 gummy bears per minute.
+2) Each packet of gummy bears has 50 gummy bears inside.
+3) We need to find how long it would take to manufacture enough gummy bears to fill 240 packets.
+4) To fill 240 packets, we need 240 * 50 = 12,000 gummy bears.
+5) Since the factory produces 300 gummy bears per minute, it would take 12,000 / 300 = 40 minutes to produce 12,000 gummy bears.
+
+Answer: 40 minutes.

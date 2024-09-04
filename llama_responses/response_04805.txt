@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* There are 40 chess players on the island.
+* A quarter of the island's chess players have never lost to an AI.
+
+We can represent this information with a fraction: 1/4.
+
+Now, we need to find the number of chess players who have lost to an AI at least once. This is the total number of chess players minus the number of players who have never lost to an AI.
+
+So, let's subtract 1/4 from 40:
+
+40 - 1/4 = 40 - 10 = 30
+
+So, the number of people who have lost to a computer at least once is 30.
+
+Answer: 30

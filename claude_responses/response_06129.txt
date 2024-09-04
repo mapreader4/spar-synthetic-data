@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Scott has 7 pairs of shoes.
+2) Anthony has 3 times as many pairs of shoes as Scott. 
+   * So, Anthony has 3 x 7 = 21 pairs of shoes.
+3) Jim has 2 less pairs of shoes than Anthony.
+   * So, Jim has 21 - 2 = 19 pairs of shoes.
+4) To find how many more pairs of shoes Anthony has compared to Jim, we subtract Jim's pairs from Anthony's pairs.
+   * Anthony has 21 pairs, and Jim has 19 pairs.
+   * 21 - 19 = 2
+
+Answer: 2

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Initially, there were 28 students on the bus
+* After stopping at the intersection, there were 58 students on the bus
+* This means that 58 - 28 = 30 students entered the bus at the intermediate stop
+* We are asked to find 40% of the number of students who entered the bus at the intermediate stop
+* 40% of 30 is 0.4 * 30 = 12
+
+Answer: 12

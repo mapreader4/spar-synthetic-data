@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The water tower holds 1200 barrels of water and is filled to the top each week.
+* The first neighborhood uses 150 barrels of water in a week.
+* The second neighborhood uses twice as many barrels of water as the first neighborhood in a week, which is 2 * 150 = 300 barrels.
+* The third neighborhood uses one hundred more barrels of water than the second neighborhood in a week, which is 300 + 100 = 400 barrels.
+
+Now, to find the number of barrels left for the fourth neighborhood, we need to add up the total amount of water used by the first three neighborhoods and subtract that from the total capacity of the water tower:
+* Total water used by first 3 neighborhoods = 150 + 300 + 400 = 850 barrels
+* Barrels left for the fourth neighborhood = 1200 - 850 = 350 barrels
+
+Answer: 350

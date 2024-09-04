@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Hallie read 63 pages on the first day.
+
+On the second day, she read twice the number of pages she read on day one, which is 2 x 63 = 126 pages.
+
+On the third day, she read 10 more pages than she read on day two, which is 126 + 10 = 136 pages.
+
+So, the total number of pages she read in the first three days is:
+
+63 + 126 + 136 = 325 pages
+
+Since the book is 354 pages long, the number of pages she read on the fourth day is:
+
+354 - 325 = 29 pages
+
+Answer: 29

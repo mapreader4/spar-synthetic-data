@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Step 1: Calculate the perimeter of the garden.
+
+The garden is 225 feet long and 125 feet wide. To find the perimeter, we multiply the length and width of the garden: 225 * 2 + 125 * 2 = 450 + 225 + 125 = 900 feet.
+
+Step 2: Calculate the perimeter of the two gates.
+
+The smaller gate is 3 feet wide and the larger gate is 10 feet wide. To find the perimeter of the gates, we add the width of the two gates: 3 + 10 = 13 feet.
+
+Step 3: Calculate the total perimeter of the garden, including the gates.
+
+The total perimeter of the garden is 900 feet and the perimeter of the gates is 13 feet. To find the total perimeter, we add the two values: 900 + 13 = 913 feet.
+
+Answer: 913

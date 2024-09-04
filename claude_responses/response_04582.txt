@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Each box contains 10 cards
+* Robie has 5 boxes with him
+* He gave away 2 boxes to his friends
+* There were 5 cards that were not placed in a box
+
+First, let's calculate the number of cards in the 5 boxes he has with him:
+* 5 boxes x 10 cards per box = 50 cards
+
+Next, let's calculate the number of cards in the 2 boxes he gave away:
+* 2 boxes x 10 cards per box = 20 cards
+
+Finally, we add the 5 cards that were not placed in a box:
+* 50 cards + 20 cards + 5 cards = 75 cards
+
+Answer: 75

@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Winston starts with 10 gallons of gas in his car's gas tank.
+
+He uses 6 gallons of gas to drive to the store.
+
+So, he has 10 - 6 = 4 gallons of gas left in the tank.
+
+Then, he uses 2 gallons of gas to drive to the doctor's office.
+
+So, he has 4 - 2 = 2 gallons of gas left in the tank.
+
+The tank can hold up to 12 gallons of gas. To fill the tank, he needs 12 - 2 = 10 gallons of gas.
+
+Answer: 10

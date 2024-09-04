@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+George has been given a special $1 bill from his parents for his 15th birthday. Since his 15th birthday, he has had 25 - 15 = 10 birthdays. 
+
+For each of his 10 birthdays, he received 1 bill, so he has 10 x 1 = 10 bills.
+
+He spent 20% of his bills, so he spent 20% of 10 = 2 bills.
+
+Now, he has 10 - 2 = 8 bills left.
+
+On his 25th birthday, his parents will give him 1.5 for each of his remaining bills. So, the total amount he will receive is 8 x 1.5 = 12.
+
+Answer: 12

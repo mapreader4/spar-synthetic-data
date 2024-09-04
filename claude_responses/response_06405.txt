@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Tobias went to the swimming pool for 3 hours, which is 180 minutes.
+* He swims 100 meters in 5 minutes.
+* Every 25 minutes, he has to take a 5-minute pause.
+* So, in 25 minutes, he can swim for 20 minutes (25 minutes - 5 minute pause).
+* In 20 minutes, he can swim 400 meters (20 minutes / 5 minutes per 100 meters = 4 x 100 meters).
+* In 180 minutes, he can have 7 such 25-minute intervals (180 minutes / 25 minutes = 7.2, rounded down to 7).
+* So, in 180 minutes, he can swim 7 x 400 meters = 2,800 meters.
+
+Answer: 2,800 meters

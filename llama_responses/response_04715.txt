@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+First, we need to calculate the base cost of the garbage bill. Mary has 2 trash bins and 1 recycling bin. Each week, she pays $10 per trash bin and $5 per recycling bin, so the weekly cost is:
+
+2 trash bins x $10 per trash bin = $20 per week
+1 recycling bin x $5 per recycling bin = $5 per week
+Total weekly cost = $20 + $5 = $25 per week
+
+Since there are 4 weeks in the month, the total monthly cost is:
+
+$25 per week x 4 weeks = $100
+
+However, Mary is getting an 18% discount on the whole bill, so we need to calculate the discount amount:
+
+$100 x 0.18 = $18
+
+Subtract the discount from the total monthly cost:
+
+$100 - $18 = $82
+
+But wait, there's a $20 fine for putting inappropriate items in a recycling bin. So, we need to add the fine to the discounted bill:
+
+$82 + $20 = $102
+
+Answer: 102

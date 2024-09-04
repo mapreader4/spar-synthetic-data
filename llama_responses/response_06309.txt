@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Maddox and Theo both bought 3 Polaroid Cameras, each sold at $20 per camera from Amazon, so they spent a total of 3 x $20 = $60 on the cameras.
+
+Maddox sold his cameras at $28 each, so he made a total of 3 x $28 = $84 from the sale of his cameras.
+
+Theo sold his cameras at $23 each, so he made a total of 3 x $23 = $69 from the sale of his cameras.
+
+To find out how much more profit Maddox made than Theo, we need to subtract Theo's profit from Maddox's profit. Maddox made $84 - $69 = $15 more than Theo.
+
+Answer: 15

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Phillip has 4 jars, 10 cucumbers, and 100 ounces of vinegar.
+2) Each cucumber makes 6 pickles.
+3) Each jar can hold 12 pickles.
+4) It takes 10 ounces of vinegar per jar of pickles.
+5) First, let's calculate how many pickles Phillip can make in total:
+   - 10 cucumbers x 6 pickles per cucumber = 60 pickles
+6) Next, let's calculate how many jars he can fill with the 60 pickles:
+   - 60 pickles / 12 pickles per jar = 5 jars
+7) Since Phillip only has 4 jars, he can only make pickles for 4 jars.
+8) Each jar requires 10 ounces of vinegar, so for 4 jars he will need:
+   - 4 jars x 10 ounces per jar = 40 ounces of vinegar
+9) Phillip started with 100 ounces of vinegar, and used 40 ounces, so the amount of vinegar left is:
+   - 100 ounces - 40 ounces = 60 ounces
+
+Answer: 60 ounces

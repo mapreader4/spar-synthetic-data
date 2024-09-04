@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Enrique has 2,132 contracts that need to be shredded
+* His paper shredder can only shred 6 pages at a time
+* To find the number of times he needs to shred 6 units of paper until all the contracts are shredded, we need to divide the total number of contracts by the number of contracts shredded per cycle
+
+First, we calculate the total number of pages that need to be shredded:
+* 2,132 contracts x 1 page per contract = 2,132 pages
+
+Next, we calculate how many cycles of 6 pages each are needed to shred all 2,132 pages:
+* 2,132 pages / 6 pages per cycle = 355.33 cycles
+
+Since we can't have a fractional number of cycles, we need to round up to the nearest whole number:
+* 355.33 cycles rounds up to 356 cycles
+
+Therefore, Enrique will need to shred 6 units of paper 356 times until all of the contracts are shredded.
+
+Answer: 356

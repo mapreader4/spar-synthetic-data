@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* The amusement park sells tickets for $3 each
+* On Monday through Friday, the park welcomed 100 people per day
+* On Saturday, the park welcomed 200 people
+* On Sunday, the park welcomed 300 people
+* To calculate the total money made in a week, we need to:
+  1. Calculate the money made from Monday through Friday
+  2. Calculate the money made on Saturday
+  3. Calculate the money made on Sunday
+  4. Add up the totals from the previous 3 steps
+
+Step 1: Calculate the money made from Monday through Friday
+* 100 people per day x $3 per ticket = $300 per day
+* 5 days (Monday through Friday) x $300 per day = $1,500
+
+Step 2: Calculate the money made on Saturday
+* 200 people x $3 per ticket = $600
+
+Step 3: Calculate the money made on Sunday
+* 300 people x $3 per ticket = $900
+
+Step 4: Add up the totals from the previous 3 steps
+* $1,500 + $600 + $900 = $3,000
+
+Answer: $3,000

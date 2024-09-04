@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Pablo's mother pays him 1 cent for every page he reads
+* Pablo always checks out books that are exactly 150 pages
+* After reading his books, he bought $15 worth of candy and had $3 leftover
+
+To find the number of books Pablo read, we need to calculate the total amount of money he earned from reading the books.
+
+We know that:
+* He spent $15 on candy
+* He had $3 leftover
+
+So, the total amount of money he earned must have been $15 + $3 = $18.
+
+Since Pablo's mother pays him 1 cent per page, and each book is 150 pages, we can calculate the number of books he read by dividing the total amount of money he earned ($18) by the amount he earns per book (150 cents).
+
+$18 / 150 cents per book = 0.12 books
+
+Since we can't have a fractional number of books, we need to round up to the nearest whole number.
+
+Answer: 1 book

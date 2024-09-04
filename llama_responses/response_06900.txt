@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+1. The house has 6 double windows downstairs.
+2. Each double window is 2 glass panels, so the total number of glass panels downstairs is 6 * 2 = 12.
+3. The house has 8 single windows upstairs.
+4. Each single window is 1 glass panel, so the total number of glass panels upstairs is 8 * 1 = 8.
+5. To find the total number of glass panels in the whole house, we add the total number of glass panels downstairs and upstairs: 12 + 8 = 20.
+
+Answer: 20

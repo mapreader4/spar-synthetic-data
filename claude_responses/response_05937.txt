@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Beth has 72 marbles in total.
+2) The marbles are in three colors, and each color has the same amount.
+3) So, if we divide 72 by 3, we get the number of marbles of each color: 72 / 3 = 24 marbles of each color.
+4) Beth loses 5 red marbles, so she has 24 - 5 = 19 red marbles left.
+5) She loses twice as many blue marbles as red marbles, which is 2 * 5 = 10 blue marbles. So, she has 24 - 10 = 14 blue marbles left.
+6) She loses three times as many yellow marbles as red marbles, which is 3 * 5 = 15 yellow marbles. So, she has 24 - 15 = 9 yellow marbles left.
+7) Adding up the remaining marbles: 19 red + 14 blue + 9 yellow = 42 marbles.
+
+Answer: 42

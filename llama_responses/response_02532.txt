@@ -1,0 +1,3 @@
+Let's start by finding the total number of cans Kaiden has collected in the first two weeks. We can do this by adding the number of cans he collected in the first week (158) to the number of cans he collected in the second week (259). The total number of cans is 158 + 259 = 417.
+
+Kaiden's goal is to collect 500 cans of soup. To find out how many more cans he needs to collect, we can subtract the total number of cans he has already collected from the goal. 500 - 417 = 83. So Kaiden needs to collect 83 more cans of soup.

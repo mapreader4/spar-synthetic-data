@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* There were 40 rows of chairs set up
+* Each row had 20 chairs
+* So the total number of chairs set up is 40 rows x 20 chairs per row = 800 chairs
+* It is stated that only 10 seats were not occupied
+* Therefore, the number of seats that were taken is the total number of chairs (800) minus the number of seats not occupied (10)
+* 800 - 10 = 790
+
+Answer: 790

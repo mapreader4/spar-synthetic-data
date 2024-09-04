@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total storage space of the first floor. Since the second floor has half as much storage space as the first floor, and the first floor has x square feet of storage space, the second floor also has x square feet of storage space. So, the total storage space of the second floor is also x square feet.
+
+Let's call the storage space of the second floor x. Since one-quarter of the second floor storage space was filled by the boxes, and the boxes used up 5,000 square feet of storage space, we know that x = 5,000.
+
+Now, let's find the total storage space of the second floor. We know that the second floor has x square feet of storage space, and we know that x = 5,000. We can write an equation to represent this:
+
+x = 5,000
+
+To find the total storage space of the first floor, we know that it has twice as much storage space as the second floor, so we can write an equation to represent this:
+
+x * 2 = 5,000
+
+To solve for x, we can divide both sides of the equation by 2:
+
+x / 2 = 5,000 / 2
+
+x = 2,500
+
+So, the first floor has 2,500 square feet of storage space. To find the total storage space of the building, we add the storage space of the first and second floors:
+
+2,500 + 5,000 = 7,500
+
+So, the total storage space of the building is 7,500 square feet.

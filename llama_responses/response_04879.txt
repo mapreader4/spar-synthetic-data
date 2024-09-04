@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of limbs for each alien and Martian.
+
+Aliens have 3 arms and 8 legs, so they have a total of 3 + 8 = 11 limbs.
+
+Martians have half as many legs as the aliens have arms, so they have 3 arms * 2 = 6 legs. They have twice as many arms as aliens have arms, so they have 3 * 2 = 6 arms.
+
+To find the difference in the number of limbs between the two, we subtract the number of legs the Martians have from the number of limbs the aliens have:
+
+11 (limbs of aliens) - 6 (limbs of Martians) = 5.
+
+Answer: 5

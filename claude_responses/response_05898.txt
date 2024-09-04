@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The company was contracted to build 4000 bollards on each side of the road.
+* Since there are two sides to the road, the total number of bollards required is 4000 x 2 = 8000 bollards.
+* The company was only able to install 3/4 of the total number of bollards required.
+* To calculate the number of bollards installed, we take 3/4 of the total number of bollards required: 3/4 x 8000 = 6000 bollards.
+* To calculate the number of bollards remaining to be installed, we subtract the number of bollards installed from the total number of bollards required: 8000 - 6000 = 2000 bollards.
+
+Answer: 2000

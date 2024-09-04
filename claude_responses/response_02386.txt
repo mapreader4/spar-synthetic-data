@@ -1,0 +1,8 @@
+Okay, let's break this down step by step:
+1. The shelter initially had half the number of cats that were just brought in, which was 12. So the initial number of cats at the shelter was 12 / 2 = 6.
+2. Then, 12 more cats were brought in, so the total number of cats at the shelter was 6 + 12 = 18.
+3. Two days later, 3 cats were adopted, so the total number of cats at the shelter was 18 - 3 = 15.
+4. The next day, one of the cats had 5 kittens, so the total number of cats at the shelter was 15 + 5 = 20.
+5. Finally, one person arrived to pick up one of the cats that was their missing pet, so the final number of cats at the shelter is 20 - 1 = 19.
+
+Answer: 19

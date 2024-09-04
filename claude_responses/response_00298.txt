@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Initially, there were some number of sweets on the table.
+* Jack came and took half of all the candies, plus 4 more.
+* So if we let the initial number of sweets be x, then Jack took x/2 + 4 sweets.
+* After Jack took his sweets, there were x - (x/2 + 4) = x/2 - 4 sweets left on the table.
+* Then Paul came and took the remaining 7 sweets.
+* So the number of sweets left on the table after Paul took his share was 0.
+* We can set up an equation to solve for the initial number of sweets x:
+x/2 - 4 = 7
+* Solving this equation, we get:
+x/2 = 11
+x = 22
+
+Answer: 22

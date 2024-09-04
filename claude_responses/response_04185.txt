@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Emily bought 9 packs of candy necklaces
+* Each pack had 8 candy necklaces
+* So the total number of candy necklaces Emily bought was 9 packs x 8 necklaces per pack = 72 candy necklaces
+* After her classmates took as many as they wanted, there were 40 candy necklaces left
+* To find how many packs Emily opened for her classmates, we need to subtract the 40 necklaces left from the total 72 necklaces she bought
+* 72 necklaces - 40 necklaces left = 32 necklaces given to her classmates
+* Since each pack had 8 necklaces, we can divide the 32 necklaces given to her classmates by 8 to find the number of packs she opened
+* 32 necklaces / 8 necklaces per pack = 4 packs
+
+Answer: 4

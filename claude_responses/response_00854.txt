@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Jeff committed to run for an hour (60 minutes) a day during weekdays
+* There are 5 weekdays in a week (Monday through Friday)
+* So the total time he committed to run in a week is:
+    - 5 days x 60 minutes per day = 300 minutes
+* On Thursday, he cut his run short by 20 minutes
+    - So on Thursday, he ran for 60 minutes - 20 minutes = 40 minutes
+* On Friday, he was able to jog 10 minutes more
+    - So on Friday, he ran for 60 minutes + 10 minutes = 70 minutes
+* To calculate the total minutes he was able to run for the week:
+    - Monday through Wednesday: 3 days x 60 minutes = 180 minutes
+    - Thursday: 40 minutes
+    - Friday: 70 minutes
+    - Total minutes: 180 + 40 + 70 = 290 minutes
+
+Answer: 290 minutes

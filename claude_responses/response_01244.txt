@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The singer is planning on releasing 3 songs in a month
+* He worked on one song for 10 hours a day
+* Each song took 10 days to be completed
+
+To find the total number of hours he took to complete the 3 songs, we need to:
+1. Calculate the number of hours per song:
+   * 10 hours per day x 10 days = 100 hours per song
+2. Calculate the total number of hours for all 3 songs:
+   * 100 hours per song x 3 songs = 300 hours
+
+Answer: 300

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Bess, the smallest cow, gives 2 pails of milk every day.
+* Brownie, the largest cow, produces 3 times the amount that Bess produces, which is 3 * 2 = 6 pails of milk every day.
+* Daisy makes one pail more than Bess, which is 2 + 1 = 3 pails of milk every day.
+
+Now, to calculate the total amount of milk Farmer Red gets from them each week:
+* Bess gives 2 pails per day, so in 7 days that's 2 * 7 = 14 pails.
+* Brownie gives 6 pails per day, so in 7 days that's 6 * 7 = 42 pails.
+* Daisy gives 3 pails per day, so in 7 days that's 3 * 7 = 21 pails.
+
+Adding these together, the total number of pails of milk Farmer Red gets from them each week is:
+14 + 42 + 21 = 77 pails.
+
+Answer: 77

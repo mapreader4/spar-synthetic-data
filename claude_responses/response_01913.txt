@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Farmer Steven can plow up to 10 acres of farmland per day
+* Farmer Steven can mow up to 12 acres of grassland per day
+* Farmer Steven has 55 acres of farmland to plow
+* Farmer Steven has 30 acres of grassland to mow
+
+To find how long it would take him to plow the 55 acres of farmland:
+* 55 acres of farmland / 10 acres per day = 5.5 days
+
+To find how long it would take him to mow the 30 acres of grassland:
+* 30 acres of grassland / 12 acres per day = 2.5 days
+
+To find the total time it would take him to plow the farmland and mow the grassland:
+* 5.5 days + 2.5 days = 8 days
+
+Answer: 8 days

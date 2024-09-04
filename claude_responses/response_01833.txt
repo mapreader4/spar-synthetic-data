@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The wall area to be painted is 600 sq. ft.
+2) A gallon of paint can cover 400 sq. ft.
+3) Linda wants to do two coats of paint.
+4) To calculate the total area that needs to be painted, we multiply the wall area by 2 (since she wants to do two coats): 600 sq. ft. x 2 = 1,200 sq. ft.
+5) To find how many gallons of paint are needed, we divide the total area by the coverage of one gallon: 1,200 sq. ft. / 400 sq. ft. per gallon = 3 gallons.
+6) Since we need to round up to the nearest whole number, Linda will have to buy 4 gallon cans of paint.
+
+Answer: 4

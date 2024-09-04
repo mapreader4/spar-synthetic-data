@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* John has 25 horses
+* Each horse is fed twice a day
+* Each feeding is 20 pounds of food
+* So, each horse eats 40 pounds of food per day (2 feedings x 20 pounds)
+* In 60 days, each horse will eat 2,400 pounds of food (40 pounds per day x 60 days)
+* For 25 horses, the total amount of food needed in 60 days is 60,000 pounds (2,400 pounds per horse x 25 horses)
+* Each half-ton bag of food contains 1,000 pounds
+* To calculate the number of half-ton bags needed, we divide the total amount of food needed (60,000 pounds) by the amount in each bag (1,000 pounds)
+* 60,000 pounds / 1,000 pounds per bag = 60 bags
+
+Answer: 60

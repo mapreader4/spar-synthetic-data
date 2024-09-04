@@ -1,0 +1,31 @@
+Let's break this problem down step by step.
+
+First, let's find the total number of apples each farmhand can pick in one hour. Since each farmhand can pick 240 apples per hour, and there are 6 farmhands, the total number of apples they can pick in one hour is:
+
+240 apples/hour * 6 farmhands = 1440 apples/hour
+
+Since they will work 5 hours, the total number of apples they can pick is:
+
+1440 apples/hour * 5 hours = 7200 apples
+
+Now, we need to find the number of golden delicious apples and pink lady apples they can pick. The ratio of golden delicious apples to pink lady apples is 1:2, so for every 3 apples, 1 is golden delicious and 2 are pink lady. Since the total number of apples is 7200, we can divide 7200 by 3 to find the number of sets of 3 apples:
+
+7200 apples / 3 = 2400 sets of 3 apples
+
+Since 1 set of 3 apples is 1 golden delicious apple and 2 pink lady apples, the number of golden delicious apples is:
+
+2400 sets of 3 apples * 1 golden delicious apple/set = 2400 golden delicious apples
+
+The number of pink lady apples is:
+
+2400 sets of 3 apples * 2 pink lady apples/set = 4800 pink lady apples
+
+Now, we can find the number of pints of cider Haley can make. It takes 20 golden delicious apples and 40 pink lady apples to make one pint of cider. We can divide the total number of golden delicious apples by 20 to find the number of pints:
+
+2400 golden delicious apples / 20 = 120 pints
+
+And we can divide the total number of pink lady apples by 40 to find the number of pints:
+
+4800 pink lady apples / 40 = 120 pints
+
+Since the number of pints of golden delicious apples and pink lady apples are the same, Haley can make 120 pints of cider.

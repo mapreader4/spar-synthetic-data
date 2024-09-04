@@ -1,0 +1,19 @@
+Let's start by identifying the number of males and females. Let's say the number of males is x. Since the number of males is twice the number of females, the number of females is x/2.
+
+The total number of people is 300, so the number of males plus the number of females must equal 300. So, we can set up the equation:
+
+x + x/2 = 300
+
+To solve for x, we can multiply both sides by 2 to get:
+
+2x = 600
+
+x = 300
+
+So, x = 150. Since the number of females is x/2, we can find the number of females by dividing 150 by 2:
+
+x/2 = 150/2
+
+x/2 = 75
+
+So, the number of females going to the meeting is 75.

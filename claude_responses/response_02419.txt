@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The bear needs 210 pounds of meat in a week
+* Each cub needs 35 pounds of meat per week
+* The bear has 4 cubs
+* So the total meat needed for the cubs is 4 * 35 = 140 pounds per week
+* The bear needs to hunt for herself and her 4 cubs, so the total meat needed is 210 pounds
+* Each rabbit weighs 5 pounds
+* To find the number of rabbits needed per day, we need to divide the total meat needed per week (210 pounds) by the number of days in a week (7 days)
+* 210 pounds / 7 days = 30 pounds of meat needed per day
+* 30 pounds of meat per day / 5 pounds per rabbit = 6 rabbits needed per day
+
+Answer: 6 rabbits

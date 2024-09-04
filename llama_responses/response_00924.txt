@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total time it takes to complete one load of laundry. It takes 45 minutes to wash and 1 hour to dry, so the total time for one load is 1.5 hours.
+
+Since there are 8 loads of laundry, we need to multiply the time it takes for one load by the number of loads. 1.5 hours per load times 8 loads is 12 hours.
+
+So, it will take 12 hours to complete the entire set of laundry.
+
+Answer: 12

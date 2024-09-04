@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by calculating the total number of hours Carl needs to drive in a day. He needs to drive for 2 hours every day, so that's 2 hours per day.
+
+To find the total number of hours he needs to drive in a week, we can multiply the daily hours by the number of days in a week. There are 7 days in a week, so:
+
+2 hours per day * 7 days = 14 hours
+
+Now, Carl got promoted and now needs to drive for 6 more hours every week. We can add these extra hours to the total hours he needs to drive in a week:
+
+14 hours (previous total) + 6 hours = 20 hours
+
+So, the total number of hours Carl will drive in two weeks is:
+
+Answer: 20

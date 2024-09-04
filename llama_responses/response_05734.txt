@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first figure out how many steps Darry climbed on his full ladder. He climbed his full ladder 10 times, which has 11 steps. So, he climbed 11 * 10 = 110 steps.
+
+Next, let's figure out how many steps he climbed on his smaller ladder. He climbed his smaller ladder 7 times, which has 6 steps. So, he climbed 6 * 7 = 42 steps.
+
+In total, Darry climbed 110 + 42 steps today. Therefore, the answer is:
+
+Answer: 152

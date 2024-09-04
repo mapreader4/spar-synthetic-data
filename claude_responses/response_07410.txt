@@ -1,0 +1,16 @@
+Okay, let's solve this step-by-step:
+
+1. Boris has 24 books and he donates a fourth of his books to the library.
+   * A fourth of 24 books is 24 / 4 = 6 books.
+   * So, Boris donates 6 books to the library and keeps 24 - 6 = 18 books.
+
+2. Cameron has 30 books and he donates a third of his books to the library.
+   * A third of 30 books is 30 / 3 = 10 books.
+   * So, Cameron donates 10 books to the library and keeps 30 - 10 = 20 books.
+
+3. After donating their books, the total number of books Boris and Cameron have together is:
+   * Boris has 18 books.
+   * Cameron has 20 books.
+   * The total number of books they have together is 18 + 20 = 38 books.
+
+Answer: 38

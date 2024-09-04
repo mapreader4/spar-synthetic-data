@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by finding the total number of points scored by the 5 players who averaged 50 points each. This is 5 * 50 = 250.
+
+Next, we need to find the total number of points scored by the 4 remaining players. This is 270 - 250 = 20.
+
+The average of the 4 players is 20.

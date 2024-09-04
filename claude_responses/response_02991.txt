@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Total oranges picked = 107
+* Del picked 23 oranges on each of 2 days
+* So, Del picked a total of 23 x 2 = 46 oranges
+* Juan picked the remaining oranges
+* To find the number of oranges Juan picked, we subtract the number of oranges Del picked from the total oranges picked:
+* Oranges picked by Juan = Total oranges - Oranges picked by Del
+* Oranges picked by Juan = 107 - 46 = 61
+
+Answer: 61

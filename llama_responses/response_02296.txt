@@ -1,0 +1,23 @@
+To find the total area of the gardens, we need to calculate the area of each garden and then add them up.
+
+The area of each of Mancino's gardens is 16 feet by 5 feet, so the area of each garden is:
+
+16 x 5 = 80 square feet
+
+Since there are 3 gardens, the total area of Mancino's gardens is:
+
+80 x 3 = 240 square feet
+
+The area of each of Marquita's gardens is 8 feet by 4 feet, so the area of each garden is:
+
+8 x 4 = 32 square feet
+
+Since there are 2 gardens, the total area of Marquita's gardens is:
+
+32 x 2 = 64 square feet
+
+The total area of all their gardens combined is the sum of the areas of their gardens:
+
+240 + 64 = 304 square feet
+
+Answer: 304

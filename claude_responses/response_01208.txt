@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The age of the lioness is 12 years old.
+2) The age of the hyena is half the age of the lioness, since the lioness is twice the age of the hyena.
+   * Therefore, the age of the hyena is 12 / 2 = 6 years old.
+3) The babies of the two animals are half the age of their mothers.
+   * The baby lioness is 12 / 2 = 6 years old.
+   * The baby hyena is 6 / 2 = 3 years old.
+4) In five years, the ages will be:
+   * Lioness: 12 + 5 = 17 years old
+   * Hyena: 6 + 5 = 11 years old
+   * Baby lioness: 6 + 5 = 11 years old
+   * Baby hyena: 3 + 5 = 8 years old
+5) The sum of the ages of the babies in five years is:
+   * 11 + 8 = 19 years old
+
+Answer: 19

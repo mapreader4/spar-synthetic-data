@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Mrs. Crocker made 11 pieces of fried chicken
+* Lyndee ate 1 piece
+* Each of Lyndee's friends ate 2 pieces
+* We need to find out how many friends Lyndee had over
+
+First, let's calculate how many pieces of chicken were eaten by Lyndee's friends:
+* Each friend ate 2 pieces
+* So the total number of pieces eaten by Lyndee's friends = 2 x (number of friends)
+
+Now, we know that the total number of pieces made was 11, and Lyndee ate 1 piece. So the remaining pieces were eaten by her friends:
+* Remaining pieces = 11 - 1 = 10
+* 10 = 2 x (number of friends)
+* Dividing both sides by 2, we get:
+* Number of friends = 10 / 2 = 5
+
+Therefore, Lyndee had 5 friends over.
+
+Answer: 5

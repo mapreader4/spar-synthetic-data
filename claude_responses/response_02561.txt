@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) Happy Island has 60 turtles.
+2) The number of turtles on Happy Island is 10 more than 2 times the number of turtles on Lonely Island.
+3) Let's represent the number of turtles on Lonely Island as x.
+4) The number of turtles on Happy Island is 2x + 10.
+5) We know that the number of turtles on Happy Island is 60, so we can set up an equation:
+2x + 10 = 60
+6) Solving for x, we get:
+2x = 50
+x = 25
+Therefore, the number of turtles on Lonely Island is 25.
+
+Answer: 25

@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, we need to find the number of months in a year. A year has 12 months.
+
+Next, we need to find the number of occupied units. Since the building is 3/4 occupied, we can multiply the total number of units (100) by the fraction 3/4 to get the number of occupied units. This gives us:
+
+100 x (3/4) = 75
+
+So, there are 75 occupied units.
+
+Next, we need to find the total rent paid by each resident in a month. Since each resident pays $400, we can multiply the number of occupied units (75) by the rent per unit ($400) to get the total rent paid in a month:
+
+75 x $400 = $15,000
+
+Since there are 12 months in a year, we need to multiply the total rent paid in a month ($15,000) by 12 to get the total rent paid in a year:
+
+$15,000 x 12 = $180,000
+
+So, Mr. Maximilian receives $180,000 in a year.
+
+Answer: 180,000

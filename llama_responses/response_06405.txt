@@ -1,0 +1,33 @@
+Let's break this problem down step by step.
+
+Let's first find the total time spent by Tobias taking pauses. He took a 5-minute pause every 25 minutes. So, the total time taken for pauses is:
+
+5 minutes * 3 = 15 minutes.
+
+So, the total time taken for pauses is 15 minutes.
+
+Now, let's find the total time taken for swimming. Swimming every 100 meters took him 5 minutes. So, the total time taken for swimming is:
+
+5 minutes * (100 / 100) = 0.5 minutes.
+
+Now, let's subtract the time taken for pauses from the total time taken for swimming:
+
+0.5 minutes - 15 minutes = 14.5 minutes.
+
+The total time left is:
+
+14.5 minutes.
+
+To convert this to minutes to seconds, multiply by 60:
+
+14.5 * 60 = 870 seconds.
+
+Now, to find the total distance swum, multiply the total time in seconds by the speed:
+
+870 seconds / 5 minutes = 174 meters.
+
+So, the total distance swum is:
+
+174 meters.
+
+Answer: 174

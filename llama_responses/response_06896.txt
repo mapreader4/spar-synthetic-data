@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total amount of money they will earn from the apples:
+
+They made 15 apples, and each apple is sold for $2. So, the total amount of money they will earn from the apples is:
+
+15 x 2 = 30
+
+Next, let's calculate the total amount of money they will earn from the grapes:
+
+They made 12 grapes, and each grape is sold for $1.5. So, the total amount of money they will earn from the grapes is:
+
+12 x 1.5 = 18
+
+Now, let's add the total amount of money they will earn from the apples and the total amount of money they will earn from the grapes:
+
+30 + 18 = 48
+
+Answer: 48

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The man needs to pack 0.5 pounds of supplies for every mile he hikes
+* He can hike at a rate of 2.5 miles per hour
+* He plans to hike for 8 hours a day for 5 days
+* So, in total, he will hike for 8 hours x 5 days = 40 hours
+* At a rate of 2.5 miles per hour, he will hike a total of 40 hours x 2.5 miles/hour = 100 miles
+* He needs to pack 0.5 pounds of supplies for every mile, so for the first 100 miles, he needs 100 miles x 0.5 pounds/mile = 50 pounds
+* He will get a resupply that is 25% as large as his first pack, which means the resupply will be 0.25 x 50 pounds = 12.5 pounds
+* So the total amount he needs to bring with his first pack is 50 pounds.
+
+Answer: 50

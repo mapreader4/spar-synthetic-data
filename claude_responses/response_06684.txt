@@ -1,0 +1,9 @@
+Okay, let's think through this step-by-step:
+1) The bakery made 95 muffins.
+2) Each box can hold 5 muffins.
+3) There are only 10 available boxes.
+4) To calculate the number of boxes needed, we need to divide the total number of muffins by the number of muffins per box.
+5) 95 muffins / 5 muffins per box = 19 boxes needed.
+6) However, there are only 10 available boxes, so they still need 9 more boxes to pack all the muffins.
+
+Answer: 9

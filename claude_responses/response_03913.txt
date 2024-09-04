@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. Marites' current internet speed is 10 Mbps and her monthly bill is $20.
+2. She is considering upgrading to either 20 Mbps or 30 Mbps.
+3. The price of the 30 Mbps plan is twice her current monthly bill, which is $20 x 2 = $40 per month.
+4. The price of the 20 Mbps plan is $10 more than her current monthly bill, which is $20 + $10 = $30 per month.
+5. To calculate the yearly savings if she chooses the 20 Mbps plan over the 30 Mbps plan:
+   - 30 Mbps plan cost per year: $40 x 12 = $480
+   - 20 Mbps plan cost per year: $30 x 12 = $360
+   - Yearly savings = $480 - $360 = $120
+
+Answer: $120

@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* 1 lizard is worth 8 bottle caps
+* 3 lizards are worth 5 gallons of water
+* 1 horse is worth 80 gallons of water
+* Marla can scavenge for 20 bottle caps each day
+* Marla needs to pay 4 bottle caps per night for food and shelter
+
+First, we need to figure out how many bottle caps are needed to buy a horse.
+* 1 horse is worth 80 gallons of water
+* 3 lizards are worth 5 gallons of water
+* So 1 horse is worth 80 / 5 * 3 = 48 lizards
+* 1 lizard is worth 8 bottle caps
+* So 1 horse is worth 48 * 8 = 384 bottle caps
+
+Next, we need to figure out how much Marla can save each day.
+* Marla can scavenge 20 bottle caps each day
+* Marla needs to pay 4 bottle caps per night for food and shelter
+* So Marla can save 20 - 4 = 16 bottle caps each day
+
+Finally, we can calculate how many days it will take Marla to save up 384 bottle caps.
+* Marla can save 16 bottle caps per day
+* 384 bottle caps / 16 bottle caps per day = 24 days
+
+Answer: 24 days

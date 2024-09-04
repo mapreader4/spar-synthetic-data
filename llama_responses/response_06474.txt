@@ -1,0 +1,14 @@
+Let's break down the problem step by step:
+
+Step 1: Calculate the total revenue of each company:
+
+Company A sells 300 big bottles for $4 each, so the total revenue is:
+300 x $4 = $1200
+
+Company B sells 350 big bottles for $3.5 each, so the total revenue is:
+350 x $3.5 = $1225
+
+Step 2: Subtract the total revenue of Company B from the total revenue of Company A:
+$1225 (Company B) - $1200 (Company A) = $25
+
+Answer: 25

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. Flutes:
+   - 80% of 20 flutes got in
+   - 80% of 20 = 0.8 * 20 = 16 flutes
+
+2. Clarinets:
+   - Half of the 30 clarinets got in
+   - Half of 30 = 0.5 * 30 = 15 clarinets
+
+3. Trumpets:
+   - 1/3 of the 60 trumpets got in
+   - 1/3 of 60 = 0.33 * 60 = 20 trumpets
+
+4. Pianists:
+   - 1/10th of the 20 pianists got in
+   - 1/10th of 20 = 0.1 * 20 = 2 pianists
+
+Now, we add up the number of people in each instrument group to get the total number of people in the band:
+16 flutes + 15 clarinets + 20 trumpets + 2 pianists = 53 people
+
+Answer: 53

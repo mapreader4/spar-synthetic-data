@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Tom can read 12 pages in 1 hour
+* We want to know how many pages he can read in 2 hours if he increases his reading speed by a factor of 3
+* To increase his reading speed by a factor of 3, that means he can read 3 times as many pages per hour
+* So in 1 hour, he can read 12 pages x 3 = 36 pages
+* In 2 hours, he can read 36 pages x 2 = 72 pages
+
+Answer: 72

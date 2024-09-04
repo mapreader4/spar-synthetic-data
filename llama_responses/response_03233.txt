@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of kernels that popped in all three bags. We can do this by adding the number of kernels that popped in each bag:
+
+60 (bag 1) + 42 (bag 2) + 82 (bag 3) = 184 kernels
+
+Next, we need to find the total number of kernels in all three bags. We can do this by adding the number of kernels in each bag:
+
+75 (bag 1) + 50 (bag 2) + 100 (bag 3) = 225 kernels
+
+Now, we can find the average percentage of kernels that popped by dividing the total number of kernels that popped by the total number of kernels, and then multiplying by 100:
+
+(184 kernels that popped) / (225 kernels total) = 0.82
+
+To convert this to a percentage, we multiply by 100:
+
+0.82 x 100 = 82%
+
+So, the average percentage of kernels that pop in a bag is 82%.
+
+Answer: 82

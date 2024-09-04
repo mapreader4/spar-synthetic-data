@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. Tabitha adds 1 serving of honey per cup of tea, and she has 2 cups of tea before bed, so she consumes 2 servings of honey in one night.
+
+2. Each serving of honey is 1/6 of an ounce. So, 2 servings is 2/6 of an ounce.
+
+3. The total number of ounces of honey she consumes in a night is 2/6, which is the same as 1/3.
+
+4. She buys the honey in a 16-ounce container. So, the number of nights she can enjoy honey in her tea before bed is the number of times the 16 ounces of honey can be divided by 1/3, which is 48.
+
+Answer: 48

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Jackson's goal is to raise $1000 for the week
+* He earned $300 on Monday and $40 on Tuesday
+* This means he has already earned $340 towards his goal
+* He has 3 days remaining in the week (Wednesday, Thursday, Friday)
+* He needs to earn the remaining $660 ($1000 - $340) in those 3 days
+* He earns an average of $10 for every 4 houses he visits
+* To calculate the number of houses he needs to visit, we can use the following formula:
+    * Remaining amount to earn / Average amount earned per 4 houses = Number of 4-house groups he needs to visit
+    * $660 / $10 = 66 groups of 4 houses
+* Since he needs to visit 66 groups of 4 houses, the total number of houses he needs to visit is:
+    * 66 groups x 4 houses per group = 264 houses
+
+Answer: 264

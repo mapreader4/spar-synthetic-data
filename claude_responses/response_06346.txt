@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Bill started reading the book on the first day of April
+* He read 8 pages every day
+* By the 12th of April, he had covered two-thirds of the book
+
+First, let's calculate how many days it took Bill to read two-thirds of the book:
+* From the 1st of April to the 12th of April is 12 days
+* So, Bill read for 12 days
+
+Next, let's calculate how many pages Bill read in those 12 days:
+* He read 8 pages per day
+* 8 pages per day x 12 days = 96 pages
+
+Now, we know that the 96 pages Bill read is two-thirds of the total pages in the book. 
+* So, the total pages in the book is 96 / (2/3) = 144 pages
+
+Answer: 144

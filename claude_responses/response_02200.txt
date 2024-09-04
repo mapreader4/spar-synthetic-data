@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+* Chickens have 2 legs each
+* Farmer Brown fed 7 chickens
+* So the number of legs for the chickens is: 7 chickens x 2 legs per chicken = 14 legs
+* Sheep have 4 legs each
+* Farmer Brown fed 5 sheep
+* So the number of legs for the sheep is: 5 sheep x 4 legs per sheep = 20 legs
+* To find the total number of legs, we add the legs for the chickens and the legs for the sheep:
+* 14 legs + 20 legs = 34 legs
+
+Answer: 34

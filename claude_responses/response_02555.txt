@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The moon is made up of 50% iron, 20% carbon, and the remainder is other elements.
+* Mars weighs twice as much as the moon, but has the exact same composition.
+* Mars has 150 tons of other elements.
+
+First, let's calculate the total weight of Mars:
+* Since Mars has 150 tons of other elements, and this is the remainder, we can calculate the total weight of Mars.
+* The other elements make up the remaining 30% of Mars' composition (100% - 50% iron - 20% carbon).
+* So the total weight of Mars is 150 / 0.3 = 500 tons.
+
+Now, since Mars weighs twice as much as the moon, we can calculate the weight of the moon:
+* Moon's weight = Mars' weight / 2 = 500 / 2 = 250 tons.
+
+Answer: 250 tons.

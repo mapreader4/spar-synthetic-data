@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+The factory was initially planning to produce 200 cars. Then they decreased the production by 50 cars, so the new number of cars they planned to produce is 200 - 50 = 150.
+
+Then, they had to cut production by another 50%. 50% of 150 is 0.5 x 150 = 75. So, they cut the production by 75 cars.
+
+So, the new number of cars they will produce is 150 - 75 = 75.
+
+Answer: 75

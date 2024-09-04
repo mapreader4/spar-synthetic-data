@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given. We know that Mrs. Lim milks her cows twice a day. We know that yesterday morning, she got 68 gallons of milk. In the evening, she got 82 gallons of milk. We also know that this morning, she got 18 gallons fewer than she had yesterday morning. So, we know that this morning, she got 68 - 18 = 50 gallons of milk.
+
+Now, let's think about the afternoon. She sold some gallons of milk, and now she has 24 gallons left. This means that she sold 50 - 24 = 26 gallons of milk. We know that each gallon of milk costs 3.50. So, we can calculate the revenue as follows:
+
+26 gallons * 3.50 per gallon = 26 * 3.5 = 91.
+
+Answer: 91

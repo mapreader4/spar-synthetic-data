@@ -1,0 +1,11 @@
+To solve this problem, I will first calculate the total amount of money Lucy has in the bank. I will do this by adding the amount of money Lucy deposited to her account to the initial amount of money she had in the bank, and then subtract the amount of money she withdrew.
+
+Initially, Lucy had $65 in the bank.
+
+She made a $15 deposit, so I will add this to the initial amount: $65 + $15 = $80.
+
+Then, she made a $4 withdrawal, so I will subtract this from the total amount: $80 - $4 = $76.
+
+So, Lucy's bank balance is:
+
+Answer: 76

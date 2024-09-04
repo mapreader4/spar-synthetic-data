@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Diego can carry 20 pounds of fruit in his bookbag
+* He buys:
+  - 1 pound of watermelon
+  - 1 pound of grapes
+  - 1 pound of oranges
+* To calculate how many pounds of apples he can buy, we need to subtract the weight of the other fruits from the total weight he can carry:
+  - Total weight he can carry: 20 pounds
+  - Weight of watermelon, grapes, and oranges: 1 + 1 + 1 = 3 pounds
+  - Remaining weight he can carry for apples: 20 - 3 = 17 pounds
+Answer: 17 pounds

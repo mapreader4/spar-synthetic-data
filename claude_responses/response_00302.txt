@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. The first present needs 2 square feet of wrapping paper.
+2. The second present needs three-quarters of that amount, which is 2 * 0.75 = 1.5 square feet.
+3. The third present needs the same amount as both other presents put together, which is 2 + 1.5 = 3.5 square feet.
+
+Now, to find the total amount of wrapping paper Carrie needs, we add up the amounts for all three presents:
+2 + 1.5 + 3.5 = 7 square feet
+
+Answer: 7

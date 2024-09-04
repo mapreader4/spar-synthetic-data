@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Tom's rabbit can run at 25 miles per hour
+* Tom's cat can run at 20 miles per hour
+* The cat gets a 15-minute head start
+
+To calculate how long it will take for the rabbit to catch up, we need to find the distance the cat has traveled during the 15-minute head start, and then calculate how long it will take the rabbit to cover that distance.
+
+* In 15 minutes, the cat travels 5 miles (20 miles per hour x 0.25 hours)
+* The rabbit is running 5 miles per hour faster than the cat (25 miles per hour - 20 miles per hour)
+* So it will take the rabbit 1 hour to catch up to the cat (5 miles / 5 miles per hour)
+
+Answer: 1 hour

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Hendrix's class had 160 students before the 20 new students joined.
+2) 20 new students joined the class, so the total number of students in the class became 160 + 20 = 180.
+3) At the end of the school year, 1/3 of the 180 students had transferred to other schools.
+4) To find the number of students that transferred, we take 1/3 of 180: 180 * (1/3) = 60 students transferred.
+5) The number of students remaining in the class at the end of the year is the original 180 students, minus the 60 students that transferred: 180 - 60 = 120 students.
+
+Answer: 120

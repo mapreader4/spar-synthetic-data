@@ -1,0 +1,19 @@
+Let's break this down step by step:
+
+1. Let's first identify the number of total days Karen packs lunch for her daughter. There are 5 school days in a week, so she packs lunch for 5 days.
+
+2. Let's identify the number of days Karen packs peanut butter sandwiches. She packs them on 2 days, so we can subtract 2 from the total number of days to find the number of days she packs ham sandwiches: 5 - 2 = 3.
+
+3. Let's identify the number of days Karen packs a piece of cake. She packs it on 1 day, so we can subtract 1 from the total number of days to find the number of days she packs cookies: 5 - 1 = 4.
+
+4. We are asked to find the probability that Karen packs a ham sandwich and cake on the same day. To do this, we can count the number of ways she packs ham sandwiches and cake together, then divide that by the total number of days she packs lunch, and multiply by 100 to convert to a percentage.
+
+The number of ways Karen packs ham sandwiches and cake together is 1 (since she packs cake on 1 day and ham sandwiches on 1 day, and those days are the same).
+
+The total number of days she packs lunch is 5.
+
+So, the probability is:
+
+1 / 5 * 100 = 0.2 or 20%.
+
+Answer: 20

@@ -1,0 +1,47 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Robe used $10 to pay for the repair.
+* The repair fee is unknown.
+* The corner light costs twice the price of the repair fee.
+* The brake disks cost thrice the price of the corner light.
+* After the repair, Robe had $480 savings left.
+
+Let's start by using the information about the corner light. Let's call the price of the repair fee "x". Then, the price of the corner light is 2x, and the price of each brake disk is 6x (since it's thrice the price of the corner light).
+
+The total cost of the spare parts is the price of the corner light (2x) plus the price of the two brake disks (2 * 6x). This is equal to 2x + 12x.
+
+The total amount Robe spent on the spare parts is $10 (the repair fee) plus the cost of the spare parts, which is 2x + 12x. Since Robe had $480 left after the repair, we can set up the equation:
+
+10 + (2x + 12x) = 480
+
+Combine like terms:
+
+10 + 2x + 12x = 480
+
+Combine the like terms:
+
+14x = 470
+
+Divide both sides by 14:
+
+x = 34
+
+Now that we know the price of the repair fee is $34, we can find the price of the corner light by multiplying by 2:
+
+Price of corner light = 2x = 2 * 34 = 68
+
+The price of each brake disk is 6x, so:
+
+Price of each brake disk = 6x = 6 * 34 = 204
+
+The total cost of the spare parts is:
+
+2x + 12x = 2 * 34 + 12 * 34 = 136
+
+Robe used $10 to pay for the repair, so we subtract that from the total cost:
+
+136 - 10 = 126
+
+Robe had $126 before the repair.

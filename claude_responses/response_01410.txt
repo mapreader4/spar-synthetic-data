@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Brittney can chop 15 onions in 5 minutes
+* That means Brittney can chop 3 onions per minute (15 onions / 5 minutes = 3 onions/minute)
+* In 30 minutes, Brittney can chop 90 onions (3 onions/minute x 30 minutes = 90 onions)
+* Carl can chop 20 onions in 5 minutes
+* That means Carl can chop 4 onions per minute (20 onions / 5 minutes = 4 onions/minute) 
+* In 30 minutes, Carl can chop 120 onions (4 onions/minute x 30 minutes = 120 onions)
+* The difference between the number of onions Carl can chop and the number Brittney can chop in 30 minutes is:
+* 120 onions (Carl) - 90 onions (Brittney) = 30 onions
+
+Answer: 30

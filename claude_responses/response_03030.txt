@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+* Together, the 3 friends watched 411 short videos
+* Kelsey watched 43 more than Ekon
+* Ekon watched 17 less than Uma
+
+Let's start by finding out how many videos Ekon watched.
+* Ekon watched 17 less than Uma
+* So if Uma watched x videos, then Ekon watched x - 17 videos
+
+Now, Kelsey watched 43 more than Ekon, so:
+* Kelsey watched (x - 17) + 43 videos
+
+We know that the total number of videos watched by the 3 friends is 411, so:
+* x - 17 + (x - 17) + 43 = 411
+* 3x - 51 = 411
+* 3x = 462
+* x = 154
+
+Therefore, Uma watched 154 videos.
+And Ekon watched 154 - 17 = 137 videos.
+Finally, Kelsey watched 137 + 43 = 180 videos.
+
+Answer: 180

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Mary has 3 children, so she needs 3 children's tickets which cost $1 each. That's a total of $3 for the children's tickets.
+
+She also needs 1 adult ticket which costs $2.
+
+So, the total cost of the tickets is $3 + $2 = $5.
+
+Mary pays with a $20 bill. So, to find the change she will receive, we need to subtract the total cost of the tickets from the $20 bill.
+
+$20 - $5 = $15.
+
+Answer: 15

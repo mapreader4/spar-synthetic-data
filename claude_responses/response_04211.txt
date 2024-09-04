@@ -1,0 +1,16 @@
+Okay, let's solve this step-by-step:
+1) We are given that the average number of fruits per basket in five baskets is 25.
+2) The total number of fruits in the five baskets is 5 * 25 = 125 fruits.
+3) We know the contents of baskets A, B, C, and D:
+   - Basket A has 15 apples
+   - Basket B has 30 mangoes
+   - Basket C has 20 peaches
+   - Basket D has 25 pears
+4) To find the number of bananas in basket E, we need to subtract the known fruits from the total fruits:
+   - Total fruits = 125
+   - Apples in A = 15
+   - Mangoes in B = 30
+   - Peaches in C = 20
+   - Pears in D = 25
+   - Bananas in E = 125 - 15 - 30 - 20 - 25 = 35
+Answer: 35

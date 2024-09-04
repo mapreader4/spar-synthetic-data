@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Billy's family owns a total of 4 bicycles
+* Each bicycle has 2 wheels
+* Each wheel has 10 spokes
+* To find the total number of spokes, we need to:
+  1. Calculate the number of spokes per bicycle
+  2. Multiply the number of spokes per bicycle by the total number of bicycles
+
+Step 1: Calculating the number of spokes per bicycle
+* Each bicycle has 2 wheels
+* Each wheel has 10 spokes
+* So, the number of spokes per bicycle is 2 x 10 = 20 spokes
+
+Step 2: Calculating the total number of spokes
+* There are 4 bicycles
+* Each bicycle has 20 spokes
+* So, the total number of spokes is 4 x 20 = 80 spokes
+
+Answer: 80

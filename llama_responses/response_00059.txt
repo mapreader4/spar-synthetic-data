@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Joanne started with 0 coins.
+
+During the first hour, she collected 15 coins, so she now has 15 coins.
+
+For the next two hours, she collected 35 coins, so she now has 15 + 35 = 50 coins.
+
+In the fourth hour, she collected 50 coins, but gave away 15 to her coworker. So, she has 50 - 15 = 35 coins.
+
+Answer: 35

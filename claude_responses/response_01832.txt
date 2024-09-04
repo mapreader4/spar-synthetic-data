@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Reynald bought a total of 145 balls
+* 20 of them were soccer balls
+* There were 5 more basketballs than soccer balls, so there were 20 + 5 = 25 basketballs
+* Twice the number of soccer balls were tennis balls, so there were 2 * 20 = 40 tennis balls
+* There were 10 more baseballs than soccer balls, so there were 20 + 10 = 30 baseballs
+* The remaining balls must have been volleyballs
+
+To calculate the number of volleyballs, we take the total number of balls (145) and subtract the number of each type of ball:
+* Soccer balls: 20
+* Basketballs: 25
+* Tennis balls: 40
+* Baseballs: 30
+
+145 - 20 - 25 - 40 - 30 = 30 volleyballs
+
+Answer: 30

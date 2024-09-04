@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we know that the empty truck weighs 12,000 pounds.
+
+Next, we know that there are 20 crates of soda, and each crate weighs 50 pounds. So, the total weight of the soda is:
+
+20 crates x 50 pounds/crate = 1000 pounds
+
+The dryers each weigh 3000 pounds, and there are 3 of them, so the total weight of the dryers is:
+
+3 dryers x 3000 pounds/dryer = 9000 pounds
+
+The problem also states that there is twice as much weight in fresh produce as in soda. Since the soda weighs 1000 pounds, the fresh produce weighs:
+
+1000 pounds x 2 = 2000 pounds
+
+Now, let's add up the total weight of the truck:
+
+12,000 pounds (empty truck) + 1000 pounds (soda) + 9000 pounds (dryers) + 2000 pounds (fresh produce) = 22,000 pounds
+
+Since the bridge can hold 20,000 pounds, we need to check if Donna's fully loaded truck weighs more than that. Since 22,000 pounds is greater than 20,000 pounds, Donna's truck is over the weight limit.
+
+Answer: 22,000

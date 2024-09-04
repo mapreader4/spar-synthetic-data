@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Zander collected 100 stickers.
+2) He gave some of his stickers to his two friends, Andrew and Bill.
+3) Andrew received 1/5 of Zander's stickers.
+   * To calculate how many stickers Andrew received, we take 1/5 of 100 stickers:
+   * 1/5 of 100 = 100 * 1/5 = 20 stickers
+4) After giving 20 stickers to Andrew, Zander had the remaining 80 stickers left.
+5) Bill received 3/10 of the remaining 80 stickers.
+   * To calculate how many stickers Bill received, we take 3/10 of 80 stickers:
+   * 3/10 of 80 = 80 * 3/10 = 24 stickers
+6) In total, Zander gave 20 stickers to Andrew and 24 stickers to Bill.
+   * The total number of stickers Zander gave to his two friends is 20 + 24 = 44 stickers.
+
+Answer: 44

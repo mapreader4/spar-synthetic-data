@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Charlize was 20 minutes late
+* 4 of her classmates were each 10 minutes later than Charlize
+* So, each of the 4 classmates was 20 minutes late (10 minutes later than Charlize's 20 minutes)
+* The total time for the 5 students (Charlize and the 4 classmates) is:
+    - Charlize: 20 minutes
+    - 4 classmates: 4 x 20 minutes = 80 minutes
+* Adding these together, the total time for which the 5 students were late is:
+    - 20 minutes + 80 minutes = 100 minutes
+
+Answer: 100

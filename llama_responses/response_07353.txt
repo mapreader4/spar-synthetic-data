@@ -1,0 +1,7 @@
+Let's break it down step by step.
+
+Let's assume that the concert started with a 20-minute show. Then, there was a 10-minute intermission. So, the total time before the intermission is 20 - 10 = 10 minutes. That's the time for all the songs except the one that lasted 10 minutes.
+
+The 10-minute song that lasted 10 minutes is the exception, so we need to subtract that from the total time before the intermission to find the time for the other songs. 10 minutes minus 10 minutes is 0 minutes, so the other songs must have taken 0 minutes.
+
+So, the singer sang 0 songs.

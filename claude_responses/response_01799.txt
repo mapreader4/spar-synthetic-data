@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+
+Guitar Center's Price:
+* Suggested retail price: $1000
+* Discount: 15% off
+* Discount amount: $1000 * 0.15 = $150
+* Price after discount: $1000 - $150 = $850
+* Shipping fee: $100
+* Total price at Guitar Center: $850 + $100 = $950
+
+Sweetwater's Price:
+* Suggested retail price: $1000
+* Discount: 10% off
+* Discount amount: $1000 * 0.10 = $100
+* Price after discount: $1000 - $100 = $900
+* Shipping fee: $0 (free shipping)
+* Total price at Sweetwater: $900
+
+Now, to find the difference in savings:
+* Guitar Center price: $950
+* Sweetwater price: $900
+* Difference in savings: $950 - $900 = $50
+
+Answer: $50

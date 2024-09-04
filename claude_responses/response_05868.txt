@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Each section of the hedge used 30 pieces of concrete blocks.
+2) The hedge has 8 sections.
+3) To find the total number of concrete blocks used, we multiply the number of sections (8) by the number of blocks per section (30):
+   8 sections x 30 blocks per section = 240 total blocks
+4) The cost per piece of concrete block is $2.
+5) To find the total cost, we multiply the total number of blocks (240) by the cost per block ($2):
+   240 blocks x $2 per block = $480
+
+Answer: $480

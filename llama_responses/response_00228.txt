@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: First, we find the number of employees who don't drive to work. 60% of the employees drive to work, so we multiply 200 employees by 0.6 to get 120 employees.
+
+Step 2: Then, we find the number of employees who take public transportation. Half of the employees who don't drive to work take public transportation, so we take 120 employees and divide that by 2 to get 60 employees.
+
+Step 3: To find the number of employees who drive to work more than take public transportation, we subtract the number of employees who take public transportation from the number of employees who drive to work. 120 - 60 = 60.
+
+Answer: 60

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Janelle started with 26 green marbles.
+2) She then bought 6 bags of blue marbles, with 10 marbles in each bag.
+   * 6 bags x 10 marbles per bag = 60 blue marbles
+3) She then created a gift for a friend, consisting of 6 green marbles and 8 blue marbles.
+   * She gave away 6 green marbles and 8 blue marbles
+4) To calculate the number of marbles Janelle has now:
+   * She started with 26 green marbles
+   * She added 60 blue marbles
+   * She gave away 6 green marbles and 8 blue marbles
+   * So the number of marbles she has now is:
+     * Green marbles: 26 - 6 = 20
+     * Blue marbles: 60 - 8 = 52
+     * Total marbles: 20 + 52 = 72
+
+Answer: 72

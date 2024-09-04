@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Wade's average points per game is 20.
+2) His teammates' average points per game is 40.
+3) We want to find the total points the team will have after 5 games.
+4) Wade's total points in 5 games will be: 20 points per game x 5 games = 100 points.
+5) His teammates' total points in 5 games will be: 40 points per game x 5 games = 200 points.
+6) The total points the team will have after 5 games is the sum of Wade's points and his teammates' points:
+100 points + 200 points = 300 points.
+
+Answer: 300

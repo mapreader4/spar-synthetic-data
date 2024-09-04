@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Maria received a 25% discount on her purchase.
+2) The discount she received was $40.
+3) To find the original price before the discount, we can use the formula:
+Original Price = Discounted Price / (1 - Discount Rate)
+4) Plugging in the values, we get:
+Original Price = $40 / (1 - 0.25)
+5) Simplifying, we get:
+Original Price = $40 / 0.75
+6) Solving for the original price, we get:
+Original Price = $53.33
+7) Therefore, the total amount Maria paid is the original price minus the discount, which is:
+$53.33 - $40 = $13.33
+
+Answer: 13

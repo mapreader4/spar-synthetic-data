@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. Mary paints a dragon using 3 square feet of paint. This means that 3 square feet of paint is used up.
+2. Mike paints a castle using 2 square feet more paint than Mary used on her dragon. Since Mary used 3 square feet, Mike used 3 + 2 = 5 square feet of paint.
+3. The total amount of paint used by Mary and Mike is 3 + 5 = 8 square feet.
+4. There is enough paint left in the jar to cover 13 square feet.
+5. Since 13 - 8 = 5 square feet of paint is left, this is the amount of paint left to paint the sun.
+
+Answer: 5

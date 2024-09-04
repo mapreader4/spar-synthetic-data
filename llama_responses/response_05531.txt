@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+First, we need to calculate the cost for the hospital stay. Dakota spends 3 days in the hospital, so the hospital stay costs 3 x $900 = $2700.
+
+Next, we need to calculate the cost for the specialist visits. There are two specialists, each visiting for 15 minutes. The cost per visit is $250. The total cost for the specialists is 2 x $250 = $500.
+
+Finally, we need to add the cost for the ambulance ride. The ambulance ride costs $1800.
+
+To find the total cost, we add up the costs:
+
+$2700 + $500 + $1800 = $4300
+
+Answer: 4300

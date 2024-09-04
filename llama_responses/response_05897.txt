@@ -1,0 +1,9 @@
+Let's break down the problem step by step:
+
+1. Olaf initially had 150 toy cars.
+2. Grandpa gave Olaf twice as many toy cars as the uncle, so Grandpa gave Olaf 2 * 150 = 300 toy cars.
+3. Dad gave Olaf 10 toy cars, which is 5 less than Mum, so Mum gave Olaf 10 + 5 = 15 toy cars.
+4. Auntie gave Olaf 6 toy cars, which is 1 more than the uncle, so Auntie gave Olaf 6 + 1 = 7 toy cars.
+5. To find the total number of toy cars Olaf has, we add the number of toy cars from each gift: 300 + 15 + 7 = 322.
+
+Answer: 322

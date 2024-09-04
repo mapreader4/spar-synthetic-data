@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's say the length of the pole is x meters.
+
+The pole is 30% shorter than its original length. This means that 30% of the pole was cut off. So, 30% of x is equal to 0.3x.
+
+The equation to solve for x is 0.3x = x - 20.
+
+To solve for x, we can multiply both sides by 100 to get rid of the decimal. This gives us:
+
+0.3x * 100 = x - 20 * 100
+
+This simplifies to:
+
+30x = 200 - 20
+
+To solve for x, we can subtract 200 from both sides of the equation. This gives us:
+
+x = 180
+
+Answer: 180

@@ -1,0 +1,13 @@
+Let's break this problem down step by step:
+
+1. We know that one horse produces 5 gallons of fertilizer per day, so 80 horses will produce 80 x 5 = 400 gallons of fertilizer per day.
+
+2. We know that each acre needs 400 gallons of fertilizer, and Janet can spread fertilizer over 4 acres per day. So, to cover 20 acres, she'll need 20 x 400 = 8000 gallons of fertilizer.
+
+3. We know that Janet has 400 gallons of fertilizer per day, so it will take her 8000 / 400 = 20 days to collect enough fertilizer.
+
+4. We know that Janet can spread fertilizer over 4 acres per day, so it will take her 20 / 4 = 5 days to spread the fertilizer over 20 acres.
+
+5. Therefore, it will take Janet 20 + 5 = 25 days to collect and spread the fertilizer.
+
+Answer: 25

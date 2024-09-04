@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Let's first find out how much money Sam has saved up from March to August:
+
+From March to August, Sam made $460 doing 23 hours of yard work. So, the hourly rate is:
+
+$460 / 23 hours = $20 per hour
+
+Now, let's find out how much money Sam has saved up:
+
+From September to February, Sam was able to work for 8 hours. So, he earned:
+
+$20 per hour * 8 hours = $160
+
+Sam has already spent $340 to fix his car, so he has:
+
+$460 - $340 = $120 left
+
+He needs to save up $600 - $120 = $480 more to buy the video game console.
+
+To find out how many more hours Sam needs to work to save $480, we can divide the amount needed by his hourly rate:
+
+$480 / $20 per hour = 24 hours
+
+So, Sam needs to work for 24 more hours to save up enough money to buy the video game console.
+
+Answer: 24

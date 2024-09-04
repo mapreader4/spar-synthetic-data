@@ -1,0 +1,5 @@
+Let's start by identifying the number of blueberries Miss Darlington has. She has 20 blueberries initially. Then, she picked 9 more baskets with the same amount of blueberries. So, we need to add the number of blueberries she had initially with the number of blueberries she picked.
+
+Let's add 20 + 9. 20 + 9 is equal to 29.
+
+Answer: 29

@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Ruby ordered 1 pepperoni pizza for her son
+* Ruby ordered 1 sausage pizza for her daughter
+* Ruby and her husband split 1 black olive and mushroom pizza
+* The pizza restaurant charged $10.00 per pizza
+* The pizza restaurant charged $1.00 per topping
+* Ruby needed to add a $5.00 tip
+
+Now, let's calculate the total cost:
+* 1 pepperoni pizza = $10.00
+* 1 sausage pizza = $10.00
+* 1 black olive and mushroom pizza = $10.00 + $1.00 (for 2 toppings) = $11.00
+* Tip = $5.00
+
+Total cost = $10.00 + $10.00 + $11.00 + $5.00 = $36.00
+
+Answer: 36

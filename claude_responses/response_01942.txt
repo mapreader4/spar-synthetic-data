@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Each pair of shorts normally costs $10.
+2) If Stacy buys 3 or more pairs at once, there is a 10% discount on the total cost.
+3) To calculate the cost of 3 pairs without the discount:
+   - 3 pairs x $10 per pair = $30
+4) To calculate the cost of 3 pairs with the 10% discount:
+   - $30 (total cost) x 0.9 (100% - 10% discount) = $27
+5) The savings by buying 3 pairs at once is:
+   - $30 (cost without discount) - $27 (cost with discount) = $3
+
+Answer: $3

@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+* Nathaniel starts with 11 tickets
+* He gives away 2 tickets each to his best friends
+* He continues doing this until he only has 3 tickets left
+* So, the number of tickets he gives away is 11 - 3 = 8
+* Since he gives away 2 tickets to each best friend, the number of best friends he has is 8 / 2 = 4
+
+Answer: 4

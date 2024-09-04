@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the fuel needed for the plane without any passengers or bags. For the empty plane, the fuel needed is 20 gallons per mile. For a 400-mile trip, we need to multiply 20 gallons per mile by 400 miles. 20 x 400 = 8000 gallons.
+
+Now, let's consider the passengers. Each person increases the fuel needed by 3 gallons per mile. There are 30 passengers, so that's 30 x 3 = 90 gallons more fuel needed. 8000 + 90 = 8090 gallons.
+
+Now, let's consider the bags. Each bag increases the fuel needed by 2 gallons per mile. There are 5 bags, and each person has 2 bags, so that's 5 x 2 = 10 more gallons of fuel needed. 8090 + 10 = 8100 gallons.
+
+So, the total fuel needed for the plane is 8100 gallons.
+
+Answer: 8100

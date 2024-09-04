@@ -1,0 +1,9 @@
+To find the number of pages Joanna needs to read to finish the book, we need to subtract the number of pages she has read from the total number of pages.
+
+The total number of pages Joanna has read is 16 * 3 + 16 * 6.5 = 48 + 102 = 150 pages.
+
+The total number of pages in the book is 248. So, we subtract 150 from 248 to find the number of pages she needs to read:
+
+248 - 150 = 98
+
+Answer: 98

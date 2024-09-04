@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the time it takes to wash a normal car. We know that washing a normal car takes 4 minutes for the windows, 7 minutes for the body, 4 minutes for the tires, and 9 minutes for waxing. So, the total time to wash a normal car is 4 + 7 + 4 + 9 = 24 minutes.
+
+Now, we know that William washed 2 normal cars. So, we need to multiply the time it takes to wash a normal car by 2. 2 x 24 minutes is 48 minutes.
+
+Now, we also know that William washed one big SUV, which took twice as long as a normal car. So, the time it took to wash the big SUV is 2 x 24 minutes = 48 minutes.
+
+To find the total time it took William to wash all the vehicles, we add the time it took to wash the 2 normal cars to the time it took to wash the big SUV. 48 + 48 = 96 minutes.
+
+Answer: 96

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) The coffee shop sold 8 more than four times the number of lattes as it did teas.
+2) We are given that 6 teas were sold.
+3) Let's call the number of lattes sold "x".
+4) The number of teas sold is 6, so the number of lattes sold is 4x + 8.
+5) Therefore, the equation is: 4x + 8 = x
+6) Solving for x, we get: 3x = 8, so x = 8/3 = 2.67
+7) Since the number of lattes sold must be an integer, the answer is:
+Answer: 3

@@ -1,0 +1,13 @@
+Let's start by converting the percentage of blue paint to a decimal: 70% = 0.7. We can then multiply this decimal by the total amount of paint to get the amount of blue paint that Marla is using: 0.7 x 1000 = 700. We're told that this is 140 ounces, so we can set up an equation to solve for the amount of white paint:
+
+Let W be the amount of white paint added. We know that the total amount of paint used is 1000 ounces, and that 140 ounces are blue, so we can set up an equation:
+
+140 + W + 140 = 1000
+
+We can subtract 140 from both sides to get:
+
+W = 1000 - 140
+
+W = 860
+
+So Marla adds 860 ounces of white paint.

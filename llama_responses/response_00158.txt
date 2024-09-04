@@ -1,0 +1,7 @@
+Let's think step by step.
+
+On the first 12 days, Jerome rides 12 miles each day. So, he rides 12 * 12 = 144 miles.
+
+On the 13th day, he still needs to ride x miles to reach his goal. His goal is 150 miles, so he needs to ride 150 - 144 = 6 more miles.
+
+Answer: 6

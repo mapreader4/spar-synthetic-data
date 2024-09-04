@@ -1,0 +1,15 @@
+Let's solve this problem step by step.
+
+Let's start by identifying the given information: 24 marbles in total, 6 red marbles, and the rest are orange marbles. We can represent this information using a simple equation:
+
+Total marbles = Blue marbles + Red marbles + Orange marbles
+
+We know that the total number of marbles is 24. Since half of the marbles are blue, the number of blue marbles is:
+
+Blue marbles = 24 / 2 = 12
+
+The number of red marbles is given as 6, so we can subtract this from the total number of marbles to find the number of orange marbles:
+
+Orange marbles = 24 - 12 - 6 = 8
+
+Answer: 8

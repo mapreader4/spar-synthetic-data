@@ -1,0 +1,19 @@
+Okay, let's break this down step by step:
+* Fifi has 7 pink hangers
+* Fifi has 4 green hangers
+* Fifi has one less blue hanger than there are green hangers
+* Fifi has one less yellow hanger than there are blue hangers
+
+First, let's calculate the number of blue hangers:
+* Fifi has one less blue hanger than there are green hangers
+* So, the number of blue hangers = 4 - 1 = 3
+
+Next, let's calculate the number of yellow hangers:
+* Fifi has one less yellow hanger than there are blue hangers
+* So, the number of yellow hangers = 3 - 1 = 2
+
+Now, we can calculate the total number of colored hangers in Fifi's closet:
+* Total hangers = 7 pink + 4 green + 3 blue + 2 yellow
+* Total hangers = 7 + 4 + 3 + 2 = 16
+
+Answer: 16

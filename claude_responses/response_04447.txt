@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* There are 60 questions on the test
+* 30 are multiple-choice and 30 are fill-in-the-blank
+* It takes Martiza 15 minutes to learn each multiple-choice question
+* It takes Martiza 25 minutes to learn each fill-in-the-blank question
+
+To calculate the total time needed to study:
+* For the 30 multiple-choice questions:
+  * 30 questions x 15 minutes per question = 450 minutes
+* For the 30 fill-in-the-blank questions:
+  * 30 questions x 25 minutes per question = 750 minutes
+* Total time needed = 450 minutes + 750 minutes = 1200 minutes
+
+Now, to convert the total minutes to hours:
+* 1200 minutes / 60 minutes per hour = 20 hours
+
+Therefore, Martiza will need 20 hours to study before she is ready for the test.
+
+Answer: 20

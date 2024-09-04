@@ -1,0 +1,13 @@
+Let's break this down step by step.
+
+Horatio writes a sonnet for his lady fair, and each sonnet is 14 lines long. He writes 7 sonnets before his lady fair leaves him. So, the number of sonnets written before she leaves is 7.
+
+To find the total number of sonnets written by Horatio, we need to add the 7 sonnets he wrote before his lady fair left him to the remaining sonnets he writes after she leaves him.
+
+Let's assume he writes more sonnets after she leaves him. Let's call this number x. Then, the total number of sonnets written by Horatio is 7 + x.
+
+The total number of lines written by Horatio is 14 lines per sonnet, so the total number of lines is 7 x 14 = 98. Since each sonnet is 14 lines long, the total number of sonnets is 98 / 14 = 7.
+
+So, the total number of sonnets written by Horatio is 7 + 7 = 14.
+
+Answer: 14

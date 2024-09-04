@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by finding the new price of the apples after the 25% price increase.
+
+The original price of the apples is $1.6 per pound.  To find the new price after the 25% increase, we multiply the original price by 1.25 (which is 1 + 0.25).
+
+$1.6 * 1.25 = $2.00
+
+So, the new price of the apples is $2.00 per pound.
+
+Now, we need to find the cost to buy 2 pounds of apples for each person in a 4 member family.
+
+2 pounds of apples is 2 * 2 = 4 pounds.
+
+The cost to buy 4 pounds of apples at the new price is 4 * $2.00 = $8.00.
+
+Answer: 8

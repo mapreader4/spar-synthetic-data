@@ -1,0 +1,11 @@
+Okay, let's think this through step-by-step:
+1) The class fund contains only $10 and $20 bills, which amount to $120 in total.
+2) The number of $10 bills is twice as many as the number of $20 bills.
+3) Let's represent the number of $20 bills as x.
+4) Since the number of $10 bills is twice as many as the number of $20 bills, the number of $10 bills is 2x.
+5) The total amount in the fund is $120, which is composed of the $20 bills and the $10 bills.
+6) The total amount can be represented as: 20x + 10(2x) = $120
+7) Simplifying the equation, we get: 20x + 20x = $120
+8) Solving for x, we get: 40x = $120
+9) Dividing both sides by 40, we get: x = 3
+Answer: 3

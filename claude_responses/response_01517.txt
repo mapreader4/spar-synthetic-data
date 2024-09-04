@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mark is looking to buy a total of 12 pieces of fruit
+* He has already chosen 3 apples
+* He has also selected a bunch of bananas containing 4 bananas
+* To find the number of oranges he needs to pick out, we need to subtract the number of apples and bananas from the total number of pieces of fruit he wants to buy
+
+First, let's add up the number of apples and bananas:
+* 3 apples + 4 bananas = 7 pieces of fruit
+
+Now, we can subtract this from the total of 12 pieces of fruit:
+* 12 total pieces of fruit - 7 pieces of fruit (apples and bananas) = 5 oranges
+
+Therefore, the number of oranges Mark needs to pick out is:
+
+Answer: 5

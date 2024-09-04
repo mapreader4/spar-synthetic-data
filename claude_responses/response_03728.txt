@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Sautéing the onions takes 20 minutes.
+2. Sautéing the garlic and peppers takes a quarter of the time it takes to saute the onions, which is 20 minutes / 4 = 5 minutes.
+
+3. Kneading the dough takes 30 minutes.
+4. Letting the dough rest takes twice as long as kneading, which is 30 minutes x 2 = 60 minutes.
+
+5. Assembling the calzones takes 1/10th the combined kneading and resting time, which is (30 minutes + 60 minutes) / 10 = 9 minutes.
+
+Now, we can add up all the times to get the total time spent on the calzones:
+20 minutes (onions) + 5 minutes (garlic and peppers) + 30 minutes (kneading) + 60 minutes (resting) + 9 minutes (assembling) = 124 minutes
+
+Answer: 124 minutes

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Keith bought 8 new baseball trading cards
+* The next day, his dog ate half of his collection
+* There are now only 46 cards left
+
+To find the total number of cards Keith started with, we need to work backwards.
+
+First, we know that after the dog ate half of the collection, there were 46 cards left.
+* This means that before the dog ate half, there were 2 x 46 = 92 cards.
+
+Now, we know that Keith bought 8 new cards the day before.
+* This means that before the 8 new cards were added, there were 92 - 8 = 84 cards.
+
+Therefore, the total number of cards Keith started with was 84.
+
+Answer: 84

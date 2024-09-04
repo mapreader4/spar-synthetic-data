@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* James has a budget of $1000 per semester
+* He spends 30% of his money on food
+* He spends 15% of his money on accommodation
+* He spends 25% of his money on entertainment
+* The remaining percentage is spent on coursework materials
+
+First, let's calculate the amounts spent on each category:
+* Food: 30% of $1000 = 0.30 * $1000 = $300
+* Accommodation: 15% of $1000 = 0.15 * $1000 = $150
+* Entertainment: 25% of $1000 = 0.25 * $1000 = $250
+
+Now, we can calculate the remaining amount spent on coursework materials:
+* Total budget: $1000
+* Amount spent on food, accommodation, and entertainment: $300 + $150 + $250 = $700
+* Amount spent on coursework materials = Total budget - Amount spent on other categories
+* Amount spent on coursework materials = $1000 - $700 = $300
+
+Answer: $300

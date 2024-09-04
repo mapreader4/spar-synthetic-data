@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The car traveled from Ningi to Zipra in 80% of the time it took to travel from Ngapara to Zipra.
+2) The car took 60 hours to travel from Ngapara to Zipra.
+3) To find the time it took to travel from Ningi to Zipra, we need to find 80% of the time it took to travel from Ngapara to Zipra.
+4) 80% of 60 hours is 0.8 * 60 = 48 hours.
+5) So the time it took to travel from Ningi to Zipra was 48 hours.
+6) To find the total time the car traveled that day, we add the time it took to travel from Ningi to Zipra (48 hours) and the time it took to travel from Ngapara to Zipra (60 hours).
+7) The total time the car traveled that day is 48 hours + 60 hours = 108 hours.
+
+Answer: 108

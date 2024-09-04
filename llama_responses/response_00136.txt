@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of small animals. Loraine made three times as many small animals as large animals. Since large animals take 2 sticks of wax, small animals take 1 stick of wax, and 1 stick of wax is equal to 2 sticks, we can set up an equation to represent the number of small animals:
+
+Let x be the number of small animals. Then, the number of small animals can be represented as 3x.
+
+We know that the number of small animals is equal to the number of sticks of wax used for small animals, which is 12. So, we can set up an equation:
+
+3x = 12
+
+To solve for x, we can divide both sides of the equation by 3:
+
+x = 12 ÷ 3
+x = 4
+
+So, the number of small animals is 4. Since each small animal takes 1 stick of wax, the total number of sticks of wax used for small animals is:
+
+1 stick of wax per animal x 4 animals = 4 sticks of wax
+
+Now, let's find the number of sticks of wax used for large animals. Large animals take 4 sticks of wax. Since Loraine made three times as many small animals as large animals, the number of large animals is 3x. So, the number of sticks of wax used for large animals is:
+
+4 sticks of wax per animal x 3 animals = 12 sticks of wax
+
+To find the total number of sticks of wax used for all animals, we can add the number of sticks of wax used for small animals and the number of sticks of wax used for large animals:
+
+4 sticks of wax for small animals + 12 sticks of wax for large animals = 16 sticks of wax
+
+Answer: 16

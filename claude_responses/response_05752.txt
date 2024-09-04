@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) The group contains men, women, and children.
+2) The number of men is twice the number of women.
+   * Let's say the number of women is x.
+   * Then the number of men is 2x.
+3) The number of women is 3 times the number of children.
+   * The number of children is given as 30.
+   * Therefore, the number of women is 3 * 30 = 90.
+4) Now we can calculate the number of men:
+   * The number of men is 2 times the number of women, which is 2 * 90 = 180.
+5) The total number of people in the group is the sum of the men, women, and children:
+   * Total number of people = 180 (men) + 90 (women) + 30 (children) = 300.
+
+Answer: 300

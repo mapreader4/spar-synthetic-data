@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Jack uses 3 cups of ketchup, 1 cup of vinegar, and 1 cup of honey to make the barbecue sauce
+* Each burger takes 1/4 cup of sauce
+* Each pulled pork sandwich takes 1/6 cup of sauce
+* Jack makes 18 pulled pork sandwiches
+
+First, let's calculate the total amount of sauce Jack can make:
+* Total sauce = 3 cups ketchup + 1 cup vinegar + 1 cup honey = 5 cups
+
+Now, let's calculate how much sauce is used for the 18 pulled pork sandwiches:
+* Sauce used for pulled pork = 18 sandwiches x 1/6 cup per sandwich = 3 cups
+
+The remaining sauce can be used for burgers:
+* Remaining sauce = 5 cups - 3 cups = 2 cups
+
+Finally, we can calculate how many burgers Jack can make with the remaining 2 cups of sauce:
+* Burgers = 2 cups / 1/4 cup per burger = 8 burgers
+
+Answer: 8 burgers

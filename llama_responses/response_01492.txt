@@ -1,0 +1,9 @@
+Let's solve this problem step by step.
+
+Let's first find the number of shoes Ellie has. Ellie has 8 pairs of shoes, so she has a total of 8 shoes. Since each pair of shoes is 2 shoes, Ellie has 8 * 2 = 16 shoes.
+
+Next, let's find the number of shoes Riley has. Riley has 3 fewer shoes than Ellie, so Riley has 8 - 3 = 5 shoes.
+
+Now, let's add the number of shoes Ellie and Riley have. Ellie has 16 shoes and Riley has 5 shoes, so together they have 16 + 5 = 21 shoes.
+
+Answer: 21

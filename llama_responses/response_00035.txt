@@ -1,0 +1,16 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information. We know that 40% of the students got a final grade below B. We also know that there are 60 students in Grade 5.
+
+Let's say the number of students who got a final grade below B is x.
+
+We know that 40% of the 60 students got a final grade below B. To find the number of students who got a final grade below B, we can set up an equation:
+
+0.4x = 40
+
+To solve for x, we can multiply both sides of the equation by 100 to get:
+
+x = 40 * 100 / 4
+x = 10
+
+Answer: 10

@@ -1,0 +1,23 @@
+To solve this problem, we need to find the average speed when there is heavy traffic and when there is no traffic, and then calculate the difference between them.
+
+Given information:
+- The distance to Jennie's son's house is 200 miles.
+- The trip takes 5 hours when there is heavy traffic.
+- The trip takes 4 hours when there is no traffic.
+
+Step 1: Calculate the average speed when there is heavy traffic.
+Average speed = Distance / Time
+Average speed = 200 miles / 5 hours
+Average speed = 40 miles per hour
+
+Step 2: Calculate the average speed when there is no traffic.
+Average speed = Distance / Time
+Average speed = 200 miles / 4 hours
+Average speed = 50 miles per hour
+
+Step 3: Calculate the difference between the average speeds.
+Difference in average speed = Average speed with no traffic - Average speed with heavy traffic
+Difference in average speed = 50 miles per hour - 40 miles per hour
+Difference in average speed = 10 miles per hour
+
+Answer: 10 miles per hour

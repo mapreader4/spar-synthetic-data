@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Meghan had 2 $100 bills
+* Each $100 bill is worth $100
+* So, the value of the 2 $100 bills is 2 x $100 = $200
+
+* Meghan had 5 $50 bills
+* Each $50 bill is worth $50
+* So, the value of the 5 $50 bills is 5 x $50 = $250
+
+* Meghan had 10 $10 bills
+* Each $10 bill is worth $10
+* So, the value of the 10 $10 bills is 10 x $10 = $100
+
+* To calculate the total amount of money Meghan had, we add up the values of the different denominations:
+* $200 + $250 + $100 = $550
+
+Answer: 550

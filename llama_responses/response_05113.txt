@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find the distance one bird travels in one round trip. Since the birds make 10 round trips, and each trip is round trip, the total distance one bird travels is 2 x 200 = 400 miles.
+
+The total distance both birds cover in 10 trips is 2 x 400 = 800 miles.
+
+Answer: 800

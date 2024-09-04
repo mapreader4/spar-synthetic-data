@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Emma starts with $100 in her account
+* Each day, she spends $8
+* There are 7 days in a week
+* So, the total amount she spends in a week is:
+    - 7 days x $8 per day = $56
+* Therefore, the amount remaining in her account at the end of the week is:
+    - $100 - $56 = $44
+* Emma then asks for as many $5 bills as her account can give her
+* $44 / $5 per bill = 8 bills
+* The remaining amount in her account is:
+    - $44 - (8 x $5) = $44 - $40 = $4
+
+Answer: $4

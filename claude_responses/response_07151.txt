@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. In the first year, Kate visited the museum once a month, so 12 times. The entrance fee was $5 per visit.
+   * Total cost for the first year = 12 visits x $5 per visit = $60
+
+2. In the second and third years, Kate visited the museum 4 times per year, and the entrance fee was $7 per visit.
+   * Total cost for the second and third years = 2 years x 4 visits per year x $7 per visit = $56 per year
+   * Total cost for the second and third years = $56 x 2 years = $112
+
+3. To calculate the total cost for all 3 years:
+   * Total cost = Cost for first year + Cost for second and third years
+   * Total cost = $60 + $112 = $172
+
+Answer: $172

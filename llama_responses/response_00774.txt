@@ -1,0 +1,21 @@
+Let's break down the costs for each job:
+
+Job 1: Fixing 3 toilets and 3 sinks at an apartment complex
+- 3 toilets = 3 x $50 = $150
+- 3 sinks = 3 x $30 = $90
+Total cost for Job 1: $150 + $90 = $240
+
+Job 2: Fixing 2 toilets and 5 sinks at a different apartment complex
+- 2 toilets = 2 x $50 = $100
+- 5 sinks = 5 x $30 = $150
+Total cost for Job 2: $100 + $150 = $250
+
+Job 3: Fixing 1 toilet, 2 showers, and 3 sinks at a third apartment complex
+- 1 toilet = $50
+- 2 showers = 2 x $40 = $80
+- 3 sinks = 3 x $30 = $90
+Total cost for Job 3: $50 + $80 + $90 = $220
+
+Comparing the total costs, Job 2 has the highest total cost, which is $250. Therefore, the most money the plumber can earn is:
+
+Answer: 250

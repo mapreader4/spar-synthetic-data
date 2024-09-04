@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+There are 10 branches, each with 40 sub-branches, so there are 10 x 40 = 400 sub-branches.
+
+Each sub-branch has 60 leaves, so there are 400 x 60 = 24,000 leaves.
+
+There are 4 trees, so the total number of leaves is 24,000 x 4 = 96,000.
+
+Answer: 96000

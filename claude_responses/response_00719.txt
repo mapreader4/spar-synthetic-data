@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, the library received 50 visitors.
+2. On Tuesday, the library received twice the number of visitors as Monday, which is 2 * 50 = 100 visitors.
+3. For the remaining 5 days of the week (Wednesday through Sunday), the library received an average of 20 visitors per day.
+4. To calculate the total number of visitors for those 5 days, we multiply 20 visitors per day by 5 days: 20 * 5 = 100 visitors.
+
+Now, to get the total number of visitors for the week, we add up the visitors from Monday, Tuesday, and the remaining 5 days:
+50 + 100 + 100 = 250 visitors
+
+Answer: 250

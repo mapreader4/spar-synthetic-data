@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by letting y be the length of Derrick's yard, in yards.
+
+Since Brianne's yard is 6 times the size of Alex's yard, and Alex's yard is half the size of Derrick's, we can write the equation:
+
+Brianne's yard = 6 * (Alex's yard) = 6 * (0.5 * y) = 6 * 0.5y
+
+We know Brianne's yard is 30 yards long, so we can set up the equation 6 * 0.5y = 30. We can solve for y by dividing both sides by 6:
+
+0.5y = 30 / 6
+0.5y = 5
+
+So, Derrick's yard is 5 yards long.

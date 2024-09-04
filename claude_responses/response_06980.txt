@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Bill buys a box of 50 donuts
+* He eats 2 donuts on the ride in
+* So, there are now 50 - 2 = 48 donuts left in the box
+* The secretary takes 4 donuts when Bill is not looking
+* So, there are now 48 - 4 = 44 donuts left in the box
+* While Bill is on the phone, his coworkers steal half the remaining donuts
+* There are 44 donuts left, and his coworkers steal half of that, which is 44 / 2 = 22 donuts
+* So, there are now 44 - 22 = 22 donuts left in the box
+
+Answer: 22

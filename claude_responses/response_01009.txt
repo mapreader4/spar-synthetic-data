@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) We know that half the alligators are male, and the other half are female.
+2) Among the female alligators, 40% are juveniles. This means 60% are adults.
+3) We are told that there are 15 adult female alligators.
+4) To find the total number of female alligators, we can divide the number of adult females (15) by the percentage of adult females (60%):
+   Total female alligators = 15 / 0.6 = 25
+5) Since half the alligators are male, the number of male alligators is also 25.
+
+Answer: 25

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Mr. Langsley is picked up by the bus at 6:00 a.m.
+* The bus takes 40 minutes to arrive at the first station.
+* So, Mr. Langsley arrives at the first station at 6:40 a.m.
+* Mr. Langsley arrives at work at 9:00 a.m.
+* To find the total time taken from the first station to Mr. Langsley's workplace, we need to subtract the time he arrived at the first station from the time he arrived at work.
+* 9:00 a.m. - 6:40 a.m. = 2 hours and 20 minutes
+* 2 hours and 20 minutes = 140 minutes
+
+Answer: 140

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Janice goes up the three flights of stairs 5 times, which means she goes up a total of 5 x 3 = 15 flights of stairs.
+
+Janice goes down the three flights of stairs 3 times, which means she goes down a total of 3 x 3 = 9 flights of stairs.
+
+The number of times she uses the elevator is the total number of times she goes up or down the stairs minus the number of times she goes up and down the stairs. Since she goes up the stairs 5 times and down the stairs 3 times, the total number of times she goes up or down the stairs is 5 + 3 = 8.
+
+So, the remainder of the time she uses the elevator is 8 - (15 + 9) = 8 - 24 = 16.
+
+Since she uses the elevator 16 times, and each time she uses the elevator, she walks 0 flights of stairs. Therefore, the total number of flights of stairs she walks is 15 (up) + 9 (down) = 24.
+
+Answer: 24

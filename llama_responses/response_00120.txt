@@ -1,0 +1,21 @@
+Let's break down the problem step by step.
+
+Carrie works for $8 an hour, so her daily earnings are:
+
+8 * 8 = 64
+
+She works for 35 hours a week, so her weekly earnings are:
+
+64 * 35 = 2240
+
+Since it's been a month, she has worked for 4 weeks:
+
+2240 * 4 = 8960
+
+Carrie wants to buy a bike for $400, so she has:
+
+8960 - 400 = 8560
+
+Carrie will have 8560 - 400 = 8160 left over after she buys her bike.
+
+Answer: 8160

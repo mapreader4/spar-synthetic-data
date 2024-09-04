@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The government gives the bottom 20% of people a $2000 stimulus
+* This stimulus returns 5 times as much money to the government in terms of tax revenue as it cost
+* The city has 1000 people
+
+First, we need to find out how many people are in the bottom 20% of the population:
+* 20% of 1000 people = 0.2 * 1000 = 200 people
+
+Next, we need to calculate the total cost of the stimulus:
+* 200 people x $2000 per person = $400,000
+
+Now, we know that the stimulus returns 5 times as much money to the government in terms of tax revenue as it cost. So, we can calculate the total tax revenue:
+* $400,000 x 5 = $2,000,000
+
+Finally, to find the government's profit, we subtract the cost from the tax revenue:
+* $2,000,000 - $400,000 = $1,600,000
+
+Answer: $1,600,000

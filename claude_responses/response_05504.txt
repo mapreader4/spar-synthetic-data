@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Thomas owns 200 books
+2) Each book sells for $1.5
+3) So the total amount of money he will get from selling all 200 books is:
+   200 books x $1.5 per book = $300
+4) He wants to buy 75 records, and each record costs $3
+5) So the total cost of 75 records is:
+   75 records x $3 per record = $225
+6) To calculate the amount of money he has left over, we take the total amount of money he got from selling the books ($300) and subtract the total cost of the records ($225):
+   $300 - $225 = $75
+
+Answer: 75

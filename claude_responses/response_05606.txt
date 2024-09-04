@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Gunther needs to:
+  - Vacuum the carpets: 45 minutes
+  - Dust the furniture: 60 minutes
+  - Mop the floors in the kitchen: 30 minutes
+  - Brush each of his 3 cats: 5 minutes per cat, so 3 x 5 = 15 minutes
+* Adding up all the tasks:
+  - 45 minutes + 60 minutes + 30 minutes + 15 minutes = 150 minutes
+* Gunther has 3 hours of free time available, which is 180 minutes.
+* To find the amount of free time left after cleaning the apartment, we subtract the time needed for cleaning from the total free time:
+  - 180 minutes - 150 minutes = 30 minutes
+
+Answer: 30 minutes

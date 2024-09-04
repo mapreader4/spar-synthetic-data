@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jack has 2 $100 bills, which is 2 x $100 = $200
+* He has 1 $50 bill, which is $50
+* He has 5 $20 bills, which is 5 x $20 = $100
+* He has 3 $10 bills, which is 3 x $10 = $30
+* He has 7 $5 bills, which is 7 x $5 = $35
+* He has 27 $1 bills, which is 27 x $1 = $27
+* The total amount of bills is $200 + $50 + $100 + $30 + $35 + $27 = $442
+* He is supposed to leave $300 in notes, so the amount he will be handing in is $442 - $300 = $142
+* The amount of coins in the till is not specified, so we don't know the exact amount he will be handing in.
+
+Answer: $142

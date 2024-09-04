@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's say the machine makes 6 turns in 30 seconds. So, to find the number of turns it makes in 2 hours, we can multiply the number of turns per 30 seconds by the number of 30 seconds in 2 hours.
+
+There are 2 hours = 120 seconds, so we can multiply 6 turns per 30 seconds by 120 seconds.
+
+6 * 120 = 720.
+
+Answer: 720

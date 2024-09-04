@@ -1,0 +1,7 @@
+To solve this problem, I will start by first finding out how much money Delores had at first. If she has $10 left after buying the computer and the printer, then she must have had more than $10.
+
+Let's use a variable to represent the amount of money Delores had at first. Let's call it x.
+
+We know that the total cost of the computer and the printer is $400 + $40 = $440. We know that this is equal to x - $10 because Delores has $10 left. So, we can set up the equation x - $10 = $440. We can then solve for x by adding $10 to both sides of the equation to get x = $450.
+
+Answer: 450

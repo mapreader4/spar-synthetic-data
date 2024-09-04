@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Step 1: To raise the temperature of the candy mixture from 60 degrees to 240 degrees, it will take 240 - 60 = 180 degrees.
+
+Step 2: To cool it down to 170 degrees, it will take 170 - 240 = 70 degrees.
+
+Step 3: The candy heats at 5 degrees/minute, so to heat from 240 degrees to 170 degrees, it will take 70 degrees / 5 = 14 minutes.
+
+Step 4: The candy cools at 7 degrees/minute, so to cool from 170 degrees to the final temperature, it will take 70 degrees / 7 = 10 minutes.
+
+So, the total time it will take to make the fudge is 14 + 10 = 24 minutes.
+
+Answer: 24

@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) The first floor of the building contains twice as much floor space for storage as the second floor.
+2) Bubba put several thousand boxes on the second floor, which filled one-quarter of the second floor storage space.
+3) The boxes used up 5,000 square feet of storage space.
+
+To find the total storage space available in the building, we need to first find the storage space on each floor.
+
+The second floor storage space is 5,000 square feet, which is one-quarter of the total second floor storage space. Therefore, the total second floor storage space is 4 * 5,000 = 20,000 square feet.
+
+Since the first floor has twice the storage space of the second floor, the first floor storage space is 2 * 20,000 = 40,000 square feet.
+
+The total storage space in the building is the sum of the first and second floor storage spaces, which is 40,000 + 20,000 = 60,000 square feet.
+
+The amount of storage space still available in the building is the total storage space minus the space used by the boxes, which is 60,000 - 5,000 = 55,000 square feet.
+
+Answer: 55,000 square feet.

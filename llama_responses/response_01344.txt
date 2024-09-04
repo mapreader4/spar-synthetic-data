@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's calculate how much he makes per hour in his old job:
+
+Old job: 25 hours a week * $16 per hour = $400 per week
+$400 per week * 52 weeks per year = $20,800 per year
+
+Let's calculate how much he makes per hour in his new job:
+
+New job: 40 hours a week * $20 per hour = $800 per week
+$800 per week * 52 weeks per year = $41,600 per year
+
+Now, let's find out how much more he makes in his new job than his old job:
+
+$41,600 per year - $20,800 per year = $20,480
+
+So, he makes $20,480 more per year in his new job than his old job.
+
+Answer: 20,480

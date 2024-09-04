@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's say the price of a single necklace is x.  Then, the total price of the three necklaces would be 3x.  The earrings are three times as expensive as one necklace, so the price of the earrings is 3x.  The total price of the necklaces and earrings is 3x + 3x, which is 6x.  We know that the total price is 240,000, so we can set up an equation: 6x = 240,000.
+
+To solve for x, we can divide both sides by 6: x = 240,000 / 6 = 40,000.
+
+So, the price of a single necklace is 40,000.

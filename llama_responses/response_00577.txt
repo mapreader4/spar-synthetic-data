@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Each team has 10 members.
+2. Each member needs 2 pairs of skates, so each team needs 20 skates.
+3. Each pair of skates requires 3 sets of laces.
+4. Since each team has 20 skates, and each pair of skates needs 3 sets of laces, the total number of laces needed is 20 * 3 = 60.
+5. However, since there are 2 teams, the total number of laces needed is 2 * 60 = 120.
+
+Answer: 120

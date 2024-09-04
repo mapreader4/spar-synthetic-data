@@ -1,0 +1,19 @@
+To solve this problem, we need to find the time it takes for Mary and Ann to slide down their respective hills, and then calculate the difference between their trip times.
+
+Given information:
+- Mary's hill is 630 feet long, and she slides at a speed of 90 feet/minute.
+- Ann's hill is 800 feet long, and she slides at a speed of 40 feet/minute.
+
+Step 1: Calculate the time it takes for Mary to slide down her hill.
+Time taken by Mary = Distance / Speed
+Time taken by Mary = 630 feet / 90 feet/minute = 7 minutes
+
+Step 2: Calculate the time it takes for Ann to slide down her hill.
+Time taken by Ann = Distance / Speed
+Time taken by Ann = 800 feet / 40 feet/minute = 20 minutes
+
+Step 3: Calculate the difference between Ann's and Mary's trip times.
+Difference in trip time = Ann's trip time - Mary's trip time
+Difference in trip time = 20 minutes - 7 minutes = 13 minutes
+
+Answer: 13 minutes

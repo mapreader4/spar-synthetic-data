@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* 60% of the employees are women, and the rest are men
+* So, if 60% are women, then 40% are men
+* Of the men, 75% have a college degree, and 8 do not
+* To find the number of men without a college degree, we can use the information that 8 do not have a degree
+* If 75% of the men have a degree, then 25% do not
+* So, the number of men without a degree is 25% of the total number of men
+* Let's call the total number of employees "x"
+* Then the number of men is 0.4x, and the number of men without a degree is 0.25 * 0.4x = 0.1x
+* Since we know that 8 men do not have a degree, we can set up the equation: 0.1x = 8
+* Solving for x, we get x = 80
+* So the total number of employees is 80
+* And the number of women is 60% of 80, which is 48
+
+Answer: 48

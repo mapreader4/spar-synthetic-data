@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+We know that the store had 400 marbles initially. Then, 20 customers came into the store, and each bought 15 marbles. To find the total number of marbles bought, we multiply the number of customers by the number of marbles each customer bought: 20 * 15 = 300.
+
+So, the total number of marbles bought is 300. To find the number of marbles remaining, we subtract the number of marbles bought from the initial amount of marbles: 400 - 300 = 100.
+
+Answer: 100

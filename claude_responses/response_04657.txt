@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Fatima has a piece of cloth that is 100 square inches.
+2) She decides to cut the cloth in half. This means she will have two pieces of cloth, each 50 square inches.
+3) She plans on keeping one half (50 square inches) and donating the other half (50 square inches).
+4) She does this process 2 times.
+5) In the first iteration, she donates 50 square inches.
+6) In the second iteration, she donates another 50 square inches.
+7) In total, she has donated 50 + 50 = 100 square inches of cloth.
+
+Answer: 100

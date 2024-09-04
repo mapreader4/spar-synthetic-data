@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* John visits three different countries
+* He stays in the first country for 2 weeks
+* He spends twice as long in each of the other two countries
+
+To calculate the total time spent on the trip, we need to add up the time spent in each country:
+* Time spent in the first country: 2 weeks
+* Time spent in the second country: 2 x 2 weeks = 4 weeks
+* Time spent in the third country: 2 x 2 weeks = 4 weeks
+
+Now, we add up the time spent in all three countries:
+* Total time spent on the trip = 2 weeks + 4 weeks + 4 weeks = 10 weeks
+
+Answer: 10

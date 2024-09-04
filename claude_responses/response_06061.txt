@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Josh has a total of 85 marbles
+2) There are three times as many blue marbles as red marbles
+3) The number of red marbles is 14
+4) To find the number of blue marbles, we can multiply the number of red marbles by 3:
+   * Number of blue marbles = 3 x 14 = 42
+5) Now we can find the number of yellow marbles by subtracting the number of red and blue marbles from the total number of marbles:
+   * Number of yellow marbles = 85 - 14 - 42 = 29
+
+Answer: 29

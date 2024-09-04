@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The pie shop charges $5 for a slice of pie. They cut each whole pie into 4 slices.
+
+Step 2: If they sell 9 pies, the total number of slices is 9 * 4 = 36.
+
+Step 3: The shop will make 36 slices in total.
+
+Step 4: Each slice costs $5. So, the total revenue will be 36 * $5 = 36 * 5 = 180.
+
+Answer: 180

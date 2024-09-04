@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. There are 200 students in the school, and 60% of them are boys, so the number of boys is 0.6 x 200 = 120.
+2. June needs just over 50% of the vote to win, so she needs 50% of the 200 students, which is 0.5 x 200 = 100 votes.
+3. 67.5% of the boys voted for June, which is 0.675 x 120 = 81 votes.
+4. The total number of votes is 200, and June has already received 81 votes from the boys. To find the smallest percentage of the female votes she needs, we subtract the 81 votes she has received from the boys from the total 100 votes she needs, which is 100 - 81 = 19.
+5. To find the percentage of female votes she needs, we divide the 19 votes by the total 200 students, which is 19 / 200 = 0.095.
+
+Answer: 9.5

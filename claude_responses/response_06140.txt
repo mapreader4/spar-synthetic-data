@@ -1,0 +1,30 @@
+Okay, let's break this down step by step:
+
+1. Joyce's favorite movie is 2 hours longer than Michael's movie.
+2. Nikki's movie is three times as long as Michael's movie.
+3. Ryn's favorite movie is 4/5 times as long as Nikki's favorite movie.
+4. Nikki's favorite movie is 30 hours long.
+
+First, let's find the length of Michael's movie:
+* Nikki's movie is 3 times as long as Michael's movie
+* Nikki's movie is 30 hours long
+* Therefore, Michael's movie is 30 / 3 = 10 hours long
+
+Next, let's find the length of Joyce's movie:
+* Joyce's movie is 2 hours longer than Michael's movie
+* Michael's movie is 10 hours long
+* Therefore, Joyce's movie is 10 + 2 = 12 hours long
+
+Now, let's find the length of Ryn's movie:
+* Ryn's movie is 4/5 times as long as Nikki's movie
+* Nikki's movie is 30 hours long
+* Therefore, Ryn's movie is 30 * 4/5 = 24 hours long
+
+Finally, we can calculate the total number of hours of their favorite movies together:
+* Joyce's movie: 12 hours
+* Michael's movie: 10 hours
+* Nikki's movie: 30 hours
+* Ryn's movie: 24 hours
+* Total: 12 + 10 + 30 + 24 = 76 hours
+
+Answer: 76

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Roberta started with 8 vinyl records
+* Her friends gave her 12 more records for her birthday
+* She bought 30 more records at a garage sale
+* So, the total number of records she has is:
+  * 8 (initial) + 12 (birthday) + 30 (garage sale) = 50 records
+* It takes her 2 days to listen to 1 record
+* To find the total number of days it will take her to listen to all 50 records, we multiply the number of records by the number of days per record:
+  * 50 records x 2 days/record = 100 days
+
+Answer: 100 days

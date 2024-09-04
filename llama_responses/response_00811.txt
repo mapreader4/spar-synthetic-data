@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Steve starts with 200 fish in stock.
+
+He sells 50 fish. So, he has 200 - 50 = 150 fish left.
+
+Then, a third of the remaining 150 fish become spoiled. So, 150 / 3 = 50 fish become spoiled.
+
+So, Steve has 150 fish left.
+
+Then, a new stock of 200 more fish arrives. So, he now has 150 + 200 = 350 fish in stock.
+
+Answer: 350

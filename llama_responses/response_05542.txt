@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given:
+
+* Each harvest, three-quarters of the boxes are full, and the remaining boxes are half-full.
+* There are 20 boxes in total in each harvest.
+* The number of full boxes is 3/4 of 20, which is 15 boxes.
+* The number of half-full boxes is 20 - 15 = 5 boxes.
+* The total number of parsnips is the sum of the parsnips in the full boxes and the parsnips in the half-full boxes.
+
+Let's calculate the total number of parsnips in the full boxes:
+15 boxes x 20 parsnips per box = 300 parsnips
+
+Let's calculate the total number of parsnips in the half-full boxes:
+5 boxes x 10 parsnips per box (since each half-box has 10 parsnips) = 50 parsnips
+
+The total number of parsnips in each harvest is the sum of the parsnips in the full boxes and the parsnips in the half-full boxes:
+300 parsnips + 50 parsnips = 350 parsnips
+
+Answer: 350

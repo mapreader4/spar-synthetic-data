@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Conor can chop 12 eggplants, 9 carrots, and 8 potatoes in a day
+* He works 4 times a week
+* To find the total number of vegetables he can chop in a week, we need to add up the number of each vegetable he can chop in a day, and then multiply that by the number of days he works in a week.
+
+* Eggplants per week: 12 eggplants per day x 4 days per week = 48 eggplants
+* Carrots per week: 9 carrots per day x 4 days per week = 36 carrots
+* Potatoes per week: 8 potatoes per day x 4 days per week = 32 potatoes
+
+* To find the total number of vegetables, we add up the number of each vegetable:
+48 eggplants + 36 carrots + 32 potatoes = 116 vegetables
+
+Answer: 116

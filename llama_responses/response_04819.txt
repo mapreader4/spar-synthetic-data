@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The boss contributes $15.
+2. Todd contributes twice as much as the boss, so Todd contributes 2 x $15 = $30.
+3. The total amount contributed so far is $15 + $30 = $45.
+4. The total amount needed is $100, so the remaining amount is $100 - $45 = $55.
+5. There are 5 employees, including Nick, who need to contribute the remaining amount. To find out how much each contributes, we can divide the remaining amount by 5: $55 / 5 = $11.
+
+Answer: 11

@@ -1,0 +1,16 @@
+To solve this problem, we need to find the rate at which the machine fills the cans and then use that rate to calculate the time it takes to fill 675 cans.
+
+Given information:
+- The machine fills 150 cans of paint every 8 minutes.
+
+Step 1: Find the rate at which the machine fills the cans.
+Rate = Number of cans filled / Time taken
+Rate = 150 cans / 8 minutes
+Rate = 18.75 cans per minute
+
+Step 2: Calculate the time it takes to fill 675 cans.
+Time = Number of cans / Rate
+Time = 675 cans / 18.75 cans per minute
+Time = 36 minutes
+
+Answer: 36 minutes.

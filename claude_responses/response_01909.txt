@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) There are 40 kids running the race.
+2) 10% of 40 kids finish in less than 6 minutes. 10% of 40 is 4, so 4 kids finish in less than 6 minutes.
+3) Three times the number of kids who finished in less than 6 minutes finish in less than 8 minutes. 3 x 4 = 12, so 12 kids finish in less than 8 minutes.
+4) The remaining number of kids is 40 - 4 - 12 = 24.
+5) 1/6 of the remaining 24 kids take more than 14 minutes. 1/6 of 24 is 4, so 4 kids take more than 14 minutes.
+
+Answer: 4

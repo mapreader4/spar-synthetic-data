@@ -1,0 +1,22 @@
+To solve this problem, we need to find the total number of days it took Jane to read the entire book.
+
+Given information:
+- The book has 500 pages.
+- Jane read the first half of the book (250 pages) at a speed of 10 pages per day.
+- Jane read the second half of the book (250 pages) at a speed of 5 pages per day.
+
+Step 1: Calculate the number of days it took Jane to read the first half of the book.
+Number of pages in the first half = 250 pages
+Speed of reading the first half = 10 pages per day
+Number of days to read the first half = 250 pages / 10 pages per day = 25 days
+
+Step 2: Calculate the number of days it took Jane to read the second half of the book.
+Number of pages in the second half = 250 pages
+Speed of reading the second half = 5 pages per day
+Number of days to read the second half = 250 pages / 5 pages per day = 50 days
+
+Step 3: Calculate the total number of days it took Jane to read the entire book.
+Total number of days = Number of days to read the first half + Number of days to read the second half
+Total number of days = 25 days + 50 days = 75 days
+
+Answer: 75 days

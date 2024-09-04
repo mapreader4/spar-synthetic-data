@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) John buys 1000 balloons
+2) Each balloon holds 10 liters of air
+3) To find the total volume of air needed to fill all the balloons, we multiply the number of balloons by the volume of each balloon:
+   1000 balloons x 10 liters/balloon = 10,000 liters of air
+4) Each tank holds 500 liters of gas
+5) To find the number of tanks needed, we divide the total volume of air needed by the volume of each tank:
+   10,000 liters / 500 liters/tank = 20 tanks
+
+Answer: 20 tanks

@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Frank picked 36 apples
+2) Susan picked 3 times as many apples as Frank, so Susan picked 36 x 3 = 108 apples
+3) Susan gave out half of her apples, so she has 108 / 2 = 54 apples left
+4) Frank sold a third of his apples, so he has 36 - (36 / 3) = 36 - 12 = 24 apples left
+5) In total, Frank has 24 apples left, and Susan has 54 apples left.
+6) The total number of apples they have left is 24 + 54 = 78 apples.
+
+Answer: 78

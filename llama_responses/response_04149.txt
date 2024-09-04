@@ -1,0 +1,16 @@
+Let's break down the problem step by step:
+
+1. The first level has 90 parking spaces.
+2. The second level has 8 more parking spaces than the first level, so it has 90 + 8 = 98 parking spaces.
+3. The third level has 12 more parking spaces than the second level, so it has 98 + 12 = 110 parking spaces.
+4. The fourth level has 9 fewer parking spaces than the third level, so it has 110 - 9 = 101 parking spaces.
+
+Now, we need to find the total number of parking spaces available. We can do this by adding up the parking spaces on each level:
+
+90 + 98 + 110 + 101 = 399
+
+Since 100 cars are already parked, we need to subtract that from the total number of parking spaces:
+
+399 - 100 = 299
+
+Answer: 299

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Wendy drove 125 miles on the first day
+* Wendy drove 223 miles on the second day
+* The total miles driven for the 3-day trip is 493 miles
+
+To find the number of miles driven on the third day, we need to subtract the miles driven on the first two days from the total miles driven:
+* Total miles driven = 493 miles
+* Miles driven on first day = 125 miles
+* Miles driven on second day = 223 miles
+* Miles driven on third day = Total miles - (Miles on first day + Miles on second day)
+* Miles driven on third day = 493 - (125 + 223)
+* Miles driven on third day = 493 - 348
+* Miles driven on third day = 145 miles
+
+Answer: 145 miles

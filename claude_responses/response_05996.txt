@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. In the first year, the apple tree produced 40 apples.
+
+2. In the second year, the apple tree produced 8 more than double the amount of apples it produced in the first year. 
+   - The amount of apples produced in the first year was 40.
+   - Double that amount is 40 x 2 = 80.
+   - Adding 8 more, the total amount of apples produced in the second year is 80 + 8 = 88.
+
+3. In the third year, the production went down by a fourth due to an insect infestation.
+   - The amount of apples produced in the second year was 88.
+   - A fourth of 88 is 88 / 4 = 22.
+   - Subtracting 22 from 88, the total amount of apples produced in the third year is 88 - 22 = 66.
+
+Now, to calculate the total number of apples produced in the first three years:
+   - First year: 40 apples
+   - Second year: 88 apples
+   - Third year: 66 apples
+   - Total: 40 + 88 + 66 = 194 apples
+
+Answer: 194

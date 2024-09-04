@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The Lady Eagles basketball team scored a total of 311 points in 5 games.
+* Some players combined for 188 points.
+* The remaining points were scored equally by Lisa, Jessie, and Devin.
+
+To find how many points Jessie scored, we need to first find the total points scored by Lisa, Jessie, and Devin.
+* Total points scored = 311 points
+* Points scored by some players = 188 points
+* Points scored by Lisa, Jessie, and Devin = 311 - 188 = 123 points
+
+Since Lisa, Jessie, and Devin scored the remaining points equally, we can divide the 123 points by 3 to find how many points each of them scored.
+* Points scored by each of Lisa, Jessie, and Devin = 123 / 3 = 41 points
+
+Therefore, Jessie scored 41 points.
+
+Answer: 41

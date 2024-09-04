@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+
+1. In January, the families visiting the national park saw animals 26 times.
+
+2. In February, the families saw animals three times as many as they saw in January. 
+   * In January, they saw animals 26 times.
+   * So in February, they saw animals 3 x 26 = 78 times.
+
+3. In March, the animals were shyer, and the families saw animals half as many times as they did in February.
+   * In February, they saw animals 78 times.
+   * So in March, they saw animals 78 / 2 = 39 times.
+
+Now, to find the total number of times families saw animals in the first three months of the year, we add up the number of times they saw animals in each month:
+* January: 26 times
+* February: 78 times
+* March: 39 times
+* Total: 26 + 78 + 39 = 143 times
+
+Answer: 143

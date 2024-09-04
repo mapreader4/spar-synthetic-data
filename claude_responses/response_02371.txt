@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. Tommy can ride his bike 2 blocks north, 3 blocks east, 2 blocks west, and 2 blocks south.
+2. This means the total area Tommy can ride in is a rectangle with a length of 5 blocks (3 blocks east - 2 blocks west) and a width of 4 blocks (2 blocks north - 2 blocks south).
+3. The area of the rectangle Tommy can ride in is 5 blocks x 4 blocks = 20 square blocks.
+4. Tommy's friend can ride his bike in an area of 80 square blocks.
+5. To find how many times greater the area his friend can ride in is compared to Tommy, we divide the friend's area by Tommy's area:
+80 square blocks / 20 square blocks = 4
+
+Answer: 4

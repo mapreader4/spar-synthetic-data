@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Step 1: We know that the truck can fill 20 cans in 3 hours when each can is filled to three quarters of its capacity. So, the capacity of each can is 1/4 of the total capacity of 20 cans. The total capacity of 20 cans is 20 gallons.
+
+Step 2: We know that each can can be filled to full capacity, so the capacity of each can is 1 gallon.
+
+Step 3: The total capacity of 25 cans is 25 gallons. We want to find out how long it will take to fill 25 cans, so we need to divide the total capacity of 25 cans (25 gallons) by the capacity of each can (1 gallon).
+
+Answer: 25 gallons / 1 gallon = 25 hours.

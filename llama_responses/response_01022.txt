@@ -1,0 +1,23 @@
+Let's solve this problem step by step.
+
+Let's say Rachel's age is x. Then, Leah's age is x - 4.
+
+The sum of their ages is 34, so we can write an equation to represent this:
+
+x + (x - 4) = 34
+
+To solve for x, we can add 4 to both sides of the equation to get:
+
+x - 4 + x = 34 + 4
+
+Combine like terms on the right side of the equation:
+
+x - 4 + x = 38
+
+Subtract 4 from both sides to get:
+
+x = 38 + 4
+
+x = 42
+
+Answer: 42

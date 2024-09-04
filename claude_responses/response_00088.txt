@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Brandon sold 86 geckos last year
+* The year before, he sold twice as many geckos as he did last year
+* To find the number of geckos he sold the year before, we multiply 86 by 2:
+  * 86 x 2 = 172 geckos
+
+Now, to find the total number of geckos Brandon has sold in the last two years, we add the number of geckos he sold last year and the year before:
+* 86 + 172 = 258 geckos
+
+Answer: 258

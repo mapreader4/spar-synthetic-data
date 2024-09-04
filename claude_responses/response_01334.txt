@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Rachel has 8 hours to complete the task of stuffing 1,500 envelopes
+* In the first hour, she stuffed 135 envelopes
+* In the second hour, she stuffed 141 envelopes
+* So in the first 2 hours, she has stuffed 135 + 141 = 276 envelopes
+* That means she has 1,500 - 276 = 1,224 envelopes left to stuff
+* She has 8 - 2 = 6 hours left to stuff the remaining 1,224 envelopes
+* To calculate the number of envelopes she needs to stuff per hour, we divide the remaining envelopes (1,224) by the remaining hours (6)
+* 1,224 / 6 = 204 envelopes per hour
+
+Answer: 204

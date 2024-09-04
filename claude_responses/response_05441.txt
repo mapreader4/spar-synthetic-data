@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mustafa has a total budget of $1600 to buy a fridge, TV, and computer.
+* The TV costs $600.
+* The fridge costs $500 more than the computer.
+
+Let's call the cost of the computer 'x'.
+* The fridge costs $500 more than the computer, so the fridge costs $x + $500.
+* The total cost of the TV ($600), the fridge ($x + $500), and the computer (x) is $1600.
+* So we can write the equation: $600 + ($x + $500) + x = $1600
+* Simplifying this equation: $600 + $x + $500 + x = $1600
+* Combining like terms: $1100 + 2x = $1600
+* Subtracting $1100 from both sides: 2x = $500
+* Dividing both sides by 2: x = $250
+
+Answer: $250

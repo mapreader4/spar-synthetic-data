@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* There are 20 kids in preschool ready for a nap
+* 1/2 of the kids fall asleep within the first 5 minutes
+* 1/2 of the remaining kids fall asleep within another 5 minutes
+
+First, let's calculate how many kids fell asleep in the first 5 minutes:
+* 1/2 of 20 kids = 10 kids
+
+Now, let's calculate how many kids were left after the first 5 minutes:
+* 20 kids - 10 kids = 10 kids
+
+Next, let's calculate how many of those 10 kids fell asleep in the next 5 minutes:
+* 1/2 of 10 kids = 5 kids
+
+Finally, let's calculate how many kids are still awake:
+* 10 kids - 5 kids = 5 kids
+
+Answer: 5

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+James gets paid 0.50 dollars per mile to drive a truck carrying hazardous waste. So for a 600 mile trip, he will get 0.50 * 600 = 300 dollars. 
+
+He has to pay 4.00 dollars per gallon for gas. The truck gets 20 miles per gallon. So for a 600 mile trip, he will need 600 / 20 = 30 gallons of gas. 4.00 * 30 = 120.00. So he will pay 120.00 for gas.
+
+To find the profit, we subtract the cost of gas from the income. 300 - 120.00 = 180.00. So James makes 180.00 in profit.

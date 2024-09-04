@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Harry orders 2 large pizzas
+* Each large pizza costs $14
+* Each pizza has 3 toppings
+* Each topping costs $2
+* So the cost of the 2 large pizzas with 3 toppings each is:
+  - 2 pizzas x $14 per pizza = $28
+  - 6 toppings x $2 per topping = $12
+  - Total cost of pizzas = $28 + $12 = $40
+* He then adds a 25% tip
+* 25% of $40 is 0.25 x $40 = $10
+* The total cost is the cost of the pizzas plus the tip:
+  - $40 + $10 = $50
+
+Answer: 50

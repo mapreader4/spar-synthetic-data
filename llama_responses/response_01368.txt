@@ -1,0 +1,11 @@
+Let's solve the problem step by step.
+
+Let's say Tamara's height is x.
+
+The statement says Tamara is 3 times Kim's height less 4 inches. So, Kim's height is x - 4. So, the equation is x = 3(x - 4).
+
+We know that Tamara and Kim have a combined height of 92 inches. So, we can set up the equation as x + x - 4 = 92.
+
+To solve for x, we can add 4 to both sides of the equation to get x + x = 96.
+
+So, Tamara's height is 96 - x.

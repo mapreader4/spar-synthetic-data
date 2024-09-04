@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There were 133 people at the camp in total.
+* There were 33 more boys than girls.
+* Let's represent the number of girls as x.
+* Then, the number of boys would be x + 33.
+* The total number of people is the sum of the number of boys and the number of girls.
+* So, we can write the equation: x + (x + 33) = 133
+* Simplifying this equation, we get: 2x + 33 = 133
+* Subtracting 33 from both sides, we get: 2x = 100
+* Dividing both sides by 2, we get: x = 50
+* Therefore, the number of girls at the camp is 50.
+
+Answer: 50

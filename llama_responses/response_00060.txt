@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+1. Jerry's two daughters play softball on different teams.
+2. Each team practices 4 hours for every game they play.
+3. Each game lasts for 2 hours.
+
+We know that Jerry's daughters play 8 games. So, the total number of hours his daughters spend playing softball is 8 * 2 = 16 hours.
+4. We know that each game lasts for 2 hours. So, the total number of hours Jerry's daughters practice softball is 4 * 8 = 32 hours.
+
+So, Jerry will spend 32 hours watching his daughters play and practice altogether.
+
+Answer: 32

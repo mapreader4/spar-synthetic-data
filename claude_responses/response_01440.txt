@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Team Soccer Stars played a total of 20 games
+* They won 14 games
+* They lost 2 games
+* They drew the remaining games (20 - 14 - 2 = 4 games)
+* They earn 3 points for a win, 1 point for a draw, and 0 points for a loss
+* For the 14 wins, they earned 14 * 3 = 42 points
+* For the 4 draws, they earned 4 * 1 = 4 points
+* For the 2 losses, they earned 0 points
+* To calculate the total points, we add the points from wins, draws, and losses:
+* Total points = 42 + 4 + 0 = 46
+
+Answer: 46

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first find the distance each of them will skate in 3 hours.
+
+Ann can skate 6 miles per hour. So in 3 hours, she will skate 6 * 3 = 18 miles.
+
+Glenda can skate 8 miles per hour. So in 3 hours, she will skate 8 * 3 = 24 miles.
+
+Since they start in the same place, they will be 18 + 24 = 42 miles apart after 3 hours.
+
+So, the answer is: Answer: 42

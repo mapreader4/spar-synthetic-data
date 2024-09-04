@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There are 30 pieces of popcorn in a serving
+* Jared can eat 90 pieces of popcorn
+* Jared's three other friends can each eat 60 pieces of popcorn
+* To find the total number of pieces of popcorn that need to be ordered, we add up the amounts that Jared and his friends can eat:
+    - Jared: 90 pieces
+    - 3 friends: 3 x 60 = 180 pieces
+    - Total pieces of popcorn needed: 90 + 180 = 270 pieces
+* To find the number of servings that need to be ordered, we divide the total pieces of popcorn needed by the number of pieces per serving:
+    - 270 pieces / 30 pieces per serving = 9 servings
+
+Answer: 9

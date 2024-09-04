@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Colbert needs a total of 200 wooden planks for his treehouse
+* A quarter of these planks come from Colbert's storage
+* A quarter of 200 is 50, so Colbert has 50 planks from his storage
+* Half of the 200 planks come from Colbert's parents
+* Half of 200 is 100, so Colbert has 100 planks from his parents
+* Colbert's friends provide 20 planks
+* So the total number of planks Colbert has from his storage, parents, and friends is:
+* 50 + 100 + 20 = 170 planks
+* To finish the treehouse, Colbert needs 200 planks total
+* So the number of planks he needs to buy from the store is:
+* 200 - 170 = 30 planks
+
+Answer: 30

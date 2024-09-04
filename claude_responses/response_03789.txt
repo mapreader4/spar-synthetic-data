@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Each carton holds 3 widgets
+* Each carton is 4 inches wide, 4 inches long, and 5 inches tall
+* The shipping box is 20 inches wide, 20 inches long, and 20 inches high
+
+To calculate the number of widgets in each shipping box, we need to first find out how many cartons can fit in the shipping box.
+
+The width of the shipping box is 20 inches, and each carton is 4 inches wide. So we can fit 20 / 4 = 5 cartons across the width.
+The length of the shipping box is 20 inches, and each carton is 4 inches long. So we can fit 20 / 4 = 5 cartons along the length.
+The height of the shipping box is 20 inches, and each carton is 5 inches tall. So we can fit 20 / 5 = 4 cartons in height.
+
+In total, we can fit 5 x 5 x 4 = 100 cartons in the shipping box.
+
+Since each carton holds 3 widgets, the total number of widgets in the shipping box is:
+100 cartons x 3 widgets per carton = 300 widgets.
+
+Answer: 300

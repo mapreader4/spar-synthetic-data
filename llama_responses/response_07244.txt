@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of green buttons the tailor bought. It is given as 90.
+
+Next, it is said that there are 10 more yellow buttons than the green buttons. This means that the number of yellow buttons is 10 more than the number of green buttons. We can call this number x. So, the number of yellow buttons is 90 + 10 = x.
+
+The number of blue buttons is 5 fewer than the number of green buttons. So, the number of blue buttons is x - 5.
+
+Now, we can set up an equation using these numbers. Let's say x is the number of green buttons. So, we have:
+
+x + 10 = 90
+x - 5 = green buttons
+
+We can solve this equation to find the number of green buttons. To do this, we can add 10 to both sides of the equation. This gives us:
+
+x = 90 + 10 = 100
+x - 5 = 90 + 10 - 5 = 85
+
+So, the number of green buttons is 100. The number of yellow buttons is 90 + 10 = 100. The number of blue buttons is 85.
+
+Now, let's conclude our answer.
+
+Answer: 100

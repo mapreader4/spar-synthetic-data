@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of cars Tommy has: Tommy has 3 cars.
+
+Next, we know Jessie has 3 cars too.
+
+Then, Jessie's older brother has 5 more cars than Tommy and Jessie. This means that Jessie's older brother has 3 + 5 = 8 cars.
+
+So, to find the total number of cars the three of them have, we add the number of cars Tommy has (3) to the number of cars Jessie's older brother has (8). This gives us a total of 3 + 8 = 11 cars.
+
+Answer: 11

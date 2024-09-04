@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* The cat catches 8 birds during the day
+* The cat catches twice as many birds at night as during the day
+* To find the number of birds caught at night, we multiply the number caught during the day by 2:
+    - 8 birds caught during the day x 2 = 16 birds caught at night
+* To find the total number of birds caught, we add the number caught during the day and at night:
+    - 8 birds caught during the day + 16 birds caught at night = 24 birds caught in total
+
+Answer: 24

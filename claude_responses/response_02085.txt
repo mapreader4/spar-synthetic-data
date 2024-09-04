@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+1. Tom trades in his SNES, which is worth $150.
+2. The store gives him 80% of the SNES's value, which is 0.8 * $150 = $120.
+3. Tom gives the store $80 and receives $10 in change.
+4. Tom also receives a game worth $30.
+
+To find the price of the NES, we need to add up the amount Tom received from the trade-in ($120) and the amount he paid ($80 - $10 = $70), and then subtract the value of the game ($30).
+
+The price of the NES = $120 + $70 - $30 = $160.
+
+Answer: $160

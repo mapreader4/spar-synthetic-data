@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+1. Allison uploaded 10 one-hour videos per day for the first 15 days, so she uploaded 15 * 1 = 15 hours of videos in the first half of the month.
+
+2. Then, she doubled the number of video hours she uploaded for the remaining 16 days, so she uploaded 10 * 2 = 20 hours of videos for the remaining days.
+
+3. The total number of video hours she uploaded at the end of the month is the sum of the hours uploaded in the first 15 days and the hours uploaded in the remaining 16 days, which is 15 + 20 = 35 hours.
+
+Answer: 35

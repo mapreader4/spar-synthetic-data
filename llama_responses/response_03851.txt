@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the distance between Spain and Germany is 1615 km. Peter travels from Spain to Germany, so he will have flown 1615 km. Then, he has to fly from Germany to Russia, which is 7019 km. So, the total distance he has to fly to get to Russia is 7019 km.
+
+Then, he needs to return to Spain, which is the same distance as the distance between Spain and Germany, which is 1615 km. So, the total distance he has to fly to return to Spain is 1615 km.
+
+To get to Russia and then return to Spain, Peter has to fly a total distance of 7019 km + 1615 km = 8634 km.
+
+Answer: 8634

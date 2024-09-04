@@ -1,0 +1,3 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of pizzas the delivery person needs to deliver. 12 pizzas total, minus the 2 pizzas that are for orders of 2 pizzas, is 10 pizzas. Since the delivery person needs to deliver 10 pizzas, and each pizza takes 2 minutes to deliver, we can calculate that the delivery person needs to make 10/2 = 5 stops to deliver all the pizzas.

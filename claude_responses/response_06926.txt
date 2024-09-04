@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The necklace has a total of 40 beads.
+2) There are three kinds of beads: amethyst, amber, and turquoise.
+3) There are 7 amethyst beads.
+4) There are twice as many amber beads as amethyst beads. So, the number of amber beads is 2 x 7 = 14.
+5) The remaining beads must be turquoise. To find the number of turquoise beads, we subtract the amethyst and amber beads from the total:
+   Total beads - amethyst beads - amber beads = turquoise beads
+   40 - 7 - 14 = 19
+
+Answer: 19 turquoise beads.

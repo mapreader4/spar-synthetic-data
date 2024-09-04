@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jenna's doctor says she should tan no more than 200 minutes a month.
+* Jenna tans 30 minutes a day, two days a week for the first two weeks of the month.
+* To calculate the total minutes she has tanned in the first two weeks:
+  - 2 days per week x 2 weeks = 4 days
+  - 4 days x 30 minutes per day = 120 minutes
+* Now, we need to calculate how many minutes she can tan in the last two weeks of the month:
+  - Total allowed minutes per month = 200 minutes
+  - Minutes tanned in the first two weeks = 120 minutes
+  - Remaining minutes she can tan in the last two weeks = 200 minutes - 120 minutes = 80 minutes
+
+Answer: 80 minutes

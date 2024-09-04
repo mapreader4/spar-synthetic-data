@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+
+1. On Monday, Zach baked 32 cookies.
+2. On Tuesday, he could only bake half of the number of cookies he baked the day before. So, he baked 32 / 2 = 16 cookies.
+3. On Wednesday, he baked three times the number of cookies he did on Tuesday. So, he baked 16 * 3 = 48 cookies.
+4. However, his brother ate 4 of those cookies, so the final number of cookies he had on Wednesday was 48 - 4 = 44 cookies.
+
+Now, let's add up the total number of cookies he had at the end of the three days:
+* Monday: 32 cookies
+* Tuesday: 16 cookies
+* Wednesday: 44 cookies
+
+Total cookies = 32 + 16 + 44 = 92 cookies
+
+Answer: 92

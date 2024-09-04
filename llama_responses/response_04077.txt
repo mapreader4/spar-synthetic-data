@@ -1,0 +1,33 @@
+To solve this problem, we can start by identifying the population of each city.
+
+Let's first identify the population of each city.
+
+Let's start with the total population of the three cities, which is 80000 people.
+
+Since Gordonia has 1/2 times the total population of the three cities, we can write an equation to find the population of Gordonia:
+
+80000 = 2 * Gordonia
+
+Dividing both sides of the equation by 2, we get:
+
+Gordonia = 40000
+
+Now, we know that the population of Toadon is 60 percent of Gordonia's population. So, we can set up an equation to find the population of Toadon:
+
+Toadon = 0.6 * Gordonia
+
+We can simplify this equation by multiplying both sides by 1000:
+
+Toadon = 0.6 * 40000 / 1000
+
+Toadon = 24000
+
+So, the population of Toadon is 24000.
+
+Now, we need to find the population of Lake Bright. We know that the population of Lake Bright is the difference between the total population of the three cities and the population of Toadon:
+
+80000 - 24000 = 56000
+
+So, the population of Lake Bright is 56000.
+
+Answer: 56000

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jeremy is taking 1000 mg of Tylenol every 6 hours
+* There are 24 hours in a day, so he is taking the Tylenol 4 times a day (24 hours / 6 hours = 4)
+* Each pill is 500 mg
+* He is taking this regimen for 2 weeks, which is 14 days
+
+To calculate the total number of pills:
+* 1000 mg per dose / 500 mg per pill = 2 pills per dose
+* 2 pills per dose x 4 doses per day = 8 pills per day
+* 8 pills per day x 14 days = 112 pills
+
+Answer: 112 pills

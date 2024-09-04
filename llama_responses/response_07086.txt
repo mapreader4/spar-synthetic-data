@@ -1,0 +1,23 @@
+Let's break this down step by step.
+
+The booth makes $50 selling popcorn each day, so for 5 days, the total amount of popcorn sold would be:
+
+50 x 5 = 250
+
+The booth makes three times as much selling cotton candy as popcorn, so the total amount of cotton candy sold would be:
+
+250 x 3 = 750
+
+The booth has to pay $30 for the rent and $75 for the cost of the ingredients, so the total amount of money spent would be:
+
+30 + 75 = 105
+
+To find the amount of money the booth earned, we need to subtract the amount spent from the total amount of popcorn and cotton candy sold:
+
+250 + 750 = 1000
+
+Subtract the amount spent:
+
+1000 - 105 = 895
+
+Answer: 895

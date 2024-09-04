@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) The company makes a revenue of $400,000 a month.
+2) The company pays 10% in taxes, which is 0.10 * $400,000 = $40,000.
+3) The remaining amount after taxes is $400,000 - $40,000 = $360,000.
+4) The company spends 5% of the remaining amount on marketing and ads, which is 0.05 * $360,000 = $18,000.
+5) The remaining amount after marketing and ads is $360,000 - $18,000 = $342,000.
+6) The company spends 20% of the remaining amount on operational costs, which is 0.20 * $342,000 = $68,400.
+7) The remaining amount after operational costs is $342,000 - $68,400 = $273,600.
+8) The company spends 15% of the remaining amount on employee wages, which is 0.15 * $273,600 = $41,040.
+9) The amount paid to each of the 10 employees is $41,040 / 10 = $4,104.
+
+Answer: $4,104

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Mckenna starts her day at 8:00 a.m.
+* She works in her office up to 11:00 a.m., which is 3 hours (11:00 - 8:00 = 3)
+* She then joins her team of developers at the conference room to talk about projects up to 13:00, which is 2 hours (13:00 - 11:00 = 2)
+* After that, she works for another two hours (13:00 - 15:00 = 2)
+* So the total time Mckenna stays at work is:
+  - 3 hours in the office
+  - 2 hours in the conference room
+  - 2 more hours of work
+* Adding these up, the total time Mckenna stays at work is 3 + 2 + 2 = 7 hours.
+
+Answer: 7

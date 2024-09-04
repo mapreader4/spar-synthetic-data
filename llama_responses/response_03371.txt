@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: "Each chapter has three pages more than the previous one." This means that the first chapter has 3 less than the second chapter. 
+
+The second chapter has 3 pages, and the third chapter has 3 + 3 = 6 pages. The fourth chapter has 6 + 3 = 9 pages. 
+
+The fifth chapter has 9 + 3 = 12 pages. 
+
+So, the first chapter has 3 pages.

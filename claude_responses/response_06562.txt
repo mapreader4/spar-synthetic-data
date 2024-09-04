@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) A pack of pretzels costs $4.
+2) A pack of chips is 75% more expensive than a pack of pretzels.
+   * To calculate the cost of a pack of chips, we take the cost of a pack of pretzels ($4) and add 75% of that cost:
+   * 75% of $4 = 0.75 * $4 = $3
+   * So the cost of a pack of chips is $4 + $3 = $7.
+3) Maciek bought 2 packets of chips and 2 packets of pretzels.
+   * The cost of 2 packets of chips is 2 * $7 = $14.
+   * The cost of 2 packets of pretzels is 2 * $4 = $8.
+4) The total cost of Maciek's purchases is $14 + $8 = $22.
+
+Answer: 22

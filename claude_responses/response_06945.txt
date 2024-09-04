@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Josh bought 3 packs of string cheese
+* Each pack has 20 string cheeses
+* So, the total number of string cheeses Josh bought is:
+  * 3 packs x 20 string cheeses per pack = 60 string cheeses
+* Each piece of string cheese costs 10 cents
+* To calculate the total cost, we need to multiply the total number of string cheeses by the cost per piece:
+  * 60 string cheeses x $0.10 per string cheese = $6.00
+
+Answer: $6.00

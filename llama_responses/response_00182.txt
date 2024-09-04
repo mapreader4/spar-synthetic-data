@@ -1,0 +1,7 @@
+Let's break down the problem step by step.
+
+Let's first find out how much Lisa spent on t-shirts and jeans. Lisa spent 40 dollars on t-shirts, so she spent half of this amount on jeans. 40 / 2 = 20. Lisa spent 20 dollars on jeans. Then she spent twice as much as she did on t-shirts on coats, which is 40 dollars. 40 * 2 = 80. Lisa spent 80 dollars on coats.
+
+Carly spent only a quarter as much as Lisa on t-shirts. Lisa spent 40 dollars on t-shirts, so Carly spent 40 / 4 = 10 dollars on t-shirts. Carly spent 3 times as much as Lisa on jeans, so she spent 3 * 20 = 60 dollars on jeans. Carly spent a quarter of the amount Lisa spent on coats on coats, which is 80 dollars, so Carly spent 80 / 4 = 20 dollars on coats.
+
+The total amount Lisa and Carly spent is 20 + 20 + 80 + 60 + 20 = 160. The answer is 160.

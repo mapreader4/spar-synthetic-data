@@ -1,0 +1,12 @@
+Let's break down the problem step by step:
+
+1. The number of patrons who came in cars is 12.
+2. The number of patrons who came from the bus is 27.
+3. The total number of patrons is the sum of the above two numbers: 12 + 27 = 39.
+4. Since Ellen can fit 3 patrons in a golf cart, we need to find the number of golf carts needed to transport all 39 patrons.
+
+To do this, we can divide the total number of patrons (39) by the number of patrons Ellen can fit in a golf cart (3):
+
+39 ÷ 3 = 13
+
+So, Ellen needs 13 golf carts to transport the patrons from the overflow parking lot to the main lot.

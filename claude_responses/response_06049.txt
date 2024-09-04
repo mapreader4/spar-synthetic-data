@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* The price of a bag of cherries is $5
+* The price of a bag of olives is $7
+* Jordyn wants to buy 50 bags of each fruit
+* There is a 10% discount
+
+First, let's calculate the total cost of the fruits without the discount:
+* 50 bags of cherries at $5 each = $250
+* 50 bags of olives at $7 each = $350
+* Total cost = $250 + $350 = $600
+
+Now, let's apply the 10% discount:
+* 10% of $600 = $60
+* Discounted price = $600 - $60 = $540
+
+Therefore, Jordyn would pay $540 for buying 50 bags of each fruit with a 10% discount.
+
+Answer: $540

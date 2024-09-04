@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* The parking garage has 12 floors
+* Every 3rd floor has a gate where drivers have to show ID, which takes 2 minutes (120 seconds)
+* To get from one floor to the next, drivers have to drive 800 feet at 10 feet/second
+* To calculate the time it takes to get from one floor to the next:
+    - Distance: 800 feet
+    - Speed: 10 feet/second
+    - Time = Distance / Speed = 800 feet / 10 feet/second = 80 seconds
+* There are 12 floors, so the total number of times the driver has to go from one floor to the next is 11 (since they start at the top)
+* The driver has to go through 4 gates (every 3rd floor)
+* Total time = (11 * 80 seconds) + (4 * 120 seconds)
+* Total time = 880 seconds + 480 seconds = 1360 seconds
+
+Answer: 1360 seconds

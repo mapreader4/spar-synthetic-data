@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's say the number of students Adam will teach in 10 years be x.
+
+Since Adam teaches 50 students a year, then in 10 years, he will have taught 50 * 10 = 500 students.
+
+But the problem says that Adam only teaches 40 students in the first year. So, in 9 years, he will teach 40 * 9 = 360 students.
+
+To find the total number of students Adam will teach in 10 years, we add the number of students he teaches in the first year to the number of students he will teach in the remaining 9 years:
+
+40 + 360 = 400
+
+Answer: 400

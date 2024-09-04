@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's start by identifying the given information:
+
+- The vending machine fails to drop a snack when it's purchased one in six times.
+- One in ten times, it will accidentally drop two snacks.
+- The rest of the time, it drops the purchased snack.
+- Thirty people have used the vending machine once each to purchase a snack.
+
+Let's think about this step by step.
+
+1. When 30 people have used the vending machine once each, it will drop a snack 30 times (1 in 6 times + 2 in 10 times).
+2. So, the vending machine dropped 30 snacks.
+
+Answer: 30

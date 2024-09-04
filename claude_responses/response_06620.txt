@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) Robby, Jaylen, and Miranda each earn $10 per hour.
+2) They work 10 hours a day, 5 days a week.
+3) Robby saves 2/5 of his salary, Jaylen saves 3/5 of his salary, and Miranda saves 1/2 of her salary.
+4) Let's calculate their weekly earnings:
+   - Weekly earnings = $10 per hour x 10 hours per day x 5 days per week = $500 per week
+5) Now let's calculate their weekly savings:
+   - Robby's weekly savings = 2/5 x $500 = $200
+   - Jaylen's weekly savings = 3/5 x $500 = $300
+   - Miranda's weekly savings = 1/2 x $500 = $250
+6) After four weeks, their combined savings would be:
+   - Robby's savings = $200 x 4 weeks = $800
+   - Jaylen's savings = $300 x 4 weeks = $1,200
+   - Miranda's savings = $250 x 4 weeks = $1,000
+   - Total combined savings = $800 + $1,200 + $1,000 = $3,000
+
+Answer: $3,000

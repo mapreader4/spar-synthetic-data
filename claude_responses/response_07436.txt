@@ -1,0 +1,14 @@
+Okay, let's solve this step-by-step:
+
+1) The largest room is 45 feet wide and 30 feet long.
+2) To find the area of the largest room, we multiply the width and the length:
+   Area of largest room = 45 feet x 30 feet = 1,350 square feet.
+
+3) The smallest room is 15 feet wide and 8 feet long.
+4) To find the area of the smallest room, we multiply the width and the length:
+   Area of smallest room = 15 feet x 8 feet = 120 square feet.
+
+5) To find the difference in area between the largest room and the smallest room, we subtract the area of the smallest room from the area of the largest room:
+   Difference in area = 1,350 square feet - 120 square feet = 1,230 square feet.
+
+Answer: 1,230

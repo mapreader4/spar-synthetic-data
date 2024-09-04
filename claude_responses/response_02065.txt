@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Myrtle has 3 hens that lay 3 eggs a day
+* In 7 days, the hens would lay 3 eggs x 3 hens x 7 days = 63 eggs
+* The neighbor took 12 eggs from the 63 eggs
+* So the remaining eggs would be 63 - 12 = 51 eggs
+* On the way into the house, Myrtle dropped 5 eggs
+* So the final number of eggs Myrtle has is 51 - 5 = 46 eggs
+
+Answer: 46 eggs

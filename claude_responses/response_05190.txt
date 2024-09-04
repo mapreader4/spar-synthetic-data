@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Kiaan's neighborhood has 200 homes.
+2) After 1 hour of work, he has distributed newspapers to 2/5 of the homes.
+   * 2/5 of 200 homes = 80 homes
+   * So, he has distributed newspapers to 80 homes.
+3) After another 2 hours of work, he has distributed newspapers to 60% of the remaining homes.
+   * The remaining homes are 200 - 80 = 120 homes.
+   * 60% of 120 homes = 0.6 * 120 = 72 homes.
+4) So, the total number of homes he has distributed newspapers to is 80 + 72 = 152 homes.
+5) The number of homes he still needs to distribute newspapers to is 200 - 152 = 48 homes.
+
+Answer: 48

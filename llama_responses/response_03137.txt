@@ -1,0 +1,17 @@
+Let's break this down step by step.
+
+Let's say the average score of the 9 students who have already taken the test is x. Since the 5 students who scored 92 and 4 students who scored 80, the total score of these 9 students is 5 * 92 + 4 * 80 = 460.
+
+The total score of the 10 students in the class is the sum of the scores of all 10 students, which is the sum of the scores of the 9 students who have already taken the test and the score of the last student. So, the total score of the 10 students is 460 + x.
+
+Since the class average test score should be at least 85, we can set up an equation to represent this:
+
+460 + x / 10 = 85
+
+To solve for x, we can multiply both sides by 10:
+
+x = 850 - 460 = 85 * 10
+
+x = 390
+
+So, the last student would need to score 90 to make the teacher happy.

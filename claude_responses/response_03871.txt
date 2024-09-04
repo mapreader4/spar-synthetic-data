@@ -1,0 +1,28 @@
+Okay, let's break this down step-by-step:
+* There are 30 students in the class
+* There are 22 boxes of markers
+* Each box of markers contains 5 markers
+* The first group has 10 students and each student in the first group will have 2 markers
+* The second group has 15 students and each student in the second group will have 4 markers
+
+First, let's calculate the total number of markers:
+* 22 boxes of markers, each with 5 markers
+* 22 * 5 = 110 total markers
+
+Next, let's calculate the number of markers used by the first and second groups:
+* First group: 10 students with 2 markers each
+* 10 * 2 = 20 markers used by the first group
+* Second group: 15 students with 4 markers each
+* 15 * 4 = 60 markers used by the second group
+* Total markers used by the first and second groups: 20 + 60 = 80 markers
+
+Finally, we can calculate the number of markers left for the last group:
+* Total markers: 110
+* Markers used by first and second groups: 80
+* Markers left for the last group: 110 - 80 = 30 markers
+
+The last group has the remaining 30 markers, and they will divide them equally. To find how many markers each student in the last group receives, we divide 30 by the number of students in the last group:
+* 30 students in the class - 10 in the first group - 15 in the second group = 5 students in the last group
+* 30 markers / 5 students = 6 markers per student in the last group
+
+Answer: 6

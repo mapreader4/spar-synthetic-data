@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. The class has 500 tables.
+2. Each table has 2/5 times as many books as the number of tables in the class. This means that each table has 100 books (500 tables * 2/5 = 100).
+3. Since there are 500 tables, the total number of books is 500 * 100 = 50,000 books.
+4. Therefore, the total number of books in the class is 50,000.
+
+Answer: 50000

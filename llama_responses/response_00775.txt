@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given to us:
+
+* Bucket A has 4 more pieces of fruit than bucket B.
+* Bucket B has 3 more pieces of fruit than bucket C.
+* Bucket C has 9 pieces of fruit.
+
+From the first statement, we know that bucket A has 4 more pieces of fruit than bucket B. So, let's let's say that bucket A has x + 4 pieces of fruit, and bucket B has x pieces of fruit. Then, we know that bucket B has 3 more pieces of fruit than bucket C, so bucket B has x + 3 pieces of fruit.
+
+We can set up an equation based on the second statement: x + 3 = x + 4. We can solve for x by subtracting 4 from both sides: x + 3 - 4 = x. This gives us that x = 3.
+
+Now, we know that bucket A has x + 4 pieces of fruit and bucket B has x + 3 pieces of fruit. We can substitute x with 3 to get the number of pieces of fruit in bucket A: x + 4 - 3 = 7. Bucket A has 7 pieces of fruit.
+
+Now, we can add up the number of pieces of fruit in all three buckets: 7 + 3 + 9 = 19. The total number of pieces of fruit in all three buckets is 19.

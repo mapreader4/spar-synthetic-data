@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Step 1: Find the area of the fabric needed for the living room curtains.
+
+The area of the living room curtains is 4 feet by 6 feet, so the area is 4 * 6 = 24 square feet.
+
+Step 2: Find the area of the fabric needed for the bedroom curtains.
+
+The area of the bedroom curtains is 2 feet by 4 feet, so the area is 2 * 4 = 8 square feet.
+
+Step 3: Add the area of the fabric needed for the living room and bedroom curtains.
+
+The total area of fabric needed is 24 square feet for the living room curtains + 8 square feet for the bedroom curtains = 32 square feet.
+
+Step 4: Find the area of the fabric remaining after cutting.
+
+The bolt of fabric is 16 feet by 12 feet, which is 16 * 12 = 192 square feet. The area of fabric needed is 32 square feet. So, the area of fabric remaining is 192 square feet - 32 square feet = 160 square feet.
+
+Answer: 160

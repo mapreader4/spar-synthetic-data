@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Phil started his day with $40.
+2) He bought a slice of pizza for $2.75.
+3) He bought a soda for $1.50.
+4) He bought a pair of jeans for $11.50.
+5) To calculate the total amount he spent, we add up the costs of the pizza, soda, and jeans:
+$2.75 + $1.50 + $11.50 = $15.75
+6) To calculate the amount of money Phil has left, we subtract the total amount spent from his original $40:
+$40 - $15.75 = $24.25
+7) Since Phil has nothing but quarters left, we need to convert the remaining $24.25 into quarters.
+8) There are 4 quarters in $1, so to find the number of quarters Phil has left, we divide $24.25 by $0.25 (the value of one quarter):
+$24.25 / $0.25 = 97 quarters
+
+Answer: 97

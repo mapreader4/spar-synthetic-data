@@ -1,0 +1,15 @@
+To solve this problem, we need to find the percentage discount on the original price of the dress.
+
+Given information:
+- The original price of the dress is $350.
+- The sale price of the dress is $140.
+
+Step 1: Calculate the amount of discount.
+Amount of discount = Original price - Sale price
+Amount of discount = $350 - $140 = $210
+
+Step 2: Calculate the percentage discount.
+Percentage discount = (Amount of discount / Original price) × 100
+Percentage discount = ($210 / $350) × 100 = 60%
+
+Answer: 60%

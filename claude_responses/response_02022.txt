@@ -1,0 +1,14 @@
+To solve this problem, we need to find out how many days the 2-liter bottle of soda will last.
+
+Given information:
+- Dana normally drinks a 500 ml bottle of soda each day.
+- The 2-liter bottle of soda contains 2,000 ml (2 liters × 1,000 ml/liter).
+- Dana continues to drink 500 ml of soda each day.
+
+Step 1: Calculate the number of days the 2-liter bottle of soda will last.
+Total volume of the 2-liter bottle of soda / Daily consumption of soda = Number of days the bottle will last
+2,000 ml / 500 ml = 4 days
+
+Therefore, the 2-liter bottle of soda will last 4 days.
+
+Answer: 4

@@ -1,0 +1,10 @@
+Okay, let's solve this step-by-step:
+1) We know that each apple tree can fill 20 baskets.
+2) Each basket can be filled with 15 apples.
+3) So, the number of apples that can be obtained from one tree is:
+   20 baskets x 15 apples per basket = 300 apples
+4) Now, we are asked to find the number of apples that can be obtained from 10 trees.
+5) To do this, we multiply the number of apples per tree (300) by the number of trees (10).
+6) 300 apples per tree x 10 trees = 3,000 apples
+
+Answer: 3,000

@@ -1,0 +1,34 @@
+Okay, let's break this down step-by-step:
+* Rodney is a door-to-door salesman selling home security systems
+* He gets a commission of $25 for each system he sells
+* He is canvassing a neighborhood of four streets with eight houses each
+* The first street gave him half the sales that the second street did
+* Every house on the third street turned him away
+* The fourth street resulted in only one sale
+* His total commission was $175
+
+To find the number of security systems he sold on the second street, we need to set up an equation.
+
+Let's call the number of sales on the second street "x".
+
+We know that:
+* The first street had half the sales of the second street, so the first street had x/2 sales
+* The third street had 0 sales
+* The fourth street had 1 sale
+
+The total number of sales is the sum of the sales on each street:
+* Total sales = (x/2) + 0 + 1 + x = (x/2) + x + 1
+
+We also know that his total commission was $175, and each sale earns him $25.
+* Total commission = $25 * (total sales)
+* $175 = $25 * ((x/2) + x + 1)
+
+Solving this equation:
+* $175 = $25 * (1.5x + 1)
+* $175 = $37.5x + $25
+* $150 = $37.5x
+* x = 4
+
+Therefore, Rodney sold 4 security systems on the second street.
+
+Answer: 4

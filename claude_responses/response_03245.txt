@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) James has a small tree with 30 branches.
+2) Each branch has 90 twigs.
+3) 30% of the twigs sprout 4 leaves each.
+4) The remaining 70% of the twigs sprout 5 leaves each.
+
+Now, let's calculate the total number of leaves:
+1) 30% of 90 twigs per branch is 0.3 * 90 = 27 twigs per branch that sprout 4 leaves.
+2) The number of leaves from the 27 twigs that sprout 4 leaves each is 27 * 4 = 108 leaves per branch.
+3) The remaining 70% of the twigs, which is 90 - 27 = 63 twigs per branch, sprout 5 leaves each.
+4) The number of leaves from the 63 twigs that sprout 5 leaves each is 63 * 5 = 315 leaves per branch.
+5) The total number of leaves per branch is 108 + 315 = 423 leaves.
+6) With 30 branches, the total number of leaves on the tree is 30 * 423 = 12,690 leaves.
+
+Answer: 12,690

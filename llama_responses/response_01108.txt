@@ -1,0 +1,25 @@
+Let's start by identifying the information given. We know that Heike has some number of cards. Let's call this number x.
+
+We know that Anton has three times as many cards as Heike does, so Anton has 3x cards.
+
+We know that Ann has six times as many cards as Heike does, so Ann has 6x cards.
+
+We also know that Ann has 60 cards. We can set up an equation to represent the information given:
+
+3x + 6x = 60
+
+We can subtract 3x from both sides of the equation to get:
+
+6x = 60 - 3x
+
+We can subtract 3x from both sides to get:
+
+x = 20
+
+So, we know that x is 20. We can multiply 20 by 3 to find the number of cards Anton has more than Anton has:
+
+20 * 3 = 60
+
+Anton has 60 cards. Ann has 60 cards, which is the same number. Therefore, Ann has the same number of cards as Anton.
+
+Answer: 0

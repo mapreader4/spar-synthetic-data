@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) The gecko eats 70 crickets every three days.
+2) On the first day, she eats 30% of the 70 crickets, which is 0.3 * 70 = 21 crickets.
+3) On the second day, she eats 6 less than the first day, which is 21 - 6 = 15 crickets.
+4) On the third day, she eats the remaining crickets, which is 70 - 21 - 15 = 34 crickets.
+
+Answer: 34

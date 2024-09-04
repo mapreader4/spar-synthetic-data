@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we know that Andy ate 3 slices of bread at two different points in time, so he ate a total of 3 + 3 = 6 slices of bread.
+
+Next, we know that Emma used 2 slices of bread to make 1 piece of toast, and she was able to make 10 pieces of toast bread. This means that Emma used a total of 2 x 10 = 20 slices of bread to make the toast.
+
+Since Andy ate 6 slices of bread, and Emma used 20 slices of bread, we can subtract these amounts from the original number of slices in the loaf to find the number of slices left over. The number of slices left over is 20 + 6 = 26.
+
+Since Emma had 1 slice of bread left over, we can subtract 1 from the total number of slices left over to find the original number of slices in the loaf. The original number of slices in the loaf is 26 - 1 = 25.
+
+Answer: 25

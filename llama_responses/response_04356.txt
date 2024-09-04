@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of slices from the small pizzas: 4 small pizzas have 4 * 6 slices = 24 slices.
+
+Now, let's calculate the total number of slices from the medium pizzas: 5 medium pizzas have 5 * 8 slices = 40 slices.
+
+Now, let's add the total number of slices from the small and medium pizzas: 24 + 40 = 64 slices.
+
+Now, let's calculate the total number of slices from the large pizzas: 15 pizzas have 15 * 12 slices = 180 slices.
+
+Now, let's add the total number of slices from all the pizzas: 64 + 180 = 244 slices.
+
+Answer: 244

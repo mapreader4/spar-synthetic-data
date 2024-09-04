@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Nancy takes 3 antacids per day when she eats Indian food
+* She eats Indian food 3 times a week
+* So, on the days she eats Indian food, she takes 3 antacids per day
+* Nancy takes 2 antacids per day when she eats Mexican food
+* She eats Mexican food 2 times a week
+* So, on the days she eats Mexican food, she takes 2 antacids per day
+* On the remaining 2 days of the week, she takes 1 antacid per day
+* There are 4 weeks in a month
+* So, in a month:
+* On the 12 days she eats Indian food, she takes 3 antacids per day, which is 12 * 3 = 36 antacids
+* On the 8 days she eats Mexican food, she takes 2 antacids per day, which is 8 * 2 = 16 antacids
+* On the remaining 8 days, she takes 1 antacid per day, which is 8 * 1 = 8 antacids
+* Adding these up, the total number of antacids she takes per month is:
+* 36 + 16 + 8 = 60 antacids
+
+Answer: 60

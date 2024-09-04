@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Hank reads for 30 minutes every morning, 5 days a week. 5 * 30 = 150 minutes.
+
+Hank reads for 1 hour every evening, 5 days a week, so that's 5 * 60 = 300 minutes.
+
+Hank doubles his reading time on Saturday and Sunday, so that's 2 * (150 + 300) = 600 minutes.
+
+The total minutes Hank spends reading in 1 week is 150 + 300 + 600 = 1050.

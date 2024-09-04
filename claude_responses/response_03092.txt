@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* The hardware store sold:
+  - 10 graphics cards at $600 each
+  - 14 hard drives at $80 each
+  - 8 CPUs at $200 each
+  - 4 pairs of RAM at $60 per pair
+* To calculate the total earnings, we need to multiply the quantity of each item by its respective price, and then add up the results.
+
+Graphics cards:
+* 10 graphics cards x $600 per card = $6,000
+
+Hard drives:
+* 14 hard drives x $80 per drive = $1,120
+
+CPUs:
+* 8 CPUs x $200 per CPU = $1,600
+
+RAM:
+* 4 pairs of RAM x $60 per pair = $240
+
+Total earnings:
+* $6,000 + $1,120 + $1,600 + $240 = $8,960
+
+Answer: $8,960

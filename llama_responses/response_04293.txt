@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of CDs sold at $10 each. Since Prince bought half of the CDs at $10 each, and the total number of CDs is 200, the number of CDs sold at $10 each is half of 200, which is 100.
+
+Next, let's identify the number of CDs sold at $5 each. Since the total number of CDs is 200, and the number of CDs sold at $10 each is 100, the number of CDs sold at $5 each is 200 - 100, which is 100.
+
+The total cost of the CDs sold at $10 each is 100 x $10 = $1000. The total cost of the CDs sold at $5 each is 100 x $5 = $500. The total cost of all the CDs is the sum of these two costs, which is $1000 + $500 = $1500.
+
+Answer: 1500

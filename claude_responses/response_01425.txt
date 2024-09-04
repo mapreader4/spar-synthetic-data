@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Betty makes 10 cupcakes per hour
+* Dora makes 8 cupcakes per hour
+* Betty took a 2-hour break
+* We want to find the difference between the number of cupcakes they made after 5 hours
+
+First, let's calculate how many cupcakes each of them made in the 5 hours:
+* Betty worked for 3 hours (5 hours - 2 hour break)
+* In 3 hours, Betty made 10 cupcakes per hour x 3 hours = 30 cupcakes
+* Dora worked for 5 hours
+* In 5 hours, Dora made 8 cupcakes per hour x 5 hours = 40 cupcakes
+
+Now, we can find the difference between the number of cupcakes they made:
+* Dora made 40 cupcakes
+* Betty made 30 cupcakes
+* The difference is 40 - 30 = 10 cupcakes
+
+Answer: 10

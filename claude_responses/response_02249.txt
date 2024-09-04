@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+
+1. During high season, 6 packs of tuna are sold per hour.
+2. During low season, 4 packs of tuna are sold per hour.
+3. Each tuna pack is sold at $60.
+4. The fish are sold for 15 hours per day.
+
+To calculate the difference in money made during high season vs. low season:
+
+High season:
+* 6 packs per hour x $60 per pack = $360 per hour
+* $360 per hour x 15 hours = $5,400 per day
+
+Low season:
+* 4 packs per hour x $60 per pack = $240 per hour
+* $240 per hour x 15 hours = $3,600 per day
+
+Difference:
+* $5,400 per day (high season) - $3,600 per day (low season) = $1,800 more per day during high season
+
+Answer: $1,800

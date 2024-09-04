@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+Geordie drives his car 3 times a week and his motorcycle 2 times a week. So, the total number of times he drives his car and motorcycle is 3 + 2 = 5 times a week.
+
+The distance he drives is 14 miles, so the total distance he drives in a week is 5 * 14 = 70 miles.
+
+The gas consumption is 35 miles per gallon, so the total gas consumption is 70 / 35 = 2 gallons.
+
+The cost of gas is $3.75 per gallon, so the total cost of gas is 2 * 3.75 = 7.5 dollars.
+
+The toll is $12.50 per car or $7 per motorcycle. Geordie drives his car 3 times a week and his motorcycle 2 times a week, so the total toll cost is (3 * 12.50) + (2 * 7) = 37 dollars.
+
+The total cost of gas and toll is 7.5 + 37 = 44.5 dollars.
+
+Answer: 44.5

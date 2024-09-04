@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 2,000 kids in the camp
+* Half of the kids are going to soccer camp
+* So, the number of kids going to soccer camp is 2,000 / 2 = 1,000 kids
+* 1/4 of the kids going to soccer camp are going in the morning
+* So, the number of kids going to soccer camp in the morning is 1,000 * 1/4 = 250 kids
+* The number of kids going to soccer camp in the afternoon is the total number of kids going to soccer camp minus the number of kids going in the morning
+* Therefore, the number of kids going to soccer camp in the afternoon is 1,000 - 250 = 750 kids
+
+Answer: 750 kids

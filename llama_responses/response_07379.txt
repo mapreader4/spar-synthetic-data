@@ -1,0 +1,11 @@
+Let's break it down step by step.
+
+1. First, we need to find out how many 750m^2 of land each son will get. Since there are 3 hectares of land and 1 hectare is equal to 10000 m^2, we can convert hectares to m^2 by multiplying 3 hectares by 10000. 3 * 10000 = 30000 m^2.
+
+2. Then we know that each son will get 30000 m^2 of land.
+
+3. Now, we know that from this 30000 m^2, each son can make a profit of $500 every 3 months. So, to find out how much they can make in one year, we need to find out how many times they can make 500 dollars every 3 months. In other words, we need to divide 500 by 3. 500 / 3 = 166.67.
+
+4. Now we know that each son can make 166.67 every 3 months. Since there are 12 months in a year, we can multiply this by 4 to find out how much they can make in a year. 166.67 * 4 = 666.68.
+
+Answer: 666.68

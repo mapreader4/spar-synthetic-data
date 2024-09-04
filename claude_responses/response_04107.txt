@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Kimiko watches 4 YouTube videos in total
+* The first video is 2 minutes long, which is 2 minutes x 60 seconds/minute = 120 seconds
+* The second video is 4 minutes and 30 seconds long, which is 4 minutes x 60 seconds/minute + 30 seconds = 270 seconds
+* The last two videos are equal in length
+* The total time spent watching YouTube is 510 seconds
+
+Now, let's calculate the total time of the first two videos:
+* 120 seconds + 270 seconds = 390 seconds
+
+The remaining time is the total time spent watching YouTube minus the time spent watching the first two videos:
+* 510 seconds - 390 seconds = 120 seconds
+
+Since the last two videos are equal in length, we can divide the remaining time by 2 to get the length of each of the last two videos:
+* 120 seconds / 2 = 60 seconds
+
+Answer: 60 seconds

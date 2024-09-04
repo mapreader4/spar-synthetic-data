@@ -1,0 +1,9 @@
+To find the average star rating, we need to add up the total number of stars and divide it by the total number of reviews. 
+
+First, we need to calculate the total number of stars. There are 6 x 5-star reviews, 7 x 4-star reviews, 4 x 3-star reviews, and 1 x 2-star review. So, the total number of stars is 6 + 7 + 4 + 2 = 19.
+
+Then, we need to divide the total number of stars by the total number of reviews. The total number of reviews is 18. 
+
+19 / 18 = 1.05.
+
+So, the average star rating for Indigo Restaurant is 1.05 stars.

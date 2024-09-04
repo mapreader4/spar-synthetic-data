@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We have three different 6th grade classes that are combining for a square dancing unit.
+2) The teachers would like each male student to partner with a female student for the unit.
+3) The first class has 17 males and 13 females.
+4) The second class has 14 males and 18 females.
+5) The third class has 15 males and 17 females.
+6) When the classes are combined, we need to find the total number of males and females.
+7) The total number of males is 17 + 14 + 15 = 46.
+8) The total number of females is 13 + 18 + 17 = 48.
+9) Since we want each male student to partner with a female student, the number of students unable to partner with a student of the opposite gender is the difference between the number of males and females.
+10) The difference between the number of males and females is 48 - 46 = 2.
+
+Answer: 2

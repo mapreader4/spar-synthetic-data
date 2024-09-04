@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Jeff plays for 2 hours.  1 hour is equal to 60 minutes.  2 hours is equal to 2 x 60 minutes, which is 120 minutes.  Jeff scores a point every 5 minutes, so he scores a point every 5/60 minutes.  5/60 is equal to 1/12.  So, in 120 minutes, he scores a point 24 times.  He wins a match when he scores 8 points.  8 points is equal to 8/1.  So, to win a match, he needs to score 8 points.  To score 8 points, he needs to score 8/1 times.  8/1 is equal to 8/12.  So, he needs to score 8/12 points.  8/12 is equal to 8/12.  So, he needs to score 8/12 times.  8/12 is equal to 1/1.5.  So, he needs to score 1.5 times.  He scores a point every 1/12 times, so he needs to play 1.5 times 24 times.  1.5 times 24 is equal to 36.  So, Jeff wins 36 games. 36 is equal to 36.  So, the answer is 36.
+
+Answer: 36

@@ -1,0 +1,13 @@
+Let's break down the information given:
+
+1. On the first trip, Ishmael counts 28 male whales and twice as many female whales. This means the number of female whales is 2 x 28 = 56.
+2. On the second trip, Ishmael sees 8 baby whales, each travelling with their parents. This means there are 8 sets of parents, which is equivalent to 16 whales (8 baby whales + 8 parent whales).
+3. On the third trip, Ishmael counts half as many male whales as the first trip, which is 28 / 2 = 14. He also sees the same number of female whales as on the first trip, which is 56.
+
+Now, let's add up the total number of whales seen by Ishmael:
+
+* First trip: 28 male whales + 56 female whales = 84 whales
+* Second trip: 8 baby whales + 16 parent whales = 24 whales
+* Third trip: 14 male whales + 56 female whales = 70 whales
+
+Total number of whales: 84 + 24 + 70 = Answer: 178

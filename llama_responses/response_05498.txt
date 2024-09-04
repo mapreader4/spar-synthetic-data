@@ -1,0 +1,43 @@
+Let's think step by step.
+
+Let's say the number of cards in the box is x.
+
+Sasha added 48 cards, so the new total number of cards is x + 48.
+
+Then, Karen took out 1/6 of the cards, which is 1/6 × (x + 48). So, the new total number of cards is x + 48 - 1/6 × (x + 48).
+
+We know that the new total number of cards is 83. So, we can set up an equation:
+
+x + 48 - 1/6 × (x + 48) = 83.
+
+We can solve for x by subtracting 48 from both sides of the equation:
+
+x + 48 - 1/6 × (x + 48) = 83
+
+Subtracting 48 from both sides of the equation gives us:
+
+x - 1/6 × (x + 48) = 35
+
+Now, we can multiply both sides of the equation by 6 to get rid of the fraction:
+
+6(x - 1/6 × (x + 48)) = 210
+
+This simplifies to:
+
+6x - x - 48 = 210
+
+Adding 48 to both sides of the equation gives us:
+
+6x - x = 258
+
+Adding x to both sides of the equation gives us:
+
+x = 258 + x = 258
+
+Subtracting x from both sides of the equation gives us:
+
+x = 0
+
+So, the original number of cards in the box is 0 + 48 = 48.
+
+Answer: 48

@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Bret takes a 9-hour train ride to Boston
+* He spends 2 hours reading a book
+* He spends 1 hour eating his dinner
+* He spends 3 hours watching movies on his computer
+* To find the time he has left to take a nap, we need to add up the time he spent on other activities and subtract that from the total 9-hour train ride
+
+Time spent on other activities:
+* Reading a book: 2 hours
+* Eating dinner: 1 hour
+* Watching movies: 3 hours
+* Total time spent on other activities: 2 + 1 + 3 = 6 hours
+
+Now, we subtract the 6 hours spent on other activities from the total 9-hour train ride:
+* 9 hours - 6 hours = 3 hours
+
+Therefore, Bret has 3 hours left to take a nap.
+
+Answer: 3

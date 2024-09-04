@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+1) Grant scored 10 points higher on his math test than John.
+2) John received twice as many points as Hunter.
+3) Hunter scored a 45 on his math test.
+
+First, let's find John's score:
+* Since John received twice as many points as Hunter, and Hunter scored a 45, then John's score must be 2 * 45 = 90.
+
+Now, we can find Grant's score:
+* Grant scored 10 points higher than John, so Grant's score must be 90 + 10 = 100.
+
+Answer: 100

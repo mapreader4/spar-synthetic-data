@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Parker is 4 inches shorter than Daisy. This means that if Daisy's height is represented as x, then Parker's height is x - 4.
+2) Daisy is 8 inches taller than Reese. This means that if Reese's height is 60 inches, then Daisy's height is 60 + 8 = 68 inches.
+3) Now we can plug in the known values:
+   - Reese's height = 60 inches
+   - Daisy's height = 68 inches
+   - Parker's height = 68 - 4 = 64 inches
+4) To calculate the average height, we add the three heights and divide by 3:
+   - (60 + 68 + 64) / 3 = 192 / 3 = 64 inches
+
+Answer: 64

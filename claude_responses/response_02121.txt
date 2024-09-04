@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* A jar of peanut butter costs $3
+* A jar of almond butter costs 3 times as much as a jar of peanut butter
+* To calculate the cost of a jar of almond butter:
+    - Jar of peanut butter costs $3
+    - Jar of almond butter costs 3 times as much
+    - So, jar of almond butter costs 3 x $3 = $9
+* It takes half a jar to make a batch of cookies
+* For peanut butter cookies, it costs half a jar of peanut butter, which is $3 / 2 = $1.50 per batch
+* For almond butter cookies, it costs half a jar of almond butter, which is $9 / 2 = $4.50 per batch
+* To calculate the difference in cost per batch:
+    - Almond butter cookies cost $4.50 per batch
+    - Peanut butter cookies cost $1.50 per batch
+    - The difference is $4.50 - $1.50 = $3
+
+Answer: $3

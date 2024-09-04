@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Josiah is three times as old as Hans.
+2) Hans is 15 years old now.
+3) We want to find the sum of the ages of Josiah and Hans in three years.
+
+First, let's find Josiah's current age:
+* Since Josiah is three times as old as Hans, and Hans is 15 years old, that means Josiah is 3 x 15 = 45 years old.
+
+Now, in three years:
+* Hans will be 15 + 3 = 18 years old.
+* Josiah will be 45 + 3 = 48 years old.
+
+The sum of their ages in three years will be:
+* Hans (18 years old) + Josiah (48 years old) = 18 + 48 = 66 years old.
+
+Answer: 66

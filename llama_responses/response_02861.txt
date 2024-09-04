@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying what we know:
+
+* The Giants have played 20 games and won 12 of them.
+* They need to win 2/3 of their games over the season to make the playoffs.
+* There are 10 games left.
+
+We can start by converting the fraction 2/3 to a decimal to get the total number of games they need to win:
+
+2/3 = 0.67 (as a decimal)
+
+Since they have already played 20 games, they have won 12 games, so they have 20 - 12 = 8 games remaining to play.
+
+Now, to find out how many more games they need to win, we can multiply the decimal 0.67 by the total number of games left:
+
+0.67 * 8 = 5.36
+
+Since we can't win a fraction of a game, we need to round up to the nearest whole number. So, the Giants need to win at least 6 games to make the playoffs.
+
+Answer: 6

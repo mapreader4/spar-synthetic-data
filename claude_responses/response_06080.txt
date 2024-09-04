@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 2 pizzas, each cut into 12 slices, so there are a total of 24 slices.
+* Bob ate half of a pizza, which is 6 slices.
+* Tom ate one-third of a pizza, which is 4 slices.
+* Sally ate one-sixth of a pizza, which is 2 slices.
+* Jerry ate a quarter of a pizza, which is 3 slices.
+* In total, the four of them ate 6 + 4 + 2 + 3 = 15 slices.
+* Therefore, the number of slices left over is 24 - 15 = 9 slices.
+
+Answer: 9

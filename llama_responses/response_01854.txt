@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start by identifying the number of bushels of corn picked, which is 2.
+
+Each bushel of corn has 80 ears, and each ear weighs.5 pounds. So, the total weight of corn picked in 2 bushels would be 2 * 80 *.5 = 160 pounds.
+
+Now, we need to convert the weight from pounds to cobs. There are 16 cobs in a bushel, so the total number of cobs picked would be 160 /.5 * 16 = 20.
+
+Answer: 20

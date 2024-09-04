@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: The rim of the basketball hoop is 10 feet above the ground. So, the height of the rim is 10 feet, or 120 inches.
+
+Step 2: The player must be able to reach 6 inches above the rim to dunk a basketball. Since the rim is 120 inches above the ground, the player must be able to reach 120 + 6 inches above the ground to dunk.
+
+Step 3: The player is 6 feet tall, or 72 inches. They can reach 22 inches above their head using their wingspan, which means they can reach a total height of 72 + 22 = 94 inches above the ground.
+
+Step 4: To find the total height the player must reach to dunk, we subtract the 72 inches of their height from the 120 + 6 inches we found in step 2. This gives us 120 + 6 - 72 = 54 inches.
+
+Answer: 54

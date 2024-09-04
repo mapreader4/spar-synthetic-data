@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Meadow orders 30 boxes of diapers per week.
+2) Each box contains 40 packs of diapers.
+3) Each pack contains 160 diapers.
+4) So the total number of diapers Meadow orders per week is:
+   30 boxes x 40 packs/box x 160 diapers/pack = 192,000 diapers per week.
+5) Meadow sells each diaper for $5.
+6) So the total revenue Meadow makes from selling all her diapers per week is:
+   192,000 diapers x $5/diaper = $960,000 per week.
+
+Answer: $960,000

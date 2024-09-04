@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+1) The total bill was $140.
+2) The sales tax in the city is 10%.
+3) The NY Striploin cost $80.
+4) The glass of wine cost $10.
+
+To calculate the gratuities charged:
+1) First, we need to calculate the total before tax:
+   - Total before tax = $140 / 1.1 = $127.27
+2) Next, we need to calculate the cost of the food and drink items:
+   - NY Striploin: $80
+   - Glass of wine: $10
+   - Total cost of food and drink: $80 + $10 = $90
+3) The gratuities charged would be the difference between the total before tax and the cost of the food and drink:
+   - Gratuities charged = $127.27 - $90 = $37.27
+
+Answer: $37

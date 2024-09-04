@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of candies sold. Each of the 4 clowns and 30 children received 20 candies, so the total number of candies sold is 4 x 20 = 80. So, the candy seller sold 80 candies.
+
+Now, let's find the total number of candies initially available. The candy seller had 700 candies initially. After selling 80 candies, he is left with 700 - 80 = 620 candies.
+
+Answer: 620

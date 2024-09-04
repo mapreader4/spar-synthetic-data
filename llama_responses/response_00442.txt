@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by calculating the height of the buildings that the cranes are finishing:
+
+1. The first crane is finishing a building that is 200 feet tall, and the crane itself is 228 feet tall. So, the crane is 228 - 200 = 28 feet taller than the building.
+2. The second crane is finishing a building that is 100 feet tall, and the crane itself is 120 feet tall. So, the crane is 120 - 100 = 20 feet taller than the building.
+3. The third crane is finishing a building that is 140 feet tall, and the crane itself is 147 feet tall. So, the crane is 147 - 140 = 7 feet taller than the building.
+
+Now, we need to find the average of these three differences:
+
+(28 + 20 + 7) / 3 = 55 / 3 = 18.33
+
+So, on average, the cranes are 18.33 feet taller than the buildings.

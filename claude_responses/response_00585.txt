@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* There are 30 kids in the class
+* Each kid makes 8 cards
+* So the total number of cards made by the class is:
+  * 30 kids x 8 cards per kid = 240 cards
+* The class needs to make 1000 cards to get a pizza party
+* To find how many more cards they need to make, we subtract the number of cards they have already made from the total they need:
+  * 1000 cards - 240 cards = 760 cards
+
+Answer: 760

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Cappuccinos cost $2 each, and Sandy ordered 3 of them. So the total cost of the cappuccinos is 3 x $2 = $6.
+* Iced teas cost $3 each, and Sandy ordered 2 of them. So the total cost of the iced teas is 2 x $3 = $6.
+* Cafe lattes cost $1.5 each, and Sandy ordered 2 of them. So the total cost of the cafe lattes is 2 x $1.5 = $3.
+* Espressos cost $1 each, and Sandy ordered 2 of them. So the total cost of the espressos is 2 x $1 = $2.
+* To calculate the total cost of all the drinks, we add up the individual costs:
+$6 + $6 + $3 + $2 = $17.
+* Sandy paid with a $20 bill, so the change she receives back is $20 - $17 = $3.
+
+Answer: $3

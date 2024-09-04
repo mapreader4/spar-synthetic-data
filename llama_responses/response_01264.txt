@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding the area of the monitor. The area is 21 inches by 12 inches, which can be written as 21 x 12 = 252 square inches.
+
+Since there are 100 dots per inch, the total number of dots in the monitor can be calculated by multiplying the area by the number of dots per inch. So, the total number of dots can be calculated as:
+
+252 square inches * 100 dots per inch = 25200 dots
+
+So, the answer is:
+
+Answer: 25200

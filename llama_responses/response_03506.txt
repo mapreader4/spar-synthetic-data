@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, we know that Rosie pays with a $1 bill and a $.44 piece of candy. So, the cashier will give her the change in cents.
+
+Since the cashier will give Rosie the smallest number of coins possible, let's think about the possible combinations of coins she can get.
+
+A $1 bill is equal to 100 cents, so we can subtract the 44 cents from the 100 cents to get the remaining change. 100 - 44 = 56 cents.
+
+Now, we need to convert the 56 cents into the smallest number of coins possible. We can make 56 cents with 25 quarters, 1 quarter, and 1 penny.

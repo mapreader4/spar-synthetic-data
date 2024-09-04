@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Marta has collected a total of $240 so far
+* She receives $10 for every hour she works
+* She has also collected $50 in tips
+* To find the number of hours she has worked, we need to subtract the tips ($50) from the total amount collected ($240) to get the amount she has earned from working
+* $240 - $50 = $190
+* Since she earns $10 per hour, we can divide the amount she has earned from working ($190) by $10 to get the number of hours she has worked
+* $190 / $10 = 19 hours
+
+Answer: 19 hours

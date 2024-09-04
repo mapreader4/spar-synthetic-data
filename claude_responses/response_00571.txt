@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+
+1. Anthony has 12 cats and dogs in total.
+2. 2/3 of Anthony's animals are cats, which means 1/3 are dogs.
+   * 2/3 of 12 = 8 cats
+   * 1/3 of 12 = 4 dogs
+3. Leonel has half as many cats as Anthony, which is 4 cats.
+4. Leonel has 7 more dogs than Anthony, which is 4 + 7 = 11 dogs.
+5. So Leonel has a total of 4 cats and 11 dogs, which is 15 animals.
+
+Now, to find the total number of animals that Anthony and Leonel have:
+* Anthony has 8 cats and 4 dogs, which is 12 animals.
+* Leonel has 4 cats and 11 dogs, which is 15 animals.
+* The total number of animals is 12 + 15 = 27.
+
+Answer: 27

@@ -1,0 +1,21 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Southton buries their time capsule 15 feet underground.
+* Northton buries their time capsule 12 feet higher than 4 times the depth of the Southton time capsule.
+
+Let's denote the depth of the Southton time capsule as x. Then, we know that Northton buries their time capsule 12 feet higher than 4 times x, so we can set up the equation:
+
+12 = 4x + x
+
+We can solve for x by subtracting 12 from both sides of the equation:
+
+x = (12 - 12) / 4
+x = 3
+
+So, the depth of the Southton time capsule is 3 feet. Now, we can find the depth of the Northton time capsule by adding 4 times the depth of the Southton time capsule to 3:
+
+Northton buries their time capsule 4 * 3 = 12 feet underground.
+
+Answer: 12

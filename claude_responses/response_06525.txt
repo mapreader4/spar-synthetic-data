@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The mom has 1 eye
+* The dad has 3 eyes
+* They have 3 kids, each with 4 eyes
+
+To calculate the total number of eyes:
+* Mom: 1 eye
+* Dad: 3 eyes
+* 3 kids, each with 4 eyes, so 3 x 4 = 12 eyes
+* Total eyes = 1 + 3 + 12 = 16 eyes
+
+Answer: 16

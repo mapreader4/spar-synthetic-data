@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* There are 4 trains at the train station
+* Each train has 4 carriages
+* Each carriage has 3 rows of wheels
+* Each row of wheels has 5 wheels
+
+First, let's calculate the number of wheels per carriage:
+* 3 rows of wheels per carriage
+* 5 wheels per row
+* 3 rows x 5 wheels per row = 15 wheels per carriage
+
+Now, let's calculate the number of wheels per train:
+* 4 carriages per train
+* 15 wheels per carriage
+* 4 carriages x 15 wheels per carriage = 60 wheels per train
+
+Finally, let's calculate the total number of wheels at the train station:
+* 4 trains
+* 60 wheels per train
+* 4 trains x 60 wheels per train = 240 wheels
+
+Answer: 240

@@ -1,0 +1,25 @@
+Okay, let's break this down step-by-step:
+* Daniel has 2 horses
+* Each horse has 4 legs
+* So the total number of legs for the horses is 2 x 4 = 8 legs
+
+* Daniel has 5 dogs
+* Each dog has 4 legs
+* So the total number of legs for the dogs is 5 x 4 = 20 legs
+
+* Daniel has 7 cats
+* Each cat has 4 legs
+* So the total number of legs for the cats is 7 x 4 = 28 legs
+
+* Daniel has 3 turtles
+* Each turtle has 4 legs
+* So the total number of legs for the turtles is 3 x 4 = 12 legs
+
+* Daniel has 1 goat
+* Each goat has 4 legs
+* So the total number of legs for the goat is 1 x 4 = 4 legs
+
+Now, to find the total number of legs for all the animals, we add up the legs for each type of animal:
+8 + 20 + 28 + 12 + 4 = 72 legs
+
+Answer: 72

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* There are 4 cheerleaders who need a size 2
+* There are a certain number of cheerleaders who need a size 6
+* The number of cheerleaders who need a size 12 is half the number who need a size 6
+* There are 19 cheerleaders total
+
+To find the number of cheerleaders who need a size 6, we can set up an equation:
+Let x = the number of cheerleaders who need a size 6
+Then, the number of cheerleaders who need a size 12 is x/2
+
+We know that the total number of cheerleaders is 19, so we can set up the equation:
+4 + x + x/2 = 19
+
+Solving for x:
+4 + x + x/2 = 19
+4 + 1.5x = 19
+1.5x = 15
+x = 10
+
+Therefore, the number of cheerleaders who need a size 6 is 10.
+
+Answer: 10

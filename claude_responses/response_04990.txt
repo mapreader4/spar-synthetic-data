@@ -1,0 +1,30 @@
+Okay, let's break this down step-by-step:
+* Leo dropped off 10 pairs of trousers and some shirts at Sudsy Laundry
+* He was charged $9 for each pair of trousers and $5 per shirt
+* The total bill was $140
+* When Leo went to pick up his clothes, the attendant said he had only dropped off 2 shirts
+
+To find the number of shirts that were missing, we need to:
+1. Calculate the total cost of the trousers
+2. Subtract the cost of the trousers from the total bill to get the cost of the shirts
+3. Divide the cost of the shirts by the price per shirt to get the number of shirts
+4. Subtract the number of shirts the attendant found (2) from the total number of shirts to get the number of missing shirts
+
+Step 1: Calculate the total cost of the trousers
+* 10 pairs of trousers at $9 each = 10 * $9 = $90
+
+Step 2: Subtract the cost of the trousers from the total bill to get the cost of the shirts
+* Total bill = $140
+* Cost of trousers = $90
+* Cost of shirts = $140 - $90 = $50
+
+Step 3: Divide the cost of the shirts by the price per shirt to get the number of shirts
+* Price per shirt = $5
+* Number of shirts = $50 / $5 = 10 shirts
+
+Step 4: Subtract the number of shirts the attendant found (2) from the total number of shirts to get the number of missing shirts
+* Total shirts = 10
+* Shirts found = 2
+* Missing shirts = 10 - 2 = 8
+
+Answer: 8

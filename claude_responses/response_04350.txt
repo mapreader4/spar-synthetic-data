@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Cindy had 500 marbles in total
+* She gave 80 marbles to each of her four friends
+* To calculate the number of marbles given away:
+  - 80 marbles per friend x 4 friends = 320 marbles given away
+* To calculate the number of marbles Cindy has remaining:
+  - 500 marbles - 320 marbles given away = 180 marbles remaining
+* The question asks for four times the number of marbles Cindy has remaining
+  - 4 x 180 marbles = 720 marbles
+
+Answer: 720

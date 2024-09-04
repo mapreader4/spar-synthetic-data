@@ -1,0 +1,28 @@
+Let's break this problem down step by step.
+
+Let's start by using the formula for the perimeter of a rectangle, which is the sum of the length and width. Since the perimeter is given as 100 feet, we can set up the equation:
+
+P = 2L + 2W
+
+We know that the width of the patio is equal to the length, so we can replace W with L in the equation:
+
+P = 2L + 2L
+
+We are told that the patio is four times as wide as it is long, so the width is 4L. We can substitute this into the equation:
+
+P = 2L + 2(4L)
+
+We are trying to find the length of the patio, so we can simplify the equation to:
+
+P = 6L
+
+We know that the perimeter is 100 feet, so we can set up the equation:
+
+100 = 6L
+
+To solve for L, we can divide both sides of the equation by 6:
+
+L = 100 / 6
+L = 16.67
+
+Answer: 16

@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+The rancher needs to move 400 head of cattle, and his truck can hold 20 head of cattle. To find the number of trips the truck needs to make, we can divide the total number of head of cattle by the number of head the truck can hold:
+
+400 head of cattle ÷ 20 head per trip = 20 trips
+
+Since the truck can hold 20 head of cattle per trip, it will need to make 20 trips to move all 400 head of cattle.
+
+The distance to be traveled is 60 miles, and the speed of the truck is 60 miles per hour. To find the time it takes for one trip, we can use the formula:
+
+Time = Distance / Speed
+
+Time = 60 miles / 60 miles per hour = 1 hour
+
+Since the truck needs to make 20 trips, the total driving time will be:
+
+20 trips x 1 hour per trip = 20 hours
+
+Answer: 20

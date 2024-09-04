@@ -1,0 +1,22 @@
+Let's break down the information step by step:
+
+1. Company A has 30 attendees.
+2. Company B has twice the number of attendees of company A, so company B has 2 x 30 = 60 attendees.
+3. Company C has 10 more attendees than company A, so company C has 30 + 10 = 40 attendees.
+4. Company D has 5 fewer attendees than company C, so company D has 40 - 5 = 35 attendees.
+5. The total number of attendees is 30 + 60 + 40 + 35 = 185.
+
+Now, we need to find the number of attendees who are not from company A, B, C or D. This means we need to subtract the number of attendees from each company from the total number of attendees.
+
+Let's subtract the number of attendees from each company:
+
+* Company A: 30
+* Company B: 60
+* Company C: 40
+* Company D: 35
+
+Total attendees subtracted: 30 + 60 + 40 + 35 = 165
+
+Now, subtract this from the total number of attendees: 185 - 165 = 20.
+
+Answer: 20

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+On the first day, the business executive receives 16 new emails. This is our starting point.
+
+On the second day, he receives half as many new emails as he received on the first day. Half of 16 is 8, so he receives 8 new emails on the second day.
+
+On the third day, he receives half as many new emails as he received on the second day. Half of 8 is 4, so he receives 4 new emails on the third day.
+
+On the fourth day, he receives half as many new emails as he received on the third day. Half of 4 is 2, so he receives 2 new emails on the fourth day.
+
+In total, he receives 16 + 8 + 4 + 2 = 30 new emails.

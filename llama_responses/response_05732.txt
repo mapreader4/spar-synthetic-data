@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+1. The first ten students scored 90 marks, so the average of those students is 90 marks.
+2. The next 15 students scored 10 marks fewer than the first ten students, which means they scored 80 marks each (90 - 10 = 80).
+3. The rest of the students scored 60 marks each. There are 50 - 10 = 40 students who scored 60 marks each.
+4. To find the average marks for the whole class, we add up all the marks and divide by the number of students. So, we have: 90 + 15 * 80 + 40 * 60 = 90 + 1200 = 2100.
+5. We divide 2100 by 50 students: 2100 / 50 = 42.
+
+Answer: 42

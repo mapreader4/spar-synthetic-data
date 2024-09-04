@@ -1,0 +1,25 @@
+Let's break down the information given:
+
+1. Max delivered the maximum number of packages, which is 35, twice during the week.
+2. On two other days, Max unloaded a total of 50 packages.
+3. On one day, Max unloaded only one-seventh of the maximum possible daily performance, which is 35/7 = 5 packages.
+4. On the last two days, the sum of the packages transported was only fourth-fifth of the maximum daily performance, which is 35*4/5 = 28 packages.
+
+Let's calculate the total number of packages Max delivered during the week:
+
+* 35 (twice) = 70 packages
+* 50 packages
+* 5 packages
+* 28 packages
+
+Total packages delivered = 70 + 50 + 5 + 28 = 153 packages
+
+Since Max delivered a total of 153 packages, and he could have delivered 35 packages each day, the maximum number of packages he could have delivered is:
+
+35 (days) * 35 (packages per day) = 1225 packages
+
+To find out how many more packages Max could have delivered if he worked at maximum performance, subtract the total number of packages he actually delivered from the maximum number of packages he could have delivered:
+
+1225 - 153 = 1072
+
+Answer: 1072

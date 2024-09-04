@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Bob picked 450 apples in total
+* There are 33 children in his family
+* Each child ate 10 apples
+* So the total number of apples eaten by the children is:
+33 children x 10 apples per child = 330 apples
+
+* Now, we need to find out how many adults are in the family
+* We know that every adult ate 3 apples
+* And the total number of apples picked was 450
+* We can subtract the 330 apples eaten by the children from the 450 total apples to find the number of apples eaten by the adults:
+450 apples - 330 apples = 120 apples
+
+* Since each adult ate 3 apples, we can divide the 120 apples eaten by the adults by 3 to find the number of adults:
+120 apples / 3 apples per adult = 40 adults
+
+Answer: 40 adults

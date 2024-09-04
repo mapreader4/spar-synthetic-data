@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Tina's classroom has the same amount of students as Maura's classroom.
+2) Zack's classroom has half the amount of total students between Tina and Maura's classrooms.
+3) When Zack was sick, there were 22 students in his class.
+4) Since Zack's classroom has half the amount of total students between Tina and Maura's classrooms, we can say that the total number of students in Tina and Maura's classrooms is 2 * 22 = 44.
+5) Since Tina's classroom has the same amount of students as Maura's classroom, we can say that each of their classrooms has 44 / 2 = 22 students.
+6) The total number of students between the 3 classrooms is therefore 22 + 22 + 22 = 66.
+
+Answer: 66

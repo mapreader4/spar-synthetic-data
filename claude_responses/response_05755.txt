@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* John is twice as old as Mary
+* John is half as old as Tonya
+* Tonya is 60 years old
+
+First, let's find John's age:
+* Since John is half as old as Tonya, and Tonya is 60, then John's age is 60 / 2 = 30
+
+Next, let's find Mary's age:
+* Since John is twice as old as Mary, and John is 30, then Mary's age is 30 / 2 = 15
+
+Now, we can calculate the average age of the three:
+* Average age = (John's age + Mary's age + Tonya's age) / 3
+* Average age = (30 + 15 + 60) / 3
+* Average age = 105 / 3
+* Average age = 35
+
+Answer: 35

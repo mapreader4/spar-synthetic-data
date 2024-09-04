@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Jackson had 20 kilograms of meat.
+2) He used 1/4 of the meat to make meatballs.
+   * 1/4 of 20 kilograms = 20 * 1/4 = 5 kilograms of meat used for meatballs.
+3) He also used 3 kilograms of meat to make spring rolls.
+4) To find the amount of meat left, we take the total amount of meat (20 kilograms) and subtract the amount used for meatballs (5 kilograms) and the amount used for spring rolls (3 kilograms).
+   * 20 kilograms - 5 kilograms - 3 kilograms = 12 kilograms of meat left.
+
+Answer: 12 kilograms

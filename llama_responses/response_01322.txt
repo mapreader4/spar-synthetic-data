@@ -1,0 +1,11 @@
+Let's break this problem down step by step:
+
+1. Tom needs 12 square feet of space for each seat, and he wants a 500-seat theater. To find the total square feet of space needed, multiply the number of seats by the square feet per seat: 500 seats * 12 square feet/seat = 6000 square feet of space.
+
+2. The cost of the space is $5 per square foot, so the total cost of the space is: 6000 square feet * $5/square foot = $30,000.
+
+3. The construction of the theater will cost twice as much as the land, so the total cost of construction is: $30,000 * 2 = $60,000.
+
+4. Tom's partner covers 40% of the cost, so the amount Tom needs to pay is: $60,000 - (40% of $60,000) = $60,000 - $24,000 = $36,000.
+
+Answer: $36,000

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Tina wins her first 10 fights.
+2) She then wins 5 more fights, so her total wins at this point is 10 + 5 = 15.
+3) She then loses her first fight, so her total losses is 1.
+4) She then doubles her number of wins, which is 15 * 2 = 30 wins.
+5) She then loses again, so her total losses is now 2.
+6) To calculate the difference between her wins and losses, we take her total wins (30) and subtract her total losses (2).
+Answer: 28

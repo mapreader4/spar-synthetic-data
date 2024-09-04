@@ -1,0 +1,13 @@
+Let's break down the problem step by step.
+
+Helga tried on 7 pairs of shoes at the first store.
+
+At the second store, she tried on 2 more pairs than at the first store, so she tried on 7 + 2 = 9 pairs of shoes.
+
+At the third store, she didn't try on any shoes, so the total number of pairs of shoes tried on so far is 7 + 9 = 16.
+
+At the fourth store, she tried on twice as many pairs of shoes as she did at all three other stores combined. The total number of pairs of shoes tried on at the first three stores is 16, so she tried on 2 x 16 = 32 pairs of shoes at the fourth store.
+
+To find the total number of pairs of shoes Helga tried on, we add the number of pairs she tried on at each store: 7 + 9 + 0 + 32 = 48.
+
+Answer: 48

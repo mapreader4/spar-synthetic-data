@@ -1,0 +1,9 @@
+Let's start by identifying the number of crayons Dina has: Dina has 28 crayons.
+
+Since Jacob has 2 fewer crayons than Dina, and Dina has 28 crayons, Jacob has 28 - 2 = 26 crayons.
+
+To find the total number of crayons Wanda, Dina, and Jacob have in total, we need to add the number of crayons each of them has. Wanda has 62 crayons, Dina has 28 crayons, and Jacob has 26 crayons. So, we add these numbers together:
+
+62 + 28 + 26 = 116
+
+Answer: 116

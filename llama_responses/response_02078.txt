@@ -1,0 +1,32 @@
+Let's break this problem down step by step.
+
+Let's first find the number of female Muscovy ducks.
+
+We know that 50 percent of the ducks are Muscovy and 30 percent of the Muscovies are female. 50% of the ducks are Muscovy, and 30% of the Muscovies are female, so we can set up an equation to solve for the number of female Muscovy ducks:
+
+50% of the ducks are Muscovy = 50% * x
+30% of the Muscovies are female = 30% * x
+
+We know that the total number of ducks is 40, and we want to find the number of female Muscovy ducks. 50% of the ducks are Muscovy, and 30% of the Muscovies are female. So, we can set up an equation to solve for the number of female Muscovy ducks:
+
+50% * x = 30% * x
+
+We can solve this equation by multiplying both sides by 2 to get:
+
+50% * x / 30% = 2 * x
+
+Now, we can simplify the fraction:
+
+2 * x = 2 * (30/50) * x
+2 * x = 0.6 * x
+
+We know that the total number of ducks is 40, and we want to find the number of female Muscovy ducks. So, we can set up an equation to solve for the number of female Muscovy ducks:
+
+0.6 * x = 40
+
+Now, we can solve for x by dividing both sides by 0.6:
+
+x = 40 / 0.6
+x = 66.67
+
+Answer: 66

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Rita has already completed 50 hours of backstroke, 9 hours of breaststroke, and 121 hours of butterfly. To find the total hours she has completed so far, I add these numbers together:
+
+50 + 9 + 121 = 180 hours
+
+Rita has already completed 180 hours. She still needs to complete 1,500 - 180 = 1,320 hours to fulfill her coach's requirements.
+
+Rita will dedicate 220 hours every month practicing freestyle and sidestroke. To find the number of months it will take her to complete the remaining hours, I divide the remaining hours by the number of hours she will dedicate each month:
+
+1,320 hours / 220 hours/month = 6 months
+
+Answer: 6

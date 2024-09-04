@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of dogs, cats, and fish.
+
+There are 6 dogs for sale.
+There are half as many cats, so 6 / 2 = 3 cats for sale.
+There are twice as many birds, so 6 * 2 = 12 birds for sale.
+There are thrice as many fish, so 6 * 3 = 18 fish for sale.
+
+Now, let's add up the number of animals for sale:
+
+Dogs: 6
+Cats: 3
+Birds: 12
+Fish: 18
+
+The total number of animals for sale is:
+
+6 + 3 + 12 + 18 = 29
+
+Answer: 29

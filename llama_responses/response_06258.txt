@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the number of listens per month. The number of listens per month is the total number of listens divided by the number of months. In this case, the total number of listens is 60,000 and there are 3 months left in the year. So, the number of listens per month is:
+
+60,000 / 3 = 20,000
+
+So, the number of listens per month is 20,000.
+
+Now, let's find the number of listens by the end of the year. Since the number of listens per month doubles, we need to multiply the number of listens per month by 2. 
+
+20,000 * 2 = 40,000
+
+Answer: 40,000

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* On Orbius-5, there are 250 days per year
+* Each year is equally divided into 5 seasons
+* The astronaut stays on Orbius-5 for 3 seasons
+
+To find the number of days the astronaut will spend on Orbius-5, we need to first find the length of each season:
+* Since there are 250 days per year, and 5 seasons per year, each season is 250 / 5 = 50 days long.
+
+Now, we can calculate the number of days the astronaut will spend on Orbius-5:
+* The astronaut stays for 3 seasons
+* Each season is 50 days long
+* Therefore, the total number of days the astronaut will spend on Orbius-5 is 3 * 50 = 150 days
+
+Answer: 150

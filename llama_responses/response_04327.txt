@@ -1,0 +1,16 @@
+Let's break down the problem step by step:
+
+1. Samuel spends $14 on his ticket.
+2. Samuel spends $6 on drinks and food, so the total amount spent by Samuel is $14 + $6 = $20.
+3. Since they have used their entire budget, Kevin must have spent the remaining $20 - $20 = $0 on his ticket.
+4. Kevin spends $2 on drinks, so the amount Kevin spent on food is $0 - $2 = -$2. Wait, this doesn't make sense! Kevin can't spend a negative amount of money.
+
+Hmm... Let's re-examine the problem.
+
+1. Samuel spends $14 on his ticket.
+2. Samuel spends $6 on drinks and food, so the total amount spent by Samuel is $14 + $6 = $20.
+3. They have used their entire budget, so the total amount spent by both Samuel and Kevin is $20.
+4. Kevin buys his ticket, so the remaining amount after Samuel's expenses is $20 - $14 = $6.
+5. Kevin spends $2 on drinks, so the amount Kevin spent on food is $6 - $2 = $4.
+
+Answer: 4

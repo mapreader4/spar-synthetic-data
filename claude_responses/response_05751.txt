@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Carol gets a fixed $20 allowance each week
+* She can earn $1.5 more per week if she does extra chores
+* At the end of 10 weeks, she has $425 total
+
+To find the number of extra chores she averaged each week, we need to:
+1. Calculate the total amount she would have earned from her fixed $20 allowance over 10 weeks:
+   * $20 per week x 10 weeks = $200
+2. Subtract the fixed allowance from the total amount she has ($425):
+   * $425 - $200 = $225
+3. This remaining $225 is the amount she earned from extra chores over the 10 weeks.
+4. To find the average number of extra chores per week, we divide the total extra earnings by the extra earnings per week:
+   * $225 / ($1.5 per week) = 150 extra chores over 10 weeks
+5. To find the average per week, we divide the total extra chores by the number of weeks:
+   * 150 extra chores / 10 weeks = 15 extra chores per week on average
+
+Answer: 15

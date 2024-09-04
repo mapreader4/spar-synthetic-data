@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Janice can type 6 sentences per minute
+* She typed for 20 minutes, then took a break, and typed 15 minutes longer
+* So the total time she typed before the meeting was 20 + 15 = 35 minutes
+* During this time, she typed 6 sentences per minute, so she typed 6 * 35 = 210 sentences
+* She then had to erase 40 sentences she had typed incorrectly
+* So the number of sentences she had after the initial typing session was 210 - 40 = 170 sentences
+* After the meeting, she typed for 18 more minutes
+* During this time, she typed 6 * 18 = 108 more sentences
+* The total number of sentences in the paper at the end of the day was 536
+* So the number of sentences she started with today was 536 - 170 - 108 = 258 sentences
+
+Answer: 258

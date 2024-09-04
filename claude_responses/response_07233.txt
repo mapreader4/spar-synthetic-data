@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Martha has 19 butterflies in her collection.
+2) She has twice as many blue butterflies as yellow butterflies.
+3) We know that Martha has 6 blue butterflies.
+4) Since she has twice as many blue butterflies as yellow butterflies, we can deduce that she has 3 yellow butterflies (6 blue butterflies / 2 = 3 yellow butterflies).
+5) Now we can calculate the number of black butterflies by subtracting the number of blue and yellow butterflies from the total number of butterflies:
+19 total butterflies - 6 blue butterflies - 3 yellow butterflies = 10 black butterflies.
+
+Answer: 10

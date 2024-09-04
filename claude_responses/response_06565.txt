@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Gnuff charges a flat rate of $20 per tutoring session
+* Gnuff also charges $7 per minute
+* The total amount paid for one tutoring session is $146
+
+To find the number of minutes Gnuff tutored for, we need to set up an equation:
+* Total amount paid = Flat rate + (Rate per minute * Number of minutes)
+* $146 = $20 + ($7 * Number of minutes)
+* $146 - $20 = $7 * Number of minutes
+* $126 = $7 * Number of minutes
+* Number of minutes = $126 / $7
+* Number of minutes = 18
+
+Therefore, the number of minutes Gnuff tutored for is 18 minutes.
+
+Answer: 18

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+1. We know that there are 30 boys and the rest are girls, so there are 25 girls.
+2. Three fifths of the girls have long hair. We can represent this as 3/5 * 25 = 15 girls have long hair.
+3. The rest of the girls have short hair. So, the number of girls with short hair is 25 - 15 = 10.
+
+Answer: 10

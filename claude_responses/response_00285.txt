@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* John wants to finish a show in 5 days
+* There are 20 episodes
+* Each episode is 30 minutes long
+
+First, we need to calculate the total duration of the show:
+* 20 episodes x 30 minutes per episode = 600 minutes
+
+Now, we need to convert the total duration from minutes to hours:
+* 600 minutes / 60 minutes per hour = 10 hours
+
+Finally, to find how many hours John needs to watch per day, we divide the total duration by the number of days:
+* 10 hours / 5 days = 2 hours per day
+
+Answer: 2 hours

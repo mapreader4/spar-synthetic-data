@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Phil initially had 10 books
+* Each book is 100 pages
+* So the total number of pages in the 10 books is:
+  * 10 books x 100 pages per book = 1,000 pages
+* During the move, 2 books were lost
+* So the number of books Phil has left is:
+  * 10 books - 2 lost books = 8 books
+* Therefore, the total number of pages in the 8 books Phil has left is:
+  * 8 books x 100 pages per book = 800 pages
+
+Answer: 800

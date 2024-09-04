@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information: 100 people moved in, and 400 people moved out. So, we can subtract 400 from the initial 100 to find the population before the 100 people moved in: 100 - 400 = -300.
+
+Now, the problem states that the population is halved every year. So, the population will be halved 4 times after the 4 years. So, we can multiply the initial -300 by 2 to find the population after 1 year: -300 * 2 = -600. Then, we can multiply -600 by 2 again to find the population after 2 years: -600 * 2 = -1200. Continuing this pattern, we can multiply -1200 by 2 again to find the population after 3 years: -1200 * 2 = -2400. Finally, we can multiply -2400 by 2 once more to find the population after 4 years: -2400 * 2 = -4800.
+
+However, the problem states that the population is 60 people after 4 years. So, we need to find the population before the 100 people moved in, which is the opposite of -4800. We can add 4800 to 100 to find the original population: 4800 + 100 = 4900.
+
+Answer: 4900

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* In the first hour, the machine takes 6 minutes to produce each pot.
+* In 1 hour, there are 60 minutes.
+* So in the first hour, the machine can produce 60 minutes / 6 minutes per pot = 10 pots.
+* In the last hour, the machine takes 5 minutes to produce each pot.
+* In 1 hour, there are 60 minutes.
+* So in the last hour, the machine can produce 60 minutes / 5 minutes per pot = 12 pots.
+* The difference between the number of pots produced in the last hour (12) and the first hour (10) is:
+* 12 pots - 10 pots = 2 additional pots produced in the last hour.
+
+Answer: 2

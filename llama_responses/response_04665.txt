@@ -1,0 +1,3 @@
+Let's break it down step by step.
+
+Let's first find the total number of mice that are not wireless mice. We know that half of the total number of mice are wireless mice, so the total number of wireless mice is 40. Then, one-fourth of the total number of mice are optical mice, which is 20. Then, the remaining number of mice are trackball mice. We know that the total number of mice is 80, and the number of wireless mice and optical mice together is 60. So, the number of trackball mice is 80 - 60 = 20.

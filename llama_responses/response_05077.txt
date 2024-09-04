@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's first find out how many pages Lance has left to read. He has 100 pages to read initially, and he has already read 35 pages. So, he has 100 - 35 = 65 pages left to read.
+
+Yesterday, he read 5 fewer pages than the day before. This means that yesterday, he read 35 + 5 = 40 pages. So, he has 65 - 40 = 25 pages left to read.
+
+To finish the book in 2 days, Lance needs to read 25 pages a day. So, he should read 25 pages tomorrow.

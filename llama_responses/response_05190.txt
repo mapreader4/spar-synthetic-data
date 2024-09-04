@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Kiaan has 200 homes to deliver newspapers to initially. After delivering to 2/5 of the homes, he has delivered to 2/5 * 200 = 80 homes.
+
+After delivering to 60% of the remaining homes, he has delivered to 0.6 * (200 - 80) = 0.6 * 120 = 72 homes.
+
+So, Kiaan has delivered to 80 + 72 = 152 homes.
+
+To find the number of homes he still needs to deliver to, we subtract the number of homes he has delivered from the total number of homes: 200 - 152 = 48.
+
+Answer: 48

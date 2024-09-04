@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+1. Geli is committed to her 3 times a week workout, so she will do 3 workouts.
+
+2. On her first day, she does 10 push-ups.
+
+3. Her fitness trainer encourages her to add 5 push-ups each day.
+
+4. So, on each of the 3 days after the first day, she will do 5 more push-ups, making it 5 * 3 = 15 more push-ups.
+
+5. We need to find the total number of push-ups she will do throughout the week.
+
+10 + 15 = 25
+
+Answer: 25

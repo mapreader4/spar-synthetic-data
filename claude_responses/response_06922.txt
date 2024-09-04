@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Wendi's plot of land is 200 feet by 900 feet.
+2) To convert this to square yards, we need to divide the length and width by 3 (since 1 yard = 3 feet).
+3) 200 feet / 3 = 66.67 yards
+4) 900 feet / 3 = 300 yards
+5) The total area of the grassland is 66.67 yards x 300 yards = 20,000 square yards.
+6) Each rabbit can clear 10 square yards of grass per day.
+7) Wendi has 100 rabbits.
+8) So the total area cleared per day is 100 rabbits x 10 square yards per rabbit = 1,000 square yards per day.
+9) To calculate how many days it would take to clear the entire 20,000 square yard plot, we divide 20,000 by 1,000:
+20,000 square yards / 1,000 square yards per day = 20 days.
+
+Answer: 20 days.

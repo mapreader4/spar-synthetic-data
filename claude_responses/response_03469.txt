@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Rayman works out for half the number of hours Junior takes to work out
+* Let's say Junior works out for x hours in a week
+* Then Rayman works out for x/2 hours in a week
+* We know that Rayman works out for 10 hours in a week
+* So, x/2 = 10
+* Solving for x, we get x = 20 hours
+* Wolverine works out for twice the combined total number of hours both Rayman and Junior take during their workouts
+* The combined total number of hours Rayman and Junior take is 10 + 20 = 30 hours
+* Wolverine works out for 2 * 30 = 60 hours
+
+Answer: 60

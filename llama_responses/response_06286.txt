@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's say the queen has 12500 bees at the beginning.
+
+At the end of the first day, the queen loses 900 bees, so there are 12500 - 900 = 12300 bees left.
+
+At the end of the second day, the queen loses another 900 bees, so there are 12300 - 900 = 12100 bees.
+
+At the end of the third day, the queen loses another 900 bees, so there are 12100 - 900 = 11800 bees.
+
+At the end of the fourth day, the queen loses another 900 bees, so there are 11800 - 900 = 11500 bees.
+
+At the end of the fifth day, the queen loses another 900 bees, so there are 11500 - 900 = 11300 bees.
+
+At the end of the sixth day, the queen loses another 900 bees, so there are 11300 - 900 = 11000 bees.
+
+At the end of the seventh day, the queen loses another 900 bees, so there are 11000 - 900 = 10900 bees.
+
+At the end of 7 days, there are 10900 bees, including the queen.
+
+Answer: 10900

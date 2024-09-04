@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Amy biked 12 miles yesterday
+* Today, she biked 3 miles less than twice as far as yesterday
+* To find how many miles she biked today, we first need to calculate twice the distance she biked yesterday:
+  - Twice the distance of 12 miles is 24 miles
+* Then, we subtract 3 miles from that to get the distance she biked today:
+  - 24 miles - 3 miles = 21 miles
+* To find the total miles she biked in the two days, we add the miles from yesterday and today:
+  - 12 miles + 21 miles = 33 miles
+
+Answer: 33

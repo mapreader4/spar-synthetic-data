@@ -1,0 +1,7 @@
+Let's start by calculating the number of watermelons Alice had after selling 40% yesterday.
+
+She had 10 dozens of watermelons initially, which is 10 x 12 = 120. She sold 40% of it, which is 0.4 x 120 = 48 watermelons. So, she had 120 - 48 = 72 watermelons left.
+
+Then, she sold 1/4 of the remaining watermelons, which is 1/4 x 72 = 18 watermelons. So, she has 72 - 18 = 54 watermelons left to be sold tomorrow.
+
+Answer: 54

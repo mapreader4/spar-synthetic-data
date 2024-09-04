@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Zig wrote 4 times as many books as Flo.
+2) Zig wrote 60 books.
+3) Since Zig wrote 4 times as many books as Flo, we can divide Zig's total of 60 books by 4 to find out how many books Flo wrote.
+4) 60 books / 4 = 15 books
+5) Therefore, Flo wrote 15 books.
+6) To find the total number of books they wrote altogether, we add Zig's 60 books and Flo's 15 books:
+60 books + 15 books = 75 books
+
+Answer: 75

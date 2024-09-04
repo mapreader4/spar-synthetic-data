@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of apples that are wormy. Since a fifth of the apples have worms, and there are 85 apples, we can calculate the number of wormy apples as follows:
+
+85 apples * 1/5 = 17
+
+So, 17 apples have worms.
+
+Now, let's identify the number of bruised apples. He said that nine more than one fifth of the apples are bruised, and we know that a fifth of the apples are wormy. So, the number of bruised apples is:
+
+17 + 9 = 26
+
+So, 26 apples are bruised.
+
+Now, let's find the total number of apples that are either wormy or bruised. This is the sum of the number of wormy apples and the number of bruised apples:
+
+17 + 26 = 43
+
+So, 43 apples are either wormy or bruised.
+
+Finally, we know that Lex has 85 apples total. So, the number of apples that are not wormy or bruised is:
+
+85 - 43 = 42
+
+So, Lex has 42 apples left to eat raw.

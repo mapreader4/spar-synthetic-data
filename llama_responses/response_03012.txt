@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to figure out how many slices of cake she has initially. She has baked 4 cakes, and each cake makes 6 slices, so she has a total of 24 slices.
+
+Now, each of her 8 friends will have 2 slices each, so that's a total of 16 slices. Then, she will eat 3 slices herself, which is 3 slices.
+
+So, to find the total number of slices left over, we subtract the number of slices eaten by her and her friends (16) from the total number of slices she has (24):
+
+24 - 16 = 8
+
+So, the answer is: Answer: 8

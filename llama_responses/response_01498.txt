@@ -1,0 +1,23 @@
+Let's break this problem down step by step.
+
+First, we need to calculate Kristy's total monthly earnings. She earns a basic salary of $7.50 per hour, and she worked for 160 hours. So, her basic salary is:
+
+$7.50 per hour x 160 hours = $1200
+
+She also earns a 16% commission on everything she sells. The total amount she sold is $25,000, so her commission is:
+
+$25,000 x 0.16 = $4000
+
+Adding her basic salary and commission, her total monthly earnings are:
+
+$1200 + $4000 = $5200
+
+Now, we need to calculate how much Kristy allocated to insurance. Her monthly budget for food, clothing, rent, transportation, bills, and savings is 95% of her total monthly earnings. To find 95% of her earnings, we multiply her total earnings by 0.95:
+
+$5200 x 0.95 = $4940
+
+This means that Kristy allocated $4940 to her monthly expenses. To find out how much she allocated to insurance, we subtract this amount from her total earnings:
+
+$5200 - $4940 = $260
+
+Answer: 260

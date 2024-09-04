@@ -1,0 +1,33 @@
+Okay, let's break this down step-by-step:
+* The farmer plants 4 seeds for every 1 ear of corn he gets
+* He can sell each ear of corn for $0.1
+* It costs $0.5 for a bag of 100 seeds
+* The farmer makes a profit of $40
+
+To find the number of ears of corn he sold, we need to:
+1. Calculate the cost of the seeds he planted
+2. Calculate the total revenue he made from selling the ears of corn
+3. Subtract the cost of the seeds from the total revenue to get the profit
+4. Divide the profit by the profit per ear of corn to get the number of ears sold
+
+Step 1: Cost of the seeds
+* 1 bag of 100 seeds costs $0.5
+* So 1 seed costs $0.5 / 100 = $0.005
+* The farmer planted 4 seeds per ear of corn
+* So the cost per ear of corn is 4 * $0.005 = $0.02
+
+Step 2: Total revenue from selling the ears of corn
+* The farmer sold each ear of corn for $0.1
+* So the total revenue is the number of ears sold multiplied by $0.1
+
+Step 3: Profit
+* The total profit is $40
+* The cost per ear of corn is $0.02
+* So the profit per ear of corn is $0.1 - $0.02 = $0.08
+
+Step 4: Number of ears sold
+* Profit = $40
+* Profit per ear = $0.08
+* Number of ears sold = $40 / $0.08 = 500
+
+Answer: 500

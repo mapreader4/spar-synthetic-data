@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Each bag has 7 cookies
+* Each box has 12 cookies
+* We want to find the difference between the number of cookies in 8 boxes and 9 bags
+
+First, let's calculate the number of cookies in 8 boxes:
+* 8 boxes x 12 cookies per box = 96 cookies
+
+Next, let's calculate the number of cookies in 9 bags:
+* 9 bags x 7 cookies per bag = 63 cookies
+
+Now, we can find the difference:
+* 96 cookies (in 8 boxes) - 63 cookies (in 9 bags) = 33 cookies
+
+Answer: 33

@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's say Mario's age is M. Maria's age is M - 1.
+
+The sum of their ages is 7.
+
+So, M + (M - 1) = 7.
+
+Simplifying the equation, we get M + M - 1 = 7.
+
+Adding M to both sides of the equation, we get 2M = 7 + 1.
+
+Subtracting 1 from both sides of the equation, we get 2M = 8.
+
+So, Mario's age is 8.

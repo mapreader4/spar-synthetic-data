@@ -1,0 +1,11 @@
+To solve this problem, we can break it down step by step.
+
+First, we need to find the total number of peanut butter cookies brought by Jenny and Marcus. Jenny brought 40 peanut butter cookies, and Marcus brought 0 peanut butter cookies, since he didn't bring any. So, the total number of peanut butter cookies is 40.
+
+Next, we need to find the total number of cookies brought by both Jenny and Marcus. Jenny brought 40 peanut butter cookies and 50 chocolate chip cookies, and Marcus brought 30 peanut butter cookies and 20 lemon cookies. So, the total number of cookies is 40 + 50 + 30 + 20 = 140.
+
+Now, we can find the number of peanut butter cookies that Renee could pick that are safe for her. Since Renee is allergic to peanuts, she can't eat peanut butter cookies, so we need to subtract the 40 peanut butter cookies from the total number of cookies. The number of safe cookies is 140 - 40 = 100.
+
+To find the chance that Renee will pick a cookie that is safe for her, we need to divide the number of safe cookies by the total number of cookies. The chance is 100 / 140 = 0.7142857142857142857143.
+
+Answer: 7.14

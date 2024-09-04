@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: 
+
+- Nathan is cold.
+- He adds an extra blanket to his bed. 
+- Each blanket warms him up by 3 degrees.
+- He was cold enough that he added half of the 14 blankets in his closet on his bed.
+
+Let's identify the unknown variable: 
+
+* The number of degrees he was cold.
+
+We know that Nathan was cold, so he added an extra blanket to his bed. This means that he was cold. He was cold enough that he added half of the 14 blankets in his closet on his bed. This means that he added 7 blankets to his bed.
+
+Each blanket warms him up by 3 degrees. So, the total number of degrees he was warmed up by 3 x 7 = 21 degrees.
+
+Answer: 21

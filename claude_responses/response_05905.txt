@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* There are 10 dishes on the menu
+* 2 dishes have beans and lentils
+* 2 dishes have beans and seitan
+* The remaining 6 dishes have only one kind of protein
+* Half of the remaining 6 dishes have only beans
+* There are three times as many dishes with only beans as with only seitan
+
+First, let's find out how many dishes have only beans:
+* 6 remaining dishes
+* Half of 6 is 3
+* So there are 3 dishes with only beans
+
+Now, let's find out how many dishes have only seitan:
+* There are three times as many dishes with only beans as with only seitan
+* So if there are 3 dishes with only beans, there must be 1 dish with only seitan
+
+Finally, we can calculate the number of dishes that include lentils:
+* 2 dishes have beans and lentils
+* Therefore, the answer is 2
+
+Answer: 2

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the region east of plain A. Let's call the region east of plain A "Region A". 
+
+The problem states that the region east of plain A is 50 square miles less than the region east of plain B. This means that Region A has 200 - 50 = 150 square miles.
+
+The problem also states that plain B has 200 square miles. So, the total area of the two regions together is 200 + 150 = 350 square miles.
+
+Answer: 350

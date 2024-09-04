@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Tom charges $100 per day for the first 5 days
+* After the first 5 days, he charges $60 per day
+* The total number of days he looked for the item is 10 days
+
+For the first 5 days:
+* 5 days x $100 per day = $500
+
+For the remaining 5 days:
+* 5 days x $60 per day = $300
+
+The total cost is the sum of the two:
+* $500 + $300 = $800
+
+Answer: 800

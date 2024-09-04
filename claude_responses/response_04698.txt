@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Andrew's father buys a package of 100 masks
+* Andrew lives with 2 parents and 2 siblings, so there are 5 people in the family
+* Each member of the family changes masks every 4 days
+* To find how many days it will take to finish the pack of 100 masks, we need to calculate how many mask changes will occur in total
+
+First, let's calculate the number of mask changes per day:
+* 5 people in the family
+* Each person changes masks every 4 days
+* So, there are 5 / 4 = 1.25 mask changes per day
+
+Now, let's calculate the total number of mask changes until the pack is finished:
+* 100 masks in the pack
+* 1.25 mask changes per day
+* 100 / 1.25 = 80 days
+
+Therefore, it will take 80 days to finish the pack of 100 masks.
+
+Answer: 80

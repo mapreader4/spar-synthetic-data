@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. The baker sold 453 cakes at $12 each.
+   * To calculate the total revenue from the cakes, we multiply the number of cakes sold (453) by the price per cake ($12).
+   * 453 cakes x $12 per cake = $5,436
+
+2. The baker also sold 126 pies at $7 each.
+   * To calculate the total revenue from the pies, we multiply the number of pies sold (126) by the price per pie ($7).
+   * 126 pies x $7 per pie = $882
+
+3. To calculate the total amount the baker earned, we add the revenue from the cakes and the revenue from the pies.
+   * $5,436 (cakes) + $882 (pies) = $6,318
+
+Answer: 6318

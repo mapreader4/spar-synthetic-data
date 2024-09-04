@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying how many candy bars Kim's dad buys per week. Kim's dad buys 2 candy bars per week.
+
+Kim eats 1 candy bar every 4 weeks. So, in 16 weeks, she will eat 16 candy bars. Since she eats 1 candy bar every 4 weeks, she will eat 4 candy bars per week. In 16 weeks, she will eat 4 * 4 = 16 candy bars. So, she will have 2 * 4 = 8 candy bars left over.
+
+So, Kim has 8 candy bars left.
+
+Answer: 8

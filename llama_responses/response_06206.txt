@@ -1,0 +1,19 @@
+Let's break down the problem step by step.
+
+First, Eman agreed to pay for the computer chair, which costs $100.
+
+Next, Frank agreed to pay for the computer table, which costs $140.
+
+Then, Frank agreed to pay 1/4 of the price of the joystick, which is $20. So Frank will pay $5 for the joystick (1/4 of $20). The remaining amount of $15 will be paid by Eman.
+
+To find out how much more Frank will spend than Eman, we need to calculate the total amount spent by each sibling.
+
+Frank will pay $140 for the computer table and $5 for the joystick, so his total amount spent is $145.
+
+Eman will pay $100 for the computer chair and $15 for the joystick, so her total amount spent is $115.
+
+To find out how much more Frank will spend than Eman, we subtract Eman's total amount spent from Frank's total amount spent:
+
+$145 (Frank) - $115 (Eman) = $30
+
+Answer: 30

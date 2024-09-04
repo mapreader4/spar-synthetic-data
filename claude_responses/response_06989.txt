@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* The artist spends 30 hours every week painting
+* It takes her 3 hours to complete a painting
+* We want to find how many paintings she can make in four weeks
+
+First, let's calculate how many paintings she can make in one week:
+* 30 hours per week / 3 hours per painting = 10 paintings per week
+
+Now, we can calculate how many paintings she can make in four weeks:
+* 10 paintings per week x 4 weeks = 40 paintings
+
+Answer: 40

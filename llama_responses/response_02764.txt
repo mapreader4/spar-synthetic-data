@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of animals initially in the barn. The total number of animals is 100 + 29 + 9 = 138.
+
+Next, Brian bought half of the animals and sold them at the market. Since half of 138 is 69, we subtract 69 from the total number of animals. 138 - 69 = 69.
+
+Then, Jeremy gifted Fred an additional 37 goats. So, the new total number of animals is 69 + 37 = 106.
+
+Now, we need to find out how many of these animals are male. Since exactly half of the animals are male, we need to find half of 106. Half of 106 is 53.
+
+Answer: 53

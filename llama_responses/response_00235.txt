@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many trains Max gets each year. He gets 1 train for his birthday, and 2 trains for Christmas. So, in total, he gets 1 + 2 = 3 trains each year.
+
+Since he does this for 5 years, he gets 3 trains each year for 5 years. So, he gets 3 x 5 = 15 trains.
+
+At the end of the 5 years, his parents give him double the number of trains he already has. So, he gets double the 15 trains, which is 15 x 2 = 30 trains.
+
+So, Max now has 15 + 30 = 45 trains.
+
+Answer: 45

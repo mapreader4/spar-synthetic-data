@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+1) Olivia has $112 and Nigel has $139, so together they have $112 + $139 = $251 to start with.
+2) They want to buy 6 one-day passes to a tourist attraction, and each ticket costs $28.
+3) To calculate the total cost of the 6 tickets, we multiply the number of tickets (6) by the cost per ticket ($28):
+6 x $28 = $168
+4) Now, to find out how much money they have left, we subtract the total cost of the tickets ($168) from the total amount of money they had ($251):
+$251 - $168 = $83
+
+Answer: $83

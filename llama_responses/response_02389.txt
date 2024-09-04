@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+1. First, we need to find the total number of cards in the deck. A standard deck of cards has 52 cards, and we are removing the face cards (Jack, Queen, King, Ace, 2-10, Jack, Queen, King, Ace) and the 8's, leaving us with 44 cards.
+
+2. Mark picks a card at random and then replaces it 36 times. This means he is effectively removing 36 cards from the deck.
+
+3. After removing 36 cards, there are 44 cards left in the deck. Since Mark is picking cards randomly, we can assume that the probability of picking a card that is red and has a number divisible by 3 is the same as the probability of picking any card that is red and has a number divisible by 3.
+
+4. The cards that have a number divisible by 3 in a standard deck are 3, 6, 9, and 12. Since there are 4 cards that are red and have a number divisible by 3, the probability of picking one of these cards is 4/44.
+
+5. Since Mark picks the cards randomly, the probability of picking a card that is red and has a number divisible by 3 is 4/44.
+
+Answer: 4

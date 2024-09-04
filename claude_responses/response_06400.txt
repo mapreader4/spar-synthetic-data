@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Dan spent a total of $32 on the items
+* The backpack cost $15
+* The pack of pens cost $1.00
+* The pack of pencils cost $1.00
+* He bought 5 multi-subject notebooks
+
+To find the cost of each notebook, we need to subtract the cost of the other items from the total amount spent, and then divide the remaining amount by the number of notebooks.
+
+First, let's calculate the total cost of the other items:
+* Backpack: $15
+* Pens: $1.00
+* Pencils: $1.00
+* Total cost of other items: $15 + $1.00 + $1.00 = $17
+
+Now, we can subtract the cost of the other items from the total amount spent:
+* Total amount spent: $32
+* Cost of other items: $17
+* Remaining amount: $32 - $17 = $15
+
+Finally, we can divide the remaining amount by the number of notebooks to find the cost of each notebook:
+* Remaining amount: $15
+* Number of notebooks: 5
+* Cost per notebook: $15 / 5 = $3
+
+Answer: $3

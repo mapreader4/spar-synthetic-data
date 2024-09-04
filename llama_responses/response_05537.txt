@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+1. Cody logs 1,000 steps a day for the first week, which means he logs a total of 1,000 x 7 = 7,000 steps in the first week.
+2. For the second week, he logs 2,000 steps a day, which is an increase of 1,000 steps from the previous week. So, he logs a total of 7,000 + 2,000 = 9,000 steps in the second week.
+3. He continues this pattern for the next 2 weeks, increasing his daily step count by 1,000 each week. So, for the third week, he logs 3,000 steps a day, and for the fourth week, he logs 4,000 steps a day.
+4. We can add up the total steps for each week to find the total number of steps he has logged so far: 7,000 + 9,000 + 11,000 + 14,000 = 30,000 steps.
+5. Since he needs to log a total of 100,000 steps to reach his goal, we can subtract the total number of steps he has logged so far from the goal: 100,000 - 30,000 = 70,000.
+
+Answer: 70,000

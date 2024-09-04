@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the total length of the wire needed to fence the entire 5000 feet field. Since the wire is sold at $30 per foot, we can multiply the total length by the cost per foot to find the total cost of the wire.
+
+The total length of the wire needed is 5000 feet. So, the total cost would be:
+
+5000 feet * $30/foot = $150000
+
+Since Melany has $120000, she has enough money to buy the wire. So, the amount of wire that Melany can buy is equal to the total cost of the wire:
+
+$120000 = 12000
+
+So, the amount of wire that Melany can buy is 12000 feet. The amount of the field that will not be fenced is the remaining amount of wire that she does not have:
+
+5000 - 12000 = 3800
+
+Answer: 3800

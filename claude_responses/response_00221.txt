@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Mira jogs 5 miles per hour
+* She jogs for 2 hours every morning
+* We want to know how many miles she can jog for five days
+
+First, let's calculate how many miles she can jog in one day:
+* Mira jogs 5 miles per hour
+* She jogs for 2 hours every morning
+* So, in one day she can jog 5 miles per hour x 2 hours = 10 miles
+
+Now, let's calculate how many miles she can jog for five days:
+* In one day she can jog 10 miles
+* For five days, she can jog 10 miles x 5 days = 50 miles
+
+Answer: 50 miles

@@ -1,0 +1,15 @@
+Let's break down the problem step by step.
+
+First, let's calculate the cost of the bananas: 4 bananas at $1 each is 4 x $1 = $4.
+
+Next, let's calculate the cost of the apples: 3 apples at $2 each is 3 x $2 = $6.
+
+Next, let's calculate the cost of the strawberries: 12 strawberries at $0.33 each (since 12 ÷ 4 = 3) is 12 x $0.33 = $3.96.
+
+Next, let's calculate the cost of the avocados: 2 avocados at $3 each is 2 x $3 = $6.
+
+Finally, let's calculate the cost of the bunch of grapes: half a bunch of grapes costs $2.
+
+Now, let's add up the total cost of the fruit: $4 + $6 + $3.96 + $6 + $2 = $17.96.
+
+Answer: 17.96

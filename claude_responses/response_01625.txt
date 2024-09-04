@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* The original price of the movie ticket was $100
+* The price is now down by 20%
+* To calculate the new price, we need to find 20% of the original price and subtract it from the original price
+* 20% of $100 is 0.20 * $100 = $20
+* Subtracting $20 from the original price of $100 gives us the new price of $80
+
+Answer: 80

@@ -1,0 +1,5 @@
+Let's break it down step by step.
+
+Let's first find the total number of stickers she has. She has 50 gold stickers, and she has twice as many silver stickers as gold stickers, so she has 2 * 50 = 100 silver stickers. Then, she has 20 fewer bronze stickers than silver stickers, so she has 100 - 20 = 80 bronze stickers.
+
+Now, she wants to give the same number of stickers to each of her 5 students. So, she will give each student (100 + 80 + 50) / 5 = 230 / 5 = 46 stickers.

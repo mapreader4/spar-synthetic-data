@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Margaux's friend pays her $5 per day.
+2) Margaux's brother pays her $8 per day.
+3) Margaux's cousin pays her $4 per day.
+4) We want to know how much money Margaux will collect after 7 days.
+5) For her friend, she will collect $5 per day for 7 days, which is $5 x 7 = $35.
+6) For her brother, she will collect $8 per day for 7 days, which is $8 x 7 = $56.
+7) For her cousin, she will collect $4 per day for 7 days, which is $4 x 7 = $28.
+8) Adding up the amounts from her friend, brother, and cousin, the total amount Margaux will collect after 7 days is $35 + $56 + $28 = $119.
+
+Answer: 119

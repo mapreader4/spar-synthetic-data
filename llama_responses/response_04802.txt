@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. The vacuum cleaner lasts 10 minutes.
+2. Mary has 3 bedrooms, a kitchen, and a living room. So, the total number of rooms to be vacuumed is 3 + 1 + 1 = 5.
+3. Mary needs to vacuum each room, so she needs to vacuum 5 times.
+4. Each room takes 4 minutes to vacuum, so the total time needed to vacuum the whole house is 5 x 4 = 20 minutes.
+5. Since the vacuum cleaner lasts 10 minutes, Mary needs to charge it 20 / 10 = 2 times to vacuum the whole house.
+
+Answer: 2

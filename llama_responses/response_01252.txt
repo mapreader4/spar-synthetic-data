@@ -1,0 +1,11 @@
+Let's start by identifying the number of beads that Marnie has in total.
+
+Marnie has 5 bags of 50 beads and 2 bags of 100 beads. So, the total number of beads she has is:
+
+5 * 50 + 2 * 100 = 550
+
+Now, since Marnie uses 50 beads to make one bracelet, we need to find how many bracelets she can make with the total number of beads she has. We can do this by dividing the total number of beads by the number of beads used to make one bracelet:
+
+550 ÷ 50 = 11
+
+So, Marnie will be able to make 11 bracelets with the beads she bought.

@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Jack has $26
+* Ben has $9 more than Jack, so Ben has $26 + $9 = $35
+* Eric has $10 less than Ben, so Eric has $35 - $10 = $25
+
+Now, we can calculate the total amount of money that Eric, Ben, and Jack have:
+* Eric has $25
+* Ben has $35
+* Jack has $26
+* Total = $25 + $35 + $26 = $86
+
+Answer: $86

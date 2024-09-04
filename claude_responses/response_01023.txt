@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Cooper is building a brick fence around all four sides of his property
+* Each of the four walls of the fence is 20 bricks long, 5 bricks high, and 2 bricks deep
+* To calculate the total number of bricks needed, we need to find the total number of bricks in each wall, and then multiply that by the number of walls.
+
+For each wall:
+* The length is 20 bricks
+* The height is 5 bricks
+* The depth is 2 bricks
+* So the total number of bricks per wall is 20 x 5 x 2 = 200 bricks
+
+Now, since there are 4 walls, the total number of bricks needed is:
+* 4 walls x 200 bricks per wall = 800 bricks
+
+Answer: 800

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of fruits each child received. Mike received 3 oranges. Matt received 2 times the number of fruits Mike received, which is 3 x 2 = 6 apples. Mark received the same number of fruits as Mike and Matt received fruits together, which is 3 + 6 = 9 bananas.
+
+So, the total number of fruits the three children received is 3 + 6 + 9 = 18.
+
+Answer: 18

@@ -1,0 +1,13 @@
+Let's break down the problem step by step:
+
+Julio has 4 bottles of orange soda and 7 bottles of grape soda, so he has a total of 4 + 7 = 11 bottles of soda.
+
+Mateo has 1 bottle of orange soda and 3 bottles of grape soda, so he has a total of 1 + 3 = 4 bottles of soda.
+
+Since each bottle has 2 liters of soda, Julio has a total of 11 x 2 = 22 liters of soda. Mateo has a total of 4 x 2 = 8 liters of soda.
+
+To find out how many more liters Julio has, we subtract the number of liters Mateo has from the number of liters Julio has:
+
+22 (Julio's soda) - 8 (Mateo's soda) = 14
+
+Answer: 14

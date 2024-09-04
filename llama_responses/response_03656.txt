@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's first find the number of pencils the hand-crank sharpener can sharpen in six minutes. 
+
+A hand-crank pencil sharpener can sharpen one pencil every 45 seconds. So, in 6 minutes, it can sharpen:
+
+6 minutes = 6 x 60 seconds = 360 seconds
+
+Now, let's find the number of pencils the electric sharpener can sharpen in the same time.
+
+An electric pencil sharpener can sharpen one pencil in 20 seconds. So, to sharpen 360 pencils, it would take:
+
+360 seconds / 20 seconds = 18 pencils
+
+So, the electric sharpener can sharpen 18 pencils in the same 6 minutes. 
+
+Now, we can compare the number of pencils the electric sharpener can sharpen to the number of pencils the hand-crank sharpener can sharpen.
+
+The hand-crank sharpener can sharpen 1 pencil every 45 seconds. So, in 6 minutes, it can sharpen:
+
+6 minutes / 45 seconds = 8 pencils
+
+So, the electric sharpener can sharpen 18 pencils in 6 minutes, while the hand-crank sharpener can sharpen 8 pencils in the same time.
+
+The electric sharpener can sharpen more pencils than the hand-crank sharpener.

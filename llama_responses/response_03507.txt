@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by finding the amount of money Ella makes from babysitting last year.
+
+Let's call this amount M.
+
+Since Ella spent 40% of the money she makes from babysitting on video games, we know that 40% of M = 100.
+
+To find the value of M, we can divide 100 by 40%:
+
+M = 100 / 0.4 = 250
+
+So, Ella makes $250 from babysitting last year.
+
+Now, let's find Ella's new salary after the 10% raise.
+
+Her new salary is 10% more than her old salary. We can add 10% of her old salary to her old salary to find her new salary:
+
+New salary = Old salary + (10% of old salary)
+
+New salary = 250 + (10% of 250)
+
+New salary = 250 + 25
+
+Answer: 275

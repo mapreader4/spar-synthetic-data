@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's say the number of people who disappear is x.
+
+One-tenth of the time, the person never reappears, so the number of people who never reappear is (1/10)*x.
+
+One-fifth of the time, two people reappear, so the number of people who reappear is (1/5)*x.
+
+The number of people who reappear is the sum of the people who reappear once and the people who reappear twice. This can be represented as (1/10)*x + (1/5)*x.
+
+The total number of people reappearing is the total number of people who reappear once, which is x, minus the number of people who never reappear. So, we can set up an equation:
+
+x - (1/10)*x = (1/5)*x
+
+We can solve for x by multiplying both sides by 10:
+
+10x - (1)*x = (1/5)*x*10
+
+10x - x = (1/5)*10x
+
+9x = (1/5)*10x
+
+9x = 2x
+
+x = 9
+
+So, the number of people who reappear is 9.
+
+Answer: 9

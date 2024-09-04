@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. There are 2 clotheslines for every house, so the total number of clotheslines is 2 * number of houses.
+2. Each clothesline can hold 2 items of clothing, so the total number of items of clothing is 2 * 2 * number of houses * 2 (since there are 2 clotheslines per house and 2 items per clothesline).
+3. The total number of items of clothing is 4 * 11 (children) + 3 * 20 (adults) = 4 * 11 + 3 * 20 = 44 + 60 = 104.
+4. The total number of clotheslines is 2 * number of houses, and each clothesline can hold 2 items of clothing. So, the number of houses is 104 / (2 * 2) = 104 / 4 = 26.
+
+Answer: 26

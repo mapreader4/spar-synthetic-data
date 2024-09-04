@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Stephen ordered 2 large pizzas, each cut into 12 slices
+* So the total number of slices is 2 * 12 = 24 slices
+* Stephen ate 25% of the pizza
+* 25% of 24 slices = 0.25 * 24 = 6 slices
+* So there are 24 - 6 = 18 slices remaining
+* Pete ate 50% of the remaining pizza
+* 50% of 18 slices = 0.5 * 18 = 9 slices
+* So the number of slices left over is 18 - 9 = 9 slices
+
+Answer: 9

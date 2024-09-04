@@ -1,0 +1,17 @@
+Okay, let's break this down step by step:
+* Jame can tear 30 cards at a time
+* A new deck of cards has 55 cards (including jokers and blank cards)
+* Jame tears cards 3 times a week
+* He buys 18 decks
+
+First, we need to calculate how many cards he can tear in a week:
+* 30 cards per tear x 3 tears per week = 90 cards per week
+
+Next, we need to calculate how many cards he has in total:
+* 18 decks x 55 cards per deck = 990 cards
+
+Now, we can calculate how many weeks he can go:
+* 990 cards / 90 cards per week = 11 weeks
+
+Therefore, the answer is:
+Answer: 11 weeks

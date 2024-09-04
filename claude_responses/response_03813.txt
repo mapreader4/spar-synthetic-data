@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Carmen burns a candle for 1 hour every night
+* A candle will last her 8 nights
+* If she burns the candle for 2 hours a night, how many candles will she use over 24 nights?
+
+First, let's calculate how long one candle will last if she burns it for 2 hours a night:
+* 1 candle lasts 8 nights when burned for 1 hour per night
+* So, 1 candle will last 8 / 1 = 8 hours when burned for 1 hour per night
+* When burned for 2 hours per night, 1 candle will last 8 / 2 = 4 nights
+
+Now, we can calculate how many candles she will use over 24 nights:
+* 24 nights / 4 nights per candle = 6 candles
+
+Answer: 6

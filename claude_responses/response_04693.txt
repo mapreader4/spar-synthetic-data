@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Barbara Blackburn can normally type 212 words per minute
+* Due to Carpal tunnel syndrome, she can now only type 212 - 40 = 172 words per minute
+* The document she needs to type has 3440 words
+* To calculate the time it will take her to type the document, we divide the total number of words (3440) by her current typing speed (172 words per minute)
+* 3440 words / 172 words per minute = 20 minutes
+
+Answer: 20 minutes

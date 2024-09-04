@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* You spend $1 on the string for each bracelet
+* You spend $3 on beads for each bracelet
+* So the total cost per bracelet is $1 + $3 = $4
+* You sell each bracelet for $6
+* You sell 25 bracelets
+* To calculate the total revenue, we multiply the number of bracelets sold (25) by the selling price per bracelet ($6):
+  * Total revenue = 25 * $6 = $150
+* To calculate the total cost, we multiply the number of bracelets sold (25) by the cost per bracelet ($4):
+  * Total cost = 25 * $4 = $100
+* To calculate the profit, we subtract the total cost from the total revenue:
+  * Profit = Total revenue - Total cost
+  * Profit = $150 - $100 = $50
+
+Answer: $50

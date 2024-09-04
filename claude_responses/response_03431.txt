@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* The race lasts for 12 minutes
+* The winner ran 24 laps around the school
+* Each lap is 100 meters
+* The winner is awarded $3.5 for every 100 meters they run
+
+First, we need to calculate the total distance the winner ran:
+* 24 laps x 100 meters per lap = 2,400 meters
+
+Next, we need to calculate the total amount the winner earned:
+* 2,400 meters / 100 meters per $3.5 = 24 x $3.5 = $84
+
+Finally, to find the average amount earned per minute, we divide the total amount earned by the time of the race:
+* $84 / 12 minutes = $7 per minute
+
+Answer: $7 per minute

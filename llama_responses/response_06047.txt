@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Kyle bakes 60 cookies and 32 brownies. So, Kyle has a total of 60 + 32 = 92 baked goods.
+
+Kyle eats 2 cookies and 2 brownies, so he consumes 2 + 2 = 4 baked goods.
+
+Kyle's mom eats 1 cookie and 2 brownies, so she consumes 1 + 2 = 3 baked goods.
+
+So, Kyle has 92 - 4 - 3 = 85 baked goods left.
+
+Kyle sells a cookie for $1 and a brownie for $1.50. So, he makes 1 x 1 = 1 + 1.5 x 2 = 2.50 for each brownie.
+
+Kyle sells all of his baked goods, so he makes 85 x 2.50 = 212.50.
+
+Answer: 212.50

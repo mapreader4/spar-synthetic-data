@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Claire has 4 hours to clean
+* She has 2 hours to cook
+* The remaining time in her working day is the total day minus the time spent cleaning and cooking, and minus the 8 hours of sleep
+* Total day = 24 hours
+* Time spent cleaning = 4 hours
+* Time spent cooking = 2 hours
+* Time spent sleeping = 8 hours
+* Remaining time in working day = 24 - 4 - 2 - 8 = 10 hours
+* This remaining 10 hours is divided equally between crafting and tailoring
+* So, the time spent crafting = 10 / 2 = 5 hours
+
+Answer: 5 hours

@@ -1,0 +1,16 @@
+Let's break down the number of omelets each group will need:
+
+* Small children: 53 tickets x 0.5 omelets/ticket = 26.5 omelets
+* Older children: 35 tickets x 1 omelet/ticket = 35 omelets
+* Adults: 75 tickets x 2 omelets/ticket = 150 omelets
+* Seniors: 37 tickets x 1.5 omelets/ticket = 55.5 omelets
+
+Total omelets needed = 26.5 + 35 + 150 + 55.5 = 267 omelets
+
+Since they want to make 25 extra omelets, they need to buy enough eggs for 267 + 25 = 292 omelets.
+
+Each omelet requires 2 eggs, so they need to buy:
+
+292 omelets x 2 eggs/omelet = 584 eggs
+
+Answer: 584

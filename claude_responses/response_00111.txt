@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Paul bought bread for $2
+2) Paul bought butter for $3
+3) Paul bought juice for two times the price of the bread, which is 2 * $2 = $4
+4) The total cost of the items Paul bought is $2 + $3 + $4 = $9
+5) Paul had $15 for his shopping
+6) To find the amount of money Paul had left, we subtract the total cost from the amount he had:
+$15 - $9 = $6
+
+Answer: 6

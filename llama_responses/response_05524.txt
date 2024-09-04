@@ -1,0 +1,15 @@
+Let's break it down step by step.
+
+Gondor repairs phones, and he earns $10 for each phone. He repaired 3 phones last Monday, so he earns 3 x $10 = $30.
+
+Gondor repairs phones again on Tuesday, and he repairs 5 phones. He earns 5 x $10 = $50.
+
+Gondor repairs laptops on Wednesday, and he repairs 2 laptops. He earns 2 x $20 = $40.
+
+Gondor repairs laptops on Thursday, and he repairs 4 laptops. He earns 4 x $20 = $80.
+
+To find the total amount Gondor earns, we add up the money he earns each day:
+
+$30 + $50 + $40 + $80 = $160
+
+Answer: 160

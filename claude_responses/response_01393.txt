@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Cassy packs 12 jars of jam in 10 boxes.
+2) This means she packs a total of 12 * 10 = 120 jars of jam in the 10 boxes.
+3) Cassy also packs 10 jars of jam in 30 boxes.
+4) This means she packs a total of 10 * 30 = 300 jars of jam in the 30 boxes.
+5) In total, Cassy has packed 120 + 300 = 420 jars of jam in the boxes.
+6) Cassy has 500 jars of jam in total.
+7) Therefore, the number of jars of jam she has left when all the boxes are full is:
+500 - 420 = 80 jars of jam.
+
+Answer: 80

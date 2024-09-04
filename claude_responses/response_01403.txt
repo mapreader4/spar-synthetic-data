@@ -1,0 +1,22 @@
+Okay, let's think through this step-by-step:
+1) Brad's zip code consists of five numbers that add up to 10.
+2) The first and second numbers are the same.
+3) The third number is zero.
+4) The fourth number is double the first number.
+5) The fourth and fifth numbers add up to 8.
+
+Let's start by assigning the first number as x.
+* The second number is also x.
+* The third number is 0.
+* The fourth number is 2x.
+* The fifth number is 8 - 2x.
+
+Now we can set up an equation to solve for x:
+x + x + 0 + 2x + (8 - 2x) = 10
+4x + 8 - 2x = 10
+2x = 2
+x = 1
+
+So the first and second numbers are 1, the third number is 0, the fourth number is 2, and the fifth number is 6.
+
+Answer: 10106

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Summer and Jolly both went to the same middle school
+* When they finished college, Summer had five more degrees than Jolly
+* Summer has a total of 150 degrees
+
+To find the combined number of degrees they both have, we need to first find out how many degrees Jolly has.
+
+Since Summer has 5 more degrees than Jolly, we can subtract 5 from Summer's total of 150 degrees to get Jolly's total:
+* Jolly's total degrees = 150 - 5 = 145 degrees
+
+Now, to find the combined number of degrees they both have, we add Summer's and Jolly's degrees together:
+* Combined degrees = Summer's degrees + Jolly's degrees
+* Combined degrees = 150 + 145 = 295 degrees
+
+Answer: 295

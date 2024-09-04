@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+Let's first find the total number of songs the band played in the first two sets. They played 5 songs in the first set and 7 in the second set, so the total is 5 + 7 = 12.
+
+Since the band will play 2 songs for their encore, we need to add that to the total. 12 + 2 = 14.
+
+Now, we need to find the number of songs the band will play in the third and fourth sets. We know that the band will play all their songs, so we need to find the total number of songs left to play. The total number of songs played so far is 14, and the band has a total of 30 songs in their repertoire. So, the number of songs left to play is 30 - 14 = 16.
+
+Answer: 16

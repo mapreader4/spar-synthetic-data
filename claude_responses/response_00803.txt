@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* The teacher has 25 students total
+* 11 students want the vampire-themed bag
+* 14 students want the pumpkin-themed bag
+* The store sells packs of 5 of each theme at $3 per package
+* The store also sells individual bags of each theme at $1 each
+
+To get the least amount of money spent, we need to determine the most efficient way to buy the bags.
+
+First, let's calculate the number of packs of each theme the teacher needs to buy:
+* For the vampire-themed bags, the teacher needs 11 bags. Since the packs are sold in sets of 5, the teacher needs to buy 3 packs (3 x 5 = 15 bags).
+* For the pumpkin-themed bags, the teacher needs 14 bags. Since the packs are sold in sets of 5, the teacher needs to buy 3 packs (3 x 5 = 15 bags).
+
+Now, let's calculate the total cost:
+* 3 packs of vampire-themed bags at $3 per pack = $9
+* 3 packs of pumpkin-themed bags at $3 per pack = $9
+* Total cost of packs = $9 + $9 = $18
+
+Since the teacher needs to buy every student the theme they requested, the teacher will need to buy 1 individual bag for the remaining 2 vampire-themed bags (2 x $1 = $2).
+
+Therefore, the least amount of money the teacher can spend on the bags is:
+Answer: $18 + $2 = $20

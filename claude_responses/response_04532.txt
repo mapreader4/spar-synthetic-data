@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Mr. Reyansh has 40 cows on his dairy farm.
+2) Each cow drinks 80 liters of water daily.
+3) So the total water consumed by the cows in a day is:
+   40 cows x 80 liters/cow = 3,200 liters
+4) He also has a sheep ranch with 10 times the number of cows, which is 10 x 40 = 400 sheep.
+5) Each sheep drinks 1/4 times as much water as a cow, which is 80 liters / 4 = 20 liters.
+6) So the total water consumed by the sheep in a day is:
+   400 sheep x 20 liters/sheep = 8,000 liters
+7) The total water consumed by all the animals in a day is:
+   3,200 liters (cows) + 8,000 liters (sheep) = 11,200 liters
+8) In a week (7 days), the total water consumed is:
+   11,200 liters/day x 7 days = 78,400 liters
+
+Answer: 78,400 liters

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* There are 6 adults in the group
+* Each adult meal costs $6
+* So the total cost for the adult meals is 6 adults x $6 per meal = $36
+* There are 2 children in the group
+* Each children's meal costs $4
+* So the total cost for the children's meals is 2 children x $4 per meal = $8
+* Each person ordered a soda, which costs $2 per soda
+* There are 6 adults + 2 children = 8 people
+* So the total cost for the sodas is 8 people x $2 per soda = $16
+* To calculate the total bill, we add up the costs for the adult meals, children's meals, and sodas:
+* $36 + $8 + $16 = $60
+
+Answer: $60

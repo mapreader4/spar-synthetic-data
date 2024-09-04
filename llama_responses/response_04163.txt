@@ -1,0 +1,5 @@
+Let's break this down step by step.
+
+Tom buys 20 shares of a stock that costs $3 each.  So, the total cost is 20 * 3 = 60.  He sells 10 of those shares for $4 each, which means he makes 10 * 4 = 40.  The remaining 10 shares end up doubling in value, so their value becomes 2 * 3 = 6.  So, the total value of the remaining shares is 10 * 6 = 60.  The total profit Tom makes is the difference between the value of the shares he sells and the total value of the shares that he buys.  The difference is 40 - 60 = -20.  So, the answer is:
+
+Answer: -20

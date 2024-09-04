@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of comic books Beth owns. We know that 18 are graphic novels, which are a type of comic book. So, we can subtract 18 from the total number of books, 120, to find the number of comic books she has. 120 - 18 = 102.
+
+Now, we need to find the percentage of comic books in the total number of books. We can do this by dividing the number of comic books, 102, by the total number of books, 120.
+
+102 / 120 = 0.85, or 85%.
+
+Answer: 85

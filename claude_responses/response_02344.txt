@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Olivia's initial insurance premium is $50/month.
+2) If she gets in one accident, her premium goes up by 10%, which is 0.1 * $50 = $5.
+3) Her new premium after the accident is $50 + $5 = $55/month.
+4) She also gets 3 tickets, which means her premium goes up by $5 for each ticket, which is 3 * $5 = $15.
+5) Her new premium after the accident and tickets is $55 + $15 = $70/month.
+
+Answer: $70

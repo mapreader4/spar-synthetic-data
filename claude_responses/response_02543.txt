@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Matthew drinks 4 glasses of water per day
+* Each glass is 5 ounces
+* So, the total amount of water he drinks per day is:
+    * 4 glasses x 5 ounces per glass = 20 ounces per day
+* He buys a 35 ounces water bottle
+* To find how many times he will fill the bottle each week, we need to calculate the total amount of water he drinks in a week:
+    * 20 ounces per day x 7 days in a week = 140 ounces per week
+* Now, we divide the total amount of water he drinks per week by the size of the water bottle to find how many times he will fill it:
+    * 140 ounces per week / 35 ounces per bottle = 4 times
+
+Answer: 4

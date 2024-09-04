@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Titan's father transports the onion harvest to their store using Mr. Clay's pickup
+* The pickup can carry 10 bags per trip
+* Each bag of onions weighs 50 kgs
+* The pickup makes 20 trips
+
+To calculate the total weight of onions harvested, we need to:
+1. Calculate the total number of bags transported
+2. Multiply the total number of bags by the weight of each bag
+
+Step 1: Total number of bags transported
+* The pickup makes 20 trips
+* Each trip carries 10 bags
+* Total number of bags = 20 trips x 10 bags/trip = 200 bags
+
+Step 2: Total weight of onions harvested
+* Each bag weighs 50 kgs
+* Total weight = 200 bags x 50 kgs/bag = 10,000 kgs
+
+Answer: 10,000

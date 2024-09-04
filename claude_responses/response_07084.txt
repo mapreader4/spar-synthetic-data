@@ -1,0 +1,11 @@
+Okay, let's think through this step-by-step:
+* Sally sold a total of 150 boxes on Saturday and Sunday
+* She sold 50% more on Sunday than she did on Saturday
+* Let's call the number of boxes she sold on Saturday as x
+* Then the number of boxes she sold on Sunday would be 1.5x (50% more than Saturday)
+* We know the total number of boxes sold on both days is 150, so we can set up an equation:
+x + 1.5x = 150
+* Solving for x, we get:
+2.5x = 150
+x = 60
+Answer: 60 boxes

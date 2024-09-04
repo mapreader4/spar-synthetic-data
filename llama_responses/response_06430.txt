@@ -1,0 +1,34 @@
+Let's break this down step by step.
+
+On Sunday, Tony walks to the store. He goes 2 MPH. To find the time, we need to convert the distance to hours and minutes. There are 60 minutes in an hour. To convert the distance to minutes, we multiply the distance by 60.
+
+Distance = 4 miles
+Time = Distance / Speed
+Time = 4 / 2
+Time = 2 hours
+
+On Tuesday, Tony runs to the store. He goes 10 MPH. To find the time, we need to convert the distance to hours and minutes. There are 60 minutes in an hour. To convert the distance to minutes, we multiply the distance by 60.
+
+Distance = 4 miles
+Time = Distance / Speed
+Time = 4 / 10
+Time = 0.4 hours
+Time = 0.4 * 60
+Time = 24 minutes
+
+On Thursday, Tony walks to the store. He goes 2 MPH. To find the time, we need to convert the distance to hours and minutes. There are 60 minutes in an hour. To convert the distance to minutes, we multiply the distance by 60.
+
+Distance = 4 miles
+Time = Distance / Speed
+Time = 4 / 2
+Time = 2 hours
+Time = 2 * 60
+Time = 120 minutes
+
+To find the average time, we need to add the time for each day and divide by 3.
+
+Total time = (2 + 24 + 120) / 3
+Total time = (146) / 3
+Total time = 48.67
+
+Answer: 49

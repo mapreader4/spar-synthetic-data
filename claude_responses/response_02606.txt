@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 35 students in the class
+* There are 4 adult chaperones
+* The entrance fee for students is $5 per student
+* The entrance fee for adults is $6 per adult
+
+To calculate the total cost, we need to:
+1. Calculate the cost for the students:
+   * 35 students x $5 per student = $175
+2. Calculate the cost for the adults:
+   * 4 adults x $6 per adult = $24
+3. Add the costs for the students and adults together:
+   * $175 + $24 = $199
+
+Answer: $199

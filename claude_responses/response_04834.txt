@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Each rung of the ladder is 18 inches long.
+2) The rungs are 6 inches apart.
+3) James needs to climb 50 feet.
+4) To convert 50 feet to inches, we multiply 50 by 12 (since there are 12 inches in a foot).
+5) 50 feet x 12 inches/foot = 600 inches.
+6) Since the rungs are 6 inches apart, we can divide the total height of 600 inches by 6 inches to determine the number of rungs needed.
+7) 600 inches / 6 inches per rung = 100 rungs.
+8) Each rung is 18 inches long, so the total length of wood needed is:
+100 rungs x 18 inches per rung = 1,800 inches.
+9) To convert this to feet, we divide 1,800 inches by 12 inches per foot.
+10) 1,800 inches / 12 inches per foot = 150 feet.
+
+Answer: 150 feet.

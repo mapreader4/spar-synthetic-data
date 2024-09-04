@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's first find the number of days Jenna has to read. She has 30 days in September, but 4 weekdays starting from the 13th. So, she has 26 days left to read.
+
+She'll read 100 pages on the 23rd. So, she'll have to make up for 600 - 100 = 500 pages in the remaining 25 days.
+
+Since she'll read the same number of pages every other day, she'll read 500 / 25 = 20 pages a day.
+
+Answer: 20

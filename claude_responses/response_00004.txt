@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* James writes a 3-page letter
+* He writes to 2 different friends
+* He does this twice a week
+* We need to find out how many pages he writes in a year
+
+First, let's calculate how many pages he writes per week:
+* 3 pages per letter x 2 friends = 6 pages per letter
+* 6 pages per letter x 2 times per week = 12 pages per week
+
+Now, let's calculate how many pages he writes in a year:
+* 12 pages per week x 52 weeks in a year = 624 pages per year
+
+Answer: 624

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+From 2pm to 4pm, it rained at a rate of 4 inches per hour. This means that during this 2-hour period, 4 x 2 = 8 inches of rain fell.
+
+From 4pm to 7pm, it rained at a rate of 3 inches per hour. This means that during this 3-hour period, 3 x 3 = 9 inches of rain fell.
+
+From 7pm to 9pm, it rained at a rate of 0.5 inches per hour. This means that during this 2-hour period, 0.5 x 2 = 1 inch of rain fell.
+
+So, in total, 8 + 9 + 1 = 18 inches of rain fell. Since the rain gauge started out with 2 inches of rainwater, the total amount of rainwater in the gauge at 9pm is:
+
+2 + 18 = 20
+
+Answer: 20

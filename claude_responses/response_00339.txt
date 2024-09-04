@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Terez has 44 cows on his farm.
+2) 50% of the cows are female. To find the number of female cows, we take 50% of 44:
+   * 50% of 44 = 0.5 * 44 = 22 female cows
+3) 50% of the female cows are pregnant. To find the number of pregnant female cows, we take 50% of 22:
+   * 50% of 22 = 0.5 * 22 = 11 pregnant female cows
+
+Answer: 11

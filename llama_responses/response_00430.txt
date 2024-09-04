@@ -1,0 +1,47 @@
+Let's break down the problem step by step.
+
+First, we know that Tanya bought a total of 6 pears, 4 Granny Smith apples, 2 pineapples, and some plums. We can add these numbers together to get the total number of fruits she bought before any fell out of the bag:
+
+6 (pears) + 4 (apples) + 2 (pineapples) = 12
+
+Now, we know that half of the fruit fell out of the bag, so we need to find half of the total number of fruits she bought:
+
+12 / 2 = 6
+
+This means that 6 fruits fell out of the bag. Since there are only 9 fruits left in the bag, we can subtract 6 from 9 to find out how many fruits were in the bag initially:
+
+9 - 6 = 3
+
+This means that 3 fruits were left in the bag after half of the fruit fell out. Since Tanya bought some plums, and we know that there are 9 fruits left in the bag, we can subtract the number of fruits that are not plums from 9 to find the number of plums:
+
+9 - 6 (pears) - 4 (apples) - 2 (pineapples) =?
+
+This simplifies to:
+
+9 - 12 =?
+
+Which is:
+
+-3
+
+Wait, this can't be right! We can't have a negative number of plums. This means that our assumption that there are 9 fruits left in the bag is incorrect.
+
+Let's go back to the problem and think about it again. We know that half of the fruit fell out of the bag, and there are 9 fruits left in the bag. This means that the other half of the fruit must be in the bag. We can set up an equation to represent this:
+
+Fruits in bag = Total fruits - Fruits that fell out
+
+9 = Total fruits - 6
+
+We can add 6 to both sides of the equation to get:
+
+15 = Total fruits
+
+This means that Tanya bought a total of 15 fruits. We know that 6 pears, 4 apples, and 2 pineapples were in the bag initially, so we can subtract these numbers from 15 to find the number of plums:
+
+15 - 6 - 4 - 2 =?
+
+This simplifies to:
+
+3
+
+Answer: 3

@@ -1,0 +1,28 @@
+Let's start by using the given information to write an equation.
+
+Rica's group won 3/8 of the prize money.
+
+So, let's set up an equation to represent the situation:
+
+Let P be the total prize money.
+
+Rica's group won 3/8 of the prize money, which means Rica's group got 3/8 x P.
+
+Rica spent 1/5 of her prize money. So, she spent 1/5 of P.
+
+Now, we know Rica's group got 3/8 of P, and she spent 1/5 of P. So, Rica's group is left with P - 1/5P.
+
+We are given that Rica's group is left with $300. So, we can write:
+
+P - 1/5P = 300.
+
+To solve for P, we can multiply both sides of the equation by 5:
+
+P - 1/5P = 300
+5( P) = 300
+
+P = 300 / (1/5)
+
+P = 600
+
+So, the prize money Rica's group won was $600.

@@ -1,0 +1,9 @@
+Okay, let's think this through step-by-step:
+1) The hare runs at 10 feet/second, and the turtle crawls at 1 foot/second.
+2) The race distance is 20 feet.
+3) For the turtle to finish in a tie with the hare, the turtle must cover the 20 feet at the same time as the hare.
+4) The time it takes for the hare to cover 20 feet is 20 feet / 10 feet/second = 2 seconds.
+5) The time it takes for the turtle to cover 20 feet is 20 feet / 1 foot/second = 20 seconds.
+6) Therefore, the turtle needs a head start of 20 seconds - 2 seconds = 18 seconds.
+
+Answer: 18 seconds

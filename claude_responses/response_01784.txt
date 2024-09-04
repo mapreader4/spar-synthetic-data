@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Nancy has a bag containing 22 tortilla chips
+* She gives 7 tortilla chips to her brother
+* She gives 5 tortilla chips to her sister
+* The remaining chips are kept by Nancy
+
+To calculate how many chips Nancy kept for herself, we need to subtract the number of chips she gave away from the total number of chips she had:
+* Chips given to brother: 7
+* Chips given to sister: 5
+* Total chips given away: 7 + 5 = 12
+* Total chips Nancy had: 22
+* Chips Nancy kept for herself: 22 - 12 = 10
+
+Answer: 10

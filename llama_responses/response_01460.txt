@@ -1,0 +1,20 @@
+Let's break this problem down step by step.
+
+Let's first calculate the distance covered in the first 4 hours:
+
+Distance covered in 4 hours = Speed * Time
+Distance = 4 km/hr * 4 hours
+Distance = 16 km
+
+The man has already covered a distance of 16 km in 4 hours. To cover the remaining distance of 24 km, we need to know the speed at which he needs to travel for the remainder of the journey.
+
+Let's call the remaining distance to be covered, x km. We know that the total distance is 24 km, so we can set up the equation:
+
+16 km + x km = 24 km
+
+To solve for x, we can subtract 16 from both sides of the equation:
+
+x km = 24 km - 16 km
+x = 8 km
+
+Answer: 8

@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Bill had to finish a project from work that was supposed to take him 4 days. This means the total number of hours he needed was 4 * 8 = 32 hours. He took 6 seven-hour naps in the 4 days. 
+
+Let's break this down to hours. 6 seven-hour naps in 4 days is the same as 6 * 1.75 hours. 
+
+So, the total number of hours he took for the naps is 6 * 1.75 = 10.75 hours. 
+
+Since Bill had to finish the project in 32 hours, and he took 10.75 hours for the naps, the total number of hours he spent working on the project is 32 - 10.75 = 21.75 hours. 
+
+Answer: 21.75

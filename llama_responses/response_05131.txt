@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+Let's first identify the information given to us:
+
+* Connor scored 2 points.
+* Amy scored 4 more points than Connor, so Amy scored 2 + 4 = 6 points.
+* Jason scored twice the score of Amy, which is 6 * 2 = 12 points.
+
+To find the total score of their team, we add Connor's 2 points to Amy's 6 points and Jason's 12 points. So, the total score is 2 + 6 + 12 = 20.
+
+Answer: 20

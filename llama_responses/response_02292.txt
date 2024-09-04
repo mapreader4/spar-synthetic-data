@@ -1,0 +1,23 @@
+Let's start by identifying the information given in the problem.
+
+Jake gave one-quarter of his feeding allowance to his friend. Since Jake's feeding allowance is $4, one-quarter of it would be $1.
+
+The problem asks how many candies his friend can buy with the money Jake gave to him. Since the candies cost 20 cents apiece, we can set up an equation to solve for the number of candies his friend can buy.
+
+Let's call the number of candies x. The equation would be:
+
+1 x 0.25 = 1
+
+We can multiply both sides by 100 to get rid of the decimal point:
+
+1x 25 = 1
+
+Now, we can solve for x:
+
+x = 1 / 0.25
+
+x = 4
+
+So, his friend can buy 4 candies with the money Jake gave to him.
+
+Answer: 4

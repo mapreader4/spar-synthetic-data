@@ -1,0 +1,8 @@
+Let's break it down step by step:
+
+1. There are 45 total problems.
+2. There are twice as many multiple choice problems as free response problems.  So, the number of multiple choice problems is 45 / 2 = 22.5.  Since you can't have half of a problem, this is not the correct answer.
+3. There are 7 more free response problems than true/false problems.  This means that the number of true/false problems is 7 less than the number of free response problems.  So, the number of true/false problems is 45 - 7 = 38.
+4. Therefore, the number of true/false questions is 38.
+
+Answer: 38

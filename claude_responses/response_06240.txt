@@ -1,0 +1,23 @@
+Okay, let's break this down step-by-step:
+1) Leonard is 4 years younger than Nina
+2) Nina is half as old as Jerome
+3) The sum of their ages is 36
+
+Let's start by finding Jerome's age:
+* If Nina is half as old as Jerome, then Jerome's age is 2 times Nina's age.
+* Let's call Nina's age 'x'.
+* Then Jerome's age is '2x'.
+
+Now we can set up an equation to find the sum of their ages:
+* Leonard's age = x - 4
+* Nina's age = x
+* Jerome's age = 2x
+* Sum of their ages = (x - 4) + x + 2x = 36
+* 4x - 4 = 36
+* 4x = 40
+* x = 10
+
+So, Nina's age is 10.
+Leonard's age is 10 - 4 = 6.
+
+Answer: 6

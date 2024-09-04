@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+Let's first find the total number of days in 3 weeks:
+
+3 weeks = 21 days
+
+Since Flora needs to drink 105 gallons of milk in total, and she thinks she can drink 3 gallons daily, we can find the number of days it would take her to finish the milk by dividing 105 by 3:
+
+105 ÷ 3 = 35
+
+So, it would take Flora 35 days to finish the milk if she drinks 3 gallons daily.
+
+Since she has 21 days in 3 weeks, and it would take her 35 days to finish the milk, we can subtract 35 from 21 to find the number of extra days she needs to drink more milk:
+
+35 - 21 = 14
+
+So, Flora needs to drink more milk for 14 days to fulfill Dr. Juan's requirement. To find the number of gallons she needs to drink daily, we can divide 14 by 1:
+
+14 ÷ 1 = 14
+
+Answer: 14

@@ -1,0 +1,3 @@
+Let the total time spent watching the videos be x seconds. Then, the first video is 120 seconds long. The second video is 270 seconds long. The last two videos are equal in length, so the time spent watching the last two videos is the same. So, let's call this time y seconds. We know that the total time spent watching the videos is 510 seconds. So, we can set up the equation 120 + 270 + 2y = 510. We can subtract 120 and 270 from both sides of the equation to get 120 + 2y = 180. We can divide both sides by 2 to get y = 90. The answer is:
+
+Answer: 90

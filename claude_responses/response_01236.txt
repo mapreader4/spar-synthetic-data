@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* There are 16 cats in the house
+* 2 of them are white
+* 25% of the 16 cats are black
+* To calculate 25% of 16:
+  * 25% = 0.25
+  * 0.25 * 16 = 4
+* So, 4 of the cats are black
+* The remaining cats must be grey
+* To calculate the number of grey cats:
+  * Total cats = 16
+  * White cats = 2
+  * Black cats = 4
+  * Grey cats = Total cats - White cats - Black cats
+  * Grey cats = 16 - 2 - 4 = 10
+
+Answer: 10

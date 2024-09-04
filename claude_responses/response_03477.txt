@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Mr. Johnson needs 50 volunteers to help with decorating the auditorium
+* 5 students from each of the 6 math classes have volunteered to help
+* 5 students x 6 classes = 30 student volunteers
+* 13 teachers have also volunteered to help
+* The total number of volunteers so far is 30 students + 13 teachers = 43 volunteers
+* To find the number of additional volunteers needed, we subtract the total volunteers from the required 50 volunteers:
+* 50 volunteers required - 43 volunteers obtained = 7 more volunteers needed
+
+Answer: 7

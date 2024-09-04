@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) Ken caught twice as many fish as Kendra, so if Kendra caught 30 fish, then Ken caught 2 * 30 = 60 fish.
+2) Ken released 3 fish back into the lake, so the number of fish Ken brought home is 60 - 3 = 57 fish.
+3) Kendra caught 30 fish and did not release any, so the number of fish Kendra brought home is 30 fish.
+4) The total number of fish that Ken and Kendra brought home is the sum of the fish they each brought home:
+57 + 30 = 87 fish.
+
+Answer: 87

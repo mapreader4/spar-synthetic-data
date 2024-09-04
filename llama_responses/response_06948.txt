@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's first find the number of cherry saplings that sprout.
+
+Kim plants 80 cherry pits, and 25% of them sprout. To find the number of saplings that sprout, we multiply 25% by 80.
+
+25% of 80 is the same as 0.25 x 80, which is 20.
+
+So, 20 cherry saplings sprout.
+
+Kim sells 6 of the saplings. So, we subtract 6 from the 20 saplings that sprout.
+
+20 - 6 = 14.
+
+So, Kim has 14 cherry saplings left.

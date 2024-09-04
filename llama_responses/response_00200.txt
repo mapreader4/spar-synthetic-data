@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of each size portrait:
+
+* An 8-inch portrait is sold for $5.
+* A 16-inch portrait is sold for twice the price of the 8-inch portrait, so it is sold for 5 x 2 = $10.
+
+Now, let's find the total amount earned per day:
+
+* 3 x 8-inch portraits are sold for 3 x $5 = $15.
+* 5 x 16-inch portraits are sold for 5 x $10 = $50.
+* Total amount earned per day = $15 + $50 = $65.
+
+Now, let's find the total amount earned in 3 days:
+
+* $65 x 3 = $195.
+
+So, Sansa earns $195 every 3 days.

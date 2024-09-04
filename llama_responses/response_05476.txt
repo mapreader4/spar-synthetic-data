@@ -1,0 +1,21 @@
+Let's break this down step by step.
+
+First, let's calculate the total cost of the pizzas:
+
+3 pizzas x 12 dollars per pizza = 36 dollars
+
+For the 2 pizzas delivered in the building 2 km away, there is a delivery charge of 2 dollars per delivery, so:
+
+2 pizzas x 12 dollars per pizza = 24 dollars
++ 2 delivery charges x 2 dollars per charge = 4 dollars
+Total cost for the 2 pizzas in the building = 24 + 4 = 28 dollars
+
+For the 3 pizzas delivered in the park, which is less than 1 km away, there is no delivery charge:
+
+3 pizzas x 12 dollars per pizza = 36 dollars
+
+Now, let's add up the total amount Jimmy got paid:
+
+36 dollars (park pizzas) + 28 dollars (building pizzas) = 64 dollars
+
+Answer: 64

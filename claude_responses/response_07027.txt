@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+* Bob runs a total of 70 miles in the 3 days leading up to the race.
+* On day one, he runs 20% of the total miles. 20% of 70 miles is 0.20 * 70 = 14 miles.
+* On day two, he runs 50% of the remaining miles. The remaining miles are 70 - 14 = 56 miles. 50% of 56 miles is 0.50 * 56 = 28 miles.
+* So, on the first two days, Bob has run 14 + 28 = 42 miles.
+* To complete the 70 miles, Bob needs to run the remaining 70 - 42 = 28 miles on day three.
+
+Answer: 28 miles.

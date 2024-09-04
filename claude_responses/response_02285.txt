@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Kendy made 2 online bank transactions
+* She transferred $60 to her mom
+* She transferred half of $60, which is $30, to her sister
+* After these transfers, her account now has $100 left in it
+
+To find the amount of money in the account before the transfer, we need to add up the amounts she transferred and the amount left in the account.
+
+The total amount transferred is:
+* $60 to her mom
+* $30 to her sister
+* Total transferred = $60 + $30 = $90
+
+The amount left in the account is $100.
+
+Therefore, the amount of money in the account before the transfer was:
+* $100 (left in account) + $90 (total transferred) = $190
+
+Answer: 190

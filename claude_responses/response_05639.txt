@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* There are 30 major league baseball stadiums
+* Zach wants to take his son to see at least one game at each stadium
+* The average cost for them to travel and see a game at each stadium is $900
+* Zach can save $1,500 per year for his baseball stadium trips
+
+To calculate the total cost of Zach's goal, we multiply the number of stadiums (30) by the average cost per stadium ($900):
+* Total cost = 30 x $900 = $27,000
+
+Now, to calculate how many years it will take Zach to save up the $27,000, we divide the total cost by the amount he can save per year:
+* Years = $27,000 / $1,500 per year = 18 years
+
+Therefore, it will take Zach 18 years to accomplish his goal.
+
+Answer: 18

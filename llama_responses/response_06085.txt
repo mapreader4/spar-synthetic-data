@@ -1,0 +1,14 @@
+Let's break this problem down step by step.
+
+Let's calculate the amount of water that fills the pool in each hour:
+
+* Hour 1: 8 gallons
+* Hour 2-3: 10 gallons x 2 = 20 gallons
+* Hour 4: 14 gallons
+* Hour 5: 14 - 8 = 6 gallons (because 8 gallons were lost due to the leak)
+
+To find the total amount of water that fills the pool, we add up the gallons from each hour:
+
+8 + 20 + 14 + 6 = 48
+
+So, 48 gallons of water fill the pool.

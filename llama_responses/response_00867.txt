@@ -1,0 +1,9 @@
+Let's break this down step by step.
+
+Let's let x be the time it takes for Jim to catch Bob. We know that Bob runs at 6 miles per hour and Jim runs at 9 miles per hour. Since Bob has a 1 mile head-start, we need to find the time it takes for Jim to cover that 1 mile.
+
+Let's subtract the 1 mile from the total distance that Jim needs to cover to catch Bob, which is 6 miles. So, the time it takes for Jim to catch Bob is the difference of these two distances, which is 5 miles.
+
+Now, we need to convert the 5 miles to minutes. We know that 1 mile is 5280 feet, so 5 miles is 5 x 5280 feet. Now, we divide 5 x 5280 by 5280 to get the time it takes for Jim to cover that distance.
+
+Answer: 15

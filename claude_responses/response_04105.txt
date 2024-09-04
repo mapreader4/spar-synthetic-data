@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* On Monday, Andrew ate 14 donuts.
+* On Tuesday, Andrew ate half as many donuts as he did on Monday. So, on Tuesday he ate 14 / 2 = 7 donuts.
+* On Wednesday, Andrew ate 4 times as many donuts as he did on Monday. So, on Wednesday he ate 14 * 4 = 56 donuts.
+
+Now, to find the total number of donuts Andrew ate in the three days, we add up the number of donuts he ate each day:
+* Total donuts = 14 + 7 + 56 = 77
+
+Answer: 77

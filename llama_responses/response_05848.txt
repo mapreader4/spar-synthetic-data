@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's find the number of oranges in each box first. For the first box, 3/4 of the capacity of 80 is 60 (since 3/4 of 80 is the same as 3 * 20). So, the first box is 60/3 = 20 oranges. For the second box, 3/5 of the capacity of 50 is 30 (since 3/5 of 50 is the same as 3 * 10). So, the second box has 30 oranges.
+
+Now, we need to find the total number of oranges in both boxes. We can add the number of oranges in each box to get the total: 20 + 30 = 50. So, the total number of oranges the boxes have is 50.

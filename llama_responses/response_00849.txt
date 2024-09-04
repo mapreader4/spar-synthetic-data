@@ -1,0 +1,9 @@
+Let's break it down step by step.
+
+Let's start with the number of balloons. The total number of balloons is 200. After half an hour, 1/5 of the total number of balloons have blown up, so the number of balloons that have blown up is 200 x (1/5) = 40.
+
+After another hour, twice the number of balloons that had already blown up also blow up, so the number of balloons that blow up now is 40 + 40 * 2 = 120.
+
+So, the number of balloons that have not blown up is 200 - 40 - 120 = 40.
+
+So, the answer is: Answer: 40

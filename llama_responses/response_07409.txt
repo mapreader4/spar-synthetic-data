@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Bill uses 5 squares of toilet paper each time he goes to the bathroom. So, the total number of squares he uses in one day is 5 * 3 = 15.
+
+2. Since each roll has 300 squares, we can divide 300 by 15 to find out how many rolls he can get from one roll: 300 ÷ 15 = 20.
+
+3. Bill has 1000 rolls of toilet paper. To find out how many days his toilet paper supply will last, we can divide 1000 by 20: 1000 ÷ 20 = 50.
+
+Answer: 50

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the number of dogs that are standing on their back legs. Since half of the 12 dogs are standing on their back legs, we know that there are 6 dogs standing on their back legs.
+
+Next, let's identify the number of dogs standing on all 4 legs. Since the other half of the dogs are standing on all 4 legs, we know that there are 6 dogs standing on all 4 legs.
+
+Now, let's combine the number of dogs standing on their back legs with the number of dogs standing on all 4 legs. Since 6 + 6 = 12, there are 12 dogs standing on the ground.
+
+Answer: 12

@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+
+1. T-shirts: 6 T-shirts at $8 each
+   Total cost of T-shirts = 6 x $8 = $48
+
+2. Sweaters: 4 sweaters at $18 each
+   Total cost of sweaters = 4 x $18 = $72
+
+3. Jackets: 5 jackets at $80 each, with a 10% discount
+   Original cost of 5 jackets = 5 x $80 = $400
+   Discount amount = 10% of $400 = 0.1 x $400 = $40
+   Discounted cost of 5 jackets = $400 - $40 = $360
+
+4. Subtotal cost of all items = $48 + $72 + $360 = $480
+
+5. Sales tax: 5% of $480
+   Sales tax = 0.05 x $480 = $24
+
+6. Total amount Kevin has to pay = Subtotal cost + Sales tax
+   Total amount = $480 + $24 = $504
+
+Answer: $504

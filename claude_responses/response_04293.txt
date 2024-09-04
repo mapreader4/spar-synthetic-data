@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* 40% of the CDs cost $10 each, and the rest cost $5 each
+* The total number of CDs is 200
+* 40% of 200 is 0.4 * 200 = 80 CDs that cost $10 each
+* The remaining 60% of CDs cost $5 each, which is 0.6 * 200 = 120 CDs
+* Prince bought half the CDs sold at $10 each, which is 80 / 2 = 40 CDs
+* Prince bought all of the CDs sold at $5 each, which is 120 CDs
+* The total cost of the CDs Prince bought is:
+  - 40 CDs at $10 each = 40 * $10 = $400
+  - 120 CDs at $5 each = 120 * $5 = $600
+* The total amount of money Prince spent is $400 + $600 = $1,000
+
+Answer: 1000

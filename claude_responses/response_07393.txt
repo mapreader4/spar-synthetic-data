@@ -1,0 +1,7 @@
+Okay, let's solve this step-by-step:
+1) We know that there are 70 cookies in the jar initially.
+2) After a week, there are only 28 cookies left.
+3) This means that the number of cookies taken out over the week is 70 - 28 = 42 cookies.
+4) Since Paul took out the same amount each day, we can divide the total number of cookies taken out (42) by the number of days (7) to get the number of cookies taken out per day, which is 42 / 7 = 6 cookies per day.
+5) We are asked how many cookies he took out in four days, so we multiply the number of cookies taken out per day (6) by the number of days (4).
+Answer: 24 cookies

@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) We know that Lisa has 18 more dresses than Ana.
+2) We also know that the total number of dresses between Lisa and Ana is 48.
+3) Let's represent the number of dresses Ana has as x.
+4) Since Lisa has 18 more dresses than Ana, we can represent Lisa's dresses as x + 18.
+5) The total number of dresses is 48, so we can write the equation:
+x + (x + 18) = 48
+6) Simplifying this equation, we get:
+2x + 18 = 48
+7) Subtracting 18 from both sides, we get:
+2x = 30
+8) Dividing both sides by 2, we get:
+x = 15
+Answer: Ana has 15 dresses.

@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's say the first neighborhood uses 150 barrels of water. Then, the second neighborhood uses twice as much water, so it uses 2 x 150 = 300 barrels of water. The third neighborhood uses 100 more than the second neighborhood, so it uses 300 + 100 = 400 barrels of water. 
+
+The total water used by the first three neighborhoods is 150 + 300 + 400 = 850 barrels of water. The total capacity of the water tank is 1200 barrels. 
+
+To find out how many barrels are left for the fourth neighborhood, we subtract the total water used by the first three neighborhoods from the total capacity of the water tank: 1200 - 850 = 350.
+
+Answer: 350

@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+First, we know that Aubrey has enough room for 15 rows of plants. Each row has 8 tomato plants, so the total number of tomato plants is 15 x 8 = 120.
+
+Next, we know that each plant produces 3 tomatoes. So, to find the total number of tomatoes, we multiply the total number of plants by the number of tomatoes each plant produces. 120 plants * 3 tomatoes per plant = 360 tomatoes.
+
+Answer: 360

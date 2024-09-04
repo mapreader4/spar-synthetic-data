@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Abe's monthly budget is $3000
+* He spends a third of his budget on food
+* To calculate the amount spent on food:
+  - 1/3 of $3000 = $1000
+* He spends a quarter of his budget on restaurant supplies
+* To calculate the amount spent on restaurant supplies:
+  - 1/4 of $3000 = $750
+* The remaining amount is spent on employee wages
+* To calculate the amount spent on wages:
+  - Total budget = $3000
+  - Amount spent on food = $1000
+  - Amount spent on restaurant supplies = $750
+  - Amount spent on wages = $3000 - $1000 - $750 = $1250
+
+Answer: $1250

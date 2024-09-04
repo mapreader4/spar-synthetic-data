@@ -1,0 +1,17 @@
+Okay, let's break this down step-by-step:
+* Tina made a pan of brownies and cut it into 24 pieces
+* Tina had 1 brownie per day for 5 days, so she had 5 brownies
+* Tina's husband had 1 brownie per day for 5 days, so he had 5 brownies
+* They shared 4 brownies with dinner guests
+* To calculate the total number of brownies consumed:
+    - Tina's brownies: 5
+    - Husband's brownies: 5
+    - Dinner guests' brownies: 4
+    - Total brownies consumed: 5 + 5 + 4 = 14
+* The original pan had 24 brownies
+* So the number of brownies left is:
+    - Original brownies: 24
+    - Brownies consumed: 14
+    - Brownies left: 24 - 14 = 10
+
+Answer: 10

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Step 1: Mike watches TV for 4 hours every day, so in a week, he watches TV for 4 * 7 = 28 hours.
+
+Step 2: When he plays video games, he plays for half as long as he watches TV. So, if he watches TV for 4 hours, he plays video games for 2 hours.
+
+Step 3: Since he plays video games 3 days a week, he plays video games for 3 * 2 = 6 hours.
+
+Step 4: So, in total, Mike watches TV for 28 hours and plays video games for 6 hours.
+
+Answer: 34

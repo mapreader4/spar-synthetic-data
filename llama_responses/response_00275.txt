@@ -1,0 +1,17 @@
+Let's start by finding the amount of money Hansel received as a raise. Since Hansel received a 10% raise, we can find the amount by multiplying his original income by 1.10 (which is the same as multiplying by 100% + 10%).
+
+Hansel's original income is $30,000. Multiplying by 1.10, we get:
+
+$30,000 * 1.10 = $33,000
+
+Now, let's find the amount of money Gretel received as a raise. Gretel received a 15% raise, so we can find the amount by multiplying her original income by 1.15 (which is the same as multiplying by 100% + 15%).
+
+Gretel's original income is also $30,000. Multiplying by 1.15, we get:
+
+$30,000 * 1.15 = $34,500
+
+To find out how much more money Gretel makes compared to Hansel, we subtract Hansel's new income from Gretel's new income:
+
+$34,500 - $33,000 = $1,500
+
+So Gretel makes $1,500 more than Hansel.

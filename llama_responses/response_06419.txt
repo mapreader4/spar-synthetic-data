@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. The cost of the bags of candy is $1, and each bag contains 12 ounces. So, the cost per ounce of candy is $1 ÷ 12 = $0.083 per ounce.
+2. The cost of the bags of chips is $1.40, and each bag contains 17 ounces. So, the cost per ounce of chips is $1.40 ÷ 17 = $0.082 per ounce.
+3. To find out which option gives her the most, we need to compare the cost per ounce of each option.
+
+Cost per ounce of candy: $0.083
+Cost per ounce of chips: $0.082
+
+Since $0.083 is greater than $0.082, Amber can get more ounces of candy for her $7 than chips. She should buy the candy.

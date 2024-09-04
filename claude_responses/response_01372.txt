@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* Micah can type 20 words per minute
+* Isaiah can type 40 words per minute
+* We want to know how many more words Isaiah can type than Micah in an hour
+
+First, let's calculate how many words Micah can type in an hour:
+* 20 words per minute x 60 minutes = 1,200 words per hour
+
+Next, let's calculate how many words Isaiah can type in an hour:
+* 40 words per minute x 60 minutes = 2,400 words per hour
+
+Now, to find the difference between how many words Isaiah and Micah can type in an hour, we subtract Micah's total from Isaiah's total:
+* 2,400 words - 1,200 words = 1,200 words
+
+Answer: 1,200

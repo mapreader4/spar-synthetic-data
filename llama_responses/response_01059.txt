@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Step 1: Find the number of juice boxes each child gets in a week. Since each child gets a juice box in their lunch, each child gets 5 juice boxes per week.
+
+Step 2: Find the total number of juice boxes each child will get in a school year. Since there are 5 days in a week, each child gets 5 * 5 = 25 juice boxes per week. Since there are 25 weeks in a school year, each child will get 25 * 5 = 125 juice boxes in a school year.
+
+Step 3: Since there are 3 children, we need to multiply the total number of juice boxes each child gets in a school year by the number of children. 125 * 3 = 375.
+
+Answer: 375

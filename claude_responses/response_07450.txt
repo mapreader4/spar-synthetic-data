@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) There are 96 campers at Camp Wonka.
+2) Two-thirds of the campers are boys, and one-third are girls.
+   * To calculate the number of boys, we take two-thirds of 96: 2/3 * 96 = 64 boys.
+   * To calculate the number of girls, we take one-third of 96: 1/3 * 96 = 32 girls.
+3) 50% of the boys want to toast marshmallows.
+   * 50% of 64 boys = 0.5 * 64 = 32 boys want to toast marshmallows.
+4) 75% of the girls want to toast marshmallows.
+   * 75% of 32 girls = 0.75 * 32 = 24 girls want to toast marshmallows.
+5) To find the total number of marshmallows needed, we add the number of boys and girls who want to toast marshmallows:
+   * 32 boys + 24 girls = 56 marshmallows.
+
+Answer: 56

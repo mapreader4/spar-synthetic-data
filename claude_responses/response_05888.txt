@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* Julie's hourly rate is $5
+* She works 8 hours a day
+* She works 6 days a week
+* She was not able to go to work for a day
+
+To calculate her weekly salary:
+* She works 8 hours per day
+* She works 6 days a week
+* So her weekly hours are 8 hours x 6 days = 48 hours
+* Her hourly rate is $5
+* So her weekly salary is 48 hours x $5 per hour = $240
+
+Now, to calculate her monthly salary:
+* Assuming a month has 4 weeks
+* Her monthly salary is $240 per week x 4 weeks = $960
+
+However, she was not able to go to work for a day, so we need to adjust her monthly salary:
+* She works 8 hours per day
+* She missed 1 day of work
+* So her lost earnings for that day are 8 hours x $5 per hour = $40
+* Her adjusted monthly salary is $960 - $40 = $920
+
+Answer: $920

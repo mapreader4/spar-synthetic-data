@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the cost of the cupcakes and cookies:
+
+* Cupcakes: 3.00 dollars, reduced by half = 3.00 / 2 = 1.50
+* Cookies: 2.00 dollars, reduced by half = 2.00 / 2 = 1.00
+
+So, the cost of the remaining cupcakes and cookies is:
+
+1.50 + 1.00 = 2.50
+
+Now, let's find out how much money she made from selling the last 16 cupcakes and 8 cookies:
+
+Cupcakes: 16 * 0.50 = 8.00
+Cookies: 8 * 0.50 = 4.00
+
+Total amount of money made = 8.00 + 4.00 = 12.00
+
+Answer: 12

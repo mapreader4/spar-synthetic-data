@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+
+1. Amy is building 2 garden beds that are 3 ft long and 3 ft wide.
+   * The area of each of these garden beds is 3 ft x 3 ft = 9 sq ft.
+   * Since there are 2 of these garden beds, the total area of these beds is 2 x 9 sq ft = 18 sq ft.
+
+2. Amy is also building 2 garden beds that are 4 ft long and 3 ft wide.
+   * The area of each of these garden beds is 4 ft x 3 ft = 12 sq ft.
+   * Since there are 2 of these garden beds, the total area of these beds is 2 x 12 sq ft = 24 sq ft.
+
+3. To calculate the total growing space, we add the areas of the two sets of garden beds:
+   * Total growing space = 18 sq ft + 24 sq ft = 42 sq ft.
+
+Answer: 42 sq ft.

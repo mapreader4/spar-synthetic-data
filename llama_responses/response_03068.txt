@@ -1,0 +1,15 @@
+Let's break this down step by step:
+
+Let's first find the total number of non-defective units. There were 20 units initially, and 5 were defective, so the number of non-defective units is:
+
+20 - 5 = 15
+
+Now, we know that customer A bought 3 units, and customer C bought 7 units. So, the total number of units sold is:
+
+3 + 7 = 10
+
+But we want to find the number of units sold to customer B. We know that the total number of non-defective units is 15, and the total number of units sold is 10. So, the number of units sold to customer B must be:
+
+15 - 10 = 5
+
+Answer: 5

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Angel has written a total of 80 letters
+* 20 of those letters are put into small envelopes
+* The remaining letters are put into large envelopes
+* Each large envelope contains 2 letters
+
+First, we need to find out how many letters are put into the large envelopes. We can do this by subtracting the 20 letters in the small envelopes from the total of 80 letters:
+* 80 letters - 20 letters in small envelopes = 60 letters in large envelopes
+
+Now, we need to find out how many large envelopes Angel used. Since each large envelope contains 2 letters, we can divide the total number of letters in the large envelopes by 2 to get the number of large envelopes:
+* 60 letters in large envelopes / 2 letters per large envelope = 30 large envelopes
+
+Answer: 30

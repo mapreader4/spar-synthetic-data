@@ -1,0 +1,30 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given in the problem:
+
+* Kate buys 3 wands, 1 for herself and 2 for her friends.
+* She pays the same price for all 3 wands, which means the cost of 1 wand is the same as the cost of 2 wands.
+* She sells the wands to her friends for $5 more than she paid, which means the selling price is $5 more than the buying price.
+* She collects $130 after the sale.
+
+Let's let x be the cost of 1 wand. Then, the total cost of 3 wands would be 3x.
+
+The cost of 1 wand is the same as the cost of 2 wands, so the cost of 2 wands is 2x.
+
+Since Kate sells the wands for $5 more than she paid, the selling price is 5 + x.
+
+The total cost of 3 wands is 3x, and the selling price is 5 + x, so we can set up the equation:
+
+3x = 5 + x
+
+To solve for x, we can subtract 5 from both sides:
+
+3x - 5 = x
+
+Subtracting 5 from both sides gives us:
+
+x = 130
+
+So, the cost of 1 wand is 43.
+
+Answer: 43

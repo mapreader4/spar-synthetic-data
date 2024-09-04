@@ -1,0 +1,18 @@
+Okay, let's break this down step by step:
+* Initially, the fish tank had a total of 280 fish
+* Over the next 3 weeks, the school added 2 koi fish and 5 goldfish per day
+* At the end of the three weeks, the tank had 200 goldfish
+
+First, let's calculate the number of goldfish added over the 3 weeks:
+* 5 goldfish per day x 7 days per week x 3 weeks = 105 goldfish added
+
+Now, we can calculate the initial number of goldfish in the tank:
+* 200 goldfish at the end + 105 goldfish added = 305 goldfish
+
+Finally, we can calculate the number of koi fish in the tank:
+* Total fish initially = 280
+* Goldfish at the end = 200
+* Koi fish = 280 - 200 = 80
+
+Therefore, the total number of koi fish in the tank after the three weeks is:
+Answer: 80

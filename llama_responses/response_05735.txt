@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* The total capacity of the stadium is 2000 people.
+* The total number of people in the stadium is 3/4 of the total capacity, which is 2000. So, the number of people in the stadium is 2000 * 3/4 = 1500.
+* Each person pays $20 in entry fees.
+
+Now, let's find the total amount of fees collected when the stadium was 3/4 full:
+
+The total capacity is 2000, and 3/4 of that is 1500. So, the stadium is 2000 - 1500 = 500 people short of being full. If the stadium was full, it would have been 2000 people. So, the total amount of fees collected would be 2000 * 20 = 40000.
+
+Now, let's find the difference between the total amount of fees collected when the stadium was 3/4 full and if the stadium would have been full:
+
+The total amount of fees collected when the stadium was 3/4 full is 40000. If the stadium was full, the total amount of fees collected would be 40000. So, the difference between the two is 40000 - 40000 = 0.
+
+Answer: 0

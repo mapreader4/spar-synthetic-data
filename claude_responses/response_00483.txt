@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+* Andy started the year weighing 156 pounds
+* He then grew 3 inches and gained 36 pounds
+* So his new weight after the growth and weight gain is 156 + 36 = 192 pounds
+* Over the next 3 months, he lost an eighth of his weight every month
+* An eighth of 192 is 192 / 8 = 24 pounds
+* So in the first month, he lost 24 pounds, leaving him at 192 - 24 = 168 pounds
+* In the second month, he lost another 24 pounds, leaving him at 168 - 24 = 144 pounds
+* In the third month, he lost another 24 pounds, leaving him at 144 - 24 = 120 pounds
+
+Now, to calculate how much less he weighs now than at the beginning of the year:
+* Andy started at 156 pounds
+* He now weighs 120 pounds
+* The difference is 156 - 120 = 36 pounds
+
+Answer: 36 pounds

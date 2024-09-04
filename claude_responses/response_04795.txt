@@ -1,0 +1,11 @@
+Okay, let's break this down step by step:
+1. There are 3 bedrooms, each taking 20 minutes to clean. So the total time for the bedrooms is 3 * 20 = 60 minutes.
+2. The living room takes as long as the 3 bedrooms combined, which is 60 minutes.
+3. The bathroom takes twice as long as the living room, which is 2 * 60 = 120 minutes.
+4. The total time to clean the house is 60 + 60 + 120 = 240 minutes.
+5. The outside cleaning takes twice as long as cleaning the house, which is 2 * 240 = 480 minutes.
+6. The total time for all the chores is 240 + 480 = 720 minutes.
+7. Since James splits the chores with his 2 siblings, the total time he works is 720 / 3 = 240 minutes.
+8. Converting 240 minutes to hours, we get 240 / 60 = 4 hours.
+
+Answer: 4 hours.

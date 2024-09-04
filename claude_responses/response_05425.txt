@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* The population of Johnstown is 80 people
+* Every single person drives by themselves to work
+* Each car on the road pollutes 10 pounds of carbon per year
+* A single bus pollutes 100 pounds of carbon per year
+* A bus can hold 40 people
+* The town decides to start running a bus
+* 25% of the people who used to drive now take the bus
+
+First, let's calculate the total carbon emissions before the bus was introduced:
+* 80 people driving by themselves
+* Each car pollutes 10 pounds of carbon per year
+* Total carbon emissions = 80 * 10 = 800 pounds of carbon per year
+
+Now, let's calculate the carbon emissions after 25% of the people start taking the bus:
+* 25% of 80 people = 0.25 * 80 = 20 people take the bus
+* 1 bus pollutes 100 pounds of carbon per year
+* Remaining 60 people still drive by themselves
+* Total carbon emissions = (60 * 10) + 100 = 700 pounds of carbon per year
+
+To calculate the reduction in carbon emissions:
+* Carbon emissions before bus = 800 pounds per year
+* Carbon emissions after bus = 700 pounds per year
+* Reduction in carbon emissions = 800 - 700 = 100 pounds per year
+
+Answer: 100 pounds

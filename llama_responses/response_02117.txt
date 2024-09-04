@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+Let's first find the rate of speed for each of the friends. The first friend runs 3 miles in 21 minutes. So, his speed is 1 mile per minute. The second friend runs 3 miles in 24 minutes. So, his speed is 0.75 miles per minute.
+
+To find the total time for them to run 5 miles each, we need to find the time it takes for them to run 10 miles. We can use the speed of the first friend to find the time for them to run 10 miles. It will be 21 * 2 = 42 minutes. Then, we need to divide that by 2 to get the time for each of them to run 5 miles. 42 / 2 = 21. So, the time for each of them to run 5 miles is 21 minutes.

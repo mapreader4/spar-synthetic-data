@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Sherman has a 30-minute commute to the office and a 30-minute commute home every day. So, in a day, he drives 60 minutes. 60 minutes is 1 hour.
+
+On the weekends, he spends 2 hours, each day, driving his kids to their different activities. 2 hours is 120 minutes. 120 minutes is 2 hours.
+
+In a week, there are 7 days. So, in a week, he drives 60 minutes to the office, 60 minutes back home, and 2 hours with his kids. 7 days * (60 + 60 + 2 * 2) is 240 minutes. 240 minutes is 4 hours.
+
+Answer: 4

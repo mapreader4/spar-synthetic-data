@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Let's let the height of the tallest tree be x.
+
+The middle height tree is 2/3 of the height of the tallest tree, so the middle height tree is 2x/3.
+
+The shortest tree is half the size of the middle tree, so the shortest tree is (2x/3)/2, or x/3.
+
+So, let's solve for x.
+
+The tallest tree is 150 feet tall. The middle height tree is 2x/3. So, 2x/3 = 150, so x = 150*3/2 = 75.
+
+The shortest tree is half the size of the middle tree, so the shortest tree is x/3 = 75/3 = 25.
+
+Answer: 25.

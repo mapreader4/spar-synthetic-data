@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* At the start of the day, there were 10 bundles of wood.
+* In the morning, 4 bundles of wood were burned.
+* At the end of the day, there were 3 bundles of wood remaining.
+
+To find the number of bundles burned in the afternoon, we need to subtract the number of bundles burned in the morning and the number of bundles remaining at the end of the day from the initial number of bundles.
+
+* Bundles burned in the morning: 4
+* Bundles remaining at the end of the day: 3
+* Initial number of bundles: 10
+
+So, the number of bundles burned in the afternoon would be:
+* 10 - 4 - 3 = 3
+
+Answer: 3

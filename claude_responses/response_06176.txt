@@ -1,0 +1,15 @@
+Okay, let's think this through step-by-step:
+1) We know that there are 34 kids signed up to compete in the talent show.
+2) We also know that there are 22 more girls than boys signed up to compete.
+3) Let's represent the number of boys as x.
+4) Since there are 22 more girls than boys, the number of girls can be represented as x + 22.
+5) The total number of kids is 34, so we can write the equation:
+x + (x + 22) = 34
+6) Simplifying the equation:
+2x + 22 = 34
+7) Solving for x:
+2x = 12
+x = 6
+8) Since there are 22 more girls than boys, and the number of boys is 6, the number of girls is 6 + 22 = 28.
+
+Answer: 28

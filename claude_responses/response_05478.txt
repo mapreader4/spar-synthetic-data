@@ -1,0 +1,16 @@
+Okay, let's solve this step-by-step:
+
+1. At the beginning of the rainy season, the tank is 2/5 filled with water. This means the tank initially contains 2/5 * 100 = 40 liters of water.
+
+2. On the first day, the tank collected 15 liters of water. So, the total amount of water in the tank is now 40 + 15 = 55 liters.
+
+3. On the second day, the tank collected 5 liters more than on the first day, which is 15 + 5 = 20 liters. The total amount of water in the tank is now 55 + 20 = 75 liters.
+
+4. On the third day, the tank was already filled. This means the tank can hold a maximum of 100 liters of water.
+
+5. To find the amount of water collected on the third day, we need to subtract the amount of water in the tank before the third day from the maximum capacity of the tank.
+   The amount of water in the tank before the third day is 75 liters.
+   The maximum capacity of the tank is 100 liters.
+   Therefore, the amount of water collected on the third day is 100 - 75 = 25 liters.
+
+Answer: 25 liters

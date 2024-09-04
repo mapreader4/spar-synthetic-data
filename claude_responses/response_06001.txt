@@ -1,0 +1,14 @@
+To calculate Berry's average temperature for the week, we need to follow these steps:
+
+1. Add up all the temperatures for the week:
+   99.1 + 98.2 + 98.7 + 99.3 + 99.8 + 99.0 + 98.9 = 693.0
+
+2. Count the number of days in the week:
+   There are 7 days in a week.
+
+3. Divide the total temperature by the number of days to get the average:
+   693.0 ÷ 7 = 99.0
+
+Therefore, Berry's average temperature for the week is 99.0 degrees.
+
+Answer: 99

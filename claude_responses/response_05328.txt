@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Mona joined 9 groups over the weekend
+* Each group had 5 players (Mona + 4 other players)
+* One group had 2 players she had grouped with before
+* Another group had 1 player she had grouped with before
+* We need to find the total number of unique players Mona grouped with
+
+First, let's calculate the total number of players Mona grouped with:
+* 9 groups x 5 players per group = 45 total players
+
+Now, let's account for the players she had grouped with before:
+* 1 group had 2 players she had grouped with before
+* 1 group had 1 player she had grouped with before
+* So, 2 + 1 = 3 players she had grouped with before
+
+Finally, to find the number of unique players Mona grouped with, we subtract the number of players she had grouped with before from the total number of players:
+* 45 total players - 3 players she had grouped with before = 42 unique players
+
+Answer: 42

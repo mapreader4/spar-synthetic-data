@@ -1,0 +1,21 @@
+Let's break this problem down step by step:
+
+Jim reads 600 pages in a week at a rate of 40 pages per hour. So, we can set up an equation to solve this. Let's call the new reading speed x, and the number of hours he reads per week be y.
+
+We know that 40 * 7 = 280, which is the number of pages Jim reads at his original speed. We also know that 150% of 40 is 60, which is the new speed. So, we can set up the equation:
+
+280 = 60 * y
+
+We can solve for y by dividing both sides by 60:
+
+y = 280 / 60
+
+y = 4.67
+
+So, Jim reads 4.67 hours per week. We can multiply this by his new speed to find the total number of pages he reads in a week:
+
+4.67 * 150 = 700
+
+So, the answer is:
+
+Answer: 700

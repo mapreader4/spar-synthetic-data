@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. A group of hawks is called a kettle. Okay, so we have 6 kettles of hawks.
+2. It is breeding season for hawks. This means that each kettle will have babies, and we know that each kettle has 15 pregnancies that yield 4 babies per batch.
+3. So, the total number of babies in a kettle is 4 * 15 = 60.
+4. We have 6 kettles, so the total number of babies is 60 * 6 = 360.
+5. We know that approximately 25% of these babies are lost. So, we need to find 25% of 360.
+
+To find 25% of 360, we can multiply 360 by 0.25. 360 * 0.25 = 90.
+
+Answer: 90

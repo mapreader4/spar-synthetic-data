@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* Lily has $60 to spend at the supermarket
+* She needs to buy 6 items: celery, cereal, bread, milk, potatoes, and coffee
+* The prices of the items are:
+  - Celery: $5
+  - Cereal: 50% off $12, so $6
+  - Bread: $8
+  - Milk: 10% off $10, so $9
+  - Potatoes: $1 each, and she buys 6, so $6
+* So the total cost of the 5 items (excluding coffee) is:
+  - Celery: $5
+  - Cereal: $6
+  - Bread: $8
+  - Milk: $9
+  - Potatoes: $6
+  - Total: $5 + $6 + $8 + $9 + $6 = $34
+* Lily had $60 to spend, and she has spent $34 so far.
+* Therefore, the amount of money Lily has left to spend on coffee is:
+  - $60 - $34 = $26
+
+Answer: $26

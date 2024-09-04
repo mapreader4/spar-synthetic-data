@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Single layer cake slice costs $4
+* Dusty buys 7 single layer cake slices
+* So, the total cost of the single layer cake slices is 7 * $4 = $28
+* Double layer cake slice costs $7
+* Dusty buys 5 double layer cake slices
+* So, the total cost of the double layer cake slices is 5 * $7 = $35
+* The total cost of all the cake slices is $28 + $35 = $63
+* Dusty pays with a $100 bill
+* To calculate the change, we take the $100 bill and subtract the total cost of $63
+* $100 - $63 = $37
+* Answer: $37

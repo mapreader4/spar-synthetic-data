@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) There are 5 members who play the flute.
+2) There are three times as many members who play the trumpet as members who play the flute. So, there are 3 x 5 = 15 trumpet players.
+3) There are 8 fewer trombone players than trumpeters. So, there are 15 - 8 = 7 trombone players.
+4) There are 11 more drummers than trombone players. So, there are 7 + 11 = 18 drummers.
+5) There are twice as many members that play the clarinet as members that play the flute. So, there are 2 x 5 = 10 clarinet players.
+6) There are 3 more members who play the French horn than members who play the trombone. So, there are 7 + 3 = 10 French horn players.
+7) To find the total number of seats needed on the bus, we add up all the members:
+5 (flute) + 15 (trumpet) + 7 (trombone) + 18 (drums) + 10 (clarinet) + 10 (French horn) = 65 seats.
+
+Answer: 65

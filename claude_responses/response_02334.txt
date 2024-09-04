@@ -1,0 +1,6 @@
+Okay, let's break this down step-by-step:
+1) The first fish tank contains 7 goldfish and 8 beta fish, so the total number of fish in the first tank is 7 + 8 = 15 fish.
+2) The second fish tank contains twice as many fish as the first tank, so the total number of fish in the second tank is 2 x 15 = 30 fish.
+3) The third fish tank has a third of the number of fish in the second fish tank, so the total number of fish in the third tank is 30 / 3 = 10 fish.
+
+Answer: 10

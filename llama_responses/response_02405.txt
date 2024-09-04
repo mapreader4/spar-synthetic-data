@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Lily types 15 words per minute, so the time taken to type 1 word is 1/15 of a minute.
+
+Lily takes a 2-minute break every 10 minutes, so the number of 2-minute breaks Lily takes is 15 times the number of 10-minute intervals. Since the total number of 10-minute intervals is 255/10, Lily takes 255/10 = 25.25 breaks.
+
+The total time taken for Lily to type 255 words is the time taken to type 255 words plus the total time taken for the breaks. The time taken to type 255 words is 255/15 = 17 minutes. The total time taken for the breaks is 2 * 25 = 50 minutes. Therefore, the total time taken for Lily to type 255 words is 17 + 50 = 67 minutes.

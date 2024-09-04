@@ -1,0 +1,16 @@
+Let's break down the information given:
+
+- Billy runs 1 mile each day on Sunday, Monday, and Friday.
+- Tiffany runs 2 miles each day on Sunday, Monday, and 1/3 of a mile each day on Wednesday and Friday.
+- Tiffany takes the day off on Saturday.
+
+So, let's find the total miles Billy and Tiffany ran until Saturday.
+
+Billy runs 1 + 1 + 1 = 3 miles on Sunday, Monday, and Friday.
+Tiffany runs 2 + 2 + 1/3 = 5/3 = 1.67 miles on Sunday, Monday, and Friday.
+
+Billy and Tiffany ran a total of 3 + 5.67 = 8.67 miles until Saturday.
+
+Billy needs to run 1 more mile to tie Tiffany, so the answer is:
+
+Answer: 1

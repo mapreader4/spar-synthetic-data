@@ -1,0 +1,7 @@
+Okay, let's break this down step-by-step:
+1) Ray has 95 cents in nickels. Since each nickel is worth 5 cents, this means Ray has 95 / 5 = 19 nickels.
+2) Ray gives 25 cents to Peter. Since each nickel is worth 5 cents, this means he gave Peter 25 / 5 = 5 nickels.
+3) Ray gives twice as many cents to Randi as he gave to Peter. This means he gave Randi 2 * 25 = 50 cents. Since each nickel is worth 5 cents, this means he gave Randi 50 / 5 = 10 nickels.
+4) Now, we need to calculate how many nickels Ray has left. He started with 19 nickels, gave away 5 to Peter and 10 to Randi, so the number of nickels he has left is 19 - 5 - 10 = 4 nickels.
+
+Answer: 4

@@ -1,0 +1,13 @@
+Okay, let's break this down step by step:
+* Angela has 20 problems total
+* Martha has finished 2 problems
+* Jenna has finished 4 times the number Martha did, minus 2
+   - So Jenna has finished 4 * 2 - 2 = 6 problems
+* Mark has finished half the number Jenna did
+   - So Mark has finished 6 / 2 = 3 problems
+
+Now, we need to find the number of problems that no one but Angela has finished.
+* Total problems finished by the friends = 2 + 6 + 3 = 11
+* Problems finished by Angela only = 20 - 11 = 9
+
+Answer: 9

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Polly takes an average of 28 seconds per move
+* Peter takes an average of 40 seconds per move
+* The match ends after 30 moves
+
+To find the total time of the match, we need to calculate the time for each player's moves and then add them together.
+
+Polly's moves:
+* 30 moves x 28 seconds per move = 840 seconds
+
+Peter's moves:
+* 30 moves x 40 seconds per move = 1200 seconds
+
+Total time of the match:
+* 840 seconds + 1200 seconds = 2040 seconds
+
+Now, we need to convert the total time from seconds to minutes.
+* 2040 seconds / 60 seconds per minute = 34 minutes
+
+Answer: 34 minutes

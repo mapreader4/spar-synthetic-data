@@ -1,0 +1,7 @@
+Let's break this down step by step:
+
+1. We know that Hayes does 3 loads of laundry a week, which means he does 3 * 52 loads in a year (since there are 52 weeks in a year).
+2. Each load requires 1 detergent pod, so he needs 3 * 52 detergent pods in a year.
+3. Each pack of detergent pods contains 39 pods, so to find out how many packs he needs, we divide the total number of pods by the number of pods per pack: 3 * 52 ÷ 39 = 3.46 (round down to the nearest whole number, since you can't buy a fraction of a pack of detergent pods).
+
+Answer: 3

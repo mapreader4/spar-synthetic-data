@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* The factory originally employed 852 people.
+* 25% more workers have just been hired.
+* To calculate the 25% increase:
+  * 25% of 852 = 0.25 * 852 = 213
+* So, the number of new workers hired is 213.
+* To find the total number of employees now, we add the original 852 employees to the 213 new hires:
+  * 852 + 213 = 1,065
+
+Answer: 1,065

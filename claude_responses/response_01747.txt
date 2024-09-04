@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Mara has 12 bags with 2 marbles in each bag.
+   * To find the total number of marbles Mara has, we multiply the number of bags (12) by the number of marbles in each bag (2).
+   * 12 bags x 2 marbles per bag = 24 marbles
+
+2) Markus has 2 bags with 13 marbles in each bag.
+   * To find the total number of marbles Markus has, we multiply the number of bags (2) by the number of marbles in each bag (13).
+   * 2 bags x 13 marbles per bag = 26 marbles
+
+3) To find how many more marbles Markus has, we subtract the number of marbles Mara has from the number of marbles Markus has.
+   * 26 marbles (Markus) - 24 marbles (Mara) = 2 more marbles
+
+Answer: 2

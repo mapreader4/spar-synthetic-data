@@ -1,0 +1,18 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information.
+
+* Ryan got 5 books from the library.
+* The total number of pages is 2100.
+* Ryan's brother read 1 book a day that was 200 pages each.
+* They finished the books in a week, which means 7 days.
+
+Now, let's find the number of pages Ryan read per day. We can find this by subtracting the total number of pages by the number of books his brother read.
+
+The total number of pages Ryan read is 2100.
+The number of pages his brother read is 200 * 7 = 1400.
+To find the number of pages Ryan read per day, we subtract the number of pages his brother read from the total number of pages:
+
+2100 - 1400 = 700
+
+Answer: 700

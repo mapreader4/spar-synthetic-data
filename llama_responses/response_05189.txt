@@ -1,0 +1,32 @@
+Let's break this down step by step.
+
+Mary ran the first leg and took twice as long as Susan. Let's call Susan's time "x". Then Mary's time would be 2x.
+
+Susan ran the second leg and took 10 seconds longer than Jen. Jen's time is given as 30 seconds, so Susan's time would be 30 + 10 = 40 seconds. Since Susan's time is x, we can set up an equation:
+
+x + 10 = 40
+
+Subtracting 10 from both sides gives us:
+
+x = 30
+
+So Susan's time is 30 seconds. Mary's time is twice that, which is:
+
+2x = 2(30) = 60
+
+Jen's time is 30 seconds, and Tiffany's time is 7 seconds less than Mary's, so:
+
+Tiffany's time = 60 - 7 = 53
+
+Now we have the times for each leg:
+
+Mary: 60
+Susan: 30
+Jen: 30
+Tiffany: 53
+
+To find the total time, we add up the times:
+
+60 + 30 + 30 + 53 = 173
+
+Answer: 173

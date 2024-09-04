@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Mama bird has 6 babies in the nest
+* Each baby needs 3 worms a day
+* So, the total number of worms needed per day is 6 babies x 3 worms = 18 worms
+* Papa bird caught 9 worms
+* Mama bird caught 13 worms
+* But 2 worms were stolen
+* So, the total number of worms they have is 9 + 13 - 2 = 20 worms
+* They need to feed the babies for 3 days
+* So, the total number of worms needed for 3 days is 18 worms x 3 days = 54 worms
+* They currently have 20 worms
+* So, the number of additional worms they need to catch is 54 - 20 = 34 worms
+
+Answer: 34

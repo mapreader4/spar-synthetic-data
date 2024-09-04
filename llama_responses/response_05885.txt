@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+In the first hour, Dan makes a t-shirt every 12 minutes. This means that in the first hour, he makes a total of 60/12 = 5 t-shirts.
+
+In the second hour, Dan makes a t-shirt every 6 minutes. This means that in the second hour, he makes a total of 60/6 = 10 t-shirts.
+
+In total, Dan makes 5 + 10 = 15 t-shirts over the course of the two hours.
+
+Answer: 15

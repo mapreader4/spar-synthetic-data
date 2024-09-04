@@ -1,0 +1,9 @@
+Let's break this problem down step by step:
+
+1. Phil started with 50 state quarters. He doubled this to 100.
+2. In the next year, he collected 3 quarters each month. This means he added 12 * 3 = 36 quarters to his collection.
+3. In the following year, he collected 1 quarter each month. This means he added 12 * 1 = 12 quarters to his collection.
+4. The year after that, he lost a quarter of his collection. This means he lost 1/4 * 100 = 25 quarters.
+5. To find the total number of quarters he had left, we subtract the 25 quarters he lost from the 100 quarters he had after doubling his initial amount, and the 36 quarters he added the following year, and the 12 quarters he added the year after that. This is 100 - 25 - 36 - 12 = 29 quarters.
+
+Answer: 29

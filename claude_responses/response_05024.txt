@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+
+1. John starts by being able to run 8 hours straight.
+2. He increases his running time by 75%. To calculate this, we take the original time of 8 hours and multiply it by 1.75 (100% + 75% = 175% = 1.75).
+3. 8 hours x 1.75 = 14 hours
+4. John's original speed was 8 mph.
+5. He increases his speed by 4 mph.
+6. His new speed is 8 mph + 4 mph = 12 mph.
+7. To calculate the distance he can run now, we multiply his new running time (14 hours) by his new speed (12 mph).
+8. 14 hours x 12 mph = 168 miles.
+
+Answer: 168

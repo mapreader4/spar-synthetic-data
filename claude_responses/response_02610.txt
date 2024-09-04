@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) The farmer has 46 chickens.
+2) Each chicken gives him 6 eggs per week.
+3) So, the total number of eggs produced by all the chickens in one week is:
+   46 chickens x 6 eggs per chicken = 276 eggs per week.
+4) The farmer sells a dozen (12) eggs for $3.
+5) To calculate the total money made in 8 weeks, we first need to find the number of dozens of eggs produced in 8 weeks:
+   276 eggs per week x 8 weeks = 2,208 eggs
+   2,208 eggs / 12 eggs per dozen = 184 dozens of eggs
+6) Now we can calculate the total money made in 8 weeks:
+   184 dozens of eggs x $3 per dozen = $552
+
+Answer: $552

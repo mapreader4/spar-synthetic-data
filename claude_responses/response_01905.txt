@@ -1,0 +1,16 @@
+Okay, let's break this down step by step:
+* Edward needs 40 feet of copper pipe to complete the job
+* For every 5 feet of pipe, he needs 1 tightening bolt
+* For each tightening bolt, he needs 2 washers
+* He buys a bag of 20 washers for the job
+
+First, let's calculate how many tightening bolts he needs:
+* 40 feet of pipe / 5 feet per bolt = 8 bolts
+
+Now, let's calculate how many washers he needs:
+* 8 bolts x 2 washers per bolt = 16 washers
+
+Finally, we can calculate the number of washers remaining in the bag:
+* 20 washers in the bag - 16 washers used = 4 washers remaining
+
+Answer: 4

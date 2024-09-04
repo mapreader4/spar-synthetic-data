@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Allie picked a total of 44 wildflowers
+* 13 of the flowers were yellow and white
+* 17 of the flowers were red and yellow
+* 14 of the flowers were red and white
+* To find the number of flowers that contained the color red, we add the red and yellow flowers (17) and the red and white flowers (14), which gives us 31 flowers that contained the color red.
+* To find the number of flowers that contained the color white, we add the yellow and white flowers (13) and the red and white flowers (14), which gives us 27 flowers that contained the color white.
+* To find the difference between the number of flowers that contained the color red and the number of flowers that contained the color white, we subtract the number of white flowers from the number of red flowers:
+31 (red flowers) - 27 (white flowers) = 4
+
+Answer: 4

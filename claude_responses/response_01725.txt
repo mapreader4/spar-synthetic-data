@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The x-ray costs $250.
+2) The MRI costs triple the cost of the x-ray, which is $250 x 3 = $750.
+3) The total cost of the x-ray and MRI is $250 + $750 = $1,000.
+4) Insurance covers 80% of the total cost, which is 0.8 x $1,000 = $800.
+5) The remaining amount that Mike has to pay is the total cost minus the insurance coverage, which is $1,000 - $800 = $200.
+
+Answer: $200

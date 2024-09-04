@@ -1,0 +1,29 @@
+Let's break this problem down step by step.
+
+First, we need to find the total number of ball bearings John needs. Since he has 10 machines and each machine takes 30 ball bearings, the total number of ball bearings needed is:
+
+10 machines x 30 ball bearings per machine = 300 ball bearings
+
+Next, we need to find the cost of the ball bearings at the regular price. At $1 per ball bearing, the total cost would be:
+
+300 ball bearings x $1 per ball bearing = $300
+
+Now, let's calculate the cost of the ball bearings during the sale. The sale price is $0.75 per ball bearing, and since John is buying in bulk, he gets a 20% discount. To find the discount, we multiply the sale price by the discount percentage:
+
+$0.75 per ball bearing x 20% = $0.15 per ball bearing (discount)
+
+Then, we subtract the discount from the sale price to get the final price:
+
+$0.75 per ball bearing - $0.15 per ball bearing = $0.60 per ball bearing
+
+The total cost of the ball bearings during the sale is:
+
+300 ball bearings x $0.60 per ball bearing = $180
+
+Now, let's find the difference between the original cost and the sale price:
+
+$300 (original cost) - $180 (sale price) = $120
+
+John saved $120 by buying the ball bearings during the sale instead of one at a time.
+
+Answer: 120

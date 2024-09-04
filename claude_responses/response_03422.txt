@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* James buys 2 puzzles
+* Each puzzle is 2000 pieces
+* He can do 100 pieces every 10 minutes
+* To find the total time to finish both puzzles, we need to:
+1) Calculate the total number of pieces for both puzzles:
+   * 2 puzzles x 2000 pieces per puzzle = 4000 total pieces
+2) Calculate the time it takes to complete 4000 pieces at a rate of 100 pieces every 10 minutes:
+   * 4000 pieces / 100 pieces per 10 minutes = 400 sets of 10 minutes
+   * 400 sets of 10 minutes = 4000 minutes
+3) Convert the total minutes to hours:
+   * 4000 minutes / 60 minutes per hour = 66.67 hours
+
+Answer: 67 hours

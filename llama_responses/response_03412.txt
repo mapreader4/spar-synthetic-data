@@ -1,0 +1,13 @@
+Let's think step by step.
+
+First, we need to find the total ounces of chocolate syrup needed. Each glass contains 1.5 ounces of chocolate syrup, and Charles is going to drink 8 glasses. So, the total ounces of chocolate syrup needed is 1.5 x 8 = 12 ounces.
+
+Next, we need to find the total ounces of milk needed. Each glass contains 6.5 ounces of milk, and Charles is going to drink 8 glasses. So, the total ounces of milk needed is 6.5 x 8 = 52 ounces.
+
+Now, we need to find the total ounces of milk and chocolate syrup needed. The total ounces of milk needed is 52 ounces, and the total ounces of chocolate syrup needed is 12 ounces. So, the total ounces of milk and chocolate syrup needed is 52 + 12 = 64 ounces.
+
+Now, we need to find the ounces of chocolate milk he can make. He has 130 ounces of milk and 60 ounces of chocolate syrup. He has 130 ounces of milk, which is more than the 52 ounces of milk needed. So, he will have 130 - 52 = 78 ounces of milk left over. He has 60 ounces of chocolate syrup, which is more than the 12 ounces of chocolate syrup needed. So, he will have 60 - 12 = 48 ounces of chocolate syrup left over.
+
+Now, we need to find the total ounces of chocolate milk he can make. He has 78 ounces of milk and 48 ounces of chocolate syrup. Each glass contains 6.5 ounces of milk and 1.5 ounces of chocolate syrup. So, he can make 78 + 48 = 126 ounces of chocolate milk.
+
+Answer: 126

@@ -1,0 +1,27 @@
+Let's break down Jacob's earnings and savings step by step.
+
+Initially, Jacob earns $20 per hour and works 10 hours, so he earns:
+
+$20/hour x 10 hours = $200
+
+He then sells cookies for $4 each and sells 24 pieces, so he earns:
+
+$4/cookie x 24 cookies = $96
+
+In total, Jacob has:
+
+$200 (from job) + $96 (from cookies) = $296
+
+He then buys a lottery ticket for $10 and wins $500, so his total amount is:
+
+$296 + $500 - $10 (for lottery ticket) = $786
+
+Finally, he receives $500 from each of his sisters, so his total amount becomes:
+
+$786 + $500 + $500 = $1786
+
+Now, Jacob needs $5000 to go to Brickville, and he has $1786. To find out how much more he needs, we subtract his current amount from the total amount needed:
+
+$5000 - $1786 = $3214
+
+Answer: 3214

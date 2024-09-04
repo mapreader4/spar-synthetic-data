@@ -1,0 +1,18 @@
+Okay, let's break this down step-by-step:
+* Tim gets the maximum $1200 donation from 500 people
+* This means the total amount from the $1200 donations is:
+  * 500 people x $1200 = $600,000
+* Three times as many people donated half this sum of money
+* So, the number of people who donated half the sum is:
+  * 3 x 500 = 1,500 people
+* The amount donated by each of these 1,500 people is:
+  * $1200 / 2 = $600
+* The total amount from the $600 donations is:
+  * 1,500 people x $600 = $900,000
+* The total amount from both the $1200 and $600 donations is:
+  * $600,000 + $900,000 = $1,500,000
+* These donations together accounted for 40% of the total money that Tim raised
+* To find the total money raised, we need to divide the $1,500,000 by 40% (or 0.4)
+* $1,500,000 / 0.4 = $3,750,000
+
+Answer: $3,750,000

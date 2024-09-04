@@ -1,0 +1,8 @@
+Let's break this problem down step by step.
+
+1. Ray walks 4 blocks to the park. So, the distance to the park is 4 blocks.
+2. Then, he walks 7 blocks to the high school. So, the distance to the high school is 7 blocks.
+3. Then, he walks 11 blocks to get back home. So, the distance to get back home is 11 blocks.
+4. Ray walks his dog 3 times each day. So, the total distance his dog walks each day is the sum of the distance to the park, the distance to the high school, and the distance to get back home. The sum of these distances is 4 + 7 + 11 = 22 blocks.
+
+Answer: 22

@@ -1,0 +1,17 @@
+Let's break down the problem step by step.
+
+Harry and Kevin start with $200. They spend $42 on the sheet, $18 on the rope, and $14 on the propane tank and burner. This leaves them with:
+
+$200 - $42 = $158
+$158 - $18 = $140
+$140 - $14 = $126
+
+They have $126 left to spend on helium. The helium costs $1.50 per ounce, so:
+
+$126 / $1.50 = 84 ounces
+
+The balloon can fly 113 feet higher for every ounce of helium they buy. So, the total height they can fly is:
+
+84 ounces * 113 feet/ounce = 9,492 feet
+
+Answer: 9492

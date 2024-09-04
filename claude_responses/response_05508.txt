@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Carly is adding 50 rows of purple beads, with 20 beads per row.
+   * Total purple beads = 50 rows x 20 beads per row = 1,000 purple beads
+2) Carly is adding 40 rows of blue beads, with 18 beads per row.
+   * Total blue beads = 40 rows x 18 beads per row = 720 blue beads
+3) Carly is adding 80 gold beads.
+   * Total gold beads = 80 beads
+4) The total number of beads is the sum of the purple, blue, and gold beads:
+   * Total beads = 1,000 + 720 + 80 = 1,800 beads
+5) Beads cost $1 per 10 beads.
+   * Cost per 10 beads = $1
+   * Total cost = (1,800 beads / 10 beads per $1) = $180
+
+Answer: 180

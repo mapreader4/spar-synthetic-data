@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Colin can skip at six times the speed that Brandon can.
+2) Brandon can skip at one-third the speed that Tony can.
+3) Tony can skip at twice the speed that Bruce can.
+4) Bruce skips at 1 mile per hour.
+5) So, if Bruce skips at 1 mile per hour, then Tony skips at 2 miles per hour (twice the speed of Bruce).
+6) Since Brandon skips at one-third the speed of Tony, Brandon skips at 2/3 miles per hour.
+7) Since Colin skips at six times the speed of Brandon, Colin skips at 6 * 2/3 = 4 miles per hour.
+
+Answer: 4 miles per hour.

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Haleigh has five 20 oz candles, 5 five ounce candles, and twenty-five one ounce candles.
+2) Each candle has 10% of its original wax left.
+3) To calculate the total amount of wax available, we need to find the amount of wax in each set of candles and then add them together.
+4) For the five 20 oz candles, the total amount of wax is 5 * 20 oz * 0.1 = 10 oz.
+5) For the 5 five ounce candles, the total amount of wax is 5 * 5 oz * 0.1 = 2.5 oz.
+6) For the twenty-five one ounce candles, the total amount of wax is 25 * 1 oz * 0.1 = 2.5 oz.
+7) The total amount of wax available is 10 oz + 2.5 oz + 2.5 oz = 15 oz.
+8) Each new candle will be 5 ounces, so the number of new candles that can be made is 15 oz / 5 oz = 3 candles.
+
+Answer: 3

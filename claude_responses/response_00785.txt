@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Fatima's restaurant served 25 people food and drinks that week
+* 3/5 of 25 people came to buy coffee
+* To find the number of people who came to buy coffee, we multiply 25 by 3/5:
+  * 25 * 3/5 = 15 people came to buy coffee
+* To find the number of people who did not buy coffee, we subtract the number of people who bought coffee from the total number of people served:
+  * 25 - 15 = 10 people did not buy coffee
+
+Answer: 10

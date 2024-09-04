@@ -1,0 +1,24 @@
+Okay, let's break this down step-by-step:
+* You can buy 4 apples or 1 watermelon for the same price
+* You bought 36 fruits, evenly split between oranges, apples, and watermelons
+* That means you bought 12 of each fruit
+* The price of 1 orange is $0.50
+* The total bill was $66
+
+First, let's calculate the cost of the oranges:
+* 12 oranges x $0.50 = $6
+
+Now, we know that the cost of 4 apples or 1 watermelon is the same. Let's call this cost 'x'.
+* 12 apples = 3x
+* 12 watermelons = 12x
+* Total cost of apples and watermelons = 3x + 12x = 15x
+
+The total bill was $66, so:
+* Total cost = Cost of oranges + Cost of apples and watermelons
+* $66 = $6 + 15x
+* 15x = $60
+* x = $4
+
+Therefore, the cost of 1 apple is $4.
+
+Answer: $4

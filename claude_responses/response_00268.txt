@@ -1,0 +1,11 @@
+Okay, let's solve this step-by-step:
+1) We have 3 bouquets of carnations with the following number of carnations in each:
+   - Bouquet 1: 9 carnations
+   - Bouquet 2: 14 carnations
+   - Bouquet 3: 13 carnations
+2) To find the average number of carnations, we need to add up the total number of carnations and divide by the number of bouquets.
+3) The total number of carnations is 9 + 14 + 13 = 36 carnations.
+4) There are 3 bouquets, so we divide the total number of carnations by 3 to get the average.
+5) 36 carnations / 3 bouquets = 12 carnations per bouquet on average.
+
+Answer: 12

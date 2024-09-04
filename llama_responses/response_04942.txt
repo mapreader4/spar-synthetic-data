@@ -1,0 +1,7 @@
+Let's start by identifying the information given in the problem. We know that the total points scored by the Lady Eagles basketball team is 311. We also know that some players combined for 188 points. This means that the remaining points scored by the other players, Jessie, and Devin, must be 311 - 188 = 123.
+
+Now, we are told that Lisa, Jessie, and Devin scored the remaining points. Since there are three players, we can assume that they scored the points equally. To find Jessie's score, we can divide the remaining points by 3:
+
+123 / 3 = 41.
+
+Answer: 41

@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+Let's start by identifying the number of students who play tennis. We are given that 3/4 of the students play tennis. To find this number, we can multiply the total number of students by 3/4. The total number of students is 600, and 3/4 of that is 450. So, 450 students play tennis.
+
+Next, we are told that 60% of the students who play tennis also play hockey. We can find the number of students who play hockey by multiplying the number of students who play tennis by 0.6. 0.6 of 450 is 270. So, 270 students play both hockey and tennis.
+
+Answer: 270

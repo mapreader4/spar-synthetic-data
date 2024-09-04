@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the number of papers she can grade in 8 hours. To do this, we can divide 296 papers by 8 hours. 
+
+296 ÷ 8 = 37
+
+So, she can grade 37 papers in 8 hours.
+
+Now, let's find the number of papers she can grade in 11 hours. 
+
+11 hours is 11/2 of 22 hours. So, we can multiply 37 by 2 to get the number of papers she can grade in 11 hours.
+
+37 * 2 = 74
+
+So, Ms. Alice can grade 74 papers in 11 hours. 
+
+Answer: 74

@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Onur bikes 250 kilometers a day.
+* Hanil bikes 40 more kilometers of Onur biking distance in a day.
+
+We can start by identifying the distance Onur bikes in a day as 250 kilometers.
+Then, we need to find the distance Hanil bikes. Hanil bikes 40 more kilometers, so Hanil bikes 250 + 40 kilometers.
+
+Now, we need to find the total distance the two friends bikes in a week. Since they bike 250 + 40 = 290 kilometers in a day, and they do this for 7 days, the total distance is:
+
+Answer: 2,190

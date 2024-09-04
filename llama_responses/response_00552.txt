@@ -1,0 +1,19 @@
+Let's break this down step by step.
+
+Let's start by finding the area of the parking lot.
+
+The area of the parking lot is 400 feet by 500 feet.  Multiplying these two numbers together gives us:
+
+400 * 500 = 200,000 square feet
+
+Since 80% of this area is useable for parking, we can find the number of square feet available for parking by multiplying 200,000 by 0.8:
+
+200,000 * 0.8 = 160,000 square feet
+
+Now, we know it takes 10 square feet to park a car.  To find the number of cars that can be parked, we can divide the number of square feet by 10:
+
+160,000 ÷ 10 = 16,000
+
+So, the answer is:
+
+Answer: 16,000

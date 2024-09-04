@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* James finds 3 bills in his pocket
+* Each bill is a $20 bill
+* So the total amount of money he found in his pocket is:
+  * 3 bills x $20 per bill = $60
+* He already had $75 in his wallet
+* To find the total amount of money he has now, we add the $60 he found in his pocket to the $75 he already had in his wallet:
+  * $60 + $75 = $135
+
+Answer: 135

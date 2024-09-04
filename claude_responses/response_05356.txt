@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Vivi bought checkered fabric and plain fabric
+* The checkered fabric cost $75
+* The plain fabric cost $45
+* Both fabrics cost $7.50 per yard
+
+To find the total yards of fabric Vivi bought, we need to calculate the number of yards for each type of fabric and then add them together.
+
+For the checkered fabric:
+* Cost of checkered fabric = $75
+* Cost per yard = $7.50
+* Number of yards of checkered fabric = $75 / $7.50 = 10 yards
+
+For the plain fabric:
+* Cost of plain fabric = $45
+* Cost per yard = $7.50
+* Number of yards of plain fabric = $45 / $7.50 = 6 yards
+
+Total yards of fabric bought:
+* 10 yards of checkered fabric + 6 yards of plain fabric = 16 yards
+
+Answer: 16

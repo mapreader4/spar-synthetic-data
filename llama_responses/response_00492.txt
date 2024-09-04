@@ -1,0 +1,13 @@
+Let's start by finding the total number of Judges who are under 30 years old.
+
+10% of 40 Judges are under 30 years old. 10% of 40 is 4. So, there are 4 Judges who are under 30 years old.
+
+Next, we find the number of Judges who are 30-50 years old.
+
+60% of 40 Judges are 30-50 years old. 60% of 40 is 24. So, there are 24 Judges who are 30-50 years old.
+
+Now, we find the number of Judges who are over 50 years old.
+
+The total number of Judges is 40. So, the number of Judges who are over 50 years old is 40 - 4 - 24 = 12.
+
+Answer: 12

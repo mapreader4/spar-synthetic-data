@@ -1,0 +1,11 @@
+Let's break this down step by step.
+
+The original price of the bag was $500.
+
+After a week, the price was reduced by 5%. This means that the new price was 95% of the original price, which is 0.95 x 500 = $475.
+
+After a month, the price was reduced by 4%. This means that the new price was 96% of the reduced price, which is 0.96 x 475 = $454.8.
+
+The total reduction from the original selling price is the difference between the original price and the new price, which is 500 - 454.8 = $45.2.
+
+Answer: 45.2

@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+
+For the first wing:
+* 9 floors
+* Each floor has 6 halls
+* Each hall has 32 rooms
+* So, the total number of rooms in the first wing is:
+  * 9 floors x 6 halls per floor x 32 rooms per hall = 1,728 rooms
+
+For the second wing:
+* 7 floors
+* Each floor has 9 halls
+* Each hall has 40 rooms
+* So, the total number of rooms in the second wing is:
+  * 7 floors x 9 halls per floor x 40 rooms per hall = 2,520 rooms
+
+To find the total number of rooms in the hotel, we add the rooms from both wings:
+* 1,728 rooms + 2,520 rooms = 4,248 rooms
+
+Answer: 4,248

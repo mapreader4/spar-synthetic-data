@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+1. John wants to lose 10 pounds. To lose 1 pound, he needs to burn 3500 calories. Since he burns 2300 calories a day, he needs to burn 3500 calories for 3500 / 2300 = 1.52 days.
+
+2. He eats 1800 calories a day, so to lose weight, he needs to create a calorie deficit of 3500 - 1800 = 1700 calories per day.
+
+3. To create a calorie deficit of 1700 calories per day, John needs to burn 2300 + 1700 = 4000 calories per day.
+
+4. Since he burns 2300 calories a day, he needs to do this for 3500 / 2300 = 1.52 days to lose 10 pounds.
+
+Answer: 1.52 days.

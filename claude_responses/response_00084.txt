@@ -1,0 +1,6 @@
+Okay, let's think this through step-by-step:
+1) The hotel has 10 floors, with 10 identical rooms on each floor.
+2) The last floor is unavailable for guests, so there are only 9 floors that can be used.
+3) Each floor has 10 rooms, so the total number of available rooms is 9 floors x 10 rooms per floor = 90 rooms.
+4) Since there are no other guests, Hans can be checked in to any of the 90 available rooms.
+Answer: 90

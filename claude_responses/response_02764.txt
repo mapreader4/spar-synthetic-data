@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) Initially, Fred the Farmer had 100 horses, 29 sheep, and 9 chickens in his barn.
+2) Brian bought half of the animals and sold them at the market. This means that Brian bought 50 horses, 14 sheep, and 4 chickens.
+3) After Brian's purchase, Fred was left with 50 horses, 15 sheep, and 5 chickens.
+4) Jeremy then gifted Fred an additional 37 goats.
+5) So now, Fred has 50 horses, 15 sheep, 5 chickens, and 37 goats.
+6) The total number of animals in the barn is 50 + 15 + 5 + 37 = 107.
+7) Since exactly half of the animals are male, the number of male animals is 107 / 2 = 53.
+
+Answer: 53

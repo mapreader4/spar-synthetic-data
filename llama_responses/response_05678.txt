@@ -1,0 +1,3 @@
+Let the total number of cars be x. The number of passenger cars is given as half of x plus three. This can be written as 0.5x + 3. The total number of cars is 71, so 0.5x + 3 = 71. Subtract 3 from both sides to get 0.5x = 68. To find the number of passenger cars, we multiply 0.5 by 2 to get 0.5 * 2 = 1. Then, we multiply 1 by 68 to get the number of passenger cars, which is 68. 
+
+Answer: 68

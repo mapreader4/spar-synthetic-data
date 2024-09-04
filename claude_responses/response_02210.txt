@@ -1,0 +1,8 @@
+Okay, let's think this through step-by-step:
+1) The utensils come in 30 packs, with an equal number of knives, forks, and spoons in each pack.
+2) John wants 50 spoons.
+3) Since each pack has an equal number of knives, forks, and spoons, and John wants 50 spoons, he will need 50 knives and 50 forks as well.
+4) The number of utensils in each pack is 30 (10 knives, 10 forks, 10 spoons).
+5) To get 50 spoons, John will need 5 packs (50 spoons / 10 spoons per pack = 5 packs).
+
+Answer: 5

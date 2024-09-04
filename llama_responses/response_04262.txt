@@ -1,0 +1,27 @@
+Let's break this problem down step by step.
+
+Day 1: They traveled at 5 miles per hour for 7 hours, so they traveled a total of:
+
+5 mph x 7 hours = 35 miles
+
+Day 2: They traveled at 6 miles per hour for 6 hours, so they traveled a total of:
+
+6 mph x 6 hours = 36 miles
+
+Then, they traveled at half of that speed (3 miles per hour) for 3 hours, so they traveled a total of:
+
+3 mph x 3 hours = 9 miles
+
+Adding the distances from both days, they traveled a total of:
+
+35 miles + 36 miles + 9 miles = 80 miles
+
+Day 3: They traveled at 7 miles per hour for 5 hours, so they traveled a total of:
+
+7 mph x 5 hours = 35 miles
+
+Adding this to the total, they traveled a total of:
+
+80 miles + 35 miles = 115 miles
+
+Answer: 115

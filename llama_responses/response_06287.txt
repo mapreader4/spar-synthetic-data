@@ -1,0 +1,7 @@
+Let's break this down step by step.
+
+1. First, let's calculate how much money John can make in a day if his factory is able to produce 1200 tires a day. 1200 tires at 1.5 times the price John sells each tire means he would make 1200 * 1.5 = 1800 dollars.
+
+2. Next, let's calculate how much John makes in a day when he produces 1000 tires a day. 1000 tires at 1.5 times the price John sells each tire means he would make 1000 * 1.5 = 1500 dollars.
+
+3. Now, let's find out how much money John loses a week. 7 days a week, John makes 7 * 1500 = 10500 dollars. 7 * 1800 = 12600 dollars. So, John loses 12600 - 10500 = 2100 dollars.

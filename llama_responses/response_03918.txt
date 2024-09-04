@@ -1,0 +1,13 @@
+Let's start by finding the total number of pages Jesse read:
+
+10 + 15 + 27 + 12 + 19 = 83
+
+Since Jesse is 1/3 of the way through the book, that means the total number of pages in the book is 3 times the number of pages he has read:
+
+83 x 3 = 249
+
+Since Jesse has already read 83 pages, to find out how many pages he still has to read, we subtract the number of pages he has read from the total number of pages in the book:
+
+249 - 83 = 166
+
+So, Jesse still has to read 166 pages.

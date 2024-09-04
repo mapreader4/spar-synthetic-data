@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+* On a normal day, the machine can fill 1 barrel in 3 minutes
+* With the leak, it takes 5 minutes to fill 1 barrel
+* We need to find how much longer it will take to fill 12 barrels with the leak compared to a normal day
+
+First, let's calculate how long it would take to fill 12 barrels on a normal day:
+* 12 barrels x 3 minutes per barrel = 36 minutes
+
+Now, let's calculate how long it would take to fill 12 barrels with the leak:
+* 12 barrels x 5 minutes per barrel = 60 minutes
+
+To find the difference, we subtract the normal time from the time with the leak:
+* 60 minutes - 36 minutes = 24 minutes
+
+Answer: 24

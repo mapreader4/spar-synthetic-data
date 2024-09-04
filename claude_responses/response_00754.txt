@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+1) Yvette and her 3 best friends each ordered an ice cream sundae:
+   - Alicia's peanut butter sundae: $7.50
+   - Brant's Royal banana split sundae: $10.00
+   - Josh's death by chocolate sundae: $8.50
+   - Yvette's cherry jubilee sundae: $9.00
+2) To calculate the total cost of the sundaes, we add up the individual costs:
+   $7.50 + $10.00 + $8.50 + $9.00 = $35.00
+3) Yvette leaves a 20% tip on the total cost of the sundaes. To calculate the tip:
+   20% of $35.00 = 0.20 * $35.00 = $7.00
+4) To calculate the final bill, we add the total cost of the sundaes and the tip:
+   $35.00 + $7.00 = $42.00
+
+Answer: 42

@@ -1,0 +1,12 @@
+Okay, let's break this down step by step:
+* Tracy initially had 300 book donations
+* In a week, 10 people came and donated 5 books each
+* To calculate the number of books added from the 10 people:
+  * 10 people x 5 books each = 50 books added
+* So the total number of books in the store before borrowing is:
+  * 300 (initial) + 50 (added) = 350 books
+* Then, 140 books were borrowed by other people
+* To calculate the number of books remaining, we take the total number of books and subtract the number of books borrowed:
+  * 350 (total) - 140 (borrowed) = 210 books remaining
+
+Answer: 210

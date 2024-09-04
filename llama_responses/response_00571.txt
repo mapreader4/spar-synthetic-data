@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by finding out how many cats Anthony has. Anthony has 12 animals, and 2/3 of them are cats. So, we can multiply 12 by 2/3 to find out how many cats he has: 12 * 2/3 = 8.
+
+So, Anthony has 8 cats. Now, let's find out how many dogs Anthony has. We know that Leonel has half as many cats as Anthony, which is 4, and 7 more dogs than Anthony. So, Anthony has 12 - 4 = 8 dogs.
+
+To find the total number of animals, we add the number of cats and dogs together: 8 + 8 = 16.
+
+Answer: 16

@@ -1,0 +1,8 @@
+Okay, let's break this down step-by-step:
+1) The number of trees is three times more than the number of stones in the courtyard. 
+   * If the number of stones is 40, then the number of trees is 3 x 40 = 120.
+2) There are twice as many birds in the trees as the combined number of trees and stones in the yard.
+   * The combined number of trees and stones is 120 + 40 = 160.
+   * The number of birds in the trees is 2 x 160 = 320.
+
+Answer: 320

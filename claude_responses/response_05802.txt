@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* Hannah ran 9 kilometers on Monday
+* 1 kilometer = 1000 meters
+* So, Hannah ran 9 x 1000 = 9000 meters on Monday
+
+* Hannah ran 4816 meters on Wednesday
+* Hannah ran 2095 meters on Friday
+* The total distance she ran on Wednesday and Friday is 4816 + 2095 = 6911 meters
+
+* To find how many meters farther she ran on Monday than Wednesday and Friday combined, we subtract the total distance of Wednesday and Friday from the distance she ran on Monday:
+* 9000 meters - 6911 meters = 2089 meters
+
+Answer: 2089

@@ -1,0 +1,9 @@
+Let's break down the problem step by step.
+
+Celine borrowed three books initially. She returned one book 20 days after borrowing it. So, for that book, she paid 20 days * 50 cents per day = 10 dollars.
+
+The other two books stayed with her until the end of May. Since May has 31 days, she paid for those books for 31 days. So, for those two books, she paid 31 days * 50 cents per day * 2 books = 31 * 1 dollar = 31 dollars.
+
+In total, Celine paid 10 dollars + 31 dollars = 41 dollars.
+
+Answer: 41

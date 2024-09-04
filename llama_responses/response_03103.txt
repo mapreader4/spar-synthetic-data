@@ -1,0 +1,24 @@
+Let's break down the information given: 
+
+1. Taegan won tickets from each of the 5 carnival games. 
+2. She found 5 tickets on the floor. 
+3. Each ticket is worth $3. 
+4. The total value of the tickets is $30.
+
+Let's first find the value of the tickets won from each game. 
+
+Let's say the number of tickets she won from each game be x. 
+
+Then, we can set up the equation: 
+
+5x + 5 = 30
+
+We can subtract 5 from both sides of the equation to get: 
+
+5x = 25
+
+Then, we can divide both sides by 5 to get: 
+
+x = 5
+
+So, Taegan won 5 tickets from each game.

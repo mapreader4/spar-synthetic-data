@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's first calculate the total number of weasels and rabbits initially present in the region. There are 100 weasels and 50 rabbits.
+
+Now, each fox catches an average of 4 weasels and 2 rabbits per week. So, in 3 weeks, the total number of weasels caught will be 3 x 4 = 12, and the total number of rabbits caught will be 3 x 2 = 6.
+
+So, the total number of weasels caught in 3 weeks is 12, and the total number of rabbits caught is 6.
+
+The remaining number of weasels is 100 - 12 = 88, and the remaining number of rabbits is 50 - 6 = 44.
+
+So, the answer is: Answer: 44

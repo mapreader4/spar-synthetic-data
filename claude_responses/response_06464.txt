@@ -1,0 +1,20 @@
+Okay, let's break this down step-by-step:
+* Bea's mom initially planted 50 Mahogany and 30 Narra trees
+* A total of 5 trees fell due to the typhoon
+* One more Mahogany tree fell than the number of Narra trees that fell
+* Let's say x Narra trees fell, then x+1 Mahogany trees fell
+* So the total number of trees that fell is x + (x+1) = 5
+* Solving for x, we get x = 2, so 2 Narra trees and 3 Mahogany trees fell
+* A month after the typhoon, Bea's mom planted twice as many Narra trees as the number that fell, which is 2 x 2 = 4 Narra trees
+* She also planted thrice the number of Mahogany trees that fell, which is 3 x 3 = 9 Mahogany trees
+* So the total number of trees on the farm now is:
+    - Initial Mahogany trees: 50
+    - Initial Narra trees: 30
+    - Mahogany trees that fell: 3
+    - Narra trees that fell: 2
+    - New Mahogany trees planted: 9
+    - New Narra trees planted: 4
+* Adding these up, the total number of trees on the farm is:
+    50 - 3 + 9 + 30 - 2 + 4 = 88
+
+Answer: 88

@@ -1,0 +1,13 @@
+Okay, let's think through this step-by-step:
+* Each emu has 1 head and 2 legs
+* The total number of heads is 60
+* The total number of legs is also 60
+* Since each emu has 1 head and 2 legs, we can set up an equation:
+* Let x = the number of emus in the flock
+* Then the total number of heads is x, and the total number of legs is 2x
+* We know the total number of heads is 60, so x = 60
+* We also know the total number of legs is 60, so 2x = 60
+* Solving for x, we get x = 30
+* Therefore, there are 30 emus in Farmer Brown's flock.
+
+Answer: 30

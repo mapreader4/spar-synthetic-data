@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Jimmy's father originally received 20 emails per day
+* Halfway through April, he subscribed to a news channel that sent 5 more emails per day
+* So, for the first half of the month (15 days), he received 20 emails per day
+* For the second half of the month (15 days), he received 25 emails per day (20 + 5)
+* To calculate the total number of emails:
+** For the first 15 days: 20 emails/day x 15 days = 300 emails
+** For the last 15 days: 25 emails/day x 15 days = 375 emails
+** Total emails = 300 + 375 = 675 emails
+
+Answer: 675

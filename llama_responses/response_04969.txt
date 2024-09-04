@@ -1,0 +1,7 @@
+To find the total amount of material needed for the overskirt, we need to multiply the length and width of the rectangle. The area of the rectangle is 12 feet times 4 feet, which is 48 square feet. The material for the overskirt will cost 48 square feet times $3, which is 144 dollars.
+
+For the petticoats, each petticoat requires 12 square feet of material. There are 2 petticoats, so the total material needed is 2 x 12 = 24 square feet. The material for the petticoats will cost 24 square feet times $3, which is 72 dollars.
+
+For the bodice, the shirt requires 2 square feet of material and each sleeve requires 5 square feet of material. There are 2 sleeves, so the total material needed is 2 + 5 x 2 = 12 square feet. The material for the bodice will cost 2 square feet times $3, which is 6 dollars, and the material for each sleeve will cost 5 square feet times $3, which is 15 dollars. The total cost for the bodice and sleeves is 6 + 15 = 21 dollars.
+
+The total amount spent on material is 144 + 72 + 21 = 237 dollars.

@@ -1,0 +1,11 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the initial number of marbles: 30 marbles.
+
+On the second day, Cleo and Ignacio took 3/5 of the marbles, which is 18 marbles (since 3/5 of 30 is 18).
+
+On the third day, Cleo took 1/2 of the remaining marbles, which is 9 marbles (since 18/2 is 9).
+
+So, on the third day, Cleo had 9 marbles.
+
+Answer: 9

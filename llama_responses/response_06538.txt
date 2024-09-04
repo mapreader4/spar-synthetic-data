@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+First, let's find the total length of the path that needs to be lined with fence. The path is 900 feet long, but there is a 42-foot bridge, so the total length that needs to be lined with fence is 900 - 42 = 858 feet.
+
+Since a fence pole is placed every 6 feet, we need to find how many 6-foot sections of fence it takes to make up the 858 feet. To do this, we can divide 858 by 6:
+
+858 ÷ 6 = 143
+
+So, 143 fence poles will be placed along the path on both sides.

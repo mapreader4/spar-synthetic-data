@@ -1,0 +1,15 @@
+Let's break this down step by step.
+
+Let's first find the total hours Mike trained during the first week. Since he trained for 2 hours each day, the total hours for the first week is:
+
+2 hours/day * 7 days = 14 hours
+
+Now, let's find the total hours he trained during the next 7 days. Since he increased the maximum time to 3 hours, he trained for 3 hours each day. The total hours for the next 7 days is:
+
+3 hours/day * 7 days = 21 hours
+
+To find the total hours Mike trained during the first two weeks, we need to add the hours from both periods:
+
+14 hours (first week) + 21 hours (next 7 days) = 35 hours
+
+Answer: 35

@@ -1,0 +1,15 @@
+Okay, let's break this down step-by-step:
+1) Sun City has 1000 more than twice as many people as Roseville City.
+   * Let's call the number of people in Roseville City 'x'.
+   * Then, the number of people in Sun City is 2x + 1000.
+
+2) Roseville City has 500 less than thrice as many people as Willowdale City.
+   * Willowdale City has 2000 people.
+   * Thrice as many people as Willowdale City is 3 * 2000 = 6000.
+   * Roseville City has 500 less than 6000, so Roseville City has 6000 - 500 = 5500 people.
+   * Therefore, x = 5500.
+
+3) Plugging in the value for x, we get:
+   * Sun City has 2 * 5500 + 1000 = 12000 people.
+
+Answer: 12000

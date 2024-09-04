@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* For 1 regular sandwich, 2 pieces of bread are needed
+* For 14 regular sandwiches, the total number of pieces of bread needed is:
+    - 14 regular sandwiches x 2 pieces of bread per sandwich = 28 pieces of bread
+* For 1 double meat sandwich, 3 pieces of bread are needed
+* For 12 double meat sandwiches, the total number of pieces of bread needed is:
+    - 12 double meat sandwiches x 3 pieces of bread per sandwich = 36 pieces of bread
+* To find the total number of pieces of bread needed for both the regular and double meat sandwiches, we add the two amounts together:
+    - 28 pieces of bread + 36 pieces of bread = 64 pieces of bread
+
+Answer: 64

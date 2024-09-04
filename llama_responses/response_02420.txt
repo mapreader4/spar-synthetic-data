@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's first find the cost of one pineapple. The cost of one pineapple is $1.25. Since they buy a dozen pineapples, we need to multiply the cost of one pineapple by 12.
+
+1.25 x 12 = 15.00
+
+So, the total cost of the pineapples is $15.00.
+
+Now, the cost to ship all the pineapples is $21.00. We need to subtract the cost of the pineapples from the total cost to find the cost per pineapple.
+
+21.00 - 15.00 = 6.00
+
+So, each pineapple will end up costing them $6.00.

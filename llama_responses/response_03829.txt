@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Tina has 17 tangerines initially, and she takes away 10 of them. That leaves her with 17 - 10 = 7 tangerines.
+
+She has 5 oranges initially, and she takes away 2 of them. That leaves her with 5 - 2 = 3 oranges.
+
+To find out how many more tangerines she has than oranges, we need to subtract the number of tangerines from the number of oranges. So, she has 7 tangerines and 3 oranges. To find the difference, we subtract 3 from 7, which gives us 7 - 3 = 4.
+
+So, the answer is 4.

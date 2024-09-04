@@ -1,0 +1,28 @@
+To solve this problem, we need to calculate the total cost for the family to visit the park and one attraction.
+
+Given information:
+- Entrance ticket to the park: $5 per person
+- Ticket for each attraction: $2 for kids, $4 for parents
+
+The family consists of:
+- 4 children
+- 2 parents
+- 1 grandmother
+
+Step 1: Calculate the cost of the entrance tickets.
+Entrance tickets for 4 children: 4 × $5 = $20
+Entrance tickets for 2 parents: 2 × $5 = $10
+Entrance ticket for 1 grandmother: 1 × $5 = $5
+Total cost of entrance tickets: $20 + $10 + $5 = $35
+
+Step 2: Calculate the cost of the attraction tickets.
+Attraction tickets for 4 children: 4 × $2 = $8
+Attraction tickets for 2 parents: 2 × $4 = $8
+Attraction ticket for 1 grandmother: 1 × $4 = $4
+Total cost of attraction tickets: $8 + $8 + $4 = $20
+
+Step 3: Calculate the total cost for the family.
+Total cost = Cost of entrance tickets + Cost of attraction tickets
+Total cost = $35 + $20 = $55
+
+Answer: $55

@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Tom needs a total of 1000 bricks to make the shed
+* He can buy half of the bricks (500 bricks) for 50% off of $0.50 per brick
+* The discounted price for the 500 bricks is $0.50 * 0.5 = $0.25 per brick
+* So the total cost for the 500 discounted bricks is 500 * $0.25 = $125
+* The other 500 bricks he needs to buy at full price of $0.50 per brick
+* The total cost for the 500 full-price bricks is 500 * $0.50 = $250
+* To calculate the total amount Tom spends, we add the cost of the discounted bricks and the full-price bricks:
+* $125 + $250 = $375
+
+Answer: $375

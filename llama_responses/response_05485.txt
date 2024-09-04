@@ -1,0 +1,19 @@
+Let's break this problem down step by step:
+
+1. The Laker cement factory provided 500 bags of cement to Mr. Zander, and each bag costs $10. So, the total cost of the cement is:
+
+500 bags * $10 per bag = 500 * 10 = $5000
+
+2. Mr. Zander also received twenty lorries of construction sand, and each lorry carries 10 tons of sand. So, the total amount of sand is:
+
+20 lorries * 10 tons per lorry = 200 tons of sand
+
+3. The sand is sold at $40 per ton, so the total cost of the sand is:
+
+200 tons * $40 per ton = 200 * 40 = $8000
+
+4. To find the total amount Mr. Zander paid, we add the cost of the cement and the cost of the sand:
+
+$5000 (cement) + $8000 (sand) = $13000
+
+Answer: 13000

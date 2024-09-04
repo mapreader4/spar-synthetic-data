@@ -1,0 +1,15 @@
+Let's break this problem down step by step.
+
+Kylie initially has 5 daisies.
+
+Her sister gives her 9 more daisies, so now Kylie has 5 + 9 = 14 daisies.
+
+Then, Kylie gives half of her daisies to her mother. To find half of 14, we can divide 14 by 2, which is 7.
+
+So, Kylie gives 7 daisies to her mother.
+
+Now, to find out how many daisies Kylie has left, we subtract the number of daisies she gave away from the total number of daisies she had:
+
+14 (initial daisies) - 7 (daisies given to mother) = 7
+
+Answer: 7

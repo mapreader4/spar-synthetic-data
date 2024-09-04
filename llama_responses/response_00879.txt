@@ -1,0 +1,13 @@
+Let's break it down step by step.
+
+Jake starts with 80 bitcoins.
+
+1. He donates 20 bitcoins to charity, so he has 80 - 20 = 60 bitcoins left.
+
+2. He gives half of the remaining 60 bitcoins to his brother, so he gives 30 bitcoins to his brother.
+
+3. He triples the number of bitcoins he has, so he triples 60 + 30 = 90.
+
+4. He donates 10 more coins, so he has 90 - 10 = 80 bitcoins left.
+
+Answer: 80

@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+* There are 2 adults in the family
+* Each adult ticket costs $22
+* So the total cost for the 2 adult tickets is:
+2 adults x $22 per ticket = $44
+* There are 2 children in the family
+* Each child ticket costs $7
+* So the total cost for the 2 child tickets is:
+2 children x $7 per ticket = $14
+* To get the total price the family will pay, we add the cost of the adult tickets and the cost of the child tickets:
+$44 + $14 = $58
+
+Answer: 58

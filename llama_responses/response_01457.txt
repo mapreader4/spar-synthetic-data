@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information: we know that the total number of sacks of rice in the first harvest is 20.
+
+The yield increases by 20% after every harvest, which means that the total number of sacks of rice in the second harvest will be 20 + (20% of 20) = 20 + 4 = 24.
+
+Therefore, the total number of sacks of rice after the first and second harvest is 20 + 24 = 44.
+
+Answer: 44

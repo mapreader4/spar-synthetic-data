@@ -1,0 +1,5 @@
+Let's start by identifying the total number of leaves initially. The problem states that the tree drops a tenth of its initial quantity of leaves each day over the course of four days. So, if it drops a tenth of its initial quantity of leaves each day, then the total number of leaves it drops over four days is 4/10 = 0.4 of its initial quantity. 
+
+The tree drops the rest of its leaves on the fifth day, so it drops 1 - 0.4 = 0.6 of its leaves. Since it had 340 leaves initially, it drops 0.6 of them on the fifth day. 
+
+Answer: 0.6.

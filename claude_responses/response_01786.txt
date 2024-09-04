@@ -1,0 +1,21 @@
+Okay, let's break this down step-by-step:
+* 4/5 of the Easter eggs are blue
+* 1/5 of the Easter eggs are purple
+* Half of the purple eggs have 5 pieces of candy each
+* 1/4 of the blue eggs have 5 pieces of candy each
+* The rest of the eggs only have 1 piece of candy
+
+First, let's calculate the number of purple eggs with 5 pieces of candy:
+* 1/5 of the eggs are purple
+* Half of the purple eggs have 5 pieces of candy
+* So, 1/2 * 1/5 = 1/10 of the eggs have 5 pieces of candy
+
+Next, let's calculate the number of blue eggs with 5 pieces of candy:
+* 4/5 of the eggs are blue
+* 1/4 of the blue eggs have 5 pieces of candy
+* So, 1/4 * 4/5 = 1/5 of the eggs have 5 pieces of candy
+
+Now, the total percentage of eggs with 5 pieces of candy is:
+* 1/10 + 1/5 = 3/10 = 30%
+
+Answer: 30%

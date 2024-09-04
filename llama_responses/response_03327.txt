@@ -1,0 +1,5 @@
+To find the total number of gems Tom got, we need to find how many dollars he spent and then multiply that by 100. We also need to add the 20% bonus to this total.
+
+Let's start by finding how many dollars Tom spent. Since each dollar gives 100 gems, and he got a 20% bonus, we know that Tom spent a total of 250 dollars. We can calculate the total number of gems by multiplying 250 by 100, which is 25000. Then, we add the 20% bonus to this total. 20% of 25000 is 5000, so the total number of gems Tom got is 27000.
+
+Answer: 27000

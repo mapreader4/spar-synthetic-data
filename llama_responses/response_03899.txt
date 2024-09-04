@@ -1,0 +1,25 @@
+Let's start by identifying the information given. We know that one-fourth of the box contains oranges. This means that one-fourth of the 56 pieces of fruit are oranges.
+
+We are also given that there are half as many peaches as oranges. So, if we let x be the number of oranges, then the number of peaches is also x. Since there are five times as many apples as peaches, then the number of apples is 5x.
+
+We know that the total number of fruit is 56. So, the number of oranges plus the number of peaches plus the number of apples is 56.
+
+We can set up the equation:
+
+x + x + 5x = 56
+
+We can combine the x terms by combining like terms:
+
+x + x = 56 - 5x
+
+We can solve for x by dividing both sides of the equation by 2:
+
+x = (56 - 5x)/2
+
+x = 28
+
+So, the number of oranges is 28. Since there are half as many peaches as oranges, the number of peaches is also 28. The number of apples is 5 times the number of peaches, so the number of apples is:
+
+5 * 28 = 140
+
+Answer: 140

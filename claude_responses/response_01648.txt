@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+* Last week, Kenny did a total of 324 jumping jacks
+* This week, so far he has done:
+    - Sunday: 34 jumping jacks
+    - Monday: 20 jumping jacks
+    - Tuesday: 0 jumping jacks (he skipped a day)
+    - Wednesday: 123 jumping jacks
+    - Thursday: 64 jumping jacks
+    - Friday: 23 jumping jacks
+* So the total number of jumping jacks he has done so far this week is:
+    34 + 20 + 0 + 123 + 64 + 23 = 264 jumping jacks
+* To beat last week's total of 324 jumping jacks, he needs to do at least 325 jumping jacks this week.
+* Therefore, the number of jumping jacks he needs to do on Saturday is:
+    325 - 264 = 61 jumping jacks
+
+Answer: 61

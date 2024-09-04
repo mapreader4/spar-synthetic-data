@@ -1,0 +1,15 @@
+Okay, let's break this down step by step:
+* Skyler wrote 25 hit songs that made it on the top 10 charts
+* He wrote 10 more songs that made it on the top 100 charts than the hit songs
+* He wrote 5 fewer songs than the hit songs that were never released
+
+First, let's calculate the number of songs that made it on the top 100 charts:
+* 25 hit songs + 10 more songs = 35 songs that made it on the top 100 charts
+
+Next, let's calculate the number of songs that were never released:
+* 25 hit songs - 5 fewer songs = 20 songs that were never released
+
+Now, we can add up all the songs Skyler wrote:
+* 25 hit songs + 35 songs on the top 100 charts + 20 songs never released = 80 songs in total
+
+Answer: 80

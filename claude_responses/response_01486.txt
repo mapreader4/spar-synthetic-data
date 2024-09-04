@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Tammy gets a free haircut for every 14 haircuts she gets
+* She has already gotten 5 free haircuts
+* She is 5 haircuts away from another free one
+
+To find the total number of haircuts she has gotten, we need to first find how many "sets" of 14 haircuts she has completed.
+
+Since she is 5 haircuts away from another free one, that means she has completed (14 - 5) = 9 sets of 14 haircuts.
+* 9 sets of 14 haircuts = 9 * 14 = 126 haircuts
+
+Now, we add the 5 free haircuts she has already received:
+* 126 haircuts + 5 free haircuts = 131 total haircuts
+
+Answer: 131

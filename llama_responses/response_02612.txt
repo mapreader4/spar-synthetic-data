@@ -1,0 +1,15 @@
+To solve this problem, we need to calculate how many 45-pound containers of cat litter Janet needs to buy. 
+
+First, we need to find how many 45-pound containers of cat litter will be needed for 210 days. 
+
+Each 45-pound container of cat litter is used in a week. So, to find the number of 45-pound containers needed, we can divide 210 days by 7 (since 210 divided by 7 is 30):
+
+210 / 7 = 30
+
+So, 30 containers are needed. 
+
+Next, we need to find the cost of 30 containers. Each container costs 21 dollars. So, the total cost will be:
+
+30 x 21 = 630
+
+So, the answer is: Answer: 630.

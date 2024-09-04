@@ -1,0 +1,9 @@
+Let's start by finding the total number of walnuts the boy squirrel has at the beginning. He has 6 walnuts and the girl squirrel has 12, so together they have 6 + 12 = 18 walnuts.
+
+The boy squirrel drops 1 walnut on the way, so the total number of walnuts is 18 - 1 = 17.
+
+The girl squirrel brings 5 more walnuts to the burrow, so the new total is 17 + 5 = 22.
+
+Then the girl squirrel eats 2 walnuts, so the remaining number of walnuts is 22 - 2 = 20.
+
+Answer: 20

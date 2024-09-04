@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* Brian read one book with 20 chapters
+* He read two books with 15 chapters each
+* So the two books with 15 chapters each had a total of 2 * 15 = 30 chapters
+* He also read one book that had half the chapters of the three previous books put together
+* The three previous books had a total of 20 + 30 = 50 chapters
+* The fourth book had half the chapters of the three previous books, which is 50 / 2 = 25 chapters
+
+Now, to find the total number of chapters Brian read, we add up the chapters from all four books:
+* 20 + 30 + 25 = 75 chapters
+
+Answer: 75

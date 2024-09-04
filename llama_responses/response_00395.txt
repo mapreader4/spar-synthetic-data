@@ -1,0 +1,19 @@
+Let's break this problem down step by step.
+
+Let's first find the number of elephants that left the park in the 4-hour period. Since the rate is 2,880 elephants per hour, the number of elephants that left the park is 2,880.
+
+Let's now find the number of elephants that entered the park in the 7-hour period. Let's assume the rate of new elephants entering the park is constant, say x, elephants per hour. We know that the total number of elephants in the park is 28,980. Since the rate is constant, the number of elephants that entered the park in the 7-hour period is the difference between the total number of elephants in the park and the number of elephants that left the park, which is 28,980 - 2,880 = x * 7.
+
+We can set up an equation to represent this:
+
+28,980 - 2,880 = x * 7
+
+To solve for x, we can divide both sides of the equation by 7:
+
+x * 7 = 28,980 - 2,880 / 7
+
+x = (28,980 - 2,880) / 7
+x = 2,100 / 7
+x = 300
+
+Answer: 300

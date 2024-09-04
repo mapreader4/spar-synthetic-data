@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's say Roberto's starting salary was x. Then, he received a 20% raise, which is 0.2x. So, his new salary is x + 0.2x.
+
+We know that his previous salary was 40% higher than his starting salary. So, we can set up an equation to represent this:
+
+x + 0.2x = 1.4x
+
+We know that his starting salary was $80,000, so we can substitute 80000 for x:
+
+80000 + 0.2x = 1.4x
+
+We can now solve for x:
+
+x = 80000 / 1.2 = 66,666.67
+
+So, his current salary is 66666.67.

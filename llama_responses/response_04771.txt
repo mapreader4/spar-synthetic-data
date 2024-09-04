@@ -1,0 +1,8 @@
+Let's break down the problem step by step.
+
+1. John had to rent a car, which cost $150.
+2. He had to buy 8 gallons of gas, and gas is $3.50 per gallon. So, the cost of the gas is 8 x 3.50 = 28 dollars.
+3. The final expense is $0.50 per mile, and he drove 320 miles. So, the total expense of the trip is 320 * 0.50 = 160 dollars for the gas.
+4. Adding the cost of the car rental and the cost of gas, John's total expense is 150 + 28 + 160 = 338 dollars.
+
+Answer: 338

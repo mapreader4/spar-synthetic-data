@@ -1,0 +1,16 @@
+Okay, let's break this down step-by-step:
+1) Uncle Jude baked 256 cookies in total.
+2) He gave 15 cookies to Tim.
+3) He gave 23 cookies to Mike.
+4) He gave twice as many cookies to Anna as he gave to Tim.
+   - He gave Tim 15 cookies.
+   - So he gave Anna 2 * 15 = 30 cookies.
+5) To find the number of cookies he put in the fridge, we need to subtract the cookies he gave to Tim, Mike, and Anna from the total number of cookies he baked.
+   - Total cookies baked: 256
+   - Cookies given to Tim: 15
+   - Cookies given to Mike: 23
+   - Cookies given to Anna: 30
+   - Total cookies given away: 15 + 23 + 30 = 68
+   - Cookies put in the fridge: 256 - 68 = 188
+
+Answer: 188

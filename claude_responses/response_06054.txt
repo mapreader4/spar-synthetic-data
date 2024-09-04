@@ -1,0 +1,12 @@
+Okay, let's break this down step-by-step:
+* There were 20 fishermen in the lake
+* 19 of them caught 400 fish each with their own net
+* The total number of fish caught was 10,000
+
+First, let's calculate the total number of fish caught by the 19 fishermen who caught 400 fish each:
+* 19 fishermen x 400 fish each = 7,600 fish
+
+Now, we can subtract the total number of fish caught by the 19 fishermen from the total number of fish caught to find the number of fish caught by the 20th fisherman:
+* 10,000 total fish - 7,600 fish caught by 19 fishermen = 2,400 fish caught by the 20th fisherman
+
+Answer: 2,400

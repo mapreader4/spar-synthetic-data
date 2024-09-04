@@ -1,0 +1,8 @@
+Let's break this problem down step by step:
+
+1. Let's say the total weight of the five girls is 5x45 = 225 kg.
+2. Let's say the total weight of the five boys is 5x55 = 275 kg.
+3. The total weight of the ten students is the sum of the weights of the girls and the boys: 225 + 275 = 500 kg.
+4. To find the average weight of the ten students, we need to divide the total weight by 10: 500 / 10 = 50.
+
+Answer: 50

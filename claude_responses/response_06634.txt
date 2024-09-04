@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+1) We are given that 60% of the students at the school are girls.
+2) We are also given that the number of boys is 300.
+3) To find the number of girls, we need to find the total number of students and then calculate 60% of that.
+4) The total number of students is the number of girls plus the number of boys.
+5) Since the number of boys is 300, and they represent 40% of the total (100% - 60% = 40%), we can calculate the total number of students as:
+300 / 0.4 = 750 total students
+6) Now, to find the number of girls, we take 60% of the total number of students:
+0.6 * 750 = 450 girls
+Answer: 450

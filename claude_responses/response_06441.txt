@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+* Jaco wants to buy gifts for 8 friends, and each gift costs $9
+* So the total cost for the 8 friends' gifts is: 8 x $9 = $72
+* Jaco also wants to buy gifts for his mother and father, and they will be the same amount
+* Jaco has a total budget of $100 to buy all the gifts
+* To find the budget for each of his mother and father's gifts, we need to subtract the cost of the 8 friends' gifts from the total budget, and then divide the remaining amount by 2 (since there are two gifts for his parents)
+* $100 - $72 = $28
+* $28 / 2 = $14
+
+Answer: $14

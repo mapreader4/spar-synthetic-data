@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Let's start with the number of cakes Brenda bakes each day. She bakes 20 cakes a day for 9 days. So, the total number of cakes baked is 20 * 9 = 180 cakes.
+
+Then, Brenda sells half of these cakes. Half of 180 cakes is 180 / 2 = 90 cakes.
+
+So, Brenda has 90 cakes left.

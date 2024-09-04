@@ -1,0 +1,14 @@
+Okay, let's break this down step-by-step:
+* Total number of guests: 60
+* Half of the guests are women, so the number of women is 60 / 2 = 30
+* The number of men is 15
+* The number of children is the remaining guests, which is 60 - 30 - 15 = 15
+* During the celebration, 1/3 of the men left, which is 15 * 1/3 = 5 men
+* Also, 5 children left
+* So the number of people who stayed and enjoyed the birthday celebration is:
+  - Women: 30
+  - Men: 15 - 5 = 10
+  - Children: 15 - 5 = 10
+* Total number of people who stayed: 30 + 10 + 10 = 50
+
+Answer: 50

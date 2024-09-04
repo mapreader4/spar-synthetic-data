@@ -1,0 +1,22 @@
+Okay, let's break this down step-by-step:
+* Danny has two sails: a 24 square foot sail and a 12 square foot sail
+* With the 24 square foot sail, he travels at 50 MPH
+* With the 12 square foot sail, he travels at 20 MPH
+* He plans to travel 200 miles
+
+To calculate the time it takes to travel 200 miles with each sail:
+* With the 24 square foot sail:
+  * Time = Distance / Speed
+  * Time = 200 miles / 50 MPH
+  * Time = 4 hours
+* With the 12 square foot sail:
+  * Time = Distance / Speed
+  * Time = 200 miles / 20 MPH
+  * Time = 10 hours
+
+Now, to calculate the difference in time:
+* Time difference = Time with 12 square foot sail - Time with 24 square foot sail
+* Time difference = 10 hours - 4 hours
+* Time difference = 6 hours
+
+Answer: 6 hours

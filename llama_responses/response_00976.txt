@@ -1,0 +1,11 @@
+Let's break down the problem step by step.
+
+Ludwig works 7 days a week. So, the total number of working days in a week is 7.
+
+He works half a day during Friday, Saturday, and Sunday, which means he works 1.5 days in total during the weekend.
+
+So, the total number of working days in a week is 7 - 1.5 = 5.5 days.
+
+His daily salary is $10. So, his weekly salary is 5.5 * 10 = 55.
+
+Answer: 55

@@ -1,0 +1,29 @@
+Let's break this down step by step.
+
+Let's say the number of writing books Edith has in her suitcase is x. 
+
+The problem statement says "half as many as the number of writing books she has stuffed in her suitcase." This means that the number of novels Edith has in her schoolbook shelf is twice the number of writing books she has in her suitcase. 
+
+So, we can set up an equation: 
+
+Novels in schoolbook shelf = 80 = 2 * writing books in suitcase
+
+Now, we can solve for the number of writing books in Edith's suitcase:
+
+2 * writing books in suitcase = 80
+
+To find the number of writing books in Edith's suitcase, we can divide both sides of the equation by 2:
+
+writing books in suitcase = 80 / 2
+
+writing books in suitcase = 40
+
+So, Edith has 40 writing books in her suitcase. 
+
+Now, we can find the total number of novels and writing books Edith has altogether:
+
+Novels in schoolbook shelf + writing books in suitcase = 80 + 40
+
+Novels in schoolbook shelf + writing books in suitcase = 120
+
+Answer: 120

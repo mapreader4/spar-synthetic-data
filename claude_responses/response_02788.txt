@@ -1,0 +1,26 @@
+Okay, let's break this down step-by-step:
+* Dr. Jones earns $6,000 a month
+* His house rental is $640 each month
+* His monthly food expense is $380
+* His electric and water bill costs 1/4 of what he makes
+* His insurances cost 1/5 of what he makes
+
+First, let's calculate the cost of his electric and water bill:
+* 1/4 of $6,000 = $1,500
+
+Next, let's calculate the cost of his insurances:
+* 1/5 of $6,000 = $1,200
+
+Now, let's add up all his monthly expenses:
+* House rental: $640
+* Food expense: $380
+* Electric and water bill: $1,500
+* Insurances: $1,200
+* Total expenses: $640 + $380 + $1,500 + $1,200 = $3,720
+
+Finally, let's calculate how much money he has left after paying those four bills:
+* Dr. Jones earns $6,000 a month
+* His total expenses are $3,720
+* $6,000 - $3,720 = $2,280
+
+Answer: $2,280

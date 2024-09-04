@@ -1,0 +1,10 @@
+Okay, let's think this through step-by-step:
+
+1) The first store charges $3 for 6 apples, so the cost per apple is $3 / 6 = $0.50 per apple.
+2) The second store charges $4 for 10 apples, so the cost per apple is $4 / 10 = $0.40 per apple.
+3) To calculate the savings per apple, we take the cost per apple from the first store ($0.50) and subtract the cost per apple from the second store ($0.40).
+4) $0.50 - $0.40 = $0.10
+
+Therefore, you can save 10 cents on each apple by buying from the second store.
+
+Answer: 10

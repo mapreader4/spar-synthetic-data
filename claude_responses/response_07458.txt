@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* The munchkin track is a one-quarter mile circular track
+* Polly circled the track 12 times in one half hour
+* Polly's speed can be calculated as:
+    - Distance traveled = 12 laps x 0.25 miles per lap = 3 miles
+    - Time taken = 0.5 hours
+    - Polly's speed = 3 miles / 0.5 hours = 6 miles per hour
+* Gerald's car was malfunctioning and moved at an average speed half of what Polly did
+* So Gerald's average speed = 6 miles per hour / 2 = 3 miles per hour
+
+Answer: 3 miles per hour

@@ -1,0 +1,9 @@
+To find the total number of shingles needed, we can multiply the area of the roof by the number of shingles per square foot. 
+
+The area of each roof is 20 feet by 40 feet, which is 800 square feet. 
+
+The total area of the 3 roofs is 800 x 3 = 2400 square feet.
+
+Jerry needs 8 shingles to cover one square foot, so he will need 2400 x 8 = 19200 shingles to cover the total area of the 3 roofs. 
+
+Answer: 19200

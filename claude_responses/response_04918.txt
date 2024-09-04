@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Bailey scored 14 points.
+2) Michiko scored half as many points as Bailey, so Michiko scored 7 points.
+3) Akiko scored 4 more points than Michiko, so Akiko scored 11 points.
+4) Chandra scored twice as many points as Akiko, so Chandra scored 22 points.
+5) To find the total points scored by the team, we add up the points scored by each player:
+   Bailey: 14 points
+   Michiko: 7 points
+   Akiko: 11 points
+   Chandra: 22 points
+   Total points scored = 14 + 7 + 11 + 22 = 54 points
+
+Answer: 54

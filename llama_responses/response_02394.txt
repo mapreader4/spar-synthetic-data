@@ -1,0 +1,13 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the information given: Jason pepper-sprays some raccoons and 6 times as many squirrels. This means that the number of raccoons is 6 times the number of squirrels.
+
+Let's say the number of squirrels is x. Then, the number of raccoons is 6x. We are given that the total number of animals is 84.
+
+We can set up an equation to represent this: 6x + x = 84.
+
+Now, we can solve for x. To do this, we can subtract 6 from both sides of the equation to get: x = 84 - 6 = x.
+
+x = 78.
+
+Answer: 78

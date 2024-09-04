@@ -1,0 +1,14 @@
+Let's break it down step by step.
+
+Let's start by counting the number of stripes on each type of hat.
+
+* 4 hats with 3 stripes each = 4 * 3 = 12 stripes
+* 3 hats with 4 stripes each = 3 * 4 = 12 stripes
+* 6 hats with no stripes = 6 * 0 = 0 stripes
+* 2 hats with 5 stripes each = 2 * 5 = 10 stripes
+
+Now, let's add up the number of stripes on each type of hat:
+
+12 + 12 + 0 + 10 = 24
+
+Answer: 24

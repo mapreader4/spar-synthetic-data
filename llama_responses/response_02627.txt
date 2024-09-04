@@ -1,0 +1,5 @@
+Let's break this problem down step by step.
+
+The child has 9 blocks in the first row. For the next row, he has 2 less blocks than the previous row, so he has 9 - 2 = 7 blocks. For the next row, he has 7 - 2 = 5 blocks. For the next row, he has 5 - 2 = 3 blocks. For the final row, he has 3 blocks.
+
+So, the total number of blocks used is 9 + 7 + 5 + 3 = 24.

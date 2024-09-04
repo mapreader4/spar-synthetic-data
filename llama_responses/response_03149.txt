@@ -1,0 +1,9 @@
+Let's break this problem down step by step.
+
+Let's first find the total length of the ribbon. Isaac cut the 30 meters of ribbon into 6 equal parts, which means each part is 30 / 6 = 5 meters long.
+
+Isaac used 4 parts of the ribbon, which means he used 4 x 5 = 20 meters of the ribbon.
+
+To find the remaining ribbon, we subtract the used ribbon from the total ribbon, which is 30 - 20 = 10 meters.
+
+Answer: 10

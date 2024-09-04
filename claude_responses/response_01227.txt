@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+1) Francine has 5 full boxes of crayons, and each full box contains an unknown number of crayons.
+2) Francine also has 5 loose crayons.
+3) Francine's friend has 27 loose crayons.
+4) In total, Francine has 85 crayons.
+5) To find the number of crayons in each full box, we can subtract the 5 loose crayons from the total 85 crayons, which gives us 80 crayons in the 5 full boxes.
+6) Since each full box contains the same number of crayons, we can divide 80 by 5 to get the number of crayons in each full box, which is 16.
+7) Now we have 5 full boxes of 16 crayons each, plus 5 loose crayons from Francine, and 27 loose crayons from her friend, for a total of 32 loose crayons.
+8) Each box can hold 16 crayons, so to hold the 32 loose crayons, they will need 2 more boxes.
+
+Answer: 2

@@ -1,0 +1,27 @@
+Let's break down the problem step by step.
+
+Max has 20 red stamps and sold them for $1.1 each, so the total amount earned from red stamps is:
+
+20 x $1.1 = $22
+
+Max has 80 blue stamps and sold them for $0.8 each, so the total amount earned from blue stamps is:
+
+80 x $0.8 = $64
+
+The total amount earned from selling red and blue stamps is:
+
+$22 + $64 = $86
+
+Since Max wants to earn a total of $100, he needs to earn an additional:
+
+$100 - $86 = $14
+
+from the sale of yellow stamps.
+
+Max has 7 yellow stamps, so the price he needs to set for each yellow stamp to earn the additional $14 is:
+
+$14 / 7 = $2
+
+So, Max needs to set the price of each yellow stamp at $2 to earn a total of $100 from the whole sale.
+
+Answer: 2

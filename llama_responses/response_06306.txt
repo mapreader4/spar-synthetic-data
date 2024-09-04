@@ -1,0 +1,25 @@
+Let's break this problem down step by step.
+
+Let's start by identifying the given information:
+
+* Apples weigh 4 ounces each
+* Oranges weigh 3 ounces each
+* Each bag can hold 49 ounces of fruit before it splits
+
+We want to find the number of apples Martha should buy to put an equal number of apples and oranges in each bag, and she wants to buy 3 full bags.
+
+Let's first find the total number of ounces of fruit she can put in each bag:
+
+49 ounces per bag / 2 = 24.5 ounces per bag (since she wants an equal number of apples and oranges)
+
+Since apples weigh 4 ounces each, the number of apples she can put in each bag is:
+
+24.5 ounces / 4 ounces per apple = 6.125 apples per bag
+
+Since she wants 3 full bags, she should buy:
+
+6.125 apples * 3 = 18.375 apples
+
+Since she can't buy a fraction of an apple, she should buy 18 apples.
+
+Answer: 18

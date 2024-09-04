@@ -1,0 +1,11 @@
+Okay, let's break this down step-by-step:
+* Carl sold watermelons for $3 each
+* He went home with $105 in profit
+* He also had 18 watermelons left unsold
+* To find the total number of watermelons he started with, we need to add the number of watermelons he sold to the 18 he had left
+* To find the number of watermelons he sold, we can divide the $105 profit by the $3 price per watermelon:
+* $105 profit / $3 per watermelon = 35 watermelons sold
+* Now we add the 18 watermelons he had left to the 35 he sold:
+* 35 watermelons sold + 18 watermelons left = 53 watermelons total
+
+Answer: 53

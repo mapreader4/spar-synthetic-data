@@ -1,0 +1,7 @@
+Let's break this problem down step by step.
+
+Jack sews 3 shirts for each of his 3 kids. So, Jack sews 3 * 3 = 9 shirts.
+
+He sews 7 buttons in each shirt. So, the total number of buttons used is 7 * 9 = 63.
+
+Answer: 63

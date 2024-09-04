@@ -1,0 +1,11 @@
+Let's think step by step.
+
+Jimmy has 18 cards initially.
+
+Jimmy gives 3 cards to Bob.
+
+To find out how many cards Jimmy has left, we need to subtract the number of cards Jimmy gave to Bob from the total number of cards Jimmy had.
+
+So, 18 - 3 = 15.
+
+Answer: 15

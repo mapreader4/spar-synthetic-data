@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+1) The cook had 300 carrots in the bucket initially.
+2) Before lunch, he had used 2/5 of the carrots.
+   * 2/5 of 300 = 120 carrots used before lunch.
+   * Remaining carrots = 300 - 120 = 180 carrots.
+3) By the end of the day, he had used 3/5 of the remaining carrots.
+   * 3/5 of 180 = 108 carrots used by the end of the day.
+   * Remaining carrots = 180 - 108 = 72 carrots.
+
+Answer: 72 carrots were not used that day.

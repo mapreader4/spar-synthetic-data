@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. The regular price of a shirt is $50.
+2. There is a 20% discount, which means we need to find 20% of the regular price to subtract from it.
+3. To find 20% of the regular price, multiply the price by 0.20. 50 * 0.20 = 10.
+4. Subtract the discount from the regular price: 50 - 10 = 40.
+5. Marlene wants to buy half a dozen of shirts, which is 6 shirts.
+6. Multiply the discounted price by the number of shirts: 40 * 6 = 240.
+
+Answer: 240

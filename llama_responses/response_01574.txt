@@ -1,0 +1,11 @@
+Let's start by calculating the total number of bricks needed for one wall. Each wall has 30 bricks in a single row, and there are 50 rows in each wall. So, the total number of bricks needed for one wall is:
+
+30 bricks per row * 50 rows = 30 * 50 = 1500
+
+So, the total number of bricks needed for one wall is 1500.
+
+Since there are two walls, we need to multiply this number by 2:
+
+1500 bricks per wall * 2 = 3000
+
+So, the total number of bricks needed to make both walls is 3000.

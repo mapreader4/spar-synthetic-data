@@ -1,0 +1,5 @@
+Let's start by finding the total number of vegetables Pauline has. She has 5 tomatoes, 5 cucumbers, and 30 potatoes. So, the total number of vegetables is 5 + 5 + 30 = 40.
+
+Now, let's find the total number of spaces in the garden. There are 10 rows with 15 spaces in each row. So, the total number of spaces is 10 * 15 = 150.
+
+Since the total number of vegetables is 40 and the total number of spaces is 150, Pauline could plant 40 - 150 = 110 more vegetables in her garden.

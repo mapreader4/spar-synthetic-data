@@ -1,0 +1,16 @@
+Okay, let's think through this step-by-step:
+* There are 20 stickers on each page
+* You have 12 pages of stickers
+* You lose one of the pages
+* To calculate the total number of stickers you have, we need to:
+  1. Calculate the total number of stickers on the 12 pages
+  2. Subtract the number of stickers on the lost page
+
+Step 1: Calculate the total number of stickers on the 12 pages
+* Total number of stickers = 20 stickers per page x 12 pages = 240 stickers
+
+Step 2: Subtract the number of stickers on the lost page
+* Number of stickers on the lost page = 20 stickers
+* Total number of stickers remaining = 240 stickers - 20 stickers = 220 stickers
+
+Answer: 220

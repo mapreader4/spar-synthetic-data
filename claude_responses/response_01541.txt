@@ -1,0 +1,9 @@
+Okay, let's break this down step-by-step:
+* Avery has 8 bunches of flowers
+* Each bunch has 9 flowers
+* To find the total number of flowers, we multiply the number of bunches (8) by the number of flowers in each bunch (9):
+   * 8 bunches x 9 flowers/bunch = 72 flowers
+* Now, Avery wants to put 12 flowers in each bunch instead. To find the number of bunches she would have, we divide the total number of flowers (72) by the new number of flowers per bunch (12):
+   * 72 flowers / 12 flowers/bunch = 6 bunches
+
+Answer: 6

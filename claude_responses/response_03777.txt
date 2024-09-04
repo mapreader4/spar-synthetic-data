@@ -1,0 +1,13 @@
+Okay, let's break this down step-by-step:
+1) Masud has 60 siblings.
+2) Janet has 60 less than four times as many siblings as Masud.
+   * Masud has 60 siblings, so four times as many is 4 * 60 = 240 siblings.
+   * Janet has 60 less than 240 siblings, so Janet has 240 - 60 = 180 siblings.
+3) Carlos has 3/4 times as many siblings as Masud.
+   * Masud has 60 siblings, so 3/4 times as many is 3/4 * 60 = 45 siblings.
+4) The difference between the number of siblings Janet has and the number of siblings Carlos has is:
+   * Janet has 180 siblings
+   * Carlos has 45 siblings
+   * The difference is 180 - 45 = 135 siblings.
+
+Answer: 135

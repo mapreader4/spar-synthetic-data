@@ -1,0 +1,17 @@
+Let's break this problem down step by step.
+
+Let's first find the total number of bags of chips sold in the first and second week. In the first week, 15 bags were sold, and in the second week, 15 * 3 = 45 bags were sold. The total number of bags sold in the first two weeks is 15 + 45 = 60.
+
+The third and fourth weeks are equal, so the number of bags of chips sold in the third and fourth weeks is the same. Let's call this number x.
+
+We know that the total number of bags sold in the first two weeks is 60, and the total number of bags sold in the third and fourth weeks is x. So, we can set up an equation:
+
+60 = 2x
+
+To solve for x, we can divide both sides by 2:
+
+60 ÷ 2 = x
+
+x = 30
+
+So, the number of bags of chips sold in the third and fourth weeks is 30.

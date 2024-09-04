@@ -1,0 +1,13 @@
+Okay, let's think this through step-by-step:
+1) We know that the mushrooms have either spots or gills, but never both.
+2) We also know that gilled mushrooms are rare, with only one growing for every nine spotted mushrooms.
+3) The fallen log had 30 mushrooms growing on its side.
+4) To find the number of gilled mushrooms, we need to set up a ratio based on the information given.
+5) The ratio of gilled mushrooms to spotted mushrooms is 1:9.
+6) This means that for every 10 mushrooms, 1 is gilled and 9 are spotted.
+7) Since there are 30 mushrooms total, we can divide 30 by 10 to get the number of groups of 10 mushrooms.
+8) 30 / 10 = 3 groups of 10 mushrooms.
+9) In each group of 10 mushrooms, 1 is gilled. 
+10) Therefore, the number of gilled mushrooms on the fallen log's side is 3.
+
+Answer: 3

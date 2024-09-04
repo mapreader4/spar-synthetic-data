@@ -1,0 +1,22 @@
+Let's break down the problem step by step.
+
+1. Let's first find out how many pencils Bowen buys. Bowen buys 2/5 times more pencils than pens, and since Bowen buys 40 pens, we can set up an equation to find the number of pencils:
+
+40 pens + 2/5x = x
+
+To solve for x, we can multiply both sides by 5:
+
+5(40 + 2x) = 5x
+40 + 2x = 5x
+2x = 20
+x = 10
+
+So Bowen buys 10 pencils.
+
+2. Now, let's calculate the cost of the pens and pencils Bowen buys:
+
+Pens: 40 pens * 0.25 = 10.00
+Pencils: 10 pencils * 0.15 = 1.50
+Total cost = 10.00 + 1.50 = 11.50
+
+Answer: 11.50

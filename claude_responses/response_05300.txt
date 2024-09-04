@@ -1,0 +1,19 @@
+Okay, let's break this down step-by-step:
+* Javier plays 2 baseball games a week
+* In his first 20 games, he averaged 2 hits per game
+* He has 10 games left in the season
+* We want to find the average number of hits per game he needs to bring his season average up to 3 hits per game
+
+First, let's calculate the total number of hits he had in the first 20 games:
+* 20 games x 2 hits per game = 40 hits
+
+Now, let's calculate the total number of hits he needs to have for the entire season to average 3 hits per game:
+* 30 games (20 + 10) x 3 hits per game = 90 hits
+
+To find the number of hits he needs in the remaining 10 games, we subtract the 40 hits he already has from the 90 hits he needs for the season:
+* 90 hits - 40 hits = 50 hits
+
+Finally, to find the average number of hits per game he needs in the remaining 10 games, we divide the 50 hits by the 10 games:
+* 50 hits / 10 games = 5 hits per game
+
+Answer: 5

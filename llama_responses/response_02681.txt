@@ -1,0 +1,9 @@
+Let's break this down step by step:
+
+1. Jonathan eats 2500 calories every day, except for Saturday, when he consumes an extra 1000 calories.  So, on Saturday, he consumes 2500 + 1000 = 3500 calories.  On all other days, he consumes 2500 calories.  So, his average daily caloric intake is (2500 + 2500 + 3500)/7 = 2750 calories.
+
+2. Jonathan burns 3000 calories every day.  This is his daily caloric expenditure.
+
+3. To find his weekly caloric deficit, we need to subtract his weekly caloric intake from his weekly caloric expenditure.  7 * 2750 = 19250 calories for his daily caloric intake and 7 * 3000 = 21000 calories for his daily caloric expenditure.  His weekly caloric deficit is 21000 - 19250 = 17050 calories.
+
+Answer: 17050

@@ -1,0 +1,10 @@
+Okay, let's break this down step-by-step:
+
+1. Initially, Aubree saw 20 beavers and 40 chipmunks by a tree.
+2. The total number of animals she saw initially is 20 beavers + 40 chipmunks = 60 animals.
+3. On her way back from school, the number of beavers had doubled, so now there are 20 x 2 = 40 beavers.
+4. The number of chipmunks had decreased by 10, so now there are 40 - 10 = 30 chipmunks.
+5. The total number of animals she saw on her way back is 40 beavers + 30 chipmunks = 70 animals.
+6. The total number of animals Aubree saw that day is the sum of the animals she saw on her way to school and on her way back, which is 60 + 70 = 130 animals.
+
+Answer: 130
