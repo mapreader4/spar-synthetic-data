@@ -22,7 +22,7 @@ def extract_number(text):
     else:
         return None
 
-def evaluate(data_name):
+def evaluate(data_name, lr):
     prompt = "You are solving a mathematics problem. While solving the problem, you think step by step, stating your " \
             "reasoning before stating any conclusions. To ensure your answer can be process, please conclude your " \
             "response with \"Answer: \", followed by your numerical answer, which should be in the form of an integer."
@@ -31,7 +31,7 @@ def evaluate(data_name):
     test_data = gsm8k["test"]
 
     model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
-    peft_model_name = f"finetuned_models/trained_on_{data_name}_data.pt"
+    peft_model_name = f"finetuned_models/trained_on_{data_name}_data_{lr}.pt"
 
     model = AutoModelForCausalLM.from_pretrained(model_name, load_in_8bit=True, low_cpu_mem_usage=True, device_map="auto")
     if data_name != "base":
@@ -96,6 +96,5 @@ def evaluate(data_name):
         logfile.write(line)
 
 if __name__ == "__main__":
-    evaluate("base")
-    evaluate("llama")
-    evaluate("claude")
+    evaluate("llama", 1e-6)
+    evaluate("claude", 1e-6)
