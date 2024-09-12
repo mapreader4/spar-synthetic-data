@@ -151,7 +151,7 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
                 weights = weights[:, 1:]  # Shift right for next token prediction
 
                 loss = weighted_cross_entropy_loss(
-                    logits.view(-1, logits.size(-1)), target.view(-1), weights.view(-1)
+                    logits.view(-1, logits.size(-1)), target.view(-1), weights
                 )
 
                 avg_loss += loss.item()
