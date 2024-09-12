@@ -100,8 +100,8 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     os.makedirs("finetuned_models", exist_ok=True)
     os.makedirs("logs", exist_ok=True)
-    model_path = os.path.join("finetuned_models", f"trained_on_{data_name}_data_{lr}.pt")
-    log_path = os.path.join("logs", f"trained_on_{data_name}_data_{lr}.log")
+    model_path = os.path.join("finetuned_models", f"trained_on_{data_name}_data_{lr}_modloss.pt")
+    log_path = os.path.join("logs", f"trained_on_{data_name}_data_{lr}_modloss.log")
 
     if os.path.exists(model_path):
         print(f"Model {model_path} already finetuned, skipping")

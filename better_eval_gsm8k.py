@@ -31,7 +31,7 @@ def evaluate(data_name, lr):
     test_data = gsm8k["test"]
 
     model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
-    peft_model_name = f"finetuned_models/trained_on_{data_name}_data_{lr}.pt"
+    peft_model_name = f"finetuned_models/trained_on_{data_name}_data_{lr}_modloss.pt"
 
     model = AutoModelForCausalLM.from_pretrained(model_name, load_in_8bit=True, low_cpu_mem_usage=True, device_map="auto")
     if data_name != "base":
@@ -89,7 +89,7 @@ def evaluate(data_name, lr):
     valid_pairs = [(m, c) for m, c in zip(model_answers, correct_answers) if m is not None and c is not None]
     correct = sum(m == c for m, c in valid_pairs)
 
-    line = f"{data_name}_{lr}: Accurate: {correct} | Correctly Formatted: {model_conversions} | Total: {total_questions}\n"
+    line = f"{data_name}_{lr}_modloss: Accurate: {correct} | Correctly Formatted: {model_conversions} | Total: {total_questions}\n"
     print(line)
     log_path = os.path.join("logs", f"eval.log")
     with open(log_path, "a+") as logfile:
