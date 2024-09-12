@@ -130,7 +130,7 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
     def weighted_cross_entropy_loss(logits, target, weights, ignore_index=tokenizer.pad_token_id):
         loss_fn = torch.nn.CrossEntropyLoss(ignore_index=ignore_index, reduction="none")
         total_loss = (loss_fn(logits, target) * weights).sum()
-        n_valid_tokens = weights.sum().item() - (target != ignore_index).sum().item()
+        n_valid_tokens = weights.sum()
         return total_loss / n_valid_tokens
     
     try:

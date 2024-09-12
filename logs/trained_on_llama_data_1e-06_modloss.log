@@ -1,0 +1,212 @@
+Error finetuning with llama data: weight tensor should be defined either for all 128256 classes or no classes but got weight tensor of shape: [240]
+Memory: |===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  10850 MiB |  10968 MiB |  42509 MiB |  31659 MiB |
+|       from large pool |  10633 MiB |  10751 MiB |  41493 MiB |  30859 MiB |
+|       from small pool |    216 MiB |    218 MiB |   1016 MiB |    800 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |  10850 MiB |  10968 MiB |  42509 MiB |  31659 MiB |
+|       from large pool |  10633 MiB |  10751 MiB |  41493 MiB |  30859 MiB |
+|       from small pool |    216 MiB |    218 MiB |   1016 MiB |    800 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |  10793 MiB |  10911 MiB |  42352 MiB |  31558 MiB |
+|       from large pool |  10577 MiB |  10695 MiB |  41337 MiB |  30759 MiB |
+|       from small pool |    216 MiB |    218 MiB |   1015 MiB |    799 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  11184 MiB |  11184 MiB |  17954 MiB |   6770 MiB |
+|       from large pool |  10964 MiB |  10964 MiB |  17732 MiB |   6768 MiB |
+|       from small pool |    220 MiB |    220 MiB |    222 MiB |      2 MiB |
+|---------------------------------------------------------------------------|
+| Non-releasable memory | 100064 KiB | 150578 KiB |   8554 MiB |   8456 MiB |
+|       from large pool |  98398 KiB | 149724 KiB |   7510 MiB |   7414 MiB |
+|       from small pool |   1666 KiB |   5326 KiB |   1043 MiB |   1042 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |    2226    |    2239    |    9902    |    7676    |
+|       from large pool |     708    |     715    |    2456    |    1748    |
+|       from small pool |    1518    |    1525    |    7446    |    5928    |
+|---------------------------------------------------------------------------|
+| Active allocs         |    2226    |    2239    |    9902    |    7676    |
+|       from large pool |     708    |     715    |    2456    |    1748    |
+|       from small pool |    1518    |    1525    |    7446    |    5928    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     329    |     329    |     439    |     110    |
+|       from large pool |     219    |     219    |     328    |     109    |
+|       from small pool |     110    |     110    |     111    |       1    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      66    |      73    |    4653    |    4587    |
+|       from large pool |      48    |      49    |     910    |     862    |
+|       from small pool |      18    |      28    |    3743    |    3725    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Error finetuning with llama data: weight tensor should be defined either for all 128256 classes or no classes but got weight tensor of shape: [1, 277]
+Memory: |===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  11268 MiB |  11404 MiB |  43959 MiB |  32691 MiB |
+|       from large pool |  11228 MiB |  11364 MiB |  43600 MiB |  32372 MiB |
+|       from small pool |     39 MiB |     41 MiB |    358 MiB |    319 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |  11268 MiB |  11404 MiB |  43959 MiB |  32691 MiB |
+|       from large pool |  11228 MiB |  11364 MiB |  43600 MiB |  32372 MiB |
+|       from small pool |     39 MiB |     41 MiB |    358 MiB |    319 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |  11115 MiB |  11250 MiB |  43420 MiB |  32305 MiB |
+|       from large pool |  11076 MiB |  11211 MiB |  43063 MiB |  31987 MiB |
+|       from small pool |     39 MiB |     41 MiB |    357 MiB |    317 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  11576 MiB |  11576 MiB |  18346 MiB |   6770 MiB |
+|       from large pool |  11532 MiB |  11532 MiB |  18300 MiB |   6768 MiB |
+|       from small pool |     44 MiB |     44 MiB |     46 MiB |      2 MiB |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |  42727 KiB |  66228 KiB |  11251 MiB |  11209 MiB |
+|       from large pool |  42266 KiB |  65240 KiB |  10805 MiB |  10763 MiB |
+|       from small pool |    461 KiB |   4087 KiB |    446 MiB |    445 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |    2226    |    2239    |    9903    |    7677    |
+|       from large pool |     897    |     904    |    3192    |    2295    |
+|       from small pool |    1329    |    1336    |    6711    |    5382    |
+|---------------------------------------------------------------------------|
+| Active allocs         |    2226    |    2239    |    9903    |    7677    |
+|       from large pool |     897    |     904    |    3192    |    2295    |
+|       from small pool |    1329    |    1336    |    6711    |    5382    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     267    |     267    |     377    |     110    |
+|       from large pool |     245    |     245    |     354    |     109    |
+|       from small pool |      22    |      22    |      23    |       1    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      39    |      45    |    4820    |    4781    |
+|       from large pool |       6    |       8    |    1391    |    1385    |
+|       from small pool |      33    |      41    |    3429    |    3396    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Error finetuning with llama data: weight tensor should be defined either for all 128256 classes or no classes but got weight tensor of shape: [1, 226]
+Memory: |===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  10732 MiB |  10843 MiB |  42103 MiB |  31371 MiB |
+|       from large pool |  10526 MiB |  10636 MiB |  41142 MiB |  30615 MiB |
+|       from small pool |    206 MiB |    207 MiB |    961 MiB |    755 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |  10732 MiB |  10843 MiB |  42103 MiB |  31371 MiB |
+|       from large pool |  10526 MiB |  10636 MiB |  41142 MiB |  30615 MiB |
+|       from small pool |    206 MiB |    207 MiB |    961 MiB |    755 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |  10671 MiB |  10782 MiB |  41944 MiB |  31272 MiB |
+|       from large pool |  10465 MiB |  10576 MiB |  40983 MiB |  30518 MiB |
+|       from small pool |    206 MiB |    206 MiB |    960 MiB |    754 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  10984 MiB |  10984 MiB |  17754 MiB |   6770 MiB |
+|       from large pool |  10772 MiB |  10772 MiB |  17540 MiB |   6768 MiB |
+|       from small pool |    212 MiB |    212 MiB |    214 MiB |      2 MiB |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |  83409 KiB | 116300 KiB |   8293 MiB |   8211 MiB |
+|       from large pool |  79500 KiB | 111280 KiB |   7285 MiB |   7207 MiB |
+|       from small pool |   3909 KiB |   7634 KiB |   1007 MiB |   1003 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |    2226    |    2239    |    9901    |    7675    |
+|       from large pool |     707    |     714    |    2455    |    1748    |
+|       from small pool |    1519    |    1526    |    7446    |    5927    |
+|---------------------------------------------------------------------------|
+| Active allocs         |    2226    |    2239    |    9901    |    7675    |
+|       from large pool |     707    |     714    |    2455    |    1748    |
+|       from small pool |    1519    |    1526    |    7446    |    5927    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     318    |     318    |     428    |     110    |
+|       from large pool |     212    |     212    |     321    |     109    |
+|       from small pool |     106    |     106    |     107    |       1    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      65    |      74    |    4797    |    4732    |
+|       from large pool |      36    |      37    |     907    |     871    |
+|       from small pool |      29    |      46    |    3890    |    3861    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Error finetuning with llama data: a Tensor with 279 elements cannot be converted to Scalar
+Memory: |===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  11405 MiB |  11405 MiB |  43942 MiB |  32536 MiB |
+|       from large pool |  11366 MiB |  11366 MiB |  43582 MiB |  32215 MiB |
+|       from small pool |     39 MiB |     41 MiB |    360 MiB |    321 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |  11405 MiB |  11405 MiB |  43942 MiB |  32536 MiB |
+|       from large pool |  11366 MiB |  11366 MiB |  43582 MiB |  32215 MiB |
+|       from small pool |     39 MiB |     41 MiB |    360 MiB |    321 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |  11269 MiB |  11269 MiB |  43477 MiB |  32208 MiB |
+|       from large pool |  11229 MiB |  11229 MiB |  43118 MiB |  31888 MiB |
+|       from small pool |     39 MiB |     41 MiB |    359 MiB |    319 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  11578 MiB |  11578 MiB |  18348 MiB |   6770 MiB |
+|       from large pool |  11534 MiB |  11534 MiB |  18302 MiB |   6768 MiB |
+|       from small pool |     44 MiB |     44 MiB |     46 MiB |      2 MiB |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |  43060 KiB |  66028 KiB |  11215 MiB |  11173 MiB |
+|       from large pool |  42685 KiB |  65120 KiB |  10772 MiB |  10730 MiB |
+|       from small pool |    375 KiB |   4014 KiB |    443 MiB |    442 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |    2229    |    2239    |    9909    |    7680    |
+|       from large pool |     898    |     904    |    3192    |    2294    |
+|       from small pool |    1331    |    1336    |    6717    |    5386    |
+|---------------------------------------------------------------------------|
+| Active allocs         |    2229    |    2239    |    9909    |    7680    |
+|       from large pool |     898    |     904    |    3192    |    2294    |
+|       from small pool |    1331    |    1336    |    6717    |    5386    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     267    |     267    |     377    |     110    |
+|       from large pool |     245    |     245    |     354    |     109    |
+|       from small pool |      22    |      22    |      23    |       1    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      35    |      48    |    4943    |    4908    |
+|       from large pool |       7    |       8    |    1421    |    1414    |
+|       from small pool |      28    |      45    |    3522    |    3494    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Epoch 1/1 | Batch 0/1767 | Avg Loss: -0.16351746022701263
+Epoch 1/1 | Batch 17/1767 | Avg Loss: -0.4633786152390873
+Epoch 1/1 | Batch 34/1767 | Avg Loss: -0.45852111718233896
+Epoch 1/1 | Batch 51/1767 | Avg Loss: -0.48527966220589247
+Epoch 1/1 | Batch 68/1767 | Avg Loss: -0.4263153181356542
+Epoch 1/1 | Batch 85/1767 | Avg Loss: -0.6000427386778242
+Epoch 1/1 | Batch 102/1767 | Avg Loss: -0.5776453254853978
+Epoch 1/1 | Batch 119/1767 | Avg Loss: -0.4614439378766453
+Epoch 1/1 | Batch 0/1767 | Avg Loss: 64.87052917480469
+Epoch 1/1 | Batch 17/1767 | Avg Loss: 72.15194488974178
+Epoch 1/1 | Batch 34/1767 | Avg Loss: 60.595246707691864
+Epoch 1/1 | Batch 51/1767 | Avg Loss: 61.851625218110925
+Epoch 1/1 | Batch 68/1767 | Avg Loss: 66.62267999088063
+Epoch 1/1 | Batch 85/1767 | Avg Loss: 54.1378381392535
+Epoch 1/1 | Batch 102/1767 | Avg Loss: 46.91342494067024
+Epoch 1/1 | Batch 119/1767 | Avg Loss: 48.173984808080334
