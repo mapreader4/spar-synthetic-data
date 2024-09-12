@@ -19,10 +19,10 @@ def plot_loss(batches, losses, title, filename):
     plt.close()
 
 def loss_to_graph(lr):
-    with open('logs/trained_on_llama_data.log', 'r') as file:
+    with open(f'logs/trained_on_llama_data_{lr}.log', 'r') as file:
         llama_log_content = file.read()
 
-    with open('logs/trained_on_claude_data.log', 'r') as file:
+    with open(f'logs/trained_on_claude_data_{lr}.log', 'r') as file:
         claude_log_content = file.read()
 
     llama_batches, llama_losses = parse_log(llama_log_content)
