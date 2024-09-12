@@ -128,10 +128,8 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
     dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
 
     def weighted_cross_entropy_loss(logits, target, weights, ignore_index=tokenizer.pad_token_id):
-        loss_fn = torch.nn.CrossEntropyLoss(
-            weight=weights, ignore_index=ignore_index, reduction="sum"
-        )
-        total_loss = loss_fn(logits, target)
+        loss_fn = torch.nn.CrossEntropyLoss(ignore_index=ignore_index, reduction="none")
+        total_loss = (loss_fn(logits, target) * weights)
         n_valid_tokens = weights.sum().item() - (target != ignore_index).sum().item()
         return total_loss / n_valid_tokens
     
@@ -151,7 +149,7 @@ def finetune(data_name, n_epochs=1, lr=1e-5):
                 weights = weights[:, 1:]  # Shift right for next token prediction
 
                 loss = weighted_cross_entropy_loss(
-                    logits.view(-1, logits.size(-1)), target.view(-1), weights
+                    logits.view(-1, logits.size(-1)), target.view(-1), weights.view(-1)
                 )
 
                 avg_loss += loss.item()
